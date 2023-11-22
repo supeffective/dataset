@@ -1,3 +1,4 @@
+import fs from 'node:fs'
 import { cors as corsPlugin } from '@elysiajs/cors'
 import { staticPlugin } from '@elysiajs/static/dist'
 import { Elysia } from 'elysia'
@@ -29,9 +30,14 @@ const serverWithMediaAssets = assetsPath
     )
   : server
 
+const htmlFile = `${distDataPath}/index.html`
+if (!fs.existsSync(htmlFile)) {
+  throw new Error(`File ${htmlFile} not found`)
+}
+
 serverWithMediaAssets
   .get('/', () => {
-    return 'Static Dev Server is Running'
+    return fs.readFileSync(htmlFile, 'utf8')
   })
   .listen(port, () => {
     console.log(`⚡️[static-dev-server]: Server is running at http://localhost:${port}`)
