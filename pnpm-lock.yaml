@@ -25,9 +25,6 @@ devDependencies:
   '@elysiajs/static':
     specifier: ^0.7.1
     version: 0.7.1(elysia@0.7.29)
-  '@itsjavi/semver-release':
-    specifier: ^0.7.2
-    version: 0.7.2
   '@pkmn/dex':
     specifier: ^0.7.58
     version: 0.7.58
@@ -567,17 +564,6 @@ packages:
       strip-ansi-cjs: /strip-ansi@6.0.1
       wrap-ansi: 8.1.0
       wrap-ansi-cjs: /wrap-ansi@7.0.0
-    dev: true
-
-  /@itsjavi/semver-release@0.7.2:
-    resolution: {integrity: sha512-QNOieeIFoZT96yKhrQtnV80O7RsCclP6lFwHMI0Sf8BrFEK2D4TuIAaj+nIYGRQpal2CQjAXOLkB+pMIDNO18Q==}
-    hasBin: true
-    dependencies:
-      changelogen: 0.5.5
-      commander: 11.1.0
-      semver: 7.5.4
-    transitivePeerDependencies:
-      - supports-color
     dev: true
 
   /@jest/expect-utils@29.7.0:

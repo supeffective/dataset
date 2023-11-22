@@ -54,10 +54,9 @@
     "test:ci": "bun test --coverage --bail=5 --ci",
     "test:coverage": "bun test --coverage",
     "typelint": "tsc --noEmit --skipLibCheck",
-    "version:bump": "semver-release version:bump",
-    "version:publish": "semver-release version:release --tags --npm --filter '@supeffective/*'",
-    "version:publish-notes": "semver-release version:release --github",
-    "version:release": "pnpm version:publish"
+    "version:bump": "pnpm exec changelogen --bump --release --push --${1:-patch}",
+    "version:publish": "pnpm version:release",
+    "version:release": "npm publish --access=public"
   },
   "lint-staged": {
     "*.{js,cjs,mjs,jsx,ts,cts,mts,tsx}": [
@@ -76,7 +75,6 @@
     "@commitlint/config-conventional": "^18.4.3",
     "@elysiajs/cors": "^0.7.2",
     "@elysiajs/static": "^0.7.1",
-    "@itsjavi/semver-release": "^0.7.2",
     "@pkmn/dex": "^0.7.58",
     "@pkmn/dex-types": "^0.7.58",
     "@types/jest": "^29.5.9",
