@@ -40,7 +40,7 @@ pnpm lint-fix
 pnpm typelint
 
 # Run all quality checks (linter, formatter, build, test, typelint, etc.)
-pnpm quality-checks
+pnpm qa
 
 ```
 

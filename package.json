@@ -42,21 +42,22 @@
     "format": "pnpm lint-fix && pnpm format:package-json && pnpm data:format",
     "format:package-json": "sort-package-json",
     "hooks:pre-commit": "pnpm lint-staged",
-    "hooks:pre-push": "pnpm quality-checks",
+    "hooks:pre-push": "pnpm qa:nobuild",
     "postinstall": "pnpm format:package-json",
     "lint": "biome lint --max-diagnostics=100 .",
     "lint-fix": "biome check --max-diagnostics=100 --apply . && pnpm format:package-json",
     "prepare": "husky install",
     "pretty": "pnpm format",
     "publint": "publint",
-    "quality-checks": "pnpm build && pnpm lint && pnpm typelint && pnpm publint && pnpm test:ci",
+    "qa": "pnpm build && pnpm lint && pnpm typelint && pnpm publint && pnpm test:ci",
+    "qa:nobuild": "pnpm lint && pnpm typelint && pnpm publint && pnpm test:ci",
     "test": "bun test",
     "test:ci": "bun test --coverage --bail=5 --ci",
     "test:coverage": "bun test --coverage",
     "typelint": "tsc --noEmit --skipLibCheck",
     "version:bump": "pnpm exec changelogen --bump --release --push --${1:-patch}",
     "version:publish": "pnpm version:release",
-    "version:release": "npm publish --access=public"
+    "version:release": "pnpm build && pnpm qa:nobuild && npm publish --access=public"
   },
   "lint-staged": {
     "*.{js,cjs,mjs,jsx,ts,cts,mts,tsx}": [
