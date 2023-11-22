@@ -43,7 +43,7 @@ const htmlTemplate = `
       }
 
       .container {
-        max-width: 800px;
+        max-width: 860px;
         margin: 0 auto;
       }
 
@@ -71,7 +71,18 @@ const htmlTemplate = `
       }
 
       .big-list {
-        column-count: 4;
+        display: grid;
+        grid-template-columns: repeat(4, 1fr);
+      }
+
+      .big-list > li {
+        margin-right: 1.3rem;
+      }
+
+      @media (max-width: 600px) {
+        .big-list {
+          grid-template-columns: repeat(2, 1fr);
+        }
       }
     </style>
   </head>
@@ -124,13 +135,14 @@ function generateIndexHtml() {
   const children = Object.entries(tree)
     .map(([dir, files]) => {
       const children = files
+        .sort()
         .map((file) => {
           const url = path.join(dir, file).replace(/\\/g, '/')
           return `<li><a href="${url}">${file.replace(/(\.min\.json|\.json)$/gi, '')}</a></li>`
         })
         .join('\n')
 
-      const ulClass = files.length >= 9 ? 'big-list' : ''
+      const ulClass = files.length >= 8 ? 'big-list' : ''
 
       return `<li>${dir ? `<strong>/${dir}</strong>` : ''}<ul class=${ulClass}>${children}</ul></li>`
     })
