@@ -7,6 +7,7 @@ const htmlTemplate = `
 <html lang="en">
   <head>
     <meta charset="utf-8" />
+    <meta name="robots" content="noindex">
     <title>SuperEffective Dataset CDN</title>
     <style>
       html, body {
