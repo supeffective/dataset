@@ -28,6 +28,11 @@ const htmlTemplate = `
         font-size: 2rem;
       }
 
+      h2 {
+        margin: 1.5rem 0 1rem 0;
+        font-size: 1.2rem;
+      }
+
       a {
         color: #0366d6;
         text-decoration: none;
@@ -60,6 +65,11 @@ const htmlTemplate = `
         margin-bottom: 0.5rem;
       }
 
+      .dirtree > li > strong {
+        font-weight: bold;
+        color: #626262;
+      }
+
       .big-list {
         column-count: 4;
       }
@@ -68,6 +78,12 @@ const htmlTemplate = `
   <body>
   <div class="container">
     <h1>SuperEffective Dataset CDN</h1>
+    <p>The source code can be found at 
+    <a href="https://github.com/supeffective/dataset">
+      github.com/supeffective/dataset
+    </a>
+    </p>
+    <h2>JSON Files:</h2>
     <ul class="dirtree">
       <li><strong>/</strong><li>
       {{children}}
