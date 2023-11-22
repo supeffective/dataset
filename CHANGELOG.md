@@ -1,4 +1,16 @@
 
+## v0.8.3
+
+[compare changes](https://github.com/supeffective/dataset/compare/v0.8.2...v0.8.3)
+
+### 🏡 Chore
+
+- Update versioning & QA scripts ([faffd59](https://github.com/supeffective/dataset/commit/faffd59))
+
+### ❤️ Contributors
+
+- Javi Aguilar
+
 ## v0.8.2
 
 
