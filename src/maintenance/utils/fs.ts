@@ -4,6 +4,7 @@ import { createInterface } from 'node:readline'
 import type { BaseEntity } from '../../schemas'
 
 const DATA_PATH = path.resolve(path.join(__dirname, '..', '..', '..', 'data'))
+const DATA_DIST_PATH = path.resolve(path.join(__dirname, '..', '..', '..', 'dist', 'data'))
 
 export type DataOverrideDefinition<T extends { id: string } = { id: string }> = {
   exclude: string[]
@@ -13,6 +14,10 @@ export type DataOverrideDefinition<T extends { id: string } = { id: string }> = 
 
 export function getDataPath(basename?: string): string {
   return basename ? path.join(DATA_PATH, basename) : DATA_PATH
+}
+
+export function getDataDistPath(basename?: string): string {
+  return basename ? path.join(DATA_DIST_PATH, basename) : DATA_DIST_PATH
 }
 
 export function getSafeDataPath(filename: string, basePath?: string): string | null {
@@ -61,6 +66,7 @@ export function createFileWriter(filename: string): fs.WriteStream {
   return fileStream
 }
 
+// biome-ignore lint/suspicious/noExplicitAny: same return type as JSON.parse
 export function readFileAsJson<T = any>(filename: string): T {
   const data = readFile(filename)
 
@@ -73,6 +79,7 @@ export function writeFile(filename: string, data: string): void {
   fs.writeFileSync(filename, data)
 }
 
+// biome-ignore lint/suspicious/noExplicitAny: same type as JSON.stringify argument
 export function writeFileAsJson(filename: string, data: any): void {
   writeFile(filename, `${JSON.stringify(data, null, 2)}\n`)
 }

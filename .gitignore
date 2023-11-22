@@ -2,6 +2,7 @@ data/pokemon.json
 data/pokedexes.json
 data/boxpresets.json
 data/legacy-*.json
+data/*.html
 !data/legacy-game*.json
 
 # Logs

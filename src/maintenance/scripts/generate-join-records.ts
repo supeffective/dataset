@@ -52,9 +52,10 @@ function joinIndexFile(filename: string, subdirProp?: string): void {
   let jsonlDoc = '[\n'
 
   for (const baseRecord of records) {
+    const baseRecordCasted = baseRecord as Record<string, string>
     const destRecordFile =
-      subdirProp && (baseRecord as any)[subdirProp]
-        ? getDataPath(`${baseFileName}/${(baseRecord as any)[subdirProp]}/${baseRecord.id}.json`)
+      subdirProp && baseRecordCasted[subdirProp]
+        ? getDataPath(`${baseFileName}/${baseRecordCasted[subdirProp]}/${baseRecord.id}.json`)
         : getDataPath(`${baseFileName}/${baseRecord.id}.json`)
 
     if (!existsSync(destRecordFile)) {

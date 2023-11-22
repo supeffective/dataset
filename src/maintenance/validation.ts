@@ -7,6 +7,7 @@ type ValidationResult = {
   errorsSummary: string[]
 }
 
+// biome-ignore lint/suspicious/noExplicitAny: <explanation>
 export function validate(schema: ZodType, data: any, maxErrors = 5): ValidationResult {
   const _validateSchema = () => {
     const errors: string[] = []

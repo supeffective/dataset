@@ -4,7 +4,7 @@ import { getDataPath, writeFile, writeFileAsJson } from '../utils/fs'
 
 function updateLegacyBoxPresets(data: BoxPreset[]): void {
   const dataFile = getDataPath('legacy-boxpresets.json')
-  const result: Record<string, Record<string, any>> = {}
+  const result: Record<string, Record<string, Partial<BoxPreset>>> = {}
 
   for (const preset of data) {
     const newPreset = {

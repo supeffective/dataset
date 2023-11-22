@@ -15,11 +15,11 @@ export const importShowdownAbilities = function (): void {
       return Number(a.num) - Number(b.num)
     })
 
-  rawRowsSorted.forEach((row) => {
+  for (const row of rawRowsSorted) {
     const num: number | undefined = row.num
 
-    if (num === undefined || isNaN(num) || num <= 0) {
-      return
+    if (num === undefined || Number.isNaN(num) || num <= 0) {
+      continue
     }
 
     const record: Ability = {
@@ -34,7 +34,7 @@ export const importShowdownAbilities = function (): void {
     abilitySchema.parse(record)
 
     transformedRows.push(record)
-  })
+  }
 
   writeEntitiesFileAsJson(outFile, transformedRows)
 }

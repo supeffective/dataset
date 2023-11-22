@@ -2,7 +2,7 @@ import { existsSync } from 'node:fs'
 import type { BaseEntity } from '../../schemas'
 import { getDataPath, readFileAsJson } from './fs'
 
-export function softMerge<T extends object = any>(left: T, ...right: Array<T | Partial<T>>): T {
+export function softMerge<T extends object = Record<string, string>>(left: T, ...right: Array<T | Partial<T>>): T {
   return Object.assign({}, left, ...right)
 }
 
@@ -22,9 +22,10 @@ export function mergeEntityIndex<E extends BaseEntity>(filename: string, subdirP
   }
 
   for (const baseRecord of records) {
+    const baseRecordCasted = baseRecord as Record<string, string>
     const srcRecordFile =
-      subdirProp && (baseRecord as any)[subdirProp]
-        ? getDataPath(`${baseFileName}/${(baseRecord as any)[subdirProp]}/${baseRecord.id}.json`)
+      subdirProp && baseRecordCasted[subdirProp]
+        ? getDataPath(`${baseFileName}/${baseRecordCasted[subdirProp]}/${baseRecord.id}.json`)
         : getDataPath(`${baseFileName}/${baseRecord.id}.json`)
 
     if (!existsSync(srcRecordFile)) {

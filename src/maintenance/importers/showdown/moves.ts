@@ -15,12 +15,12 @@ export const importShowdownMoves = function (): void {
       return Number(a.num) - Number(b.num)
     })
 
-  rawRowsSorted.forEach((row) => {
+  for (const row of rawRowsSorted) {
     const num: number | undefined = row.num
     let gen = 1
 
-    if (num === undefined || isNaN(num) || num <= 0) {
-      return
+    if (num === undefined || Number.isNaN(num) || num <= 0) {
+      continue
     }
 
     if (num >= 166 && num <= 252) {
@@ -56,7 +56,7 @@ export const importShowdownMoves = function (): void {
       power: row.basePower || 0,
       accuracy: row.accuracy === true ? 101 : row.accuracy || 0,
       pp: row.pp || 0,
-      category: (row.category || '-').toLowerCase() as any,
+      category: (row.category || '-').toLowerCase() as Move['category'],
       priority: row.priority || 0,
       isZ: !!row.isZ,
       isGmax: !!row.isMax,
@@ -65,7 +65,7 @@ export const importShowdownMoves = function (): void {
     moveSchema.parse(record)
 
     transformedRows.push(record)
-  })
+  }
 
   writeEntitiesFileAsJson(outFile, transformedRows)
 }

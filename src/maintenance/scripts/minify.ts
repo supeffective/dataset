@@ -21,9 +21,8 @@ if (!inputDirArg || !outputDirArg) {
   }
 
   const files = globSync(path.join(inputDir, '**', '*.json'))
-  // const files = globSync(path.join(inputDir, '*.json'))
 
-  files.forEach((file) => {
+  for (const file of files) {
     if (file.endsWith('.min.json')) {
       return
     }
@@ -33,5 +32,5 @@ if (!inputDirArg || !outputDirArg) {
     const minifiedData = minify(data)
     fs.mkdirSync(path.dirname(outputPath), { recursive: true })
     fs.writeFileSync(outputPath, minifiedData)
-  })
+  }
 })(path.resolve(inputDirArg), outputDirArg)

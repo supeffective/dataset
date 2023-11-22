@@ -6,10 +6,10 @@ module.exports = {
   rules: {
     'body-max-line-length': [1, 'always', 100],
     'type-empty': [1, 'never'],
-    'type-enum': [2, 'always', ['chore', 'ci', 'docs', 'feat', 'fix', 'refactor', 'style', 'test', 'data']],
+    'type-enum': [2, 'always', ['chore', 'ci', 'docs', 'feat', 'fix', 'refactor', 'style', 'cs', 'test', 'data']],
     // 'scope-empty': [2, 'never'],
     'scope-enum': [
-      2,
+      1,
       'always',
       [
         'build',

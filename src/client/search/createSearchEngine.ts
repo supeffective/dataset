@@ -48,13 +48,13 @@ function applyFilter<R extends Entity>(entity: R, filter: SearchFilter<R>): bool
         throw new Error(`Invalid value for operator 'in': ${value}`)
       }
 
-      return (value as Array<any>).includes(fieldValue)
+      return (value as Array<R[keyof R]>).includes(fieldValue)
     case 'notin':
       if (!Array.isArray(value)) {
         throw new Error(`Invalid value for operator 'notin': ${value}`)
       }
 
-      return !(value as Array<any>).includes(fieldValue)
+      return !(value as Array<R[keyof R]>).includes(fieldValue)
     case 'ends':
       return typeof fieldValue === 'string' && strFieldVal.endsWith(strVal)
     case 'starts':
@@ -81,7 +81,7 @@ function applyQuery<R extends Entity>(entities: R[], query: SearchQuery<R>): R[]
   })
 }
 
-export const defaultSearchIndexHydrator: SearchEngineIndexHydrator<any> = async (entities, searchIndex) => {
+export const defaultSearchIndexHydrator: SearchEngineIndexHydrator<Entity> = async (entities, searchIndex) => {
   await searchIndex.index(entities, [
     ['id', (ent) => ent.id],
     ['name', (ent) => ent.name],
