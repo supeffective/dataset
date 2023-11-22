@@ -72,7 +72,7 @@ jobs:
     name: Deploy to Vercel
     runs-on: ubuntu-latest
     env:
-      VERCEL_MAIN_SITE_DEPLOY_URL: ${{ secrets.VERCEL_MAIN_SITE_DEPLOY_URL }}
+      VERCEL_DEPLOY_URL_WEB2022: ${{ secrets.VERCEL_DEPLOY_URL_WEB2022 }}
     needs: deploy
     steps:
       - name: Call deployment webhooks
@@ -81,7 +81,7 @@ jobs:
             echo " >> One or more files have changed, triggering a deployments on Vercel projects..."
             echo " >> First, giving 10s to GitHub Pages to properly distribute the updated content..."
             sleep 10
-            curl -s -X POST "${VERCEL_MAIN_SITE_DEPLOY_URL}" > /dev/null
+            curl -s -X POST "${VERCEL_DEPLOY_URL_WEB2022}" > /dev/null
             echo " >> Deployments triggered. Check the status on https://vercel.com/dashboard"
             exit 0
           fi
