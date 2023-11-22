@@ -1,0 +1,78 @@
+{
+  "id": "naganadel",
+  "nid": "0804",
+  "dexNum": 804,
+  "formId": null,
+  "name": "Naganadel",
+  "psName": "Naganadel",
+  "formName": null,
+  "region": "alola",
+  "generation": 7,
+  "type1": "poison",
+  "type2": "dragon",
+  "color": "purple",
+  "abilities": {
+    "primary": "beastboost",
+    "secondary": null,
+    "hidden": null
+  },
+  "isDefault": true,
+  "isForm": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": true,
+  "ultraBeastCode": "UB Stinger",
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": false,
+  "isSwitchableForm": false,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": true,
+  "canBeAlpha": false,
+  "debutIn": "usum",
+  "obtainableIn": [
+    "usum",
+    "swsh"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [
+    "usum",
+    "swsh",
+    "home"
+  ],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 73,
+    "atk": 73,
+    "def": 73,
+    "spa": 127,
+    "spd": 73,
+    "spe": 121
+  },
+  "weight": 15000,
+  "height": 360,
+  "baseSpecies": null,
+  "baseForms": [],
+  "forms": [],
+  "evolvesFrom": {
+    "pokemon": "poipole",
+    "move": "dragonpulse",
+    "type": "levelmove"
+  },
+  "refs": {
+    "smogon": "naganadel",
+    "showdown": "naganadel",
+    "serebii": "naganadel",
+    "bulbapedia": "Naganadel"
+  }
+}

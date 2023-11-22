@@ -1,0 +1,61 @@
+{
+  "cssvar.files": [
+    // "./node_modules/open-props/open-props.min.css",
+    // if you have an alternative path to where your styles are located
+    // you can add it in this array of files
+    // "assets/styles/variables.css"
+  ],
+  // Do not ignore node_modules css files, which is ignored by default
+  "cssvar.ignore": [],
+  // add support for autocomplete in JS or JS like files
+  "cssvar.extensions": [
+    "scss",
+    "css",
+    "postcss",
+    "jsx",
+    "tsx"
+  ],
+  "editor.codeActionsOnSave": {
+    "source.addMissingImports": true,
+    "source.organizeImports": true,
+    "source.organizeImports.biome": true,
+    "quickfix.biome": true
+  },
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[jsonc]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  },
+  "[jsonl]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "vscode.html-language-features"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "biomejs.biome"
+  },
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "biomejs.biome"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "biomejs.biome"
+  },
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "biomejs.biome"
+  },
+  "[css]": {
+    "editor.defaultFormatter": "vscode.css-language-features"
+  },
+  "[scss]": {
+    "editor.defaultFormatter": "vscode.css-language-features"
+  },
+  "[sass]": {
+    "editor.defaultFormatter": "vscode.css-language-features"
+  },
+  "editor.formatOnSave": true,
+  "json.format.enable": false,
+  "typescript.format.enable": false,
+  "javascript.format.enable": false
+}

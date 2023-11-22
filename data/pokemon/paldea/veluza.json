@@ -1,0 +1,72 @@
+{
+  "id": "veluza",
+  "nid": "0976",
+  "dexNum": 976,
+  "formId": null,
+  "name": "Veluza",
+  "psName": "Veluza",
+  "formName": null,
+  "region": "paldea",
+  "generation": 9,
+  "type1": "water",
+  "type2": "psychic",
+  "color": "gray",
+  "abilities": {
+    "primary": "moldbreaker",
+    "secondary": null,
+    "hidden": "sharpness"
+  },
+  "isDefault": true,
+  "isForm": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": false,
+  "isSwitchableForm": false,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": false,
+  "canBeAlpha": false,
+  "debutIn": "sv",
+  "obtainableIn": [
+    "sv"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [
+    "home",
+    "sv"
+  ],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 90,
+    "atk": 102,
+    "def": 73,
+    "spa": 78,
+    "spd": 65,
+    "spe": 70
+  },
+  "weight": 9000,
+  "height": 250,
+  "baseSpecies": null,
+  "baseForms": [],
+  "forms": [],
+  "evolvesFrom": null,
+  "refs": {
+    "smogon": "veluza",
+    "showdown": "veluza",
+    "serebii": "veluza",
+    "bulbapedia": "Veluza"
+  }
+}

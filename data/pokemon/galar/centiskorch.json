@@ -1,0 +1,77 @@
+{
+  "id": "centiskorch",
+  "nid": "0851",
+  "dexNum": 851,
+  "formId": null,
+  "name": "Centiskorch",
+  "psName": "Centiskorch",
+  "formName": null,
+  "region": "galar",
+  "generation": 8,
+  "type1": "fire",
+  "type2": "bug",
+  "color": "red",
+  "abilities": {
+    "primary": "flashfire",
+    "secondary": "whitesmoke",
+    "hidden": "flamebody"
+  },
+  "isDefault": true,
+  "isForm": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": false,
+  "isSwitchableForm": false,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": false,
+  "canGmax": true,
+  "canDynamax": true,
+  "canBeAlpha": false,
+  "debutIn": "swsh",
+  "obtainableIn": [
+    "swsh"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [
+    "swsh",
+    "home"
+  ],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 100,
+    "atk": 115,
+    "def": 65,
+    "spa": 90,
+    "spd": 90,
+    "spe": 65
+  },
+  "weight": 12000,
+  "height": 300,
+  "baseSpecies": null,
+  "baseForms": [],
+  "forms": [
+    "centiskorch-gmax"
+  ],
+  "evolvesFrom": {
+    "pokemon": "sizzlipede",
+    "level": 28
+  },
+  "refs": {
+    "smogon": "centiskorch",
+    "showdown": "centiskorch",
+    "serebii": "centiskorch",
+    "bulbapedia": "Centiskorch"
+  }
+}

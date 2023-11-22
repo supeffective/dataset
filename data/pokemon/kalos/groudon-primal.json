@@ -1,0 +1,75 @@
+{
+  "id": "groudon-primal",
+  "nid": "0383-primal",
+  "dexNum": 383,
+  "formId": "primal",
+  "name": "Groudon Primal Reversion",
+  "psName": "Groudon-Primal",
+  "formName": "Primal Reversion",
+  "region": "kalos",
+  "generation": 6,
+  "type1": "ground",
+  "type2": "fire",
+  "color": "red",
+  "abilities": {
+    "primary": "desolateland",
+    "secondary": null,
+    "hidden": null
+  },
+  "isDefault": false,
+  "isForm": true,
+  "isLegendary": true,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": true,
+  "isSwitchableForm": true,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": false,
+  "isPrimal": true,
+  "isGmax": false,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": false,
+  "canBeAlpha": false,
+  "debutIn": "oras",
+  "obtainableIn": [
+    "oras",
+    "go",
+    "usum"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [
+    "go"
+  ],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 100,
+    "atk": 180,
+    "def": 160,
+    "spa": 150,
+    "spd": 90,
+    "spe": 90
+  },
+  "weight": 99970,
+  "height": 500,
+  "baseSpecies": "groudon",
+  "baseForms": [
+    "groudon"
+  ],
+  "forms": [],
+  "evolvesFrom": null,
+  "refs": {
+    "smogon": "groudon-primal",
+    "showdown": "groudonprimal",
+    "serebii": "groudon",
+    "bulbapedia": "Groudon"
+  }
+}

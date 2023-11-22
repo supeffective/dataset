@@ -1,0 +1,81 @@
+{
+  "id": "cosmoem",
+  "nid": "0790",
+  "dexNum": 790,
+  "formId": null,
+  "name": "Cosmoem",
+  "psName": "Cosmoem",
+  "formName": null,
+  "region": "alola",
+  "generation": 7,
+  "type1": "psychic",
+  "type2": null,
+  "color": "blue",
+  "abilities": {
+    "primary": "sturdy",
+    "secondary": null,
+    "hidden": null
+  },
+  "isDefault": true,
+  "isForm": false,
+  "isLegendary": true,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": false,
+  "isSwitchableForm": false,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": true,
+  "canBeAlpha": false,
+  "debutIn": "sm",
+  "obtainableIn": [
+    "go",
+    "sm",
+    "usum",
+    "swsh"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [
+    "go",
+    "sm",
+    "usum",
+    "swsh",
+    "home"
+  ],
+  "shinyReleased": false,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 43,
+    "atk": 29,
+    "def": 131,
+    "spa": 29,
+    "spd": 131,
+    "spe": 37
+  },
+  "weight": 99990,
+  "height": 10,
+  "baseSpecies": null,
+  "baseForms": [],
+  "forms": [],
+  "evolvesFrom": {
+    "pokemon": "cosmog",
+    "level": 43
+  },
+  "refs": {
+    "smogon": "cosmoem",
+    "showdown": "cosmoem",
+    "serebii": "cosmoem",
+    "bulbapedia": "Cosmoem"
+  }
+}

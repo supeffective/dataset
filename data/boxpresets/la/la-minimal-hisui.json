@@ -1,0 +1,20 @@
+{
+  "id": "la-minimal-hisui",
+  "legacyId": "minimal-hisui",
+  "name": "Regional: Sorted by Forms (Minimal)",
+  "version": 1,
+  "gameSet": "la",
+  "description": "Pokémon Boxes are sorted by Species and Forms together, following regional Pokédex order. Cosmetic forms and HOME transfer-only Pokémon are excluded.",
+  "boxes": [
+    {"pokemon":["rowlet","dartrix","decidueye-hisui","cyndaquil","quilava","typhlosion-hisui","oshawott","dewott","samurott-hisui","bidoof","bibarel","starly","staravia","staraptor","shinx","luxio","luxray","wurmple","silcoon","beautifly","cascoon","dustox","ponyta","rapidash","eevee","vaporeon","jolteon","flareon","espeon","umbreon"]},
+    {"pokemon":["leafeon","glaceon","sylveon","zubat","golbat","crobat","drifloon","drifblim","kricketot","kricketune","buizel","floatzel","burmy","wormadam","wormadam-sandy","wormadam-trash","mothim","geodude","graveler","golem","stantler","wyrdeer","munchlax","snorlax","paras","parasect","pichu","pikachu","raichu","abra"]},
+    {"pokemon":["kadabra","alakazam","chimchar","monferno","infernape","buneary","lopunny","cherubi","cherrim","psyduck","golduck","combee","vespiquen","scyther","kleavor","scizor","heracross","mimejr","mrmime","aipom","ambipom","magikarp","gyarados","shellos","gastrodon","qwilfish-hisui","overqwil","happiny","chansey","blissey"]},
+    {"pokemon":["budew","roselia","roserade","carnivine","petilil","lilligant-hisui","tangela","tangrowth","barboach","whiscash","croagunk","toxicroak","ralts","kirlia","gardevoir","gallade","yanma","yanmega","hippopotas","hippowdon","pachirisu","stunky","skuntank","teddiursa","ursaring","ursaluna","goomy","sliggoo-hisui","goodra-hisui","onix"]},
+    {"pokemon":["steelix","rhyhorn","rhydon","rhyperior","bonsly","sudowoodo","lickitung","lickilicky","togepi","togetic","togekiss","turtwig","grotle","torterra","porygon","porygon2","porygonz","gastly","haunter","gengar","spiritomb","murkrow","honchkrow","unown","spheal","sealeo","walrein","remoraid","octillery","skorupi"]},
+    {"pokemon":["drapion","growlithe-hisui","arcanine-hisui","glameow","purugly","machop","machoke","machamp","chatot","duskull","dusclops","dusknoir","piplup","prinplup","empoleon","mantyke","mantine","basculin-white-striped","basculegion","basculegion-f","vulpix","vulpix-alola","ninetales","ninetales-alola","tentacool","tentacruel","finneon","lumineon","magby","magmar"]},
+    {"pokemon":["magmortar","magnemite","magneton","magnezone","bronzor","bronzong","elekid","electabuzz","electivire","gligar","gliscor","gible","gabite","garchomp","nosepass","probopass","voltorb-hisui","electrode-hisui","rotom","rotom-heat","rotom-wash","rotom-frost","rotom-fan","rotom-mow","chingling","chimecho","misdreavus","mismagius","cleffa","clefairy"]},
+    {"pokemon":["clefable","sneasel-hisui","sneasel","sneasler","weavile","snorunt","glalie","froslass","cranidos","rampardos","shieldon","bastiodon","swinub","piloswine","mamoswine","bergmite","avalugg-hisui","snover","abomasnow","zorua-hisui","zoroark-hisui","rufflet","braviary-hisui","riolu","lucario","uxie","mesprit","azelf","heatran","regigigas"]},
+    {"pokemon":["cresselia","tornadus","tornadus-therian","thundurus","thundurus-therian","landorus","landorus-therian","enamorus","enamorus-therian","dialga","dialga-origin","palkia","palkia-origin","giratina","giratina-origin","arceus","phione","manaphy","shaymin","shaymin-sky","darkrai"]}
+    
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "id": "castform-rainy",
+  "nid": "0351-rainy",
+  "dexNum": 351,
+  "formId": "rainy",
+  "name": "Castform Rainy Form",
+  "psName": "Castform-Rainy",
+  "formName": "Rainy Form",
+  "region": "hoenn",
+  "generation": 3,
+  "type1": "water",
+  "type2": null,
+  "color": "blue",
+  "abilities": {
+    "primary": "forecast",
+    "secondary": null,
+    "hidden": null
+  },
+  "isDefault": false,
+  "isForm": true,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": true,
+  "isSwitchableForm": true,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": true,
+  "canBeAlpha": false,
+  "debutIn": "rs",
+  "obtainableIn": [
+    "rs",
+    "e",
+    "oras",
+    "go",
+    "bdsp"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [
+    "go"
+  ],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 70,
+    "atk": 70,
+    "def": 70,
+    "spa": 70,
+    "spd": 70,
+    "spe": 70
+  },
+  "weight": 80,
+  "height": 30,
+  "baseSpecies": "castform",
+  "baseForms": [
+    "castform"
+  ],
+  "forms": [],
+  "evolvesFrom": null,
+  "refs": {
+    "smogon": "castform-rainy",
+    "showdown": "castformrainy",
+    "serebii": "castform",
+    "bulbapedia": "Castform"
+  }
+}

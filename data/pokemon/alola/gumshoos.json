@@ -1,0 +1,82 @@
+{
+  "id": "gumshoos",
+  "nid": "0735",
+  "dexNum": 735,
+  "formId": null,
+  "name": "Gumshoos",
+  "psName": "Gumshoos",
+  "formName": null,
+  "region": "alola",
+  "generation": 7,
+  "type1": "normal",
+  "type2": null,
+  "color": "brown",
+  "abilities": {
+    "primary": "stakeout",
+    "secondary": "strongjaw",
+    "hidden": "adaptability"
+  },
+  "isDefault": true,
+  "isForm": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": false,
+  "isSwitchableForm": false,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": true,
+  "canBeAlpha": false,
+  "debutIn": "sm",
+  "obtainableIn": [
+    "go",
+    "sm",
+    "usum",
+    "sv"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [
+    "go",
+    "sm",
+    "usum",
+    "home",
+    "sv"
+  ],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 88,
+    "atk": 110,
+    "def": 60,
+    "spa": 55,
+    "spd": 60,
+    "spe": 45
+  },
+  "weight": 1420,
+  "height": 70,
+  "baseSpecies": null,
+  "baseForms": [],
+  "forms": [],
+  "evolvesFrom": {
+    "pokemon": "yungoos",
+    "level": 20,
+    "condition": "during the day"
+  },
+  "refs": {
+    "smogon": "gumshoos",
+    "showdown": "gumshoos",
+    "serebii": "gumshoos",
+    "bulbapedia": "Gumshoos"
+  }
+}

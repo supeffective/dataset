@@ -1,0 +1,23 @@
+{
+  "id": "la-fully-sorted-minimal",
+  "legacyId": "fully-sorted-minimal",
+  "name": "Regional: Sorted by Forms, Minimal",
+  "version": 1,
+  "gameSet": "la",
+  "description": "Pokémon Boxes are sorted by Species and Forms together (except legendary forms), following original Legends: Arceus Pokédex order.",
+  "boxes": [
+    {"title":"Pasture 1","pokemon":["rowlet","dartrix","decidueye-hisui","cyndaquil","quilava","typhlosion-hisui","oshawott","dewott","samurott-hisui","bidoof","bidoof-f","bibarel","bibarel-f","starly","starly-f","staravia","staravia-f","staraptor","staraptor-f","shinx","shinx-f","luxio","luxio-f","luxray","luxray-f","wurmple","silcoon","beautifly","beautifly-f","cascoon"]},
+    {"title":"Pasture 2","pokemon":["dustox","dustox-f","ponyta","rapidash","eevee","eevee-f","vaporeon","jolteon","flareon","espeon","umbreon","leafeon","glaceon","sylveon","zubat","zubat-f","golbat","golbat-f","crobat","drifloon","drifblim","kricketot","kricketot-f","kricketune","kricketune-f","buizel","buizel-f","floatzel","floatzel-f","burmy"]},
+    {"title":"Pasture 3","pokemon":["burmy-sandy","burmy-trash","wormadam","wormadam-sandy","wormadam-trash","mothim","geodude","graveler","golem","stantler","wyrdeer","munchlax","snorlax","paras","parasect","pichu","pikachu","pikachu-f","raichu","raichu-f","abra","kadabra","kadabra-f","alakazam","alakazam-f","chimchar","monferno","infernape","buneary","lopunny"]},
+    {"title":"Pasture 4","pokemon":["cherubi","cherrim","psyduck","golduck","combee","combee-f","vespiquen","scyther","scyther-f","kleavor","scizor","scizor-f","heracross","heracross-f","mimejr","mrmime","aipom","aipom-f","ambipom","ambipom-f","magikarp","magikarp-f","gyarados","gyarados-f","shellos","shellos-east","gastrodon","gastrodon-east","qwilfish-hisui","overqwil"]},
+    {"title":"Pasture 5","pokemon":["happiny","chansey","blissey","budew","roselia","roselia-f","roserade","roserade-f","carnivine","petilil","lilligant-hisui","tangela","tangrowth","tangrowth-f","barboach","whiscash","croagunk","croagunk-f","toxicroak","toxicroak-f","ralts","kirlia","gardevoir","gallade","yanma","yanmega","hippopotas","hippopotas-f","hippowdon","hippowdon-f"]},
+    {"title":"Pasture 6","pokemon":["pachirisu","pachirisu-f","stunky","skuntank","teddiursa","ursaring","ursaring-f","ursaluna","goomy","sliggoo-hisui","goodra-hisui","onix","steelix","steelix-f","rhyhorn","rhyhorn-f","rhydon","rhydon-f","rhyperior","rhyperior-f","bonsly","sudowoodo","sudowoodo-f","lickitung","lickilicky","togepi","togetic","togekiss","turtwig","grotle"]},
+    {"title":"Pasture 7","pokemon":["torterra","porygon","porygon2","porygonz","gastly","haunter","gengar","spiritomb","murkrow","murkrow-f","honchkrow","unown","unown-b","unown-c","unown-d","unown-e","unown-f","unown-g","unown-h","unown-i","unown-j","unown-k","unown-l","unown-m","unown-n","unown-o","unown-p","unown-q","unown-r","unown-s"]},
+    {"title":"Pasture 8","pokemon":["unown-t","unown-u","unown-v","unown-w","unown-x","unown-y","unown-z","unown-exclamation","unown-question","spheal","sealeo","walrein","remoraid","octillery","octillery-f","skorupi","drapion","growlithe-hisui","arcanine-hisui","glameow","purugly","machop","machoke","machamp","chatot","duskull","dusclops","dusknoir","piplup","prinplup"]},
+    {"title":"Pasture 9","pokemon":["empoleon","mantyke","mantine","basculin-white-striped","basculegion","basculegion-f","vulpix","vulpix-alola","ninetales","ninetales-alola","tentacool","tentacruel","finneon","finneon-f","lumineon","lumineon-f","magby","magmar","magmortar","magnemite","magneton","magnezone","bronzor","bronzong","elekid","electabuzz","electivire","gligar","gligar-f","gliscor"]},
+    {"title":"Pasture 10","pokemon":["gible","gible-f","gabite","gabite-f","garchomp","garchomp-f","nosepass","probopass","voltorb-hisui","electrode-hisui","rotom","rotom-heat","rotom-wash","rotom-frost","rotom-fan","rotom-mow","chingling","chimecho","misdreavus","mismagius","cleffa","clefairy","clefable","sneasel-hisui","sneasel-hisui-f","sneasel","sneasel-f","sneasler","weavile","weavile-f"]},
+    {"title":"Pasture 11","pokemon":["snorunt","glalie","froslass","cranidos","rampardos","shieldon","bastiodon","swinub","piloswine","piloswine-f","mamoswine","mamoswine-f","bergmite","avalugg-hisui","snover","snover-f","abomasnow","abomasnow-f","zorua-hisui","zoroark-hisui","rufflet","braviary-hisui","riolu","lucario","uxie","mesprit","azelf","heatran","regigigas","cresselia"]},
+    {"title":"Pasture 12","pokemon":["tornadus","thundurus","landorus","enamorus","dialga","palkia","giratina","arceus","phione","manaphy","shaymin","darkrai"]}
+    
+  ]
+}

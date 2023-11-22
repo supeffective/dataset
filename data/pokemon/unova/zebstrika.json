@@ -1,0 +1,83 @@
+{
+  "id": "zebstrika",
+  "nid": "0523",
+  "dexNum": 523,
+  "formId": null,
+  "name": "Zebstrika",
+  "psName": "Zebstrika",
+  "formName": null,
+  "region": "unova",
+  "generation": 5,
+  "type1": "electric",
+  "type2": null,
+  "color": "black",
+  "abilities": {
+    "primary": "lightningrod",
+    "secondary": "motordrive",
+    "hidden": "sapsipper"
+  },
+  "isDefault": true,
+  "isForm": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": false,
+  "isSwitchableForm": false,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": true,
+  "canBeAlpha": false,
+  "debutIn": "bw",
+  "obtainableIn": [
+    "bw",
+    "b2w2",
+    "go"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [
+    "bw",
+    "b2w2",
+    "xy",
+    "oras",
+    "go",
+    "sm",
+    "usum",
+    "home"
+  ],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 75,
+    "atk": 100,
+    "def": 63,
+    "spa": 80,
+    "spd": 63,
+    "spe": 116
+  },
+  "weight": 7950,
+  "height": 160,
+  "baseSpecies": null,
+  "baseForms": [],
+  "forms": [],
+  "evolvesFrom": {
+    "pokemon": "blitzle",
+    "level": 27
+  },
+  "refs": {
+    "smogon": "zebstrika",
+    "showdown": "zebstrika",
+    "serebii": "zebstrika",
+    "bulbapedia": "Zebstrika"
+  }
+}

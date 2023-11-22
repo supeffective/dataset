@@ -1,0 +1,83 @@
+{
+  "id": "heliolisk",
+  "nid": "0695",
+  "dexNum": 695,
+  "formId": null,
+  "name": "Heliolisk",
+  "psName": "Heliolisk",
+  "formName": null,
+  "region": "kalos",
+  "generation": 6,
+  "type1": "electric",
+  "type2": "normal",
+  "color": "yellow",
+  "abilities": {
+    "primary": "dryskin",
+    "secondary": "sandveil",
+    "hidden": "solarpower"
+  },
+  "isDefault": true,
+  "isForm": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": false,
+  "isSwitchableForm": false,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": true,
+  "canBeAlpha": false,
+  "debutIn": "xy",
+  "obtainableIn": [
+    "xy",
+    "go",
+    "swsh"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [
+    "xy",
+    "oras",
+    "go",
+    "sm",
+    "usum",
+    "swsh",
+    "home"
+  ],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 62,
+    "atk": 55,
+    "def": 52,
+    "spa": 109,
+    "spd": 94,
+    "spe": 109
+  },
+  "weight": 2100,
+  "height": 100,
+  "baseSpecies": null,
+  "baseForms": [],
+  "forms": [],
+  "evolvesFrom": {
+    "pokemon": "helioptile",
+    "item": "sunstone",
+    "type": "useitem"
+  },
+  "refs": {
+    "smogon": "heliolisk",
+    "showdown": "heliolisk",
+    "serebii": "heliolisk",
+    "bulbapedia": "Heliolisk"
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "id": "frogadier",
+  "nid": "0657",
+  "dexNum": 657,
+  "formId": null,
+  "name": "Frogadier",
+  "psName": "Frogadier",
+  "formName": null,
+  "region": "kalos",
+  "generation": 6,
+  "type1": "water",
+  "type2": null,
+  "color": "blue",
+  "abilities": {
+    "primary": "torrent",
+    "secondary": null,
+    "hidden": "protean"
+  },
+  "isDefault": true,
+  "isForm": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": false,
+  "isSwitchableForm": false,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": true,
+  "canBeAlpha": false,
+  "debutIn": "xy",
+  "obtainableIn": [
+    "xy",
+    "go"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [
+    "xy",
+    "oras",
+    "go",
+    "sm",
+    "usum",
+    "home",
+    "sv"
+  ],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 54,
+    "atk": 63,
+    "def": 52,
+    "spa": 83,
+    "spd": 56,
+    "spe": 97
+  },
+  "weight": 1090,
+  "height": 60,
+  "baseSpecies": null,
+  "baseForms": [],
+  "forms": [],
+  "evolvesFrom": {
+    "pokemon": "froakie",
+    "level": 16
+  },
+  "refs": {
+    "smogon": "frogadier",
+    "showdown": "frogadier",
+    "serebii": "frogadier",
+    "bulbapedia": "Frogadier"
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "id": "floette-orange",
+  "nid": "0670-orange",
+  "dexNum": 670,
+  "formId": "orange",
+  "name": "Floette Orange Flower",
+  "psName": "Floette",
+  "formName": "Orange Flower",
+  "region": "kalos",
+  "generation": 6,
+  "type1": "fairy",
+  "type2": null,
+  "color": "white",
+  "abilities": {
+    "primary": "flowerveil",
+    "secondary": null,
+    "hidden": "symbiosis"
+  },
+  "isDefault": false,
+  "isForm": true,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": true,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": false,
+  "isSwitchableForm": false,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": true,
+  "canBeAlpha": false,
+  "debutIn": "xy",
+  "obtainableIn": [
+    "xy",
+    "go",
+    "sv"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [
+    "xy",
+    "oras",
+    "go",
+    "sm",
+    "usum",
+    "home",
+    "sv"
+  ],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 54,
+    "atk": 45,
+    "def": 47,
+    "spa": 75,
+    "spd": 98,
+    "spe": 52
+  },
+  "weight": 90,
+  "height": 20,
+  "baseSpecies": "floette",
+  "baseForms": [],
+  "forms": [],
+  "evolvesFrom": {
+    "pokemon": "flabebe",
+    "level": 19
+  },
+  "refs": {
+    "smogon": "floette-orange",
+    "showdown": "floette",
+    "serebii": "floette",
+    "bulbapedia": "Floette"
+  }
+}

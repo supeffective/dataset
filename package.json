@@ -1,0 +1,101 @@
+{
+  "name": "@supeffective/dataset",
+  "version": "0.8.1",
+  "description": "Dataset for supereffective.gg",
+  "homepage": "https://github.com/supeffective/dataset#readme",
+  "bugs": {
+    "url": "https://github.com/supeffective/dataset/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/supeffective/dataset.git"
+  },
+  "license": "MIT",
+  "type": "module",
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "import": "./dist/index.js",
+      "default": "./dist/index.js"
+    },
+    "./data/*": "./dist/data/*"
+  },
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "files": [
+    "dist",
+    "LICENSE",
+    "README.md"
+  ],
+  "scripts": {
+    "build": "rm -rf dist && sleep 1 && pnpm build:lib && pnpm build:data",
+    "build:data": "pnpm data:update && pnpm data:generate && pnpm data:format && pnpm data:minify",
+    "build:lib": "tsup",
+    "data:format": "bun ./src/maintenance/scripts/data-format.ts",
+    "data:generate": "bun ./src/maintenance/scripts/generate-all.ts",
+    "data:minify": "bun ./src/maintenance/scripts/minify.ts ./data ./dist/data",
+    "data:update": "bun ./src/maintenance/scripts/import.ts",
+    "dev": "concurrently \"pnpm dev:watch\" \"pnpm dev:server\"",
+    "dev:server": "bun src/dev-server/index.ts",
+    "dev:watch": "tsup --watch --clean=false",
+    "format": "pnpm lint-fix && pnpm format:package-json && pnpm data:format",
+    "format:package-json": "sort-package-json",
+    "hooks:pre-commit": "pnpm lint-staged",
+    "hooks:pre-push": "pnpm quality-checks",
+    "postinstall": "pnpm format:package-json",
+    "lint": "biome lint --max-diagnostics=100 .",
+    "lint-fix": "biome check --max-diagnostics=100 --apply . && pnpm format-package-json",
+    "prepare": "husky install",
+    "pretty": "pnpm format",
+    "publint": "publint",
+    "quality-checks": "pnpm build && pnpm lint && pnpm typelint && pnpm publint && pnpm test:ci",
+    "test": "bun test",
+    "test:ci": "bun test --coverage --bail=5 --ci",
+    "test:coverage": "bun test --coverage",
+    "typelint": "tsc --noEmit --skipLibCheck",
+    "version:bump": "semver-release version:bump",
+    "version:publish": "semver-release version:release --tags --npm --filter '@supeffective/*'",
+    "version:publish-notes": "semver-release version:release --github",
+    "version:release": "pnpm version:publish"
+  },
+  "lint-staged": {
+    "*.{js,cjs,mjs,jsx,ts,cts,mts,tsx}": [
+      "biome check --no-errors-on-unmatched --apply"
+    ],
+    "package.json": [
+      "sort-package-json"
+    ]
+  },
+  "dependencies": {
+    "zod": "^3.22.4"
+  },
+  "devDependencies": {
+    "@biomejs/biome": "1.3.3",
+    "@commitlint/cli": "^18.4.3",
+    "@commitlint/config-conventional": "^18.4.3",
+    "@elysiajs/cors": "^0.7.2",
+    "@elysiajs/static": "^0.7.1",
+    "@itsjavi/semver-release": "^0.7.2",
+    "@pkmn/dex": "^0.7.58",
+    "@pkmn/dex-types": "^0.7.58",
+    "@types/jest": "^29.5.9",
+    "@types/node": "^20.9.3",
+    "bun": "^1.0.13",
+    "bun-types": "^1.0.13",
+    "changelogen": "^0.5.5",
+    "concurrently": "^8.2.2",
+    "elysia": "^0.7.29",
+    "glob": "^10.3.10",
+    "husky": "^8.0.3",
+    "lint-staged": "^15.1.0",
+    "publint": "^0.2.5",
+    "sort-package-json": "^2.6.0",
+    "tsup": "^8.0.1",
+    "turbo": "^1.10.16",
+    "typescript": "^5.3.2"
+  },
+  "packageManager": "pnpm@8.10.5",
+  "publishConfig": {
+    "access": "public"
+  }
+}

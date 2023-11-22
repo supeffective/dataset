@@ -1,0 +1,92 @@
+{
+  "id": "bibarel",
+  "nid": "0400",
+  "dexNum": 400,
+  "formId": null,
+  "name": "Bibarel",
+  "psName": "Bibarel",
+  "formName": null,
+  "region": "sinnoh",
+  "generation": 4,
+  "type1": "normal",
+  "type2": "water",
+  "color": "brown",
+  "abilities": {
+    "primary": "simple",
+    "secondary": "unaware",
+    "hidden": "moody"
+  },
+  "isDefault": true,
+  "isForm": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": true,
+  "isBattleOnlyForm": false,
+  "isSwitchableForm": false,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": true,
+  "canBeAlpha": true,
+  "debutIn": "dp",
+  "obtainableIn": [
+    "dp",
+    "pt",
+    "go",
+    "bdsp",
+    "la"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [
+    "dp",
+    "pt",
+    "hgss",
+    "bw",
+    "b2w2",
+    "xy",
+    "oras",
+    "go",
+    "sm",
+    "usum",
+    "home",
+    "bdsp",
+    "la"
+  ],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 79,
+    "atk": 85,
+    "def": 60,
+    "spa": 55,
+    "spd": 60,
+    "spe": 71
+  },
+  "weight": 3150,
+  "height": 100,
+  "baseSpecies": null,
+  "baseForms": [],
+  "forms": [
+    "bibarel-f"
+  ],
+  "evolvesFrom": {
+    "pokemon": "bidoof",
+    "level": 15
+  },
+  "refs": {
+    "smogon": "bibarel",
+    "showdown": "bibarel",
+    "serebii": "bibarel",
+    "bulbapedia": "Bibarel"
+  }
+}

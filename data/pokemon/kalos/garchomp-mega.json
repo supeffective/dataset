@@ -1,0 +1,74 @@
+{
+  "id": "garchomp-mega",
+  "nid": "0445-mega",
+  "dexNum": 445,
+  "formId": "mega",
+  "name": "Mega Garchomp",
+  "psName": "Garchomp-Mega",
+  "formName": "Mega",
+  "region": "kalos",
+  "generation": 6,
+  "type1": "dragon",
+  "type2": "ground",
+  "color": "blue",
+  "abilities": {
+    "primary": "sandforce",
+    "secondary": null,
+    "hidden": null
+  },
+  "isDefault": false,
+  "isForm": true,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": true,
+  "isSwitchableForm": true,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": true,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": false,
+  "canBeAlpha": false,
+  "debutIn": "xy",
+  "obtainableIn": [
+    "xy",
+    "go"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [
+    "go"
+  ],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 108,
+    "atk": 170,
+    "def": 115,
+    "spa": 120,
+    "spd": 95,
+    "spe": 92
+  },
+  "weight": 9500,
+  "height": 190,
+  "baseSpecies": "garchomp",
+  "baseForms": [
+    "garchomp"
+  ],
+  "forms": [],
+  "evolvesFrom": null,
+  "refs": {
+    "smogon": "garchomp-mega",
+    "showdown": "garchompmega",
+    "serebii": "garchomp",
+    "bulbapedia": "Garchomp"
+  }
+}

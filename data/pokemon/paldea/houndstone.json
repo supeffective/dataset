@@ -1,0 +1,78 @@
+{
+  "id": "houndstone",
+  "nid": "0972",
+  "dexNum": 972,
+  "formId": null,
+  "name": "Houndstone",
+  "psName": "Houndstone",
+  "formName": null,
+  "region": "paldea",
+  "generation": 9,
+  "type1": "ghost",
+  "type2": null,
+  "color": "white",
+  "abilities": {
+    "primary": "sandrush",
+    "secondary": null,
+    "hidden": "fluffy"
+  },
+  "isDefault": true,
+  "isForm": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": false,
+  "isSwitchableForm": false,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": false,
+  "canBeAlpha": false,
+  "debutIn": "sv",
+  "obtainableIn": [
+    "go",
+    "sv"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [
+    "go",
+    "home",
+    "sv"
+  ],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 72,
+    "atk": 101,
+    "def": 100,
+    "spa": 50,
+    "spd": 97,
+    "spe": 68
+  },
+  "weight": 1500,
+  "height": 200,
+  "baseSpecies": null,
+  "baseForms": [],
+  "forms": [],
+  "evolvesFrom": {
+    "pokemon": "greavard",
+    "level": 30,
+    "condition": "at night"
+  },
+  "refs": {
+    "smogon": "houndstone",
+    "showdown": "houndstone",
+    "serebii": "houndstone",
+    "bulbapedia": "Houndstone"
+  }
+}

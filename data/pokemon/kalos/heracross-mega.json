@@ -1,0 +1,74 @@
+{
+  "id": "heracross-mega",
+  "nid": "0214-mega",
+  "dexNum": 214,
+  "formId": "mega",
+  "name": "Mega Heracross",
+  "psName": "Heracross-Mega",
+  "formName": "Mega",
+  "region": "kalos",
+  "generation": 6,
+  "type1": "bug",
+  "type2": "fighting",
+  "color": "blue",
+  "abilities": {
+    "primary": "skilllink",
+    "secondary": null,
+    "hidden": null
+  },
+  "isDefault": false,
+  "isForm": true,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": true,
+  "isSwitchableForm": true,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": true,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": false,
+  "canBeAlpha": false,
+  "debutIn": "xy",
+  "obtainableIn": [
+    "xy",
+    "go"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [
+    "go"
+  ],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 80,
+    "atk": 185,
+    "def": 115,
+    "spa": 40,
+    "spd": 105,
+    "spe": 75
+  },
+  "weight": 6250,
+  "height": 170,
+  "baseSpecies": "heracross",
+  "baseForms": [
+    "heracross"
+  ],
+  "forms": [],
+  "evolvesFrom": null,
+  "refs": {
+    "smogon": "heracross-mega",
+    "showdown": "heracrossmega",
+    "serebii": "heracross",
+    "bulbapedia": "Heracross"
+  }
+}

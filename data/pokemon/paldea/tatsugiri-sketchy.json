@@ -1,0 +1,72 @@
+{
+  "id": "tatsugiri-sketchy",
+  "nid": "0978-sketchy",
+  "dexNum": 978,
+  "formId": "sketchy",
+  "name": "Tatsugiri Sketchy Form",
+  "psName": "Tatsugiri",
+  "formName": "Sketchy Form",
+  "region": "paldea",
+  "generation": 9,
+  "type1": "dragon",
+  "type2": "water",
+  "color": "pink",
+  "abilities": {
+    "primary": "commander",
+    "secondary": null,
+    "hidden": "stormdrain"
+  },
+  "isDefault": false,
+  "isForm": true,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": true,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": false,
+  "isSwitchableForm": false,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": false,
+  "canBeAlpha": false,
+  "debutIn": "sv",
+  "obtainableIn": [
+    "sv"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [
+    "home",
+    "sv"
+  ],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 68,
+    "atk": 50,
+    "def": 60,
+    "spa": 120,
+    "spd": 95,
+    "spe": 82
+  },
+  "weight": 800,
+  "height": 30,
+  "baseSpecies": "tatsugiri",
+  "baseForms": [],
+  "forms": [],
+  "evolvesFrom": null,
+  "refs": {
+    "smogon": "tatsugiri-sketchy",
+    "showdown": "tatsugiri",
+    "serebii": "Tatsugiri",
+    "bulbapedia": "Tatsugiri_Sketchy"
+  }
+}

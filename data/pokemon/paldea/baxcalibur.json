@@ -1,0 +1,77 @@
+{
+  "id": "baxcalibur",
+  "nid": "0998",
+  "dexNum": 998,
+  "formId": null,
+  "name": "Baxcalibur",
+  "psName": "Baxcalibur",
+  "formName": null,
+  "region": "paldea",
+  "generation": 9,
+  "type1": "dragon",
+  "type2": "ice",
+  "color": "gray",
+  "abilities": {
+    "primary": "thermalexchange",
+    "secondary": null,
+    "hidden": "icebody"
+  },
+  "isDefault": true,
+  "isForm": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": false,
+  "isSwitchableForm": false,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": false,
+  "canBeAlpha": false,
+  "debutIn": "sv",
+  "obtainableIn": [
+    "go",
+    "sv"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [
+    "go",
+    "home",
+    "sv"
+  ],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 115,
+    "atk": 145,
+    "def": 92,
+    "spa": 75,
+    "spd": 86,
+    "spe": 87
+  },
+  "weight": 21000,
+  "height": 210,
+  "baseSpecies": null,
+  "baseForms": [],
+  "forms": [],
+  "evolvesFrom": {
+    "pokemon": "arctibax",
+    "level": 54
+  },
+  "refs": {
+    "smogon": "baxcalibur",
+    "showdown": "baxcalibur",
+    "serebii": "baxcalibur",
+    "bulbapedia": "Baxcalibur"
+  }
+}

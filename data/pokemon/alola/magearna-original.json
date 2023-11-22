@@ -1,0 +1,77 @@
+{
+  "id": "magearna-original",
+  "nid": "0801-original",
+  "dexNum": 801,
+  "formId": "original",
+  "name": "Magearna Original Color",
+  "psName": "Magearna-Original",
+  "formName": "Original Color",
+  "region": "alola",
+  "generation": 7,
+  "type1": "steel",
+  "type2": "fairy",
+  "color": "red",
+  "abilities": {
+    "primary": "soulheart",
+    "secondary": null,
+    "hidden": null
+  },
+  "isDefault": false,
+  "isForm": true,
+  "isLegendary": false,
+  "isMythical": true,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": true,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": false,
+  "isSwitchableForm": false,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": true,
+  "canBeAlpha": false,
+  "debutIn": "home",
+  "obtainableIn": [
+    "home"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [
+    "home"
+  ],
+  "storableIn": [
+    "sm",
+    "usum",
+    "swsh",
+    "home",
+    "sv"
+  ],
+  "shinyReleased": false,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 80,
+    "atk": 95,
+    "def": 115,
+    "spa": 130,
+    "spd": 115,
+    "spe": 65
+  },
+  "weight": 8050,
+  "height": 100,
+  "baseSpecies": "magearna",
+  "baseForms": [],
+  "forms": [],
+  "evolvesFrom": null,
+  "refs": {
+    "smogon": "magearna-original",
+    "showdown": "magearnaoriginal",
+    "serebii": "magearna",
+    "bulbapedia": "Magearna"
+  }
+}

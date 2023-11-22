@@ -1,0 +1,79 @@
+{
+  "id": "greedent",
+  "nid": "0820",
+  "dexNum": 820,
+  "formId": null,
+  "name": "Greedent",
+  "psName": "Greedent",
+  "formName": null,
+  "region": "galar",
+  "generation": 8,
+  "type1": "normal",
+  "type2": null,
+  "color": "brown",
+  "abilities": {
+    "primary": "cheekpouch",
+    "secondary": null,
+    "hidden": "gluttony"
+  },
+  "isDefault": true,
+  "isForm": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": false,
+  "isSwitchableForm": false,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": true,
+  "canBeAlpha": false,
+  "debutIn": "swsh",
+  "obtainableIn": [
+    "go",
+    "swsh",
+    "sv"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [
+    "go",
+    "swsh",
+    "home",
+    "sv"
+  ],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 120,
+    "atk": 95,
+    "def": 95,
+    "spa": 55,
+    "spd": 75,
+    "spe": 20
+  },
+  "weight": 600,
+  "height": 60,
+  "baseSpecies": null,
+  "baseForms": [],
+  "forms": [],
+  "evolvesFrom": {
+    "pokemon": "skwovet",
+    "level": 24
+  },
+  "refs": {
+    "smogon": "greedent",
+    "showdown": "greedent",
+    "serebii": "greedent",
+    "bulbapedia": "Greedent"
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "id": "centiskorch-gmax",
+  "nid": "0851-gmax",
+  "dexNum": 851,
+  "formId": "gmax",
+  "name": "Gigantamax Centiskorch",
+  "psName": "Centiskorch-Gmax",
+  "formName": "Gigantamax",
+  "region": "galar",
+  "generation": 8,
+  "type1": "fire",
+  "type2": "bug",
+  "color": "red",
+  "abilities": {
+    "primary": "flashfire",
+    "secondary": "whitesmoke",
+    "hidden": "flamebody"
+  },
+  "isDefault": false,
+  "isForm": true,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": true,
+  "isSwitchableForm": true,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": true,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": false,
+  "canBeAlpha": false,
+  "debutIn": "swsh",
+  "obtainableIn": [
+    "swsh"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 100,
+    "atk": 115,
+    "def": 65,
+    "spa": 90,
+    "spd": 90,
+    "spe": 65
+  },
+  "weight": 0,
+  "height": 7500,
+  "baseSpecies": "centiskorch",
+  "baseForms": [
+    "centiskorch"
+  ],
+  "forms": [],
+  "evolvesFrom": null,
+  "refs": {
+    "smogon": "centiskorch-gmax",
+    "showdown": "centiskorchgmax",
+    "serebii": "centiskorch",
+    "bulbapedia": "Centiskorch"
+  }
+}

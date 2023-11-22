@@ -1,0 +1,81 @@
+{
+  "id": "incineroar",
+  "nid": "0727",
+  "dexNum": 727,
+  "formId": null,
+  "name": "Incineroar",
+  "psName": "Incineroar",
+  "formName": null,
+  "region": "alola",
+  "generation": 7,
+  "type1": "fire",
+  "type2": "dark",
+  "color": "red",
+  "abilities": {
+    "primary": "blaze",
+    "secondary": null,
+    "hidden": "intimidate"
+  },
+  "isDefault": true,
+  "isForm": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": false,
+  "isSwitchableForm": false,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": true,
+  "canBeAlpha": false,
+  "debutIn": "sm",
+  "obtainableIn": [
+    "go",
+    "sm",
+    "usum",
+    "swsh"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [
+    "go",
+    "sm",
+    "usum",
+    "swsh",
+    "home"
+  ],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 95,
+    "atk": 115,
+    "def": 90,
+    "spa": 80,
+    "spd": 90,
+    "spe": 60
+  },
+  "weight": 8300,
+  "height": 180,
+  "baseSpecies": null,
+  "baseForms": [],
+  "forms": [],
+  "evolvesFrom": {
+    "pokemon": "torracat",
+    "level": 34
+  },
+  "refs": {
+    "smogon": "incineroar",
+    "showdown": "incineroar",
+    "serebii": "incineroar",
+    "bulbapedia": "Incineroar"
+  }
+}

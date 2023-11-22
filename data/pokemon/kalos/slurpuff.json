@@ -1,0 +1,83 @@
+{
+  "id": "slurpuff",
+  "nid": "0685",
+  "dexNum": 685,
+  "formId": null,
+  "name": "Slurpuff",
+  "psName": "Slurpuff",
+  "formName": null,
+  "region": "kalos",
+  "generation": 6,
+  "type1": "fairy",
+  "type2": null,
+  "color": "white",
+  "abilities": {
+    "primary": "sweetveil",
+    "secondary": null,
+    "hidden": "unburden"
+  },
+  "isDefault": true,
+  "isForm": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": false,
+  "isSwitchableForm": false,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": true,
+  "canBeAlpha": false,
+  "debutIn": "xy",
+  "obtainableIn": [
+    "xy",
+    "go",
+    "swsh"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [
+    "xy",
+    "oras",
+    "go",
+    "sm",
+    "usum",
+    "swsh",
+    "home"
+  ],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 82,
+    "atk": 80,
+    "def": 86,
+    "spa": 85,
+    "spd": 75,
+    "spe": 72
+  },
+  "weight": 500,
+  "height": 80,
+  "baseSpecies": null,
+  "baseForms": [],
+  "forms": [],
+  "evolvesFrom": {
+    "pokemon": "swirlix",
+    "item": "whippeddream",
+    "type": "trade"
+  },
+  "refs": {
+    "smogon": "slurpuff",
+    "showdown": "slurpuff",
+    "serebii": "slurpuff",
+    "bulbapedia": "Slurpuff"
+  }
+}

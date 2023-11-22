@@ -1,0 +1,73 @@
+{
+  "id": "zarude-dada",
+  "nid": "0893-dada",
+  "dexNum": 893,
+  "formId": "dada",
+  "name": "Zarude Dada",
+  "psName": "Zarude-Dada",
+  "formName": "Dada",
+  "region": "galar",
+  "generation": 8,
+  "type1": "dark",
+  "type2": "grass",
+  "color": "black",
+  "abilities": {
+    "primary": "leafguard",
+    "secondary": null,
+    "hidden": null
+  },
+  "isDefault": false,
+  "isForm": true,
+  "isLegendary": false,
+  "isMythical": true,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": true,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": false,
+  "isSwitchableForm": false,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": true,
+  "canBeAlpha": false,
+  "debutIn": "swsh",
+  "obtainableIn": [],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [
+    "swsh"
+  ],
+  "storableIn": [
+    "swsh",
+    "home",
+    "sv"
+  ],
+  "shinyReleased": false,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 105,
+    "atk": 120,
+    "def": 105,
+    "spa": 70,
+    "spd": 95,
+    "spe": 105
+  },
+  "weight": 7000,
+  "height": 180,
+  "baseSpecies": "zarude",
+  "baseForms": [],
+  "forms": [],
+  "evolvesFrom": null,
+  "refs": {
+    "smogon": "zarude-dada",
+    "showdown": "zarudedada",
+    "serebii": "zarude",
+    "bulbapedia": "Zarude"
+  }
+}

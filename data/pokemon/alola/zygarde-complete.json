@@ -1,0 +1,82 @@
+{
+  "id": "zygarde-complete",
+  "nid": "0718-complete",
+  "dexNum": 718,
+  "formId": "complete",
+  "name": "Zygarde Complete Forme",
+  "psName": "Zygarde-Complete",
+  "formName": "Complete Forme",
+  "region": "alola",
+  "generation": 7,
+  "type1": "dragon",
+  "type2": "ground",
+  "color": "black",
+  "abilities": {
+    "primary": "powerconstruct",
+    "secondary": null,
+    "hidden": null
+  },
+  "isDefault": false,
+  "isForm": true,
+  "isLegendary": true,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "paradoxSpecies": null,
+  "convergentSpecies": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": true,
+  "isSwitchableForm": true,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": true,
+  "canBeAlpha": false,
+  "debutIn": "sm",
+  "obtainableIn": [
+    "go",
+    "sm",
+    "usum",
+    "swsh"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [
+    "go"
+  ],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 216,
+    "atk": 100,
+    "def": 121,
+    "spa": 91,
+    "spd": 95,
+    "spe": 85
+  },
+  "weight": 61000,
+  "height": 450,
+  "baseSpecies": "zygarde",
+  "baseForms": [
+    "zygarde--power-construct",
+    "zygarde-10--power-construct"
+  ],
+  "forms": [],
+  "family": null,
+  "evolvesFrom": {
+    "pokemon": null
+  },
+  "refs": {
+    "smogon": "zygarde-complete",
+    "showdown": "zygardecomplete",
+    "serebii": "zygarde",
+    "bulbapedia": "Zygarde"
+  }
+}

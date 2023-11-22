@@ -1,0 +1,83 @@
+{
+  "id": "pangoro",
+  "nid": "0675",
+  "dexNum": 675,
+  "formId": null,
+  "name": "Pangoro",
+  "psName": "Pangoro",
+  "formName": null,
+  "region": "kalos",
+  "generation": 6,
+  "type1": "fighting",
+  "type2": "dark",
+  "color": "white",
+  "abilities": {
+    "primary": "ironfist",
+    "secondary": "moldbreaker",
+    "hidden": "scrappy"
+  },
+  "isDefault": true,
+  "isForm": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": false,
+  "isSwitchableForm": false,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": true,
+  "canBeAlpha": false,
+  "debutIn": "xy",
+  "obtainableIn": [
+    "xy",
+    "go",
+    "swsh"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [
+    "xy",
+    "oras",
+    "go",
+    "sm",
+    "usum",
+    "swsh",
+    "home"
+  ],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 95,
+    "atk": 124,
+    "def": 78,
+    "spa": 69,
+    "spd": 71,
+    "spe": 58
+  },
+  "weight": 13600,
+  "height": 210,
+  "baseSpecies": null,
+  "baseForms": [],
+  "forms": [],
+  "evolvesFrom": {
+    "pokemon": "pancham",
+    "level": 32,
+    "condition": "with a Dark-type in the party"
+  },
+  "refs": {
+    "smogon": "pangoro",
+    "showdown": "pangoro",
+    "serebii": "pangoro",
+    "bulbapedia": "Pangoro"
+  }
+}

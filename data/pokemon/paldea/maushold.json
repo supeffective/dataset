@@ -1,0 +1,79 @@
+{
+  "id": "maushold",
+  "nid": "0925",
+  "dexNum": 925,
+  "formId": "four",
+  "name": "Maushold",
+  "psName": "Maushold-Four",
+  "formName": "Family of Four",
+  "region": "paldea",
+  "generation": 9,
+  "type1": "normal",
+  "type2": null,
+  "color": "white",
+  "abilities": {
+    "primary": "friendguard",
+    "secondary": "cheekpouch",
+    "hidden": "technician"
+  },
+  "isDefault": true,
+  "isForm": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "paradoxSpecies": null,
+  "convergentSpecies": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": false,
+  "isSwitchableForm": false,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": false,
+  "canBeAlpha": false,
+  "debutIn": "sv",
+  "obtainableIn": [
+    "sv"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [
+    "home",
+    "sv"
+  ],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 74,
+    "atk": 75,
+    "def": 70,
+    "spa": 65,
+    "spd": 75,
+    "spe": 111
+  },
+  "weight": 280,
+  "height": 30,
+  "baseSpecies": null,
+  "baseForms": [],
+  "forms": [
+    "maushold-three"
+  ],
+  "evolvesFrom": {
+    "pokemon": "tandemaus",
+    "level": 25
+  },
+  "refs": {
+    "smogon": "maushold-four",
+    "showdown": "mausholdfour",
+    "serebii": "Maushold",
+    "bulbapedia": "Maushold_Four"
+  }
+}

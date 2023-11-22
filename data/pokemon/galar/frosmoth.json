@@ -1,0 +1,78 @@
+{
+  "id": "frosmoth",
+  "nid": "0873",
+  "dexNum": 873,
+  "formId": null,
+  "name": "Frosmoth",
+  "psName": "Frosmoth",
+  "formName": null,
+  "region": "galar",
+  "generation": 8,
+  "type1": "ice",
+  "type2": "bug",
+  "color": "white",
+  "abilities": {
+    "primary": "shielddust",
+    "secondary": null,
+    "hidden": "icescales"
+  },
+  "isDefault": true,
+  "isForm": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": false,
+  "isSwitchableForm": false,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": true,
+  "canBeAlpha": false,
+  "debutIn": "swsh",
+  "obtainableIn": [
+    "swsh",
+    "sv"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [
+    "swsh",
+    "home",
+    "sv"
+  ],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 70,
+    "atk": 65,
+    "def": 60,
+    "spa": 125,
+    "spd": 90,
+    "spe": 65
+  },
+  "weight": 4200,
+  "height": 130,
+  "baseSpecies": null,
+  "baseForms": [],
+  "forms": [],
+  "evolvesFrom": {
+    "pokemon": "snom",
+    "type": "levelfriendship",
+    "condition": "at night"
+  },
+  "refs": {
+    "smogon": "frosmoth",
+    "showdown": "frosmoth",
+    "serebii": "frosmoth",
+    "bulbapedia": "Frosmoth"
+  }
+}

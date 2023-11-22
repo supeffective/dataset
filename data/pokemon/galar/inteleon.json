@@ -1,0 +1,78 @@
+{
+  "id": "inteleon",
+  "nid": "0818",
+  "dexNum": 818,
+  "formId": null,
+  "name": "Inteleon",
+  "psName": "Inteleon",
+  "formName": null,
+  "region": "galar",
+  "generation": 8,
+  "type1": "water",
+  "type2": null,
+  "color": "blue",
+  "abilities": {
+    "primary": "torrent",
+    "secondary": null,
+    "hidden": "sniper"
+  },
+  "isDefault": true,
+  "isForm": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": false,
+  "isSwitchableForm": false,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": false,
+  "canGmax": true,
+  "canDynamax": true,
+  "canBeAlpha": false,
+  "debutIn": "swsh",
+  "obtainableIn": [
+    "swsh"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [
+    "swsh",
+    "home",
+    "sv"
+  ],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 70,
+    "atk": 85,
+    "def": 65,
+    "spa": 125,
+    "spd": 65,
+    "spe": 120
+  },
+  "weight": 4520,
+  "height": 190,
+  "baseSpecies": null,
+  "baseForms": [],
+  "forms": [
+    "inteleon-gmax"
+  ],
+  "evolvesFrom": {
+    "pokemon": "drizzile",
+    "level": 35
+  },
+  "refs": {
+    "smogon": "inteleon",
+    "showdown": "inteleon",
+    "serebii": "inteleon",
+    "bulbapedia": "Inteleon"
+  }
+}

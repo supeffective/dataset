@@ -1,0 +1,78 @@
+{
+  "id": "basculegion-f",
+  "nid": "0902-f",
+  "dexNum": 902,
+  "formId": "f",
+  "name": "Basculegion ♀",
+  "psName": "Basculegion-F",
+  "formName": "(Female)",
+  "region": "hisui",
+  "generation": 8,
+  "type1": "water",
+  "type2": "ghost",
+  "color": "green",
+  "abilities": {
+    "primary": "swiftswim",
+    "secondary": "adaptability",
+    "hidden": "moldbreaker"
+  },
+  "isDefault": false,
+  "isForm": true,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": true,
+  "hasGenderDifferences": true,
+  "isBattleOnlyForm": false,
+  "isSwitchableForm": false,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": false,
+  "canBeAlpha": true,
+  "debutIn": "la",
+  "obtainableIn": [
+    "la",
+    "sv"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [
+    "home",
+    "la",
+    "sv"
+  ],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 120,
+    "atk": 92,
+    "def": 65,
+    "spa": 100,
+    "spd": 75,
+    "spe": 78
+  },
+  "weight": 11000,
+  "height": 300,
+  "baseSpecies": "basculegion",
+  "baseForms": [],
+  "forms": [],
+  "evolvesFrom": {
+    "pokemon": "basculin-white-striped",
+    "type": "other",
+    "condition": "Receive 294+ recoil without fainting"
+  },
+  "refs": {
+    "smogon": "basculegion-f",
+    "showdown": "basculegionf",
+    "serebii": "basculegion",
+    "bulbapedia": "Basculegion"
+  }
+}

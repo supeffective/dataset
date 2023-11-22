@@ -1,0 +1,78 @@
+{
+  "id": "runerigus",
+  "nid": "0867",
+  "dexNum": 867,
+  "formId": null,
+  "name": "Runerigus",
+  "psName": "Runerigus",
+  "formName": null,
+  "region": "galar",
+  "generation": 8,
+  "type1": "ground",
+  "type2": "ghost",
+  "color": "gray",
+  "abilities": {
+    "primary": "wanderingspirit",
+    "secondary": null,
+    "hidden": null
+  },
+  "isDefault": true,
+  "isForm": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": false,
+  "isSwitchableForm": false,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": true,
+  "canBeAlpha": false,
+  "debutIn": "swsh",
+  "obtainableIn": [
+    "go",
+    "swsh"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [
+    "go",
+    "swsh",
+    "home"
+  ],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 58,
+    "atk": 95,
+    "def": 145,
+    "spa": 50,
+    "spd": 105,
+    "spe": 30
+  },
+  "weight": 6660,
+  "height": 160,
+  "baseSpecies": null,
+  "baseForms": [],
+  "forms": [],
+  "evolvesFrom": {
+    "pokemon": "yamask-galar",
+    "type": "other",
+    "condition": "Have 49+ HP lost and walk under stone sculpture in Dusty Bowl"
+  },
+  "refs": {
+    "smogon": "runerigus",
+    "showdown": "runerigus",
+    "serebii": "runerigus",
+    "bulbapedia": "Runerigus"
+  }
+}

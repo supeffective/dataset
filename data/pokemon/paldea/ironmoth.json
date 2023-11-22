@@ -1,0 +1,72 @@
+{
+  "id": "ironmoth",
+  "nid": "0994",
+  "dexNum": 994,
+  "formId": null,
+  "name": "Iron Moth",
+  "psName": "Iron Moth",
+  "formName": null,
+  "region": "paldea",
+  "generation": 9,
+  "type1": "fire",
+  "type2": "poison",
+  "color": "yellow",
+  "abilities": {
+    "primary": "quarkdrive",
+    "secondary": null,
+    "hidden": null
+  },
+  "isDefault": true,
+  "isForm": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": false,
+  "isSwitchableForm": false,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": false,
+  "canBeAlpha": false,
+  "debutIn": "sv",
+  "obtainableIn": [
+    "sv"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [
+    "home",
+    "sv"
+  ],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 80,
+    "atk": 70,
+    "def": 60,
+    "spa": 140,
+    "spd": 110,
+    "spe": 110
+  },
+  "weight": 3600,
+  "height": 120,
+  "baseSpecies": null,
+  "baseForms": [],
+  "forms": [],
+  "evolvesFrom": null,
+  "refs": {
+    "smogon": "ironmoth",
+    "showdown": "ironmoth",
+    "serebii": "ironmoth",
+    "bulbapedia": "Ironmoth"
+  }
+}

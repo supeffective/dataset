@@ -1,0 +1,73 @@
+{
+  "id": "kubfu",
+  "nid": "0891",
+  "dexNum": 891,
+  "formId": null,
+  "name": "Kubfu",
+  "psName": "Kubfu",
+  "formName": null,
+  "region": "galar",
+  "generation": 8,
+  "type1": "fighting",
+  "type2": null,
+  "color": "gray",
+  "abilities": {
+    "primary": "innerfocus",
+    "secondary": null,
+    "hidden": null
+  },
+  "isDefault": true,
+  "isForm": false,
+  "isLegendary": true,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": false,
+  "isSwitchableForm": false,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": true,
+  "canBeAlpha": false,
+  "debutIn": "swsh",
+  "obtainableIn": [
+    "swsh"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [
+    "swsh",
+    "home",
+    "sv"
+  ],
+  "shinyReleased": false,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 60,
+    "atk": 90,
+    "def": 60,
+    "spa": 53,
+    "spd": 50,
+    "spe": 72
+  },
+  "weight": 1200,
+  "height": 60,
+  "baseSpecies": null,
+  "baseForms": [],
+  "forms": [],
+  "evolvesFrom": null,
+  "refs": {
+    "smogon": "kubfu",
+    "showdown": "kubfu",
+    "serebii": "kubfu",
+    "bulbapedia": "Kubfu"
+  }
+}

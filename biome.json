@@ -1,0 +1,73 @@
+{
+  "$schema": "https://biomejs.dev/schemas/1.3.3/schema.json",
+  "organizeImports": {
+    "enabled": true
+  },
+  "files": {
+    "ignore": ["*.json", "generated/**/*", "dist/**/*"]
+  },
+  "vcs": {
+    "enabled": true,
+    "clientKind": "git",
+    "useIgnoreFile": true
+  },
+  "linter": {
+    "enabled": true,
+    "rules": {
+      "recommended": true,
+      "suspicious": {
+        "noExplicitAny": {
+          "level": "warn"
+        },
+        "noArrayIndexKey": "warn",
+        "noGlobalIsNan": "warn"
+      },
+      "correctness": {
+        "noUnusedVariables": "warn",
+        "noChildrenProp": "error",
+        "noPrecisionLoss": "warn",
+        "useExhaustiveDependencies": "warn",
+        "useHookAtTopLevel": "warn"
+      },
+      "complexity": {
+        "noForEach": "warn"
+      },
+      "nursery": {
+        "useGroupedTypeImport": "warn",
+        "noDuplicateJsonKeys": "error"
+      },
+      "a11y": {
+        "noSvgWithoutTitle": "warn"
+      },
+      "style": {
+        "noNonNullAssertion": "warn",
+        "useTemplate": "warn"
+      }
+    }
+  },
+  "formatter": {
+    "enabled": true,
+    "lineWidth": 120,
+    "indentSize": 2,
+    "indentStyle": "space",
+    "ignore": [".storylite/**/*"]
+  },
+  "javascript": {
+    "formatter": {
+      "enabled": true,
+      "lineWidth": 120,
+      "indentSize": 2,
+      "indentStyle": "space",
+      "trailingComma": "all",
+      "semicolons": "asNeeded",
+      "quoteStyle": "single",
+      "jsxQuoteStyle": "double",
+      "arrowParentheses": "always"
+    }
+  },
+  "json": {
+    "formatter": {
+      "enabled": false
+    }
+  }
+}

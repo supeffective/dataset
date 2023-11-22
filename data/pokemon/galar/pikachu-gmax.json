@@ -1,0 +1,72 @@
+{
+  "id": "pikachu-gmax",
+  "nid": "0025-gmax",
+  "dexNum": 25,
+  "formId": "gmax",
+  "name": "Gigantamax Pikachu",
+  "psName": "Pikachu-Gmax",
+  "formName": "Gigantamax",
+  "region": "galar",
+  "generation": 8,
+  "type1": "electric",
+  "type2": null,
+  "color": "yellow",
+  "abilities": {
+    "primary": "static",
+    "secondary": null,
+    "hidden": "lightningrod"
+  },
+  "isDefault": false,
+  "isForm": true,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": true,
+  "isSwitchableForm": true,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": true,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": false,
+  "canBeAlpha": false,
+  "debutIn": "swsh",
+  "obtainableIn": [
+    "swsh"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 35,
+    "atk": 55,
+    "def": 40,
+    "spa": 50,
+    "spd": 50,
+    "spe": 90
+  },
+  "weight": 0,
+  "height": 2100,
+  "baseSpecies": "pikachu",
+  "baseForms": [
+    "pikachu",
+    "pikachu-f"
+  ],
+  "forms": [],
+  "evolvesFrom": null,
+  "refs": {
+    "smogon": "pikachu-gmax",
+    "showdown": "pikachugmax",
+    "serebii": "pikachu",
+    "bulbapedia": "Pikachu"
+  }
+}

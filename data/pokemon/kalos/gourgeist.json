@@ -1,0 +1,86 @@
+{
+  "id": "gourgeist",
+  "nid": "0711",
+  "dexNum": 711,
+  "formId": "average",
+  "name": "Gourgeist",
+  "psName": "Gourgeist",
+  "formName": "Average Size",
+  "region": "kalos",
+  "generation": 6,
+  "type1": "ghost",
+  "type2": "grass",
+  "color": "brown",
+  "abilities": {
+    "primary": "pickup",
+    "secondary": "frisk",
+    "hidden": "insomnia"
+  },
+  "isDefault": true,
+  "isForm": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": false,
+  "isSwitchableForm": false,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": true,
+  "canBeAlpha": false,
+  "debutIn": "xy",
+  "obtainableIn": [
+    "xy",
+    "go",
+    "swsh"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [
+    "xy",
+    "oras",
+    "go",
+    "sm",
+    "usum",
+    "swsh",
+    "home"
+  ],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 65,
+    "atk": 90,
+    "def": 122,
+    "spa": 58,
+    "spd": 75,
+    "spe": 84
+  },
+  "weight": 1250,
+  "height": 90,
+  "baseSpecies": null,
+  "baseForms": [],
+  "forms": [
+    "gourgeist-small",
+    "gourgeist-large",
+    "gourgeist-super"
+  ],
+  "evolvesFrom": {
+    "pokemon": "pumpkaboo",
+    "type": "trade"
+  },
+  "refs": {
+    "smogon": "gourgeist",
+    "showdown": "gourgeist",
+    "serebii": "gourgeist",
+    "bulbapedia": "Gourgeist"
+  }
+}

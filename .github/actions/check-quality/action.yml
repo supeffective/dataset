@@ -1,0 +1,8 @@
+name: "Check code quality"
+description: "Checks code quality: formatters, linters, build, test, etc."
+runs:
+  using: "composite"
+  steps:
+    - shell: bash
+      run: |
+        pnpm turbo quality-checks

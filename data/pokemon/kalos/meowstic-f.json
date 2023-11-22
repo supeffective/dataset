@@ -1,0 +1,82 @@
+{
+  "id": "meowstic-f",
+  "nid": "0678-f",
+  "dexNum": 678,
+  "formId": "f",
+  "name": "Female Meowstic",
+  "psName": "Meowstic-F",
+  "formName": "Female",
+  "region": "kalos",
+  "generation": 6,
+  "type1": "psychic",
+  "type2": null,
+  "color": "blue",
+  "abilities": {
+    "primary": "keeneye",
+    "secondary": "infiltrator",
+    "hidden": "competitive"
+  },
+  "isDefault": false,
+  "isForm": true,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": true,
+  "hasGenderDifferences": true,
+  "isBattleOnlyForm": false,
+  "isSwitchableForm": false,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": true,
+  "canBeAlpha": false,
+  "debutIn": "xy",
+  "obtainableIn": [
+    "xy",
+    "go",
+    "swsh"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [
+    "xy",
+    "oras",
+    "go",
+    "sm",
+    "usum",
+    "swsh",
+    "home"
+  ],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 74,
+    "atk": 48,
+    "def": 76,
+    "spa": 83,
+    "spd": 81,
+    "spe": 104
+  },
+  "weight": 850,
+  "height": 60,
+  "baseSpecies": "meowstic",
+  "baseForms": [],
+  "forms": [],
+  "evolvesFrom": {
+    "pokemon": "espurr",
+    "level": 25
+  },
+  "refs": {
+    "smogon": "meowstic",
+    "showdown": "meowsticf",
+    "serebii": "meowstic",
+    "bulbapedia": "Meowstic"
+  }
+}

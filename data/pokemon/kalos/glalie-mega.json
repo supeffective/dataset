@@ -1,0 +1,74 @@
+{
+  "id": "glalie-mega",
+  "nid": "0362-mega",
+  "dexNum": 362,
+  "formId": "mega",
+  "name": "Mega Glalie",
+  "psName": "Glalie-Mega",
+  "formName": "Mega",
+  "region": "kalos",
+  "generation": 6,
+  "type1": "ice",
+  "type2": null,
+  "color": "gray",
+  "abilities": {
+    "primary": "refrigerate",
+    "secondary": null,
+    "hidden": null
+  },
+  "isDefault": false,
+  "isForm": true,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": true,
+  "isSwitchableForm": true,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": true,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": false,
+  "canBeAlpha": false,
+  "debutIn": "oras",
+  "obtainableIn": [
+    "oras",
+    "go"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [
+    "go"
+  ],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 80,
+    "atk": 120,
+    "def": 80,
+    "spa": 120,
+    "spd": 80,
+    "spe": 100
+  },
+  "weight": 35020,
+  "height": 210,
+  "baseSpecies": "glalie",
+  "baseForms": [
+    "glalie"
+  ],
+  "forms": [],
+  "evolvesFrom": null,
+  "refs": {
+    "smogon": "glalie-mega",
+    "showdown": "glaliemega",
+    "serebii": "glalie",
+    "bulbapedia": "Glalie"
+  }
+}

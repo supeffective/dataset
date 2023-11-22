@@ -1,0 +1,80 @@
+{
+  "id": "appletun",
+  "nid": "0842",
+  "dexNum": 842,
+  "formId": null,
+  "name": "Appletun",
+  "psName": "Appletun",
+  "formName": null,
+  "region": "galar",
+  "generation": 8,
+  "type1": "grass",
+  "type2": "dragon",
+  "color": "green",
+  "abilities": {
+    "primary": "ripen",
+    "secondary": "gluttony",
+    "hidden": "thickfat"
+  },
+  "isDefault": true,
+  "isForm": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": false,
+  "isSwitchableForm": false,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": false,
+  "canGmax": true,
+  "canDynamax": true,
+  "canBeAlpha": false,
+  "debutIn": "swsh",
+  "obtainableIn": [
+    "swsh",
+    "sv"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [
+    "swsh",
+    "home",
+    "sv"
+  ],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 110,
+    "atk": 85,
+    "def": 80,
+    "spa": 100,
+    "spd": 80,
+    "spe": 30
+  },
+  "weight": 1300,
+  "height": 40,
+  "baseSpecies": null,
+  "baseForms": [],
+  "forms": [
+    "appletun-gmax"
+  ],
+  "evolvesFrom": {
+    "pokemon": "applin",
+    "item": "sweetapple",
+    "type": "useitem"
+  },
+  "refs": {
+    "smogon": "appletun",
+    "showdown": "appletun",
+    "serebii": "appletun",
+    "bulbapedia": "Appletun"
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "id": "aggron-mega",
+  "nid": "0306-mega",
+  "dexNum": 306,
+  "formId": "mega",
+  "name": "Mega Aggron",
+  "psName": "Aggron-Mega",
+  "formName": "Mega",
+  "region": "kalos",
+  "generation": 6,
+  "type1": "steel",
+  "type2": null,
+  "color": "gray",
+  "abilities": {
+    "primary": "filter",
+    "secondary": null,
+    "hidden": null
+  },
+  "isDefault": false,
+  "isForm": true,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": true,
+  "isSwitchableForm": true,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": true,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": false,
+  "canBeAlpha": false,
+  "debutIn": "xy",
+  "obtainableIn": [
+    "xy",
+    "go"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [
+    "go"
+  ],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 70,
+    "atk": 140,
+    "def": 230,
+    "spa": 60,
+    "spd": 80,
+    "spe": 50
+  },
+  "weight": 39500,
+  "height": 220,
+  "baseSpecies": "aggron",
+  "baseForms": [
+    "aggron"
+  ],
+  "forms": [],
+  "evolvesFrom": null,
+  "refs": {
+    "smogon": "aggron-mega",
+    "showdown": "aggronmega",
+    "serebii": "aggron",
+    "bulbapedia": "Aggron"
+  }
+}

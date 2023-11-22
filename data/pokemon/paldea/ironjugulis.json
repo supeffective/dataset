@@ -1,0 +1,72 @@
+{
+  "id": "ironjugulis",
+  "nid": "0993",
+  "dexNum": 993,
+  "formId": null,
+  "name": "Iron Jugulis",
+  "psName": "Iron Jugulis",
+  "formName": null,
+  "region": "paldea",
+  "generation": 9,
+  "type1": "dark",
+  "type2": "flying",
+  "color": "blue",
+  "abilities": {
+    "primary": "quarkdrive",
+    "secondary": null,
+    "hidden": null
+  },
+  "isDefault": true,
+  "isForm": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": false,
+  "isSwitchableForm": false,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": false,
+  "canBeAlpha": false,
+  "debutIn": "sv",
+  "obtainableIn": [
+    "sv"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [
+    "home",
+    "sv"
+  ],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 94,
+    "atk": 80,
+    "def": 86,
+    "spa": 122,
+    "spd": 80,
+    "spe": 108
+  },
+  "weight": 11100,
+  "height": 130,
+  "baseSpecies": null,
+  "baseForms": [],
+  "forms": [],
+  "evolvesFrom": null,
+  "refs": {
+    "smogon": "ironjugulis",
+    "showdown": "ironjugulis",
+    "serebii": "ironjugulis",
+    "bulbapedia": "Ironjugulis"
+  }
+}

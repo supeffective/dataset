@@ -1,0 +1,13 @@
+{
+  "id": "lgpe-sorted-species",
+  "legacyId": "sorted-species",
+  "name": "National: Sorted by Species",
+  "version": 1,
+  "gameSet": "lgpe",
+  "description": "(Recommended) Pokémon Boxes are sorted following HOME's National Dex order, separating Species and Forms. First you will find all the species, then all the forms starting in a new box (leaving a gap with the species).",
+  "boxes": [
+    {"pokemon":["bulbasaur","ivysaur","venusaur","charmander","charmeleon","charizard","squirtle","wartortle","blastoise","caterpie","metapod","butterfree","weedle","kakuna","beedrill","pidgey","pidgeotto","pidgeot","rattata","raticate","spearow","fearow","ekans","arbok","pikachu","raichu","sandshrew","sandslash","nidoranf","nidorina","nidoqueen","nidoranm","nidorino","nidoking","clefairy","clefable","vulpix","ninetales","jigglypuff","wigglytuff","zubat","golbat","oddish","gloom","vileplume","paras","parasect","venonat","venomoth","diglett","dugtrio","meowth","persian","psyduck","golduck","mankey","primeape","growlithe","arcanine","poliwag","poliwhirl","poliwrath","abra","kadabra","alakazam","machop","machoke","machamp","bellsprout","weepinbell","victreebel","tentacool","tentacruel","geodude","graveler","golem","ponyta","rapidash","slowpoke","slowbro","magnemite","magneton","farfetchd","doduo","dodrio","seel","dewgong","grimer","muk","shellder","cloyster","gastly","haunter","gengar","onix","drowzee","hypno","krabby","kingler","voltorb","electrode","exeggcute","exeggutor","cubone","marowak","hitmonlee","hitmonchan","lickitung","koffing","weezing","rhyhorn","rhydon","chansey","tangela","kangaskhan","horsea","seadra","goldeen","seaking","staryu","starmie","mrmime","scyther","jynx","electabuzz","magmar","pinsir","tauros","magikarp","gyarados","lapras","ditto","eevee","vaporeon","jolteon","flareon","porygon","omanyte","omastar","kabuto","kabutops","aerodactyl","snorlax","articuno","zapdos","moltres","dratini","dragonair","dragonite","mewtwo","mew","meltan","melmetal"]},
+    {"pokemon":["venusaur-f","butterfree-f","rattata-f","rattata-alola","raticate-f","raticate-alola","pikachu-f","raichu-f","raichu-alola","sandshrew-alola","sandslash-alola","vulpix-alola","ninetales-alola","zubat-f","golbat-f","gloom-f","vileplume-f","diglett-alola","dugtrio-alola","meowth-alola","persian-alola","kadabra-f","alakazam-f","geodude-alola","graveler-alola","golem-alola","doduo-f","dodrio-f","grimer-alola","muk-alola","hypno-f","exeggutor-alola","marowak-alola","rhyhorn-f","rhydon-f","goldeen-f","seaking-f","scyther-f","magikarp-f","gyarados-f"]}
+    
+  ]
+}

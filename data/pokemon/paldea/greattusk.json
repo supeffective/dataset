@@ -1,0 +1,72 @@
+{
+  "id": "greattusk",
+  "nid": "0984",
+  "dexNum": 984,
+  "formId": null,
+  "name": "Great Tusk",
+  "psName": "Great Tusk",
+  "formName": null,
+  "region": "paldea",
+  "generation": 9,
+  "type1": "ground",
+  "type2": "fighting",
+  "color": "purple",
+  "abilities": {
+    "primary": "protosynthesis",
+    "secondary": null,
+    "hidden": null
+  },
+  "isDefault": true,
+  "isForm": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": false,
+  "isSwitchableForm": false,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": false,
+  "canBeAlpha": false,
+  "debutIn": "sv",
+  "obtainableIn": [
+    "sv"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [
+    "home",
+    "sv"
+  ],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 115,
+    "atk": 131,
+    "def": 131,
+    "spa": 53,
+    "spd": 53,
+    "spe": 87
+  },
+  "weight": 32000,
+  "height": 220,
+  "baseSpecies": null,
+  "baseForms": [],
+  "forms": [],
+  "evolvesFrom": null,
+  "refs": {
+    "smogon": "greattusk",
+    "showdown": "greattusk",
+    "serebii": "greattusk",
+    "bulbapedia": "Greattusk"
+  }
+}

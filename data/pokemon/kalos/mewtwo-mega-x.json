@@ -1,0 +1,74 @@
+{
+  "id": "mewtwo-mega-x",
+  "nid": "0150-mega-x",
+  "dexNum": 150,
+  "formId": "mega-x",
+  "name": "Mega Mewtwo X",
+  "psName": "Mewtwo-Mega-X",
+  "formName": "Mega X",
+  "region": "kalos",
+  "generation": 6,
+  "type1": "psychic",
+  "type2": "fighting",
+  "color": "purple",
+  "abilities": {
+    "primary": "steadfast",
+    "secondary": null,
+    "hidden": null
+  },
+  "isDefault": false,
+  "isForm": true,
+  "isLegendary": true,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": true,
+  "isSwitchableForm": true,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": true,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": false,
+  "canBeAlpha": false,
+  "debutIn": "xy",
+  "obtainableIn": [
+    "xy",
+    "go"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [
+    "go"
+  ],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 106,
+    "atk": 190,
+    "def": 100,
+    "spa": 154,
+    "spd": 100,
+    "spe": 130
+  },
+  "weight": 12700,
+  "height": 230,
+  "baseSpecies": "mewtwo",
+  "baseForms": [
+    "mewtwo"
+  ],
+  "forms": [],
+  "evolvesFrom": null,
+  "refs": {
+    "smogon": "mewtwo-mega-x",
+    "showdown": "mewtwomegax",
+    "serebii": "mewtwo",
+    "bulbapedia": "Mewtwo"
+  }
+}

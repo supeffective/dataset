@@ -1,0 +1,72 @@
+[
+  {
+    "id": "rby",
+    "name": "Red, Blue and Yellow"
+  },
+  {
+    "id": "gsc",
+    "name": "Gold, Silver and Crystal"
+  },
+  {
+    "id": "rse",
+    "name": "Ruby, Sapphire and Emerald"
+  },
+  {
+    "id": "frlg",
+    "name": "Fire Red and Leaf Green"
+  },
+  {
+    "id": "dppt",
+    "name": "Diamond, Pearl and Platinum"
+  },
+  {
+    "id": "hgss",
+    "name": "Heart Gold and Soul Silver"
+  },
+  {
+    "id": "bwb2w2",
+    "name": "Black, White, Black 2 and White 2"
+  },
+  {
+    "id": "xy",
+    "name": "X and Y"
+  },
+  {
+    "id": "oras",
+    "name": "Omega Ruby and Alpha Sapphire"
+  },
+  {
+    "id": "go",
+    "name": "GO"
+  },
+  {
+    "id": "smusum",
+    "name": "Sun, Moon, Ultra Sun and Ultra Moon"
+  },
+  {
+    "id": "lgpe",
+    "name": "Let's Go! Pikachu and Let's Go! Eevee"
+  },
+  {
+    "id": "swsh",
+    "name": "Sword and Shield + Expansions"
+  },
+  {
+    "id": "home",
+    "name": "HOME"
+  },
+  {
+    "id": "bdsp",
+    "name": "Brilliant Diamond and Shining Pearl"
+  },
+  {
+    "id": "la",
+    "name": "Legends: Arceus",
+    "sets": ["la"]
+  },
+  {
+    "id": "sv",
+    "name": "Scarlet and Violet + Expansions",
+    "sets": ["sv"]
+  }
+]

@@ -1,0 +1,71 @@
+{
+  "id": "corviknight-gmax",
+  "nid": "0823-gmax",
+  "dexNum": 823,
+  "formId": "gmax",
+  "name": "Gigantamax Corviknight",
+  "psName": "Corviknight-Gmax",
+  "formName": "Gigantamax",
+  "region": "galar",
+  "generation": 8,
+  "type1": "flying",
+  "type2": "steel",
+  "color": "purple",
+  "abilities": {
+    "primary": "pressure",
+    "secondary": "unnerve",
+    "hidden": "mirrorarmor"
+  },
+  "isDefault": false,
+  "isForm": true,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": true,
+  "isSwitchableForm": true,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": true,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": false,
+  "canBeAlpha": false,
+  "debutIn": "swsh",
+  "obtainableIn": [
+    "swsh"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 98,
+    "atk": 87,
+    "def": 105,
+    "spa": 53,
+    "spd": 85,
+    "spe": 67
+  },
+  "weight": 0,
+  "height": 1400,
+  "baseSpecies": "corviknight",
+  "baseForms": [
+    "corviknight"
+  ],
+  "forms": [],
+  "evolvesFrom": null,
+  "refs": {
+    "smogon": "corviknight-gmax",
+    "showdown": "corviknightgmax",
+    "serebii": "corviknight",
+    "bulbapedia": "Corviknight"
+  }
+}

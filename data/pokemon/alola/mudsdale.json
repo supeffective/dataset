@@ -1,0 +1,83 @@
+{
+  "id": "mudsdale",
+  "nid": "0750",
+  "dexNum": 750,
+  "formId": null,
+  "name": "Mudsdale",
+  "psName": "Mudsdale",
+  "formName": null,
+  "region": "alola",
+  "generation": 7,
+  "type1": "ground",
+  "type2": null,
+  "color": "brown",
+  "abilities": {
+    "primary": "owntempo",
+    "secondary": "stamina",
+    "hidden": "innerfocus"
+  },
+  "isDefault": true,
+  "isForm": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": false,
+  "isSwitchableForm": false,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": true,
+  "canBeAlpha": false,
+  "debutIn": "sm",
+  "obtainableIn": [
+    "go",
+    "sm",
+    "usum",
+    "swsh",
+    "sv"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [
+    "go",
+    "sm",
+    "usum",
+    "swsh",
+    "home",
+    "sv"
+  ],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 100,
+    "atk": 125,
+    "def": 100,
+    "spa": 55,
+    "spd": 85,
+    "spe": 35
+  },
+  "weight": 92000,
+  "height": 250,
+  "baseSpecies": null,
+  "baseForms": [],
+  "forms": [],
+  "evolvesFrom": {
+    "pokemon": "mudbray",
+    "level": 30
+  },
+  "refs": {
+    "smogon": "mudsdale",
+    "showdown": "mudsdale",
+    "serebii": "mudsdale",
+    "bulbapedia": "Mudsdale"
+  }
+}

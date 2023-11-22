@@ -1,0 +1,83 @@
+{
+  "id": "steenee",
+  "nid": "0762",
+  "dexNum": 762,
+  "formId": null,
+  "name": "Steenee",
+  "psName": "Steenee",
+  "formName": null,
+  "region": "alola",
+  "generation": 7,
+  "type1": "grass",
+  "type2": null,
+  "color": "purple",
+  "abilities": {
+    "primary": "leafguard",
+    "secondary": "oblivious",
+    "hidden": "sweetveil"
+  },
+  "isDefault": true,
+  "isForm": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": false,
+  "isSwitchableForm": false,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": true,
+  "canBeAlpha": false,
+  "debutIn": "sm",
+  "obtainableIn": [
+    "go",
+    "sm",
+    "usum",
+    "swsh",
+    "sv"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [
+    "go",
+    "sm",
+    "usum",
+    "swsh",
+    "home",
+    "sv"
+  ],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 52,
+    "atk": 40,
+    "def": 48,
+    "spa": 40,
+    "spd": 48,
+    "spe": 62
+  },
+  "weight": 820,
+  "height": 70,
+  "baseSpecies": null,
+  "baseForms": [],
+  "forms": [],
+  "evolvesFrom": {
+    "pokemon": "bounsweet",
+    "level": 18
+  },
+  "refs": {
+    "smogon": "steenee",
+    "showdown": "steenee",
+    "serebii": "steenee",
+    "bulbapedia": "Steenee"
+  }
+}

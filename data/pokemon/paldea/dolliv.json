@@ -1,0 +1,77 @@
+{
+  "id": "dolliv",
+  "nid": "0929",
+  "dexNum": 929,
+  "formId": null,
+  "name": "Dolliv",
+  "psName": "Dolliv",
+  "formName": null,
+  "region": "paldea",
+  "generation": 9,
+  "type1": "grass",
+  "type2": "normal",
+  "color": "green",
+  "abilities": {
+    "primary": "earlybird",
+    "secondary": null,
+    "hidden": "harvest"
+  },
+  "isDefault": true,
+  "isForm": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": false,
+  "isSwitchableForm": false,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": false,
+  "canBeAlpha": false,
+  "debutIn": "sv",
+  "obtainableIn": [
+    "go",
+    "sv"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [
+    "go",
+    "home",
+    "sv"
+  ],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 52,
+    "atk": 53,
+    "def": 60,
+    "spa": 78,
+    "spd": 78,
+    "spe": 33
+  },
+  "weight": 1190,
+  "height": 60,
+  "baseSpecies": null,
+  "baseForms": [],
+  "forms": [],
+  "evolvesFrom": {
+    "pokemon": "smoliv",
+    "level": 25
+  },
+  "refs": {
+    "smogon": "dolliv",
+    "showdown": "dolliv",
+    "serebii": "dolliv",
+    "bulbapedia": "Dolliv"
+  }
+}

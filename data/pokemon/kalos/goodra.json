@@ -1,0 +1,86 @@
+{
+  "id": "goodra",
+  "nid": "0706",
+  "dexNum": 706,
+  "formId": null,
+  "name": "Goodra",
+  "psName": "Goodra",
+  "formName": null,
+  "region": "kalos",
+  "generation": 6,
+  "type1": "dragon",
+  "type2": null,
+  "color": "purple",
+  "abilities": {
+    "primary": "sapsipper",
+    "secondary": "hydration",
+    "hidden": "gooey"
+  },
+  "isDefault": true,
+  "isForm": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": false,
+  "isSwitchableForm": false,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": true,
+  "canBeAlpha": false,
+  "debutIn": "xy",
+  "obtainableIn": [
+    "xy",
+    "go",
+    "swsh",
+    "sv"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [
+    "xy",
+    "oras",
+    "go",
+    "sm",
+    "usum",
+    "swsh",
+    "home",
+    "sv"
+  ],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 90,
+    "atk": 100,
+    "def": 70,
+    "spa": 110,
+    "spd": 150,
+    "spe": 80
+  },
+  "weight": 15050,
+  "height": 200,
+  "baseSpecies": null,
+  "baseForms": [],
+  "forms": [
+    "goodra-hisui"
+  ],
+  "evolvesFrom": {
+    "pokemon": "sliggoo",
+    "level": 50
+  },
+  "refs": {
+    "smogon": "goodra",
+    "showdown": "goodra",
+    "serebii": "goodra",
+    "bulbapedia": "Goodra"
+  }
+}

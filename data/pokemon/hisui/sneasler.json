@@ -1,0 +1,80 @@
+{
+  "id": "sneasler",
+  "nid": "0903",
+  "dexNum": 903,
+  "formId": null,
+  "name": "Sneasler",
+  "psName": "Sneasler",
+  "formName": null,
+  "region": "hisui",
+  "generation": 8,
+  "type1": "fighting",
+  "type2": "poison",
+  "color": "purple",
+  "abilities": {
+    "primary": "pressure",
+    "secondary": "unburden",
+    "hidden": "poisontouch"
+  },
+  "isDefault": true,
+  "isForm": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": false,
+  "isSwitchableForm": false,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": false,
+  "canBeAlpha": true,
+  "debutIn": "la",
+  "obtainableIn": [
+    "go",
+    "la"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [
+    "go",
+    "home",
+    "la",
+    "sv"
+  ],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 80,
+    "atk": 130,
+    "def": 60,
+    "spa": 40,
+    "spd": 80,
+    "spe": 120
+  },
+  "weight": 4300,
+  "height": 130,
+  "baseSpecies": null,
+  "baseForms": [],
+  "forms": [],
+  "evolvesFrom": {
+    "pokemon": "sneasel-hisui",
+    "item": "razorclaw",
+    "type": "levelhold",
+    "condition": "during the day"
+  },
+  "refs": {
+    "smogon": "sneasler",
+    "showdown": "sneasler",
+    "serebii": "sneasler",
+    "bulbapedia": "Sneasler"
+  }
+}

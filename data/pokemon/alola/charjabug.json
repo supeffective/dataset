@@ -1,0 +1,83 @@
+{
+  "id": "charjabug",
+  "nid": "0737",
+  "dexNum": 737,
+  "formId": null,
+  "name": "Charjabug",
+  "psName": "Charjabug",
+  "formName": null,
+  "region": "alola",
+  "generation": 7,
+  "type1": "bug",
+  "type2": "electric",
+  "color": "green",
+  "abilities": {
+    "primary": "battery",
+    "secondary": null,
+    "hidden": null
+  },
+  "isDefault": true,
+  "isForm": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": false,
+  "isSwitchableForm": false,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": true,
+  "canBeAlpha": false,
+  "debutIn": "sm",
+  "obtainableIn": [
+    "go",
+    "sm",
+    "usum",
+    "swsh",
+    "sv"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [
+    "go",
+    "sm",
+    "usum",
+    "swsh",
+    "home",
+    "sv"
+  ],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 57,
+    "atk": 82,
+    "def": 95,
+    "spa": 55,
+    "spd": 75,
+    "spe": 36
+  },
+  "weight": 1050,
+  "height": 50,
+  "baseSpecies": null,
+  "baseForms": [],
+  "forms": [],
+  "evolvesFrom": {
+    "pokemon": "grubbin",
+    "level": 20
+  },
+  "refs": {
+    "smogon": "charjabug",
+    "showdown": "charjabug",
+    "serebii": "charjabug",
+    "bulbapedia": "Charjabug"
+  }
+}

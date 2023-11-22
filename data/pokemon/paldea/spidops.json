@@ -1,0 +1,75 @@
+{
+  "id": "spidops",
+  "nid": "0918",
+  "dexNum": 918,
+  "formId": null,
+  "name": "Spidops",
+  "psName": "Spidops",
+  "formName": null,
+  "region": "paldea",
+  "generation": 9,
+  "type1": "bug",
+  "type2": null,
+  "color": "green",
+  "abilities": {
+    "primary": "insomnia",
+    "secondary": null,
+    "hidden": "stakeout"
+  },
+  "isDefault": true,
+  "isForm": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": false,
+  "isSwitchableForm": false,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": false,
+  "canBeAlpha": false,
+  "debutIn": "sv",
+  "obtainableIn": [
+    "sv"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [
+    "home",
+    "sv"
+  ],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 60,
+    "atk": 79,
+    "def": 92,
+    "spa": 52,
+    "spd": 86,
+    "spe": 35
+  },
+  "weight": 1650,
+  "height": 100,
+  "baseSpecies": null,
+  "baseForms": [],
+  "forms": [],
+  "evolvesFrom": {
+    "pokemon": "tarountula",
+    "level": 15
+  },
+  "refs": {
+    "smogon": "spidops",
+    "showdown": "spidops",
+    "serebii": "spidops",
+    "bulbapedia": "Spidops"
+  }
+}

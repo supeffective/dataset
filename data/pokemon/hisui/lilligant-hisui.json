@@ -1,0 +1,77 @@
+{
+  "id": "lilligant-hisui",
+  "nid": "0549-hisui",
+  "dexNum": 549,
+  "formId": "hisui",
+  "name": "Hisuian Lilligant",
+  "psName": "Lilligant-Hisui",
+  "formName": "Hisuian Form",
+  "region": "hisui",
+  "generation": 8,
+  "type1": "grass",
+  "type2": "fighting",
+  "color": "green",
+  "abilities": {
+    "primary": "chlorophyll",
+    "secondary": "hustle",
+    "hidden": "leafguard"
+  },
+  "isDefault": false,
+  "isForm": true,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": false,
+  "isSwitchableForm": false,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": true,
+  "canGmax": false,
+  "canDynamax": false,
+  "canBeAlpha": true,
+  "debutIn": "la",
+  "obtainableIn": [
+    "la"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [
+    "home",
+    "la",
+    "sv"
+  ],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 70,
+    "atk": 105,
+    "def": 75,
+    "spa": 50,
+    "spd": 75,
+    "spe": 105
+  },
+  "weight": 1920,
+  "height": 120,
+  "baseSpecies": "lilligant",
+  "baseForms": [],
+  "forms": [],
+  "evolvesFrom": {
+    "pokemon": "petilil",
+    "item": "sunstone",
+    "type": "useitem"
+  },
+  "refs": {
+    "smogon": "lilligant-hisui",
+    "showdown": "lilliganthisui",
+    "serebii": "lilligant",
+    "bulbapedia": "Lilligant"
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "id": "zygarde-10",
+  "nid": "0718-10",
+  "dexNum": 718,
+  "formId": "10",
+  "name": "Zygarde 10% Forme",
+  "psName": "Zygarde-10%",
+  "formName": "10% Forme",
+  "region": "alola",
+  "generation": 7,
+  "type1": "dragon",
+  "type2": "ground",
+  "color": "black",
+  "abilities": {
+    "primary": "aurabreak",
+    "secondary": null,
+    "hidden": null
+  },
+  "isDefault": false,
+  "isForm": true,
+  "isLegendary": true,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "paradoxSpecies": null,
+  "convergentSpecies": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": false,
+  "isSwitchableForm": true,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": true,
+  "canBeAlpha": false,
+  "debutIn": "sm",
+  "obtainableIn": [
+    "go",
+    "sm",
+    "usum",
+    "swsh"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [
+    "go",
+    "sm",
+    "usum",
+    "swsh",
+    "home"
+  ],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 54,
+    "atk": 100,
+    "def": 71,
+    "spa": 61,
+    "spd": 85,
+    "spe": 115
+  },
+  "weight": 3350,
+  "height": 120,
+  "baseSpecies": "zygarde",
+  "baseForms": [],
+  "forms": [
+    "zygarde-10--power-construct"
+  ],
+  "family": null,
+  "evolvesFrom": {
+    "pokemon": null
+  },
+  "refs": {
+    "smogon": "zygarde-10",
+    "showdown": "zygarde10",
+    "serebii": "zygarde",
+    "bulbapedia": "Zygarde"
+  }
+}

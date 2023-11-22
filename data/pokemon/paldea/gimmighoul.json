@@ -1,0 +1,76 @@
+{
+  "id": "gimmighoul",
+  "nid": "0999",
+  "dexNum": 999,
+  "formId": null,
+  "name": "Gimmighoul",
+  "psName": "Gimmighoul",
+  "formName": "Chest Form",
+  "region": "paldea",
+  "generation": 9,
+  "type1": "ghost",
+  "type2": null,
+  "color": "brown",
+  "abilities": {
+    "primary": "rattled",
+    "secondary": null,
+    "hidden": null
+  },
+  "isDefault": true,
+  "isForm": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "paradoxSpecies": null,
+  "convergentSpecies": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": false,
+  "isSwitchableForm": false,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": false,
+  "canBeAlpha": false,
+  "debutIn": "sv",
+  "obtainableIn": [
+    "sv"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [
+    "home",
+    "sv"
+  ],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 45,
+    "atk": 30,
+    "def": 70,
+    "spa": 75,
+    "spd": 70,
+    "spe": 10
+  },
+  "weight": 500,
+  "height": 30,
+  "baseSpecies": null,
+  "baseForms": [],
+  "forms": [
+    "gimmighoul-roaming"
+  ],
+  "evolvesFrom": null,
+  "refs": {
+    "smogon": "gimmighoul",
+    "showdown": "gimmighoul",
+    "serebii": "gimmighoul",
+    "bulbapedia": "Gimmighoul"
+  }
+}

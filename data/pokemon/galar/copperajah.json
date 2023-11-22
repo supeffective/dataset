@@ -1,0 +1,79 @@
+{
+  "id": "copperajah",
+  "nid": "0879",
+  "dexNum": 879,
+  "formId": null,
+  "name": "Copperajah",
+  "psName": "Copperajah",
+  "formName": null,
+  "region": "galar",
+  "generation": 8,
+  "type1": "steel",
+  "type2": null,
+  "color": "green",
+  "abilities": {
+    "primary": "sheerforce",
+    "secondary": null,
+    "hidden": "heavymetal"
+  },
+  "isDefault": true,
+  "isForm": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": false,
+  "isSwitchableForm": false,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": false,
+  "canGmax": true,
+  "canDynamax": true,
+  "canBeAlpha": false,
+  "debutIn": "swsh",
+  "obtainableIn": [
+    "swsh",
+    "sv"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [
+    "swsh",
+    "home",
+    "sv"
+  ],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 122,
+    "atk": 130,
+    "def": 69,
+    "spa": 80,
+    "spd": 69,
+    "spe": 30
+  },
+  "weight": 65000,
+  "height": 300,
+  "baseSpecies": null,
+  "baseForms": [],
+  "forms": [
+    "copperajah-gmax"
+  ],
+  "evolvesFrom": {
+    "pokemon": "cufant",
+    "level": 34
+  },
+  "refs": {
+    "smogon": "copperajah",
+    "showdown": "copperajah",
+    "serebii": "copperajah",
+    "bulbapedia": "Copperajah"
+  }
+}

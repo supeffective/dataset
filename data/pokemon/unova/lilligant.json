@@ -1,0 +1,90 @@
+{
+  "id": "lilligant",
+  "nid": "0549",
+  "dexNum": 549,
+  "formId": null,
+  "name": "Lilligant",
+  "psName": "Lilligant",
+  "formName": null,
+  "region": "unova",
+  "generation": 5,
+  "type1": "grass",
+  "type2": null,
+  "color": "green",
+  "abilities": {
+    "primary": "chlorophyll",
+    "secondary": "owntempo",
+    "hidden": "leafguard"
+  },
+  "isDefault": true,
+  "isForm": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": false,
+  "isSwitchableForm": false,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": true,
+  "canBeAlpha": false,
+  "debutIn": "bw",
+  "obtainableIn": [
+    "bw",
+    "b2w2",
+    "go",
+    "swsh",
+    "sv"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [
+    "bw",
+    "b2w2",
+    "xy",
+    "oras",
+    "go",
+    "sm",
+    "usum",
+    "swsh",
+    "home",
+    "sv"
+  ],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 70,
+    "atk": 60,
+    "def": 75,
+    "spa": 110,
+    "spd": 75,
+    "spe": 90
+  },
+  "weight": 1630,
+  "height": 110,
+  "baseSpecies": null,
+  "baseForms": [],
+  "forms": [
+    "lilligant-hisui"
+  ],
+  "evolvesFrom": {
+    "pokemon": "petilil",
+    "item": "sunstone",
+    "type": "useitem"
+  },
+  "refs": {
+    "smogon": "lilligant",
+    "showdown": "lilligant",
+    "serebii": "lilligant",
+    "bulbapedia": "Lilligant"
+  }
+}

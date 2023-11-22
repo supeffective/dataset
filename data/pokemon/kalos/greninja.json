@@ -1,0 +1,84 @@
+{
+  "id": "greninja",
+  "nid": "0658",
+  "dexNum": 658,
+  "formId": null,
+  "name": "Greninja",
+  "psName": "Greninja",
+  "formName": null,
+  "region": "kalos",
+  "generation": 6,
+  "type1": "water",
+  "type2": "dark",
+  "color": "blue",
+  "abilities": {
+    "primary": "torrent",
+    "secondary": null,
+    "hidden": "protean"
+  },
+  "isDefault": true,
+  "isForm": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": false,
+  "isSwitchableForm": false,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": true,
+  "canBeAlpha": false,
+  "debutIn": "xy",
+  "obtainableIn": [
+    "xy",
+    "go"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [
+    "xy",
+    "oras",
+    "go",
+    "sm",
+    "usum",
+    "home",
+    "sv"
+  ],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 72,
+    "atk": 95,
+    "def": 67,
+    "spa": 103,
+    "spd": 71,
+    "spe": 122
+  },
+  "weight": 4000,
+  "height": 150,
+  "baseSpecies": null,
+  "baseForms": [],
+  "forms": [
+    "greninja--battle-bond",
+    "greninja-ash"
+  ],
+  "evolvesFrom": {
+    "pokemon": "frogadier",
+    "level": 36
+  },
+  "refs": {
+    "smogon": "greninja",
+    "showdown": "greninja",
+    "serebii": "greninja",
+    "bulbapedia": "Greninja"
+  }
+}

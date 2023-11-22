@@ -1,0 +1,73 @@
+{
+  "id": "zacian-crowned",
+  "nid": "0888-crowned",
+  "dexNum": 888,
+  "formId": "crowned",
+  "name": "Zacian Crowned Sword",
+  "psName": "Zacian-Crowned",
+  "formName": "Crowned Sword",
+  "region": "galar",
+  "generation": 8,
+  "type1": "fairy",
+  "type2": "steel",
+  "color": "blue",
+  "abilities": {
+    "primary": "intrepidsword",
+    "secondary": null,
+    "hidden": null
+  },
+  "isDefault": false,
+  "isForm": true,
+  "isLegendary": true,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": false,
+  "isSwitchableForm": true,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": false,
+  "canBeAlpha": false,
+  "debutIn": "swsh",
+  "obtainableIn": [
+    "swsh"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [
+    "sv"
+  ],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 92,
+    "atk": 150,
+    "def": 115,
+    "spa": 80,
+    "spd": 115,
+    "spe": 148
+  },
+  "weight": 35500,
+  "height": 280,
+  "baseSpecies": "zacian",
+  "baseForms": [
+    "zacian"
+  ],
+  "forms": [],
+  "evolvesFrom": null,
+  "refs": {
+    "smogon": "zacian-crowned",
+    "showdown": "zaciancrowned",
+    "serebii": "zacian",
+    "bulbapedia": "Zacian"
+  }
+}

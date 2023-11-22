@@ -1,0 +1,72 @@
+{
+  "id": "rellor",
+  "nid": "0953",
+  "dexNum": 953,
+  "formId": null,
+  "name": "Rellor",
+  "psName": "Rellor",
+  "formName": null,
+  "region": "paldea",
+  "generation": 9,
+  "type1": "bug",
+  "type2": null,
+  "color": "brown",
+  "abilities": {
+    "primary": "compoundeyes",
+    "secondary": null,
+    "hidden": "shedskin"
+  },
+  "isDefault": true,
+  "isForm": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": false,
+  "isSwitchableForm": false,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": false,
+  "canBeAlpha": false,
+  "debutIn": "sv",
+  "obtainableIn": [
+    "sv"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [
+    "home",
+    "sv"
+  ],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 41,
+    "atk": 50,
+    "def": 60,
+    "spa": 31,
+    "spd": 58,
+    "spe": 30
+  },
+  "weight": 100,
+  "height": 20,
+  "baseSpecies": null,
+  "baseForms": [],
+  "forms": [],
+  "evolvesFrom": null,
+  "refs": {
+    "smogon": "rellor",
+    "showdown": "rellor",
+    "serebii": "rellor",
+    "bulbapedia": "Rellor"
+  }
+}

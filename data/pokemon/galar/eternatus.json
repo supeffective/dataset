@@ -1,0 +1,75 @@
+{
+  "id": "eternatus",
+  "nid": "0890",
+  "dexNum": 890,
+  "formId": null,
+  "name": "Eternatus",
+  "psName": "Eternatus",
+  "formName": null,
+  "region": "galar",
+  "generation": 8,
+  "type1": "poison",
+  "type2": "dragon",
+  "color": "purple",
+  "abilities": {
+    "primary": "pressure",
+    "secondary": null,
+    "hidden": null
+  },
+  "isDefault": true,
+  "isForm": false,
+  "isLegendary": true,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": false,
+  "isSwitchableForm": false,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": false,
+  "canBeAlpha": false,
+  "debutIn": "swsh",
+  "obtainableIn": [
+    "swsh"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [
+    "swsh",
+    "home",
+    "sv"
+  ],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 140,
+    "atk": 85,
+    "def": 95,
+    "spa": 145,
+    "spd": 95,
+    "spe": 130
+  },
+  "weight": 95000,
+  "height": 2000,
+  "baseSpecies": null,
+  "baseForms": [],
+  "forms": [
+    "eternatus-eternamax"
+  ],
+  "evolvesFrom": null,
+  "refs": {
+    "smogon": "eternatus",
+    "showdown": "eternatus",
+    "serebii": "eternatus",
+    "bulbapedia": "Eternatus"
+  }
+}

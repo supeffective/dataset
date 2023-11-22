@@ -1,0 +1,74 @@
+{
+  "id": "aerodactyl-mega",
+  "nid": "0142-mega",
+  "dexNum": 142,
+  "formId": "mega",
+  "name": "Mega Aerodactyl",
+  "psName": "Aerodactyl-Mega",
+  "formName": "Mega",
+  "region": "kalos",
+  "generation": 6,
+  "type1": "rock",
+  "type2": "flying",
+  "color": "purple",
+  "abilities": {
+    "primary": "toughclaws",
+    "secondary": null,
+    "hidden": null
+  },
+  "isDefault": false,
+  "isForm": true,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": true,
+  "isSwitchableForm": true,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": true,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": false,
+  "canBeAlpha": false,
+  "debutIn": "xy",
+  "obtainableIn": [
+    "xy",
+    "go"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [
+    "go"
+  ],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 80,
+    "atk": 135,
+    "def": 85,
+    "spa": 70,
+    "spd": 95,
+    "spe": 150
+  },
+  "weight": 7900,
+  "height": 210,
+  "baseSpecies": "aerodactyl",
+  "baseForms": [
+    "aerodactyl"
+  ],
+  "forms": [],
+  "evolvesFrom": null,
+  "refs": {
+    "smogon": "aerodactyl-mega",
+    "showdown": "aerodactylmega",
+    "serebii": "aerodactyl",
+    "bulbapedia": "Aerodactyl"
+  }
+}

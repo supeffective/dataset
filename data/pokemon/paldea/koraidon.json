@@ -1,0 +1,72 @@
+{
+  "id": "koraidon",
+  "nid": "1007",
+  "dexNum": 1007,
+  "formId": null,
+  "name": "Koraidon",
+  "psName": "Koraidon",
+  "formName": null,
+  "region": "paldea",
+  "generation": 9,
+  "type1": "fighting",
+  "type2": "dragon",
+  "color": "red",
+  "abilities": {
+    "primary": "orichalcumpulse",
+    "secondary": null,
+    "hidden": null
+  },
+  "isDefault": true,
+  "isForm": false,
+  "isLegendary": true,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": false,
+  "isSwitchableForm": false,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": false,
+  "canBeAlpha": false,
+  "debutIn": "sv",
+  "obtainableIn": [
+    "sv"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [
+    "home",
+    "sv"
+  ],
+  "shinyReleased": false,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 100,
+    "atk": 135,
+    "def": 115,
+    "spa": 85,
+    "spd": 100,
+    "spe": 135
+  },
+  "weight": 30300,
+  "height": 250,
+  "baseSpecies": null,
+  "baseForms": [],
+  "forms": [],
+  "evolvesFrom": null,
+  "refs": {
+    "smogon": "koraidon",
+    "showdown": "koraidon",
+    "serebii": "koraidon",
+    "bulbapedia": "Koraidon"
+  }
+}

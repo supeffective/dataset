@@ -1,0 +1,74 @@
+{
+  "id": "gyarados-mega",
+  "nid": "0130-mega",
+  "dexNum": 130,
+  "formId": "mega",
+  "name": "Mega Gyarados",
+  "psName": "Gyarados-Mega",
+  "formName": "Mega",
+  "region": "kalos",
+  "generation": 6,
+  "type1": "water",
+  "type2": "dark",
+  "color": "blue",
+  "abilities": {
+    "primary": "moldbreaker",
+    "secondary": null,
+    "hidden": null
+  },
+  "isDefault": false,
+  "isForm": true,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": true,
+  "isSwitchableForm": true,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": true,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": false,
+  "canBeAlpha": false,
+  "debutIn": "xy",
+  "obtainableIn": [
+    "xy",
+    "go"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [
+    "go"
+  ],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 95,
+    "atk": 155,
+    "def": 109,
+    "spa": 70,
+    "spd": 130,
+    "spe": 81
+  },
+  "weight": 30500,
+  "height": 650,
+  "baseSpecies": "gyarados",
+  "baseForms": [
+    "gyarados"
+  ],
+  "forms": [],
+  "evolvesFrom": null,
+  "refs": {
+    "smogon": "gyarados-mega",
+    "showdown": "gyaradosmega",
+    "serebii": "gyarados",
+    "bulbapedia": "Gyarados"
+  }
+}

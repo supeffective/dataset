@@ -1,0 +1,72 @@
+{
+  "id": "aegislash-blade",
+  "nid": "0681-blade",
+  "dexNum": 681,
+  "formId": "blade",
+  "name": "Aegislash Blade Forme",
+  "psName": "Aegislash-Blade",
+  "formName": "Blade Forme",
+  "region": "kalos",
+  "generation": 6,
+  "type1": "steel",
+  "type2": "ghost",
+  "color": "brown",
+  "abilities": {
+    "primary": "stancechange",
+    "secondary": null,
+    "hidden": null
+  },
+  "isDefault": false,
+  "isForm": true,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": true,
+  "isSwitchableForm": true,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": true,
+  "canBeAlpha": false,
+  "debutIn": "xy",
+  "obtainableIn": [
+    "xy",
+    "swsh"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 60,
+    "atk": 140,
+    "def": 50,
+    "spa": 140,
+    "spd": 50,
+    "spe": 60
+  },
+  "weight": 5300,
+  "height": 170,
+  "baseSpecies": "aegislash",
+  "baseForms": [
+    "aegislash"
+  ],
+  "forms": [],
+  "evolvesFrom": null,
+  "refs": {
+    "smogon": "aegislash-blade",
+    "showdown": "aegislashblade",
+    "serebii": "aegislash",
+    "bulbapedia": "Aegislash"
+  }
+}

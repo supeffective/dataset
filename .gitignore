@@ -1,0 +1,73 @@
+data/pokemon.json
+data/pokedexes.json
+data/boxpresets.json
+data/legacy-*.json
+!data/legacy-game*.json
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Local setup and build files
+node_modules
+dist
+dist-ssr
+*.local
+.turbo
+.next
+.vercel
+
+# Editor directories and files
+.vscode/*
+!.vscode/settings.json
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Development ignored files and folders
+.env
+.dev/
+.local/
+.ignore/
+_ignore/
+.tmp/
+_tmp/
+_temp/
+.temp/
+_site/
+
+# Jest coverage
+coverage/
+
+# CSS libraries
+## Panda CSS
+styled-system/
+styled-system-studio/
+
+
+# Frameworks
+## Next.js
+out/
+.cache/
+.next/
+.vercel/
+
+## Nuxt.js
+.nuxt/
+dist/
+build/
+
+## Vite
+.vite/
+*.timestamp-*.mjs
+*.timestamp-*.js

@@ -1,0 +1,79 @@
+{
+  "id": "drednaw",
+  "nid": "0834",
+  "dexNum": 834,
+  "formId": null,
+  "name": "Drednaw",
+  "psName": "Drednaw",
+  "formName": null,
+  "region": "galar",
+  "generation": 8,
+  "type1": "water",
+  "type2": "rock",
+  "color": "green",
+  "abilities": {
+    "primary": "strongjaw",
+    "secondary": "shellarmor",
+    "hidden": "swiftswim"
+  },
+  "isDefault": true,
+  "isForm": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": false,
+  "isSwitchableForm": false,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": false,
+  "canGmax": true,
+  "canDynamax": true,
+  "canBeAlpha": false,
+  "debutIn": "swsh",
+  "obtainableIn": [
+    "swsh",
+    "sv"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [
+    "swsh",
+    "home",
+    "sv"
+  ],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 90,
+    "atk": 115,
+    "def": 90,
+    "spa": 48,
+    "spd": 68,
+    "spe": 74
+  },
+  "weight": 11550,
+  "height": 100,
+  "baseSpecies": null,
+  "baseForms": [],
+  "forms": [
+    "drednaw-gmax"
+  ],
+  "evolvesFrom": {
+    "pokemon": "chewtle",
+    "level": 22
+  },
+  "refs": {
+    "smogon": "drednaw",
+    "showdown": "drednaw",
+    "serebii": "drednaw",
+    "bulbapedia": "Drednaw"
+  }
+}

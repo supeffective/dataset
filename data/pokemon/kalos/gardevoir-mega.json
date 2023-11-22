@@ -1,0 +1,74 @@
+{
+  "id": "gardevoir-mega",
+  "nid": "0282-mega",
+  "dexNum": 282,
+  "formId": "mega",
+  "name": "Mega Gardevoir",
+  "psName": "Gardevoir-Mega",
+  "formName": "Mega",
+  "region": "kalos",
+  "generation": 6,
+  "type1": "psychic",
+  "type2": "fairy",
+  "color": "white",
+  "abilities": {
+    "primary": "pixilate",
+    "secondary": null,
+    "hidden": null
+  },
+  "isDefault": false,
+  "isForm": true,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": true,
+  "isSwitchableForm": true,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": true,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": false,
+  "canBeAlpha": false,
+  "debutIn": "xy",
+  "obtainableIn": [
+    "xy",
+    "go"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [
+    "go"
+  ],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 68,
+    "atk": 85,
+    "def": 65,
+    "spa": 165,
+    "spd": 135,
+    "spe": 100
+  },
+  "weight": 4840,
+  "height": 160,
+  "baseSpecies": "gardevoir",
+  "baseForms": [
+    "gardevoir"
+  ],
+  "forms": [],
+  "evolvesFrom": null,
+  "refs": {
+    "smogon": "gardevoir-mega",
+    "showdown": "gardevoirmega",
+    "serebii": "gardevoir",
+    "bulbapedia": "Gardevoir"
+  }
+}

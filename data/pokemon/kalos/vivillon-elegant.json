@@ -1,0 +1,82 @@
+{
+  "id": "vivillon-elegant",
+  "nid": "0666-elegant",
+  "dexNum": 666,
+  "formId": "elegant",
+  "name": "Vivillon Elegant Pattern",
+  "psName": "Vivillon",
+  "formName": "Elegant Pattern",
+  "region": "kalos",
+  "generation": 6,
+  "type1": "bug",
+  "type2": "flying",
+  "color": "white",
+  "abilities": {
+    "primary": "shielddust",
+    "secondary": "compoundeyes",
+    "hidden": "friendguard"
+  },
+  "isDefault": false,
+  "isForm": true,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": true,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": false,
+  "isSwitchableForm": false,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": true,
+  "canBeAlpha": false,
+  "debutIn": "xy",
+  "obtainableIn": [
+    "xy",
+    "go",
+    "sv"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [
+    "xy",
+    "oras",
+    "go",
+    "sm",
+    "usum",
+    "home",
+    "sv"
+  ],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 80,
+    "atk": 52,
+    "def": 50,
+    "spa": 90,
+    "spd": 50,
+    "spe": 89
+  },
+  "weight": 1700,
+  "height": 120,
+  "baseSpecies": "vivillon",
+  "baseForms": [],
+  "forms": [],
+  "evolvesFrom": {
+    "pokemon": "spewpa",
+    "level": 12
+  },
+  "refs": {
+    "smogon": "vivillon-elegant",
+    "showdown": "vivillon",
+    "serebii": "vivillon",
+    "bulbapedia": "Vivillon"
+  }
+}

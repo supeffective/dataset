@@ -1,0 +1,77 @@
+{
+  "id": "silvally-flying",
+  "nid": "0773-flying",
+  "dexNum": 773,
+  "formId": "flying",
+  "name": "Silvally Type: Flying",
+  "psName": "Silvally-Flying",
+  "formName": "Type: Flying",
+  "region": "alola",
+  "generation": 7,
+  "type1": "flying",
+  "type2": null,
+  "color": "gray",
+  "abilities": {
+    "primary": "rkssystem",
+    "secondary": null,
+    "hidden": null
+  },
+  "isDefault": false,
+  "isForm": true,
+  "isLegendary": true,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": false,
+  "isSwitchableForm": true,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": true,
+  "canBeAlpha": false,
+  "debutIn": "sm",
+  "obtainableIn": [
+    "sm",
+    "usum",
+    "swsh"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [
+    "sm",
+    "usum",
+    "swsh"
+  ],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 95,
+    "atk": 95,
+    "def": 95,
+    "spa": 95,
+    "spd": 95,
+    "spe": 95
+  },
+  "weight": 10050,
+  "height": 230,
+  "baseSpecies": "silvally",
+  "baseForms": [
+    "silvally"
+  ],
+  "forms": [],
+  "evolvesFrom": null,
+  "refs": {
+    "smogon": "silvally-flying",
+    "showdown": "silvallyflying",
+    "serebii": "silvally",
+    "bulbapedia": "Silvally"
+  }
+}

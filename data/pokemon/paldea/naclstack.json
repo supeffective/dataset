@@ -1,0 +1,75 @@
+{
+  "id": "naclstack",
+  "nid": "0933",
+  "dexNum": 933,
+  "formId": null,
+  "name": "Naclstack",
+  "psName": "Naclstack",
+  "formName": null,
+  "region": "paldea",
+  "generation": 9,
+  "type1": "rock",
+  "type2": null,
+  "color": "brown",
+  "abilities": {
+    "primary": "purifyingsalt",
+    "secondary": "sturdy",
+    "hidden": "clearbody"
+  },
+  "isDefault": true,
+  "isForm": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": false,
+  "isSwitchableForm": false,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": false,
+  "canBeAlpha": false,
+  "debutIn": "sv",
+  "obtainableIn": [
+    "sv"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [
+    "home",
+    "sv"
+  ],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 60,
+    "atk": 60,
+    "def": 100,
+    "spa": 35,
+    "spd": 65,
+    "spe": 35
+  },
+  "weight": 10500,
+  "height": 50,
+  "baseSpecies": null,
+  "baseForms": [],
+  "forms": [],
+  "evolvesFrom": {
+    "pokemon": "nacli",
+    "level": 24
+  },
+  "refs": {
+    "smogon": "naclstack",
+    "showdown": "naclstack",
+    "serebii": "naclstack",
+    "bulbapedia": "Naclstack"
+  }
+}

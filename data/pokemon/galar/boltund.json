@@ -1,0 +1,75 @@
+{
+  "id": "boltund",
+  "nid": "0836",
+  "dexNum": 836,
+  "formId": null,
+  "name": "Boltund",
+  "psName": "Boltund",
+  "formName": null,
+  "region": "galar",
+  "generation": 8,
+  "type1": "electric",
+  "type2": null,
+  "color": "yellow",
+  "abilities": {
+    "primary": "strongjaw",
+    "secondary": null,
+    "hidden": "competitive"
+  },
+  "isDefault": true,
+  "isForm": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": false,
+  "isSwitchableForm": false,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": true,
+  "canBeAlpha": false,
+  "debutIn": "swsh",
+  "obtainableIn": [
+    "swsh"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [
+    "swsh",
+    "home"
+  ],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 69,
+    "atk": 90,
+    "def": 60,
+    "spa": 90,
+    "spd": 60,
+    "spe": 121
+  },
+  "weight": 3400,
+  "height": 100,
+  "baseSpecies": null,
+  "baseForms": [],
+  "forms": [],
+  "evolvesFrom": {
+    "pokemon": "yamper",
+    "level": 25
+  },
+  "refs": {
+    "smogon": "boltund",
+    "showdown": "boltund",
+    "serebii": "boltund",
+    "bulbapedia": "Boltund"
+  }
+}

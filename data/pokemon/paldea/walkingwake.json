@@ -1,0 +1,72 @@
+{
+  "id": "walkingwake",
+  "nid": "1009",
+  "dexNum": 1009,
+  "formId": null,
+  "name": "Walking Wake",
+  "psName": "Walking Wake",
+  "formName": null,
+  "region": "paldea",
+  "generation": 9,
+  "type1": "water",
+  "type2": "dragon",
+  "color": "blue",
+  "abilities": {
+    "primary": "protosynthesis",
+    "secondary": null,
+    "hidden": null
+  },
+  "isDefault": true,
+  "isForm": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": false,
+  "isSwitchableForm": false,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": false,
+  "canBeAlpha": false,
+  "debutIn": "sv",
+  "obtainableIn": [
+    "sv"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [
+    "home",
+    "sv"
+  ],
+  "shinyReleased": false,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 99,
+    "atk": 83,
+    "def": 91,
+    "spa": 125,
+    "spd": 83,
+    "spe": 109
+  },
+  "weight": 28000,
+  "height": 350,
+  "baseSpecies": null,
+  "baseForms": [],
+  "forms": [],
+  "evolvesFrom": null,
+  "refs": {
+    "smogon": "walkingwake",
+    "showdown": "walkingwake",
+    "serebii": "walkingwake",
+    "bulbapedia": "Walking_Wake"
+  }
+}

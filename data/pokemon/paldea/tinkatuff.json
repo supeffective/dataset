@@ -1,0 +1,75 @@
+{
+  "id": "tinkatuff",
+  "nid": "0958",
+  "dexNum": 958,
+  "formId": null,
+  "name": "Tinkatuff",
+  "psName": "Tinkatuff",
+  "formName": null,
+  "region": "paldea",
+  "generation": 9,
+  "type1": "fairy",
+  "type2": "steel",
+  "color": "pink",
+  "abilities": {
+    "primary": "moldbreaker",
+    "secondary": "owntempo",
+    "hidden": "pickpocket"
+  },
+  "isDefault": true,
+  "isForm": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": false,
+  "isSwitchableForm": false,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": false,
+  "canBeAlpha": false,
+  "debutIn": "sv",
+  "obtainableIn": [
+    "sv"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [
+    "home",
+    "sv"
+  ],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 65,
+    "atk": 55,
+    "def": 55,
+    "spa": 45,
+    "spd": 82,
+    "spe": 78
+  },
+  "weight": 5910,
+  "height": 70,
+  "baseSpecies": null,
+  "baseForms": [],
+  "forms": [],
+  "evolvesFrom": {
+    "pokemon": "tinkatink",
+    "level": 24
+  },
+  "refs": {
+    "smogon": "tinkatuff",
+    "showdown": "tinkatuff",
+    "serebii": "tinkatuff",
+    "bulbapedia": "Tinkatuff"
+  }
+}

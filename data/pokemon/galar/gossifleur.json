@@ -1,0 +1,72 @@
+{
+  "id": "gossifleur",
+  "nid": "0829",
+  "dexNum": 829,
+  "formId": null,
+  "name": "Gossifleur",
+  "psName": "Gossifleur",
+  "formName": null,
+  "region": "galar",
+  "generation": 8,
+  "type1": "grass",
+  "type2": null,
+  "color": "green",
+  "abilities": {
+    "primary": "cottondown",
+    "secondary": "regenerator",
+    "hidden": "effectspore"
+  },
+  "isDefault": true,
+  "isForm": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": false,
+  "isSwitchableForm": false,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": true,
+  "canBeAlpha": false,
+  "debutIn": "swsh",
+  "obtainableIn": [
+    "swsh"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [
+    "swsh",
+    "home"
+  ],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 40,
+    "atk": 40,
+    "def": 60,
+    "spa": 40,
+    "spd": 60,
+    "spe": 10
+  },
+  "weight": 220,
+  "height": 40,
+  "baseSpecies": null,
+  "baseForms": [],
+  "forms": [],
+  "evolvesFrom": null,
+  "refs": {
+    "smogon": "gossifleur",
+    "showdown": "gossifleur",
+    "serebii": "gossifleur",
+    "bulbapedia": "Gossifleur"
+  }
+}

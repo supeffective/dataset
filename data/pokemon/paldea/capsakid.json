@@ -1,0 +1,72 @@
+{
+  "id": "capsakid",
+  "nid": "0951",
+  "dexNum": 951,
+  "formId": null,
+  "name": "Capsakid",
+  "psName": "Capsakid",
+  "formName": null,
+  "region": "paldea",
+  "generation": 9,
+  "type1": "grass",
+  "type2": null,
+  "color": "green",
+  "abilities": {
+    "primary": "chlorophyll",
+    "secondary": "insomnia",
+    "hidden": "klutz"
+  },
+  "isDefault": true,
+  "isForm": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": false,
+  "isSwitchableForm": false,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": false,
+  "canBeAlpha": false,
+  "debutIn": "sv",
+  "obtainableIn": [
+    "sv"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [
+    "home",
+    "sv"
+  ],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 50,
+    "atk": 62,
+    "def": 40,
+    "spa": 62,
+    "spd": 40,
+    "spe": 50
+  },
+  "weight": 300,
+  "height": 30,
+  "baseSpecies": null,
+  "baseForms": [],
+  "forms": [],
+  "evolvesFrom": null,
+  "refs": {
+    "smogon": "capsakid",
+    "showdown": "capsakid",
+    "serebii": "capsakid",
+    "bulbapedia": "Capsakid"
+  }
+}

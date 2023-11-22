@@ -1,0 +1,75 @@
+{
+  "id": "revavroom",
+  "nid": "0966",
+  "dexNum": 966,
+  "formId": null,
+  "name": "Revavroom",
+  "psName": "Revavroom",
+  "formName": null,
+  "region": "paldea",
+  "generation": 9,
+  "type1": "steel",
+  "type2": "poison",
+  "color": "gray",
+  "abilities": {
+    "primary": "overcoat",
+    "secondary": null,
+    "hidden": "filter"
+  },
+  "isDefault": true,
+  "isForm": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": false,
+  "isSwitchableForm": false,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": false,
+  "canBeAlpha": false,
+  "debutIn": "sv",
+  "obtainableIn": [
+    "sv"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [
+    "home",
+    "sv"
+  ],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 80,
+    "atk": 119,
+    "def": 90,
+    "spa": 54,
+    "spd": 67,
+    "spe": 90
+  },
+  "weight": 12000,
+  "height": 180,
+  "baseSpecies": null,
+  "baseForms": [],
+  "forms": [],
+  "evolvesFrom": {
+    "pokemon": "varoom",
+    "level": 40
+  },
+  "refs": {
+    "smogon": "revavroom",
+    "showdown": "revavroom",
+    "serebii": "revavroom",
+    "bulbapedia": "Revavroom"
+  }
+}

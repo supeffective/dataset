@@ -1,0 +1,72 @@
+{
+  "id": "flittle",
+  "nid": "0955",
+  "dexNum": 955,
+  "formId": null,
+  "name": "Flittle",
+  "psName": "Flittle",
+  "formName": null,
+  "region": "paldea",
+  "generation": 9,
+  "type1": "psychic",
+  "type2": null,
+  "color": "yellow",
+  "abilities": {
+    "primary": "anticipation",
+    "secondary": "frisk",
+    "hidden": "speedboost"
+  },
+  "isDefault": true,
+  "isForm": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": false,
+  "isSwitchableForm": false,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": false,
+  "canBeAlpha": false,
+  "debutIn": "sv",
+  "obtainableIn": [
+    "sv"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [
+    "home",
+    "sv"
+  ],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 30,
+    "atk": 35,
+    "def": 30,
+    "spa": 55,
+    "spd": 30,
+    "spe": 75
+  },
+  "weight": 150,
+  "height": 20,
+  "baseSpecies": null,
+  "baseForms": [],
+  "forms": [],
+  "evolvesFrom": null,
+  "refs": {
+    "smogon": "flittle",
+    "showdown": "flittle",
+    "serebii": "flittle",
+    "bulbapedia": "Flittle"
+  }
+}

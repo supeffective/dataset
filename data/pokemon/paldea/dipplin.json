@@ -1,0 +1,79 @@
+{
+  "id": "dipplin",
+  "nid": "1011",
+  "dexNum": 1011,
+  "formId": null,
+  "name": "Dipplin",
+  "psName": "Dipplin",
+  "formName": null,
+  "region": "paldea",
+  "generation": 9,
+  "type1": "grass",
+  "type2": "dragon",
+  "color": "red",
+  "abilities": {
+    "primary": "supersweetsyrup",
+    "secondary": "gluttony",
+    "hidden": "stickyhold"
+  },
+  "isDefault": true,
+  "isForm": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "paradoxSpecies": null,
+  "convergentSpecies": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": false,
+  "isSwitchableForm": false,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": false,
+  "canBeAlpha": false,
+  "debutIn": "sv",
+  "obtainableIn": [
+    "sv"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [
+    "home",
+    "sv"
+  ],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 80,
+    "atk": 80,
+    "def": 110,
+    "spa": 95,
+    "spd": 80,
+    "spe": 40
+  },
+  "weight": 440,
+  "height": -1,
+  "baseSpecies": null,
+  "baseForms": [],
+  "forms": [],
+  "family": null,
+  "evolvesFrom": {
+    "pokemon": "applin",
+    "item": "syrupyapple",
+    "type": "useitem"
+  },
+  "refs": {
+    "smogon": "dipplin",
+    "showdown": "dipplin",
+    "serebii": "dipplin",
+    "bulbapedia": "Dipplin"
+  }
+}

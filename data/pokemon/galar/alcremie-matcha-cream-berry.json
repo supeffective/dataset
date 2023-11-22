@@ -1,0 +1,76 @@
+{
+  "id": "alcremie-matcha-cream-berry",
+  "nid": "0869-matcha-cream-berry",
+  "dexNum": 869,
+  "formId": "matcha-cream-berry",
+  "name": "Alcremie (Matcha Cream Berry)",
+  "psName": "Alcremie",
+  "formName": "Matcha Cream Berry",
+  "region": "galar",
+  "generation": 8,
+  "type1": "fairy",
+  "type2": null,
+  "color": "white",
+  "abilities": {
+    "primary": "sweetveil",
+    "secondary": null,
+    "hidden": "aromaveil"
+  },
+  "isDefault": false,
+  "isForm": true,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": true,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": false,
+  "isSwitchableForm": false,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": true,
+  "canBeAlpha": false,
+  "debutIn": "swsh",
+  "obtainableIn": [
+    "swsh"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [
+    "swsh",
+    "home"
+  ],
+  "shinyReleased": true,
+  "shinyBase": "alcremie-vanilla-cream-berry",
+  "baseStats": {
+    "hp": 65,
+    "atk": 60,
+    "def": 75,
+    "spa": 110,
+    "spd": 121,
+    "spe": 64
+  },
+  "weight": 50,
+  "height": 30,
+  "baseSpecies": "alcremie",
+  "baseForms": [],
+  "forms": [],
+  "evolvesFrom": {
+    "pokemon": "milcery",
+    "type": "other",
+    "condition": "spin while holding a Sweet"
+  },
+  "refs": {
+    "smogon": "alcremie-matcha-cream-berry",
+    "showdown": "alcremie",
+    "serebii": "alcremie",
+    "bulbapedia": "Alcremie"
+  }
+}

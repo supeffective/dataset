@@ -1,0 +1,76 @@
+{
+  "id": "indeedee",
+  "nid": "0876",
+  "dexNum": 876,
+  "formId": "m",
+  "name": "Indeedee",
+  "psName": "Indeedee",
+  "formName": "Male",
+  "region": "galar",
+  "generation": 8,
+  "type1": "psychic",
+  "type2": "normal",
+  "color": "purple",
+  "abilities": {
+    "primary": "innerfocus",
+    "secondary": "synchronize",
+    "hidden": "psychicsurge"
+  },
+  "isDefault": true,
+  "isForm": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": true,
+  "isBattleOnlyForm": false,
+  "isSwitchableForm": false,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": true,
+  "canBeAlpha": false,
+  "debutIn": "swsh",
+  "obtainableIn": [
+    "swsh",
+    "sv"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [
+    "swsh",
+    "home",
+    "sv"
+  ],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 60,
+    "atk": 65,
+    "def": 55,
+    "spa": 105,
+    "spd": 95,
+    "spe": 95
+  },
+  "weight": 2800,
+  "height": 90,
+  "baseSpecies": null,
+  "baseForms": [],
+  "forms": [
+    "indeedee-f"
+  ],
+  "evolvesFrom": null,
+  "refs": {
+    "smogon": "indeedee",
+    "showdown": "indeedee",
+    "serebii": "indeedee",
+    "bulbapedia": "Indeedee"
+  }
+}

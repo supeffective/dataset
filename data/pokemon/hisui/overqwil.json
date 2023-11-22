@@ -1,0 +1,79 @@
+{
+  "id": "overqwil",
+  "nid": "0904",
+  "dexNum": 904,
+  "formId": null,
+  "name": "Overqwil",
+  "psName": "Overqwil",
+  "formName": null,
+  "region": "hisui",
+  "generation": 8,
+  "type1": "dark",
+  "type2": "poison",
+  "color": "gray",
+  "abilities": {
+    "primary": "poisonpoint",
+    "secondary": "swiftswim",
+    "hidden": "intimidate"
+  },
+  "isDefault": true,
+  "isForm": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": false,
+  "isSwitchableForm": false,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": false,
+  "canBeAlpha": true,
+  "debutIn": "la",
+  "obtainableIn": [
+    "go",
+    "la"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [
+    "go",
+    "home",
+    "la",
+    "sv"
+  ],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 85,
+    "atk": 115,
+    "def": 95,
+    "spa": 65,
+    "spd": 65,
+    "spe": 85
+  },
+  "weight": 6050,
+  "height": 50,
+  "baseSpecies": null,
+  "baseForms": [],
+  "forms": [],
+  "evolvesFrom": {
+    "pokemon": "qwilfish-hisui",
+    "type": "other",
+    "condition": "Use Strong style Barb Barrage 20 times"
+  },
+  "refs": {
+    "smogon": "overqwil",
+    "showdown": "overqwil",
+    "serebii": "overqwil",
+    "bulbapedia": "Overqwil"
+  }
+}

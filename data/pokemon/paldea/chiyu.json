@@ -1,0 +1,72 @@
+{
+  "id": "chiyu",
+  "nid": "1004",
+  "dexNum": 1004,
+  "formId": null,
+  "name": "Chi-Yu",
+  "psName": "Chi-Yu",
+  "formName": null,
+  "region": "paldea",
+  "generation": 9,
+  "type1": "dark",
+  "type2": "fire",
+  "color": "red",
+  "abilities": {
+    "primary": "beadsofruin",
+    "secondary": null,
+    "hidden": null
+  },
+  "isDefault": true,
+  "isForm": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": false,
+  "isSwitchableForm": false,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": false,
+  "canBeAlpha": false,
+  "debutIn": "sv",
+  "obtainableIn": [
+    "sv"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [
+    "home",
+    "sv"
+  ],
+  "shinyReleased": false,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 55,
+    "atk": 80,
+    "def": 80,
+    "spa": 135,
+    "spd": 120,
+    "spe": 100
+  },
+  "weight": 490,
+  "height": 40,
+  "baseSpecies": null,
+  "baseForms": [],
+  "forms": [],
+  "evolvesFrom": null,
+  "refs": {
+    "smogon": "chiyu",
+    "showdown": "chiyu",
+    "serebii": "chiyu",
+    "bulbapedia": "Chiyu"
+  }
+}

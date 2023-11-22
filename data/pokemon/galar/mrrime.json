@@ -1,0 +1,77 @@
+{
+  "id": "mrrime",
+  "nid": "0866",
+  "dexNum": 866,
+  "formId": null,
+  "name": "Mr. Rime",
+  "psName": "Mr. Rime",
+  "formName": null,
+  "region": "galar",
+  "generation": 8,
+  "type1": "ice",
+  "type2": "psychic",
+  "color": "purple",
+  "abilities": {
+    "primary": "tangledfeet",
+    "secondary": "screencleaner",
+    "hidden": "icebody"
+  },
+  "isDefault": true,
+  "isForm": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": false,
+  "isSwitchableForm": false,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": true,
+  "canBeAlpha": false,
+  "debutIn": "swsh",
+  "obtainableIn": [
+    "go",
+    "swsh"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [
+    "go",
+    "swsh",
+    "home"
+  ],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 80,
+    "atk": 85,
+    "def": 75,
+    "spa": 110,
+    "spd": 100,
+    "spe": 70
+  },
+  "weight": 5820,
+  "height": 150,
+  "baseSpecies": null,
+  "baseForms": [],
+  "forms": [],
+  "evolvesFrom": {
+    "pokemon": "mrmime-galar",
+    "level": 42
+  },
+  "refs": {
+    "smogon": "mrrime",
+    "showdown": "mrrime",
+    "serebii": "mrrime",
+    "bulbapedia": "Mr. Rime"
+  }
+}

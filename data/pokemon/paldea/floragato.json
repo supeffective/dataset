@@ -1,0 +1,80 @@
+{
+  "id": "floragato",
+  "nid": "0907",
+  "dexNum": 907,
+  "formId": null,
+  "name": "Floragato",
+  "psName": "Floragato",
+  "formName": null,
+  "region": "paldea",
+  "generation": 9,
+  "type1": "grass",
+  "type2": null,
+  "color": "green",
+  "abilities": {
+    "primary": "overgrow",
+    "secondary": null,
+    "hidden": "protean"
+  },
+  "isDefault": true,
+  "isForm": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "paradoxSpecies": null,
+  "convergentSpecies": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": false,
+  "isSwitchableForm": false,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": false,
+  "canBeAlpha": false,
+  "debutIn": "sv",
+  "obtainableIn": [
+    "go",
+    "sv"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [
+    "go",
+    "home",
+    "sv"
+  ],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 61,
+    "atk": 80,
+    "def": 63,
+    "spa": 60,
+    "spd": 63,
+    "spe": 83
+  },
+  "weight": 1220,
+  "height": 90,
+  "baseSpecies": null,
+  "baseForms": [],
+  "forms": [],
+  "family": null,
+  "evolvesFrom": {
+    "pokemon": "sprigatito",
+    "level": 16
+  },
+  "refs": {
+    "smogon": "floragato",
+    "showdown": "floragato",
+    "serebii": "floragato",
+    "bulbapedia": "Floragato"
+  }
+}

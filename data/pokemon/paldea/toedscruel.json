@@ -1,0 +1,75 @@
+{
+  "id": "toedscruel",
+  "nid": "0949",
+  "dexNum": 949,
+  "formId": null,
+  "name": "Toedscruel",
+  "psName": "Toedscruel",
+  "formName": null,
+  "region": "paldea",
+  "generation": 9,
+  "type1": "ground",
+  "type2": "grass",
+  "color": "black",
+  "abilities": {
+    "primary": "myceliummight",
+    "secondary": null,
+    "hidden": null
+  },
+  "isDefault": true,
+  "isForm": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": false,
+  "isSwitchableForm": false,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": false,
+  "canBeAlpha": false,
+  "debutIn": "sv",
+  "obtainableIn": [
+    "sv"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [
+    "home",
+    "sv"
+  ],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 80,
+    "atk": 70,
+    "def": 65,
+    "spa": 80,
+    "spd": 120,
+    "spe": 100
+  },
+  "weight": 5800,
+  "height": 190,
+  "baseSpecies": null,
+  "baseForms": [],
+  "forms": [],
+  "evolvesFrom": {
+    "pokemon": "toedscool",
+    "level": 30
+  },
+  "refs": {
+    "smogon": "toedscruel",
+    "showdown": "toedscruel",
+    "serebii": "toedscruel",
+    "bulbapedia": "Toedscruel"
+  }
+}

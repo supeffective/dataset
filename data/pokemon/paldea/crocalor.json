@@ -1,0 +1,77 @@
+{
+  "id": "crocalor",
+  "nid": "0910",
+  "dexNum": 910,
+  "formId": null,
+  "name": "Crocalor",
+  "psName": "Crocalor",
+  "formName": null,
+  "region": "paldea",
+  "generation": 9,
+  "type1": "fire",
+  "type2": null,
+  "color": "red",
+  "abilities": {
+    "primary": "blaze",
+    "secondary": null,
+    "hidden": "unaware"
+  },
+  "isDefault": true,
+  "isForm": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": false,
+  "isSwitchableForm": false,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": false,
+  "canBeAlpha": false,
+  "debutIn": "sv",
+  "obtainableIn": [
+    "go",
+    "sv"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [
+    "go",
+    "home",
+    "sv"
+  ],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 81,
+    "atk": 55,
+    "def": 78,
+    "spa": 90,
+    "spd": 58,
+    "spe": 49
+  },
+  "weight": 3070,
+  "height": 100,
+  "baseSpecies": null,
+  "baseForms": [],
+  "forms": [],
+  "evolvesFrom": {
+    "pokemon": "fuecoco",
+    "level": 16
+  },
+  "refs": {
+    "smogon": "crocalor",
+    "showdown": "crocalor",
+    "serebii": "crocalor",
+    "bulbapedia": "Crocalor"
+  }
+}

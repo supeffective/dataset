@@ -1,0 +1,83 @@
+{
+  "id": "poltchageist",
+  "nid": "1012",
+  "dexNum": 1012,
+  "formId": "counterfeit",
+  "name": "Poltchageist",
+  "psName": "Poltchageist",
+  "formName": "Counterfeit Form",
+  "region": "paldea",
+  "generation": 9,
+  "type1": "grass",
+  "type2": "ghost",
+  "color": "white",
+  "abilities": {
+    "primary": "hospitality",
+    "secondary": null,
+    "hidden": "heatproof"
+  },
+  "isDefault": true,
+  "isForm": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "paradoxSpecies": null,
+  "isConvergent": true,
+  "convergentSpecies": [
+    "sinistea",
+    "sinistea-antique",
+    "polteageist",
+    "polteageist-antique"
+  ],
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": false,
+  "isSwitchableForm": false,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": false,
+  "canBeAlpha": false,
+  "debutIn": "sv",
+  "obtainableIn": [
+    "sv"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [
+    "home",
+    "sv"
+  ],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 40,
+    "atk": 45,
+    "def": 45,
+    "spa": 74,
+    "spd": 54,
+    "spe": 50
+  },
+  "weight": 110,
+  "height": 10,
+  "baseSpecies": null,
+  "baseForms": [],
+  "forms": [],
+  "family": null,
+  "evolvesFrom": {
+    "pokemon": null
+  },
+  "refs": {
+    "smogon": "poltchageist",
+    "showdown": "poltchageist",
+    "serebii": "poltchageist",
+    "bulbapedia": "Poltchageist"
+  }
+}

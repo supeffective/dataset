@@ -1,0 +1,75 @@
+{
+  "id": "thievul",
+  "nid": "0828",
+  "dexNum": 828,
+  "formId": null,
+  "name": "Thievul",
+  "psName": "Thievul",
+  "formName": null,
+  "region": "galar",
+  "generation": 8,
+  "type1": "dark",
+  "type2": null,
+  "color": "brown",
+  "abilities": {
+    "primary": "runaway",
+    "secondary": "unburden",
+    "hidden": "stakeout"
+  },
+  "isDefault": true,
+  "isForm": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": false,
+  "isSwitchableForm": false,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": true,
+  "canBeAlpha": false,
+  "debutIn": "swsh",
+  "obtainableIn": [
+    "swsh"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [
+    "swsh",
+    "home"
+  ],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 70,
+    "atk": 58,
+    "def": 58,
+    "spa": 87,
+    "spd": 92,
+    "spe": 90
+  },
+  "weight": 1990,
+  "height": 120,
+  "baseSpecies": null,
+  "baseForms": [],
+  "forms": [],
+  "evolvesFrom": {
+    "pokemon": "nickit",
+    "level": 18
+  },
+  "refs": {
+    "smogon": "thievul",
+    "showdown": "thievul",
+    "serebii": "thievul",
+    "bulbapedia": "Thievul"
+  }
+}

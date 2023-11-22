@@ -1,0 +1,72 @@
+{
+  "id": "wochien",
+  "nid": "1001",
+  "dexNum": 1001,
+  "formId": null,
+  "name": "Wo-Chien",
+  "psName": "Wo-Chien",
+  "formName": null,
+  "region": "paldea",
+  "generation": 9,
+  "type1": "dark",
+  "type2": "grass",
+  "color": "brown",
+  "abilities": {
+    "primary": "tabletsofruin",
+    "secondary": null,
+    "hidden": null
+  },
+  "isDefault": true,
+  "isForm": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": false,
+  "isSwitchableForm": false,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": false,
+  "canBeAlpha": false,
+  "debutIn": "sv",
+  "obtainableIn": [
+    "sv"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [
+    "home",
+    "sv"
+  ],
+  "shinyReleased": false,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 85,
+    "atk": 85,
+    "def": 100,
+    "spa": 95,
+    "spd": 135,
+    "spe": 70
+  },
+  "weight": 7420,
+  "height": 150,
+  "baseSpecies": null,
+  "baseForms": [],
+  "forms": [],
+  "evolvesFrom": null,
+  "refs": {
+    "smogon": "wochien",
+    "showdown": "wochien",
+    "serebii": "wochien",
+    "bulbapedia": "Wochien"
+  }
+}

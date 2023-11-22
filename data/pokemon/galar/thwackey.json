@@ -1,0 +1,76 @@
+{
+  "id": "thwackey",
+  "nid": "0811",
+  "dexNum": 811,
+  "formId": null,
+  "name": "Thwackey",
+  "psName": "Thwackey",
+  "formName": null,
+  "region": "galar",
+  "generation": 8,
+  "type1": "grass",
+  "type2": null,
+  "color": "green",
+  "abilities": {
+    "primary": "overgrow",
+    "secondary": null,
+    "hidden": "grassysurge"
+  },
+  "isDefault": true,
+  "isForm": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": false,
+  "isSwitchableForm": false,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": true,
+  "canBeAlpha": false,
+  "debutIn": "swsh",
+  "obtainableIn": [
+    "swsh"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [
+    "swsh",
+    "home",
+    "sv"
+  ],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 70,
+    "atk": 85,
+    "def": 70,
+    "spa": 55,
+    "spd": 60,
+    "spe": 80
+  },
+  "weight": 1400,
+  "height": 70,
+  "baseSpecies": null,
+  "baseForms": [],
+  "forms": [],
+  "evolvesFrom": {
+    "pokemon": "grookey",
+    "level": 16
+  },
+  "refs": {
+    "smogon": "thwackey",
+    "showdown": "thwackey",
+    "serebii": "thwackey",
+    "bulbapedia": "Thwackey"
+  }
+}

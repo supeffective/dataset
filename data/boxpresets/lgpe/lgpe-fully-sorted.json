@@ -1,0 +1,12 @@
+{
+  "id": "lgpe-fully-sorted",
+  "legacyId": "fully-sorted",
+  "name": "National: Sorted by Forms",
+  "version": 1,
+  "gameSet": "lgpe",
+  "description": "Pokémon Boxes are sorted following HOME's National Dex order, mixing Species and Forms together.",
+  "boxes": [
+    {"pokemon":["bulbasaur","ivysaur","venusaur","venusaur-f","charmander","charmeleon","charizard","squirtle","wartortle","blastoise","caterpie","metapod","butterfree","butterfree-f","weedle","kakuna","beedrill","pidgey","pidgeotto","pidgeot","rattata","rattata-f","rattata-alola","raticate","raticate-f","raticate-alola","spearow","fearow","ekans","arbok","pikachu","pikachu-f","raichu","raichu-f","raichu-alola","sandshrew","sandshrew-alola","sandslash","sandslash-alola","nidoranf","nidorina","nidoqueen","nidoranm","nidorino","nidoking","clefairy","clefable","vulpix","vulpix-alola","ninetales","ninetales-alola","jigglypuff","wigglytuff","zubat","zubat-f","golbat","golbat-f","oddish","gloom","gloom-f","vileplume","vileplume-f","paras","parasect","venonat","venomoth","diglett","diglett-alola","dugtrio","dugtrio-alola","meowth","meowth-alola","persian","persian-alola","psyduck","golduck","mankey","primeape","growlithe","arcanine","poliwag","poliwhirl","poliwrath","abra","kadabra","kadabra-f","alakazam","alakazam-f","machop","machoke","machamp","bellsprout","weepinbell","victreebel","tentacool","tentacruel","geodude","geodude-alola","graveler","graveler-alola","golem","golem-alola","ponyta","rapidash","slowpoke","slowbro","magnemite","magneton","farfetchd","doduo","doduo-f","dodrio","dodrio-f","seel","dewgong","grimer","grimer-alola","muk","muk-alola","shellder","cloyster","gastly","haunter","gengar","onix","drowzee","hypno","hypno-f","krabby","kingler","voltorb","electrode","exeggcute","exeggutor","exeggutor-alola","cubone","marowak","marowak-alola","hitmonlee","hitmonchan","lickitung","koffing","weezing","rhyhorn","rhyhorn-f","rhydon","rhydon-f","chansey","tangela","kangaskhan","horsea","seadra","goldeen","goldeen-f","seaking","seaking-f","staryu","starmie","mrmime","scyther","scyther-f","jynx","electabuzz","magmar","pinsir","tauros","magikarp","magikarp-f","gyarados","gyarados-f","lapras","ditto","eevee","vaporeon","jolteon","flareon","porygon","omanyte","omastar","kabuto","kabutops","aerodactyl","snorlax","articuno","zapdos","moltres","dratini","dragonair","dragonite","mewtwo","mew","meltan","melmetal"]}
+    
+  ]
+}

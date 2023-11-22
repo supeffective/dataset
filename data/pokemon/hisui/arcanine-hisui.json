@@ -1,0 +1,80 @@
+{
+  "id": "arcanine-hisui",
+  "nid": "0059-hisui",
+  "dexNum": 59,
+  "formId": "hisui",
+  "name": "Hisuian Arcanine",
+  "psName": "Arcanine-Hisui",
+  "formName": "Hisuian Form",
+  "region": "hisui",
+  "generation": 8,
+  "type1": "fire",
+  "type2": "rock",
+  "color": "brown",
+  "abilities": {
+    "primary": "intimidate",
+    "secondary": "flashfire",
+    "hidden": "rockhead"
+  },
+  "isDefault": false,
+  "isForm": true,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": false,
+  "isSwitchableForm": false,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": true,
+  "canGmax": false,
+  "canDynamax": false,
+  "canBeAlpha": true,
+  "debutIn": "la",
+  "obtainableIn": [
+    "go",
+    "la",
+    "sv"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [
+    "go",
+    "home",
+    "la",
+    "sv"
+  ],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 95,
+    "atk": 115,
+    "def": 80,
+    "spa": 95,
+    "spd": 80,
+    "spe": 90
+  },
+  "weight": 16800,
+  "height": 200,
+  "baseSpecies": "arcanine",
+  "baseForms": [],
+  "forms": [],
+  "evolvesFrom": {
+    "pokemon": "growlithe-hisui",
+    "item": "firestone",
+    "type": "useitem"
+  },
+  "refs": {
+    "smogon": "arcanine-hisui",
+    "showdown": "arcaninehisui",
+    "serebii": "arcanine",
+    "bulbapedia": "Arcanine"
+  }
+}

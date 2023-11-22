@@ -1,0 +1,83 @@
+{
+  "id": "golem-alola",
+  "nid": "0076-alola",
+  "dexNum": 76,
+  "formId": "alola",
+  "name": "Alolan Golem",
+  "psName": "Golem-Alola",
+  "formName": "Alolan Form",
+  "region": "alola",
+  "generation": 7,
+  "type1": "rock",
+  "type2": "electric",
+  "color": "gray",
+  "abilities": {
+    "primary": "magnetpull",
+    "secondary": "sturdy",
+    "hidden": "galvanize"
+  },
+  "isDefault": false,
+  "isForm": true,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": false,
+  "isSwitchableForm": false,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": true,
+  "canGmax": false,
+  "canDynamax": true,
+  "canBeAlpha": false,
+  "debutIn": "sm",
+  "obtainableIn": [
+    "go",
+    "sm",
+    "usum",
+    "lgpe",
+    "sv"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [
+    "go",
+    "sm",
+    "usum",
+    "lgpe",
+    "home",
+    "sv"
+  ],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 80,
+    "atk": 120,
+    "def": 130,
+    "spa": 55,
+    "spd": 65,
+    "spe": 45
+  },
+  "weight": 31600,
+  "height": 170,
+  "baseSpecies": "golem",
+  "baseForms": [],
+  "forms": [],
+  "evolvesFrom": {
+    "pokemon": "graveler-alola",
+    "type": "trade"
+  },
+  "refs": {
+    "smogon": "golem-alola",
+    "showdown": "golemalola",
+    "serebii": "golem",
+    "bulbapedia": "Golem"
+  }
+}

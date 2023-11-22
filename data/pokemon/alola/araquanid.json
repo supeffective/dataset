@@ -1,0 +1,81 @@
+{
+  "id": "araquanid",
+  "nid": "0752",
+  "dexNum": 752,
+  "formId": null,
+  "name": "Araquanid",
+  "psName": "Araquanid",
+  "formName": null,
+  "region": "alola",
+  "generation": 7,
+  "type1": "water",
+  "type2": "bug",
+  "color": "green",
+  "abilities": {
+    "primary": "waterbubble",
+    "secondary": null,
+    "hidden": "waterabsorb"
+  },
+  "isDefault": true,
+  "isForm": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": false,
+  "isSwitchableForm": false,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": true,
+  "canBeAlpha": false,
+  "debutIn": "sm",
+  "obtainableIn": [
+    "go",
+    "sm",
+    "usum",
+    "swsh"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [
+    "go",
+    "sm",
+    "usum",
+    "swsh",
+    "home"
+  ],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 68,
+    "atk": 70,
+    "def": 92,
+    "spa": 50,
+    "spd": 132,
+    "spe": 42
+  },
+  "weight": 8200,
+  "height": 180,
+  "baseSpecies": null,
+  "baseForms": [],
+  "forms": [],
+  "evolvesFrom": {
+    "pokemon": "dewpider",
+    "level": 22
+  },
+  "refs": {
+    "smogon": "araquanid",
+    "showdown": "araquanid",
+    "serebii": "araquanid",
+    "bulbapedia": "Araquanid"
+  }
+}

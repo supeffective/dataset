@@ -1,0 +1,77 @@
+{
+  "id": "pawmo",
+  "nid": "0922",
+  "dexNum": 922,
+  "formId": null,
+  "name": "Pawmo",
+  "psName": "Pawmo",
+  "formName": null,
+  "region": "paldea",
+  "generation": 9,
+  "type1": "electric",
+  "type2": "fighting",
+  "color": "yellow",
+  "abilities": {
+    "primary": "voltabsorb",
+    "secondary": "naturalcure",
+    "hidden": "ironfist"
+  },
+  "isDefault": true,
+  "isForm": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": false,
+  "isSwitchableForm": false,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": false,
+  "canBeAlpha": false,
+  "debutIn": "sv",
+  "obtainableIn": [
+    "go",
+    "sv"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [
+    "go",
+    "home",
+    "sv"
+  ],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 60,
+    "atk": 75,
+    "def": 40,
+    "spa": 50,
+    "spd": 40,
+    "spe": 85
+  },
+  "weight": 650,
+  "height": 40,
+  "baseSpecies": null,
+  "baseForms": [],
+  "forms": [],
+  "evolvesFrom": {
+    "pokemon": "pawmi",
+    "level": 18
+  },
+  "refs": {
+    "smogon": "pawmo",
+    "showdown": "pawmo",
+    "serebii": "pawmo",
+    "bulbapedia": "Pawmo"
+  }
+}

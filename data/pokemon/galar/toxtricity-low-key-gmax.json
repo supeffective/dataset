@@ -1,0 +1,71 @@
+{
+  "id": "toxtricity-low-key-gmax",
+  "nid": "0849-low-key-gmax",
+  "dexNum": 849,
+  "formId": "low-key-gmax",
+  "name": "Gigantamax Toxtricity Low Key",
+  "psName": "Toxtricity-Low-Key-Gmax",
+  "formName": "Gigantamax Low Key",
+  "region": "galar",
+  "generation": 8,
+  "type1": "electric",
+  "type2": "poison",
+  "color": "purple",
+  "abilities": {
+    "primary": "punkrock",
+    "secondary": "minus",
+    "hidden": "technician"
+  },
+  "isDefault": false,
+  "isForm": true,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": true,
+  "isSwitchableForm": true,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": true,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": false,
+  "canBeAlpha": false,
+  "debutIn": "swsh",
+  "obtainableIn": [
+    "swsh"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 75,
+    "atk": 98,
+    "def": 70,
+    "spa": 114,
+    "spd": 70,
+    "spe": 75
+  },
+  "weight": 0,
+  "height": 2400,
+  "baseSpecies": "toxtricity",
+  "baseForms": [
+    "toxtricity-low-key"
+  ],
+  "forms": [],
+  "evolvesFrom": null,
+  "refs": {
+    "smogon": "toxtricity-low-key-gmax",
+    "showdown": "toxtricitylowkeygmax",
+    "serebii": "toxtricity",
+    "bulbapedia": "Toxtricity"
+  }
+}

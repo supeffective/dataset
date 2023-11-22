@@ -1,0 +1,74 @@
+{
+  "id": "greninja-ash",
+  "nid": "0658-ash",
+  "dexNum": 658,
+  "formId": "ash",
+  "name": "Ash-Greninja",
+  "psName": "Greninja-Ash",
+  "formName": "Ash",
+  "region": "alola",
+  "generation": 7,
+  "type1": "water",
+  "type2": "dark",
+  "color": "blue",
+  "abilities": {
+    "primary": "battlebond",
+    "secondary": null,
+    "hidden": null
+  },
+  "isDefault": false,
+  "isForm": true,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": false,
+  "isSwitchableForm": true,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": true,
+  "canBeAlpha": false,
+  "debutIn": "sm",
+  "obtainableIn": [
+    "sm"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [
+    "sm",
+    "usum"
+  ],
+  "shinyReleased": false,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 72,
+    "atk": 145,
+    "def": 67,
+    "spa": 153,
+    "spd": 71,
+    "spe": 132
+  },
+  "weight": 4000,
+  "height": 150,
+  "baseSpecies": "greninja",
+  "baseForms": [
+    "greninja--battle-bond"
+  ],
+  "forms": [],
+  "evolvesFrom": null,
+  "refs": {
+    "smogon": "greninja-ash",
+    "showdown": "greninjaash",
+    "serebii": "greninja",
+    "bulbapedia": "Greninja"
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "id": "cetitan",
+  "nid": "0975",
+  "dexNum": 975,
+  "formId": null,
+  "name": "Cetitan",
+  "psName": "Cetitan",
+  "formName": null,
+  "region": "paldea",
+  "generation": 9,
+  "type1": "ice",
+  "type2": null,
+  "color": "white",
+  "abilities": {
+    "primary": "thickfat",
+    "secondary": "slushrush",
+    "hidden": "sheerforce"
+  },
+  "isDefault": true,
+  "isForm": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": false,
+  "isSwitchableForm": false,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": false,
+  "canBeAlpha": false,
+  "debutIn": "sv",
+  "obtainableIn": [
+    "sv"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [
+    "home",
+    "sv"
+  ],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 170,
+    "atk": 113,
+    "def": 65,
+    "spa": 45,
+    "spd": 55,
+    "spe": 73
+  },
+  "weight": 70000,
+  "height": 450,
+  "baseSpecies": null,
+  "baseForms": [],
+  "forms": [],
+  "evolvesFrom": {
+    "pokemon": "cetoddle",
+    "item": "icestone",
+    "type": "useitem"
+  },
+  "refs": {
+    "smogon": "cetitan",
+    "showdown": "cetitan",
+    "serebii": "cetitan",
+    "bulbapedia": "Cetitan"
+  }
+}

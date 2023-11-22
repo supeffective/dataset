@@ -1,0 +1,82 @@
+{
+  "id": "oricorio",
+  "nid": "0741",
+  "dexNum": 741,
+  "formId": "baile",
+  "name": "Oricorio",
+  "psName": "Oricorio",
+  "formName": "Baile Style",
+  "region": "alola",
+  "generation": 7,
+  "type1": "fire",
+  "type2": "flying",
+  "color": "red",
+  "abilities": {
+    "primary": "dancer",
+    "secondary": null,
+    "hidden": null
+  },
+  "isDefault": true,
+  "isForm": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": false,
+  "isSwitchableForm": false,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": true,
+  "canBeAlpha": false,
+  "debutIn": "sm",
+  "obtainableIn": [
+    "go",
+    "sm",
+    "usum",
+    "sv"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [
+    "go",
+    "sm",
+    "usum",
+    "home",
+    "sv"
+  ],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 75,
+    "atk": 70,
+    "def": 70,
+    "spa": 98,
+    "spd": 70,
+    "spe": 93
+  },
+  "weight": 340,
+  "height": 60,
+  "baseSpecies": null,
+  "baseForms": [],
+  "forms": [
+    "oricorio-pom-pom",
+    "oricorio-pau",
+    "oricorio-sensu"
+  ],
+  "evolvesFrom": null,
+  "refs": {
+    "smogon": "oricorio",
+    "showdown": "oricorio",
+    "serebii": "oricorio",
+    "bulbapedia": "Oricorio"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "shroodle",
+  "nid": "0944",
+  "dexNum": 944,
+  "formId": null,
+  "name": "Shroodle",
+  "psName": "Shroodle",
+  "formName": null,
+  "region": "paldea",
+  "generation": 9,
+  "type1": "poison",
+  "type2": "normal",
+  "color": "gray",
+  "abilities": {
+    "primary": "unburden",
+    "secondary": "pickpocket",
+    "hidden": "prankster"
+  },
+  "isDefault": true,
+  "isForm": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": false,
+  "isSwitchableForm": false,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": false,
+  "canBeAlpha": false,
+  "debutIn": "sv",
+  "obtainableIn": [
+    "sv"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [
+    "home",
+    "sv"
+  ],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 40,
+    "atk": 65,
+    "def": 35,
+    "spa": 40,
+    "spd": 35,
+    "spe": 75
+  },
+  "weight": 70,
+  "height": 20,
+  "baseSpecies": null,
+  "baseForms": [],
+  "forms": [],
+  "evolvesFrom": null,
+  "refs": {
+    "smogon": "shroodle",
+    "showdown": "shroodle",
+    "serebii": "shroodle",
+    "bulbapedia": "Shroodle"
+  }
+}

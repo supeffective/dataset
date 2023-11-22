@@ -1,0 +1,72 @@
+{
+  "id": "ironthorns",
+  "nid": "0995",
+  "dexNum": 995,
+  "formId": null,
+  "name": "Iron Thorns",
+  "psName": "Iron Thorns",
+  "formName": null,
+  "region": "paldea",
+  "generation": 9,
+  "type1": "rock",
+  "type2": "electric",
+  "color": "green",
+  "abilities": {
+    "primary": "quarkdrive",
+    "secondary": null,
+    "hidden": null
+  },
+  "isDefault": true,
+  "isForm": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": false,
+  "isSwitchableForm": false,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": false,
+  "canBeAlpha": false,
+  "debutIn": "sv",
+  "obtainableIn": [
+    "sv"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [
+    "home",
+    "sv"
+  ],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 100,
+    "atk": 134,
+    "def": 110,
+    "spa": 70,
+    "spd": 84,
+    "spe": 72
+  },
+  "weight": 30300,
+  "height": 160,
+  "baseSpecies": null,
+  "baseForms": [],
+  "forms": [],
+  "evolvesFrom": null,
+  "refs": {
+    "smogon": "ironthorns",
+    "showdown": "ironthorns",
+    "serebii": "ironthorns",
+    "bulbapedia": "Ironthorns"
+  }
+}

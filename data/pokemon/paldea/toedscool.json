@@ -1,0 +1,72 @@
+{
+  "id": "toedscool",
+  "nid": "0948",
+  "dexNum": 948,
+  "formId": null,
+  "name": "Toedscool",
+  "psName": "Toedscool",
+  "formName": null,
+  "region": "paldea",
+  "generation": 9,
+  "type1": "ground",
+  "type2": "grass",
+  "color": "yellow",
+  "abilities": {
+    "primary": "myceliummight",
+    "secondary": null,
+    "hidden": null
+  },
+  "isDefault": true,
+  "isForm": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": false,
+  "isSwitchableForm": false,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": false,
+  "canBeAlpha": false,
+  "debutIn": "sv",
+  "obtainableIn": [
+    "sv"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [
+    "home",
+    "sv"
+  ],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 40,
+    "atk": 40,
+    "def": 35,
+    "spa": 50,
+    "spd": 100,
+    "spe": 70
+  },
+  "weight": 3300,
+  "height": 90,
+  "baseSpecies": null,
+  "baseForms": [],
+  "forms": [],
+  "evolvesFrom": null,
+  "refs": {
+    "smogon": "toedscool",
+    "showdown": "toedscool",
+    "serebii": "toedscool",
+    "bulbapedia": "Toedscool"
+  }
+}

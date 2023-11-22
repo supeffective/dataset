@@ -1,0 +1,83 @@
+{
+  "id": "palossand",
+  "nid": "0770",
+  "dexNum": 770,
+  "formId": null,
+  "name": "Palossand",
+  "psName": "Palossand",
+  "formName": null,
+  "region": "alola",
+  "generation": 7,
+  "type1": "ghost",
+  "type2": "ground",
+  "color": "brown",
+  "abilities": {
+    "primary": "watercompaction",
+    "secondary": null,
+    "hidden": "sandveil"
+  },
+  "isDefault": true,
+  "isForm": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": false,
+  "isSwitchableForm": false,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": true,
+  "canBeAlpha": false,
+  "debutIn": "sm",
+  "obtainableIn": [
+    "go",
+    "sm",
+    "usum",
+    "swsh",
+    "sv"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [
+    "go",
+    "sm",
+    "usum",
+    "swsh",
+    "home",
+    "sv"
+  ],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 85,
+    "atk": 75,
+    "def": 110,
+    "spa": 100,
+    "spd": 75,
+    "spe": 35
+  },
+  "weight": 25000,
+  "height": 130,
+  "baseSpecies": null,
+  "baseForms": [],
+  "forms": [],
+  "evolvesFrom": {
+    "pokemon": "sandygast",
+    "level": 42
+  },
+  "refs": {
+    "smogon": "palossand",
+    "showdown": "palossand",
+    "serebii": "palossand",
+    "bulbapedia": "Palossand"
+  }
+}

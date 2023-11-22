@@ -1,0 +1,81 @@
+{
+  "id": "chesnaught",
+  "nid": "0652",
+  "dexNum": 652,
+  "formId": null,
+  "name": "Chesnaught",
+  "psName": "Chesnaught",
+  "formName": null,
+  "region": "kalos",
+  "generation": 6,
+  "type1": "grass",
+  "type2": "fighting",
+  "color": "green",
+  "abilities": {
+    "primary": "overgrow",
+    "secondary": null,
+    "hidden": "bulletproof"
+  },
+  "isDefault": true,
+  "isForm": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": false,
+  "isSwitchableForm": false,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": true,
+  "canBeAlpha": false,
+  "debutIn": "xy",
+  "obtainableIn": [
+    "xy",
+    "go"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [
+    "xy",
+    "oras",
+    "go",
+    "sm",
+    "usum",
+    "home",
+    "sv"
+  ],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 88,
+    "atk": 107,
+    "def": 122,
+    "spa": 74,
+    "spd": 75,
+    "spe": 64
+  },
+  "weight": 9000,
+  "height": 160,
+  "baseSpecies": null,
+  "baseForms": [],
+  "forms": [],
+  "evolvesFrom": {
+    "pokemon": "quilladin",
+    "level": 36
+  },
+  "refs": {
+    "smogon": "chesnaught",
+    "showdown": "chesnaught",
+    "serebii": "chesnaught",
+    "bulbapedia": "Chesnaught"
+  }
+}

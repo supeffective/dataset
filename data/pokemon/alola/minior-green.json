@@ -1,0 +1,78 @@
+{
+  "id": "minior-green",
+  "nid": "0774-green",
+  "dexNum": 774,
+  "formId": "green",
+  "name": "Minior Green Core",
+  "psName": "Minior",
+  "formName": "Green Core",
+  "region": "alola",
+  "generation": 7,
+  "type1": "rock",
+  "type2": "flying",
+  "color": "red",
+  "abilities": {
+    "primary": "shieldsdown",
+    "secondary": null,
+    "hidden": null
+  },
+  "isDefault": false,
+  "isForm": true,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": true,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": false,
+  "isSwitchableForm": false,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": true,
+  "canBeAlpha": false,
+  "debutIn": "sm",
+  "obtainableIn": [
+    "go",
+    "sm",
+    "usum"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [
+    "go",
+    "sm",
+    "usum",
+    "home"
+  ],
+  "shinyReleased": true,
+  "shinyBase": "minior-red",
+  "baseStats": {
+    "hp": 60,
+    "atk": 100,
+    "def": 60,
+    "spa": 100,
+    "spd": 60,
+    "spe": 120
+  },
+  "weight": 30,
+  "height": 30,
+  "baseSpecies": "minior",
+  "baseForms": [
+    "minior"
+  ],
+  "forms": [],
+  "evolvesFrom": null,
+  "refs": {
+    "smogon": "minior-green",
+    "showdown": "minior",
+    "serebii": "minior",
+    "bulbapedia": "Minior"
+  }
+}

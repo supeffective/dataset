@@ -1,0 +1,87 @@
+{
+  "id": "jellicent",
+  "nid": "0593",
+  "dexNum": 593,
+  "formId": null,
+  "name": "Jellicent",
+  "psName": "Jellicent",
+  "formName": null,
+  "region": "unova",
+  "generation": 5,
+  "type1": "water",
+  "type2": "ghost",
+  "color": "white",
+  "abilities": {
+    "primary": "waterabsorb",
+    "secondary": "cursedbody",
+    "hidden": "damp"
+  },
+  "isDefault": true,
+  "isForm": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": true,
+  "isBattleOnlyForm": false,
+  "isSwitchableForm": false,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": true,
+  "canBeAlpha": false,
+  "debutIn": "bw",
+  "obtainableIn": [
+    "bw",
+    "b2w2",
+    "go",
+    "swsh"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [
+    "bw",
+    "b2w2",
+    "xy",
+    "oras",
+    "go",
+    "sm",
+    "usum",
+    "swsh",
+    "home"
+  ],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 100,
+    "atk": 60,
+    "def": 70,
+    "spa": 85,
+    "spd": 105,
+    "spe": 60
+  },
+  "weight": 13500,
+  "height": 220,
+  "baseSpecies": null,
+  "baseForms": [],
+  "forms": [
+    "jellicent-f"
+  ],
+  "evolvesFrom": {
+    "pokemon": "frillish",
+    "level": 40
+  },
+  "refs": {
+    "smogon": "jellicent",
+    "showdown": "jellicent",
+    "serebii": "jellicent",
+    "bulbapedia": "Jellicent"
+  }
+}

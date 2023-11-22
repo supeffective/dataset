@@ -1,0 +1,77 @@
+{
+  "id": "zacian",
+  "nid": "0888",
+  "dexNum": 888,
+  "formId": "hero",
+  "name": "Zacian",
+  "psName": "Zacian",
+  "formName": "Hero of Many Battles",
+  "region": "galar",
+  "generation": 8,
+  "type1": "fairy",
+  "type2": null,
+  "color": "blue",
+  "abilities": {
+    "primary": "intrepidsword",
+    "secondary": null,
+    "hidden": null
+  },
+  "isDefault": true,
+  "isForm": false,
+  "isLegendary": true,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": false,
+  "isSwitchableForm": false,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": false,
+  "canBeAlpha": false,
+  "debutIn": "swsh",
+  "obtainableIn": [
+    "go",
+    "swsh"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [
+    "go",
+    "swsh",
+    "home",
+    "sv"
+  ],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 92,
+    "atk": 120,
+    "def": 115,
+    "spa": 80,
+    "spd": 115,
+    "spe": 138
+  },
+  "weight": 11000,
+  "height": 280,
+  "baseSpecies": null,
+  "baseForms": [],
+  "forms": [
+    "zacian-crowned"
+  ],
+  "evolvesFrom": null,
+  "refs": {
+    "smogon": "zacian",
+    "showdown": "zacian",
+    "serebii": "zacian",
+    "bulbapedia": "Zacian"
+  }
+}

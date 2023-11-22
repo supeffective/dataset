@@ -1,0 +1,71 @@
+{
+  "id": "orbeetle-gmax",
+  "nid": "0826-gmax",
+  "dexNum": 826,
+  "formId": "gmax",
+  "name": "Gigantamax Orbeetle",
+  "psName": "Orbeetle-Gmax",
+  "formName": "Gigantamax",
+  "region": "galar",
+  "generation": 8,
+  "type1": "bug",
+  "type2": "psychic",
+  "color": "red",
+  "abilities": {
+    "primary": "swarm",
+    "secondary": "frisk",
+    "hidden": "telepathy"
+  },
+  "isDefault": false,
+  "isForm": true,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": true,
+  "isSwitchableForm": true,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": true,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": false,
+  "canBeAlpha": false,
+  "debutIn": "swsh",
+  "obtainableIn": [
+    "swsh"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 60,
+    "atk": 45,
+    "def": 110,
+    "spa": 80,
+    "spd": 120,
+    "spe": 90
+  },
+  "weight": 0,
+  "height": 1400,
+  "baseSpecies": "orbeetle",
+  "baseForms": [
+    "orbeetle"
+  ],
+  "forms": [],
+  "evolvesFrom": null,
+  "refs": {
+    "smogon": "orbeetle-gmax",
+    "showdown": "orbeetlegmax",
+    "serebii": "orbeetle",
+    "bulbapedia": "Orbeetle"
+  }
+}

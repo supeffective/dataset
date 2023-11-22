@@ -1,0 +1,82 @@
+{
+  "id": "crabominable",
+  "nid": "0740",
+  "dexNum": 740,
+  "formId": null,
+  "name": "Crabominable",
+  "psName": "Crabominable",
+  "formName": null,
+  "region": "alola",
+  "generation": 7,
+  "type1": "fighting",
+  "type2": "ice",
+  "color": "white",
+  "abilities": {
+    "primary": "hypercutter",
+    "secondary": "ironfist",
+    "hidden": "angerpoint"
+  },
+  "isDefault": true,
+  "isForm": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": false,
+  "isSwitchableForm": false,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": true,
+  "canBeAlpha": false,
+  "debutIn": "sm",
+  "obtainableIn": [
+    "go",
+    "sm",
+    "usum",
+    "sv"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [
+    "go",
+    "sm",
+    "usum",
+    "home",
+    "sv"
+  ],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 97,
+    "atk": 132,
+    "def": 77,
+    "spa": 62,
+    "spd": 67,
+    "spe": 43
+  },
+  "weight": 18000,
+  "height": 170,
+  "baseSpecies": null,
+  "baseForms": [],
+  "forms": [],
+  "evolvesFrom": {
+    "pokemon": "crabrawler",
+    "item": "icestone",
+    "type": "useitem"
+  },
+  "refs": {
+    "smogon": "crabominable",
+    "showdown": "crabominable",
+    "serebii": "crabominable",
+    "bulbapedia": "Crabominable"
+  }
+}

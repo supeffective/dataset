@@ -1,0 +1,71 @@
+{
+  "id": "ogerpon-wellspring",
+  "nid": "1017-wellspring",
+  "dexNum": 1017,
+  "formId": "wellspring",
+  "name": "Ogerpon (Wellspring Mask)",
+  "psName": "Ogerpon-Wellspring",
+  "formName": "Wellspring Mask",
+  "region": "paldea",
+  "generation": 9,
+  "type1": "grass",
+  "type2": "water",
+  "color": "blue",
+  "abilities": {
+    "primary": "waterabsorb",
+    "secondary": null,
+    "hidden": null
+  },
+  "isDefault": false,
+  "isForm": true,
+  "isLegendary": true,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": false,
+  "isSwitchableForm": false,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": false,
+  "canBeAlpha": false,
+  "debutIn": "sv",
+  "obtainableIn": [
+    "sv"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [
+    "sv"
+  ],
+  "shinyReleased": false,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 80,
+    "atk": 120,
+    "def": 84,
+    "spa": 60,
+    "spd": 96,
+    "spe": 110
+  },
+  "weight": 3980,
+  "height": -1,
+  "baseSpecies": "ogerpon",
+  "baseForms": [],
+  "forms": [],
+  "evolvesFrom": null,
+  "refs": {
+    "smogon": "ogerpon",
+    "showdown": "ogerponwellspring",
+    "serebii": "ogerpon",
+    "bulbapedia": "Ogerpon"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "butterfree-gmax",
+  "nid": "0012-gmax",
+  "dexNum": 12,
+  "formId": "gmax",
+  "name": "Gigantamax Butterfree",
+  "psName": "Butterfree-Gmax",
+  "formName": "Gigantamax",
+  "region": "galar",
+  "generation": 8,
+  "type1": "bug",
+  "type2": "flying",
+  "color": "white",
+  "abilities": {
+    "primary": "compoundeyes",
+    "secondary": null,
+    "hidden": "tintedlens"
+  },
+  "isDefault": false,
+  "isForm": true,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": true,
+  "isSwitchableForm": true,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": true,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": false,
+  "canBeAlpha": false,
+  "debutIn": "swsh",
+  "obtainableIn": [
+    "swsh"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 60,
+    "atk": 45,
+    "def": 50,
+    "spa": 90,
+    "spd": 80,
+    "spe": 70
+  },
+  "weight": 0,
+  "height": 1700,
+  "baseSpecies": "butterfree",
+  "baseForms": [
+    "butterfree",
+    "butterfree-f"
+  ],
+  "forms": [],
+  "evolvesFrom": null,
+  "refs": {
+    "smogon": "butterfree-gmax",
+    "showdown": "butterfreegmax",
+    "serebii": "butterfree",
+    "bulbapedia": "Butterfree"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "glimmet",
+  "nid": "0969",
+  "dexNum": 969,
+  "formId": null,
+  "name": "Glimmet",
+  "psName": "Glimmet",
+  "formName": null,
+  "region": "paldea",
+  "generation": 9,
+  "type1": "rock",
+  "type2": "poison",
+  "color": "blue",
+  "abilities": {
+    "primary": "toxicdebris",
+    "secondary": null,
+    "hidden": "corrosion"
+  },
+  "isDefault": true,
+  "isForm": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": false,
+  "isSwitchableForm": false,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": false,
+  "canBeAlpha": false,
+  "debutIn": "sv",
+  "obtainableIn": [
+    "sv"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [
+    "home",
+    "sv"
+  ],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 48,
+    "atk": 35,
+    "def": 42,
+    "spa": 105,
+    "spd": 60,
+    "spe": 60
+  },
+  "weight": 800,
+  "height": 70,
+  "baseSpecies": null,
+  "baseForms": [],
+  "forms": [],
+  "evolvesFrom": null,
+  "refs": {
+    "smogon": "glimmet",
+    "showdown": "glimmet",
+    "serebii": "glimmet",
+    "bulbapedia": "Glimmet"
+  }
+}

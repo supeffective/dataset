@@ -1,0 +1,72 @@
+{
+  "id": "finizen",
+  "nid": "0963",
+  "dexNum": 963,
+  "formId": null,
+  "name": "Finizen",
+  "psName": "Finizen",
+  "formName": null,
+  "region": "paldea",
+  "generation": 9,
+  "type1": "water",
+  "type2": null,
+  "color": "blue",
+  "abilities": {
+    "primary": "waterveil",
+    "secondary": null,
+    "hidden": null
+  },
+  "isDefault": true,
+  "isForm": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": false,
+  "isSwitchableForm": false,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": false,
+  "canBeAlpha": false,
+  "debutIn": "sv",
+  "obtainableIn": [
+    "sv"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [
+    "home",
+    "sv"
+  ],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 70,
+    "atk": 45,
+    "def": 40,
+    "spa": 45,
+    "spd": 40,
+    "spe": 75
+  },
+  "weight": 6020,
+  "height": 130,
+  "baseSpecies": null,
+  "baseForms": [],
+  "forms": [],
+  "evolvesFrom": null,
+  "refs": {
+    "smogon": "finizen",
+    "showdown": "finizen",
+    "serebii": "finizen",
+    "bulbapedia": "Finizen"
+  }
+}

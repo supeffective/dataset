@@ -1,0 +1,76 @@
+{
+  "id": "ceruledge",
+  "nid": "0937",
+  "dexNum": 937,
+  "formId": null,
+  "name": "Ceruledge",
+  "psName": "Ceruledge",
+  "formName": null,
+  "region": "paldea",
+  "generation": 9,
+  "type1": "fire",
+  "type2": "ghost",
+  "color": "blue",
+  "abilities": {
+    "primary": "flashfire",
+    "secondary": null,
+    "hidden": "weakarmor"
+  },
+  "isDefault": true,
+  "isForm": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": false,
+  "isSwitchableForm": false,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": false,
+  "canBeAlpha": false,
+  "debutIn": "sv",
+  "obtainableIn": [
+    "sv"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [
+    "home",
+    "sv"
+  ],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 75,
+    "atk": 125,
+    "def": 80,
+    "spa": 60,
+    "spd": 100,
+    "spe": 85
+  },
+  "weight": 6200,
+  "height": 160,
+  "baseSpecies": null,
+  "baseForms": [],
+  "forms": [],
+  "evolvesFrom": {
+    "pokemon": "charcadet",
+    "item": "maliciousarmor",
+    "type": "useitem"
+  },
+  "refs": {
+    "smogon": "ceruledge",
+    "showdown": "ceruledge",
+    "serebii": "ceruledge",
+    "bulbapedia": "Ceruledge"
+  }
+}

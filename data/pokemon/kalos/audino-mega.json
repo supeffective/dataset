@@ -1,0 +1,74 @@
+{
+  "id": "audino-mega",
+  "nid": "0531-mega",
+  "dexNum": 531,
+  "formId": "mega",
+  "name": "Mega Audino",
+  "psName": "Audino-Mega",
+  "formName": "Mega",
+  "region": "kalos",
+  "generation": 6,
+  "type1": "normal",
+  "type2": "fairy",
+  "color": "white",
+  "abilities": {
+    "primary": "healer",
+    "secondary": null,
+    "hidden": null
+  },
+  "isDefault": false,
+  "isForm": true,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": true,
+  "isSwitchableForm": true,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": true,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": false,
+  "canBeAlpha": false,
+  "debutIn": "oras",
+  "obtainableIn": [
+    "oras",
+    "go"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [
+    "go"
+  ],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 103,
+    "atk": 60,
+    "def": 126,
+    "spa": 80,
+    "spd": 126,
+    "spe": 50
+  },
+  "weight": 3200,
+  "height": 150,
+  "baseSpecies": "audino",
+  "baseForms": [
+    "audino"
+  ],
+  "forms": [],
+  "evolvesFrom": null,
+  "refs": {
+    "smogon": "audino-mega",
+    "showdown": "audinomega",
+    "serebii": "audino",
+    "bulbapedia": "Audino"
+  }
+}

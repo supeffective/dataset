@@ -1,0 +1,79 @@
+{
+  "id": "grimmsnarl",
+  "nid": "0861",
+  "dexNum": 861,
+  "formId": null,
+  "name": "Grimmsnarl",
+  "psName": "Grimmsnarl",
+  "formName": null,
+  "region": "galar",
+  "generation": 8,
+  "type1": "dark",
+  "type2": "fairy",
+  "color": "purple",
+  "abilities": {
+    "primary": "prankster",
+    "secondary": "frisk",
+    "hidden": "pickpocket"
+  },
+  "isDefault": true,
+  "isForm": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": false,
+  "isSwitchableForm": false,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": false,
+  "canGmax": true,
+  "canDynamax": true,
+  "canBeAlpha": false,
+  "debutIn": "swsh",
+  "obtainableIn": [
+    "swsh",
+    "sv"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [
+    "swsh",
+    "home",
+    "sv"
+  ],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 95,
+    "atk": 120,
+    "def": 65,
+    "spa": 95,
+    "spd": 75,
+    "spe": 60
+  },
+  "weight": 6100,
+  "height": 150,
+  "baseSpecies": null,
+  "baseForms": [],
+  "forms": [
+    "grimmsnarl-gmax"
+  ],
+  "evolvesFrom": {
+    "pokemon": "morgrem",
+    "level": 42
+  },
+  "refs": {
+    "smogon": "grimmsnarl",
+    "showdown": "grimmsnarl",
+    "serebii": "grimmsnarl",
+    "bulbapedia": "Grimmsnarl"
+  }
+}

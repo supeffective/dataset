@@ -1,0 +1,83 @@
+{
+  "id": "tyrantrum",
+  "nid": "0697",
+  "dexNum": 697,
+  "formId": null,
+  "name": "Tyrantrum",
+  "psName": "Tyrantrum",
+  "formName": null,
+  "region": "kalos",
+  "generation": 6,
+  "type1": "rock",
+  "type2": "dragon",
+  "color": "red",
+  "abilities": {
+    "primary": "strongjaw",
+    "secondary": null,
+    "hidden": "rockhead"
+  },
+  "isDefault": true,
+  "isForm": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": false,
+  "isSwitchableForm": false,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": true,
+  "canBeAlpha": false,
+  "debutIn": "xy",
+  "obtainableIn": [
+    "xy",
+    "go",
+    "swsh"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [
+    "xy",
+    "oras",
+    "go",
+    "sm",
+    "usum",
+    "swsh",
+    "home"
+  ],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 82,
+    "atk": 121,
+    "def": 119,
+    "spa": 69,
+    "spd": 59,
+    "spe": 71
+  },
+  "weight": 27000,
+  "height": 250,
+  "baseSpecies": null,
+  "baseForms": [],
+  "forms": [],
+  "evolvesFrom": {
+    "pokemon": "tyrunt",
+    "level": 39,
+    "condition": "during the day"
+  },
+  "refs": {
+    "smogon": "tyrantrum",
+    "showdown": "tyrantrum",
+    "serebii": "tyrantrum",
+    "bulbapedia": "Tyrantrum"
+  }
+}

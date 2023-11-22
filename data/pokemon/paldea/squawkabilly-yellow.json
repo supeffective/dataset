@@ -1,0 +1,72 @@
+{
+  "id": "squawkabilly-yellow",
+  "nid": "0931-yellow",
+  "dexNum": 931,
+  "formId": "yellow",
+  "name": "Squawkabilly Yellow-feathered",
+  "psName": "Squawkabilly-Yellow",
+  "formName": "Yellow-feathered",
+  "region": "paldea",
+  "generation": 9,
+  "type1": "normal",
+  "type2": "flying",
+  "color": "yellow",
+  "abilities": {
+    "primary": "intimidate",
+    "secondary": "hustle",
+    "hidden": "sheerforce"
+  },
+  "isDefault": false,
+  "isForm": true,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": true,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": false,
+  "isSwitchableForm": false,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": false,
+  "canBeAlpha": false,
+  "debutIn": "sv",
+  "obtainableIn": [
+    "sv"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [
+    "home",
+    "sv"
+  ],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 82,
+    "atk": 96,
+    "def": 51,
+    "spa": 45,
+    "spd": 51,
+    "spe": 92
+  },
+  "weight": 240,
+  "height": 60,
+  "baseSpecies": "squawkabilly",
+  "baseForms": [],
+  "forms": [],
+  "evolvesFrom": null,
+  "refs": {
+    "smogon": "squawkabilly-yellow",
+    "showdown": "squawkabillyyellow",
+    "serebii": "Squawkabilly",
+    "bulbapedia": "Squawkabilly_Yellow"
+  }
+}

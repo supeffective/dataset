@@ -1,0 +1,76 @@
+{
+  "id": "typhlosion-hisui",
+  "nid": "0157-hisui",
+  "dexNum": 157,
+  "formId": "hisui",
+  "name": "Hisuian Typhlosion",
+  "psName": "Typhlosion-Hisui",
+  "formName": "Hisuian Form",
+  "region": "hisui",
+  "generation": 8,
+  "type1": "fire",
+  "type2": "ghost",
+  "color": "yellow",
+  "abilities": {
+    "primary": "blaze",
+    "secondary": null,
+    "hidden": "frisk"
+  },
+  "isDefault": false,
+  "isForm": true,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": false,
+  "isSwitchableForm": false,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": true,
+  "canGmax": false,
+  "canDynamax": false,
+  "canBeAlpha": true,
+  "debutIn": "la",
+  "obtainableIn": [
+    "la"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [
+    "home",
+    "la",
+    "sv"
+  ],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 73,
+    "atk": 84,
+    "def": 78,
+    "spa": 119,
+    "spd": 85,
+    "spe": 95
+  },
+  "weight": 6980,
+  "height": 160,
+  "baseSpecies": "typhlosion",
+  "baseForms": [],
+  "forms": [],
+  "evolvesFrom": {
+    "pokemon": "quilava",
+    "level": 36
+  },
+  "refs": {
+    "smogon": "typhlosion-hisui",
+    "showdown": "typhlosionhisui",
+    "serebii": "typhlosion",
+    "bulbapedia": "Typhlosion"
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "id": "shiinotic",
+  "nid": "0756",
+  "dexNum": 756,
+  "formId": null,
+  "name": "Shiinotic",
+  "psName": "Shiinotic",
+  "formName": null,
+  "region": "alola",
+  "generation": 7,
+  "type1": "grass",
+  "type2": "fairy",
+  "color": "purple",
+  "abilities": {
+    "primary": "illuminate",
+    "secondary": "effectspore",
+    "hidden": "raindish"
+  },
+  "isDefault": true,
+  "isForm": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": false,
+  "isSwitchableForm": false,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": true,
+  "canBeAlpha": false,
+  "debutIn": "sm",
+  "obtainableIn": [
+    "go",
+    "sm",
+    "usum",
+    "swsh"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [
+    "go",
+    "sm",
+    "usum",
+    "swsh",
+    "home"
+  ],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 60,
+    "atk": 45,
+    "def": 80,
+    "spa": 90,
+    "spd": 100,
+    "spe": 30
+  },
+  "weight": 1150,
+  "height": 100,
+  "baseSpecies": null,
+  "baseForms": [],
+  "forms": [],
+  "evolvesFrom": {
+    "pokemon": "morelull",
+    "level": 24
+  },
+  "refs": {
+    "smogon": "shiinotic",
+    "showdown": "shiinotic",
+    "serebii": "shiinotic",
+    "bulbapedia": "Shiinotic"
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "id": "necrozma-dusk-mane",
+  "nid": "0800-dusk-mane",
+  "dexNum": 800,
+  "formId": "dusk-mane",
+  "name": "Necrozma Dusk Mane",
+  "psName": "Necrozma-Dusk-Mane",
+  "formName": "Dusk Mane",
+  "region": "alola",
+  "generation": 7,
+  "type1": "psychic",
+  "type2": "steel",
+  "color": "yellow",
+  "abilities": {
+    "primary": "prismarmor",
+    "secondary": null,
+    "hidden": null
+  },
+  "isDefault": false,
+  "isForm": true,
+  "isLegendary": true,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": false,
+  "isSwitchableForm": true,
+  "isFusion": true,
+  "fusedWith": [
+    "necrozma",
+    "solgaleo"
+  ],
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": true,
+  "canBeAlpha": false,
+  "debutIn": "usum",
+  "obtainableIn": [
+    "usum",
+    "swsh"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [
+    "usum",
+    "swsh"
+  ],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 97,
+    "atk": 157,
+    "def": 127,
+    "spa": 113,
+    "spd": 109,
+    "spe": 77
+  },
+  "weight": 46000,
+  "height": 380,
+  "baseSpecies": "necrozma",
+  "baseForms": [
+    "necrozma"
+  ],
+  "forms": [],
+  "evolvesFrom": null,
+  "refs": {
+    "smogon": "necrozma-dusk-mane",
+    "showdown": "necrozmaduskmane",
+    "serebii": "necrozma",
+    "bulbapedia": "Necrozma"
+  }
+}

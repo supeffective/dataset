@@ -1,0 +1,78 @@
+{
+  "id": "rillaboom",
+  "nid": "0812",
+  "dexNum": 812,
+  "formId": null,
+  "name": "Rillaboom",
+  "psName": "Rillaboom",
+  "formName": null,
+  "region": "galar",
+  "generation": 8,
+  "type1": "grass",
+  "type2": null,
+  "color": "green",
+  "abilities": {
+    "primary": "overgrow",
+    "secondary": null,
+    "hidden": "grassysurge"
+  },
+  "isDefault": true,
+  "isForm": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": false,
+  "isSwitchableForm": false,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": false,
+  "canGmax": true,
+  "canDynamax": true,
+  "canBeAlpha": false,
+  "debutIn": "swsh",
+  "obtainableIn": [
+    "swsh"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [
+    "swsh",
+    "home",
+    "sv"
+  ],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 100,
+    "atk": 125,
+    "def": 90,
+    "spa": 60,
+    "spd": 70,
+    "spe": 85
+  },
+  "weight": 9000,
+  "height": 210,
+  "baseSpecies": null,
+  "baseForms": [],
+  "forms": [
+    "rillaboom-gmax"
+  ],
+  "evolvesFrom": {
+    "pokemon": "thwackey",
+    "level": 35
+  },
+  "refs": {
+    "smogon": "rillaboom",
+    "showdown": "rillaboom",
+    "serebii": "rillaboom",
+    "bulbapedia": "Rillaboom"
+  }
+}

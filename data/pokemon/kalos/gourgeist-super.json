@@ -1,0 +1,82 @@
+{
+  "id": "gourgeist-super",
+  "nid": "0711-super",
+  "dexNum": 711,
+  "formId": "super",
+  "name": "Gourgeist Super Size",
+  "psName": "Gourgeist-Super",
+  "formName": "Super Size",
+  "region": "kalos",
+  "generation": 6,
+  "type1": "ghost",
+  "type2": "grass",
+  "color": "brown",
+  "abilities": {
+    "primary": "pickup",
+    "secondary": "frisk",
+    "hidden": "insomnia"
+  },
+  "isDefault": false,
+  "isForm": true,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": false,
+  "isSwitchableForm": false,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": true,
+  "canBeAlpha": false,
+  "debutIn": "xy",
+  "obtainableIn": [
+    "xy",
+    "go",
+    "swsh"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [
+    "xy",
+    "oras",
+    "go",
+    "sm",
+    "usum",
+    "swsh",
+    "home"
+  ],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 85,
+    "atk": 100,
+    "def": 122,
+    "spa": 58,
+    "spd": 75,
+    "spe": 54
+  },
+  "weight": 3900,
+  "height": 170,
+  "baseSpecies": "gourgeist",
+  "baseForms": [],
+  "forms": [],
+  "evolvesFrom": {
+    "pokemon": "pumpkaboo-super",
+    "type": "trade"
+  },
+  "refs": {
+    "smogon": "gourgeist-super",
+    "showdown": "gourgeistsuper",
+    "serebii": "gourgeist",
+    "bulbapedia": "Gourgeist"
+  }
+}

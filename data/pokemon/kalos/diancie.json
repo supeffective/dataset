@@ -1,0 +1,87 @@
+{
+  "id": "diancie",
+  "nid": "0719",
+  "dexNum": 719,
+  "formId": null,
+  "name": "Diancie",
+  "psName": "Diancie",
+  "formName": null,
+  "region": "kalos",
+  "generation": 6,
+  "type1": "rock",
+  "type2": "fairy",
+  "color": "pink",
+  "abilities": {
+    "primary": "clearbody",
+    "secondary": null,
+    "hidden": null
+  },
+  "isDefault": true,
+  "isForm": false,
+  "isLegendary": false,
+  "isMythical": true,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "paradoxSpecies": null,
+  "convergentSpecies": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": false,
+  "isSwitchableForm": false,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": true,
+  "canBeAlpha": false,
+  "debutIn": "xy",
+  "obtainableIn": [],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [
+    "xy",
+    "oras",
+    "go"
+  ],
+  "storableIn": [
+    "xy",
+    "oras",
+    "go",
+    "sm",
+    "usum",
+    "swsh",
+    "home",
+    "sv"
+  ],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 50,
+    "atk": 100,
+    "def": 150,
+    "spa": 100,
+    "spd": 150,
+    "spe": 50
+  },
+  "weight": 880,
+  "height": 70,
+  "baseSpecies": null,
+  "baseForms": [],
+  "forms": [
+    "diancie-mega"
+  ],
+  "family": null,
+  "evolvesFrom": {
+    "pokemon": null
+  },
+  "refs": {
+    "smogon": "diancie",
+    "showdown": "diancie",
+    "serebii": "diancie",
+    "bulbapedia": "Diancie"
+  }
+}

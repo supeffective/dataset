@@ -1,0 +1,83 @@
+{
+  "id": "genesect-shock",
+  "nid": "0649-shock",
+  "dexNum": 649,
+  "formId": "shock",
+  "name": "Genesect (Shock Drive)",
+  "psName": "Genesect-Shock",
+  "formName": "Shock Drive",
+  "region": "unova",
+  "generation": 5,
+  "type1": "bug",
+  "type2": "steel",
+  "color": "purple",
+  "abilities": {
+    "primary": "download",
+    "secondary": null,
+    "hidden": null
+  },
+  "isDefault": false,
+  "isForm": true,
+  "isLegendary": false,
+  "isMythical": true,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": false,
+  "isSwitchableForm": true,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": true,
+  "canBeAlpha": false,
+  "debutIn": "bw",
+  "obtainableIn": [
+    "go"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [
+    "bw",
+    "oras"
+  ],
+  "storableIn": [
+    "bw",
+    "b2w2",
+    "xy",
+    "oras",
+    "go",
+    "sm",
+    "usum",
+    "swsh"
+  ],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 71,
+    "atk": 120,
+    "def": 95,
+    "spa": 120,
+    "spd": 95,
+    "spe": 99
+  },
+  "weight": 8250,
+  "height": 150,
+  "baseSpecies": "genesect",
+  "baseForms": [
+    "genesect"
+  ],
+  "forms": [],
+  "evolvesFrom": null,
+  "refs": {
+    "smogon": "genesect-shock",
+    "showdown": "genesectshock",
+    "serebii": "genesect",
+    "bulbapedia": "Genesect"
+  }
+}

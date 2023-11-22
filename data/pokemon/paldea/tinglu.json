@@ -1,0 +1,72 @@
+{
+  "id": "tinglu",
+  "nid": "1003",
+  "dexNum": 1003,
+  "formId": null,
+  "name": "Ting-Lu",
+  "psName": "Ting-Lu",
+  "formName": null,
+  "region": "paldea",
+  "generation": 9,
+  "type1": "dark",
+  "type2": "ground",
+  "color": "brown",
+  "abilities": {
+    "primary": "vesselofruin",
+    "secondary": null,
+    "hidden": null
+  },
+  "isDefault": true,
+  "isForm": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": false,
+  "isSwitchableForm": false,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": false,
+  "canBeAlpha": false,
+  "debutIn": "sv",
+  "obtainableIn": [
+    "sv"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [
+    "home",
+    "sv"
+  ],
+  "shinyReleased": false,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 155,
+    "atk": 110,
+    "def": 125,
+    "spa": 55,
+    "spd": 80,
+    "spe": 45
+  },
+  "weight": 69970,
+  "height": 270,
+  "baseSpecies": null,
+  "baseForms": [],
+  "forms": [],
+  "evolvesFrom": null,
+  "refs": {
+    "smogon": "tinglu",
+    "showdown": "tinglu",
+    "serebii": "tinglu",
+    "bulbapedia": "Tinglu"
+  }
+}

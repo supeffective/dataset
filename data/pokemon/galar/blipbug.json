@@ -1,0 +1,72 @@
+{
+  "id": "blipbug",
+  "nid": "0824",
+  "dexNum": 824,
+  "formId": null,
+  "name": "Blipbug",
+  "psName": "Blipbug",
+  "formName": null,
+  "region": "galar",
+  "generation": 8,
+  "type1": "bug",
+  "type2": null,
+  "color": "blue",
+  "abilities": {
+    "primary": "swarm",
+    "secondary": "compoundeyes",
+    "hidden": "telepathy"
+  },
+  "isDefault": true,
+  "isForm": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": false,
+  "isSwitchableForm": false,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": true,
+  "canBeAlpha": false,
+  "debutIn": "swsh",
+  "obtainableIn": [
+    "swsh"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [
+    "swsh",
+    "home"
+  ],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 25,
+    "atk": 20,
+    "def": 20,
+    "spa": 25,
+    "spd": 45,
+    "spe": 45
+  },
+  "weight": 800,
+  "height": 40,
+  "baseSpecies": null,
+  "baseForms": [],
+  "forms": [],
+  "evolvesFrom": null,
+  "refs": {
+    "smogon": "blipbug",
+    "showdown": "blipbug",
+    "serebii": "blipbug",
+    "bulbapedia": "Blipbug"
+  }
+}

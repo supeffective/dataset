@@ -1,0 +1,82 @@
+{
+  "id": "victini",
+  "nid": "0494",
+  "dexNum": 494,
+  "formId": null,
+  "name": "Victini",
+  "psName": "Victini",
+  "formName": null,
+  "region": "unova",
+  "generation": 5,
+  "type1": "psychic",
+  "type2": "fire",
+  "color": "yellow",
+  "abilities": {
+    "primary": "victorystar",
+    "secondary": null,
+    "hidden": null
+  },
+  "isDefault": true,
+  "isForm": false,
+  "isLegendary": false,
+  "isMythical": true,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": false,
+  "isSwitchableForm": false,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": true,
+  "canBeAlpha": false,
+  "debutIn": "bw",
+  "obtainableIn": [
+    "bw"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [
+    "go",
+    "swsh"
+  ],
+  "storableIn": [
+    "bw",
+    "b2w2",
+    "xy",
+    "oras",
+    "go",
+    "sm",
+    "usum",
+    "swsh",
+    "home"
+  ],
+  "shinyReleased": false,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 100,
+    "atk": 100,
+    "def": 100,
+    "spa": 100,
+    "spd": 100,
+    "spe": 100
+  },
+  "weight": 400,
+  "height": 40,
+  "baseSpecies": null,
+  "baseForms": [],
+  "forms": [],
+  "evolvesFrom": null,
+  "refs": {
+    "smogon": "victini",
+    "showdown": "victini",
+    "serebii": "victini",
+    "bulbapedia": "Victini"
+  }
+}

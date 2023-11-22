@@ -1,0 +1,82 @@
+{
+  "id": "diggersby",
+  "nid": "0660",
+  "dexNum": 660,
+  "formId": null,
+  "name": "Diggersby",
+  "psName": "Diggersby",
+  "formName": null,
+  "region": "kalos",
+  "generation": 6,
+  "type1": "normal",
+  "type2": "ground",
+  "color": "brown",
+  "abilities": {
+    "primary": "pickup",
+    "secondary": "cheekpouch",
+    "hidden": "hugepower"
+  },
+  "isDefault": true,
+  "isForm": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": false,
+  "isSwitchableForm": false,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": true,
+  "canBeAlpha": false,
+  "debutIn": "xy",
+  "obtainableIn": [
+    "xy",
+    "go",
+    "swsh"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [
+    "xy",
+    "oras",
+    "go",
+    "sm",
+    "usum",
+    "swsh",
+    "home"
+  ],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 85,
+    "atk": 56,
+    "def": 77,
+    "spa": 50,
+    "spd": 77,
+    "spe": 78
+  },
+  "weight": 4240,
+  "height": 100,
+  "baseSpecies": null,
+  "baseForms": [],
+  "forms": [],
+  "evolvesFrom": {
+    "pokemon": "bunnelby",
+    "level": 20
+  },
+  "refs": {
+    "smogon": "diggersby",
+    "showdown": "diggersby",
+    "serebii": "diggersby",
+    "bulbapedia": "Diggersby"
+  }
+}

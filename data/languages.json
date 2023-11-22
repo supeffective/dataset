@@ -1,0 +1,11 @@
+[
+  {"id":"eng","name":"English","isoCode":"en","locale":"US","urlSlug":"en"},
+  {"id":"fra","name":"Français","isoCode":"fr","locale":null,"urlSlug":"fr"},
+  {"id":"deu","name":"Deutsch","isoCode":"de","locale":null,"urlSlug":"de"},
+  {"id":"ita","name":"Italiano","isoCode":"it","locale":null,"urlSlug":"it"},
+  {"id":"esp","name":"Español (España)","isoCode":"es","locale":"ES","urlSlug":"es-ES"},
+  {"id":"jap","name":"Japanese","isoCode":"ja","locale":null,"urlSlug":"ja"},
+  {"id":"cht","name":"Chinese (Traditional)","isoCode":"zh","locale":"TW","urlSlug":"zh-TW"},
+  {"id":"chs","name":"Chinese (Simplified)","isoCode":"zh","locale":"CN","urlSlug":"zh-CN"},
+  {"id":"kor","name":"Korean","isoCode":"ko","locale":null,"urlSlug":"ko"}
+]

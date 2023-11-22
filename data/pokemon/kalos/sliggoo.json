@@ -1,0 +1,86 @@
+{
+  "id": "sliggoo",
+  "nid": "0705",
+  "dexNum": 705,
+  "formId": null,
+  "name": "Sliggoo",
+  "psName": "Sliggoo",
+  "formName": null,
+  "region": "kalos",
+  "generation": 6,
+  "type1": "dragon",
+  "type2": null,
+  "color": "purple",
+  "abilities": {
+    "primary": "sapsipper",
+    "secondary": "hydration",
+    "hidden": "gooey"
+  },
+  "isDefault": true,
+  "isForm": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": false,
+  "isSwitchableForm": false,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": true,
+  "canBeAlpha": false,
+  "debutIn": "xy",
+  "obtainableIn": [
+    "xy",
+    "go",
+    "swsh",
+    "sv"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [
+    "xy",
+    "oras",
+    "go",
+    "sm",
+    "usum",
+    "swsh",
+    "home",
+    "sv"
+  ],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 68,
+    "atk": 75,
+    "def": 53,
+    "spa": 83,
+    "spd": 113,
+    "spe": 60
+  },
+  "weight": 1750,
+  "height": 80,
+  "baseSpecies": null,
+  "baseForms": [],
+  "forms": [
+    "sliggoo-hisui"
+  ],
+  "evolvesFrom": {
+    "pokemon": "goomy",
+    "level": 40
+  },
+  "refs": {
+    "smogon": "sliggoo",
+    "showdown": "sliggoo",
+    "serebii": "sliggoo",
+    "bulbapedia": "Sliggoo"
+  }
+}

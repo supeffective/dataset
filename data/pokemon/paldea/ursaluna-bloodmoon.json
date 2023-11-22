@@ -1,0 +1,77 @@
+{
+  "id": "ursaluna-bloodmoon",
+  "nid": "0901-bloodmoon",
+  "dexNum": 901,
+  "formId": "bloodmoon",
+  "name": "Ursaluna (Blood Moon Form)",
+  "psName": "Ursaluna-Bloodmoon",
+  "formName": "Blood Moon Form",
+  "region": "paldea",
+  "generation": 9,
+  "type1": "ground",
+  "type2": "normal",
+  "color": "white",
+  "abilities": {
+    "primary": "mindseye",
+    "secondary": null,
+    "hidden": null
+  },
+  "isDefault": false,
+  "isForm": true,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "paradoxSpecies": null,
+  "convergentSpecies": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": false,
+  "isSwitchableForm": false,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": false,
+  "canBeAlpha": false,
+  "debutIn": "sv",
+  "obtainableIn": [
+    "sv"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [
+    "home",
+    "sv"
+  ],
+  "shinyReleased": false,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 113,
+    "atk": 70,
+    "def": 120,
+    "spa": 135,
+    "spd": 65,
+    "spe": 52
+  },
+  "weight": 33300,
+  "height": -1,
+  "baseSpecies": "ursaluna",
+  "baseForms": [],
+  "forms": [],
+  "family": "teddiursa",
+  "evolvesFrom": {
+    "pokemon": null
+  },
+  "refs": {
+    "smogon": "ursaluna-bloodmoon",
+    "showdown": "ursalunabloodmoon",
+    "serebii": "ursaluna",
+    "bulbapedia": "Ursaluna"
+  }
+}

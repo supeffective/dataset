@@ -1,0 +1,72 @@
+{
+  "id": "nickit",
+  "nid": "0827",
+  "dexNum": 827,
+  "formId": null,
+  "name": "Nickit",
+  "psName": "Nickit",
+  "formName": null,
+  "region": "galar",
+  "generation": 8,
+  "type1": "dark",
+  "type2": null,
+  "color": "brown",
+  "abilities": {
+    "primary": "runaway",
+    "secondary": "unburden",
+    "hidden": "stakeout"
+  },
+  "isDefault": true,
+  "isForm": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": false,
+  "isSwitchableForm": false,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": true,
+  "canBeAlpha": false,
+  "debutIn": "swsh",
+  "obtainableIn": [
+    "swsh"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [
+    "swsh",
+    "home"
+  ],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 40,
+    "atk": 28,
+    "def": 28,
+    "spa": 47,
+    "spd": 52,
+    "spe": 50
+  },
+  "weight": 890,
+  "height": 60,
+  "baseSpecies": null,
+  "baseForms": [],
+  "forms": [],
+  "evolvesFrom": null,
+  "refs": {
+    "smogon": "nickit",
+    "showdown": "nickit",
+    "serebii": "nickit",
+    "bulbapedia": "Nickit"
+  }
+}

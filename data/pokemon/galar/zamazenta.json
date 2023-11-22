@@ -1,0 +1,77 @@
+{
+  "id": "zamazenta",
+  "nid": "0889",
+  "dexNum": 889,
+  "formId": "hero",
+  "name": "Zamazenta",
+  "psName": "Zamazenta",
+  "formName": "Hero of Many Battles",
+  "region": "galar",
+  "generation": 8,
+  "type1": "fighting",
+  "type2": null,
+  "color": "red",
+  "abilities": {
+    "primary": "dauntlessshield",
+    "secondary": null,
+    "hidden": null
+  },
+  "isDefault": true,
+  "isForm": false,
+  "isLegendary": true,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": false,
+  "isSwitchableForm": false,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": false,
+  "canBeAlpha": false,
+  "debutIn": "swsh",
+  "obtainableIn": [
+    "go",
+    "swsh"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [
+    "go",
+    "swsh",
+    "home",
+    "sv"
+  ],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 92,
+    "atk": 120,
+    "def": 115,
+    "spa": 80,
+    "spd": 115,
+    "spe": 138
+  },
+  "weight": 21000,
+  "height": 290,
+  "baseSpecies": null,
+  "baseForms": [],
+  "forms": [
+    "zamazenta-crowned"
+  ],
+  "evolvesFrom": null,
+  "refs": {
+    "smogon": "zamazenta",
+    "showdown": "zamazenta",
+    "serebii": "zamazenta",
+    "bulbapedia": "Zamazenta"
+  }
+}

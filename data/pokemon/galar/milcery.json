@@ -1,0 +1,72 @@
+{
+  "id": "milcery",
+  "nid": "0868",
+  "dexNum": 868,
+  "formId": null,
+  "name": "Milcery",
+  "psName": "Milcery",
+  "formName": null,
+  "region": "galar",
+  "generation": 8,
+  "type1": "fairy",
+  "type2": null,
+  "color": "white",
+  "abilities": {
+    "primary": "sweetveil",
+    "secondary": null,
+    "hidden": "aromaveil"
+  },
+  "isDefault": true,
+  "isForm": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": false,
+  "isSwitchableForm": false,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": true,
+  "canBeAlpha": false,
+  "debutIn": "swsh",
+  "obtainableIn": [
+    "swsh"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [
+    "swsh",
+    "home"
+  ],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 45,
+    "atk": 40,
+    "def": 40,
+    "spa": 50,
+    "spd": 61,
+    "spe": 34
+  },
+  "weight": 30,
+  "height": 20,
+  "baseSpecies": null,
+  "baseForms": [],
+  "forms": [],
+  "evolvesFrom": null,
+  "refs": {
+    "smogon": "milcery",
+    "showdown": "milcery",
+    "serebii": "milcery",
+    "bulbapedia": "Milcery"
+  }
+}

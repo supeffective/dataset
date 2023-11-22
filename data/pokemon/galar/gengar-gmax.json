@@ -1,0 +1,71 @@
+{
+  "id": "gengar-gmax",
+  "nid": "0094-gmax",
+  "dexNum": 94,
+  "formId": "gmax",
+  "name": "Gigantamax Gengar",
+  "psName": "Gengar-Gmax",
+  "formName": "Gigantamax",
+  "region": "galar",
+  "generation": 8,
+  "type1": "ghost",
+  "type2": "poison",
+  "color": "purple",
+  "abilities": {
+    "primary": "cursedbody",
+    "secondary": null,
+    "hidden": null
+  },
+  "isDefault": false,
+  "isForm": true,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": true,
+  "isSwitchableForm": true,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": true,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": false,
+  "canBeAlpha": false,
+  "debutIn": "swsh",
+  "obtainableIn": [
+    "swsh"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 60,
+    "atk": 65,
+    "def": 60,
+    "spa": 130,
+    "spd": 75,
+    "spe": 110
+  },
+  "weight": 0,
+  "height": 2000,
+  "baseSpecies": "gengar",
+  "baseForms": [
+    "gengar"
+  ],
+  "forms": [],
+  "evolvesFrom": null,
+  "refs": {
+    "smogon": "gengar-gmax",
+    "showdown": "gengargmax",
+    "serebii": "gengar",
+    "bulbapedia": "Gengar"
+  }
+}

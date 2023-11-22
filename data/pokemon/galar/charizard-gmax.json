@@ -1,0 +1,71 @@
+{
+  "id": "charizard-gmax",
+  "nid": "0006-gmax",
+  "dexNum": 6,
+  "formId": "gmax",
+  "name": "Gigantamax Charizard",
+  "psName": "Charizard-Gmax",
+  "formName": "Gigantamax",
+  "region": "galar",
+  "generation": 8,
+  "type1": "fire",
+  "type2": "flying",
+  "color": "red",
+  "abilities": {
+    "primary": "blaze",
+    "secondary": null,
+    "hidden": "solarpower"
+  },
+  "isDefault": false,
+  "isForm": true,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": true,
+  "isSwitchableForm": true,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": true,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": false,
+  "canBeAlpha": false,
+  "debutIn": "swsh",
+  "obtainableIn": [
+    "swsh"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 78,
+    "atk": 84,
+    "def": 78,
+    "spa": 109,
+    "spd": 85,
+    "spe": 100
+  },
+  "weight": 0,
+  "height": 2800,
+  "baseSpecies": "charizard",
+  "baseForms": [
+    "charizard"
+  ],
+  "forms": [],
+  "evolvesFrom": null,
+  "refs": {
+    "smogon": "charizard-gmax",
+    "showdown": "charizardgmax",
+    "serebii": "charizard",
+    "bulbapedia": "Charizard"
+  }
+}

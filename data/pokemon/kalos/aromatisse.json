@@ -1,0 +1,83 @@
+{
+  "id": "aromatisse",
+  "nid": "0683",
+  "dexNum": 683,
+  "formId": null,
+  "name": "Aromatisse",
+  "psName": "Aromatisse",
+  "formName": null,
+  "region": "kalos",
+  "generation": 6,
+  "type1": "fairy",
+  "type2": null,
+  "color": "pink",
+  "abilities": {
+    "primary": "healer",
+    "secondary": null,
+    "hidden": "aromaveil"
+  },
+  "isDefault": true,
+  "isForm": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": false,
+  "isSwitchableForm": false,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": true,
+  "canBeAlpha": false,
+  "debutIn": "xy",
+  "obtainableIn": [
+    "xy",
+    "go",
+    "swsh"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [
+    "xy",
+    "oras",
+    "go",
+    "sm",
+    "usum",
+    "swsh",
+    "home"
+  ],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 101,
+    "atk": 72,
+    "def": 72,
+    "spa": 99,
+    "spd": 89,
+    "spe": 29
+  },
+  "weight": 1550,
+  "height": 80,
+  "baseSpecies": null,
+  "baseForms": [],
+  "forms": [],
+  "evolvesFrom": {
+    "pokemon": "spritzee",
+    "item": "sachet",
+    "type": "trade"
+  },
+  "refs": {
+    "smogon": "aromatisse",
+    "showdown": "aromatisse",
+    "serebii": "aromatisse",
+    "bulbapedia": "Aromatisse"
+  }
+}

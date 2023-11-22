@@ -1,0 +1,76 @@
+{
+  "id": "kingambit",
+  "nid": "0983",
+  "dexNum": 983,
+  "formId": null,
+  "name": "Kingambit",
+  "psName": "Kingambit",
+  "formName": null,
+  "region": "paldea",
+  "generation": 9,
+  "type1": "dark",
+  "type2": "steel",
+  "color": "black",
+  "abilities": {
+    "primary": "defiant",
+    "secondary": "supremeoverlord",
+    "hidden": "pressure"
+  },
+  "isDefault": true,
+  "isForm": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": false,
+  "isSwitchableForm": false,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": false,
+  "canBeAlpha": false,
+  "debutIn": "sv",
+  "obtainableIn": [
+    "sv"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [
+    "home",
+    "sv"
+  ],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 100,
+    "atk": 135,
+    "def": 120,
+    "spa": 60,
+    "spd": 85,
+    "spe": 50
+  },
+  "weight": 12000,
+  "height": 200,
+  "baseSpecies": null,
+  "baseForms": [],
+  "forms": [],
+  "evolvesFrom": {
+    "pokemon": "bisharp",
+    "type": "other",
+    "condition": "Defeat 3 Bisharp leading Pawniard and level-up"
+  },
+  "refs": {
+    "smogon": "kingambit",
+    "showdown": "kingambit",
+    "serebii": "kingambit",
+    "bulbapedia": "Kingambit"
+  }
+}

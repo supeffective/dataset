@@ -1,0 +1,78 @@
+{
+  "id": "bellibolt",
+  "nid": "0939",
+  "dexNum": 939,
+  "formId": null,
+  "name": "Bellibolt",
+  "psName": "Bellibolt",
+  "formName": null,
+  "region": "paldea",
+  "generation": 9,
+  "type1": "electric",
+  "type2": null,
+  "color": "green",
+  "abilities": {
+    "primary": "electromorphosis",
+    "secondary": "static",
+    "hidden": "damp"
+  },
+  "isDefault": true,
+  "isForm": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": false,
+  "isSwitchableForm": false,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": false,
+  "canBeAlpha": false,
+  "debutIn": "sv",
+  "obtainableIn": [
+    "go",
+    "sv"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [
+    "go",
+    "home",
+    "sv"
+  ],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 109,
+    "atk": 64,
+    "def": 91,
+    "spa": 103,
+    "spd": 83,
+    "spe": 45
+  },
+  "weight": 11300,
+  "height": 120,
+  "baseSpecies": null,
+  "baseForms": [],
+  "forms": [],
+  "evolvesFrom": {
+    "pokemon": "tadbulb",
+    "item": "thunderstone",
+    "type": "useitem"
+  },
+  "refs": {
+    "smogon": "bellibolt",
+    "showdown": "bellibolt",
+    "serebii": "bellibolt",
+    "bulbapedia": "Bellibolt"
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "id": "solgaleo",
+  "nid": "0791",
+  "dexNum": 791,
+  "formId": null,
+  "name": "Solgaleo",
+  "psName": "Solgaleo",
+  "formName": null,
+  "region": "alola",
+  "generation": 7,
+  "type1": "psychic",
+  "type2": "steel",
+  "color": "white",
+  "abilities": {
+    "primary": "fullmetalbody",
+    "secondary": null,
+    "hidden": null
+  },
+  "isDefault": true,
+  "isForm": false,
+  "isLegendary": true,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": false,
+  "isSwitchableForm": false,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": true,
+  "canBeAlpha": false,
+  "debutIn": "sm",
+  "obtainableIn": [
+    "go",
+    "sm",
+    "usum",
+    "swsh"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [
+    "go",
+    "sm",
+    "usum",
+    "swsh",
+    "home"
+  ],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 137,
+    "atk": 137,
+    "def": 107,
+    "spa": 113,
+    "spd": 89,
+    "spe": 97
+  },
+  "weight": 23000,
+  "height": 340,
+  "baseSpecies": null,
+  "baseForms": [],
+  "forms": [],
+  "evolvesFrom": {
+    "pokemon": "cosmoem",
+    "level": 53
+  },
+  "refs": {
+    "smogon": "solgaleo",
+    "showdown": "solgaleo",
+    "serebii": "solgaleo",
+    "bulbapedia": "Solgaleo"
+  }
+}

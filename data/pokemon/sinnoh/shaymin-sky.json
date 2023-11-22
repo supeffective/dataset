@@ -1,0 +1,87 @@
+{
+  "id": "shaymin-sky",
+  "nid": "0492-sky",
+  "dexNum": 492,
+  "formId": "sky",
+  "name": "Shaymin Sky Forme",
+  "psName": "Shaymin-Sky",
+  "formName": "Sky Forme",
+  "region": "sinnoh",
+  "generation": 4,
+  "type1": "grass",
+  "type2": "flying",
+  "color": "green",
+  "abilities": {
+    "primary": "serenegrace",
+    "secondary": null,
+    "hidden": null
+  },
+  "isDefault": false,
+  "isForm": true,
+  "isLegendary": false,
+  "isMythical": true,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": false,
+  "isSwitchableForm": true,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": true,
+  "canBeAlpha": false,
+  "debutIn": "pt",
+  "obtainableIn": [
+    "la"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [
+    "go",
+    "bdsp"
+  ],
+  "storableIn": [
+    "pt",
+    "hgss",
+    "bw",
+    "b2w2",
+    "xy",
+    "oras",
+    "go",
+    "sm",
+    "usum",
+    "home",
+    "bdsp",
+    "la"
+  ],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 100,
+    "atk": 103,
+    "def": 75,
+    "spa": 120,
+    "spd": 75,
+    "spe": 127
+  },
+  "weight": 520,
+  "height": 40,
+  "baseSpecies": "shaymin",
+  "baseForms": [
+    "shaymin"
+  ],
+  "forms": [],
+  "evolvesFrom": null,
+  "refs": {
+    "smogon": "shaymin-sky",
+    "showdown": "shayminsky",
+    "serebii": "shaymin",
+    "bulbapedia": "Shaymin"
+  }
+}

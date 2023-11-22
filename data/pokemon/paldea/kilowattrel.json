@@ -1,0 +1,75 @@
+{
+  "id": "kilowattrel",
+  "nid": "0941",
+  "dexNum": 941,
+  "formId": null,
+  "name": "Kilowattrel",
+  "psName": "Kilowattrel",
+  "formName": null,
+  "region": "paldea",
+  "generation": 9,
+  "type1": "electric",
+  "type2": "flying",
+  "color": "yellow",
+  "abilities": {
+    "primary": "windpower",
+    "secondary": "voltabsorb",
+    "hidden": "competitive"
+  },
+  "isDefault": true,
+  "isForm": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": false,
+  "isSwitchableForm": false,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": false,
+  "canBeAlpha": false,
+  "debutIn": "sv",
+  "obtainableIn": [
+    "sv"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [
+    "home",
+    "sv"
+  ],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 70,
+    "atk": 70,
+    "def": 60,
+    "spa": 105,
+    "spd": 60,
+    "spe": 125
+  },
+  "weight": 3860,
+  "height": 140,
+  "baseSpecies": null,
+  "baseForms": [],
+  "forms": [],
+  "evolvesFrom": {
+    "pokemon": "wattrel",
+    "level": 25
+  },
+  "refs": {
+    "smogon": "kilowattrel",
+    "showdown": "kilowattrel",
+    "serebii": "kilowattrel",
+    "bulbapedia": "Kilowattrel"
+  }
+}

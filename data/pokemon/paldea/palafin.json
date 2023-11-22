@@ -1,0 +1,77 @@
+{
+  "id": "palafin",
+  "nid": "0964",
+  "dexNum": 964,
+  "formId": null,
+  "name": "Palafin",
+  "psName": "Palafin",
+  "formName": "Zero Form",
+  "region": "paldea",
+  "generation": 9,
+  "type1": "water",
+  "type2": null,
+  "color": "blue",
+  "abilities": {
+    "primary": "zerotohero",
+    "secondary": null,
+    "hidden": null
+  },
+  "isDefault": true,
+  "isForm": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": false,
+  "isSwitchableForm": false,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": false,
+  "canBeAlpha": false,
+  "debutIn": "sv",
+  "obtainableIn": [
+    "sv"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [
+    "home",
+    "sv"
+  ],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 100,
+    "atk": 70,
+    "def": 72,
+    "spa": 53,
+    "spd": 62,
+    "spe": 100
+  },
+  "weight": 6020,
+  "height": 130,
+  "baseSpecies": null,
+  "baseForms": [],
+  "forms": [
+    "palafin-hero"
+  ],
+  "evolvesFrom": {
+    "pokemon": "finizen",
+    "level": 38
+  },
+  "refs": {
+    "smogon": "palafin",
+    "showdown": "palafin",
+    "serebii": "palafin",
+    "bulbapedia": "Palafin"
+  }
+}

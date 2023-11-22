@@ -1,0 +1,75 @@
+{
+  "id": "tauros-paldea",
+  "nid": "0128-paldea",
+  "dexNum": 128,
+  "formId": "paldea",
+  "name": "Paldean Tauros",
+  "psName": "Tauros-Paldea-Combat",
+  "formName": "Paldean Combat Breed",
+  "region": "paldea",
+  "generation": 9,
+  "type1": "fighting",
+  "type2": null,
+  "color": "black",
+  "abilities": {
+    "primary": "intimidate",
+    "secondary": "angerpoint",
+    "hidden": "cudchew"
+  },
+  "isDefault": false,
+  "isForm": true,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": false,
+  "isSwitchableForm": false,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": true,
+  "canGmax": false,
+  "canDynamax": false,
+  "canBeAlpha": false,
+  "debutIn": "sv",
+  "obtainableIn": [
+    "sv"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [
+    "home",
+    "sv"
+  ],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 75,
+    "atk": 110,
+    "def": 105,
+    "spa": 30,
+    "spd": 70,
+    "spe": 100
+  },
+  "weight": 11500,
+  "height": 140,
+  "baseSpecies": "tauros",
+  "baseForms": [],
+  "forms": [
+    "tauros-paldea-fire",
+    "tauros-paldea-water"
+  ],
+  "evolvesFrom": null,
+  "refs": {
+    "smogon": "tauros-paldea",
+    "showdown": "taurospaldeacombat",
+    "serebii": "Tauros",
+    "bulbapedia": "Tauros_Paldea"
+  }
+}

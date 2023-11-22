@@ -1,0 +1,82 @@
+{
+  "id": "spewpa",
+  "nid": "0665",
+  "dexNum": 665,
+  "formId": null,
+  "name": "Spewpa",
+  "psName": "Spewpa",
+  "formName": null,
+  "region": "kalos",
+  "generation": 6,
+  "type1": "bug",
+  "type2": null,
+  "color": "black",
+  "abilities": {
+    "primary": "shedskin",
+    "secondary": null,
+    "hidden": "friendguard"
+  },
+  "isDefault": true,
+  "isForm": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": false,
+  "isSwitchableForm": false,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": true,
+  "canBeAlpha": false,
+  "debutIn": "xy",
+  "obtainableIn": [
+    "xy",
+    "go",
+    "sv"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [
+    "xy",
+    "oras",
+    "go",
+    "sm",
+    "usum",
+    "home",
+    "sv"
+  ],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 45,
+    "atk": 22,
+    "def": 60,
+    "spa": 27,
+    "spd": 30,
+    "spe": 29
+  },
+  "weight": 840,
+  "height": 30,
+  "baseSpecies": null,
+  "baseForms": [],
+  "forms": [],
+  "evolvesFrom": {
+    "pokemon": "scatterbug",
+    "level": 9
+  },
+  "refs": {
+    "smogon": "spewpa",
+    "showdown": "spewpa",
+    "serebii": "spewpa",
+    "bulbapedia": "Spewpa"
+  }
+}

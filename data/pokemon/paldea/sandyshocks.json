@@ -1,0 +1,72 @@
+{
+  "id": "sandyshocks",
+  "nid": "0989",
+  "dexNum": 989,
+  "formId": null,
+  "name": "Sandy Shocks",
+  "psName": "Sandy Shocks",
+  "formName": null,
+  "region": "paldea",
+  "generation": 9,
+  "type1": "electric",
+  "type2": "ground",
+  "color": "gray",
+  "abilities": {
+    "primary": "protosynthesis",
+    "secondary": null,
+    "hidden": null
+  },
+  "isDefault": true,
+  "isForm": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": false,
+  "isSwitchableForm": false,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": false,
+  "canBeAlpha": false,
+  "debutIn": "sv",
+  "obtainableIn": [
+    "sv"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [
+    "home",
+    "sv"
+  ],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 85,
+    "atk": 81,
+    "def": 97,
+    "spa": 121,
+    "spd": 85,
+    "spe": 101
+  },
+  "weight": 6000,
+  "height": 230,
+  "baseSpecies": null,
+  "baseForms": [],
+  "forms": [],
+  "evolvesFrom": null,
+  "refs": {
+    "smogon": "sandyshocks",
+    "showdown": "sandyshocks",
+    "serebii": "sandyshocks",
+    "bulbapedia": "Sandyshocks"
+  }
+}

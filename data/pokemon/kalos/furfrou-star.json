@@ -1,0 +1,79 @@
+{
+  "id": "furfrou-star",
+  "nid": "0676-star",
+  "dexNum": 676,
+  "formId": "star",
+  "name": "Furfrou Star Trim",
+  "psName": "Furfrou",
+  "formName": "Star Trim",
+  "region": "kalos",
+  "generation": 6,
+  "type1": "normal",
+  "type2": null,
+  "color": "white",
+  "abilities": {
+    "primary": "furcoat",
+    "secondary": null,
+    "hidden": null
+  },
+  "isDefault": false,
+  "isForm": true,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": true,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": false,
+  "isSwitchableForm": true,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": true,
+  "canBeAlpha": false,
+  "debutIn": "xy",
+  "obtainableIn": [
+    "xy",
+    "go"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [
+    "xy",
+    "oras",
+    "go",
+    "sm",
+    "usum",
+    "home"
+  ],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 75,
+    "atk": 80,
+    "def": 60,
+    "spa": 65,
+    "spd": 90,
+    "spe": 102
+  },
+  "weight": 2800,
+  "height": 120,
+  "baseSpecies": "furfrou",
+  "baseForms": [
+    "furfrou"
+  ],
+  "forms": [],
+  "evolvesFrom": null,
+  "refs": {
+    "smogon": "furfrou-star",
+    "showdown": "furfrou",
+    "serebii": "furfrou",
+    "bulbapedia": "Furfrou"
+  }
+}

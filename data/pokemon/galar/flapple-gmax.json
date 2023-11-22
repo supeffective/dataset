@@ -1,0 +1,71 @@
+{
+  "id": "flapple-gmax",
+  "nid": "0841-gmax",
+  "dexNum": 841,
+  "formId": "gmax",
+  "name": "Gigantamax Flapple",
+  "psName": "Flapple-Gmax",
+  "formName": "Gigantamax",
+  "region": "galar",
+  "generation": 8,
+  "type1": "grass",
+  "type2": "dragon",
+  "color": "green",
+  "abilities": {
+    "primary": "ripen",
+    "secondary": "gluttony",
+    "hidden": "hustle"
+  },
+  "isDefault": false,
+  "isForm": true,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": true,
+  "isSwitchableForm": true,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": true,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": false,
+  "canBeAlpha": false,
+  "debutIn": "swsh",
+  "obtainableIn": [
+    "swsh"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 70,
+    "atk": 110,
+    "def": 80,
+    "spa": 95,
+    "spd": 60,
+    "spe": 70
+  },
+  "weight": 0,
+  "height": 2400,
+  "baseSpecies": "flapple",
+  "baseForms": [
+    "flapple"
+  ],
+  "forms": [],
+  "evolvesFrom": null,
+  "refs": {
+    "smogon": "flapple-gmax",
+    "showdown": "flapplegmax",
+    "serebii": "flapple",
+    "bulbapedia": "Flapple"
+  }
+}

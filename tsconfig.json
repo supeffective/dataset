@@ -1,0 +1,39 @@
+{
+  "compilerOptions": {
+    "composite": false,
+    "target": "ES2021",
+    "module": "ESNext",
+    "lib": ["ES2021", "DOM", "DOM.Iterable"],
+    "skipLibCheck": true,
+    "preserveWatchOutput": true,
+
+    /* Bundling */
+    // "jsx": "react-jsx",
+    "moduleResolution": "node", // bundler for Bun
+    "esModuleInterop": true,
+    "allowImportingTsExtensions": true,
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "noEmit": true,
+    "declaration": true,
+    "declarationMap": true,
+    "inlineSources": false,
+    "allowArbitraryExtensions": true,
+
+    /* Linting */
+    "strict": true,
+    "strictNullChecks": true,
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "noUncheckedIndexedAccess": true,
+    "noFallthroughCasesInSwitch": true,
+    "useDefineForClassFields": true,
+    "verbatimModuleSyntax": true,
+    "forceConsistentCasingInFileNames": true,
+
+    /* Paths and files */
+    "types": ["@types/node", "jest", "bun-types"]
+  },
+  "include": ["src", "*.ts"],
+  "exclude": ["node_modules", "dist", "build", "coverage", ".pnpm", "node_modules/**/*.ts"]
+}

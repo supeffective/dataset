@@ -1,0 +1,74 @@
+{
+  "id": "charizard-mega-y",
+  "nid": "0006-mega-y",
+  "dexNum": 6,
+  "formId": "mega-y",
+  "name": "Mega Charizard Y",
+  "psName": "Charizard-Mega-Y",
+  "formName": "Mega Y",
+  "region": "kalos",
+  "generation": 6,
+  "type1": "fire",
+  "type2": "flying",
+  "color": "red",
+  "abilities": {
+    "primary": "drought",
+    "secondary": null,
+    "hidden": null
+  },
+  "isDefault": false,
+  "isForm": true,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": true,
+  "isSwitchableForm": true,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": true,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": false,
+  "canBeAlpha": false,
+  "debutIn": "xy",
+  "obtainableIn": [
+    "xy",
+    "go"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [
+    "go"
+  ],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 78,
+    "atk": 104,
+    "def": 78,
+    "spa": 159,
+    "spd": 115,
+    "spe": 100
+  },
+  "weight": 10050,
+  "height": 170,
+  "baseSpecies": "charizard",
+  "baseForms": [
+    "charizard"
+  ],
+  "forms": [],
+  "evolvesFrom": null,
+  "refs": {
+    "smogon": "charizard-mega-y",
+    "showdown": "charizardmegay",
+    "serebii": "charizard",
+    "bulbapedia": "Charizard"
+  }
+}

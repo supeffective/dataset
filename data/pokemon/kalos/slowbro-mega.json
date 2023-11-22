@@ -1,0 +1,75 @@
+{
+  "id": "slowbro-mega",
+  "nid": "0080-mega",
+  "dexNum": 80,
+  "formId": "mega",
+  "name": "Mega Slowbro",
+  "psName": "Slowbro-Mega",
+  "formName": "Mega",
+  "region": "kalos",
+  "generation": 6,
+  "type1": "water",
+  "type2": "psychic",
+  "color": "pink",
+  "abilities": {
+    "primary": "shellarmor",
+    "secondary": null,
+    "hidden": null
+  },
+  "isDefault": false,
+  "isForm": true,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": true,
+  "isSwitchableForm": true,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": true,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": false,
+  "canBeAlpha": false,
+  "debutIn": "oras",
+  "obtainableIn": [
+    "oras",
+    "go",
+    "lgpe"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [
+    "go"
+  ],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 95,
+    "atk": 75,
+    "def": 180,
+    "spa": 130,
+    "spd": 80,
+    "spe": 30
+  },
+  "weight": 12000,
+  "height": 200,
+  "baseSpecies": "slowbro",
+  "baseForms": [
+    "slowbro"
+  ],
+  "forms": [],
+  "evolvesFrom": null,
+  "refs": {
+    "smogon": "slowbro-mega",
+    "showdown": "slowbromega",
+    "serebii": "slowbro",
+    "bulbapedia": "Slowbro"
+  }
+}

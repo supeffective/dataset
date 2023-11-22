@@ -1,0 +1,87 @@
+{
+  "id": "sinistcha",
+  "nid": "1013",
+  "dexNum": 1013,
+  "formId": "unremarkable",
+  "name": "Sinistcha",
+  "psName": "Sinistcha",
+  "formName": "Unremarkable Form",
+  "region": "paldea",
+  "generation": 9,
+  "type1": "grass",
+  "type2": "ghost",
+  "color": "white",
+  "abilities": {
+    "primary": "hospitality",
+    "secondary": null,
+    "hidden": "heatproof"
+  },
+  "isDefault": true,
+  "isForm": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "paradoxSpecies": null,
+  "isConvergent": true,
+  "convergentSpecies": [
+    "sinistea",
+    "sinistea-antique",
+    "polteageist",
+    "polteageist-antique"
+  ],
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": false,
+  "isSwitchableForm": false,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": false,
+  "canBeAlpha": false,
+  "debutIn": "sv",
+  "obtainableIn": [
+    "sv"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [
+    "home",
+    "sv"
+  ],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 71,
+    "atk": 60,
+    "def": 106,
+    "spa": 121,
+    "spd": 80,
+    "spe": 70
+  },
+  "weight": 220,
+  "height": -1,
+  "baseSpecies": null,
+  "baseForms": [],
+  "forms": [
+    "sinistcha-masterpiece"
+  ],
+  "family": "poltchageist",
+  "evolvesFrom": {
+    "pokemon": "poltchageist",
+    "item": "unremarkableteacup",
+    "type": "useitem"
+  },
+  "refs": {
+    "smogon": "sinistcha",
+    "showdown": "sinistcha",
+    "serebii": "sinistcha",
+    "bulbapedia": "Sinistcha"
+  }
+}

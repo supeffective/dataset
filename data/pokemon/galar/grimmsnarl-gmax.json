@@ -1,0 +1,71 @@
+{
+  "id": "grimmsnarl-gmax",
+  "nid": "0861-gmax",
+  "dexNum": 861,
+  "formId": "gmax",
+  "name": "Gigantamax Grimmsnarl",
+  "psName": "Grimmsnarl-Gmax",
+  "formName": "Gigantamax",
+  "region": "galar",
+  "generation": 8,
+  "type1": "dark",
+  "type2": "fairy",
+  "color": "purple",
+  "abilities": {
+    "primary": "prankster",
+    "secondary": "frisk",
+    "hidden": "pickpocket"
+  },
+  "isDefault": false,
+  "isForm": true,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": true,
+  "isSwitchableForm": true,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": true,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": false,
+  "canBeAlpha": false,
+  "debutIn": "swsh",
+  "obtainableIn": [
+    "swsh"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 95,
+    "atk": 120,
+    "def": 65,
+    "spa": 95,
+    "spd": 75,
+    "spe": 60
+  },
+  "weight": 0,
+  "height": 3200,
+  "baseSpecies": "grimmsnarl",
+  "baseForms": [
+    "grimmsnarl"
+  ],
+  "forms": [],
+  "evolvesFrom": null,
+  "refs": {
+    "smogon": "grimmsnarl-gmax",
+    "showdown": "grimmsnarlgmax",
+    "serebii": "grimmsnarl",
+    "bulbapedia": "Grimmsnarl"
+  }
+}

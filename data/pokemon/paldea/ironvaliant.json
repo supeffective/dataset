@@ -1,0 +1,72 @@
+{
+  "id": "ironvaliant",
+  "nid": "1006",
+  "dexNum": 1006,
+  "formId": null,
+  "name": "Iron Valiant",
+  "psName": "Iron Valiant",
+  "formName": null,
+  "region": "paldea",
+  "generation": 9,
+  "type1": "fairy",
+  "type2": "fighting",
+  "color": "white",
+  "abilities": {
+    "primary": "quarkdrive",
+    "secondary": null,
+    "hidden": null
+  },
+  "isDefault": true,
+  "isForm": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": false,
+  "isSwitchableForm": false,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": false,
+  "canBeAlpha": false,
+  "debutIn": "sv",
+  "obtainableIn": [
+    "sv"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [
+    "home",
+    "sv"
+  ],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 74,
+    "atk": 130,
+    "def": 90,
+    "spa": 120,
+    "spd": 60,
+    "spe": 116
+  },
+  "weight": 3500,
+  "height": 140,
+  "baseSpecies": null,
+  "baseForms": [],
+  "forms": [],
+  "evolvesFrom": null,
+  "refs": {
+    "smogon": "ironvaliant",
+    "showdown": "ironvaliant",
+    "serebii": "ironvaliant",
+    "bulbapedia": "Ironvaliant"
+  }
+}

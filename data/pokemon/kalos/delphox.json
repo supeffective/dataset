@@ -1,0 +1,81 @@
+{
+  "id": "delphox",
+  "nid": "0655",
+  "dexNum": 655,
+  "formId": null,
+  "name": "Delphox",
+  "psName": "Delphox",
+  "formName": null,
+  "region": "kalos",
+  "generation": 6,
+  "type1": "fire",
+  "type2": "psychic",
+  "color": "red",
+  "abilities": {
+    "primary": "blaze",
+    "secondary": null,
+    "hidden": "magician"
+  },
+  "isDefault": true,
+  "isForm": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": false,
+  "isSwitchableForm": false,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": true,
+  "canBeAlpha": false,
+  "debutIn": "xy",
+  "obtainableIn": [
+    "xy",
+    "go"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [
+    "xy",
+    "oras",
+    "go",
+    "sm",
+    "usum",
+    "home",
+    "sv"
+  ],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 75,
+    "atk": 69,
+    "def": 72,
+    "spa": 114,
+    "spd": 100,
+    "spe": 104
+  },
+  "weight": 3900,
+  "height": 150,
+  "baseSpecies": null,
+  "baseForms": [],
+  "forms": [],
+  "evolvesFrom": {
+    "pokemon": "braixen",
+    "level": 36
+  },
+  "refs": {
+    "smogon": "delphox",
+    "showdown": "delphox",
+    "serebii": "delphox",
+    "bulbapedia": "Delphox"
+  }
+}

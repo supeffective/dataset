@@ -1,0 +1,74 @@
+{
+  "id": "medicham-mega",
+  "nid": "0308-mega",
+  "dexNum": 308,
+  "formId": "mega",
+  "name": "Mega Medicham",
+  "psName": "Medicham-Mega",
+  "formName": "Mega",
+  "region": "kalos",
+  "generation": 6,
+  "type1": "fighting",
+  "type2": "psychic",
+  "color": "red",
+  "abilities": {
+    "primary": "purepower",
+    "secondary": null,
+    "hidden": null
+  },
+  "isDefault": false,
+  "isForm": true,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": true,
+  "isSwitchableForm": true,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": true,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": false,
+  "canBeAlpha": false,
+  "debutIn": "xy",
+  "obtainableIn": [
+    "xy",
+    "go"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [
+    "go"
+  ],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 60,
+    "atk": 100,
+    "def": 85,
+    "spa": 80,
+    "spd": 85,
+    "spe": 100
+  },
+  "weight": 3150,
+  "height": 130,
+  "baseSpecies": "medicham",
+  "baseForms": [
+    "medicham"
+  ],
+  "forms": [],
+  "evolvesFrom": null,
+  "refs": {
+    "smogon": "medicham-mega",
+    "showdown": "medichammega",
+    "serebii": "medicham",
+    "bulbapedia": "Medicham"
+  }
+}

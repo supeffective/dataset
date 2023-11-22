@@ -1,0 +1,93 @@
+{
+  "id": "wormadam",
+  "nid": "0413",
+  "dexNum": 413,
+  "formId": "plant",
+  "name": "Wormadam",
+  "psName": "Wormadam",
+  "formName": "Plant Cloak",
+  "region": "sinnoh",
+  "generation": 4,
+  "type1": "bug",
+  "type2": "grass",
+  "color": "green",
+  "abilities": {
+    "primary": "anticipation",
+    "secondary": null,
+    "hidden": "overcoat"
+  },
+  "isDefault": true,
+  "isForm": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": false,
+  "isSwitchableForm": false,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": true,
+  "canBeAlpha": true,
+  "debutIn": "dp",
+  "obtainableIn": [
+    "dp",
+    "pt",
+    "go",
+    "bdsp",
+    "la"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [
+    "dp",
+    "pt",
+    "hgss",
+    "bw",
+    "b2w2",
+    "xy",
+    "oras",
+    "go",
+    "sm",
+    "usum",
+    "home",
+    "bdsp",
+    "la"
+  ],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 60,
+    "atk": 59,
+    "def": 85,
+    "spa": 79,
+    "spd": 105,
+    "spe": 36
+  },
+  "weight": 650,
+  "height": 50,
+  "baseSpecies": null,
+  "baseForms": [],
+  "forms": [
+    "wormadam-sandy",
+    "wormadam-trash"
+  ],
+  "evolvesFrom": {
+    "pokemon": "burmy",
+    "level": 20
+  },
+  "refs": {
+    "smogon": "wormadam",
+    "showdown": "wormadam",
+    "serebii": "wormadam",
+    "bulbapedia": "Wormadam"
+  }
+}

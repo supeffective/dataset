@@ -1,0 +1,80 @@
+{
+  "id": "hoopa-unbound",
+  "nid": "0720-unbound",
+  "dexNum": 720,
+  "formId": "unbound",
+  "name": "Hoopa Unbound",
+  "psName": "Hoopa-Unbound",
+  "formName": "Unbound",
+  "region": "kalos",
+  "generation": 6,
+  "type1": "psychic",
+  "type2": "dark",
+  "color": "purple",
+  "abilities": {
+    "primary": "magician",
+    "secondary": null,
+    "hidden": null
+  },
+  "isDefault": false,
+  "isForm": true,
+  "isLegendary": false,
+  "isMythical": true,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": false,
+  "isSwitchableForm": true,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": true,
+  "canBeAlpha": false,
+  "debutIn": "oras",
+  "obtainableIn": [],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [
+    "xy",
+    "oras",
+    "go"
+  ],
+  "storableIn": [
+    "oras",
+    "go",
+    "sm",
+    "usum",
+    "home",
+    "sv"
+  ],
+  "shinyReleased": false,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 80,
+    "atk": 160,
+    "def": 60,
+    "spa": 170,
+    "spd": 130,
+    "spe": 80
+  },
+  "weight": 49000,
+  "height": 650,
+  "baseSpecies": "hoopa",
+  "baseForms": [
+    "hoopa"
+  ],
+  "forms": [],
+  "evolvesFrom": null,
+  "refs": {
+    "smogon": "hoopa-unbound",
+    "showdown": "hoopaunbound",
+    "serebii": "hoopa",
+    "bulbapedia": "Hoopa"
+  }
+}

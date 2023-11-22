@@ -1,0 +1,81 @@
+{
+  "id": "braixen",
+  "nid": "0654",
+  "dexNum": 654,
+  "formId": null,
+  "name": "Braixen",
+  "psName": "Braixen",
+  "formName": null,
+  "region": "kalos",
+  "generation": 6,
+  "type1": "fire",
+  "type2": null,
+  "color": "red",
+  "abilities": {
+    "primary": "blaze",
+    "secondary": null,
+    "hidden": "magician"
+  },
+  "isDefault": true,
+  "isForm": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": false,
+  "isSwitchableForm": false,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": true,
+  "canBeAlpha": false,
+  "debutIn": "xy",
+  "obtainableIn": [
+    "xy",
+    "go"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [
+    "xy",
+    "oras",
+    "go",
+    "sm",
+    "usum",
+    "home",
+    "sv"
+  ],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 59,
+    "atk": 59,
+    "def": 58,
+    "spa": 90,
+    "spd": 70,
+    "spe": 73
+  },
+  "weight": 1450,
+  "height": 100,
+  "baseSpecies": null,
+  "baseForms": [],
+  "forms": [],
+  "evolvesFrom": {
+    "pokemon": "fennekin",
+    "level": 16
+  },
+  "refs": {
+    "smogon": "braixen",
+    "showdown": "braixen",
+    "serebii": "braixen",
+    "bulbapedia": "Braixen"
+  }
+}

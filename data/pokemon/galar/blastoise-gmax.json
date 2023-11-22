@@ -1,0 +1,71 @@
+{
+  "id": "blastoise-gmax",
+  "nid": "0009-gmax",
+  "dexNum": 9,
+  "formId": "gmax",
+  "name": "Gigantamax Blastoise",
+  "psName": "Blastoise-Gmax",
+  "formName": "Gigantamax",
+  "region": "galar",
+  "generation": 8,
+  "type1": "water",
+  "type2": null,
+  "color": "blue",
+  "abilities": {
+    "primary": "torrent",
+    "secondary": null,
+    "hidden": "raindish"
+  },
+  "isDefault": false,
+  "isForm": true,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": true,
+  "isSwitchableForm": true,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": true,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": false,
+  "canBeAlpha": false,
+  "debutIn": "swsh",
+  "obtainableIn": [
+    "swsh"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 79,
+    "atk": 83,
+    "def": 100,
+    "spa": 85,
+    "spd": 105,
+    "spe": 78
+  },
+  "weight": 0,
+  "height": 160,
+  "baseSpecies": "blastoise",
+  "baseForms": [
+    "blastoise"
+  ],
+  "forms": [],
+  "evolvesFrom": null,
+  "refs": {
+    "smogon": "blastoise-gmax",
+    "showdown": "blastoisegmax",
+    "serebii": "blastoise",
+    "bulbapedia": "Blastoise"
+  }
+}

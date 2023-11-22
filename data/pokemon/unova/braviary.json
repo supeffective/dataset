@@ -1,0 +1,89 @@
+{
+  "id": "braviary",
+  "nid": "0628",
+  "dexNum": 628,
+  "formId": null,
+  "name": "Braviary",
+  "psName": "Braviary",
+  "formName": null,
+  "region": "unova",
+  "generation": 5,
+  "type1": "normal",
+  "type2": "flying",
+  "color": "red",
+  "abilities": {
+    "primary": "keeneye",
+    "secondary": "sheerforce",
+    "hidden": "defiant"
+  },
+  "isDefault": true,
+  "isForm": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": false,
+  "isSwitchableForm": false,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": true,
+  "canBeAlpha": false,
+  "debutIn": "bw",
+  "obtainableIn": [
+    "bw",
+    "b2w2",
+    "go",
+    "swsh",
+    "sv"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [
+    "bw",
+    "b2w2",
+    "xy",
+    "oras",
+    "go",
+    "sm",
+    "usum",
+    "swsh",
+    "home",
+    "sv"
+  ],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 100,
+    "atk": 123,
+    "def": 75,
+    "spa": 57,
+    "spd": 75,
+    "spe": 80
+  },
+  "weight": 4100,
+  "height": 150,
+  "baseSpecies": null,
+  "baseForms": [],
+  "forms": [
+    "braviary-hisui"
+  ],
+  "evolvesFrom": {
+    "pokemon": "rufflet",
+    "level": 54
+  },
+  "refs": {
+    "smogon": "braviary",
+    "showdown": "braviary",
+    "serebii": "braviary",
+    "bulbapedia": "Braviary"
+  }
+}

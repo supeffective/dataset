@@ -1,0 +1,71 @@
+{
+  "id": "meloetta-pirouette",
+  "nid": "0648-pirouette",
+  "dexNum": 648,
+  "formId": "pirouette",
+  "name": "Meloetta Pirouette Forme",
+  "psName": "Meloetta-Pirouette",
+  "formName": "Pirouette Forme",
+  "region": "unova",
+  "generation": 5,
+  "type1": "normal",
+  "type2": "fighting",
+  "color": "white",
+  "abilities": {
+    "primary": "serenegrace",
+    "secondary": null,
+    "hidden": null
+  },
+  "isDefault": false,
+  "isForm": true,
+  "isLegendary": false,
+  "isMythical": true,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": true,
+  "isSwitchableForm": true,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": true,
+  "canBeAlpha": false,
+  "debutIn": "b2w2",
+  "obtainableIn": [],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [
+    "oras"
+  ],
+  "storableIn": [],
+  "shinyReleased": false,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 100,
+    "atk": 128,
+    "def": 90,
+    "spa": 77,
+    "spd": 77,
+    "spe": 128
+  },
+  "weight": 650,
+  "height": 60,
+  "baseSpecies": "meloetta",
+  "baseForms": [
+    "meloetta"
+  ],
+  "forms": [],
+  "evolvesFrom": null,
+  "refs": {
+    "smogon": "meloetta-pirouette",
+    "showdown": "meloettapirouette",
+    "serebii": "meloetta",
+    "bulbapedia": "Meloetta"
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "id": "ursaluna",
+  "nid": "0901",
+  "dexNum": 901,
+  "formId": null,
+  "name": "Ursaluna",
+  "psName": "Ursaluna",
+  "formName": null,
+  "region": "hisui",
+  "generation": 8,
+  "type1": "ground",
+  "type2": "normal",
+  "color": "brown",
+  "abilities": {
+    "primary": "guts",
+    "secondary": "bulletproof",
+    "hidden": "unnerve"
+  },
+  "isDefault": true,
+  "isForm": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": false,
+  "isSwitchableForm": false,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": false,
+  "canBeAlpha": true,
+  "debutIn": "la",
+  "obtainableIn": [
+    "go",
+    "la",
+    "sv"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [
+    "go",
+    "home",
+    "la",
+    "sv"
+  ],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 130,
+    "atk": 140,
+    "def": 105,
+    "spa": 45,
+    "spd": 80,
+    "spe": 50
+  },
+  "weight": 29000,
+  "height": 240,
+  "baseSpecies": null,
+  "baseForms": [],
+  "forms": [
+    "ursaluna-bloodmoon"
+  ],
+  "evolvesFrom": {
+    "pokemon": "ursaring",
+    "type": "other",
+    "condition": "Peat Block when there's a full moon"
+  },
+  "refs": {
+    "smogon": "ursaluna",
+    "showdown": "ursaluna",
+    "serebii": "ursaluna",
+    "bulbapedia": "Ursaluna"
+  }
+}

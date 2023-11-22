@@ -1,0 +1,72 @@
+{
+  "id": "arctozolt",
+  "nid": "0881",
+  "dexNum": 881,
+  "formId": null,
+  "name": "Arctozolt",
+  "psName": "Arctozolt",
+  "formName": null,
+  "region": "galar",
+  "generation": 8,
+  "type1": "electric",
+  "type2": "ice",
+  "color": "blue",
+  "abilities": {
+    "primary": "voltabsorb",
+    "secondary": "static",
+    "hidden": "slushrush"
+  },
+  "isDefault": true,
+  "isForm": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": false,
+  "isSwitchableForm": false,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": true,
+  "canBeAlpha": false,
+  "debutIn": "swsh",
+  "obtainableIn": [
+    "swsh"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [
+    "swsh",
+    "home"
+  ],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 90,
+    "atk": 100,
+    "def": 90,
+    "spa": 90,
+    "spd": 80,
+    "spe": 55
+  },
+  "weight": 15000,
+  "height": 230,
+  "baseSpecies": null,
+  "baseForms": [],
+  "forms": [],
+  "evolvesFrom": null,
+  "refs": {
+    "smogon": "arctozolt",
+    "showdown": "arctozolt",
+    "serebii": "arctozolt",
+    "bulbapedia": "Arctozolt"
+  }
+}

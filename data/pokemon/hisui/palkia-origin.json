@@ -1,0 +1,72 @@
+{
+  "id": "palkia-origin",
+  "nid": "0484-origin",
+  "dexNum": 484,
+  "formId": "origin",
+  "name": "Palkia Origin Forme",
+  "psName": "Palkia-Origin",
+  "formName": "Origin Forme",
+  "region": "hisui",
+  "generation": 8,
+  "type1": "water",
+  "type2": "dragon",
+  "color": "purple",
+  "abilities": {
+    "primary": "pressure",
+    "secondary": null,
+    "hidden": "telepathy"
+  },
+  "isDefault": false,
+  "isForm": true,
+  "isLegendary": true,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": false,
+  "isSwitchableForm": true,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": false,
+  "canBeAlpha": false,
+  "debutIn": "la",
+  "obtainableIn": [
+    "la"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [
+    "la",
+    "sv"
+  ],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 90,
+    "atk": 100,
+    "def": 100,
+    "spa": 150,
+    "spd": 120,
+    "spe": 120
+  },
+  "weight": 66000,
+  "height": 630,
+  "baseSpecies": "palkia",
+  "baseForms": [],
+  "forms": [],
+  "evolvesFrom": null,
+  "refs": {
+    "smogon": "palkia-origin",
+    "showdown": "palkiaorigin",
+    "serebii": "palkia",
+    "bulbapedia": "Palkia"
+  }
+}

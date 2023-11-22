@@ -1,0 +1,80 @@
+{
+  "id": "meowscarada",
+  "nid": "0908",
+  "dexNum": 908,
+  "formId": null,
+  "name": "Meowscarada",
+  "psName": "Meowscarada",
+  "formName": null,
+  "region": "paldea",
+  "generation": 9,
+  "type1": "grass",
+  "type2": "dark",
+  "color": "green",
+  "abilities": {
+    "primary": "overgrow",
+    "secondary": null,
+    "hidden": "protean"
+  },
+  "isDefault": true,
+  "isForm": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "paradoxSpecies": null,
+  "convergentSpecies": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": false,
+  "isSwitchableForm": false,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": false,
+  "canBeAlpha": false,
+  "debutIn": "sv",
+  "obtainableIn": [
+    "go",
+    "sv"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [
+    "go",
+    "home",
+    "sv"
+  ],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 76,
+    "atk": 110,
+    "def": 70,
+    "spa": 81,
+    "spd": 70,
+    "spe": 123
+  },
+  "weight": 3120,
+  "height": 150,
+  "baseSpecies": null,
+  "baseForms": [],
+  "forms": [],
+  "family": null,
+  "evolvesFrom": {
+    "pokemon": "floragato",
+    "level": 36
+  },
+  "refs": {
+    "smogon": "meowscarada",
+    "showdown": "meowscarada",
+    "serebii": "meowscarada",
+    "bulbapedia": "Meowscarada"
+  }
+}

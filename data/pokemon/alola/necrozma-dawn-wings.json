@@ -1,0 +1,78 @@
+{
+  "id": "necrozma-dawn-wings",
+  "nid": "0800-dawn-wings",
+  "dexNum": 800,
+  "formId": "dawn-wings",
+  "name": "Necrozma Dawn Wings",
+  "psName": "Necrozma-Dawn-Wings",
+  "formName": "Dawn Wings",
+  "region": "alola",
+  "generation": 7,
+  "type1": "psychic",
+  "type2": "ghost",
+  "color": "blue",
+  "abilities": {
+    "primary": "prismarmor",
+    "secondary": null,
+    "hidden": null
+  },
+  "isDefault": false,
+  "isForm": true,
+  "isLegendary": true,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": false,
+  "isSwitchableForm": true,
+  "isFusion": true,
+  "fusedWith": [
+    "necrozma",
+    "lunala"
+  ],
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": true,
+  "canBeAlpha": false,
+  "debutIn": "usum",
+  "obtainableIn": [
+    "usum",
+    "swsh"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [
+    "usum",
+    "swsh"
+  ],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 97,
+    "atk": 113,
+    "def": 109,
+    "spa": 157,
+    "spd": 127,
+    "spe": 77
+  },
+  "weight": 35000,
+  "height": 420,
+  "baseSpecies": "necrozma",
+  "baseForms": [
+    "necrozma"
+  ],
+  "forms": [],
+  "evolvesFrom": null,
+  "refs": {
+    "smogon": "necrozma-dawn-wings",
+    "showdown": "necrozmadawnwings",
+    "serebii": "necrozma",
+    "bulbapedia": "Necrozma"
+  }
+}

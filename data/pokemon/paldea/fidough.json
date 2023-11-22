@@ -1,0 +1,72 @@
+{
+  "id": "fidough",
+  "nid": "0926",
+  "dexNum": 926,
+  "formId": null,
+  "name": "Fidough",
+  "psName": "Fidough",
+  "formName": null,
+  "region": "paldea",
+  "generation": 9,
+  "type1": "fairy",
+  "type2": null,
+  "color": "yellow",
+  "abilities": {
+    "primary": "owntempo",
+    "secondary": null,
+    "hidden": "klutz"
+  },
+  "isDefault": true,
+  "isForm": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": false,
+  "isSwitchableForm": false,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": false,
+  "canBeAlpha": false,
+  "debutIn": "sv",
+  "obtainableIn": [
+    "sv"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [
+    "home",
+    "sv"
+  ],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 37,
+    "atk": 55,
+    "def": 70,
+    "spa": 30,
+    "spd": 55,
+    "spe": 65
+  },
+  "weight": 1090,
+  "height": 30,
+  "baseSpecies": null,
+  "baseForms": [],
+  "forms": [],
+  "evolvesFrom": null,
+  "refs": {
+    "smogon": "fidough",
+    "showdown": "fidough",
+    "serebii": "fidough",
+    "bulbapedia": "Fidough"
+  }
+}

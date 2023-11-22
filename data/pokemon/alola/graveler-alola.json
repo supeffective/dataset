@@ -1,0 +1,83 @@
+{
+  "id": "graveler-alola",
+  "nid": "0075-alola",
+  "dexNum": 75,
+  "formId": "alola",
+  "name": "Alolan Graveler",
+  "psName": "Graveler-Alola",
+  "formName": "Alolan Form",
+  "region": "alola",
+  "generation": 7,
+  "type1": "rock",
+  "type2": "electric",
+  "color": "gray",
+  "abilities": {
+    "primary": "magnetpull",
+    "secondary": "sturdy",
+    "hidden": "galvanize"
+  },
+  "isDefault": false,
+  "isForm": true,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": false,
+  "isSwitchableForm": false,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": true,
+  "canGmax": false,
+  "canDynamax": true,
+  "canBeAlpha": false,
+  "debutIn": "sm",
+  "obtainableIn": [
+    "go",
+    "sm",
+    "usum",
+    "lgpe",
+    "sv"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [
+    "go",
+    "sm",
+    "usum",
+    "lgpe",
+    "home",
+    "sv"
+  ],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 55,
+    "atk": 95,
+    "def": 115,
+    "spa": 45,
+    "spd": 45,
+    "spe": 35
+  },
+  "weight": 11000,
+  "height": 100,
+  "baseSpecies": "graveler",
+  "baseForms": [],
+  "forms": [],
+  "evolvesFrom": {
+    "pokemon": "geodude-alola",
+    "level": 25
+  },
+  "refs": {
+    "smogon": "graveler-alola",
+    "showdown": "graveleralola",
+    "serebii": "graveler",
+    "bulbapedia": "Graveler"
+  }
+}

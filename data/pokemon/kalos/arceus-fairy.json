@@ -1,0 +1,81 @@
+{
+  "id": "arceus-fairy",
+  "nid": "0493-fairy",
+  "dexNum": 493,
+  "formId": "fairy",
+  "name": "Arceus (Fairy)",
+  "psName": "Arceus-Fairy",
+  "formName": "Fairy",
+  "region": "kalos",
+  "generation": 6,
+  "type1": "fairy",
+  "type2": null,
+  "color": "white",
+  "abilities": {
+    "primary": "multitype",
+    "secondary": null,
+    "hidden": null
+  },
+  "isDefault": false,
+  "isForm": true,
+  "isLegendary": false,
+  "isMythical": true,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": false,
+  "isSwitchableForm": true,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": true,
+  "canBeAlpha": false,
+  "debutIn": "xy",
+  "obtainableIn": [
+    "xy",
+    "bdsp",
+    "la"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [
+    "xy",
+    "oras",
+    "sm",
+    "usum",
+    "bdsp",
+    "la",
+    "sv"
+  ],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 120,
+    "atk": 120,
+    "def": 120,
+    "spa": 120,
+    "spd": 120,
+    "spe": 120
+  },
+  "weight": 32000,
+  "height": 320,
+  "baseSpecies": "arceus",
+  "baseForms": [
+    "arceus"
+  ],
+  "forms": [],
+  "evolvesFrom": null,
+  "refs": {
+    "smogon": "arceus-fairy",
+    "showdown": "arceusfairy",
+    "serebii": "arceus",
+    "bulbapedia": "Arceus"
+  }
+}

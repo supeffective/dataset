@@ -1,0 +1,72 @@
+{
+  "id": "ironbundle",
+  "nid": "0991",
+  "dexNum": 991,
+  "formId": null,
+  "name": "Iron Bundle",
+  "psName": "Iron Bundle",
+  "formName": null,
+  "region": "paldea",
+  "generation": 9,
+  "type1": "ice",
+  "type2": "water",
+  "color": "red",
+  "abilities": {
+    "primary": "quarkdrive",
+    "secondary": null,
+    "hidden": null
+  },
+  "isDefault": true,
+  "isForm": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": false,
+  "isSwitchableForm": false,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": false,
+  "canBeAlpha": false,
+  "debutIn": "sv",
+  "obtainableIn": [
+    "sv"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [
+    "home",
+    "sv"
+  ],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 56,
+    "atk": 80,
+    "def": 114,
+    "spa": 124,
+    "spd": 60,
+    "spe": 136
+  },
+  "weight": 1100,
+  "height": 60,
+  "baseSpecies": null,
+  "baseForms": [],
+  "forms": [],
+  "evolvesFrom": null,
+  "refs": {
+    "smogon": "ironbundle",
+    "showdown": "ironbundle",
+    "serebii": "ironbundle",
+    "bulbapedia": "Ironbundle"
+  }
+}

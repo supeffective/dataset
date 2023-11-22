@@ -1,0 +1,82 @@
+{
+  "id": "kyurem-white",
+  "nid": "0646-white",
+  "dexNum": 646,
+  "formId": "white",
+  "name": "White Kyurem",
+  "psName": "Kyurem-White",
+  "formName": "White",
+  "region": "unova",
+  "generation": 5,
+  "type1": "dragon",
+  "type2": "ice",
+  "color": "gray",
+  "abilities": {
+    "primary": "turboblaze",
+    "secondary": null,
+    "hidden": null
+  },
+  "isDefault": false,
+  "isForm": true,
+  "isLegendary": true,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": false,
+  "isSwitchableForm": true,
+  "isFusion": true,
+  "fusedWith": [
+    "kyurem",
+    "zekrom"
+  ],
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": true,
+  "canBeAlpha": false,
+  "debutIn": "b2w2",
+  "obtainableIn": [
+    "b2w2",
+    "swsh"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [
+    "b2w2",
+    "xy",
+    "oras",
+    "sm",
+    "usum",
+    "swsh"
+  ],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 125,
+    "atk": 120,
+    "def": 90,
+    "spa": 170,
+    "spd": 100,
+    "spe": 95
+  },
+  "weight": 32500,
+  "height": 360,
+  "baseSpecies": "kyurem",
+  "baseForms": [
+    "kyurem"
+  ],
+  "forms": [],
+  "evolvesFrom": null,
+  "refs": {
+    "smogon": "kyurem-white",
+    "showdown": "kyuremwhite",
+    "serebii": "kyurem",
+    "bulbapedia": "Kyurem"
+  }
+}

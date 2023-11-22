@@ -1,0 +1,88 @@
+{
+  "id": "florges",
+  "nid": "0671",
+  "dexNum": 671,
+  "formId": "red",
+  "name": "Florges",
+  "psName": "Florges",
+  "formName": "Red Flower",
+  "region": "kalos",
+  "generation": 6,
+  "type1": "fairy",
+  "type2": null,
+  "color": "white",
+  "abilities": {
+    "primary": "flowerveil",
+    "secondary": null,
+    "hidden": "symbiosis"
+  },
+  "isDefault": true,
+  "isForm": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": false,
+  "isSwitchableForm": false,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": true,
+  "canBeAlpha": false,
+  "debutIn": "xy",
+  "obtainableIn": [
+    "xy",
+    "go",
+    "sv"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [
+    "xy",
+    "oras",
+    "go",
+    "sm",
+    "usum",
+    "home",
+    "sv"
+  ],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 78,
+    "atk": 65,
+    "def": 68,
+    "spa": 112,
+    "spd": 154,
+    "spe": 75
+  },
+  "weight": 1000,
+  "height": 110,
+  "baseSpecies": null,
+  "baseForms": [],
+  "forms": [
+    "florges-yellow",
+    "florges-orange",
+    "florges-blue",
+    "florges-white"
+  ],
+  "evolvesFrom": {
+    "pokemon": "floette",
+    "item": "shinystone",
+    "type": "useitem"
+  },
+  "refs": {
+    "smogon": "florges",
+    "showdown": "florges",
+    "serebii": "florges",
+    "bulbapedia": "Florges"
+  }
+}

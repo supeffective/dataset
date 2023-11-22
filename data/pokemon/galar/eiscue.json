@@ -1,0 +1,76 @@
+{
+  "id": "eiscue",
+  "nid": "0875",
+  "dexNum": 875,
+  "formId": "ice",
+  "name": "Eiscue",
+  "psName": "Eiscue",
+  "formName": "Ice Face",
+  "region": "galar",
+  "generation": 8,
+  "type1": "ice",
+  "type2": null,
+  "color": "blue",
+  "abilities": {
+    "primary": "iceface",
+    "secondary": null,
+    "hidden": null
+  },
+  "isDefault": true,
+  "isForm": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": false,
+  "isSwitchableForm": false,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": true,
+  "canBeAlpha": false,
+  "debutIn": "swsh",
+  "obtainableIn": [
+    "swsh",
+    "sv"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [
+    "swsh",
+    "home",
+    "sv"
+  ],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 75,
+    "atk": 80,
+    "def": 110,
+    "spa": 65,
+    "spd": 90,
+    "spe": 50
+  },
+  "weight": 8900,
+  "height": 140,
+  "baseSpecies": null,
+  "baseForms": [],
+  "forms": [
+    "eiscue-noice"
+  ],
+  "evolvesFrom": null,
+  "refs": {
+    "smogon": "eiscue",
+    "showdown": "eiscue",
+    "serebii": "eiscue",
+    "bulbapedia": "Eiscue"
+  }
+}

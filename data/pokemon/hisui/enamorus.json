@@ -1,0 +1,75 @@
+{
+  "id": "enamorus",
+  "nid": "0905",
+  "dexNum": 905,
+  "formId": "incarnate",
+  "name": "Enamorus",
+  "psName": "Enamorus",
+  "formName": "Incarnate Forme",
+  "region": "hisui",
+  "generation": 8,
+  "type1": "fairy",
+  "type2": "flying",
+  "color": "pink",
+  "abilities": {
+    "primary": "cutecharm",
+    "secondary": null,
+    "hidden": "contrary"
+  },
+  "isDefault": true,
+  "isForm": false,
+  "isLegendary": true,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": false,
+  "isSwitchableForm": false,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": false,
+  "canBeAlpha": false,
+  "debutIn": "la",
+  "obtainableIn": [
+    "la"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [
+    "home",
+    "la",
+    "sv"
+  ],
+  "shinyReleased": false,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 74,
+    "atk": 115,
+    "def": 70,
+    "spa": 135,
+    "spd": 80,
+    "spe": 106
+  },
+  "weight": 4800,
+  "height": 160,
+  "baseSpecies": null,
+  "baseForms": [],
+  "forms": [
+    "enamorus-therian"
+  ],
+  "evolvesFrom": null,
+  "refs": {
+    "smogon": "enamorus",
+    "showdown": "enamorus",
+    "serebii": "enamorus",
+    "bulbapedia": "Enamorus"
+  }
+}

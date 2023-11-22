@@ -1,0 +1,73 @@
+{
+  "id": "zorua-hisui",
+  "nid": "0570-hisui",
+  "dexNum": 570,
+  "formId": "hisui",
+  "name": "Hisuian Zorua",
+  "psName": "Zorua-Hisui",
+  "formName": "Hisuian Form",
+  "region": "hisui",
+  "generation": 8,
+  "type1": "normal",
+  "type2": "ghost",
+  "color": "gray",
+  "abilities": {
+    "primary": "illusion",
+    "secondary": null,
+    "hidden": null
+  },
+  "isDefault": false,
+  "isForm": true,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": false,
+  "isSwitchableForm": false,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": true,
+  "canGmax": false,
+  "canDynamax": false,
+  "canBeAlpha": true,
+  "debutIn": "la",
+  "obtainableIn": [
+    "la"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [
+    "home",
+    "la",
+    "sv"
+  ],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 35,
+    "atk": 60,
+    "def": 40,
+    "spa": 85,
+    "spd": 40,
+    "spe": 70
+  },
+  "weight": 1250,
+  "height": 70,
+  "baseSpecies": "zorua",
+  "baseForms": [],
+  "forms": [],
+  "evolvesFrom": null,
+  "refs": {
+    "smogon": "zorua-hisui",
+    "showdown": "zoruahisui",
+    "serebii": "zorua",
+    "bulbapedia": "Zorua"
+  }
+}

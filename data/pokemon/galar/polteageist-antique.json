@@ -1,0 +1,78 @@
+{
+  "id": "polteageist-antique",
+  "nid": "0855-antique",
+  "dexNum": 855,
+  "formId": "antique",
+  "name": "Polteageist (Antique)",
+  "psName": "Polteageist-Antique",
+  "formName": "Antique",
+  "region": "galar",
+  "generation": 8,
+  "type1": "ghost",
+  "type2": null,
+  "color": "purple",
+  "abilities": {
+    "primary": "weakarmor",
+    "secondary": null,
+    "hidden": "cursedbody"
+  },
+  "isDefault": false,
+  "isForm": true,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": true,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": false,
+  "isSwitchableForm": false,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": true,
+  "canBeAlpha": false,
+  "debutIn": "swsh",
+  "obtainableIn": [
+    "swsh",
+    "sv"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [
+    "swsh",
+    "home",
+    "sv"
+  ],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 60,
+    "atk": 65,
+    "def": 65,
+    "spa": 134,
+    "spd": 114,
+    "spe": 70
+  },
+  "weight": 40,
+  "height": 20,
+  "baseSpecies": "polteageist",
+  "baseForms": [],
+  "forms": [],
+  "evolvesFrom": {
+    "pokemon": "sinistea-antique",
+    "item": "chippedpot",
+    "type": "useitem"
+  },
+  "refs": {
+    "smogon": "polteageist-antique",
+    "showdown": "polteageistantique",
+    "serebii": "polteageist",
+    "bulbapedia": "Polteageist"
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": "scorbunny",
+  "nid": "0813",
+  "dexNum": 813,
+  "formId": null,
+  "name": "Scorbunny",
+  "psName": "Scorbunny",
+  "formName": null,
+  "region": "galar",
+  "generation": 8,
+  "type1": "fire",
+  "type2": null,
+  "color": "white",
+  "abilities": {
+    "primary": "blaze",
+    "secondary": null,
+    "hidden": "libero"
+  },
+  "isDefault": true,
+  "isForm": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": false,
+  "isSwitchableForm": false,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": true,
+  "canBeAlpha": false,
+  "debutIn": "swsh",
+  "obtainableIn": [
+    "swsh"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [
+    "swsh",
+    "home",
+    "sv"
+  ],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 50,
+    "atk": 71,
+    "def": 40,
+    "spa": 40,
+    "spd": 40,
+    "spe": 69
+  },
+  "weight": 450,
+  "height": 30,
+  "baseSpecies": null,
+  "baseForms": [],
+  "forms": [],
+  "evolvesFrom": null,
+  "refs": {
+    "smogon": "scorbunny",
+    "showdown": "scorbunny",
+    "serebii": "scorbunny",
+    "bulbapedia": "Scorbunny"
+  }
+}

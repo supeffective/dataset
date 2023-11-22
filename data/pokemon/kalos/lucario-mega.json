@@ -1,0 +1,74 @@
+{
+  "id": "lucario-mega",
+  "nid": "0448-mega",
+  "dexNum": 448,
+  "formId": "mega",
+  "name": "Mega Lucario",
+  "psName": "Lucario-Mega",
+  "formName": "Mega",
+  "region": "kalos",
+  "generation": 6,
+  "type1": "fighting",
+  "type2": "steel",
+  "color": "blue",
+  "abilities": {
+    "primary": "adaptability",
+    "secondary": null,
+    "hidden": null
+  },
+  "isDefault": false,
+  "isForm": true,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": true,
+  "isSwitchableForm": true,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": true,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": false,
+  "canBeAlpha": false,
+  "debutIn": "xy",
+  "obtainableIn": [
+    "xy",
+    "go"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [
+    "go"
+  ],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 70,
+    "atk": 145,
+    "def": 88,
+    "spa": 140,
+    "spd": 70,
+    "spe": 112
+  },
+  "weight": 5750,
+  "height": 130,
+  "baseSpecies": "lucario",
+  "baseForms": [
+    "lucario"
+  ],
+  "forms": [],
+  "evolvesFrom": null,
+  "refs": {
+    "smogon": "lucario-mega",
+    "showdown": "lucariomega",
+    "serebii": "lucario",
+    "bulbapedia": "Lucario"
+  }
+}

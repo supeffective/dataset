@@ -1,0 +1,81 @@
+{
+  "id": "urshifu",
+  "nid": "0892",
+  "dexNum": 892,
+  "formId": "single-strike",
+  "name": "Urshifu",
+  "psName": "Urshifu",
+  "formName": "Single Strike Style",
+  "region": "galar",
+  "generation": 8,
+  "type1": "fighting",
+  "type2": "dark",
+  "color": "gray",
+  "abilities": {
+    "primary": "unseenfist",
+    "secondary": null,
+    "hidden": null
+  },
+  "isDefault": true,
+  "isForm": false,
+  "isLegendary": true,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": false,
+  "isSwitchableForm": false,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": false,
+  "canGmax": true,
+  "canDynamax": true,
+  "canBeAlpha": false,
+  "debutIn": "swsh",
+  "obtainableIn": [
+    "swsh"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [
+    "swsh",
+    "home",
+    "sv"
+  ],
+  "shinyReleased": false,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 100,
+    "atk": 130,
+    "def": 100,
+    "spa": 63,
+    "spd": 60,
+    "spe": 97
+  },
+  "weight": 10500,
+  "height": 190,
+  "baseSpecies": null,
+  "baseForms": [],
+  "forms": [
+    "urshifu-gmax",
+    "urshifu-rapid-strike",
+    "urshifu-rapid-strike-gmax"
+  ],
+  "evolvesFrom": {
+    "pokemon": "kubfu",
+    "type": "other",
+    "condition": "Defeat the Single Strike Tower"
+  },
+  "refs": {
+    "smogon": "urshifu",
+    "showdown": "urshifu",
+    "serebii": "urshifu",
+    "bulbapedia": "Urshifu"
+  }
+}

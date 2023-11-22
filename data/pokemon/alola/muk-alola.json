@@ -1,0 +1,82 @@
+{
+  "id": "muk-alola",
+  "nid": "0089-alola",
+  "dexNum": 89,
+  "formId": "alola",
+  "name": "Alolan Muk",
+  "psName": "Muk-Alola",
+  "formName": "Alolan Form",
+  "region": "alola",
+  "generation": 7,
+  "type1": "poison",
+  "type2": "dark",
+  "color": "green",
+  "abilities": {
+    "primary": "poisontouch",
+    "secondary": "gluttony",
+    "hidden": "powerofalchemy"
+  },
+  "isDefault": false,
+  "isForm": true,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": false,
+  "isSwitchableForm": false,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": true,
+  "canGmax": false,
+  "canDynamax": true,
+  "canBeAlpha": false,
+  "debutIn": "sm",
+  "obtainableIn": [
+    "go",
+    "sm",
+    "usum",
+    "lgpe"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [
+    "go",
+    "sm",
+    "usum",
+    "lgpe",
+    "home",
+    "sv"
+  ],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 105,
+    "atk": 105,
+    "def": 75,
+    "spa": 65,
+    "spd": 100,
+    "spe": 50
+  },
+  "weight": 5200,
+  "height": 100,
+  "baseSpecies": "muk",
+  "baseForms": [],
+  "forms": [],
+  "evolvesFrom": {
+    "pokemon": "grimer-alola",
+    "level": 38
+  },
+  "refs": {
+    "smogon": "muk-alola",
+    "showdown": "mukalola",
+    "serebii": "muk",
+    "bulbapedia": "Muk"
+  }
+}

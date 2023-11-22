@@ -1,0 +1,72 @@
+{
+  "id": "arctovish",
+  "nid": "0883",
+  "dexNum": 883,
+  "formId": null,
+  "name": "Arctovish",
+  "psName": "Arctovish",
+  "formName": null,
+  "region": "galar",
+  "generation": 8,
+  "type1": "water",
+  "type2": "ice",
+  "color": "blue",
+  "abilities": {
+    "primary": "waterabsorb",
+    "secondary": "icebody",
+    "hidden": "slushrush"
+  },
+  "isDefault": true,
+  "isForm": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": false,
+  "isSwitchableForm": false,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": true,
+  "canBeAlpha": false,
+  "debutIn": "swsh",
+  "obtainableIn": [
+    "swsh"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [
+    "swsh",
+    "home"
+  ],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 90,
+    "atk": 90,
+    "def": 100,
+    "spa": 80,
+    "spd": 90,
+    "spe": 55
+  },
+  "weight": 17500,
+  "height": 200,
+  "baseSpecies": null,
+  "baseForms": [],
+  "forms": [],
+  "evolvesFrom": null,
+  "refs": {
+    "smogon": "arctovish",
+    "showdown": "arctovish",
+    "serebii": "arctovish",
+    "bulbapedia": "Arctovish"
+  }
+}

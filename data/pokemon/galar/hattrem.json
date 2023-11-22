@@ -1,0 +1,77 @@
+{
+  "id": "hattrem",
+  "nid": "0857",
+  "dexNum": 857,
+  "formId": null,
+  "name": "Hattrem",
+  "psName": "Hattrem",
+  "formName": null,
+  "region": "galar",
+  "generation": 8,
+  "type1": "psychic",
+  "type2": null,
+  "color": "pink",
+  "abilities": {
+    "primary": "healer",
+    "secondary": "anticipation",
+    "hidden": "magicbounce"
+  },
+  "isDefault": true,
+  "isForm": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": false,
+  "isSwitchableForm": false,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": true,
+  "canBeAlpha": false,
+  "debutIn": "swsh",
+  "obtainableIn": [
+    "swsh",
+    "sv"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [
+    "swsh",
+    "home",
+    "sv"
+  ],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 57,
+    "atk": 40,
+    "def": 65,
+    "spa": 86,
+    "spd": 73,
+    "spe": 49
+  },
+  "weight": 480,
+  "height": 60,
+  "baseSpecies": null,
+  "baseForms": [],
+  "forms": [],
+  "evolvesFrom": {
+    "pokemon": "hatenna",
+    "level": 32
+  },
+  "refs": {
+    "smogon": "hattrem",
+    "showdown": "hattrem",
+    "serebii": "hattrem",
+    "bulbapedia": "Hattrem"
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "id": "garganacl",
+  "nid": "0934",
+  "dexNum": 934,
+  "formId": null,
+  "name": "Garganacl",
+  "psName": "Garganacl",
+  "formName": null,
+  "region": "paldea",
+  "generation": 9,
+  "type1": "rock",
+  "type2": null,
+  "color": "brown",
+  "abilities": {
+    "primary": "purifyingsalt",
+    "secondary": "sturdy",
+    "hidden": "clearbody"
+  },
+  "isDefault": true,
+  "isForm": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": false,
+  "isSwitchableForm": false,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": false,
+  "canBeAlpha": false,
+  "debutIn": "sv",
+  "obtainableIn": [
+    "sv"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [
+    "home",
+    "sv"
+  ],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 100,
+    "atk": 100,
+    "def": 130,
+    "spa": 45,
+    "spd": 90,
+    "spe": 35
+  },
+  "weight": 24000,
+  "height": 250,
+  "baseSpecies": null,
+  "baseForms": [],
+  "forms": [],
+  "evolvesFrom": {
+    "pokemon": "naclstack",
+    "level": 38
+  },
+  "refs": {
+    "smogon": "garganacl",
+    "showdown": "garganacl",
+    "serebii": "garganacl",
+    "bulbapedia": "Garganacl"
+  }
+}

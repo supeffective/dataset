@@ -1,0 +1,79 @@
+{
+  "id": "fuecoco",
+  "nid": "0909",
+  "dexNum": 909,
+  "formId": null,
+  "name": "Fuecoco",
+  "psName": "Fuecoco",
+  "formName": null,
+  "region": "paldea",
+  "generation": 9,
+  "type1": "fire",
+  "type2": null,
+  "color": "red",
+  "abilities": {
+    "primary": "blaze",
+    "secondary": null,
+    "hidden": "unaware"
+  },
+  "isDefault": true,
+  "isForm": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "paradoxSpecies": null,
+  "convergentSpecies": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": false,
+  "isSwitchableForm": false,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": false,
+  "canBeAlpha": false,
+  "debutIn": "sv",
+  "obtainableIn": [
+    "go",
+    "sv"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [
+    "go",
+    "home",
+    "sv"
+  ],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 67,
+    "atk": 45,
+    "def": 59,
+    "spa": 63,
+    "spd": 40,
+    "spe": 36
+  },
+  "weight": 980,
+  "height": 40,
+  "baseSpecies": null,
+  "baseForms": [],
+  "forms": [],
+  "family": null,
+  "evolvesFrom": {
+    "pokemon": null
+  },
+  "refs": {
+    "smogon": "fuecoco",
+    "showdown": "fuecoco",
+    "serebii": "fuecoco",
+    "bulbapedia": "Fuecoco"
+  }
+}

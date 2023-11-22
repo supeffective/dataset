@@ -1,0 +1,77 @@
+{
+  "id": "wyrdeer",
+  "nid": "0899",
+  "dexNum": 899,
+  "formId": null,
+  "name": "Wyrdeer",
+  "psName": "Wyrdeer",
+  "formName": null,
+  "region": "hisui",
+  "generation": 8,
+  "type1": "normal",
+  "type2": "psychic",
+  "color": "white",
+  "abilities": {
+    "primary": "intimidate",
+    "secondary": "frisk",
+    "hidden": "sapsipper"
+  },
+  "isDefault": true,
+  "isForm": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": false,
+  "isSwitchableForm": false,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": false,
+  "canBeAlpha": true,
+  "debutIn": "la",
+  "obtainableIn": [
+    "la"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [
+    "home",
+    "la",
+    "sv"
+  ],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 103,
+    "atk": 105,
+    "def": 72,
+    "spa": 105,
+    "spd": 75,
+    "spe": 65
+  },
+  "weight": 9510,
+  "height": 180,
+  "baseSpecies": null,
+  "baseForms": [],
+  "forms": [],
+  "evolvesFrom": {
+    "pokemon": "stantler",
+    "type": "other",
+    "condition": "Use Agile style Psyshield Bash 20 times"
+  },
+  "refs": {
+    "smogon": "wyrdeer",
+    "showdown": "wyrdeer",
+    "serebii": "wyrdeer",
+    "bulbapedia": "Wyrdeer"
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "id": "mewtwo-mega-y",
+  "nid": "0150-mega-y",
+  "dexNum": 150,
+  "formId": "mega-y",
+  "name": "Mega Mewtwo Y",
+  "psName": "Mewtwo-Mega-Y",
+  "formName": "Mega Y",
+  "region": "kalos",
+  "generation": 6,
+  "type1": "psychic",
+  "type2": null,
+  "color": "purple",
+  "abilities": {
+    "primary": "insomnia",
+    "secondary": null,
+    "hidden": null
+  },
+  "isDefault": false,
+  "isForm": true,
+  "isLegendary": true,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": true,
+  "isSwitchableForm": true,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": true,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": false,
+  "canBeAlpha": false,
+  "debutIn": "xy",
+  "obtainableIn": [
+    "xy",
+    "go"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [
+    "go"
+  ],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 106,
+    "atk": 150,
+    "def": 70,
+    "spa": 194,
+    "spd": 120,
+    "spe": 140
+  },
+  "weight": 3300,
+  "height": 150,
+  "baseSpecies": "mewtwo",
+  "baseForms": [
+    "mewtwo"
+  ],
+  "forms": [],
+  "evolvesFrom": null,
+  "refs": {
+    "smogon": "mewtwo-mega-y",
+    "showdown": "mewtwomegay",
+    "serebii": "mewtwo",
+    "bulbapedia": "Mewtwo"
+  }
+}

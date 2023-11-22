@@ -1,0 +1,75 @@
+{
+  "id": "beedrill-mega",
+  "nid": "0015-mega",
+  "dexNum": 15,
+  "formId": "mega",
+  "name": "Mega Beedrill",
+  "psName": "Beedrill-Mega",
+  "formName": "Mega",
+  "region": "kalos",
+  "generation": 6,
+  "type1": "bug",
+  "type2": "poison",
+  "color": "yellow",
+  "abilities": {
+    "primary": "adaptability",
+    "secondary": null,
+    "hidden": null
+  },
+  "isDefault": false,
+  "isForm": true,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": true,
+  "isSwitchableForm": true,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": true,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": false,
+  "canBeAlpha": false,
+  "debutIn": "oras",
+  "obtainableIn": [
+    "oras",
+    "go",
+    "lgpe"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [
+    "go"
+  ],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 65,
+    "atk": 150,
+    "def": 40,
+    "spa": 15,
+    "spd": 80,
+    "spe": 145
+  },
+  "weight": 4050,
+  "height": 140,
+  "baseSpecies": "beedrill",
+  "baseForms": [
+    "beedrill"
+  ],
+  "forms": [],
+  "evolvesFrom": null,
+  "refs": {
+    "smogon": "beedrill-mega",
+    "showdown": "beedrillmega",
+    "serebii": "beedrill",
+    "bulbapedia": "Beedrill"
+  }
+}

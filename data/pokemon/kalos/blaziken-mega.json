@@ -1,0 +1,74 @@
+{
+  "id": "blaziken-mega",
+  "nid": "0257-mega",
+  "dexNum": 257,
+  "formId": "mega",
+  "name": "Mega Blaziken",
+  "psName": "Blaziken-Mega",
+  "formName": "Mega",
+  "region": "kalos",
+  "generation": 6,
+  "type1": "fire",
+  "type2": "fighting",
+  "color": "red",
+  "abilities": {
+    "primary": "speedboost",
+    "secondary": null,
+    "hidden": null
+  },
+  "isDefault": false,
+  "isForm": true,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": true,
+  "isSwitchableForm": true,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": true,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": false,
+  "canBeAlpha": false,
+  "debutIn": "xy",
+  "obtainableIn": [
+    "xy",
+    "go"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [
+    "go"
+  ],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 80,
+    "atk": 160,
+    "def": 80,
+    "spa": 130,
+    "spd": 80,
+    "spe": 100
+  },
+  "weight": 5200,
+  "height": 190,
+  "baseSpecies": "blaziken",
+  "baseForms": [
+    "blaziken"
+  ],
+  "forms": [],
+  "evolvesFrom": null,
+  "refs": {
+    "smogon": "blaziken-mega",
+    "showdown": "blazikenmega",
+    "serebii": "blaziken",
+    "bulbapedia": "Blaziken"
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "id": "kingler-gmax",
+  "nid": "0099-gmax",
+  "dexNum": 99,
+  "formId": "gmax",
+  "name": "Gigantamax Kingler",
+  "psName": "Kingler-Gmax",
+  "formName": "Gigantamax",
+  "region": "galar",
+  "generation": 8,
+  "type1": "water",
+  "type2": null,
+  "color": "red",
+  "abilities": {
+    "primary": "hypercutter",
+    "secondary": "shellarmor",
+    "hidden": "sheerforce"
+  },
+  "isDefault": false,
+  "isForm": true,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": true,
+  "isSwitchableForm": true,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": true,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": false,
+  "canBeAlpha": false,
+  "debutIn": "swsh",
+  "obtainableIn": [
+    "swsh"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 55,
+    "atk": 130,
+    "def": 115,
+    "spa": 50,
+    "spd": 50,
+    "spe": 75
+  },
+  "weight": 0,
+  "height": 1900,
+  "baseSpecies": "kingler",
+  "baseForms": [
+    "kingler"
+  ],
+  "forms": [],
+  "evolvesFrom": null,
+  "refs": {
+    "smogon": "kingler-gmax",
+    "showdown": "kinglergmax",
+    "serebii": "kingler",
+    "bulbapedia": "Kingler"
+  }
+}

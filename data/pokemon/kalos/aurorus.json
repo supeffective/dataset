@@ -1,0 +1,83 @@
+{
+  "id": "aurorus",
+  "nid": "0699",
+  "dexNum": 699,
+  "formId": null,
+  "name": "Aurorus",
+  "psName": "Aurorus",
+  "formName": null,
+  "region": "kalos",
+  "generation": 6,
+  "type1": "rock",
+  "type2": "ice",
+  "color": "blue",
+  "abilities": {
+    "primary": "refrigerate",
+    "secondary": null,
+    "hidden": "snowwarning"
+  },
+  "isDefault": true,
+  "isForm": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": false,
+  "isSwitchableForm": false,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": true,
+  "canBeAlpha": false,
+  "debutIn": "xy",
+  "obtainableIn": [
+    "xy",
+    "go",
+    "swsh"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [
+    "xy",
+    "oras",
+    "go",
+    "sm",
+    "usum",
+    "swsh",
+    "home"
+  ],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 123,
+    "atk": 77,
+    "def": 72,
+    "spa": 99,
+    "spd": 92,
+    "spe": 58
+  },
+  "weight": 22500,
+  "height": 270,
+  "baseSpecies": null,
+  "baseForms": [],
+  "forms": [],
+  "evolvesFrom": {
+    "pokemon": "amaura",
+    "level": 39,
+    "condition": "at night"
+  },
+  "refs": {
+    "smogon": "aurorus",
+    "showdown": "aurorus",
+    "serebii": "aurorus",
+    "bulbapedia": "Aurorus"
+  }
+}
