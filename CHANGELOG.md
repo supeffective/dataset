@@ -1,4 +1,20 @@
 
+## v0.8.4
+
+[compare changes](https://github.com/supeffective/dataset/compare/v0.8.3...v0.8.4)
+
+### 🩹 Fixes
+
+- Postinstall script ([87b97cf](https://github.com/supeffective/dataset/commit/87b97cf))
+
+### 🏡 Chore
+
+- Upgrade deps ([f6e75c6](https://github.com/supeffective/dataset/commit/f6e75c6))
+
+### ❤️ Contributors
+
+- Javi Aguilar
+
 ## v0.8.3
 
 [compare changes](https://github.com/supeffective/dataset/compare/v0.8.2...v0.8.3)
