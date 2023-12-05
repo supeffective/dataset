@@ -23,8 +23,8 @@
     /* Linting */
     "strict": true,
     "strictNullChecks": true,
-    "noUnusedLocals": true,
-    "noUnusedParameters": true,
+    // "noUnusedLocals": true,
+    // "noUnusedParameters": true,
     "noUncheckedIndexedAccess": true,
     "noFallthroughCasesInSwitch": true,
     "useDefineForClassFields": true,

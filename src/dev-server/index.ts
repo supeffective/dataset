@@ -1,6 +1,6 @@
 import fs from 'node:fs'
 import { cors as corsPlugin } from '@elysiajs/cors'
-import { staticPlugin } from '@elysiajs/static/dist'
+import { staticPlugin } from '@elysiajs/static'
 import { Elysia } from 'elysia'
 import { resolveConfig } from './resolveConfig'
 
@@ -37,7 +37,11 @@ if (!fs.existsSync(htmlFile)) {
 
 serverWithMediaAssets
   .get('/', () => {
-    return fs.readFileSync(htmlFile, 'utf8')
+    return new Response(fs.readFileSync(htmlFile), {
+      headers: {
+        'content-type': 'text/html',
+      },
+    })
   })
   .listen(port, () => {
     console.log(`⚡️[static-dev-server]: Server is running at http://localhost:${port}`)
