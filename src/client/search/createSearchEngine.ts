@@ -124,9 +124,9 @@ export default function createSearchEngine<R extends Entity>(
 
           if (sortDir === 'asc') {
             return aValue.toLowerCase().localeCompare(bValue.toLowerCase())
-          } else {
-            return bValue.toLowerCase().localeCompare(aValue.toLowerCase())
           }
+
+          return bValue.toLowerCase().localeCompare(aValue.toLowerCase())
         })
       }
 

@@ -3,17 +3,13 @@ import { Dex } from '@pkmn/dex'
 import { type Ability, abilitySchema } from '../../../schemas'
 import { getDataPath, writeEntitiesFileAsJson } from '../../utils/fs'
 
-export const importShowdownAbilities = function (): void {
+export const importShowdownAbilities = (): void => {
   const outFile = getDataPath('abilities.json')
   const transformedRows: Ability[] = []
 
   const rawRows = Array.from(Dex.abilities.all())
 
-  const rawRowsSorted = rawRows
-    .filter((row) => Number(row.num) > 0)
-    .sort(function (a, b) {
-      return Number(a.num) - Number(b.num)
-    })
+  const rawRowsSorted = rawRows.filter((row) => Number(row.num) > 0).sort((a, b) => Number(a.num) - Number(b.num))
 
   for (const row of rawRowsSorted) {
     const num: number | undefined = row.num

@@ -3,17 +3,13 @@ import { Dex } from '@pkmn/dex'
 import { type Move, moveSchema } from '../../../schemas'
 import { getDataPath, writeEntitiesFileAsJson } from '../../utils/fs'
 
-export const importShowdownMoves = function (): void {
+export const importShowdownMoves = (): void => {
   const outFile = getDataPath('moves.json')
   const transformedRows: Move[] = []
 
   const rawRows = Array.from(Dex.moves.all())
 
-  const rawRowsSorted = rawRows
-    .filter((row) => Number(row.num) > 0)
-    .sort(function (a, b) {
-      return Number(a.num) - Number(b.num)
-    })
+  const rawRowsSorted = rawRows.filter((row) => Number(row.num) > 0).sort((a, b) => Number(a.num) - Number(b.num))
 
   for (const row of rawRowsSorted) {
     const num: number | undefined = row.num

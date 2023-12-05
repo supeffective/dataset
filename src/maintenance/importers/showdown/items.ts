@@ -19,17 +19,13 @@ function getItemCategory(item: DexItem): ItemCategory {
 
   return 'other'
 }
-export const importShowdownItems = function (): void {
+export const importShowdownItems = (): void => {
   const outFile = getDataPath('items.json')
   const transformedRows: Item[] = []
 
   const rawRows = Array.from(Dex.items.all())
 
-  const rawRowsSorted = rawRows
-    .filter((row) => Number(row.num) > 0)
-    .sort(function (a, b) {
-      return Number(a.num) - Number(b.num)
-    })
+  const rawRowsSorted = rawRows.filter((row) => Number(row.num) > 0).sort((a, b) => Number(a.num) - Number(b.num))
 
   for (const row of rawRowsSorted) {
     const num: number | undefined = row.num

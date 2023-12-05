@@ -28,7 +28,7 @@ const ignoredShowdownIds = [
   'ogerponcornerstonetera',
 ]
 
-export const importShowdownPokemon = function (): void {
+export const importShowdownPokemon = (): void => {
   const allPokemon = getPokemonList()
   const allPokemonByShowdownId: Map<string, Pokemon[]> = new Map()
   for (const pokemon of allPokemon) {
@@ -69,11 +69,9 @@ export const importShowdownPokemon = function (): void {
 
       return true
     })
-    .sort(function (a, b) {
-      return Number(a.num) - Number(b.num)
-    })
+    .sort((a, b) => Number(a.num) - Number(b.num))
 
-  const rowsById: Map<string, typeof showdownRecords[number]> = new Map()
+  const rowsById: Map<string, (typeof showdownRecords)[number]> = new Map()
   for (const row of sortedShowdownRecords) {
     if (!allPokemonByShowdownId.has(row.id)) {
       throw new Error(`Missing pokemon.json entry for: ${row.id}`)
