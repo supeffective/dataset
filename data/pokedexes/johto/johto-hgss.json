@@ -1,7 +1,8 @@
 {
   "id": "johto-hgss",
-  "name": "Johto Pokédex",
+  "name": "Johto Pokédex 2.0",
   "region": "johto",
+  "pokeApiId": 7,
   "generation": 4,
   "gameSets": [
     "hgss"

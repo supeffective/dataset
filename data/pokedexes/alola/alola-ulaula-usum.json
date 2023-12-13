@@ -1,7 +1,8 @@
 {
   "id": "alola-ulaula-usum",
-  "name": "Ula'ula Island Pokédex",
+  "name": "Ula'ula Island Pokédex 2.0",
   "region": "alola",
+  "pokeApiId": 24,
   "generation": 7,
   "gameSets": [
     "usum"

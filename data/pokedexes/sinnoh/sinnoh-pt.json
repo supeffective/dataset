@@ -1,7 +1,8 @@
 {
   "id": "sinnoh-pt",
-  "name": "Sinnoh Pokédex",
+  "name": "Sinnoh Pokédex 2.0",
   "region": "sinnoh",
+  "pokeApiId": 6,
   "generation": 4,
   "gameSets": [
     "pt"

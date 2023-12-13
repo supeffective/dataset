@@ -2,6 +2,7 @@
   "id": "unova",
   "name": "Unova Pokédex",
   "region": "unova",
+  "pokeApiId": 7,
   "generation": 5,
   "gameSets": [
     "bw"

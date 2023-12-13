@@ -2,6 +2,7 @@
   "id": "kalos-central",
   "name": "Central Kalos Pokédex",
   "region": "kalos",
+  "pokeApiId": 12,
   "generation": 6,
   "gameSets": [
     "xy"

@@ -1,7 +1,8 @@
 {
   "id": "hoenn-oras",
-  "name": "Hoenn Pokédex",
+  "name": "Hoenn Pokédex 2.0",
   "region": "hoenn",
+  "pokeApiId": 15,
   "generation": 6,
   "gameSets": [
     "oras"

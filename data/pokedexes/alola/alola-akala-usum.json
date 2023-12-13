@@ -1,7 +1,8 @@
 {
   "id": "alola-akala-usum",
-  "name": "Akala Island Pokédex",
+  "name": "Akala Island Pokédex 2.0",
   "region": "alola",
+  "pokeApiId": 23,
   "generation": 7,
   "gameSets": [
     "usum"

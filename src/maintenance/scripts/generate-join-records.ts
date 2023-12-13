@@ -1,5 +1,5 @@
 import { existsSync } from 'node:fs'
-import type { BaseEntity } from '../../schemas'
+import type { BaseEntity, BoxPreset, Pokedex, Pokemon } from '../../schemas'
 import { localDataLoader } from '../loader'
 import { getDataPath, readFileAsJson, writeFile } from '../utils/fs'
 
@@ -33,12 +33,14 @@ function updatePokemonIndex(): void {
   writeFile(indexFile, indexDoc)
 }
 
-function joinIndexFile(filename: string, subdirProp?: string): void {
+function joinIndexFile<T extends BaseEntity>(filename: string, indexFields: (keyof T)[], subdirProp?: keyof T): void {
   const baseFileName = filename.replace('-index.json', '')
   const srcFile = getDataPath(`${filename}`)
   const destFile = getDataPath(`${baseFileName}.json`)
   const records = readFileAsJson<BaseEntity[]>(srcFile)
   const recordMap = new Map<string, BaseEntity>()
+  const subdirPropStr = subdirProp as string
+  const indexFieldsStr = indexFields as string[]
 
   // Detect duplicate IDs
   for (const record of records) {
@@ -49,27 +51,42 @@ function joinIndexFile(filename: string, subdirProp?: string): void {
     recordMap.set(record.id, record)
   }
 
+  let indexJsonDoc = '[\n'
   let jsonlDoc = '[\n'
 
   for (const baseRecord of records) {
     const baseRecordCasted = baseRecord as Record<string, string>
     const destRecordFile =
-      subdirProp && baseRecordCasted[subdirProp]
-        ? getDataPath(`${baseFileName}/${baseRecordCasted[subdirProp]}/${baseRecord.id}.json`)
+      subdirProp && baseRecordCasted[subdirPropStr]
+        ? getDataPath(`${baseFileName}/${baseRecordCasted[subdirPropStr]}/${baseRecord.id}.json`)
         : getDataPath(`${baseFileName}/${baseRecord.id}.json`)
 
     if (!existsSync(destRecordFile)) {
       throw new Error(`Record file does not exist: ${destRecordFile}`)
     }
     const record = readFileAsJson<BaseEntity>(destRecordFile)
+    const recordCasted = record as Record<string, string>
 
     jsonlDoc += `  ${JSON.stringify(record)},\n`
+
+    const indexPayload: Record<string, string> = {
+      id: record.id,
+    }
+    for (const field of indexFieldsStr) {
+      indexPayload[field] = recordCasted[field] as string
+    }
+
+    indexJsonDoc += `  ${JSON.stringify(indexPayload)},\n`
   }
 
   jsonlDoc = jsonlDoc.replace(/,\n$/, '\n')
   jsonlDoc += ']\n'
 
+  indexJsonDoc = indexJsonDoc.replace(/,\n$/, '\n')
+  indexJsonDoc += ']\n'
+
   writeFile(destFile, jsonlDoc)
+  writeFile(srcFile, indexJsonDoc)
 }
 
 function joinPokeGamesFile(): void {
@@ -98,9 +115,9 @@ function joinPokeGamesFile(): void {
   // writeFile(destFile, jsonDoc)
 }
 
-joinIndexFile('boxpresets-index.json', 'gameSet')
-joinIndexFile('pokedexes-index.json', 'region')
-joinIndexFile('pokemon-index.json', 'region')
+joinIndexFile<BoxPreset>('boxpresets-index.json', ['id', 'gameSet', 'legacyId', 'name', 'isHidden'], 'gameSet')
+joinIndexFile<Pokedex>('pokedexes-index.json', ['id', 'region', 'name', 'pokeApiId'], 'region')
+joinIndexFile<Pokemon>('pokemon-index.json', ['id', 'region', 'name', 'nid', 'isForm'], 'region')
 
 joinPokeGamesFile()
 

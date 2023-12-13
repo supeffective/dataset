@@ -1,7 +1,8 @@
 {
   "id": "kanto-lgpe",
-  "name": "Let's Go Kanto Pokédex",
+  "name": "Kanto Pokédex 2.0",
   "region": "kanto",
+  "pokeApiId": 26,
   "generation": 8,
   "gameSets": [
     "lgpe"

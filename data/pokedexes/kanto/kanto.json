@@ -2,6 +2,7 @@
   "id": "kanto",
   "name": "Kanto Pokédex",
   "region": "kanto",
+  "pokeApiId": 2,
   "generation": 1,
   "gameSets": [
     "rb",

@@ -1,7 +1,8 @@
 {
   "id": "alola-usum",
-  "name": "Alola Pokédex",
+  "name": "Alola Pokédex 2.0",
   "region": "alola",
+  "pokeApiId": 21,
   "generation": 7,
   "gameSets": [
     "usum"

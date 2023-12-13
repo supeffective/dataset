@@ -7,6 +7,8 @@ export const pokedexItemIndexSchema = z
     id: slugSchema,
     name: nameSchema,
     region: slugSchema.nullable(),
+    baseDex: slugSchema.nullable(),
+    pokeApiId: z.coerce.number().optional(),
   })
   .strict()
 
@@ -26,9 +28,10 @@ export const pokedexSchema = z.object({
   region: slugSchema.nullable(),
   generation: z.coerce.number(),
   gameSets: z.array(slugSchema),
-  baseDex: slugSchema.nullable(),
   isUnofficial: z.coerce.boolean(),
   entries: z.array(pokedexEntrySchema),
+  baseDex: slugSchema.nullable(),
+  pokeApiId: z.coerce.number().optional(),
 })
 
 export type Pokedex = z.infer<typeof pokedexSchema>
