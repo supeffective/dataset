@@ -70,7 +70,11 @@ export function createFileWriter(filename: string): fs.WriteStream {
 export function readFileAsJson<T = any>(filename: string): T {
   const data = readFile(filename)
 
-  return JSON.parse(data)
+  try {
+    return JSON.parse(data)
+  } catch (error) {
+    throw new Error(`Failed to parse JSON file: ${filename}. Error: ${error}`)
+  }
 }
 
 export function writeFile(filename: string, data: string): void {

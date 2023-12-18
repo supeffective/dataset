@@ -1,7 +1,7 @@
 {
   "id": "terapagos",
-  "nid": "0000-terapagos",
-  "dexNum": 0,
+  "nid": "1024",
+  "dexNum": 1024,
   "formId": "normal",
   "name": "Terapagos",
   "psName": "Terapagos",
@@ -10,9 +10,9 @@
   "generation": 9,
   "type1": "normal",
   "type2": null,
-  "color": "white",
+  "color": "blue",
   "abilities": {
-    "primary": "pressure",
+    "primary": "terashift",
     "secondary": null,
     "hidden": null
   },
@@ -40,21 +40,26 @@
   "canDynamax": false,
   "canBeAlpha": false,
   "debutIn": "sv",
-  "obtainableIn": [],
+  "obtainableIn": [
+    "sv"
+  ],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
-  "storableIn": [],
+  "storableIn": [
+    "home",
+    "sv"
+  ],
   "shinyReleased": false,
   "shinyBase": null,
   "baseStats": {
-    "hp": -1,
-    "atk": -1,
-    "def": -1,
-    "spa": -1,
-    "spd": -1,
-    "spe": -1
+    "hp": 90,
+    "atk": 65,
+    "def": 85,
+    "spa": 65,
+    "spd": 85,
+    "spe": 60
   },
-  "weight": -1,
+  "weight": 650,
   "height": -1,
   "baseSpecies": null,
   "baseForms": [],

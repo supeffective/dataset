@@ -1,10 +1,10 @@
 {
   "id": "ironcrown",
-  "nid": "0000-ironcrown",
-  "dexNum": 0,
+  "nid": "1023",
+  "dexNum": 1023,
   "formId": null,
   "name": "Iron Crown",
-  "psName": "ironcrown",
+  "psName": "Iron Crown",
   "formName": null,
   "region": "paldea",
   "generation": 9,
@@ -43,21 +43,26 @@
   "canDynamax": false,
   "canBeAlpha": false,
   "debutIn": "sv",
-  "obtainableIn": [],
+  "obtainableIn": [
+    "sv"
+  ],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
-  "storableIn": [],
+  "storableIn": [
+    "home",
+    "sv"
+  ],
   "shinyReleased": false,
   "shinyBase": null,
   "baseStats": {
-    "hp": 0,
-    "atk": 0,
-    "def": 0,
-    "spa": 0,
-    "spd": 0,
-    "spe": 0
+    "hp": 90,
+    "atk": 72,
+    "def": 100,
+    "spa": 122,
+    "spd": 108,
+    "spe": 98
   },
-  "weight": -1,
+  "weight": 15600,
   "height": -1,
   "baseSpecies": null,
   "baseForms": [],
@@ -67,6 +72,6 @@
     "smogon": "ironcrown",
     "showdown": "ironcrown",
     "serebii": "ironcrown",
-    "bulbapedia": "ironcrown"
+    "bulbapedia": "Iron Crown"
   }
 }

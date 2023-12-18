@@ -1,18 +1,18 @@
 {
   "id": "terapagos-terastal",
-  "nid": "0000-terapagos-terastal",
-  "dexNum": 0,
+  "nid": "1024-terastal",
+  "dexNum": 1024,
   "formId": "terastal",
   "name": "Terapagos (Terastal Form)",
-  "psName": "terapagos-terastal",
+  "psName": "Terapagos-Terastal",
   "formName": "Terastal Form",
   "region": "paldea",
   "generation": 9,
   "type1": "normal",
   "type2": null,
-  "color": "white",
+  "color": "blue",
   "abilities": {
-    "primary": "pressure",
+    "primary": "terashell",
     "secondary": null,
     "hidden": null
   },
@@ -28,7 +28,7 @@
   "isCosmeticForm": false,
   "isFemaleForm": false,
   "hasGenderDifferences": false,
-  "isBattleOnlyForm": false,
+  "isBattleOnlyForm": true,
   "isSwitchableForm": false,
   "isFusion": false,
   "fusedWith": null,
@@ -40,21 +40,23 @@
   "canDynamax": false,
   "canBeAlpha": false,
   "debutIn": "sv",
-  "obtainableIn": [],
+  "obtainableIn": [
+    "sv"
+  ],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": [],
   "shinyReleased": false,
   "shinyBase": null,
   "baseStats": {
-    "hp": 0,
-    "atk": 0,
-    "def": 0,
-    "spa": 0,
-    "spd": 0,
-    "spe": 0
+    "hp": 95,
+    "atk": 95,
+    "def": 110,
+    "spa": 105,
+    "spd": 110,
+    "spe": 85
   },
-  "weight": -1,
+  "weight": 1600,
   "height": -1,
   "baseSpecies": "terapagos",
   "baseForms": [],
@@ -62,7 +64,7 @@
   "evolvesFrom": null,
   "refs": {
     "smogon": "terapagos",
-    "showdown": "terapagos",
+    "showdown": "terapagosterastal",
     "serebii": "terapagos",
     "bulbapedia": "Terapagos"
   }

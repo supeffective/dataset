@@ -30,6 +30,19 @@ from the `.env.example` file.
 To start the server, run `pnpm dev`, which will also rebuild
 the JS dist files whenever you change the TS files.
 
+## Adding new data
+
+Here's a quick guide on how to add new data to the dataset for each data type.
+When you are finished, run `pnpm build` to rebuild the generated and the JS dist files.
+
+The `-index.json` data files will be rebuilt automatically, using the data from the individual JSON files.
+
+### Adding new Pokémon
+
+- Add the Pokémon to `data/pokemon-index.json` (the `id` and `region` are enough)
+- Add the Pokémon JSON to `data/pokemon/{region}/{pokemonId}.json` (replace `{region}` and `{pokemonId}` with the actual values)
+- You can use any other as a template: `data/pokemon/kanto/bulbasaur.json`
+
 ## Documentation
 
 - Repository: http://github.com/supeffective/dataset

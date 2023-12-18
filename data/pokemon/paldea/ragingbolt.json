@@ -1,10 +1,10 @@
 {
   "id": "ragingbolt",
-  "nid": "0000-ragingbolt",
-  "dexNum": 0,
+  "nid": "1021",
+  "dexNum": 1021,
   "formId": null,
   "name": "Raging Bolt",
-  "psName": "ragingbolt",
+  "psName": "Raging Bolt",
   "formName": null,
   "region": "paldea",
   "generation": 9,
@@ -43,21 +43,26 @@
   "canDynamax": false,
   "canBeAlpha": false,
   "debutIn": "sv",
-  "obtainableIn": [],
+  "obtainableIn": [
+    "sv"
+  ],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
-  "storableIn": [],
+  "storableIn": [
+    "home",
+    "sv"
+  ],
   "shinyReleased": false,
   "shinyBase": null,
   "baseStats": {
-    "hp": 0,
-    "atk": 0,
-    "def": 0,
-    "spa": 0,
-    "spd": 0,
-    "spe": 0
+    "hp": 125,
+    "atk": 73,
+    "def": 91,
+    "spa": 137,
+    "spd": 89,
+    "spe": 75
   },
-  "weight": -1,
+  "weight": 48000,
   "height": -1,
   "baseSpecies": null,
   "baseForms": [],
@@ -67,6 +72,6 @@
     "smogon": "ragingbolt",
     "showdown": "ragingbolt",
     "serebii": "ragingbolt",
-    "bulbapedia": "ragingbolt"
+    "bulbapedia": "Raging Bolt"
   }
 }

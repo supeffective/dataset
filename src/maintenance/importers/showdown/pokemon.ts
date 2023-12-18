@@ -22,7 +22,7 @@ const ignoredShowdownIds = [
   'pichuspikyeared',
   'floetteeternal',
   // Skip these for now:
-  'ogerpontealtera',
+  'ogerpontealtera', // teal-mask form
   'ogerponwellspringtera',
   'ogerponhearthflametera',
   'ogerponcornerstonetera',
@@ -99,6 +99,10 @@ export const importShowdownPokemon = (): void => {
       if (setPkm.dexNum <= 0) {
         continue
       }
+      if (ignoredShowdownIds.includes(setPkm.id) || ignoredShowdownIds.includes(setPkm.psName)) {
+        continue
+      }
+
       if (!isInShowdown(setPkm)) {
         console.log(`Skipping ${showdownId}`)
         continue
@@ -118,6 +122,10 @@ export const importShowdownPokemon = (): void => {
     const showdownId = pkm.refs?.showdown
     if (!showdownId) {
       throw new Error(`Pokemon ${pkm.id} has no showdown ref`)
+    }
+
+    if (ignoredShowdownIds.includes(showdownId)) {
+      continue
     }
 
     pkm.forms = [...pkm.forms.filter((form: string) => form !== pkm.id)]

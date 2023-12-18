@@ -1539,9 +1539,14 @@
   {"id":"ogerpon-wellspring","region":"paldea","name":"Ogerpon (Wellspring Mask)","nid":"1017-wellspring","isForm":true},
   {"id":"ogerpon-hearthflame","region":"paldea","name":"Ogerpon (Hearthflame Mask)","nid":"1017-hearthflame","isForm":true},
   {"id":"ogerpon-cornerstone","region":"paldea","name":"Ogerpon (Cornerstone Mask)","nid":"1017-cornerstone","isForm":true},
-  {"id":"archaludon","region":"paldea","name":"Archaludon","nid":"0000-archaludon","isForm":false},
-  {"id":"ragingbolt","region":"paldea","name":"Raging Bolt","nid":"0000-ragingbolt","isForm":false},
-  {"id":"ironcrown","region":"paldea","name":"Iron Crown","nid":"0000-ironcrown","isForm":false},
-  {"id":"terapagos","region":"paldea","name":"Terapagos","nid":"0000-terapagos","isForm":false},
-  {"id":"terapagos-terastal","region":"paldea","name":"Terapagos (Terastal Form)","nid":"0000-terapagos-terastal","isForm":true}
+  {"id":"archaludon","region":"paldea","name":"Archaludon","nid":"1018","isForm":false},
+  {"id":"hydrapple","region":"paldea","name":"Hydrapple","nid":"1019","isForm":false},
+  {"id":"gougingfire","region":"paldea","name":"Gouging Fire","nid":"1020","isForm":false},
+  {"id":"ragingbolt","region":"paldea","name":"Raging Bolt","nid":"1021","isForm":false},
+  {"id":"ironboulder","region":"paldea","name":"Iron Boulder","nid":"1022","isForm":false},
+  {"id":"ironcrown","region":"paldea","name":"Iron Crown","nid":"1023","isForm":false},
+  {"id":"terapagos","region":"paldea","name":"Terapagos","nid":"1024","isForm":false},
+  {"id":"terapagos-terastal","region":"paldea","name":"Terapagos (Terastal Form)","nid":"1024-terastal","isForm":true},
+  {"id":"terapagos-stellar","region":"paldea","name":"Terapagos (Stellar Form)","nid":"1024-stellar","isForm":true},
+  {"id":"pecharunt","region":"paldea","name":"Pecharunt","nid":"1025","isForm":false}
 ]

@@ -39,13 +39,15 @@
   "canBeAlpha": false,
   "debutIn": "swsh",
   "obtainableIn": [
-    "swsh"
+    "swsh",
+    "sv"
   ],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": [
     "swsh",
-    "home"
+    "home",
+    "sv"
   ],
   "shinyReleased": true,
   "shinyBase": null,
