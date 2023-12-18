@@ -1,4 +1,27 @@
 
+## v0.8.6
+
+[compare changes](https://github.com/supeffective/dataset/compare/v0.8.4...v0.8.6)
+
+### 🚀 Enhancements
+
+- **pokeApi:** Add pokeapi IDs to the pokedexes, change titles. ([c2a41eb](https://github.com/supeffective/dataset/commit/c2a41eb))
+- Indigo Disc DLC update ([#1](https://github.com/supeffective/dataset/pull/1))
+
+### 🩹 Fixes
+
+- Dev server ([8ef9460](https://github.com/supeffective/dataset/commit/8ef9460))
+
+### 🏡 Chore
+
+- Upgrade dependencies ([d0999a1](https://github.com/supeffective/dataset/commit/d0999a1))
+- Upgrade deps ([8fad32b](https://github.com/supeffective/dataset/commit/8fad32b))
+- **release:** V0.8.5 ([2cc7aa0](https://github.com/supeffective/dataset/commit/2cc7aa0))
+
+### ❤️ Contributors
+
+- Javi Aguilar
+
 ## v0.8.5
 
 [compare changes](https://github.com/supeffective/dataset/compare/v0.8.4...v0.8.5)
