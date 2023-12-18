@@ -1562,11 +1562,16 @@
     {"id":"ogerpon-wellspring","dexNum":1017,"isForm":true},
     {"id":"ogerpon-hearthflame","dexNum":1017,"isForm":true},
     {"id":"ogerpon-cornerstone","dexNum":1017,"isForm":true},
-    {"id":"archaludon","dexNum":0,"isForm":false},
-    {"id":"ragingbolt","dexNum":0,"isForm":false},
-    {"id":"ironcrown","dexNum":0,"isForm":false},
-    {"id":"terapagos","dexNum":0,"isForm":false},
-    {"id":"terapagos-terastal","dexNum":0,"isForm":true}
+    {"id":"archaludon","dexNum":1018,"isForm":false},
+    {"id":"hydrapple","dexNum":1019,"isForm":false},
+    {"id":"gougingfire","dexNum":1020,"isForm":false},
+    {"id":"ragingbolt","dexNum":1021,"isForm":false},
+    {"id":"ironboulder","dexNum":1022,"isForm":false},
+    {"id":"ironcrown","dexNum":1023,"isForm":false},
+    {"id":"terapagos","dexNum":1024,"isForm":false},
+    {"id":"terapagos-terastal","dexNum":1024,"isForm":true},
+    {"id":"terapagos-stellar","dexNum":1024,"isForm":true},
+    {"id":"pecharunt","dexNum":1025,"isForm":false}
     
   ]
 }

@@ -1,0 +1,77 @@
+{
+  "id": "ironboulder",
+  "nid": "1022",
+  "dexNum": 1022,
+  "formId": null,
+  "name": "Iron Boulder",
+  "psName": "Iron Boulder",
+  "formName": null,
+  "region": "paldea",
+  "generation": 9,
+  "type1": "rock",
+  "type2": "psychic",
+  "color": "gray",
+  "abilities": {
+    "primary": "quarkdrive",
+    "secondary": null,
+    "hidden": null
+  },
+  "isDefault": true,
+  "isForm": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isParadox": true,
+  "paradoxSpecies": [
+    "terrakion"
+  ],
+  "convergentSpecies": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": false,
+  "isSwitchableForm": false,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": false,
+  "canBeAlpha": false,
+  "debutIn": "sv",
+  "obtainableIn": [
+    "sv"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [
+    "home",
+    "sv"
+  ],
+  "shinyReleased": false,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 90,
+    "atk": 120,
+    "def": 80,
+    "spa": 68,
+    "spd": 108,
+    "spe": 124
+  },
+  "weight": 16250,
+  "height": -1,
+  "baseSpecies": null,
+  "baseForms": [],
+  "forms": [],
+  "evolvesFrom": null,
+  "refs": {
+    "smogon": "ironboulder",
+    "showdown": "ironboulder",
+    "serebii": "ironboulder",
+    "bulbapedia": "Iron Boulder"
+  }
+}

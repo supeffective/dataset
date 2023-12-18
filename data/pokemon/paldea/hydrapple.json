@@ -1,0 +1,79 @@
+{
+  "id": "hydrapple",
+  "nid": "1019",
+  "dexNum": 1019,
+  "formId": null,
+  "name": "Hydrapple",
+  "psName": "Hydrapple",
+  "formName": null,
+  "region": "paldea",
+  "generation": 9,
+  "type1": "grass",
+  "type2": "dragon",
+  "color": "green",
+  "abilities": {
+    "primary": "supersweetsyrup",
+    "secondary": "regenerator",
+    "hidden": "stickyhold"
+  },
+  "isDefault": true,
+  "isForm": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "paradoxSpecies": null,
+  "convergentSpecies": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": false,
+  "isSwitchableForm": false,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": false,
+  "canBeAlpha": false,
+  "debutIn": "sv",
+  "obtainableIn": [
+    "sv"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [
+    "home",
+    "sv"
+  ],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 106,
+    "atk": 80,
+    "def": 110,
+    "spa": 120,
+    "spd": 80,
+    "spe": 44
+  },
+  "weight": 9300,
+  "height": -1,
+  "baseSpecies": null,
+  "baseForms": [],
+  "forms": [],
+  "family": null,
+  "evolvesFrom": {
+    "pokemon": "dipplin",
+    "move": "dragoncheer",
+    "type": "levelmove"
+  },
+  "refs": {
+    "smogon": "hydrapple",
+    "showdown": "hydrapple",
+    "serebii": "hydrapple",
+    "bulbapedia": "Hydrapple"
+  }
+}

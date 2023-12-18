@@ -1,0 +1,77 @@
+{
+  "id": "gougingfire",
+  "nid": "1020",
+  "dexNum": 1020,
+  "formId": null,
+  "name": "Gouging Fire",
+  "psName": "Gouging Fire",
+  "formName": null,
+  "region": "paldea",
+  "generation": 9,
+  "type1": "fire",
+  "type2": "dragon",
+  "color": "brown",
+  "abilities": {
+    "primary": "protosynthesis",
+    "secondary": null,
+    "hidden": null
+  },
+  "isDefault": true,
+  "isForm": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "ultraBeastCode": null,
+  "isParadox": true,
+  "paradoxSpecies": [
+    "entei"
+  ],
+  "convergentSpecies": null,
+  "isSpecialAbilityForm": false,
+  "isCosmeticForm": false,
+  "isFemaleForm": false,
+  "hasGenderDifferences": false,
+  "isBattleOnlyForm": false,
+  "isSwitchableForm": false,
+  "isFusion": false,
+  "fusedWith": null,
+  "isMega": false,
+  "isPrimal": false,
+  "isGmax": false,
+  "isRegional": false,
+  "canGmax": false,
+  "canDynamax": false,
+  "canBeAlpha": false,
+  "debutIn": "sv",
+  "obtainableIn": [
+    "sv"
+  ],
+  "versionExclusiveIn": [],
+  "eventOnlyIn": [],
+  "storableIn": [
+    "home",
+    "sv"
+  ],
+  "shinyReleased": false,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 105,
+    "atk": 115,
+    "def": 121,
+    "spa": 65,
+    "spd": 93,
+    "spe": 91
+  },
+  "weight": 59000,
+  "height": -1,
+  "baseSpecies": null,
+  "baseForms": [],
+  "forms": [],
+  "evolvesFrom": null,
+  "refs": {
+    "smogon": "gougingfire",
+    "showdown": "gougingfire",
+    "serebii": "gougingfire",
+    "bulbapedia": "Gouging Fire"
+  }
+}

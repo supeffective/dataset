@@ -41,7 +41,8 @@
   "obtainableIn": [
     "go",
     "sm",
-    "usum"
+    "usum",
+    "sv"
   ],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
@@ -49,7 +50,8 @@
     "go",
     "sm",
     "usum",
-    "home"
+    "home",
+    "sv"
   ],
   "shinyReleased": true,
   "shinyBase": "minior-red",
