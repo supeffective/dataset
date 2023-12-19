@@ -1,4 +1,17 @@
 
+## v0.8.7
+
+[compare changes](https://github.com/supeffective/dataset/compare/v0.8.6...v0.8.7)
+
+### 🩹 Fixes
+
+- Missing pokemon in home presets ([c2bf166](https://github.com/supeffective/dataset/commit/c2bf166))
+- SV DLC data and presets ([542750c](https://github.com/supeffective/dataset/commit/542750c))
+
+### ❤️ Contributors
+
+- Javi Aguilar
+
 ## v0.8.6
 
 [compare changes](https://github.com/supeffective/dataset/compare/v0.8.4...v0.8.6)
