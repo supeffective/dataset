@@ -19,6 +19,9 @@ function distributePokemonInBoxes(
   startNewBoxForNewGenStarters = true,
   startNewBoxForForms = true,
 ): BoxPresetBox[] {
+  if (pokemonList.length === 0) {
+    return []
+  }
   const boxes: BoxPresetBox[] = [
     {
       pokemon: [],
@@ -149,10 +152,12 @@ function getLastGamePokemonSortedByRegionalDexes(): [Pokemon[], Pokemon[]] {
     .flatMap((d) => d.entries.map((e) => allPokemonMap.get(e.id)))
     .filter((p): p is Pokemon => p !== undefined)
 
-  const pokemonMap = new Map(pokemonList.map((p) => [p.id, p]))
-  const pokemonListNotInDexes = allPokemon.filter((p) => p.storableIn.includes('sv') && !pokemonMap.has(p.id))
+  const dedupedPokemonList = pokemonList.filter((p, index) => pokemonList.indexOf(p) === index)
 
-  return [pokemonList, pokemonListNotInDexes]
+  // const pokemonMap = new Map(pokemonList.map((p) => [p.id, p]))
+  // const pokemonListNotInDexes = allPokemon.filter((p) => p.storableIn.includes('sv') && !pokemonMap.has(p.id))
+
+  return [dedupedPokemonList, []]
 }
 
 function savePreset(preset: BoxPreset): void {
