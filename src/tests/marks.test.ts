@@ -2,6 +2,7 @@ import { z } from 'zod'
 import { localDataLoader } from '../maintenance/loader'
 import { validate } from '../maintenance/validation'
 import { markSchema } from '../schemas'
+import { fetchImagesIndexMap } from './utils'
 
 describe('Validate marks.json data', () => {
   const recordList = localDataLoader.marks()
@@ -16,5 +17,19 @@ describe('Validate marks.json data', () => {
 
     expect(validation.success).toBe(true)
     expect(validation.errors).toHaveLength(0)
+  })
+})
+
+describe('Validate CDN images', () => {
+  const recordList = localDataLoader.marks()
+
+  it('has all mark images', async () => {
+    const images = await fetchImagesIndexMap('marks')
+    for (const record of recordList) {
+      if (!images.has(record.id)) {
+        console.warn(`Missing image for mark ${record.id}`)
+      }
+      expect(images.has(record.id)).toBe(true)
+    }
   })
 })
