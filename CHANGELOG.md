@@ -1,7 +1,7 @@
 
-## v0.9.0
+## v1.0.0
 
-[compare changes](https://github.com/supeffective/dataset/compare/v0.8.7...v0.9.0)
+[compare changes](https://github.com/supeffective/dataset/compare/v0.8.7...v1.0.0)
 
 ### 🩹 Fixes
 
