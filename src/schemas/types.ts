@@ -21,12 +21,16 @@ export const pokeTypeIdSchema = z.enum([
   'dark',
   'steel',
   'fairy',
+  // Special types:
+  'shadow', // Shadow pokemon in Colosseum and XD
+  'stellar', // Stellar Tera type and move damage in Scarlet and Violet, Sacred Gold and Storm Silver
 ])
 
 export const pokeTypeSchema = z.object({
   id: pokeTypeIdSchema,
   name: nameSchema,
   color: hexColorSchema,
+  isCanonical: z.boolean(),
 })
 
 export type PokeType = z.infer<typeof pokeTypeSchema>
