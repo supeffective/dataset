@@ -1,6 +1,6 @@
 import axios from 'axios'
 import { MainClient } from 'pokenode-ts'
-import { waitMs } from '../../../utils'
+import { sleepMs } from '../../../utils'
 
 export async function importPokedexes() {
   axios.defaults.headers.common['Accept-Encoding'] = 'gzip' // TODO: remove when Bun supports Brotli compression
@@ -22,9 +22,9 @@ export async function importPokedexes() {
         name: pokedexData.name,
         isMain: pokedexData.is_main_series,
       })
-      waitMs(1000)
+      sleepMs(1000)
     }
 
-    waitMs(1000)
+    sleepMs(1000)
   }
 }

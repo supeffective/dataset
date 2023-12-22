@@ -57,5 +57,6 @@
   {"id":"battle-champion","name":"Battle Champion Ribbon","title":"the Battle Champion","desc":"A Ribbon awarded to a Battle Competition Champion.","category":"gift","generation":5},
   {"id":"regional-champion","name":"Regional Champion Ribbon","title":"the Regional Champion","desc":"A Ribbon awarded to a Regional Champion in the Pokémon World Championships.","category":"gift","generation":5},
   {"id":"national-champion","name":"National Champion Ribbon","title":"the National Champion","desc":"A Ribbon awarded to a National Champion in the Pokémon World Championships.","category":"gift","generation":5},
-  {"id":"world-champion","name":"World Champion Ribbon","title":"the World Champion","desc":"A Ribbon awarded to a World Champion in the Pokémon World Championships.","category":"gift","generation":5}
+  {"id":"world-champion","name":"World Champion Ribbon","title":"the World Champion","desc":"A Ribbon awarded to a World Champion in the Pokémon World Championships.","category":"gift","generation":5},
+  {"id":"partner","name":"Partner Ribbon","title":"[OT Trainer]'s ___","desc":"A special Ribbon awarded to a Pokémon that was once partnered with another great Trainer.","category":"memory","generation":9}
 ]

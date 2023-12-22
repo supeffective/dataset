@@ -9,6 +9,8 @@ export const markSchema = z.object({
   generation: generationSchema,
   desc: descriptionSchema,
   conditions: descriptionSchema,
+  chance: z.string(),
+  chanceCharm: z.string(),
 })
 
 export type Mark = z.infer<typeof markSchema>
