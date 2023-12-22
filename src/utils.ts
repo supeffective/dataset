@@ -1,5 +1,5 @@
 export async function sleepMs(ms: number): Promise<void> {
-  return new Promise((resolve) => setTimeout(resolve, ms));
+  return new Promise((resolve) => setTimeout(resolve, ms))
 }
 
 /**
@@ -10,9 +10,7 @@ export async function sleepMs(ms: number): Promise<void> {
  * @returns
  */
 export function jsonStringifyRecords(records: Array<unknown>): string {
-  return `[\n${records
-    .map((row) => `  ${JSON.stringify(row)}`)
-    .join(",\n")}\n]\n`;
+  return `[\n${records.map((row) => `  ${JSON.stringify(row)}`).join(',\n')}\n]\n`
 }
 
 /**
@@ -30,34 +28,30 @@ export function jsonStringifyRecords(records: Array<unknown>): string {
  * @param data CSV array
  * @returns
  */
-export function jsonParseCsvArray<T = object>(
-  data: Array<Array<unknown>>
-): Array<T> {
+export function jsonParseCsvArray<T = object>(data: Array<Array<unknown>>): Array<T> {
   if (data.length < 2) {
-    return [];
+    return []
   }
 
-  const [columns, ...rest] = data;
+  const [columns, ...rest] = data
 
   if (!Array.isArray(columns)) {
-    throw new Error("Invalid CSV data: missing columns");
+    throw new Error('Invalid CSV data: missing columns')
   }
 
   const rows: Array<T> = rest.map((row) => {
-    const entries: Array<[string, unknown]> = [];
+    const entries: Array<[string, unknown]> = []
 
     if (row.length !== columns.length) {
-      throw new Error(
-        `Invalid CSV data: row length does not match column length for row ${row}`
-      );
+      throw new Error(`Invalid CSV data: row length does not match column length for row ${row}`)
     }
 
     for (const i in columns) {
-      entries.push([columns[i] as string, row[i]]);
+      entries.push([columns[i] as string, row[i]])
     }
 
-    return Object.fromEntries(entries) as T;
-  });
+    return Object.fromEntries(entries) as T
+  })
 
-  return rows;
+  return rows
 }

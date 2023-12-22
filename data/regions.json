@@ -1,14 +1,14 @@
 [
-  {"id":"unknown","name":"Unknown", "generations": []},
-  {"id":"kanto","name":"Kanto", "generations": [1,2,3,7]},
-  {"id":"johto","name":"Johto", "generations": [2,4]},
-  {"id":"hoenn","name":"Hoenn", "generations": [3,6]},
-  {"id":"orre","name":"Orre", "generations": [3]},
-  {"id":"sinnoh","name":"Sinnoh", "generations": [4,8]},
-  {"id":"unova","name":"Unova", "generations": [5]},
-  {"id":"kalos","name":"Kalos", "generations": [6]},
-  {"id":"alola","name":"Alola", "generations": [7]},
-  {"id":"galar","name":"Galar", "generations": [8]},
-  {"id":"hisui","name":"Hisui", "generations": [8]},
-  {"id":"paldea","name":"Paldea", "generations": [9]}
+  {"id":"unknown","name":"Unknown","generations":[]},
+  {"id":"kanto","name":"Kanto","generations":[1,2,3,7]},
+  {"id":"johto","name":"Johto","generations":[2,4]},
+  {"id":"hoenn","name":"Hoenn","generations":[3,6]},
+  {"id":"orre","name":"Orre","generations":[3]},
+  {"id":"sinnoh","name":"Sinnoh","generations":[4,8]},
+  {"id":"unova","name":"Unova","generations":[5]},
+  {"id":"kalos","name":"Kalos","generations":[6]},
+  {"id":"alola","name":"Alola","generations":[7]},
+  {"id":"galar","name":"Galar","generations":[8]},
+  {"id":"hisui","name":"Hisui","generations":[8]},
+  {"id":"paldea","name":"Paldea","generations":[9]}
 ]

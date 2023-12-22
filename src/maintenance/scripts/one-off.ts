@@ -1,6 +1,6 @@
-import type { Mark } from "../../schemas";
-import { jsonStringifyRecords } from "../../utils";
-import { getDataPath, readFileAsJson, writeFile } from "../utils/fs";
+import type { Mark } from '../../schemas'
+import { jsonStringifyRecords } from '../../utils'
+import { getDataPath, readFileAsJson, writeFile } from '../utils/fs'
 
 // Use this file to run one-off scripts like this example.
 // The run it with `bun src/maintenance/scripts/one-off.ts`
@@ -8,16 +8,16 @@ import { getDataPath, readFileAsJson, writeFile } from "../utils/fs";
 
 function run() {
   // Get the data file contents
-  const dataFile = getDataPath("marks.json");
-  const marks = readFileAsJson<Mark[]>(dataFile);
+  const dataFile = getDataPath('marks.json')
+  const marks = readFileAsJson<Mark[]>(dataFile)
 
   for (const mark of marks) {
     // Do something with each record here.
-    console.log(mark.id);
+    console.log(mark.id)
   }
 
   // Save the changes
-  writeFile(dataFile, jsonStringifyRecords(marks));
+  writeFile(dataFile, jsonStringifyRecords(marks))
 }
 
-run();
+run()

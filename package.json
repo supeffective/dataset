@@ -39,7 +39,7 @@
     "dev": "concurrently \"pnpm dev:watch\" \"pnpm dev:server\"",
     "dev:server": "bun src/dev-server/index.ts",
     "dev:watch": "tsup --watch --clean=false",
-    "format": "pnpm lint-fix && pnpm format:package-json && pnpm data:format",
+    "format": "pnpm lint-fix && pnpm format:package-json && pnpm data:format && pnpm data:minify",
     "format:package-json": "sort-package-json",
     "hooks:pre-commit": "pnpm lint-staged && pnpm format:package-json",
     "hooks:pre-push": "pnpm qa:nobuild",
