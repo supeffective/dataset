@@ -1,4 +1,29 @@
 
+## v0.9.0
+
+[compare changes](https://github.com/supeffective/dataset/compare/v0.8.7...v0.9.0)
+
+### 🩹 Fixes
+
+- SV DLC data and presets ([f3784c3](https://github.com/supeffective/dataset/commit/f3784c3))
+- Move walkingwake and ironleaves to Blueberry group ([#2](https://github.com/supeffective/dataset/pull/2))
+- Remove pecharunt from trackers for now and fix Oricorio-sensu missing in Kitakami ([18a3225](https://github.com/supeffective/dataset/commit/18a3225))
+- Remove trailing nulls in grouped paldea preset. Move ursaluna. ([55896c1](https://github.com/supeffective/dataset/commit/55896c1))
+
+### 🏡 Chore
+
+- Modify versioning script ([c4f5ddf](https://github.com/supeffective/dataset/commit/c4f5ddf))
+
+### ✅ Tests
+
+- Add tests to detect missing images ([9cd4633](https://github.com/supeffective/dataset/commit/9cd4633))
+
+### ❤️ Contributors
+
+- Javi Aguilar 
+- Gustavo Viera López ([@gvieralopez](http://github.com/gvieralopez))
+- Gabriel Machado <gabriel.ms1@hotmail.com>
+
 ## v0.8.7
 
 [compare changes](https://github.com/supeffective/dataset/compare/v0.8.6...v0.8.7)
