@@ -54,7 +54,7 @@
     "test:ci": "bun test --coverage --bail=5 --ci",
     "test:coverage": "bun test --coverage",
     "typelint": "tsc --noEmit --skipLibCheck",
-    "version:bump": "pnpm exec changelogen --bump --release --push --${1:-patch}",
+    "version:bump": "pnpm exec changelogen --bump --release",
     "version:publish": "pnpm version:release",
     "version:release": "pnpm build && pnpm qa:nobuild && npm publish --access=public"
   },
