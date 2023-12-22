@@ -4,12 +4,12 @@
   "dexNum": 359,
   "formId": "mega",
   "name": "Mega Absol",
-  "psName": "Absol-Mega",
   "formName": "Mega",
   "region": "kalos",
   "generation": 6,
   "type1": "dark",
   "type2": null,
+  "teraType": null,
   "color": "white",
   "abilities": {
     "primary": "magicbounce",
@@ -59,6 +59,8 @@
   },
   "weight": 4900,
   "height": 120,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": "absol",
   "baseForms": [
     "absol"
@@ -69,6 +71,7 @@
     "smogon": "absol-mega",
     "showdown": "absolmega",
     "serebii": "absol",
-    "bulbapedia": "Absol"
+    "bulbapedia": "Absol",
+    "showdownName": "Absol-Mega"
   }
 }

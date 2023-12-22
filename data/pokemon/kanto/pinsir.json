@@ -4,12 +4,12 @@
   "dexNum": 127,
   "formId": null,
   "name": "Pinsir",
-  "psName": "Pinsir",
   "formName": null,
   "region": "kanto",
   "generation": 1,
   "type1": "bug",
   "type2": null,
+  "teraType": null,
   "color": "brown",
   "abilities": {
     "primary": "hypercutter",
@@ -84,6 +84,8 @@
   },
   "weight": 5500,
   "height": 150,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [
@@ -94,6 +96,7 @@
     "smogon": "pinsir",
     "showdown": "pinsir",
     "serebii": "pinsir",
-    "bulbapedia": "Pinsir"
+    "bulbapedia": "Pinsir",
+    "showdownName": "Pinsir"
   }
 }

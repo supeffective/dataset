@@ -4,12 +4,12 @@
   "dexNum": 372,
   "formId": null,
   "name": "Shelgon",
-  "psName": "Shelgon",
   "formName": null,
   "region": "hoenn",
   "generation": 3,
   "type1": "dragon",
   "type2": null,
+  "teraType": null,
   "color": "white",
   "abilities": {
     "primary": "rockhead",
@@ -80,6 +80,8 @@
   },
   "weight": 11050,
   "height": 110,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -91,6 +93,7 @@
     "smogon": "shelgon",
     "showdown": "shelgon",
     "serebii": "shelgon",
-    "bulbapedia": "Shelgon"
+    "bulbapedia": "Shelgon",
+    "showdownName": "Shelgon"
   }
 }

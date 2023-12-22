@@ -4,12 +4,12 @@
   "dexNum": 953,
   "formId": null,
   "name": "Rellor",
-  "psName": "Rellor",
   "formName": null,
   "region": "paldea",
   "generation": 9,
   "type1": "bug",
   "type2": null,
+  "teraType": null,
   "color": "brown",
   "abilities": {
     "primary": "compoundeyes",
@@ -59,6 +59,8 @@
   },
   "weight": 100,
   "height": 20,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -67,6 +69,7 @@
     "smogon": "rellor",
     "showdown": "rellor",
     "serebii": "rellor",
-    "bulbapedia": "Rellor"
+    "bulbapedia": "Rellor",
+    "showdownName": "Rellor"
   }
 }

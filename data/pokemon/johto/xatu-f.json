@@ -4,12 +4,12 @@
   "dexNum": 178,
   "formId": "f",
   "name": "Xatu ♀",
-  "psName": "Xatu",
   "formName": "Female",
   "region": "johto",
   "generation": 4,
   "type1": "psychic",
   "type2": "flying",
+  "teraType": null,
   "color": "green",
   "abilities": {
     "primary": "synchronize",
@@ -73,6 +73,8 @@
   },
   "weight": 1500,
   "height": 150,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": "xatu",
   "baseForms": [],
   "forms": [],
@@ -84,6 +86,7 @@
     "smogon": "xatu",
     "showdown": "xatu",
     "serebii": "xatu",
-    "bulbapedia": "Xatu"
+    "bulbapedia": "Xatu",
+    "showdownName": "Xatu"
   }
 }

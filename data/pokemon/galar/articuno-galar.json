@@ -4,12 +4,12 @@
   "dexNum": 144,
   "formId": "galar",
   "name": "Galarian Articuno",
-  "psName": "Articuno-Galar",
   "formName": "Galarian Form",
   "region": "galar",
   "generation": 8,
   "type1": "psychic",
   "type2": "flying",
+  "teraType": null,
   "color": "purple",
   "abilities": {
     "primary": "competitive",
@@ -62,6 +62,8 @@
   },
   "weight": 5090,
   "height": 170,
+  "maleRate": 0,
+  "femaleRate": 0,
   "baseSpecies": "articuno",
   "baseForms": [],
   "forms": [],
@@ -70,6 +72,7 @@
     "smogon": "articuno-galar",
     "showdown": "articunogalar",
     "serebii": "articuno",
-    "bulbapedia": "Articuno"
+    "bulbapedia": "Articuno",
+    "showdownName": "Articuno-Galar"
   }
 }

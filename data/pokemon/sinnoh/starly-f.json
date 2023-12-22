@@ -4,12 +4,12 @@
   "dexNum": 396,
   "formId": "f",
   "name": "Starly ♀",
-  "psName": "Starly",
   "formName": "Female",
   "region": "sinnoh",
   "generation": 4,
   "type1": "normal",
   "type2": "flying",
+  "teraType": null,
   "color": "brown",
   "abilities": {
     "primary": "keeneye",
@@ -76,6 +76,8 @@
   },
   "weight": 200,
   "height": 30,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": "starly",
   "baseForms": [],
   "forms": [],
@@ -84,6 +86,7 @@
     "smogon": "starly",
     "showdown": "starly",
     "serebii": "starly",
-    "bulbapedia": "Starly"
+    "bulbapedia": "Starly",
+    "showdownName": "Starly"
   }
 }

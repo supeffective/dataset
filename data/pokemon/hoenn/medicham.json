@@ -4,12 +4,12 @@
   "dexNum": 308,
   "formId": null,
   "name": "Medicham",
-  "psName": "Medicham",
   "formName": null,
   "region": "hoenn",
   "generation": 3,
   "type1": "fighting",
   "type2": "psychic",
+  "teraType": null,
   "color": "red",
   "abilities": {
     "primary": "purepower",
@@ -78,6 +78,8 @@
   },
   "weight": 3150,
   "height": 130,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [
@@ -92,6 +94,7 @@
     "smogon": "medicham",
     "showdown": "medicham",
     "serebii": "medicham",
-    "bulbapedia": "Medicham"
+    "bulbapedia": "Medicham",
+    "showdownName": "Medicham"
   }
 }

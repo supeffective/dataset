@@ -4,12 +4,12 @@
   "dexNum": 562,
   "formId": "galar",
   "name": "Galarian Yamask",
-  "psName": "Yamask-Galar",
   "formName": "Galarian Form",
   "region": "galar",
   "generation": 8,
   "type1": "ground",
   "type2": "ghost",
+  "teraType": null,
   "color": "black",
   "abilities": {
     "primary": "wanderingspirit",
@@ -61,6 +61,8 @@
   },
   "weight": 150,
   "height": 50,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": "yamask",
   "baseForms": [],
   "forms": [],
@@ -69,6 +71,7 @@
     "smogon": "yamask-galar",
     "showdown": "yamaskgalar",
     "serebii": "yamask",
-    "bulbapedia": "Yamask"
+    "bulbapedia": "Yamask",
+    "showdownName": "Yamask-Galar"
   }
 }

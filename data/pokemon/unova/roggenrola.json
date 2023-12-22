@@ -4,12 +4,12 @@
   "dexNum": 524,
   "formId": null,
   "name": "Roggenrola",
-  "psName": "Roggenrola",
   "formName": null,
   "region": "unova",
   "generation": 5,
   "type1": "rock",
   "type2": null,
+  "teraType": null,
   "color": "blue",
   "abilities": {
     "primary": "sturdy",
@@ -69,6 +69,8 @@
   },
   "weight": 1800,
   "height": 40,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -77,6 +79,7 @@
     "smogon": "roggenrola",
     "showdown": "roggenrola",
     "serebii": "roggenrola",
-    "bulbapedia": "Roggenrola"
+    "bulbapedia": "Roggenrola",
+    "showdownName": "Roggenrola"
   }
 }

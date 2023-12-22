@@ -4,12 +4,12 @@
   "dexNum": 576,
   "formId": null,
   "name": "Gothitelle",
-  "psName": "Gothitelle",
   "formName": null,
   "region": "unova",
   "generation": 5,
   "type1": "psychic",
   "type2": null,
+  "teraType": null,
   "color": "purple",
   "abilities": {
     "primary": "frisk",
@@ -71,6 +71,8 @@
   },
   "weight": 4400,
   "height": 150,
+  "maleRate": 25,
+  "femaleRate": 75,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -82,6 +84,7 @@
     "smogon": "gothitelle",
     "showdown": "gothitelle",
     "serebii": "gothitelle",
-    "bulbapedia": "Gothitelle"
+    "bulbapedia": "Gothitelle",
+    "showdownName": "Gothitelle"
   }
 }

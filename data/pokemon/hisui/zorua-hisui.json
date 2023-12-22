@@ -4,12 +4,12 @@
   "dexNum": 570,
   "formId": "hisui",
   "name": "Hisuian Zorua",
-  "psName": "Zorua-Hisui",
   "formName": "Hisuian Form",
   "region": "hisui",
   "generation": 8,
   "type1": "normal",
   "type2": "ghost",
+  "teraType": null,
   "color": "gray",
   "abilities": {
     "primary": "illusion",
@@ -60,6 +60,8 @@
   },
   "weight": 1250,
   "height": 70,
+  "maleRate": 87.5,
+  "femaleRate": 12.5,
   "baseSpecies": "zorua",
   "baseForms": [],
   "forms": [],
@@ -68,6 +70,7 @@
     "smogon": "zorua-hisui",
     "showdown": "zoruahisui",
     "serebii": "zorua",
-    "bulbapedia": "Zorua"
+    "bulbapedia": "Zorua",
+    "showdownName": "Zorua-Hisui"
   }
 }

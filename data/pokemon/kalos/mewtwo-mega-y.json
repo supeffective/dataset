@@ -4,12 +4,12 @@
   "dexNum": 150,
   "formId": "mega-y",
   "name": "Mega Mewtwo Y",
-  "psName": "Mewtwo-Mega-Y",
   "formName": "Mega Y",
   "region": "kalos",
   "generation": 6,
   "type1": "psychic",
   "type2": null,
+  "teraType": null,
   "color": "purple",
   "abilities": {
     "primary": "insomnia",
@@ -59,6 +59,8 @@
   },
   "weight": 3300,
   "height": 150,
+  "maleRate": 0,
+  "femaleRate": 0,
   "baseSpecies": "mewtwo",
   "baseForms": [
     "mewtwo"
@@ -69,6 +71,7 @@
     "smogon": "mewtwo-mega-y",
     "showdown": "mewtwomegay",
     "serebii": "mewtwo",
-    "bulbapedia": "Mewtwo"
+    "bulbapedia": "Mewtwo",
+    "showdownName": "Mewtwo-Mega-Y"
   }
 }

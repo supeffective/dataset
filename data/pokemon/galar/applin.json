@@ -4,12 +4,12 @@
   "dexNum": 840,
   "formId": null,
   "name": "Applin",
-  "psName": "Applin",
   "formName": null,
   "region": "galar",
   "generation": 8,
   "type1": "grass",
   "type2": "dragon",
+  "teraType": null,
   "color": "green",
   "abilities": {
     "primary": "ripen",
@@ -61,6 +61,8 @@
   },
   "weight": 50,
   "height": 20,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -69,6 +71,7 @@
     "smogon": "applin",
     "showdown": "applin",
     "serebii": "applin",
-    "bulbapedia": "Applin"
+    "bulbapedia": "Applin",
+    "showdownName": "Applin"
   }
 }

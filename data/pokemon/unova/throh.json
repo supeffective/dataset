@@ -4,12 +4,12 @@
   "dexNum": 538,
   "formId": null,
   "name": "Throh",
-  "psName": "Throh",
   "formName": null,
   "region": "unova",
   "generation": 5,
   "type1": "fighting",
   "type2": null,
+  "teraType": null,
   "color": "red",
   "abilities": {
     "primary": "guts",
@@ -69,6 +69,8 @@
   },
   "weight": 5550,
   "height": 130,
+  "maleRate": 100,
+  "femaleRate": 0,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -77,6 +79,7 @@
     "smogon": "throh",
     "showdown": "throh",
     "serebii": "throh",
-    "bulbapedia": "Throh"
+    "bulbapedia": "Throh",
+    "showdownName": "Throh"
   }
 }

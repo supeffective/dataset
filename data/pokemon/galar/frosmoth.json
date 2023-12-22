@@ -4,12 +4,12 @@
   "dexNum": 873,
   "formId": null,
   "name": "Frosmoth",
-  "psName": "Frosmoth",
   "formName": null,
   "region": "galar",
   "generation": 8,
   "type1": "ice",
   "type2": "bug",
+  "teraType": null,
   "color": "white",
   "abilities": {
     "primary": "shielddust",
@@ -61,6 +61,8 @@
   },
   "weight": 4200,
   "height": 130,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -73,6 +75,7 @@
     "smogon": "frosmoth",
     "showdown": "frosmoth",
     "serebii": "frosmoth",
-    "bulbapedia": "Frosmoth"
+    "bulbapedia": "Frosmoth",
+    "showdownName": "Frosmoth"
   }
 }

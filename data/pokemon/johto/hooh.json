@@ -4,12 +4,12 @@
   "dexNum": 250,
   "formId": null,
   "name": "Ho-Oh",
-  "psName": "Ho-Oh",
   "formName": "Oh",
   "region": "johto",
   "generation": 2,
   "type1": "fire",
   "type2": "flying",
+  "teraType": null,
   "color": "red",
   "abilities": {
     "primary": "pressure",
@@ -80,6 +80,8 @@
   },
   "weight": 19900,
   "height": 380,
+  "maleRate": 0,
+  "femaleRate": 0,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -88,6 +90,7 @@
     "smogon": "hooh",
     "showdown": "hooh",
     "serebii": "hooh",
-    "bulbapedia": "Ho-Oh"
+    "bulbapedia": "Ho-Oh",
+    "showdownName": "Ho-Oh"
   }
 }

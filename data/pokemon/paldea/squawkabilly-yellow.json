@@ -4,12 +4,12 @@
   "dexNum": 931,
   "formId": "yellow",
   "name": "Squawkabilly Yellow-feathered",
-  "psName": "Squawkabilly-Yellow",
   "formName": "Yellow-feathered",
   "region": "paldea",
   "generation": 9,
   "type1": "normal",
   "type2": "flying",
+  "teraType": null,
   "color": "yellow",
   "abilities": {
     "primary": "intimidate",
@@ -59,6 +59,8 @@
   },
   "weight": 240,
   "height": 60,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": "squawkabilly",
   "baseForms": [],
   "forms": [],
@@ -67,6 +69,7 @@
     "smogon": "squawkabilly-yellow",
     "showdown": "squawkabillyyellow",
     "serebii": "Squawkabilly",
-    "bulbapedia": "Squawkabilly_Yellow"
+    "bulbapedia": "Squawkabilly_Yellow",
+    "showdownName": "Squawkabilly-Yellow"
   }
 }

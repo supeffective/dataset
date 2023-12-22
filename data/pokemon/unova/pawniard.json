@@ -4,12 +4,12 @@
   "dexNum": 624,
   "formId": null,
   "name": "Pawniard",
-  "psName": "Pawniard",
   "formName": null,
   "region": "unova",
   "generation": 5,
   "type1": "dark",
   "type2": "steel",
+  "teraType": null,
   "color": "red",
   "abilities": {
     "primary": "defiant",
@@ -71,6 +71,8 @@
   },
   "weight": 1020,
   "height": 50,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -79,6 +81,7 @@
     "smogon": "pawniard",
     "showdown": "pawniard",
     "serebii": "pawniard",
-    "bulbapedia": "Pawniard"
+    "bulbapedia": "Pawniard",
+    "showdownName": "Pawniard"
   }
 }

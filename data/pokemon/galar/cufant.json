@@ -4,12 +4,12 @@
   "dexNum": 878,
   "formId": null,
   "name": "Cufant",
-  "psName": "Cufant",
   "formName": null,
   "region": "galar",
   "generation": 8,
   "type1": "steel",
   "type2": null,
+  "teraType": null,
   "color": "yellow",
   "abilities": {
     "primary": "sheerforce",
@@ -61,6 +61,8 @@
   },
   "weight": 10000,
   "height": 120,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -69,6 +71,7 @@
     "smogon": "cufant",
     "showdown": "cufant",
     "serebii": "cufant",
-    "bulbapedia": "Cufant"
+    "bulbapedia": "Cufant",
+    "showdownName": "Cufant"
   }
 }

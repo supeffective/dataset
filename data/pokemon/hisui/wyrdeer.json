@@ -4,12 +4,12 @@
   "dexNum": 899,
   "formId": null,
   "name": "Wyrdeer",
-  "psName": "Wyrdeer",
   "formName": null,
   "region": "hisui",
   "generation": 8,
   "type1": "normal",
   "type2": "psychic",
+  "teraType": null,
   "color": "white",
   "abilities": {
     "primary": "intimidate",
@@ -60,6 +60,8 @@
   },
   "weight": 9510,
   "height": 180,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -72,6 +74,7 @@
     "smogon": "wyrdeer",
     "showdown": "wyrdeer",
     "serebii": "wyrdeer",
-    "bulbapedia": "Wyrdeer"
+    "bulbapedia": "Wyrdeer",
+    "showdownName": "Wyrdeer"
   }
 }

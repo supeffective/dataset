@@ -4,12 +4,12 @@
   "dexNum": 854,
   "formId": "phony",
   "name": "Sinistea",
-  "psName": "Sinistea",
   "formName": "Phony",
   "region": "galar",
   "generation": 8,
   "type1": "ghost",
   "type2": null,
+  "teraType": null,
   "color": "purple",
   "abilities": {
     "primary": "weakarmor",
@@ -61,6 +61,8 @@
   },
   "weight": 20,
   "height": 10,
+  "maleRate": 0,
+  "femaleRate": 0,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [
@@ -71,6 +73,7 @@
     "smogon": "sinistea",
     "showdown": "sinistea",
     "serebii": "sinistea",
-    "bulbapedia": "Sinistea"
+    "bulbapedia": "Sinistea",
+    "showdownName": "Sinistea"
   }
 }

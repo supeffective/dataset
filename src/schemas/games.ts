@@ -25,7 +25,9 @@ export const gameSchema = z.object({
     shiny: z.boolean(),
     items: z.boolean(),
     gender: z.boolean(),
+    // pokerus: z.boolean(), // All except Gen 1, GO and S/V
     nature: z.boolean(),
+    // shadow: z.boolean(), // Colosseum, XD and GO
     ball: z.boolean(),
     mega: z.boolean(),
     zmove: z.boolean(),

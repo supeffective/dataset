@@ -4,12 +4,12 @@
   "dexNum": 563,
   "formId": null,
   "name": "Cofagrigus",
-  "psName": "Cofagrigus",
   "formName": null,
   "region": "unova",
   "generation": 5,
   "type1": "ghost",
   "type2": null,
+  "teraType": null,
   "color": "yellow",
   "abilities": {
     "primary": "mummy",
@@ -69,6 +69,8 @@
   },
   "weight": 7650,
   "height": 170,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -80,6 +82,7 @@
     "smogon": "cofagrigus",
     "showdown": "cofagrigus",
     "serebii": "cofagrigus",
-    "bulbapedia": "Cofagrigus"
+    "bulbapedia": "Cofagrigus",
+    "showdownName": "Cofagrigus"
   }
 }

@@ -4,12 +4,12 @@
   "dexNum": 647,
   "formId": "ordinary",
   "name": "Keldeo",
-  "psName": "Keldeo",
   "formName": "Ordinary Form",
   "region": "unova",
   "generation": 5,
   "type1": "water",
   "type2": "fighting",
+  "teraType": null,
   "color": "yellow",
   "abilities": {
     "primary": "justified",
@@ -70,6 +70,8 @@
   },
   "weight": 4850,
   "height": 140,
+  "maleRate": 0,
+  "femaleRate": 0,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [
@@ -80,6 +82,7 @@
     "smogon": "keldeo",
     "showdown": "keldeo",
     "serebii": "keldeo",
-    "bulbapedia": "Keldeo"
+    "bulbapedia": "Keldeo",
+    "showdownName": "Keldeo"
   }
 }

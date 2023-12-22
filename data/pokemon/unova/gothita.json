@@ -4,12 +4,12 @@
   "dexNum": 574,
   "formId": null,
   "name": "Gothita",
-  "psName": "Gothita",
   "formName": null,
   "region": "unova",
   "generation": 5,
   "type1": "psychic",
   "type2": null,
+  "teraType": null,
   "color": "purple",
   "abilities": {
     "primary": "frisk",
@@ -71,6 +71,8 @@
   },
   "weight": 580,
   "height": 40,
+  "maleRate": 25,
+  "femaleRate": 75,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -79,6 +81,7 @@
     "smogon": "gothita",
     "showdown": "gothita",
     "serebii": "gothita",
-    "bulbapedia": "Gothita"
+    "bulbapedia": "Gothita",
+    "showdownName": "Gothita"
   }
 }

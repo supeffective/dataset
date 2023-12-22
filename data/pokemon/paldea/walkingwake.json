@@ -4,12 +4,12 @@
   "dexNum": 1009,
   "formId": null,
   "name": "Walking Wake",
-  "psName": "Walking Wake",
   "formName": null,
   "region": "paldea",
   "generation": 9,
   "type1": "water",
   "type2": "dragon",
+  "teraType": null,
   "color": "blue",
   "abilities": {
     "primary": "protosynthesis",
@@ -65,6 +65,8 @@
   },
   "weight": 28000,
   "height": 350,
+  "maleRate": 0,
+  "femaleRate": 0,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -73,6 +75,7 @@
     "smogon": "walkingwake",
     "showdown": "walkingwake",
     "serebii": "walkingwake",
-    "bulbapedia": "Walking_Wake"
+    "bulbapedia": "Walking_Wake",
+    "showdownName": "Walking Wake"
   }
 }

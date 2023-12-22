@@ -4,12 +4,12 @@
   "dexNum": 481,
   "formId": null,
   "name": "Mesprit",
-  "psName": "Mesprit",
   "formName": null,
   "region": "sinnoh",
   "generation": 4,
   "type1": "psychic",
   "type2": null,
+  "teraType": null,
   "color": "pink",
   "abilities": {
     "primary": "levitate",
@@ -77,6 +77,8 @@
   },
   "weight": 30,
   "height": 30,
+  "maleRate": 0,
+  "femaleRate": 0,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -85,6 +87,7 @@
     "smogon": "mesprit",
     "showdown": "mesprit",
     "serebii": "mesprit",
-    "bulbapedia": "Mesprit"
+    "bulbapedia": "Mesprit",
+    "showdownName": "Mesprit"
   }
 }

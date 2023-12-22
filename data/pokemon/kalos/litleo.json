@@ -4,12 +4,12 @@
   "dexNum": 667,
   "formId": null,
   "name": "Litleo",
-  "psName": "Litleo",
   "formName": null,
   "region": "kalos",
   "generation": 6,
   "type1": "fire",
   "type2": "normal",
+  "teraType": null,
   "color": "brown",
   "abilities": {
     "primary": "rivalry",
@@ -66,6 +66,8 @@
   },
   "weight": 1350,
   "height": 60,
+  "maleRate": 12.5,
+  "femaleRate": 87.5,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -74,6 +76,7 @@
     "smogon": "litleo",
     "showdown": "litleo",
     "serebii": "litleo",
-    "bulbapedia": "Litleo"
+    "bulbapedia": "Litleo",
+    "showdownName": "Litleo"
   }
 }

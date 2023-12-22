@@ -4,12 +4,12 @@
   "dexNum": 901,
   "formId": "bloodmoon",
   "name": "Ursaluna (Blood Moon Form)",
-  "psName": "Ursaluna-Bloodmoon",
   "formName": "Blood Moon Form",
   "region": "paldea",
   "generation": 9,
   "type1": "ground",
   "type2": "normal",
+  "teraType": null,
   "color": "white",
   "abilities": {
     "primary": "mindseye",
@@ -61,6 +61,8 @@
   },
   "weight": 33300,
   "height": -1,
+  "maleRate": 100,
+  "femaleRate": 0,
   "baseSpecies": "ursaluna",
   "baseForms": [],
   "forms": [],
@@ -72,6 +74,7 @@
     "smogon": "ursaluna-bloodmoon",
     "showdown": "ursalunabloodmoon",
     "serebii": "ursaluna",
-    "bulbapedia": "Ursaluna"
+    "bulbapedia": "Ursaluna",
+    "showdownName": "Ursaluna-Bloodmoon"
   }
 }

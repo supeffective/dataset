@@ -4,12 +4,12 @@
   "dexNum": 229,
   "formId": null,
   "name": "Houndoom",
-  "psName": "Houndoom",
   "formName": null,
   "region": "johto",
   "generation": 2,
   "type1": "dark",
   "type2": "fire",
+  "teraType": null,
   "color": "black",
   "abilities": {
     "primary": "earlybird",
@@ -80,6 +80,8 @@
   },
   "weight": 3500,
   "height": 140,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [
@@ -94,6 +96,7 @@
     "smogon": "houndoom",
     "showdown": "houndoom",
     "serebii": "houndoom",
-    "bulbapedia": "Houndoom"
+    "bulbapedia": "Houndoom",
+    "showdownName": "Houndoom"
   }
 }

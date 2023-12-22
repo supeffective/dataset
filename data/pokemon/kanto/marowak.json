@@ -4,12 +4,12 @@
   "dexNum": 105,
   "formId": null,
   "name": "Marowak",
-  "psName": "Marowak",
   "formName": null,
   "region": "kanto",
   "generation": 1,
   "type1": "ground",
   "type2": null,
+  "teraType": null,
   "color": "brown",
   "abilities": {
     "primary": "rockhead",
@@ -84,6 +84,8 @@
   },
   "weight": 4500,
   "height": 100,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [
@@ -97,6 +99,7 @@
     "smogon": "marowak",
     "showdown": "marowak",
     "serebii": "marowak",
-    "bulbapedia": "Marowak"
+    "bulbapedia": "Marowak",
+    "showdownName": "Marowak"
   }
 }

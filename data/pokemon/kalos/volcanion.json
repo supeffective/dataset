@@ -4,12 +4,12 @@
   "dexNum": 721,
   "formId": null,
   "name": "Volcanion",
-  "psName": "Volcanion",
   "formName": null,
   "region": "kalos",
   "generation": 6,
   "type1": "fire",
   "type2": "water",
+  "teraType": null,
   "color": "brown",
   "abilities": {
     "primary": "waterabsorb",
@@ -65,6 +65,8 @@
   },
   "weight": 19500,
   "height": 170,
+  "maleRate": 0,
+  "femaleRate": 0,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -73,6 +75,7 @@
     "smogon": "volcanion",
     "showdown": "volcanion",
     "serebii": "volcanion",
-    "bulbapedia": "Volcanion"
+    "bulbapedia": "Volcanion",
+    "showdownName": "Volcanion"
   }
 }

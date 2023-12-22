@@ -4,12 +4,12 @@
   "dexNum": 823,
   "formId": "gmax",
   "name": "Gigantamax Corviknight",
-  "psName": "Corviknight-Gmax",
   "formName": "Gigantamax",
   "region": "galar",
   "generation": 8,
   "type1": "flying",
   "type2": "steel",
+  "teraType": null,
   "color": "purple",
   "abilities": {
     "primary": "pressure",
@@ -56,6 +56,8 @@
   },
   "weight": 0,
   "height": 1400,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": "corviknight",
   "baseForms": [
     "corviknight"
@@ -66,6 +68,7 @@
     "smogon": "corviknight-gmax",
     "showdown": "corviknightgmax",
     "serebii": "corviknight",
-    "bulbapedia": "Corviknight"
+    "bulbapedia": "Corviknight",
+    "showdownName": "Corviknight-Gmax"
   }
 }

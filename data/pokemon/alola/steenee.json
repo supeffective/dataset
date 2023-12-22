@@ -4,12 +4,12 @@
   "dexNum": 762,
   "formId": null,
   "name": "Steenee",
-  "psName": "Steenee",
   "formName": null,
   "region": "alola",
   "generation": 7,
   "type1": "grass",
   "type2": null,
+  "teraType": null,
   "color": "purple",
   "abilities": {
     "primary": "leafguard",
@@ -67,6 +67,8 @@
   },
   "weight": 820,
   "height": 70,
+  "maleRate": 0,
+  "femaleRate": 100,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -78,6 +80,7 @@
     "smogon": "steenee",
     "showdown": "steenee",
     "serebii": "steenee",
-    "bulbapedia": "Steenee"
+    "bulbapedia": "Steenee",
+    "showdownName": "Steenee"
   }
 }

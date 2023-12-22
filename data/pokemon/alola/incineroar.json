@@ -4,12 +4,12 @@
   "dexNum": 727,
   "formId": null,
   "name": "Incineroar",
-  "psName": "Incineroar",
   "formName": null,
   "region": "alola",
   "generation": 7,
   "type1": "fire",
   "type2": "dark",
+  "teraType": null,
   "color": "red",
   "abilities": {
     "primary": "blaze",
@@ -67,6 +67,8 @@
   },
   "weight": 8300,
   "height": 180,
+  "maleRate": 87.5,
+  "femaleRate": 12.5,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -78,6 +80,7 @@
     "smogon": "incineroar",
     "showdown": "incineroar",
     "serebii": "incineroar",
-    "bulbapedia": "Incineroar"
+    "bulbapedia": "Incineroar",
+    "showdownName": "Incineroar"
   }
 }

@@ -4,12 +4,12 @@
   "dexNum": 218,
   "formId": null,
   "name": "Slugma",
-  "psName": "Slugma",
   "formName": null,
   "region": "johto",
   "generation": 2,
   "type1": "fire",
   "type2": null,
+  "teraType": null,
   "color": "red",
   "abilities": {
     "primary": "magmaarmor",
@@ -80,6 +80,8 @@
   },
   "weight": 3500,
   "height": 70,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -88,6 +90,7 @@
     "smogon": "slugma",
     "showdown": "slugma",
     "serebii": "slugma",
-    "bulbapedia": "Slugma"
+    "bulbapedia": "Slugma",
+    "showdownName": "Slugma"
   }
 }

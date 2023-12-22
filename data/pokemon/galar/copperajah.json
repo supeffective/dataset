@@ -4,12 +4,12 @@
   "dexNum": 879,
   "formId": null,
   "name": "Copperajah",
-  "psName": "Copperajah",
   "formName": null,
   "region": "galar",
   "generation": 8,
   "type1": "steel",
   "type2": null,
+  "teraType": null,
   "color": "green",
   "abilities": {
     "primary": "sheerforce",
@@ -61,6 +61,8 @@
   },
   "weight": 65000,
   "height": 300,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [
@@ -74,6 +76,7 @@
     "smogon": "copperajah",
     "showdown": "copperajah",
     "serebii": "copperajah",
-    "bulbapedia": "Copperajah"
+    "bulbapedia": "Copperajah",
+    "showdownName": "Copperajah"
   }
 }

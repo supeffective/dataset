@@ -4,12 +4,12 @@
   "dexNum": 763,
   "formId": null,
   "name": "Tsareena",
-  "psName": "Tsareena",
   "formName": null,
   "region": "alola",
   "generation": 7,
   "type1": "grass",
   "type2": null,
+  "teraType": null,
   "color": "purple",
   "abilities": {
     "primary": "leafguard",
@@ -67,6 +67,8 @@
   },
   "weight": 2140,
   "height": 120,
+  "maleRate": 0,
+  "femaleRate": 100,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -79,6 +81,7 @@
     "smogon": "tsareena",
     "showdown": "tsareena",
     "serebii": "tsareena",
-    "bulbapedia": "Tsareena"
+    "bulbapedia": "Tsareena",
+    "showdownName": "Tsareena"
   }
 }

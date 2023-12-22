@@ -4,12 +4,12 @@
   "dexNum": 978,
   "formId": null,
   "name": "Tatsugiri",
-  "psName": "Tatsugiri",
   "formName": "Curly Form",
   "region": "paldea",
   "generation": 9,
   "type1": "dragon",
   "type2": "water",
+  "teraType": null,
   "color": "pink",
   "abilities": {
     "primary": "commander",
@@ -59,6 +59,8 @@
   },
   "weight": 800,
   "height": 30,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [
@@ -70,6 +72,7 @@
     "smogon": "tatsugiri",
     "showdown": "tatsugiri",
     "serebii": "tatsugiri",
-    "bulbapedia": "Tatsugiri"
+    "bulbapedia": "Tatsugiri",
+    "showdownName": "Tatsugiri"
   }
 }

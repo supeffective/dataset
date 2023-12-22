@@ -4,12 +4,12 @@
   "dexNum": 650,
   "formId": null,
   "name": "Chespin",
-  "psName": "Chespin",
   "formName": null,
   "region": "kalos",
   "generation": 6,
   "type1": "grass",
   "type2": null,
+  "teraType": null,
   "color": "green",
   "abilities": {
     "primary": "overgrow",
@@ -66,6 +66,8 @@
   },
   "weight": 900,
   "height": 40,
+  "maleRate": 87.5,
+  "femaleRate": 12.5,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -74,6 +76,7 @@
     "smogon": "chespin",
     "showdown": "chespin",
     "serebii": "chespin",
-    "bulbapedia": "Chespin"
+    "bulbapedia": "Chespin",
+    "showdownName": "Chespin"
   }
 }

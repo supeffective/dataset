@@ -4,12 +4,12 @@
   "dexNum": 882,
   "formId": null,
   "name": "Dracovish",
-  "psName": "Dracovish",
   "formName": null,
   "region": "galar",
   "generation": 8,
   "type1": "water",
   "type2": "dragon",
+  "teraType": null,
   "color": "green",
   "abilities": {
     "primary": "waterabsorb",
@@ -59,6 +59,8 @@
   },
   "weight": 21500,
   "height": 230,
+  "maleRate": 0,
+  "femaleRate": 0,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -67,6 +69,7 @@
     "smogon": "dracovish",
     "showdown": "dracovish",
     "serebii": "dracovish",
-    "bulbapedia": "Dracovish"
+    "bulbapedia": "Dracovish",
+    "showdownName": "Dracovish"
   }
 }

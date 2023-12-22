@@ -4,12 +4,12 @@
   "dexNum": 623,
   "formId": null,
   "name": "Golurk",
-  "psName": "Golurk",
   "formName": null,
   "region": "unova",
   "generation": 5,
   "type1": "ground",
   "type2": "ghost",
+  "teraType": null,
   "color": "green",
   "abilities": {
     "primary": "ironfist",
@@ -71,6 +71,8 @@
   },
   "weight": 33000,
   "height": 280,
+  "maleRate": 0,
+  "femaleRate": 0,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -82,6 +84,7 @@
     "smogon": "golurk",
     "showdown": "golurk",
     "serebii": "golurk",
-    "bulbapedia": "Golurk"
+    "bulbapedia": "Golurk",
+    "showdownName": "Golurk"
   }
 }

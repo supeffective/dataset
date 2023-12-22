@@ -4,12 +4,12 @@
   "dexNum": 720,
   "formId": "unbound",
   "name": "Hoopa Unbound",
-  "psName": "Hoopa-Unbound",
   "formName": "Unbound",
   "region": "kalos",
   "generation": 6,
   "type1": "psychic",
   "type2": "dark",
+  "teraType": null,
   "color": "purple",
   "abilities": {
     "primary": "magician",
@@ -65,6 +65,8 @@
   },
   "weight": 49000,
   "height": 650,
+  "maleRate": 0,
+  "femaleRate": 0,
   "baseSpecies": "hoopa",
   "baseForms": [
     "hoopa"
@@ -75,6 +77,7 @@
     "smogon": "hoopa-unbound",
     "showdown": "hoopaunbound",
     "serebii": "hoopa",
-    "bulbapedia": "Hoopa"
+    "bulbapedia": "Hoopa",
+    "showdownName": "Hoopa-Unbound"
   }
 }

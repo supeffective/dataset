@@ -4,12 +4,12 @@
   "dexNum": 254,
   "formId": null,
   "name": "Sceptile",
-  "psName": "Sceptile",
   "formName": null,
   "region": "hoenn",
   "generation": 3,
   "type1": "grass",
   "type2": null,
+  "teraType": null,
   "color": "green",
   "abilities": {
     "primary": "overgrow",
@@ -80,6 +80,8 @@
   },
   "weight": 5220,
   "height": 170,
+  "maleRate": 87.5,
+  "femaleRate": 12.5,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [
@@ -93,6 +95,7 @@
     "smogon": "sceptile",
     "showdown": "sceptile",
     "serebii": "sceptile",
-    "bulbapedia": "Sceptile"
+    "bulbapedia": "Sceptile",
+    "showdownName": "Sceptile"
   }
 }

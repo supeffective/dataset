@@ -4,12 +4,12 @@
   "dexNum": 194,
   "formId": "paldea",
   "name": "Paldean Wooper",
-  "psName": "Wooper-Paldea",
   "formName": "Paldean",
   "region": "paldea",
   "generation": 9,
   "type1": "poison",
   "type2": "ground",
+  "teraType": null,
   "color": "brown",
   "abilities": {
     "primary": "poisonpoint",
@@ -61,6 +61,8 @@
   },
   "weight": 1100,
   "height": 40,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": "wooper",
   "baseForms": [],
   "forms": [],
@@ -69,6 +71,7 @@
     "smogon": "wooper-paldea",
     "showdown": "wooperpaldea",
     "serebii": "Wooper",
-    "bulbapedia": "Wooper_Paldea"
+    "bulbapedia": "Wooper_Paldea",
+    "showdownName": "Wooper-Paldea"
   }
 }

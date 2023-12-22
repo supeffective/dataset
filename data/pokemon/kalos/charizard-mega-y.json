@@ -4,12 +4,12 @@
   "dexNum": 6,
   "formId": "mega-y",
   "name": "Mega Charizard Y",
-  "psName": "Charizard-Mega-Y",
   "formName": "Mega Y",
   "region": "kalos",
   "generation": 6,
   "type1": "fire",
   "type2": "flying",
+  "teraType": null,
   "color": "red",
   "abilities": {
     "primary": "drought",
@@ -59,6 +59,8 @@
   },
   "weight": 10050,
   "height": 170,
+  "maleRate": 87.5,
+  "femaleRate": 12.5,
   "baseSpecies": "charizard",
   "baseForms": [
     "charizard"
@@ -69,6 +71,7 @@
     "smogon": "charizard-mega-y",
     "showdown": "charizardmegay",
     "serebii": "charizard",
-    "bulbapedia": "Charizard"
+    "bulbapedia": "Charizard",
+    "showdownName": "Charizard-Mega-Y"
   }
 }

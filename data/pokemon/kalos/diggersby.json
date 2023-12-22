@@ -4,12 +4,12 @@
   "dexNum": 660,
   "formId": null,
   "name": "Diggersby",
-  "psName": "Diggersby",
   "formName": null,
   "region": "kalos",
   "generation": 6,
   "type1": "normal",
   "type2": "ground",
+  "teraType": null,
   "color": "brown",
   "abilities": {
     "primary": "pickup",
@@ -66,6 +66,8 @@
   },
   "weight": 4240,
   "height": 100,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -77,6 +79,7 @@
     "smogon": "diggersby",
     "showdown": "diggersby",
     "serebii": "diggersby",
-    "bulbapedia": "Diggersby"
+    "bulbapedia": "Diggersby",
+    "showdownName": "Diggersby"
   }
 }

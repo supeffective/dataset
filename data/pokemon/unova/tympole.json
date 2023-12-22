@@ -4,12 +4,12 @@
   "dexNum": 535,
   "formId": null,
   "name": "Tympole",
-  "psName": "Tympole",
   "formName": null,
   "region": "unova",
   "generation": 5,
   "type1": "water",
   "type2": null,
+  "teraType": null,
   "color": "blue",
   "abilities": {
     "primary": "swiftswim",
@@ -69,6 +69,8 @@
   },
   "weight": 450,
   "height": 50,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -77,6 +79,7 @@
     "smogon": "tympole",
     "showdown": "tympole",
     "serebii": "tympole",
-    "bulbapedia": "Tympole"
+    "bulbapedia": "Tympole",
+    "showdownName": "Tympole"
   }
 }

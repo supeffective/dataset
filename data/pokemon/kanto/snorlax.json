@@ -4,12 +4,12 @@
   "dexNum": 143,
   "formId": null,
   "name": "Snorlax",
-  "psName": "Snorlax",
   "formName": null,
   "region": "kanto",
   "generation": 1,
   "type1": "normal",
   "type2": null,
+  "teraType": null,
   "color": "black",
   "abilities": {
     "primary": "immunity",
@@ -88,6 +88,8 @@
   },
   "weight": 46000,
   "height": 210,
+  "maleRate": 87.5,
+  "femaleRate": 12.5,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [
@@ -101,6 +103,7 @@
     "smogon": "snorlax",
     "showdown": "snorlax",
     "serebii": "snorlax",
-    "bulbapedia": "Snorlax"
+    "bulbapedia": "Snorlax",
+    "showdownName": "Snorlax"
   }
 }

@@ -4,12 +4,12 @@
   "dexNum": 851,
   "formId": null,
   "name": "Centiskorch",
-  "psName": "Centiskorch",
   "formName": null,
   "region": "galar",
   "generation": 8,
   "type1": "fire",
   "type2": "bug",
+  "teraType": null,
   "color": "red",
   "abilities": {
     "primary": "flashfire",
@@ -59,6 +59,8 @@
   },
   "weight": 12000,
   "height": 300,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [
@@ -72,6 +74,7 @@
     "smogon": "centiskorch",
     "showdown": "centiskorch",
     "serebii": "centiskorch",
-    "bulbapedia": "Centiskorch"
+    "bulbapedia": "Centiskorch",
+    "showdownName": "Centiskorch"
   }
 }

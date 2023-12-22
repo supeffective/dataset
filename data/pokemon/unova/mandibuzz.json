@@ -4,12 +4,12 @@
   "dexNum": 630,
   "formId": null,
   "name": "Mandibuzz",
-  "psName": "Mandibuzz",
   "formName": null,
   "region": "unova",
   "generation": 5,
   "type1": "dark",
   "type2": "flying",
+  "teraType": null,
   "color": "brown",
   "abilities": {
     "primary": "bigpecks",
@@ -71,6 +71,8 @@
   },
   "weight": 3950,
   "height": 120,
+  "maleRate": 0,
+  "femaleRate": 100,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -82,6 +84,7 @@
     "smogon": "mandibuzz",
     "showdown": "mandibuzz",
     "serebii": "mandibuzz",
-    "bulbapedia": "Mandibuzz"
+    "bulbapedia": "Mandibuzz",
+    "showdownName": "Mandibuzz"
   }
 }

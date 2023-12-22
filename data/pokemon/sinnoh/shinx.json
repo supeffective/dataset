@@ -4,12 +4,12 @@
   "dexNum": 403,
   "formId": null,
   "name": "Shinx",
-  "psName": "Shinx",
   "formName": null,
   "region": "sinnoh",
   "generation": 4,
   "type1": "electric",
   "type2": null,
+  "teraType": null,
   "color": "blue",
   "abilities": {
     "primary": "rivalry",
@@ -78,6 +78,8 @@
   },
   "weight": 950,
   "height": 50,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [
@@ -88,6 +90,7 @@
     "smogon": "shinx",
     "showdown": "shinx",
     "serebii": "shinx",
-    "bulbapedia": "Shinx"
+    "bulbapedia": "Shinx",
+    "showdownName": "Shinx"
   }
 }

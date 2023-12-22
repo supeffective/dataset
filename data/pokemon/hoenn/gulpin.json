@@ -4,12 +4,12 @@
   "dexNum": 316,
   "formId": null,
   "name": "Gulpin",
-  "psName": "Gulpin",
   "formName": null,
   "region": "hoenn",
   "generation": 3,
   "type1": "poison",
   "type2": null,
+  "teraType": null,
   "color": "green",
   "abilities": {
     "primary": "liquidooze",
@@ -78,6 +78,8 @@
   },
   "weight": 1030,
   "height": 40,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [
@@ -88,6 +90,7 @@
     "smogon": "gulpin",
     "showdown": "gulpin",
     "serebii": "gulpin",
-    "bulbapedia": "Gulpin"
+    "bulbapedia": "Gulpin",
+    "showdownName": "Gulpin"
   }
 }

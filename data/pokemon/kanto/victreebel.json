@@ -4,12 +4,12 @@
   "dexNum": 71,
   "formId": null,
   "name": "Victreebel",
-  "psName": "Victreebel",
   "formName": null,
   "region": "kanto",
   "generation": 1,
   "type1": "grass",
   "type2": "poison",
+  "teraType": null,
   "color": "green",
   "abilities": {
     "primary": "chlorophyll",
@@ -84,6 +84,8 @@
   },
   "weight": 1550,
   "height": 170,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -96,6 +98,7 @@
     "smogon": "victreebel",
     "showdown": "victreebel",
     "serebii": "victreebel",
-    "bulbapedia": "Victreebel"
+    "bulbapedia": "Victreebel",
+    "showdownName": "Victreebel"
   }
 }

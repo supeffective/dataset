@@ -4,12 +4,12 @@
   "dexNum": 720,
   "formId": "confined",
   "name": "Hoopa",
-  "psName": "Hoopa",
   "formName": "Confined",
   "region": "kalos",
   "generation": 6,
   "type1": "psychic",
   "type2": "ghost",
+  "teraType": null,
   "color": "purple",
   "abilities": {
     "primary": "magician",
@@ -66,6 +66,8 @@
   },
   "weight": 900,
   "height": 50,
+  "maleRate": 0,
+  "femaleRate": 0,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [
@@ -76,6 +78,7 @@
     "smogon": "hoopa",
     "showdown": "hoopa",
     "serebii": "hoopa",
-    "bulbapedia": "Hoopa"
+    "bulbapedia": "Hoopa",
+    "showdownName": "Hoopa"
   }
 }

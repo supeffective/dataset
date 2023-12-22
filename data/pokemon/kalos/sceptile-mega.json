@@ -4,12 +4,12 @@
   "dexNum": 254,
   "formId": "mega",
   "name": "Mega Sceptile",
-  "psName": "Sceptile-Mega",
   "formName": "Mega",
   "region": "kalos",
   "generation": 6,
   "type1": "grass",
   "type2": "dragon",
+  "teraType": null,
   "color": "green",
   "abilities": {
     "primary": "lightningrod",
@@ -59,6 +59,8 @@
   },
   "weight": 5520,
   "height": 190,
+  "maleRate": 87.5,
+  "femaleRate": 12.5,
   "baseSpecies": "sceptile",
   "baseForms": [
     "sceptile"
@@ -69,6 +71,7 @@
     "smogon": "sceptile-mega",
     "showdown": "sceptilemega",
     "serebii": "sceptile",
-    "bulbapedia": "Sceptile"
+    "bulbapedia": "Sceptile",
+    "showdownName": "Sceptile-Mega"
   }
 }

@@ -4,12 +4,12 @@
   "dexNum": 805,
   "formId": null,
   "name": "Stakataka",
-  "psName": "Stakataka",
   "formName": null,
   "region": "alola",
   "generation": 7,
   "type1": "rock",
   "type2": "steel",
+  "teraType": null,
   "color": "gray",
   "abilities": {
     "primary": "beastboost",
@@ -61,6 +61,8 @@
   },
   "weight": 82000,
   "height": 550,
+  "maleRate": 0,
+  "femaleRate": 0,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -69,6 +71,7 @@
     "smogon": "stakataka",
     "showdown": "stakataka",
     "serebii": "stakataka",
-    "bulbapedia": "Stakataka"
+    "bulbapedia": "Stakataka",
+    "showdownName": "Stakataka"
   }
 }

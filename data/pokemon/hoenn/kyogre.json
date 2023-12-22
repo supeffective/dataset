@@ -4,12 +4,12 @@
   "dexNum": 382,
   "formId": null,
   "name": "Kyogre",
-  "psName": "Kyogre",
   "formName": null,
   "region": "hoenn",
   "generation": 3,
   "type1": "water",
   "type2": null,
+  "teraType": null,
   "color": "blue",
   "abilities": {
     "primary": "drizzle",
@@ -79,6 +79,8 @@
   },
   "weight": 35200,
   "height": 450,
+  "maleRate": 0,
+  "femaleRate": 0,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [
@@ -89,6 +91,7 @@
     "smogon": "kyogre",
     "showdown": "kyogre",
     "serebii": "kyogre",
-    "bulbapedia": "Kyogre"
+    "bulbapedia": "Kyogre",
+    "showdownName": "Kyogre"
   }
 }

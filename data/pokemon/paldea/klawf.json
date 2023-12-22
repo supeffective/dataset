@@ -4,12 +4,12 @@
   "dexNum": 950,
   "formId": null,
   "name": "Klawf",
-  "psName": "Klawf",
   "formName": null,
   "region": "paldea",
   "generation": 9,
   "type1": "rock",
   "type2": null,
+  "teraType": null,
   "color": "red",
   "abilities": {
     "primary": "angershell",
@@ -59,6 +59,8 @@
   },
   "weight": 7900,
   "height": 130,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -67,6 +69,7 @@
     "smogon": "klawf",
     "showdown": "klawf",
     "serebii": "klawf",
-    "bulbapedia": "Klawf"
+    "bulbapedia": "Klawf",
+    "showdownName": "Klawf"
   }
 }

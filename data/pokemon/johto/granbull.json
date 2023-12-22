@@ -4,12 +4,12 @@
   "dexNum": 210,
   "formId": null,
   "name": "Granbull",
-  "psName": "Granbull",
   "formName": null,
   "region": "johto",
   "generation": 2,
   "type1": "fairy",
   "type2": null,
+  "teraType": null,
   "color": "purple",
   "abilities": {
     "primary": "intimidate",
@@ -80,6 +80,8 @@
   },
   "weight": 4870,
   "height": 140,
+  "maleRate": 25,
+  "femaleRate": 75,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -91,6 +93,7 @@
     "smogon": "granbull",
     "showdown": "granbull",
     "serebii": "granbull",
-    "bulbapedia": "Granbull"
+    "bulbapedia": "Granbull",
+    "showdownName": "Granbull"
   }
 }

@@ -4,12 +4,12 @@
   "dexNum": 399,
   "formId": null,
   "name": "Bidoof",
-  "psName": "Bidoof",
   "formName": null,
   "region": "sinnoh",
   "generation": 4,
   "type1": "normal",
   "type2": null,
+  "teraType": null,
   "color": "brown",
   "abilities": {
     "primary": "simple",
@@ -74,6 +74,8 @@
   },
   "weight": 2000,
   "height": 50,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [
@@ -84,6 +86,7 @@
     "smogon": "bidoof",
     "showdown": "bidoof",
     "serebii": "bidoof",
-    "bulbapedia": "Bidoof"
+    "bulbapedia": "Bidoof",
+    "showdownName": "Bidoof"
   }
 }

@@ -4,12 +4,12 @@
   "dexNum": 145,
   "formId": "galar",
   "name": "Galarian Zapdos",
-  "psName": "Zapdos-Galar",
   "formName": "Galarian Form",
   "region": "galar",
   "generation": 8,
   "type1": "fighting",
   "type2": "flying",
+  "teraType": null,
   "color": "yellow",
   "abilities": {
     "primary": "defiant",
@@ -62,6 +62,8 @@
   },
   "weight": 5820,
   "height": 160,
+  "maleRate": 0,
+  "femaleRate": 0,
   "baseSpecies": "zapdos",
   "baseForms": [],
   "forms": [],
@@ -70,6 +72,7 @@
     "smogon": "zapdos-galar",
     "showdown": "zapdosgalar",
     "serebii": "zapdos",
-    "bulbapedia": "Zapdos"
+    "bulbapedia": "Zapdos",
+    "showdownName": "Zapdos-Galar"
   }
 }

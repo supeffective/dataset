@@ -4,12 +4,12 @@
   "dexNum": 678,
   "formId": "f",
   "name": "Female Meowstic",
-  "psName": "Meowstic-F",
   "formName": "Female",
   "region": "kalos",
   "generation": 6,
   "type1": "psychic",
   "type2": null,
+  "teraType": null,
   "color": "blue",
   "abilities": {
     "primary": "keeneye",
@@ -68,6 +68,8 @@
   },
   "weight": 850,
   "height": 60,
+  "maleRate": 0,
+  "femaleRate": 100,
   "baseSpecies": "meowstic",
   "baseForms": [],
   "forms": [],
@@ -79,6 +81,7 @@
     "smogon": "meowstic",
     "showdown": "meowsticf",
     "serebii": "meowstic",
-    "bulbapedia": "Meowstic"
+    "bulbapedia": "Meowstic",
+    "showdownName": "Meowstic-F"
   }
 }

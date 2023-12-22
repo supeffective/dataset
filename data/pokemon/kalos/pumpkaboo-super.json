@@ -4,12 +4,12 @@
   "dexNum": 710,
   "formId": "super",
   "name": "Pumpkaboo Super Size",
-  "psName": "Pumpkaboo-Super",
   "formName": "Super Size",
   "region": "kalos",
   "generation": 6,
   "type1": "ghost",
   "type2": "grass",
+  "teraType": null,
   "color": "brown",
   "abilities": {
     "primary": "pickup",
@@ -66,6 +66,8 @@
   },
   "weight": 1500,
   "height": 80,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": "pumpkaboo",
   "baseForms": [],
   "forms": [],
@@ -74,6 +76,7 @@
     "smogon": "pumpkaboo-super",
     "showdown": "pumpkaboosuper",
     "serebii": "pumpkaboo",
-    "bulbapedia": "Pumpkaboo"
+    "bulbapedia": "Pumpkaboo",
+    "showdownName": "Pumpkaboo-Super"
   }
 }

@@ -4,12 +4,12 @@
   "dexNum": 646,
   "formId": null,
   "name": "Kyurem",
-  "psName": "Kyurem",
   "formName": null,
   "region": "unova",
   "generation": 5,
   "type1": "dragon",
   "type2": "ice",
+  "teraType": null,
   "color": "gray",
   "abilities": {
     "primary": "pressure",
@@ -69,6 +69,8 @@
   },
   "weight": 32500,
   "height": 300,
+  "maleRate": 0,
+  "femaleRate": 0,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [
@@ -80,6 +82,7 @@
     "smogon": "kyurem",
     "showdown": "kyurem",
     "serebii": "kyurem",
-    "bulbapedia": "Kyurem"
+    "bulbapedia": "Kyurem",
+    "showdownName": "Kyurem"
   }
 }

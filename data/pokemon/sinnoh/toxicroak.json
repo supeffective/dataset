@@ -4,12 +4,12 @@
   "dexNum": 454,
   "formId": null,
   "name": "Toxicroak",
-  "psName": "Toxicroak",
   "formName": null,
   "region": "sinnoh",
   "generation": 4,
   "type1": "poison",
   "type2": "fighting",
+  "teraType": null,
   "color": "blue",
   "abilities": {
     "primary": "anticipation",
@@ -78,6 +78,8 @@
   },
   "weight": 4440,
   "height": 130,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [
@@ -91,6 +93,7 @@
     "smogon": "toxicroak",
     "showdown": "toxicroak",
     "serebii": "toxicroak",
-    "bulbapedia": "Toxicroak"
+    "bulbapedia": "Toxicroak",
+    "showdownName": "Toxicroak"
   }
 }

@@ -4,12 +4,12 @@
   "dexNum": 1008,
   "formId": null,
   "name": "Miraidon",
-  "psName": "Miraidon",
   "formName": null,
   "region": "paldea",
   "generation": 9,
   "type1": "electric",
   "type2": "dragon",
+  "teraType": null,
   "color": "blue",
   "abilities": {
     "primary": "hadronengine",
@@ -59,6 +59,8 @@
   },
   "weight": 24000,
   "height": 350,
+  "maleRate": 0,
+  "femaleRate": 0,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -67,6 +69,7 @@
     "smogon": "miraidon",
     "showdown": "miraidon",
     "serebii": "miraidon",
-    "bulbapedia": "Miraidon"
+    "bulbapedia": "Miraidon",
+    "showdownName": "Miraidon"
   }
 }

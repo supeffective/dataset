@@ -4,12 +4,12 @@
   "dexNum": 800,
   "formId": "dawn-wings",
   "name": "Necrozma Dawn Wings",
-  "psName": "Necrozma-Dawn-Wings",
   "formName": "Dawn Wings",
   "region": "alola",
   "generation": 7,
   "type1": "psychic",
   "type2": "ghost",
+  "teraType": null,
   "color": "blue",
   "abilities": {
     "primary": "prismarmor",
@@ -63,6 +63,8 @@
   },
   "weight": 35000,
   "height": 420,
+  "maleRate": 0,
+  "femaleRate": 0,
   "baseSpecies": "necrozma",
   "baseForms": [
     "necrozma"
@@ -73,6 +75,7 @@
     "smogon": "necrozma-dawn-wings",
     "showdown": "necrozmadawnwings",
     "serebii": "necrozma",
-    "bulbapedia": "Necrozma"
+    "bulbapedia": "Necrozma",
+    "showdownName": "Necrozma-Dawn-Wings"
   }
 }

@@ -4,12 +4,12 @@
   "dexNum": 173,
   "formId": null,
   "name": "Cleffa",
-  "psName": "Cleffa",
   "formName": null,
   "region": "johto",
   "generation": 2,
   "type1": "fairy",
   "type2": null,
+  "teraType": null,
   "color": "pink",
   "abilities": {
     "primary": "cutecharm",
@@ -84,6 +84,8 @@
   },
   "weight": 300,
   "height": 30,
+  "maleRate": 25,
+  "femaleRate": 75,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -92,6 +94,7 @@
     "smogon": "cleffa",
     "showdown": "cleffa",
     "serebii": "cleffa",
-    "bulbapedia": "Cleffa"
+    "bulbapedia": "Cleffa",
+    "showdownName": "Cleffa"
   }
 }

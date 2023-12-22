@@ -4,12 +4,12 @@
   "dexNum": 802,
   "formId": null,
   "name": "Marshadow",
-  "psName": "Marshadow",
   "formName": null,
   "region": "alola",
   "generation": 7,
   "type1": "fighting",
   "type2": "ghost",
+  "teraType": null,
   "color": "gray",
   "abilities": {
     "primary": "technician",
@@ -62,6 +62,8 @@
   },
   "weight": 2220,
   "height": 70,
+  "maleRate": 0,
+  "femaleRate": 0,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -70,6 +72,7 @@
     "smogon": "marshadow",
     "showdown": "marshadow",
     "serebii": "marshadow",
-    "bulbapedia": "Marshadow"
+    "bulbapedia": "Marshadow",
+    "showdownName": "Marshadow"
   }
 }

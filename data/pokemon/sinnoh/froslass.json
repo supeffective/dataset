@@ -4,12 +4,12 @@
   "dexNum": 478,
   "formId": null,
   "name": "Froslass",
-  "psName": "Froslass",
   "formName": null,
   "region": "sinnoh",
   "generation": 4,
   "type1": "ice",
   "type2": "ghost",
+  "teraType": null,
   "color": "white",
   "abilities": {
     "primary": "snowcloak",
@@ -78,6 +78,8 @@
   },
   "weight": 2660,
   "height": 130,
+  "maleRate": 0,
+  "femaleRate": 100,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -90,6 +92,7 @@
     "smogon": "froslass",
     "showdown": "froslass",
     "serebii": "froslass",
-    "bulbapedia": "Froslass"
+    "bulbapedia": "Froslass",
+    "showdownName": "Froslass"
   }
 }

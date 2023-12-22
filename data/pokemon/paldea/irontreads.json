@@ -4,12 +4,12 @@
   "dexNum": 990,
   "formId": null,
   "name": "Iron Treads",
-  "psName": "Iron Treads",
   "formName": null,
   "region": "paldea",
   "generation": 9,
   "type1": "ground",
   "type2": "steel",
+  "teraType": null,
   "color": "gray",
   "abilities": {
     "primary": "quarkdrive",
@@ -59,6 +59,8 @@
   },
   "weight": 24000,
   "height": 90,
+  "maleRate": 0,
+  "femaleRate": 0,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -67,6 +69,7 @@
     "smogon": "irontreads",
     "showdown": "irontreads",
     "serebii": "irontreads",
-    "bulbapedia": "Irontreads"
+    "bulbapedia": "Irontreads",
+    "showdownName": "Iron Treads"
   }
 }

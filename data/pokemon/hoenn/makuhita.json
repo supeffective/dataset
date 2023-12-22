@@ -4,12 +4,12 @@
   "dexNum": 296,
   "formId": null,
   "name": "Makuhita",
-  "psName": "Makuhita",
   "formName": null,
   "region": "hoenn",
   "generation": 3,
   "type1": "fighting",
   "type2": null,
+  "teraType": null,
   "color": "yellow",
   "abilities": {
     "primary": "thickfat",
@@ -78,6 +78,8 @@
   },
   "weight": 8640,
   "height": 100,
+  "maleRate": 75,
+  "femaleRate": 25,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -86,6 +88,7 @@
     "smogon": "makuhita",
     "showdown": "makuhita",
     "serebii": "makuhita",
-    "bulbapedia": "Makuhita"
+    "bulbapedia": "Makuhita",
+    "showdownName": "Makuhita"
   }
 }

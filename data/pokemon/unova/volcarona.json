@@ -4,12 +4,12 @@
   "dexNum": 637,
   "formId": null,
   "name": "Volcarona",
-  "psName": "Volcarona",
   "formName": null,
   "region": "unova",
   "generation": 5,
   "type1": "bug",
   "type2": "fire",
+  "teraType": null,
   "color": "white",
   "abilities": {
     "primary": "flamebody",
@@ -71,6 +71,8 @@
   },
   "weight": 4600,
   "height": 160,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -82,6 +84,7 @@
     "smogon": "volcarona",
     "showdown": "volcarona",
     "serebii": "volcarona",
-    "bulbapedia": "Volcarona"
+    "bulbapedia": "Volcarona",
+    "showdownName": "Volcarona"
   }
 }

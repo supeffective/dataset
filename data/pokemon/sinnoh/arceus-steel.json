@@ -4,12 +4,12 @@
   "dexNum": 493,
   "formId": "steel",
   "name": "Arceus (Steel)",
-  "psName": "Arceus-Steel",
   "formName": "Steel",
   "region": "sinnoh",
   "generation": 4,
   "type1": "steel",
   "type2": null,
+  "teraType": null,
   "color": "white",
   "abilities": {
     "primary": "multitype",
@@ -72,6 +72,8 @@
   },
   "weight": 32000,
   "height": 320,
+  "maleRate": 0,
+  "femaleRate": 0,
   "baseSpecies": "arceus",
   "baseForms": [
     "arceus"
@@ -82,6 +84,7 @@
     "smogon": "arceus-steel",
     "showdown": "arceussteel",
     "serebii": "arceus",
-    "bulbapedia": "Arceus"
+    "bulbapedia": "Arceus",
+    "showdownName": "Arceus-Steel"
   }
 }

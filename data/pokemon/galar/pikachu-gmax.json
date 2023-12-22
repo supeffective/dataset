@@ -4,12 +4,12 @@
   "dexNum": 25,
   "formId": "gmax",
   "name": "Gigantamax Pikachu",
-  "psName": "Pikachu-Gmax",
   "formName": "Gigantamax",
   "region": "galar",
   "generation": 8,
   "type1": "electric",
   "type2": null,
+  "teraType": null,
   "color": "yellow",
   "abilities": {
     "primary": "static",
@@ -56,6 +56,8 @@
   },
   "weight": 0,
   "height": 2100,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": "pikachu",
   "baseForms": [
     "pikachu",
@@ -67,6 +69,7 @@
     "smogon": "pikachu-gmax",
     "showdown": "pikachugmax",
     "serebii": "pikachu",
-    "bulbapedia": "Pikachu"
+    "bulbapedia": "Pikachu",
+    "showdownName": "Pikachu-Gmax"
   }
 }

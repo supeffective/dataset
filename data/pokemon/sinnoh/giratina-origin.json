@@ -4,12 +4,12 @@
   "dexNum": 487,
   "formId": "origin",
   "name": "Giratina Origin Forme",
-  "psName": "Giratina-Origin",
   "formName": "Origin Forme",
   "region": "sinnoh",
   "generation": 4,
   "type1": "ghost",
   "type2": "dragon",
+  "teraType": null,
   "color": "black",
   "abilities": {
     "primary": "levitate",
@@ -75,6 +75,8 @@
   },
   "weight": 65000,
   "height": 690,
+  "maleRate": 0,
+  "femaleRate": 0,
   "baseSpecies": "giratina",
   "baseForms": [
     "giratina"
@@ -85,6 +87,7 @@
     "smogon": "giratina-origin",
     "showdown": "giratinaorigin",
     "serebii": "giratina",
-    "bulbapedia": "Giratina"
+    "bulbapedia": "Giratina",
+    "showdownName": "Giratina-Origin"
   }
 }

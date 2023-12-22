@@ -4,12 +4,12 @@
   "dexNum": 384,
   "formId": null,
   "name": "Rayquaza",
-  "psName": "Rayquaza",
   "formName": null,
   "region": "hoenn",
   "generation": 3,
   "type1": "dragon",
   "type2": "flying",
+  "teraType": null,
   "color": "green",
   "abilities": {
     "primary": "airlock",
@@ -79,6 +79,8 @@
   },
   "weight": 20650,
   "height": 700,
+  "maleRate": 0,
+  "femaleRate": 0,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [
@@ -89,6 +91,7 @@
     "smogon": "rayquaza",
     "showdown": "rayquaza",
     "serebii": "rayquaza",
-    "bulbapedia": "Rayquaza"
+    "bulbapedia": "Rayquaza",
+    "showdownName": "Rayquaza"
   }
 }

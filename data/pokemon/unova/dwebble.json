@@ -4,12 +4,12 @@
   "dexNum": 557,
   "formId": null,
   "name": "Dwebble",
-  "psName": "Dwebble",
   "formName": null,
   "region": "unova",
   "generation": 5,
   "type1": "bug",
   "type2": "rock",
+  "teraType": null,
   "color": "red",
   "abilities": {
     "primary": "sturdy",
@@ -69,6 +69,8 @@
   },
   "weight": 1450,
   "height": 30,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -77,6 +79,7 @@
     "smogon": "dwebble",
     "showdown": "dwebble",
     "serebii": "dwebble",
-    "bulbapedia": "Dwebble"
+    "bulbapedia": "Dwebble",
+    "showdownName": "Dwebble"
   }
 }

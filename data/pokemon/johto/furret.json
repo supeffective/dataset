@@ -4,12 +4,12 @@
   "dexNum": 162,
   "formId": null,
   "name": "Furret",
-  "psName": "Furret",
   "formName": null,
   "region": "johto",
   "generation": 2,
   "type1": "normal",
   "type2": null,
+  "teraType": null,
   "color": "brown",
   "abilities": {
     "primary": "runaway",
@@ -80,6 +80,8 @@
   },
   "weight": 3250,
   "height": 180,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -91,6 +93,7 @@
     "smogon": "furret",
     "showdown": "furret",
     "serebii": "furret",
-    "bulbapedia": "Furret"
+    "bulbapedia": "Furret",
+    "showdownName": "Furret"
   }
 }

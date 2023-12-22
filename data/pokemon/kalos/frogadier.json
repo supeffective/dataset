@@ -4,12 +4,12 @@
   "dexNum": 657,
   "formId": null,
   "name": "Frogadier",
-  "psName": "Frogadier",
   "formName": null,
   "region": "kalos",
   "generation": 6,
   "type1": "water",
   "type2": null,
+  "teraType": null,
   "color": "blue",
   "abilities": {
     "primary": "torrent",
@@ -66,6 +66,8 @@
   },
   "weight": 1090,
   "height": 60,
+  "maleRate": 87.5,
+  "femaleRate": 12.5,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -77,6 +79,7 @@
     "smogon": "frogadier",
     "showdown": "frogadier",
     "serebii": "frogadier",
-    "bulbapedia": "Frogadier"
+    "bulbapedia": "Frogadier",
+    "showdownName": "Frogadier"
   }
 }

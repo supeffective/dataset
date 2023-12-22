@@ -4,12 +4,12 @@
   "dexNum": 159,
   "formId": null,
   "name": "Croconaw",
-  "psName": "Croconaw",
   "formName": null,
   "region": "johto",
   "generation": 2,
   "type1": "water",
   "type2": null,
+  "teraType": null,
   "color": "blue",
   "abilities": {
     "primary": "torrent",
@@ -80,6 +80,8 @@
   },
   "weight": 2500,
   "height": 110,
+  "maleRate": 87.5,
+  "femaleRate": 12.5,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -91,6 +93,7 @@
     "smogon": "croconaw",
     "showdown": "croconaw",
     "serebii": "croconaw",
-    "bulbapedia": "Croconaw"
+    "bulbapedia": "Croconaw",
+    "showdownName": "Croconaw"
   }
 }

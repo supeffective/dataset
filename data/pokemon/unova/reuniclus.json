@@ -4,12 +4,12 @@
   "dexNum": 579,
   "formId": null,
   "name": "Reuniclus",
-  "psName": "Reuniclus",
   "formName": null,
   "region": "unova",
   "generation": 5,
   "type1": "psychic",
   "type2": null,
+  "teraType": null,
   "color": "green",
   "abilities": {
     "primary": "overcoat",
@@ -71,6 +71,8 @@
   },
   "weight": 2010,
   "height": 100,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -82,6 +84,7 @@
     "smogon": "reuniclus",
     "showdown": "reuniclus",
     "serebii": "reuniclus",
-    "bulbapedia": "Reuniclus"
+    "bulbapedia": "Reuniclus",
+    "showdownName": "Reuniclus"
   }
 }

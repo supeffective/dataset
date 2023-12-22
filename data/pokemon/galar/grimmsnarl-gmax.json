@@ -4,12 +4,12 @@
   "dexNum": 861,
   "formId": "gmax",
   "name": "Gigantamax Grimmsnarl",
-  "psName": "Grimmsnarl-Gmax",
   "formName": "Gigantamax",
   "region": "galar",
   "generation": 8,
   "type1": "dark",
   "type2": "fairy",
+  "teraType": null,
   "color": "purple",
   "abilities": {
     "primary": "prankster",
@@ -56,6 +56,8 @@
   },
   "weight": 0,
   "height": 3200,
+  "maleRate": 100,
+  "femaleRate": 0,
   "baseSpecies": "grimmsnarl",
   "baseForms": [
     "grimmsnarl"
@@ -66,6 +68,7 @@
     "smogon": "grimmsnarl-gmax",
     "showdown": "grimmsnarlgmax",
     "serebii": "grimmsnarl",
-    "bulbapedia": "Grimmsnarl"
+    "bulbapedia": "Grimmsnarl",
+    "showdownName": "Grimmsnarl-Gmax"
   }
 }

@@ -4,12 +4,12 @@
   "dexNum": 26,
   "formId": null,
   "name": "Raichu",
-  "psName": "Raichu",
   "formName": null,
   "region": "kanto",
   "generation": 1,
   "type1": "electric",
   "type2": null,
+  "teraType": null,
   "color": "yellow",
   "abilities": {
     "primary": "static",
@@ -88,6 +88,8 @@
   },
   "weight": 3000,
   "height": 80,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [
@@ -103,6 +105,7 @@
     "smogon": "raichu",
     "showdown": "raichu",
     "serebii": "raichu",
-    "bulbapedia": "Raichu"
+    "bulbapedia": "Raichu",
+    "showdownName": "Raichu"
   }
 }

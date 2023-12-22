@@ -4,12 +4,12 @@
   "dexNum": 999,
   "formId": null,
   "name": "Gimmighoul",
-  "psName": "Gimmighoul",
   "formName": "Chest Form",
   "region": "paldea",
   "generation": 9,
   "type1": "ghost",
   "type2": null,
+  "teraType": null,
   "color": "brown",
   "abilities": {
     "primary": "rattled",
@@ -61,6 +61,8 @@
   },
   "weight": 500,
   "height": 30,
+  "maleRate": 0,
+  "femaleRate": 0,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [
@@ -71,6 +73,7 @@
     "smogon": "gimmighoul",
     "showdown": "gimmighoul",
     "serebii": "gimmighoul",
-    "bulbapedia": "Gimmighoul"
+    "bulbapedia": "Gimmighoul",
+    "showdownName": "Gimmighoul"
   }
 }

@@ -4,12 +4,12 @@
   "dexNum": 889,
   "formId": "crowned",
   "name": "Zamazenta Crowned Shield",
-  "psName": "Zamazenta-Crowned",
   "formName": "Crowned Shield",
   "region": "galar",
   "generation": 8,
   "type1": "fighting",
   "type2": "steel",
+  "teraType": null,
   "color": "red",
   "abilities": {
     "primary": "dauntlessshield",
@@ -58,6 +58,8 @@
   },
   "weight": 78500,
   "height": 290,
+  "maleRate": 0,
+  "femaleRate": 0,
   "baseSpecies": "zamazenta",
   "baseForms": [
     "zamazenta"
@@ -68,6 +70,7 @@
     "smogon": "zamazenta-crowned",
     "showdown": "zamazentacrowned",
     "serebii": "zamazenta",
-    "bulbapedia": "Zamazenta"
+    "bulbapedia": "Zamazenta",
+    "showdownName": "Zamazenta-Crowned"
   }
 }

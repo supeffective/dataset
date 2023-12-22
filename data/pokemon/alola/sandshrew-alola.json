@@ -4,12 +4,12 @@
   "dexNum": 27,
   "formId": "alola",
   "name": "Alolan Sandshrew",
-  "psName": "Sandshrew-Alola",
   "formName": "Alolan Form",
   "region": "alola",
   "generation": 7,
   "type1": "ice",
   "type2": "steel",
+  "teraType": null,
   "color": "white",
   "abilities": {
     "primary": "snowcloak",
@@ -69,6 +69,8 @@
   },
   "weight": 4000,
   "height": 70,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": "sandshrew",
   "baseForms": [],
   "forms": [],
@@ -77,6 +79,7 @@
     "smogon": "sandshrew-alola",
     "showdown": "sandshrewalola",
     "serebii": "sandshrew",
-    "bulbapedia": "Sandshrew"
+    "bulbapedia": "Sandshrew",
+    "showdownName": "Sandshrew-Alola"
   }
 }

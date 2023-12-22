@@ -4,12 +4,12 @@
   "dexNum": 545,
   "formId": null,
   "name": "Scolipede",
-  "psName": "Scolipede",
   "formName": null,
   "region": "unova",
   "generation": 5,
   "type1": "bug",
   "type2": "poison",
+  "teraType": null,
   "color": "red",
   "abilities": {
     "primary": "poisonpoint",
@@ -69,6 +69,8 @@
   },
   "weight": 20050,
   "height": 250,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -80,6 +82,7 @@
     "smogon": "scolipede",
     "showdown": "scolipede",
     "serebii": "scolipede",
-    "bulbapedia": "Scolipede"
+    "bulbapedia": "Scolipede",
+    "showdownName": "Scolipede"
   }
 }

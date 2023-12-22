@@ -4,12 +4,12 @@
   "dexNum": 600,
   "formId": null,
   "name": "Klang",
-  "psName": "Klang",
   "formName": null,
   "region": "unova",
   "generation": 5,
   "type1": "steel",
   "type2": null,
+  "teraType": null,
   "color": "gray",
   "abilities": {
     "primary": "plus",
@@ -69,6 +69,8 @@
   },
   "weight": 5100,
   "height": 60,
+  "maleRate": 0,
+  "femaleRate": 0,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -80,6 +82,7 @@
     "smogon": "klang",
     "showdown": "klang",
     "serebii": "klang",
-    "bulbapedia": "Klang"
+    "bulbapedia": "Klang",
+    "showdownName": "Klang"
   }
 }

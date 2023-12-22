@@ -4,12 +4,12 @@
   "dexNum": 818,
   "formId": null,
   "name": "Inteleon",
-  "psName": "Inteleon",
   "formName": null,
   "region": "galar",
   "generation": 8,
   "type1": "water",
   "type2": null,
+  "teraType": null,
   "color": "blue",
   "abilities": {
     "primary": "torrent",
@@ -61,6 +61,8 @@
   },
   "weight": 4520,
   "height": 190,
+  "maleRate": 87.5,
+  "femaleRate": 12.5,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [
@@ -74,6 +76,7 @@
     "smogon": "inteleon",
     "showdown": "inteleon",
     "serebii": "inteleon",
-    "bulbapedia": "Inteleon"
+    "bulbapedia": "Inteleon",
+    "showdownName": "Inteleon"
   }
 }

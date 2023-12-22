@@ -4,12 +4,12 @@
   "dexNum": 776,
   "formId": null,
   "name": "Turtonator",
-  "psName": "Turtonator",
   "formName": null,
   "region": "alola",
   "generation": 7,
   "type1": "fire",
   "type2": "dragon",
+  "teraType": null,
   "color": "red",
   "abilities": {
     "primary": "shellarmor",
@@ -65,6 +65,8 @@
   },
   "weight": 21200,
   "height": 200,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -73,6 +75,7 @@
     "smogon": "turtonator",
     "showdown": "turtonator",
     "serebii": "turtonator",
-    "bulbapedia": "Turtonator"
+    "bulbapedia": "Turtonator",
+    "showdownName": "Turtonator"
   }
 }

@@ -4,12 +4,12 @@
   "dexNum": 124,
   "formId": null,
   "name": "Jynx",
-  "psName": "Jynx",
   "formName": null,
   "region": "kanto",
   "generation": 1,
   "type1": "ice",
   "type2": "psychic",
+  "teraType": null,
   "color": "red",
   "abilities": {
     "primary": "oblivious",
@@ -84,6 +84,8 @@
   },
   "weight": 4060,
   "height": 140,
+  "maleRate": 0,
+  "femaleRate": 100,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -95,6 +97,7 @@
     "smogon": "jynx",
     "showdown": "jynx",
     "serebii": "jynx",
-    "bulbapedia": "Jynx"
+    "bulbapedia": "Jynx",
+    "showdownName": "Jynx"
   }
 }

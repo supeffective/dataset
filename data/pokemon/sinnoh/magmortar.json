@@ -4,12 +4,12 @@
   "dexNum": 467,
   "formId": null,
   "name": "Magmortar",
-  "psName": "Magmortar",
   "formName": null,
   "region": "sinnoh",
   "generation": 4,
   "type1": "fire",
   "type2": null,
+  "teraType": null,
   "color": "red",
   "abilities": {
     "primary": "flamebody",
@@ -78,6 +78,8 @@
   },
   "weight": 6800,
   "height": 160,
+  "maleRate": 75,
+  "femaleRate": 25,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -90,6 +92,7 @@
     "smogon": "magmortar",
     "showdown": "magmortar",
     "serebii": "magmortar",
-    "bulbapedia": "Magmortar"
+    "bulbapedia": "Magmortar",
+    "showdownName": "Magmortar"
   }
 }

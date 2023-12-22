@@ -4,12 +4,12 @@
   "dexNum": 888,
   "formId": "crowned",
   "name": "Zacian Crowned Sword",
-  "psName": "Zacian-Crowned",
   "formName": "Crowned Sword",
   "region": "galar",
   "generation": 8,
   "type1": "fairy",
   "type2": "steel",
+  "teraType": null,
   "color": "blue",
   "abilities": {
     "primary": "intrepidsword",
@@ -58,6 +58,8 @@
   },
   "weight": 35500,
   "height": 280,
+  "maleRate": 0,
+  "femaleRate": 0,
   "baseSpecies": "zacian",
   "baseForms": [
     "zacian"
@@ -68,6 +70,7 @@
     "smogon": "zacian-crowned",
     "showdown": "zaciancrowned",
     "serebii": "zacian",
-    "bulbapedia": "Zacian"
+    "bulbapedia": "Zacian",
+    "showdownName": "Zacian-Crowned"
   }
 }

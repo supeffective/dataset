@@ -4,12 +4,12 @@
   "dexNum": 642,
   "formId": "therian",
   "name": "Thundurus Therian Forme",
-  "psName": "Thundurus-Therian",
   "formName": "Therian Forme",
   "region": "unova",
   "generation": 5,
   "type1": "electric",
   "type2": "flying",
+  "teraType": null,
   "color": "blue",
   "abilities": {
     "primary": "voltabsorb",
@@ -70,6 +70,8 @@
   },
   "weight": 6100,
   "height": 300,
+  "maleRate": 100,
+  "femaleRate": 0,
   "baseSpecies": "thundurus",
   "baseForms": [
     "thundurus"
@@ -80,6 +82,7 @@
     "smogon": "thundurus-therian",
     "showdown": "thundurustherian",
     "serebii": "thundurus",
-    "bulbapedia": "Thundurus"
+    "bulbapedia": "Thundurus",
+    "showdownName": "Thundurus-Therian"
   }
 }

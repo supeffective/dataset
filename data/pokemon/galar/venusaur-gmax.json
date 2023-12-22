@@ -4,12 +4,12 @@
   "dexNum": 3,
   "formId": "gmax",
   "name": "Gigantamax Venusaur",
-  "psName": "Venusaur-Gmax",
   "formName": "Gigantamax",
   "region": "galar",
   "generation": 8,
   "type1": "grass",
   "type2": "poison",
+  "teraType": null,
   "color": "green",
   "abilities": {
     "primary": "overgrow",
@@ -56,6 +56,8 @@
   },
   "weight": 0,
   "height": 200,
+  "maleRate": 87.5,
+  "femaleRate": 12.5,
   "baseSpecies": "venusaur",
   "baseForms": [
     "venusaur",
@@ -67,6 +69,7 @@
     "smogon": "venusaur-gmax",
     "showdown": "venusaurgmax",
     "serebii": "venusaur",
-    "bulbapedia": "Venusaur"
+    "bulbapedia": "Venusaur",
+    "showdownName": "Venusaur-Gmax"
   }
 }

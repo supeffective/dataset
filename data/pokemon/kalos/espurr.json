@@ -4,12 +4,12 @@
   "dexNum": 677,
   "formId": null,
   "name": "Espurr",
-  "psName": "Espurr",
   "formName": null,
   "region": "kalos",
   "generation": 6,
   "type1": "psychic",
   "type2": null,
+  "teraType": null,
   "color": "gray",
   "abilities": {
     "primary": "keeneye",
@@ -68,6 +68,8 @@
   },
   "weight": 350,
   "height": 30,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -76,6 +78,7 @@
     "smogon": "espurr",
     "showdown": "espurr",
     "serebii": "espurr",
-    "bulbapedia": "Espurr"
+    "bulbapedia": "Espurr",
+    "showdownName": "Espurr"
   }
 }

@@ -4,12 +4,12 @@
   "dexNum": 411,
   "formId": null,
   "name": "Bastiodon",
-  "psName": "Bastiodon",
   "formName": null,
   "region": "sinnoh",
   "generation": 4,
   "type1": "rock",
   "type2": "steel",
+  "teraType": null,
   "color": "gray",
   "abilities": {
     "primary": "sturdy",
@@ -76,6 +76,8 @@
   },
   "weight": 14950,
   "height": 130,
+  "maleRate": 87.5,
+  "femaleRate": 12.5,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -87,6 +89,7 @@
     "smogon": "bastiodon",
     "showdown": "bastiodon",
     "serebii": "bastiodon",
-    "bulbapedia": "Bastiodon"
+    "bulbapedia": "Bastiodon",
+    "showdownName": "Bastiodon"
   }
 }

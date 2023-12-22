@@ -4,12 +4,12 @@
   "dexNum": 31,
   "formId": null,
   "name": "Nidoqueen",
-  "psName": "Nidoqueen",
   "formName": null,
   "region": "kanto",
   "generation": 1,
   "type1": "poison",
   "type2": "ground",
+  "teraType": null,
   "color": "blue",
   "abilities": {
     "primary": "poisonpoint",
@@ -84,6 +84,8 @@
   },
   "weight": 6000,
   "height": 130,
+  "maleRate": 0,
+  "femaleRate": 100,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -96,6 +98,7 @@
     "smogon": "nidoqueen",
     "showdown": "nidoqueen",
     "serebii": "nidoqueen",
-    "bulbapedia": "Nidoqueen"
+    "bulbapedia": "Nidoqueen",
+    "showdownName": "Nidoqueen"
   }
 }

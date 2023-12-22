@@ -4,12 +4,12 @@
   "dexNum": 189,
   "formId": null,
   "name": "Jumpluff",
-  "psName": "Jumpluff",
   "formName": null,
   "region": "johto",
   "generation": 2,
   "type1": "grass",
   "type2": "flying",
+  "teraType": null,
   "color": "blue",
   "abilities": {
     "primary": "chlorophyll",
@@ -80,6 +80,8 @@
   },
   "weight": 300,
   "height": 80,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -91,6 +93,7 @@
     "smogon": "jumpluff",
     "showdown": "jumpluff",
     "serebii": "jumpluff",
-    "bulbapedia": "Jumpluff"
+    "bulbapedia": "Jumpluff",
+    "showdownName": "Jumpluff"
   }
 }

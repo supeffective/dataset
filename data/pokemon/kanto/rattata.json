@@ -4,12 +4,12 @@
   "dexNum": 19,
   "formId": null,
   "name": "Rattata",
-  "psName": "Rattata",
   "formName": null,
   "region": "kanto",
   "generation": 1,
   "type1": "normal",
   "type2": null,
+  "teraType": null,
   "color": "purple",
   "abilities": {
     "primary": "runaway",
@@ -82,6 +82,8 @@
   },
   "weight": 350,
   "height": 30,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [
@@ -93,6 +95,7 @@
     "smogon": "rattata",
     "showdown": "rattata",
     "serebii": "rattata",
-    "bulbapedia": "Rattata"
+    "bulbapedia": "Rattata",
+    "showdownName": "Rattata"
   }
 }

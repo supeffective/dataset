@@ -4,12 +4,12 @@
   "dexNum": 674,
   "formId": null,
   "name": "Pancham",
-  "psName": "Pancham",
   "formName": null,
   "region": "kalos",
   "generation": 6,
   "type1": "fighting",
   "type2": null,
+  "teraType": null,
   "color": "white",
   "abilities": {
     "primary": "ironfist",
@@ -66,6 +66,8 @@
   },
   "weight": 800,
   "height": 60,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -74,6 +76,7 @@
     "smogon": "pancham",
     "showdown": "pancham",
     "serebii": "pancham",
-    "bulbapedia": "Pancham"
+    "bulbapedia": "Pancham",
+    "showdownName": "Pancham"
   }
 }

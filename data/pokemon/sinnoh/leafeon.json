@@ -4,12 +4,12 @@
   "dexNum": 470,
   "formId": null,
   "name": "Leafeon",
-  "psName": "Leafeon",
   "formName": null,
   "region": "sinnoh",
   "generation": 4,
   "type1": "grass",
   "type2": null,
+  "teraType": null,
   "color": "green",
   "abilities": {
     "primary": "leafguard",
@@ -78,6 +78,8 @@
   },
   "weight": 2550,
   "height": 100,
+  "maleRate": 87.5,
+  "femaleRate": 12.5,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -90,6 +92,7 @@
     "smogon": "leafeon",
     "showdown": "leafeon",
     "serebii": "leafeon",
-    "bulbapedia": "Leafeon"
+    "bulbapedia": "Leafeon",
+    "showdownName": "Leafeon"
   }
 }

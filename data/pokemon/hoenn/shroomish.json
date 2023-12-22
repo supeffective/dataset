@@ -4,12 +4,12 @@
   "dexNum": 285,
   "formId": null,
   "name": "Shroomish",
-  "psName": "Shroomish",
   "formName": null,
   "region": "hoenn",
   "generation": 3,
   "type1": "grass",
   "type2": null,
+  "teraType": null,
   "color": "brown",
   "abilities": {
     "primary": "effectspore",
@@ -78,6 +78,8 @@
   },
   "weight": 450,
   "height": 40,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -86,6 +88,7 @@
     "smogon": "shroomish",
     "showdown": "shroomish",
     "serebii": "shroomish",
-    "bulbapedia": "Shroomish"
+    "bulbapedia": "Shroomish",
+    "showdownName": "Shroomish"
   }
 }

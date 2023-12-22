@@ -4,12 +4,12 @@
   "dexNum": 924,
   "formId": null,
   "name": "Tandemaus",
-  "psName": "Tandemaus",
   "formName": null,
   "region": "paldea",
   "generation": 9,
   "type1": "normal",
   "type2": null,
+  "teraType": null,
   "color": "white",
   "abilities": {
     "primary": "runaway",
@@ -59,6 +59,8 @@
   },
   "weight": 180,
   "height": 30,
+  "maleRate": 0,
+  "femaleRate": 0,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -67,6 +69,7 @@
     "smogon": "tandemaus",
     "showdown": "tandemaus",
     "serebii": "tandemaus",
-    "bulbapedia": "Tandemaus"
+    "bulbapedia": "Tandemaus",
+    "showdownName": "Tandemaus"
   }
 }

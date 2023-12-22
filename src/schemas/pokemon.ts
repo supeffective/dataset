@@ -21,12 +21,15 @@ export const pokemonSchema = z
     dexNum: z.coerce.number().int().min(0),
     formId: slugSchema.nullable(),
     name: nameSchema,
-    psName: nameSchema,
     formName: nameSchema.nullable(),
     region: slugSchema,
     generation: generationSchema,
     type1: slugSchema,
     type2: slugSchema.nullable(),
+    /**
+     * Forced tera type (e.g. for Ogerpon and Terapagos)
+     */
+    teraType: slugSchema.nullable(),
     color: slugSchema,
     abilities: z
       .object({
@@ -55,7 +58,6 @@ export const pokemonSchema = z
     fusedWith: z.array(slugSchema).nullable(),
     isMega: z.coerce.boolean(),
     isPrimal: z.coerce.boolean(),
-    // isTotem: z.coerce.boolean(),
     isGmax: z.coerce.boolean(),
     isRegional: z.coerce.boolean(),
     canGmax: z.coerce.boolean(),
@@ -80,8 +82,8 @@ export const pokemonSchema = z
       .strict(),
     weight: z.coerce.number().int().min(-1).max(999999),
     height: z.coerce.number().int().min(-1).max(999999),
-    // maleRate: z.coerce.number().int().min(-1).max(100),
-    // femaleRate: z.coerce.number().int().min(-1).max(100),
+    maleRate: z.coerce.number().min(-1).max(100),
+    femaleRate: z.coerce.number().min(-1).max(100),
     baseSpecies: slugSchema.nullable(),
     baseForms: z.array(slugSchema),
     forms: z.array(slugSchema),
@@ -94,7 +96,7 @@ export const pokemonSchema = z
         move: slugSchema.nullable().optional(),
         type: slugSchema.nullable().optional(),
         region: slugSchema.nullable().optional(),
-        ability: slugSchema.nullable().optional(), // not provided by showdown (e.g. rockruff-owntempo)
+        ability: slugSchema.nullable().optional(), // not provided by showdown (e.g. needed for rockruff (own tempo))
         condition: z.string().nullable().optional(),
       })
       .strict()
@@ -103,6 +105,7 @@ export const pokemonSchema = z
       .object({
         smogon: z.string(),
         showdown: z.string(),
+        showdownName: z.string(),
         serebii: z.string(),
         bulbapedia: z.string(),
       })
@@ -148,6 +151,10 @@ export type LegacyPokemon = {
   generation: number
   type1: string
   type2: string | null
+  /**
+   * Forced tera type (e.g. for Ogerpon and Terapagos)
+   */
+  teraType: string | null
   color: string
   isDefault: boolean
   isForm: boolean
@@ -155,6 +162,8 @@ export type LegacyPokemon = {
   isCosmeticForm: boolean
   isFemaleForm: boolean
   hasGenderDifferences: boolean
+  maleRate: number
+  femaleRate: number
   isBattleOnlyForm: boolean
   isSwitchableForm: boolean
   isMega: boolean
@@ -169,13 +178,29 @@ export type LegacyPokemon = {
   eventOnlyIn: string[]
   storableIn: string[]
   shinyReleased: boolean
-  shinyBase: string | null
+  shinyBase: string | null // some pokemon have same shiny base (e.g. minior, alcremie, etc)
   baseSpecies: string | null
   forms: string[] | null
   refs: {
+    /**
+     * Bulbapedia URL slug, without `_(Pokémon)` at the end
+     */
     bulbapedia: string | null
+    /**
+     * Serebii URL slug
+     */
     serebii: string | null
+    /**
+     * Smogon URL slug
+     */
     smogon: string | null
+    /**
+     * Showdown! Internal ID
+     */
     showdown: string | null
+    /**
+     * Showdown! Name for the Showdown! Markup Language (team builder)
+     */
+    showdownName: string | null
   }
 }

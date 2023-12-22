@@ -4,12 +4,12 @@
   "dexNum": 964,
   "formId": null,
   "name": "Palafin",
-  "psName": "Palafin",
   "formName": "Zero Form",
   "region": "paldea",
   "generation": 9,
   "type1": "water",
   "type2": null,
+  "teraType": null,
   "color": "blue",
   "abilities": {
     "primary": "zerotohero",
@@ -59,6 +59,8 @@
   },
   "weight": 6020,
   "height": 130,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [
@@ -72,6 +74,7 @@
     "smogon": "palafin",
     "showdown": "palafin",
     "serebii": "palafin",
-    "bulbapedia": "Palafin"
+    "bulbapedia": "Palafin",
+    "showdownName": "Palafin"
   }
 }

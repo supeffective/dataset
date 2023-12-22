@@ -4,12 +4,12 @@
   "dexNum": 548,
   "formId": null,
   "name": "Petilil",
-  "psName": "Petilil",
   "formName": null,
   "region": "unova",
   "generation": 5,
   "type1": "grass",
   "type2": null,
+  "teraType": null,
   "color": "green",
   "abilities": {
     "primary": "chlorophyll",
@@ -73,6 +73,8 @@
   },
   "weight": 660,
   "height": 50,
+  "maleRate": 0,
+  "femaleRate": 100,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -81,6 +83,7 @@
     "smogon": "petilil",
     "showdown": "petilil",
     "serebii": "petilil",
-    "bulbapedia": "Petilil"
+    "bulbapedia": "Petilil",
+    "showdownName": "Petilil"
   }
 }

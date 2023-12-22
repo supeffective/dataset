@@ -4,12 +4,12 @@
   "dexNum": 694,
   "formId": null,
   "name": "Helioptile",
-  "psName": "Helioptile",
   "formName": null,
   "region": "kalos",
   "generation": 6,
   "type1": "electric",
   "type2": "normal",
+  "teraType": null,
   "color": "yellow",
   "abilities": {
     "primary": "dryskin",
@@ -66,6 +66,8 @@
   },
   "weight": 600,
   "height": 50,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -74,6 +76,7 @@
     "smogon": "helioptile",
     "showdown": "helioptile",
     "serebii": "helioptile",
-    "bulbapedia": "Helioptile"
+    "bulbapedia": "Helioptile",
+    "showdownName": "Helioptile"
   }
 }

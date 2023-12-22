@@ -4,12 +4,12 @@
   "dexNum": 870,
   "formId": null,
   "name": "Falinks",
-  "psName": "Falinks",
   "formName": null,
   "region": "galar",
   "generation": 8,
   "type1": "fighting",
   "type2": null,
+  "teraType": null,
   "color": "yellow",
   "abilities": {
     "primary": "battlearmor",
@@ -63,6 +63,8 @@
   },
   "weight": 6200,
   "height": 300,
+  "maleRate": 0,
+  "femaleRate": 0,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -71,6 +73,7 @@
     "smogon": "falinks",
     "showdown": "falinks",
     "serebii": "falinks",
-    "bulbapedia": "Falinks"
+    "bulbapedia": "Falinks",
+    "showdownName": "Falinks"
   }
 }

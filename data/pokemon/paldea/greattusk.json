@@ -4,12 +4,12 @@
   "dexNum": 984,
   "formId": null,
   "name": "Great Tusk",
-  "psName": "Great Tusk",
   "formName": null,
   "region": "paldea",
   "generation": 9,
   "type1": "ground",
   "type2": "fighting",
+  "teraType": null,
   "color": "purple",
   "abilities": {
     "primary": "protosynthesis",
@@ -59,6 +59,8 @@
   },
   "weight": 32000,
   "height": 220,
+  "maleRate": 0,
+  "femaleRate": 0,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -67,6 +69,7 @@
     "smogon": "greattusk",
     "showdown": "greattusk",
     "serebii": "greattusk",
-    "bulbapedia": "Greattusk"
+    "bulbapedia": "Greattusk",
+    "showdownName": "Great Tusk"
   }
 }

@@ -4,12 +4,12 @@
   "dexNum": 299,
   "formId": null,
   "name": "Nosepass",
-  "psName": "Nosepass",
   "formName": null,
   "region": "hoenn",
   "generation": 3,
   "type1": "rock",
   "type2": null,
+  "teraType": null,
   "color": "gray",
   "abilities": {
     "primary": "sturdy",
@@ -80,6 +80,8 @@
   },
   "weight": 9700,
   "height": 100,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -88,6 +90,7 @@
     "smogon": "nosepass",
     "showdown": "nosepass",
     "serebii": "nosepass",
-    "bulbapedia": "Nosepass"
+    "bulbapedia": "Nosepass",
+    "showdownName": "Nosepass"
   }
 }

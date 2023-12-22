@@ -4,12 +4,12 @@
   "dexNum": 703,
   "formId": null,
   "name": "Carbink",
-  "psName": "Carbink",
   "formName": null,
   "region": "kalos",
   "generation": 6,
   "type1": "rock",
   "type2": "fairy",
+  "teraType": null,
   "color": "gray",
   "abilities": {
     "primary": "clearbody",
@@ -68,6 +68,8 @@
   },
   "weight": 570,
   "height": 30,
+  "maleRate": 0,
+  "femaleRate": 0,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -76,6 +78,7 @@
     "smogon": "carbink",
     "showdown": "carbink",
     "serebii": "carbink",
-    "bulbapedia": "Carbink"
+    "bulbapedia": "Carbink",
+    "showdownName": "Carbink"
   }
 }

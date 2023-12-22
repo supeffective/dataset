@@ -4,12 +4,12 @@
   "dexNum": 24,
   "formId": null,
   "name": "Arbok",
-  "psName": "Arbok",
   "formName": null,
   "region": "kanto",
   "generation": 1,
   "type1": "poison",
   "type2": null,
+  "teraType": null,
   "color": "purple",
   "abilities": {
     "primary": "intimidate",
@@ -84,6 +84,8 @@
   },
   "weight": 6500,
   "height": 350,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -95,6 +97,7 @@
     "smogon": "arbok",
     "showdown": "arbok",
     "serebii": "arbok",
-    "bulbapedia": "Arbok"
+    "bulbapedia": "Arbok",
+    "showdownName": "Arbok"
   }
 }

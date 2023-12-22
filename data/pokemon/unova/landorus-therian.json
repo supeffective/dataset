@@ -4,12 +4,12 @@
   "dexNum": 645,
   "formId": "therian",
   "name": "Landorus Therian Forme",
-  "psName": "Landorus-Therian",
   "formName": "Therian Forme",
   "region": "unova",
   "generation": 5,
   "type1": "ground",
   "type2": "flying",
+  "teraType": null,
   "color": "brown",
   "abilities": {
     "primary": "intimidate",
@@ -70,6 +70,8 @@
   },
   "weight": 6800,
   "height": 130,
+  "maleRate": 100,
+  "femaleRate": 0,
   "baseSpecies": "landorus",
   "baseForms": [
     "landorus"
@@ -80,6 +82,7 @@
     "smogon": "landorus-therian",
     "showdown": "landorustherian",
     "serebii": "landorus",
-    "bulbapedia": "Landorus"
+    "bulbapedia": "Landorus",
+    "showdownName": "Landorus-Therian"
   }
 }

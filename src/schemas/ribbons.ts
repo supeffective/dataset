@@ -6,9 +6,9 @@ export const ribbonSchema = z.object({
   id: slugSchema,
   name: nameSchema,
   title: descriptionSchema,
-  category: z.enum(['league', 'contest', 'tower', 'memory', 'gift']),
   generation: generationSchema,
   desc: descriptionSchema,
+  category: z.enum(['league', 'contest', 'tower', 'memory', 'gift']),
 })
 
 export type Ribbon = z.infer<typeof ribbonSchema>

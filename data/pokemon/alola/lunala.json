@@ -4,12 +4,12 @@
   "dexNum": 792,
   "formId": null,
   "name": "Lunala",
-  "psName": "Lunala",
   "formName": null,
   "region": "alola",
   "generation": 7,
   "type1": "psychic",
   "type2": "ghost",
+  "teraType": null,
   "color": "purple",
   "abilities": {
     "primary": "shadowshield",
@@ -65,6 +65,8 @@
   },
   "weight": 12000,
   "height": 400,
+  "maleRate": 0,
+  "femaleRate": 0,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -76,6 +78,7 @@
     "smogon": "lunala",
     "showdown": "lunala",
     "serebii": "lunala",
-    "bulbapedia": "Lunala"
+    "bulbapedia": "Lunala",
+    "showdownName": "Lunala"
   }
 }

@@ -4,12 +4,12 @@
   "dexNum": 335,
   "formId": null,
   "name": "Zangoose",
-  "psName": "Zangoose",
   "formName": null,
   "region": "hoenn",
   "generation": 3,
   "type1": "normal",
   "type2": null,
+  "teraType": null,
   "color": "white",
   "abilities": {
     "primary": "immunity",
@@ -78,6 +78,8 @@
   },
   "weight": 4030,
   "height": 130,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -86,6 +88,7 @@
     "smogon": "zangoose",
     "showdown": "zangoose",
     "serebii": "zangoose",
-    "bulbapedia": "Zangoose"
+    "bulbapedia": "Zangoose",
+    "showdownName": "Zangoose"
   }
 }

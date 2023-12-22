@@ -4,12 +4,12 @@
   "dexNum": 852,
   "formId": null,
   "name": "Clobbopus",
-  "psName": "Clobbopus",
   "formName": null,
   "region": "galar",
   "generation": 8,
   "type1": "fighting",
   "type2": null,
+  "teraType": null,
   "color": "brown",
   "abilities": {
     "primary": "limber",
@@ -59,6 +59,8 @@
   },
   "weight": 400,
   "height": 60,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -67,6 +69,7 @@
     "smogon": "clobbopus",
     "showdown": "clobbopus",
     "serebii": "clobbopus",
-    "bulbapedia": "Clobbopus"
+    "bulbapedia": "Clobbopus",
+    "showdownName": "Clobbopus"
   }
 }

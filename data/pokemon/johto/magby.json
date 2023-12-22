@@ -4,12 +4,12 @@
   "dexNum": 240,
   "formId": null,
   "name": "Magby",
-  "psName": "Magby",
   "formName": null,
   "region": "johto",
   "generation": 2,
   "type1": "fire",
   "type2": null,
+  "teraType": null,
   "color": "red",
   "abilities": {
     "primary": "flamebody",
@@ -84,6 +84,8 @@
   },
   "weight": 2140,
   "height": 70,
+  "maleRate": 75,
+  "femaleRate": 25,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -92,6 +94,7 @@
     "smogon": "magby",
     "showdown": "magby",
     "serebii": "magby",
-    "bulbapedia": "Magby"
+    "bulbapedia": "Magby",
+    "showdownName": "Magby"
   }
 }

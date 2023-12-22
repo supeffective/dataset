@@ -4,12 +4,12 @@
   "dexNum": 483,
   "formId": null,
   "name": "Dialga",
-  "psName": "Dialga",
   "formName": null,
   "region": "sinnoh",
   "generation": 4,
   "type1": "steel",
   "type2": "dragon",
+  "teraType": null,
   "color": "white",
   "abilities": {
     "primary": "pressure",
@@ -77,6 +77,8 @@
   },
   "weight": 68300,
   "height": 540,
+  "maleRate": 0,
+  "femaleRate": 0,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [
@@ -87,6 +89,7 @@
     "smogon": "dialga",
     "showdown": "dialga",
     "serebii": "dialga",
-    "bulbapedia": "Dialga"
+    "bulbapedia": "Dialga",
+    "showdownName": "Dialga"
   }
 }

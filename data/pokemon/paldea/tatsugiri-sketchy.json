@@ -4,12 +4,12 @@
   "dexNum": 978,
   "formId": "sketchy",
   "name": "Tatsugiri Sketchy Form",
-  "psName": "Tatsugiri",
   "formName": "Sketchy Form",
   "region": "paldea",
   "generation": 9,
   "type1": "dragon",
   "type2": "water",
+  "teraType": null,
   "color": "pink",
   "abilities": {
     "primary": "commander",
@@ -59,6 +59,8 @@
   },
   "weight": 800,
   "height": 30,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": "tatsugiri",
   "baseForms": [],
   "forms": [],
@@ -67,6 +69,7 @@
     "smogon": "tatsugiri-sketchy",
     "showdown": "tatsugiri",
     "serebii": "Tatsugiri",
-    "bulbapedia": "Tatsugiri_Sketchy"
+    "bulbapedia": "Tatsugiri_Sketchy",
+    "showdownName": "Tatsugiri"
   }
 }

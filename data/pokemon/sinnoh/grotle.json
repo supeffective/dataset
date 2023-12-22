@@ -4,12 +4,12 @@
   "dexNum": 388,
   "formId": null,
   "name": "Grotle",
-  "psName": "Grotle",
   "formName": null,
   "region": "sinnoh",
   "generation": 4,
   "type1": "grass",
   "type2": null,
+  "teraType": null,
   "color": "green",
   "abilities": {
     "primary": "overgrow",
@@ -76,6 +76,8 @@
   },
   "weight": 9700,
   "height": 110,
+  "maleRate": 87.5,
+  "femaleRate": 12.5,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -87,6 +89,7 @@
     "smogon": "grotle",
     "showdown": "grotle",
     "serebii": "grotle",
-    "bulbapedia": "Grotle"
+    "bulbapedia": "Grotle",
+    "showdownName": "Grotle"
   }
 }

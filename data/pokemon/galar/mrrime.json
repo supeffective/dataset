@@ -4,12 +4,12 @@
   "dexNum": 866,
   "formId": null,
   "name": "Mr. Rime",
-  "psName": "Mr. Rime",
   "formName": null,
   "region": "galar",
   "generation": 8,
   "type1": "ice",
   "type2": "psychic",
+  "teraType": null,
   "color": "purple",
   "abilities": {
     "primary": "tangledfeet",
@@ -61,6 +61,8 @@
   },
   "weight": 5820,
   "height": 150,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -72,6 +74,7 @@
     "smogon": "mrrime",
     "showdown": "mrrime",
     "serebii": "mrrime",
-    "bulbapedia": "Mr. Rime"
+    "bulbapedia": "Mr. Rime",
+    "showdownName": "Mr. Rime"
   }
 }

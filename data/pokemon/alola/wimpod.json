@@ -4,12 +4,12 @@
   "dexNum": 767,
   "formId": null,
   "name": "Wimpod",
-  "psName": "Wimpod",
   "formName": null,
   "region": "alola",
   "generation": 7,
   "type1": "bug",
   "type2": "water",
+  "teraType": null,
   "color": "gray",
   "abilities": {
     "primary": "wimpout",
@@ -65,6 +65,8 @@
   },
   "weight": 1200,
   "height": 50,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -73,6 +75,7 @@
     "smogon": "wimpod",
     "showdown": "wimpod",
     "serebii": "wimpod",
-    "bulbapedia": "Wimpod"
+    "bulbapedia": "Wimpod",
+    "showdownName": "Wimpod"
   }
 }

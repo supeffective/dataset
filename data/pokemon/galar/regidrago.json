@@ -4,12 +4,12 @@
   "dexNum": 895,
   "formId": null,
   "name": "Regidrago",
-  "psName": "Regidrago",
   "formName": null,
   "region": "galar",
   "generation": 8,
   "type1": "dragon",
   "type2": null,
+  "teraType": null,
   "color": "green",
   "abilities": {
     "primary": "dragonsmaw",
@@ -62,6 +62,8 @@
   },
   "weight": 20000,
   "height": 210,
+  "maleRate": 0,
+  "femaleRate": 0,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -70,6 +72,7 @@
     "smogon": "regidrago",
     "showdown": "regidrago",
     "serebii": "regidrago",
-    "bulbapedia": "Regidrago"
+    "bulbapedia": "Regidrago",
+    "showdownName": "Regidrago"
   }
 }

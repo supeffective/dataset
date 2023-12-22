@@ -4,12 +4,12 @@
   "dexNum": 201,
   "formId": "k",
   "name": "Unown (K)",
-  "psName": "Unown",
   "formName": "K",
   "region": "johto",
   "generation": 2,
   "type1": "psychic",
   "type2": null,
+  "teraType": null,
   "color": "black",
   "abilities": {
     "primary": "levitate",
@@ -80,6 +80,8 @@
   },
   "weight": 500,
   "height": 50,
+  "maleRate": 0,
+  "femaleRate": 0,
   "baseSpecies": "unown",
   "baseForms": [],
   "forms": [],
@@ -88,6 +90,7 @@
     "smogon": "unown-k",
     "showdown": "unown",
     "serebii": "unown",
-    "bulbapedia": "Unown"
+    "bulbapedia": "Unown",
+    "showdownName": "Unown"
   }
 }

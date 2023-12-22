@@ -4,12 +4,12 @@
   "dexNum": 383,
   "formId": "primal",
   "name": "Groudon Primal Reversion",
-  "psName": "Groudon-Primal",
   "formName": "Primal Reversion",
   "region": "kalos",
   "generation": 6,
   "type1": "ground",
   "type2": "fire",
+  "teraType": null,
   "color": "red",
   "abilities": {
     "primary": "desolateland",
@@ -60,6 +60,8 @@
   },
   "weight": 99970,
   "height": 500,
+  "maleRate": 0,
+  "femaleRate": 0,
   "baseSpecies": "groudon",
   "baseForms": [
     "groudon"
@@ -70,6 +72,7 @@
     "smogon": "groudon-primal",
     "showdown": "groudonprimal",
     "serebii": "groudon",
-    "bulbapedia": "Groudon"
+    "bulbapedia": "Groudon",
+    "showdownName": "Groudon-Primal"
   }
 }

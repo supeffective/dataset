@@ -4,12 +4,12 @@
   "dexNum": 755,
   "formId": null,
   "name": "Morelull",
-  "psName": "Morelull",
   "formName": null,
   "region": "alola",
   "generation": 7,
   "type1": "grass",
   "type2": "fairy",
+  "teraType": null,
   "color": "purple",
   "abilities": {
     "primary": "illuminate",
@@ -65,6 +65,8 @@
   },
   "weight": 150,
   "height": 20,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -73,6 +75,7 @@
     "smogon": "morelull",
     "showdown": "morelull",
     "serebii": "morelull",
-    "bulbapedia": "Morelull"
+    "bulbapedia": "Morelull",
+    "showdownName": "Morelull"
   }
 }

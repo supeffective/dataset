@@ -4,12 +4,12 @@
   "dexNum": 310,
   "formId": null,
   "name": "Manectric",
-  "psName": "Manectric",
   "formName": null,
   "region": "hoenn",
   "generation": 3,
   "type1": "electric",
   "type2": null,
+  "teraType": null,
   "color": "yellow",
   "abilities": {
     "primary": "static",
@@ -78,6 +78,8 @@
   },
   "weight": 4020,
   "height": 150,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [
@@ -91,6 +93,7 @@
     "smogon": "manectric",
     "showdown": "manectric",
     "serebii": "manectric",
-    "bulbapedia": "Manectric"
+    "bulbapedia": "Manectric",
+    "showdownName": "Manectric"
   }
 }

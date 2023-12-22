@@ -4,12 +4,12 @@
   "dexNum": 324,
   "formId": null,
   "name": "Torkoal",
-  "psName": "Torkoal",
   "formName": null,
   "region": "hoenn",
   "generation": 3,
   "type1": "fire",
   "type2": null,
+  "teraType": null,
   "color": "brown",
   "abilities": {
     "primary": "whitesmoke",
@@ -80,6 +80,8 @@
   },
   "weight": 8040,
   "height": 50,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -88,6 +90,7 @@
     "smogon": "torkoal",
     "showdown": "torkoal",
     "serebii": "torkoal",
-    "bulbapedia": "Torkoal"
+    "bulbapedia": "Torkoal",
+    "showdownName": "Torkoal"
   }
 }

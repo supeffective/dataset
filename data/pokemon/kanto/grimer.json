@@ -4,12 +4,12 @@
   "dexNum": 88,
   "formId": null,
   "name": "Grimer",
-  "psName": "Grimer",
   "formName": null,
   "region": "kanto",
   "generation": 1,
   "type1": "poison",
   "type2": null,
+  "teraType": null,
   "color": "purple",
   "abilities": {
     "primary": "stench",
@@ -84,6 +84,8 @@
   },
   "weight": 3000,
   "height": 90,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [
@@ -94,6 +96,7 @@
     "smogon": "grimer",
     "showdown": "grimer",
     "serebii": "grimer",
-    "bulbapedia": "Grimer"
+    "bulbapedia": "Grimer",
+    "showdownName": "Grimer"
   }
 }

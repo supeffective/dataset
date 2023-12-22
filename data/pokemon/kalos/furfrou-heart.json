@@ -4,12 +4,12 @@
   "dexNum": 676,
   "formId": "heart",
   "name": "Furfrou Heart Trim",
-  "psName": "Furfrou",
   "formName": "Heart Trim",
   "region": "kalos",
   "generation": 6,
   "type1": "normal",
   "type2": null,
+  "teraType": null,
   "color": "white",
   "abilities": {
     "primary": "furcoat",
@@ -64,6 +64,8 @@
   },
   "weight": 2800,
   "height": 120,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": "furfrou",
   "baseForms": [
     "furfrou"
@@ -74,6 +76,7 @@
     "smogon": "furfrou-heart",
     "showdown": "furfrou",
     "serebii": "furfrou",
-    "bulbapedia": "Furfrou"
+    "bulbapedia": "Furfrou",
+    "showdownName": "Furfrou"
   }
 }

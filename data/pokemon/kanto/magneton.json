@@ -4,12 +4,12 @@
   "dexNum": 82,
   "formId": null,
   "name": "Magneton",
-  "psName": "Magneton",
   "formName": null,
   "region": "kanto",
   "generation": 1,
   "type1": "electric",
   "type2": "steel",
+  "teraType": null,
   "color": "gray",
   "abilities": {
     "primary": "magnetpull",
@@ -88,6 +88,8 @@
   },
   "weight": 6000,
   "height": 100,
+  "maleRate": 0,
+  "femaleRate": 0,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -99,6 +101,7 @@
     "smogon": "magneton",
     "showdown": "magneton",
     "serebii": "magneton",
-    "bulbapedia": "Magneton"
+    "bulbapedia": "Magneton",
+    "showdownName": "Magneton"
   }
 }

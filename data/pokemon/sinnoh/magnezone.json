@@ -4,12 +4,12 @@
   "dexNum": 462,
   "formId": null,
   "name": "Magnezone",
-  "psName": "Magnezone",
   "formName": null,
   "region": "sinnoh",
   "generation": 4,
   "type1": "electric",
   "type2": "steel",
+  "teraType": null,
   "color": "gray",
   "abilities": {
     "primary": "magnetpull",
@@ -78,6 +78,8 @@
   },
   "weight": 18000,
   "height": 120,
+  "maleRate": 0,
+  "femaleRate": 0,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -90,6 +92,7 @@
     "smogon": "magnezone",
     "showdown": "magnezone",
     "serebii": "magnezone",
-    "bulbapedia": "Magnezone"
+    "bulbapedia": "Magnezone",
+    "showdownName": "Magnezone"
   }
 }

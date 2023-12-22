@@ -4,12 +4,12 @@
   "dexNum": 142,
   "formId": "mega",
   "name": "Mega Aerodactyl",
-  "psName": "Aerodactyl-Mega",
   "formName": "Mega",
   "region": "kalos",
   "generation": 6,
   "type1": "rock",
   "type2": "flying",
+  "teraType": null,
   "color": "purple",
   "abilities": {
     "primary": "toughclaws",
@@ -59,6 +59,8 @@
   },
   "weight": 7900,
   "height": 210,
+  "maleRate": 87.5,
+  "femaleRate": 12.5,
   "baseSpecies": "aerodactyl",
   "baseForms": [
     "aerodactyl"
@@ -69,6 +71,7 @@
     "smogon": "aerodactyl-mega",
     "showdown": "aerodactylmega",
     "serebii": "aerodactyl",
-    "bulbapedia": "Aerodactyl"
+    "bulbapedia": "Aerodactyl",
+    "showdownName": "Aerodactyl-Mega"
   }
 }

@@ -4,12 +4,12 @@
   "dexNum": 237,
   "formId": null,
   "name": "Hitmontop",
-  "psName": "Hitmontop",
   "formName": null,
   "region": "johto",
   "generation": 2,
   "type1": "fighting",
   "type2": null,
+  "teraType": null,
   "color": "brown",
   "abilities": {
     "primary": "intimidate",
@@ -82,6 +82,8 @@
   },
   "weight": 4800,
   "height": 140,
+  "maleRate": 100,
+  "femaleRate": 0,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -94,6 +96,7 @@
     "smogon": "hitmontop",
     "showdown": "hitmontop",
     "serebii": "hitmontop",
-    "bulbapedia": "Hitmontop"
+    "bulbapedia": "Hitmontop",
+    "showdownName": "Hitmontop"
   }
 }

@@ -4,12 +4,12 @@
   "dexNum": 360,
   "formId": null,
   "name": "Wynaut",
-  "psName": "Wynaut",
   "formName": null,
   "region": "hoenn",
   "generation": 3,
   "type1": "psychic",
   "type2": null,
+  "teraType": null,
   "color": "blue",
   "abilities": {
     "primary": "shadowtag",
@@ -78,6 +78,8 @@
   },
   "weight": 1400,
   "height": 60,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -86,6 +88,7 @@
     "smogon": "wynaut",
     "showdown": "wynaut",
     "serebii": "wynaut",
-    "bulbapedia": "Wynaut"
+    "bulbapedia": "Wynaut",
+    "showdownName": "Wynaut"
   }
 }

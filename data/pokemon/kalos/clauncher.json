@@ -4,12 +4,12 @@
   "dexNum": 692,
   "formId": null,
   "name": "Clauncher",
-  "psName": "Clauncher",
   "formName": null,
   "region": "kalos",
   "generation": 6,
   "type1": "water",
   "type2": null,
+  "teraType": null,
   "color": "blue",
   "abilities": {
     "primary": "megalauncher",
@@ -68,6 +68,8 @@
   },
   "weight": 830,
   "height": 50,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -76,6 +78,7 @@
     "smogon": "clauncher",
     "showdown": "clauncher",
     "serebii": "clauncher",
-    "bulbapedia": "Clauncher"
+    "bulbapedia": "Clauncher",
+    "showdownName": "Clauncher"
   }
 }

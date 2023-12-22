@@ -4,12 +4,12 @@
   "dexNum": 270,
   "formId": null,
   "name": "Lotad",
-  "psName": "Lotad",
   "formName": null,
   "region": "hoenn",
   "generation": 3,
   "type1": "water",
   "type2": "grass",
+  "teraType": null,
   "color": "green",
   "abilities": {
     "primary": "swiftswim",
@@ -80,6 +80,8 @@
   },
   "weight": 260,
   "height": 50,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -88,6 +90,7 @@
     "smogon": "lotad",
     "showdown": "lotad",
     "serebii": "lotad",
-    "bulbapedia": "Lotad"
+    "bulbapedia": "Lotad",
+    "showdownName": "Lotad"
   }
 }

@@ -4,12 +4,12 @@
   "dexNum": 725,
   "formId": null,
   "name": "Litten",
-  "psName": "Litten",
   "formName": null,
   "region": "alola",
   "generation": 7,
   "type1": "fire",
   "type2": null,
+  "teraType": null,
   "color": "red",
   "abilities": {
     "primary": "blaze",
@@ -67,6 +67,8 @@
   },
   "weight": 430,
   "height": 40,
+  "maleRate": 87.5,
+  "femaleRate": 12.5,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -75,6 +77,7 @@
     "smogon": "litten",
     "showdown": "litten",
     "serebii": "litten",
-    "bulbapedia": "Litten"
+    "bulbapedia": "Litten",
+    "showdownName": "Litten"
   }
 }

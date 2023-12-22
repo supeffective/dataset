@@ -4,12 +4,12 @@
   "dexNum": 559,
   "formId": null,
   "name": "Scraggy",
-  "psName": "Scraggy",
   "formName": null,
   "region": "unova",
   "generation": 5,
   "type1": "dark",
   "type2": "fighting",
+  "teraType": null,
   "color": "yellow",
   "abilities": {
     "primary": "shedskin",
@@ -71,6 +71,8 @@
   },
   "weight": 1180,
   "height": 60,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -79,6 +81,7 @@
     "smogon": "scraggy",
     "showdown": "scraggy",
     "serebii": "scraggy",
-    "bulbapedia": "Scraggy"
+    "bulbapedia": "Scraggy",
+    "showdownName": "Scraggy"
   }
 }

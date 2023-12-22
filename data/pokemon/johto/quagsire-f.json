@@ -4,12 +4,12 @@
   "dexNum": 195,
   "formId": "f",
   "name": "Quagsire ♀",
-  "psName": "Quagsire",
   "formName": "Female",
   "region": "johto",
   "generation": 4,
   "type1": "water",
   "type2": "ground",
+  "teraType": null,
   "color": "blue",
   "abilities": {
     "primary": "damp",
@@ -75,6 +75,8 @@
   },
   "weight": 7500,
   "height": 140,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": "quagsire",
   "baseForms": [],
   "forms": [],
@@ -86,6 +88,7 @@
     "smogon": "quagsire",
     "showdown": "quagsire",
     "serebii": "quagsire",
-    "bulbapedia": "Quagsire"
+    "bulbapedia": "Quagsire",
+    "showdownName": "Quagsire"
   }
 }

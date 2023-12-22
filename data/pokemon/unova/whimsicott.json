@@ -4,12 +4,12 @@
   "dexNum": 547,
   "formId": null,
   "name": "Whimsicott",
-  "psName": "Whimsicott",
   "formName": null,
   "region": "unova",
   "generation": 5,
   "type1": "grass",
   "type2": "fairy",
+  "teraType": null,
   "color": "green",
   "abilities": {
     "primary": "prankster",
@@ -71,6 +71,8 @@
   },
   "weight": 660,
   "height": 70,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -83,6 +85,7 @@
     "smogon": "whimsicott",
     "showdown": "whimsicott",
     "serebii": "whimsicott",
-    "bulbapedia": "Whimsicott"
+    "bulbapedia": "Whimsicott",
+    "showdownName": "Whimsicott"
   }
 }

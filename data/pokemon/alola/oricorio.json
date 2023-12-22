@@ -4,12 +4,12 @@
   "dexNum": 741,
   "formId": "baile",
   "name": "Oricorio",
-  "psName": "Oricorio",
   "formName": "Baile Style",
   "region": "alola",
   "generation": 7,
   "type1": "fire",
   "type2": "flying",
+  "teraType": null,
   "color": "red",
   "abilities": {
     "primary": "dancer",
@@ -65,6 +65,8 @@
   },
   "weight": 340,
   "height": 60,
+  "maleRate": 25,
+  "femaleRate": 75,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [
@@ -77,6 +79,7 @@
     "smogon": "oricorio",
     "showdown": "oricorio",
     "serebii": "oricorio",
-    "bulbapedia": "Oricorio"
+    "bulbapedia": "Oricorio",
+    "showdownName": "Oricorio"
   }
 }

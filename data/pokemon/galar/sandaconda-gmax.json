@@ -4,12 +4,12 @@
   "dexNum": 844,
   "formId": "gmax",
   "name": "Gigantamax Sandaconda",
-  "psName": "Sandaconda-Gmax",
   "formName": "Gigantamax",
   "region": "galar",
   "generation": 8,
   "type1": "ground",
   "type2": null,
+  "teraType": null,
   "color": "green",
   "abilities": {
     "primary": "sandspit",
@@ -56,6 +56,8 @@
   },
   "weight": 0,
   "height": 2200,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": "sandaconda",
   "baseForms": [
     "sandaconda"
@@ -66,6 +68,7 @@
     "smogon": "sandaconda-gmax",
     "showdown": "sandacondagmax",
     "serebii": "sandaconda",
-    "bulbapedia": "Sandaconda"
+    "bulbapedia": "Sandaconda",
+    "showdownName": "Sandaconda-Gmax"
   }
 }

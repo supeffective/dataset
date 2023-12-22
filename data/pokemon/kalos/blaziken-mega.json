@@ -4,12 +4,12 @@
   "dexNum": 257,
   "formId": "mega",
   "name": "Mega Blaziken",
-  "psName": "Blaziken-Mega",
   "formName": "Mega",
   "region": "kalos",
   "generation": 6,
   "type1": "fire",
   "type2": "fighting",
+  "teraType": null,
   "color": "red",
   "abilities": {
     "primary": "speedboost",
@@ -59,6 +59,8 @@
   },
   "weight": 5200,
   "height": 190,
+  "maleRate": 87.5,
+  "femaleRate": 12.5,
   "baseSpecies": "blaziken",
   "baseForms": [
     "blaziken"
@@ -69,6 +71,7 @@
     "smogon": "blaziken-mega",
     "showdown": "blazikenmega",
     "serebii": "blaziken",
-    "bulbapedia": "Blaziken"
+    "bulbapedia": "Blaziken",
+    "showdownName": "Blaziken-Mega"
   }
 }

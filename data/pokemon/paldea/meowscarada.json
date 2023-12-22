@@ -4,12 +4,12 @@
   "dexNum": 908,
   "formId": null,
   "name": "Meowscarada",
-  "psName": "Meowscarada",
   "formName": null,
   "region": "paldea",
   "generation": 9,
   "type1": "grass",
   "type2": "dark",
+  "teraType": null,
   "color": "green",
   "abilities": {
     "primary": "overgrow",
@@ -63,6 +63,8 @@
   },
   "weight": 3120,
   "height": 150,
+  "maleRate": 87.5,
+  "femaleRate": 12.5,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -75,6 +77,7 @@
     "smogon": "meowscarada",
     "showdown": "meowscarada",
     "serebii": "meowscarada",
-    "bulbapedia": "Meowscarada"
+    "bulbapedia": "Meowscarada",
+    "showdownName": "Meowscarada"
   }
 }

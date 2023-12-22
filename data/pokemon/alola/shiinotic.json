@@ -4,12 +4,12 @@
   "dexNum": 756,
   "formId": null,
   "name": "Shiinotic",
-  "psName": "Shiinotic",
   "formName": null,
   "region": "alola",
   "generation": 7,
   "type1": "grass",
   "type2": "fairy",
+  "teraType": null,
   "color": "purple",
   "abilities": {
     "primary": "illuminate",
@@ -65,6 +65,8 @@
   },
   "weight": 1150,
   "height": 100,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -76,6 +78,7 @@
     "smogon": "shiinotic",
     "showdown": "shiinotic",
     "serebii": "shiinotic",
-    "bulbapedia": "Shiinotic"
+    "bulbapedia": "Shiinotic",
+    "showdownName": "Shiinotic"
   }
 }

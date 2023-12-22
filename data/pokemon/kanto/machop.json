@@ -4,12 +4,12 @@
   "dexNum": 66,
   "formId": null,
   "name": "Machop",
-  "psName": "Machop",
   "formName": null,
   "region": "kanto",
   "generation": 1,
   "type1": "fighting",
   "type2": null,
+  "teraType": null,
   "color": "gray",
   "abilities": {
     "primary": "guts",
@@ -86,6 +86,8 @@
   },
   "weight": 1950,
   "height": 80,
+  "maleRate": 75,
+  "femaleRate": 25,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -94,6 +96,7 @@
     "smogon": "machop",
     "showdown": "machop",
     "serebii": "machop",
-    "bulbapedia": "Machop"
+    "bulbapedia": "Machop",
+    "showdownName": "Machop"
   }
 }

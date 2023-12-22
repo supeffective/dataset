@@ -4,12 +4,12 @@
   "dexNum": 723,
   "formId": null,
   "name": "Dartrix",
-  "psName": "Dartrix",
   "formName": null,
   "region": "alola",
   "generation": 7,
   "type1": "grass",
   "type2": "flying",
+  "teraType": null,
   "color": "brown",
   "abilities": {
     "primary": "overgrow",
@@ -69,6 +69,8 @@
   },
   "weight": 1600,
   "height": 70,
+  "maleRate": 87.5,
+  "femaleRate": 12.5,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -80,6 +82,7 @@
     "smogon": "dartrix",
     "showdown": "dartrix",
     "serebii": "dartrix",
-    "bulbapedia": "Dartrix"
+    "bulbapedia": "Dartrix",
+    "showdownName": "Dartrix"
   }
 }

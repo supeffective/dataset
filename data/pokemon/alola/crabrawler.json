@@ -4,12 +4,12 @@
   "dexNum": 739,
   "formId": null,
   "name": "Crabrawler",
-  "psName": "Crabrawler",
   "formName": null,
   "region": "alola",
   "generation": 7,
   "type1": "fighting",
   "type2": null,
+  "teraType": null,
   "color": "purple",
   "abilities": {
     "primary": "hypercutter",
@@ -65,6 +65,8 @@
   },
   "weight": 700,
   "height": 60,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -73,6 +75,7 @@
     "smogon": "crabrawler",
     "showdown": "crabrawler",
     "serebii": "crabrawler",
-    "bulbapedia": "Crabrawler"
+    "bulbapedia": "Crabrawler",
+    "showdownName": "Crabrawler"
   }
 }

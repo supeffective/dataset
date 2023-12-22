@@ -4,12 +4,12 @@
   "dexNum": 63,
   "formId": null,
   "name": "Abra",
-  "psName": "Abra",
   "formName": null,
   "region": "kanto",
   "generation": 1,
   "type1": "psychic",
   "type2": null,
+  "teraType": null,
   "color": "brown",
   "abilities": {
     "primary": "synchronize",
@@ -86,6 +86,8 @@
   },
   "weight": 1950,
   "height": 90,
+  "maleRate": 75,
+  "femaleRate": 25,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -94,6 +96,7 @@
     "smogon": "abra",
     "showdown": "abra",
     "serebii": "abra",
-    "bulbapedia": "Abra"
+    "bulbapedia": "Abra",
+    "showdownName": "Abra"
   }
 }

@@ -4,12 +4,12 @@
   "dexNum": 800,
   "formId": "dusk-mane",
   "name": "Necrozma Dusk Mane",
-  "psName": "Necrozma-Dusk-Mane",
   "formName": "Dusk Mane",
   "region": "alola",
   "generation": 7,
   "type1": "psychic",
   "type2": "steel",
+  "teraType": null,
   "color": "yellow",
   "abilities": {
     "primary": "prismarmor",
@@ -63,6 +63,8 @@
   },
   "weight": 46000,
   "height": 380,
+  "maleRate": 0,
+  "femaleRate": 0,
   "baseSpecies": "necrozma",
   "baseForms": [
     "necrozma"
@@ -73,6 +75,7 @@
     "smogon": "necrozma-dusk-mane",
     "showdown": "necrozmaduskmane",
     "serebii": "necrozma",
-    "bulbapedia": "Necrozma"
+    "bulbapedia": "Necrozma",
+    "showdownName": "Necrozma-Dusk-Mane"
   }
 }

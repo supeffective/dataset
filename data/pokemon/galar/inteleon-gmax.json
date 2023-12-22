@@ -4,12 +4,12 @@
   "dexNum": 818,
   "formId": "gmax",
   "name": "Gigantamax Inteleon",
-  "psName": "Inteleon-Gmax",
   "formName": "Gigantamax",
   "region": "galar",
   "generation": 8,
   "type1": "water",
   "type2": null,
+  "teraType": null,
   "color": "blue",
   "abilities": {
     "primary": "torrent",
@@ -56,6 +56,8 @@
   },
   "weight": 0,
   "height": 300,
+  "maleRate": 87.5,
+  "femaleRate": 12.5,
   "baseSpecies": "inteleon",
   "baseForms": [
     "inteleon"
@@ -66,6 +68,7 @@
     "smogon": "inteleon-gmax",
     "showdown": "inteleongmax",
     "serebii": "inteleon",
-    "bulbapedia": "Inteleon"
+    "bulbapedia": "Inteleon",
+    "showdownName": "Inteleon-Gmax"
   }
 }

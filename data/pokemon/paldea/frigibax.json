@@ -4,12 +4,12 @@
   "dexNum": 996,
   "formId": null,
   "name": "Frigibax",
-  "psName": "Frigibax",
   "formName": null,
   "region": "paldea",
   "generation": 9,
   "type1": "dragon",
   "type2": "ice",
+  "teraType": null,
   "color": "gray",
   "abilities": {
     "primary": "thermalexchange",
@@ -61,6 +61,8 @@
   },
   "weight": 1700,
   "height": 50,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -69,6 +71,7 @@
     "smogon": "frigibax",
     "showdown": "frigibax",
     "serebii": "frigibax",
-    "bulbapedia": "Frigibax"
+    "bulbapedia": "Frigibax",
+    "showdownName": "Frigibax"
   }
 }

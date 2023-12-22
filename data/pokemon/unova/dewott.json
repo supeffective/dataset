@@ -4,12 +4,12 @@
   "dexNum": 502,
   "formId": null,
   "name": "Dewott",
-  "psName": "Dewott",
   "formName": null,
   "region": "unova",
   "generation": 5,
   "type1": "water",
   "type2": null,
+  "teraType": null,
   "color": "blue",
   "abilities": {
     "primary": "torrent",
@@ -71,6 +71,8 @@
   },
   "weight": 2450,
   "height": 80,
+  "maleRate": 87.5,
+  "femaleRate": 12.5,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -82,6 +84,7 @@
     "smogon": "dewott",
     "showdown": "dewott",
     "serebii": "dewott",
-    "bulbapedia": "Dewott"
+    "bulbapedia": "Dewott",
+    "showdownName": "Dewott"
   }
 }

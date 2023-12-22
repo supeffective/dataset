@@ -4,12 +4,12 @@
   "dexNum": 416,
   "formId": null,
   "name": "Vespiquen",
-  "psName": "Vespiquen",
   "formName": null,
   "region": "sinnoh",
   "generation": 4,
   "type1": "bug",
   "type2": "flying",
+  "teraType": null,
   "color": "yellow",
   "abilities": {
     "primary": "pressure",
@@ -78,6 +78,8 @@
   },
   "weight": 3850,
   "height": 120,
+  "maleRate": 0,
+  "femaleRate": 100,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -89,6 +91,7 @@
     "smogon": "vespiquen",
     "showdown": "vespiquen",
     "serebii": "vespiquen",
-    "bulbapedia": "Vespiquen"
+    "bulbapedia": "Vespiquen",
+    "showdownName": "Vespiquen"
   }
 }

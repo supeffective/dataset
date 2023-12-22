@@ -4,12 +4,12 @@
   "dexNum": 267,
   "formId": "f",
   "name": "Beautifly ♀",
-  "psName": "Beautifly",
   "formName": "Female",
   "region": "hoenn",
   "generation": 4,
   "type1": "bug",
   "type2": "flying",
+  "teraType": null,
   "color": "yellow",
   "abilities": {
     "primary": "swarm",
@@ -73,6 +73,8 @@
   },
   "weight": 2840,
   "height": 100,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": "beautifly",
   "baseForms": [],
   "forms": [],
@@ -84,6 +86,7 @@
     "smogon": "beautifly",
     "showdown": "beautifly",
     "serebii": "beautifly",
-    "bulbapedia": "Beautifly"
+    "bulbapedia": "Beautifly",
+    "showdownName": "Beautifly"
   }
 }

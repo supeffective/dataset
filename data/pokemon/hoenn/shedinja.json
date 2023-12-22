@@ -4,12 +4,12 @@
   "dexNum": 292,
   "formId": null,
   "name": "Shedinja",
-  "psName": "Shedinja",
   "formName": null,
   "region": "hoenn",
   "generation": 3,
   "type1": "bug",
   "type2": "ghost",
+  "teraType": null,
   "color": "brown",
   "abilities": {
     "primary": "wonderguard",
@@ -78,6 +78,8 @@
   },
   "weight": 120,
   "height": 80,
+  "maleRate": 0,
+  "femaleRate": 0,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -89,6 +91,7 @@
     "smogon": "shedinja",
     "showdown": "shedinja",
     "serebii": "shedinja",
-    "bulbapedia": "Shedinja"
+    "bulbapedia": "Shedinja",
+    "showdownName": "Shedinja"
   }
 }

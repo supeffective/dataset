@@ -4,12 +4,12 @@
   "dexNum": 141,
   "formId": null,
   "name": "Kabutops",
-  "psName": "Kabutops",
   "formName": null,
   "region": "kanto",
   "generation": 1,
   "type1": "rock",
   "type2": "water",
+  "teraType": null,
   "color": "brown",
   "abilities": {
     "primary": "swiftswim",
@@ -84,6 +84,8 @@
   },
   "weight": 4050,
   "height": 130,
+  "maleRate": 87.5,
+  "femaleRate": 12.5,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -95,6 +97,7 @@
     "smogon": "kabutops",
     "showdown": "kabutops",
     "serebii": "kabutops",
-    "bulbapedia": "Kabutops"
+    "bulbapedia": "Kabutops",
+    "showdownName": "Kabutops"
   }
 }

@@ -4,12 +4,12 @@
   "dexNum": 80,
   "formId": "mega",
   "name": "Mega Slowbro",
-  "psName": "Slowbro-Mega",
   "formName": "Mega",
   "region": "kalos",
   "generation": 6,
   "type1": "water",
   "type2": "psychic",
+  "teraType": null,
   "color": "pink",
   "abilities": {
     "primary": "shellarmor",
@@ -60,6 +60,8 @@
   },
   "weight": 12000,
   "height": 200,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": "slowbro",
   "baseForms": [
     "slowbro"
@@ -70,6 +72,7 @@
     "smogon": "slowbro-mega",
     "showdown": "slowbromega",
     "serebii": "slowbro",
-    "bulbapedia": "Slowbro"
+    "bulbapedia": "Slowbro",
+    "showdownName": "Slowbro-Mega"
   }
 }

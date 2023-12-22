@@ -4,12 +4,12 @@
   "dexNum": 493,
   "formId": "legendary",
   "name": "Arceus (Legendary Plate)",
-  "psName": "Arceus",
   "formName": "Legendary",
   "region": "hisui",
   "generation": 8,
   "type1": "normal",
   "type2": null,
+  "teraType": null,
   "color": "white",
   "abilities": {
     "primary": "multitype",
@@ -58,6 +58,8 @@
   },
   "weight": 32000,
   "height": 320,
+  "maleRate": 0,
+  "femaleRate": 0,
   "baseSpecies": "arceus",
   "baseForms": [
     "arceus"
@@ -68,6 +70,7 @@
     "smogon": "arceus",
     "showdown": "arceus",
     "serebii": "arceus",
-    "bulbapedia": "Arceus"
+    "bulbapedia": "Arceus",
+    "showdownName": "Arceus"
   }
 }

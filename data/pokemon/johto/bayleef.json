@@ -4,12 +4,12 @@
   "dexNum": 153,
   "formId": null,
   "name": "Bayleef",
-  "psName": "Bayleef",
   "formName": null,
   "region": "johto",
   "generation": 2,
   "type1": "grass",
   "type2": null,
+  "teraType": null,
   "color": "green",
   "abilities": {
     "primary": "overgrow",
@@ -80,6 +80,8 @@
   },
   "weight": 1580,
   "height": 120,
+  "maleRate": 87.5,
+  "femaleRate": 12.5,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -91,6 +93,7 @@
     "smogon": "bayleef",
     "showdown": "bayleef",
     "serebii": "bayleef",
-    "bulbapedia": "Bayleef"
+    "bulbapedia": "Bayleef",
+    "showdownName": "Bayleef"
   }
 }

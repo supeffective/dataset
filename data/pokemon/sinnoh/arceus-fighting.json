@@ -4,12 +4,12 @@
   "dexNum": 493,
   "formId": "fighting",
   "name": "Arceus (Fighting)",
-  "psName": "Arceus-Fighting",
   "formName": "Fighting",
   "region": "sinnoh",
   "generation": 4,
   "type1": "fighting",
   "type2": null,
+  "teraType": null,
   "color": "white",
   "abilities": {
     "primary": "multitype",
@@ -72,6 +72,8 @@
   },
   "weight": 32000,
   "height": 320,
+  "maleRate": 0,
+  "femaleRate": 0,
   "baseSpecies": "arceus",
   "baseForms": [
     "arceus"
@@ -82,6 +84,7 @@
     "smogon": "arceus-fighting",
     "showdown": "arceusfighting",
     "serebii": "arceus",
-    "bulbapedia": "Arceus"
+    "bulbapedia": "Arceus",
+    "showdownName": "Arceus-Fighting"
   }
 }

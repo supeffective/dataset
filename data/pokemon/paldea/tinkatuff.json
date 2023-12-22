@@ -4,12 +4,12 @@
   "dexNum": 958,
   "formId": null,
   "name": "Tinkatuff",
-  "psName": "Tinkatuff",
   "formName": null,
   "region": "paldea",
   "generation": 9,
   "type1": "fairy",
   "type2": "steel",
+  "teraType": null,
   "color": "pink",
   "abilities": {
     "primary": "moldbreaker",
@@ -59,6 +59,8 @@
   },
   "weight": 5910,
   "height": 70,
+  "maleRate": 0,
+  "femaleRate": 100,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -70,6 +72,7 @@
     "smogon": "tinkatuff",
     "showdown": "tinkatuff",
     "serebii": "tinkatuff",
-    "bulbapedia": "Tinkatuff"
+    "bulbapedia": "Tinkatuff",
+    "showdownName": "Tinkatuff"
   }
 }

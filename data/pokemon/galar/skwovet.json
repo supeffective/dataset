@@ -4,12 +4,12 @@
   "dexNum": 819,
   "formId": null,
   "name": "Skwovet",
-  "psName": "Skwovet",
   "formName": null,
   "region": "galar",
   "generation": 8,
   "type1": "normal",
   "type2": null,
+  "teraType": null,
   "color": "brown",
   "abilities": {
     "primary": "cheekpouch",
@@ -63,6 +63,8 @@
   },
   "weight": 250,
   "height": 30,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -71,6 +73,7 @@
     "smogon": "skwovet",
     "showdown": "skwovet",
     "serebii": "skwovet",
-    "bulbapedia": "Skwovet"
+    "bulbapedia": "Skwovet",
+    "showdownName": "Skwovet"
   }
 }

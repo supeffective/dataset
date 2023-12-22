@@ -4,12 +4,12 @@
   "dexNum": 910,
   "formId": null,
   "name": "Crocalor",
-  "psName": "Crocalor",
   "formName": null,
   "region": "paldea",
   "generation": 9,
   "type1": "fire",
   "type2": null,
+  "teraType": null,
   "color": "red",
   "abilities": {
     "primary": "blaze",
@@ -61,6 +61,8 @@
   },
   "weight": 3070,
   "height": 100,
+  "maleRate": 87.5,
+  "femaleRate": 12.5,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -72,6 +74,7 @@
     "smogon": "crocalor",
     "showdown": "crocalor",
     "serebii": "crocalor",
-    "bulbapedia": "Crocalor"
+    "bulbapedia": "Crocalor",
+    "showdownName": "Crocalor"
   }
 }

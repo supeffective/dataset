@@ -4,12 +4,12 @@
   "dexNum": 641,
   "formId": "incarnate",
   "name": "Tornadus",
-  "psName": "Tornadus",
   "formName": "Incarnate Forme",
   "region": "unova",
   "generation": 5,
   "type1": "flying",
   "type2": null,
+  "teraType": null,
   "color": "green",
   "abilities": {
     "primary": "prankster",
@@ -72,6 +72,8 @@
   },
   "weight": 6300,
   "height": 150,
+  "maleRate": 100,
+  "femaleRate": 0,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [
@@ -82,6 +84,7 @@
     "smogon": "tornadus",
     "showdown": "tornadus",
     "serebii": "tornadus",
-    "bulbapedia": "Tornadus"
+    "bulbapedia": "Tornadus",
+    "showdownName": "Tornadus"
   }
 }

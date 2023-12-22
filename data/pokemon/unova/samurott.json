@@ -4,12 +4,12 @@
   "dexNum": 503,
   "formId": null,
   "name": "Samurott",
-  "psName": "Samurott",
   "formName": null,
   "region": "unova",
   "generation": 5,
   "type1": "water",
   "type2": null,
+  "teraType": null,
   "color": "blue",
   "abilities": {
     "primary": "torrent",
@@ -69,6 +69,8 @@
   },
   "weight": 9460,
   "height": 150,
+  "maleRate": 87.5,
+  "femaleRate": 12.5,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [
@@ -82,6 +84,7 @@
     "smogon": "samurott",
     "showdown": "samurott",
     "serebii": "samurott",
-    "bulbapedia": "Samurott"
+    "bulbapedia": "Samurott",
+    "showdownName": "Samurott"
   }
 }

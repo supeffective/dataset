@@ -4,12 +4,12 @@
   "dexNum": 621,
   "formId": null,
   "name": "Druddigon",
-  "psName": "Druddigon",
   "formName": null,
   "region": "unova",
   "generation": 5,
   "type1": "dragon",
   "type2": null,
+  "teraType": null,
   "color": "red",
   "abilities": {
     "primary": "roughskin",
@@ -69,6 +69,8 @@
   },
   "weight": 13900,
   "height": 160,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -77,6 +79,7 @@
     "smogon": "druddigon",
     "showdown": "druddigon",
     "serebii": "druddigon",
-    "bulbapedia": "Druddigon"
+    "bulbapedia": "Druddigon",
+    "showdownName": "Druddigon"
   }
 }

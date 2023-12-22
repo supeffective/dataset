@@ -4,12 +4,12 @@
   "dexNum": 461,
   "formId": "f",
   "name": "Weavile ♀",
-  "psName": "Weavile",
   "formName": "Female",
   "region": "sinnoh",
   "generation": 4,
   "type1": "dark",
   "type2": "ice",
+  "teraType": null,
   "color": "black",
   "abilities": {
     "primary": "pressure",
@@ -78,6 +78,8 @@
   },
   "weight": 3400,
   "height": 110,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": "weavile",
   "baseForms": [],
   "forms": [],
@@ -91,6 +93,7 @@
     "smogon": "weavile",
     "showdown": "weavile",
     "serebii": "weavile",
-    "bulbapedia": "Weavile"
+    "bulbapedia": "Weavile",
+    "showdownName": "Weavile"
   }
 }

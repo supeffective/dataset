@@ -4,12 +4,12 @@
   "dexNum": 330,
   "formId": null,
   "name": "Flygon",
-  "psName": "Flygon",
   "formName": null,
   "region": "hoenn",
   "generation": 3,
   "type1": "ground",
   "type2": "dragon",
+  "teraType": null,
   "color": "green",
   "abilities": {
     "primary": "levitate",
@@ -80,6 +80,8 @@
   },
   "weight": 8200,
   "height": 200,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -91,6 +93,7 @@
     "smogon": "flygon",
     "showdown": "flygon",
     "serebii": "flygon",
-    "bulbapedia": "Flygon"
+    "bulbapedia": "Flygon",
+    "showdownName": "Flygon"
   }
 }

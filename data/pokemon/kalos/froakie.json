@@ -4,12 +4,12 @@
   "dexNum": 656,
   "formId": null,
   "name": "Froakie",
-  "psName": "Froakie",
   "formName": null,
   "region": "kalos",
   "generation": 6,
   "type1": "water",
   "type2": null,
+  "teraType": null,
   "color": "blue",
   "abilities": {
     "primary": "torrent",
@@ -66,6 +66,8 @@
   },
   "weight": 700,
   "height": 30,
+  "maleRate": 87.5,
+  "femaleRate": 12.5,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -74,6 +76,7 @@
     "smogon": "froakie",
     "showdown": "froakie",
     "serebii": "froakie",
-    "bulbapedia": "Froakie"
+    "bulbapedia": "Froakie",
+    "showdownName": "Froakie"
   }
 }

@@ -4,12 +4,12 @@
   "dexNum": 519,
   "formId": null,
   "name": "Pidove",
-  "psName": "Pidove",
   "formName": null,
   "region": "unova",
   "generation": 5,
   "type1": "normal",
   "type2": "flying",
+  "teraType": null,
   "color": "gray",
   "abilities": {
     "primary": "bigpecks",
@@ -69,6 +69,8 @@
   },
   "weight": 210,
   "height": 30,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -77,6 +79,7 @@
     "smogon": "pidove",
     "showdown": "pidove",
     "serebii": "pidove",
-    "bulbapedia": "Pidove"
+    "bulbapedia": "Pidove",
+    "showdownName": "Pidove"
   }
 }

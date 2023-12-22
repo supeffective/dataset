@@ -4,12 +4,12 @@
   "dexNum": 459,
   "formId": null,
   "name": "Snover",
-  "psName": "Snover",
   "formName": null,
   "region": "sinnoh",
   "generation": 4,
   "type1": "grass",
   "type2": "ice",
+  "teraType": null,
   "color": "white",
   "abilities": {
     "primary": "snowwarning",
@@ -78,6 +78,8 @@
   },
   "weight": 5050,
   "height": 100,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [
@@ -88,6 +90,7 @@
     "smogon": "snover",
     "showdown": "snover",
     "serebii": "snover",
-    "bulbapedia": "Snover"
+    "bulbapedia": "Snover",
+    "showdownName": "Snover"
   }
 }

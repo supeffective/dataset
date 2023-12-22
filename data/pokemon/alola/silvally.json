@@ -4,12 +4,12 @@
   "dexNum": 773,
   "formId": null,
   "name": "Silvally",
-  "psName": "Silvally",
   "formName": "Type: Normal",
   "region": "alola",
   "generation": 7,
   "type1": "normal",
   "type2": null,
+  "teraType": null,
   "color": "gray",
   "abilities": {
     "primary": "rkssystem",
@@ -63,6 +63,8 @@
   },
   "weight": 10050,
   "height": 230,
+  "maleRate": 0,
+  "femaleRate": 0,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [
@@ -92,6 +94,7 @@
     "smogon": "silvally",
     "showdown": "silvally",
     "serebii": "silvally",
-    "bulbapedia": "Silvally"
+    "bulbapedia": "Silvally",
+    "showdownName": "Silvally"
   }
 }

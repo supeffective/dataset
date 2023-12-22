@@ -4,12 +4,12 @@
   "dexNum": 130,
   "formId": "mega",
   "name": "Mega Gyarados",
-  "psName": "Gyarados-Mega",
   "formName": "Mega",
   "region": "kalos",
   "generation": 6,
   "type1": "water",
   "type2": "dark",
+  "teraType": null,
   "color": "blue",
   "abilities": {
     "primary": "moldbreaker",
@@ -59,6 +59,8 @@
   },
   "weight": 30500,
   "height": 650,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": "gyarados",
   "baseForms": [
     "gyarados"
@@ -69,6 +71,7 @@
     "smogon": "gyarados-mega",
     "showdown": "gyaradosmega",
     "serebii": "gyarados",
-    "bulbapedia": "Gyarados"
+    "bulbapedia": "Gyarados",
+    "showdownName": "Gyarados-Mega"
   }
 }

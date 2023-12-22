@@ -4,12 +4,12 @@
   "dexNum": 809,
   "formId": null,
   "name": "Melmetal",
-  "psName": "Melmetal",
   "formName": null,
   "region": "unknown",
   "generation": 7,
   "type1": "steel",
   "type2": null,
+  "teraType": null,
   "color": "gray",
   "abilities": {
     "primary": "ironfist",
@@ -61,6 +61,8 @@
   },
   "weight": 80000,
   "height": 250,
+  "maleRate": 0,
+  "femaleRate": 0,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [
@@ -71,6 +73,7 @@
     "smogon": "melmetal",
     "showdown": "melmetal",
     "serebii": "melmetal",
-    "bulbapedia": "Melmetal"
+    "bulbapedia": "Melmetal",
+    "showdownName": "Melmetal"
   }
 }

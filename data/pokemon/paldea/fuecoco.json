@@ -4,12 +4,12 @@
   "dexNum": 909,
   "formId": null,
   "name": "Fuecoco",
-  "psName": "Fuecoco",
   "formName": null,
   "region": "paldea",
   "generation": 9,
   "type1": "fire",
   "type2": null,
+  "teraType": null,
   "color": "red",
   "abilities": {
     "primary": "blaze",
@@ -63,6 +63,8 @@
   },
   "weight": 980,
   "height": 40,
+  "maleRate": 87.5,
+  "femaleRate": 12.5,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -74,6 +76,7 @@
     "smogon": "fuecoco",
     "showdown": "fuecoco",
     "serebii": "fuecoco",
-    "bulbapedia": "Fuecoco"
+    "bulbapedia": "Fuecoco",
+    "showdownName": "Fuecoco"
   }
 }

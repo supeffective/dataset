@@ -4,12 +4,12 @@
   "dexNum": 342,
   "formId": null,
   "name": "Crawdaunt",
-  "psName": "Crawdaunt",
   "formName": null,
   "region": "hoenn",
   "generation": 3,
   "type1": "water",
   "type2": "dark",
+  "teraType": null,
   "color": "red",
   "abilities": {
     "primary": "hypercutter",
@@ -80,6 +80,8 @@
   },
   "weight": 3280,
   "height": 110,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -91,6 +93,7 @@
     "smogon": "crawdaunt",
     "showdown": "crawdaunt",
     "serebii": "crawdaunt",
-    "bulbapedia": "Crawdaunt"
+    "bulbapedia": "Crawdaunt",
+    "showdownName": "Crawdaunt"
   }
 }

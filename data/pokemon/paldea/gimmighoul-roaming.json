@@ -4,12 +4,12 @@
   "dexNum": 999,
   "formId": "roaming",
   "name": "Gimmighoul Roaming Form",
-  "psName": "Gimmighoul-Roaming",
   "formName": "Roaming Form",
   "region": "paldea",
   "generation": 9,
   "type1": "ghost",
   "type2": null,
+  "teraType": null,
   "color": "blue",
   "abilities": {
     "primary": "runaway",
@@ -60,6 +60,8 @@
   },
   "weight": 10,
   "height": 10,
+  "maleRate": 0,
+  "femaleRate": 0,
   "baseSpecies": "gimmighoul",
   "baseForms": [],
   "forms": [],
@@ -68,6 +70,7 @@
     "smogon": "gimmighoul-roaming",
     "showdown": "gimmighoulroaming",
     "serebii": "Gimmighoul",
-    "bulbapedia": "Gimmighoul_Roaming"
+    "bulbapedia": "Gimmighoul_Roaming",
+    "showdownName": "Gimmighoul-Roaming"
   }
 }

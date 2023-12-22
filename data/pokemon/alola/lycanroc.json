@@ -4,12 +4,12 @@
   "dexNum": 745,
   "formId": "midday",
   "name": "Lycanroc",
-  "psName": "Lycanroc",
   "formName": "Midday Form",
   "region": "alola",
   "generation": 7,
   "type1": "rock",
   "type2": null,
+  "teraType": null,
   "color": "brown",
   "abilities": {
     "primary": "keeneye",
@@ -67,6 +67,8 @@
   },
   "weight": 2500,
   "height": 80,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [
@@ -82,6 +84,7 @@
     "smogon": "lycanroc",
     "showdown": "lycanroc",
     "serebii": "lycanroc",
-    "bulbapedia": "Lycanroc"
+    "bulbapedia": "Lycanroc",
+    "showdownName": "Lycanroc"
   }
 }

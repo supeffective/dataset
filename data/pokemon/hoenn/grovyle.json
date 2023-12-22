@@ -4,12 +4,12 @@
   "dexNum": 253,
   "formId": null,
   "name": "Grovyle",
-  "psName": "Grovyle",
   "formName": null,
   "region": "hoenn",
   "generation": 3,
   "type1": "grass",
   "type2": null,
+  "teraType": null,
   "color": "green",
   "abilities": {
     "primary": "overgrow",
@@ -80,6 +80,8 @@
   },
   "weight": 2160,
   "height": 90,
+  "maleRate": 87.5,
+  "femaleRate": 12.5,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -91,6 +93,7 @@
     "smogon": "grovyle",
     "showdown": "grovyle",
     "serebii": "grovyle",
-    "bulbapedia": "Grovyle"
+    "bulbapedia": "Grovyle",
+    "showdownName": "Grovyle"
   }
 }

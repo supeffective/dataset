@@ -4,12 +4,12 @@
   "dexNum": 627,
   "formId": null,
   "name": "Rufflet",
-  "psName": "Rufflet",
   "formName": null,
   "region": "unova",
   "generation": 5,
   "type1": "normal",
   "type2": "flying",
+  "teraType": null,
   "color": "white",
   "abilities": {
     "primary": "keeneye",
@@ -73,6 +73,8 @@
   },
   "weight": 1050,
   "height": 50,
+  "maleRate": 100,
+  "femaleRate": 0,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -81,6 +83,7 @@
     "smogon": "rufflet",
     "showdown": "rufflet",
     "serebii": "rufflet",
-    "bulbapedia": "Rufflet"
+    "bulbapedia": "Rufflet",
+    "showdownName": "Rufflet"
   }
 }

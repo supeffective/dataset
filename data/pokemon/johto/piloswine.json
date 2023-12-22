@@ -4,12 +4,12 @@
   "dexNum": 221,
   "formId": null,
   "name": "Piloswine",
-  "psName": "Piloswine",
   "formName": null,
   "region": "johto",
   "generation": 2,
   "type1": "ice",
   "type2": "ground",
+  "teraType": null,
   "color": "brown",
   "abilities": {
     "primary": "oblivious",
@@ -84,6 +84,8 @@
   },
   "weight": 5580,
   "height": 110,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [
@@ -97,6 +99,7 @@
     "smogon": "piloswine",
     "showdown": "piloswine",
     "serebii": "piloswine",
-    "bulbapedia": "Piloswine"
+    "bulbapedia": "Piloswine",
+    "showdownName": "Piloswine"
   }
 }

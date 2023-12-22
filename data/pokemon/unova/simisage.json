@@ -4,12 +4,12 @@
   "dexNum": 512,
   "formId": null,
   "name": "Simisage",
-  "psName": "Simisage",
   "formName": null,
   "region": "unova",
   "generation": 5,
   "type1": "grass",
   "type2": null,
+  "teraType": null,
   "color": "green",
   "abilities": {
     "primary": "gluttony",
@@ -67,6 +67,8 @@
   },
   "weight": 3050,
   "height": 110,
+  "maleRate": 87.5,
+  "femaleRate": 12.5,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -79,6 +81,7 @@
     "smogon": "simisage",
     "showdown": "simisage",
     "serebii": "simisage",
-    "bulbapedia": "Simisage"
+    "bulbapedia": "Simisage",
+    "showdownName": "Simisage"
   }
 }

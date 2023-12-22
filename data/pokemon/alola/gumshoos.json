@@ -4,12 +4,12 @@
   "dexNum": 735,
   "formId": null,
   "name": "Gumshoos",
-  "psName": "Gumshoos",
   "formName": null,
   "region": "alola",
   "generation": 7,
   "type1": "normal",
   "type2": null,
+  "teraType": null,
   "color": "brown",
   "abilities": {
     "primary": "stakeout",
@@ -65,6 +65,8 @@
   },
   "weight": 1420,
   "height": 70,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -77,6 +79,7 @@
     "smogon": "gumshoos",
     "showdown": "gumshoos",
     "serebii": "gumshoos",
-    "bulbapedia": "Gumshoos"
+    "bulbapedia": "Gumshoos",
+    "showdownName": "Gumshoos"
   }
 }

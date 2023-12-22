@@ -4,12 +4,12 @@
   "dexNum": 966,
   "formId": null,
   "name": "Revavroom",
-  "psName": "Revavroom",
   "formName": null,
   "region": "paldea",
   "generation": 9,
   "type1": "steel",
   "type2": "poison",
+  "teraType": null,
   "color": "gray",
   "abilities": {
     "primary": "overcoat",
@@ -59,6 +59,8 @@
   },
   "weight": 12000,
   "height": 180,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -70,6 +72,7 @@
     "smogon": "revavroom",
     "showdown": "revavroom",
     "serebii": "revavroom",
-    "bulbapedia": "Revavroom"
+    "bulbapedia": "Revavroom",
+    "showdownName": "Revavroom"
   }
 }

@@ -4,12 +4,12 @@
   "dexNum": 806,
   "formId": null,
   "name": "Blacephalon",
-  "psName": "Blacephalon",
   "formName": null,
   "region": "alola",
   "generation": 7,
   "type1": "fire",
   "type2": "ghost",
+  "teraType": null,
   "color": "white",
   "abilities": {
     "primary": "beastboost",
@@ -61,6 +61,8 @@
   },
   "weight": 1300,
   "height": 180,
+  "maleRate": 0,
+  "femaleRate": 0,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -69,6 +71,7 @@
     "smogon": "blacephalon",
     "showdown": "blacephalon",
     "serebii": "blacephalon",
-    "bulbapedia": "Blacephalon"
+    "bulbapedia": "Blacephalon",
+    "showdownName": "Blacephalon"
   }
 }

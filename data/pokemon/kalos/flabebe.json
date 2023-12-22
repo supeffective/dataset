@@ -4,12 +4,12 @@
   "dexNum": 669,
   "formId": "red",
   "name": "Flabébé",
-  "psName": "Flabébé",
   "formName": "Red Flower",
   "region": "kalos",
   "generation": 6,
   "type1": "fairy",
   "type2": null,
+  "teraType": null,
   "color": "white",
   "abilities": {
     "primary": "flowerveil",
@@ -66,6 +66,8 @@
   },
   "weight": 10,
   "height": 10,
+  "maleRate": 0,
+  "femaleRate": 100,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [
@@ -79,6 +81,7 @@
     "smogon": "flabebe",
     "showdown": "flabebe",
     "serebii": "flabebe",
-    "bulbapedia": "Flabébé"
+    "bulbapedia": "Flabébé",
+    "showdownName": "Flabébé"
   }
 }

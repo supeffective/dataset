@@ -4,12 +4,12 @@
   "dexNum": 25,
   "formId": "original",
   "name": "Pikachu Original Cap",
-  "psName": "Pikachu-Original",
   "formName": "Original Cap",
   "region": "alola",
   "generation": 7,
   "type1": "electric",
   "type2": null,
+  "teraType": null,
   "color": "yellow",
   "abilities": {
     "primary": "static",
@@ -64,6 +64,8 @@
   },
   "weight": 600,
   "height": 40,
+  "maleRate": 100,
+  "femaleRate": 0,
   "baseSpecies": "pikachu",
   "baseForms": [],
   "forms": [],
@@ -72,6 +74,7 @@
     "smogon": "pikachu-original",
     "showdown": "pikachuoriginal",
     "serebii": "pikachu",
-    "bulbapedia": "Pikachu"
+    "bulbapedia": "Pikachu",
+    "showdownName": "Pikachu-Original"
   }
 }

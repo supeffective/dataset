@@ -4,12 +4,12 @@
   "dexNum": 691,
   "formId": null,
   "name": "Dragalge",
-  "psName": "Dragalge",
   "formName": null,
   "region": "kalos",
   "generation": 6,
   "type1": "poison",
   "type2": "dragon",
+  "teraType": null,
   "color": "brown",
   "abilities": {
     "primary": "poisonpoint",
@@ -68,6 +68,8 @@
   },
   "weight": 8150,
   "height": 180,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -79,6 +81,7 @@
     "smogon": "dragalge",
     "showdown": "dragalge",
     "serebii": "dragalge",
-    "bulbapedia": "Dragalge"
+    "bulbapedia": "Dragalge",
+    "showdownName": "Dragalge"
   }
 }

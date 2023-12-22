@@ -4,12 +4,12 @@
   "dexNum": 655,
   "formId": null,
   "name": "Delphox",
-  "psName": "Delphox",
   "formName": null,
   "region": "kalos",
   "generation": 6,
   "type1": "fire",
   "type2": "psychic",
+  "teraType": null,
   "color": "red",
   "abilities": {
     "primary": "blaze",
@@ -66,6 +66,8 @@
   },
   "weight": 3900,
   "height": 150,
+  "maleRate": 87.5,
+  "femaleRate": 12.5,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -77,6 +79,7 @@
     "smogon": "delphox",
     "showdown": "delphox",
     "serebii": "delphox",
-    "bulbapedia": "Delphox"
+    "bulbapedia": "Delphox",
+    "showdownName": "Delphox"
   }
 }

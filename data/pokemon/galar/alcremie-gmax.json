@@ -4,12 +4,12 @@
   "dexNum": 869,
   "formId": "gmax",
   "name": "Gigantamax Alcremie",
-  "psName": "Alcremie-Gmax",
   "formName": "Gigantamax",
   "region": "galar",
   "generation": 8,
   "type1": "fairy",
   "type2": null,
+  "teraType": null,
   "color": "white",
   "abilities": {
     "primary": "sweetveil",
@@ -56,6 +56,8 @@
   },
   "weight": 0,
   "height": 3000,
+  "maleRate": 0,
+  "femaleRate": 100,
   "baseSpecies": "alcremie",
   "baseForms": [
     "alcremie",
@@ -128,6 +130,7 @@
     "smogon": "alcremie-gmax",
     "showdown": "alcremiegmax",
     "serebii": "alcremie",
-    "bulbapedia": "Alcremie"
+    "bulbapedia": "Alcremie",
+    "showdownName": "Alcremie-Gmax"
   }
 }

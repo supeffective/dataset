@@ -4,12 +4,12 @@
   "dexNum": 351,
   "formId": null,
   "name": "Castform",
-  "psName": "Castform",
   "formName": "Normal",
   "region": "hoenn",
   "generation": 3,
   "type1": "normal",
   "type2": null,
+  "teraType": null,
   "color": "gray",
   "abilities": {
     "primary": "forecast",
@@ -76,6 +76,8 @@
   },
   "weight": 80,
   "height": 30,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [
@@ -88,6 +90,7 @@
     "smogon": "castform",
     "showdown": "castform",
     "serebii": "castform",
-    "bulbapedia": "Castform"
+    "bulbapedia": "Castform",
+    "showdownName": "Castform"
   }
 }

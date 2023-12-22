@@ -4,12 +4,12 @@
   "dexNum": 955,
   "formId": null,
   "name": "Flittle",
-  "psName": "Flittle",
   "formName": null,
   "region": "paldea",
   "generation": 9,
   "type1": "psychic",
   "type2": null,
+  "teraType": null,
   "color": "yellow",
   "abilities": {
     "primary": "anticipation",
@@ -59,6 +59,8 @@
   },
   "weight": 150,
   "height": 20,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -67,6 +69,7 @@
     "smogon": "flittle",
     "showdown": "flittle",
     "serebii": "flittle",
-    "bulbapedia": "Flittle"
+    "bulbapedia": "Flittle",
+    "showdownName": "Flittle"
   }
 }

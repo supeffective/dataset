@@ -4,12 +4,12 @@
   "dexNum": 482,
   "formId": null,
   "name": "Azelf",
-  "psName": "Azelf",
   "formName": null,
   "region": "sinnoh",
   "generation": 4,
   "type1": "psychic",
   "type2": null,
+  "teraType": null,
   "color": "blue",
   "abilities": {
     "primary": "levitate",
@@ -77,6 +77,8 @@
   },
   "weight": 30,
   "height": 30,
+  "maleRate": 0,
+  "femaleRate": 0,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -85,6 +87,7 @@
     "smogon": "azelf",
     "showdown": "azelf",
     "serebii": "azelf",
-    "bulbapedia": "Azelf"
+    "bulbapedia": "Azelf",
+    "showdownName": "Azelf"
   }
 }

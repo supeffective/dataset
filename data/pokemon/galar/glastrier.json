@@ -4,12 +4,12 @@
   "dexNum": 896,
   "formId": null,
   "name": "Glastrier",
-  "psName": "Glastrier",
   "formName": null,
   "region": "galar",
   "generation": 8,
   "type1": "ice",
   "type2": null,
+  "teraType": null,
   "color": "white",
   "abilities": {
     "primary": "chillingneigh",
@@ -60,6 +60,8 @@
   },
   "weight": 80000,
   "height": 220,
+  "maleRate": 0,
+  "femaleRate": 0,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -68,6 +70,7 @@
     "smogon": "glastrier",
     "showdown": "glastrier",
     "serebii": "glastrier",
-    "bulbapedia": "Glastrier"
+    "bulbapedia": "Glastrier",
+    "showdownName": "Glastrier"
   }
 }

@@ -4,12 +4,12 @@
   "dexNum": 451,
   "formId": null,
   "name": "Skorupi",
-  "psName": "Skorupi",
   "formName": null,
   "region": "sinnoh",
   "generation": 4,
   "type1": "poison",
   "type2": "bug",
+  "teraType": null,
   "color": "purple",
   "abilities": {
     "primary": "battlearmor",
@@ -76,6 +76,8 @@
   },
   "weight": 1200,
   "height": 80,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -84,6 +86,7 @@
     "smogon": "skorupi",
     "showdown": "skorupi",
     "serebii": "skorupi",
-    "bulbapedia": "Skorupi"
+    "bulbapedia": "Skorupi",
+    "showdownName": "Skorupi"
   }
 }

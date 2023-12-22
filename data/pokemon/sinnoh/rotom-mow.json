@@ -4,12 +4,12 @@
   "dexNum": 479,
   "formId": "mow",
   "name": "Mow Rotom",
-  "psName": "Rotom-Mow",
   "formName": "Mow",
   "region": "sinnoh",
   "generation": 4,
   "type1": "electric",
   "type2": "grass",
+  "teraType": null,
   "color": "red",
   "abilities": {
     "primary": "levitate",
@@ -76,6 +76,8 @@
   },
   "weight": 30,
   "height": 30,
+  "maleRate": 0,
+  "femaleRate": 0,
   "baseSpecies": "rotom",
   "baseForms": [
     "rotom"
@@ -86,6 +88,7 @@
     "smogon": "rotom-mow",
     "showdown": "rotommow",
     "serebii": "rotom",
-    "bulbapedia": "Rotom"
+    "bulbapedia": "Rotom",
+    "showdownName": "Rotom-Mow"
   }
 }

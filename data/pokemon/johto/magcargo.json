@@ -4,12 +4,12 @@
   "dexNum": 219,
   "formId": null,
   "name": "Magcargo",
-  "psName": "Magcargo",
   "formName": null,
   "region": "johto",
   "generation": 2,
   "type1": "fire",
   "type2": "rock",
+  "teraType": null,
   "color": "red",
   "abilities": {
     "primary": "magmaarmor",
@@ -80,6 +80,8 @@
   },
   "weight": 5500,
   "height": 80,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -91,6 +93,7 @@
     "smogon": "magcargo",
     "showdown": "magcargo",
     "serebii": "magcargo",
-    "bulbapedia": "Magcargo"
+    "bulbapedia": "Magcargo",
+    "showdownName": "Magcargo"
   }
 }

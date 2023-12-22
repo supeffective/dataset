@@ -4,12 +4,12 @@
   "dexNum": 47,
   "formId": null,
   "name": "Parasect",
-  "psName": "Parasect",
   "formName": null,
   "region": "kanto",
   "generation": 1,
   "type1": "bug",
   "type2": "grass",
+  "teraType": null,
   "color": "red",
   "abilities": {
     "primary": "effectspore",
@@ -84,6 +84,8 @@
   },
   "weight": 2950,
   "height": 100,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -95,6 +97,7 @@
     "smogon": "parasect",
     "showdown": "parasect",
     "serebii": "parasect",
-    "bulbapedia": "Parasect"
+    "bulbapedia": "Parasect",
+    "showdownName": "Parasect"
   }
 }

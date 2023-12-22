@@ -39,6 +39,7 @@ function updateLegacyPokemonFile(data: Pokemon[]): void {
       generation: pkm.generation,
       type1: pkm.type1,
       type2: pkm.type2,
+      teraType: pkm.teraType,
       color: pkm.color,
       isDefault: pkm.isDefault,
       isForm: pkm.isForm,
@@ -46,6 +47,8 @@ function updateLegacyPokemonFile(data: Pokemon[]): void {
       isCosmeticForm: pkm.isCosmeticForm,
       isFemaleForm: pkm.isFemaleForm,
       hasGenderDifferences: pkm.hasGenderDifferences,
+      maleRate: pkm.maleRate,
+      femaleRate: pkm.femaleRate,
       isBattleOnlyForm: pkm.isBattleOnlyForm,
       isSwitchableForm: pkm.isSwitchableForm,
       isMega: pkm.isMega,
@@ -67,7 +70,8 @@ function updateLegacyPokemonFile(data: Pokemon[]): void {
         serebii: pkm.refs?.serebii || pkm.id,
         bulbapedia: pkm.refs?.bulbapedia || pkm.name,
         smogon: pkm.refs?.smogon || pkm.id,
-        showdown: pkm.psName || pkm.name,
+        showdown: pkm.refs?.showdownName || pkm.name,
+        showdownName: pkm.refs?.showdownName || pkm.name,
       },
     }
     result.push(legacyPkm)

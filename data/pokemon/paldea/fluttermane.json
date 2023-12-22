@@ -4,12 +4,12 @@
   "dexNum": 987,
   "formId": null,
   "name": "Flutter Mane",
-  "psName": "Flutter Mane",
   "formName": null,
   "region": "paldea",
   "generation": 9,
   "type1": "ghost",
   "type2": "fairy",
+  "teraType": null,
   "color": "gray",
   "abilities": {
     "primary": "protosynthesis",
@@ -59,6 +59,8 @@
   },
   "weight": 400,
   "height": 140,
+  "maleRate": 0,
+  "femaleRate": 0,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -67,6 +69,7 @@
     "smogon": "fluttermane",
     "showdown": "fluttermane",
     "serebii": "fluttermane",
-    "bulbapedia": "Fluttermane"
+    "bulbapedia": "Fluttermane",
+    "showdownName": "Flutter Mane"
   }
 }

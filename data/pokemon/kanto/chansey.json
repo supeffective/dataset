@@ -4,12 +4,12 @@
   "dexNum": 113,
   "formId": null,
   "name": "Chansey",
-  "psName": "Chansey",
   "formName": null,
   "region": "kanto",
   "generation": 1,
   "type1": "normal",
   "type2": null,
+  "teraType": null,
   "color": "pink",
   "abilities": {
     "primary": "naturalcure",
@@ -88,6 +88,8 @@
   },
   "weight": 3460,
   "height": 110,
+  "maleRate": 0,
+  "femaleRate": 100,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -101,6 +103,7 @@
     "smogon": "chansey",
     "showdown": "chansey",
     "serebii": "chansey",
-    "bulbapedia": "Chansey"
+    "bulbapedia": "Chansey",
+    "showdownName": "Chansey"
   }
 }

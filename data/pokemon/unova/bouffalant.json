@@ -4,12 +4,12 @@
   "dexNum": 626,
   "formId": null,
   "name": "Bouffalant",
-  "psName": "Bouffalant",
   "formName": null,
   "region": "unova",
   "generation": 5,
   "type1": "normal",
   "type2": null,
+  "teraType": null,
   "color": "brown",
   "abilities": {
     "primary": "reckless",
@@ -69,6 +69,8 @@
   },
   "weight": 9460,
   "height": 160,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -77,6 +79,7 @@
     "smogon": "bouffalant",
     "showdown": "bouffalant",
     "serebii": "bouffalant",
-    "bulbapedia": "Bouffalant"
+    "bulbapedia": "Bouffalant",
+    "showdownName": "Bouffalant"
   }
 }

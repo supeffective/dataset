@@ -4,12 +4,12 @@
   "dexNum": 25,
   "formId": "world",
   "name": "Pikachu World Cap",
-  "psName": "Pikachu-World",
   "formName": "World Cap",
   "region": "galar",
   "generation": 8,
   "type1": "electric",
   "type2": null,
+  "teraType": null,
   "color": "yellow",
   "abilities": {
     "primary": "static",
@@ -60,6 +60,8 @@
   },
   "weight": 600,
   "height": 40,
+  "maleRate": 100,
+  "femaleRate": 0,
   "baseSpecies": "pikachu",
   "baseForms": [],
   "forms": [],
@@ -68,6 +70,7 @@
     "smogon": "pikachu-world",
     "showdown": "pikachuworld",
     "serebii": "pikachu",
-    "bulbapedia": "Pikachu"
+    "bulbapedia": "Pikachu",
+    "showdownName": "Pikachu-World"
   }
 }

@@ -4,12 +4,12 @@
   "dexNum": 186,
   "formId": null,
   "name": "Politoed",
-  "psName": "Politoed",
   "formName": null,
   "region": "johto",
   "generation": 2,
   "type1": "water",
   "type2": null,
+  "teraType": null,
   "color": "green",
   "abilities": {
     "primary": "waterabsorb",
@@ -82,6 +82,8 @@
   },
   "weight": 3390,
   "height": 110,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [
@@ -96,6 +98,7 @@
     "smogon": "politoed",
     "showdown": "politoed",
     "serebii": "politoed",
-    "bulbapedia": "Politoed"
+    "bulbapedia": "Politoed",
+    "showdownName": "Politoed"
   }
 }

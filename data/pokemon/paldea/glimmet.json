@@ -4,12 +4,12 @@
   "dexNum": 969,
   "formId": null,
   "name": "Glimmet",
-  "psName": "Glimmet",
   "formName": null,
   "region": "paldea",
   "generation": 9,
   "type1": "rock",
   "type2": "poison",
+  "teraType": null,
   "color": "blue",
   "abilities": {
     "primary": "toxicdebris",
@@ -59,6 +59,8 @@
   },
   "weight": 800,
   "height": 70,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -67,6 +69,7 @@
     "smogon": "glimmet",
     "showdown": "glimmet",
     "serebii": "glimmet",
-    "bulbapedia": "Glimmet"
+    "bulbapedia": "Glimmet",
+    "showdownName": "Glimmet"
   }
 }

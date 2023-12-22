@@ -4,12 +4,12 @@
   "dexNum": 380,
   "formId": null,
   "name": "Latias",
-  "psName": "Latias",
   "formName": null,
   "region": "hoenn",
   "generation": 3,
   "type1": "dragon",
   "type2": "psychic",
+  "teraType": null,
   "color": "red",
   "abilities": {
     "primary": "levitate",
@@ -78,6 +78,8 @@
   },
   "weight": 4000,
   "height": 140,
+  "maleRate": 0,
+  "femaleRate": 100,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [
@@ -88,6 +90,7 @@
     "smogon": "latias",
     "showdown": "latias",
     "serebii": "latias",
-    "bulbapedia": "Latias"
+    "bulbapedia": "Latias",
+    "showdownName": "Latias"
   }
 }

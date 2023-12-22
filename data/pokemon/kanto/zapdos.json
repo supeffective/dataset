@@ -4,12 +4,12 @@
   "dexNum": 145,
   "formId": null,
   "name": "Zapdos",
-  "psName": "Zapdos",
   "formName": null,
   "region": "kanto",
   "generation": 1,
   "type1": "electric",
   "type2": "flying",
+  "teraType": null,
   "color": "yellow",
   "abilities": {
     "primary": "pressure",
@@ -85,6 +85,8 @@
   },
   "weight": 5260,
   "height": 160,
+  "maleRate": 0,
+  "femaleRate": 0,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [
@@ -95,6 +97,7 @@
     "smogon": "zapdos",
     "showdown": "zapdos",
     "serebii": "zapdos",
-    "bulbapedia": "Zapdos"
+    "bulbapedia": "Zapdos",
+    "showdownName": "Zapdos"
   }
 }

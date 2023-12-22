@@ -4,12 +4,12 @@
   "dexNum": 345,
   "formId": null,
   "name": "Lileep",
-  "psName": "Lileep",
   "formName": null,
   "region": "hoenn",
   "generation": 3,
   "type1": "rock",
   "type2": "grass",
+  "teraType": null,
   "color": "purple",
   "abilities": {
     "primary": "suctioncups",
@@ -78,6 +78,8 @@
   },
   "weight": 2380,
   "height": 100,
+  "maleRate": 87.5,
+  "femaleRate": 12.5,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -86,6 +88,7 @@
     "smogon": "lileep",
     "showdown": "lileep",
     "serebii": "lileep",
-    "bulbapedia": "Lileep"
+    "bulbapedia": "Lileep",
+    "showdownName": "Lileep"
   }
 }

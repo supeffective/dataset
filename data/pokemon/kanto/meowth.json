@@ -4,12 +4,12 @@
   "dexNum": 52,
   "formId": null,
   "name": "Meowth",
-  "psName": "Meowth",
   "formName": null,
   "region": "kanto",
   "generation": 1,
   "type1": "normal",
   "type2": null,
+  "teraType": null,
   "color": "yellow",
   "abilities": {
     "primary": "pickup",
@@ -86,6 +86,8 @@
   },
   "weight": 420,
   "height": 40,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [
@@ -98,6 +100,7 @@
     "smogon": "meowth",
     "showdown": "meowth",
     "serebii": "meowth",
-    "bulbapedia": "Meowth"
+    "bulbapedia": "Meowth",
+    "showdownName": "Meowth"
   }
 }

@@ -4,12 +4,12 @@
   "dexNum": 83,
   "formId": null,
   "name": "Farfetch’d",
-  "psName": "Farfetch’d",
   "formName": null,
   "region": "kanto",
   "generation": 1,
   "type1": "normal",
   "type2": "flying",
+  "teraType": null,
   "color": "brown",
   "abilities": {
     "primary": "keeneye",
@@ -84,6 +84,8 @@
   },
   "weight": 1500,
   "height": 80,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [
@@ -94,6 +96,7 @@
     "smogon": "farfetchd",
     "showdown": "farfetchd",
     "serebii": "farfetchd",
-    "bulbapedia": "Farfetch’d"
+    "bulbapedia": "Farfetch’d",
+    "showdownName": "Farfetch’d"
   }
 }

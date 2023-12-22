@@ -4,12 +4,12 @@
   "dexNum": 901,
   "formId": null,
   "name": "Ursaluna",
-  "psName": "Ursaluna",
   "formName": null,
   "region": "hisui",
   "generation": 8,
   "type1": "ground",
   "type2": "normal",
+  "teraType": null,
   "color": "brown",
   "abilities": {
     "primary": "guts",
@@ -63,6 +63,8 @@
   },
   "weight": 29000,
   "height": 240,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [
@@ -77,6 +79,7 @@
     "smogon": "ursaluna",
     "showdown": "ursaluna",
     "serebii": "ursaluna",
-    "bulbapedia": "Ursaluna"
+    "bulbapedia": "Ursaluna",
+    "showdownName": "Ursaluna"
   }
 }

@@ -4,12 +4,12 @@
   "dexNum": 718,
   "formId": "power-construct",
   "name": "Zygarde 50% Forme (Power Construct Ability)",
-  "psName": "Zygarde",
   "formName": "50% Forme (Power Construct Ability)",
   "region": "alola",
   "generation": 7,
   "type1": "dragon",
   "type2": "ground",
+  "teraType": null,
   "color": "green",
   "abilities": {
     "primary": "powerconstruct",
@@ -63,6 +63,8 @@
   },
   "weight": 30500,
   "height": 500,
+  "maleRate": 0,
+  "femaleRate": 0,
   "baseSpecies": "zygarde",
   "baseForms": [],
   "forms": [
@@ -73,6 +75,7 @@
     "smogon": "zygarde--power-construct",
     "showdown": "zygarde",
     "serebii": "zygarde",
-    "bulbapedia": "Zygarde"
+    "bulbapedia": "Zygarde",
+    "showdownName": "Zygarde"
   }
 }

@@ -4,12 +4,12 @@
   "dexNum": 717,
   "formId": null,
   "name": "Yveltal",
-  "psName": "Yveltal",
   "formName": null,
   "region": "kalos",
   "generation": 6,
   "type1": "dark",
   "type2": "flying",
+  "teraType": null,
   "color": "red",
   "abilities": {
     "primary": "darkaura",
@@ -66,6 +66,8 @@
   },
   "weight": 20300,
   "height": 580,
+  "maleRate": 0,
+  "femaleRate": 0,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -74,6 +76,7 @@
     "smogon": "yveltal",
     "showdown": "yveltal",
     "serebii": "yveltal",
-    "bulbapedia": "Yveltal"
+    "bulbapedia": "Yveltal",
+    "showdownName": "Yveltal"
   }
 }

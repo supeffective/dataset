@@ -4,12 +4,12 @@
   "dexNum": 518,
   "formId": null,
   "name": "Musharna",
-  "psName": "Musharna",
   "formName": null,
   "region": "unova",
   "generation": 5,
   "type1": "psychic",
   "type2": null,
+  "teraType": null,
   "color": "pink",
   "abilities": {
     "primary": "forewarn",
@@ -69,6 +69,8 @@
   },
   "weight": 6050,
   "height": 110,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -81,6 +83,7 @@
     "smogon": "musharna",
     "showdown": "musharna",
     "serebii": "musharna",
-    "bulbapedia": "Musharna"
+    "bulbapedia": "Musharna",
+    "showdownName": "Musharna"
   }
 }

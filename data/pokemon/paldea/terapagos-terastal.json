@@ -4,12 +4,12 @@
   "dexNum": 1024,
   "formId": "terastal",
   "name": "Terapagos (Terastal Form)",
-  "psName": "Terapagos-Terastal",
   "formName": "Terastal Form",
   "region": "paldea",
   "generation": 9,
   "type1": "normal",
   "type2": null,
+  "teraType": "stellar",
   "color": "blue",
   "abilities": {
     "primary": "terashell",
@@ -58,6 +58,8 @@
   },
   "weight": 1600,
   "height": -1,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": "terapagos",
   "baseForms": [],
   "forms": [],
@@ -66,6 +68,7 @@
     "smogon": "terapagos",
     "showdown": "terapagosterastal",
     "serebii": "terapagos",
-    "bulbapedia": "Terapagos"
+    "bulbapedia": "Terapagos",
+    "showdownName": "Terapagos-Terastal"
   }
 }

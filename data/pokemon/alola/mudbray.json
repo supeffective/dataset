@@ -4,12 +4,12 @@
   "dexNum": 749,
   "formId": null,
   "name": "Mudbray",
-  "psName": "Mudbray",
   "formName": null,
   "region": "alola",
   "generation": 7,
   "type1": "ground",
   "type2": null,
+  "teraType": null,
   "color": "brown",
   "abilities": {
     "primary": "owntempo",
@@ -67,6 +67,8 @@
   },
   "weight": 11000,
   "height": 100,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -75,6 +77,7 @@
     "smogon": "mudbray",
     "showdown": "mudbray",
     "serebii": "mudbray",
-    "bulbapedia": "Mudbray"
+    "bulbapedia": "Mudbray",
+    "showdownName": "Mudbray"
   }
 }

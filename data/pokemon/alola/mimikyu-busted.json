@@ -4,12 +4,12 @@
   "dexNum": 778,
   "formId": "busted",
   "name": "Mimikyu Busted Form",
-  "psName": "Mimikyu-Busted",
   "formName": "Busted Form",
   "region": "alola",
   "generation": 7,
   "type1": "ghost",
   "type2": "fairy",
+  "teraType": null,
   "color": "yellow",
   "abilities": {
     "primary": "disguise",
@@ -59,6 +59,8 @@
   },
   "weight": 70,
   "height": 20,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": "mimikyu",
   "baseForms": [
     "mimikyu"
@@ -69,6 +71,7 @@
     "smogon": "mimikyu-busted",
     "showdown": "mimikyubusted",
     "serebii": "mimikyu",
-    "bulbapedia": "Mimikyu"
+    "bulbapedia": "Mimikyu",
+    "showdownName": "Mimikyu-Busted"
   }
 }

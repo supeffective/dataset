@@ -4,12 +4,12 @@
   "dexNum": 1006,
   "formId": null,
   "name": "Iron Valiant",
-  "psName": "Iron Valiant",
   "formName": null,
   "region": "paldea",
   "generation": 9,
   "type1": "fairy",
   "type2": "fighting",
+  "teraType": null,
   "color": "white",
   "abilities": {
     "primary": "quarkdrive",
@@ -59,6 +59,8 @@
   },
   "weight": 3500,
   "height": 140,
+  "maleRate": 0,
+  "femaleRate": 0,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -67,6 +69,7 @@
     "smogon": "ironvaliant",
     "showdown": "ironvaliant",
     "serebii": "ironvaliant",
-    "bulbapedia": "Ironvaliant"
+    "bulbapedia": "Ironvaliant",
+    "showdownName": "Iron Valiant"
   }
 }

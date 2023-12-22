@@ -4,12 +4,12 @@
   "dexNum": 561,
   "formId": null,
   "name": "Sigilyph",
-  "psName": "Sigilyph",
   "formName": null,
   "region": "unova",
   "generation": 5,
   "type1": "psychic",
   "type2": "flying",
+  "teraType": null,
   "color": "black",
   "abilities": {
     "primary": "wonderskin",
@@ -69,6 +69,8 @@
   },
   "weight": 1400,
   "height": 140,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -77,6 +79,7 @@
     "smogon": "sigilyph",
     "showdown": "sigilyph",
     "serebii": "sigilyph",
-    "bulbapedia": "Sigilyph"
+    "bulbapedia": "Sigilyph",
+    "showdownName": "Sigilyph"
   }
 }

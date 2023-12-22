@@ -4,12 +4,12 @@
   "dexNum": 700,
   "formId": null,
   "name": "Sylveon",
-  "psName": "Sylveon",
   "formName": null,
   "region": "kalos",
   "generation": 6,
   "type1": "fairy",
   "type2": null,
+  "teraType": null,
   "color": "pink",
   "abilities": {
     "primary": "cutecharm",
@@ -70,6 +70,8 @@
   },
   "weight": 2350,
   "height": 100,
+  "maleRate": 87.5,
+  "femaleRate": 12.5,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -82,6 +84,7 @@
     "smogon": "sylveon",
     "showdown": "sylveon",
     "serebii": "sylveon",
-    "bulbapedia": "Sylveon"
+    "bulbapedia": "Sylveon",
+    "showdownName": "Sylveon"
   }
 }

@@ -4,12 +4,12 @@
   "dexNum": 175,
   "formId": null,
   "name": "Togepi",
-  "psName": "Togepi",
   "formName": null,
   "region": "johto",
   "generation": 2,
   "type1": "fairy",
   "type2": null,
+  "teraType": null,
   "color": "white",
   "abilities": {
     "primary": "hustle",
@@ -82,6 +82,8 @@
   },
   "weight": 150,
   "height": 30,
+  "maleRate": 87.5,
+  "femaleRate": 12.5,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -90,6 +92,7 @@
     "smogon": "togepi",
     "showdown": "togepi",
     "serebii": "togepi",
-    "bulbapedia": "Togepi"
+    "bulbapedia": "Togepi",
+    "showdownName": "Togepi"
   }
 }

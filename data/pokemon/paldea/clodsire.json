@@ -4,12 +4,12 @@
   "dexNum": 980,
   "formId": null,
   "name": "Clodsire",
-  "psName": "Clodsire",
   "formName": null,
   "region": "paldea",
   "generation": 9,
   "type1": "poison",
   "type2": "ground",
+  "teraType": null,
   "color": "brown",
   "abilities": {
     "primary": "poisonpoint",
@@ -61,6 +61,8 @@
   },
   "weight": 22300,
   "height": 180,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -72,6 +74,7 @@
     "smogon": "clodsire",
     "showdown": "clodsire",
     "serebii": "clodsire",
-    "bulbapedia": "Clodsire"
+    "bulbapedia": "Clodsire",
+    "showdownName": "Clodsire"
   }
 }

@@ -4,12 +4,12 @@
   "dexNum": 801,
   "formId": "original",
   "name": "Magearna Original Color",
-  "psName": "Magearna-Original",
   "formName": "Original Color",
   "region": "alola",
   "generation": 7,
   "type1": "steel",
   "type2": "fairy",
+  "teraType": null,
   "color": "red",
   "abilities": {
     "primary": "soulheart",
@@ -64,6 +64,8 @@
   },
   "weight": 8050,
   "height": 100,
+  "maleRate": 0,
+  "femaleRate": 0,
   "baseSpecies": "magearna",
   "baseForms": [],
   "forms": [],
@@ -72,6 +74,7 @@
     "smogon": "magearna-original",
     "showdown": "magearnaoriginal",
     "serebii": "magearna",
-    "bulbapedia": "Magearna"
+    "bulbapedia": "Magearna",
+    "showdownName": "Magearna-Original"
   }
 }

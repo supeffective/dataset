@@ -4,12 +4,12 @@
   "dexNum": 450,
   "formId": null,
   "name": "Hippowdon",
-  "psName": "Hippowdon",
   "formName": null,
   "region": "sinnoh",
   "generation": 4,
   "type1": "ground",
   "type2": null,
+  "teraType": null,
   "color": "brown",
   "abilities": {
     "primary": "sandstream",
@@ -78,6 +78,8 @@
   },
   "weight": 30000,
   "height": 200,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [
@@ -91,6 +93,7 @@
     "smogon": "hippowdon",
     "showdown": "hippowdon",
     "serebii": "hippowdon",
-    "bulbapedia": "Hippowdon"
+    "bulbapedia": "Hippowdon",
+    "showdownName": "Hippowdon"
   }
 }

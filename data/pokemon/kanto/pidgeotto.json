@@ -4,12 +4,12 @@
   "dexNum": 17,
   "formId": null,
   "name": "Pidgeotto",
-  "psName": "Pidgeotto",
   "formName": null,
   "region": "kanto",
   "generation": 1,
   "type1": "normal",
   "type2": "flying",
+  "teraType": null,
   "color": "brown",
   "abilities": {
     "primary": "keeneye",
@@ -82,6 +82,8 @@
   },
   "weight": 3000,
   "height": 110,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -93,6 +95,7 @@
     "smogon": "pidgeotto",
     "showdown": "pidgeotto",
     "serebii": "pidgeotto",
-    "bulbapedia": "Pidgeotto"
+    "bulbapedia": "Pidgeotto",
+    "showdownName": "Pidgeotto"
   }
 }

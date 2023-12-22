@@ -4,12 +4,12 @@
   "dexNum": 898,
   "formId": null,
   "name": "Calyrex",
-  "psName": "Calyrex",
   "formName": null,
   "region": "galar",
   "generation": 8,
   "type1": "psychic",
   "type2": "grass",
+  "teraType": null,
   "color": "green",
   "abilities": {
     "primary": "unnerve",
@@ -60,6 +60,8 @@
   },
   "weight": 770,
   "height": 110,
+  "maleRate": 0,
+  "femaleRate": 0,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [
@@ -71,6 +73,7 @@
     "smogon": "calyrex",
     "showdown": "calyrex",
     "serebii": "calyrex",
-    "bulbapedia": "Calyrex"
+    "bulbapedia": "Calyrex",
+    "showdownName": "Calyrex"
   }
 }

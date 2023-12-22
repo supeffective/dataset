@@ -4,12 +4,12 @@
   "dexNum": 494,
   "formId": null,
   "name": "Victini",
-  "psName": "Victini",
   "formName": null,
   "region": "unova",
   "generation": 5,
   "type1": "psychic",
   "type2": "fire",
+  "teraType": null,
   "color": "yellow",
   "abilities": {
     "primary": "victorystar",
@@ -69,6 +69,8 @@
   },
   "weight": 400,
   "height": 40,
+  "maleRate": 0,
+  "femaleRate": 0,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -77,6 +79,7 @@
     "smogon": "victini",
     "showdown": "victini",
     "serebii": "victini",
-    "bulbapedia": "Victini"
+    "bulbapedia": "Victini",
+    "showdownName": "Victini"
   }
 }

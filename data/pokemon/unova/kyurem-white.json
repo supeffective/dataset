@@ -4,12 +4,12 @@
   "dexNum": 646,
   "formId": "white",
   "name": "White Kyurem",
-  "psName": "Kyurem-White",
   "formName": "White",
   "region": "unova",
   "generation": 5,
   "type1": "dragon",
   "type2": "ice",
+  "teraType": null,
   "color": "gray",
   "abilities": {
     "primary": "turboblaze",
@@ -67,6 +67,8 @@
   },
   "weight": 32500,
   "height": 360,
+  "maleRate": 0,
+  "femaleRate": 0,
   "baseSpecies": "kyurem",
   "baseForms": [
     "kyurem"
@@ -77,6 +79,7 @@
     "smogon": "kyurem-white",
     "showdown": "kyuremwhite",
     "serebii": "kyurem",
-    "bulbapedia": "Kyurem"
+    "bulbapedia": "Kyurem",
+    "showdownName": "Kyurem-White"
   }
 }

@@ -4,12 +4,12 @@
   "dexNum": 773,
   "formId": "rock",
   "name": "Silvally Type: Rock",
-  "psName": "Silvally-Rock",
   "formName": "Type: Rock",
   "region": "alola",
   "generation": 7,
   "type1": "rock",
   "type2": null,
+  "teraType": null,
   "color": "gray",
   "abilities": {
     "primary": "rkssystem",
@@ -62,6 +62,8 @@
   },
   "weight": 10050,
   "height": 230,
+  "maleRate": 0,
+  "femaleRate": 0,
   "baseSpecies": "silvally",
   "baseForms": [
     "silvally"
@@ -72,6 +74,7 @@
     "smogon": "silvally-rock",
     "showdown": "silvallyrock",
     "serebii": "silvally",
-    "bulbapedia": "Silvally"
+    "bulbapedia": "Silvally",
+    "showdownName": "Silvally-Rock"
   }
 }

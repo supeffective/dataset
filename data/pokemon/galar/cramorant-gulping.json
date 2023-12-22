@@ -4,12 +4,12 @@
   "dexNum": 845,
   "formId": "gulping",
   "name": "Cramorant Gulping Form",
-  "psName": "Cramorant-Gulping",
   "formName": "Gulping Form",
   "region": "galar",
   "generation": 8,
   "type1": "flying",
   "type2": "water",
+  "teraType": null,
   "color": "blue",
   "abilities": {
     "primary": "gulpmissile",
@@ -57,6 +57,8 @@
   },
   "weight": 1800,
   "height": 80,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": "cramorant",
   "baseForms": [
     "cramorant"
@@ -67,6 +69,7 @@
     "smogon": "cramorant-gulping",
     "showdown": "cramorantgulping",
     "serebii": "cramorant",
-    "bulbapedia": "Cramorant"
+    "bulbapedia": "Cramorant",
+    "showdownName": "Cramorant-Gulping"
   }
 }

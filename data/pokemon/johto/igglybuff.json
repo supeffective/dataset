@@ -4,12 +4,12 @@
   "dexNum": 174,
   "formId": null,
   "name": "Igglybuff",
-  "psName": "Igglybuff",
   "formName": null,
   "region": "johto",
   "generation": 2,
   "type1": "normal",
   "type2": "fairy",
+  "teraType": null,
   "color": "pink",
   "abilities": {
     "primary": "cutecharm",
@@ -82,6 +82,8 @@
   },
   "weight": 100,
   "height": 30,
+  "maleRate": 25,
+  "femaleRate": 75,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -90,6 +92,7 @@
     "smogon": "igglybuff",
     "showdown": "igglybuff",
     "serebii": "igglybuff",
-    "bulbapedia": "Igglybuff"
+    "bulbapedia": "Igglybuff",
+    "showdownName": "Igglybuff"
   }
 }

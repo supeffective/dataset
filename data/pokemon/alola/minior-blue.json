@@ -4,12 +4,12 @@
   "dexNum": 774,
   "formId": "blue",
   "name": "Minior Blue Core",
-  "psName": "Minior",
   "formName": "Blue Core",
   "region": "alola",
   "generation": 7,
   "type1": "rock",
   "type2": "flying",
+  "teraType": null,
   "color": "red",
   "abilities": {
     "primary": "shieldsdown",
@@ -65,6 +65,8 @@
   },
   "weight": 30,
   "height": 30,
+  "maleRate": 0,
+  "femaleRate": 0,
   "baseSpecies": "minior",
   "baseForms": [
     "minior"
@@ -75,6 +77,7 @@
     "smogon": "minior-blue",
     "showdown": "minior",
     "serebii": "minior",
-    "bulbapedia": "Minior"
+    "bulbapedia": "Minior",
+    "showdownName": "Minior"
   }
 }

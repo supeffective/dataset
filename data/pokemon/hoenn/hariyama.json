@@ -4,12 +4,12 @@
   "dexNum": 297,
   "formId": null,
   "name": "Hariyama",
-  "psName": "Hariyama",
   "formName": null,
   "region": "hoenn",
   "generation": 3,
   "type1": "fighting",
   "type2": null,
+  "teraType": null,
   "color": "brown",
   "abilities": {
     "primary": "thickfat",
@@ -78,6 +78,8 @@
   },
   "weight": 25380,
   "height": 230,
+  "maleRate": 75,
+  "femaleRate": 25,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -89,6 +91,7 @@
     "smogon": "hariyama",
     "showdown": "hariyama",
     "serebii": "hariyama",
-    "bulbapedia": "Hariyama"
+    "bulbapedia": "Hariyama",
+    "showdownName": "Hariyama"
   }
 }

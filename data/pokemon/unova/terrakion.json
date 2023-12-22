@@ -4,12 +4,12 @@
   "dexNum": 639,
   "formId": null,
   "name": "Terrakion",
-  "psName": "Terrakion",
   "formName": null,
   "region": "unova",
   "generation": 5,
   "type1": "rock",
   "type2": "fighting",
+  "teraType": null,
   "color": "gray",
   "abilities": {
     "primary": "justified",
@@ -69,6 +69,8 @@
   },
   "weight": 26000,
   "height": 190,
+  "maleRate": 0,
+  "femaleRate": 0,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -77,6 +79,7 @@
     "smogon": "terrakion",
     "showdown": "terrakion",
     "serebii": "terrakion",
-    "bulbapedia": "Terrakion"
+    "bulbapedia": "Terrakion",
+    "showdownName": "Terrakion"
   }
 }

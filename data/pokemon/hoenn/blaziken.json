@@ -4,12 +4,12 @@
   "dexNum": 257,
   "formId": null,
   "name": "Blaziken",
-  "psName": "Blaziken",
   "formName": null,
   "region": "hoenn",
   "generation": 3,
   "type1": "fire",
   "type2": "fighting",
+  "teraType": null,
   "color": "red",
   "abilities": {
     "primary": "blaze",
@@ -80,6 +80,8 @@
   },
   "weight": 5200,
   "height": 190,
+  "maleRate": 87.5,
+  "femaleRate": 12.5,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [
@@ -94,6 +96,7 @@
     "smogon": "blaziken",
     "showdown": "blaziken",
     "serebii": "blaziken",
-    "bulbapedia": "Blaziken"
+    "bulbapedia": "Blaziken",
+    "showdownName": "Blaziken"
   }
 }

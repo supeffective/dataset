@@ -4,12 +4,12 @@
   "dexNum": 633,
   "formId": null,
   "name": "Deino",
-  "psName": "Deino",
   "formName": null,
   "region": "unova",
   "generation": 5,
   "type1": "dark",
   "type2": "dragon",
+  "teraType": null,
   "color": "blue",
   "abilities": {
     "primary": "hustle",
@@ -71,6 +71,8 @@
   },
   "weight": 1730,
   "height": 80,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -79,6 +81,7 @@
     "smogon": "deino",
     "showdown": "deino",
     "serebii": "deino",
-    "bulbapedia": "Deino"
+    "bulbapedia": "Deino",
+    "showdownName": "Deino"
   }
 }

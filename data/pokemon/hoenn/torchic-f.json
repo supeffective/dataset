@@ -4,12 +4,12 @@
   "dexNum": 255,
   "formId": "f",
   "name": "Torchic ♀",
-  "psName": "Torchic",
   "formName": "Female",
   "region": "hoenn",
   "generation": 4,
   "type1": "fire",
   "type2": null,
+  "teraType": null,
   "color": "red",
   "abilities": {
     "primary": "blaze",
@@ -75,6 +75,8 @@
   },
   "weight": 250,
   "height": 40,
+  "maleRate": 87.5,
+  "femaleRate": 12.5,
   "baseSpecies": "torchic",
   "baseForms": [],
   "forms": [],
@@ -83,6 +85,7 @@
     "smogon": "torchic",
     "showdown": "torchic",
     "serebii": "torchic",
-    "bulbapedia": "Torchic"
+    "bulbapedia": "Torchic",
+    "showdownName": "Torchic"
   }
 }

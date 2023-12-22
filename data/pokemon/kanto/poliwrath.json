@@ -4,12 +4,12 @@
   "dexNum": 62,
   "formId": null,
   "name": "Poliwrath",
-  "psName": "Poliwrath",
   "formName": null,
   "region": "kanto",
   "generation": 1,
   "type1": "water",
   "type2": "fighting",
+  "teraType": null,
   "color": "blue",
   "abilities": {
     "primary": "waterabsorb",
@@ -86,6 +86,8 @@
   },
   "weight": 5400,
   "height": 130,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -98,6 +100,7 @@
     "smogon": "poliwrath",
     "showdown": "poliwrath",
     "serebii": "poliwrath",
-    "bulbapedia": "Poliwrath"
+    "bulbapedia": "Poliwrath",
+    "showdownName": "Poliwrath"
   }
 }

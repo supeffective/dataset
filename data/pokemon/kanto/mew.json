@@ -4,12 +4,12 @@
   "dexNum": 151,
   "formId": null,
   "name": "Mew",
-  "psName": "Mew",
   "formName": null,
   "region": "kanto",
   "generation": 1,
   "type1": "psychic",
   "type2": null,
+  "teraType": null,
   "color": "pink",
   "abilities": {
     "primary": "synchronize",
@@ -89,6 +89,8 @@
   },
   "weight": 400,
   "height": 40,
+  "maleRate": 0,
+  "femaleRate": 0,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -97,6 +99,7 @@
     "smogon": "mew",
     "showdown": "mew",
     "serebii": "mew",
-    "bulbapedia": "Mew"
+    "bulbapedia": "Mew",
+    "showdownName": "Mew"
   }
 }

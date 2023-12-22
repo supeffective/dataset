@@ -4,12 +4,12 @@
   "dexNum": 646,
   "formId": "black",
   "name": "Black Kyurem",
-  "psName": "Kyurem-Black",
   "formName": "Black",
   "region": "unova",
   "generation": 5,
   "type1": "dragon",
   "type2": "ice",
+  "teraType": null,
   "color": "gray",
   "abilities": {
     "primary": "teravolt",
@@ -67,6 +67,8 @@
   },
   "weight": 32500,
   "height": 330,
+  "maleRate": 0,
+  "femaleRate": 0,
   "baseSpecies": "kyurem",
   "baseForms": [
     "kyurem"
@@ -77,6 +79,7 @@
     "smogon": "kyurem-black",
     "showdown": "kyuremblack",
     "serebii": "kyurem",
-    "bulbapedia": "Kyurem"
+    "bulbapedia": "Kyurem",
+    "showdownName": "Kyurem-Black"
   }
 }

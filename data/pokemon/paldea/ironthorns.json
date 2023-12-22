@@ -4,12 +4,12 @@
   "dexNum": 995,
   "formId": null,
   "name": "Iron Thorns",
-  "psName": "Iron Thorns",
   "formName": null,
   "region": "paldea",
   "generation": 9,
   "type1": "rock",
   "type2": "electric",
+  "teraType": null,
   "color": "green",
   "abilities": {
     "primary": "quarkdrive",
@@ -59,6 +59,8 @@
   },
   "weight": 30300,
   "height": 160,
+  "maleRate": 0,
+  "femaleRate": 0,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -67,6 +69,7 @@
     "smogon": "ironthorns",
     "showdown": "ironthorns",
     "serebii": "ironthorns",
-    "bulbapedia": "Ironthorns"
+    "bulbapedia": "Ironthorns",
+    "showdownName": "Iron Thorns"
   }
 }

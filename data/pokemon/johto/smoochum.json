@@ -4,12 +4,12 @@
   "dexNum": 238,
   "formId": null,
   "name": "Smoochum",
-  "psName": "Smoochum",
   "formName": null,
   "region": "johto",
   "generation": 2,
   "type1": "ice",
   "type2": "psychic",
+  "teraType": null,
   "color": "pink",
   "abilities": {
     "primary": "oblivious",
@@ -80,6 +80,8 @@
   },
   "weight": 600,
   "height": 40,
+  "maleRate": 0,
+  "femaleRate": 100,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -88,6 +90,7 @@
     "smogon": "smoochum",
     "showdown": "smoochum",
     "serebii": "smoochum",
-    "bulbapedia": "Smoochum"
+    "bulbapedia": "Smoochum",
+    "showdownName": "Smoochum"
   }
 }

@@ -4,12 +4,12 @@
   "dexNum": 125,
   "formId": null,
   "name": "Electabuzz",
-  "psName": "Electabuzz",
   "formName": null,
   "region": "kanto",
   "generation": 1,
   "type1": "electric",
   "type2": null,
+  "teraType": null,
   "color": "yellow",
   "abilities": {
     "primary": "static",
@@ -88,6 +88,8 @@
   },
   "weight": 3000,
   "height": 110,
+  "maleRate": 75,
+  "femaleRate": 25,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -99,6 +101,7 @@
     "smogon": "electabuzz",
     "showdown": "electabuzz",
     "serebii": "electabuzz",
-    "bulbapedia": "Electabuzz"
+    "bulbapedia": "Electabuzz",
+    "showdownName": "Electabuzz"
   }
 }

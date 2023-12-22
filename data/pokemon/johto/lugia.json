@@ -4,12 +4,12 @@
   "dexNum": 249,
   "formId": null,
   "name": "Lugia",
-  "psName": "Lugia",
   "formName": null,
   "region": "johto",
   "generation": 2,
   "type1": "psychic",
   "type2": "flying",
+  "teraType": null,
   "color": "white",
   "abilities": {
     "primary": "pressure",
@@ -80,6 +80,8 @@
   },
   "weight": 21600,
   "height": 520,
+  "maleRate": 0,
+  "femaleRate": 0,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -88,6 +90,7 @@
     "smogon": "lugia",
     "showdown": "lugia",
     "serebii": "lugia",
-    "bulbapedia": "Lugia"
+    "bulbapedia": "Lugia",
+    "showdownName": "Lugia"
   }
 }

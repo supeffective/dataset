@@ -4,12 +4,12 @@
   "dexNum": 362,
   "formId": "mega",
   "name": "Mega Glalie",
-  "psName": "Glalie-Mega",
   "formName": "Mega",
   "region": "kalos",
   "generation": 6,
   "type1": "ice",
   "type2": null,
+  "teraType": null,
   "color": "gray",
   "abilities": {
     "primary": "refrigerate",
@@ -59,6 +59,8 @@
   },
   "weight": 35020,
   "height": 210,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": "glalie",
   "baseForms": [
     "glalie"
@@ -69,6 +71,7 @@
     "smogon": "glalie-mega",
     "showdown": "glaliemega",
     "serebii": "glalie",
-    "bulbapedia": "Glalie"
+    "bulbapedia": "Glalie",
+    "showdownName": "Glalie-Mega"
   }
 }

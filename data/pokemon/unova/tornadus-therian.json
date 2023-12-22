@@ -4,12 +4,12 @@
   "dexNum": 641,
   "formId": "therian",
   "name": "Tornadus Therian Forme",
-  "psName": "Tornadus-Therian",
   "formName": "Therian Forme",
   "region": "unova",
   "generation": 5,
   "type1": "flying",
   "type2": null,
+  "teraType": null,
   "color": "green",
   "abilities": {
     "primary": "regenerator",
@@ -70,6 +70,8 @@
   },
   "weight": 6300,
   "height": 140,
+  "maleRate": 100,
+  "femaleRate": 0,
   "baseSpecies": "tornadus",
   "baseForms": [
     "tornadus"
@@ -80,6 +82,7 @@
     "smogon": "tornadus-therian",
     "showdown": "tornadustherian",
     "serebii": "tornadus",
-    "bulbapedia": "Tornadus"
+    "bulbapedia": "Tornadus",
+    "showdownName": "Tornadus-Therian"
   }
 }

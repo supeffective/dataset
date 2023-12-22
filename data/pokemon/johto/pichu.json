@@ -4,12 +4,12 @@
   "dexNum": 172,
   "formId": null,
   "name": "Pichu",
-  "psName": "Pichu",
   "formName": null,
   "region": "johto",
   "generation": 2,
   "type1": "electric",
   "type2": null,
+  "teraType": null,
   "color": "yellow",
   "abilities": {
     "primary": "static",
@@ -84,6 +84,8 @@
   },
   "weight": 200,
   "height": 30,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -92,6 +94,7 @@
     "smogon": "pichu",
     "showdown": "pichu",
     "serebii": "pichu",
-    "bulbapedia": "Pichu"
+    "bulbapedia": "Pichu",
+    "showdownName": "Pichu"
   }
 }

@@ -4,12 +4,12 @@
   "dexNum": 302,
   "formId": null,
   "name": "Sableye",
-  "psName": "Sableye",
   "formName": null,
   "region": "hoenn",
   "generation": 3,
   "type1": "dark",
   "type2": "ghost",
+  "teraType": null,
   "color": "purple",
   "abilities": {
     "primary": "keeneye",
@@ -80,6 +80,8 @@
   },
   "weight": 1100,
   "height": 50,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [
@@ -90,6 +92,7 @@
     "smogon": "sableye",
     "showdown": "sableye",
     "serebii": "sableye",
-    "bulbapedia": "Sableye"
+    "bulbapedia": "Sableye",
+    "showdownName": "Sableye"
   }
 }

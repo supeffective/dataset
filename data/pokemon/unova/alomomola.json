@@ -4,12 +4,12 @@
   "dexNum": 594,
   "formId": null,
   "name": "Alomomola",
-  "psName": "Alomomola",
   "formName": null,
   "region": "unova",
   "generation": 5,
   "type1": "water",
   "type2": null,
+  "teraType": null,
   "color": "pink",
   "abilities": {
     "primary": "healer",
@@ -69,6 +69,8 @@
   },
   "weight": 3160,
   "height": 120,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -77,6 +79,7 @@
     "smogon": "alomomola",
     "showdown": "alomomola",
     "serebii": "alomomola",
-    "bulbapedia": "Alomomola"
+    "bulbapedia": "Alomomola",
+    "showdownName": "Alomomola"
   }
 }

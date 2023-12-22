@@ -4,12 +4,12 @@
   "dexNum": 648,
   "formId": "pirouette",
   "name": "Meloetta Pirouette Forme",
-  "psName": "Meloetta-Pirouette",
   "formName": "Pirouette Forme",
   "region": "unova",
   "generation": 5,
   "type1": "normal",
   "type2": "fighting",
+  "teraType": null,
   "color": "white",
   "abilities": {
     "primary": "serenegrace",
@@ -56,6 +56,8 @@
   },
   "weight": 650,
   "height": 60,
+  "maleRate": 0,
+  "femaleRate": 0,
   "baseSpecies": "meloetta",
   "baseForms": [
     "meloetta"
@@ -66,6 +68,7 @@
     "smogon": "meloetta-pirouette",
     "showdown": "meloettapirouette",
     "serebii": "meloetta",
-    "bulbapedia": "Meloetta"
+    "bulbapedia": "Meloetta",
+    "showdownName": "Meloetta-Pirouette"
   }
 }

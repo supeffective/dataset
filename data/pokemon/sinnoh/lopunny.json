@@ -4,12 +4,12 @@
   "dexNum": 428,
   "formId": null,
   "name": "Lopunny",
-  "psName": "Lopunny",
   "formName": null,
   "region": "sinnoh",
   "generation": 4,
   "type1": "normal",
   "type2": null,
+  "teraType": null,
   "color": "brown",
   "abilities": {
     "primary": "cutecharm",
@@ -76,6 +76,8 @@
   },
   "weight": 3330,
   "height": 120,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [
@@ -89,6 +91,7 @@
     "smogon": "lopunny",
     "showdown": "lopunny",
     "serebii": "lopunny",
-    "bulbapedia": "Lopunny"
+    "bulbapedia": "Lopunny",
+    "showdownName": "Lopunny"
   }
 }

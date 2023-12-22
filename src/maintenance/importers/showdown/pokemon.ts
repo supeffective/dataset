@@ -99,7 +99,7 @@ export const importShowdownPokemon = (): void => {
       if (setPkm.dexNum <= 0) {
         continue
       }
-      if (ignoredShowdownIds.includes(setPkm.id) || ignoredShowdownIds.includes(setPkm.psName)) {
+      if (ignoredShowdownIds.includes(setPkm.id) || ignoredShowdownIds.includes(setPkm.refs.showdownName)) {
         continue
       }
 
@@ -164,9 +164,14 @@ export const importShowdownPokemon = (): void => {
     // weight
     pkm.weight = Math.round(showdownData.weighthg * 10)
 
-    // type1
+    // types
     pkm.type1 = showdownData.types[0].toLowerCase()
     pkm.type2 = showdownData.types[1]?.toLowerCase() ?? null
+    pkm.teraType = showdownData.forceTeraType?.toLowerCase() ?? null
+
+    // gender ratio
+    pkm.maleRate = showdownData.genderRatio.M * 100
+    pkm.femaleRate = showdownData.genderRatio.F * 100
 
     // stats
     pkm.baseStats.hp = showdownData.baseStats.hp
@@ -176,8 +181,12 @@ export const importShowdownPokemon = (): void => {
     pkm.baseStats.spd = showdownData.baseStats.spd
     pkm.baseStats.spe = showdownData.baseStats.spe
 
-    // update psName
-    pkm.psName = showdownData.name
+    // update showdown Name
+    pkm.refs = {
+      ...pkm.refs,
+      showdown: pkm.refs.showdown ?? showdownData.id,
+      showdownName: showdownData.name,
+    }
 
     if (showdownData.prevo) {
       const prevo = getPokemonByShowdownNameOrFail(showdownData.prevo)

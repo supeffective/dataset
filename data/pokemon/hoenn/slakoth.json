@@ -4,12 +4,12 @@
   "dexNum": 287,
   "formId": null,
   "name": "Slakoth",
-  "psName": "Slakoth",
   "formName": null,
   "region": "hoenn",
   "generation": 3,
   "type1": "normal",
   "type2": null,
+  "teraType": null,
   "color": "brown",
   "abilities": {
     "primary": "truant",
@@ -78,6 +78,8 @@
   },
   "weight": 2400,
   "height": 80,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -86,6 +88,7 @@
     "smogon": "slakoth",
     "showdown": "slakoth",
     "serebii": "slakoth",
-    "bulbapedia": "Slakoth"
+    "bulbapedia": "Slakoth",
+    "showdownName": "Slakoth"
   }
 }

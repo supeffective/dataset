@@ -4,12 +4,12 @@
   "dexNum": 133,
   "formId": "gmax",
   "name": "Gigantamax Eevee",
-  "psName": "Eevee-Gmax",
   "formName": "Gigantamax",
   "region": "galar",
   "generation": 8,
   "type1": "normal",
   "type2": null,
+  "teraType": null,
   "color": "brown",
   "abilities": {
     "primary": "runaway",
@@ -56,6 +56,8 @@
   },
   "weight": 0,
   "height": 1800,
+  "maleRate": 87.5,
+  "femaleRate": 12.5,
   "baseSpecies": "eevee",
   "baseForms": [
     "eevee"
@@ -66,6 +68,7 @@
     "smogon": "eevee-gmax",
     "showdown": "eeveegmax",
     "serebii": "eevee",
-    "bulbapedia": "Eevee"
+    "bulbapedia": "Eevee",
+    "showdownName": "Eevee-Gmax"
   }
 }

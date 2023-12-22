@@ -4,12 +4,12 @@
   "dexNum": 654,
   "formId": null,
   "name": "Braixen",
-  "psName": "Braixen",
   "formName": null,
   "region": "kalos",
   "generation": 6,
   "type1": "fire",
   "type2": null,
+  "teraType": null,
   "color": "red",
   "abilities": {
     "primary": "blaze",
@@ -66,6 +66,8 @@
   },
   "weight": 1450,
   "height": 100,
+  "maleRate": 87.5,
+  "femaleRate": 12.5,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -77,6 +79,7 @@
     "smogon": "braixen",
     "showdown": "braixen",
     "serebii": "braixen",
-    "bulbapedia": "Braixen"
+    "bulbapedia": "Braixen",
+    "showdownName": "Braixen"
   }
 }

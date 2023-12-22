@@ -4,12 +4,12 @@
   "dexNum": 473,
   "formId": null,
   "name": "Mamoswine",
-  "psName": "Mamoswine",
   "formName": null,
   "region": "sinnoh",
   "generation": 4,
   "type1": "ice",
   "type2": "ground",
+  "teraType": null,
   "color": "brown",
   "abilities": {
     "primary": "oblivious",
@@ -78,6 +78,8 @@
   },
   "weight": 29100,
   "height": 250,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [
@@ -92,6 +94,7 @@
     "smogon": "mamoswine",
     "showdown": "mamoswine",
     "serebii": "mamoswine",
-    "bulbapedia": "Mamoswine"
+    "bulbapedia": "Mamoswine",
+    "showdownName": "Mamoswine"
   }
 }

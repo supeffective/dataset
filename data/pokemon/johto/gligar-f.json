@@ -4,12 +4,12 @@
   "dexNum": 207,
   "formId": "f",
   "name": "Gligar ♀",
-  "psName": "Gligar",
   "formName": "Female",
   "region": "johto",
   "generation": 4,
   "type1": "ground",
   "type2": "flying",
+  "teraType": null,
   "color": "purple",
   "abilities": {
     "primary": "hypercutter",
@@ -75,6 +75,8 @@
   },
   "weight": 6480,
   "height": 110,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": "gligar",
   "baseForms": [],
   "forms": [],
@@ -83,6 +85,7 @@
     "smogon": "gligar",
     "showdown": "gligar",
     "serebii": "gligar",
-    "bulbapedia": "Gligar"
+    "bulbapedia": "Gligar",
+    "showdownName": "Gligar"
   }
 }

@@ -4,12 +4,12 @@
   "dexNum": 666,
   "formId": "fancy",
   "name": "Vivillon Fancy Pattern",
-  "psName": "Vivillon-Fancy",
   "formName": "Fancy Pattern",
   "region": "kalos",
   "generation": 6,
   "type1": "bug",
   "type2": "flying",
+  "teraType": null,
   "color": "black",
   "abilities": {
     "primary": "shielddust",
@@ -65,6 +65,8 @@
   },
   "weight": 1700,
   "height": 120,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": "vivillon",
   "baseForms": [],
   "forms": [],
@@ -76,6 +78,7 @@
     "smogon": "vivillon-fancy",
     "showdown": "vivillonfancy",
     "serebii": "vivillon",
-    "bulbapedia": "Vivillon"
+    "bulbapedia": "Vivillon",
+    "showdownName": "Vivillon-Fancy"
   }
 }

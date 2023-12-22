@@ -4,12 +4,12 @@
   "dexNum": 929,
   "formId": null,
   "name": "Dolliv",
-  "psName": "Dolliv",
   "formName": null,
   "region": "paldea",
   "generation": 9,
   "type1": "grass",
   "type2": "normal",
+  "teraType": null,
   "color": "green",
   "abilities": {
     "primary": "earlybird",
@@ -61,6 +61,8 @@
   },
   "weight": 1190,
   "height": 60,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -72,6 +74,7 @@
     "smogon": "dolliv",
     "showdown": "dolliv",
     "serebii": "dolliv",
-    "bulbapedia": "Dolliv"
+    "bulbapedia": "Dolliv",
+    "showdownName": "Dolliv"
   }
 }

@@ -4,12 +4,12 @@
   "dexNum": 12,
   "formId": "gmax",
   "name": "Gigantamax Butterfree",
-  "psName": "Butterfree-Gmax",
   "formName": "Gigantamax",
   "region": "galar",
   "generation": 8,
   "type1": "bug",
   "type2": "flying",
+  "teraType": null,
   "color": "white",
   "abilities": {
     "primary": "compoundeyes",
@@ -56,6 +56,8 @@
   },
   "weight": 0,
   "height": 1700,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": "butterfree",
   "baseForms": [
     "butterfree",
@@ -67,6 +69,7 @@
     "smogon": "butterfree-gmax",
     "showdown": "butterfreegmax",
     "serebii": "butterfree",
-    "bulbapedia": "Butterfree"
+    "bulbapedia": "Butterfree",
+    "showdownName": "Butterfree-Gmax"
   }
 }

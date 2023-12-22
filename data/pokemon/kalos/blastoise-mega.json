@@ -4,12 +4,12 @@
   "dexNum": 9,
   "formId": "mega",
   "name": "Mega Blastoise",
-  "psName": "Blastoise-Mega",
   "formName": "Mega",
   "region": "kalos",
   "generation": 6,
   "type1": "water",
   "type2": null,
+  "teraType": null,
   "color": "blue",
   "abilities": {
     "primary": "megalauncher",
@@ -59,6 +59,8 @@
   },
   "weight": 10110,
   "height": 160,
+  "maleRate": 87.5,
+  "femaleRate": 12.5,
   "baseSpecies": "blastoise",
   "baseForms": [
     "blastoise"
@@ -69,6 +71,7 @@
     "smogon": "blastoise-mega",
     "showdown": "blastoisemega",
     "serebii": "blastoise",
-    "bulbapedia": "Blastoise"
+    "bulbapedia": "Blastoise",
+    "showdownName": "Blastoise-Mega"
   }
 }

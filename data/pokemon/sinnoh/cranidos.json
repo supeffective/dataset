@@ -4,12 +4,12 @@
   "dexNum": 408,
   "formId": null,
   "name": "Cranidos",
-  "psName": "Cranidos",
   "formName": null,
   "region": "sinnoh",
   "generation": 4,
   "type1": "rock",
   "type2": null,
+  "teraType": null,
   "color": "blue",
   "abilities": {
     "primary": "moldbreaker",
@@ -76,6 +76,8 @@
   },
   "weight": 3150,
   "height": 90,
+  "maleRate": 87.5,
+  "femaleRate": 12.5,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -84,6 +86,7 @@
     "smogon": "cranidos",
     "showdown": "cranidos",
     "serebii": "cranidos",
-    "bulbapedia": "Cranidos"
+    "bulbapedia": "Cranidos",
+    "showdownName": "Cranidos"
   }
 }

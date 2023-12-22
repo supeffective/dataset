@@ -4,12 +4,12 @@
   "dexNum": 801,
   "formId": null,
   "name": "Magearna",
-  "psName": "Magearna",
   "formName": null,
   "region": "alola",
   "generation": 7,
   "type1": "steel",
   "type2": "fairy",
+  "teraType": null,
   "color": "gray",
   "abilities": {
     "primary": "soulheart",
@@ -64,6 +64,8 @@
   },
   "weight": 8050,
   "height": 100,
+  "maleRate": 0,
+  "femaleRate": 0,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [
@@ -74,6 +76,7 @@
     "smogon": "magearna",
     "showdown": "magearna",
     "serebii": "magearna",
-    "bulbapedia": "Magearna"
+    "bulbapedia": "Magearna",
+    "showdownName": "Magearna"
   }
 }

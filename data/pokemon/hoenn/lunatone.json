@@ -4,12 +4,12 @@
   "dexNum": 337,
   "formId": null,
   "name": "Lunatone",
-  "psName": "Lunatone",
   "formName": null,
   "region": "hoenn",
   "generation": 3,
   "type1": "rock",
   "type2": "psychic",
+  "teraType": null,
   "color": "yellow",
   "abilities": {
     "primary": "levitate",
@@ -78,6 +78,8 @@
   },
   "weight": 16800,
   "height": 100,
+  "maleRate": 0,
+  "femaleRate": 0,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -86,6 +88,7 @@
     "smogon": "lunatone",
     "showdown": "lunatone",
     "serebii": "lunatone",
-    "bulbapedia": "Lunatone"
+    "bulbapedia": "Lunatone",
+    "showdownName": "Lunatone"
   }
 }

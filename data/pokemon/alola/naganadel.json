@@ -4,12 +4,12 @@
   "dexNum": 804,
   "formId": null,
   "name": "Naganadel",
-  "psName": "Naganadel",
   "formName": null,
   "region": "alola",
   "generation": 7,
   "type1": "poison",
   "type2": "dragon",
+  "teraType": null,
   "color": "purple",
   "abilities": {
     "primary": "beastboost",
@@ -61,6 +61,8 @@
   },
   "weight": 15000,
   "height": 360,
+  "maleRate": 0,
+  "femaleRate": 0,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -73,6 +75,7 @@
     "smogon": "naganadel",
     "showdown": "naganadel",
     "serebii": "naganadel",
-    "bulbapedia": "Naganadel"
+    "bulbapedia": "Naganadel",
+    "showdownName": "Naganadel"
   }
 }

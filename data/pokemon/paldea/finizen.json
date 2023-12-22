@@ -4,12 +4,12 @@
   "dexNum": 963,
   "formId": null,
   "name": "Finizen",
-  "psName": "Finizen",
   "formName": null,
   "region": "paldea",
   "generation": 9,
   "type1": "water",
   "type2": null,
+  "teraType": null,
   "color": "blue",
   "abilities": {
     "primary": "waterveil",
@@ -59,6 +59,8 @@
   },
   "weight": 6020,
   "height": 130,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -67,6 +69,7 @@
     "smogon": "finizen",
     "showdown": "finizen",
     "serebii": "finizen",
-    "bulbapedia": "Finizen"
+    "bulbapedia": "Finizen",
+    "showdownName": "Finizen"
   }
 }

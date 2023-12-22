@@ -4,12 +4,12 @@
   "dexNum": 279,
   "formId": null,
   "name": "Pelipper",
-  "psName": "Pelipper",
   "formName": null,
   "region": "hoenn",
   "generation": 3,
   "type1": "water",
   "type2": "flying",
+  "teraType": null,
   "color": "yellow",
   "abilities": {
     "primary": "keeneye",
@@ -80,6 +80,8 @@
   },
   "weight": 2800,
   "height": 120,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -91,6 +93,7 @@
     "smogon": "pelipper",
     "showdown": "pelipper",
     "serebii": "pelipper",
-    "bulbapedia": "Pelipper"
+    "bulbapedia": "Pelipper",
+    "showdownName": "Pelipper"
   }
 }

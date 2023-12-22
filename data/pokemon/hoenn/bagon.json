@@ -4,12 +4,12 @@
   "dexNum": 371,
   "formId": null,
   "name": "Bagon",
-  "psName": "Bagon",
   "formName": null,
   "region": "hoenn",
   "generation": 3,
   "type1": "dragon",
   "type2": null,
+  "teraType": null,
   "color": "blue",
   "abilities": {
     "primary": "rockhead",
@@ -80,6 +80,8 @@
   },
   "weight": 4210,
   "height": 60,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -88,6 +90,7 @@
     "smogon": "bagon",
     "showdown": "bagon",
     "serebii": "bagon",
-    "bulbapedia": "Bagon"
+    "bulbapedia": "Bagon",
+    "showdownName": "Bagon"
   }
 }

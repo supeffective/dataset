@@ -4,12 +4,12 @@
   "dexNum": 128,
   "formId": "paldea-fire",
   "name": "Paldean Tauros - Blaze Breed",
-  "psName": "Tauros-Paldea-Blaze",
   "formName": "Paldean Blaze Breed",
   "region": "paldea",
   "generation": 9,
   "type1": "fighting",
   "type2": "fire",
+  "teraType": null,
   "color": "black",
   "abilities": {
     "primary": "intimidate",
@@ -59,6 +59,8 @@
   },
   "weight": 8500,
   "height": 140,
+  "maleRate": 100,
+  "femaleRate": 0,
   "baseSpecies": "tauros",
   "baseForms": [
     "tauros-paldea"
@@ -69,6 +71,7 @@
     "smogon": "tauros-paldea-fire",
     "showdown": "taurospaldeablaze",
     "serebii": "Tauros",
-    "bulbapedia": "Tauros_Paldea_Fire"
+    "bulbapedia": "Tauros_Paldea_Fire",
+    "showdownName": "Tauros-Paldea-Blaze"
   }
 }

@@ -4,12 +4,12 @@
   "dexNum": 394,
   "formId": null,
   "name": "Prinplup",
-  "psName": "Prinplup",
   "formName": null,
   "region": "sinnoh",
   "generation": 4,
   "type1": "water",
   "type2": null,
+  "teraType": null,
   "color": "blue",
   "abilities": {
     "primary": "torrent",
@@ -76,6 +76,8 @@
   },
   "weight": 2300,
   "height": 80,
+  "maleRate": 87.5,
+  "femaleRate": 12.5,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -87,6 +89,7 @@
     "smogon": "prinplup",
     "showdown": "prinplup",
     "serebii": "prinplup",
-    "bulbapedia": "Prinplup"
+    "bulbapedia": "Prinplup",
+    "showdownName": "Prinplup"
   }
 }

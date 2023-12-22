@@ -4,12 +4,12 @@
   "dexNum": 834,
   "formId": null,
   "name": "Drednaw",
-  "psName": "Drednaw",
   "formName": null,
   "region": "galar",
   "generation": 8,
   "type1": "water",
   "type2": "rock",
+  "teraType": null,
   "color": "green",
   "abilities": {
     "primary": "strongjaw",
@@ -61,6 +61,8 @@
   },
   "weight": 11550,
   "height": 100,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [
@@ -74,6 +76,7 @@
     "smogon": "drednaw",
     "showdown": "drednaw",
     "serebii": "drednaw",
-    "bulbapedia": "Drednaw"
+    "bulbapedia": "Drednaw",
+    "showdownName": "Drednaw"
   }
 }

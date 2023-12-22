@@ -4,12 +4,12 @@
   "dexNum": 485,
   "formId": null,
   "name": "Heatran",
-  "psName": "Heatran",
   "formName": null,
   "region": "sinnoh",
   "generation": 4,
   "type1": "fire",
   "type2": "steel",
+  "teraType": null,
   "color": "brown",
   "abilities": {
     "primary": "flashfire",
@@ -77,6 +77,8 @@
   },
   "weight": 43000,
   "height": 170,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -85,6 +87,7 @@
     "smogon": "heatran",
     "showdown": "heatran",
     "serebii": "heatran",
-    "bulbapedia": "Heatran"
+    "bulbapedia": "Heatran",
+    "showdownName": "Heatran"
   }
 }

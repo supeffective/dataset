@@ -4,12 +4,12 @@
   "dexNum": 259,
   "formId": null,
   "name": "Marshtomp",
-  "psName": "Marshtomp",
   "formName": null,
   "region": "hoenn",
   "generation": 3,
   "type1": "water",
   "type2": "ground",
+  "teraType": null,
   "color": "blue",
   "abilities": {
     "primary": "torrent",
@@ -80,6 +80,8 @@
   },
   "weight": 2800,
   "height": 70,
+  "maleRate": 87.5,
+  "femaleRate": 12.5,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -91,6 +93,7 @@
     "smogon": "marshtomp",
     "showdown": "marshtomp",
     "serebii": "marshtomp",
-    "bulbapedia": "Marshtomp"
+    "bulbapedia": "Marshtomp",
+    "showdownName": "Marshtomp"
   }
 }

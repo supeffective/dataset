@@ -4,12 +4,12 @@
   "dexNum": 104,
   "formId": null,
   "name": "Cubone",
-  "psName": "Cubone",
   "formName": null,
   "region": "kanto",
   "generation": 1,
   "type1": "ground",
   "type2": null,
+  "teraType": null,
   "color": "brown",
   "abilities": {
     "primary": "rockhead",
@@ -84,6 +84,8 @@
   },
   "weight": 650,
   "height": 40,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -92,6 +94,7 @@
     "smogon": "cubone",
     "showdown": "cubone",
     "serebii": "cubone",
-    "bulbapedia": "Cubone"
+    "bulbapedia": "Cubone",
+    "showdownName": "Cubone"
   }
 }

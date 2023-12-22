@@ -4,12 +4,12 @@
   "dexNum": 876,
   "formId": "m",
   "name": "Indeedee",
-  "psName": "Indeedee",
   "formName": "Male",
   "region": "galar",
   "generation": 8,
   "type1": "psychic",
   "type2": "normal",
+  "teraType": null,
   "color": "purple",
   "abilities": {
     "primary": "innerfocus",
@@ -61,6 +61,8 @@
   },
   "weight": 2800,
   "height": 90,
+  "maleRate": 100,
+  "femaleRate": 0,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [
@@ -71,6 +73,7 @@
     "smogon": "indeedee",
     "showdown": "indeedee",
     "serebii": "indeedee",
-    "bulbapedia": "Indeedee"
+    "bulbapedia": "Indeedee",
+    "showdownName": "Indeedee"
   }
 }

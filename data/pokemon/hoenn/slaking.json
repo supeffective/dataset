@@ -4,12 +4,12 @@
   "dexNum": 289,
   "formId": null,
   "name": "Slaking",
-  "psName": "Slaking",
   "formName": null,
   "region": "hoenn",
   "generation": 3,
   "type1": "normal",
   "type2": null,
+  "teraType": null,
   "color": "brown",
   "abilities": {
     "primary": "truant",
@@ -78,6 +78,8 @@
   },
   "weight": 13050,
   "height": 200,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -89,6 +91,7 @@
     "smogon": "slaking",
     "showdown": "slaking",
     "serebii": "slaking",
-    "bulbapedia": "Slaking"
+    "bulbapedia": "Slaking",
+    "showdownName": "Slaking"
   }
 }

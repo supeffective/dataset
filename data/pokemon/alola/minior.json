@@ -4,12 +4,12 @@
   "dexNum": 774,
   "formId": "meteor",
   "name": "Minior Meteor Form",
-  "psName": "Minior-Meteor",
   "formName": "Meteor Form",
   "region": "alola",
   "generation": 7,
   "type1": "rock",
   "type2": "flying",
+  "teraType": null,
   "color": "red",
   "abilities": {
     "primary": "shieldsdown",
@@ -58,6 +58,8 @@
   },
   "weight": 4000,
   "height": 30,
+  "maleRate": 0,
+  "femaleRate": 0,
   "baseSpecies": null,
   "baseForms": [
     "minior-red",
@@ -82,6 +84,7 @@
     "smogon": "minior",
     "showdown": "miniormeteor",
     "serebii": "minior",
-    "bulbapedia": "Minior Meteor Form"
+    "bulbapedia": "Minior Meteor Form",
+    "showdownName": "Minior-Meteor"
   }
 }

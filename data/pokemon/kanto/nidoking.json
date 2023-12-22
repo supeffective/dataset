@@ -4,12 +4,12 @@
   "dexNum": 34,
   "formId": null,
   "name": "Nidoking",
-  "psName": "Nidoking",
   "formName": null,
   "region": "kanto",
   "generation": 1,
   "type1": "poison",
   "type2": "ground",
+  "teraType": null,
   "color": "purple",
   "abilities": {
     "primary": "poisonpoint",
@@ -84,6 +84,8 @@
   },
   "weight": 6200,
   "height": 140,
+  "maleRate": 100,
+  "femaleRate": 0,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -96,6 +98,7 @@
     "smogon": "nidoking",
     "showdown": "nidoking",
     "serebii": "nidoking",
-    "bulbapedia": "Nidoking"
+    "bulbapedia": "Nidoking",
+    "showdownName": "Nidoking"
   }
 }

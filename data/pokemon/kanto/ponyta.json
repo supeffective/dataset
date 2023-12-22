@@ -4,12 +4,12 @@
   "dexNum": 77,
   "formId": null,
   "name": "Ponyta",
-  "psName": "Ponyta",
   "formName": null,
   "region": "kanto",
   "generation": 1,
   "type1": "fire",
   "type2": null,
+  "teraType": null,
   "color": "yellow",
   "abilities": {
     "primary": "runaway",
@@ -86,6 +86,8 @@
   },
   "weight": 3000,
   "height": 100,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [
@@ -96,6 +98,7 @@
     "smogon": "ponyta",
     "showdown": "ponyta",
     "serebii": "ponyta",
-    "bulbapedia": "Ponyta"
+    "bulbapedia": "Ponyta",
+    "showdownName": "Ponyta"
   }
 }

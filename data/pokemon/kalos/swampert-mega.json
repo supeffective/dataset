@@ -4,12 +4,12 @@
   "dexNum": 260,
   "formId": "mega",
   "name": "Mega Swampert",
-  "psName": "Swampert-Mega",
   "formName": "Mega",
   "region": "kalos",
   "generation": 6,
   "type1": "water",
   "type2": "ground",
+  "teraType": null,
   "color": "blue",
   "abilities": {
     "primary": "swiftswim",
@@ -59,6 +59,8 @@
   },
   "weight": 10200,
   "height": 190,
+  "maleRate": 87.5,
+  "femaleRate": 12.5,
   "baseSpecies": "swampert",
   "baseForms": [
     "swampert"
@@ -69,6 +71,7 @@
     "smogon": "swampert-mega",
     "showdown": "swampertmega",
     "serebii": "swampert",
-    "bulbapedia": "Swampert"
+    "bulbapedia": "Swampert",
+    "showdownName": "Swampert-Mega"
   }
 }

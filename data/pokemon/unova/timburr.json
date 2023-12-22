@@ -4,12 +4,12 @@
   "dexNum": 532,
   "formId": null,
   "name": "Timburr",
-  "psName": "Timburr",
   "formName": null,
   "region": "unova",
   "generation": 5,
   "type1": "fighting",
   "type2": null,
+  "teraType": null,
   "color": "gray",
   "abilities": {
     "primary": "guts",
@@ -71,6 +71,8 @@
   },
   "weight": 1250,
   "height": 60,
+  "maleRate": 75,
+  "femaleRate": 25,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -79,6 +81,7 @@
     "smogon": "timburr",
     "showdown": "timburr",
     "serebii": "timburr",
-    "bulbapedia": "Timburr"
+    "bulbapedia": "Timburr",
+    "showdownName": "Timburr"
   }
 }

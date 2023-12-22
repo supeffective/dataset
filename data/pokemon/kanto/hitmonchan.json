@@ -4,12 +4,12 @@
   "dexNum": 107,
   "formId": null,
   "name": "Hitmonchan",
-  "psName": "Hitmonchan",
   "formName": null,
   "region": "kanto",
   "generation": 1,
   "type1": "fighting",
   "type2": null,
+  "teraType": null,
   "color": "brown",
   "abilities": {
     "primary": "keeneye",
@@ -86,6 +86,8 @@
   },
   "weight": 5020,
   "height": 140,
+  "maleRate": 100,
+  "femaleRate": 0,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -98,6 +100,7 @@
     "smogon": "hitmonchan",
     "showdown": "hitmonchan",
     "serebii": "hitmonchan",
-    "bulbapedia": "Hitmonchan"
+    "bulbapedia": "Hitmonchan",
+    "showdownName": "Hitmonchan"
   }
 }

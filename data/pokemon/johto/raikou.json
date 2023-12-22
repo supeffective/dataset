@@ -4,12 +4,12 @@
   "dexNum": 243,
   "formId": null,
   "name": "Raikou",
-  "psName": "Raikou",
   "formName": null,
   "region": "johto",
   "generation": 2,
   "type1": "electric",
   "type2": null,
+  "teraType": null,
   "color": "yellow",
   "abilities": {
     "primary": "pressure",
@@ -80,6 +80,8 @@
   },
   "weight": 17800,
   "height": 190,
+  "maleRate": 0,
+  "femaleRate": 0,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -88,6 +90,7 @@
     "smogon": "raikou",
     "showdown": "raikou",
     "serebii": "raikou",
-    "bulbapedia": "Raikou"
+    "bulbapedia": "Raikou",
+    "showdownName": "Raikou"
   }
 }

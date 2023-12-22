@@ -4,12 +4,12 @@
   "dexNum": 613,
   "formId": null,
   "name": "Cubchoo",
-  "psName": "Cubchoo",
   "formName": null,
   "region": "unova",
   "generation": 5,
   "type1": "ice",
   "type2": null,
+  "teraType": null,
   "color": "white",
   "abilities": {
     "primary": "snowcloak",
@@ -71,6 +71,8 @@
   },
   "weight": 850,
   "height": 50,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -79,6 +81,7 @@
     "smogon": "cubchoo",
     "showdown": "cubchoo",
     "serebii": "cubchoo",
-    "bulbapedia": "Cubchoo"
+    "bulbapedia": "Cubchoo",
+    "showdownName": "Cubchoo"
   }
 }

@@ -4,12 +4,12 @@
   "dexNum": 263,
   "formId": null,
   "name": "Zigzagoon",
-  "psName": "Zigzagoon",
   "formName": null,
   "region": "hoenn",
   "generation": 3,
   "type1": "normal",
   "type2": null,
+  "teraType": null,
   "color": "brown",
   "abilities": {
     "primary": "pickup",
@@ -78,6 +78,8 @@
   },
   "weight": 1750,
   "height": 40,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [
@@ -88,6 +90,7 @@
     "smogon": "zigzagoon",
     "showdown": "zigzagoon",
     "serebii": "zigzagoon",
-    "bulbapedia": "Zigzagoon"
+    "bulbapedia": "Zigzagoon",
+    "showdownName": "Zigzagoon"
   }
 }

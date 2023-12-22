@@ -4,12 +4,12 @@
   "dexNum": 158,
   "formId": null,
   "name": "Totodile",
-  "psName": "Totodile",
   "formName": null,
   "region": "johto",
   "generation": 2,
   "type1": "water",
   "type2": null,
+  "teraType": null,
   "color": "blue",
   "abilities": {
     "primary": "torrent",
@@ -80,6 +80,8 @@
   },
   "weight": 950,
   "height": 60,
+  "maleRate": 87.5,
+  "femaleRate": 12.5,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -88,6 +90,7 @@
     "smogon": "totodile",
     "showdown": "totodile",
     "serebii": "totodile",
-    "bulbapedia": "Totodile"
+    "bulbapedia": "Totodile",
+    "showdownName": "Totodile"
   }
 }

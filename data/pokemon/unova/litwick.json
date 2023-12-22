@@ -4,12 +4,12 @@
   "dexNum": 607,
   "formId": null,
   "name": "Litwick",
-  "psName": "Litwick",
   "formName": null,
   "region": "unova",
   "generation": 5,
   "type1": "ghost",
   "type2": "fire",
+  "teraType": null,
   "color": "white",
   "abilities": {
     "primary": "flashfire",
@@ -71,6 +71,8 @@
   },
   "weight": 310,
   "height": 30,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -79,6 +81,7 @@
     "smogon": "litwick",
     "showdown": "litwick",
     "serebii": "litwick",
-    "bulbapedia": "Litwick"
+    "bulbapedia": "Litwick",
+    "showdownName": "Litwick"
   }
 }

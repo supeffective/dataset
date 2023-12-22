@@ -4,12 +4,12 @@
   "dexNum": 445,
   "formId": "f",
   "name": "Garchomp ♀",
-  "psName": "Garchomp",
   "formName": "Female",
   "region": "sinnoh",
   "generation": 4,
   "type1": "dragon",
   "type2": "ground",
+  "teraType": null,
   "color": "blue",
   "abilities": {
     "primary": "sandveil",
@@ -78,6 +78,8 @@
   },
   "weight": 9500,
   "height": 190,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": "garchomp",
   "baseForms": [],
   "forms": [],
@@ -89,6 +91,7 @@
     "smogon": "garchomp",
     "showdown": "garchomp",
     "serebii": "garchomp",
-    "bulbapedia": "Garchomp"
+    "bulbapedia": "Garchomp",
+    "showdownName": "Garchomp"
   }
 }

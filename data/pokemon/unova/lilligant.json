@@ -4,12 +4,12 @@
   "dexNum": 549,
   "formId": null,
   "name": "Lilligant",
-  "psName": "Lilligant",
   "formName": null,
   "region": "unova",
   "generation": 5,
   "type1": "grass",
   "type2": null,
+  "teraType": null,
   "color": "green",
   "abilities": {
     "primary": "chlorophyll",
@@ -71,6 +71,8 @@
   },
   "weight": 1630,
   "height": 110,
+  "maleRate": 0,
+  "femaleRate": 100,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [
@@ -85,6 +87,7 @@
     "smogon": "lilligant",
     "showdown": "lilligant",
     "serebii": "lilligant",
-    "bulbapedia": "Lilligant"
+    "bulbapedia": "Lilligant",
+    "showdownName": "Lilligant"
   }
 }

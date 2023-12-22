@@ -4,12 +4,12 @@
   "dexNum": 496,
   "formId": null,
   "name": "Servine",
-  "psName": "Servine",
   "formName": null,
   "region": "unova",
   "generation": 5,
   "type1": "grass",
   "type2": null,
+  "teraType": null,
   "color": "green",
   "abilities": {
     "primary": "overgrow",
@@ -69,6 +69,8 @@
   },
   "weight": 1600,
   "height": 80,
+  "maleRate": 87.5,
+  "femaleRate": 12.5,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -80,6 +82,7 @@
     "smogon": "servine",
     "showdown": "servine",
     "serebii": "servine",
-    "bulbapedia": "Servine"
+    "bulbapedia": "Servine",
+    "showdownName": "Servine"
   }
 }

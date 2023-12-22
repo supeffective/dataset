@@ -4,12 +4,12 @@
   "dexNum": 376,
   "formId": null,
   "name": "Metagross",
-  "psName": "Metagross",
   "formName": null,
   "region": "hoenn",
   "generation": 3,
   "type1": "steel",
   "type2": "psychic",
+  "teraType": null,
   "color": "blue",
   "abilities": {
     "primary": "clearbody",
@@ -80,6 +80,8 @@
   },
   "weight": 55000,
   "height": 160,
+  "maleRate": 0,
+  "femaleRate": 0,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [
@@ -93,6 +95,7 @@
     "smogon": "metagross",
     "showdown": "metagross",
     "serebii": "metagross",
-    "bulbapedia": "Metagross"
+    "bulbapedia": "Metagross",
+    "showdownName": "Metagross"
   }
 }

@@ -4,12 +4,12 @@
   "dexNum": 56,
   "formId": null,
   "name": "Mankey",
-  "psName": "Mankey",
   "formName": null,
   "region": "kanto",
   "generation": 1,
   "type1": "fighting",
   "type2": null,
+  "teraType": null,
   "color": "brown",
   "abilities": {
     "primary": "vitalspirit",
@@ -84,6 +84,8 @@
   },
   "weight": 2800,
   "height": 50,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -92,6 +94,7 @@
     "smogon": "mankey",
     "showdown": "mankey",
     "serebii": "mankey",
-    "bulbapedia": "Mankey"
+    "bulbapedia": "Mankey",
+    "showdownName": "Mankey"
   }
 }

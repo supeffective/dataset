@@ -4,12 +4,12 @@
   "dexNum": 536,
   "formId": null,
   "name": "Palpitoad",
-  "psName": "Palpitoad",
   "formName": null,
   "region": "unova",
   "generation": 5,
   "type1": "water",
   "type2": "ground",
+  "teraType": null,
   "color": "blue",
   "abilities": {
     "primary": "swiftswim",
@@ -69,6 +69,8 @@
   },
   "weight": 1700,
   "height": 80,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -80,6 +82,7 @@
     "smogon": "palpitoad",
     "showdown": "palpitoad",
     "serebii": "palpitoad",
-    "bulbapedia": "Palpitoad"
+    "bulbapedia": "Palpitoad",
+    "showdownName": "Palpitoad"
   }
 }

@@ -4,12 +4,12 @@
   "dexNum": 590,
   "formId": null,
   "name": "Foongus",
-  "psName": "Foongus",
   "formName": null,
   "region": "unova",
   "generation": 5,
   "type1": "grass",
   "type2": "poison",
+  "teraType": null,
   "color": "white",
   "abilities": {
     "primary": "effectspore",
@@ -71,6 +71,8 @@
   },
   "weight": 100,
   "height": 20,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -79,6 +81,7 @@
     "smogon": "foongus",
     "showdown": "foongus",
     "serebii": "foongus",
-    "bulbapedia": "Foongus"
+    "bulbapedia": "Foongus",
+    "showdownName": "Foongus"
   }
 }

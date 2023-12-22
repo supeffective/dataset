@@ -4,12 +4,12 @@
   "dexNum": 706,
   "formId": null,
   "name": "Goodra",
-  "psName": "Goodra",
   "formName": null,
   "region": "kalos",
   "generation": 6,
   "type1": "dragon",
   "type2": null,
+  "teraType": null,
   "color": "purple",
   "abilities": {
     "primary": "sapsipper",
@@ -68,6 +68,8 @@
   },
   "weight": 15050,
   "height": 200,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [
@@ -81,6 +83,7 @@
     "smogon": "goodra",
     "showdown": "goodra",
     "serebii": "goodra",
-    "bulbapedia": "Goodra"
+    "bulbapedia": "Goodra",
+    "showdownName": "Goodra"
   }
 }

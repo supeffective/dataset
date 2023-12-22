@@ -4,12 +4,12 @@
   "dexNum": 773,
   "formId": "steel",
   "name": "Silvally Type: Steel",
-  "psName": "Silvally-Steel",
   "formName": "Type: Steel",
   "region": "alola",
   "generation": 7,
   "type1": "steel",
   "type2": null,
+  "teraType": null,
   "color": "gray",
   "abilities": {
     "primary": "rkssystem",
@@ -62,6 +62,8 @@
   },
   "weight": 10050,
   "height": 230,
+  "maleRate": 0,
+  "femaleRate": 0,
   "baseSpecies": "silvally",
   "baseForms": [
     "silvally"
@@ -72,6 +74,7 @@
     "smogon": "silvally-steel",
     "showdown": "silvallysteel",
     "serebii": "silvally",
-    "bulbapedia": "Silvally"
+    "bulbapedia": "Silvally",
+    "showdownName": "Silvally-Steel"
   }
 }

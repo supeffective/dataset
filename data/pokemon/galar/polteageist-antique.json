@@ -4,12 +4,12 @@
   "dexNum": 855,
   "formId": "antique",
   "name": "Polteageist (Antique)",
-  "psName": "Polteageist-Antique",
   "formName": "Antique",
   "region": "galar",
   "generation": 8,
   "type1": "ghost",
   "type2": null,
+  "teraType": null,
   "color": "purple",
   "abilities": {
     "primary": "weakarmor",
@@ -61,6 +61,8 @@
   },
   "weight": 40,
   "height": 20,
+  "maleRate": 0,
+  "femaleRate": 0,
   "baseSpecies": "polteageist",
   "baseForms": [],
   "forms": [],
@@ -73,6 +75,7 @@
     "smogon": "polteageist-antique",
     "showdown": "polteageistantique",
     "serebii": "polteageist",
-    "bulbapedia": "Polteageist"
+    "bulbapedia": "Polteageist",
+    "showdownName": "Polteageist-Antique"
   }
 }

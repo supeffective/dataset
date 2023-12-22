@@ -4,12 +4,12 @@
   "dexNum": 29,
   "formId": null,
   "name": "Nidoran♀",
-  "psName": "Nidoran-F",
   "formName": null,
   "region": "kanto",
   "generation": 1,
   "type1": "poison",
   "type2": null,
+  "teraType": null,
   "color": "blue",
   "abilities": {
     "primary": "poisonpoint",
@@ -84,6 +84,8 @@
   },
   "weight": 700,
   "height": 40,
+  "maleRate": 0,
+  "femaleRate": 100,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -92,6 +94,7 @@
     "smogon": "nidoranf",
     "showdown": "nidoranf",
     "serebii": "nidoranf",
-    "bulbapedia": "Nidoran♀"
+    "bulbapedia": "Nidoran♀",
+    "showdownName": "Nidoran-F"
   }
 }

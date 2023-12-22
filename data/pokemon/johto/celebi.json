@@ -4,12 +4,12 @@
   "dexNum": 251,
   "formId": null,
   "name": "Celebi",
-  "psName": "Celebi",
   "formName": null,
   "region": "johto",
   "generation": 2,
   "type1": "psychic",
   "type2": "grass",
+  "teraType": null,
   "color": "green",
   "abilities": {
     "primary": "naturalcure",
@@ -78,6 +78,8 @@
   },
   "weight": 500,
   "height": 60,
+  "maleRate": 0,
+  "femaleRate": 0,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -86,6 +88,7 @@
     "smogon": "celebi",
     "showdown": "celebi",
     "serebii": "celebi",
-    "bulbapedia": "Celebi"
+    "bulbapedia": "Celebi",
+    "showdownName": "Celebi"
   }
 }

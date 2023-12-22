@@ -4,12 +4,12 @@
   "dexNum": 890,
   "formId": null,
   "name": "Eternatus",
-  "psName": "Eternatus",
   "formName": null,
   "region": "galar",
   "generation": 8,
   "type1": "poison",
   "type2": "dragon",
+  "teraType": null,
   "color": "purple",
   "abilities": {
     "primary": "pressure",
@@ -60,6 +60,8 @@
   },
   "weight": 95000,
   "height": 2000,
+  "maleRate": 0,
+  "femaleRate": 0,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [
@@ -70,6 +72,7 @@
     "smogon": "eternatus",
     "showdown": "eternatus",
     "serebii": "eternatus",
-    "bulbapedia": "Eternatus"
+    "bulbapedia": "Eternatus",
+    "showdownName": "Eternatus"
   }
 }

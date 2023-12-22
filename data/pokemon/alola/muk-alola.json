@@ -4,12 +4,12 @@
   "dexNum": 89,
   "formId": "alola",
   "name": "Alolan Muk",
-  "psName": "Muk-Alola",
   "formName": "Alolan Form",
   "region": "alola",
   "generation": 7,
   "type1": "poison",
   "type2": "dark",
+  "teraType": null,
   "color": "green",
   "abilities": {
     "primary": "poisontouch",
@@ -67,6 +67,8 @@
   },
   "weight": 5200,
   "height": 100,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": "muk",
   "baseForms": [],
   "forms": [],
@@ -78,6 +80,7 @@
     "smogon": "muk-alola",
     "showdown": "mukalola",
     "serebii": "muk",
-    "bulbapedia": "Muk"
+    "bulbapedia": "Muk",
+    "showdownName": "Muk-Alola"
   }
 }

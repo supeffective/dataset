@@ -4,12 +4,12 @@
   "dexNum": 409,
   "formId": null,
   "name": "Rampardos",
-  "psName": "Rampardos",
   "formName": null,
   "region": "sinnoh",
   "generation": 4,
   "type1": "rock",
   "type2": null,
+  "teraType": null,
   "color": "blue",
   "abilities": {
     "primary": "moldbreaker",
@@ -76,6 +76,8 @@
   },
   "weight": 10250,
   "height": 160,
+  "maleRate": 87.5,
+  "femaleRate": 12.5,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -87,6 +89,7 @@
     "smogon": "rampardos",
     "showdown": "rampardos",
     "serebii": "rampardos",
-    "bulbapedia": "Rampardos"
+    "bulbapedia": "Rampardos",
+    "showdownName": "Rampardos"
   }
 }

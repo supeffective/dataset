@@ -4,12 +4,12 @@
   "dexNum": 714,
   "formId": null,
   "name": "Noibat",
-  "psName": "Noibat",
   "formName": null,
   "region": "kalos",
   "generation": 6,
   "type1": "flying",
   "type2": "dragon",
+  "teraType": null,
   "color": "purple",
   "abilities": {
     "primary": "frisk",
@@ -68,6 +68,8 @@
   },
   "weight": 800,
   "height": 50,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -76,6 +78,7 @@
     "smogon": "noibat",
     "showdown": "noibat",
     "serebii": "noibat",
-    "bulbapedia": "Noibat"
+    "bulbapedia": "Noibat",
+    "showdownName": "Noibat"
   }
 }

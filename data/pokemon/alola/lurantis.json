@@ -4,12 +4,12 @@
   "dexNum": 754,
   "formId": null,
   "name": "Lurantis",
-  "psName": "Lurantis",
   "formName": null,
   "region": "alola",
   "generation": 7,
   "type1": "grass",
   "type2": null,
+  "teraType": null,
   "color": "pink",
   "abilities": {
     "primary": "leafguard",
@@ -67,6 +67,8 @@
   },
   "weight": 1850,
   "height": 90,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -79,6 +81,7 @@
     "smogon": "lurantis",
     "showdown": "lurantis",
     "serebii": "lurantis",
-    "bulbapedia": "Lurantis"
+    "bulbapedia": "Lurantis",
+    "showdownName": "Lurantis"
   }
 }

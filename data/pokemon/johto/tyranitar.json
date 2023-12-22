@@ -4,12 +4,12 @@
   "dexNum": 248,
   "formId": null,
   "name": "Tyranitar",
-  "psName": "Tyranitar",
   "formName": null,
   "region": "johto",
   "generation": 2,
   "type1": "rock",
   "type2": "dark",
+  "teraType": null,
   "color": "green",
   "abilities": {
     "primary": "sandstream",
@@ -82,6 +82,8 @@
   },
   "weight": 20200,
   "height": 200,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [
@@ -95,6 +97,7 @@
     "smogon": "tyranitar",
     "showdown": "tyranitar",
     "serebii": "tyranitar",
-    "bulbapedia": "Tyranitar"
+    "bulbapedia": "Tyranitar",
+    "showdownName": "Tyranitar"
   }
 }

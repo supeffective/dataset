@@ -4,12 +4,12 @@
   "dexNum": 205,
   "formId": null,
   "name": "Forretress",
-  "psName": "Forretress",
   "formName": null,
   "region": "johto",
   "generation": 2,
   "type1": "bug",
   "type2": "steel",
+  "teraType": null,
   "color": "purple",
   "abilities": {
     "primary": "sturdy",
@@ -80,6 +80,8 @@
   },
   "weight": 12580,
   "height": 120,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -91,6 +93,7 @@
     "smogon": "forretress",
     "showdown": "forretress",
     "serebii": "forretress",
-    "bulbapedia": "Forretress"
+    "bulbapedia": "Forretress",
+    "showdownName": "Forretress"
   }
 }

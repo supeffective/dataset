@@ -4,12 +4,12 @@
   "dexNum": 629,
   "formId": null,
   "name": "Vullaby",
-  "psName": "Vullaby",
   "formName": null,
   "region": "unova",
   "generation": 5,
   "type1": "dark",
   "type2": "flying",
+  "teraType": null,
   "color": "brown",
   "abilities": {
     "primary": "bigpecks",
@@ -71,6 +71,8 @@
   },
   "weight": 900,
   "height": 50,
+  "maleRate": 0,
+  "femaleRate": 100,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -79,6 +81,7 @@
     "smogon": "vullaby",
     "showdown": "vullaby",
     "serebii": "vullaby",
-    "bulbapedia": "Vullaby"
+    "bulbapedia": "Vullaby",
+    "showdownName": "Vullaby"
   }
 }

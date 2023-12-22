@@ -4,12 +4,12 @@
   "dexNum": 599,
   "formId": null,
   "name": "Klink",
-  "psName": "Klink",
   "formName": null,
   "region": "unova",
   "generation": 5,
   "type1": "steel",
   "type2": null,
+  "teraType": null,
   "color": "gray",
   "abilities": {
     "primary": "plus",
@@ -69,6 +69,8 @@
   },
   "weight": 2100,
   "height": 30,
+  "maleRate": 0,
+  "femaleRate": 0,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -77,6 +79,7 @@
     "smogon": "klink",
     "showdown": "klink",
     "serebii": "klink",
-    "bulbapedia": "Klink"
+    "bulbapedia": "Klink",
+    "showdownName": "Klink"
   }
 }

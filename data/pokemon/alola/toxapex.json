@@ -4,12 +4,12 @@
   "dexNum": 748,
   "formId": null,
   "name": "Toxapex",
-  "psName": "Toxapex",
   "formName": null,
   "region": "alola",
   "generation": 7,
   "type1": "poison",
   "type2": "water",
+  "teraType": null,
   "color": "blue",
   "abilities": {
     "primary": "merciless",
@@ -67,6 +67,8 @@
   },
   "weight": 1450,
   "height": 70,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -78,6 +80,7 @@
     "smogon": "toxapex",
     "showdown": "toxapex",
     "serebii": "toxapex",
-    "bulbapedia": "Toxapex"
+    "bulbapedia": "Toxapex",
+    "showdownName": "Toxapex"
   }
 }

@@ -4,12 +4,12 @@
   "dexNum": 998,
   "formId": null,
   "name": "Baxcalibur",
-  "psName": "Baxcalibur",
   "formName": null,
   "region": "paldea",
   "generation": 9,
   "type1": "dragon",
   "type2": "ice",
+  "teraType": null,
   "color": "gray",
   "abilities": {
     "primary": "thermalexchange",
@@ -61,6 +61,8 @@
   },
   "weight": 21000,
   "height": 210,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -72,6 +74,7 @@
     "smogon": "baxcalibur",
     "showdown": "baxcalibur",
     "serebii": "baxcalibur",
-    "bulbapedia": "Baxcalibur"
+    "bulbapedia": "Baxcalibur",
+    "showdownName": "Baxcalibur"
   }
 }

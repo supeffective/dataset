@@ -4,12 +4,12 @@
   "dexNum": 803,
   "formId": null,
   "name": "Poipole",
-  "psName": "Poipole",
   "formName": null,
   "region": "alola",
   "generation": 7,
   "type1": "poison",
   "type2": null,
+  "teraType": null,
   "color": "purple",
   "abilities": {
     "primary": "beastboost",
@@ -61,6 +61,8 @@
   },
   "weight": 180,
   "height": 60,
+  "maleRate": 0,
+  "femaleRate": 0,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -69,6 +71,7 @@
     "smogon": "poipole",
     "showdown": "poipole",
     "serebii": "poipole",
-    "bulbapedia": "Poipole"
+    "bulbapedia": "Poipole",
+    "showdownName": "Poipole"
   }
 }

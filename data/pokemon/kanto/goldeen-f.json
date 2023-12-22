@@ -4,12 +4,12 @@
   "dexNum": 118,
   "formId": "f",
   "name": "Goldeen ♀",
-  "psName": "Goldeen",
   "formName": "Female",
   "region": "kanto",
   "generation": 4,
   "type1": "water",
   "type2": null,
+  "teraType": null,
   "color": "red",
   "abilities": {
     "primary": "swiftswim",
@@ -74,6 +74,8 @@
   },
   "weight": 1500,
   "height": 60,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": "goldeen",
   "baseForms": [],
   "forms": [],
@@ -82,6 +84,7 @@
     "smogon": "goldeen",
     "showdown": "goldeen",
     "serebii": "goldeen",
-    "bulbapedia": "Goldeen"
+    "bulbapedia": "Goldeen",
+    "showdownName": "Goldeen"
   }
 }

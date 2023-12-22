@@ -4,12 +4,12 @@
   "dexNum": 604,
   "formId": null,
   "name": "Eelektross",
-  "psName": "Eelektross",
   "formName": null,
   "region": "unova",
   "generation": 5,
   "type1": "electric",
   "type2": null,
+  "teraType": null,
   "color": "blue",
   "abilities": {
     "primary": "levitate",
@@ -69,6 +69,8 @@
   },
   "weight": 8050,
   "height": 210,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -81,6 +83,7 @@
     "smogon": "eelektross",
     "showdown": "eelektross",
     "serebii": "eelektross",
-    "bulbapedia": "Eelektross"
+    "bulbapedia": "Eelektross",
+    "showdownName": "Eelektross"
   }
 }

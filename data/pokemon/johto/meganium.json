@@ -4,12 +4,12 @@
   "dexNum": 154,
   "formId": null,
   "name": "Meganium",
-  "psName": "Meganium",
   "formName": null,
   "region": "johto",
   "generation": 2,
   "type1": "grass",
   "type2": null,
+  "teraType": null,
   "color": "green",
   "abilities": {
     "primary": "overgrow",
@@ -80,6 +80,8 @@
   },
   "weight": 10050,
   "height": 180,
+  "maleRate": 87.5,
+  "femaleRate": 12.5,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [
@@ -93,6 +95,7 @@
     "smogon": "meganium",
     "showdown": "meganium",
     "serebii": "meganium",
-    "bulbapedia": "Meganium"
+    "bulbapedia": "Meganium",
+    "showdownName": "Meganium"
   }
 }

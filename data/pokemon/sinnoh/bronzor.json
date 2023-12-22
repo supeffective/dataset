@@ -4,12 +4,12 @@
   "dexNum": 436,
   "formId": null,
   "name": "Bronzor",
-  "psName": "Bronzor",
   "formName": null,
   "region": "sinnoh",
   "generation": 4,
   "type1": "steel",
   "type2": "psychic",
+  "teraType": null,
   "color": "green",
   "abilities": {
     "primary": "levitate",
@@ -78,6 +78,8 @@
   },
   "weight": 6050,
   "height": 50,
+  "maleRate": 0,
+  "femaleRate": 0,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -86,6 +88,7 @@
     "smogon": "bronzor",
     "showdown": "bronzor",
     "serebii": "bronzor",
-    "bulbapedia": "Bronzor"
+    "bulbapedia": "Bronzor",
+    "showdownName": "Bronzor"
   }
 }

@@ -4,12 +4,12 @@
   "dexNum": 384,
   "formId": "mega",
   "name": "Mega Rayquaza",
-  "psName": "Rayquaza-Mega",
   "formName": "Mega",
   "region": "kalos",
   "generation": 6,
   "type1": "dragon",
   "type2": "flying",
+  "teraType": null,
   "color": "green",
   "abilities": {
     "primary": "deltastream",
@@ -59,6 +59,8 @@
   },
   "weight": 39200,
   "height": 1080,
+  "maleRate": 0,
+  "femaleRate": 0,
   "baseSpecies": "rayquaza",
   "baseForms": [
     "rayquaza"
@@ -69,6 +71,7 @@
     "smogon": "rayquaza-mega",
     "showdown": "rayquazamega",
     "serebii": "rayquaza",
-    "bulbapedia": "Rayquaza"
+    "bulbapedia": "Rayquaza",
+    "showdownName": "Rayquaza-Mega"
   }
 }

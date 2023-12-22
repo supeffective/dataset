@@ -4,12 +4,12 @@
   "dexNum": 312,
   "formId": null,
   "name": "Minun",
-  "psName": "Minun",
   "formName": null,
   "region": "hoenn",
   "generation": 3,
   "type1": "electric",
   "type2": null,
+  "teraType": null,
   "color": "yellow",
   "abilities": {
     "primary": "minus",
@@ -78,6 +78,8 @@
   },
   "weight": 420,
   "height": 40,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -86,6 +88,7 @@
     "smogon": "minun",
     "showdown": "minun",
     "serebii": "minun",
-    "bulbapedia": "Minun"
+    "bulbapedia": "Minun",
+    "showdownName": "Minun"
   }
 }

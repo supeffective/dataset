@@ -4,12 +4,12 @@
   "dexNum": 931,
   "formId": null,
   "name": "Squawkabilly",
-  "psName": "Squawkabilly",
   "formName": "Green-feathered",
   "region": "paldea",
   "generation": 9,
   "type1": "normal",
   "type2": "flying",
+  "teraType": null,
   "color": "green",
   "abilities": {
     "primary": "intimidate",
@@ -59,6 +59,8 @@
   },
   "weight": 240,
   "height": 60,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [
@@ -71,6 +73,7 @@
     "smogon": "squawkabilly",
     "showdown": "squawkabilly",
     "serebii": "squawkabilly",
-    "bulbapedia": "Squawkabilly"
+    "bulbapedia": "Squawkabilly",
+    "showdownName": "Squawkabilly"
   }
 }

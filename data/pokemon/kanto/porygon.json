@@ -4,12 +4,12 @@
   "dexNum": 137,
   "formId": null,
   "name": "Porygon",
-  "psName": "Porygon",
   "formName": null,
   "region": "kanto",
   "generation": 1,
   "type1": "normal",
   "type2": null,
+  "teraType": null,
   "color": "pink",
   "abilities": {
     "primary": "trace",
@@ -88,6 +88,8 @@
   },
   "weight": 3650,
   "height": 80,
+  "maleRate": 0,
+  "femaleRate": 0,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -96,6 +98,7 @@
     "smogon": "porygon",
     "showdown": "porygon",
     "serebii": "porygon",
-    "bulbapedia": "Porygon"
+    "bulbapedia": "Porygon",
+    "showdownName": "Porygon"
   }
 }

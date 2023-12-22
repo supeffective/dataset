@@ -4,12 +4,12 @@
   "dexNum": 301,
   "formId": null,
   "name": "Delcatty",
-  "psName": "Delcatty",
   "formName": null,
   "region": "hoenn",
   "generation": 3,
   "type1": "normal",
   "type2": null,
+  "teraType": null,
   "color": "purple",
   "abilities": {
     "primary": "cutecharm",
@@ -76,6 +76,8 @@
   },
   "weight": 3260,
   "height": 110,
+  "maleRate": 25,
+  "femaleRate": 75,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -88,6 +90,7 @@
     "smogon": "delcatty",
     "showdown": "delcatty",
     "serebii": "delcatty",
-    "bulbapedia": "Delcatty"
+    "bulbapedia": "Delcatty",
+    "showdownName": "Delcatty"
   }
 }

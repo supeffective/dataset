@@ -4,12 +4,12 @@
   "dexNum": 588,
   "formId": null,
   "name": "Karrablast",
-  "psName": "Karrablast",
   "formName": null,
   "region": "unova",
   "generation": 5,
   "type1": "bug",
   "type2": null,
+  "teraType": null,
   "color": "blue",
   "abilities": {
     "primary": "swarm",
@@ -69,6 +69,8 @@
   },
   "weight": 590,
   "height": 50,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -77,6 +79,7 @@
     "smogon": "karrablast",
     "showdown": "karrablast",
     "serebii": "karrablast",
-    "bulbapedia": "Karrablast"
+    "bulbapedia": "Karrablast",
+    "showdownName": "Karrablast"
   }
 }

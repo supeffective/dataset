@@ -4,12 +4,12 @@
   "dexNum": 222,
   "formId": null,
   "name": "Corsola",
-  "psName": "Corsola",
   "formName": null,
   "region": "johto",
   "generation": 2,
   "type1": "water",
   "type2": "rock",
+  "teraType": null,
   "color": "pink",
   "abilities": {
     "primary": "hustle",
@@ -80,6 +80,8 @@
   },
   "weight": 500,
   "height": 60,
+  "maleRate": 25,
+  "femaleRate": 75,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [
@@ -90,6 +92,7 @@
     "smogon": "corsola",
     "showdown": "corsola",
     "serebii": "corsola",
-    "bulbapedia": "Corsola"
+    "bulbapedia": "Corsola",
+    "showdownName": "Corsola"
   }
 }

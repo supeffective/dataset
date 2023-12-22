@@ -4,12 +4,12 @@
   "dexNum": 931,
   "formId": "blue",
   "name": "Squawkabilly Blue-feathered",
-  "psName": "Squawkabilly-Blue",
   "formName": "Blue-feathered",
   "region": "paldea",
   "generation": 9,
   "type1": "normal",
   "type2": "flying",
+  "teraType": null,
   "color": "blue",
   "abilities": {
     "primary": "intimidate",
@@ -59,6 +59,8 @@
   },
   "weight": 240,
   "height": 60,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": "squawkabilly",
   "baseForms": [],
   "forms": [],
@@ -67,6 +69,7 @@
     "smogon": "squawkabilly-blue",
     "showdown": "squawkabillyblue",
     "serebii": "Squawkabilly",
-    "bulbapedia": "Squawkabilly_Blue"
+    "bulbapedia": "Squawkabilly_Blue",
+    "showdownName": "Squawkabilly-Blue"
   }
 }

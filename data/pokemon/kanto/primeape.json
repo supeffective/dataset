@@ -4,12 +4,12 @@
   "dexNum": 57,
   "formId": null,
   "name": "Primeape",
-  "psName": "Primeape",
   "formName": null,
   "region": "kanto",
   "generation": 1,
   "type1": "fighting",
   "type2": null,
+  "teraType": null,
   "color": "brown",
   "abilities": {
     "primary": "vitalspirit",
@@ -84,6 +84,8 @@
   },
   "weight": 3200,
   "height": 100,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -95,6 +97,7 @@
     "smogon": "primeape",
     "showdown": "primeape",
     "serebii": "primeape",
-    "bulbapedia": "Primeape"
+    "bulbapedia": "Primeape",
+    "showdownName": "Primeape"
   }
 }

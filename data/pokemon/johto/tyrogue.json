@@ -4,12 +4,12 @@
   "dexNum": 236,
   "formId": null,
   "name": "Tyrogue",
-  "psName": "Tyrogue",
   "formName": null,
   "region": "johto",
   "generation": 2,
   "type1": "fighting",
   "type2": null,
+  "teraType": null,
   "color": "purple",
   "abilities": {
     "primary": "guts",
@@ -82,6 +82,8 @@
   },
   "weight": 2100,
   "height": 70,
+  "maleRate": 100,
+  "femaleRate": 0,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -90,6 +92,7 @@
     "smogon": "tyrogue",
     "showdown": "tyrogue",
     "serebii": "tyrogue",
-    "bulbapedia": "Tyrogue"
+    "bulbapedia": "Tyrogue",
+    "showdownName": "Tyrogue"
   }
 }

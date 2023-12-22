@@ -4,12 +4,12 @@
   "dexNum": 622,
   "formId": null,
   "name": "Golett",
-  "psName": "Golett",
   "formName": null,
   "region": "unova",
   "generation": 5,
   "type1": "ground",
   "type2": "ghost",
+  "teraType": null,
   "color": "green",
   "abilities": {
     "primary": "ironfist",
@@ -71,6 +71,8 @@
   },
   "weight": 9200,
   "height": 100,
+  "maleRate": 0,
+  "femaleRate": 0,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -79,6 +81,7 @@
     "smogon": "golett",
     "showdown": "golett",
     "serebii": "golett",
-    "bulbapedia": "Golett"
+    "bulbapedia": "Golett",
+    "showdownName": "Golett"
   }
 }

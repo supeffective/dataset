@@ -4,12 +4,12 @@
   "dexNum": 58,
   "formId": "hisui",
   "name": "Hisuian Growlithe",
-  "psName": "Growlithe-Hisui",
   "formName": "Hisuian Form",
   "region": "hisui",
   "generation": 8,
   "type1": "fire",
   "type2": "rock",
+  "teraType": null,
   "color": "brown",
   "abilities": {
     "primary": "intimidate",
@@ -63,6 +63,8 @@
   },
   "weight": 2270,
   "height": 80,
+  "maleRate": 75,
+  "femaleRate": 25,
   "baseSpecies": "growlithe",
   "baseForms": [],
   "forms": [],
@@ -71,6 +73,7 @@
     "smogon": "growlithe-hisui",
     "showdown": "growlithehisui",
     "serebii": "growlithe",
-    "bulbapedia": "Growlithe"
+    "bulbapedia": "Growlithe",
+    "showdownName": "Growlithe-Hisui"
   }
 }

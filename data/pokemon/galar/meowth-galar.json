@@ -4,12 +4,12 @@
   "dexNum": 52,
   "formId": "galar",
   "name": "Galarian Meowth",
-  "psName": "Meowth-Galar",
   "formName": "Galarian Form",
   "region": "galar",
   "generation": 8,
   "type1": "steel",
   "type2": null,
+  "teraType": null,
   "color": "brown",
   "abilities": {
     "primary": "pickup",
@@ -63,6 +63,8 @@
   },
   "weight": 750,
   "height": 40,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": "meowth",
   "baseForms": [],
   "forms": [],
@@ -71,6 +73,7 @@
     "smogon": "meowth-galar",
     "showdown": "meowthgalar",
     "serebii": "meowth",
-    "bulbapedia": "Meowth"
+    "bulbapedia": "Meowth",
+    "showdownName": "Meowth-Galar"
   }
 }

@@ -4,12 +4,12 @@
   "dexNum": 80,
   "formId": null,
   "name": "Slowbro",
-  "psName": "Slowbro",
   "formName": null,
   "region": "kanto",
   "generation": 1,
   "type1": "water",
   "type2": "psychic",
+  "teraType": null,
   "color": "pink",
   "abilities": {
     "primary": "oblivious",
@@ -86,6 +86,8 @@
   },
   "weight": 7850,
   "height": 160,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [
@@ -100,6 +102,7 @@
     "smogon": "slowbro",
     "showdown": "slowbro",
     "serebii": "slowbro",
-    "bulbapedia": "Slowbro"
+    "bulbapedia": "Slowbro",
+    "showdownName": "Slowbro"
   }
 }

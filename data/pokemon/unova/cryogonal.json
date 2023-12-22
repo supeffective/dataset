@@ -4,12 +4,12 @@
   "dexNum": 615,
   "formId": null,
   "name": "Cryogonal",
-  "psName": "Cryogonal",
   "formName": null,
   "region": "unova",
   "generation": 5,
   "type1": "ice",
   "type2": null,
+  "teraType": null,
   "color": "blue",
   "abilities": {
     "primary": "levitate",
@@ -71,6 +71,8 @@
   },
   "weight": 14800,
   "height": 110,
+  "maleRate": 0,
+  "femaleRate": 0,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -79,6 +81,7 @@
     "smogon": "cryogonal",
     "showdown": "cryogonal",
     "serebii": "cryogonal",
-    "bulbapedia": "Cryogonal"
+    "bulbapedia": "Cryogonal",
+    "showdownName": "Cryogonal"
   }
 }

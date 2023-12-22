@@ -4,12 +4,12 @@
   "dexNum": 422,
   "formId": "east",
   "name": "Shellos East Sea",
-  "psName": "Shellos",
   "formName": "East Sea",
   "region": "sinnoh",
   "generation": 4,
   "type1": "water",
   "type2": null,
+  "teraType": null,
   "color": "purple",
   "abilities": {
     "primary": "stickyhold",
@@ -78,6 +78,8 @@
   },
   "weight": 630,
   "height": 30,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": "shellos",
   "baseForms": [],
   "forms": [],
@@ -86,6 +88,7 @@
     "smogon": "shellos-east",
     "showdown": "shellos",
     "serebii": "shellos",
-    "bulbapedia": "Shellos"
+    "bulbapedia": "Shellos",
+    "showdownName": "Shellos"
   }
 }

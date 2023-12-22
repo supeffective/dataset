@@ -4,12 +4,12 @@
   "dexNum": 484,
   "formId": "origin",
   "name": "Palkia Origin Forme",
-  "psName": "Palkia-Origin",
   "formName": "Origin Forme",
   "region": "hisui",
   "generation": 8,
   "type1": "water",
   "type2": "dragon",
+  "teraType": null,
   "color": "purple",
   "abilities": {
     "primary": "pressure",
@@ -59,6 +59,8 @@
   },
   "weight": 66000,
   "height": 630,
+  "maleRate": 0,
+  "femaleRate": 0,
   "baseSpecies": "palkia",
   "baseForms": [],
   "forms": [],
@@ -67,6 +69,7 @@
     "smogon": "palkia-origin",
     "showdown": "palkiaorigin",
     "serebii": "palkia",
-    "bulbapedia": "Palkia"
+    "bulbapedia": "Palkia",
+    "showdownName": "Palkia-Origin"
   }
 }

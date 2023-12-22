@@ -4,12 +4,12 @@
   "dexNum": 718,
   "formId": "50",
   "name": "Zygarde",
-  "psName": "Zygarde",
   "formName": "50% Forme",
   "region": "kalos",
   "generation": 6,
   "type1": "dragon",
   "type2": "ground",
+  "teraType": null,
   "color": "green",
   "abilities": {
     "primary": "aurabreak",
@@ -69,6 +69,8 @@
   },
   "weight": 30500,
   "height": 500,
+  "maleRate": 0,
+  "femaleRate": 0,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [
@@ -85,6 +87,7 @@
     "smogon": "zygarde",
     "showdown": "zygarde",
     "serebii": "zygarde",
-    "bulbapedia": "Zygarde"
+    "bulbapedia": "Zygarde",
+    "showdownName": "Zygarde"
   }
 }

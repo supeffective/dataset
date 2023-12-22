@@ -4,12 +4,12 @@
   "dexNum": 123,
   "formId": "f",
   "name": "Scyther ♀",
-  "psName": "Scyther",
   "formName": "Female",
   "region": "kanto",
   "generation": 4,
   "type1": "bug",
   "type2": "flying",
+  "teraType": null,
   "color": "green",
   "abilities": {
     "primary": "swarm",
@@ -78,6 +78,8 @@
   },
   "weight": 5600,
   "height": 150,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": "scyther",
   "baseForms": [],
   "forms": [],
@@ -86,6 +88,7 @@
     "smogon": "scyther",
     "showdown": "scyther",
     "serebii": "scyther",
-    "bulbapedia": "Scyther"
+    "bulbapedia": "Scyther",
+    "showdownName": "Scyther"
   }
 }

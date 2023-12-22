@@ -4,12 +4,12 @@
   "dexNum": 275,
   "formId": "f",
   "name": "Shiftry ♀",
-  "psName": "Shiftry",
   "formName": "Female",
   "region": "hoenn",
   "generation": 4,
   "type1": "grass",
   "type2": "dark",
+  "teraType": null,
   "color": "brown",
   "abilities": {
     "primary": "chlorophyll",
@@ -75,6 +75,8 @@
   },
   "weight": 5960,
   "height": 130,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": "shiftry",
   "baseForms": [],
   "forms": [],
@@ -87,6 +89,7 @@
     "smogon": "shiftry",
     "showdown": "shiftry",
     "serebii": "shiftry",
-    "bulbapedia": "Shiftry"
+    "bulbapedia": "Shiftry",
+    "showdownName": "Shiftry"
   }
 }

@@ -4,12 +4,12 @@
   "dexNum": 649,
   "formId": "douse",
   "name": "Genesect (Douse Drive)",
-  "psName": "Genesect-Douse",
   "formName": "Douse Drive",
   "region": "unova",
   "generation": 5,
   "type1": "bug",
   "type2": "steel",
+  "teraType": null,
   "color": "purple",
   "abilities": {
     "primary": "download",
@@ -68,6 +68,8 @@
   },
   "weight": 8250,
   "height": 150,
+  "maleRate": 0,
+  "femaleRate": 0,
   "baseSpecies": "genesect",
   "baseForms": [
     "genesect"
@@ -78,6 +80,7 @@
     "smogon": "genesect-douse",
     "showdown": "genesectdouse",
     "serebii": "genesect",
-    "bulbapedia": "Genesect"
+    "bulbapedia": "Genesect",
+    "showdownName": "Genesect-Douse"
   }
 }

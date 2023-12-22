@@ -4,12 +4,12 @@
   "dexNum": 492,
   "formId": "land",
   "name": "Shaymin",
-  "psName": "Shaymin",
   "formName": "Land Forme",
   "region": "sinnoh",
   "generation": 4,
   "type1": "grass",
   "type2": null,
+  "teraType": null,
   "color": "green",
   "abilities": {
     "primary": "naturalcure",
@@ -73,6 +73,8 @@
   },
   "weight": 210,
   "height": 20,
+  "maleRate": 0,
+  "femaleRate": 0,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [
@@ -83,6 +85,7 @@
     "smogon": "shaymin",
     "showdown": "shaymin",
     "serebii": "shaymin",
-    "bulbapedia": "Shaymin"
+    "bulbapedia": "Shaymin",
+    "showdownName": "Shaymin"
   }
 }

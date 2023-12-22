@@ -4,12 +4,12 @@
   "dexNum": 77,
   "formId": "galar",
   "name": "Galarian Ponyta",
-  "psName": "Ponyta-Galar",
   "formName": "Galarian Form",
   "region": "galar",
   "generation": 8,
   "type1": "psychic",
   "type2": null,
+  "teraType": null,
   "color": "white",
   "abilities": {
     "primary": "runaway",
@@ -61,6 +61,8 @@
   },
   "weight": 2400,
   "height": 80,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": "ponyta",
   "baseForms": [],
   "forms": [],
@@ -69,6 +71,7 @@
     "smogon": "ponyta-galar",
     "showdown": "ponytagalar",
     "serebii": "ponyta",
-    "bulbapedia": "Ponyta"
+    "bulbapedia": "Ponyta",
+    "showdownName": "Ponyta-Galar"
   }
 }

@@ -4,12 +4,12 @@
   "dexNum": 648,
   "formId": "aria",
   "name": "Meloetta",
-  "psName": "Meloetta",
   "formName": "Aria Forme",
   "region": "unova",
   "generation": 5,
   "type1": "normal",
   "type2": "psychic",
+  "teraType": null,
   "color": "white",
   "abilities": {
     "primary": "serenegrace",
@@ -68,6 +68,8 @@
   },
   "weight": 650,
   "height": 60,
+  "maleRate": 0,
+  "femaleRate": 0,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [
@@ -78,6 +80,7 @@
     "smogon": "meloetta",
     "showdown": "meloetta",
     "serebii": "meloetta",
-    "bulbapedia": "Meloetta"
+    "bulbapedia": "Meloetta",
+    "showdownName": "Meloetta"
   }
 }

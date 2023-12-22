@@ -4,12 +4,12 @@
   "dexNum": 643,
   "formId": null,
   "name": "Reshiram",
-  "psName": "Reshiram",
   "formName": null,
   "region": "unova",
   "generation": 5,
   "type1": "dragon",
   "type2": "fire",
+  "teraType": null,
   "color": "white",
   "abilities": {
     "primary": "turboblaze",
@@ -69,6 +69,8 @@
   },
   "weight": 33000,
   "height": 320,
+  "maleRate": 0,
+  "femaleRate": 0,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -77,6 +79,7 @@
     "smogon": "reshiram",
     "showdown": "reshiram",
     "serebii": "reshiram",
-    "bulbapedia": "Reshiram"
+    "bulbapedia": "Reshiram",
+    "showdownName": "Reshiram"
   }
 }

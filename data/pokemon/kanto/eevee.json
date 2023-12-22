@@ -4,12 +4,12 @@
   "dexNum": 133,
   "formId": null,
   "name": "Eevee",
-  "psName": "Eevee",
   "formName": null,
   "region": "kanto",
   "generation": 1,
   "type1": "normal",
   "type2": null,
+  "teraType": null,
   "color": "brown",
   "abilities": {
     "primary": "runaway",
@@ -88,6 +88,8 @@
   },
   "weight": 650,
   "height": 30,
+  "maleRate": 87.5,
+  "femaleRate": 12.5,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [
@@ -99,6 +101,7 @@
     "smogon": "eevee",
     "showdown": "eevee",
     "serebii": "eevee",
-    "bulbapedia": "Eevee"
+    "bulbapedia": "Eevee",
+    "showdownName": "Eevee"
   }
 }

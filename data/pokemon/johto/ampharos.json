@@ -4,12 +4,12 @@
   "dexNum": 181,
   "formId": null,
   "name": "Ampharos",
-  "psName": "Ampharos",
   "formName": null,
   "region": "johto",
   "generation": 2,
   "type1": "electric",
   "type2": null,
+  "teraType": null,
   "color": "yellow",
   "abilities": {
     "primary": "static",
@@ -80,6 +80,8 @@
   },
   "weight": 6150,
   "height": 140,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [
@@ -93,6 +95,7 @@
     "smogon": "ampharos",
     "showdown": "ampharos",
     "serebii": "ampharos",
-    "bulbapedia": "Ampharos"
+    "bulbapedia": "Ampharos",
+    "showdownName": "Ampharos"
   }
 }

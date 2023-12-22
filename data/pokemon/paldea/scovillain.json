@@ -4,12 +4,12 @@
   "dexNum": 952,
   "formId": null,
   "name": "Scovillain",
-  "psName": "Scovillain",
   "formName": null,
   "region": "paldea",
   "generation": 9,
   "type1": "grass",
   "type2": "fire",
+  "teraType": null,
   "color": "green",
   "abilities": {
     "primary": "chlorophyll",
@@ -59,6 +59,8 @@
   },
   "weight": 1500,
   "height": 90,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -71,6 +73,7 @@
     "smogon": "scovillain",
     "showdown": "scovillain",
     "serebii": "scovillain",
-    "bulbapedia": "Scovillain"
+    "bulbapedia": "Scovillain",
+    "showdownName": "Scovillain"
   }
 }

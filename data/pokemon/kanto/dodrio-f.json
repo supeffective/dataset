@@ -4,12 +4,12 @@
   "dexNum": 85,
   "formId": "f",
   "name": "Dodrio ♀",
-  "psName": "Dodrio",
   "formName": "Female",
   "region": "kanto",
   "generation": 4,
   "type1": "normal",
   "type2": "flying",
+  "teraType": null,
   "color": "brown",
   "abilities": {
     "primary": "runaway",
@@ -72,6 +72,8 @@
   },
   "weight": 8520,
   "height": 180,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": "dodrio",
   "baseForms": [],
   "forms": [],
@@ -83,6 +85,7 @@
     "smogon": "dodrio",
     "showdown": "dodrio",
     "serebii": "dodrio",
-    "bulbapedia": "Dodrio"
+    "bulbapedia": "Dodrio",
+    "showdownName": "Dodrio"
   }
 }

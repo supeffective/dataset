@@ -4,12 +4,12 @@
   "dexNum": 912,
   "formId": null,
   "name": "Quaxly",
-  "psName": "Quaxly",
   "formName": null,
   "region": "paldea",
   "generation": 9,
   "type1": "water",
   "type2": null,
+  "teraType": null,
   "color": "blue",
   "abilities": {
     "primary": "torrent",
@@ -61,6 +61,8 @@
   },
   "weight": 610,
   "height": 50,
+  "maleRate": 87.5,
+  "femaleRate": 12.5,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -69,6 +71,7 @@
     "smogon": "quaxly",
     "showdown": "quaxly",
     "serebii": "quaxly",
-    "bulbapedia": "Quaxly"
+    "bulbapedia": "Quaxly",
+    "showdownName": "Quaxly"
   }
 }

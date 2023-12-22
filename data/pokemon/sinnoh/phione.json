@@ -4,12 +4,12 @@
   "dexNum": 489,
   "formId": null,
   "name": "Phione",
-  "psName": "Phione",
   "formName": null,
   "region": "sinnoh",
   "generation": 4,
   "type1": "water",
   "type2": null,
+  "teraType": null,
   "color": "blue",
   "abilities": {
     "primary": "hydration",
@@ -73,6 +73,8 @@
   },
   "weight": 310,
   "height": 40,
+  "maleRate": 0,
+  "femaleRate": 0,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -81,6 +83,7 @@
     "smogon": "phione",
     "showdown": "phione",
     "serebii": "phione",
-    "bulbapedia": "Phione"
+    "bulbapedia": "Phione",
+    "showdownName": "Phione"
   }
 }

@@ -4,12 +4,12 @@
   "dexNum": 836,
   "formId": null,
   "name": "Boltund",
-  "psName": "Boltund",
   "formName": null,
   "region": "galar",
   "generation": 8,
   "type1": "electric",
   "type2": null,
+  "teraType": null,
   "color": "yellow",
   "abilities": {
     "primary": "strongjaw",
@@ -59,6 +59,8 @@
   },
   "weight": 3400,
   "height": 100,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -70,6 +72,7 @@
     "smogon": "boltund",
     "showdown": "boltund",
     "serebii": "boltund",
-    "bulbapedia": "Boltund"
+    "bulbapedia": "Boltund",
+    "showdownName": "Boltund"
   }
 }

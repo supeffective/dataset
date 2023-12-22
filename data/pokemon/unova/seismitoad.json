@@ -4,12 +4,12 @@
   "dexNum": 537,
   "formId": null,
   "name": "Seismitoad",
-  "psName": "Seismitoad",
   "formName": null,
   "region": "unova",
   "generation": 5,
   "type1": "water",
   "type2": "ground",
+  "teraType": null,
   "color": "blue",
   "abilities": {
     "primary": "swiftswim",
@@ -69,6 +69,8 @@
   },
   "weight": 6200,
   "height": 150,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -80,6 +82,7 @@
     "smogon": "seismitoad",
     "showdown": "seismitoad",
     "serebii": "seismitoad",
-    "bulbapedia": "Seismitoad"
+    "bulbapedia": "Seismitoad",
+    "showdownName": "Seismitoad"
   }
 }

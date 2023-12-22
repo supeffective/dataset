@@ -4,12 +4,12 @@
   "dexNum": 620,
   "formId": null,
   "name": "Mienshao",
-  "psName": "Mienshao",
   "formName": null,
   "region": "unova",
   "generation": 5,
   "type1": "fighting",
   "type2": null,
+  "teraType": null,
   "color": "purple",
   "abilities": {
     "primary": "innerfocus",
@@ -71,6 +71,8 @@
   },
   "weight": 3550,
   "height": 140,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -82,6 +84,7 @@
     "smogon": "mienshao",
     "showdown": "mienshao",
     "serebii": "mienshao",
-    "bulbapedia": "Mienshao"
+    "bulbapedia": "Mienshao",
+    "showdownName": "Mienshao"
   }
 }

@@ -4,12 +4,12 @@
   "dexNum": 746,
   "formId": "school",
   "name": "Wishiwashi School Form",
-  "psName": "Wishiwashi-School",
   "formName": "School Form",
   "region": "alola",
   "generation": 7,
   "type1": "water",
   "type2": null,
+  "teraType": null,
   "color": "blue",
   "abilities": {
     "primary": "schooling",
@@ -61,6 +61,8 @@
   },
   "weight": 7860,
   "height": 820,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": "wishiwashi",
   "baseForms": [
     "wishiwashi"
@@ -71,6 +73,7 @@
     "smogon": "wishiwashi-school",
     "showdown": "wishiwashischool",
     "serebii": "wishiwashi",
-    "bulbapedia": "Wishiwashi"
+    "bulbapedia": "Wishiwashi",
+    "showdownName": "Wishiwashi-School"
   }
 }

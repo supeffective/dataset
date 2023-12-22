@@ -4,12 +4,12 @@
   "dexNum": 495,
   "formId": null,
   "name": "Snivy",
-  "psName": "Snivy",
   "formName": null,
   "region": "unova",
   "generation": 5,
   "type1": "grass",
   "type2": null,
+  "teraType": null,
   "color": "green",
   "abilities": {
     "primary": "overgrow",
@@ -69,6 +69,8 @@
   },
   "weight": 810,
   "height": 60,
+  "maleRate": 87.5,
+  "femaleRate": 12.5,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -77,6 +79,7 @@
     "smogon": "snivy",
     "showdown": "snivy",
     "serebii": "snivy",
-    "bulbapedia": "Snivy"
+    "bulbapedia": "Snivy",
+    "showdownName": "Snivy"
   }
 }

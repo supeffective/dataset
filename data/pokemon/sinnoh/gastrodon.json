@@ -4,12 +4,12 @@
   "dexNum": 423,
   "formId": "west",
   "name": "Gastrodon",
-  "psName": "Gastrodon",
   "formName": "West Sea",
   "region": "sinnoh",
   "generation": 4,
   "type1": "water",
   "type2": "ground",
+  "teraType": null,
   "color": "purple",
   "abilities": {
     "primary": "stickyhold",
@@ -78,6 +78,8 @@
   },
   "weight": 2990,
   "height": 90,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [
@@ -91,6 +93,7 @@
     "smogon": "gastrodon",
     "showdown": "gastrodon",
     "serebii": "gastrodon",
-    "bulbapedia": "Gastrodon"
+    "bulbapedia": "Gastrodon",
+    "showdownName": "Gastrodon"
   }
 }

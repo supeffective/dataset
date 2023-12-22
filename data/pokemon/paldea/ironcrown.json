@@ -4,12 +4,12 @@
   "dexNum": 1023,
   "formId": null,
   "name": "Iron Crown",
-  "psName": "Iron Crown",
   "formName": null,
   "region": "paldea",
   "generation": 9,
   "type1": "steel",
   "type2": "psychic",
+  "teraType": null,
   "color": "blue",
   "abilities": {
     "primary": "quarkdrive",
@@ -64,6 +64,8 @@
   },
   "weight": 15600,
   "height": -1,
+  "maleRate": 0,
+  "femaleRate": 0,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -72,6 +74,7 @@
     "smogon": "ironcrown",
     "showdown": "ironcrown",
     "serebii": "ironcrown",
-    "bulbapedia": "Iron Crown"
+    "bulbapedia": "Iron Crown",
+    "showdownName": "Iron Crown"
   }
 }

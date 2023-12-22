@@ -4,12 +4,12 @@
   "dexNum": 572,
   "formId": null,
   "name": "Minccino",
-  "psName": "Minccino",
   "formName": null,
   "region": "unova",
   "generation": 5,
   "type1": "normal",
   "type2": null,
+  "teraType": null,
   "color": "gray",
   "abilities": {
     "primary": "cutecharm",
@@ -71,6 +71,8 @@
   },
   "weight": 580,
   "height": 40,
+  "maleRate": 25,
+  "femaleRate": 75,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -79,6 +81,7 @@
     "smogon": "minccino",
     "showdown": "minccino",
     "serebii": "minccino",
-    "bulbapedia": "Minccino"
+    "bulbapedia": "Minccino",
+    "showdownName": "Minccino"
   }
 }

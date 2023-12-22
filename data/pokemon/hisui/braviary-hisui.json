@@ -4,12 +4,12 @@
   "dexNum": 628,
   "formId": "hisui",
   "name": "Hisuian Braviary",
-  "psName": "Braviary-Hisui",
   "formName": "Hisuian Form",
   "region": "hisui",
   "generation": 8,
   "type1": "psychic",
   "type2": "flying",
+  "teraType": null,
   "color": "white",
   "abilities": {
     "primary": "keeneye",
@@ -62,6 +62,8 @@
   },
   "weight": 4340,
   "height": 170,
+  "maleRate": 100,
+  "femaleRate": 0,
   "baseSpecies": "braviary",
   "baseForms": [],
   "forms": [],
@@ -73,6 +75,7 @@
     "smogon": "braviary-hisui",
     "showdown": "braviaryhisui",
     "serebii": "braviary",
-    "bulbapedia": "Braviary"
+    "bulbapedia": "Braviary",
+    "showdownName": "Braviary-Hisui"
   }
 }

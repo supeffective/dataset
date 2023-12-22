@@ -4,12 +4,12 @@
   "dexNum": 121,
   "formId": null,
   "name": "Starmie",
-  "psName": "Starmie",
   "formName": null,
   "region": "kanto",
   "generation": 1,
   "type1": "water",
   "type2": "psychic",
+  "teraType": null,
   "color": "purple",
   "abilities": {
     "primary": "illuminate",
@@ -84,6 +84,8 @@
   },
   "weight": 8000,
   "height": 110,
+  "maleRate": 0,
+  "femaleRate": 0,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -96,6 +98,7 @@
     "smogon": "starmie",
     "showdown": "starmie",
     "serebii": "starmie",
-    "bulbapedia": "Starmie"
+    "bulbapedia": "Starmie",
+    "showdownName": "Starmie"
   }
 }

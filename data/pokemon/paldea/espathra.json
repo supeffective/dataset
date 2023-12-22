@@ -4,12 +4,12 @@
   "dexNum": 956,
   "formId": null,
   "name": "Espathra",
-  "psName": "Espathra",
   "formName": null,
   "region": "paldea",
   "generation": 9,
   "type1": "psychic",
   "type2": null,
+  "teraType": null,
   "color": "yellow",
   "abilities": {
     "primary": "opportunist",
@@ -59,6 +59,8 @@
   },
   "weight": 9000,
   "height": 190,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -70,6 +72,7 @@
     "smogon": "espathra",
     "showdown": "espathra",
     "serebii": "espathra",
-    "bulbapedia": "Espathra"
+    "bulbapedia": "Espathra",
+    "showdownName": "Espathra"
   }
 }

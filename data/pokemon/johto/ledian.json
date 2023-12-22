@@ -4,12 +4,12 @@
   "dexNum": 166,
   "formId": null,
   "name": "Ledian",
-  "psName": "Ledian",
   "formName": null,
   "region": "johto",
   "generation": 2,
   "type1": "bug",
   "type2": "flying",
+  "teraType": null,
   "color": "red",
   "abilities": {
     "primary": "swarm",
@@ -78,6 +78,8 @@
   },
   "weight": 3560,
   "height": 140,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [
@@ -91,6 +93,7 @@
     "smogon": "ledian",
     "showdown": "ledian",
     "serebii": "ledian",
-    "bulbapedia": "Ledian"
+    "bulbapedia": "Ledian",
+    "showdownName": "Ledian"
   }
 }

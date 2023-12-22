@@ -4,12 +4,12 @@
   "dexNum": 892,
   "formId": "single-strike",
   "name": "Urshifu",
-  "psName": "Urshifu",
   "formName": "Single Strike Style",
   "region": "galar",
   "generation": 8,
   "type1": "fighting",
   "type2": "dark",
+  "teraType": null,
   "color": "gray",
   "abilities": {
     "primary": "unseenfist",
@@ -60,6 +60,8 @@
   },
   "weight": 10500,
   "height": 190,
+  "maleRate": 87.5,
+  "femaleRate": 12.5,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [
@@ -76,6 +78,7 @@
     "smogon": "urshifu",
     "showdown": "urshifu",
     "serebii": "urshifu",
-    "bulbapedia": "Urshifu"
+    "bulbapedia": "Urshifu",
+    "showdownName": "Urshifu"
   }
 }

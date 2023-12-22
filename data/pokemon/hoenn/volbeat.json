@@ -4,12 +4,12 @@
   "dexNum": 313,
   "formId": null,
   "name": "Volbeat",
-  "psName": "Volbeat",
   "formName": null,
   "region": "hoenn",
   "generation": 3,
   "type1": "bug",
   "type2": null,
+  "teraType": null,
   "color": "gray",
   "abilities": {
     "primary": "illuminate",
@@ -78,6 +78,8 @@
   },
   "weight": 1770,
   "height": 70,
+  "maleRate": 100,
+  "femaleRate": 0,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -86,6 +88,7 @@
     "smogon": "volbeat",
     "showdown": "volbeat",
     "serebii": "volbeat",
-    "bulbapedia": "Volbeat"
+    "bulbapedia": "Volbeat",
+    "showdownName": "Volbeat"
   }
 }

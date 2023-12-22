@@ -4,12 +4,12 @@
   "dexNum": 242,
   "formId": null,
   "name": "Blissey",
-  "psName": "Blissey",
   "formName": null,
   "region": "johto",
   "generation": 2,
   "type1": "normal",
   "type2": null,
+  "teraType": null,
   "color": "pink",
   "abilities": {
     "primary": "naturalcure",
@@ -84,6 +84,8 @@
   },
   "weight": 4680,
   "height": 150,
+  "maleRate": 0,
+  "femaleRate": 100,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -95,6 +97,7 @@
     "smogon": "blissey",
     "showdown": "blissey",
     "serebii": "blissey",
-    "bulbapedia": "Blissey"
+    "bulbapedia": "Blissey",
+    "showdownName": "Blissey"
   }
 }

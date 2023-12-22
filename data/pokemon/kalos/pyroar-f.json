@@ -4,12 +4,12 @@
   "dexNum": 668,
   "formId": "f",
   "name": "Pyroar ♀",
-  "psName": "Pyroar",
   "formName": "Female",
   "region": "kalos",
   "generation": 6,
   "type1": "fire",
   "type2": "normal",
+  "teraType": null,
   "color": "brown",
   "abilities": {
     "primary": "rivalry",
@@ -66,6 +66,8 @@
   },
   "weight": 8150,
   "height": 150,
+  "maleRate": 12.5,
+  "femaleRate": 87.5,
   "baseSpecies": "pyroar",
   "baseForms": [],
   "forms": [],
@@ -77,6 +79,7 @@
     "smogon": "pyroar",
     "showdown": "pyroar",
     "serebii": "pyroar",
-    "bulbapedia": "Pyroar"
+    "bulbapedia": "Pyroar",
+    "showdownName": "Pyroar"
   }
 }

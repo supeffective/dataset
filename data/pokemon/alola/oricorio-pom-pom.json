@@ -4,12 +4,12 @@
   "dexNum": 741,
   "formId": "pom-pom",
   "name": "Oricorio Pom-Pom Style",
-  "psName": "Oricorio-Pom-Pom",
   "formName": "Pom-Pom Style",
   "region": "alola",
   "generation": 7,
   "type1": "electric",
   "type2": "flying",
+  "teraType": null,
   "color": "yellow",
   "abilities": {
     "primary": "dancer",
@@ -65,6 +65,8 @@
   },
   "weight": 340,
   "height": 60,
+  "maleRate": 25,
+  "femaleRate": 75,
   "baseSpecies": "oricorio",
   "baseForms": [],
   "forms": [],
@@ -73,6 +75,7 @@
     "smogon": "oricorio-pom-pom",
     "showdown": "oricoriopompom",
     "serebii": "oricorio",
-    "bulbapedia": "Oricorio"
+    "bulbapedia": "Oricorio",
+    "showdownName": "Oricorio-Pom-Pom"
   }
 }

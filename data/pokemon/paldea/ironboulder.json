@@ -4,12 +4,12 @@
   "dexNum": 1022,
   "formId": null,
   "name": "Iron Boulder",
-  "psName": "Iron Boulder",
   "formName": null,
   "region": "paldea",
   "generation": 9,
   "type1": "rock",
   "type2": "psychic",
+  "teraType": null,
   "color": "gray",
   "abilities": {
     "primary": "quarkdrive",
@@ -64,6 +64,8 @@
   },
   "weight": 16250,
   "height": -1,
+  "maleRate": 0,
+  "femaleRate": 0,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -72,6 +74,7 @@
     "smogon": "ironboulder",
     "showdown": "ironboulder",
     "serebii": "ironboulder",
-    "bulbapedia": "Iron Boulder"
+    "bulbapedia": "Iron Boulder",
+    "showdownName": "Iron Boulder"
   }
 }

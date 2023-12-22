@@ -4,12 +4,12 @@
   "dexNum": 271,
   "formId": null,
   "name": "Lombre",
-  "psName": "Lombre",
   "formName": null,
   "region": "hoenn",
   "generation": 3,
   "type1": "water",
   "type2": "grass",
+  "teraType": null,
   "color": "green",
   "abilities": {
     "primary": "swiftswim",
@@ -80,6 +80,8 @@
   },
   "weight": 3250,
   "height": 120,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -91,6 +93,7 @@
     "smogon": "lombre",
     "showdown": "lombre",
     "serebii": "lombre",
-    "bulbapedia": "Lombre"
+    "bulbapedia": "Lombre",
+    "showdownName": "Lombre"
   }
 }

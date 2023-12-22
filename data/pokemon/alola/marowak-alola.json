@@ -4,12 +4,12 @@
   "dexNum": 105,
   "formId": "alola",
   "name": "Alolan Marowak",
-  "psName": "Marowak-Alola",
   "formName": "Alolan Form",
   "region": "alola",
   "generation": 7,
   "type1": "fire",
   "type2": "ghost",
+  "teraType": null,
   "color": "purple",
   "abilities": {
     "primary": "cursedbody",
@@ -67,6 +67,8 @@
   },
   "weight": 3400,
   "height": 100,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": "marowak",
   "baseForms": [],
   "forms": [],
@@ -80,6 +82,7 @@
     "smogon": "marowak-alola",
     "showdown": "marowakalola",
     "serebii": "marowak",
-    "bulbapedia": "Marowak"
+    "bulbapedia": "Marowak",
+    "showdownName": "Marowak-Alola"
   }
 }

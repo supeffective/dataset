@@ -4,12 +4,12 @@
   "dexNum": 719,
   "formId": null,
   "name": "Diancie",
-  "psName": "Diancie",
   "formName": null,
   "region": "kalos",
   "generation": 6,
   "type1": "rock",
   "type2": "fairy",
+  "teraType": null,
   "color": "pink",
   "abilities": {
     "primary": "clearbody",
@@ -69,6 +69,8 @@
   },
   "weight": 880,
   "height": 70,
+  "maleRate": 0,
+  "femaleRate": 0,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [
@@ -82,6 +84,7 @@
     "smogon": "diancie",
     "showdown": "diancie",
     "serebii": "diancie",
-    "bulbapedia": "Diancie"
+    "bulbapedia": "Diancie",
+    "showdownName": "Diancie"
   }
 }

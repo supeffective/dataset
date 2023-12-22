@@ -4,12 +4,12 @@
   "dexNum": 539,
   "formId": null,
   "name": "Sawk",
-  "psName": "Sawk",
   "formName": null,
   "region": "unova",
   "generation": 5,
   "type1": "fighting",
   "type2": null,
+  "teraType": null,
   "color": "blue",
   "abilities": {
     "primary": "sturdy",
@@ -69,6 +69,8 @@
   },
   "weight": 5100,
   "height": 140,
+  "maleRate": 100,
+  "femaleRate": 0,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -77,6 +79,7 @@
     "smogon": "sawk",
     "showdown": "sawk",
     "serebii": "sawk",
-    "bulbapedia": "Sawk"
+    "bulbapedia": "Sawk",
+    "showdownName": "Sawk"
   }
 }

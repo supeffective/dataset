@@ -4,12 +4,12 @@
   "dexNum": 820,
   "formId": null,
   "name": "Greedent",
-  "psName": "Greedent",
   "formName": null,
   "region": "galar",
   "generation": 8,
   "type1": "normal",
   "type2": null,
+  "teraType": null,
   "color": "brown",
   "abilities": {
     "primary": "cheekpouch",
@@ -63,6 +63,8 @@
   },
   "weight": 600,
   "height": 60,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -74,6 +76,7 @@
     "smogon": "greedent",
     "showdown": "greedent",
     "serebii": "greedent",
-    "bulbapedia": "Greedent"
+    "bulbapedia": "Greedent",
+    "showdownName": "Greedent"
   }
 }

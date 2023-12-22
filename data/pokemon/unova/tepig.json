@@ -4,12 +4,12 @@
   "dexNum": 498,
   "formId": null,
   "name": "Tepig",
-  "psName": "Tepig",
   "formName": null,
   "region": "unova",
   "generation": 5,
   "type1": "fire",
   "type2": null,
+  "teraType": null,
   "color": "red",
   "abilities": {
     "primary": "blaze",
@@ -69,6 +69,8 @@
   },
   "weight": 990,
   "height": 50,
+  "maleRate": 87.5,
+  "femaleRate": 12.5,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -77,6 +79,7 @@
     "smogon": "tepig",
     "showdown": "tepig",
     "serebii": "tepig",
-    "bulbapedia": "Tepig"
+    "bulbapedia": "Tepig",
+    "showdownName": "Tepig"
   }
 }

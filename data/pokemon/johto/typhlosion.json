@@ -4,12 +4,12 @@
   "dexNum": 157,
   "formId": null,
   "name": "Typhlosion",
-  "psName": "Typhlosion",
   "formName": null,
   "region": "johto",
   "generation": 2,
   "type1": "fire",
   "type2": null,
+  "teraType": null,
   "color": "yellow",
   "abilities": {
     "primary": "blaze",
@@ -80,6 +80,8 @@
   },
   "weight": 7950,
   "height": 170,
+  "maleRate": 87.5,
+  "femaleRate": 12.5,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [
@@ -93,6 +95,7 @@
     "smogon": "typhlosion",
     "showdown": "typhlosion",
     "serebii": "typhlosion",
-    "bulbapedia": "Typhlosion"
+    "bulbapedia": "Typhlosion",
+    "showdownName": "Typhlosion"
   }
 }

@@ -4,12 +4,12 @@
   "dexNum": 533,
   "formId": null,
   "name": "Gurdurr",
-  "psName": "Gurdurr",
   "formName": null,
   "region": "unova",
   "generation": 5,
   "type1": "fighting",
   "type2": null,
+  "teraType": null,
   "color": "gray",
   "abilities": {
     "primary": "guts",
@@ -71,6 +71,8 @@
   },
   "weight": 4000,
   "height": 120,
+  "maleRate": 75,
+  "femaleRate": 25,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -82,6 +84,7 @@
     "smogon": "gurdurr",
     "showdown": "gurdurr",
     "serebii": "gurdurr",
-    "bulbapedia": "Gurdurr"
+    "bulbapedia": "Gurdurr",
+    "showdownName": "Gurdurr"
   }
 }

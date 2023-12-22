@@ -4,12 +4,12 @@
   "dexNum": 688,
   "formId": null,
   "name": "Binacle",
-  "psName": "Binacle",
   "formName": null,
   "region": "kalos",
   "generation": 6,
   "type1": "rock",
   "type2": "water",
+  "teraType": null,
   "color": "brown",
   "abilities": {
     "primary": "toughclaws",
@@ -66,6 +66,8 @@
   },
   "weight": 3100,
   "height": 50,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -74,6 +76,7 @@
     "smogon": "binacle",
     "showdown": "binacle",
     "serebii": "binacle",
-    "bulbapedia": "Binacle"
+    "bulbapedia": "Binacle",
+    "showdownName": "Binacle"
   }
 }

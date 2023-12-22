@@ -4,12 +4,12 @@
   "dexNum": 46,
   "formId": null,
   "name": "Paras",
-  "psName": "Paras",
   "formName": null,
   "region": "kanto",
   "generation": 1,
   "type1": "bug",
   "type2": "grass",
+  "teraType": null,
   "color": "red",
   "abilities": {
     "primary": "effectspore",
@@ -84,6 +84,8 @@
   },
   "weight": 540,
   "height": 30,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -92,6 +94,7 @@
     "smogon": "paras",
     "showdown": "paras",
     "serebii": "paras",
-    "bulbapedia": "Paras"
+    "bulbapedia": "Paras",
+    "showdownName": "Paras"
   }
 }

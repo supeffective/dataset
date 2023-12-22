@@ -4,12 +4,12 @@
   "dexNum": 504,
   "formId": null,
   "name": "Patrat",
-  "psName": "Patrat",
   "formName": null,
   "region": "unova",
   "generation": 5,
   "type1": "normal",
   "type2": null,
+  "teraType": null,
   "color": "brown",
   "abilities": {
     "primary": "runaway",
@@ -67,6 +67,8 @@
   },
   "weight": 1160,
   "height": 50,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -75,6 +77,7 @@
     "smogon": "patrat",
     "showdown": "patrat",
     "serebii": "patrat",
-    "bulbapedia": "Patrat"
+    "bulbapedia": "Patrat",
+    "showdownName": "Patrat"
   }
 }

@@ -4,12 +4,12 @@
   "dexNum": 488,
   "formId": null,
   "name": "Cresselia",
-  "psName": "Cresselia",
   "formName": null,
   "region": "sinnoh",
   "generation": 4,
   "type1": "psychic",
   "type2": null,
+  "teraType": null,
   "color": "yellow",
   "abilities": {
     "primary": "levitate",
@@ -77,6 +77,8 @@
   },
   "weight": 8560,
   "height": 150,
+  "maleRate": 0,
+  "femaleRate": 100,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -85,6 +87,7 @@
     "smogon": "cresselia",
     "showdown": "cresselia",
     "serebii": "cresselia",
-    "bulbapedia": "Cresselia"
+    "bulbapedia": "Cresselia",
+    "showdownName": "Cresselia"
   }
 }

@@ -4,12 +4,12 @@
   "dexNum": 427,
   "formId": null,
   "name": "Buneary",
-  "psName": "Buneary",
   "formName": null,
   "region": "sinnoh",
   "generation": 4,
   "type1": "normal",
   "type2": null,
+  "teraType": null,
   "color": "brown",
   "abilities": {
     "primary": "runaway",
@@ -76,6 +76,8 @@
   },
   "weight": 550,
   "height": 40,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -84,6 +86,7 @@
     "smogon": "buneary",
     "showdown": "buneary",
     "serebii": "buneary",
-    "bulbapedia": "Buneary"
+    "bulbapedia": "Buneary",
+    "showdownName": "Buneary"
   }
 }

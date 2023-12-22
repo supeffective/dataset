@@ -4,12 +4,12 @@
   "dexNum": 126,
   "formId": null,
   "name": "Magmar",
-  "psName": "Magmar",
   "formName": null,
   "region": "kanto",
   "generation": 1,
   "type1": "fire",
   "type2": null,
+  "teraType": null,
   "color": "red",
   "abilities": {
     "primary": "flamebody",
@@ -88,6 +88,8 @@
   },
   "weight": 4450,
   "height": 130,
+  "maleRate": 75,
+  "femaleRate": 25,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -99,6 +101,7 @@
     "smogon": "magmar",
     "showdown": "magmar",
     "serebii": "magmar",
-    "bulbapedia": "Magmar"
+    "bulbapedia": "Magmar",
+    "showdownName": "Magmar"
   }
 }

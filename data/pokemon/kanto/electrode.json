@@ -4,12 +4,12 @@
   "dexNum": 101,
   "formId": null,
   "name": "Electrode",
-  "psName": "Electrode",
   "formName": null,
   "region": "kanto",
   "generation": 1,
   "type1": "electric",
   "type2": null,
+  "teraType": null,
   "color": "red",
   "abilities": {
     "primary": "soundproof",
@@ -84,6 +84,8 @@
   },
   "weight": 6660,
   "height": 120,
+  "maleRate": 0,
+  "femaleRate": 0,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [
@@ -97,6 +99,7 @@
     "smogon": "electrode",
     "showdown": "electrode",
     "serebii": "electrode",
-    "bulbapedia": "Electrode"
+    "bulbapedia": "Electrode",
+    "showdownName": "Electrode"
   }
 }

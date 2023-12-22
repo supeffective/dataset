@@ -4,12 +4,12 @@
   "dexNum": 751,
   "formId": null,
   "name": "Dewpider",
-  "psName": "Dewpider",
   "formName": null,
   "region": "alola",
   "generation": 7,
   "type1": "water",
   "type2": "bug",
+  "teraType": null,
   "color": "green",
   "abilities": {
     "primary": "waterbubble",
@@ -67,6 +67,8 @@
   },
   "weight": 400,
   "height": 30,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -75,6 +77,7 @@
     "smogon": "dewpider",
     "showdown": "dewpider",
     "serebii": "dewpider",
-    "bulbapedia": "Dewpider"
+    "bulbapedia": "Dewpider",
+    "showdownName": "Dewpider"
   }
 }

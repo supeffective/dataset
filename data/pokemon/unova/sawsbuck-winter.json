@@ -4,12 +4,12 @@
   "dexNum": 586,
   "formId": "winter",
   "name": "Sawsbuck Winter Form",
-  "psName": "Sawsbuck",
   "formName": "Winter Form",
   "region": "unova",
   "generation": 5,
   "type1": "normal",
   "type2": "grass",
+  "teraType": null,
   "color": "brown",
   "abilities": {
     "primary": "chlorophyll",
@@ -69,6 +69,8 @@
   },
   "weight": 9250,
   "height": 190,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": "sawsbuck",
   "baseForms": [],
   "forms": [],
@@ -80,6 +82,7 @@
     "smogon": "sawsbuck-winter",
     "showdown": "sawsbuck",
     "serebii": "sawsbuck",
-    "bulbapedia": "Sawsbuck"
+    "bulbapedia": "Sawsbuck",
+    "showdownName": "Sawsbuck"
   }
 }

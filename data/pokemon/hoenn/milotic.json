@@ -4,12 +4,12 @@
   "dexNum": 350,
   "formId": null,
   "name": "Milotic",
-  "psName": "Milotic",
   "formName": null,
   "region": "hoenn",
   "generation": 3,
   "type1": "water",
   "type2": null,
+  "teraType": null,
   "color": "pink",
   "abilities": {
     "primary": "marvelscale",
@@ -80,6 +80,8 @@
   },
   "weight": 16200,
   "height": 620,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [
@@ -94,6 +96,7 @@
     "smogon": "milotic",
     "showdown": "milotic",
     "serebii": "milotic",
-    "bulbapedia": "Milotic"
+    "bulbapedia": "Milotic",
+    "showdownName": "Milotic"
   }
 }

@@ -4,12 +4,12 @@
   "dexNum": 807,
   "formId": null,
   "name": "Zeraora",
-  "psName": "Zeraora",
   "formName": null,
   "region": "alola",
   "generation": 7,
   "type1": "electric",
   "type2": null,
+  "teraType": null,
   "color": "yellow",
   "abilities": {
     "primary": "voltabsorb",
@@ -61,6 +61,8 @@
   },
   "weight": 4450,
   "height": 150,
+  "maleRate": 0,
+  "femaleRate": 0,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -69,6 +71,7 @@
     "smogon": "zeraora",
     "showdown": "zeraora",
     "serebii": "zeraora",
-    "bulbapedia": "Zeraora"
+    "bulbapedia": "Zeraora",
+    "showdownName": "Zeraora"
   }
 }

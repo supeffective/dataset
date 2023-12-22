@@ -4,12 +4,12 @@
   "dexNum": 789,
   "formId": null,
   "name": "Cosmog",
-  "psName": "Cosmog",
   "formName": null,
   "region": "alola",
   "generation": 7,
   "type1": "psychic",
   "type2": null,
+  "teraType": null,
   "color": "blue",
   "abilities": {
     "primary": "unaware",
@@ -65,6 +65,8 @@
   },
   "weight": 10,
   "height": 20,
+  "maleRate": 0,
+  "femaleRate": 0,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -73,6 +75,7 @@
     "smogon": "cosmog",
     "showdown": "cosmog",
     "serebii": "cosmog",
-    "bulbapedia": "Cosmog"
+    "bulbapedia": "Cosmog",
+    "showdownName": "Cosmog"
   }
 }

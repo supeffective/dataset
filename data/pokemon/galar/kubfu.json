@@ -4,12 +4,12 @@
   "dexNum": 891,
   "formId": null,
   "name": "Kubfu",
-  "psName": "Kubfu",
   "formName": null,
   "region": "galar",
   "generation": 8,
   "type1": "fighting",
   "type2": null,
+  "teraType": null,
   "color": "gray",
   "abilities": {
     "primary": "innerfocus",
@@ -60,6 +60,8 @@
   },
   "weight": 1200,
   "height": 60,
+  "maleRate": 87.5,
+  "femaleRate": 12.5,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -68,6 +70,7 @@
     "smogon": "kubfu",
     "showdown": "kubfu",
     "serebii": "kubfu",
-    "bulbapedia": "Kubfu"
+    "bulbapedia": "Kubfu",
+    "showdownName": "Kubfu"
   }
 }

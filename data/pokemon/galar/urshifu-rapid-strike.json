@@ -4,12 +4,12 @@
   "dexNum": 892,
   "formId": "rapid-strike",
   "name": "Urshifu Rapid Strike Style",
-  "psName": "Urshifu-Rapid-Strike",
   "formName": "Rapid Strike Style",
   "region": "galar",
   "generation": 8,
   "type1": "fighting",
   "type2": "water",
+  "teraType": null,
   "color": "gray",
   "abilities": {
     "primary": "unseenfist",
@@ -60,6 +60,8 @@
   },
   "weight": 10500,
   "height": 190,
+  "maleRate": 87.5,
+  "femaleRate": 12.5,
   "baseSpecies": "urshifu",
   "baseForms": [],
   "forms": [],
@@ -72,6 +74,7 @@
     "smogon": "urshifu-rapid-strike",
     "showdown": "urshifurapidstrike",
     "serebii": "urshifu",
-    "bulbapedia": "Urshifu"
+    "bulbapedia": "Urshifu",
+    "showdownName": "Urshifu-Rapid-Strike"
   }
 }

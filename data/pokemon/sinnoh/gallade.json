@@ -4,12 +4,12 @@
   "dexNum": 475,
   "formId": null,
   "name": "Gallade",
-  "psName": "Gallade",
   "formName": null,
   "region": "sinnoh",
   "generation": 4,
   "type1": "psychic",
   "type2": "fighting",
+  "teraType": null,
   "color": "white",
   "abilities": {
     "primary": "steadfast",
@@ -78,6 +78,8 @@
   },
   "weight": 5200,
   "height": 160,
+  "maleRate": 100,
+  "femaleRate": 0,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [
@@ -92,6 +94,7 @@
     "smogon": "gallade",
     "showdown": "gallade",
     "serebii": "gallade",
-    "bulbapedia": "Gallade"
+    "bulbapedia": "Gallade",
+    "showdownName": "Gallade"
   }
 }

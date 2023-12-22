@@ -4,12 +4,12 @@
   "dexNum": 363,
   "formId": null,
   "name": "Spheal",
-  "psName": "Spheal",
   "formName": null,
   "region": "hoenn",
   "generation": 3,
   "type1": "ice",
   "type2": "water",
+  "teraType": null,
   "color": "blue",
   "abilities": {
     "primary": "thickfat",
@@ -80,6 +80,8 @@
   },
   "weight": 3950,
   "height": 80,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -88,6 +90,7 @@
     "smogon": "spheal",
     "showdown": "spheal",
     "serebii": "spheal",
-    "bulbapedia": "Spheal"
+    "bulbapedia": "Spheal",
+    "showdownName": "Spheal"
   }
 }

@@ -4,12 +4,12 @@
   "dexNum": 404,
   "formId": "f",
   "name": "Luxio ♀",
-  "psName": "Luxio",
   "formName": "Female",
   "region": "sinnoh",
   "generation": 4,
   "type1": "electric",
   "type2": null,
+  "teraType": null,
   "color": "blue",
   "abilities": {
     "primary": "rivalry",
@@ -78,6 +78,8 @@
   },
   "weight": 3050,
   "height": 90,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": "luxio",
   "baseForms": [],
   "forms": [],
@@ -89,6 +91,7 @@
     "smogon": "luxio",
     "showdown": "luxio",
     "serebii": "luxio",
-    "bulbapedia": "Luxio"
+    "bulbapedia": "Luxio",
+    "showdownName": "Luxio"
   }
 }

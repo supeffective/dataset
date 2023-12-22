@@ -4,12 +4,12 @@
   "dexNum": 941,
   "formId": null,
   "name": "Kilowattrel",
-  "psName": "Kilowattrel",
   "formName": null,
   "region": "paldea",
   "generation": 9,
   "type1": "electric",
   "type2": "flying",
+  "teraType": null,
   "color": "yellow",
   "abilities": {
     "primary": "windpower",
@@ -59,6 +59,8 @@
   },
   "weight": 3860,
   "height": 140,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -70,6 +72,7 @@
     "smogon": "kilowattrel",
     "showdown": "kilowattrel",
     "serebii": "kilowattrel",
-    "bulbapedia": "Kilowattrel"
+    "bulbapedia": "Kilowattrel",
+    "showdownName": "Kilowattrel"
   }
 }

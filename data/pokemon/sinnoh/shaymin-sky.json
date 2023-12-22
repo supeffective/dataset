@@ -4,12 +4,12 @@
   "dexNum": 492,
   "formId": "sky",
   "name": "Shaymin Sky Forme",
-  "psName": "Shaymin-Sky",
   "formName": "Sky Forme",
   "region": "sinnoh",
   "generation": 4,
   "type1": "grass",
   "type2": "flying",
+  "teraType": null,
   "color": "green",
   "abilities": {
     "primary": "serenegrace",
@@ -72,6 +72,8 @@
   },
   "weight": 520,
   "height": 40,
+  "maleRate": 0,
+  "femaleRate": 0,
   "baseSpecies": "shaymin",
   "baseForms": [
     "shaymin"
@@ -82,6 +84,7 @@
     "smogon": "shaymin-sky",
     "showdown": "shayminsky",
     "serebii": "shaymin",
-    "bulbapedia": "Shaymin"
+    "bulbapedia": "Shaymin",
+    "showdownName": "Shaymin-Sky"
   }
 }

@@ -4,12 +4,12 @@
   "dexNum": 722,
   "formId": null,
   "name": "Rowlet",
-  "psName": "Rowlet",
   "formName": null,
   "region": "alola",
   "generation": 7,
   "type1": "grass",
   "type2": "flying",
+  "teraType": null,
   "color": "brown",
   "abilities": {
     "primary": "overgrow",
@@ -69,6 +69,8 @@
   },
   "weight": 150,
   "height": 30,
+  "maleRate": 87.5,
+  "femaleRate": 12.5,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -77,6 +79,7 @@
     "smogon": "rowlet",
     "showdown": "rowlet",
     "serebii": "rowlet",
-    "bulbapedia": "Rowlet"
+    "bulbapedia": "Rowlet",
+    "showdownName": "Rowlet"
   }
 }

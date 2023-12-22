@@ -4,12 +4,12 @@
   "dexNum": 284,
   "formId": null,
   "name": "Masquerain",
-  "psName": "Masquerain",
   "formName": null,
   "region": "hoenn",
   "generation": 3,
   "type1": "bug",
   "type2": "flying",
+  "teraType": null,
   "color": "blue",
   "abilities": {
     "primary": "intimidate",
@@ -78,6 +78,8 @@
   },
   "weight": 360,
   "height": 80,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -89,6 +91,7 @@
     "smogon": "masquerain",
     "showdown": "masquerain",
     "serebii": "masquerain",
-    "bulbapedia": "Masquerain"
+    "bulbapedia": "Masquerain",
+    "showdownName": "Masquerain"
   }
 }

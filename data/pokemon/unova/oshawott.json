@@ -4,12 +4,12 @@
   "dexNum": 501,
   "formId": null,
   "name": "Oshawott",
-  "psName": "Oshawott",
   "formName": null,
   "region": "unova",
   "generation": 5,
   "type1": "water",
   "type2": null,
+  "teraType": null,
   "color": "blue",
   "abilities": {
     "primary": "torrent",
@@ -71,6 +71,8 @@
   },
   "weight": 590,
   "height": 50,
+  "maleRate": 87.5,
+  "femaleRate": 12.5,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -79,6 +81,7 @@
     "smogon": "oshawott",
     "showdown": "oshawott",
     "serebii": "oshawott",
-    "bulbapedia": "Oshawott"
+    "bulbapedia": "Oshawott",
+    "showdownName": "Oshawott"
   }
 }

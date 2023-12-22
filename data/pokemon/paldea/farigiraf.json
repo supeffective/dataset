@@ -4,12 +4,12 @@
   "dexNum": 981,
   "formId": null,
   "name": "Farigiraf",
-  "psName": "Farigiraf",
   "formName": null,
   "region": "paldea",
   "generation": 9,
   "type1": "normal",
   "type2": "psychic",
+  "teraType": null,
   "color": "brown",
   "abilities": {
     "primary": "cudchew",
@@ -59,6 +59,8 @@
   },
   "weight": 16000,
   "height": 320,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -71,6 +73,7 @@
     "smogon": "farigiraf",
     "showdown": "farigiraf",
     "serebii": "farigiraf",
-    "bulbapedia": "Farigiraf"
+    "bulbapedia": "Farigiraf",
+    "showdownName": "Farigiraf"
   }
 }

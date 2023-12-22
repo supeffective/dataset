@@ -4,12 +4,12 @@
   "dexNum": 351,
   "formId": "rainy",
   "name": "Castform Rainy Form",
-  "psName": "Castform-Rainy",
   "formName": "Rainy Form",
   "region": "hoenn",
   "generation": 3,
   "type1": "water",
   "type2": null,
+  "teraType": null,
   "color": "blue",
   "abilities": {
     "primary": "forecast",
@@ -62,6 +62,8 @@
   },
   "weight": 80,
   "height": 30,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": "castform",
   "baseForms": [
     "castform"
@@ -72,6 +74,7 @@
     "smogon": "castform-rainy",
     "showdown": "castformrainy",
     "serebii": "castform",
-    "bulbapedia": "Castform"
+    "bulbapedia": "Castform",
+    "showdownName": "Castform-Rainy"
   }
 }

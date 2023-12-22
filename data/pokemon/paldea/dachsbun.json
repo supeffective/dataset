@@ -4,12 +4,12 @@
   "dexNum": 927,
   "formId": null,
   "name": "Dachsbun",
-  "psName": "Dachsbun",
   "formName": null,
   "region": "paldea",
   "generation": 9,
   "type1": "fairy",
   "type2": null,
+  "teraType": null,
   "color": "brown",
   "abilities": {
     "primary": "wellbakedbody",
@@ -59,6 +59,8 @@
   },
   "weight": 1490,
   "height": 50,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -70,6 +72,7 @@
     "smogon": "dachsbun",
     "showdown": "dachsbun",
     "serebii": "dachsbun",
-    "bulbapedia": "Dachsbun"
+    "bulbapedia": "Dachsbun",
+    "showdownName": "Dachsbun"
   }
 }

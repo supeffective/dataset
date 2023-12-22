@@ -4,12 +4,12 @@
   "dexNum": 191,
   "formId": null,
   "name": "Sunkern",
-  "psName": "Sunkern",
   "formName": null,
   "region": "johto",
   "generation": 2,
   "type1": "grass",
   "type2": null,
+  "teraType": null,
   "color": "yellow",
   "abilities": {
     "primary": "chlorophyll",
@@ -80,6 +80,8 @@
   },
   "weight": 180,
   "height": 30,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -88,6 +90,7 @@
     "smogon": "sunkern",
     "showdown": "sunkern",
     "serebii": "sunkern",
-    "bulbapedia": "Sunkern"
+    "bulbapedia": "Sunkern",
+    "showdownName": "Sunkern"
   }
 }

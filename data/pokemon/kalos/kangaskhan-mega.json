@@ -4,12 +4,12 @@
   "dexNum": 115,
   "formId": "mega",
   "name": "Mega Kangaskhan",
-  "psName": "Kangaskhan-Mega",
   "formName": "Mega",
   "region": "kalos",
   "generation": 6,
   "type1": "normal",
   "type2": null,
+  "teraType": null,
   "color": "brown",
   "abilities": {
     "primary": "parentalbond",
@@ -59,6 +59,8 @@
   },
   "weight": 10000,
   "height": 220,
+  "maleRate": 0,
+  "femaleRate": 100,
   "baseSpecies": "kangaskhan",
   "baseForms": [
     "kangaskhan"
@@ -69,6 +71,7 @@
     "smogon": "kangaskhan-mega",
     "showdown": "kangaskhanmega",
     "serebii": "kangaskhan",
-    "bulbapedia": "Kangaskhan"
+    "bulbapedia": "Kangaskhan",
+    "showdownName": "Kangaskhan-Mega"
   }
 }

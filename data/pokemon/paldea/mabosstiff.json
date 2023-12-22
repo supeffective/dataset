@@ -4,12 +4,12 @@
   "dexNum": 943,
   "formId": null,
   "name": "Mabosstiff",
-  "psName": "Mabosstiff",
   "formName": null,
   "region": "paldea",
   "generation": 9,
   "type1": "dark",
   "type2": null,
+  "teraType": null,
   "color": "gray",
   "abilities": {
     "primary": "intimidate",
@@ -59,6 +59,8 @@
   },
   "weight": 6100,
   "height": 110,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -70,6 +72,7 @@
     "smogon": "mabosstiff",
     "showdown": "mabosstiff",
     "serebii": "mabosstiff",
-    "bulbapedia": "Mabosstiff"
+    "bulbapedia": "Mabosstiff",
+    "showdownName": "Mabosstiff"
   }
 }

@@ -4,12 +4,12 @@
   "dexNum": 265,
   "formId": null,
   "name": "Wurmple",
-  "psName": "Wurmple",
   "formName": null,
   "region": "hoenn",
   "generation": 3,
   "type1": "bug",
   "type2": null,
+  "teraType": null,
   "color": "red",
   "abilities": {
     "primary": "shielddust",
@@ -78,6 +78,8 @@
   },
   "weight": 360,
   "height": 30,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -86,6 +88,7 @@
     "smogon": "wurmple",
     "showdown": "wurmple",
     "serebii": "wurmple",
-    "bulbapedia": "Wurmple"
+    "bulbapedia": "Wurmple",
+    "showdownName": "Wurmple"
   }
 }

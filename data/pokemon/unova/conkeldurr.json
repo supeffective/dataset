@@ -4,12 +4,12 @@
   "dexNum": 534,
   "formId": null,
   "name": "Conkeldurr",
-  "psName": "Conkeldurr",
   "formName": null,
   "region": "unova",
   "generation": 5,
   "type1": "fighting",
   "type2": null,
+  "teraType": null,
   "color": "brown",
   "abilities": {
     "primary": "guts",
@@ -71,6 +71,8 @@
   },
   "weight": 8700,
   "height": 140,
+  "maleRate": 75,
+  "femaleRate": 25,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -82,6 +84,7 @@
     "smogon": "conkeldurr",
     "showdown": "conkeldurr",
     "serebii": "conkeldurr",
-    "bulbapedia": "Conkeldurr"
+    "bulbapedia": "Conkeldurr",
+    "showdownName": "Conkeldurr"
   }
 }

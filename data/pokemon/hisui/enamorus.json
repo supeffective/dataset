@@ -4,12 +4,12 @@
   "dexNum": 905,
   "formId": "incarnate",
   "name": "Enamorus",
-  "psName": "Enamorus",
   "formName": "Incarnate Forme",
   "region": "hisui",
   "generation": 8,
   "type1": "fairy",
   "type2": "flying",
+  "teraType": null,
   "color": "pink",
   "abilities": {
     "primary": "cutecharm",
@@ -60,6 +60,8 @@
   },
   "weight": 4800,
   "height": 160,
+  "maleRate": 0,
+  "femaleRate": 100,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [
@@ -70,6 +72,7 @@
     "smogon": "enamorus",
     "showdown": "enamorus",
     "serebii": "enamorus",
-    "bulbapedia": "Enamorus"
+    "bulbapedia": "Enamorus",
+    "showdownName": "Enamorus"
   }
 }

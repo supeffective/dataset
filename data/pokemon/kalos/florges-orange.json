@@ -4,12 +4,12 @@
   "dexNum": 671,
   "formId": "orange",
   "name": "Florges Orange Flower",
-  "psName": "Florges",
   "formName": "Orange Flower",
   "region": "kalos",
   "generation": 6,
   "type1": "fairy",
   "type2": null,
+  "teraType": null,
   "color": "white",
   "abilities": {
     "primary": "flowerveil",
@@ -66,6 +66,8 @@
   },
   "weight": 1000,
   "height": 110,
+  "maleRate": 0,
+  "femaleRate": 100,
   "baseSpecies": "florges",
   "baseForms": [],
   "forms": [],
@@ -78,6 +80,7 @@
     "smogon": "florges-orange",
     "showdown": "florges",
     "serebii": "florges",
-    "bulbapedia": "Florges"
+    "bulbapedia": "Florges",
+    "showdownName": "Florges"
   }
 }

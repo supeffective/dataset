@@ -4,12 +4,12 @@
   "dexNum": 298,
   "formId": null,
   "name": "Azurill",
-  "psName": "Azurill",
   "formName": null,
   "region": "hoenn",
   "generation": 3,
   "type1": "normal",
   "type2": "fairy",
+  "teraType": null,
   "color": "blue",
   "abilities": {
     "primary": "thickfat",
@@ -80,6 +80,8 @@
   },
   "weight": 200,
   "height": 20,
+  "maleRate": 25,
+  "femaleRate": 75,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -88,6 +90,7 @@
     "smogon": "azurill",
     "showdown": "azurill",
     "serebii": "azurill",
-    "bulbapedia": "Azurill"
+    "bulbapedia": "Azurill",
+    "showdownName": "Azurill"
   }
 }

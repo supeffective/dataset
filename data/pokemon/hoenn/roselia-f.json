@@ -4,12 +4,12 @@
   "dexNum": 315,
   "formId": "f",
   "name": "Roselia ♀",
-  "psName": "Roselia",
   "formName": "Female",
   "region": "hoenn",
   "generation": 4,
   "type1": "grass",
   "type2": "poison",
+  "teraType": null,
   "color": "green",
   "abilities": {
     "primary": "naturalcure",
@@ -75,6 +75,8 @@
   },
   "weight": 200,
   "height": 30,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": "roselia",
   "baseForms": [],
   "forms": [],
@@ -87,6 +89,7 @@
     "smogon": "roselia",
     "showdown": "roselia",
     "serebii": "roselia",
-    "bulbapedia": "Roselia"
+    "bulbapedia": "Roselia",
+    "showdownName": "Roselia"
   }
 }

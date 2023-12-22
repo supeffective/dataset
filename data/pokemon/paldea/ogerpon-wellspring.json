@@ -4,12 +4,12 @@
   "dexNum": 1017,
   "formId": "wellspring",
   "name": "Ogerpon (Wellspring Mask)",
-  "psName": "Ogerpon-Wellspring",
   "formName": "Wellspring Mask",
   "region": "paldea",
   "generation": 9,
   "type1": "grass",
   "type2": "water",
+  "teraType": "water",
   "color": "blue",
   "abilities": {
     "primary": "waterabsorb",
@@ -58,6 +58,8 @@
   },
   "weight": 3980,
   "height": -1,
+  "maleRate": 0,
+  "femaleRate": 100,
   "baseSpecies": "ogerpon",
   "baseForms": [],
   "forms": [],
@@ -66,6 +68,7 @@
     "smogon": "ogerpon",
     "showdown": "ogerponwellspring",
     "serebii": "ogerpon",
-    "bulbapedia": "Ogerpon"
+    "bulbapedia": "Ogerpon",
+    "showdownName": "Ogerpon-Wellspring"
   }
 }

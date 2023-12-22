@@ -4,12 +4,12 @@
   "dexNum": 286,
   "formId": null,
   "name": "Breloom",
-  "psName": "Breloom",
   "formName": null,
   "region": "hoenn",
   "generation": 3,
   "type1": "grass",
   "type2": "fighting",
+  "teraType": null,
   "color": "green",
   "abilities": {
     "primary": "effectspore",
@@ -78,6 +78,8 @@
   },
   "weight": 3920,
   "height": 120,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -89,6 +91,7 @@
     "smogon": "breloom",
     "showdown": "breloom",
     "serebii": "breloom",
-    "bulbapedia": "Breloom"
+    "bulbapedia": "Breloom",
+    "showdownName": "Breloom"
   }
 }

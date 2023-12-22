@@ -4,12 +4,12 @@
   "dexNum": 252,
   "formId": null,
   "name": "Treecko",
-  "psName": "Treecko",
   "formName": null,
   "region": "hoenn",
   "generation": 3,
   "type1": "grass",
   "type2": null,
+  "teraType": null,
   "color": "green",
   "abilities": {
     "primary": "overgrow",
@@ -80,6 +80,8 @@
   },
   "weight": 500,
   "height": 50,
+  "maleRate": 87.5,
+  "femaleRate": 12.5,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -88,6 +90,7 @@
     "smogon": "treecko",
     "showdown": "treecko",
     "serebii": "treecko",
-    "bulbapedia": "Treecko"
+    "bulbapedia": "Treecko",
+    "showdownName": "Treecko"
   }
 }

@@ -4,12 +4,12 @@
   "dexNum": 198,
   "formId": "f",
   "name": "Murkrow ♀",
-  "psName": "Murkrow",
   "formName": "Female",
   "region": "johto",
   "generation": 4,
   "type1": "dark",
   "type2": "flying",
+  "teraType": null,
   "color": "black",
   "abilities": {
     "primary": "insomnia",
@@ -75,6 +75,8 @@
   },
   "weight": 210,
   "height": 50,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": "murkrow",
   "baseForms": [],
   "forms": [],
@@ -83,6 +85,7 @@
     "smogon": "murkrow",
     "showdown": "murkrow",
     "serebii": "murkrow",
-    "bulbapedia": "Murkrow"
+    "bulbapedia": "Murkrow",
+    "showdownName": "Murkrow"
   }
 }

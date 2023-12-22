@@ -4,12 +4,12 @@
   "dexNum": 474,
   "formId": null,
   "name": "Porygon-Z",
-  "psName": "Porygon-Z",
   "formName": "Z",
   "region": "sinnoh",
   "generation": 4,
   "type1": "normal",
   "type2": null,
+  "teraType": null,
   "color": "red",
   "abilities": {
     "primary": "adaptability",
@@ -78,6 +78,8 @@
   },
   "weight": 3400,
   "height": 90,
+  "maleRate": 0,
+  "femaleRate": 0,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -90,6 +92,7 @@
     "smogon": "porygonz",
     "showdown": "porygonz",
     "serebii": "porygonz",
-    "bulbapedia": "Porygon-Z"
+    "bulbapedia": "Porygon-Z",
+    "showdownName": "Porygon-Z"
   }
 }

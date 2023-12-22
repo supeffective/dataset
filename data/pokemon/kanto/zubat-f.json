@@ -4,12 +4,12 @@
   "dexNum": 41,
   "formId": "f",
   "name": "Zubat ♀",
-  "psName": "Zubat",
   "formName": "Female",
   "region": "kanto",
   "generation": 4,
   "type1": "poison",
   "type2": "flying",
+  "teraType": null,
   "color": "purple",
   "abilities": {
     "primary": "innerfocus",
@@ -76,6 +76,8 @@
   },
   "weight": 750,
   "height": 80,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": "zubat",
   "baseForms": [],
   "forms": [],
@@ -84,6 +86,7 @@
     "smogon": "zubat",
     "showdown": "zubat",
     "serebii": "zubat",
-    "bulbapedia": "Zubat"
+    "bulbapedia": "Zubat",
+    "showdownName": "Zubat"
   }
 }

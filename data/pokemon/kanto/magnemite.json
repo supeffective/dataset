@@ -4,12 +4,12 @@
   "dexNum": 81,
   "formId": null,
   "name": "Magnemite",
-  "psName": "Magnemite",
   "formName": null,
   "region": "kanto",
   "generation": 1,
   "type1": "electric",
   "type2": "steel",
+  "teraType": null,
   "color": "gray",
   "abilities": {
     "primary": "magnetpull",
@@ -88,6 +88,8 @@
   },
   "weight": 600,
   "height": 30,
+  "maleRate": 0,
+  "femaleRate": 0,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -96,6 +98,7 @@
     "smogon": "magnemite",
     "showdown": "magnemite",
     "serebii": "magnemite",
-    "bulbapedia": "Magnemite"
+    "bulbapedia": "Magnemite",
+    "showdownName": "Magnemite"
   }
 }

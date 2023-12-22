@@ -4,12 +4,12 @@
   "dexNum": 438,
   "formId": null,
   "name": "Bonsly",
-  "psName": "Bonsly",
   "formName": null,
   "region": "sinnoh",
   "generation": 4,
   "type1": "rock",
   "type2": null,
+  "teraType": null,
   "color": "brown",
   "abilities": {
     "primary": "sturdy",
@@ -78,6 +78,8 @@
   },
   "weight": 1500,
   "height": 50,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -86,6 +88,7 @@
     "smogon": "bonsly",
     "showdown": "bonsly",
     "serebii": "bonsly",
-    "bulbapedia": "Bonsly"
+    "bulbapedia": "Bonsly",
+    "showdownName": "Bonsly"
   }
 }

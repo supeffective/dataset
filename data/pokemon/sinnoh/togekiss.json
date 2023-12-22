@@ -4,12 +4,12 @@
   "dexNum": 468,
   "formId": null,
   "name": "Togekiss",
-  "psName": "Togekiss",
   "formName": null,
   "region": "sinnoh",
   "generation": 4,
   "type1": "fairy",
   "type2": "flying",
+  "teraType": null,
   "color": "white",
   "abilities": {
     "primary": "hustle",
@@ -76,6 +76,8 @@
   },
   "weight": 3800,
   "height": 150,
+  "maleRate": 87.5,
+  "femaleRate": 12.5,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -88,6 +90,7 @@
     "smogon": "togekiss",
     "showdown": "togekiss",
     "serebii": "togekiss",
-    "bulbapedia": "Togekiss"
+    "bulbapedia": "Togekiss",
+    "showdownName": "Togekiss"
   }
 }

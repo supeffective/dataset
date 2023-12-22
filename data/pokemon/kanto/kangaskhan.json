@@ -4,12 +4,12 @@
   "dexNum": 115,
   "formId": null,
   "name": "Kangaskhan",
-  "psName": "Kangaskhan",
   "formName": null,
   "region": "kanto",
   "generation": 1,
   "type1": "normal",
   "type2": null,
+  "teraType": null,
   "color": "brown",
   "abilities": {
     "primary": "earlybird",
@@ -84,6 +84,8 @@
   },
   "weight": 8000,
   "height": 220,
+  "maleRate": 0,
+  "femaleRate": 100,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [
@@ -94,6 +96,7 @@
     "smogon": "kangaskhan",
     "showdown": "kangaskhan",
     "serebii": "kangaskhan",
-    "bulbapedia": "Kangaskhan"
+    "bulbapedia": "Kangaskhan",
+    "showdownName": "Kangaskhan"
   }
 }

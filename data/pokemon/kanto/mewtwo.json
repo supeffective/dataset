@@ -4,12 +4,12 @@
   "dexNum": 150,
   "formId": null,
   "name": "Mewtwo",
-  "psName": "Mewtwo",
   "formName": null,
   "region": "kanto",
   "generation": 1,
   "type1": "psychic",
   "type2": null,
+  "teraType": null,
   "color": "purple",
   "abilities": {
     "primary": "pressure",
@@ -85,6 +85,8 @@
   },
   "weight": 12200,
   "height": 200,
+  "maleRate": 0,
+  "femaleRate": 0,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [
@@ -96,6 +98,7 @@
     "smogon": "mewtwo",
     "showdown": "mewtwo",
     "serebii": "mewtwo",
-    "bulbapedia": "Mewtwo"
+    "bulbapedia": "Mewtwo",
+    "showdownName": "Mewtwo"
   }
 }

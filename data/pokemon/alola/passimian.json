@@ -4,12 +4,12 @@
   "dexNum": 766,
   "formId": null,
   "name": "Passimian",
-  "psName": "Passimian",
   "formName": null,
   "region": "alola",
   "generation": 7,
   "type1": "fighting",
   "type2": null,
+  "teraType": null,
   "color": "white",
   "abilities": {
     "primary": "receiver",
@@ -67,6 +67,8 @@
   },
   "weight": 8280,
   "height": 200,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -75,6 +77,7 @@
     "smogon": "passimian",
     "showdown": "passimian",
     "serebii": "passimian",
-    "bulbapedia": "Passimian"
+    "bulbapedia": "Passimian",
+    "showdownName": "Passimian"
   }
 }

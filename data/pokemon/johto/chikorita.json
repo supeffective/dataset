@@ -4,12 +4,12 @@
   "dexNum": 152,
   "formId": null,
   "name": "Chikorita",
-  "psName": "Chikorita",
   "formName": null,
   "region": "johto",
   "generation": 2,
   "type1": "grass",
   "type2": null,
+  "teraType": null,
   "color": "green",
   "abilities": {
     "primary": "overgrow",
@@ -80,6 +80,8 @@
   },
   "weight": 640,
   "height": 90,
+  "maleRate": 87.5,
+  "femaleRate": 12.5,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -88,6 +90,7 @@
     "smogon": "chikorita",
     "showdown": "chikorita",
     "serebii": "chikorita",
-    "bulbapedia": "Chikorita"
+    "bulbapedia": "Chikorita",
+    "showdownName": "Chikorita"
   }
 }

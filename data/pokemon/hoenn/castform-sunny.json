@@ -4,12 +4,12 @@
   "dexNum": 351,
   "formId": "sunny",
   "name": "Castform Sunny Form",
-  "psName": "Castform-Sunny",
   "formName": "Sunny Form",
   "region": "hoenn",
   "generation": 3,
   "type1": "fire",
   "type2": null,
+  "teraType": null,
   "color": "red",
   "abilities": {
     "primary": "forecast",
@@ -62,6 +62,8 @@
   },
   "weight": 80,
   "height": 30,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": "castform",
   "baseForms": [
     "castform"
@@ -72,6 +74,7 @@
     "smogon": "castform-sunny",
     "showdown": "castformsunny",
     "serebii": "castform",
-    "bulbapedia": "Castform"
+    "bulbapedia": "Castform",
+    "showdownName": "Castform-Sunny"
   }
 }

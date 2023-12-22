@@ -4,12 +4,12 @@
   "dexNum": 51,
   "formId": null,
   "name": "Dugtrio",
-  "psName": "Dugtrio",
   "formName": null,
   "region": "kanto",
   "generation": 1,
   "type1": "ground",
   "type2": null,
+  "teraType": null,
   "color": "brown",
   "abilities": {
     "primary": "sandveil",
@@ -86,6 +86,8 @@
   },
   "weight": 3330,
   "height": 70,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [
@@ -99,6 +101,7 @@
     "smogon": "dugtrio",
     "showdown": "dugtrio",
     "serebii": "dugtrio",
-    "bulbapedia": "Dugtrio"
+    "bulbapedia": "Dugtrio",
+    "showdownName": "Dugtrio"
   }
 }

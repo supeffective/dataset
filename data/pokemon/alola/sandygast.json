@@ -4,12 +4,12 @@
   "dexNum": 769,
   "formId": null,
   "name": "Sandygast",
-  "psName": "Sandygast",
   "formName": null,
   "region": "alola",
   "generation": 7,
   "type1": "ghost",
   "type2": "ground",
+  "teraType": null,
   "color": "brown",
   "abilities": {
     "primary": "watercompaction",
@@ -67,6 +67,8 @@
   },
   "weight": 7000,
   "height": 50,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -75,6 +77,7 @@
     "smogon": "sandygast",
     "showdown": "sandygast",
     "serebii": "sandygast",
-    "bulbapedia": "Sandygast"
+    "bulbapedia": "Sandygast",
+    "showdownName": "Sandygast"
   }
 }

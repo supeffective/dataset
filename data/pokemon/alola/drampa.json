@@ -4,12 +4,12 @@
   "dexNum": 780,
   "formId": null,
   "name": "Drampa",
-  "psName": "Drampa",
   "formName": null,
   "region": "alola",
   "generation": 7,
   "type1": "normal",
   "type2": "dragon",
+  "teraType": null,
   "color": "white",
   "abilities": {
     "primary": "berserk",
@@ -65,6 +65,8 @@
   },
   "weight": 18500,
   "height": 300,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -73,6 +75,7 @@
     "smogon": "drampa",
     "showdown": "drampa",
     "serebii": "drampa",
-    "bulbapedia": "Drampa"
+    "bulbapedia": "Drampa",
+    "showdownName": "Drampa"
   }
 }

@@ -4,12 +4,12 @@
   "dexNum": 415,
   "formId": "f",
   "name": "Combee ♀",
-  "psName": "Combee",
   "formName": "Female",
   "region": "sinnoh",
   "generation": 4,
   "type1": "bug",
   "type2": "flying",
+  "teraType": null,
   "color": "yellow",
   "abilities": {
     "primary": "honeygather",
@@ -78,6 +78,8 @@
   },
   "weight": 550,
   "height": 30,
+  "maleRate": 87.5,
+  "femaleRate": 12.5,
   "baseSpecies": "combee",
   "baseForms": [],
   "forms": [],
@@ -86,6 +88,7 @@
     "smogon": "combee",
     "showdown": "combee",
     "serebii": "combee",
-    "bulbapedia": "Combee"
+    "bulbapedia": "Combee",
+    "showdownName": "Combee"
   }
 }

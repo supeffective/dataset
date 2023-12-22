@@ -4,12 +4,12 @@
   "dexNum": 471,
   "formId": null,
   "name": "Glaceon",
-  "psName": "Glaceon",
   "formName": null,
   "region": "sinnoh",
   "generation": 4,
   "type1": "ice",
   "type2": null,
+  "teraType": null,
   "color": "blue",
   "abilities": {
     "primary": "snowcloak",
@@ -78,6 +78,8 @@
   },
   "weight": 2590,
   "height": 80,
+  "maleRate": 87.5,
+  "femaleRate": 12.5,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -90,6 +92,7 @@
     "smogon": "glaceon",
     "showdown": "glaceon",
     "serebii": "glaceon",
-    "bulbapedia": "Glaceon"
+    "bulbapedia": "Glaceon",
+    "showdownName": "Glaceon"
   }
 }

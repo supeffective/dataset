@@ -4,12 +4,12 @@
   "dexNum": 719,
   "formId": "mega",
   "name": "Mega Diancie",
-  "psName": "Diancie-Mega",
   "formName": "Mega",
   "region": "kalos",
   "generation": 6,
   "type1": "rock",
   "type2": "fairy",
+  "teraType": null,
   "color": "pink",
   "abilities": {
     "primary": "magicbounce",
@@ -63,6 +63,8 @@
   },
   "weight": 2780,
   "height": 110,
+  "maleRate": 0,
+  "femaleRate": 0,
   "baseSpecies": "diancie",
   "baseForms": [
     "diancie"
@@ -76,6 +78,7 @@
     "smogon": "diancie-mega",
     "showdown": "dianciemega",
     "serebii": "diancie",
-    "bulbapedia": "Diancie"
+    "bulbapedia": "Diancie",
+    "showdownName": "Diancie-Mega"
   }
 }

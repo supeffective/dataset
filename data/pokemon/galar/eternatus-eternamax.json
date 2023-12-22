@@ -4,12 +4,12 @@
   "dexNum": 890,
   "formId": "eternamax",
   "name": "Eternatus Eternamax",
-  "psName": "Eternatus-Eternamax",
   "formName": "Eternamax",
   "region": "galar",
   "generation": 8,
   "type1": "poison",
   "type2": "dragon",
+  "teraType": null,
   "color": "purple",
   "abilities": {
     "primary": "pressure",
@@ -54,6 +54,8 @@
   },
   "weight": 0,
   "height": 10000,
+  "maleRate": 0,
+  "femaleRate": 0,
   "baseSpecies": "eternatus",
   "baseForms": [
     "eternatus"
@@ -64,6 +66,7 @@
     "smogon": "eternatus-eternamax",
     "showdown": "eternatuseternamax",
     "serebii": "eternatus",
-    "bulbapedia": "Eternatus"
+    "bulbapedia": "Eternatus",
+    "showdownName": "Eternatus-Eternamax"
   }
 }

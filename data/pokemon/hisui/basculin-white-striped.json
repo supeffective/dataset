@@ -4,12 +4,12 @@
   "dexNum": 550,
   "formId": "white-striped",
   "name": "Basculin White-Striped Form",
-  "psName": "Basculin-White-Striped",
   "formName": "White-Striped Form",
   "region": "hisui",
   "generation": 8,
   "type1": "water",
   "type2": null,
+  "teraType": null,
   "color": "green",
   "abilities": {
     "primary": "rattled",
@@ -61,6 +61,8 @@
   },
   "weight": 1800,
   "height": 100,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": "basculin",
   "baseForms": [],
   "forms": [],
@@ -69,6 +71,7 @@
     "smogon": "basculin-white-striped",
     "showdown": "basculinwhitestriped",
     "serebii": "basculin",
-    "bulbapedia": "Basculin"
+    "bulbapedia": "Basculin",
+    "showdownName": "Basculin-White-Striped"
   }
 }

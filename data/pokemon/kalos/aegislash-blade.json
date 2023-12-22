@@ -4,12 +4,12 @@
   "dexNum": 681,
   "formId": "blade",
   "name": "Aegislash Blade Forme",
-  "psName": "Aegislash-Blade",
   "formName": "Blade Forme",
   "region": "kalos",
   "generation": 6,
   "type1": "steel",
   "type2": "ghost",
+  "teraType": null,
   "color": "brown",
   "abilities": {
     "primary": "stancechange",
@@ -57,6 +57,8 @@
   },
   "weight": 5300,
   "height": 170,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": "aegislash",
   "baseForms": [
     "aegislash"
@@ -67,6 +69,7 @@
     "smogon": "aegislash-blade",
     "showdown": "aegislashblade",
     "serebii": "aegislash",
-    "bulbapedia": "Aegislash"
+    "bulbapedia": "Aegislash",
+    "showdownName": "Aegislash-Blade"
   }
 }

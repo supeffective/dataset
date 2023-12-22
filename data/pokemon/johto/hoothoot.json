@@ -4,12 +4,12 @@
   "dexNum": 163,
   "formId": null,
   "name": "Hoothoot",
-  "psName": "Hoothoot",
   "formName": null,
   "region": "johto",
   "generation": 2,
   "type1": "normal",
   "type2": "flying",
+  "teraType": null,
   "color": "brown",
   "abilities": {
     "primary": "insomnia",
@@ -82,6 +82,8 @@
   },
   "weight": 2120,
   "height": 70,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -90,6 +92,7 @@
     "smogon": "hoothoot",
     "showdown": "hoothoot",
     "serebii": "hoothoot",
-    "bulbapedia": "Hoothoot"
+    "bulbapedia": "Hoothoot",
+    "showdownName": "Hoothoot"
   }
 }

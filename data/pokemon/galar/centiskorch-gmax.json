@@ -4,12 +4,12 @@
   "dexNum": 851,
   "formId": "gmax",
   "name": "Gigantamax Centiskorch",
-  "psName": "Centiskorch-Gmax",
   "formName": "Gigantamax",
   "region": "galar",
   "generation": 8,
   "type1": "fire",
   "type2": "bug",
+  "teraType": null,
   "color": "red",
   "abilities": {
     "primary": "flashfire",
@@ -56,6 +56,8 @@
   },
   "weight": 0,
   "height": 7500,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": "centiskorch",
   "baseForms": [
     "centiskorch"
@@ -66,6 +68,7 @@
     "smogon": "centiskorch-gmax",
     "showdown": "centiskorchgmax",
     "serebii": "centiskorch",
-    "bulbapedia": "Centiskorch"
+    "bulbapedia": "Centiskorch",
+    "showdownName": "Centiskorch-Gmax"
   }
 }

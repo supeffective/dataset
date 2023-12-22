@@ -4,12 +4,12 @@
   "dexNum": 569,
   "formId": null,
   "name": "Garbodor",
-  "psName": "Garbodor",
   "formName": null,
   "region": "unova",
   "generation": 5,
   "type1": "poison",
   "type2": null,
+  "teraType": null,
   "color": "green",
   "abilities": {
     "primary": "stench",
@@ -69,6 +69,8 @@
   },
   "weight": 10730,
   "height": 190,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [
@@ -82,6 +84,7 @@
     "smogon": "garbodor",
     "showdown": "garbodor",
     "serebii": "garbodor",
-    "bulbapedia": "Garbodor"
+    "bulbapedia": "Garbodor",
+    "showdownName": "Garbodor"
   }
 }

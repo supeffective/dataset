@@ -4,12 +4,12 @@
   "dexNum": 905,
   "formId": "therian",
   "name": "Enamorus Therian Forme",
-  "psName": "Enamorus-Therian",
   "formName": "Therian Forme",
   "region": "hisui",
   "generation": 8,
   "type1": "fairy",
   "type2": "flying",
+  "teraType": null,
   "color": "pink",
   "abilities": {
     "primary": "overcoat",
@@ -60,6 +60,8 @@
   },
   "weight": 4800,
   "height": 160,
+  "maleRate": 0,
+  "femaleRate": 100,
   "baseSpecies": "enamorus",
   "baseForms": [],
   "forms": [],
@@ -68,6 +70,7 @@
     "smogon": "enamorus-therian",
     "showdown": "enamorustherian",
     "serebii": "enamorus",
-    "bulbapedia": "Enamorus"
+    "bulbapedia": "Enamorus",
+    "showdownName": "Enamorus-Therian"
   }
 }

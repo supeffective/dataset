@@ -4,12 +4,12 @@
   "dexNum": 788,
   "formId": null,
   "name": "Tapu Fini",
-  "psName": "Tapu Fini",
   "formName": null,
   "region": "alola",
   "generation": 7,
   "type1": "water",
   "type2": "fairy",
+  "teraType": null,
   "color": "purple",
   "abilities": {
     "primary": "mistysurge",
@@ -65,6 +65,8 @@
   },
   "weight": 2120,
   "height": 130,
+  "maleRate": 0,
+  "femaleRate": 0,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -73,6 +75,7 @@
     "smogon": "tapufini",
     "showdown": "tapufini",
     "serebii": "tapufini",
-    "bulbapedia": "Tapu Fini"
+    "bulbapedia": "Tapu Fini",
+    "showdownName": "Tapu Fini"
   }
 }

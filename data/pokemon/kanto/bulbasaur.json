@@ -4,12 +4,12 @@
   "dexNum": 1,
   "formId": null,
   "name": "Bulbasaur",
-  "psName": "Bulbasaur",
   "formName": null,
   "region": "kanto",
   "generation": 1,
   "type1": "grass",
   "type2": "poison",
+  "teraType": null,
   "color": "green",
   "abilities": {
     "primary": "overgrow",
@@ -91,6 +91,8 @@
   },
   "weight": 690,
   "height": 70,
+  "maleRate": 87.5,
+  "femaleRate": 12.5,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -102,6 +104,7 @@
     "smogon": "bulbasaur",
     "showdown": "bulbasaur",
     "serebii": "bulbasaur",
-    "bulbapedia": "Bulbasaur"
+    "bulbapedia": "Bulbasaur",
+    "showdownName": "Bulbasaur"
   }
 }

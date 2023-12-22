@@ -4,12 +4,12 @@
   "dexNum": 443,
   "formId": null,
   "name": "Gible",
-  "psName": "Gible",
   "formName": null,
   "region": "sinnoh",
   "generation": 4,
   "type1": "dragon",
   "type2": "ground",
+  "teraType": null,
   "color": "blue",
   "abilities": {
     "primary": "sandveil",
@@ -78,6 +78,8 @@
   },
   "weight": 2050,
   "height": 70,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [
@@ -88,6 +90,7 @@
     "smogon": "gible",
     "showdown": "gible",
     "serebii": "gible",
-    "bulbapedia": "Gible"
+    "bulbapedia": "Gible",
+    "showdownName": "Gible"
   }
 }

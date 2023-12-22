@@ -4,12 +4,12 @@
   "dexNum": 724,
   "formId": "hisui",
   "name": "Hisuian Decidueye",
-  "psName": "Decidueye-Hisui",
   "formName": "Hisuian Form",
   "region": "hisui",
   "generation": 8,
   "type1": "grass",
   "type2": "fighting",
+  "teraType": null,
   "color": "brown",
   "abilities": {
     "primary": "overgrow",
@@ -60,6 +60,8 @@
   },
   "weight": 3700,
   "height": 160,
+  "maleRate": 87.5,
+  "femaleRate": 12.5,
   "baseSpecies": "decidueye",
   "baseForms": [],
   "forms": [],
@@ -71,6 +73,7 @@
     "smogon": "decidueye-hisui",
     "showdown": "decidueyehisui",
     "serebii": "decidueye",
-    "bulbapedia": "Decidueye"
+    "bulbapedia": "Decidueye",
+    "showdownName": "Decidueye-Hisui"
   }
 }

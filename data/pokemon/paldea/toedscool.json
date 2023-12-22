@@ -4,12 +4,12 @@
   "dexNum": 948,
   "formId": null,
   "name": "Toedscool",
-  "psName": "Toedscool",
   "formName": null,
   "region": "paldea",
   "generation": 9,
   "type1": "ground",
   "type2": "grass",
+  "teraType": null,
   "color": "yellow",
   "abilities": {
     "primary": "myceliummight",
@@ -59,6 +59,8 @@
   },
   "weight": 3300,
   "height": 90,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -67,6 +69,7 @@
     "smogon": "toedscool",
     "showdown": "toedscool",
     "serebii": "toedscool",
-    "bulbapedia": "Toedscool"
+    "bulbapedia": "Toedscool",
+    "showdownName": "Toedscool"
   }
 }

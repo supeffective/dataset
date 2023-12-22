@@ -4,12 +4,12 @@
   "dexNum": 645,
   "formId": "incarnate",
   "name": "Landorus",
-  "psName": "Landorus",
   "formName": "Incarnate Forme",
   "region": "unova",
   "generation": 5,
   "type1": "ground",
   "type2": "flying",
+  "teraType": null,
   "color": "brown",
   "abilities": {
     "primary": "sandforce",
@@ -72,6 +72,8 @@
   },
   "weight": 6800,
   "height": 150,
+  "maleRate": 100,
+  "femaleRate": 0,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [
@@ -82,6 +84,7 @@
     "smogon": "landorus",
     "showdown": "landorus",
     "serebii": "landorus",
-    "bulbapedia": "Landorus"
+    "bulbapedia": "Landorus",
+    "showdownName": "Landorus"
   }
 }

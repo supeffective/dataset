@@ -4,12 +4,12 @@
   "dexNum": 59,
   "formId": null,
   "name": "Arcanine",
-  "psName": "Arcanine",
   "formName": null,
   "region": "kanto",
   "generation": 1,
   "type1": "fire",
   "type2": null,
+  "teraType": null,
   "color": "brown",
   "abilities": {
     "primary": "intimidate",
@@ -86,6 +86,8 @@
   },
   "weight": 15500,
   "height": 190,
+  "maleRate": 75,
+  "femaleRate": 25,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [
@@ -100,6 +102,7 @@
     "smogon": "arcanine",
     "showdown": "arcanine",
     "serebii": "arcanine",
-    "bulbapedia": "Arcanine"
+    "bulbapedia": "Arcanine",
+    "showdownName": "Arcanine"
   }
 }

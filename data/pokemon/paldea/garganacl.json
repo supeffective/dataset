@@ -4,12 +4,12 @@
   "dexNum": 934,
   "formId": null,
   "name": "Garganacl",
-  "psName": "Garganacl",
   "formName": null,
   "region": "paldea",
   "generation": 9,
   "type1": "rock",
   "type2": null,
+  "teraType": null,
   "color": "brown",
   "abilities": {
     "primary": "purifyingsalt",
@@ -59,6 +59,8 @@
   },
   "weight": 24000,
   "height": 250,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -70,6 +72,7 @@
     "smogon": "garganacl",
     "showdown": "garganacl",
     "serebii": "garganacl",
-    "bulbapedia": "Garganacl"
+    "bulbapedia": "Garganacl",
+    "showdownName": "Garganacl"
   }
 }

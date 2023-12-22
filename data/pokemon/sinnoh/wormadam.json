@@ -4,12 +4,12 @@
   "dexNum": 413,
   "formId": "plant",
   "name": "Wormadam",
-  "psName": "Wormadam",
   "formName": "Plant Cloak",
   "region": "sinnoh",
   "generation": 4,
   "type1": "bug",
   "type2": "grass",
+  "teraType": null,
   "color": "green",
   "abilities": {
     "primary": "anticipation",
@@ -74,6 +74,8 @@
   },
   "weight": 650,
   "height": 50,
+  "maleRate": 0,
+  "femaleRate": 100,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [
@@ -88,6 +90,7 @@
     "smogon": "wormadam",
     "showdown": "wormadam",
     "serebii": "wormadam",
-    "bulbapedia": "Wormadam"
+    "bulbapedia": "Wormadam",
+    "showdownName": "Wormadam"
   }
 }

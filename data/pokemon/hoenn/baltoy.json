@@ -4,12 +4,12 @@
   "dexNum": 343,
   "formId": null,
   "name": "Baltoy",
-  "psName": "Baltoy",
   "formName": null,
   "region": "hoenn",
   "generation": 3,
   "type1": "ground",
   "type2": "psychic",
+  "teraType": null,
   "color": "brown",
   "abilities": {
     "primary": "levitate",
@@ -78,6 +78,8 @@
   },
   "weight": 2150,
   "height": 50,
+  "maleRate": 0,
+  "femaleRate": 0,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -86,6 +88,7 @@
     "smogon": "baltoy",
     "showdown": "baltoy",
     "serebii": "baltoy",
-    "bulbapedia": "Baltoy"
+    "bulbapedia": "Baltoy",
+    "showdownName": "Baltoy"
   }
 }

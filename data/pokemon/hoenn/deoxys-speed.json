@@ -4,12 +4,12 @@
   "dexNum": 386,
   "formId": "speed",
   "name": "Deoxys Speed Forme",
-  "psName": "Deoxys-Speed",
   "formName": "Speed Forme",
   "region": "hoenn",
   "generation": 3,
   "type1": "psychic",
   "type2": null,
+  "teraType": null,
   "color": "red",
   "abilities": {
     "primary": "pressure",
@@ -71,6 +71,8 @@
   },
   "weight": 6080,
   "height": 170,
+  "maleRate": 0,
+  "femaleRate": 0,
   "baseSpecies": "deoxys",
   "baseForms": [
     "deoxys"
@@ -81,6 +83,7 @@
     "smogon": "deoxys-speed",
     "showdown": "deoxysspeed",
     "serebii": "deoxys",
-    "bulbapedia": "Deoxys"
+    "bulbapedia": "Deoxys",
+    "showdownName": "Deoxys-Speed"
   }
 }

@@ -4,12 +4,12 @@
   "dexNum": 38,
   "formId": "alola",
   "name": "Alolan Ninetales",
-  "psName": "Ninetales-Alola",
   "formName": "Alolan Form",
   "region": "alola",
   "generation": 7,
   "type1": "ice",
   "type2": "fairy",
+  "teraType": null,
   "color": "blue",
   "abilities": {
     "primary": "snowcloak",
@@ -71,6 +71,8 @@
   },
   "weight": 1990,
   "height": 110,
+  "maleRate": 25,
+  "femaleRate": 75,
   "baseSpecies": "ninetales",
   "baseForms": [],
   "forms": [],
@@ -83,6 +85,7 @@
     "smogon": "ninetales-alola",
     "showdown": "ninetalesalola",
     "serebii": "ninetales",
-    "bulbapedia": "Ninetales"
+    "bulbapedia": "Ninetales",
+    "showdownName": "Ninetales-Alola"
   }
 }

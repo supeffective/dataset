@@ -4,12 +4,12 @@
   "dexNum": 38,
   "formId": null,
   "name": "Ninetales",
-  "psName": "Ninetales",
   "formName": null,
   "region": "kanto",
   "generation": 1,
   "type1": "fire",
   "type2": null,
+  "teraType": null,
   "color": "yellow",
   "abilities": {
     "primary": "flashfire",
@@ -88,6 +88,8 @@
   },
   "weight": 1990,
   "height": 110,
+  "maleRate": 25,
+  "femaleRate": 75,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [
@@ -102,6 +104,7 @@
     "smogon": "ninetales",
     "showdown": "ninetales",
     "serebii": "ninetales",
-    "bulbapedia": "Ninetales"
+    "bulbapedia": "Ninetales",
+    "showdownName": "Ninetales"
   }
 }

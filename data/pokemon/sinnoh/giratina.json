@@ -4,12 +4,12 @@
   "dexNum": 487,
   "formId": "altered",
   "name": "Giratina",
-  "psName": "Giratina",
   "formName": "Altered Forme",
   "region": "sinnoh",
   "generation": 4,
   "type1": "ghost",
   "type2": "dragon",
+  "teraType": null,
   "color": "black",
   "abilities": {
     "primary": "pressure",
@@ -77,6 +77,8 @@
   },
   "weight": 75000,
   "height": 450,
+  "maleRate": 0,
+  "femaleRate": 0,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [
@@ -87,6 +89,7 @@
     "smogon": "giratina",
     "showdown": "giratina",
     "serebii": "giratina",
-    "bulbapedia": "Giratina"
+    "bulbapedia": "Giratina",
+    "showdownName": "Giratina"
   }
 }

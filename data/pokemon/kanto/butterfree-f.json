@@ -4,12 +4,12 @@
   "dexNum": 12,
   "formId": "f",
   "name": "Butterfree ♀",
-  "psName": "Butterfree",
   "formName": "Female",
   "region": "kanto",
   "generation": 4,
   "type1": "bug",
   "type2": "flying",
+  "teraType": null,
   "color": "white",
   "abilities": {
     "primary": "compoundeyes",
@@ -86,6 +86,8 @@
   },
   "weight": 3200,
   "height": 110,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": "butterfree",
   "baseForms": [],
   "forms": [],
@@ -97,6 +99,7 @@
     "smogon": "butterfree",
     "showdown": "butterfree",
     "serebii": "butterfree",
-    "bulbapedia": "Butterfree"
+    "bulbapedia": "Butterfree",
+    "showdownName": "Butterfree"
   }
 }

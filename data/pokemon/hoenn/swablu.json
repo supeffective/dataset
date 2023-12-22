@@ -4,12 +4,12 @@
   "dexNum": 333,
   "formId": null,
   "name": "Swablu",
-  "psName": "Swablu",
   "formName": null,
   "region": "hoenn",
   "generation": 3,
   "type1": "normal",
   "type2": "flying",
+  "teraType": null,
   "color": "blue",
   "abilities": {
     "primary": "naturalcure",
@@ -80,6 +80,8 @@
   },
   "weight": 120,
   "height": 40,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -88,6 +90,7 @@
     "smogon": "swablu",
     "showdown": "swablu",
     "serebii": "swablu",
-    "bulbapedia": "Swablu"
+    "bulbapedia": "Swablu",
+    "showdownName": "Swablu"
   }
 }

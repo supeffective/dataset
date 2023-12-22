@@ -4,12 +4,12 @@
   "dexNum": 690,
   "formId": null,
   "name": "Skrelp",
-  "psName": "Skrelp",
   "formName": null,
   "region": "kalos",
   "generation": 6,
   "type1": "poison",
   "type2": "water",
+  "teraType": null,
   "color": "brown",
   "abilities": {
     "primary": "poisonpoint",
@@ -68,6 +68,8 @@
   },
   "weight": 730,
   "height": 50,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -76,6 +78,7 @@
     "smogon": "skrelp",
     "showdown": "skrelp",
     "serebii": "skrelp",
-    "bulbapedia": "Skrelp"
+    "bulbapedia": "Skrelp",
+    "showdownName": "Skrelp"
   }
 }

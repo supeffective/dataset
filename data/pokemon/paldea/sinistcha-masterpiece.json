@@ -4,12 +4,12 @@
   "dexNum": 1013,
   "formId": "masterpiece",
   "name": "Sinistcha (Masterpiece Form)",
-  "psName": "Sinistcha-Masterpiece",
   "formName": "Masterpiece Form",
   "region": "paldea",
   "generation": 9,
   "type1": "grass",
   "type2": "ghost",
+  "teraType": null,
   "color": "white",
   "abilities": {
     "primary": "hospitality",
@@ -67,6 +67,8 @@
   },
   "weight": 220,
   "height": -1,
+  "maleRate": 0,
+  "femaleRate": 0,
   "baseSpecies": "sinistcha",
   "baseForms": [],
   "forms": [],
@@ -80,6 +82,7 @@
     "smogon": "sinistcha",
     "showdown": "sinistchamasterpiece",
     "serebii": "sinistcha",
-    "bulbapedia": "Sinistcha"
+    "bulbapedia": "Sinistcha",
+    "showdownName": "Sinistcha-Masterpiece"
   }
 }

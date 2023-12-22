@@ -4,12 +4,12 @@
   "dexNum": 638,
   "formId": null,
   "name": "Cobalion",
-  "psName": "Cobalion",
   "formName": null,
   "region": "unova",
   "generation": 5,
   "type1": "steel",
   "type2": "fighting",
+  "teraType": null,
   "color": "blue",
   "abilities": {
     "primary": "justified",
@@ -69,6 +69,8 @@
   },
   "weight": 25000,
   "height": 210,
+  "maleRate": 0,
+  "femaleRate": 0,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -77,6 +79,7 @@
     "smogon": "cobalion",
     "showdown": "cobalion",
     "serebii": "cobalion",
-    "bulbapedia": "Cobalion"
+    "bulbapedia": "Cobalion",
+    "showdownName": "Cobalion"
   }
 }

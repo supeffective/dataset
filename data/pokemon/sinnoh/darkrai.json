@@ -4,12 +4,12 @@
   "dexNum": 491,
   "formId": null,
   "name": "Darkrai",
-  "psName": "Darkrai",
   "formName": null,
   "region": "sinnoh",
   "generation": 4,
   "type1": "dark",
   "type2": null,
+  "teraType": null,
   "color": "black",
   "abilities": {
     "primary": "baddreams",
@@ -74,6 +74,8 @@
   },
   "weight": 5050,
   "height": 150,
+  "maleRate": 0,
+  "femaleRate": 0,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -82,6 +84,7 @@
     "smogon": "darkrai",
     "showdown": "darkrai",
     "serebii": "darkrai",
-    "bulbapedia": "Darkrai"
+    "bulbapedia": "Darkrai",
+    "showdownName": "Darkrai"
   }
 }

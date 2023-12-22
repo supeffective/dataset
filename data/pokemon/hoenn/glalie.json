@@ -4,12 +4,12 @@
   "dexNum": 362,
   "formId": null,
   "name": "Glalie",
-  "psName": "Glalie",
   "formName": null,
   "region": "hoenn",
   "generation": 3,
   "type1": "ice",
   "type2": null,
+  "teraType": null,
   "color": "gray",
   "abilities": {
     "primary": "innerfocus",
@@ -82,6 +82,8 @@
   },
   "weight": 25650,
   "height": 150,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [
@@ -95,6 +97,7 @@
     "smogon": "glalie",
     "showdown": "glalie",
     "serebii": "glalie",
-    "bulbapedia": "Glalie"
+    "bulbapedia": "Glalie",
+    "showdownName": "Glalie"
   }
 }

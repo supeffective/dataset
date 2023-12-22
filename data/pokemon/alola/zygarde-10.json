@@ -4,12 +4,12 @@
   "dexNum": 718,
   "formId": "10",
   "name": "Zygarde 10% Forme",
-  "psName": "Zygarde-10%",
   "formName": "10% Forme",
   "region": "alola",
   "generation": 7,
   "type1": "dragon",
   "type2": "ground",
+  "teraType": null,
   "color": "black",
   "abilities": {
     "primary": "aurabreak",
@@ -67,6 +67,8 @@
   },
   "weight": 3350,
   "height": 120,
+  "maleRate": 0,
+  "femaleRate": 0,
   "baseSpecies": "zygarde",
   "baseForms": [],
   "forms": [
@@ -80,6 +82,7 @@
     "smogon": "zygarde-10",
     "showdown": "zygarde10",
     "serebii": "zygarde",
-    "bulbapedia": "Zygarde"
+    "bulbapedia": "Zygarde",
+    "showdownName": "Zygarde-10%"
   }
 }

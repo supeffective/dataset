@@ -4,12 +4,12 @@
   "dexNum": 1013,
   "formId": "unremarkable",
   "name": "Sinistcha",
-  "psName": "Sinistcha",
   "formName": "Unremarkable Form",
   "region": "paldea",
   "generation": 9,
   "type1": "grass",
   "type2": "ghost",
+  "teraType": null,
   "color": "white",
   "abilities": {
     "primary": "hospitality",
@@ -67,6 +67,8 @@
   },
   "weight": 220,
   "height": -1,
+  "maleRate": 0,
+  "femaleRate": 0,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [
@@ -82,6 +84,7 @@
     "smogon": "sinistcha",
     "showdown": "sinistcha",
     "serebii": "sinistcha",
-    "bulbapedia": "Sinistcha"
+    "bulbapedia": "Sinistcha",
+    "showdownName": "Sinistcha"
   }
 }

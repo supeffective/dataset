@@ -40,9 +40,11 @@ export function getItemByShowdownNameOrFail(name: string): Item {
 }
 
 export function getPokemonByShowdownNameOrFail(name: string): Pokemon {
-  const pkm = Array.from(localDataLoader.pokemon().values()).find((pkm) => pkm.psName === name)
+  const pkm = Array.from(localDataLoader.pokemon().values()).find((pkm) => {
+    return pkm.refs?.showdownName === name
+  })
   if (!pkm) {
-    throw Error(`Pokémon with psName '${name}' not found`)
+    throw Error(`Pokémon with refs.showdownName '${name}' not found`)
   }
 
   return pkm

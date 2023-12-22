@@ -4,12 +4,12 @@
   "dexNum": 497,
   "formId": null,
   "name": "Serperior",
-  "psName": "Serperior",
   "formName": null,
   "region": "unova",
   "generation": 5,
   "type1": "grass",
   "type2": null,
+  "teraType": null,
   "color": "green",
   "abilities": {
     "primary": "overgrow",
@@ -69,6 +69,8 @@
   },
   "weight": 6300,
   "height": 330,
+  "maleRate": 87.5,
+  "femaleRate": 12.5,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -80,6 +82,7 @@
     "smogon": "serperior",
     "showdown": "serperior",
     "serebii": "serperior",
-    "bulbapedia": "Serperior"
+    "bulbapedia": "Serperior",
+    "showdownName": "Serperior"
   }
 }

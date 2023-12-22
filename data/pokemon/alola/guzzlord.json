@@ -4,12 +4,12 @@
   "dexNum": 799,
   "formId": null,
   "name": "Guzzlord",
-  "psName": "Guzzlord",
   "formName": null,
   "region": "alola",
   "generation": 7,
   "type1": "dark",
   "type2": "dragon",
+  "teraType": null,
   "color": "black",
   "abilities": {
     "primary": "beastboost",
@@ -65,6 +65,8 @@
   },
   "weight": 88800,
   "height": 550,
+  "maleRate": 0,
+  "femaleRate": 0,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -73,6 +75,7 @@
     "smogon": "guzzlord",
     "showdown": "guzzlord",
     "serebii": "guzzlord",
-    "bulbapedia": "Guzzlord"
+    "bulbapedia": "Guzzlord",
+    "showdownName": "Guzzlord"
   }
 }

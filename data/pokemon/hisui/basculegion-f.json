@@ -4,12 +4,12 @@
   "dexNum": 902,
   "formId": "f",
   "name": "Basculegion ♀",
-  "psName": "Basculegion-F",
   "formName": "(Female)",
   "region": "hisui",
   "generation": 8,
   "type1": "water",
   "type2": "ghost",
+  "teraType": null,
   "color": "green",
   "abilities": {
     "primary": "swiftswim",
@@ -61,6 +61,8 @@
   },
   "weight": 11000,
   "height": 300,
+  "maleRate": 0,
+  "femaleRate": 100,
   "baseSpecies": "basculegion",
   "baseForms": [],
   "forms": [],
@@ -73,6 +75,7 @@
     "smogon": "basculegion-f",
     "showdown": "basculegionf",
     "serebii": "basculegion",
-    "bulbapedia": "Basculegion"
+    "bulbapedia": "Basculegion",
+    "showdownName": "Basculegion-F"
   }
 }

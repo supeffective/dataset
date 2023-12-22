@@ -4,12 +4,12 @@
   "dexNum": 514,
   "formId": null,
   "name": "Simisear",
-  "psName": "Simisear",
   "formName": null,
   "region": "unova",
   "generation": 5,
   "type1": "fire",
   "type2": null,
+  "teraType": null,
   "color": "red",
   "abilities": {
     "primary": "gluttony",
@@ -67,6 +67,8 @@
   },
   "weight": 2800,
   "height": 100,
+  "maleRate": 87.5,
+  "femaleRate": 12.5,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -79,6 +81,7 @@
     "smogon": "simisear",
     "showdown": "simisear",
     "serebii": "simisear",
-    "bulbapedia": "Simisear"
+    "bulbapedia": "Simisear",
+    "showdownName": "Simisear"
   }
 }

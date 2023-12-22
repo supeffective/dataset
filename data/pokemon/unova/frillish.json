@@ -4,12 +4,12 @@
   "dexNum": 592,
   "formId": null,
   "name": "Frillish",
-  "psName": "Frillish",
   "formName": null,
   "region": "unova",
   "generation": 5,
   "type1": "water",
   "type2": "ghost",
+  "teraType": null,
   "color": "white",
   "abilities": {
     "primary": "waterabsorb",
@@ -69,6 +69,8 @@
   },
   "weight": 3300,
   "height": 120,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [
@@ -79,6 +81,7 @@
     "smogon": "frillish",
     "showdown": "frillish",
     "serebii": "frillish",
-    "bulbapedia": "Frillish"
+    "bulbapedia": "Frillish",
+    "showdownName": "Frillish"
   }
 }

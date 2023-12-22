@@ -4,12 +4,12 @@
   "dexNum": 136,
   "formId": null,
   "name": "Flareon",
-  "psName": "Flareon",
   "formName": null,
   "region": "kanto",
   "generation": 1,
   "type1": "fire",
   "type2": null,
+  "teraType": null,
   "color": "red",
   "abilities": {
     "primary": "flashfire",
@@ -88,6 +88,8 @@
   },
   "weight": 2500,
   "height": 90,
+  "maleRate": 87.5,
+  "femaleRate": 12.5,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -100,6 +102,7 @@
     "smogon": "flareon",
     "showdown": "flareon",
     "serebii": "flareon",
-    "bulbapedia": "Flareon"
+    "bulbapedia": "Flareon",
+    "showdownName": "Flareon"
   }
 }

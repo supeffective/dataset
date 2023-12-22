@@ -4,12 +4,12 @@
   "dexNum": 597,
   "formId": null,
   "name": "Ferroseed",
-  "psName": "Ferroseed",
   "formName": null,
   "region": "unova",
   "generation": 5,
   "type1": "grass",
   "type2": "steel",
+  "teraType": null,
   "color": "gray",
   "abilities": {
     "primary": "ironbarbs",
@@ -69,6 +69,8 @@
   },
   "weight": 1880,
   "height": 60,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -77,6 +79,7 @@
     "smogon": "ferroseed",
     "showdown": "ferroseed",
     "serebii": "ferroseed",
-    "bulbapedia": "Ferroseed"
+    "bulbapedia": "Ferroseed",
+    "showdownName": "Ferroseed"
   }
 }

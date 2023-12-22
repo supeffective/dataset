@@ -4,12 +4,12 @@
   "dexNum": 374,
   "formId": null,
   "name": "Beldum",
-  "psName": "Beldum",
   "formName": null,
   "region": "hoenn",
   "generation": 3,
   "type1": "steel",
   "type2": "psychic",
+  "teraType": null,
   "color": "blue",
   "abilities": {
     "primary": "clearbody",
@@ -80,6 +80,8 @@
   },
   "weight": 9520,
   "height": 60,
+  "maleRate": 0,
+  "femaleRate": 0,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -88,6 +90,7 @@
     "smogon": "beldum",
     "showdown": "beldum",
     "serebii": "beldum",
-    "bulbapedia": "Beldum"
+    "bulbapedia": "Beldum",
+    "showdownName": "Beldum"
   }
 }

@@ -4,12 +4,12 @@
   "dexNum": 970,
   "formId": null,
   "name": "Glimmora",
-  "psName": "Glimmora",
   "formName": null,
   "region": "paldea",
   "generation": 9,
   "type1": "rock",
   "type2": "poison",
+  "teraType": null,
   "color": "blue",
   "abilities": {
     "primary": "toxicdebris",
@@ -59,6 +59,8 @@
   },
   "weight": 4500,
   "height": 150,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [],
@@ -70,6 +72,7 @@
     "smogon": "glimmora",
     "showdown": "glimmora",
     "serebii": "glimmora",
-    "bulbapedia": "Glimmora"
+    "bulbapedia": "Glimmora",
+    "showdownName": "Glimmora"
   }
 }

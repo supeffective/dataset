@@ -4,12 +4,12 @@
   "dexNum": 401,
   "formId": null,
   "name": "Kricketot",
-  "psName": "Kricketot",
   "formName": null,
   "region": "sinnoh",
   "generation": 4,
   "type1": "bug",
   "type2": null,
+  "teraType": null,
   "color": "red",
   "abilities": {
     "primary": "shedskin",
@@ -76,6 +76,8 @@
   },
   "weight": 220,
   "height": 30,
+  "maleRate": 50,
+  "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
   "forms": [
@@ -86,6 +88,7 @@
     "smogon": "kricketot",
     "showdown": "kricketot",
     "serebii": "kricketot",
-    "bulbapedia": "Kricketot"
+    "bulbapedia": "Kricketot",
+    "showdownName": "Kricketot"
   }
 }

@@ -4,12 +4,12 @@
   "dexNum": 37,
   "formId": "alola",
   "name": "Alolan Vulpix",
-  "psName": "Vulpix-Alola",
   "formName": "Alolan Form",
   "region": "alola",
   "generation": 7,
   "type1": "ice",
   "type2": null,
+  "teraType": null,
   "color": "white",
   "abilities": {
     "primary": "snowcloak",
@@ -71,6 +71,8 @@
   },
   "weight": 990,
   "height": 60,
+  "maleRate": 25,
+  "femaleRate": 75,
   "baseSpecies": "vulpix",
   "baseForms": [],
   "forms": [],
@@ -79,6 +81,7 @@
     "smogon": "vulpix-alola",
     "showdown": "vulpixalola",
     "serebii": "vulpix",
-    "bulbapedia": "Vulpix"
+    "bulbapedia": "Vulpix",
+    "showdownName": "Vulpix-Alola"
   }
 }
