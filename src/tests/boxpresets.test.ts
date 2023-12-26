@@ -28,21 +28,16 @@ describe('Validate boxpresets.json data', () => {
         }
 
         if (preset.boxes.length > game.storage.numBoxes) {
-          console.warn(
-            ` 💥 Preset ${preset.id} has more boxes than allowed: ${preset.boxes.length}/${game.storage.numBoxes}`,
-          )
+          // console.warn(
+          //   ` 💥 Preset ${preset.id} has more boxes than allowed: ${preset.boxes.length}/${game.storage.numBoxes}`
+          // );
         }
 
         // expect(preset.boxes.length).toBeLessThanOrEqual(game.storage.numBoxes);
         for (const i in preset.boxes) {
           const box = preset.boxes[i]
-          // expect(box.pokemon.length).toBeLessThanOrEqual(
-          //   game.storage.boxCapacity
-          // );
-          if (box && box.pokemon.length > game.storage.boxCapacity) {
-            console.warn(
-              ` 💥 Box ${preset.id}#${box} has more pokemon than allowed: ${box.pokemon.length}/${game.storage.boxCapacity}`,
-            )
+          if (box) {
+            expect(box.pokemon.length).toBeLessThanOrEqual(game.storage.boxCapacity)
           }
         }
       })
