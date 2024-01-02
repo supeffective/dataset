@@ -1,4 +1,20 @@
 
+## v1.1.0
+
+[compare changes](https://github.com/supeffective/dataset/compare/v1.0.0...v1.1.0)
+
+### 🩹 Fixes
+
+- **breaking-change:** Tatsugiri stretchy form name ([244f4b2](https://github.com/supeffective/dataset/commit/244f4b2))
+
+### 💅 Refactors
+
+- Use same dev server as the assets repo ([7f3e45e](https://github.com/supeffective/dataset/commit/7f3e45e))
+
+### ❤️ Contributors
+
+- Javi Aguilar
+
 ## v1.0.0
 
 [compare changes](https://github.com/supeffective/dataset/compare/v0.8.7...v1.0.0)
