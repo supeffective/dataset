@@ -1,10 +1,10 @@
 {
-  "id": "tatsugiri-sketchy",
-  "nid": "0978-sketchy",
+  "id": "tatsugiri-stretchy",
+  "nid": "0978-stretchy",
   "dexNum": 978,
-  "formId": "sketchy",
-  "name": "Tatsugiri Sketchy Form",
-  "formName": "Sketchy Form",
+  "formId": "stretchy",
+  "name": "Tatsugiri Stretchy Form",
+  "formName": "Stretchy Form",
   "region": "paldea",
   "generation": 9,
   "type1": "dragon",
@@ -66,10 +66,10 @@
   "forms": [],
   "evolvesFrom": null,
   "refs": {
-    "smogon": "tatsugiri-sketchy",
-    "showdown": "tatsugiri",
+    "smogon": "tatsugiri",
     "serebii": "Tatsugiri",
-    "bulbapedia": "Tatsugiri_Sketchy",
+    "bulbapedia": "Tatsugiri",
+    "showdown": "tatsugiri",
     "showdownName": "Tatsugiri"
   }
 }
