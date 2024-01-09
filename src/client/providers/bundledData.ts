@@ -3,6 +3,8 @@ import _pokemonGames from '../../../data/games.json'
 import _pokemonLanguages from '../../../data/languages.json'
 import _pokemonNatures from '../../../data/natures.json'
 import _pokemonOriginMarks from '../../../data/originmarks.json'
+import _pokedexesIndex from '../../../data/pokedexes-index.json'
+import _pokemonIndex from '../../../data/pokemon-index.json'
 import _pokemonRegions from '../../../data/regions.json'
 import _pokemonTypes from '../../../data/types.json'
 
@@ -13,6 +15,8 @@ import {
   type Nature,
   type OriginMark,
   type PokeType,
+  type PokedexIndexItem,
+  type PokemonIndexItem,
   type Region,
   colorSchema,
   gameSchema,
@@ -20,6 +24,8 @@ import {
   natureSchema,
   originMarkSchema,
   pokeTypeSchema,
+  pokedexItemIndexSchema,
+  pokemonIndexItemSchema,
   regionSchema,
 } from '../../schemas'
 
@@ -34,6 +40,8 @@ const pokemonOriginMarks: OriginMark[] = originMarkSchema.array().parse(_pokemon
 const pokemonRegions: Region[] = regionSchema.array().parse(_pokemonRegions)
 const pokemonTypes: PokeType[] = pokeTypeSchema.array().parse(_pokemonTypes)
 const pokemonGames: Game[] = gameSchema.array().parse(_pokemonGames)
+const pokedexesIndex: PokedexIndexItem[] = pokedexItemIndexSchema.array().parse(_pokedexesIndex)
+const pokemonIndex: PokemonIndexItem[] = pokemonIndexItemSchema.array().parse(_pokemonIndex)
 
 // convert to maps
 const pokemonColorsMap = new Map<string, Color>(pokemonColors.map((color) => [color.id, color]))
@@ -43,12 +51,18 @@ const pokemonOriginMarksMap = new Map<string, OriginMark>(pokemonOriginMarks.map
 const pokemonRegionsMap = new Map<string, Region>(pokemonRegions.map((region) => [region.id, region]))
 const pokemonTypesMap = new Map<string, PokeType>(pokemonTypes.map((type) => [type.id, type]))
 const pokemonGamesMap = new Map<string, Game>(pokemonGames.map((game) => [game.id, game]))
+const pokedexesIndexMap = new Map<string, PokedexIndexItem>(pokedexesIndex.map((item) => [item.id, item]))
+const pokemonIndexMap = new Map<string, PokemonIndexItem>(pokemonIndex.map((item) => [item.id, item]))
 
 export {
+  pokedexesIndex,
+  pokedexesIndexMap,
   pokemonColors,
   pokemonColorsMap,
   pokemonGames,
   pokemonGamesMap,
+  pokemonIndex,
+  pokemonIndexMap,
   pokemonLanguages,
   pokemonLanguagesMap,
   pokemonNatures,

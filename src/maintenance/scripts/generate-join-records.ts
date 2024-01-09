@@ -1,5 +1,5 @@
 import { existsSync } from 'node:fs'
-import type { BaseEntity, BoxPreset, Pokedex, Pokemon } from '../../schemas'
+import type { BaseEntity, BoxPreset, Pokedex, Pokemon, PokemonIndexItem } from '../../schemas'
 import { localDataLoader } from '../loader'
 import { getDataPath, readFileAsJson, writeFile } from '../utils/fs'
 
@@ -17,7 +17,7 @@ function updatePokemonIndex(): void {
       throw new Error(`Pokemon not found: ${record.id}`)
     }
 
-    const indexPayload = {
+    const indexPayload: PokemonIndexItem = {
       id: record.id,
       region: fullRecord.region,
       name: record.name,

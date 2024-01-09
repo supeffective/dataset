@@ -16,10 +16,10 @@
     "tsx"
   ],
   "editor.codeActionsOnSave": {
-    "source.addMissingImports": true,
-    "source.organizeImports": true,
-    "source.organizeImports.biome": true,
-    "quickfix.biome": true
+    "source.addMissingImports": "explicit",
+    "source.organizeImports": "explicit",
+    "source.organizeImports.biome": "explicit",
+    "quickfix.biome": "explicit"
   },
   "[json]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
