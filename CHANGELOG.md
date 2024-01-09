@@ -1,4 +1,16 @@
 
+## v1.3.1
+
+[compare changes](https://github.com/supeffective/dataset/compare/v1.3.0...v1.3.1)
+
+### 🩹 Fixes
+
+- Full national dex should not be in past games ([6af892e](https://github.com/supeffective/dataset/commit/6af892e))
+
+### ❤️ Contributors
+
+- Javi Aguilar
+
 ## v1.3.0
 
 [compare changes](https://github.com/supeffective/dataset/compare/v1.2.0...v1.3.0)
