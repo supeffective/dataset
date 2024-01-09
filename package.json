@@ -73,8 +73,6 @@
   },
   "devDependencies": {
     "@biomejs/biome": "1.4.1",
-    "@commitlint/cli": "^18.4.4",
-    "@commitlint/config-conventional": "^18.4.4",
     "@pkmn/dex": "^0.8.4",
     "@pkmn/dex-types": "^0.8.4",
     "@types/body-parser": "^1.19.5",
