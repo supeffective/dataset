@@ -116,7 +116,7 @@ function joinPokeGamesFile(): void {
 }
 
 joinIndexFile<BoxPreset>('boxpresets-index.json', ['id', 'gameSet', 'legacyId', 'name', 'isHidden'], 'gameSet')
-joinIndexFile<Pokedex>('pokedexes-index.json', ['id', 'region', 'name', 'pokeApiId'], 'region')
+joinIndexFile<Pokedex>('pokedexes-index.json', ['id', 'region', 'name', 'baseDex', 'pokeApiId'], 'region')
 joinIndexFile<Pokemon>('pokemon-index.json', ['id', 'region', 'name', 'nid', 'isForm'], 'region')
 
 joinPokeGamesFile()

@@ -50,7 +50,7 @@
     "publint": "publint",
     "qa": "pnpm build && pnpm lint && pnpm typelint && pnpm publint && pnpm test:ci",
     "qa:nobuild": "pnpm lint && pnpm typelint && pnpm publint && pnpm test:ci",
-    "test": "bun test",
+    "test": "bun test --bail=1",
     "test:ci": "bun test --coverage --bail=5 --ci",
     "test:coverage": "bun test --coverage",
     "typelint": "tsc --noEmit --skipLibCheck",

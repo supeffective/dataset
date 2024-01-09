@@ -1,4 +1,4 @@
-import type { Mark } from '../../schemas'
+import type { Pokedex } from '../../schemas'
 import { jsonStringifyRecords } from '../../utils'
 import { getDataPath, readFileAsJson, writeFile } from '../utils/fs'
 
@@ -8,16 +8,16 @@ import { getDataPath, readFileAsJson, writeFile } from '../utils/fs'
 
 function run() {
   // Get the data file contents
-  const dataFile = getDataPath('marks.json')
-  const marks = readFileAsJson<Mark[]>(dataFile)
+  const dataFile = getDataPath('pokedexes.json')
+  const records = readFileAsJson<Pokedex[]>(dataFile)
 
-  for (const mark of marks) {
+  for (const record of records) {
     // Do something with each record here.
-    console.log(mark.id)
+    console.log(record.id)
   }
 
   // Save the changes
-  writeFile(dataFile, jsonStringifyRecords(marks))
+  writeFile(dataFile, jsonStringifyRecords(records))
 }
 
 run()
