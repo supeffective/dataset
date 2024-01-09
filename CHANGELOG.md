@@ -1,4 +1,16 @@
 
+## v1.2.0
+
+[compare changes](https://github.com/supeffective/dataset/compare/v1.1.0...v1.2.0)
+
+### 🚀 Enhancements
+
+- Include dex and pokemon indices in JS bundled data. upgrade deps. ([385247a](https://github.com/supeffective/dataset/commit/385247a))
+
+### ❤️ Contributors
+
+- Javi Aguilar
+
 ## v1.1.0
 
 [compare changes](https://github.com/supeffective/dataset/compare/v1.0.0...v1.1.0)
