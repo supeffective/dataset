@@ -1,4 +1,16 @@
 
+## v1.3.0
+
+[compare changes](https://github.com/supeffective/dataset/compare/v1.2.0...v1.3.0)
+
+### 🩹 Fixes
+
+- Game - dexes associations, add tests for that too. ([5f0aef6](https://github.com/supeffective/dataset/commit/5f0aef6))
+
+### ❤️ Contributors
+
+- Javi Aguilar
+
 ## v1.2.0
 
 [compare changes](https://github.com/supeffective/dataset/compare/v1.1.0...v1.2.0)
