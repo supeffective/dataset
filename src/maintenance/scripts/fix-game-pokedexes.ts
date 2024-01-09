@@ -20,6 +20,7 @@ function run() {
         pokedexesByGameSetId[gameId] = []
       }
 
+      // biome-ignore lint/style/noNonNullAssertion: <explanation>
       pokedexesByGameSetId[gameId]!.push(pokedex)
     }
   }
