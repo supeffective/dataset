@@ -90,5 +90,14 @@
     "serebii": "volbeat",
     "bulbapedia": "Volbeat",
     "showdownName": "Volbeat"
-  }
+  },
+  "registrableIn": [
+    "rs",
+    "e",
+    "xy",
+    "oras",
+    "go",
+    "home",
+    "sv"
+  ]
 }

@@ -85,5 +85,15 @@
     "serebii": "meditite",
     "bulbapedia": "Meditite",
     "showdownName": "Meditite"
-  }
+  },
+  "registrableIn": [
+    "dp",
+    "pt",
+    "xy",
+    "oras",
+    "go",
+    "home",
+    "bdsp",
+    "sv"
+  ]
 }

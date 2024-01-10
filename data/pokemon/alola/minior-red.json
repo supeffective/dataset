@@ -79,5 +79,12 @@
     "serebii": "minior",
     "bulbapedia": "Minior",
     "showdownName": "Minior"
-  }
+  },
+  "registrableIn": [
+    "go",
+    "sm",
+    "usum",
+    "home",
+    "sv"
+  ]
 }

@@ -81,5 +81,13 @@
     "serebii": "sawk",
     "bulbapedia": "Sawk",
     "showdownName": "Sawk"
-  }
+  },
+  "registrableIn": [
+    "bw",
+    "b2w2",
+    "xy",
+    "go",
+    "swsh",
+    "home"
+  ]
 }

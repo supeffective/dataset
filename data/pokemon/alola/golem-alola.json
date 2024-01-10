@@ -82,5 +82,13 @@
     "serebii": "golem",
     "bulbapedia": "Golem",
     "showdownName": "Golem-Alola"
-  }
+  },
+  "registrableIn": [
+    "go",
+    "sm",
+    "usum",
+    "lgpe",
+    "home",
+    "sv"
+  ]
 }

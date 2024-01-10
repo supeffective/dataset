@@ -75,5 +75,11 @@
     "serebii": "typenull",
     "bulbapedia": "Type: Null",
     "showdownName": "Type: Null"
-  }
+  },
+  "registrableIn": [
+    "sm",
+    "usum",
+    "swsh",
+    "home"
+  ]
 }

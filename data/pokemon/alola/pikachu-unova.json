@@ -40,18 +40,8 @@
   "debutIn": "sm",
   "obtainableIn": [],
   "versionExclusiveIn": [],
-  "eventOnlyIn": [
-    "sm",
-    "usum",
-    "swsh"
-  ],
-  "storableIn": [
-    "sm",
-    "usum",
-    "swsh",
-    "home",
-    "sv"
-  ],
+  "eventOnlyIn": ["sm", "usum", "swsh"],
+  "storableIn": ["sm", "usum", "swsh", "home", "sv"],
   "shinyReleased": false,
   "shinyBase": null,
   "baseStats": {
@@ -76,5 +66,6 @@
     "serebii": "pikachu",
     "bulbapedia": "Pikachu",
     "showdownName": "Pikachu-Unova"
-  }
+  },
+  "registrableIn": ["sm", "usum", "swsh", "home", "sv"]
 }

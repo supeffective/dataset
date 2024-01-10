@@ -77,5 +77,11 @@
     "serebii": "xurkitree",
     "bulbapedia": "Xurkitree",
     "showdownName": "Xurkitree"
-  }
+  },
+  "registrableIn": [
+    "go",
+    "sm",
+    "usum",
+    "home"
+  ]
 }

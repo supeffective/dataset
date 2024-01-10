@@ -73,5 +73,10 @@
     "serebii": "nymble",
     "bulbapedia": "Nymble",
     "showdownName": "Nymble"
-  }
+  },
+  "registrableIn": [
+    "go",
+    "home",
+    "sv"
+  ]
 }

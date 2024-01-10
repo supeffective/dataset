@@ -74,5 +74,9 @@
     "serebii": "Tauros",
     "bulbapedia": "Tauros_Paldea",
     "showdownName": "Tauros-Paldea-Combat"
-  }
+  },
+  "registrableIn": [
+    "home",
+    "sv"
+  ]
 }

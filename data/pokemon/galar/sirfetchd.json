@@ -77,5 +77,10 @@
     "serebii": "sirfetchd",
     "bulbapedia": "Sirfetch’d",
     "showdownName": "Sirfetch’d"
-  }
+  },
+  "registrableIn": [
+    "go",
+    "swsh",
+    "home"
+  ]
 }

@@ -77,5 +77,11 @@
     "serebii": "tapubulu",
     "bulbapedia": "Tapu Bulu",
     "showdownName": "Tapu Bulu"
-  }
+  },
+  "registrableIn": [
+    "go",
+    "sm",
+    "usum",
+    "home"
+  ]
 }

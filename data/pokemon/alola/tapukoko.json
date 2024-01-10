@@ -77,5 +77,11 @@
     "serebii": "tapukoko",
     "bulbapedia": "Tapu Koko",
     "showdownName": "Tapu Koko"
-  }
+  },
+  "registrableIn": [
+    "go",
+    "sm",
+    "usum",
+    "home"
+  ]
 }

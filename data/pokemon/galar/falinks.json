@@ -75,5 +75,11 @@
     "serebii": "falinks",
     "bulbapedia": "Falinks",
     "showdownName": "Falinks"
-  }
+  },
+  "registrableIn": [
+    "go",
+    "swsh",
+    "home",
+    "sv"
+  ]
 }

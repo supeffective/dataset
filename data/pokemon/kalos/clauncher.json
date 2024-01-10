@@ -80,5 +80,13 @@
     "serebii": "clauncher",
     "bulbapedia": "Clauncher",
     "showdownName": "Clauncher"
-  }
+  },
+  "registrableIn": [
+    "xy",
+    "go",
+    "usum",
+    "swsh",
+    "home",
+    "sv"
+  ]
 }

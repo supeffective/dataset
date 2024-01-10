@@ -84,5 +84,12 @@
     "serebii": "klang",
     "bulbapedia": "Klang",
     "showdownName": "Klang"
-  }
+  },
+  "registrableIn": [
+    "bw",
+    "b2w2",
+    "go",
+    "swsh",
+    "home"
+  ]
 }

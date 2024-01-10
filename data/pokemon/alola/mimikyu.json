@@ -81,5 +81,13 @@
     "serebii": "mimikyu",
     "bulbapedia": "Mimikyu",
     "showdownName": "Mimikyu"
-  }
+  },
+  "registrableIn": [
+    "go",
+    "sm",
+    "usum",
+    "swsh",
+    "home",
+    "sv"
+  ]
 }

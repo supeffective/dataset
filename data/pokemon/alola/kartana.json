@@ -77,5 +77,11 @@
     "serebii": "kartana",
     "bulbapedia": "Kartana",
     "showdownName": "Kartana"
-  }
+  },
+  "registrableIn": [
+    "go",
+    "sm",
+    "usum",
+    "home"
+  ]
 }

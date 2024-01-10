@@ -92,5 +92,16 @@
     "serebii": "phanpy",
     "bulbapedia": "Phanpy",
     "showdownName": "Phanpy"
-  }
+  },
+  "registrableIn": [
+    "gs",
+    "c",
+    "rs",
+    "e",
+    "hgss",
+    "oras",
+    "go",
+    "home",
+    "sv"
+  ]
 }

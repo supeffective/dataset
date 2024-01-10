@@ -40,9 +40,7 @@
   "debutIn": "b2w2",
   "obtainableIn": [],
   "versionExclusiveIn": [],
-  "eventOnlyIn": [
-    "oras"
-  ],
+  "eventOnlyIn": ["oras"],
   "storableIn": [],
   "shinyReleased": false,
   "shinyBase": null,
@@ -59,9 +57,7 @@
   "maleRate": 0,
   "femaleRate": 0,
   "baseSpecies": "meloetta",
-  "baseForms": [
-    "meloetta"
-  ],
+  "baseForms": ["meloetta"],
   "forms": [],
   "evolvesFrom": null,
   "refs": {
@@ -70,5 +66,6 @@
     "serebii": "meloetta",
     "bulbapedia": "Meloetta",
     "showdownName": "Meloetta-Pirouette"
-  }
+  },
+  "registrableIn": ["b2w2", "home"]
 }

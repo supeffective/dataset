@@ -83,5 +83,15 @@
     "serebii": "vulpix",
     "bulbapedia": "Vulpix",
     "showdownName": "Vulpix-Alola"
-  }
+  },
+  "registrableIn": [
+    "go",
+    "sm",
+    "usum",
+    "lgpe",
+    "swsh",
+    "home",
+    "la",
+    "sv"
+  ]
 }

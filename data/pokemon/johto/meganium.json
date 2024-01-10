@@ -97,5 +97,13 @@
     "serebii": "meganium",
     "bulbapedia": "Meganium",
     "showdownName": "Meganium"
-  }
+  },
+  "registrableIn": [
+    "gs",
+    "c",
+    "hgss",
+    "go",
+    "home",
+    "sv"
+  ]
 }

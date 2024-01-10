@@ -83,5 +83,13 @@
     "serebii": "lycanroc",
     "bulbapedia": "Lycanroc",
     "showdownName": "Lycanroc-Midnight"
-  }
+  },
+  "registrableIn": [
+    "go",
+    "sm",
+    "usum",
+    "swsh",
+    "home",
+    "sv"
+  ]
 }

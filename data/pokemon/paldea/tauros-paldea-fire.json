@@ -73,5 +73,9 @@
     "serebii": "Tauros",
     "bulbapedia": "Tauros_Paldea_Fire",
     "showdownName": "Tauros-Paldea-Blaze"
-  }
+  },
+  "registrableIn": [
+    "home",
+    "sv"
+  ]
 }

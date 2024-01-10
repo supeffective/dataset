@@ -86,5 +86,13 @@
     "serebii": "lycanroc",
     "bulbapedia": "Lycanroc",
     "showdownName": "Lycanroc"
-  }
+  },
+  "registrableIn": [
+    "go",
+    "sm",
+    "usum",
+    "swsh",
+    "home",
+    "sv"
+  ]
 }

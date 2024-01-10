@@ -80,5 +80,12 @@
     "serebii": "bewear",
     "bulbapedia": "Bewear",
     "showdownName": "Bewear"
-  }
+  },
+  "registrableIn": [
+    "go",
+    "sm",
+    "usum",
+    "swsh",
+    "home"
+  ]
 }

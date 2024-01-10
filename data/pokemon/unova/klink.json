@@ -81,5 +81,12 @@
     "serebii": "klink",
     "bulbapedia": "Klink",
     "showdownName": "Klink"
-  }
+  },
+  "registrableIn": [
+    "bw",
+    "b2w2",
+    "go",
+    "swsh",
+    "home"
+  ]
 }

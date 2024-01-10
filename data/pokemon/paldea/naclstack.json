@@ -74,5 +74,9 @@
     "serebii": "naclstack",
     "bulbapedia": "Naclstack",
     "showdownName": "Naclstack"
-  }
+  },
+  "registrableIn": [
+    "home",
+    "sv"
+  ]
 }

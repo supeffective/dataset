@@ -82,5 +82,12 @@
     "serebii": "watchog",
     "bulbapedia": "Watchog",
     "showdownName": "Watchog"
-  }
+  },
+  "registrableIn": [
+    "bw",
+    "b2w2",
+    "xy",
+    "go",
+    "home"
+  ]
 }

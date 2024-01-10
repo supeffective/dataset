@@ -77,5 +77,11 @@
     "serebii": "tapufini",
     "bulbapedia": "Tapu Fini",
     "showdownName": "Tapu Fini"
-  }
+  },
+  "registrableIn": [
+    "go",
+    "sm",
+    "usum",
+    "home"
+  ]
 }

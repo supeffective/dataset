@@ -120,5 +120,16 @@
     "serebii": "unown",
     "bulbapedia": "Unown",
     "showdownName": "Unown"
-  }
+  },
+  "registrableIn": [
+    "gs",
+    "c",
+    "dp",
+    "pt",
+    "hgss",
+    "go",
+    "home",
+    "bdsp",
+    "la"
+  ]
 }

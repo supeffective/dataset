@@ -73,5 +73,10 @@
     "serebii": "farfetchd",
     "bulbapedia": "Farfetchd",
     "showdownName": "Farfetch’d-Galar"
-  }
+  },
+  "registrableIn": [
+    "go",
+    "swsh",
+    "home"
+  ]
 }

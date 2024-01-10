@@ -92,5 +92,16 @@
     "serebii": "miltank",
     "bulbapedia": "Miltank",
     "showdownName": "Miltank"
-  }
+  },
+  "registrableIn": [
+    "gs",
+    "c",
+    "hgss",
+    "xy",
+    "go",
+    "sm",
+    "usum",
+    "swsh",
+    "home"
+  ]
 }

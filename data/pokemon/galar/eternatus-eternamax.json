@@ -57,9 +57,7 @@
   "maleRate": 0,
   "femaleRate": 0,
   "baseSpecies": "eternatus",
-  "baseForms": [
-    "eternatus"
-  ],
+  "baseForms": ["eternatus"],
   "forms": [],
   "evolvesFrom": null,
   "refs": {
@@ -68,5 +66,6 @@
     "serebii": "eternatus",
     "bulbapedia": "Eternatus",
     "showdownName": "Eternatus-Eternamax"
-  }
+  },
+  "registrableIn": ["swsh", "home"]
 }

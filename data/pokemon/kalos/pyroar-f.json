@@ -81,5 +81,12 @@
     "serebii": "pyroar",
     "bulbapedia": "Pyroar",
     "showdownName": "Pyroar"
-  }
+  },
+  "registrableIn": [
+    "xy",
+    "go",
+    "usum",
+    "home",
+    "sv"
+  ]
 }

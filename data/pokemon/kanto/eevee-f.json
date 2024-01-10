@@ -79,5 +79,12 @@
     "serebii": "eevee",
     "bulbapedia": "Eevee",
     "showdownName": "Eevee"
-  }
+  },
+  "registrableIn": [
+    "go",
+    "swsh",
+    "home",
+    "la",
+    "sv"
+  ]
 }

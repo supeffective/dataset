@@ -82,5 +82,13 @@
     "serebii": "toxapex",
     "bulbapedia": "Toxapex",
     "showdownName": "Toxapex"
-  }
+  },
+  "registrableIn": [
+    "go",
+    "sm",
+    "usum",
+    "swsh",
+    "home",
+    "sv"
+  ]
 }

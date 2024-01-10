@@ -81,5 +81,11 @@
     "serebii": "zygarde",
     "bulbapedia": "Zygarde",
     "showdownName": "Zygarde-Complete"
-  }
+  },
+  "registrableIn": [
+    "go",
+    "sm",
+    "usum",
+    "home"
+  ]
 }

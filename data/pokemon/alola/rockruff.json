@@ -81,5 +81,13 @@
     "serebii": "rockruff",
     "bulbapedia": "Rockruff",
     "showdownName": "Rockruff"
-  }
+  },
+  "registrableIn": [
+    "go",
+    "sm",
+    "usum",
+    "swsh",
+    "home",
+    "sv"
+  ]
 }

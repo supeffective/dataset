@@ -73,5 +73,12 @@
     "serebii": "mimikyu",
     "bulbapedia": "Mimikyu",
     "showdownName": "Mimikyu-Busted"
-  }
+  },
+  "registrableIn": [
+    "sm",
+    "usum",
+    "swsh",
+    "home",
+    "sv"
+  ]
 }

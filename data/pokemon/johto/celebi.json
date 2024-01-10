@@ -90,5 +90,12 @@
     "serebii": "celebi",
     "bulbapedia": "Celebi",
     "showdownName": "Celebi"
-  }
+  },
+  "registrableIn": [
+    "gs",
+    "c",
+    "hgss",
+    "go",
+    "home"
+  ]
 }

@@ -84,5 +84,13 @@
     "serebii": "dartrix",
     "bulbapedia": "Dartrix",
     "showdownName": "Dartrix"
-  }
+  },
+  "registrableIn": [
+    "go",
+    "sm",
+    "usum",
+    "home",
+    "la",
+    "sv"
+  ]
 }

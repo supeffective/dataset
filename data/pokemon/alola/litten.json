@@ -79,5 +79,12 @@
     "serebii": "litten",
     "bulbapedia": "Litten",
     "showdownName": "Litten"
-  }
+  },
+  "registrableIn": [
+    "go",
+    "sm",
+    "usum",
+    "home",
+    "sv"
+  ]
 }

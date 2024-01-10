@@ -82,5 +82,12 @@
     "serebii": "torracat",
     "bulbapedia": "Torracat",
     "showdownName": "Torracat"
-  }
+  },
+  "registrableIn": [
+    "go",
+    "sm",
+    "usum",
+    "home",
+    "sv"
+  ]
 }

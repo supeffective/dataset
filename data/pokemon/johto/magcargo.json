@@ -95,5 +95,17 @@
     "serebii": "magcargo",
     "bulbapedia": "Magcargo",
     "showdownName": "Magcargo"
-  }
+  },
+  "registrableIn": [
+    "gs",
+    "c",
+    "rs",
+    "e",
+    "hgss",
+    "xy",
+    "oras",
+    "go",
+    "home",
+    "sv"
+  ]
 }

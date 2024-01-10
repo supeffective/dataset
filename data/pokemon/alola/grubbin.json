@@ -79,5 +79,13 @@
     "serebii": "grubbin",
     "bulbapedia": "Grubbin",
     "showdownName": "Grubbin"
-  }
+  },
+  "registrableIn": [
+    "go",
+    "sm",
+    "usum",
+    "swsh",
+    "home",
+    "sv"
+  ]
 }

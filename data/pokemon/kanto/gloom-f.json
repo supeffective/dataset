@@ -91,5 +91,15 @@
     "serebii": "gloom",
     "bulbapedia": "Gloom",
     "showdownName": "Gloom"
-  }
+  },
+  "registrableIn": [
+    "hgss",
+    "xy",
+    "oras",
+    "go",
+    "lgpe",
+    "swsh",
+    "home",
+    "sv"
+  ]
 }
