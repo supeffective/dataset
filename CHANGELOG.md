@@ -1,4 +1,23 @@
 
+## v2.0.0
+
+[compare changes](https://github.com/supeffective/dataset/compare/v1.3.1...v2.0.0)
+
+### 🚀 Enhancements
+
+- Fill registrableIn pokemon field ([ced8a7e](https://github.com/supeffective/dataset/commit/ced8a7e))
+
+### 🩹 Fixes
+
+- Import all regional dexes data from PokeAPI ([2e1053f](https://github.com/supeffective/dataset/commit/2e1053f))
+- Fill national dexes for each past game ([bc87c04](https://github.com/supeffective/dataset/commit/bc87c04))
+- National dexes for rs/e/frlg/xy, and Deoxys/Hoopa data ([b0265dd](https://github.com/supeffective/dataset/commit/b0265dd))
+- RegistrableIn data ([263908c](https://github.com/supeffective/dataset/commit/263908c))
+
+### ❤️ Contributors
+
+- Javi Aguilar
+
 ## v1.3.1
 
 [compare changes](https://github.com/supeffective/dataset/compare/v1.3.0...v1.3.1)
