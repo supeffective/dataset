@@ -1,6 +1,6 @@
 import fs from 'fs'
 import { pokedexesIndex } from '../../../client'
-import type { Pokedex } from '../../../schemas'
+import type { Pokedex, Pokemon } from '../../../schemas'
 import { sleepMs } from '../../../utils'
 import { localDataLoader } from '../../loader'
 import { getDataPath } from '../../utils/fs'
@@ -21,12 +21,24 @@ type PokeapiPokedexResponse = {
   }>
 }
 
+// The following dexes are wrong in the PokeAPI and need to be skipped, therefore manually filled.
+const skippedDexes = [
+  'hisui', // Reason: the Pokeapi dex entries don't specify the hisuian forms, just the species.
+  'paldea-kitakami', // Reason: the Pokeapi dex entries don't specify regional forms
+  'paldea-blueberry', // Reason: the Pokeapi dex entries don't specify regional forms
+]
+
 export async function importPokedexes() {
   const pokemonMap = localDataLoader.pokemon()
 
   for (let i = 0; i < pokedexesIndex.length; i++) {
     const pokedex = pokedexesIndex[i]
     if (!pokedex || !pokedex.pokeApiId) {
+      continue
+    }
+
+    if (skippedDexes.includes(pokedex.id)) {
+      console.log(`Skipping dex ${pokedex.id}`)
       continue
     }
 
@@ -59,9 +71,32 @@ export async function importPokedexes() {
 
       pokedexData.entries.push({
         id: pokemonId,
-        isForm: pkmData.isForm,
         dexNum: entry.entry_number,
+        isForm: pkmData.isForm,
       })
+
+      // Add all forms available in this gamesets
+      const obtainableForms: Pokemon[] = (pkmData.forms ?? [])
+        .map((form) => {
+          const formData = pokemonMap.get(form)
+          if (!formData) {
+            throw new Error(`Wrong from ID for pokemon: '${pkmData.id}' : '${form}'`)
+          }
+          return formData
+        })
+        .filter((form) => form.registrableIn.some((gameId) => pokedexData.gameSets.includes(gameId)))
+
+      if (obtainableForms.length > 0) {
+        console.log(`Adding ${obtainableForms.length} forms for ${pkmData.id} and dex: ${pokedex.id}`)
+      }
+
+      for (const form of obtainableForms) {
+        pokedexData.entries.push({
+          id: form.id,
+          dexNum: entry.entry_number,
+          isForm: true,
+        })
+      }
     }
 
     fs.writeFileSync(pokedexFilename, JSON.stringify(pokedexData, null, 2))

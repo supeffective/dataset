@@ -63,11 +63,14 @@ export const pokemonSchema = z
     canGmax: z.coerce.boolean(),
     canDynamax: z.coerce.boolean(),
     canBeAlpha: z.coerce.boolean(),
-    debutIn: slugSchema,
-    obtainableIn: z.array(slugSchema),
-    versionExclusiveIn: z.array(slugSchema),
-    eventOnlyIn: z.array(slugSchema),
-    storableIn: z.array(slugSchema),
+    // ---- Obtainability:
+    debutIn: slugSchema, // the first game it appeared in
+    obtainableIn: z.array(slugSchema), // if it can be obtained in-game any time, without temporary or online events
+    versionExclusiveIn: z.array(slugSchema), // if it's exclusive to a game version
+    eventOnlyIn: z.array(slugSchema), // if it's exclusive to an event, and not obtainable in-game
+    storableIn: z.array(slugSchema), // if it's storable in the game's boxes
+    registrableIn: z.array(slugSchema), // if it's registrable in the game's dex
+    // -------------------
     shinyReleased: z.coerce.boolean(),
     shinyBase: slugSchema.nullable(),
     baseStats: z
