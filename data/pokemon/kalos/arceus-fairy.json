@@ -38,22 +38,10 @@
   "canDynamax": true,
   "canBeAlpha": false,
   "debutIn": "xy",
-  "obtainableIn": [
-    "xy",
-    "bdsp",
-    "la"
-  ],
+  "obtainableIn": ["xy", "bdsp", "la"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
-  "storableIn": [
-    "xy",
-    "oras",
-    "sm",
-    "usum",
-    "bdsp",
-    "la",
-    "sv"
-  ],
+  "storableIn": ["xy", "oras", "sm", "usum", "bdsp", "la", "sv"],
   "shinyReleased": true,
   "shinyBase": null,
   "baseStats": {
@@ -69,9 +57,7 @@
   "maleRate": 0,
   "femaleRate": 0,
   "baseSpecies": "arceus",
-  "baseForms": [
-    "arceus"
-  ],
+  "baseForms": ["arceus"],
   "forms": [],
   "evolvesFrom": null,
   "refs": {
@@ -81,8 +67,5 @@
     "bulbapedia": "Arceus",
     "showdownName": "Arceus-Fairy"
   },
-  "registrableIn": [
-    "home",
-    "la"
-  ]
+  "registrableIn": ["home", "la"]
 }

@@ -38,15 +38,7 @@
   "canDynamax": true,
   "canBeAlpha": true,
   "debutIn": "gs",
-  "obtainableIn": [
-    "gs",
-    "c",
-    "hgss",
-    "go",
-    "swsh",
-    "bdsp",
-    "la"
-  ],
+  "obtainableIn": ["gs", "c", "hgss", "go", "swsh", "bdsp", "la"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": [

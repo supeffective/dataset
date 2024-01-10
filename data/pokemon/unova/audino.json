@@ -38,12 +38,7 @@
   "canDynamax": true,
   "canBeAlpha": false,
   "debutIn": "bw",
-  "obtainableIn": [
-    "bw",
-    "b2w2",
-    "go",
-    "swsh"
-  ],
+  "obtainableIn": ["bw", "b2w2", "go", "swsh"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": [
@@ -73,9 +68,7 @@
   "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
-  "forms": [
-    "audino-mega"
-  ],
+  "forms": ["audino-mega"],
   "evolvesFrom": null,
   "refs": {
     "smogon": "audino",
@@ -84,12 +77,5 @@
     "bulbapedia": "Audino",
     "showdownName": "Audino"
   },
-  "registrableIn": [
-    "bw",
-    "b2w2",
-    "xy",
-    "go",
-    "swsh",
-    "home"
-  ]
+  "registrableIn": ["bw", "b2w2", "xy", "go", "swsh", "home"]
 }

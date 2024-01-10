@@ -38,22 +38,10 @@
   "canDynamax": true,
   "canBeAlpha": false,
   "debutIn": "xy",
-  "obtainableIn": [
-    "xy",
-    "go",
-    "sv"
-  ],
+  "obtainableIn": ["xy", "go", "sv"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
-  "storableIn": [
-    "xy",
-    "oras",
-    "go",
-    "sm",
-    "usum",
-    "home",
-    "sv"
-  ],
+  "storableIn": ["xy", "oras", "go", "sm", "usum", "home", "sv"],
   "shinyReleased": true,
   "shinyBase": null,
   "baseStats": {
@@ -79,11 +67,5 @@
     "bulbapedia": "Litleo",
     "showdownName": "Litleo"
   },
-  "registrableIn": [
-    "xy",
-    "go",
-    "usum",
-    "home",
-    "sv"
-  ]
+  "registrableIn": ["xy", "go", "usum", "home", "sv"]
 }

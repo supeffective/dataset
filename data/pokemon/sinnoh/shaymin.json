@@ -38,14 +38,9 @@
   "canDynamax": true,
   "canBeAlpha": false,
   "debutIn": "dp",
-  "obtainableIn": [
-    "la"
-  ],
+  "obtainableIn": ["la"],
   "versionExclusiveIn": [],
-  "eventOnlyIn": [
-    "go",
-    "bdsp"
-  ],
+  "eventOnlyIn": ["go", "bdsp"],
   "storableIn": [
     "dp",
     "pt",
@@ -77,9 +72,7 @@
   "femaleRate": 0,
   "baseSpecies": null,
   "baseForms": [],
-  "forms": [
-    "shaymin-sky"
-  ],
+  "forms": ["shaymin-sky"],
   "evolvesFrom": null,
   "refs": {
     "smogon": "shaymin",
@@ -88,9 +81,5 @@
     "bulbapedia": "Shaymin",
     "showdownName": "Shaymin"
   },
-  "registrableIn": [
-    "go",
-    "home",
-    "la"
-  ]
+  "registrableIn": ["go", "home", "la"]
 }

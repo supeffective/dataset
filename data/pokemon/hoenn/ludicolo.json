@@ -38,15 +38,7 @@
   "canDynamax": true,
   "canBeAlpha": false,
   "debutIn": "rs",
-  "obtainableIn": [
-    "rs",
-    "e",
-    "oras",
-    "go",
-    "swsh",
-    "bdsp",
-    "sv"
-  ],
+  "obtainableIn": ["rs", "e", "oras", "go", "swsh", "bdsp", "sv"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": [
@@ -84,9 +76,7 @@
   "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
-  "forms": [
-    "ludicolo-f"
-  ],
+  "forms": ["ludicolo-f"],
   "evolvesFrom": {
     "pokemon": "lombre",
     "item": "waterstone",
@@ -99,14 +89,5 @@
     "bulbapedia": "Ludicolo",
     "showdownName": "Ludicolo"
   },
-  "registrableIn": [
-    "rs",
-    "e",
-    "xy",
-    "oras",
-    "go",
-    "swsh",
-    "home",
-    "sv"
-  ]
+  "registrableIn": ["rs", "e", "xy", "oras", "go", "swsh", "home", "sv"]
 }

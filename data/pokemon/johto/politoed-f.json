@@ -38,13 +38,7 @@
   "canDynamax": true,
   "canBeAlpha": false,
   "debutIn": "dp",
-  "obtainableIn": [
-    "hgss",
-    "go",
-    "swsh",
-    "bdsp",
-    "sv"
-  ],
+  "obtainableIn": ["hgss", "go", "swsh", "bdsp", "sv"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": [
@@ -92,14 +86,5 @@
     "bulbapedia": "Politoed",
     "showdownName": "Politoed"
   },
-  "registrableIn": [
-    "hgss",
-    "xy",
-    "go",
-    "sm",
-    "usum",
-    "swsh",
-    "home",
-    "sv"
-  ]
+  "registrableIn": ["hgss", "xy", "go", "sm", "usum", "swsh", "home", "sv"]
 }

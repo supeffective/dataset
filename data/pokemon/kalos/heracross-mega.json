@@ -38,15 +38,10 @@
   "canDynamax": false,
   "canBeAlpha": false,
   "debutIn": "xy",
-  "obtainableIn": [
-    "xy",
-    "go"
-  ],
+  "obtainableIn": ["xy", "go"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
-  "storableIn": [
-    "go"
-  ],
+  "storableIn": ["go"],
   "shinyReleased": true,
   "shinyBase": null,
   "baseStats": {
@@ -62,9 +57,7 @@
   "maleRate": 50,
   "femaleRate": 50,
   "baseSpecies": "heracross",
-  "baseForms": [
-    "heracross"
-  ],
+  "baseForms": ["heracross"],
   "forms": [],
   "evolvesFrom": null,
   "refs": {
@@ -74,9 +67,5 @@
     "bulbapedia": "Heracross",
     "showdownName": "Heracross-Mega"
   },
-  "registrableIn": [
-    "xy",
-    "go",
-    "home"
-  ]
+  "registrableIn": ["xy", "go", "home"]
 }

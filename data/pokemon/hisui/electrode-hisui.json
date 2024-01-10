@@ -38,18 +38,10 @@
   "canDynamax": false,
   "canBeAlpha": true,
   "debutIn": "la",
-  "obtainableIn": [
-    "go",
-    "la"
-  ],
+  "obtainableIn": ["go", "la"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
-  "storableIn": [
-    "go",
-    "home",
-    "la",
-    "sv"
-  ],
+  "storableIn": ["go", "home", "la", "sv"],
   "shinyReleased": true,
   "shinyBase": null,
   "baseStats": {
@@ -79,10 +71,5 @@
     "bulbapedia": "Electrode",
     "showdownName": "Electrode-Hisui"
   },
-  "registrableIn": [
-    "go",
-    "home",
-    "la",
-    "sv"
-  ]
+  "registrableIn": ["go", "home", "la", "sv"]
 }

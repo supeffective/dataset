@@ -40,20 +40,8 @@
   "debutIn": "xy",
   "obtainableIn": [],
   "versionExclusiveIn": [],
-  "eventOnlyIn": [
-    "xy",
-    "oras",
-    "go"
-  ],
-  "storableIn": [
-    "xy",
-    "oras",
-    "go",
-    "sm",
-    "usum",
-    "home",
-    "sv"
-  ],
+  "eventOnlyIn": ["xy", "oras", "go"],
+  "storableIn": ["xy", "oras", "go", "sm", "usum", "home", "sv"],
   "shinyReleased": false,
   "shinyBase": null,
   "baseStats": {
@@ -70,9 +58,7 @@
   "femaleRate": 0,
   "baseSpecies": null,
   "baseForms": [],
-  "forms": [
-    "hoopa-unbound"
-  ],
+  "forms": ["hoopa-unbound"],
   "evolvesFrom": null,
   "refs": {
     "smogon": "hoopa",
@@ -81,8 +67,5 @@
     "bulbapedia": "Hoopa",
     "showdownName": "Hoopa"
   },
-  "registrableIn": [
-    "go",
-    "home"
-  ]
+  "registrableIn": ["go", "home"]
 }

@@ -38,13 +38,7 @@
   "canDynamax": true,
   "canBeAlpha": false,
   "debutIn": "dp",
-  "obtainableIn": [
-    "oras",
-    "go",
-    "swsh",
-    "bdsp",
-    "sv"
-  ],
+  "obtainableIn": ["oras", "go", "swsh", "bdsp", "sv"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": [
@@ -91,10 +85,5 @@
     "bulbapedia": "Blaziken",
     "showdownName": "Blaziken"
   },
-  "registrableIn": [
-    "oras",
-    "go",
-    "home",
-    "sv"
-  ]
+  "registrableIn": ["oras", "go", "home", "sv"]
 }

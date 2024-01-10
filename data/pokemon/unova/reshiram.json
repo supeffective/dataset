@@ -38,12 +38,7 @@
   "canDynamax": true,
   "canBeAlpha": false,
   "debutIn": "bw",
-  "obtainableIn": [
-    "bw",
-    "b2w2",
-    "go",
-    "swsh"
-  ],
+  "obtainableIn": ["bw", "b2w2", "go", "swsh"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": [
@@ -82,10 +77,5 @@
     "bulbapedia": "Reshiram",
     "showdownName": "Reshiram"
   },
-  "registrableIn": [
-    "bw",
-    "b2w2",
-    "go",
-    "home"
-  ]
+  "registrableIn": ["bw", "b2w2", "go", "home"]
 }

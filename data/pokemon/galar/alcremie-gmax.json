@@ -38,9 +38,7 @@
   "canDynamax": false,
   "canBeAlpha": false,
   "debutIn": "swsh",
-  "obtainableIn": [
-    "swsh"
-  ],
+  "obtainableIn": ["swsh"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": [],
@@ -133,8 +131,5 @@
     "bulbapedia": "Alcremie",
     "showdownName": "Alcremie-Gmax"
   },
-  "registrableIn": [
-    "swsh",
-    "home"
-  ]
+  "registrableIn": ["swsh", "home"]
 }

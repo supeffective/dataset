@@ -38,23 +38,10 @@
   "canDynamax": true,
   "canBeAlpha": false,
   "debutIn": "bw",
-  "obtainableIn": [
-    "bw",
-    "b2w2",
-    "go"
-  ],
+  "obtainableIn": ["bw", "b2w2", "go"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
-  "storableIn": [
-    "bw",
-    "b2w2",
-    "xy",
-    "oras",
-    "go",
-    "sm",
-    "usum",
-    "home"
-  ],
+  "storableIn": ["bw", "b2w2", "xy", "oras", "go", "sm", "usum", "home"],
   "shinyReleased": true,
   "shinyBase": null,
   "baseStats": {
@@ -84,11 +71,5 @@
     "bulbapedia": "Simisage",
     "showdownName": "Simisage"
   },
-  "registrableIn": [
-    "bw",
-    "b2w2",
-    "xy",
-    "go",
-    "home"
-  ]
+  "registrableIn": ["bw", "b2w2", "xy", "go", "home"]
 }

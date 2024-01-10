@@ -38,21 +38,10 @@
   "canDynamax": true,
   "canBeAlpha": false,
   "debutIn": "sm",
-  "obtainableIn": [
-    "go",
-    "sm",
-    "usum",
-    "swsh"
-  ],
+  "obtainableIn": ["go", "sm", "usum", "swsh"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
-  "storableIn": [
-    "go",
-    "sm",
-    "usum",
-    "swsh",
-    "home"
-  ],
+  "storableIn": ["go", "sm", "usum", "swsh", "home"],
   "shinyReleased": true,
   "shinyBase": null,
   "baseStats": {
@@ -78,10 +67,5 @@
     "bulbapedia": "Xurkitree",
     "showdownName": "Xurkitree"
   },
-  "registrableIn": [
-    "go",
-    "sm",
-    "usum",
-    "home"
-  ]
+  "registrableIn": ["go", "sm", "usum", "home"]
 }

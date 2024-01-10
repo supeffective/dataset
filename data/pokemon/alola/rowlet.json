@@ -38,25 +38,10 @@
   "canDynamax": true,
   "canBeAlpha": true,
   "debutIn": "sm",
-  "obtainableIn": [
-    "go",
-    "sm",
-    "usum",
-    "swsh",
-    "la",
-    "sv"
-  ],
+  "obtainableIn": ["go", "sm", "usum", "swsh", "la", "sv"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
-  "storableIn": [
-    "go",
-    "sm",
-    "usum",
-    "swsh",
-    "home",
-    "la",
-    "sv"
-  ],
+  "storableIn": ["go", "sm", "usum", "swsh", "home", "la", "sv"],
   "shinyReleased": true,
   "shinyBase": null,
   "baseStats": {
@@ -82,12 +67,5 @@
     "bulbapedia": "Rowlet",
     "showdownName": "Rowlet"
   },
-  "registrableIn": [
-    "go",
-    "sm",
-    "usum",
-    "home",
-    "la",
-    "sv"
-  ]
+  "registrableIn": ["go", "sm", "usum", "home", "la", "sv"]
 }

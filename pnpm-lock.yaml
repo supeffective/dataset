@@ -73,6 +73,9 @@ devDependencies:
   pokenode-ts:
     specifier: ^1.20.0
     version: 1.20.0(axios-cache-interceptor@1.4.1)(axios@1.6.5)
+  prettier:
+    specifier: ^3.1.1
+    version: 3.1.1
   publint:
     specifier: ^0.2.7
     version: 0.2.7
@@ -2444,6 +2447,12 @@ packages:
     dependencies:
       lilconfig: 3.0.0
       yaml: 2.3.4
+    dev: true
+
+  /prettier@3.1.1:
+    resolution: {integrity: sha512-22UbSzg8luF4UuZtzgiUOfcGM8s4tjBv6dJRT7j275NXsy2jb4aJa4NNveul5x4eqlF1wuhuR2RElK71RvmVaw==}
+    engines: {node: '>=14'}
+    hasBin: true
     dev: true
 
   /pretty-format@29.7.0:

@@ -38,13 +38,7 @@
   "canDynamax": true,
   "canBeAlpha": false,
   "debutIn": "bw",
-  "obtainableIn": [
-    "bw",
-    "b2w2",
-    "go",
-    "swsh",
-    "sv"
-  ],
+  "obtainableIn": ["bw", "b2w2", "go", "swsh", "sv"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": [
@@ -84,14 +78,5 @@
     "bulbapedia": "Scraggy",
     "showdownName": "Scraggy"
   },
-  "registrableIn": [
-    "bw",
-    "b2w2",
-    "xy",
-    "go",
-    "usum",
-    "swsh",
-    "home",
-    "sv"
-  ]
+  "registrableIn": ["bw", "b2w2", "xy", "go", "usum", "swsh", "home", "sv"]
 }

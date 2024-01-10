@@ -38,15 +38,10 @@
   "canDynamax": false,
   "canBeAlpha": false,
   "debutIn": "xy",
-  "obtainableIn": [
-    "xy",
-    "go"
-  ],
+  "obtainableIn": ["xy", "go"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
-  "storableIn": [
-    "go"
-  ],
+  "storableIn": ["go"],
   "shinyReleased": true,
   "shinyBase": null,
   "baseStats": {
@@ -62,9 +57,7 @@
   "maleRate": 87.5,
   "femaleRate": 12.5,
   "baseSpecies": "blaziken",
-  "baseForms": [
-    "blaziken"
-  ],
+  "baseForms": ["blaziken"],
   "forms": [],
   "evolvesFrom": null,
   "refs": {
@@ -74,8 +67,5 @@
     "bulbapedia": "Blaziken",
     "showdownName": "Blaziken-Mega"
   },
-  "registrableIn": [
-    "go",
-    "home"
-  ]
+  "registrableIn": ["go", "home"]
 }

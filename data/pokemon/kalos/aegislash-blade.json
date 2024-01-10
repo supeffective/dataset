@@ -38,10 +38,7 @@
   "canDynamax": true,
   "canBeAlpha": false,
   "debutIn": "xy",
-  "obtainableIn": [
-    "xy",
-    "swsh"
-  ],
+  "obtainableIn": ["xy", "swsh"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": [],
@@ -60,9 +57,7 @@
   "maleRate": 50,
   "femaleRate": 50,
   "baseSpecies": "aegislash",
-  "baseForms": [
-    "aegislash"
-  ],
+  "baseForms": ["aegislash"],
   "forms": [],
   "evolvesFrom": null,
   "refs": {
@@ -72,9 +67,5 @@
     "bulbapedia": "Aegislash",
     "showdownName": "Aegislash-Blade"
   },
-  "registrableIn": [
-    "xy",
-    "swsh",
-    "home"
-  ]
+  "registrableIn": ["xy", "swsh", "home"]
 }

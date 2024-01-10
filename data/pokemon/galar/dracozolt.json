@@ -38,15 +38,10 @@
   "canDynamax": true,
   "canBeAlpha": false,
   "debutIn": "swsh",
-  "obtainableIn": [
-    "swsh"
-  ],
+  "obtainableIn": ["swsh"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
-  "storableIn": [
-    "swsh",
-    "home"
-  ],
+  "storableIn": ["swsh", "home"],
   "shinyReleased": true,
   "shinyBase": null,
   "baseStats": {
@@ -72,8 +67,5 @@
     "bulbapedia": "Dracozolt",
     "showdownName": "Dracozolt"
   },
-  "registrableIn": [
-    "swsh",
-    "home"
-  ]
+  "registrableIn": ["swsh", "home"]
 }

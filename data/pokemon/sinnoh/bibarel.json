@@ -38,13 +38,7 @@
   "canDynamax": true,
   "canBeAlpha": true,
   "debutIn": "dp",
-  "obtainableIn": [
-    "dp",
-    "pt",
-    "go",
-    "bdsp",
-    "la"
-  ],
+  "obtainableIn": ["dp", "pt", "go", "bdsp", "la"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": [
@@ -78,9 +72,7 @@
   "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
-  "forms": [
-    "bibarel-f"
-  ],
+  "forms": ["bibarel-f"],
   "evolvesFrom": {
     "pokemon": "bidoof",
     "level": 15
@@ -92,13 +84,5 @@
     "bulbapedia": "Bibarel",
     "showdownName": "Bibarel"
   },
-  "registrableIn": [
-    "dp",
-    "pt",
-    "xy",
-    "go",
-    "home",
-    "bdsp",
-    "la"
-  ]
+  "registrableIn": ["dp", "pt", "xy", "go", "home", "bdsp", "la"]
 }

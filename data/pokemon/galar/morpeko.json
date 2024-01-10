@@ -38,17 +38,10 @@
   "canDynamax": true,
   "canBeAlpha": false,
   "debutIn": "swsh",
-  "obtainableIn": [
-    "swsh",
-    "sv"
-  ],
+  "obtainableIn": ["swsh", "sv"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
-  "storableIn": [
-    "swsh",
-    "home",
-    "sv"
-  ],
+  "storableIn": ["swsh", "home", "sv"],
   "shinyReleased": true,
   "shinyBase": null,
   "baseStats": {
@@ -65,9 +58,7 @@
   "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
-  "forms": [
-    "morpeko-hangry"
-  ],
+  "forms": ["morpeko-hangry"],
   "evolvesFrom": null,
   "refs": {
     "smogon": "morpeko",
@@ -76,9 +67,5 @@
     "bulbapedia": "Morpeko",
     "showdownName": "Morpeko"
   },
-  "registrableIn": [
-    "swsh",
-    "home",
-    "sv"
-  ]
+  "registrableIn": ["swsh", "home", "sv"]
 }

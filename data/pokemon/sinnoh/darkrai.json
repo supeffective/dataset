@@ -38,13 +38,7 @@
   "canDynamax": true,
   "canBeAlpha": false,
   "debutIn": "dp",
-  "obtainableIn": [
-    "dp",
-    "pt",
-    "go",
-    "bdsp",
-    "la"
-  ],
+  "obtainableIn": ["dp", "pt", "go", "bdsp", "la"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": [
@@ -87,9 +81,5 @@
     "bulbapedia": "Darkrai",
     "showdownName": "Darkrai"
   },
-  "registrableIn": [
-    "go",
-    "home",
-    "la"
-  ]
+  "registrableIn": ["go", "home", "la"]
 }

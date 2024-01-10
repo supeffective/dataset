@@ -38,14 +38,7 @@
   "canDynamax": true,
   "canBeAlpha": false,
   "debutIn": "gs",
-  "obtainableIn": [
-    "gs",
-    "c",
-    "hgss",
-    "go",
-    "bdsp",
-    "sv"
-  ],
+  "obtainableIn": ["gs", "c", "hgss", "go", "bdsp", "sv"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": [
@@ -84,9 +77,7 @@
   "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
-  "forms": [
-    "ampharos-mega"
-  ],
+  "forms": ["ampharos-mega"],
   "evolvesFrom": {
     "pokemon": "flaaffy",
     "level": 30
@@ -98,15 +89,5 @@
     "bulbapedia": "Ampharos",
     "showdownName": "Ampharos"
   },
-  "registrableIn": [
-    "gs",
-    "c",
-    "hgss",
-    "b2w2",
-    "xy",
-    "go",
-    "usum",
-    "home",
-    "sv"
-  ]
+  "registrableIn": ["gs", "c", "hgss", "b2w2", "xy", "go", "usum", "home", "sv"]
 }

@@ -38,17 +38,7 @@
   "canDynamax": true,
   "canBeAlpha": true,
   "debutIn": "rb",
-  "obtainableIn": [
-    "rb",
-    "y",
-    "frlg",
-    "go",
-    "lgpe",
-    "swsh",
-    "bdsp",
-    "la",
-    "sv"
-  ],
+  "obtainableIn": ["rb", "y", "frlg", "go", "lgpe", "swsh", "bdsp", "la", "sv"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": [
@@ -92,9 +82,7 @@
   "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
-  "forms": [
-    "magikarp-f"
-  ],
+  "forms": ["magikarp-f"],
   "evolvesFrom": null,
   "refs": {
     "smogon": "magikarp",

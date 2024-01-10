@@ -38,13 +38,7 @@
   "canDynamax": true,
   "canBeAlpha": true,
   "debutIn": "dp",
-  "obtainableIn": [
-    "dp",
-    "pt",
-    "go",
-    "bdsp",
-    "la"
-  ],
+  "obtainableIn": ["dp", "pt", "go", "bdsp", "la"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": [
@@ -90,13 +84,5 @@
     "bulbapedia": "Wormadam",
     "showdownName": "Wormadam-Trash"
   },
-  "registrableIn": [
-    "dp",
-    "pt",
-    "xy",
-    "go",
-    "home",
-    "bdsp",
-    "la"
-  ]
+  "registrableIn": ["dp", "pt", "xy", "go", "home", "bdsp", "la"]
 }

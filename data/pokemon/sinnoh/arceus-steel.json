@@ -38,12 +38,7 @@
   "canDynamax": true,
   "canBeAlpha": false,
   "debutIn": "dp",
-  "obtainableIn": [
-    "dp",
-    "pt",
-    "bdsp",
-    "la"
-  ],
+  "obtainableIn": ["dp", "pt", "bdsp", "la"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": [
@@ -75,9 +70,7 @@
   "maleRate": 0,
   "femaleRate": 0,
   "baseSpecies": "arceus",
-  "baseForms": [
-    "arceus"
-  ],
+  "baseForms": ["arceus"],
   "forms": [],
   "evolvesFrom": null,
   "refs": {
@@ -87,8 +80,5 @@
     "bulbapedia": "Arceus",
     "showdownName": "Arceus-Steel"
   },
-  "registrableIn": [
-    "home",
-    "la"
-  ]
+  "registrableIn": ["home", "la"]
 }

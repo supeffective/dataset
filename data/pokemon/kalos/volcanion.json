@@ -40,19 +40,8 @@
   "debutIn": "xy",
   "obtainableIn": [],
   "versionExclusiveIn": [],
-  "eventOnlyIn": [
-    "xy",
-    "oras"
-  ],
-  "storableIn": [
-    "xy",
-    "oras",
-    "sm",
-    "usum",
-    "swsh",
-    "home",
-    "sv"
-  ],
+  "eventOnlyIn": ["xy", "oras"],
+  "storableIn": ["xy", "oras", "sm", "usum", "swsh", "home", "sv"],
   "shinyReleased": false,
   "shinyBase": null,
   "baseStats": {
@@ -78,7 +67,5 @@
     "bulbapedia": "Volcanion",
     "showdownName": "Volcanion"
   },
-  "registrableIn": [
-    "home"
-  ]
+  "registrableIn": ["home"]
 }

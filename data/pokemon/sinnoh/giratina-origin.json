@@ -38,13 +38,7 @@
   "canDynamax": true,
   "canBeAlpha": false,
   "debutIn": "pt",
-  "obtainableIn": [
-    "pt",
-    "go",
-    "swsh",
-    "bdsp",
-    "la"
-  ],
+  "obtainableIn": ["pt", "go", "swsh", "bdsp", "la"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": [
@@ -78,9 +72,7 @@
   "maleRate": 0,
   "femaleRate": 0,
   "baseSpecies": "giratina",
-  "baseForms": [
-    "giratina"
-  ],
+  "baseForms": ["giratina"],
   "forms": [],
   "evolvesFrom": null,
   "refs": {
@@ -90,10 +82,5 @@
     "bulbapedia": "Giratina",
     "showdownName": "Giratina-Origin"
   },
-  "registrableIn": [
-    "pt",
-    "go",
-    "home",
-    "la"
-  ]
+  "registrableIn": ["pt", "go", "home", "la"]
 }

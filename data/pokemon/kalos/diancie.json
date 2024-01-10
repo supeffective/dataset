@@ -42,21 +42,8 @@
   "debutIn": "xy",
   "obtainableIn": [],
   "versionExclusiveIn": [],
-  "eventOnlyIn": [
-    "xy",
-    "oras",
-    "go"
-  ],
-  "storableIn": [
-    "xy",
-    "oras",
-    "go",
-    "sm",
-    "usum",
-    "swsh",
-    "home",
-    "sv"
-  ],
+  "eventOnlyIn": ["xy", "oras", "go"],
+  "storableIn": ["xy", "oras", "go", "sm", "usum", "swsh", "home", "sv"],
   "shinyReleased": true,
   "shinyBase": null,
   "baseStats": {
@@ -73,9 +60,7 @@
   "femaleRate": 0,
   "baseSpecies": null,
   "baseForms": [],
-  "forms": [
-    "diancie-mega"
-  ],
+  "forms": ["diancie-mega"],
   "family": null,
   "evolvesFrom": {
     "pokemon": null
@@ -87,8 +72,5 @@
     "bulbapedia": "Diancie",
     "showdownName": "Diancie"
   },
-  "registrableIn": [
-    "go",
-    "home"
-  ]
+  "registrableIn": ["go", "home"]
 }

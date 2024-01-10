@@ -38,9 +38,7 @@
   "canDynamax": true,
   "canBeAlpha": false,
   "debutIn": "swsh",
-  "obtainableIn": [
-    "swsh"
-  ],
+  "obtainableIn": ["swsh"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": [],
@@ -59,9 +57,7 @@
   "maleRate": 50,
   "femaleRate": 50,
   "baseSpecies": "darmanitan",
-  "baseForms": [
-    "darmanitan-galar"
-  ],
+  "baseForms": ["darmanitan-galar"],
   "forms": [],
   "evolvesFrom": null,
   "refs": {
@@ -71,8 +67,5 @@
     "bulbapedia": "Darmanitan",
     "showdownName": "Darmanitan-Galar-Zen"
   },
-  "registrableIn": [
-    "swsh",
-    "home"
-  ]
+  "registrableIn": ["swsh", "home"]
 }

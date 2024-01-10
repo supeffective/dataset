@@ -38,16 +38,7 @@
   "canDynamax": true,
   "canBeAlpha": true,
   "debutIn": "gs",
-  "obtainableIn": [
-    "gs",
-    "c",
-    "hgss",
-    "go",
-    "swsh",
-    "bdsp",
-    "la",
-    "sv"
-  ],
+  "obtainableIn": ["gs", "c", "hgss", "go", "swsh", "bdsp", "la", "sv"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": [
@@ -88,9 +79,7 @@
   "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
-  "forms": [
-    "sudowoodo-f"
-  ],
+  "forms": ["sudowoodo-f"],
   "evolvesFrom": {
     "pokemon": "bonsly",
     "move": "mimic",

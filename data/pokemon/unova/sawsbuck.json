@@ -38,25 +38,10 @@
   "canDynamax": true,
   "canBeAlpha": false,
   "debutIn": "bw",
-  "obtainableIn": [
-    "bw",
-    "b2w2",
-    "go",
-    "sv"
-  ],
+  "obtainableIn": ["bw", "b2w2", "go", "sv"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
-  "storableIn": [
-    "bw",
-    "b2w2",
-    "xy",
-    "oras",
-    "go",
-    "sm",
-    "usum",
-    "home",
-    "sv"
-  ],
+  "storableIn": ["bw", "b2w2", "xy", "oras", "go", "sm", "usum", "home", "sv"],
   "shinyReleased": true,
   "shinyBase": null,
   "baseStats": {
@@ -73,11 +58,7 @@
   "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
-  "forms": [
-    "sawsbuck-summer",
-    "sawsbuck-autumn",
-    "sawsbuck-winter"
-  ],
+  "forms": ["sawsbuck-summer", "sawsbuck-autumn", "sawsbuck-winter"],
   "evolvesFrom": {
     "pokemon": "deerling",
     "level": 34
@@ -89,11 +70,5 @@
     "bulbapedia": "Sawsbuck",
     "showdownName": "Sawsbuck"
   },
-  "registrableIn": [
-    "bw",
-    "b2w2",
-    "go",
-    "home",
-    "sv"
-  ]
+  "registrableIn": ["bw", "b2w2", "go", "home", "sv"]
 }

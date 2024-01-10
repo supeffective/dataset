@@ -23,9 +23,7 @@
   "isUltraBeast": false,
   "ultraBeastCode": null,
   "isParadox": true,
-  "paradoxSpecies": [
-    "suicune"
-  ],
+  "paradoxSpecies": ["suicune"],
   "isSpecialAbilityForm": false,
   "isCosmeticForm": false,
   "isFemaleForm": false,
@@ -42,17 +40,10 @@
   "canDynamax": false,
   "canBeAlpha": false,
   "debutIn": "sv",
-  "obtainableIn": [
-    "sv"
-  ],
+  "obtainableIn": ["sv"],
   "versionExclusiveIn": [],
-  "eventOnlyIn": [
-    "sv"
-  ],
-  "storableIn": [
-    "home",
-    "sv"
-  ],
+  "eventOnlyIn": ["sv"],
+  "storableIn": ["home", "sv"],
   "shinyReleased": false,
   "shinyBase": null,
   "baseStats": {
@@ -78,8 +69,5 @@
     "bulbapedia": "Walking_Wake",
     "showdownName": "Walking Wake"
   },
-  "registrableIn": [
-    "home",
-    "sv"
-  ]
+  "registrableIn": ["home", "sv"]
 }

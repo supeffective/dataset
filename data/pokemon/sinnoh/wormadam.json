@@ -38,13 +38,7 @@
   "canDynamax": true,
   "canBeAlpha": true,
   "debutIn": "dp",
-  "obtainableIn": [
-    "dp",
-    "pt",
-    "go",
-    "bdsp",
-    "la"
-  ],
+  "obtainableIn": ["dp", "pt", "go", "bdsp", "la"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": [
@@ -78,10 +72,7 @@
   "femaleRate": 100,
   "baseSpecies": null,
   "baseForms": [],
-  "forms": [
-    "wormadam-sandy",
-    "wormadam-trash"
-  ],
+  "forms": ["wormadam-sandy", "wormadam-trash"],
   "evolvesFrom": {
     "pokemon": "burmy",
     "level": 20
@@ -93,13 +84,5 @@
     "bulbapedia": "Wormadam",
     "showdownName": "Wormadam"
   },
-  "registrableIn": [
-    "dp",
-    "pt",
-    "xy",
-    "go",
-    "home",
-    "bdsp",
-    "la"
-  ]
+  "registrableIn": ["dp", "pt", "xy", "go", "home", "bdsp", "la"]
 }

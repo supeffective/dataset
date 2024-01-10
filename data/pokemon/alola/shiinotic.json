@@ -38,21 +38,10 @@
   "canDynamax": true,
   "canBeAlpha": false,
   "debutIn": "sm",
-  "obtainableIn": [
-    "go",
-    "sm",
-    "usum",
-    "swsh"
-  ],
+  "obtainableIn": ["go", "sm", "usum", "swsh"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
-  "storableIn": [
-    "go",
-    "sm",
-    "usum",
-    "swsh",
-    "home"
-  ],
+  "storableIn": ["go", "sm", "usum", "swsh", "home"],
   "shinyReleased": true,
   "shinyBase": null,
   "baseStats": {
@@ -81,11 +70,5 @@
     "bulbapedia": "Shiinotic",
     "showdownName": "Shiinotic"
   },
-  "registrableIn": [
-    "go",
-    "sm",
-    "usum",
-    "swsh",
-    "home"
-  ]
+  "registrableIn": ["go", "sm", "usum", "swsh", "home"]
 }

@@ -38,26 +38,10 @@
   "canDynamax": true,
   "canBeAlpha": true,
   "debutIn": "xy",
-  "obtainableIn": [
-    "xy",
-    "go",
-    "swsh",
-    "la",
-    "sv"
-  ],
+  "obtainableIn": ["xy", "go", "swsh", "la", "sv"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
-  "storableIn": [
-    "xy",
-    "oras",
-    "go",
-    "sm",
-    "usum",
-    "swsh",
-    "home",
-    "la",
-    "sv"
-  ],
+  "storableIn": ["xy", "oras", "go", "sm", "usum", "swsh", "home", "la", "sv"],
   "shinyReleased": true,
   "shinyBase": null,
   "baseStats": {
@@ -87,14 +71,5 @@
     "bulbapedia": "Sylveon",
     "showdownName": "Sylveon"
   },
-  "registrableIn": [
-    "xy",
-    "go",
-    "sm",
-    "usum",
-    "swsh",
-    "home",
-    "la",
-    "sv"
-  ]
+  "registrableIn": ["xy", "go", "sm", "usum", "swsh", "home", "la", "sv"]
 }

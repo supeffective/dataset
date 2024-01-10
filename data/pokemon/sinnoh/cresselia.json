@@ -38,14 +38,7 @@
   "canDynamax": true,
   "canBeAlpha": false,
   "debutIn": "dp",
-  "obtainableIn": [
-    "dp",
-    "pt",
-    "go",
-    "swsh",
-    "bdsp",
-    "la"
-  ],
+  "obtainableIn": ["dp", "pt", "go", "swsh", "bdsp", "la"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": [
@@ -90,9 +83,5 @@
     "bulbapedia": "Cresselia",
     "showdownName": "Cresselia"
   },
-  "registrableIn": [
-    "go",
-    "home",
-    "la"
-  ]
+  "registrableIn": ["go", "home", "la"]
 }

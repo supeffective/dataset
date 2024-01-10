@@ -38,14 +38,7 @@
   "canDynamax": true,
   "canBeAlpha": false,
   "debutIn": "rb",
-  "obtainableIn": [
-    "rb",
-    "y",
-    "frlg",
-    "go",
-    "lgpe",
-    "bdsp"
-  ],
+  "obtainableIn": ["rb", "y", "frlg", "go", "lgpe", "bdsp"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": [
@@ -86,10 +79,7 @@
   "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
-  "forms": [
-    "rattata-f",
-    "rattata-alola"
-  ],
+  "forms": ["rattata-f", "rattata-alola"],
   "evolvesFrom": null,
   "refs": {
     "smogon": "rattata",

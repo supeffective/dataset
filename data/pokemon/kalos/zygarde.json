@@ -40,23 +40,10 @@
   "canDynamax": true,
   "canBeAlpha": false,
   "debutIn": "xy",
-  "obtainableIn": [
-    "xy",
-    "go",
-    "sm",
-    "swsh"
-  ],
+  "obtainableIn": ["xy", "go", "sm", "swsh"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
-  "storableIn": [
-    "xy",
-    "oras",
-    "go",
-    "sm",
-    "usum",
-    "swsh",
-    "home"
-  ],
+  "storableIn": ["xy", "oras", "go", "sm", "usum", "swsh", "home"],
   "shinyReleased": true,
   "shinyBase": null,
   "baseStats": {
@@ -90,11 +77,5 @@
     "bulbapedia": "Zygarde",
     "showdownName": "Zygarde"
   },
-  "registrableIn": [
-    "xy",
-    "go",
-    "sm",
-    "usum",
-    "home"
-  ]
+  "registrableIn": ["xy", "go", "sm", "usum", "home"]
 }

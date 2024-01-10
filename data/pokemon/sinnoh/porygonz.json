@@ -38,15 +38,7 @@
   "canDynamax": true,
   "canBeAlpha": true,
   "debutIn": "dp",
-  "obtainableIn": [
-    "dp",
-    "pt",
-    "go",
-    "swsh",
-    "bdsp",
-    "la",
-    "sv"
-  ],
+  "obtainableIn": ["dp", "pt", "go", "swsh", "bdsp", "la", "sv"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": [
@@ -95,14 +87,5 @@
     "bulbapedia": "Porygon-Z",
     "showdownName": "Porygon-Z"
   },
-  "registrableIn": [
-    "pt",
-    "go",
-    "sm",
-    "usum",
-    "swsh",
-    "home",
-    "la",
-    "sv"
-  ]
+  "registrableIn": ["pt", "go", "sm", "usum", "swsh", "home", "la", "sv"]
 }

@@ -29,10 +29,7 @@
   "isBattleOnlyForm": false,
   "isSwitchableForm": true,
   "isFusion": true,
-  "fusedWith": [
-    "necrozma",
-    "solgaleo"
-  ],
+  "fusedWith": ["necrozma", "solgaleo"],
   "isMega": false,
   "isPrimal": false,
   "isGmax": false,
@@ -41,16 +38,10 @@
   "canDynamax": true,
   "canBeAlpha": false,
   "debutIn": "usum",
-  "obtainableIn": [
-    "usum",
-    "swsh"
-  ],
+  "obtainableIn": ["usum", "swsh"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
-  "storableIn": [
-    "usum",
-    "swsh"
-  ],
+  "storableIn": ["usum", "swsh"],
   "shinyReleased": true,
   "shinyBase": null,
   "baseStats": {
@@ -66,9 +57,7 @@
   "maleRate": 0,
   "femaleRate": 0,
   "baseSpecies": "necrozma",
-  "baseForms": [
-    "necrozma"
-  ],
+  "baseForms": ["necrozma"],
   "forms": [],
   "evolvesFrom": null,
   "refs": {
@@ -78,8 +67,5 @@
     "bulbapedia": "Necrozma",
     "showdownName": "Necrozma-Dusk-Mane"
   },
-  "registrableIn": [
-    "usum",
-    "home"
-  ]
+  "registrableIn": ["usum", "home"]
 }

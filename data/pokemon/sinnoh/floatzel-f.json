@@ -38,14 +38,7 @@
   "canDynamax": true,
   "canBeAlpha": true,
   "debutIn": "dp",
-  "obtainableIn": [
-    "dp",
-    "pt",
-    "go",
-    "bdsp",
-    "la",
-    "sv"
-  ],
+  "obtainableIn": ["dp", "pt", "go", "bdsp", "la", "sv"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": [
@@ -92,15 +85,5 @@
     "bulbapedia": "Floatzel",
     "showdownName": "Floatzel"
   },
-  "registrableIn": [
-    "dp",
-    "pt",
-    "b2w2",
-    "xy",
-    "go",
-    "home",
-    "bdsp",
-    "la",
-    "sv"
-  ]
+  "registrableIn": ["dp", "pt", "b2w2", "xy", "go", "home", "bdsp", "la", "sv"]
 }

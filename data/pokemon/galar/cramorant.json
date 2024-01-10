@@ -38,17 +38,10 @@
   "canDynamax": true,
   "canBeAlpha": false,
   "debutIn": "swsh",
-  "obtainableIn": [
-    "swsh",
-    "sv"
-  ],
+  "obtainableIn": ["swsh", "sv"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
-  "storableIn": [
-    "swsh",
-    "home",
-    "sv"
-  ],
+  "storableIn": ["swsh", "home", "sv"],
   "shinyReleased": true,
   "shinyBase": null,
   "baseStats": {
@@ -65,10 +58,7 @@
   "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
-  "forms": [
-    "cramorant-gulping",
-    "cramorant-gorging"
-  ],
+  "forms": ["cramorant-gulping", "cramorant-gorging"],
   "evolvesFrom": null,
   "refs": {
     "smogon": "cramorant",
@@ -77,9 +67,5 @@
     "bulbapedia": "Cramorant",
     "showdownName": "Cramorant"
   },
-  "registrableIn": [
-    "swsh",
-    "home",
-    "sv"
-  ]
+  "registrableIn": ["swsh", "home", "sv"]
 }

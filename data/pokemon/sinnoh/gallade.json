@@ -38,15 +38,7 @@
   "canDynamax": true,
   "canBeAlpha": true,
   "debutIn": "dp",
-  "obtainableIn": [
-    "dp",
-    "pt",
-    "go",
-    "swsh",
-    "bdsp",
-    "la",
-    "sv"
-  ],
+  "obtainableIn": ["dp", "pt", "go", "swsh", "bdsp", "la", "sv"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": [
@@ -82,9 +74,7 @@
   "femaleRate": 0,
   "baseSpecies": null,
   "baseForms": [],
-  "forms": [
-    "gallade-mega"
-  ],
+  "forms": ["gallade-mega"],
   "evolvesFrom": {
     "pokemon": "kirlia",
     "item": "dawnstone",
@@ -97,14 +87,5 @@
     "bulbapedia": "Gallade",
     "showdownName": "Gallade"
   },
-  "registrableIn": [
-    "pt",
-    "xy",
-    "oras",
-    "go",
-    "swsh",
-    "home",
-    "la",
-    "sv"
-  ]
+  "registrableIn": ["pt", "xy", "oras", "go", "swsh", "home", "la", "sv"]
 }

@@ -38,18 +38,10 @@
   "canDynamax": true,
   "canBeAlpha": false,
   "debutIn": "sm",
-  "obtainableIn": [
-    "sm",
-    "usum",
-    "swsh"
-  ],
+  "obtainableIn": ["sm", "usum", "swsh"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
-  "storableIn": [
-    "sm",
-    "usum",
-    "swsh"
-  ],
+  "storableIn": ["sm", "usum", "swsh"],
   "shinyReleased": true,
   "shinyBase": null,
   "baseStats": {
@@ -65,9 +57,7 @@
   "maleRate": 0,
   "femaleRate": 0,
   "baseSpecies": "silvally",
-  "baseForms": [
-    "silvally"
-  ],
+  "baseForms": ["silvally"],
   "forms": [],
   "evolvesFrom": null,
   "refs": {
@@ -77,10 +67,5 @@
     "bulbapedia": "Silvally",
     "showdownName": "Silvally-Flying"
   },
-  "registrableIn": [
-    "sm",
-    "usum",
-    "swsh",
-    "home"
-  ]
+  "registrableIn": ["sm", "usum", "swsh", "home"]
 }

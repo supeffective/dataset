@@ -38,17 +38,10 @@
   "canDynamax": true,
   "canBeAlpha": false,
   "debutIn": "go",
-  "obtainableIn": [
-    "go"
-  ],
+  "obtainableIn": ["go"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
-  "storableIn": [
-    "go",
-    "lgpe",
-    "swsh",
-    "home"
-  ],
+  "storableIn": ["go", "lgpe", "swsh", "home"],
   "shinyReleased": true,
   "shinyBase": null,
   "baseStats": {
@@ -65,9 +58,7 @@
   "femaleRate": 0,
   "baseSpecies": null,
   "baseForms": [],
-  "forms": [
-    "melmetal-gmax"
-  ],
+  "forms": ["melmetal-gmax"],
   "evolvesFrom": null,
   "refs": {
     "smogon": "melmetal",
@@ -76,9 +67,5 @@
     "bulbapedia": "Melmetal",
     "showdownName": "Melmetal"
   },
-  "registrableIn": [
-    "go",
-    "lgpe",
-    "home"
-  ]
+  "registrableIn": ["go", "lgpe", "home"]
 }

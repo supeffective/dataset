@@ -40,15 +40,8 @@
   "debutIn": "swsh",
   "obtainableIn": [],
   "versionExclusiveIn": [],
-  "eventOnlyIn": [
-    "go"
-  ],
-  "storableIn": [
-    "go",
-    "swsh",
-    "home",
-    "sv"
-  ],
+  "eventOnlyIn": ["go"],
+  "storableIn": ["go", "swsh", "home", "sv"],
   "shinyReleased": false,
   "shinyBase": null,
   "baseStats": {
@@ -65,9 +58,7 @@
   "femaleRate": 0,
   "baseSpecies": null,
   "baseForms": [],
-  "forms": [
-    "zarude-dada"
-  ],
+  "forms": ["zarude-dada"],
   "evolvesFrom": null,
   "refs": {
     "smogon": "zarude",
@@ -76,9 +67,5 @@
     "bulbapedia": "Zarude",
     "showdownName": "Zarude"
   },
-  "registrableIn": [
-    "go",
-    "swsh",
-    "home"
-  ]
+  "registrableIn": ["go", "swsh", "home"]
 }

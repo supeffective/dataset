@@ -38,12 +38,7 @@
   "canDynamax": true,
   "canBeAlpha": false,
   "debutIn": "dp",
-  "obtainableIn": [
-    "hgss",
-    "go",
-    "bdsp",
-    "sv"
-  ],
+  "obtainableIn": ["hgss", "go", "bdsp", "sv"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": [
@@ -89,11 +84,5 @@
     "bulbapedia": "Donphan",
     "showdownName": "Donphan"
   },
-  "registrableIn": [
-    "hgss",
-    "oras",
-    "go",
-    "home",
-    "sv"
-  ]
+  "registrableIn": ["hgss", "oras", "go", "home", "sv"]
 }

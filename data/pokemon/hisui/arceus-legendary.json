@@ -38,14 +38,10 @@
   "canDynamax": true,
   "canBeAlpha": false,
   "debutIn": "la",
-  "obtainableIn": [
-    "la"
-  ],
+  "obtainableIn": ["la"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
-  "storableIn": [
-    "la"
-  ],
+  "storableIn": ["la"],
   "shinyReleased": true,
   "shinyBase": null,
   "baseStats": {
@@ -61,9 +57,7 @@
   "maleRate": 0,
   "femaleRate": 0,
   "baseSpecies": "arceus",
-  "baseForms": [
-    "arceus"
-  ],
+  "baseForms": ["arceus"],
   "forms": [],
   "evolvesFrom": null,
   "refs": {
@@ -73,8 +67,5 @@
     "bulbapedia": "Arceus",
     "showdownName": "Arceus"
   },
-  "registrableIn": [
-    "home",
-    "la"
-  ]
+  "registrableIn": ["home", "la"]
 }

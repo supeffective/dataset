@@ -38,15 +38,7 @@
   "canDynamax": true,
   "canBeAlpha": false,
   "debutIn": "rs",
-  "obtainableIn": [
-    "rs",
-    "e",
-    "oras",
-    "go",
-    "swsh",
-    "bdsp",
-    "sv"
-  ],
+  "obtainableIn": ["rs", "e", "oras", "go", "swsh", "bdsp", "sv"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": [
@@ -84,9 +76,7 @@
   "femaleRate": 12.5,
   "baseSpecies": null,
   "baseForms": [],
-  "forms": [
-    "sceptile-mega"
-  ],
+  "forms": ["sceptile-mega"],
   "evolvesFrom": {
     "pokemon": "grovyle",
     "level": 36
@@ -98,12 +88,5 @@
     "bulbapedia": "Sceptile",
     "showdownName": "Sceptile"
   },
-  "registrableIn": [
-    "rs",
-    "e",
-    "oras",
-    "go",
-    "home",
-    "sv"
-  ]
+  "registrableIn": ["rs", "e", "oras", "go", "home", "sv"]
 }

@@ -38,13 +38,7 @@
   "canDynamax": true,
   "canBeAlpha": false,
   "debutIn": "bw",
-  "obtainableIn": [
-    "bw",
-    "b2w2",
-    "go",
-    "swsh",
-    "sv"
-  ],
+  "obtainableIn": ["bw", "b2w2", "go", "swsh", "sv"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": [
@@ -87,14 +81,5 @@
     "bulbapedia": "Mandibuzz",
     "showdownName": "Mandibuzz"
   },
-  "registrableIn": [
-    "bw",
-    "b2w2",
-    "go",
-    "sm",
-    "usum",
-    "swsh",
-    "home",
-    "sv"
-  ]
+  "registrableIn": ["bw", "b2w2", "go", "sm", "usum", "swsh", "home", "sv"]
 }

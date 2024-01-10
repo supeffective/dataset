@@ -40,21 +40,10 @@
   "canDynamax": true,
   "canBeAlpha": false,
   "debutIn": "sm",
-  "obtainableIn": [
-    "go",
-    "sm",
-    "usum",
-    "swsh"
-  ],
+  "obtainableIn": ["go", "sm", "usum", "swsh"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
-  "storableIn": [
-    "go",
-    "sm",
-    "usum",
-    "swsh",
-    "home"
-  ],
+  "storableIn": ["go", "sm", "usum", "swsh", "home"],
   "shinyReleased": true,
   "shinyBase": null,
   "baseStats": {
@@ -71,9 +60,7 @@
   "femaleRate": 0,
   "baseSpecies": "zygarde",
   "baseForms": [],
-  "forms": [
-    "zygarde-10--power-construct"
-  ],
+  "forms": ["zygarde-10--power-construct"],
   "family": null,
   "evolvesFrom": {
     "pokemon": null
@@ -85,10 +72,5 @@
     "bulbapedia": "Zygarde",
     "showdownName": "Zygarde-10%"
   },
-  "registrableIn": [
-    "go",
-    "sm",
-    "usum",
-    "home"
-  ]
+  "registrableIn": ["go", "sm", "usum", "home"]
 }

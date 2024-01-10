@@ -38,13 +38,7 @@
   "canDynamax": true,
   "canBeAlpha": false,
   "debutIn": "rs",
-  "obtainableIn": [
-    "rs",
-    "e",
-    "oras",
-    "go",
-    "bdsp"
-  ],
+  "obtainableIn": ["rs", "e", "oras", "go", "bdsp"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": [
@@ -92,12 +86,5 @@
     "bulbapedia": "Swellow",
     "showdownName": "Swellow"
   },
-  "registrableIn": [
-    "rs",
-    "e",
-    "xy",
-    "oras",
-    "go",
-    "home"
-  ]
+  "registrableIn": ["rs", "e", "xy", "oras", "go", "home"]
 }

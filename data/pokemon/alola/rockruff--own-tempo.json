@@ -38,19 +38,10 @@
   "canDynamax": true,
   "canBeAlpha": false,
   "debutIn": "usum",
-  "obtainableIn": [
-    "usum",
-    "swsh",
-    "sv"
-  ],
+  "obtainableIn": ["usum", "swsh", "sv"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
-  "storableIn": [
-    "usum",
-    "swsh",
-    "home",
-    "sv"
-  ],
+  "storableIn": ["usum", "swsh", "home", "sv"],
   "shinyReleased": true,
   "shinyBase": null,
   "baseStats": {
@@ -76,10 +67,5 @@
     "bulbapedia": "Rockruff",
     "showdownName": "Rockruff"
   },
-  "registrableIn": [
-    "usum",
-    "swsh",
-    "home",
-    "sv"
-  ]
+  "registrableIn": ["usum", "swsh", "home", "sv"]
 }

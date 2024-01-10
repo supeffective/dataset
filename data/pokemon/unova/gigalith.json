@@ -38,12 +38,7 @@
   "canDynamax": true,
   "canBeAlpha": false,
   "debutIn": "bw",
-  "obtainableIn": [
-    "bw",
-    "b2w2",
-    "go",
-    "swsh"
-  ],
+  "obtainableIn": ["bw", "b2w2", "go", "swsh"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": [
@@ -85,14 +80,5 @@
     "bulbapedia": "Gigalith",
     "showdownName": "Gigalith"
   },
-  "registrableIn": [
-    "bw",
-    "b2w2",
-    "xy",
-    "go",
-    "sm",
-    "usum",
-    "swsh",
-    "home"
-  ]
+  "registrableIn": ["bw", "b2w2", "xy", "go", "sm", "usum", "swsh", "home"]
 }

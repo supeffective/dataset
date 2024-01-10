@@ -38,15 +38,7 @@
   "canDynamax": true,
   "canBeAlpha": false,
   "debutIn": "rb",
-  "obtainableIn": [
-    "rb",
-    "y",
-    "frlg",
-    "go",
-    "lgpe",
-    "bdsp",
-    "sv"
-  ],
+  "obtainableIn": ["rb", "y", "frlg", "go", "lgpe", "bdsp", "sv"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": [
@@ -88,9 +80,7 @@
   "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
-  "forms": [
-    "dodrio-f"
-  ],
+  "forms": ["dodrio-f"],
   "evolvesFrom": {
     "pokemon": "doduo",
     "level": 31

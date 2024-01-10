@@ -38,14 +38,7 @@
   "canDynamax": true,
   "canBeAlpha": true,
   "debutIn": "dp",
-  "obtainableIn": [
-    "dp",
-    "pt",
-    "go",
-    "swsh",
-    "bdsp",
-    "la"
-  ],
+  "obtainableIn": ["dp", "pt", "go", "swsh", "bdsp", "la"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": [
@@ -80,9 +73,7 @@
   "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
-  "forms": [
-    "tangrowth-f"
-  ],
+  "forms": ["tangrowth-f"],
   "evolvesFrom": {
     "pokemon": "tangela",
     "move": "ancientpower",
@@ -95,13 +86,5 @@
     "bulbapedia": "Tangrowth",
     "showdownName": "Tangrowth"
   },
-  "registrableIn": [
-    "pt",
-    "hgss",
-    "b2w2",
-    "go",
-    "swsh",
-    "home",
-    "la"
-  ]
+  "registrableIn": ["pt", "hgss", "b2w2", "go", "swsh", "home", "la"]
 }

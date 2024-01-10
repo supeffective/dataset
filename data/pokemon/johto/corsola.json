@@ -38,14 +38,7 @@
   "canDynamax": true,
   "canBeAlpha": false,
   "debutIn": "gs",
-  "obtainableIn": [
-    "gs",
-    "c",
-    "hgss",
-    "go",
-    "swsh",
-    "bdsp"
-  ],
+  "obtainableIn": ["gs", "c", "hgss", "go", "swsh", "bdsp"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": [
@@ -84,9 +77,7 @@
   "femaleRate": 75,
   "baseSpecies": null,
   "baseForms": [],
-  "forms": [
-    "corsola-galar"
-  ],
+  "forms": ["corsola-galar"],
   "evolvesFrom": null,
   "refs": {
     "smogon": "corsola",

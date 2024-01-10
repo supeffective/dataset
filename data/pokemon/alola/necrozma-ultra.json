@@ -29,10 +29,7 @@
   "isBattleOnlyForm": true,
   "isSwitchableForm": true,
   "isFusion": true,
-  "fusedWith": [
-    "solgaleo",
-    "lunala"
-  ],
+  "fusedWith": ["solgaleo", "lunala"],
   "isMega": false,
   "isPrimal": false,
   "isGmax": false,
@@ -41,9 +38,7 @@
   "canDynamax": false,
   "canBeAlpha": false,
   "debutIn": "usum",
-  "obtainableIn": [
-    "usum"
-  ],
+  "obtainableIn": ["usum"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": [],
@@ -62,10 +57,7 @@
   "maleRate": 0,
   "femaleRate": 0,
   "baseSpecies": "necrozma",
-  "baseForms": [
-    "necrozma-dusk-mane",
-    "necrozma-dawn-wings"
-  ],
+  "baseForms": ["necrozma-dusk-mane", "necrozma-dawn-wings"],
   "forms": [],
   "evolvesFrom": null,
   "refs": {
@@ -75,8 +67,5 @@
     "bulbapedia": "Necrozma",
     "showdownName": "Necrozma-Ultra"
   },
-  "registrableIn": [
-    "usum",
-    "home"
-  ]
+  "registrableIn": ["usum", "home"]
 }

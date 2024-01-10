@@ -38,16 +38,10 @@
   "canDynamax": false,
   "canBeAlpha": true,
   "debutIn": "la",
-  "obtainableIn": [
-    "la"
-  ],
+  "obtainableIn": ["la"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
-  "storableIn": [
-    "home",
-    "la",
-    "sv"
-  ],
+  "storableIn": ["home", "la", "sv"],
   "shinyReleased": true,
   "shinyBase": null,
   "baseStats": {
@@ -77,8 +71,5 @@
     "bulbapedia": "Wyrdeer",
     "showdownName": "Wyrdeer"
   },
-  "registrableIn": [
-    "home",
-    "la"
-  ]
+  "registrableIn": ["home", "la"]
 }

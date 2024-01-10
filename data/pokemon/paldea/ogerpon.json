@@ -38,15 +38,10 @@
   "canDynamax": false,
   "canBeAlpha": false,
   "debutIn": "sv",
-  "obtainableIn": [
-    "sv"
-  ],
+  "obtainableIn": ["sv"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
-  "storableIn": [
-    "home",
-    "sv"
-  ],
+  "storableIn": ["home", "sv"],
   "shinyReleased": false,
   "shinyBase": null,
   "baseStats": {
@@ -63,11 +58,7 @@
   "femaleRate": 100,
   "baseSpecies": null,
   "baseForms": [],
-  "forms": [
-    "ogerpon-wellspring",
-    "ogerpon-hearthflame",
-    "ogerpon-cornerstone"
-  ],
+  "forms": ["ogerpon-wellspring", "ogerpon-hearthflame", "ogerpon-cornerstone"],
   "evolvesFrom": null,
   "refs": {
     "smogon": "ogerpon",
@@ -76,8 +67,5 @@
     "bulbapedia": "Ogerpon",
     "showdownName": "Ogerpon"
   },
-  "registrableIn": [
-    "home",
-    "sv"
-  ]
+  "registrableIn": ["home", "sv"]
 }

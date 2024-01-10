@@ -38,14 +38,7 @@
   "canDynamax": true,
   "canBeAlpha": false,
   "debutIn": "rs",
-  "obtainableIn": [
-    "rs",
-    "e",
-    "oras",
-    "go",
-    "bdsp",
-    "sv"
-  ],
+  "obtainableIn": ["rs", "e", "oras", "go", "bdsp", "sv"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": [
@@ -91,15 +84,5 @@
     "bulbapedia": "Tropius",
     "showdownName": "Tropius"
   },
-  "registrableIn": [
-    "rs",
-    "e",
-    "pt",
-    "b2w2",
-    "oras",
-    "go",
-    "usum",
-    "home",
-    "sv"
-  ]
+  "registrableIn": ["rs", "e", "pt", "b2w2", "oras", "go", "usum", "home", "sv"]
 }

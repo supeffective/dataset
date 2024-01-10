@@ -38,9 +38,7 @@
   "canDynamax": false,
   "canBeAlpha": false,
   "debutIn": "swsh",
-  "obtainableIn": [
-    "swsh"
-  ],
+  "obtainableIn": ["swsh"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": [],
@@ -59,9 +57,7 @@
   "maleRate": 100,
   "femaleRate": 0,
   "baseSpecies": "grimmsnarl",
-  "baseForms": [
-    "grimmsnarl"
-  ],
+  "baseForms": ["grimmsnarl"],
   "forms": [],
   "evolvesFrom": null,
   "refs": {
@@ -71,8 +67,5 @@
     "bulbapedia": "Grimmsnarl",
     "showdownName": "Grimmsnarl-Gmax"
   },
-  "registrableIn": [
-    "swsh",
-    "home"
-  ]
+  "registrableIn": ["swsh", "home"]
 }

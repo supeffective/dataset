@@ -38,13 +38,7 @@
   "canDynamax": true,
   "canBeAlpha": true,
   "debutIn": "dp",
-  "obtainableIn": [
-    "hgss",
-    "go",
-    "bdsp",
-    "la",
-    "sv"
-  ],
+  "obtainableIn": ["hgss", "go", "bdsp", "la", "sv"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": [
@@ -91,12 +85,5 @@
     "bulbapedia": "Ursaring",
     "showdownName": "Ursaring"
   },
-  "registrableIn": [
-    "hgss",
-    "xy",
-    "go",
-    "home",
-    "la",
-    "sv"
-  ]
+  "registrableIn": ["hgss", "xy", "go", "home", "la", "sv"]
 }

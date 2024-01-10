@@ -38,20 +38,10 @@
   "canDynamax": true,
   "canBeAlpha": false,
   "debutIn": "xy",
-  "obtainableIn": [
-    "xy",
-    "go"
-  ],
+  "obtainableIn": ["xy", "go"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
-  "storableIn": [
-    "xy",
-    "oras",
-    "go",
-    "sm",
-    "usum",
-    "home"
-  ],
+  "storableIn": ["xy", "oras", "go", "sm", "usum", "home"],
   "shinyReleased": true,
   "shinyBase": null,
   "baseStats": {
@@ -87,10 +77,5 @@
     "bulbapedia": "Furfrou",
     "showdownName": "Furfrou"
   },
-  "registrableIn": [
-    "xy",
-    "go",
-    "usum",
-    "home"
-  ]
+  "registrableIn": ["xy", "go", "usum", "home"]
 }

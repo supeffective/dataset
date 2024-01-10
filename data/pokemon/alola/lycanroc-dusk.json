@@ -38,21 +38,10 @@
   "canDynamax": true,
   "canBeAlpha": false,
   "debutIn": "usum",
-  "obtainableIn": [
-    "go",
-    "usum",
-    "swsh",
-    "sv"
-  ],
+  "obtainableIn": ["go", "usum", "swsh", "sv"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
-  "storableIn": [
-    "go",
-    "usum",
-    "swsh",
-    "home",
-    "sv"
-  ],
+  "storableIn": ["go", "usum", "swsh", "home", "sv"],
   "shinyReleased": true,
   "shinyBase": null,
   "baseStats": {
@@ -82,11 +71,5 @@
     "bulbapedia": "Lycanroc",
     "showdownName": "Lycanroc-Dusk"
   },
-  "registrableIn": [
-    "go",
-    "usum",
-    "swsh",
-    "home",
-    "sv"
-  ]
+  "registrableIn": ["go", "usum", "swsh", "home", "sv"]
 }

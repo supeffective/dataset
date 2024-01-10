@@ -38,21 +38,9 @@
   "canDynamax": true,
   "canBeAlpha": false,
   "debutIn": "rb",
-  "obtainableIn": [
-    "bdsp"
-  ],
+  "obtainableIn": ["bdsp"],
   "versionExclusiveIn": [],
-  "eventOnlyIn": [
-    "rb",
-    "y",
-    "gs",
-    "c",
-    "e",
-    "xy",
-    "oras",
-    "go",
-    "lgpe"
-  ],
+  "eventOnlyIn": ["rb", "y", "gs", "c", "e", "xy", "oras", "go", "lgpe"],
   "storableIn": [
     "rb",
     "y",
@@ -102,15 +90,5 @@
     "bulbapedia": "Mew",
     "showdownName": "Mew"
   },
-  "registrableIn": [
-    "rb",
-    "y",
-    "gs",
-    "c",
-    "frlg",
-    "hgss",
-    "go",
-    "lgpe",
-    "home"
-  ]
+  "registrableIn": ["rb", "y", "gs", "c", "frlg", "hgss", "go", "lgpe", "home"]
 }

@@ -38,17 +38,10 @@
   "canDynamax": true,
   "canBeAlpha": false,
   "debutIn": "swsh",
-  "obtainableIn": [
-    "swsh",
-    "sv"
-  ],
+  "obtainableIn": ["swsh", "sv"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
-  "storableIn": [
-    "swsh",
-    "home",
-    "sv"
-  ],
+  "storableIn": ["swsh", "home", "sv"],
   "shinyReleased": true,
   "shinyBase": "alcremie",
   "baseStats": {
@@ -78,9 +71,5 @@
     "bulbapedia": "Alcremie",
     "showdownName": "Alcremie"
   },
-  "registrableIn": [
-    "swsh",
-    "home",
-    "sv"
-  ]
+  "registrableIn": ["swsh", "home", "sv"]
 }

@@ -38,9 +38,7 @@
   "canDynamax": false,
   "canBeAlpha": false,
   "debutIn": "swsh",
-  "obtainableIn": [
-    "swsh"
-  ],
+  "obtainableIn": ["swsh"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": [],
@@ -59,9 +57,7 @@
   "maleRate": 50,
   "femaleRate": 50,
   "baseSpecies": "duraludon",
-  "baseForms": [
-    "duraludon"
-  ],
+  "baseForms": ["duraludon"],
   "forms": [],
   "evolvesFrom": null,
   "refs": {
@@ -71,8 +67,5 @@
     "bulbapedia": "Duraludon",
     "showdownName": "Duraludon-Gmax"
   },
-  "registrableIn": [
-    "swsh",
-    "home"
-  ]
+  "registrableIn": ["swsh", "home"]
 }

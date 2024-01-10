@@ -38,19 +38,10 @@
   "canDynamax": true,
   "canBeAlpha": false,
   "debutIn": "sm",
-  "obtainableIn": [
-    "sm",
-    "usum",
-    "swsh"
-  ],
+  "obtainableIn": ["sm", "usum", "swsh"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
-  "storableIn": [
-    "sm",
-    "usum",
-    "swsh",
-    "home"
-  ],
+  "storableIn": ["sm", "usum", "swsh", "home"],
   "shinyReleased": true,
   "shinyBase": null,
   "baseStats": {
@@ -67,11 +58,7 @@
   "femaleRate": 0,
   "baseSpecies": null,
   "baseForms": [],
-  "forms": [
-    "necrozma-dusk-mane",
-    "necrozma-dawn-wings",
-    "necrozma-ultra"
-  ],
+  "forms": ["necrozma-dusk-mane", "necrozma-dawn-wings", "necrozma-ultra"],
   "evolvesFrom": null,
   "refs": {
     "smogon": "necrozma",
@@ -80,9 +67,5 @@
     "bulbapedia": "Necrozma",
     "showdownName": "Necrozma"
   },
-  "registrableIn": [
-    "sm",
-    "usum",
-    "home"
-  ]
+  "registrableIn": ["sm", "usum", "home"]
 }

@@ -38,13 +38,7 @@
   "canDynamax": true,
   "canBeAlpha": true,
   "debutIn": "bw",
-  "obtainableIn": [
-    "bw",
-    "b2w2",
-    "go",
-    "la",
-    "sv"
-  ],
+  "obtainableIn": ["bw", "b2w2", "go", "la", "sv"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": [
@@ -87,12 +81,5 @@
     "bulbapedia": "Dewott",
     "showdownName": "Dewott"
   },
-  "registrableIn": [
-    "bw",
-    "b2w2",
-    "go",
-    "home",
-    "la",
-    "sv"
-  ]
+  "registrableIn": ["bw", "b2w2", "go", "home", "la", "sv"]
 }

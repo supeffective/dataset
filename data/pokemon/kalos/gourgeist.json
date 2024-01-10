@@ -38,22 +38,10 @@
   "canDynamax": true,
   "canBeAlpha": false,
   "debutIn": "xy",
-  "obtainableIn": [
-    "xy",
-    "go",
-    "swsh"
-  ],
+  "obtainableIn": ["xy", "go", "swsh"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
-  "storableIn": [
-    "xy",
-    "oras",
-    "go",
-    "sm",
-    "usum",
-    "swsh",
-    "home"
-  ],
+  "storableIn": ["xy", "oras", "go", "sm", "usum", "swsh", "home"],
   "shinyReleased": true,
   "shinyBase": null,
   "baseStats": {
@@ -70,11 +58,7 @@
   "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
-  "forms": [
-    "gourgeist-small",
-    "gourgeist-large",
-    "gourgeist-super"
-  ],
+  "forms": ["gourgeist-small", "gourgeist-large", "gourgeist-super"],
   "evolvesFrom": {
     "pokemon": "pumpkaboo",
     "type": "trade"
@@ -86,10 +70,5 @@
     "bulbapedia": "Gourgeist",
     "showdownName": "Gourgeist"
   },
-  "registrableIn": [
-    "xy",
-    "go",
-    "swsh",
-    "home"
-  ]
+  "registrableIn": ["xy", "go", "swsh", "home"]
 }

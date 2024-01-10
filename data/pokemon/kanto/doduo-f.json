@@ -38,11 +38,7 @@
   "canDynamax": true,
   "canBeAlpha": false,
   "debutIn": "dp",
-  "obtainableIn": [
-    "go",
-    "lgpe",
-    "bdsp"
-  ],
+  "obtainableIn": ["go", "lgpe", "bdsp"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": [
@@ -85,12 +81,5 @@
     "bulbapedia": "Doduo",
     "showdownName": "Doduo"
   },
-  "registrableIn": [
-    "hgss",
-    "xy",
-    "oras",
-    "go",
-    "lgpe",
-    "home"
-  ]
+  "registrableIn": ["hgss", "xy", "oras", "go", "lgpe", "home"]
 }

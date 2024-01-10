@@ -38,14 +38,9 @@
   "canDynamax": true,
   "canBeAlpha": false,
   "debutIn": "pt",
-  "obtainableIn": [
-    "la"
-  ],
+  "obtainableIn": ["la"],
   "versionExclusiveIn": [],
-  "eventOnlyIn": [
-    "go",
-    "bdsp"
-  ],
+  "eventOnlyIn": ["go", "bdsp"],
   "storableIn": [
     "pt",
     "hgss",
@@ -75,9 +70,7 @@
   "maleRate": 0,
   "femaleRate": 0,
   "baseSpecies": "shaymin",
-  "baseForms": [
-    "shaymin"
-  ],
+  "baseForms": ["shaymin"],
   "forms": [],
   "evolvesFrom": null,
   "refs": {
@@ -87,9 +80,5 @@
     "bulbapedia": "Shaymin",
     "showdownName": "Shaymin-Sky"
   },
-  "registrableIn": [
-    "go",
-    "home",
-    "la"
-  ]
+  "registrableIn": ["go", "home", "la"]
 }

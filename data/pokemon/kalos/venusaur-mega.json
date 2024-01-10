@@ -38,19 +38,10 @@
   "canDynamax": false,
   "canBeAlpha": false,
   "debutIn": "xy",
-  "obtainableIn": [
-    "xy",
-    "oras",
-    "go",
-    "sm",
-    "usum",
-    "lgpe"
-  ],
+  "obtainableIn": ["xy", "oras", "go", "sm", "usum", "lgpe"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
-  "storableIn": [
-    "go"
-  ],
+  "storableIn": ["go"],
   "shinyReleased": true,
   "shinyBase": null,
   "baseStats": {
@@ -66,10 +57,7 @@
   "maleRate": 87.5,
   "femaleRate": 12.5,
   "baseSpecies": "venusaur",
-  "baseForms": [
-    "venusaur",
-    "venusaur-f"
-  ],
+  "baseForms": ["venusaur", "venusaur-f"],
   "forms": [],
   "evolvesFrom": null,
   "refs": {
@@ -79,10 +67,5 @@
     "bulbapedia": "Venusaur",
     "showdownName": "Venusaur-Mega"
   },
-  "registrableIn": [
-    "xy",
-    "go",
-    "lgpe",
-    "home"
-  ]
+  "registrableIn": ["xy", "go", "lgpe", "home"]
 }

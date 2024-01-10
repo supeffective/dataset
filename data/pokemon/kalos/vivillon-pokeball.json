@@ -40,17 +40,8 @@
   "debutIn": "xy",
   "obtainableIn": [],
   "versionExclusiveIn": [],
-  "eventOnlyIn": [
-    "xy"
-  ],
-  "storableIn": [
-    "xy",
-    "oras",
-    "sm",
-    "usum",
-    "home",
-    "sv"
-  ],
+  "eventOnlyIn": ["xy"],
+  "storableIn": ["xy", "oras", "sm", "usum", "home", "sv"],
   "shinyReleased": false,
   "shinyBase": null,
   "baseStats": {
@@ -76,9 +67,5 @@
     "bulbapedia": "Vivillon",
     "showdownName": "Vivillon-Pokeball"
   },
-  "registrableIn": [
-    "xy",
-    "home",
-    "sv"
-  ]
+  "registrableIn": ["xy", "home", "sv"]
 }

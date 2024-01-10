@@ -38,21 +38,10 @@
   "canDynamax": true,
   "canBeAlpha": false,
   "debutIn": "sm",
-  "obtainableIn": [
-    "go",
-    "sm",
-    "usum",
-    "lgpe"
-  ],
+  "obtainableIn": ["go", "sm", "usum", "lgpe"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
-  "storableIn": [
-    "go",
-    "sm",
-    "usum",
-    "lgpe",
-    "home"
-  ],
+  "storableIn": ["go", "sm", "usum", "lgpe", "home"],
   "shinyReleased": true,
   "shinyBase": null,
   "baseStats": {
@@ -78,11 +67,5 @@
     "bulbapedia": "Rattata",
     "showdownName": "Rattata-Alola"
   },
-  "registrableIn": [
-    "go",
-    "sm",
-    "usum",
-    "lgpe",
-    "home"
-  ]
+  "registrableIn": ["go", "sm", "usum", "lgpe", "home"]
 }

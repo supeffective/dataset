@@ -38,13 +38,7 @@
   "canDynamax": true,
   "canBeAlpha": false,
   "debutIn": "rs",
-  "obtainableIn": [
-    "rs",
-    "e",
-    "oras",
-    "go",
-    "bdsp"
-  ],
+  "obtainableIn": ["rs", "e", "oras", "go", "bdsp"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": [
@@ -89,14 +83,5 @@
     "bulbapedia": "Spinda",
     "showdownName": "Spinda"
   },
-  "registrableIn": [
-    "rs",
-    "e",
-    "xy",
-    "oras",
-    "go",
-    "sm",
-    "usum",
-    "home"
-  ]
+  "registrableIn": ["rs", "e", "xy", "oras", "go", "sm", "usum", "home"]
 }

@@ -38,14 +38,7 @@
   "canDynamax": true,
   "canBeAlpha": false,
   "debutIn": "gs",
-  "obtainableIn": [
-    "gs",
-    "c",
-    "hgss",
-    "go",
-    "bdsp",
-    "sv"
-  ],
+  "obtainableIn": ["gs", "c", "hgss", "go", "bdsp", "sv"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": [
@@ -93,13 +86,5 @@
     "bulbapedia": "Pineco",
     "showdownName": "Pineco"
   },
-  "registrableIn": [
-    "gs",
-    "c",
-    "hgss",
-    "go",
-    "usum",
-    "home",
-    "sv"
-  ]
+  "registrableIn": ["gs", "c", "hgss", "go", "usum", "home", "sv"]
 }

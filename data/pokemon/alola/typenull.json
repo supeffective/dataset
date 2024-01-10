@@ -38,19 +38,10 @@
   "canDynamax": true,
   "canBeAlpha": false,
   "debutIn": "sm",
-  "obtainableIn": [
-    "sm",
-    "usum",
-    "swsh"
-  ],
+  "obtainableIn": ["sm", "usum", "swsh"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
-  "storableIn": [
-    "sm",
-    "usum",
-    "swsh",
-    "home"
-  ],
+  "storableIn": ["sm", "usum", "swsh", "home"],
   "shinyReleased": true,
   "shinyBase": null,
   "baseStats": {
@@ -76,10 +67,5 @@
     "bulbapedia": "Type: Null",
     "showdownName": "Type: Null"
   },
-  "registrableIn": [
-    "sm",
-    "usum",
-    "swsh",
-    "home"
-  ]
+  "registrableIn": ["sm", "usum", "swsh", "home"]
 }

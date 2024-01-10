@@ -38,25 +38,10 @@
   "canDynamax": true,
   "canBeAlpha": false,
   "debutIn": "bw",
-  "obtainableIn": [
-    "bw",
-    "b2w2",
-    "go",
-    "sv"
-  ],
+  "obtainableIn": ["bw", "b2w2", "go", "sv"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
-  "storableIn": [
-    "bw",
-    "b2w2",
-    "xy",
-    "oras",
-    "go",
-    "sm",
-    "usum",
-    "home",
-    "sv"
-  ],
+  "storableIn": ["bw", "b2w2", "xy", "oras", "go", "sm", "usum", "home", "sv"],
   "shinyReleased": true,
   "shinyBase": null,
   "baseStats": {
@@ -82,12 +67,5 @@
     "bulbapedia": "Ducklett",
     "showdownName": "Ducklett"
   },
-  "registrableIn": [
-    "bw",
-    "b2w2",
-    "xy",
-    "go",
-    "home",
-    "sv"
-  ]
+  "registrableIn": ["bw", "b2w2", "xy", "go", "home", "sv"]
 }

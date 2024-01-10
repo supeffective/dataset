@@ -40,16 +40,8 @@
   "debutIn": "sm",
   "obtainableIn": [],
   "versionExclusiveIn": [],
-  "eventOnlyIn": [
-    "sm",
-    "usum"
-  ],
-  "storableIn": [
-    "sm",
-    "usum",
-    "swsh",
-    "home"
-  ],
+  "eventOnlyIn": ["sm", "usum"],
+  "storableIn": ["sm", "usum", "swsh", "home"],
   "shinyReleased": false,
   "shinyBase": null,
   "baseStats": {
@@ -75,9 +67,5 @@
     "bulbapedia": "Marshadow",
     "showdownName": "Marshadow"
   },
-  "registrableIn": [
-    "sm",
-    "usum",
-    "home"
-  ]
+  "registrableIn": ["sm", "usum", "home"]
 }

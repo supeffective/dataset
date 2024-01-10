@@ -38,15 +38,7 @@
   "canDynamax": true,
   "canBeAlpha": false,
   "debutIn": "rb",
-  "obtainableIn": [
-    "rb",
-    "y",
-    "frlg",
-    "go",
-    "lgpe",
-    "bdsp",
-    "sv"
-  ],
+  "obtainableIn": ["rb", "y", "frlg", "go", "lgpe", "bdsp", "sv"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": [

@@ -38,13 +38,7 @@
   "canDynamax": true,
   "canBeAlpha": true,
   "debutIn": "dp",
-  "obtainableIn": [
-    "dp",
-    "pt",
-    "go",
-    "bdsp",
-    "la"
-  ],
+  "obtainableIn": ["dp", "pt", "go", "bdsp", "la"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": [
@@ -90,12 +84,5 @@
     "bulbapedia": "Purugly",
     "showdownName": "Purugly"
   },
-  "registrableIn": [
-    "dp",
-    "pt",
-    "go",
-    "home",
-    "bdsp",
-    "la"
-  ]
+  "registrableIn": ["dp", "pt", "go", "home", "bdsp", "la"]
 }

@@ -38,19 +38,10 @@
   "canDynamax": false,
   "canBeAlpha": true,
   "debutIn": "la",
-  "obtainableIn": [
-    "go",
-    "la",
-    "sv"
-  ],
+  "obtainableIn": ["go", "la", "sv"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
-  "storableIn": [
-    "go",
-    "home",
-    "la",
-    "sv"
-  ],
+  "storableIn": ["go", "home", "la", "sv"],
   "shinyReleased": true,
   "shinyBase": null,
   "baseStats": {
@@ -76,10 +67,5 @@
     "bulbapedia": "Qwilfish",
     "showdownName": "Qwilfish-Hisui"
   },
-  "registrableIn": [
-    "go",
-    "home",
-    "la",
-    "sv"
-  ]
+  "registrableIn": ["go", "home", "la", "sv"]
 }

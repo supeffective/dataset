@@ -38,24 +38,10 @@
   "canDynamax": true,
   "canBeAlpha": false,
   "debutIn": "sm",
-  "obtainableIn": [
-    "go",
-    "sm",
-    "usum",
-    "lgpe",
-    "swsh"
-  ],
+  "obtainableIn": ["go", "sm", "usum", "lgpe", "swsh"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
-  "storableIn": [
-    "go",
-    "sm",
-    "usum",
-    "lgpe",
-    "swsh",
-    "home",
-    "sv"
-  ],
+  "storableIn": ["go", "sm", "usum", "lgpe", "swsh", "home", "sv"],
   "shinyReleased": true,
   "shinyBase": null,
   "baseStats": {
@@ -86,13 +72,5 @@
     "bulbapedia": "Raichu",
     "showdownName": "Raichu-Alola"
   },
-  "registrableIn": [
-    "go",
-    "sm",
-    "usum",
-    "lgpe",
-    "swsh",
-    "home",
-    "sv"
-  ]
+  "registrableIn": ["go", "sm", "usum", "lgpe", "swsh", "home", "sv"]
 }

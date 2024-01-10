@@ -38,17 +38,10 @@
   "canDynamax": false,
   "canBeAlpha": true,
   "debutIn": "la",
-  "obtainableIn": [
-    "la",
-    "sv"
-  ],
+  "obtainableIn": ["la", "sv"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
-  "storableIn": [
-    "home",
-    "la",
-    "sv"
-  ],
+  "storableIn": ["home", "la", "sv"],
   "shinyReleased": true,
   "shinyBase": null,
   "baseStats": {
@@ -78,9 +71,5 @@
     "bulbapedia": "Basculegion",
     "showdownName": "Basculegion-F"
   },
-  "registrableIn": [
-    "home",
-    "la",
-    "sv"
-  ]
+  "registrableIn": ["home", "la", "sv"]
 }

@@ -38,12 +38,7 @@
   "canDynamax": true,
   "canBeAlpha": false,
   "debutIn": "dp",
-  "obtainableIn": [
-    "hgss",
-    "go",
-    "swsh",
-    "bdsp"
-  ],
+  "obtainableIn": ["hgss", "go", "swsh", "bdsp"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": [
@@ -89,12 +84,5 @@
     "bulbapedia": "Xatu",
     "showdownName": "Xatu"
   },
-  "registrableIn": [
-    "hgss",
-    "oras",
-    "go",
-    "usum",
-    "swsh",
-    "home"
-  ]
+  "registrableIn": ["hgss", "oras", "go", "usum", "swsh", "home"]
 }

@@ -38,25 +38,10 @@
   "canDynamax": true,
   "canBeAlpha": false,
   "debutIn": "sm",
-  "obtainableIn": [
-    "go",
-    "sm",
-    "usum",
-    "lgpe",
-    "swsh",
-    "sv"
-  ],
+  "obtainableIn": ["go", "sm", "usum", "lgpe", "swsh", "sv"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
-  "storableIn": [
-    "go",
-    "sm",
-    "usum",
-    "lgpe",
-    "swsh",
-    "home",
-    "sv"
-  ],
+  "storableIn": ["go", "sm", "usum", "lgpe", "swsh", "home", "sv"],
   "shinyReleased": true,
   "shinyBase": null,
   "baseStats": {
@@ -86,13 +71,5 @@
     "bulbapedia": "Sandslash",
     "showdownName": "Sandslash-Alola"
   },
-  "registrableIn": [
-    "go",
-    "sm",
-    "usum",
-    "lgpe",
-    "swsh",
-    "home",
-    "sv"
-  ]
+  "registrableIn": ["go", "sm", "usum", "lgpe", "swsh", "home", "sv"]
 }

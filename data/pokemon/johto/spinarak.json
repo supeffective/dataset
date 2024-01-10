@@ -38,14 +38,7 @@
   "canDynamax": true,
   "canBeAlpha": false,
   "debutIn": "gs",
-  "obtainableIn": [
-    "gs",
-    "c",
-    "hgss",
-    "go",
-    "bdsp",
-    "sv"
-  ],
+  "obtainableIn": ["gs", "c", "hgss", "go", "bdsp", "sv"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": [
@@ -93,15 +86,5 @@
     "bulbapedia": "Spinarak",
     "showdownName": "Spinarak"
   },
-  "registrableIn": [
-    "gs",
-    "c",
-    "hgss",
-    "xy",
-    "go",
-    "sm",
-    "usum",
-    "home",
-    "sv"
-  ]
+  "registrableIn": ["gs", "c", "hgss", "xy", "go", "sm", "usum", "home", "sv"]
 }

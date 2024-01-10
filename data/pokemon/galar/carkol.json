@@ -38,17 +38,10 @@
   "canDynamax": true,
   "canBeAlpha": false,
   "debutIn": "swsh",
-  "obtainableIn": [
-    "swsh",
-    "sv"
-  ],
+  "obtainableIn": ["swsh", "sv"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
-  "storableIn": [
-    "swsh",
-    "home",
-    "sv"
-  ],
+  "storableIn": ["swsh", "home", "sv"],
   "shinyReleased": true,
   "shinyBase": null,
   "baseStats": {
@@ -77,9 +70,5 @@
     "bulbapedia": "Carkol",
     "showdownName": "Carkol"
   },
-  "registrableIn": [
-    "swsh",
-    "home",
-    "sv"
-  ]
+  "registrableIn": ["swsh", "home", "sv"]
 }

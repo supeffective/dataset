@@ -38,15 +38,10 @@
   "canDynamax": false,
   "canBeAlpha": false,
   "debutIn": "sv",
-  "obtainableIn": [
-    "sv"
-  ],
+  "obtainableIn": ["sv"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
-  "storableIn": [
-    "home",
-    "sv"
-  ],
+  "storableIn": ["home", "sv"],
   "shinyReleased": true,
   "shinyBase": null,
   "baseStats": {
@@ -63,10 +58,7 @@
   "femaleRate": 0,
   "baseSpecies": "tauros",
   "baseForms": [],
-  "forms": [
-    "tauros-paldea-fire",
-    "tauros-paldea-water"
-  ],
+  "forms": ["tauros-paldea-fire", "tauros-paldea-water"],
   "evolvesFrom": null,
   "refs": {
     "smogon": "tauros-paldea",
@@ -75,8 +67,5 @@
     "bulbapedia": "Tauros_Paldea",
     "showdownName": "Tauros-Paldea-Combat"
   },
-  "registrableIn": [
-    "home",
-    "sv"
-  ]
+  "registrableIn": ["home", "sv"]
 }

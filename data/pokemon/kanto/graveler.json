@@ -38,16 +38,7 @@
   "canDynamax": true,
   "canBeAlpha": true,
   "debutIn": "rb",
-  "obtainableIn": [
-    "rb",
-    "y",
-    "frlg",
-    "go",
-    "lgpe",
-    "bdsp",
-    "la",
-    "sv"
-  ],
+  "obtainableIn": ["rb", "y", "frlg", "go", "lgpe", "bdsp", "la", "sv"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": [
@@ -90,9 +81,7 @@
   "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
-  "forms": [
-    "graveler-alola"
-  ],
+  "forms": ["graveler-alola"],
   "evolvesFrom": {
     "pokemon": "geodude",
     "level": 25

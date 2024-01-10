@@ -40,22 +40,8 @@
   "debutIn": "bw",
   "obtainableIn": [],
   "versionExclusiveIn": [],
-  "eventOnlyIn": [
-    "bw",
-    "oras",
-    "go"
-  ],
-  "storableIn": [
-    "bw",
-    "b2w2",
-    "xy",
-    "oras",
-    "go",
-    "sm",
-    "usum",
-    "home",
-    "sv"
-  ],
+  "eventOnlyIn": ["bw", "oras", "go"],
+  "storableIn": ["bw", "b2w2", "xy", "oras", "go", "sm", "usum", "home", "sv"],
   "shinyReleased": false,
   "shinyBase": null,
   "baseStats": {
@@ -72,9 +58,7 @@
   "femaleRate": 0,
   "baseSpecies": null,
   "baseForms": [],
-  "forms": [
-    "meloetta-pirouette"
-  ],
+  "forms": ["meloetta-pirouette"],
   "evolvesFrom": null,
   "refs": {
     "smogon": "meloetta",
@@ -83,10 +67,5 @@
     "bulbapedia": "Meloetta",
     "showdownName": "Meloetta"
   },
-  "registrableIn": [
-    "bw",
-    "b2w2",
-    "go",
-    "home"
-  ]
+  "registrableIn": ["bw", "b2w2", "go", "home"]
 }

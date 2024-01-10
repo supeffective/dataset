@@ -38,14 +38,10 @@
   "canDynamax": false,
   "canBeAlpha": false,
   "debutIn": "swsh",
-  "obtainableIn": [
-    "swsh"
-  ],
+  "obtainableIn": ["swsh"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
-  "storableIn": [
-    "sv"
-  ],
+  "storableIn": ["sv"],
   "shinyReleased": true,
   "shinyBase": null,
   "baseStats": {
@@ -61,9 +57,7 @@
   "maleRate": 0,
   "femaleRate": 0,
   "baseSpecies": "zamazenta",
-  "baseForms": [
-    "zamazenta"
-  ],
+  "baseForms": ["zamazenta"],
   "forms": [],
   "evolvesFrom": null,
   "refs": {
@@ -73,8 +67,5 @@
     "bulbapedia": "Zamazenta",
     "showdownName": "Zamazenta-Crowned"
   },
-  "registrableIn": [
-    "swsh",
-    "home"
-  ]
+  "registrableIn": ["swsh", "home"]
 }

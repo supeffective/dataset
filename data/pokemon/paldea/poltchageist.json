@@ -46,15 +46,10 @@
   "canDynamax": false,
   "canBeAlpha": false,
   "debutIn": "sv",
-  "obtainableIn": [
-    "sv"
-  ],
+  "obtainableIn": ["sv"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
-  "storableIn": [
-    "home",
-    "sv"
-  ],
+  "storableIn": ["home", "sv"],
   "shinyReleased": true,
   "shinyBase": null,
   "baseStats": {
@@ -83,8 +78,5 @@
     "bulbapedia": "Poltchageist",
     "showdownName": "Poltchageist"
   },
-  "registrableIn": [
-    "home",
-    "sv"
-  ]
+  "registrableIn": ["home", "sv"]
 }

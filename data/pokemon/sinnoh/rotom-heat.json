@@ -38,14 +38,7 @@
   "canDynamax": true,
   "canBeAlpha": true,
   "debutIn": "pt",
-  "obtainableIn": [
-    "pt",
-    "go",
-    "swsh",
-    "bdsp",
-    "la",
-    "sv"
-  ],
+  "obtainableIn": ["pt", "go", "swsh", "bdsp", "la", "sv"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": [
@@ -79,9 +72,7 @@
   "maleRate": 0,
   "femaleRate": 0,
   "baseSpecies": "rotom",
-  "baseForms": [
-    "rotom"
-  ],
+  "baseForms": ["rotom"],
   "forms": [],
   "evolvesFrom": null,
   "refs": {
@@ -91,13 +82,5 @@
     "bulbapedia": "Rotom",
     "showdownName": "Rotom-Heat"
   },
-  "registrableIn": [
-    "pt",
-    "xy",
-    "go",
-    "swsh",
-    "home",
-    "la",
-    "sv"
-  ]
+  "registrableIn": ["pt", "xy", "go", "swsh", "home", "la", "sv"]
 }

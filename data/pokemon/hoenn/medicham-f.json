@@ -38,12 +38,7 @@
   "canDynamax": true,
   "canBeAlpha": false,
   "debutIn": "dp",
-  "obtainableIn": [
-    "oras",
-    "go",
-    "bdsp",
-    "sv"
-  ],
+  "obtainableIn": ["oras", "go", "bdsp", "sv"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": [
@@ -89,14 +84,5 @@
     "bulbapedia": "Medicham",
     "showdownName": "Medicham"
   },
-  "registrableIn": [
-    "dp",
-    "pt",
-    "xy",
-    "oras",
-    "go",
-    "home",
-    "bdsp",
-    "sv"
-  ]
+  "registrableIn": ["dp", "pt", "xy", "oras", "go", "home", "bdsp", "sv"]
 }

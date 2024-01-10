@@ -40,17 +40,10 @@
   "canDynamax": true,
   "canBeAlpha": false,
   "debutIn": "sm",
-  "obtainableIn": [
-    "go",
-    "sm",
-    "usum",
-    "swsh"
-  ],
+  "obtainableIn": ["go", "sm", "usum", "swsh"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
-  "storableIn": [
-    "go"
-  ],
+  "storableIn": ["go"],
   "shinyReleased": true,
   "shinyBase": null,
   "baseStats": {
@@ -66,10 +59,7 @@
   "maleRate": 0,
   "femaleRate": 0,
   "baseSpecies": "zygarde",
-  "baseForms": [
-    "zygarde--power-construct",
-    "zygarde-10--power-construct"
-  ],
+  "baseForms": ["zygarde--power-construct", "zygarde-10--power-construct"],
   "forms": [],
   "family": null,
   "evolvesFrom": {
@@ -82,10 +72,5 @@
     "bulbapedia": "Zygarde",
     "showdownName": "Zygarde-Complete"
   },
-  "registrableIn": [
-    "go",
-    "sm",
-    "usum",
-    "home"
-  ]
+  "registrableIn": ["go", "sm", "usum", "home"]
 }

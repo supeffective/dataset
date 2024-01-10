@@ -38,16 +38,7 @@
   "canDynamax": true,
   "canBeAlpha": true,
   "debutIn": "rs",
-  "obtainableIn": [
-    "rs",
-    "e",
-    "oras",
-    "go",
-    "swsh",
-    "bdsp",
-    "la",
-    "sv"
-  ],
+  "obtainableIn": ["rs", "e", "oras", "go", "swsh", "bdsp", "la", "sv"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": [
@@ -98,15 +89,5 @@
     "bulbapedia": "Dusclops",
     "showdownName": "Dusclops"
   },
-  "registrableIn": [
-    "rs",
-    "e",
-    "pt",
-    "oras",
-    "go",
-    "swsh",
-    "home",
-    "la",
-    "sv"
-  ]
+  "registrableIn": ["rs", "e", "pt", "oras", "go", "swsh", "home", "la", "sv"]
 }

@@ -38,21 +38,10 @@
   "canDynamax": true,
   "canBeAlpha": false,
   "debutIn": "sm",
-  "obtainableIn": [
-    "go",
-    "sm",
-    "usum",
-    "swsh"
-  ],
+  "obtainableIn": ["go", "sm", "usum", "swsh"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
-  "storableIn": [
-    "go",
-    "sm",
-    "usum",
-    "swsh",
-    "home"
-  ],
+  "storableIn": ["go", "sm", "usum", "swsh", "home"],
   "shinyReleased": true,
   "shinyBase": null,
   "baseStats": {
@@ -69,9 +58,7 @@
   "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
-  "forms": [
-    "wishiwashi-school"
-  ],
+  "forms": ["wishiwashi-school"],
   "evolvesFrom": null,
   "refs": {
     "smogon": "wishiwashi",
@@ -80,11 +67,5 @@
     "bulbapedia": "Wishiwashi",
     "showdownName": "Wishiwashi"
   },
-  "registrableIn": [
-    "go",
-    "sm",
-    "usum",
-    "swsh",
-    "home"
-  ]
+  "registrableIn": ["go", "sm", "usum", "swsh", "home"]
 }

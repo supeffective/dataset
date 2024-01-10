@@ -38,15 +38,7 @@
   "canDynamax": true,
   "canBeAlpha": true,
   "debutIn": "gs",
-  "obtainableIn": [
-    "gs",
-    "c",
-    "hgss",
-    "go",
-    "swsh",
-    "bdsp",
-    "la"
-  ],
+  "obtainableIn": ["gs", "c", "hgss", "go", "swsh", "bdsp", "la"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": [
@@ -98,14 +90,5 @@
     "bulbapedia": "Togetic",
     "showdownName": "Togetic"
   },
-  "registrableIn": [
-    "gs",
-    "c",
-    "pt",
-    "hgss",
-    "go",
-    "swsh",
-    "home",
-    "la"
-  ]
+  "registrableIn": ["gs", "c", "pt", "hgss", "go", "swsh", "home", "la"]
 }

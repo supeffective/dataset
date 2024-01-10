@@ -38,11 +38,7 @@
   "canDynamax": true,
   "canBeAlpha": false,
   "debutIn": "bw",
-  "obtainableIn": [
-    "bw",
-    "b2w2",
-    "swsh"
-  ],
+  "obtainableIn": ["bw", "b2w2", "swsh"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": [],
@@ -61,9 +57,7 @@
   "maleRate": 50,
   "femaleRate": 50,
   "baseSpecies": "darmanitan",
-  "baseForms": [
-    "darmanitan"
-  ],
+  "baseForms": ["darmanitan"],
   "forms": [],
   "evolvesFrom": null,
   "refs": {
@@ -73,10 +67,5 @@
     "bulbapedia": "Darmanitan",
     "showdownName": "Darmanitan-Zen"
   },
-  "registrableIn": [
-    "bw",
-    "b2w2",
-    "swsh",
-    "home"
-  ]
+  "registrableIn": ["bw", "b2w2", "swsh", "home"]
 }

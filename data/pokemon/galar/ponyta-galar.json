@@ -38,17 +38,10 @@
   "canDynamax": true,
   "canBeAlpha": false,
   "debutIn": "swsh",
-  "obtainableIn": [
-    "go",
-    "swsh"
-  ],
+  "obtainableIn": ["go", "swsh"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
-  "storableIn": [
-    "go",
-    "swsh",
-    "home"
-  ],
+  "storableIn": ["go", "swsh", "home"],
   "shinyReleased": true,
   "shinyBase": null,
   "baseStats": {
@@ -74,9 +67,5 @@
     "bulbapedia": "Ponyta",
     "showdownName": "Ponyta-Galar"
   },
-  "registrableIn": [
-    "go",
-    "swsh",
-    "home"
-  ]
+  "registrableIn": ["go", "swsh", "home"]
 }

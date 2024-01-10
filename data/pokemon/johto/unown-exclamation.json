@@ -38,13 +38,7 @@
   "canDynamax": true,
   "canBeAlpha": true,
   "debutIn": "frlg",
-  "obtainableIn": [
-    "frlg",
-    "hgss",
-    "go",
-    "bdsp",
-    "la"
-  ],
+  "obtainableIn": ["frlg", "hgss", "go", "bdsp", "la"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": [
@@ -90,13 +84,5 @@
     "bulbapedia": "Unown",
     "showdownName": "Unown"
   },
-  "registrableIn": [
-    "dp",
-    "pt",
-    "hgss",
-    "go",
-    "home",
-    "bdsp",
-    "la"
-  ]
+  "registrableIn": ["dp", "pt", "hgss", "go", "home", "bdsp", "la"]
 }

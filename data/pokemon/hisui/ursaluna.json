@@ -38,19 +38,10 @@
   "canDynamax": false,
   "canBeAlpha": true,
   "debutIn": "la",
-  "obtainableIn": [
-    "go",
-    "la",
-    "sv"
-  ],
+  "obtainableIn": ["go", "la", "sv"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
-  "storableIn": [
-    "go",
-    "home",
-    "la",
-    "sv"
-  ],
+  "storableIn": ["go", "home", "la", "sv"],
   "shinyReleased": true,
   "shinyBase": null,
   "baseStats": {
@@ -67,9 +58,7 @@
   "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
-  "forms": [
-    "ursaluna-bloodmoon"
-  ],
+  "forms": ["ursaluna-bloodmoon"],
   "evolvesFrom": {
     "pokemon": "ursaring",
     "type": "other",
@@ -82,10 +71,5 @@
     "bulbapedia": "Ursaluna",
     "showdownName": "Ursaluna"
   },
-  "registrableIn": [
-    "go",
-    "home",
-    "la",
-    "sv"
-  ]
+  "registrableIn": ["go", "home", "la", "sv"]
 }

@@ -23,9 +23,7 @@
   "isUltraBeast": false,
   "ultraBeastCode": null,
   "isParadox": true,
-  "paradoxSpecies": [
-    "terrakion"
-  ],
+  "paradoxSpecies": ["terrakion"],
   "convergentSpecies": null,
   "isSpecialAbilityForm": false,
   "isCosmeticForm": false,
@@ -43,15 +41,10 @@
   "canDynamax": false,
   "canBeAlpha": false,
   "debutIn": "sv",
-  "obtainableIn": [
-    "sv"
-  ],
+  "obtainableIn": ["sv"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
-  "storableIn": [
-    "home",
-    "sv"
-  ],
+  "storableIn": ["home", "sv"],
   "shinyReleased": false,
   "shinyBase": null,
   "baseStats": {
@@ -77,8 +70,5 @@
     "bulbapedia": "Iron Boulder",
     "showdownName": "Iron Boulder"
   },
-  "registrableIn": [
-    "home",
-    "sv"
-  ]
+  "registrableIn": ["home", "sv"]
 }

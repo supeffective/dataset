@@ -38,15 +38,10 @@
   "canDynamax": false,
   "canBeAlpha": false,
   "debutIn": "xy",
-  "obtainableIn": [
-    "xy",
-    "go"
-  ],
+  "obtainableIn": ["xy", "go"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
-  "storableIn": [
-    "go"
-  ],
+  "storableIn": ["go"],
   "shinyReleased": true,
   "shinyBase": null,
   "baseStats": {
@@ -62,9 +57,7 @@
   "maleRate": 87.5,
   "femaleRate": 12.5,
   "baseSpecies": "charizard",
-  "baseForms": [
-    "charizard"
-  ],
+  "baseForms": ["charizard"],
   "forms": [],
   "evolvesFrom": null,
   "refs": {
@@ -74,9 +67,5 @@
     "bulbapedia": "Charizard",
     "showdownName": "Charizard-Mega-X"
   },
-  "registrableIn": [
-    "xy",
-    "go",
-    "home"
-  ]
+  "registrableIn": ["xy", "go", "home"]
 }

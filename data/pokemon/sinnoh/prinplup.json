@@ -38,14 +38,7 @@
   "canDynamax": true,
   "canBeAlpha": true,
   "debutIn": "dp",
-  "obtainableIn": [
-    "dp",
-    "pt",
-    "go",
-    "bdsp",
-    "la",
-    "sv"
-  ],
+  "obtainableIn": ["dp", "pt", "go", "bdsp", "la", "sv"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": [
@@ -92,13 +85,5 @@
     "bulbapedia": "Prinplup",
     "showdownName": "Prinplup"
   },
-  "registrableIn": [
-    "dp",
-    "pt",
-    "go",
-    "home",
-    "bdsp",
-    "la",
-    "sv"
-  ]
+  "registrableIn": ["dp", "pt", "go", "home", "bdsp", "la", "sv"]
 }

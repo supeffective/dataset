@@ -38,15 +38,7 @@
   "canDynamax": true,
   "canBeAlpha": false,
   "debutIn": "rs",
-  "obtainableIn": [
-    "rs",
-    "e",
-    "oras",
-    "go",
-    "swsh",
-    "bdsp",
-    "sv"
-  ],
+  "obtainableIn": ["rs", "e", "oras", "go", "swsh", "bdsp", "sv"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": [
@@ -84,9 +76,7 @@
   "femaleRate": 12.5,
   "baseSpecies": null,
   "baseForms": [],
-  "forms": [
-    "combusken-f"
-  ],
+  "forms": ["combusken-f"],
   "evolvesFrom": {
     "pokemon": "torchic",
     "level": 16
@@ -98,12 +88,5 @@
     "bulbapedia": "Combusken",
     "showdownName": "Combusken"
   },
-  "registrableIn": [
-    "rs",
-    "e",
-    "oras",
-    "go",
-    "home",
-    "sv"
-  ]
+  "registrableIn": ["rs", "e", "oras", "go", "home", "sv"]
 }

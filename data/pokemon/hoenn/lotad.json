@@ -38,15 +38,7 @@
   "canDynamax": true,
   "canBeAlpha": false,
   "debutIn": "rs",
-  "obtainableIn": [
-    "rs",
-    "e",
-    "oras",
-    "go",
-    "swsh",
-    "bdsp",
-    "sv"
-  ],
+  "obtainableIn": ["rs", "e", "oras", "go", "swsh", "bdsp", "sv"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": [
@@ -93,14 +85,5 @@
     "bulbapedia": "Lotad",
     "showdownName": "Lotad"
   },
-  "registrableIn": [
-    "rs",
-    "e",
-    "xy",
-    "oras",
-    "go",
-    "swsh",
-    "home",
-    "sv"
-  ]
+  "registrableIn": ["rs", "e", "xy", "oras", "go", "swsh", "home", "sv"]
 }

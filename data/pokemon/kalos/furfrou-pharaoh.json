@@ -38,20 +38,10 @@
   "canDynamax": true,
   "canBeAlpha": false,
   "debutIn": "xy",
-  "obtainableIn": [
-    "xy",
-    "go"
-  ],
+  "obtainableIn": ["xy", "go"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
-  "storableIn": [
-    "xy",
-    "oras",
-    "go",
-    "sm",
-    "usum",
-    "home"
-  ],
+  "storableIn": ["xy", "oras", "go", "sm", "usum", "home"],
   "shinyReleased": true,
   "shinyBase": null,
   "baseStats": {
@@ -67,9 +57,7 @@
   "maleRate": 50,
   "femaleRate": 50,
   "baseSpecies": "furfrou",
-  "baseForms": [
-    "furfrou"
-  ],
+  "baseForms": ["furfrou"],
   "forms": [],
   "evolvesFrom": null,
   "refs": {
@@ -79,10 +67,5 @@
     "bulbapedia": "Furfrou",
     "showdownName": "Furfrou"
   },
-  "registrableIn": [
-    "xy",
-    "go",
-    "usum",
-    "home"
-  ]
+  "registrableIn": ["xy", "go", "usum", "home"]
 }

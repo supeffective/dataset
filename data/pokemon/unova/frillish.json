@@ -38,12 +38,7 @@
   "canDynamax": true,
   "canBeAlpha": false,
   "debutIn": "bw",
-  "obtainableIn": [
-    "bw",
-    "b2w2",
-    "go",
-    "swsh"
-  ],
+  "obtainableIn": ["bw", "b2w2", "go", "swsh"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": [
@@ -73,9 +68,7 @@
   "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
-  "forms": [
-    "frillish-f"
-  ],
+  "forms": ["frillish-f"],
   "evolvesFrom": null,
   "refs": {
     "smogon": "frillish",
@@ -84,12 +77,5 @@
     "bulbapedia": "Frillish",
     "showdownName": "Frillish"
   },
-  "registrableIn": [
-    "bw",
-    "b2w2",
-    "go",
-    "usum",
-    "swsh",
-    "home"
-  ]
+  "registrableIn": ["bw", "b2w2", "go", "usum", "swsh", "home"]
 }

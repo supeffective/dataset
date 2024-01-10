@@ -38,16 +38,10 @@
   "canDynamax": false,
   "canBeAlpha": false,
   "debutIn": "sv",
-  "obtainableIn": [
-    "go"
-  ],
+  "obtainableIn": ["go"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
-  "storableIn": [
-    "go",
-    "home",
-    "sv"
-  ],
+  "storableIn": ["go", "home", "sv"],
   "shinyReleased": false,
   "shinyBase": null,
   "baseStats": {
@@ -73,9 +67,5 @@
     "bulbapedia": "Gimmighoul_Roaming",
     "showdownName": "Gimmighoul-Roaming"
   },
-  "registrableIn": [
-    "go",
-    "home",
-    "sv"
-  ]
+  "registrableIn": ["go", "home", "sv"]
 }

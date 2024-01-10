@@ -95,11 +95,7 @@
   "femaleRate": 12.5,
   "baseSpecies": null,
   "baseForms": [],
-  "forms": [
-    "venusaur-f",
-    "venusaur-gmax",
-    "venusaur-mega"
-  ],
+  "forms": ["venusaur-f", "venusaur-gmax", "venusaur-mega"],
   "family": "bulbasaur",
   "evolvesFrom": {
     "pokemon": "ivysaur",

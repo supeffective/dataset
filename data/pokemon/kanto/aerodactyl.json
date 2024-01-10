@@ -38,15 +38,7 @@
   "canDynamax": true,
   "canBeAlpha": false,
   "debutIn": "rb",
-  "obtainableIn": [
-    "rb",
-    "y",
-    "frlg",
-    "go",
-    "lgpe",
-    "swsh",
-    "bdsp"
-  ],
+  "obtainableIn": ["rb", "y", "frlg", "go", "lgpe", "swsh", "bdsp"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": [
@@ -88,9 +80,7 @@
   "femaleRate": 12.5,
   "baseSpecies": null,
   "baseForms": [],
-  "forms": [
-    "aerodactyl-mega"
-  ],
+  "forms": ["aerodactyl-mega"],
   "evolvesFrom": null,
   "refs": {
     "smogon": "aerodactyl",

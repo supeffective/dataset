@@ -38,14 +38,7 @@
   "canDynamax": true,
   "canBeAlpha": false,
   "debutIn": "gs",
-  "obtainableIn": [
-    "gs",
-    "c",
-    "hgss",
-    "go",
-    "bdsp",
-    "sv"
-  ],
+  "obtainableIn": ["gs", "c", "hgss", "go", "bdsp", "sv"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": [
@@ -84,9 +77,7 @@
   "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
-  "forms": [
-    "donphan-f"
-  ],
+  "forms": ["donphan-f"],
   "evolvesFrom": {
     "pokemon": "phanpy",
     "level": 25
@@ -98,15 +89,5 @@
     "bulbapedia": "Donphan",
     "showdownName": "Donphan"
   },
-  "registrableIn": [
-    "gs",
-    "c",
-    "rs",
-    "e",
-    "hgss",
-    "oras",
-    "go",
-    "home",
-    "sv"
-  ]
+  "registrableIn": ["gs", "c", "rs", "e", "hgss", "oras", "go", "home", "sv"]
 }

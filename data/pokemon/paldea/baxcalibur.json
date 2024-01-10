@@ -38,17 +38,10 @@
   "canDynamax": false,
   "canBeAlpha": false,
   "debutIn": "sv",
-  "obtainableIn": [
-    "go",
-    "sv"
-  ],
+  "obtainableIn": ["go", "sv"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
-  "storableIn": [
-    "go",
-    "home",
-    "sv"
-  ],
+  "storableIn": ["go", "home", "sv"],
   "shinyReleased": true,
   "shinyBase": null,
   "baseStats": {
@@ -77,9 +70,5 @@
     "bulbapedia": "Baxcalibur",
     "showdownName": "Baxcalibur"
   },
-  "registrableIn": [
-    "go",
-    "home",
-    "sv"
-  ]
+  "registrableIn": ["go", "home", "sv"]
 }

@@ -38,24 +38,10 @@
   "canDynamax": true,
   "canBeAlpha": false,
   "debutIn": "xy",
-  "obtainableIn": [
-    "xy",
-    "go",
-    "swsh",
-    "sv"
-  ],
+  "obtainableIn": ["xy", "go", "swsh", "sv"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
-  "storableIn": [
-    "xy",
-    "oras",
-    "go",
-    "sm",
-    "usum",
-    "swsh",
-    "home",
-    "sv"
-  ],
+  "storableIn": ["xy", "oras", "go", "sm", "usum", "swsh", "home", "sv"],
   "shinyReleased": true,
   "shinyBase": null,
   "baseStats": {
@@ -81,12 +67,5 @@
     "bulbapedia": "Inkay",
     "showdownName": "Inkay"
   },
-  "registrableIn": [
-    "xy",
-    "go",
-    "usum",
-    "swsh",
-    "home",
-    "sv"
-  ]
+  "registrableIn": ["xy", "go", "usum", "swsh", "home", "sv"]
 }

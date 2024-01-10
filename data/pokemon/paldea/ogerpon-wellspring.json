@@ -38,14 +38,10 @@
   "canDynamax": false,
   "canBeAlpha": false,
   "debutIn": "sv",
-  "obtainableIn": [
-    "sv"
-  ],
+  "obtainableIn": ["sv"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
-  "storableIn": [
-    "sv"
-  ],
+  "storableIn": ["sv"],
   "shinyReleased": false,
   "shinyBase": null,
   "baseStats": {
@@ -71,8 +67,5 @@
     "bulbapedia": "Ogerpon",
     "showdownName": "Ogerpon-Wellspring"
   },
-  "registrableIn": [
-    "home",
-    "sv"
-  ]
+  "registrableIn": ["home", "sv"]
 }

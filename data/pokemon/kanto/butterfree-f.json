@@ -52,11 +52,7 @@
     "swsh",
     "bdsp"
   ],
-  "versionExclusiveIn": [
-    "bw-w",
-    "b2w2-w2",
-    "bdsp-bd"
-  ],
+  "versionExclusiveIn": ["bw-w", "b2w2-w2", "bdsp-bd"],
   "eventOnlyIn": [],
   "storableIn": [
     "dp",
@@ -102,14 +98,5 @@
     "bulbapedia": "Butterfree",
     "showdownName": "Butterfree"
   },
-  "registrableIn": [
-    "hgss",
-    "xy",
-    "go",
-    "sm",
-    "usum",
-    "lgpe",
-    "swsh",
-    "home"
-  ]
+  "registrableIn": ["hgss", "xy", "go", "sm", "usum", "lgpe", "swsh", "home"]
 }

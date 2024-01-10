@@ -38,16 +38,7 @@
   "canDynamax": true,
   "canBeAlpha": true,
   "debutIn": "gs",
-  "obtainableIn": [
-    "gs",
-    "c",
-    "hgss",
-    "go",
-    "usum",
-    "swsh",
-    "bdsp",
-    "la"
-  ],
+  "obtainableIn": ["gs", "c", "hgss", "go", "usum", "swsh", "bdsp", "la"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": [
@@ -87,10 +78,7 @@
   "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
-  "forms": [
-    "steelix-f",
-    "steelix-mega"
-  ],
+  "forms": ["steelix-f", "steelix-mega"],
   "evolvesFrom": {
     "pokemon": "onix",
     "item": "metalcoat",

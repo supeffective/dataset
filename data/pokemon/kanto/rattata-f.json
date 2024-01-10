@@ -38,11 +38,7 @@
   "canDynamax": true,
   "canBeAlpha": false,
   "debutIn": "dp",
-  "obtainableIn": [
-    "go",
-    "lgpe",
-    "bdsp"
-  ],
+  "obtainableIn": ["go", "lgpe", "bdsp"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": [
@@ -85,13 +81,5 @@
     "bulbapedia": "Rattata",
     "showdownName": "Rattata"
   },
-  "registrableIn": [
-    "hgss",
-    "b2w2",
-    "go",
-    "sm",
-    "usum",
-    "lgpe",
-    "home"
-  ]
+  "registrableIn": ["hgss", "b2w2", "go", "sm", "usum", "lgpe", "home"]
 }

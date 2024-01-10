@@ -38,12 +38,7 @@
   "canDynamax": true,
   "canBeAlpha": false,
   "debutIn": "dp",
-  "obtainableIn": [
-    "hgss",
-    "go",
-    "bdsp",
-    "sv"
-  ],
+  "obtainableIn": ["hgss", "go", "bdsp", "sv"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": [
@@ -89,10 +84,5 @@
     "bulbapedia": "Meganium",
     "showdownName": "Meganium"
   },
-  "registrableIn": [
-    "hgss",
-    "go",
-    "home",
-    "sv"
-  ]
+  "registrableIn": ["hgss", "go", "home", "sv"]
 }

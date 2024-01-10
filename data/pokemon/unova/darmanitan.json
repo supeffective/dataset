@@ -38,12 +38,7 @@
   "canDynamax": true,
   "canBeAlpha": false,
   "debutIn": "bw",
-  "obtainableIn": [
-    "bw",
-    "b2w2",
-    "go",
-    "swsh"
-  ],
+  "obtainableIn": ["bw", "b2w2", "go", "swsh"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": [
@@ -73,11 +68,7 @@
   "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
-  "forms": [
-    "darmanitan-zen",
-    "darmanitan-galar",
-    "darmanitan-galar-zen"
-  ],
+  "forms": ["darmanitan-zen", "darmanitan-galar", "darmanitan-galar-zen"],
   "evolvesFrom": {
     "pokemon": "darumaka",
     "level": 35
@@ -89,11 +80,5 @@
     "bulbapedia": "Darmanitan",
     "showdownName": "Darmanitan"
   },
-  "registrableIn": [
-    "bw",
-    "b2w2",
-    "go",
-    "swsh",
-    "home"
-  ]
+  "registrableIn": ["bw", "b2w2", "go", "swsh", "home"]
 }

@@ -38,16 +38,7 @@
   "canDynamax": true,
   "canBeAlpha": false,
   "debutIn": "rb",
-  "obtainableIn": [
-    "rb",
-    "y",
-    "frlg",
-    "go",
-    "lgpe",
-    "swsh",
-    "bdsp",
-    "sv"
-  ],
+  "obtainableIn": ["rb", "y", "frlg", "go", "lgpe", "swsh", "bdsp", "sv"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": [
@@ -90,9 +81,7 @@
   "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
-  "forms": [
-    "diglett-alola"
-  ],
+  "forms": ["diglett-alola"],
   "evolvesFrom": null,
   "refs": {
     "smogon": "diglett",

@@ -38,13 +38,7 @@
   "canDynamax": true,
   "canBeAlpha": false,
   "debutIn": "dp",
-  "obtainableIn": [
-    "go",
-    "lgpe",
-    "swsh",
-    "bdsp",
-    "sv"
-  ],
+  "obtainableIn": ["go", "lgpe", "swsh", "bdsp", "sv"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": [
@@ -93,14 +87,5 @@
     "bulbapedia": "Vileplume",
     "showdownName": "Vileplume"
   },
-  "registrableIn": [
-    "hgss",
-    "xy",
-    "oras",
-    "go",
-    "lgpe",
-    "swsh",
-    "home",
-    "sv"
-  ]
+  "registrableIn": ["hgss", "xy", "oras", "go", "lgpe", "swsh", "home", "sv"]
 }

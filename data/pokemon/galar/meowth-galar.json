@@ -38,19 +38,10 @@
   "canDynamax": true,
   "canBeAlpha": false,
   "debutIn": "swsh",
-  "obtainableIn": [
-    "go",
-    "swsh",
-    "sv"
-  ],
+  "obtainableIn": ["go", "swsh", "sv"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
-  "storableIn": [
-    "go",
-    "swsh",
-    "home",
-    "sv"
-  ],
+  "storableIn": ["go", "swsh", "home", "sv"],
   "shinyReleased": true,
   "shinyBase": null,
   "baseStats": {
@@ -76,10 +67,5 @@
     "bulbapedia": "Meowth",
     "showdownName": "Meowth-Galar"
   },
-  "registrableIn": [
-    "go",
-    "swsh",
-    "home",
-    "sv"
-  ]
+  "registrableIn": ["go", "swsh", "home", "sv"]
 }

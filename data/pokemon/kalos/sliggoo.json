@@ -38,24 +38,10 @@
   "canDynamax": true,
   "canBeAlpha": false,
   "debutIn": "xy",
-  "obtainableIn": [
-    "xy",
-    "go",
-    "swsh",
-    "sv"
-  ],
+  "obtainableIn": ["xy", "go", "swsh", "sv"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
-  "storableIn": [
-    "xy",
-    "oras",
-    "go",
-    "sm",
-    "usum",
-    "swsh",
-    "home",
-    "sv"
-  ],
+  "storableIn": ["xy", "oras", "go", "sm", "usum", "swsh", "home", "sv"],
   "shinyReleased": true,
   "shinyBase": null,
   "baseStats": {
@@ -72,9 +58,7 @@
   "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
-  "forms": [
-    "sliggoo-hisui"
-  ],
+  "forms": ["sliggoo-hisui"],
   "evolvesFrom": {
     "pokemon": "goomy",
     "level": 40
@@ -86,13 +70,5 @@
     "bulbapedia": "Sliggoo",
     "showdownName": "Sliggoo"
   },
-  "registrableIn": [
-    "xy",
-    "go",
-    "sm",
-    "usum",
-    "swsh",
-    "home",
-    "sv"
-  ]
+  "registrableIn": ["xy", "go", "sm", "usum", "swsh", "home", "sv"]
 }

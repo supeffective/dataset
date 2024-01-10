@@ -38,13 +38,7 @@
   "canDynamax": true,
   "canBeAlpha": false,
   "debutIn": "bw",
-  "obtainableIn": [
-    "bw",
-    "b2w2",
-    "go",
-    "swsh",
-    "sv"
-  ],
+  "obtainableIn": ["bw", "b2w2", "go", "swsh", "sv"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": [
@@ -75,10 +69,7 @@
   "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
-  "forms": [
-    "basculin-blue-striped",
-    "basculin-white-striped"
-  ],
+  "forms": ["basculin-blue-striped", "basculin-white-striped"],
   "evolvesFrom": null,
   "refs": {
     "smogon": "basculin",
@@ -87,14 +78,5 @@
     "bulbapedia": "Basculin",
     "showdownName": "Basculin"
   },
-  "registrableIn": [
-    "bw",
-    "b2w2",
-    "xy",
-    "go",
-    "usum",
-    "swsh",
-    "home",
-    "sv"
-  ]
+  "registrableIn": ["bw", "b2w2", "xy", "go", "usum", "swsh", "home", "sv"]
 }

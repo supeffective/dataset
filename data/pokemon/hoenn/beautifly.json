@@ -38,14 +38,7 @@
   "canDynamax": true,
   "canBeAlpha": true,
   "debutIn": "rs",
-  "obtainableIn": [
-    "rs",
-    "e",
-    "oras",
-    "go",
-    "bdsp",
-    "la"
-  ],
+  "obtainableIn": ["rs", "e", "oras", "go", "bdsp", "la"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": [
@@ -82,9 +75,7 @@
   "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
-  "forms": [
-    "beautifly-f"
-  ],
+  "forms": ["beautifly-f"],
   "evolvesFrom": {
     "pokemon": "silcoon",
     "level": 10
@@ -96,15 +87,5 @@
     "bulbapedia": "Beautifly",
     "showdownName": "Beautifly"
   },
-  "registrableIn": [
-    "rs",
-    "e",
-    "dp",
-    "pt",
-    "oras",
-    "go",
-    "home",
-    "bdsp",
-    "la"
-  ]
+  "registrableIn": ["rs", "e", "dp", "pt", "oras", "go", "home", "bdsp", "la"]
 }

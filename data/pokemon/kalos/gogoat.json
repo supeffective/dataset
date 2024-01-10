@@ -38,20 +38,10 @@
   "canDynamax": true,
   "canBeAlpha": false,
   "debutIn": "xy",
-  "obtainableIn": [
-    "xy",
-    "sv"
-  ],
+  "obtainableIn": ["xy", "sv"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
-  "storableIn": [
-    "xy",
-    "oras",
-    "sm",
-    "usum",
-    "home",
-    "sv"
-  ],
+  "storableIn": ["xy", "oras", "sm", "usum", "home", "sv"],
   "shinyReleased": true,
   "shinyBase": null,
   "baseStats": {
@@ -80,9 +70,5 @@
     "bulbapedia": "Gogoat",
     "showdownName": "Gogoat"
   },
-  "registrableIn": [
-    "xy",
-    "home",
-    "sv"
-  ]
+  "registrableIn": ["xy", "home", "sv"]
 }

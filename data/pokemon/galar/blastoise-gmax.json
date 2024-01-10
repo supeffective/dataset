@@ -38,9 +38,7 @@
   "canDynamax": false,
   "canBeAlpha": false,
   "debutIn": "swsh",
-  "obtainableIn": [
-    "swsh"
-  ],
+  "obtainableIn": ["swsh"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": [],
@@ -59,9 +57,7 @@
   "maleRate": 87.5,
   "femaleRate": 12.5,
   "baseSpecies": "blastoise",
-  "baseForms": [
-    "blastoise"
-  ],
+  "baseForms": ["blastoise"],
   "forms": [],
   "evolvesFrom": null,
   "refs": {
@@ -71,8 +67,5 @@
     "bulbapedia": "Blastoise",
     "showdownName": "Blastoise-Gmax"
   },
-  "registrableIn": [
-    "swsh",
-    "home"
-  ]
+  "registrableIn": ["swsh", "home"]
 }

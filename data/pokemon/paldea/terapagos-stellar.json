@@ -40,9 +40,7 @@
   "canDynamax": false,
   "canBeAlpha": false,
   "debutIn": "sv",
-  "obtainableIn": [
-    "sv"
-  ],
+  "obtainableIn": ["sv"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": [],
@@ -71,7 +69,5 @@
     "bulbapedia": "Terapagos",
     "showdownName": "Terapagos-Stellar"
   },
-  "registrableIn": [
-    "home"
-  ]
+  "registrableIn": ["home"]
 }

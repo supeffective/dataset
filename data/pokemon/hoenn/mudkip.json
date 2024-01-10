@@ -38,15 +38,7 @@
   "canDynamax": true,
   "canBeAlpha": false,
   "debutIn": "rs",
-  "obtainableIn": [
-    "rs",
-    "e",
-    "oras",
-    "go",
-    "swsh",
-    "bdsp",
-    "sv"
-  ],
+  "obtainableIn": ["rs", "e", "oras", "go", "swsh", "bdsp", "sv"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": [
@@ -93,12 +85,5 @@
     "bulbapedia": "Mudkip",
     "showdownName": "Mudkip"
   },
-  "registrableIn": [
-    "rs",
-    "e",
-    "oras",
-    "go",
-    "home",
-    "sv"
-  ]
+  "registrableIn": ["rs", "e", "oras", "go", "home", "sv"]
 }

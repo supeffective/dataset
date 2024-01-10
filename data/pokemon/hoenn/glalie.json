@@ -38,16 +38,7 @@
   "canDynamax": true,
   "canBeAlpha": true,
   "debutIn": "rs",
-  "obtainableIn": [
-    "rs",
-    "e",
-    "oras",
-    "go",
-    "swsh",
-    "bdsp",
-    "la",
-    "sv"
-  ],
+  "obtainableIn": ["rs", "e", "oras", "go", "swsh", "bdsp", "la", "sv"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": [
@@ -86,9 +77,7 @@
   "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
-  "forms": [
-    "glalie-mega"
-  ],
+  "forms": ["glalie-mega"],
   "evolvesFrom": {
     "pokemon": "snorunt",
     "level": 42

@@ -38,13 +38,7 @@
   "canDynamax": true,
   "canBeAlpha": false,
   "debutIn": "bw",
-  "obtainableIn": [
-    "bw",
-    "b2w2",
-    "go",
-    "swsh",
-    "sv"
-  ],
+  "obtainableIn": ["bw", "b2w2", "go", "swsh", "sv"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": [
@@ -87,13 +81,5 @@
     "bulbapedia": "Conkeldurr",
     "showdownName": "Conkeldurr"
   },
-  "registrableIn": [
-    "bw",
-    "b2w2",
-    "xy",
-    "go",
-    "swsh",
-    "home",
-    "sv"
-  ]
+  "registrableIn": ["bw", "b2w2", "xy", "go", "swsh", "home", "sv"]
 }

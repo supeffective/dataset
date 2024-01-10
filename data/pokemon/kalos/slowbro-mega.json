@@ -38,16 +38,10 @@
   "canDynamax": false,
   "canBeAlpha": false,
   "debutIn": "oras",
-  "obtainableIn": [
-    "oras",
-    "go",
-    "lgpe"
-  ],
+  "obtainableIn": ["oras", "go", "lgpe"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
-  "storableIn": [
-    "go"
-  ],
+  "storableIn": ["go"],
   "shinyReleased": true,
   "shinyBase": null,
   "baseStats": {
@@ -63,9 +57,7 @@
   "maleRate": 50,
   "femaleRate": 50,
   "baseSpecies": "slowbro",
-  "baseForms": [
-    "slowbro"
-  ],
+  "baseForms": ["slowbro"],
   "forms": [],
   "evolvesFrom": null,
   "refs": {
@@ -75,9 +67,5 @@
     "bulbapedia": "Slowbro",
     "showdownName": "Slowbro-Mega"
   },
-  "registrableIn": [
-    "go",
-    "lgpe",
-    "home"
-  ]
+  "registrableIn": ["go", "lgpe", "home"]
 }

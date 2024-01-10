@@ -38,24 +38,10 @@
   "canDynamax": true,
   "canBeAlpha": false,
   "debutIn": "xy",
-  "obtainableIn": [
-    "xy",
-    "go",
-    "swsh",
-    "sv"
-  ],
+  "obtainableIn": ["xy", "go", "swsh", "sv"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
-  "storableIn": [
-    "xy",
-    "oras",
-    "go",
-    "sm",
-    "usum",
-    "swsh",
-    "home",
-    "sv"
-  ],
+  "storableIn": ["xy", "oras", "go", "sm", "usum", "swsh", "home", "sv"],
   "shinyReleased": true,
   "shinyBase": null,
   "baseStats": {
@@ -72,9 +58,7 @@
   "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
-  "forms": [
-    "avalugg-hisui"
-  ],
+  "forms": ["avalugg-hisui"],
   "evolvesFrom": {
     "pokemon": "bergmite",
     "level": 37
@@ -86,11 +70,5 @@
     "bulbapedia": "Avalugg",
     "showdownName": "Avalugg"
   },
-  "registrableIn": [
-    "xy",
-    "go",
-    "swsh",
-    "home",
-    "sv"
-  ]
+  "registrableIn": ["xy", "go", "swsh", "home", "sv"]
 }

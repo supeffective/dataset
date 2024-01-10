@@ -38,14 +38,7 @@
   "canDynamax": true,
   "canBeAlpha": false,
   "debutIn": "gs",
-  "obtainableIn": [
-    "gs",
-    "c",
-    "hgss",
-    "go",
-    "bdsp",
-    "sv"
-  ],
+  "obtainableIn": ["gs", "c", "hgss", "go", "bdsp", "sv"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": [
@@ -84,10 +77,7 @@
   "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
-  "forms": [
-    "houndoom-f",
-    "houndoom-mega"
-  ],
+  "forms": ["houndoom-f", "houndoom-mega"],
   "evolvesFrom": {
     "pokemon": "houndour",
     "level": 24
@@ -99,15 +89,5 @@
     "bulbapedia": "Houndoom",
     "showdownName": "Houndoom"
   },
-  "registrableIn": [
-    "gs",
-    "c",
-    "pt",
-    "hgss",
-    "xy",
-    "go",
-    "usum",
-    "home",
-    "sv"
-  ]
+  "registrableIn": ["gs", "c", "pt", "hgss", "xy", "go", "usum", "home", "sv"]
 }

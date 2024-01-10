@@ -40,14 +40,8 @@
   "debutIn": "swsh",
   "obtainableIn": [],
   "versionExclusiveIn": [],
-  "eventOnlyIn": [
-    "swsh"
-  ],
-  "storableIn": [
-    "swsh",
-    "home",
-    "sv"
-  ],
+  "eventOnlyIn": ["swsh"],
+  "storableIn": ["swsh", "home", "sv"],
   "shinyReleased": false,
   "shinyBase": null,
   "baseStats": {
@@ -73,9 +67,5 @@
     "bulbapedia": "Pikachu",
     "showdownName": "Pikachu-World"
   },
-  "registrableIn": [
-    "swsh",
-    "home",
-    "sv"
-  ]
+  "registrableIn": ["swsh", "home", "sv"]
 }

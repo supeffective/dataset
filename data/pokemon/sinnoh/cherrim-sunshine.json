@@ -38,19 +38,10 @@
   "canDynamax": true,
   "canBeAlpha": true,
   "debutIn": "dp",
-  "obtainableIn": [
-    "dp",
-    "pt",
-    "go",
-    "swsh",
-    "bdsp",
-    "la"
-  ],
+  "obtainableIn": ["dp", "pt", "go", "swsh", "bdsp", "la"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
-  "storableIn": [
-    "go"
-  ],
+  "storableIn": ["go"],
   "shinyReleased": true,
   "shinyBase": null,
   "baseStats": {
@@ -66,9 +57,7 @@
   "maleRate": 50,
   "femaleRate": 50,
   "baseSpecies": "cherrim",
-  "baseForms": [
-    "cherrim"
-  ],
+  "baseForms": ["cherrim"],
   "forms": [],
   "evolvesFrom": null,
   "refs": {
@@ -78,13 +67,5 @@
     "bulbapedia": "Cherrim",
     "showdownName": "Cherrim-Sunshine"
   },
-  "registrableIn": [
-    "dp",
-    "pt",
-    "go",
-    "swsh",
-    "home",
-    "bdsp",
-    "la"
-  ]
+  "registrableIn": ["dp", "pt", "go", "swsh", "home", "bdsp", "la"]
 }

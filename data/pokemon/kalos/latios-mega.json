@@ -38,15 +38,10 @@
   "canDynamax": false,
   "canBeAlpha": false,
   "debutIn": "oras",
-  "obtainableIn": [
-    "oras",
-    "go"
-  ],
+  "obtainableIn": ["oras", "go"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
-  "storableIn": [
-    "go"
-  ],
+  "storableIn": ["go"],
   "shinyReleased": true,
   "shinyBase": null,
   "baseStats": {
@@ -62,9 +57,7 @@
   "maleRate": 100,
   "femaleRate": 0,
   "baseSpecies": "latios",
-  "baseForms": [
-    "latios"
-  ],
+  "baseForms": ["latios"],
   "forms": [],
   "evolvesFrom": null,
   "refs": {
@@ -74,9 +67,5 @@
     "bulbapedia": "Latios",
     "showdownName": "Latios-Mega"
   },
-  "registrableIn": [
-    "oras",
-    "go",
-    "home"
-  ]
+  "registrableIn": ["oras", "go", "home"]
 }

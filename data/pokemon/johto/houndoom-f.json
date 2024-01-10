@@ -38,12 +38,7 @@
   "canDynamax": true,
   "canBeAlpha": false,
   "debutIn": "dp",
-  "obtainableIn": [
-    "hgss",
-    "go",
-    "bdsp",
-    "sv"
-  ],
+  "obtainableIn": ["hgss", "go", "bdsp", "sv"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": [
@@ -89,13 +84,5 @@
     "bulbapedia": "Houndoom",
     "showdownName": "Houndoom"
   },
-  "registrableIn": [
-    "pt",
-    "hgss",
-    "xy",
-    "go",
-    "usum",
-    "home",
-    "sv"
-  ]
+  "registrableIn": ["pt", "hgss", "xy", "go", "usum", "home", "sv"]
 }

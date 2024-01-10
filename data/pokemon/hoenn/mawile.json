@@ -38,14 +38,7 @@
   "canDynamax": true,
   "canBeAlpha": false,
   "debutIn": "rs",
-  "obtainableIn": [
-    "rs",
-    "e",
-    "oras",
-    "go",
-    "swsh",
-    "bdsp"
-  ],
+  "obtainableIn": ["rs", "e", "oras", "go", "swsh", "bdsp"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": [
@@ -82,9 +75,7 @@
   "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
-  "forms": [
-    "mawile-mega"
-  ],
+  "forms": ["mawile-mega"],
   "evolvesFrom": null,
   "refs": {
     "smogon": "mawile",
@@ -93,14 +84,5 @@
     "bulbapedia": "Mawile",
     "showdownName": "Mawile"
   },
-  "registrableIn": [
-    "rs",
-    "e",
-    "xy",
-    "oras",
-    "go",
-    "usum",
-    "swsh",
-    "home"
-  ]
+  "registrableIn": ["rs", "e", "xy", "oras", "go", "usum", "swsh", "home"]
 }

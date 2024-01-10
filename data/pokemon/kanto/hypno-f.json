@@ -38,12 +38,7 @@
   "canDynamax": true,
   "canBeAlpha": false,
   "debutIn": "dp",
-  "obtainableIn": [
-    "go",
-    "lgpe",
-    "bdsp",
-    "sv"
-  ],
+  "obtainableIn": ["go", "lgpe", "bdsp", "sv"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": [
@@ -90,13 +85,5 @@
     "bulbapedia": "Hypno",
     "showdownName": "Hypno"
   },
-  "registrableIn": [
-    "hgss",
-    "go",
-    "sm",
-    "usum",
-    "lgpe",
-    "home",
-    "sv"
-  ]
+  "registrableIn": ["hgss", "go", "sm", "usum", "lgpe", "home", "sv"]
 }

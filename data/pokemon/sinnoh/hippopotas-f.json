@@ -38,15 +38,7 @@
   "canDynamax": true,
   "canBeAlpha": true,
   "debutIn": "dp",
-  "obtainableIn": [
-    "dp",
-    "pt",
-    "go",
-    "swsh",
-    "bdsp",
-    "la",
-    "sv"
-  ],
+  "obtainableIn": ["dp", "pt", "go", "swsh", "bdsp", "la", "sv"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": [
@@ -91,15 +83,5 @@
     "bulbapedia": "Hippopotas",
     "showdownName": "Hippopotas"
   },
-  "registrableIn": [
-    "dp",
-    "pt",
-    "xy",
-    "go",
-    "swsh",
-    "home",
-    "bdsp",
-    "la",
-    "sv"
-  ]
+  "registrableIn": ["dp", "pt", "xy", "go", "swsh", "home", "bdsp", "la", "sv"]
 }

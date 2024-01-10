@@ -38,15 +38,10 @@
   "canDynamax": false,
   "canBeAlpha": false,
   "debutIn": "la",
-  "obtainableIn": [
-    "la"
-  ],
+  "obtainableIn": ["la"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
-  "storableIn": [
-    "la",
-    "sv"
-  ],
+  "storableIn": ["la", "sv"],
   "shinyReleased": true,
   "shinyBase": null,
   "baseStats": {
@@ -72,8 +67,5 @@
     "bulbapedia": "Dialga",
     "showdownName": "Dialga-Origin"
   },
-  "registrableIn": [
-    "home",
-    "la"
-  ]
+  "registrableIn": ["home", "la"]
 }

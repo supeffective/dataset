@@ -38,14 +38,7 @@
   "canDynamax": true,
   "canBeAlpha": false,
   "debutIn": "rs",
-  "obtainableIn": [
-    "rs",
-    "e",
-    "oras",
-    "go",
-    "swsh",
-    "bdsp"
-  ],
+  "obtainableIn": ["rs", "e", "oras", "go", "swsh", "bdsp"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": [
@@ -83,9 +76,7 @@
   "femaleRate": 0,
   "baseSpecies": null,
   "baseForms": [],
-  "forms": [
-    "rayquaza-mega"
-  ],
+  "forms": ["rayquaza-mega"],
   "evolvesFrom": null,
   "refs": {
     "smogon": "rayquaza",
@@ -94,11 +85,5 @@
     "bulbapedia": "Rayquaza",
     "showdownName": "Rayquaza"
   },
-  "registrableIn": [
-    "rs",
-    "e",
-    "oras",
-    "go",
-    "home"
-  ]
+  "registrableIn": ["rs", "e", "oras", "go", "home"]
 }

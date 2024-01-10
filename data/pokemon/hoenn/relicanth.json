@@ -38,14 +38,7 @@
   "canDynamax": true,
   "canBeAlpha": false,
   "debutIn": "rs",
-  "obtainableIn": [
-    "rs",
-    "e",
-    "oras",
-    "go",
-    "swsh",
-    "bdsp"
-  ],
+  "obtainableIn": ["rs", "e", "oras", "go", "swsh", "bdsp"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": [
@@ -82,9 +75,7 @@
   "femaleRate": 12.5,
   "baseSpecies": null,
   "baseForms": [],
-  "forms": [
-    "relicanth-f"
-  ],
+  "forms": ["relicanth-f"],
   "evolvesFrom": null,
   "refs": {
     "smogon": "relicanth",
@@ -93,15 +84,5 @@
     "bulbapedia": "Relicanth",
     "showdownName": "Relicanth"
   },
-  "registrableIn": [
-    "rs",
-    "e",
-    "xy",
-    "oras",
-    "go",
-    "sm",
-    "usum",
-    "swsh",
-    "home"
-  ]
+  "registrableIn": ["rs", "e", "xy", "oras", "go", "sm", "usum", "swsh", "home"]
 }

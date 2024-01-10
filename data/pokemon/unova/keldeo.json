@@ -38,15 +38,9 @@
   "canDynamax": true,
   "canBeAlpha": false,
   "debutIn": "bw",
-  "obtainableIn": [
-    "go",
-    "swsh"
-  ],
+  "obtainableIn": ["go", "swsh"],
   "versionExclusiveIn": [],
-  "eventOnlyIn": [
-    "bw",
-    "oras"
-  ],
+  "eventOnlyIn": ["bw", "oras"],
   "storableIn": [
     "bw",
     "b2w2",
@@ -74,9 +68,7 @@
   "femaleRate": 0,
   "baseSpecies": null,
   "baseForms": [],
-  "forms": [
-    "keldeo-resolute"
-  ],
+  "forms": ["keldeo-resolute"],
   "evolvesFrom": null,
   "refs": {
     "smogon": "keldeo",
@@ -85,10 +77,5 @@
     "bulbapedia": "Keldeo",
     "showdownName": "Keldeo"
   },
-  "registrableIn": [
-    "bw",
-    "b2w2",
-    "go",
-    "home"
-  ]
+  "registrableIn": ["bw", "b2w2", "go", "home"]
 }

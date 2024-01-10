@@ -38,14 +38,9 @@
   "canDynamax": true,
   "canBeAlpha": false,
   "debutIn": "bw",
-  "obtainableIn": [
-    "bw"
-  ],
+  "obtainableIn": ["bw"],
   "versionExclusiveIn": [],
-  "eventOnlyIn": [
-    "go",
-    "swsh"
-  ],
+  "eventOnlyIn": ["go", "swsh"],
   "storableIn": [
     "bw",
     "b2w2",
@@ -82,10 +77,5 @@
     "bulbapedia": "Victini",
     "showdownName": "Victini"
   },
-  "registrableIn": [
-    "bw",
-    "b2w2",
-    "go",
-    "home"
-  ]
+  "registrableIn": ["bw", "b2w2", "go", "home"]
 }

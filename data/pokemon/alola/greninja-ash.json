@@ -38,15 +38,10 @@
   "canDynamax": true,
   "canBeAlpha": false,
   "debutIn": "sm",
-  "obtainableIn": [
-    "sm"
-  ],
+  "obtainableIn": ["sm"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
-  "storableIn": [
-    "sm",
-    "usum"
-  ],
+  "storableIn": ["sm", "usum"],
   "shinyReleased": false,
   "shinyBase": null,
   "baseStats": {
@@ -62,9 +57,7 @@
   "maleRate": 100,
   "femaleRate": 0,
   "baseSpecies": "greninja",
-  "baseForms": [
-    "greninja--battle-bond"
-  ],
+  "baseForms": ["greninja--battle-bond"],
   "forms": [],
   "evolvesFrom": null,
   "refs": {
@@ -74,7 +67,5 @@
     "bulbapedia": "Greninja",
     "showdownName": "Greninja-Ash"
   },
-  "registrableIn": [
-    "home"
-  ]
+  "registrableIn": ["home"]
 }

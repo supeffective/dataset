@@ -40,15 +40,10 @@
   "canDynamax": false,
   "canBeAlpha": false,
   "debutIn": "sv",
-  "obtainableIn": [
-    "sv"
-  ],
+  "obtainableIn": ["sv"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
-  "storableIn": [
-    "home",
-    "sv"
-  ],
+  "storableIn": ["home", "sv"],
   "shinyReleased": true,
   "shinyBase": null,
   "baseStats": {
@@ -65,9 +60,7 @@
   "femaleRate": 0,
   "baseSpecies": null,
   "baseForms": [],
-  "forms": [
-    "maushold-three"
-  ],
+  "forms": ["maushold-three"],
   "evolvesFrom": {
     "pokemon": "tandemaus",
     "level": 25
@@ -79,8 +72,5 @@
     "bulbapedia": "Maushold_Four",
     "showdownName": "Maushold-Four"
   },
-  "registrableIn": [
-    "home",
-    "sv"
-  ]
+  "registrableIn": ["home", "sv"]
 }

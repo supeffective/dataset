@@ -38,22 +38,10 @@
   "canDynamax": true,
   "canBeAlpha": false,
   "debutIn": "xy",
-  "obtainableIn": [
-    "xy",
-    "go",
-    "sv"
-  ],
+  "obtainableIn": ["xy", "go", "sv"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
-  "storableIn": [
-    "xy",
-    "oras",
-    "go",
-    "sm",
-    "usum",
-    "home",
-    "sv"
-  ],
+  "storableIn": ["xy", "oras", "go", "sm", "usum", "home", "sv"],
   "shinyReleased": true,
   "shinyBase": null,
   "baseStats": {
@@ -70,9 +58,7 @@
   "femaleRate": 87.5,
   "baseSpecies": null,
   "baseForms": [],
-  "forms": [
-    "pyroar-f"
-  ],
+  "forms": ["pyroar-f"],
   "evolvesFrom": {
     "pokemon": "litleo",
     "level": 35
@@ -84,11 +70,5 @@
     "bulbapedia": "Pyroar",
     "showdownName": "Pyroar"
   },
-  "registrableIn": [
-    "xy",
-    "go",
-    "usum",
-    "home",
-    "sv"
-  ]
+  "registrableIn": ["xy", "go", "usum", "home", "sv"]
 }

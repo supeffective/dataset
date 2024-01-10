@@ -38,13 +38,7 @@
   "canDynamax": true,
   "canBeAlpha": true,
   "debutIn": "dp",
-  "obtainableIn": [
-    "go",
-    "lgpe",
-    "swsh",
-    "bdsp",
-    "la"
-  ],
+  "obtainableIn": ["go", "lgpe", "swsh", "bdsp", "la"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": [

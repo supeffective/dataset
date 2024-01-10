@@ -38,15 +38,7 @@
   "canDynamax": true,
   "canBeAlpha": true,
   "debutIn": "rs",
-  "obtainableIn": [
-    "rs",
-    "e",
-    "oras",
-    "go",
-    "swsh",
-    "bdsp",
-    "la"
-  ],
+  "obtainableIn": ["rs", "e", "oras", "go", "swsh", "bdsp", "la"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": [
@@ -96,14 +88,5 @@
     "bulbapedia": "Sealeo",
     "showdownName": "Sealeo"
   },
-  "registrableIn": [
-    "rs",
-    "e",
-    "b2w2",
-    "oras",
-    "go",
-    "swsh",
-    "home",
-    "la"
-  ]
+  "registrableIn": ["rs", "e", "b2w2", "oras", "go", "swsh", "home", "la"]
 }

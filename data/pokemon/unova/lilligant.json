@@ -38,13 +38,7 @@
   "canDynamax": true,
   "canBeAlpha": false,
   "debutIn": "bw",
-  "obtainableIn": [
-    "bw",
-    "b2w2",
-    "go",
-    "swsh",
-    "sv"
-  ],
+  "obtainableIn": ["bw", "b2w2", "go", "swsh", "sv"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": [
@@ -75,9 +69,7 @@
   "femaleRate": 100,
   "baseSpecies": null,
   "baseForms": [],
-  "forms": [
-    "lilligant-hisui"
-  ],
+  "forms": ["lilligant-hisui"],
   "evolvesFrom": {
     "pokemon": "petilil",
     "item": "sunstone",
@@ -90,14 +82,5 @@
     "bulbapedia": "Lilligant",
     "showdownName": "Lilligant"
   },
-  "registrableIn": [
-    "bw",
-    "b2w2",
-    "go",
-    "sm",
-    "usum",
-    "swsh",
-    "home",
-    "sv"
-  ]
+  "registrableIn": ["bw", "b2w2", "go", "sm", "usum", "swsh", "home", "sv"]
 }

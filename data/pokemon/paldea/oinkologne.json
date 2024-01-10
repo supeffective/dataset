@@ -38,17 +38,10 @@
   "canDynamax": false,
   "canBeAlpha": false,
   "debutIn": "sv",
-  "obtainableIn": [
-    "go",
-    "sv"
-  ],
+  "obtainableIn": ["go", "sv"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
-  "storableIn": [
-    "go",
-    "home",
-    "sv"
-  ],
+  "storableIn": ["go", "home", "sv"],
   "shinyReleased": true,
   "shinyBase": null,
   "baseStats": {
@@ -65,9 +58,7 @@
   "femaleRate": 0,
   "baseSpecies": null,
   "baseForms": [],
-  "forms": [
-    "oinkologne-f"
-  ],
+  "forms": ["oinkologne-f"],
   "evolvesFrom": {
     "pokemon": "lechonk",
     "level": 18
@@ -79,9 +70,5 @@
     "bulbapedia": "Oinkologne",
     "showdownName": "Oinkologne"
   },
-  "registrableIn": [
-    "go",
-    "home",
-    "sv"
-  ]
+  "registrableIn": ["go", "home", "sv"]
 }

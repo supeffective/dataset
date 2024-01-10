@@ -38,13 +38,7 @@
   "canDynamax": true,
   "canBeAlpha": false,
   "debutIn": "gs",
-  "obtainableIn": [
-    "gs",
-    "c",
-    "hgss",
-    "go",
-    "bdsp"
-  ],
+  "obtainableIn": ["gs", "c", "hgss", "go", "bdsp"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": [
@@ -82,9 +76,7 @@
   "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
-  "forms": [
-    "ledyba-f"
-  ],
+  "forms": ["ledyba-f"],
   "evolvesFrom": null,
   "refs": {
     "smogon": "ledyba",
@@ -93,14 +85,5 @@
     "bulbapedia": "Ledyba",
     "showdownName": "Ledyba"
   },
-  "registrableIn": [
-    "gs",
-    "c",
-    "hgss",
-    "xy",
-    "go",
-    "sm",
-    "usum",
-    "home"
-  ]
+  "registrableIn": ["gs", "c", "hgss", "xy", "go", "sm", "usum", "home"]
 }

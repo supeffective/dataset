@@ -38,18 +38,10 @@
   "canDynamax": false,
   "canBeAlpha": false,
   "debutIn": "swsh",
-  "obtainableIn": [
-    "go",
-    "swsh"
-  ],
+  "obtainableIn": ["go", "swsh"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
-  "storableIn": [
-    "go",
-    "swsh",
-    "home",
-    "sv"
-  ],
+  "storableIn": ["go", "swsh", "home", "sv"],
   "shinyReleased": true,
   "shinyBase": null,
   "baseStats": {
@@ -66,9 +58,7 @@
   "femaleRate": 0,
   "baseSpecies": null,
   "baseForms": [],
-  "forms": [
-    "zacian-crowned"
-  ],
+  "forms": ["zacian-crowned"],
   "evolvesFrom": null,
   "refs": {
     "smogon": "zacian",
@@ -77,9 +67,5 @@
     "bulbapedia": "Zacian",
     "showdownName": "Zacian"
   },
-  "registrableIn": [
-    "go",
-    "swsh",
-    "home"
-  ]
+  "registrableIn": ["go", "swsh", "home"]
 }

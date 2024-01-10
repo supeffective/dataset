@@ -38,11 +38,7 @@
   "canDynamax": true,
   "canBeAlpha": false,
   "debutIn": "sm",
-  "obtainableIn": [
-    "sm",
-    "usum",
-    "sv"
-  ],
+  "obtainableIn": ["sm", "usum", "sv"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": [],
@@ -87,10 +83,5 @@
     "bulbapedia": "Minior Meteor Form",
     "showdownName": "Minior-Meteor"
   },
-  "registrableIn": [
-    "sm",
-    "usum",
-    "home",
-    "sv"
-  ]
+  "registrableIn": ["sm", "usum", "home", "sv"]
 }

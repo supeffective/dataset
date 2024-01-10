@@ -38,17 +38,10 @@
   "canDynamax": false,
   "canBeAlpha": true,
   "debutIn": "la",
-  "obtainableIn": [
-    "la",
-    "sv"
-  ],
+  "obtainableIn": ["la", "sv"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
-  "storableIn": [
-    "home",
-    "la",
-    "sv"
-  ],
+  "storableIn": ["home", "la", "sv"],
   "shinyReleased": true,
   "shinyBase": null,
   "baseStats": {
@@ -65,9 +58,7 @@
   "femaleRate": 0,
   "baseSpecies": null,
   "baseForms": [],
-  "forms": [
-    "basculegion-f"
-  ],
+  "forms": ["basculegion-f"],
   "evolvesFrom": {
     "pokemon": "basculin-white-striped",
     "type": "other",
@@ -80,9 +71,5 @@
     "bulbapedia": "Basculegion",
     "showdownName": "Basculegion"
   },
-  "registrableIn": [
-    "home",
-    "la",
-    "sv"
-  ]
+  "registrableIn": ["home", "la", "sv"]
 }

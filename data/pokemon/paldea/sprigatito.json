@@ -40,17 +40,10 @@
   "canDynamax": false,
   "canBeAlpha": false,
   "debutIn": "sv",
-  "obtainableIn": [
-    "go",
-    "sv"
-  ],
+  "obtainableIn": ["go", "sv"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
-  "storableIn": [
-    "go",
-    "home",
-    "sv"
-  ],
+  "storableIn": ["go", "home", "sv"],
   "shinyReleased": true,
   "shinyBase": null,
   "baseStats": {
@@ -79,9 +72,5 @@
     "bulbapedia": "Sprigatito",
     "showdownName": "Sprigatito"
   },
-  "registrableIn": [
-    "go",
-    "home",
-    "sv"
-  ]
+  "registrableIn": ["go", "home", "sv"]
 }

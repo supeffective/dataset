@@ -38,19 +38,10 @@
   "canDynamax": true,
   "canBeAlpha": false,
   "debutIn": "swsh",
-  "obtainableIn": [
-    "go",
-    "swsh",
-    "sv"
-  ],
+  "obtainableIn": ["go", "swsh", "sv"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
-  "storableIn": [
-    "go",
-    "swsh",
-    "home",
-    "sv"
-  ],
+  "storableIn": ["go", "swsh", "home", "sv"],
   "shinyReleased": true,
   "shinyBase": null,
   "baseStats": {
@@ -79,9 +70,5 @@
     "bulbapedia": "Perrserker",
     "showdownName": "Perrserker"
   },
-  "registrableIn": [
-    "go",
-    "swsh",
-    "home"
-  ]
+  "registrableIn": ["go", "swsh", "home"]
 }

@@ -38,24 +38,10 @@
   "canDynamax": true,
   "canBeAlpha": false,
   "debutIn": "bw",
-  "obtainableIn": [
-    "go"
-  ],
+  "obtainableIn": ["go"],
   "versionExclusiveIn": [],
-  "eventOnlyIn": [
-    "bw",
-    "oras"
-  ],
-  "storableIn": [
-    "bw",
-    "b2w2",
-    "xy",
-    "oras",
-    "go",
-    "sm",
-    "usum",
-    "swsh"
-  ],
+  "eventOnlyIn": ["bw", "oras"],
+  "storableIn": ["bw", "b2w2", "xy", "oras", "go", "sm", "usum", "swsh"],
   "shinyReleased": true,
   "shinyBase": null,
   "baseStats": {
@@ -71,9 +57,7 @@
   "maleRate": 0,
   "femaleRate": 0,
   "baseSpecies": "genesect",
-  "baseForms": [
-    "genesect"
-  ],
+  "baseForms": ["genesect"],
   "forms": [],
   "evolvesFrom": null,
   "refs": {
@@ -83,10 +67,5 @@
     "bulbapedia": "Genesect",
     "showdownName": "Genesect-Burn"
   },
-  "registrableIn": [
-    "bw",
-    "b2w2",
-    "go",
-    "home"
-  ]
+  "registrableIn": ["bw", "b2w2", "go", "home"]
 }

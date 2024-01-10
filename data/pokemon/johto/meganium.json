@@ -38,14 +38,7 @@
   "canDynamax": true,
   "canBeAlpha": false,
   "debutIn": "gs",
-  "obtainableIn": [
-    "gs",
-    "c",
-    "hgss",
-    "go",
-    "bdsp",
-    "sv"
-  ],
+  "obtainableIn": ["gs", "c", "hgss", "go", "bdsp", "sv"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": [
@@ -84,9 +77,7 @@
   "femaleRate": 12.5,
   "baseSpecies": null,
   "baseForms": [],
-  "forms": [
-    "meganium-f"
-  ],
+  "forms": ["meganium-f"],
   "evolvesFrom": {
     "pokemon": "bayleef",
     "level": 32
@@ -98,12 +89,5 @@
     "bulbapedia": "Meganium",
     "showdownName": "Meganium"
   },
-  "registrableIn": [
-    "gs",
-    "c",
-    "hgss",
-    "go",
-    "home",
-    "sv"
-  ]
+  "registrableIn": ["gs", "c", "hgss", "go", "home", "sv"]
 }

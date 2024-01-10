@@ -38,23 +38,10 @@
   "canDynamax": true,
   "canBeAlpha": false,
   "debutIn": "sm",
-  "obtainableIn": [
-    "go",
-    "sm",
-    "usum",
-    "swsh",
-    "sv"
-  ],
+  "obtainableIn": ["go", "sm", "usum", "swsh", "sv"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
-  "storableIn": [
-    "go",
-    "sm",
-    "usum",
-    "swsh",
-    "home",
-    "sv"
-  ],
+  "storableIn": ["go", "sm", "usum", "swsh", "home", "sv"],
   "shinyReleased": true,
   "shinyBase": null,
   "baseStats": {
@@ -83,11 +70,5 @@
     "bulbapedia": "Torracat",
     "showdownName": "Torracat"
   },
-  "registrableIn": [
-    "go",
-    "sm",
-    "usum",
-    "home",
-    "sv"
-  ]
+  "registrableIn": ["go", "sm", "usum", "home", "sv"]
 }

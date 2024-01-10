@@ -38,22 +38,10 @@
   "canDynamax": true,
   "canBeAlpha": false,
   "debutIn": "xy",
-  "obtainableIn": [
-    "xy",
-    "go",
-    "swsh"
-  ],
+  "obtainableIn": ["xy", "go", "swsh"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
-  "storableIn": [
-    "xy",
-    "oras",
-    "go",
-    "sm",
-    "usum",
-    "swsh",
-    "home"
-  ],
+  "storableIn": ["xy", "oras", "go", "sm", "usum", "swsh", "home"],
   "shinyReleased": true,
   "shinyBase": null,
   "baseStats": {
@@ -83,11 +71,5 @@
     "bulbapedia": "Aurorus",
     "showdownName": "Aurorus"
   },
-  "registrableIn": [
-    "xy",
-    "go",
-    "usum",
-    "swsh",
-    "home"
-  ]
+  "registrableIn": ["xy", "go", "usum", "swsh", "home"]
 }

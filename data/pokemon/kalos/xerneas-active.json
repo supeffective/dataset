@@ -38,11 +38,7 @@
   "canDynamax": true,
   "canBeAlpha": false,
   "debutIn": "xy",
-  "obtainableIn": [
-    "xy",
-    "go",
-    "swsh"
-  ],
+  "obtainableIn": ["xy", "go", "swsh"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": [],
@@ -61,9 +57,7 @@
   "maleRate": 0,
   "femaleRate": 0,
   "baseSpecies": "xerneas",
-  "baseForms": [
-    "xerneas"
-  ],
+  "baseForms": ["xerneas"],
   "forms": [],
   "evolvesFrom": null,
   "refs": {
@@ -73,9 +67,5 @@
     "bulbapedia": "Xerneas",
     "showdownName": "Xerneas"
   },
-  "registrableIn": [
-    "xy",
-    "go",
-    "home"
-  ]
+  "registrableIn": ["xy", "go", "home"]
 }

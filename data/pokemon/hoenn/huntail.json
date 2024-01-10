@@ -38,13 +38,7 @@
   "canDynamax": true,
   "canBeAlpha": false,
   "debutIn": "rs",
-  "obtainableIn": [
-    "rs",
-    "e",
-    "oras",
-    "go",
-    "bdsp"
-  ],
+  "obtainableIn": ["rs", "e", "oras", "go", "bdsp"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": [
@@ -93,13 +87,5 @@
     "bulbapedia": "Huntail",
     "showdownName": "Huntail"
   },
-  "registrableIn": [
-    "rs",
-    "e",
-    "xy",
-    "oras",
-    "go",
-    "usum",
-    "home"
-  ]
+  "registrableIn": ["rs", "e", "xy", "oras", "go", "usum", "home"]
 }

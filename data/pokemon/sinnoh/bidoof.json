@@ -38,13 +38,7 @@
   "canDynamax": true,
   "canBeAlpha": true,
   "debutIn": "dp",
-  "obtainableIn": [
-    "dp",
-    "pt",
-    "go",
-    "bdsp",
-    "la"
-  ],
+  "obtainableIn": ["dp", "pt", "go", "bdsp", "la"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": [
@@ -78,9 +72,7 @@
   "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
-  "forms": [
-    "bidoof-f"
-  ],
+  "forms": ["bidoof-f"],
   "evolvesFrom": null,
   "refs": {
     "smogon": "bidoof",
@@ -89,13 +81,5 @@
     "bulbapedia": "Bidoof",
     "showdownName": "Bidoof"
   },
-  "registrableIn": [
-    "dp",
-    "pt",
-    "xy",
-    "go",
-    "home",
-    "bdsp",
-    "la"
-  ]
+  "registrableIn": ["dp", "pt", "xy", "go", "home", "bdsp", "la"]
 }

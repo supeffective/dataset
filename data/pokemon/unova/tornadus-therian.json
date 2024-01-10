@@ -38,12 +38,7 @@
   "canDynamax": true,
   "canBeAlpha": false,
   "debutIn": "b2w2",
-  "obtainableIn": [
-    "b2w2",
-    "go",
-    "swsh",
-    "la"
-  ],
+  "obtainableIn": ["b2w2", "go", "swsh", "la"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": [
@@ -73,9 +68,7 @@
   "maleRate": 100,
   "femaleRate": 0,
   "baseSpecies": "tornadus",
-  "baseForms": [
-    "tornadus"
-  ],
+  "baseForms": ["tornadus"],
   "forms": [],
   "evolvesFrom": null,
   "refs": {
@@ -85,10 +78,5 @@
     "bulbapedia": "Tornadus",
     "showdownName": "Tornadus-Therian"
   },
-  "registrableIn": [
-    "b2w2",
-    "go",
-    "home",
-    "la"
-  ]
+  "registrableIn": ["b2w2", "go", "home", "la"]
 }

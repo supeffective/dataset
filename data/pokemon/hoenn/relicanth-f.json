@@ -38,12 +38,7 @@
   "canDynamax": true,
   "canBeAlpha": false,
   "debutIn": "dp",
-  "obtainableIn": [
-    "oras",
-    "go",
-    "swsh",
-    "bdsp"
-  ],
+  "obtainableIn": ["oras", "go", "swsh", "bdsp"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": [
@@ -86,13 +81,5 @@
     "bulbapedia": "Relicanth",
     "showdownName": "Relicanth"
   },
-  "registrableIn": [
-    "xy",
-    "oras",
-    "go",
-    "sm",
-    "usum",
-    "swsh",
-    "home"
-  ]
+  "registrableIn": ["xy", "oras", "go", "sm", "usum", "swsh", "home"]
 }

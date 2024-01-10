@@ -38,15 +38,7 @@
   "canDynamax": true,
   "canBeAlpha": false,
   "debutIn": "gs",
-  "obtainableIn": [
-    "gs",
-    "c",
-    "hgss",
-    "go",
-    "swsh",
-    "bdsp",
-    "sv"
-  ],
+  "obtainableIn": ["gs", "c", "hgss", "go", "swsh", "bdsp", "sv"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": [
@@ -99,13 +91,5 @@
     "bulbapedia": "Hitmontop",
     "showdownName": "Hitmontop"
   },
-  "registrableIn": [
-    "gs",
-    "c",
-    "hgss",
-    "go",
-    "swsh",
-    "home",
-    "sv"
-  ]
+  "registrableIn": ["gs", "c", "hgss", "go", "swsh", "home", "sv"]
 }

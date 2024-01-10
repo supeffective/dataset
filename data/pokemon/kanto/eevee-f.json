@@ -38,23 +38,10 @@
   "canDynamax": true,
   "canBeAlpha": true,
   "debutIn": "swsh",
-  "obtainableIn": [
-    "go",
-    "swsh",
-    "bdsp",
-    "la",
-    "sv"
-  ],
+  "obtainableIn": ["go", "swsh", "bdsp", "la", "sv"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
-  "storableIn": [
-    "go",
-    "swsh",
-    "home",
-    "bdsp",
-    "la",
-    "sv"
-  ],
+  "storableIn": ["go", "swsh", "home", "bdsp", "la", "sv"],
   "shinyReleased": true,
   "shinyBase": null,
   "baseStats": {
@@ -80,11 +67,5 @@
     "bulbapedia": "Eevee",
     "showdownName": "Eevee"
   },
-  "registrableIn": [
-    "go",
-    "swsh",
-    "home",
-    "la",
-    "sv"
-  ]
+  "registrableIn": ["go", "swsh", "home", "la", "sv"]
 }

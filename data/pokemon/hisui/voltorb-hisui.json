@@ -38,18 +38,10 @@
   "canDynamax": false,
   "canBeAlpha": true,
   "debutIn": "la",
-  "obtainableIn": [
-    "go",
-    "la"
-  ],
+  "obtainableIn": ["go", "la"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
-  "storableIn": [
-    "go",
-    "home",
-    "la",
-    "sv"
-  ],
+  "storableIn": ["go", "home", "la", "sv"],
   "shinyReleased": true,
   "shinyBase": null,
   "baseStats": {
@@ -75,10 +67,5 @@
     "bulbapedia": "Voltorb",
     "showdownName": "Voltorb-Hisui"
   },
-  "registrableIn": [
-    "go",
-    "home",
-    "la",
-    "sv"
-  ]
+  "registrableIn": ["go", "home", "la", "sv"]
 }

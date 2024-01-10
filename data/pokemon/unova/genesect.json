@@ -38,14 +38,9 @@
   "canDynamax": true,
   "canBeAlpha": false,
   "debutIn": "bw",
-  "obtainableIn": [
-    "go"
-  ],
+  "obtainableIn": ["go"],
   "versionExclusiveIn": [],
-  "eventOnlyIn": [
-    "bw",
-    "oras"
-  ],
+  "eventOnlyIn": ["bw", "oras"],
   "storableIn": [
     "bw",
     "b2w2",
@@ -87,10 +82,5 @@
     "bulbapedia": "Genesect",
     "showdownName": "Genesect"
   },
-  "registrableIn": [
-    "bw",
-    "b2w2",
-    "go",
-    "home"
-  ]
+  "registrableIn": ["bw", "b2w2", "go", "home"]
 }

@@ -38,15 +38,10 @@
   "canDynamax": false,
   "canBeAlpha": false,
   "debutIn": "oras",
-  "obtainableIn": [
-    "oras",
-    "go"
-  ],
+  "obtainableIn": ["oras", "go"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
-  "storableIn": [
-    "go"
-  ],
+  "storableIn": ["go"],
   "shinyReleased": true,
   "shinyBase": null,
   "baseStats": {
@@ -62,9 +57,7 @@
   "maleRate": 50,
   "femaleRate": 50,
   "baseSpecies": "sableye",
-  "baseForms": [
-    "sableye"
-  ],
+  "baseForms": ["sableye"],
   "forms": [],
   "evolvesFrom": null,
   "refs": {
@@ -74,9 +67,5 @@
     "bulbapedia": "Sableye",
     "showdownName": "Sableye-Mega"
   },
-  "registrableIn": [
-    "oras",
-    "go",
-    "home"
-  ]
+  "registrableIn": ["oras", "go", "home"]
 }

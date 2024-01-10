@@ -38,21 +38,10 @@
   "canDynamax": true,
   "canBeAlpha": false,
   "debutIn": "xy",
-  "obtainableIn": [
-    "sv"
-  ],
+  "obtainableIn": ["sv"],
   "versionExclusiveIn": [],
-  "eventOnlyIn": [
-    "xy"
-  ],
-  "storableIn": [
-    "xy",
-    "oras",
-    "sm",
-    "usum",
-    "home",
-    "sv"
-  ],
+  "eventOnlyIn": ["xy"],
+  "storableIn": ["xy", "oras", "sm", "usum", "home", "sv"],
   "shinyReleased": true,
   "shinyBase": null,
   "baseStats": {
@@ -81,9 +70,5 @@
     "bulbapedia": "Vivillon",
     "showdownName": "Vivillon-Fancy"
   },
-  "registrableIn": [
-    "xy",
-    "home",
-    "sv"
-  ]
+  "registrableIn": ["xy", "home", "sv"]
 }

@@ -38,14 +38,9 @@
   "canDynamax": true,
   "canBeAlpha": false,
   "debutIn": "gs",
-  "obtainableIn": [
-    "c"
-  ],
+  "obtainableIn": ["c"],
   "versionExclusiveIn": [],
-  "eventOnlyIn": [
-    "go",
-    "swsh"
-  ],
+  "eventOnlyIn": ["go", "swsh"],
   "storableIn": [
     "gs",
     "c",
@@ -91,11 +86,5 @@
     "bulbapedia": "Celebi",
     "showdownName": "Celebi"
   },
-  "registrableIn": [
-    "gs",
-    "c",
-    "hgss",
-    "go",
-    "home"
-  ]
+  "registrableIn": ["gs", "c", "hgss", "go", "home"]
 }

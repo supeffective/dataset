@@ -38,15 +38,9 @@
   "canDynamax": true,
   "canBeAlpha": false,
   "debutIn": "dp",
-  "obtainableIn": [
-    "dp",
-    "pt",
-    "la"
-  ],
+  "obtainableIn": ["dp", "pt", "la"],
   "versionExclusiveIn": [],
-  "eventOnlyIn": [
-    "bdsp"
-  ],
+  "eventOnlyIn": ["bdsp"],
   "storableIn": [
     "dp",
     "pt",
@@ -86,11 +80,5 @@
     "bulbapedia": "Manaphy",
     "showdownName": "Manaphy"
   },
-  "registrableIn": [
-    "dp",
-    "pt",
-    "home",
-    "bdsp",
-    "la"
-  ]
+  "registrableIn": ["dp", "pt", "home", "bdsp", "la"]
 }

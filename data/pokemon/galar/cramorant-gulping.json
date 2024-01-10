@@ -38,10 +38,7 @@
   "canDynamax": true,
   "canBeAlpha": false,
   "debutIn": "swsh",
-  "obtainableIn": [
-    "swsh",
-    "sv"
-  ],
+  "obtainableIn": ["swsh", "sv"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": [],
@@ -60,9 +57,7 @@
   "maleRate": 50,
   "femaleRate": 50,
   "baseSpecies": "cramorant",
-  "baseForms": [
-    "cramorant"
-  ],
+  "baseForms": ["cramorant"],
   "forms": [],
   "evolvesFrom": null,
   "refs": {
@@ -72,9 +67,5 @@
     "bulbapedia": "Cramorant",
     "showdownName": "Cramorant-Gulping"
   },
-  "registrableIn": [
-    "swsh",
-    "home",
-    "sv"
-  ]
+  "registrableIn": ["swsh", "home", "sv"]
 }

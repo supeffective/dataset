@@ -38,14 +38,7 @@
   "canDynamax": true,
   "canBeAlpha": true,
   "debutIn": "dp",
-  "obtainableIn": [
-    "dp",
-    "pt",
-    "go",
-    "swsh",
-    "bdsp",
-    "la"
-  ],
+  "obtainableIn": ["dp", "pt", "go", "swsh", "bdsp", "la"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": [
@@ -93,13 +86,5 @@
     "bulbapedia": "Tangrowth",
     "showdownName": "Tangrowth"
   },
-  "registrableIn": [
-    "pt",
-    "hgss",
-    "b2w2",
-    "go",
-    "swsh",
-    "home",
-    "la"
-  ]
+  "registrableIn": ["pt", "hgss", "b2w2", "go", "swsh", "home", "la"]
 }

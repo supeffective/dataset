@@ -38,15 +38,7 @@
   "canDynamax": true,
   "canBeAlpha": false,
   "debutIn": "gs",
-  "obtainableIn": [
-    "gs",
-    "c",
-    "hgss",
-    "go",
-    "swsh",
-    "bdsp",
-    "sv"
-  ],
+  "obtainableIn": ["gs", "c", "hgss", "go", "swsh", "bdsp", "sv"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": [
@@ -86,9 +78,7 @@
   "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
-  "forms": [
-    "qwilfish-hisui"
-  ],
+  "forms": ["qwilfish-hisui"],
   "evolvesFrom": null,
   "refs": {
     "smogon": "qwilfish",
@@ -97,14 +87,5 @@
     "bulbapedia": "Qwilfish",
     "showdownName": "Qwilfish"
   },
-  "registrableIn": [
-    "gs",
-    "c",
-    "hgss",
-    "xy",
-    "go",
-    "swsh",
-    "home",
-    "sv"
-  ]
+  "registrableIn": ["gs", "c", "hgss", "xy", "go", "swsh", "home", "sv"]
 }

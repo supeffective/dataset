@@ -38,16 +38,7 @@
   "canDynamax": true,
   "canBeAlpha": false,
   "debutIn": "dp",
-  "obtainableIn": [
-    "hgss",
-    "xy",
-    "go",
-    "usum",
-    "lgpe",
-    "swsh",
-    "bdsp",
-    "sv"
-  ],
+  "obtainableIn": ["hgss", "xy", "go", "usum", "lgpe", "swsh", "bdsp", "sv"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": [
@@ -95,13 +86,5 @@
     "bulbapedia": "Venusaur",
     "showdownName": "Venusaur"
   },
-  "registrableIn": [
-    "hgss",
-    "xy",
-    "go",
-    "lgpe",
-    "swsh",
-    "home",
-    "sv"
-  ]
+  "registrableIn": ["hgss", "xy", "go", "lgpe", "swsh", "home", "sv"]
 }

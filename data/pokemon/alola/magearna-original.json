@@ -38,20 +38,10 @@
   "canDynamax": true,
   "canBeAlpha": false,
   "debutIn": "home",
-  "obtainableIn": [
-    "home"
-  ],
+  "obtainableIn": ["home"],
   "versionExclusiveIn": [],
-  "eventOnlyIn": [
-    "home"
-  ],
-  "storableIn": [
-    "sm",
-    "usum",
-    "swsh",
-    "home",
-    "sv"
-  ],
+  "eventOnlyIn": ["home"],
+  "storableIn": ["sm", "usum", "swsh", "home", "sv"],
   "shinyReleased": false,
   "shinyBase": null,
   "baseStats": {
@@ -77,9 +67,5 @@
     "bulbapedia": "Magearna",
     "showdownName": "Magearna-Original"
   },
-  "registrableIn": [
-    "sm",
-    "usum",
-    "home"
-  ]
+  "registrableIn": ["sm", "usum", "home"]
 }

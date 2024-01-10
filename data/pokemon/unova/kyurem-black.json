@@ -29,10 +29,7 @@
   "isBattleOnlyForm": false,
   "isSwitchableForm": true,
   "isFusion": true,
-  "fusedWith": [
-    "kyurem",
-    "reshiram"
-  ],
+  "fusedWith": ["kyurem", "reshiram"],
   "isMega": false,
   "isPrimal": false,
   "isGmax": false,
@@ -41,20 +38,10 @@
   "canDynamax": true,
   "canBeAlpha": false,
   "debutIn": "b2w2",
-  "obtainableIn": [
-    "b2w2",
-    "swsh"
-  ],
+  "obtainableIn": ["b2w2", "swsh"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
-  "storableIn": [
-    "b2w2",
-    "xy",
-    "oras",
-    "sm",
-    "usum",
-    "swsh"
-  ],
+  "storableIn": ["b2w2", "xy", "oras", "sm", "usum", "swsh"],
   "shinyReleased": true,
   "shinyBase": null,
   "baseStats": {
@@ -70,9 +57,7 @@
   "maleRate": 0,
   "femaleRate": 0,
   "baseSpecies": "kyurem",
-  "baseForms": [
-    "kyurem"
-  ],
+  "baseForms": ["kyurem"],
   "forms": [],
   "evolvesFrom": null,
   "refs": {
@@ -82,8 +67,5 @@
     "bulbapedia": "Kyurem",
     "showdownName": "Kyurem-Black"
   },
-  "registrableIn": [
-    "b2w2",
-    "home"
-  ]
+  "registrableIn": ["b2w2", "home"]
 }

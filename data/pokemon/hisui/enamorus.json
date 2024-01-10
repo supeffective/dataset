@@ -38,16 +38,10 @@
   "canDynamax": false,
   "canBeAlpha": false,
   "debutIn": "la",
-  "obtainableIn": [
-    "la"
-  ],
+  "obtainableIn": ["la"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
-  "storableIn": [
-    "home",
-    "la",
-    "sv"
-  ],
+  "storableIn": ["home", "la", "sv"],
   "shinyReleased": false,
   "shinyBase": null,
   "baseStats": {
@@ -64,9 +58,7 @@
   "femaleRate": 100,
   "baseSpecies": null,
   "baseForms": [],
-  "forms": [
-    "enamorus-therian"
-  ],
+  "forms": ["enamorus-therian"],
   "evolvesFrom": null,
   "refs": {
     "smogon": "enamorus",
@@ -75,8 +67,5 @@
     "bulbapedia": "Enamorus",
     "showdownName": "Enamorus"
   },
-  "registrableIn": [
-    "home",
-    "la"
-  ]
+  "registrableIn": ["home", "la"]
 }

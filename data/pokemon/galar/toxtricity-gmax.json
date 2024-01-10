@@ -38,9 +38,7 @@
   "canDynamax": false,
   "canBeAlpha": false,
   "debutIn": "swsh",
-  "obtainableIn": [
-    "swsh"
-  ],
+  "obtainableIn": ["swsh"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": [],
@@ -59,9 +57,7 @@
   "maleRate": 50,
   "femaleRate": 50,
   "baseSpecies": "toxtricity",
-  "baseForms": [
-    "toxtricity"
-  ],
+  "baseForms": ["toxtricity"],
   "forms": [],
   "evolvesFrom": null,
   "refs": {
@@ -71,8 +67,5 @@
     "bulbapedia": "Toxtricity",
     "showdownName": "Toxtricity-Gmax"
   },
-  "registrableIn": [
-    "swsh",
-    "home"
-  ]
+  "registrableIn": ["swsh", "home"]
 }

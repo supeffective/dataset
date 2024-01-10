@@ -38,21 +38,10 @@
   "canDynamax": true,
   "canBeAlpha": false,
   "debutIn": "sm",
-  "obtainableIn": [
-    "go",
-    "sm",
-    "usum",
-    "sv"
-  ],
+  "obtainableIn": ["go", "sm", "usum", "sv"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
-  "storableIn": [
-    "go",
-    "sm",
-    "usum",
-    "home",
-    "sv"
-  ],
+  "storableIn": ["go", "sm", "usum", "home", "sv"],
   "shinyReleased": true,
   "shinyBase": null,
   "baseStats": {
@@ -78,11 +67,5 @@
     "bulbapedia": "Oricorio",
     "showdownName": "Oricorio-Pom-Pom"
   },
-  "registrableIn": [
-    "go",
-    "sm",
-    "usum",
-    "home",
-    "sv"
-  ]
+  "registrableIn": ["go", "sm", "usum", "home", "sv"]
 }

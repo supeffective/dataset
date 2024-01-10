@@ -38,14 +38,7 @@
   "canDynamax": true,
   "canBeAlpha": false,
   "debutIn": "gs",
-  "obtainableIn": [
-    "gs",
-    "c",
-    "hgss",
-    "go",
-    "bdsp",
-    "sv"
-  ],
+  "obtainableIn": ["gs", "c", "hgss", "go", "bdsp", "sv"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": [
@@ -93,12 +86,5 @@
     "bulbapedia": "Totodile",
     "showdownName": "Totodile"
   },
-  "registrableIn": [
-    "gs",
-    "c",
-    "hgss",
-    "go",
-    "home",
-    "sv"
-  ]
+  "registrableIn": ["gs", "c", "hgss", "go", "home", "sv"]
 }

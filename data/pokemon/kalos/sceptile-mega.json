@@ -38,15 +38,10 @@
   "canDynamax": false,
   "canBeAlpha": false,
   "debutIn": "oras",
-  "obtainableIn": [
-    "oras",
-    "go"
-  ],
+  "obtainableIn": ["oras", "go"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
-  "storableIn": [
-    "go"
-  ],
+  "storableIn": ["go"],
   "shinyReleased": true,
   "shinyBase": null,
   "baseStats": {
@@ -62,9 +57,7 @@
   "maleRate": 87.5,
   "femaleRate": 12.5,
   "baseSpecies": "sceptile",
-  "baseForms": [
-    "sceptile"
-  ],
+  "baseForms": ["sceptile"],
   "forms": [],
   "evolvesFrom": null,
   "refs": {
@@ -74,9 +67,5 @@
     "bulbapedia": "Sceptile",
     "showdownName": "Sceptile-Mega"
   },
-  "registrableIn": [
-    "oras",
-    "go",
-    "home"
-  ]
+  "registrableIn": ["oras", "go", "home"]
 }

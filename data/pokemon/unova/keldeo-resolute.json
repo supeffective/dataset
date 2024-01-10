@@ -38,22 +38,10 @@
   "canDynamax": true,
   "canBeAlpha": false,
   "debutIn": "b2w2",
-  "obtainableIn": [
-    "swsh"
-  ],
+  "obtainableIn": ["swsh"],
   "versionExclusiveIn": [],
-  "eventOnlyIn": [
-    "oras"
-  ],
-  "storableIn": [
-    "b2w2",
-    "xy",
-    "oras",
-    "sm",
-    "usum",
-    "swsh",
-    "home"
-  ],
+  "eventOnlyIn": ["oras"],
+  "storableIn": ["b2w2", "xy", "oras", "sm", "usum", "swsh", "home"],
   "shinyReleased": false,
   "shinyBase": null,
   "baseStats": {
@@ -69,9 +57,7 @@
   "maleRate": 0,
   "femaleRate": 0,
   "baseSpecies": "keldeo",
-  "baseForms": [
-    "keldeo"
-  ],
+  "baseForms": ["keldeo"],
   "forms": [],
   "evolvesFrom": null,
   "refs": {
@@ -81,8 +67,5 @@
     "bulbapedia": "Keldeo",
     "showdownName": "Keldeo-Resolute"
   },
-  "registrableIn": [
-    "b2w2",
-    "home"
-  ]
+  "registrableIn": ["b2w2", "home"]
 }

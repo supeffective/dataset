@@ -38,12 +38,7 @@
   "canDynamax": true,
   "canBeAlpha": false,
   "debutIn": "dp",
-  "obtainableIn": [
-    "oras",
-    "go",
-    "bdsp",
-    "sv"
-  ],
+  "obtainableIn": ["oras", "go", "bdsp", "sv"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": [
@@ -89,11 +84,5 @@
     "bulbapedia": "Swalot",
     "showdownName": "Swalot"
   },
-  "registrableIn": [
-    "xy",
-    "oras",
-    "go",
-    "home",
-    "sv"
-  ]
+  "registrableIn": ["xy", "oras", "go", "home", "sv"]
 }

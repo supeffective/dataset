@@ -40,15 +40,8 @@
   "debutIn": "usum",
   "obtainableIn": [],
   "versionExclusiveIn": [],
-  "eventOnlyIn": [
-    "usum",
-    "swsh"
-  ],
-  "storableIn": [
-    "usum",
-    "swsh",
-    "home"
-  ],
+  "eventOnlyIn": ["usum", "swsh"],
+  "storableIn": ["usum", "swsh", "home"],
   "shinyReleased": true,
   "shinyBase": null,
   "baseStats": {
@@ -74,8 +67,5 @@
     "bulbapedia": "Zeraora",
     "showdownName": "Zeraora"
   },
-  "registrableIn": [
-    "usum",
-    "home"
-  ]
+  "registrableIn": ["usum", "home"]
 }

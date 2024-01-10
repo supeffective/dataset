@@ -38,14 +38,7 @@
   "canDynamax": true,
   "canBeAlpha": true,
   "debutIn": "dp",
-  "obtainableIn": [
-    "dp",
-    "pt",
-    "go",
-    "bdsp",
-    "la",
-    "sv"
-  ],
+  "obtainableIn": ["dp", "pt", "go", "bdsp", "la", "sv"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": [
@@ -94,13 +87,5 @@
     "bulbapedia": "Gliscor",
     "showdownName": "Gliscor"
   },
-  "registrableIn": [
-    "pt",
-    "b2w2",
-    "xy",
-    "go",
-    "home",
-    "la",
-    "sv"
-  ]
+  "registrableIn": ["pt", "b2w2", "xy", "go", "home", "la", "sv"]
 }

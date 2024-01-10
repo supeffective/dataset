@@ -38,18 +38,10 @@
   "canDynamax": false,
   "canBeAlpha": true,
   "debutIn": "la",
-  "obtainableIn": [
-    "go",
-    "la"
-  ],
+  "obtainableIn": ["go", "la"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
-  "storableIn": [
-    "go",
-    "home",
-    "la",
-    "sv"
-  ],
+  "storableIn": ["go", "home", "la", "sv"],
   "shinyReleased": true,
   "shinyBase": null,
   "baseStats": {
@@ -80,9 +72,5 @@
     "bulbapedia": "Sneasler",
     "showdownName": "Sneasler"
   },
-  "registrableIn": [
-    "go",
-    "home",
-    "la"
-  ]
+  "registrableIn": ["go", "home", "la"]
 }

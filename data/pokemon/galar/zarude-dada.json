@@ -40,14 +40,8 @@
   "debutIn": "swsh",
   "obtainableIn": [],
   "versionExclusiveIn": [],
-  "eventOnlyIn": [
-    "swsh"
-  ],
-  "storableIn": [
-    "swsh",
-    "home",
-    "sv"
-  ],
+  "eventOnlyIn": ["swsh"],
+  "storableIn": ["swsh", "home", "sv"],
   "shinyReleased": false,
   "shinyBase": null,
   "baseStats": {
@@ -73,8 +67,5 @@
     "bulbapedia": "Zarude",
     "showdownName": "Zarude-Dada"
   },
-  "registrableIn": [
-    "swsh",
-    "home"
-  ]
+  "registrableIn": ["swsh", "home"]
 }

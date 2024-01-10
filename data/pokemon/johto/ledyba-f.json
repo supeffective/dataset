@@ -38,11 +38,7 @@
   "canDynamax": true,
   "canBeAlpha": false,
   "debutIn": "dp",
-  "obtainableIn": [
-    "hgss",
-    "go",
-    "bdsp"
-  ],
+  "obtainableIn": ["hgss", "go", "bdsp"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": [
@@ -84,12 +80,5 @@
     "bulbapedia": "Ledyba",
     "showdownName": "Ledyba"
   },
-  "registrableIn": [
-    "hgss",
-    "xy",
-    "go",
-    "sm",
-    "usum",
-    "home"
-  ]
+  "registrableIn": ["hgss", "xy", "go", "sm", "usum", "home"]
 }

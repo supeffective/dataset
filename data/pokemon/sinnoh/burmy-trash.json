@@ -38,13 +38,7 @@
   "canDynamax": true,
   "canBeAlpha": true,
   "debutIn": "dp",
-  "obtainableIn": [
-    "dp",
-    "pt",
-    "go",
-    "bdsp",
-    "la"
-  ],
+  "obtainableIn": ["dp", "pt", "go", "bdsp", "la"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": [
@@ -77,9 +71,7 @@
   "maleRate": 50,
   "femaleRate": 50,
   "baseSpecies": "burmy",
-  "baseForms": [
-    "burmy"
-  ],
+  "baseForms": ["burmy"],
   "forms": [],
   "evolvesFrom": null,
   "refs": {
@@ -89,13 +81,5 @@
     "bulbapedia": "Burmy",
     "showdownName": "Burmy"
   },
-  "registrableIn": [
-    "dp",
-    "pt",
-    "xy",
-    "go",
-    "home",
-    "bdsp",
-    "la"
-  ]
+  "registrableIn": ["dp", "pt", "xy", "go", "home", "bdsp", "la"]
 }

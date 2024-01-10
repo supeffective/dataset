@@ -38,13 +38,9 @@
   "canDynamax": true,
   "canBeAlpha": false,
   "debutIn": "rs",
-  "obtainableIn": [
-    "bdsp"
-  ],
+  "obtainableIn": ["bdsp"],
   "versionExclusiveIn": [],
-  "eventOnlyIn": [
-    "go"
-  ],
+  "eventOnlyIn": ["go"],
   "storableIn": [
     "rs",
     "e",
@@ -88,11 +84,5 @@
     "bulbapedia": "Jirachi",
     "showdownName": "Jirachi"
   },
-  "registrableIn": [
-    "rs",
-    "e",
-    "oras",
-    "go",
-    "home"
-  ]
+  "registrableIn": ["rs", "e", "oras", "go", "home"]
 }

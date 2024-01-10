@@ -38,17 +38,10 @@
   "canDynamax": true,
   "canBeAlpha": false,
   "debutIn": "usum",
-  "obtainableIn": [
-    "usum",
-    "swsh"
-  ],
+  "obtainableIn": ["usum", "swsh"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
-  "storableIn": [
-    "usum",
-    "swsh",
-    "home"
-  ],
+  "storableIn": ["usum", "swsh", "home"],
   "shinyReleased": true,
   "shinyBase": null,
   "baseStats": {
@@ -74,8 +67,5 @@
     "bulbapedia": "Blacephalon",
     "showdownName": "Blacephalon"
   },
-  "registrableIn": [
-    "usum",
-    "home"
-  ]
+  "registrableIn": ["usum", "home"]
 }

@@ -38,12 +38,7 @@
   "canDynamax": true,
   "canBeAlpha": true,
   "debutIn": "dp",
-  "obtainableIn": [
-    "oras",
-    "go",
-    "bdsp",
-    "la"
-  ],
+  "obtainableIn": ["oras", "go", "bdsp", "la"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": [
@@ -89,13 +84,5 @@
     "bulbapedia": "Beautifly",
     "showdownName": "Beautifly"
   },
-  "registrableIn": [
-    "dp",
-    "pt",
-    "oras",
-    "go",
-    "home",
-    "bdsp",
-    "la"
-  ]
+  "registrableIn": ["dp", "pt", "oras", "go", "home", "bdsp", "la"]
 }

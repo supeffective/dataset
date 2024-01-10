@@ -38,23 +38,10 @@
   "canDynamax": true,
   "canBeAlpha": false,
   "debutIn": "sm",
-  "obtainableIn": [
-    "go",
-    "sm",
-    "usum",
-    "lgpe",
-    "swsh"
-  ],
+  "obtainableIn": ["go", "sm", "usum", "lgpe", "swsh"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
-  "storableIn": [
-    "go",
-    "sm",
-    "usum",
-    "lgpe",
-    "swsh",
-    "home"
-  ],
+  "storableIn": ["go", "sm", "usum", "lgpe", "swsh", "home"],
   "shinyReleased": true,
   "shinyBase": null,
   "baseStats": {
@@ -85,12 +72,5 @@
     "bulbapedia": "Marowak",
     "showdownName": "Marowak-Alola"
   },
-  "registrableIn": [
-    "go",
-    "sm",
-    "usum",
-    "lgpe",
-    "swsh",
-    "home"
-  ]
+  "registrableIn": ["go", "sm", "usum", "lgpe", "swsh", "home"]
 }

@@ -38,15 +38,7 @@
   "canDynamax": true,
   "canBeAlpha": false,
   "debutIn": "rb",
-  "obtainableIn": [
-    "rb",
-    "y",
-    "frlg",
-    "go",
-    "lgpe",
-    "swsh",
-    "bdsp"
-  ],
+  "obtainableIn": ["rb", "y", "frlg", "go", "lgpe", "swsh", "bdsp"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": [
@@ -89,10 +81,7 @@
   "femaleRate": 0,
   "baseSpecies": null,
   "baseForms": [],
-  "forms": [
-    "mewtwo-mega-x",
-    "mewtwo-mega-y"
-  ],
+  "forms": ["mewtwo-mega-x", "mewtwo-mega-y"],
   "evolvesFrom": null,
   "refs": {
     "smogon": "mewtwo",

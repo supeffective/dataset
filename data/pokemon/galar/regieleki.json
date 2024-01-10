@@ -38,18 +38,10 @@
   "canDynamax": true,
   "canBeAlpha": false,
   "debutIn": "swsh",
-  "obtainableIn": [
-    "go",
-    "swsh"
-  ],
+  "obtainableIn": ["go", "swsh"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
-  "storableIn": [
-    "go",
-    "swsh",
-    "home",
-    "sv"
-  ],
+  "storableIn": ["go", "swsh", "home", "sv"],
   "shinyReleased": true,
   "shinyBase": null,
   "baseStats": {
@@ -75,9 +67,5 @@
     "bulbapedia": "Regieleki",
     "showdownName": "Regieleki"
   },
-  "registrableIn": [
-    "go",
-    "swsh",
-    "home"
-  ]
+  "registrableIn": ["go", "swsh", "home"]
 }

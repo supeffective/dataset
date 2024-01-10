@@ -38,12 +38,7 @@
   "canDynamax": true,
   "canBeAlpha": false,
   "debutIn": "dp",
-  "obtainableIn": [
-    "hgss",
-    "go",
-    "bdsp",
-    "sv"
-  ],
+  "obtainableIn": ["hgss", "go", "bdsp", "sv"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": [
@@ -86,14 +81,5 @@
     "bulbapedia": "Girafarig",
     "showdownName": "Girafarig"
   },
-  "registrableIn": [
-    "dp",
-    "pt",
-    "hgss",
-    "oras",
-    "go",
-    "home",
-    "bdsp",
-    "sv"
-  ]
+  "registrableIn": ["dp", "pt", "hgss", "oras", "go", "home", "bdsp", "sv"]
 }

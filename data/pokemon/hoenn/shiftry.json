@@ -38,15 +38,7 @@
   "canDynamax": true,
   "canBeAlpha": false,
   "debutIn": "rs",
-  "obtainableIn": [
-    "rs",
-    "e",
-    "oras",
-    "go",
-    "swsh",
-    "bdsp",
-    "sv"
-  ],
+  "obtainableIn": ["rs", "e", "oras", "go", "swsh", "bdsp", "sv"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": [
@@ -84,9 +76,7 @@
   "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
-  "forms": [
-    "shiftry-f"
-  ],
+  "forms": ["shiftry-f"],
   "evolvesFrom": {
     "pokemon": "nuzleaf",
     "item": "leafstone",
@@ -99,13 +89,5 @@
     "bulbapedia": "Shiftry",
     "showdownName": "Shiftry"
   },
-  "registrableIn": [
-    "rs",
-    "e",
-    "oras",
-    "go",
-    "swsh",
-    "home",
-    "sv"
-  ]
+  "registrableIn": ["rs", "e", "oras", "go", "swsh", "home", "sv"]
 }

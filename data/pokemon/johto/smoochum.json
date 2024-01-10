@@ -38,14 +38,7 @@
   "canDynamax": true,
   "canBeAlpha": false,
   "debutIn": "gs",
-  "obtainableIn": [
-    "gs",
-    "c",
-    "hgss",
-    "go",
-    "swsh",
-    "bdsp"
-  ],
+  "obtainableIn": ["gs", "c", "hgss", "go", "swsh", "bdsp"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": [
@@ -93,14 +86,5 @@
     "bulbapedia": "Smoochum",
     "showdownName": "Smoochum"
   },
-  "registrableIn": [
-    "gs",
-    "c",
-    "hgss",
-    "xy",
-    "go",
-    "usum",
-    "swsh",
-    "home"
-  ]
+  "registrableIn": ["gs", "c", "hgss", "xy", "go", "usum", "swsh", "home"]
 }

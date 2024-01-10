@@ -42,15 +42,8 @@
   "debutIn": "oras",
   "obtainableIn": [],
   "versionExclusiveIn": [],
-  "eventOnlyIn": [
-    "oras",
-    "go",
-    "sm",
-    "usum"
-  ],
-  "storableIn": [
-    "go"
-  ],
+  "eventOnlyIn": ["oras", "go", "sm", "usum"],
+  "storableIn": ["go"],
   "shinyReleased": true,
   "shinyBase": null,
   "baseStats": {
@@ -66,9 +59,7 @@
   "maleRate": 0,
   "femaleRate": 0,
   "baseSpecies": "diancie",
-  "baseForms": [
-    "diancie"
-  ],
+  "baseForms": ["diancie"],
   "forms": [],
   "family": null,
   "evolvesFrom": {
@@ -81,8 +72,5 @@
     "bulbapedia": "Diancie",
     "showdownName": "Diancie-Mega"
   },
-  "registrableIn": [
-    "go",
-    "home"
-  ]
+  "registrableIn": ["go", "home"]
 }

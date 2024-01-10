@@ -38,16 +38,10 @@
   "canDynamax": false,
   "canBeAlpha": true,
   "debutIn": "la",
-  "obtainableIn": [
-    "la"
-  ],
+  "obtainableIn": ["la"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
-  "storableIn": [
-    "home",
-    "la",
-    "sv"
-  ],
+  "storableIn": ["home", "la", "sv"],
   "shinyReleased": true,
   "shinyBase": null,
   "baseStats": {
@@ -73,9 +67,5 @@
     "bulbapedia": "Zorua",
     "showdownName": "Zorua-Hisui"
   },
-  "registrableIn": [
-    "home",
-    "la",
-    "sv"
-  ]
+  "registrableIn": ["home", "la", "sv"]
 }

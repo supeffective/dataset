@@ -38,16 +38,10 @@
   "canDynamax": true,
   "canBeAlpha": false,
   "debutIn": "swsh",
-  "obtainableIn": [
-    "swsh"
-  ],
+  "obtainableIn": ["swsh"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
-  "storableIn": [
-    "swsh",
-    "home",
-    "sv"
-  ],
+  "storableIn": ["swsh", "home", "sv"],
   "shinyReleased": false,
   "shinyBase": null,
   "baseStats": {
@@ -64,10 +58,7 @@
   "femaleRate": 0,
   "baseSpecies": null,
   "baseForms": [],
-  "forms": [
-    "calyrex-ice",
-    "calyrex-shadow"
-  ],
+  "forms": ["calyrex-ice", "calyrex-shadow"],
   "evolvesFrom": null,
   "refs": {
     "smogon": "calyrex",
@@ -76,8 +67,5 @@
     "bulbapedia": "Calyrex",
     "showdownName": "Calyrex"
   },
-  "registrableIn": [
-    "swsh",
-    "home"
-  ]
+  "registrableIn": ["swsh", "home"]
 }

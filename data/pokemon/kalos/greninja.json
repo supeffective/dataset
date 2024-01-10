@@ -38,22 +38,10 @@
   "canDynamax": true,
   "canBeAlpha": false,
   "debutIn": "xy",
-  "obtainableIn": [
-    "xy",
-    "go",
-    "sv"
-  ],
+  "obtainableIn": ["xy", "go", "sv"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
-  "storableIn": [
-    "xy",
-    "oras",
-    "go",
-    "sm",
-    "usum",
-    "home",
-    "sv"
-  ],
+  "storableIn": ["xy", "oras", "go", "sm", "usum", "home", "sv"],
   "shinyReleased": true,
   "shinyBase": null,
   "baseStats": {
@@ -70,10 +58,7 @@
   "femaleRate": 12.5,
   "baseSpecies": null,
   "baseForms": [],
-  "forms": [
-    "greninja--battle-bond",
-    "greninja-ash"
-  ],
+  "forms": ["greninja--battle-bond", "greninja-ash"],
   "evolvesFrom": {
     "pokemon": "frogadier",
     "level": 36
@@ -85,10 +70,5 @@
     "bulbapedia": "Greninja",
     "showdownName": "Greninja"
   },
-  "registrableIn": [
-    "xy",
-    "go",
-    "home",
-    "sv"
-  ]
+  "registrableIn": ["xy", "go", "home", "sv"]
 }

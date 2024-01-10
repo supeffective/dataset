@@ -38,24 +38,10 @@
   "canDynamax": true,
   "canBeAlpha": false,
   "debutIn": "xy",
-  "obtainableIn": [
-    "xy",
-    "go",
-    "swsh",
-    "sv"
-  ],
+  "obtainableIn": ["xy", "go", "swsh", "sv"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
-  "storableIn": [
-    "xy",
-    "oras",
-    "go",
-    "sm",
-    "usum",
-    "swsh",
-    "home",
-    "sv"
-  ],
+  "storableIn": ["xy", "oras", "go", "sm", "usum", "swsh", "home", "sv"],
   "shinyReleased": true,
   "shinyBase": null,
   "baseStats": {
@@ -72,9 +58,7 @@
   "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
-  "forms": [
-    "goodra-hisui"
-  ],
+  "forms": ["goodra-hisui"],
   "evolvesFrom": {
     "pokemon": "sliggoo",
     "level": 50
@@ -86,13 +70,5 @@
     "bulbapedia": "Goodra",
     "showdownName": "Goodra"
   },
-  "registrableIn": [
-    "xy",
-    "go",
-    "sm",
-    "usum",
-    "swsh",
-    "home",
-    "sv"
-  ]
+  "registrableIn": ["xy", "go", "sm", "usum", "swsh", "home", "sv"]
 }

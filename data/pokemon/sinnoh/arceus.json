@@ -38,12 +38,7 @@
   "canDynamax": true,
   "canBeAlpha": false,
   "debutIn": "dp",
-  "obtainableIn": [
-    "dp",
-    "pt",
-    "bdsp",
-    "la"
-  ],
+  "obtainableIn": ["dp", "pt", "bdsp", "la"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": [
@@ -105,8 +100,5 @@
     "bulbapedia": "Arceus",
     "showdownName": "Arceus"
   },
-  "registrableIn": [
-    "home",
-    "la"
-  ]
+  "registrableIn": ["home", "la"]
 }

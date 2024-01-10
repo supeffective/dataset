@@ -38,17 +38,10 @@
   "canDynamax": true,
   "canBeAlpha": false,
   "debutIn": "swsh",
-  "obtainableIn": [
-    "swsh",
-    "sv"
-  ],
+  "obtainableIn": ["swsh", "sv"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
-  "storableIn": [
-    "swsh",
-    "home",
-    "sv"
-  ],
+  "storableIn": ["swsh", "home", "sv"],
   "shinyReleased": true,
   "shinyBase": null,
   "baseStats": {
@@ -65,11 +58,7 @@
   "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
-  "forms": [
-    "toxtricity-low-key",
-    "toxtricity-gmax",
-    "toxtricity-low-key-gmax"
-  ],
+  "forms": ["toxtricity-low-key", "toxtricity-gmax", "toxtricity-low-key-gmax"],
   "evolvesFrom": {
     "pokemon": "toxel",
     "level": 30
@@ -81,9 +70,5 @@
     "bulbapedia": "Toxtricity",
     "showdownName": "Toxtricity"
   },
-  "registrableIn": [
-    "swsh",
-    "home",
-    "sv"
-  ]
+  "registrableIn": ["swsh", "home", "sv"]
 }

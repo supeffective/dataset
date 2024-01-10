@@ -38,16 +38,10 @@
   "canDynamax": false,
   "canBeAlpha": false,
   "debutIn": "oras",
-  "obtainableIn": [
-    "oras",
-    "go",
-    "usum"
-  ],
+  "obtainableIn": ["oras", "go", "usum"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
-  "storableIn": [
-    "go"
-  ],
+  "storableIn": ["go"],
   "shinyReleased": true,
   "shinyBase": null,
   "baseStats": {
@@ -63,9 +57,7 @@
   "maleRate": 0,
   "femaleRate": 0,
   "baseSpecies": "groudon",
-  "baseForms": [
-    "groudon"
-  ],
+  "baseForms": ["groudon"],
   "forms": [],
   "evolvesFrom": null,
   "refs": {
@@ -75,9 +67,5 @@
     "bulbapedia": "Groudon",
     "showdownName": "Groudon-Primal"
   },
-  "registrableIn": [
-    "oras",
-    "go",
-    "home"
-  ]
+  "registrableIn": ["oras", "go", "home"]
 }

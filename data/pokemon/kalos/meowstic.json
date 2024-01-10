@@ -38,24 +38,10 @@
   "canDynamax": true,
   "canBeAlpha": false,
   "debutIn": "xy",
-  "obtainableIn": [
-    "xy",
-    "go",
-    "swsh",
-    "sv"
-  ],
+  "obtainableIn": ["xy", "go", "swsh", "sv"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
-  "storableIn": [
-    "xy",
-    "oras",
-    "go",
-    "sm",
-    "usum",
-    "swsh",
-    "home",
-    "sv"
-  ],
+  "storableIn": ["xy", "oras", "go", "sm", "usum", "swsh", "home", "sv"],
   "shinyReleased": true,
   "shinyBase": null,
   "baseStats": {
@@ -72,9 +58,7 @@
   "femaleRate": 0,
   "baseSpecies": null,
   "baseForms": [],
-  "forms": [
-    "meowstic-f"
-  ],
+  "forms": ["meowstic-f"],
   "evolvesFrom": {
     "pokemon": "espurr",
     "level": 25
@@ -86,11 +70,5 @@
     "bulbapedia": "Meowstic",
     "showdownName": "Meowstic"
   },
-  "registrableIn": [
-    "xy",
-    "go",
-    "swsh",
-    "home",
-    "sv"
-  ]
+  "registrableIn": ["xy", "go", "swsh", "home", "sv"]
 }

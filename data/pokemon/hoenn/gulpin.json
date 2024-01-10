@@ -38,14 +38,7 @@
   "canDynamax": true,
   "canBeAlpha": false,
   "debutIn": "rs",
-  "obtainableIn": [
-    "rs",
-    "e",
-    "oras",
-    "go",
-    "bdsp",
-    "sv"
-  ],
+  "obtainableIn": ["rs", "e", "oras", "go", "bdsp", "sv"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": [
@@ -82,9 +75,7 @@
   "femaleRate": 50,
   "baseSpecies": null,
   "baseForms": [],
-  "forms": [
-    "gulpin-f"
-  ],
+  "forms": ["gulpin-f"],
   "evolvesFrom": null,
   "refs": {
     "smogon": "gulpin",
@@ -93,13 +84,5 @@
     "bulbapedia": "Gulpin",
     "showdownName": "Gulpin"
   },
-  "registrableIn": [
-    "rs",
-    "e",
-    "xy",
-    "oras",
-    "go",
-    "home",
-    "sv"
-  ]
+  "registrableIn": ["rs", "e", "xy", "oras", "go", "home", "sv"]
 }

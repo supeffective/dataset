@@ -38,20 +38,10 @@
   "canDynamax": true,
   "canBeAlpha": false,
   "debutIn": "sm",
-  "obtainableIn": [
-    "usum"
-  ],
+  "obtainableIn": ["usum"],
   "versionExclusiveIn": [],
-  "eventOnlyIn": [
-    "sm"
-  ],
-  "storableIn": [
-    "sm",
-    "usum",
-    "swsh",
-    "home",
-    "sv"
-  ],
+  "eventOnlyIn": ["sm"],
+  "storableIn": ["sm", "usum", "swsh", "home", "sv"],
   "shinyReleased": false,
   "shinyBase": null,
   "baseStats": {
@@ -68,9 +58,7 @@
   "femaleRate": 0,
   "baseSpecies": null,
   "baseForms": [],
-  "forms": [
-    "magearna-original"
-  ],
+  "forms": ["magearna-original"],
   "evolvesFrom": null,
   "refs": {
     "smogon": "magearna",
@@ -79,9 +67,5 @@
     "bulbapedia": "Magearna",
     "showdownName": "Magearna"
   },
-  "registrableIn": [
-    "sm",
-    "usum",
-    "home"
-  ]
+  "registrableIn": ["sm", "usum", "home"]
 }

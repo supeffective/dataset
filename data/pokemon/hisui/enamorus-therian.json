@@ -38,16 +38,10 @@
   "canDynamax": false,
   "canBeAlpha": false,
   "debutIn": "la",
-  "obtainableIn": [
-    "la"
-  ],
+  "obtainableIn": ["la"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
-  "storableIn": [
-    "home",
-    "la",
-    "sv"
-  ],
+  "storableIn": ["home", "la", "sv"],
   "shinyReleased": false,
   "shinyBase": null,
   "baseStats": {
@@ -73,8 +67,5 @@
     "bulbapedia": "Enamorus",
     "showdownName": "Enamorus-Therian"
   },
-  "registrableIn": [
-    "home",
-    "la"
-  ]
+  "registrableIn": ["home", "la"]
 }
