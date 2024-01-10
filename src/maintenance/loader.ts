@@ -1,6 +1,15 @@
+import _pokemonAbilities from '../../data/abilities.json'
+import _pokemonMoves from '../../data/moves.json'
 import type { Ability, BoxPreset, Game, Item, Mark, Move, Pokedex, Pokemon, Ribbon } from '../schemas'
+import { abilitySchema, moveSchema } from '../schemas'
 import { getDataPath, readFileAsJson } from './utils/fs'
 import { mergeEntityIndex } from './utils/merge'
+
+export const pokemonAbilities: Ability[] = abilitySchema.array().parse(_pokemonAbilities)
+export const pokemonMoves: Move[] = moveSchema.array().parse(_pokemonMoves)
+
+export const pokemonAbilitiesMap = new Map<string, Ability>(pokemonAbilities.map((ability) => [ability.id, ability]))
+export const pokemonMovesMap = new Map<string, Move>(pokemonMoves.map((move) => [move.id, move]))
 
 type LocalDataCache = {
   abilitiesByShowdownId?: Map<string, Ability>

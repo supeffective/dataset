@@ -1,0 +1,23 @@
+[
+  {"id":"genders","name":"Genders"},
+  {"id":"shinies","name":"Shiny Pokêmon"},
+  {"id":"items","name":"Held Items"},
+  {"id":"evs","name":"Effort Values"},
+  {"id":"ivs","name":"Individual Values"},
+  {"id":"avs","name":"Awakening Values (Let's Go)"},
+  {"id":"els","name":"Effort Levels (Legends Arceus)"},
+  {"id":"gostats","name":"CP and Stamina (GO stats)"},
+  {"id":"natures","name":"Natures"},
+  {"id":"mints","name":"Mints"},
+  {"id":"balls","name":"Captured Ball Display"},
+  {"id":"mega","name":"Mega Evolution"},
+  {"id":"zmoves","name":"Z Moves"},
+  {"id":"dynamax","name":"Dynamax and Gigantamax"},
+  {"id":"alpha","name":"Alpha Pokémon"},
+  {"id":"terastal","name":"Terastallization"},
+  {"id":"ribbons","name":"Ribbons"},
+  {"id":"marks","name":"Marks"},
+  {"id":"doubles","name":"2vs2 Battles"},
+  {"id":"triples","name":"Triple Battles"},
+  {"id":"rotation","name":"Rotation Battles"}
+]
