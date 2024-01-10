@@ -1,4 +1,16 @@
 
+## v2.1.3
+
+[compare changes](https://github.com/supeffective/dataset/compare/v2.1.2...v2.1.3)
+
+### 🩹 Fixes
+
+- As a result of dex imports, SV fully sorted box preset changes ([7498ff1](https://github.com/supeffective/dataset/commit/7498ff1))
+
+### ❤️ Contributors
+
+- Javi Aguilar
+
 ## v2.1.2
 
 [compare changes](https://github.com/supeffective/dataset/compare/v2.1.1...v2.1.2)
