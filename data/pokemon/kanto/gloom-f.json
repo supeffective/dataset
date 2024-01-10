@@ -86,5 +86,21 @@
     "bulbapedia": "Gloom",
     "showdownName": "Gloom"
   },
-  "registrableIn": ["hgss", "xy", "oras", "go", "lgpe", "swsh", "home", "sv"]
+  "registrableIn": [
+    "dp",
+    "pt",
+    "hgss",
+    "bw",
+    "b2w2",
+    "xy",
+    "oras",
+    "go",
+    "sm",
+    "usum",
+    "lgpe",
+    "swsh",
+    "home",
+    "bdsp",
+    "sv"
+  ]
 }

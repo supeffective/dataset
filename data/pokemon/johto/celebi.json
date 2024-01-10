@@ -86,5 +86,23 @@
     "bulbapedia": "Celebi",
     "showdownName": "Celebi"
   },
-  "registrableIn": ["gs", "c", "hgss", "go", "home"]
+  "registrableIn": [
+    "gs",
+    "c",
+    "rs",
+    "e",
+    "frlg",
+    "dp",
+    "pt",
+    "hgss",
+    "bw",
+    "b2w2",
+    "xy",
+    "oras",
+    "go",
+    "sm",
+    "usum",
+    "home",
+    "bdsp"
+  ]
 }

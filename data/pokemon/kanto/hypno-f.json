@@ -85,5 +85,20 @@
     "bulbapedia": "Hypno",
     "showdownName": "Hypno"
   },
-  "registrableIn": ["hgss", "go", "sm", "usum", "lgpe", "home", "sv"]
+  "registrableIn": [
+    "dp",
+    "pt",
+    "hgss",
+    "bw",
+    "b2w2",
+    "xy",
+    "oras",
+    "go",
+    "sm",
+    "usum",
+    "lgpe",
+    "home",
+    "bdsp",
+    "sv"
+  ]
 }

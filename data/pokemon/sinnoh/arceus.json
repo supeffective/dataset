@@ -100,5 +100,18 @@
     "bulbapedia": "Arceus",
     "showdownName": "Arceus"
   },
-  "registrableIn": ["home", "la"]
+  "registrableIn": [
+    "dp",
+    "pt",
+    "hgss",
+    "bw",
+    "b2w2",
+    "xy",
+    "oras",
+    "sm",
+    "usum",
+    "home",
+    "bdsp",
+    "la"
+  ]
 }

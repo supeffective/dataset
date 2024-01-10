@@ -81,5 +81,19 @@
     "bulbapedia": "Meditite",
     "showdownName": "Meditite"
   },
-  "registrableIn": ["dp", "pt", "xy", "oras", "go", "home", "bdsp", "sv"]
+  "registrableIn": [
+    "dp",
+    "pt",
+    "hgss",
+    "bw",
+    "b2w2",
+    "xy",
+    "oras",
+    "go",
+    "sm",
+    "usum",
+    "home",
+    "bdsp",
+    "sv"
+  ]
 }

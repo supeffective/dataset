@@ -81,5 +81,20 @@
     "bulbapedia": "Deoxys",
     "showdownName": "Deoxys-Defense"
   },
-  "registrableIn": ["e", "frlg", "oras", "go", "home"]
+  "registrableIn": [
+    "e",
+    "frlg",
+    "dp",
+    "pt",
+    "hgss",
+    "bw",
+    "b2w2",
+    "xy",
+    "oras",
+    "go",
+    "sm",
+    "usum",
+    "home",
+    "bdsp"
+  ]
 }

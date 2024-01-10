@@ -80,5 +80,18 @@
     "bulbapedia": "Ledyba",
     "showdownName": "Ledyba"
   },
-  "registrableIn": ["hgss", "xy", "go", "sm", "usum", "home"]
+  "registrableIn": [
+    "dp",
+    "pt",
+    "hgss",
+    "bw",
+    "b2w2",
+    "xy",
+    "oras",
+    "go",
+    "sm",
+    "usum",
+    "home",
+    "bdsp"
+  ]
 }

@@ -80,5 +80,18 @@
     "bulbapedia": "Shaymin",
     "showdownName": "Shaymin-Sky"
   },
-  "registrableIn": ["go", "home", "la"]
+  "registrableIn": [
+    "pt",
+    "hgss",
+    "bw",
+    "b2w2",
+    "xy",
+    "oras",
+    "go",
+    "sm",
+    "usum",
+    "home",
+    "bdsp",
+    "la"
+  ]
 }

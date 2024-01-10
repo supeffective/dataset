@@ -82,5 +82,19 @@
     "bulbapedia": "Regigigas",
     "showdownName": "Regigigas"
   },
-  "registrableIn": ["go", "home", "la"]
+  "registrableIn": [
+    "dp",
+    "pt",
+    "hgss",
+    "bw",
+    "b2w2",
+    "xy",
+    "oras",
+    "go",
+    "sm",
+    "usum",
+    "home",
+    "bdsp",
+    "la"
+  ]
 }
