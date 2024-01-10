@@ -53,6 +53,18 @@
     "home",
     "sv"
   ],
+  "registrableIn": [
+    "bw",
+    "b2w2",
+    "xy",
+    "oras",
+    "go",
+    "sm",
+    "usum",
+    "swsh",
+    "home",
+    "sv"
+  ],
   "shinyReleased": true,
   "shinyBase": null,
   "baseStats": {
@@ -77,17 +89,5 @@
     "serebii": "vullaby",
     "bulbapedia": "Vullaby",
     "showdownName": "Vullaby"
-  },
-  "registrableIn": [
-    "bw",
-    "b2w2",
-    "xy",
-    "oras",
-    "go",
-    "sm",
-    "usum",
-    "swsh",
-    "home",
-    "sv"
-  ]
+  }
 }

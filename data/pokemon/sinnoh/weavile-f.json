@@ -58,6 +58,23 @@
     "la",
     "sv"
   ],
+  "registrableIn": [
+    "dp",
+    "pt",
+    "hgss",
+    "bw",
+    "b2w2",
+    "xy",
+    "oras",
+    "go",
+    "sm",
+    "usum",
+    "swsh",
+    "home",
+    "bdsp",
+    "la",
+    "sv"
+  ],
   "shinyReleased": true,
   "shinyBase": null,
   "baseStats": {
@@ -87,22 +104,5 @@
     "serebii": "weavile",
     "bulbapedia": "Weavile",
     "showdownName": "Weavile"
-  },
-  "registrableIn": [
-    "dp",
-    "pt",
-    "hgss",
-    "bw",
-    "b2w2",
-    "xy",
-    "oras",
-    "go",
-    "sm",
-    "usum",
-    "swsh",
-    "home",
-    "bdsp",
-    "la",
-    "sv"
-  ]
+  }
 }

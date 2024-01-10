@@ -58,6 +58,23 @@
     "bdsp",
     "sv"
   ],
+  "registrableIn": [
+    "dp",
+    "pt",
+    "hgss",
+    "bw",
+    "b2w2",
+    "xy",
+    "oras",
+    "go",
+    "sm",
+    "usum",
+    "lgpe",
+    "swsh",
+    "home",
+    "bdsp",
+    "sv"
+  ],
   "shinyReleased": true,
   "shinyBase": null,
   "baseStats": {
@@ -85,22 +102,5 @@
     "serebii": "gloom",
     "bulbapedia": "Gloom",
     "showdownName": "Gloom"
-  },
-  "registrableIn": [
-    "dp",
-    "pt",
-    "hgss",
-    "bw",
-    "b2w2",
-    "xy",
-    "oras",
-    "go",
-    "sm",
-    "usum",
-    "lgpe",
-    "swsh",
-    "home",
-    "bdsp",
-    "sv"
-  ]
+  }
 }

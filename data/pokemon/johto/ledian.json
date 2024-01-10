@@ -60,6 +60,25 @@
     "home",
     "bdsp"
   ],
+  "registrableIn": [
+    "gs",
+    "c",
+    "rs",
+    "e",
+    "frlg",
+    "dp",
+    "pt",
+    "hgss",
+    "bw",
+    "b2w2",
+    "xy",
+    "oras",
+    "go",
+    "sm",
+    "usum",
+    "home",
+    "bdsp"
+  ],
   "shinyReleased": true,
   "shinyBase": null,
   "baseStats": {
@@ -87,24 +106,5 @@
     "serebii": "ledian",
     "bulbapedia": "Ledian",
     "showdownName": "Ledian"
-  },
-  "registrableIn": [
-    "gs",
-    "c",
-    "rs",
-    "e",
-    "frlg",
-    "dp",
-    "pt",
-    "hgss",
-    "bw",
-    "b2w2",
-    "xy",
-    "oras",
-    "go",
-    "sm",
-    "usum",
-    "home",
-    "bdsp"
-  ]
+  }
 }

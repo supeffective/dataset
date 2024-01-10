@@ -50,6 +50,7 @@
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": ["home", "sv"],
+  "registrableIn": ["home", "sv"],
   "shinyReleased": true,
   "shinyBase": null,
   "baseStats": {
@@ -79,6 +80,5 @@
     "serebii": "sinistcha",
     "bulbapedia": "Sinistcha",
     "showdownName": "Sinistcha-Masterpiece"
-  },
-  "registrableIn": ["home", "sv"]
+  }
 }

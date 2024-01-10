@@ -42,6 +42,7 @@
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": ["go", "swsh", "home", "sv"],
+  "registrableIn": ["go", "swsh", "home", "sv"],
   "shinyReleased": true,
   "shinyBase": null,
   "baseStats": {
@@ -70,6 +71,5 @@
     "serebii": "slowbro",
     "bulbapedia": "Slowbro",
     "showdownName": "Slowbro-Galar"
-  },
-  "registrableIn": ["go", "swsh", "home", "sv"]
+  }
 }

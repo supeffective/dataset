@@ -57,6 +57,22 @@
     "bdsp",
     "sv"
   ],
+  "registrableIn": [
+    "dp",
+    "pt",
+    "hgss",
+    "bw",
+    "b2w2",
+    "xy",
+    "oras",
+    "go",
+    "sm",
+    "usum",
+    "swsh",
+    "home",
+    "bdsp",
+    "sv"
+  ],
   "shinyReleased": true,
   "shinyBase": null,
   "baseStats": {
@@ -85,21 +101,5 @@
     "serebii": "shiftry",
     "bulbapedia": "Shiftry",
     "showdownName": "Shiftry"
-  },
-  "registrableIn": [
-    "dp",
-    "pt",
-    "hgss",
-    "bw",
-    "b2w2",
-    "xy",
-    "oras",
-    "go",
-    "sm",
-    "usum",
-    "swsh",
-    "home",
-    "bdsp",
-    "sv"
-  ]
+  }
 }

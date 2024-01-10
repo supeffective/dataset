@@ -53,6 +53,18 @@
     "home",
     "sv"
   ],
+  "registrableIn": [
+    "bw",
+    "b2w2",
+    "xy",
+    "oras",
+    "go",
+    "sm",
+    "usum",
+    "swsh",
+    "home",
+    "sv"
+  ],
   "shinyReleased": true,
   "shinyBase": null,
   "baseStats": {
@@ -80,17 +92,5 @@
     "serebii": "reuniclus",
     "bulbapedia": "Reuniclus",
     "showdownName": "Reuniclus"
-  },
-  "registrableIn": [
-    "bw",
-    "b2w2",
-    "xy",
-    "oras",
-    "go",
-    "sm",
-    "usum",
-    "swsh",
-    "home",
-    "sv"
-  ]
+  }
 }

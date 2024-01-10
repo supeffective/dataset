@@ -59,6 +59,23 @@
     "home",
     "bdsp"
   ],
+  "registrableIn": [
+    "rs",
+    "e",
+    "frlg",
+    "dp",
+    "pt",
+    "hgss",
+    "bw",
+    "b2w2",
+    "xy",
+    "oras",
+    "go",
+    "sm",
+    "usum",
+    "home",
+    "bdsp"
+  ],
   "shinyReleased": true,
   "shinyBase": null,
   "baseStats": {
@@ -83,22 +100,5 @@
     "serebii": "latias",
     "bulbapedia": "Latias",
     "showdownName": "Latias"
-  },
-  "registrableIn": [
-    "rs",
-    "e",
-    "frlg",
-    "dp",
-    "pt",
-    "hgss",
-    "bw",
-    "b2w2",
-    "xy",
-    "oras",
-    "go",
-    "sm",
-    "usum",
-    "home",
-    "bdsp"
-  ]
+  }
 }

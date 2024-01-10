@@ -42,6 +42,7 @@
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": ["go", "sm", "usum", "swsh", "home", "la", "sv"],
+  "registrableIn": ["go", "sm", "usum", "home", "la", "sv"],
   "shinyReleased": true,
   "shinyBase": null,
   "baseStats": {
@@ -69,6 +70,5 @@
     "serebii": "dartrix",
     "bulbapedia": "Dartrix",
     "showdownName": "Dartrix"
-  },
-  "registrableIn": ["go", "sm", "usum", "home", "la", "sv"]
+  }
 }

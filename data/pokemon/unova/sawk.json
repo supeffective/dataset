@@ -52,6 +52,17 @@
     "swsh",
     "home"
   ],
+  "registrableIn": [
+    "bw",
+    "b2w2",
+    "xy",
+    "oras",
+    "go",
+    "sm",
+    "usum",
+    "swsh",
+    "home"
+  ],
   "shinyReleased": true,
   "shinyBase": null,
   "baseStats": {
@@ -76,16 +87,5 @@
     "serebii": "sawk",
     "bulbapedia": "Sawk",
     "showdownName": "Sawk"
-  },
-  "registrableIn": [
-    "bw",
-    "b2w2",
-    "xy",
-    "oras",
-    "go",
-    "sm",
-    "usum",
-    "swsh",
-    "home"
-  ]
+  }
 }

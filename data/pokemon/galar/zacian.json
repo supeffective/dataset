@@ -42,6 +42,7 @@
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": ["go", "swsh", "home", "sv"],
+  "registrableIn": ["go", "swsh", "home"],
   "shinyReleased": true,
   "shinyBase": null,
   "baseStats": {
@@ -66,6 +67,5 @@
     "serebii": "zacian",
     "bulbapedia": "Zacian",
     "showdownName": "Zacian"
-  },
-  "registrableIn": ["go", "swsh", "home"]
+  }
 }

@@ -45,6 +45,7 @@
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": ["home", "sv"],
+  "registrableIn": ["home", "sv"],
   "shinyReleased": false,
   "shinyBase": null,
   "baseStats": {
@@ -69,6 +70,5 @@
     "serebii": "ironboulder",
     "bulbapedia": "Iron Boulder",
     "showdownName": "Iron Boulder"
-  },
-  "registrableIn": ["home", "sv"]
+  }
 }

@@ -44,6 +44,7 @@
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": [],
+  "registrableIn": ["home", "sv"],
   "shinyReleased": false,
   "shinyBase": null,
   "baseStats": {
@@ -68,6 +69,5 @@
     "serebii": "terapagos",
     "bulbapedia": "Terapagos",
     "showdownName": "Terapagos-Terastal"
-  },
-  "registrableIn": ["home", "sv"]
+  }
 }

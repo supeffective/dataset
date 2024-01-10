@@ -56,6 +56,20 @@
     "la",
     "sv"
   ],
+  "registrableIn": [
+    "dp",
+    "pt",
+    "hgss",
+    "bw",
+    "b2w2",
+    "xy",
+    "oras",
+    "sm",
+    "usum",
+    "home",
+    "bdsp",
+    "la"
+  ],
   "shinyReleased": true,
   "shinyBase": null,
   "baseStats": {
@@ -99,19 +113,5 @@
     "serebii": "arceus",
     "bulbapedia": "Arceus",
     "showdownName": "Arceus"
-  },
-  "registrableIn": [
-    "dp",
-    "pt",
-    "hgss",
-    "bw",
-    "b2w2",
-    "xy",
-    "oras",
-    "sm",
-    "usum",
-    "home",
-    "bdsp",
-    "la"
-  ]
+  }
 }

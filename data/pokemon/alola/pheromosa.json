@@ -42,6 +42,7 @@
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": ["go", "sm", "usum", "swsh", "home"],
+  "registrableIn": ["go", "sm", "usum", "home"],
   "shinyReleased": true,
   "shinyBase": null,
   "baseStats": {
@@ -66,6 +67,5 @@
     "serebii": "pheromosa",
     "bulbapedia": "Pheromosa",
     "showdownName": "Pheromosa"
-  },
-  "registrableIn": ["go", "sm", "usum", "home"]
+  }
 }

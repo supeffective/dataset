@@ -60,6 +60,23 @@
     "bdsp",
     "sv"
   ],
+  "registrableIn": [
+    "rs",
+    "e",
+    "frlg",
+    "dp",
+    "pt",
+    "hgss",
+    "bw",
+    "b2w2",
+    "xy",
+    "oras",
+    "go",
+    "sm",
+    "usum",
+    "home",
+    "bdsp"
+  ],
   "shinyReleased": true,
   "shinyBase": null,
   "baseStats": {
@@ -84,22 +101,5 @@
     "serebii": "kyogre",
     "bulbapedia": "Kyogre",
     "showdownName": "Kyogre"
-  },
-  "registrableIn": [
-    "rs",
-    "e",
-    "frlg",
-    "dp",
-    "pt",
-    "hgss",
-    "bw",
-    "b2w2",
-    "xy",
-    "oras",
-    "go",
-    "sm",
-    "usum",
-    "home",
-    "bdsp"
-  ]
+  }
 }

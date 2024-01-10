@@ -57,6 +57,22 @@
     "home",
     "bdsp"
   ],
+  "registrableIn": [
+    "dp",
+    "pt",
+    "hgss",
+    "bw",
+    "b2w2",
+    "xy",
+    "oras",
+    "go",
+    "sm",
+    "usum",
+    "lgpe",
+    "swsh",
+    "home",
+    "bdsp"
+  ],
   "shinyReleased": true,
   "shinyBase": null,
   "baseStats": {
@@ -84,21 +100,5 @@
     "serebii": "seaking",
     "bulbapedia": "Seaking",
     "showdownName": "Seaking"
-  },
-  "registrableIn": [
-    "dp",
-    "pt",
-    "hgss",
-    "bw",
-    "b2w2",
-    "xy",
-    "oras",
-    "go",
-    "sm",
-    "usum",
-    "lgpe",
-    "swsh",
-    "home",
-    "bdsp"
-  ]
+  }
 }

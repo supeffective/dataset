@@ -52,6 +52,7 @@
     "swsh",
     "home"
   ],
+  "registrableIn": ["bw", "b2w2", "xy", "oras", "go", "sm", "usum", "home"],
   "shinyReleased": false,
   "shinyBase": null,
   "baseStats": {
@@ -76,6 +77,5 @@
     "serebii": "keldeo",
     "bulbapedia": "Keldeo",
     "showdownName": "Keldeo"
-  },
-  "registrableIn": ["bw", "b2w2", "xy", "oras", "go", "sm", "usum", "home"]
+  }
 }

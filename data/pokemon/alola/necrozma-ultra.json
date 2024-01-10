@@ -42,6 +42,7 @@
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": [],
+  "registrableIn": ["usum", "home"],
   "shinyReleased": true,
   "shinyBase": null,
   "baseStats": {
@@ -66,6 +67,5 @@
     "serebii": "necrozma",
     "bulbapedia": "Necrozma",
     "showdownName": "Necrozma-Ultra"
-  },
-  "registrableIn": ["usum", "home"]
+  }
 }

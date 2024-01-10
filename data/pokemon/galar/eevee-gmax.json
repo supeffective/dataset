@@ -42,6 +42,7 @@
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": [],
+  "registrableIn": ["swsh", "home"],
   "shinyReleased": true,
   "shinyBase": null,
   "baseStats": {
@@ -66,6 +67,5 @@
     "serebii": "eevee",
     "bulbapedia": "Eevee",
     "showdownName": "Eevee-Gmax"
-  },
-  "registrableIn": ["swsh", "home"]
+  }
 }

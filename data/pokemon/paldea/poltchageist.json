@@ -50,6 +50,7 @@
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": ["home", "sv"],
+  "registrableIn": ["home", "sv"],
   "shinyReleased": true,
   "shinyBase": null,
   "baseStats": {
@@ -77,6 +78,5 @@
     "serebii": "poltchageist",
     "bulbapedia": "Poltchageist",
     "showdownName": "Poltchageist"
-  },
-  "registrableIn": ["home", "sv"]
+  }
 }

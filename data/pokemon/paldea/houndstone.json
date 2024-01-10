@@ -42,6 +42,7 @@
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": ["go", "home", "sv"],
+  "registrableIn": ["go", "home", "sv"],
   "shinyReleased": true,
   "shinyBase": null,
   "baseStats": {
@@ -70,6 +71,5 @@
     "serebii": "houndstone",
     "bulbapedia": "Houndstone",
     "showdownName": "Houndstone"
-  },
-  "registrableIn": ["go", "home", "sv"]
+  }
 }

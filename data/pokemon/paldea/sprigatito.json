@@ -44,6 +44,7 @@
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": ["go", "home", "sv"],
+  "registrableIn": ["go", "home", "sv"],
   "shinyReleased": true,
   "shinyBase": null,
   "baseStats": {
@@ -71,6 +72,5 @@
     "serebii": "sprigatito",
     "bulbapedia": "Sprigatito",
     "showdownName": "Sprigatito"
-  },
-  "registrableIn": ["go", "home", "sv"]
+  }
 }

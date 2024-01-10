@@ -42,6 +42,7 @@
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": ["go", "sm", "usum", "home", "sv"],
+  "registrableIn": ["go", "sm", "usum", "home", "sv"],
   "shinyReleased": true,
   "shinyBase": null,
   "baseStats": {
@@ -70,6 +71,5 @@
     "serebii": "crabominable",
     "bulbapedia": "Crabominable",
     "showdownName": "Crabominable"
-  },
-  "registrableIn": ["go", "sm", "usum", "home", "sv"]
+  }
 }

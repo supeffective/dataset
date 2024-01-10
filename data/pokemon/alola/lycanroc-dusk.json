@@ -42,6 +42,7 @@
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": ["go", "usum", "swsh", "home", "sv"],
+  "registrableIn": ["go", "usum", "swsh", "home", "sv"],
   "shinyReleased": true,
   "shinyBase": null,
   "baseStats": {
@@ -70,6 +71,5 @@
     "serebii": "lycanroc",
     "bulbapedia": "Lycanroc",
     "showdownName": "Lycanroc-Dusk"
-  },
-  "registrableIn": ["go", "usum", "swsh", "home", "sv"]
+  }
 }

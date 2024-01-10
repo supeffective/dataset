@@ -42,6 +42,7 @@
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": ["home", "sv"],
+  "registrableIn": ["home", "sv"],
   "shinyReleased": true,
   "shinyBase": null,
   "baseStats": {
@@ -70,6 +71,5 @@
     "serebii": "Dudunsparce",
     "bulbapedia": "Dudunsparce_Three_Segment",
     "showdownName": "Dudunsparce-Three-Segment"
-  },
-  "registrableIn": ["home", "sv"]
+  }
 }

@@ -44,6 +44,7 @@
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": ["go", "sm", "usum", "swsh", "home"],
+  "registrableIn": ["go", "sm", "usum", "home"],
   "shinyReleased": true,
   "shinyBase": null,
   "baseStats": {
@@ -71,6 +72,5 @@
     "serebii": "zygarde",
     "bulbapedia": "Zygarde",
     "showdownName": "Zygarde-10%"
-  },
-  "registrableIn": ["go", "sm", "usum", "home"]
+  }
 }

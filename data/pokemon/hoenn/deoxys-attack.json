@@ -56,6 +56,22 @@
     "home",
     "bdsp"
   ],
+  "registrableIn": [
+    "e",
+    "frlg",
+    "dp",
+    "pt",
+    "hgss",
+    "bw",
+    "b2w2",
+    "xy",
+    "oras",
+    "go",
+    "sm",
+    "usum",
+    "home",
+    "bdsp"
+  ],
   "shinyReleased": true,
   "shinyBase": null,
   "baseStats": {
@@ -80,21 +96,5 @@
     "serebii": "deoxys",
     "bulbapedia": "Deoxys",
     "showdownName": "Deoxys-Attack"
-  },
-  "registrableIn": [
-    "e",
-    "frlg",
-    "dp",
-    "pt",
-    "hgss",
-    "bw",
-    "b2w2",
-    "xy",
-    "oras",
-    "go",
-    "sm",
-    "usum",
-    "home",
-    "bdsp"
-  ]
+  }
 }

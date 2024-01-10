@@ -60,6 +60,24 @@
     "bdsp",
     "sv"
   ],
+  "registrableIn": [
+    "rs",
+    "e",
+    "frlg",
+    "dp",
+    "pt",
+    "hgss",
+    "bw",
+    "b2w2",
+    "xy",
+    "oras",
+    "go",
+    "sm",
+    "usum",
+    "home",
+    "bdsp",
+    "sv"
+  ],
   "shinyReleased": true,
   "shinyBase": null,
   "baseStats": {
@@ -84,23 +102,5 @@
     "serebii": "torchic",
     "bulbapedia": "Torchic",
     "showdownName": "Torchic"
-  },
-  "registrableIn": [
-    "rs",
-    "e",
-    "frlg",
-    "dp",
-    "pt",
-    "hgss",
-    "bw",
-    "b2w2",
-    "xy",
-    "oras",
-    "go",
-    "sm",
-    "usum",
-    "home",
-    "bdsp",
-    "sv"
-  ]
+  }
 }

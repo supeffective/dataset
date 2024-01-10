@@ -42,6 +42,17 @@
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": ["bw", "b2w2", "xy", "oras", "go", "sm", "usum", "home", "sv"],
+  "registrableIn": [
+    "bw",
+    "b2w2",
+    "xy",
+    "oras",
+    "go",
+    "sm",
+    "usum",
+    "home",
+    "sv"
+  ],
   "shinyReleased": true,
   "shinyBase": null,
   "baseStats": {
@@ -69,16 +80,5 @@
     "serebii": "samurott",
     "bulbapedia": "Samurott",
     "showdownName": "Samurott"
-  },
-  "registrableIn": [
-    "bw",
-    "b2w2",
-    "xy",
-    "oras",
-    "go",
-    "sm",
-    "usum",
-    "home",
-    "sv"
-  ]
+  }
 }

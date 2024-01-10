@@ -44,6 +44,7 @@
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": ["go", "home", "sv"],
+  "registrableIn": ["go", "home", "sv"],
   "shinyReleased": true,
   "shinyBase": null,
   "baseStats": {
@@ -72,6 +73,5 @@
     "serebii": "floragato",
     "bulbapedia": "Floragato",
     "showdownName": "Floragato"
-  },
-  "registrableIn": ["go", "home", "sv"]
+  }
 }

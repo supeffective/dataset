@@ -42,6 +42,7 @@
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": ["go", "swsh", "home", "sv"],
+  "registrableIn": ["go", "swsh", "home"],
   "shinyReleased": true,
   "shinyBase": null,
   "baseStats": {
@@ -69,6 +70,5 @@
     "serebii": "perrserker",
     "bulbapedia": "Perrserker",
     "showdownName": "Perrserker"
-  },
-  "registrableIn": ["go", "swsh", "home"]
+  }
 }

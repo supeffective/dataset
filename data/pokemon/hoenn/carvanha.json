@@ -59,6 +59,24 @@
     "home",
     "bdsp"
   ],
+  "registrableIn": [
+    "rs",
+    "e",
+    "frlg",
+    "dp",
+    "pt",
+    "hgss",
+    "bw",
+    "b2w2",
+    "xy",
+    "oras",
+    "go",
+    "sm",
+    "usum",
+    "swsh",
+    "home",
+    "bdsp"
+  ],
   "shinyReleased": true,
   "shinyBase": null,
   "baseStats": {
@@ -83,23 +101,5 @@
     "serebii": "carvanha",
     "bulbapedia": "Carvanha",
     "showdownName": "Carvanha"
-  },
-  "registrableIn": [
-    "rs",
-    "e",
-    "frlg",
-    "dp",
-    "pt",
-    "hgss",
-    "bw",
-    "b2w2",
-    "xy",
-    "oras",
-    "go",
-    "sm",
-    "usum",
-    "swsh",
-    "home",
-    "bdsp"
-  ]
+  }
 }

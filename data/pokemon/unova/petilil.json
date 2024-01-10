@@ -54,6 +54,19 @@
     "la",
     "sv"
   ],
+  "registrableIn": [
+    "bw",
+    "b2w2",
+    "xy",
+    "oras",
+    "go",
+    "sm",
+    "usum",
+    "swsh",
+    "home",
+    "la",
+    "sv"
+  ],
   "shinyReleased": true,
   "shinyBase": null,
   "baseStats": {
@@ -78,18 +91,5 @@
     "serebii": "petilil",
     "bulbapedia": "Petilil",
     "showdownName": "Petilil"
-  },
-  "registrableIn": [
-    "bw",
-    "b2w2",
-    "xy",
-    "oras",
-    "go",
-    "sm",
-    "usum",
-    "swsh",
-    "home",
-    "la",
-    "sv"
-  ]
+  }
 }

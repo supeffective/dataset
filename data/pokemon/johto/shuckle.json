@@ -61,6 +61,26 @@
     "home",
     "bdsp"
   ],
+  "registrableIn": [
+    "gs",
+    "c",
+    "rs",
+    "e",
+    "frlg",
+    "dp",
+    "pt",
+    "hgss",
+    "bw",
+    "b2w2",
+    "xy",
+    "oras",
+    "go",
+    "sm",
+    "usum",
+    "swsh",
+    "home",
+    "bdsp"
+  ],
   "shinyReleased": true,
   "shinyBase": null,
   "baseStats": {
@@ -85,25 +105,5 @@
     "serebii": "shuckle",
     "bulbapedia": "Shuckle",
     "showdownName": "Shuckle"
-  },
-  "registrableIn": [
-    "gs",
-    "c",
-    "rs",
-    "e",
-    "frlg",
-    "dp",
-    "pt",
-    "hgss",
-    "bw",
-    "b2w2",
-    "xy",
-    "oras",
-    "go",
-    "sm",
-    "usum",
-    "swsh",
-    "home",
-    "bdsp"
-  ]
+  }
 }

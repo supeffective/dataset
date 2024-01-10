@@ -58,6 +58,23 @@
     "home",
     "bdsp"
   ],
+  "registrableIn": [
+    "rs",
+    "e",
+    "frlg",
+    "dp",
+    "pt",
+    "hgss",
+    "bw",
+    "b2w2",
+    "xy",
+    "oras",
+    "go",
+    "sm",
+    "usum",
+    "home",
+    "bdsp"
+  ],
   "shinyReleased": true,
   "shinyBase": null,
   "baseStats": {
@@ -85,22 +102,5 @@
     "serebii": "swellow",
     "bulbapedia": "Swellow",
     "showdownName": "Swellow"
-  },
-  "registrableIn": [
-    "rs",
-    "e",
-    "frlg",
-    "dp",
-    "pt",
-    "hgss",
-    "bw",
-    "b2w2",
-    "xy",
-    "oras",
-    "go",
-    "sm",
-    "usum",
-    "home",
-    "bdsp"
-  ]
+  }
 }

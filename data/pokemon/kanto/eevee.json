@@ -66,31 +66,6 @@
     "la",
     "sv"
   ],
-  "shinyReleased": true,
-  "shinyBase": null,
-  "baseStats": {
-    "hp": 55,
-    "atk": 55,
-    "def": 50,
-    "spa": 45,
-    "spd": 65,
-    "spe": 55
-  },
-  "weight": 650,
-  "height": 30,
-  "maleRate": 87.5,
-  "femaleRate": 12.5,
-  "baseSpecies": null,
-  "baseForms": [],
-  "forms": ["eevee-f", "eevee-gmax"],
-  "evolvesFrom": null,
-  "refs": {
-    "smogon": "eevee",
-    "showdown": "eevee",
-    "serebii": "eevee",
-    "bulbapedia": "Eevee",
-    "showdownName": "Eevee"
-  },
   "registrableIn": [
     "rb",
     "y",
@@ -115,5 +90,30 @@
     "bdsp",
     "la",
     "sv"
-  ]
+  ],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 55,
+    "atk": 55,
+    "def": 50,
+    "spa": 45,
+    "spd": 65,
+    "spe": 55
+  },
+  "weight": 650,
+  "height": 30,
+  "maleRate": 87.5,
+  "femaleRate": 12.5,
+  "baseSpecies": null,
+  "baseForms": [],
+  "forms": ["eevee-f", "eevee-gmax"],
+  "evolvesFrom": null,
+  "refs": {
+    "smogon": "eevee",
+    "showdown": "eevee",
+    "serebii": "eevee",
+    "bulbapedia": "Eevee",
+    "showdownName": "Eevee"
+  }
 }

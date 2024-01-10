@@ -59,6 +59,24 @@
     "bdsp",
     "la"
   ],
+  "registrableIn": [
+    "rs",
+    "e",
+    "frlg",
+    "dp",
+    "pt",
+    "hgss",
+    "bw",
+    "b2w2",
+    "xy",
+    "oras",
+    "go",
+    "sm",
+    "usum",
+    "home",
+    "bdsp",
+    "la"
+  ],
   "shinyReleased": true,
   "shinyBase": null,
   "baseStats": {
@@ -83,23 +101,5 @@
     "serebii": "wurmple",
     "bulbapedia": "Wurmple",
     "showdownName": "Wurmple"
-  },
-  "registrableIn": [
-    "rs",
-    "e",
-    "frlg",
-    "dp",
-    "pt",
-    "hgss",
-    "bw",
-    "b2w2",
-    "xy",
-    "oras",
-    "go",
-    "sm",
-    "usum",
-    "home",
-    "bdsp",
-    "la"
-  ]
+  }
 }

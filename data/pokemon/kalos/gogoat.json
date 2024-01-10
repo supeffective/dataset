@@ -42,6 +42,7 @@
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": ["xy", "oras", "sm", "usum", "home", "sv"],
+  "registrableIn": ["xy", "oras", "sm", "usum", "home", "sv"],
   "shinyReleased": true,
   "shinyBase": null,
   "baseStats": {
@@ -69,6 +70,5 @@
     "serebii": "gogoat",
     "bulbapedia": "Gogoat",
     "showdownName": "Gogoat"
-  },
-  "registrableIn": ["xy", "oras", "sm", "usum", "home", "sv"]
+  }
 }

@@ -42,6 +42,7 @@
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": ["home", "la", "sv"],
+  "registrableIn": ["home", "la"],
   "shinyReleased": true,
   "shinyBase": null,
   "baseStats": {
@@ -69,6 +70,5 @@
     "serebii": "zoroark",
     "bulbapedia": "Zoroark",
     "showdownName": "Zoroark-Hisui"
-  },
-  "registrableIn": ["home", "la"]
+  }
 }

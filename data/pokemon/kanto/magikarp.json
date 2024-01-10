@@ -66,31 +66,6 @@
     "la",
     "sv"
   ],
-  "shinyReleased": true,
-  "shinyBase": null,
-  "baseStats": {
-    "hp": 20,
-    "atk": 10,
-    "def": 55,
-    "spa": 15,
-    "spd": 20,
-    "spe": 80
-  },
-  "weight": 1000,
-  "height": 90,
-  "maleRate": 50,
-  "femaleRate": 50,
-  "baseSpecies": null,
-  "baseForms": [],
-  "forms": ["magikarp-f"],
-  "evolvesFrom": null,
-  "refs": {
-    "smogon": "magikarp",
-    "showdown": "magikarp",
-    "serebii": "magikarp",
-    "bulbapedia": "Magikarp",
-    "showdownName": "Magikarp"
-  },
   "registrableIn": [
     "rb",
     "y",
@@ -115,5 +90,30 @@
     "bdsp",
     "la",
     "sv"
-  ]
+  ],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 20,
+    "atk": 10,
+    "def": 55,
+    "spa": 15,
+    "spd": 20,
+    "spe": 80
+  },
+  "weight": 1000,
+  "height": 90,
+  "maleRate": 50,
+  "femaleRate": 50,
+  "baseSpecies": null,
+  "baseForms": [],
+  "forms": ["magikarp-f"],
+  "evolvesFrom": null,
+  "refs": {
+    "smogon": "magikarp",
+    "showdown": "magikarp",
+    "serebii": "magikarp",
+    "bulbapedia": "Magikarp",
+    "showdownName": "Magikarp"
+  }
 }

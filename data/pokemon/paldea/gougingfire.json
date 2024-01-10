@@ -45,6 +45,7 @@
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": ["home", "sv"],
+  "registrableIn": ["home", "sv"],
   "shinyReleased": false,
   "shinyBase": null,
   "baseStats": {
@@ -69,6 +70,5 @@
     "serebii": "gougingfire",
     "bulbapedia": "Gouging Fire",
     "showdownName": "Gouging Fire"
-  },
-  "registrableIn": ["home", "sv"]
+  }
 }

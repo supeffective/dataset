@@ -42,6 +42,7 @@
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": ["xy", "oras", "go", "sm", "usum", "swsh", "home", "sv"],
+  "registrableIn": ["xy", "oras", "go", "sm", "usum", "swsh", "home", "sv"],
   "shinyReleased": true,
   "shinyBase": null,
   "baseStats": {
@@ -66,6 +67,5 @@
     "serebii": "klefki",
     "bulbapedia": "Klefki",
     "showdownName": "Klefki"
-  },
-  "registrableIn": ["xy", "oras", "go", "sm", "usum", "swsh", "home", "sv"]
+  }
 }

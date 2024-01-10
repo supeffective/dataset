@@ -45,6 +45,7 @@
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": ["home", "sv"],
+  "registrableIn": ["home", "sv"],
   "shinyReleased": false,
   "shinyBase": null,
   "baseStats": {
@@ -69,6 +70,5 @@
     "serebii": "ironcrown",
     "bulbapedia": "Iron Crown",
     "showdownName": "Iron Crown"
-  },
-  "registrableIn": ["home", "sv"]
+  }
 }

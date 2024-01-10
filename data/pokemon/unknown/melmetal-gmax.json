@@ -42,6 +42,7 @@
   "versionExclusiveIn": [],
   "eventOnlyIn": ["home"],
   "storableIn": [],
+  "registrableIn": ["home"],
   "shinyReleased": false,
   "shinyBase": null,
   "baseStats": {
@@ -66,6 +67,5 @@
     "serebii": "melmetal",
     "bulbapedia": "Melmetal",
     "showdownName": "Melmetal-Gmax"
-  },
-  "registrableIn": ["home"]
+  }
 }

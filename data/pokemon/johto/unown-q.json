@@ -61,6 +61,26 @@
     "bdsp",
     "la"
   ],
+  "registrableIn": [
+    "gs",
+    "c",
+    "rs",
+    "e",
+    "frlg",
+    "dp",
+    "pt",
+    "hgss",
+    "bw",
+    "b2w2",
+    "xy",
+    "oras",
+    "go",
+    "sm",
+    "usum",
+    "home",
+    "bdsp",
+    "la"
+  ],
   "shinyReleased": true,
   "shinyBase": null,
   "baseStats": {
@@ -85,25 +105,5 @@
     "serebii": "unown",
     "bulbapedia": "Unown",
     "showdownName": "Unown"
-  },
-  "registrableIn": [
-    "gs",
-    "c",
-    "rs",
-    "e",
-    "frlg",
-    "dp",
-    "pt",
-    "hgss",
-    "bw",
-    "b2w2",
-    "xy",
-    "oras",
-    "go",
-    "sm",
-    "usum",
-    "home",
-    "bdsp",
-    "la"
-  ]
+  }
 }

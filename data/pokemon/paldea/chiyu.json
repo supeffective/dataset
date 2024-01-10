@@ -42,6 +42,7 @@
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": ["home", "sv"],
+  "registrableIn": ["home", "sv"],
   "shinyReleased": false,
   "shinyBase": null,
   "baseStats": {
@@ -66,6 +67,5 @@
     "serebii": "chiyu",
     "bulbapedia": "Chiyu",
     "showdownName": "Chi-Yu"
-  },
-  "registrableIn": ["home", "sv"]
+  }
 }

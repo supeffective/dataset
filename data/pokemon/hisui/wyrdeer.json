@@ -42,6 +42,7 @@
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": ["home", "la", "sv"],
+  "registrableIn": ["home", "la"],
   "shinyReleased": true,
   "shinyBase": null,
   "baseStats": {
@@ -70,6 +71,5 @@
     "serebii": "wyrdeer",
     "bulbapedia": "Wyrdeer",
     "showdownName": "Wyrdeer"
-  },
-  "registrableIn": ["home", "la"]
+  }
 }

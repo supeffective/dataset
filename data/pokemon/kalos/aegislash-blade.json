@@ -42,6 +42,7 @@
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": [],
+  "registrableIn": ["xy", "swsh", "home"],
   "shinyReleased": true,
   "shinyBase": null,
   "baseStats": {
@@ -66,6 +67,5 @@
     "serebii": "aegislash",
     "bulbapedia": "Aegislash",
     "showdownName": "Aegislash-Blade"
-  },
-  "registrableIn": ["xy", "swsh", "home"]
+  }
 }

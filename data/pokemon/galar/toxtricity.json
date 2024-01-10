@@ -42,6 +42,7 @@
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": ["swsh", "home", "sv"],
+  "registrableIn": ["swsh", "home", "sv"],
   "shinyReleased": true,
   "shinyBase": null,
   "baseStats": {
@@ -69,6 +70,5 @@
     "serebii": "toxtricity",
     "bulbapedia": "Toxtricity",
     "showdownName": "Toxtricity"
-  },
-  "registrableIn": ["swsh", "home", "sv"]
+  }
 }

@@ -42,6 +42,7 @@
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": ["go", "home", "la", "sv"],
+  "registrableIn": ["go", "home", "la"],
   "shinyReleased": true,
   "shinyBase": null,
   "baseStats": {
@@ -69,6 +70,5 @@
     "serebii": "avalugg",
     "bulbapedia": "Avalugg",
     "showdownName": "Avalugg-Hisui"
-  },
-  "registrableIn": ["go", "home", "la"]
+  }
 }

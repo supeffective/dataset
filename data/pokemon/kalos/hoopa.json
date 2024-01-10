@@ -42,6 +42,7 @@
   "versionExclusiveIn": [],
   "eventOnlyIn": ["xy", "oras", "go"],
   "storableIn": ["xy", "oras", "go", "sm", "usum", "home", "sv"],
+  "registrableIn": ["xy", "oras", "go", "sm", "usum", "home"],
   "shinyReleased": false,
   "shinyBase": null,
   "baseStats": {
@@ -66,6 +67,5 @@
     "serebii": "hoopa",
     "bulbapedia": "Hoopa",
     "showdownName": "Hoopa"
-  },
-  "registrableIn": ["xy", "oras", "go", "sm", "usum", "home"]
+  }
 }

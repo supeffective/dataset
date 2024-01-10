@@ -56,6 +56,21 @@
     "bdsp",
     "la"
   ],
+  "registrableIn": [
+    "dp",
+    "pt",
+    "hgss",
+    "bw",
+    "b2w2",
+    "xy",
+    "oras",
+    "go",
+    "sm",
+    "usum",
+    "home",
+    "bdsp",
+    "la"
+  ],
   "shinyReleased": true,
   "shinyBase": null,
   "baseStats": {
@@ -83,20 +98,5 @@
     "serebii": "mothim",
     "bulbapedia": "Mothim",
     "showdownName": "Mothim"
-  },
-  "registrableIn": [
-    "dp",
-    "pt",
-    "hgss",
-    "bw",
-    "b2w2",
-    "xy",
-    "oras",
-    "go",
-    "sm",
-    "usum",
-    "home",
-    "bdsp",
-    "la"
-  ]
+  }
 }

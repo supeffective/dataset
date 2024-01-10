@@ -57,6 +57,22 @@
     "bdsp",
     "sv"
   ],
+  "registrableIn": [
+    "dp",
+    "pt",
+    "hgss",
+    "bw",
+    "b2w2",
+    "xy",
+    "oras",
+    "go",
+    "sm",
+    "usum",
+    "lgpe",
+    "home",
+    "bdsp",
+    "sv"
+  ],
   "shinyReleased": true,
   "shinyBase": null,
   "baseStats": {
@@ -84,21 +100,5 @@
     "serebii": "hypno",
     "bulbapedia": "Hypno",
     "showdownName": "Hypno"
-  },
-  "registrableIn": [
-    "dp",
-    "pt",
-    "hgss",
-    "bw",
-    "b2w2",
-    "xy",
-    "oras",
-    "go",
-    "sm",
-    "usum",
-    "lgpe",
-    "home",
-    "bdsp",
-    "sv"
-  ]
+  }
 }

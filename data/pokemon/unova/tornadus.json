@@ -54,6 +54,17 @@
     "la",
     "sv"
   ],
+  "registrableIn": [
+    "bw",
+    "b2w2",
+    "xy",
+    "oras",
+    "go",
+    "sm",
+    "usum",
+    "home",
+    "la"
+  ],
   "shinyReleased": true,
   "shinyBase": null,
   "baseStats": {
@@ -78,16 +89,5 @@
     "serebii": "tornadus",
     "bulbapedia": "Tornadus",
     "showdownName": "Tornadus"
-  },
-  "registrableIn": [
-    "bw",
-    "b2w2",
-    "xy",
-    "oras",
-    "go",
-    "sm",
-    "usum",
-    "home",
-    "la"
-  ]
+  }
 }

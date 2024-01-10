@@ -61,6 +61,25 @@
     "home",
     "bdsp"
   ],
+  "registrableIn": [
+    "gs",
+    "c",
+    "rs",
+    "e",
+    "frlg",
+    "dp",
+    "pt",
+    "hgss",
+    "bw",
+    "b2w2",
+    "xy",
+    "oras",
+    "go",
+    "sm",
+    "usum",
+    "home",
+    "bdsp"
+  ],
   "shinyReleased": true,
   "shinyBase": null,
   "baseStats": {
@@ -85,24 +104,5 @@
     "serebii": "lugia",
     "bulbapedia": "Lugia",
     "showdownName": "Lugia"
-  },
-  "registrableIn": [
-    "gs",
-    "c",
-    "rs",
-    "e",
-    "frlg",
-    "dp",
-    "pt",
-    "hgss",
-    "bw",
-    "b2w2",
-    "xy",
-    "oras",
-    "go",
-    "sm",
-    "usum",
-    "home",
-    "bdsp"
-  ]
+  }
 }

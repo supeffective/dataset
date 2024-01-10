@@ -42,6 +42,7 @@
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": ["go", "sm", "usum", "lgpe", "home"],
+  "registrableIn": ["go", "sm", "usum", "lgpe", "home"],
   "shinyReleased": true,
   "shinyBase": null,
   "baseStats": {
@@ -70,6 +71,5 @@
     "serebii": "raticate",
     "bulbapedia": "Raticate",
     "showdownName": "Raticate-Alola"
-  },
-  "registrableIn": ["go", "sm", "usum", "lgpe", "home"]
+  }
 }

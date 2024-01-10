@@ -42,6 +42,7 @@
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": ["go", "home", "sv"],
+  "registrableIn": ["go", "home", "sv"],
   "shinyReleased": true,
   "shinyBase": null,
   "baseStats": {
@@ -69,6 +70,5 @@
     "serebii": "Oinkologne",
     "bulbapedia": "Oinkologne_F",
     "showdownName": "Oinkologne-F"
-  },
-  "registrableIn": ["go", "home", "sv"]
+  }
 }

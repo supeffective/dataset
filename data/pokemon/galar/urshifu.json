@@ -42,6 +42,7 @@
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": ["swsh", "home", "sv"],
+  "registrableIn": ["swsh", "home"],
   "shinyReleased": false,
   "shinyBase": null,
   "baseStats": {
@@ -74,6 +75,5 @@
     "serebii": "urshifu",
     "bulbapedia": "Urshifu",
     "showdownName": "Urshifu"
-  },
-  "registrableIn": ["swsh", "home"]
+  }
 }

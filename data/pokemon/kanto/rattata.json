@@ -63,6 +63,28 @@
     "home",
     "bdsp"
   ],
+  "registrableIn": [
+    "rb",
+    "y",
+    "gs",
+    "c",
+    "rs",
+    "e",
+    "frlg",
+    "dp",
+    "pt",
+    "hgss",
+    "bw",
+    "b2w2",
+    "xy",
+    "oras",
+    "go",
+    "sm",
+    "usum",
+    "lgpe",
+    "home",
+    "bdsp"
+  ],
   "shinyReleased": true,
   "shinyBase": null,
   "baseStats": {
@@ -87,27 +109,5 @@
     "serebii": "rattata",
     "bulbapedia": "Rattata",
     "showdownName": "Rattata"
-  },
-  "registrableIn": [
-    "rb",
-    "y",
-    "gs",
-    "c",
-    "rs",
-    "e",
-    "frlg",
-    "dp",
-    "pt",
-    "hgss",
-    "bw",
-    "b2w2",
-    "xy",
-    "oras",
-    "go",
-    "sm",
-    "usum",
-    "lgpe",
-    "home",
-    "bdsp"
-  ]
+  }
 }

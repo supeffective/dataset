@@ -44,6 +44,7 @@
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": ["home", "sv"],
+  "registrableIn": ["home", "sv"],
   "shinyReleased": true,
   "shinyBase": null,
   "baseStats": {
@@ -71,6 +72,5 @@
     "serebii": "maushold",
     "bulbapedia": "Maushold",
     "showdownName": "Maushold"
-  },
-  "registrableIn": ["home", "sv"]
+  }
 }

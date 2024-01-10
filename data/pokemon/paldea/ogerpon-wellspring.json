@@ -42,6 +42,7 @@
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": ["sv"],
+  "registrableIn": ["home", "sv"],
   "shinyReleased": false,
   "shinyBase": null,
   "baseStats": {
@@ -66,6 +67,5 @@
     "serebii": "ogerpon",
     "bulbapedia": "Ogerpon",
     "showdownName": "Ogerpon-Wellspring"
-  },
-  "registrableIn": ["home", "sv"]
+  }
 }

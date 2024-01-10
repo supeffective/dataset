@@ -42,6 +42,7 @@
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": ["home", "la", "sv"],
+  "registrableIn": ["home", "la"],
   "shinyReleased": true,
   "shinyBase": null,
   "baseStats": {
@@ -70,6 +71,5 @@
     "serebii": "lilligant",
     "bulbapedia": "Lilligant",
     "showdownName": "Lilligant-Hisui"
-  },
-  "registrableIn": ["home", "la"]
+  }
 }

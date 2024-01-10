@@ -42,6 +42,7 @@
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": ["home", "la", "sv"],
+  "registrableIn": ["home", "la", "sv"],
   "shinyReleased": true,
   "shinyBase": null,
   "baseStats": {
@@ -70,6 +71,5 @@
     "serebii": "basculegion",
     "bulbapedia": "Basculegion",
     "showdownName": "Basculegion-F"
-  },
-  "registrableIn": ["home", "la", "sv"]
+  }
 }

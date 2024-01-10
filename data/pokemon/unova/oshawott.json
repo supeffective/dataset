@@ -53,6 +53,18 @@
     "la",
     "sv"
   ],
+  "registrableIn": [
+    "bw",
+    "b2w2",
+    "xy",
+    "oras",
+    "go",
+    "sm",
+    "usum",
+    "home",
+    "la",
+    "sv"
+  ],
   "shinyReleased": true,
   "shinyBase": null,
   "baseStats": {
@@ -77,17 +89,5 @@
     "serebii": "oshawott",
     "bulbapedia": "Oshawott",
     "showdownName": "Oshawott"
-  },
-  "registrableIn": [
-    "bw",
-    "b2w2",
-    "xy",
-    "oras",
-    "go",
-    "sm",
-    "usum",
-    "home",
-    "la",
-    "sv"
-  ]
+  }
 }

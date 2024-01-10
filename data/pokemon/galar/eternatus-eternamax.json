@@ -42,6 +42,7 @@
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": [],
+  "registrableIn": ["swsh", "home"],
   "shinyReleased": false,
   "shinyBase": null,
   "baseStats": {
@@ -66,6 +67,5 @@
     "serebii": "eternatus",
     "bulbapedia": "Eternatus",
     "showdownName": "Eternatus-Eternamax"
-  },
-  "registrableIn": ["swsh", "home"]
+  }
 }

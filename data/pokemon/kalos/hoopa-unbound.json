@@ -42,6 +42,7 @@
   "versionExclusiveIn": [],
   "eventOnlyIn": ["oras", "go"],
   "storableIn": ["oras", "go", "sm", "usum", "home", "sv"],
+  "registrableIn": ["oras", "go", "sm", "usum", "home"],
   "shinyReleased": false,
   "shinyBase": null,
   "baseStats": {
@@ -66,6 +67,5 @@
     "serebii": "hoopa",
     "bulbapedia": "Hoopa",
     "showdownName": "Hoopa-Unbound"
-  },
-  "registrableIn": ["oras", "go", "sm", "usum", "home"]
+  }
 }

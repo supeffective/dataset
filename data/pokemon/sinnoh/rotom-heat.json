@@ -57,6 +57,22 @@
     "la",
     "sv"
   ],
+  "registrableIn": [
+    "pt",
+    "hgss",
+    "bw",
+    "b2w2",
+    "xy",
+    "oras",
+    "go",
+    "sm",
+    "usum",
+    "swsh",
+    "home",
+    "bdsp",
+    "la",
+    "sv"
+  ],
   "shinyReleased": true,
   "shinyBase": null,
   "baseStats": {
@@ -81,21 +97,5 @@
     "serebii": "rotom",
     "bulbapedia": "Rotom",
     "showdownName": "Rotom-Heat"
-  },
-  "registrableIn": [
-    "pt",
-    "hgss",
-    "bw",
-    "b2w2",
-    "xy",
-    "oras",
-    "go",
-    "sm",
-    "usum",
-    "swsh",
-    "home",
-    "bdsp",
-    "la",
-    "sv"
-  ]
+  }
 }

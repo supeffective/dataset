@@ -44,6 +44,7 @@
   "versionExclusiveIn": [],
   "eventOnlyIn": ["xy", "oras", "go"],
   "storableIn": ["xy", "oras", "go", "sm", "usum", "swsh", "home", "sv"],
+  "registrableIn": ["xy", "oras", "go", "sm", "usum", "home"],
   "shinyReleased": true,
   "shinyBase": null,
   "baseStats": {
@@ -71,6 +72,5 @@
     "serebii": "diancie",
     "bulbapedia": "Diancie",
     "showdownName": "Diancie"
-  },
-  "registrableIn": ["xy", "oras", "go", "sm", "usum", "home"]
+  }
 }

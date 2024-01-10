@@ -53,6 +53,7 @@
     "la",
     "sv"
   ],
+  "registrableIn": ["b2w2", "xy", "oras", "go", "sm", "usum", "home", "la"],
   "shinyReleased": true,
   "shinyBase": null,
   "baseStats": {
@@ -77,6 +78,5 @@
     "serebii": "thundurus",
     "bulbapedia": "Thundurus",
     "showdownName": "Thundurus-Therian"
-  },
-  "registrableIn": ["b2w2", "xy", "oras", "go", "sm", "usum", "home", "la"]
+  }
 }

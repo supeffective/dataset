@@ -42,6 +42,7 @@
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": ["go", "sm", "usum", "swsh", "home"],
+  "registrableIn": ["go", "sm", "usum", "swsh", "home"],
   "shinyReleased": true,
   "shinyBase": null,
   "baseStats": {
@@ -69,6 +70,5 @@
     "serebii": "shiinotic",
     "bulbapedia": "Shiinotic",
     "showdownName": "Shiinotic"
-  },
-  "registrableIn": ["go", "sm", "usum", "swsh", "home"]
+  }
 }

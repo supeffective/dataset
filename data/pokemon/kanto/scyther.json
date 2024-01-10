@@ -66,31 +66,6 @@
     "la",
     "sv"
   ],
-  "shinyReleased": true,
-  "shinyBase": null,
-  "baseStats": {
-    "hp": 70,
-    "atk": 110,
-    "def": 80,
-    "spa": 55,
-    "spd": 80,
-    "spe": 105
-  },
-  "weight": 5600,
-  "height": 150,
-  "maleRate": 50,
-  "femaleRate": 50,
-  "baseSpecies": null,
-  "baseForms": [],
-  "forms": ["scyther-f"],
-  "evolvesFrom": null,
-  "refs": {
-    "smogon": "scyther",
-    "showdown": "scyther",
-    "serebii": "scyther",
-    "bulbapedia": "Scyther",
-    "showdownName": "Scyther"
-  },
   "registrableIn": [
     "rb",
     "y",
@@ -115,5 +90,30 @@
     "bdsp",
     "la",
     "sv"
-  ]
+  ],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 70,
+    "atk": 110,
+    "def": 80,
+    "spa": 55,
+    "spd": 80,
+    "spe": 105
+  },
+  "weight": 5600,
+  "height": 150,
+  "maleRate": 50,
+  "femaleRate": 50,
+  "baseSpecies": null,
+  "baseForms": [],
+  "forms": ["scyther-f"],
+  "evolvesFrom": null,
+  "refs": {
+    "smogon": "scyther",
+    "showdown": "scyther",
+    "serebii": "scyther",
+    "bulbapedia": "Scyther",
+    "showdownName": "Scyther"
+  }
 }

@@ -42,6 +42,7 @@
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": ["xy", "oras", "go", "sm", "usum", "home", "sv"],
+  "registrableIn": ["xy", "oras", "go", "sm", "usum", "home", "sv"],
   "shinyReleased": true,
   "shinyBase": null,
   "baseStats": {
@@ -69,6 +70,5 @@
     "serebii": "greninja",
     "bulbapedia": "Greninja",
     "showdownName": "Greninja"
-  },
-  "registrableIn": ["xy", "oras", "go", "sm", "usum", "home", "sv"]
+  }
 }

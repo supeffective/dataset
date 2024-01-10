@@ -44,6 +44,7 @@
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": [],
+  "registrableIn": ["home", "sv"],
   "shinyReleased": false,
   "shinyBase": null,
   "baseStats": {
@@ -69,6 +70,5 @@
     "serebii": "pecharunt",
     "bulbapedia": "Pecharunt",
     "showdownName": "Pecharunt"
-  },
-  "registrableIn": ["home", "sv"]
+  }
 }

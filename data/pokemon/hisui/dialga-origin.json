@@ -42,6 +42,7 @@
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": ["la", "sv"],
+  "registrableIn": ["home", "la"],
   "shinyReleased": true,
   "shinyBase": null,
   "baseStats": {
@@ -66,6 +67,5 @@
     "serebii": "dialga",
     "bulbapedia": "Dialga",
     "showdownName": "Dialga-Origin"
-  },
-  "registrableIn": ["home", "la"]
+  }
 }

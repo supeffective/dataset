@@ -42,6 +42,7 @@
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": ["go"],
+  "registrableIn": ["oras", "go", "home"],
   "shinyReleased": true,
   "shinyBase": null,
   "baseStats": {
@@ -66,6 +67,5 @@
     "serebii": "steelix",
     "bulbapedia": "Steelix",
     "showdownName": "Steelix-Mega"
-  },
-  "registrableIn": ["oras", "go", "home"]
+  }
 }

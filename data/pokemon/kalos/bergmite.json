@@ -42,6 +42,17 @@
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": ["xy", "oras", "go", "sm", "usum", "swsh", "home", "la", "sv"],
+  "registrableIn": [
+    "xy",
+    "oras",
+    "go",
+    "sm",
+    "usum",
+    "swsh",
+    "home",
+    "la",
+    "sv"
+  ],
   "shinyReleased": true,
   "shinyBase": null,
   "baseStats": {
@@ -66,16 +77,5 @@
     "serebii": "bergmite",
     "bulbapedia": "Bergmite",
     "showdownName": "Bergmite"
-  },
-  "registrableIn": [
-    "xy",
-    "oras",
-    "go",
-    "sm",
-    "usum",
-    "swsh",
-    "home",
-    "la",
-    "sv"
-  ]
+  }
 }

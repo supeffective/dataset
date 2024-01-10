@@ -64,6 +64,29 @@
     "bdsp",
     "la"
   ],
+  "registrableIn": [
+    "rb",
+    "y",
+    "gs",
+    "c",
+    "rs",
+    "e",
+    "frlg",
+    "dp",
+    "pt",
+    "hgss",
+    "bw",
+    "b2w2",
+    "xy",
+    "oras",
+    "go",
+    "sm",
+    "usum",
+    "lgpe",
+    "home",
+    "bdsp",
+    "la"
+  ],
   "shinyReleased": true,
   "shinyBase": null,
   "baseStats": {
@@ -88,28 +111,5 @@
     "serebii": "paras",
     "bulbapedia": "Paras",
     "showdownName": "Paras"
-  },
-  "registrableIn": [
-    "rb",
-    "y",
-    "gs",
-    "c",
-    "rs",
-    "e",
-    "frlg",
-    "dp",
-    "pt",
-    "hgss",
-    "bw",
-    "b2w2",
-    "xy",
-    "oras",
-    "go",
-    "sm",
-    "usum",
-    "lgpe",
-    "home",
-    "bdsp",
-    "la"
-  ]
+  }
 }

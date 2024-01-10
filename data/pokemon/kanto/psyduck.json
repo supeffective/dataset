@@ -66,31 +66,6 @@
     "la",
     "sv"
   ],
-  "shinyReleased": true,
-  "shinyBase": null,
-  "baseStats": {
-    "hp": 50,
-    "atk": 52,
-    "def": 48,
-    "spa": 65,
-    "spd": 50,
-    "spe": 55
-  },
-  "weight": 1960,
-  "height": 80,
-  "maleRate": 50,
-  "femaleRate": 50,
-  "baseSpecies": null,
-  "baseForms": [],
-  "forms": [],
-  "evolvesFrom": null,
-  "refs": {
-    "smogon": "psyduck",
-    "showdown": "psyduck",
-    "serebii": "psyduck",
-    "bulbapedia": "Psyduck",
-    "showdownName": "Psyduck"
-  },
   "registrableIn": [
     "rb",
     "y",
@@ -115,5 +90,30 @@
     "bdsp",
     "la",
     "sv"
-  ]
+  ],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 50,
+    "atk": 52,
+    "def": 48,
+    "spa": 65,
+    "spd": 50,
+    "spe": 55
+  },
+  "weight": 1960,
+  "height": 80,
+  "maleRate": 50,
+  "femaleRate": 50,
+  "baseSpecies": null,
+  "baseForms": [],
+  "forms": [],
+  "evolvesFrom": null,
+  "refs": {
+    "smogon": "psyduck",
+    "showdown": "psyduck",
+    "serebii": "psyduck",
+    "bulbapedia": "Psyduck",
+    "showdownName": "Psyduck"
+  }
 }

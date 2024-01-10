@@ -42,6 +42,7 @@
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": ["go", "home", "la", "sv"],
+  "registrableIn": ["go", "home", "la", "sv"],
   "shinyReleased": true,
   "shinyBase": null,
   "baseStats": {
@@ -70,6 +71,5 @@
     "serebii": "ursaluna",
     "bulbapedia": "Ursaluna",
     "showdownName": "Ursaluna"
-  },
-  "registrableIn": ["go", "home", "la", "sv"]
+  }
 }

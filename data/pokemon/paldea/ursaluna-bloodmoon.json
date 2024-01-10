@@ -44,6 +44,7 @@
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": ["home", "sv"],
+  "registrableIn": ["home", "sv"],
   "shinyReleased": false,
   "shinyBase": null,
   "baseStats": {
@@ -71,6 +72,5 @@
     "serebii": "ursaluna",
     "bulbapedia": "Ursaluna",
     "showdownName": "Ursaluna-Bloodmoon"
-  },
-  "registrableIn": ["home", "sv"]
+  }
 }

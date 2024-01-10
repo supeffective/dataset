@@ -42,6 +42,7 @@
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": ["sm", "usum", "swsh", "home"],
+  "registrableIn": ["sm", "usum", "swsh", "home"],
   "shinyReleased": true,
   "shinyBase": null,
   "baseStats": {
@@ -87,6 +88,5 @@
     "serebii": "silvally",
     "bulbapedia": "Silvally",
     "showdownName": "Silvally"
-  },
-  "registrableIn": ["sm", "usum", "swsh", "home"]
+  }
 }

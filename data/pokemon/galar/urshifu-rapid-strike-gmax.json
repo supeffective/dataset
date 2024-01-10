@@ -42,6 +42,7 @@
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": [],
+  "registrableIn": ["swsh", "home"],
   "shinyReleased": false,
   "shinyBase": null,
   "baseStats": {
@@ -66,6 +67,5 @@
     "serebii": "urshifu",
     "bulbapedia": "Urshifu",
     "showdownName": "Urshifu-Rapid-Strike-Gmax"
-  },
-  "registrableIn": ["swsh", "home"]
+  }
 }

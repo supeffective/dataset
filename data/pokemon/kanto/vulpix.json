@@ -66,31 +66,6 @@
     "la",
     "sv"
   ],
-  "shinyReleased": true,
-  "shinyBase": null,
-  "baseStats": {
-    "hp": 38,
-    "atk": 41,
-    "def": 40,
-    "spa": 50,
-    "spd": 65,
-    "spe": 65
-  },
-  "weight": 990,
-  "height": 60,
-  "maleRate": 25,
-  "femaleRate": 75,
-  "baseSpecies": null,
-  "baseForms": [],
-  "forms": ["vulpix-alola"],
-  "evolvesFrom": null,
-  "refs": {
-    "smogon": "vulpix",
-    "showdown": "vulpix",
-    "serebii": "vulpix",
-    "bulbapedia": "Vulpix",
-    "showdownName": "Vulpix"
-  },
   "registrableIn": [
     "rb",
     "y",
@@ -115,5 +90,30 @@
     "bdsp",
     "la",
     "sv"
-  ]
+  ],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 38,
+    "atk": 41,
+    "def": 40,
+    "spa": 50,
+    "spd": 65,
+    "spe": 65
+  },
+  "weight": 990,
+  "height": 60,
+  "maleRate": 25,
+  "femaleRate": 75,
+  "baseSpecies": null,
+  "baseForms": [],
+  "forms": ["vulpix-alola"],
+  "evolvesFrom": null,
+  "refs": {
+    "smogon": "vulpix",
+    "showdown": "vulpix",
+    "serebii": "vulpix",
+    "bulbapedia": "Vulpix",
+    "showdownName": "Vulpix"
+  }
 }

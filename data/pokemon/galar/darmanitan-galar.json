@@ -42,6 +42,7 @@
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": ["go", "swsh", "home"],
+  "registrableIn": ["go", "swsh", "home"],
   "shinyReleased": true,
   "shinyBase": null,
   "baseStats": {
@@ -70,6 +71,5 @@
     "serebii": "darmanitan",
     "bulbapedia": "Darmanitan",
     "showdownName": "Darmanitan-Galar"
-  },
-  "registrableIn": ["go", "swsh", "home"]
+  }
 }

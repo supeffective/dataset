@@ -44,6 +44,7 @@
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": ["home", "sv"],
+  "registrableIn": ["home", "sv"],
   "shinyReleased": true,
   "shinyBase": null,
   "baseStats": {
@@ -73,6 +74,5 @@
     "serebii": "dipplin",
     "bulbapedia": "Dipplin",
     "showdownName": "Dipplin"
-  },
-  "registrableIn": ["home", "sv"]
+  }
 }

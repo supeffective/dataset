@@ -66,31 +66,6 @@
     "la",
     "sv"
   ],
-  "shinyReleased": true,
-  "shinyBase": null,
-  "baseStats": {
-    "hp": 80,
-    "atk": 85,
-    "def": 95,
-    "spa": 30,
-    "spd": 30,
-    "spe": 25
-  },
-  "weight": 11500,
-  "height": 100,
-  "maleRate": 50,
-  "femaleRate": 50,
-  "baseSpecies": null,
-  "baseForms": [],
-  "forms": ["rhyhorn-f"],
-  "evolvesFrom": null,
-  "refs": {
-    "smogon": "rhyhorn",
-    "showdown": "rhyhorn",
-    "serebii": "rhyhorn",
-    "bulbapedia": "Rhyhorn",
-    "showdownName": "Rhyhorn"
-  },
   "registrableIn": [
     "rb",
     "y",
@@ -115,5 +90,30 @@
     "bdsp",
     "la",
     "sv"
-  ]
+  ],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 80,
+    "atk": 85,
+    "def": 95,
+    "spa": 30,
+    "spd": 30,
+    "spe": 25
+  },
+  "weight": 11500,
+  "height": 100,
+  "maleRate": 50,
+  "femaleRate": 50,
+  "baseSpecies": null,
+  "baseForms": [],
+  "forms": ["rhyhorn-f"],
+  "evolvesFrom": null,
+  "refs": {
+    "smogon": "rhyhorn",
+    "showdown": "rhyhorn",
+    "serebii": "rhyhorn",
+    "bulbapedia": "Rhyhorn",
+    "showdownName": "Rhyhorn"
+  }
 }

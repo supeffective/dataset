@@ -42,6 +42,7 @@
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": ["xy", "oras", "sm", "usum", "bdsp", "la", "sv"],
+  "registrableIn": ["xy", "oras", "sm", "usum", "home", "bdsp", "la"],
   "shinyReleased": true,
   "shinyBase": null,
   "baseStats": {
@@ -66,6 +67,5 @@
     "serebii": "arceus",
     "bulbapedia": "Arceus",
     "showdownName": "Arceus-Fairy"
-  },
-  "registrableIn": ["xy", "oras", "sm", "usum", "home", "bdsp", "la"]
+  }
 }

@@ -64,6 +64,29 @@
     "bdsp",
     "sv"
   ],
+  "registrableIn": [
+    "rb",
+    "y",
+    "gs",
+    "c",
+    "rs",
+    "e",
+    "frlg",
+    "dp",
+    "pt",
+    "hgss",
+    "bw",
+    "b2w2",
+    "xy",
+    "oras",
+    "go",
+    "sm",
+    "usum",
+    "lgpe",
+    "home",
+    "bdsp",
+    "sv"
+  ],
   "shinyReleased": true,
   "shinyBase": null,
   "baseStats": {
@@ -88,28 +111,5 @@
     "serebii": "seel",
     "bulbapedia": "Seel",
     "showdownName": "Seel"
-  },
-  "registrableIn": [
-    "rb",
-    "y",
-    "gs",
-    "c",
-    "rs",
-    "e",
-    "frlg",
-    "dp",
-    "pt",
-    "hgss",
-    "bw",
-    "b2w2",
-    "xy",
-    "oras",
-    "go",
-    "sm",
-    "usum",
-    "lgpe",
-    "home",
-    "bdsp",
-    "sv"
-  ]
+  }
 }

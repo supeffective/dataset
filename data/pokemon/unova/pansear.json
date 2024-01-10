@@ -42,6 +42,7 @@
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": ["bw", "b2w2", "xy", "oras", "go", "sm", "usum", "home"],
+  "registrableIn": ["bw", "b2w2", "xy", "oras", "go", "sm", "usum", "home"],
   "shinyReleased": true,
   "shinyBase": null,
   "baseStats": {
@@ -66,6 +67,5 @@
     "serebii": "pansear",
     "bulbapedia": "Pansear",
     "showdownName": "Pansear"
-  },
-  "registrableIn": ["bw", "b2w2", "xy", "oras", "go", "sm", "usum", "home"]
+  }
 }

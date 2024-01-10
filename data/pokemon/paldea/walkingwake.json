@@ -44,6 +44,7 @@
   "versionExclusiveIn": [],
   "eventOnlyIn": ["sv"],
   "storableIn": ["home", "sv"],
+  "registrableIn": ["home", "sv"],
   "shinyReleased": false,
   "shinyBase": null,
   "baseStats": {
@@ -68,6 +69,5 @@
     "serebii": "walkingwake",
     "bulbapedia": "Walking_Wake",
     "showdownName": "Walking Wake"
-  },
-  "registrableIn": ["home", "sv"]
+  }
 }

@@ -42,6 +42,7 @@
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": ["go", "sm", "usum", "lgpe", "swsh", "home", "sv"],
+  "registrableIn": ["go", "sm", "usum", "lgpe", "swsh", "home", "sv"],
   "shinyReleased": true,
   "shinyBase": null,
   "baseStats": {
@@ -71,6 +72,5 @@
     "serebii": "exeggutor",
     "bulbapedia": "Exeggutor",
     "showdownName": "Exeggutor-Alola"
-  },
-  "registrableIn": ["go", "sm", "usum", "lgpe", "swsh", "home", "sv"]
+  }
 }

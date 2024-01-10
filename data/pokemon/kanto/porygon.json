@@ -66,31 +66,6 @@
     "la",
     "sv"
   ],
-  "shinyReleased": true,
-  "shinyBase": null,
-  "baseStats": {
-    "hp": 65,
-    "atk": 60,
-    "def": 70,
-    "spa": 85,
-    "spd": 75,
-    "spe": 40
-  },
-  "weight": 3650,
-  "height": 80,
-  "maleRate": 0,
-  "femaleRate": 0,
-  "baseSpecies": null,
-  "baseForms": [],
-  "forms": [],
-  "evolvesFrom": null,
-  "refs": {
-    "smogon": "porygon",
-    "showdown": "porygon",
-    "serebii": "porygon",
-    "bulbapedia": "Porygon",
-    "showdownName": "Porygon"
-  },
   "registrableIn": [
     "rb",
     "y",
@@ -115,5 +90,30 @@
     "bdsp",
     "la",
     "sv"
-  ]
+  ],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 65,
+    "atk": 60,
+    "def": 70,
+    "spa": 85,
+    "spd": 75,
+    "spe": 40
+  },
+  "weight": 3650,
+  "height": 80,
+  "maleRate": 0,
+  "femaleRate": 0,
+  "baseSpecies": null,
+  "baseForms": [],
+  "forms": [],
+  "evolvesFrom": null,
+  "refs": {
+    "smogon": "porygon",
+    "showdown": "porygon",
+    "serebii": "porygon",
+    "bulbapedia": "Porygon",
+    "showdownName": "Porygon"
+  }
 }

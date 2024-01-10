@@ -42,6 +42,7 @@
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": ["go", "swsh", "home", "sv"],
+  "registrableIn": ["go", "swsh", "home", "sv"],
   "shinyReleased": true,
   "shinyBase": null,
   "baseStats": {
@@ -66,6 +67,5 @@
     "serebii": "skwovet",
     "bulbapedia": "Skwovet",
     "showdownName": "Skwovet"
-  },
-  "registrableIn": ["go", "swsh", "home", "sv"]
+  }
 }

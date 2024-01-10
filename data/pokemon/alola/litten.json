@@ -42,6 +42,7 @@
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": ["go", "sm", "usum", "swsh", "home", "sv"],
+  "registrableIn": ["go", "sm", "usum", "home", "sv"],
   "shinyReleased": true,
   "shinyBase": null,
   "baseStats": {
@@ -66,6 +67,5 @@
     "serebii": "litten",
     "bulbapedia": "Litten",
     "showdownName": "Litten"
-  },
-  "registrableIn": ["go", "sm", "usum", "home", "sv"]
+  }
 }

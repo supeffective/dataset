@@ -65,6 +65,30 @@
     "la",
     "sv"
   ],
+  "registrableIn": [
+    "rb",
+    "y",
+    "gs",
+    "c",
+    "rs",
+    "e",
+    "frlg",
+    "dp",
+    "pt",
+    "hgss",
+    "bw",
+    "b2w2",
+    "xy",
+    "oras",
+    "go",
+    "sm",
+    "usum",
+    "lgpe",
+    "home",
+    "bdsp",
+    "la",
+    "sv"
+  ],
   "shinyReleased": true,
   "shinyBase": null,
   "baseStats": {
@@ -92,29 +116,5 @@
     "serebii": "golem",
     "bulbapedia": "Golem",
     "showdownName": "Golem"
-  },
-  "registrableIn": [
-    "rb",
-    "y",
-    "gs",
-    "c",
-    "rs",
-    "e",
-    "frlg",
-    "dp",
-    "pt",
-    "hgss",
-    "bw",
-    "b2w2",
-    "xy",
-    "oras",
-    "go",
-    "sm",
-    "usum",
-    "lgpe",
-    "home",
-    "bdsp",
-    "la",
-    "sv"
-  ]
+  }
 }

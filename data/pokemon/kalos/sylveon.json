@@ -42,6 +42,17 @@
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": ["xy", "oras", "go", "sm", "usum", "swsh", "home", "la", "sv"],
+  "registrableIn": [
+    "xy",
+    "oras",
+    "go",
+    "sm",
+    "usum",
+    "swsh",
+    "home",
+    "la",
+    "sv"
+  ],
   "shinyReleased": true,
   "shinyBase": null,
   "baseStats": {
@@ -70,16 +81,5 @@
     "serebii": "sylveon",
     "bulbapedia": "Sylveon",
     "showdownName": "Sylveon"
-  },
-  "registrableIn": [
-    "xy",
-    "oras",
-    "go",
-    "sm",
-    "usum",
-    "swsh",
-    "home",
-    "la",
-    "sv"
-  ]
+  }
 }

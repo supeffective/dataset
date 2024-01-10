@@ -42,6 +42,7 @@
   "versionExclusiveIn": [],
   "eventOnlyIn": ["go"],
   "storableIn": ["go", "swsh", "home", "sv"],
+  "registrableIn": ["go", "swsh", "home"],
   "shinyReleased": false,
   "shinyBase": null,
   "baseStats": {
@@ -66,6 +67,5 @@
     "serebii": "zarude",
     "bulbapedia": "Zarude",
     "showdownName": "Zarude"
-  },
-  "registrableIn": ["go", "swsh", "home"]
+  }
 }

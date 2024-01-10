@@ -42,6 +42,7 @@
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": ["home", "sv"],
+  "registrableIn": ["home", "sv"],
   "shinyReleased": true,
   "shinyBase": null,
   "baseStats": {
@@ -69,6 +70,5 @@
     "serebii": "revavroom",
     "bulbapedia": "Revavroom",
     "showdownName": "Revavroom"
-  },
-  "registrableIn": ["home", "sv"]
+  }
 }

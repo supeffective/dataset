@@ -42,6 +42,7 @@
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": ["home", "sv"],
+  "registrableIn": ["home", "sv"],
   "shinyReleased": true,
   "shinyBase": null,
   "baseStats": {
@@ -66,6 +67,5 @@
     "serebii": "Tauros",
     "bulbapedia": "Tauros_Paldea_Water",
     "showdownName": "Tauros-Paldea-Aqua"
-  },
-  "registrableIn": ["home", "sv"]
+  }
 }

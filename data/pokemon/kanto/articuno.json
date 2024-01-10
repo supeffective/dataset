@@ -65,6 +65,29 @@
     "bdsp",
     "sv"
   ],
+  "registrableIn": [
+    "rb",
+    "y",
+    "gs",
+    "c",
+    "rs",
+    "e",
+    "frlg",
+    "dp",
+    "pt",
+    "hgss",
+    "bw",
+    "b2w2",
+    "xy",
+    "oras",
+    "go",
+    "sm",
+    "usum",
+    "lgpe",
+    "swsh",
+    "home",
+    "bdsp"
+  ],
   "shinyReleased": true,
   "shinyBase": null,
   "baseStats": {
@@ -89,28 +112,5 @@
     "serebii": "articuno",
     "bulbapedia": "Articuno",
     "showdownName": "Articuno"
-  },
-  "registrableIn": [
-    "rb",
-    "y",
-    "gs",
-    "c",
-    "rs",
-    "e",
-    "frlg",
-    "dp",
-    "pt",
-    "hgss",
-    "bw",
-    "b2w2",
-    "xy",
-    "oras",
-    "go",
-    "sm",
-    "usum",
-    "lgpe",
-    "swsh",
-    "home",
-    "bdsp"
-  ]
+  }
 }

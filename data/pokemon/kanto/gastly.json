@@ -66,31 +66,6 @@
     "la",
     "sv"
   ],
-  "shinyReleased": true,
-  "shinyBase": null,
-  "baseStats": {
-    "hp": 30,
-    "atk": 35,
-    "def": 30,
-    "spa": 100,
-    "spd": 35,
-    "spe": 80
-  },
-  "weight": 10,
-  "height": 130,
-  "maleRate": 50,
-  "femaleRate": 50,
-  "baseSpecies": null,
-  "baseForms": [],
-  "forms": [],
-  "evolvesFrom": null,
-  "refs": {
-    "smogon": "gastly",
-    "showdown": "gastly",
-    "serebii": "gastly",
-    "bulbapedia": "Gastly",
-    "showdownName": "Gastly"
-  },
   "registrableIn": [
     "rb",
     "y",
@@ -115,5 +90,30 @@
     "bdsp",
     "la",
     "sv"
-  ]
+  ],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 30,
+    "atk": 35,
+    "def": 30,
+    "spa": 100,
+    "spd": 35,
+    "spe": 80
+  },
+  "weight": 10,
+  "height": 130,
+  "maleRate": 50,
+  "femaleRate": 50,
+  "baseSpecies": null,
+  "baseForms": [],
+  "forms": [],
+  "evolvesFrom": null,
+  "refs": {
+    "smogon": "gastly",
+    "showdown": "gastly",
+    "serebii": "gastly",
+    "bulbapedia": "Gastly",
+    "showdownName": "Gastly"
+  }
 }

@@ -42,6 +42,17 @@
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": ["bw", "b2w2", "xy", "oras", "go", "sm", "usum", "home", "sv"],
+  "registrableIn": [
+    "bw",
+    "b2w2",
+    "xy",
+    "oras",
+    "go",
+    "sm",
+    "usum",
+    "home",
+    "sv"
+  ],
   "shinyReleased": true,
   "shinyBase": null,
   "baseStats": {
@@ -66,16 +77,5 @@
     "serebii": "ducklett",
     "bulbapedia": "Ducklett",
     "showdownName": "Ducklett"
-  },
-  "registrableIn": [
-    "bw",
-    "b2w2",
-    "xy",
-    "oras",
-    "go",
-    "sm",
-    "usum",
-    "home",
-    "sv"
-  ]
+  }
 }

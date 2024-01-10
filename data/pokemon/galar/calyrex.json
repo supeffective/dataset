@@ -42,6 +42,7 @@
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": ["swsh", "home", "sv"],
+  "registrableIn": ["swsh", "home"],
   "shinyReleased": false,
   "shinyBase": null,
   "baseStats": {
@@ -66,6 +67,5 @@
     "serebii": "calyrex",
     "bulbapedia": "Calyrex",
     "showdownName": "Calyrex"
-  },
-  "registrableIn": ["swsh", "home"]
+  }
 }

@@ -42,6 +42,7 @@
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": [],
+  "registrableIn": ["swsh", "home", "sv"],
   "shinyReleased": true,
   "shinyBase": null,
   "baseStats": {
@@ -66,6 +67,5 @@
     "serebii": "morpeko",
     "bulbapedia": "Morpeko",
     "showdownName": "Morpeko-Hangry"
-  },
-  "registrableIn": ["swsh", "home", "sv"]
+  }
 }

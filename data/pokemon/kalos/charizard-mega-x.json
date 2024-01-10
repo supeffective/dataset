@@ -42,6 +42,7 @@
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": ["go"],
+  "registrableIn": ["xy", "go", "home"],
   "shinyReleased": true,
   "shinyBase": null,
   "baseStats": {
@@ -66,6 +67,5 @@
     "serebii": "charizard",
     "bulbapedia": "Charizard",
     "showdownName": "Charizard-Mega-X"
-  },
-  "registrableIn": ["xy", "go", "home"]
+  }
 }

@@ -42,6 +42,7 @@
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": ["home", "sv"],
+  "registrableIn": ["home", "sv"],
   "shinyReleased": true,
   "shinyBase": null,
   "baseStats": {
@@ -70,6 +71,5 @@
     "serebii": "farigiraf",
     "bulbapedia": "Farigiraf",
     "showdownName": "Farigiraf"
-  },
-  "registrableIn": ["home", "sv"]
+  }
 }

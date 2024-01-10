@@ -66,31 +66,6 @@
     "la",
     "sv"
   ],
-  "shinyReleased": true,
-  "shinyBase": null,
-  "baseStats": {
-    "hp": 40,
-    "atk": 40,
-    "def": 35,
-    "spa": 50,
-    "spd": 100,
-    "spe": 70
-  },
-  "weight": 4550,
-  "height": 90,
-  "maleRate": 50,
-  "femaleRate": 50,
-  "baseSpecies": null,
-  "baseForms": [],
-  "forms": [],
-  "evolvesFrom": null,
-  "refs": {
-    "smogon": "tentacool",
-    "showdown": "tentacool",
-    "serebii": "tentacool",
-    "bulbapedia": "Tentacool",
-    "showdownName": "Tentacool"
-  },
   "registrableIn": [
     "rb",
     "y",
@@ -115,5 +90,30 @@
     "bdsp",
     "la",
     "sv"
-  ]
+  ],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 40,
+    "atk": 40,
+    "def": 35,
+    "spa": 50,
+    "spd": 100,
+    "spe": 70
+  },
+  "weight": 4550,
+  "height": 90,
+  "maleRate": 50,
+  "femaleRate": 50,
+  "baseSpecies": null,
+  "baseForms": [],
+  "forms": [],
+  "evolvesFrom": null,
+  "refs": {
+    "smogon": "tentacool",
+    "showdown": "tentacool",
+    "serebii": "tentacool",
+    "bulbapedia": "Tentacool",
+    "showdownName": "Tentacool"
+  }
 }

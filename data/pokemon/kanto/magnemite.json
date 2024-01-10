@@ -66,31 +66,6 @@
     "la",
     "sv"
   ],
-  "shinyReleased": true,
-  "shinyBase": null,
-  "baseStats": {
-    "hp": 25,
-    "atk": 35,
-    "def": 70,
-    "spa": 95,
-    "spd": 55,
-    "spe": 45
-  },
-  "weight": 600,
-  "height": 30,
-  "maleRate": 0,
-  "femaleRate": 0,
-  "baseSpecies": null,
-  "baseForms": [],
-  "forms": [],
-  "evolvesFrom": null,
-  "refs": {
-    "smogon": "magnemite",
-    "showdown": "magnemite",
-    "serebii": "magnemite",
-    "bulbapedia": "Magnemite",
-    "showdownName": "Magnemite"
-  },
   "registrableIn": [
     "rb",
     "y",
@@ -115,5 +90,30 @@
     "bdsp",
     "la",
     "sv"
-  ]
+  ],
+  "shinyReleased": true,
+  "shinyBase": null,
+  "baseStats": {
+    "hp": 25,
+    "atk": 35,
+    "def": 70,
+    "spa": 95,
+    "spd": 55,
+    "spe": 45
+  },
+  "weight": 600,
+  "height": 30,
+  "maleRate": 0,
+  "femaleRate": 0,
+  "baseSpecies": null,
+  "baseForms": [],
+  "forms": [],
+  "evolvesFrom": null,
+  "refs": {
+    "smogon": "magnemite",
+    "showdown": "magnemite",
+    "serebii": "magnemite",
+    "bulbapedia": "Magnemite",
+    "showdownName": "Magnemite"
+  }
 }
