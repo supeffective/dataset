@@ -1,4 +1,16 @@
 
+## v2.1.2
+
+[compare changes](https://github.com/supeffective/dataset/compare/v2.1.1...v2.1.2)
+
+### 🩹 Fixes
+
+- Wrong dex ids in gen 3 games ([fa435fe](https://github.com/supeffective/dataset/commit/fa435fe))
+
+### ❤️ Contributors
+
+- Javi Aguilar
+
 ## v2.1.1
 
 [compare changes](https://github.com/supeffective/dataset/compare/v2.1.0...v2.1.1)
