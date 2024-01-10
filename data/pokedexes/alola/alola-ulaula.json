@@ -2,13 +2,12 @@
   "id": "alola-ulaula",
   "name": "Ula'ula Island Pokédex",
   "region": "alola",
-  "pokeApiId": 19,
   "generation": 7,
-  "gameSets": [
+  "gameIds": [
     "sm"
   ],
+  "pokeApiId": 19,
   "baseDex": "alola",
-  "isUnofficial": false,
   "entries": [
     {"id":"pikipek","dexNum":1,"isForm":false},
     {"id":"trumbeak","dexNum":2,"isForm":false},

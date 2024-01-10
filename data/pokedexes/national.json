@@ -3,12 +3,11 @@
   "name": "National",
   "region": null,
   "generation": 9,
-  "gameSets": [
-    "home",
-    "go"
+  "gameIds": [
+    "go",
+    "home"
   ],
   "baseDex": null,
-  "isUnofficial": false,
   "entries": [
     {"id":"bulbasaur","dexNum":1,"isForm":false},
     {"id":"ivysaur","dexNum":2,"isForm":false},

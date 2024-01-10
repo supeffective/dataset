@@ -2,14 +2,13 @@
   "id": "hoenn",
   "name": "Hoenn Pokédex",
   "region": "hoenn",
-  "pokeApiId": 4,
   "generation": 3,
-  "gameSets": [
+  "gameIds": [
     "rs",
     "e"
   ],
+  "pokeApiId": 4,
   "baseDex": null,
-  "isUnofficial": false,
   "entries": [
     {"id":"treecko","dexNum":1,"isForm":false},
     {"id":"grovyle","dexNum":2,"isForm":false},

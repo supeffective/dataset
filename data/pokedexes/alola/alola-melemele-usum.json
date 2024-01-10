@@ -2,13 +2,12 @@
   "id": "alola-melemele-usum",
   "name": "Melemele Island Pokédex 2.0",
   "region": "alola",
-  "pokeApiId": 22,
   "generation": 7,
-  "gameSets": [
+  "gameIds": [
     "usum"
   ],
+  "pokeApiId": 22,
   "baseDex": "alola-usum",
-  "isUnofficial": false,
   "entries": [
     {"id":"rowlet","dexNum":1,"isForm":false},
     {"id":"dartrix","dexNum":2,"isForm":false},

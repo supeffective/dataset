@@ -3,11 +3,10 @@
   "name": "National Ultra Sun/Ultra Moon",
   "region": "alola",
   "generation": 7,
-  "gameSets": [
+  "gameIds": [
     "usum"
   ],
   "baseDex": null,
-  "isUnofficial": false,
   "entries": [
     {"id":"bulbasaur","dexNum":1,"isForm":false},
     {"id":"ivysaur","dexNum":2,"isForm":false},

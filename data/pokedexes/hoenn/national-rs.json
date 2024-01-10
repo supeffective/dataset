@@ -2,13 +2,12 @@
   "id": "national-rs",
   "name": "National Ruby/Sapphire/Emerald",
   "region": "hoenn",
-  "pokeApiId": null,
   "generation": 3,
-  "gameSets": [
+  "gameIds": [
     "rs"
   ],
+  "pokeApiId": null,
   "baseDex": null,
-  "isUnofficial": false,
   "entries": [
     {"id":"bulbasaur","dexNum":1,"isForm":false},
     {"id":"ivysaur","dexNum":2,"isForm":false},

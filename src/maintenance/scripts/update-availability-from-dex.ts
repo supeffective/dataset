@@ -25,7 +25,7 @@ for (const entry of dex.entries) {
     throw new Error(`Pokemon file not found for entry '${entry.id}'`)
   }
 
-  for (const gameSetId of dex.gameSets) {
+  for (const gameSetId of dex.gameIds) {
     if (!pkm.obtainableIn.includes(gameSetId)) {
       pkm.obtainableIn.push(gameSetId)
     }

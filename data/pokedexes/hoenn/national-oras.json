@@ -3,11 +3,10 @@
   "name": "National Omega Ruby/Alpha Sapphire",
   "region": "hoenn",
   "generation": 6,
-  "gameSets": [
+  "gameIds": [
     "oras"
   ],
   "baseDex": null,
-  "isUnofficial": false,
   "entries": [
     {"id":"bulbasaur","dexNum":1,"isForm":false},
     {"id":"ivysaur","dexNum":2,"isForm":false},

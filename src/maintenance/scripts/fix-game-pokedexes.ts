@@ -12,7 +12,7 @@ function run() {
   const pokedexesByGameSetId: Record<string, Pokedex[]> = {}
 
   for (const pokedex of dexRecords) {
-    for (const gameId of pokedex.gameSets) {
+    for (const gameId of pokedex.gameIds) {
       if (!pokedexesByGameSetId[gameId]) {
         pokedexesByGameSetId[gameId] = []
       }

@@ -2,15 +2,14 @@
   "id": "kanto",
   "name": "Kanto Pokédex",
   "region": "kanto",
-  "pokeApiId": 2,
   "generation": 1,
-  "gameSets": [
+  "gameIds": [
     "rb",
     "y",
     "frlg"
   ],
+  "pokeApiId": 2,
   "baseDex": null,
-  "isUnofficial": false,
   "entries": [
     {"id":"bulbasaur","dexNum":1,"isForm":false},
     {"id":"ivysaur","dexNum":2,"isForm":false},

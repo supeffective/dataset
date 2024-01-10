@@ -2,13 +2,12 @@
   "id": "kalos-central",
   "name": "Central Kalos Pokédex",
   "region": "kalos",
-  "pokeApiId": 12,
   "generation": 6,
-  "gameSets": [
+  "gameIds": [
     "xy"
   ],
+  "pokeApiId": 12,
   "baseDex": null,
-  "isUnofficial": false,
   "entries": [
     {"id":"chespin","dexNum":1,"isForm":false},
     {"id":"quilladin","dexNum":2,"isForm":false},

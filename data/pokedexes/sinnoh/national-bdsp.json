@@ -3,11 +3,10 @@
   "name": "National Brilliant Diamond/Shining Pearl",
   "region": "sinnoh",
   "generation": 8,
-  "gameSets": [
+  "gameIds": [
     "bdsp"
   ],
   "baseDex": null,
-  "isUnofficial": false,
   "entries": [
     {"id":"bulbasaur","dexNum":1,"isForm":false},
     {"id":"ivysaur","dexNum":2,"isForm":false},

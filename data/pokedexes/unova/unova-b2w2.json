@@ -1,14 +1,13 @@
 {
   "id": "unova-b2w2",
   "name": "Unova Pokédex 2.0",
-  "pokeApiId": 9,
-  "gameSets": [
-    "b2w2"
-  ],
   "region": "unova",
   "generation": 5,
+  "gameIds": [
+    "b2w2"
+  ],
+  "pokeApiId": 9,
   "baseDex": null,
-  "isUnofficial": false,
   "entries": [
     {"id":"victini","dexNum":0,"isForm":false},
     {"id":"snivy","dexNum":1,"isForm":false},

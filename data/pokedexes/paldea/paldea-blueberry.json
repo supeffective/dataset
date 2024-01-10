@@ -2,13 +2,12 @@
   "id": "paldea-blueberry",
   "name": "Blueberry Pokédex",
   "region": "paldea",
-  "pokeApiId": 33,
   "generation": 9,
-  "gameSets": [
+  "gameIds": [
     "sv"
   ],
+  "pokeApiId": 33,
   "baseDex": "paldea",
-  "isUnofficial": false,
   "entries": [
     {"id":"doduo","dexNum":1,"isForm":false},
     {"id":"dodrio","dexNum":2,"isForm":false},

@@ -2,13 +2,12 @@
   "id": "kalos-mountain",
   "name": "Mountain Kalos Pokédex",
   "region": "kalos",
-  "pokeApiId": 14,
   "generation": 6,
-  "gameSets": [
+  "gameIds": [
     "xy"
   ],
+  "pokeApiId": 14,
   "baseDex": null,
-  "isUnofficial": false,
   "entries": [
     {"id":"diglett","dexNum":1,"isForm":false},
     {"id":"dugtrio","dexNum":2,"isForm":false},

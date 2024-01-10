@@ -3,11 +3,10 @@
   "name": "National FireRed/LeafGreen",
   "region": "kanto",
   "generation": 3,
-  "gameSets": [
+  "gameIds": [
     "frlg"
   ],
   "baseDex": null,
-  "isUnofficial": false,
   "entries": [
     {"id":"bulbasaur","dexNum":1,"isForm":false},
     {"id":"ivysaur","dexNum":2,"isForm":false},

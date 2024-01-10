@@ -3,11 +3,10 @@
   "name": "National HeartGold / SoulSilver",
   "region": "johto",
   "generation": 4,
-  "gameSets": [
+  "gameIds": [
     "hgss"
   ],
   "baseDex": null,
-  "isUnofficial": false,
   "entries": [
     {"id":"bulbasaur","dexNum":1,"isForm":false},
     {"id":"ivysaur","dexNum":2,"isForm":false},

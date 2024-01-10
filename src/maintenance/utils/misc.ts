@@ -17,7 +17,7 @@ export function populatePokemonAndGameIdsFromDexes(): Record<string, string[]> {
 
   for (const dex of allDexes) {
     for (const entry of dex.entries) {
-      const uniqueGameIdSet = new Set([...(registry[entry.id] ?? []), ...dex.gameSets])
+      const uniqueGameIdSet = new Set([...(registry[entry.id] ?? []), ...dex.gameIds])
       registry[entry.id] = sortGameIdsInOrder(Array.from([...uniqueGameIdSet]))
     }
   }

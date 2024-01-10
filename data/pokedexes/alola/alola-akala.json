@@ -2,13 +2,12 @@
   "id": "alola-akala",
   "name": "Akala Island Pokédex",
   "region": "alola",
-  "pokeApiId": 18,
   "generation": 7,
-  "gameSets": [
+  "gameIds": [
     "sm"
   ],
+  "pokeApiId": 18,
   "baseDex": "alola",
-  "isUnofficial": false,
   "entries": [
     {"id":"pikipek","dexNum":1,"isForm":false},
     {"id":"trumbeak","dexNum":2,"isForm":false},

@@ -2,13 +2,12 @@
   "id": "unova",
   "name": "Unova Pokédex",
   "region": "unova",
-  "pokeApiId": 8,
   "generation": 5,
-  "gameSets": [
+  "gameIds": [
     "bw"
   ],
+  "pokeApiId": 8,
   "baseDex": null,
-  "isUnofficial": false,
   "entries": [
     {"id":"victini","dexNum":0,"isForm":false},
     {"id":"snivy","dexNum":1,"isForm":false},

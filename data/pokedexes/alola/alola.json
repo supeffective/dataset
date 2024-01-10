@@ -2,13 +2,12 @@
   "id": "alola",
   "name": "Alola Pokédex",
   "region": "alola",
-  "pokeApiId": 16,
   "generation": 7,
-  "gameSets": [
+  "gameIds": [
     "sm"
   ],
+  "pokeApiId": 16,
   "baseDex": null,
-  "isUnofficial": false,
   "entries": [
     {"id":"rowlet","dexNum":1,"isForm":false},
     {"id":"dartrix","dexNum":2,"isForm":false},

@@ -3,11 +3,10 @@
   "name": "Alabaster Icelands Pokédex",
   "region": "hisui",
   "generation": 8,
-  "gameSets": [
+  "gameIds": [
     "la"
   ],
   "baseDex": "hisui",
-  "isUnofficial": false,
   "entries": [
   ]
 }

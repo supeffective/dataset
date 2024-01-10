@@ -2,13 +2,12 @@
   "id": "paldea",
   "name": "Paldea Pokédex",
   "region": "paldea",
-  "pokeApiId": 31,
   "generation": 9,
-  "gameSets": [
+  "gameIds": [
     "sv"
   ],
+  "pokeApiId": 31,
   "baseDex": "paldea",
-  "isUnofficial": false,
   "entries": [
     {"id":"sprigatito","dexNum":1,"isForm":false},
     {"id":"floragato","dexNum":2,"isForm":false},

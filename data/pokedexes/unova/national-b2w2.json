@@ -3,11 +3,10 @@
   "name": "National Black 2 & White 2",
   "region": "unova",
   "generation": 5,
-  "gameSets": [
+  "gameIds": [
     "b2w2"
   ],
   "baseDex": null,
-  "isUnofficial": false,
   "entries": [
     {"id":"bulbasaur","dexNum":1,"isForm":false},
     {"id":"ivysaur","dexNum":2,"isForm":false},

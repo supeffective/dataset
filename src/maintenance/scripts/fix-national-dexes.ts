@@ -26,7 +26,7 @@ function run() {
     const regionSegment = dex.region ? `${dex.region}/` : ''
     const dexFile = getDataPath(`pokedexes/${regionSegment}${dex.id}.json`)
 
-    const gameIds = dex.gameSets.flatMap((value) => getAllGamesForGameSetOrSuperset(value))
+    const gameIds = dex.gameIds.flatMap((value) => getAllGamesForGameSetOrSuperset(value))
 
     // Iterate all pokemon and add them to dex.entries if they are available in any of the gameIds
     for (const pkm of pokemonList) {

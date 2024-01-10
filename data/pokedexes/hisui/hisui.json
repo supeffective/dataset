@@ -2,13 +2,12 @@
   "id": "hisui",
   "name": "Hisui Pokédex",
   "region": "hisui",
-  "pokeApiId": 30,
   "generation": 8,
-  "gameSets": [
+  "gameIds": [
     "la"
   ],
+  "pokeApiId": 30,
   "baseDex": null,
-  "isUnofficial": false,
   "entries": [
     {"id":"rowlet","dexNum":1,"isForm":false},
     {"id":"dartrix","dexNum":2,"isForm":false},

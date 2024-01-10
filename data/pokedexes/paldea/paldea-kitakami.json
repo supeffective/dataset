@@ -2,13 +2,12 @@
   "id": "paldea-kitakami",
   "name": "Kitakami Pokédex",
   "region": "paldea",
-  "pokeApiId": 32,
   "generation": 9,
-  "gameSets": [
+  "gameIds": [
     "sv"
   ],
+  "pokeApiId": 32,
   "baseDex": "paldea",
-  "isUnofficial": false,
   "entries": [
     {"id":"spinarak","dexNum":1,"isForm":false},
     {"id":"ariados","dexNum":2,"isForm":false},

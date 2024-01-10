@@ -2,13 +2,12 @@
   "id": "hoenn-oras",
   "name": "Hoenn Pokédex 2.0",
   "region": "hoenn",
-  "pokeApiId": 15,
   "generation": 6,
-  "gameSets": [
+  "gameIds": [
     "oras"
   ],
+  "pokeApiId": 15,
   "baseDex": null,
-  "isUnofficial": false,
   "entries": [
     {"id":"treecko","dexNum":1,"isForm":false},
     {"id":"grovyle","dexNum":2,"isForm":false},

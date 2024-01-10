@@ -2,13 +2,12 @@
   "id": "national-e",
   "name": "National - Emerald",
   "region": "hoenn",
-  "pokeApiId": null,
   "generation": 3,
-  "gameSets": [
+  "gameIds": [
     "e"
   ],
+  "pokeApiId": null,
   "baseDex": null,
-  "isUnofficial": false,
   "entries": [
     {"id":"bulbasaur","dexNum":1,"isForm":false},
     {"id":"ivysaur","dexNum":2,"isForm":false},

@@ -2,13 +2,12 @@
   "id": "galar-isle-armor",
   "name": "Isle of Armor Pokédex",
   "region": "galar",
-  "pokeApiId": 28,
   "generation": 8,
-  "gameSets": [
+  "gameIds": [
     "swsh"
   ],
+  "pokeApiId": 28,
   "baseDex": "galar",
-  "isUnofficial": false,
   "entries": [
     {"id":"slowpoke","dexNum":1,"isForm":false},
     {"id":"slowpoke-galar","dexNum":1,"isForm":true},

@@ -3,12 +3,11 @@
   "name": "Galar Pokédex",
   "region": "galar",
   "generation": 8,
-  "pokeApiId": 27,
-  "gameSets": [
+  "gameIds": [
     "swsh"
   ],
+  "pokeApiId": 27,
   "baseDex": "galar",
-  "isUnofficial": false,
   "entries": [
     {"id":"grookey","dexNum":1,"isForm":false},
     {"id":"thwackey","dexNum":2,"isForm":false},

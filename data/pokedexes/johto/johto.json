@@ -2,14 +2,13 @@
   "id": "johto",
   "name": "Johto Pokédex",
   "region": "johto",
-  "pokeApiId": 3,
   "generation": 2,
-  "gameSets": [
+  "gameIds": [
     "gs",
     "c"
   ],
+  "pokeApiId": 3,
   "baseDex": null,
-  "isUnofficial": false,
   "entries": [
     {"id":"chikorita","dexNum":1,"isForm":false},
     {"id":"bayleef","dexNum":2,"isForm":false},

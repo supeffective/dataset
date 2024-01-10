@@ -2,13 +2,12 @@
   "id": "kalos-coastal",
   "name": "Coastal Kalos Pokédex",
   "region": "kalos",
-  "pokeApiId": 13,
   "generation": 6,
-  "gameSets": [
+  "gameIds": [
     "xy"
   ],
+  "pokeApiId": 13,
   "baseDex": null,
-  "isUnofficial": false,
   "entries": [
     {"id":"drifloon","dexNum":1,"isForm":false},
     {"id":"drifblim","dexNum":2,"isForm":false},

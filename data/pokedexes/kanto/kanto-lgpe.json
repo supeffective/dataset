@@ -2,13 +2,12 @@
   "id": "kanto-lgpe",
   "name": "Kanto Pokédex 2.0",
   "region": "kanto",
-  "pokeApiId": 26,
   "generation": 8,
-  "gameSets": [
+  "gameIds": [
     "lgpe"
   ],
+  "pokeApiId": 26,
   "baseDex": null,
-  "isUnofficial": false,
   "entries": [
     {"id":"bulbasaur","dexNum":1,"isForm":false},
     {"id":"ivysaur","dexNum":2,"isForm":false},

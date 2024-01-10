@@ -2,13 +2,12 @@
   "id": "johto-hgss",
   "name": "Johto Pokédex 2.0",
   "region": "johto",
-  "pokeApiId": 7,
   "generation": 4,
-  "gameSets": [
+  "gameIds": [
     "hgss"
   ],
+  "pokeApiId": 7,
   "baseDex": null,
-  "isUnofficial": false,
   "entries": [
     {"id":"chikorita","dexNum":1,"isForm":false},
     {"id":"bayleef","dexNum":2,"isForm":false},

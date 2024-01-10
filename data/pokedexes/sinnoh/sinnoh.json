@@ -2,14 +2,13 @@
   "id": "sinnoh",
   "name": "Sinnoh Pokédex",
   "region": "sinnoh",
-  "pokeApiId": 5,
   "generation": 4,
-  "gameSets": [
+  "gameIds": [
     "dp",
     "bdsp"
   ],
+  "pokeApiId": 5,
   "baseDex": null,
-  "isUnofficial": false,
   "entries": [
     {"id":"turtwig","dexNum":1,"isForm":false},
     {"id":"grotle","dexNum":2,"isForm":false},
