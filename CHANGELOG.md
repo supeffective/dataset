@@ -1,4 +1,16 @@
 
+## v2.1.0
+
+[compare changes](https://github.com/supeffective/dataset/compare/v2.0.0...v2.1.0)
+
+### 💅 Refactors
+
+- Start using game ids instead of gameset ids everywhere. Some dex fields changed. ([aa8d987](https://github.com/supeffective/dataset/commit/aa8d987))
+
+### ❤️ Contributors
+
+- Javi Aguilar
+
 ## v2.0.0
 
 [compare changes](https://github.com/supeffective/dataset/compare/v1.3.1...v2.0.0)
