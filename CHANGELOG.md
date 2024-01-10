@@ -1,4 +1,16 @@
 
+## v2.1.1
+
+[compare changes](https://github.com/supeffective/dataset/compare/v2.1.0...v2.1.1)
+
+### 🩹 Fixes
+
+- Missing field in placeholder pokemon ([dd32e0b](https://github.com/supeffective/dataset/commit/dd32e0b))
+
+### ❤️ Contributors
+
+- Javi Aguilar
+
 ## v2.1.0
 
 [compare changes](https://github.com/supeffective/dataset/compare/v2.0.0...v2.1.0)
