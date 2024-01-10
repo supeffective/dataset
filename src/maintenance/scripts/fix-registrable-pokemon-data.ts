@@ -1,34 +1,9 @@
 import { type Pokemon, type PokemonIndexItem, pokemonSchema } from '../../schemas'
-import { jsonStringifyRecords } from '../../utils'
-import { localDataLoader } from '../loader'
 import { getDataPath, readFileAsJson, writeFile } from '../utils/fs'
 import { populatePokemonAndGameIdsFromDexes, sortGameIdsInOrder } from '../utils/misc'
 
-// Use this file to run one-off scripts like this example.
-// The run it with `bun src/maintenance/scripts/one-off.ts`
-// NOTE: Do not commit the changes to this file.
-
-// biome-ignore lint/correctness/noUnusedVariables: <explanation>
-function runUpdateIndexFile() {
-  // Get the data file contents
-  const dataFile = getDataPath('pokemon-index.json')
-  const records = readFileAsJson<PokemonIndexItem[]>(dataFile)
-  const pokemonMap = localDataLoader.pokemon()
-
-  for (const record of records) {
-    const fullRecord = pokemonMap.get(record.id)
-    if (!fullRecord) {
-      throw new Error(`Unknown pokemon ID found in pokemon-index: '${record.id}'`)
-    }
-    // Do something with each record here.
-    console.log(record.id)
-  }
-
-  // Save the changes
-  writeFile(dataFile, jsonStringifyRecords(records))
-}
-
-function runUpdateRecordFiles() {
+// This is a one-off script, but might need to be run from time to time.
+function run() {
   // Get the data file contents
   const dataFile = getDataPath('pokemon-index.json')
   const records = readFileAsJson<PokemonIndexItem[]>(dataFile)
@@ -61,5 +36,4 @@ function runUpdateRecordFiles() {
   }
 }
 
-// runUpdateIndexFile()
-runUpdateRecordFiles()
+run()

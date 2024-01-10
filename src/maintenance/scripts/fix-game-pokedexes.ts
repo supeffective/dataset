@@ -2,10 +2,7 @@ import type { Game, Pokedex } from '../../schemas'
 import { jsonStringifyRecords } from '../../utils'
 import { getDataPath, readFileAsJson, writeFile } from '../utils/fs'
 
-// Use this file to run one-off scripts like this example.
-// The run it with `bun src/maintenance/scripts/one-off.ts`
-// NOTE: Do not commit the changes to this file.
-
+// This is a one-off script, but might need to be run from time to time.
 function run() {
   // Get the data file contents
   const dataFile = getDataPath('games.json')
