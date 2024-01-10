@@ -40,19 +40,8 @@
   "debutIn": "oras",
   "obtainableIn": [],
   "versionExclusiveIn": [],
-  "eventOnlyIn": [
-    "xy",
-    "oras",
-    "go"
-  ],
-  "storableIn": [
-    "oras",
-    "go",
-    "sm",
-    "usum",
-    "home",
-    "sv"
-  ],
+  "eventOnlyIn": ["oras", "go"],
+  "storableIn": ["oras", "go", "sm", "usum", "home", "sv"],
   "shinyReleased": false,
   "shinyBase": null,
   "baseStats": {
@@ -68,9 +57,7 @@
   "maleRate": 0,
   "femaleRate": 0,
   "baseSpecies": "hoopa",
-  "baseForms": [
-    "hoopa"
-  ],
+  "baseForms": ["hoopa"],
   "forms": [],
   "evolvesFrom": null,
   "refs": {
@@ -80,8 +67,5 @@
     "bulbapedia": "Hoopa",
     "showdownName": "Hoopa-Unbound"
   },
-  "registrableIn": [
-    "go",
-    "home"
-  ]
+  "registrableIn": ["oras", "go", "home"]
 }

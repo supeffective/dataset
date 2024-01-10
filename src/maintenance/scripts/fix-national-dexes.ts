@@ -1,6 +1,7 @@
 import type { PokedexIndexItem } from '../../schemas'
 import { localDataLoader } from '../loader'
 import { getDataPath, readFileAsJson, writeFile } from '../utils/fs'
+import { getAllGamesForGameSetOrSuperset } from '../utils/misc'
 
 // This is a one-off script, but might need to be run from time to time.
 function run() {
@@ -25,12 +26,12 @@ function run() {
     const regionSegment = dex.region ? `${dex.region}/` : ''
     const dexFile = getDataPath(`pokedexes/${regionSegment}${dex.id}.json`)
 
-    const gameIds = dex.gameSets
+    const gameIds = dex.gameSets.flatMap((value) => getAllGamesForGameSetOrSuperset(value))
 
     // Iterate all pokemon and add them to dex.entries if they are available in any of the gameIds
     for (const pkm of pokemonList) {
       const pokemonGameIds = Array.from(
-        new Set([pkm.debutIn, ...pkm.storableIn, ...pkm.obtainableIn, ...pkm.eventOnlyIn, ...pkm.registrableIn]),
+        new Set([...pkm.storableIn, ...pkm.obtainableIn, ...pkm.eventOnlyIn, ...pkm.registrableIn]),
       )
 
       if (pokemonGameIds.some((gameId) => gameIds.includes(gameId))) {

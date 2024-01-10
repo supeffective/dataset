@@ -38,15 +38,11 @@
   "canDynamax": true,
   "canBeAlpha": false,
   "debutIn": "frlg",
-  "obtainableIn": [
-    "oras",
-    "go"
-  ],
-  "versionExclusiveIn": [],
-  "eventOnlyIn": [],
+  "obtainableIn": ["oras", "go"],
+  "versionExclusiveIn": ["frlg-lg"],
+  "eventOnlyIn": ["frlg-lg"],
   "storableIn": [
-    "e",
-    "frlg",
+    "frlg-lg",
     "dp",
     "pt",
     "hgss",
@@ -75,9 +71,7 @@
   "maleRate": 0,
   "femaleRate": 0,
   "baseSpecies": "deoxys",
-  "baseForms": [
-    "deoxys"
-  ],
+  "baseForms": ["deoxys"],
   "forms": [],
   "evolvesFrom": null,
   "refs": {
@@ -87,10 +81,5 @@
     "bulbapedia": "Deoxys",
     "showdownName": "Deoxys-Defense"
   },
-  "registrableIn": [
-    "e",
-    "oras",
-    "go",
-    "home"
-  ]
+  "registrableIn": ["e", "frlg", "oras", "go", "home"]
 }

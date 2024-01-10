@@ -24,3 +24,21 @@ export function populatePokemonAndGameIdsFromDexes(): Record<string, string[]> {
 
   return registry
 }
+
+export function getAllGamesForGameSetOrSuperset(gameId: string): string[] {
+  const gamesList = pokemonGamesMap.values()
+  const gameSet = pokemonGamesMap.get(gameId)
+  if (!gameSet) {
+    throw new Error(`No game set found for '${gameId}'`)
+  }
+
+  const allGameIds = new Set([gameId])
+
+  for (const game of gamesList) {
+    if (game.gameSet === gameId || game.gameSuperSet === gameId) {
+      allGameIds.add(game.id)
+    }
+  }
+
+  return Array.from(allGameIds)
+}

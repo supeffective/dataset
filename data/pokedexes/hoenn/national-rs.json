@@ -1,10 +1,11 @@
 {
-  "id": "national-frlg",
-  "name": "National FireRed/LeafGreen",
-  "region": "kanto",
+  "id": "national-rs",
+  "name": "National Ruby/Sapphire/Emerald",
+  "region": "hoenn",
+  "pokeApiId": null,
   "generation": 3,
   "gameSets": [
-    "frlg"
+    "rs"
   ],
   "baseDex": null,
   "isUnofficial": false,
@@ -387,6 +388,9 @@
     {"id":"feebas","dexNum":349,"isForm":false},
     {"id":"milotic","dexNum":350,"isForm":false},
     {"id":"castform","dexNum":351,"isForm":false},
+    {"id":"castform-sunny","dexNum":351,"isForm":true},
+    {"id":"castform-rainy","dexNum":351,"isForm":true},
+    {"id":"castform-snowy","dexNum":351,"isForm":true},
     {"id":"kecleon","dexNum":352,"isForm":false},
     {"id":"shuppet","dexNum":353,"isForm":false},
     {"id":"banette","dexNum":354,"isForm":false},
@@ -421,9 +425,7 @@
     {"id":"groudon","dexNum":383,"isForm":false},
     {"id":"rayquaza","dexNum":384,"isForm":false},
     {"id":"jirachi","dexNum":385,"isForm":false},
-    {"id":"deoxys","dexNum":386,"isForm":false},
-    {"id":"deoxys-attack","dexNum":386,"isForm":true},
-    {"id":"deoxys-defense","dexNum":386,"isForm":true}
+    {"id":"deoxys","dexNum":386,"isForm":false}
     
   ]
 }

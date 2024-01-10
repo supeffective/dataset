@@ -38,16 +38,11 @@
   "canDynamax": true,
   "canBeAlpha": false,
   "debutIn": "rs",
-  "obtainableIn": [
-    "oras",
-    "go"
-  ],
+  "obtainableIn": ["oras", "go"],
   "versionExclusiveIn": [],
-  "eventOnlyIn": [],
+  "eventOnlyIn": ["rs"],
   "storableIn": [
     "rs",
-    "e",
-    "frlg",
     "dp",
     "pt",
     "hgss",
@@ -77,11 +72,7 @@
   "femaleRate": 0,
   "baseSpecies": null,
   "baseForms": [],
-  "forms": [
-    "deoxys-attack",
-    "deoxys-defense",
-    "deoxys-speed"
-  ],
+  "forms": ["deoxys-attack", "deoxys-defense", "deoxys-speed"],
   "evolvesFrom": null,
   "refs": {
     "smogon": "deoxys",
@@ -90,11 +81,5 @@
     "bulbapedia": "Deoxys",
     "showdownName": "Deoxys"
   },
-  "registrableIn": [
-    "rs",
-    "e",
-    "oras",
-    "go",
-    "home"
-  ]
+  "registrableIn": ["rs", "e", "frlg", "oras", "go", "home"]
 }
