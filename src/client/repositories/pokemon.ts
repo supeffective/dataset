@@ -105,6 +105,7 @@ export function createPlaceholderPokemon(): Pokemon {
     versionExclusiveIn: [],
     eventOnlyIn: [],
     storableIn: [],
+    registrableIn: [],
     shinyReleased: false,
     shinyBase: null,
     baseStats: {

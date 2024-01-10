@@ -4,11 +4,8 @@
     "enabled": true
   },
   "files": {
-    "ignore": [
-      "*.json",
-      "generated/**/*",
-      "dist/**/*"
-    ]
+    "ignore": ["*.json", "generated/**/*", "dist/**/*"],
+    "ignoreUnknown": true
   },
   "vcs": {
     "enabled": true,
@@ -52,9 +49,7 @@
     "lineWidth": 120,
     "indentWidth": 2,
     "indentStyle": "space",
-    "ignore": [
-      ".storylite/**/*"
-    ]
+    "ignore": [".storylite/**/*"]
   },
   "javascript": {
     "formatter": {
