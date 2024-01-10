@@ -24,6 +24,7 @@ type PokeapiPokedexResponse = {
 // The following dexes are wrong in the PokeAPI and need to be skipped, therefore manually filled.
 const skippedDexes = [
   'hisui', // Reason: the Pokeapi dex entries don't specify the hisuian forms, just the species.
+  'paldea', // Reason: the Pokeapi dex entries don't specify regional forms
   'paldea-kitakami', // Reason: the Pokeapi dex entries don't specify regional forms
   'paldea-blueberry', // Reason: the Pokeapi dex entries don't specify regional forms
 ]
