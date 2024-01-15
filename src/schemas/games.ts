@@ -5,7 +5,7 @@ import { generationSchema, nameSchema, slugSchema } from './common'
 export const gameSchema = z.object({
   id: slugSchema,
   name: nameSchema,
-  fullName: nameSchema.optional(),
+  fullName: z.string().max(80).optional(),
   generation: generationSchema,
   type: z.enum(['superset', 'set', 'game', 'dlc']), //.or(z.string()),
   gameSet: slugSchema.nullable(),
