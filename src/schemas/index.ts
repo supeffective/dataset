@@ -1,6 +1,7 @@
 export * from './abilities'
 export * from './boxpresets'
 export * from './characters'
+export * from './characteristics'
 export * from './colors'
 export * from './common'
 export * from './features'

@@ -1,3 +1,4 @@
+import _characteristics from '../../../data/characteristics.json'
 import _pokemonColors from '../../../data/colors.json'
 import _gameFeatures from '../../../data/features.json'
 import _pokemonGames from '../../../data/games.json'
@@ -10,6 +11,7 @@ import _pokemonRegions from '../../../data/regions.json'
 import _pokemonTypes from '../../../data/types.json'
 
 import {
+  type Characteristic,
   type Color,
   type Game,
   type GameFeature,
@@ -20,6 +22,7 @@ import {
   type PokedexIndexItem,
   type PokemonIndexItem,
   type Region,
+  characteristicSchema,
   colorSchema,
   gameFeatureSchema,
   gameSchema,
@@ -46,6 +49,7 @@ const pokemonGames: Game[] = gameSchema.array().parse(_pokemonGames)
 const pokedexesIndex: PokedexIndexItem[] = pokedexItemIndexSchema.array().parse(_pokedexesIndex)
 const pokemonIndex: PokemonIndexItem[] = pokemonIndexItemSchema.array().parse(_pokemonIndex)
 const gameFeatures: GameFeature[] = gameFeatureSchema.array().parse(_gameFeatures)
+const characteristics: Characteristic[] = characteristicSchema.array().parse(_characteristics)
 
 // convert to maps
 const pokemonColorsMap = new Map<string, Color>(pokemonColors.map((color) => [color.id, color]))
@@ -58,8 +62,11 @@ const pokemonGamesMap = new Map<string, Game>(pokemonGames.map((game) => [game.i
 const pokedexesIndexMap = new Map<string, PokedexIndexItem>(pokedexesIndex.map((item) => [item.id, item]))
 const pokemonIndexMap = new Map<string, PokemonIndexItem>(pokemonIndex.map((item) => [item.id, item]))
 const gameFeaturesMap = new Map<string, GameFeature>(gameFeatures.map((item) => [item.id, item]))
+const characteristicsMap = new Map<string, Characteristic>(characteristics.map((item) => [item.id, item]))
 
 export {
+  characteristics,
+  characteristicsMap,
   gameFeatures,
   gameFeaturesMap,
   pokedexesIndex,
