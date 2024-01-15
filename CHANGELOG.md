@@ -1,4 +1,8 @@
 
+## v2.2.0
+
+[compare changes](https://github.com/supeffective/dataset/compare/v2.1.3...v2.2.0)
+
 ## v2.1.3
 
 [compare changes](https://github.com/supeffective/dataset/compare/v2.1.2...v2.1.3)
