@@ -1,4 +1,21 @@
 
+## v2.3.0
+
+[compare changes](https://github.com/supeffective/dataset/compare/v2.2.2...v2.3.0)
+
+### 🚀 Enhancements
+
+- Add preliminary data for Legends Z-A ([8b9aa51](https://github.com/supeffective/dataset/commit/8b9aa51))
+
+### 🏡 Chore
+
+- Upgrade deps ([897ce83](https://github.com/supeffective/dataset/commit/897ce83))
+- Upgrade deps ([cc8b41d](https://github.com/supeffective/dataset/commit/cc8b41d))
+
+### ❤️ Contributors
+
+- Javi Aguilar
+
 ## v2.2.1
 
 [compare changes](https://github.com/supeffective/dataset/compare/v2.2.0...v2.2.1)
