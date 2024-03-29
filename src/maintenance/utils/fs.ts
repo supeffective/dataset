@@ -52,7 +52,7 @@ export async function* readFileAsLines(filename: string): AsyncGenerator<string>
   const fileStream = createReadStream(filename)
   const rl = createInterface({
     input: fileStream,
-    crlfDelay: Infinity,
+    crlfDelay: Number.POSITIVE_INFINITY,
   })
 
   for await (const line of rl) {

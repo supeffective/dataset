@@ -1,4 +1,4 @@
-import fs from 'fs'
+import fs from 'node:fs'
 import { pokedexesIndex } from '../../../client'
 import type { Pokedex, Pokemon } from '../../../schemas'
 import { sleepMs } from '../../../utils'

@@ -5,4 +5,4 @@ runs:
   steps:
     - shell: bash
       run: |
-        pnpm turbo qa
+        pnpm qa
