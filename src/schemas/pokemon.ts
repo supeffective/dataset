@@ -27,6 +27,12 @@ export const pokemonTextSchema = z.object({
 
 export type PokemonText = z.infer<typeof pokemonTextSchema>
 
+export const pokemonTextIndexSchema = z.record(z.record(z.string(), { description: 'Language' }), {
+  description: 'PokemonId',
+})
+
+export type PokemonTextIndex = z.infer<typeof pokemonTextIndexSchema>
+
 export const pokemonTextByLangSchema = z.record(pokemonTextSchema)
 
 export type PokemonTextByLang = z.infer<typeof pokemonTextByLangSchema>
