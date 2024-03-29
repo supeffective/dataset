@@ -1,0 +1,133 @@
+{
+  "jap": {
+    "name": "タイレーツ",
+    "genus": "じんけいポケモン",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "ヘイチョーと　よばれる　１ぴきと\nヘイと　よばれる　５ひきで　ひとつ。\nヘイチョーの　めいれいは　ぜったい。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "６ぴきで　１ぴきの　ポケモン。\nたいれつを　くみかえながら\nチームワークで　たたかうのだ。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Tairetsu",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "대여르",
+    "genus": "진형포켓몬",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "리더라고 불리는 1마리와\n멤버라고 불리는 5마리로 이루어져 있다.\n리더의 명령은 절대적이다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "6마리가 1마리의 포켓몬이다.\n대열을 바꿔가며\n팀워크로 싸운다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "列陣兵",
+    "genus": "陣形寶可夢",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "列陣兵由１個頭頭\n和５個跟班組成。\n頭頭的命令不可違抗。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "６隻為一體的寶可夢。\n慣於團隊行動，會一邊\n變換陣形一邊戰鬥。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Hexadron",
+    "genus": "Pokémon Escadron",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "C’est une entité unique composée d’un chef\net de cinq cadets. Ces derniers obéissent\nsans sourciller à leur supérieur hiérarchique."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "À six, ils représentent un Pokémon unique.\nIls peuvent changer de formation et comptent\nsur leur travail d’équipe en combat."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Legios",
+    "genus": "Formations-Pokémon",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Dieses Pokémon besteht aus fünf Untergebenen\nund einem Anführer. Die Befehle des Anführers\nwerden nie in Frage gestellt."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Sie bilden zu sechst ein Pokémon. Es kann im\nKampf seine Formation nach Belieben ändern\nund legt bemerkenswerte Teamarbeit an den Tag."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Falinks",
+    "genus": "Pokémon Formación",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Este Pokémon consta de cinco subalternos y un\nlíder, cuyas órdenes obedecen sin rechistar."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Este Pokémon está formado por seis individuos\nque cambian de formación al luchar, haciendo\ngala de un notable espíritu de equipo."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Falinks",
+    "genus": "Pokémon Schieramento",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Questo Pokémon è formato da un capo e da\ncinque sottoposti che obbediscono ciecamente\nai suoi ordini."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Pokémon dallo spiccato spirito di squadra, è\nformato da 6 elementi che lottano assieme\ncambiando schieramento in base alla situazione."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Falinks",
+    "genus": "Formation Pokémon",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Five of them are troopers, and one is the brass.\nThe brass’s orders are absolute."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "The six of them work together as one Pokémon.\nTeamwork is also their battle strategy, and they\nconstantly change their formation as they fight."
+      }
+    ]
+  },
+  "chs": {
+    "name": "列阵兵",
+    "genus": "阵形宝可梦",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "列阵兵由１个头头\n和５个跟班组成。\n头头的命令不可违抗。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "６只为一体的宝可梦。\n惯于团队行动，会一边\n变换阵形一边战斗。"
+      }
+    ]
+  }
+}

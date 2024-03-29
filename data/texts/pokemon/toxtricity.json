@@ -1,0 +1,133 @@
+{
+  "jap": {
+    "name": "ストリンダー",
+    "genus": "パンクポケモン",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "むねの　とっきを　かきむしり\nでんきを　おこすとき　あたりに\nギターのような　おとが　ひびく。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "ケンカごしで　きが　みじかい。\nよどんだ　みずを　ガブのみして\nすいちゅうの　どくそを　とりこむ。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Strinder",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "스트린더",
+    "genus": "펑크포켓몬",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "가슴에 난 돌기를 긁으면\n전기가 일어나며 주위에\n기타와 비슷한 소리가 울려퍼진다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "호전적이며 성미가 급하다.\n고인 물을 벌컥벌컥 마셔서\n물속의 독소를 흡수한다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "顫弦蠑螈",
+    "genus": "龐克寶可夢",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "當牠用力抓撓胸部的突起物\n來製造電力時，四周會響起\n如同吉他演奏般的聲音。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "氣勢洶洶的急性子。\n會大口喝下混濁的水，\n吸收其中所含的毒素。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Salarsen",
+    "genus": "Pokémon Punk",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Lorsqu’il gratte l’excroissance sur son ventre\npour produire de l’électricité, on peut entendre\nun son similaire à celui d’une guitare."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Impatient et bagarreur, ce Pokémon avale\nde grandes gorgées d’eau croupie pour\nen absorber toute la toxicité."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Riffex",
+    "genus": "Punk-Pokémon",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Wenn es am Fortsatz an seiner Brust kratzt und\ndadurch Strom erzeugt, dann erklingt in der\nUmgebung ein Ton wie von einer Gitarre."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Dieses streitsüchtige und leicht reizbare Pokémon\nkippt abgestandenes Wasser in sich hinein und\nnimmt die darin enthaltenen Giftstoffe in sich auf."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Toxtricity",
+    "genus": "Pokémon Punki",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Cuando rasga las protuberancias del pecho para\ngenerar energía eléctrica, emite un sonido similar\nal de una guitarra, que reverbera en el entorno."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Posee un carácter belicoso e irascible. Bebe una\ngran cantidad de agua estancada para absorber\nsus toxinas."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Toxtricity",
+    "genus": "Pokémon Punk",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Quando produce energia elettrica strofinando\nle protuberanze che ha sul petto, tutt’intorno\nriverbera un suono simile a quello di una chitarra."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "È litigioso e irascibile. Ingurgita acqua stagnante\nin grandi quantità per assorbire le tossine in essa\ncontenute."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Toxtricity",
+    "genus": "Punk Pokémon",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "When this Pokémon sounds as if it’s strumming a\nguitar, it’s actually clawing at the protrusions on\nits chest to generate electricity."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "This short-tempered and aggressive Pokémon\nchugs stagnant water to absorb any toxins it\nmight contain."
+      }
+    ]
+  },
+  "chs": {
+    "name": "颤弦蝾螈",
+    "genus": "庞克宝可梦",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "当它用力抓挠胸部的突起物\n来制造电力时，四周会响起\n如同吉他演奏般的声音。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "气势汹汹的急性子。\n会大口喝下浑浊的水，\n吸收其中所含的毒素。"
+      }
+    ]
+  }
+}

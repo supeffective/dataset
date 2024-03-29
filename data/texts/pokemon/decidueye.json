@@ -1,0 +1,281 @@
+{
+  "jap": {
+    "name": "ジュナイパー",
+    "genus": "やばねポケモン",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "つばさに　しこまれた　やばねを\nつがえてはなつ。　１００メートルさきの\nこいしも　つらぬく　せいど。"
+      },
+      {
+        "game": "sm-m",
+        "text": "きほんてきに　ようじんぶかく\nクールだが　ふいを　つかれると\nだいパニックに　おちいってしまう。"
+      },
+      {
+        "game": "usum-us",
+        "text": "やばねを　つがえ　あいてに　はなつ。\nぜったい　はずせないときは　あたまの\nツルをひき　しゅうちゅう　するのだ。"
+      },
+      {
+        "game": "usum-um",
+        "text": "わずか　０．１びょうで　ハネを\nつがえて　てきを　うつ。　まばたきの\nあいだに　しょうぶが　ついている。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "つばさに　しこまれた　やばねを\nゆみやのように　つがえて　はなつ。\nねらった　まとは　はずさない。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "０．１びょうで　やばねを　つばさの\nつるに　つがえて　はなつ。　あいてが\nきづくまえに　きゅうしょを　いぬく。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Junaiper",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "모크나이퍼",
+    "genus": "화살깃포켓몬",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "날개에 숨겨진 살깃을 시위에\n메겨서 날린다. 100m 앞의\n작은 돌도 관통하는 정밀함이다."
+      },
+      {
+        "game": "sm-m",
+        "text": "기본적으로 신중하고\n쿨하지만 허를 찔리면\n크게 패닉에 빠져버린다."
+      },
+      {
+        "game": "usum-us",
+        "text": "살깃을 시위에 메겨서 상대에게 날린다.\n반드시 명중시켜야 할 때는\n머리의 시위를 당겨 집중한다."
+      },
+      {
+        "game": "usum-um",
+        "text": "불과 0.1초만에\n살깃을 시위에 메겨 적을 공격한다.\n눈 깜짝할 사이에 승부가 나 있다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "날개에 숨겨진 살깃을\n활과 화살처럼 이용해서 쏜다.\n노린 표적은 빗나가지 않는다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "0.1초 만에 화살깃을 날개에 달린\n시위에 메겨 발사한다. 상대가\n알아차리기 전에 급소를 꿰뚫어버린다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "狙射樹梟",
+    "genus": "箭羽寶可夢",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "托弓拉弦射出藏在翅膀裡的箭羽。\n精準度高到連前方１００米遠的\n小石頭也能貫穿。"
+      },
+      {
+        "game": "sm-m",
+        "text": "基本上性格謹慎而冷靜，\n但如果受到突如其來的襲擊，\n就會陷入巨大的驚慌中。"
+      },
+      {
+        "game": "usum-us",
+        "text": "會搭上箭羽朝對手射出。\n在絕對必須射中的時候，\n會拉緊頭上的藤蔓來集中精神。"
+      },
+      {
+        "game": "usum-um",
+        "text": "只需要０．１秒就能\n搭上羽毛向敵人射擊，\n在一瞬間決定勝負。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "會像射箭那樣射出\n藏在自己翅膀裡的箭羽。\n只要瞄準目標就絕不會射偏。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "只要０.１秒就可以在翅膀的\n藤蔓上搭好箭羽、射向敵人，\n並在敵人發現前貫穿其要害。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Archéduc",
+    "genus": "Pokémon Plumeflèche",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "Les plumes de ses ailes lui servent de flèches.\nSa précision au tir est si grande qu’il peut\natteindre un gravillon à 100 m."
+      },
+      {
+        "game": "sm-m",
+        "text": "Malgré sa grande vigilance et son air posé,\nil a tendance à céder à la panique dès qu’il est\npris de court."
+      },
+      {
+        "game": "usum-us",
+        "text": "Les plumes de ses ailes lui servent de flèches.\nQuand il doit à tout prix toucher sa cible, il tire\nsur les lianes de son cou pour se concentrer."
+      },
+      {
+        "game": "usum-um",
+        "text": "Il est capable de décocher ses plumes sur\nson ennemi en un dixième de seconde,\ns’assurant ainsi la victoire en un clin d’œil."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Il décoche les plumes acérées de ses ailes\ncomme des flèches. Il ne rate jamais sa cible."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Il décoche ses plumes acérées en un dixième\nde seconde. Sa victime n’a pas le temps de\nle voir agir qu’elle est déjà grièvement touchée."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Silvarro",
+    "genus": "Pfeilflügel-Pokémon",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "Dieses Pokémon kann die Federn seiner Flügel\nwie Pfeile verschießen. Dabei ist es so präzise,\ndass es einen Kiesel auf 100 m durchbohrt."
+      },
+      {
+        "game": "sm-m",
+        "text": "Im Grunde ein vorsichtiges und gelassenes\nPokémon, das jedoch in wahnsinnige Panik\nverfällt, wenn es überrascht wird."
+      },
+      {
+        "game": "usum-us",
+        "text": "Es legt seine Federpfeile an, um sie auf Gegner\nzu schießen. Muss ein Schuss sitzen, zieht es\nzur Konzentration an einer seiner Kopfranken."
+      },
+      {
+        "game": "usum-um",
+        "text": "Es braucht bloß 0,1 Sekunden, um eine Feder\nanzulegen und auf den Gegner zu schießen.\nOft besiegt es einen, bevor man blinzeln kann."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Dieses Pokémon kann die Federn seiner Flügel\nwie Pfeile abschießen. Hat es sein Ziel angepeilt,\ntrifft es garantiert."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "In 0,1 Sekunden spannt es eine Feder in seine\nFlügelranke und schießt sie wie einen Pfeil auf\ndie Schwachstellen seines ahnungslosen Ziels."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Decidueye",
+    "genus": "Pokémon Pluma Flecha",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "Las plumas de sus alas le sirven de flechas con\nlas que puede acertar a un guijarro a 100 m."
+      },
+      {
+        "game": "sm-m",
+        "text": "Aunque es extremadamente cauteloso y\ncalmado por naturaleza, si lo pillan por\nsorpresa, el pánico se apodera de él."
+      },
+      {
+        "game": "usum-us",
+        "text": "Usa sus plumas como flechas para atacar a los\nrivales. Si no puede permitirse fallar, frunce su\ncapucha para concentrarse mejor."
+      },
+      {
+        "game": "usum-um",
+        "text": "Tan solo le lleva una décima de segundo sacar\nuna pluma y disparar al rival, y muchas veces\ngana el combate en un abrir y cerrar de ojos."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Usa sus plumas como flechas para atacar a los\nrivales. Una vez que ha fijado el blanco, no falla\njamás."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Tan solo le lleva una décima de segundo sacar\nuna pluma y disparar al rival, a quien acierta en\nun punto vital antes de que pueda darse cuenta."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Decidueye",
+    "genus": "Pokémon Alifreccia",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "Scocca piume dalle sue ali come se fossero\nfrecce. È preciso al punto da riuscire a centrare\nuna piccola pietra a 100 m di distanza."
+      },
+      {
+        "game": "sm-m",
+        "text": "In genere è molto cauto e misurato, ma nei rari\ncasi in cui viene colto di sorpresa si lascia\nfacilmente prendere dal panico."
+      },
+      {
+        "game": "usum-us",
+        "text": "Scocca piume come fossero frecce. Quando non\ndeve mancare il bersaglio, tira le liane del\ncappuccio per ridurne l’apertura e mirare meglio."
+      },
+      {
+        "game": "usum-um",
+        "text": "È in grado di scoccare piume e colpire il nemico\nin un decimo di secondo, aggiudicandosi la\nvittoria in un batter d’occhio."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Scocca piume dalle sue ali come fossero frecce\nlanciate da un arco. Una volta presa la mira,\nnon manca mai il bersaglio."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Può preparare e scoccare una delle sue piume\naffilate in 0,1 secondi. Trafigge l’avversario\nnei suoi punti vitali prima che se ne accorga."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Decidueye",
+    "genus": "Arrow Quill Pokémon",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "It fires arrow quills from its wings with such\nprecision, they can pierce a pebble at distances\nover a hundred yards."
+      },
+      {
+        "game": "sm-m",
+        "text": "Although basically cool and cautious, when it’s\ncaught by surprise, it’s seized by panic."
+      },
+      {
+        "game": "usum-us",
+        "text": "It nocks its arrow quills and shoots them at\nopponents. When it simply can’t afford to miss,\nit tugs the vine on its head to improve its focus."
+      },
+      {
+        "game": "usum-um",
+        "text": "Decidueye can nock and fire an arrow at an\nenemy in a tenth of a second, so its battles are\ndecided in the blink of an eye."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "As if wielding a bow, it launches the arrow quills\nhidden among the feathers of its wings.\nDecidueye’s shots never miss."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "In a tenth of a second, it can nock and fire an\narrow quill, piercing an opponent’s weak point\nbefore they notice what’s happening."
+      },
+      {
+        "game": "la",
+        "text": "The air stored inside the rachises of Decidueye's feathers\ninsulates the Pokémon against Hisui's extreme cold. This is\nfirm proof that evolution can be influenced by environment."
+      }
+    ]
+  },
+  "chs": {
+    "name": "狙射树枭",
+    "genus": "箭羽宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "搭弦射出收藏在翅膀里的箭羽。\n有着连前方１００米的小石头\n也能穿透的精度。"
+      },
+      {
+        "game": "sm-m",
+        "text": "基本上是十分谨慎且冷静的，\n但如果被冷不防地袭击了，\n就会陷入巨大的恐慌中。"
+      },
+      {
+        "game": "usum-us",
+        "text": "会搭上箭羽射向对手。\n在绝对不想射偏时，\n会拉紧头上的藤蔓集中精神。"
+      },
+      {
+        "game": "usum-um",
+        "text": "仅用０.１秒就能搭上羽毛，\n向敌人射击。\n在一瞬之间决出胜负。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "会像射箭那样射出\n藏在自己翅膀里的箭羽。\n只要瞄准目标就绝不会射偏。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "只要０.１秒就可以在翅膀的\n藤蔓上搭好箭羽、射向敌人，\n并在敌人发现前贯穿其要害。"
+      }
+    ]
+  }
+}

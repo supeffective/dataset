@@ -1,0 +1,549 @@
+{
+  "jap": {
+    "name": "トランセル",
+    "genus": "さなぎポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "こうてつのように　かたい　カラで\nやわらかい　なかみを　まもっている。\nしんかするまで　じっと　たえている。"
+      },
+      {
+        "game": "xy-y",
+        "text": "カラが　かたくなるまえに\nつよい　しょうげきを　うけると\nなかみが　でてしまうので　ちゅうい。"
+      },
+      {
+        "game": "oras-or",
+        "text": "からだの　カラは　てっぱんの　ように　かたい。\nあまり　うごかないのは　カラのなかで　やわらかい\nなかみが　しんかの　じゅんびを　しているからだ。"
+      },
+      {
+        "game": "oras-as",
+        "text": "からだの　カラは　てっぱんの　ように　かたい。\nあまり　うごかないのは　カラのなかで　やわらかい\nなかみが　しんかの　じゅんびを　しているからだ。"
+      },
+      {
+        "game": "sm-s",
+        "text": "カラのなかには　トロトロの　なかみが\nつまっている。　ほぼ　うごかないのは\nウッカリ　なかみが　こぼれないため。"
+      },
+      {
+        "game": "sm-m",
+        "text": "かたいと　いっても　むしの　カラ。\nわれてしまうことも　あるので\nはげしい　たたかいは　きんもつ。"
+      },
+      {
+        "game": "usum-us",
+        "text": "カラのなかは　ドロドロの　えきたい。\nしんかに　そなえて　からだじゅうの\nさいぼうを　つくりなおしている。"
+      },
+      {
+        "game": "usum-um",
+        "text": "とても　かたいカラは　ツツケラに\nつつかれても　びくともしないが\nゆれて　なかみが　こぼれてしまう。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "みをまもるため　ひたすら　カラを\nかたくしても　つよい　しょうげきを\nうけると　なかみが　でてしまう。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "みをまもるため　ひたすら　カラを\nかたくしても　つよい　しょうげきを\nうけると　なかみが　でてしまう。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "しんかを　まっている　じょうたい。\nかたくなる　ことしか　できないので\nおそわれないよう　じっとしている。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "かたい　カラに　つつまれているが\nなかみは　やわらかいので\nつよい　こうげきには　たえられない。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Trancell",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "단데기",
+    "genus": "번데기포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "강철같이 단단한 껍질로\n부드러운 몸을 보호하고 있다.\n진화할 때까지 가만히 참고 있다."
+      },
+      {
+        "game": "xy-y",
+        "text": "껍질이 단단해지기 전에\n강한 충격을 받으면\n속이 나와버리니 주의."
+      },
+      {
+        "game": "oras-or",
+        "text": "몸의 껍질은 철판처럼 단단하다.\n움직임이 적은 것은 껍질 안에서 부드러운\n몸이 진화 준비를 하고 있어서다."
+      },
+      {
+        "game": "oras-as",
+        "text": "몸의 껍질은 철판처럼 단단하다.\n움직임이 적은 것은 껍질 안에서 부드러운\n몸이 진화 준비를 하고 있어서다."
+      },
+      {
+        "game": "sm-s",
+        "text": "껍질 안은 부드러운 내용물로 가득 차 있다.\n거의 움직이지 않는 것은 무심코\n내용물이 흘러나오게 하지 않기 위해서다."
+      },
+      {
+        "game": "sm-m",
+        "text": "단단하다고는 해도 벌레의 껍질.\n갈라질 수도 있으므로\n격렬한 싸움은 금물이다."
+      },
+      {
+        "game": "usum-us",
+        "text": "껍질 안은 걸쭉한 액체다.\n진화를 대비하여 몸 전체의\n세포를 재구성하고 있다."
+      },
+      {
+        "game": "usum-um",
+        "text": "매우 단단한 껍질은 콕코구리가\n쪼아도 꿈쩍도 하지 않지만 흔들림에\n약해서 내용물이 흘러나와 버린다."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "몸을 보호하기 위해 끊임없이\n껍질을 단단하게 하지만 강한 충격을\n받으면 내용물이 나와버린다."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "몸을 보호하기 위해 끊임없이\n껍질을 단단하게 하지만 강한 충격을\n받으면 내용물이 나와버린다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "진화를 기다리고 있는 상태다.\n단단해지는 것밖에 할 수 없어서\n공격받지 않도록 꿈쩍 않고 있다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "단단한 껍질로 둘러싸여 있지만\n안은 부드럽기 때문에\n강한 공격에는 버티지 못한다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "鐵甲蛹",
+    "genus": "蛹寶可夢",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "殼中塞滿了軟綿綿的身體。\n幾乎動也不動是為了防止\n身體在不留神時露出來。"
+      },
+      {
+        "game": "sm-m",
+        "text": "雖說堅硬，但還是蟲的外殼。\n有時還是會破裂的，\n所以禁止用於激烈的戰鬥。"
+      },
+      {
+        "game": "usum-us",
+        "text": "殼裡面是黏糊糊的液體。\n為了準備迎接進化，\n正不斷更新全身的細胞。"
+      },
+      {
+        "game": "usum-um",
+        "text": "外殼非常堅硬，就算被\n小篤兒啄到也能平安無事，\n但殼裡的身體會因為晃動而流出來。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "靠著堅硬無比的外殼來保護自己。\n然而一旦遭受到強烈衝擊，\n殼裡的身體就會跑出來。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "靠著堅硬無比的外殼來保護自己。\n然而一旦遭受到強烈衝擊，\n殼裡的身體就會跑出來。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "正處於等待進化的狀態。\n除了變硬之外什麼都做不了，\n只能動也不動以免遭受攻擊。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "雖然有堅硬的外殼，\n但因為殼裡的身體很軟，\n所以無法抵抗強力的攻擊。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Chrysacier",
+    "genus": "Pokémon Cocon",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Son corps frêle est protégé par sa\ncarapace d’acier. Il encaisse les\ncoups durs en attendant d’évoluer."
+      },
+      {
+        "game": "bw-w",
+        "text": "Son corps frêle est protégé par sa\ncarapace d’acier. Il encaisse les\ncoups durs en attendant d’évoluer."
+      },
+      {
+        "game": "xy-x",
+        "text": "Son corps frêle est protégé par sa carapace d’acier.\nIl encaisse les coups durs en attendant d’évoluer."
+      },
+      {
+        "game": "xy-y",
+        "text": "Il est vulnérable aux attaques tant que sa carapace\nest molle, car il expose son corps tendre et mou."
+      },
+      {
+        "game": "oras-or",
+        "text": "La carapace protégeant ce Pokémon est dure comme du\nmétal. Chrysacier ne bouge pas beaucoup. Il reste immobile\npour préparer les organes à l’intérieur de sa carapace en vue\nd’une évolution future."
+      },
+      {
+        "game": "oras-as",
+        "text": "La carapace protégeant ce Pokémon est dure comme du\nmétal. Chrysacier ne bouge pas beaucoup. Il reste immobile\npour préparer les organes à l’intérieur de sa carapace en vue\nd’une évolution future."
+      },
+      {
+        "game": "sm-s",
+        "text": "Sous sa carapace, il est tout mou et tendre.\nIl bouge très peu afin de ne pas secouer son\ncorps encore fragile."
+      },
+      {
+        "game": "sm-m",
+        "text": "Même si sa carapace est solide, elle n’est guère\ncomposée que de chitine et peut se briser\naisément. Mieux vaut éviter les combats rudes."
+      },
+      {
+        "game": "usum-us",
+        "text": "Sa carapace contient un liquide gluant.\nSa structure cellulaire est en cours de\nmodification en vue de son évolution prochaine."
+      },
+      {
+        "game": "usum-um",
+        "text": "Sa carapace est très solide et résiste sans\npeine aux assauts des Picassaut. Si elle bascule,\npar contre, son contenu s’éparpille au sol."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Il renforce sa carapace pour se protéger,\nmais un coup puissant peut l’en déloger."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Il renforce sa carapace pour se protéger,\nmais un coup puissant peut l’en déloger."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "En attendant sa prochaine évolution, il ne peut\nque durcir sa carapace et rester immobile\npour éviter de se faire attaquer."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Bien que son corps soit entouré d’une carapace\nsolide, l’intérieur est si mou qu’il ne résisterait\npas à une attaque violente."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Safcon",
+    "genus": "Kokon-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Der stahlharte Panzer schützt seinen zarten Körper.\nEs wartet geduldig auf seine Entwicklung."
+      },
+      {
+        "game": "xy-y",
+        "text": "Während der Panzer dieses Pokémon sehr weich ist,\nbietet er keinen großen Schutz vor Attacken."
+      },
+      {
+        "game": "oras-or",
+        "text": "Der Panzer dieses Pokémon ist hart wie Stahl. Safcon bewegt\nsich kaum, da es das weiche Innere unter seiner harten Schale\nauf seine Entwicklung vorbereitet."
+      },
+      {
+        "game": "oras-as",
+        "text": "Der Panzer dieses Pokémon ist hart wie Stahl. Safcon bewegt\nsich kaum, da es das weiche Innere unter seiner harten Schale\nauf seine Entwicklung vorbereitet."
+      },
+      {
+        "game": "sm-s",
+        "text": "Sein harter Panzer birgt ein weiches Inneres.\nUm zu vermeiden, dass dieses versehentlich\nausläuft, bewegt es sich kaum."
+      },
+      {
+        "game": "sm-m",
+        "text": "Sein Panzer ist zwar hart, aber dennoch anfällig\nfür Risse, da es ein Käfer-Pokémon ist.\nFür schwere Kämpfe ist es daher ungeeignet."
+      },
+      {
+        "game": "usum-us",
+        "text": "Sein Panzer birgt ein dickflüssiges Inneres.\nIn Vorbereitung auf seine Entwicklung wird seine\nZellstruktur vollständig umgestaltet."
+      },
+      {
+        "game": "usum-um",
+        "text": "Ein Schnabelangriff von Peppeck kann Safcons\nhartem Panzer nichts anhaben, doch wenn es\nzu schaukeln beginnt, läuft sein Inneres aus."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Um sich zu schützen, härtet es eifrig seinen\nPanzer, doch wenn es heftige Treffer einsteckt,\nwird sein Inneres entblößt."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Um sich zu schützen, härtet es eifrig seinen\nPanzer, doch wenn es heftige Treffer einsteckt,\nwird sein Inneres entblößt."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "In diesem Zustand wartet es auf die Entwicklung.\nEs kann nur seinen Panzer erhärten, daher bewegt\nes sich nicht, um nicht angegriffen zu werden."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "In seiner harten Schale ist ein weicher Körper.\nEinem brutalen Angriff hat es nichts\nentgegenzusetzen."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Metapod",
+    "genus": "Pokémon Capullo",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Su frágil cuerpo está recubierto de una coraza dura\ncomo el acero. Permanece quieto en su desarrollo."
+      },
+      {
+        "game": "xy-y",
+        "text": "Este Pokémon es vulnerable al ataque cuando su\ncoraza es blanda y no lo protege del todo."
+      },
+      {
+        "game": "oras-or",
+        "text": "La capa que recubre el cuerpo de este Pokémon es tan dura\ncomo una plancha de hierro. Metapod apenas se mueve.\nPermanece inmóvil para que las vísceras evolucionen dentro\nde la coraza que le rodea."
+      },
+      {
+        "game": "oras-as",
+        "text": "La capa que recubre el cuerpo de este Pokémon es tan dura\ncomo una plancha de hierro. Metapod apenas se mueve.\nPermanece inmóvil para que las vísceras evolucionen dentro\nde la coraza que le rodea."
+      },
+      {
+        "game": "sm-s",
+        "text": "La dura capa que le recubre el cuerpo protege\nsus delicadas vísceras. Metapod apenas se\nmueve para evitar que estas se desparramen."
+      },
+      {
+        "game": "sm-m",
+        "text": "Su coraza es muy dura, pero no deja de estar\nhecha de quitina, por lo que podría quebrarse.\nEs mejor no llevarlo en combates muy intensos."
+      },
+      {
+        "game": "usum-us",
+        "text": "El interior del caparazón es un líquido viscoso.\nTodas las células de su cuerpo se están\nregenerando en preparación para su evolución."
+      },
+      {
+        "game": "usum-um",
+        "text": "Su dura coraza resiste los picotazos de un\nPikipek, pero, si se agita mucho, su contenido\npuede verterse por el suelo."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Pese a su constante empeño por endurecer su\ncoraza para protegerse, puede romperse si\nrecibe un fuerte impacto y quedar expuesto."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Pese a su constante empeño por endurecer su\ncoraza para protegerse, puede romperse si\nrecibe un fuerte impacto y quedar expuesto."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Como en este estado solo puede endurecer\nsu coraza, permanece inmóvil a la espera de\nevolucionar."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Aunque cuenta con una coraza muy dura, tiene\nun cuerpo bastante blando. Un ataque violento\npuede acabar con él."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Metapod",
+    "genus": "Pokémon Bozzolo",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Ha una corazza dura come l’acciaio che protegge\nil suo fragile corpo. Attende immobile di evolversi."
+      },
+      {
+        "game": "xy-y",
+        "text": "Quando la sua corazza è morbida, il corpo fragile di\nquesto Pokémon è più vulnerabile agli attacchi."
+      },
+      {
+        "game": "oras-or",
+        "text": "La corazza di questo Pokémon è dura come una lastra\ndi ferro. Metapod non si muove molto. Sta immobile per\npreparare il morbido interno della dura corazza all’evoluzione."
+      },
+      {
+        "game": "oras-as",
+        "text": "La corazza di questo Pokémon è dura come una lastra\ndi ferro. Metapod non si muove molto. Sta immobile per\npreparare il morbido interno della dura corazza all’evoluzione."
+      },
+      {
+        "game": "sm-s",
+        "text": "La corazza racchiude un corpo estremamente\nmolle e il Pokémon si muove appena per paura\nche fuoriesca accidentalmente."
+      },
+      {
+        "game": "sm-m",
+        "text": "La sua corazza è piuttosto dura per un\nPokémon Coleottero, ma potrebbe comunque\nrompersi. Meglio evitare lotte troppo veementi."
+      },
+      {
+        "game": "usum-us",
+        "text": "La sua corazza contiene un liquido vischioso.\nRistruttura tutte le cellule del suo corpo\npreparandosi all’evoluzione."
+      },
+      {
+        "game": "usum-um",
+        "text": "La sua dura corazza resiste anche alle beccate\ndei Pikipek ma, se oscilla troppo, il contenuto\npuò fuoriuscire."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Per difendersi indurisce la corazza, ma un colpo\nviolento può scaraventarlo fuori dal guscio."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Per difendersi indurisce la corazza, ma un colpo\nviolento può scaraventarlo fuori dal guscio."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "In attesa di evolversi, l’unica cosa che può fare\nè indurire la sua corazza, quindi rimane immobile\nper evitare di essere attaccato."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "La corazza esterna è robusta ma l’interno\nè molle. Per questo non è in grado di resistere\nad attacchi particolarmente veementi."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Metapod",
+    "genus": "Cocoon Pokémon",
+    "flavorText": [
+      {
+        "game": "rb-r",
+        "text": "This POKéMON is\nvulnerable to\nattack while its\fshell is soft,\nexposing its weak\nand tender body."
+      },
+      {
+        "game": "rb-b",
+        "text": "This POKéMON is\nvulnerable to\nattack while its\fshell is soft,\nexposing its weak\nand tender body."
+      },
+      {
+        "game": "y",
+        "text": "Hardens its shell\nto protect itself.\nHowever, a large\fimpact may cause\nit to pop out of\nits shell."
+      },
+      {
+        "game": "gs-g",
+        "text": "Inside the shell,\nit is soft and\nweak as it pre­\fpares to evolve.\nIt stays motion­\nless in the shell."
+      },
+      {
+        "game": "gs-s",
+        "text": "It prepares for\nevolution by har­\ndening its shell\fas much as possi­\nble to protect its\nsoft body."
+      },
+      {
+        "game": "c",
+        "text": "This is its pre-\nevolved form. At\nthis stage, it can\fonly harden, so it\nremains motionless\nto avoid attack."
+      },
+      {
+        "game": "rs-r",
+        "text": "The shell covering this POKéMON’s body\nis as hard as an iron slab.\nMETAPOD does not move very much.\fIt stays still because it is preparing\nits soft innards for evolution inside\nthe hard shell."
+      },
+      {
+        "game": "rs-s",
+        "text": "The shell covering this POKéMON’s body\nis as hard as an iron slab.\nMETAPOD does not move very much.\fIt stays still because it is preparing\nits soft innards for evolution inside\nthe hard shell."
+      },
+      {
+        "game": "e",
+        "text": "Its shell is as hard as an iron slab.\nA METAPOD does not move very much\nbecause it is preparing its soft innards\nfor evolution inside the shell."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "Even though it is encased in a sturdy\nshell, the body inside is tender.\nIt can’t withstand a harsh attack."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "This POKéMON is vulnerable to attack\nwhile its shell is soft, exposing its weak\nand tender body."
+      },
+      {
+        "game": "dp-d",
+        "text": "A steel-hard shell protects its\ntender body. It quietly endures\nhardships while awaiting evolution."
+      },
+      {
+        "game": "dp-p",
+        "text": "A steel-hard shell protects its\ntender body. It quietly endures\nhardships while awaiting evolution."
+      },
+      {
+        "game": "pt",
+        "text": "A steel-hard shell protects its\ntender body. It quietly endures\nhardships while awaiting evolution."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "Inside the shell, it is soft and\nweak as it prepares to evolve.\nIt stays motionless in the shell."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "It prepares for evolution by hardening\nits shell as much as possible\nto protect its soft body."
+      },
+      {
+        "game": "bw-b",
+        "text": "A steel-hard shell protects its\ntender body. It quietly endures\nhardships while awaiting evolution."
+      },
+      {
+        "game": "bw-w",
+        "text": "A steel-hard shell protects its\ntender body. It quietly endures\nhardships while awaiting evolution."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "A steel-hard shell protects its\ntender body. It quietly endures\nhardships while awaiting evolution."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "A steel-hard shell protects its\ntender body. It quietly endures\nhardships while awaiting evolution."
+      },
+      {
+        "game": "xy-x",
+        "text": "A steel-hard shell protects its tender body.\nIt quietly endures hardships while\nawaiting evolution."
+      },
+      {
+        "game": "xy-y",
+        "text": "This Pokémon is vulnerable to attack while its shell\nis soft, exposing its weak and tender body."
+      },
+      {
+        "game": "oras-or",
+        "text": "The shell covering this Pokémon’s body is as hard as an\niron slab. Metapod does not move very much. It stays still\nbecause it is preparing its soft innards for evolution inside\nthe hard shell."
+      },
+      {
+        "game": "oras-as",
+        "text": "The shell covering this Pokémon’s body is as hard as an\niron slab. Metapod does not move very much.\nIt stays still because it is preparing its soft innards for\nevolution inside the hard shell."
+      },
+      {
+        "game": "sm-s",
+        "text": "Its shell is filled with its soft innards. It doesn’t\nmove much because of the risk it might\ncarelessly spill its innards out."
+      },
+      {
+        "game": "sm-m",
+        "text": "Its shell is hard, but it’s still just a bug shell.\nIt’s been known to break, so intense battles\nwith it should be avoided."
+      },
+      {
+        "game": "usum-us",
+        "text": "Its shell is filled with a thick liquid. All of the\ncells throughout its body are being rebuilt in\npreparation for evolution."
+      },
+      {
+        "game": "usum-um",
+        "text": "Its hard shell doesn’t crack a bit even if Pikipek\npecks at it, but it will tip over, spilling out\nits insides."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Hardens its shell to protect itself. However, a\nlarge impact may cause it to pop out of its shell."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Hardens its shell to protect itself. However, a\nlarge impact may cause it to pop out of its shell."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "It is waiting for the moment to evolve. At this\nstage, it can only harden, so it remains\nmotionless to avoid attack."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Even though it is encased in a sturdy shell,\nthe body inside is tender. It can’t withstand a\nharsh attack."
+      }
+    ]
+  },
+  "chs": {
+    "name": "铁甲蛹",
+    "genus": "蛹宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "壳中藏着软乎乎的身体。\n几乎不动是为了防止\n身体一不留神就露出来。"
+      },
+      {
+        "game": "sm-m",
+        "text": "虽说坚硬，但还是虫的外壳。\n因为有时也会破裂，\n所以禁止用于激烈的战斗。"
+      },
+      {
+        "game": "usum-us",
+        "text": "壳里面是黏糊糊的液体。\n为了准备迎接进化，\n正在不断地更新体内的细胞。"
+      },
+      {
+        "game": "usum-um",
+        "text": "外壳非常坚硬，即使受到\n小笃儿的啄击也能安然无恙，\n但壳里的身体会因晃动而流出来。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "它会让外壳变硬来保护自己。\n然而在遇到强烈的冲击力时，\n它的身体还是会被撞出来。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "它会让外壳变硬来保护自己。\n然而在遇到强烈的冲击力时，\n它的身体还是会被撞出来。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "正处于等待进化的状态。\n除了变硬之外什么都做不了，\n只能动也不动以免引来袭击。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "虽然有坚硬的外壳，\n因为壳里的身体很软，\n所以无法抵抗强力的攻击。"
+      }
+    ]
+  }
+}

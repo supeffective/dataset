@@ -1,0 +1,393 @@
+{
+  "jap": {
+    "name": "グランブル",
+    "genus": "ようせいポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "かおに　にあわず　おくびょう。\nしかし　ひとたび　おこりはじめると\nおおきな　キバで　はんげきする。"
+      },
+      {
+        "game": "xy-y",
+        "text": "おおきな　くちを　ひらいて\nふとい　キバを　みせつければ\nたいていの　ポケモンは　にげだす。"
+      },
+      {
+        "game": "oras-or",
+        "text": "したアゴが　とても　はったつした　ポケモン。\nキバが　おもたいので　くびを　かしげている。\nおどろかさなければ　むやみに　かみつかない。"
+      },
+      {
+        "game": "oras-as",
+        "text": "したアゴが　とても　はったつした　ポケモン。\nキバが　おもたいので　くびを　かしげている。\nおどろかさなければ　むやみに　かみつかない。"
+      },
+      {
+        "game": "sm-s",
+        "text": "はったつした　したアゴと　おもたい\nキバが　ぶき。　おこらせないかぎり\nめったに　かみついたり　しないよ。"
+      },
+      {
+        "game": "sm-m",
+        "text": "ブルー　いじょうに　おくびょう。\nみためとの　ギャップが　うけて\nわかい　じょせいに　だいにんき。"
+      },
+      {
+        "game": "usum-us",
+        "text": "アゴの　ちからは　きょうりょくだが\nあらそいを　このまないので　めったに\nひろうする　きかいは　ないのだ。"
+      },
+      {
+        "game": "usum-um",
+        "text": "わかい　じょせいに　だいにんきだが\nおくびょうなうえに　せんさいなので\nばんけん　としては　むのうだ。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Granbulu",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "그랑블루",
+    "genus": "요정포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "얼굴에 어울리지 않게 겁이 많다.\n그러나 한번 화내기 시작하면\n큰 이빨로 반격한다."
+      },
+      {
+        "game": "xy-y",
+        "text": "커다란 입을 벌리고\n두꺼운 송곳니를 드러내면\n대부분의 포켓몬이 도망친다."
+      },
+      {
+        "game": "oras-or",
+        "text": "아래턱이 매우 발달한 포켓몬이다.\n이빨이 무거워서 목을 기울이고 있다.\n놀라게 하지 않으면 무턱대고 물지 않는다."
+      },
+      {
+        "game": "oras-as",
+        "text": "아래턱이 매우 발달한 포켓몬이다.\n이빨이 무거워서 목을 기울이고 있다.\n놀라게 하지 않으면 무턱대고 물지 않는다."
+      },
+      {
+        "game": "sm-s",
+        "text": "발달한 아래턱과 묵직한 이빨이\n무기다. 화나게 하지 않는 한\n웬만해서는 물거나 하지 않는다."
+      },
+      {
+        "game": "sm-m",
+        "text": "블루 이상으로 겁쟁이다.\n겉모습과의 차이가 인기를 얻어\n젊은 여성에게 인기가 높다."
+      },
+      {
+        "game": "usum-us",
+        "text": "턱의 힘은 강력하지만\n다툼을 좋아하지 않아 그다지\n싸우는 걸 볼 기회가 많지 않다."
+      },
+      {
+        "game": "usum-um",
+        "text": "젊은 여성에게 인기가 많지만\n겁쟁이인데다가 섬세하기 때문에\n지킴이로는 무능하다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "布魯皇",
+    "genus": "妖精寶可夢",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "發達的下顎和沉重的牙齒\n是牠的武器。只要不惹牠生氣，\n就不太會咬人哦。"
+      },
+      {
+        "game": "sm-m",
+        "text": "比布魯更加膽小。\n與外表之間的反差萌很受歡迎，\n在年輕女性中人氣很高。"
+      },
+      {
+        "game": "usum-us",
+        "text": "下顎的力量很強，\n但因為生性不喜歡鬥爭，\n所以很少有展露的機會。"
+      },
+      {
+        "game": "usum-um",
+        "text": "雖然很受年輕女性歡迎，\n但牠不但膽小而且個性纖細，\n以看門狗來說一點用都沒有。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Granbull",
+    "genus": "Pokémon Fée",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "En dépit des apparences, c’est un\ngrand timide. Quand il s’énerve, il\nmord de ses énormes crocs."
+      },
+      {
+        "game": "bw-w",
+        "text": "En dépit des apparences, c’est un\ngrand timide. Quand il s’énerve, il\nmord de ses énormes crocs."
+      },
+      {
+        "game": "xy-x",
+        "text": "En dépit des apparences, c’est un grand timide.\nQuand il s’énerve, il mord de ses énormes crocs."
+      },
+      {
+        "game": "xy-y",
+        "text": "Il peut faire fuir presque tous les Pokémon en ouvrant\ntrès largement sa mâchoire."
+      },
+      {
+        "game": "oras-or",
+        "text": "Granbull a une mâchoire inférieure particulièrement\ndéveloppée. Ses énormes crocs sont tellement lourds\nqu’ils l’obligent à pencher la tête.\nIl ne mord jamais sans raison, sauf quand il a peur."
+      },
+      {
+        "game": "oras-as",
+        "text": "Granbull a une mâchoire inférieure particulièrement\ndéveloppée. Ses énormes crocs sont tellement lourds\nqu’ils l’obligent à pencher la tête.\nIl ne mord jamais sans raison, sauf quand il a peur."
+      },
+      {
+        "game": "sm-s",
+        "text": "Sa mâchoire inférieure et ses crocs\nsurdimensionnés sont ses armes de prédilection.\nIl ne mord pas tant qu’on ne l’énerve pas."
+      },
+      {
+        "game": "sm-m",
+        "text": "Encore plus peureux que Snubbull, son\napparence ô combien trompeuse lui vaut\nun succès fou."
+      },
+      {
+        "game": "usum-us",
+        "text": "Sa mâchoire est étonnamment puissante,\nmais comme il n’aime pas se battre, il n’a\npas souvent l’occasion de s’en servir."
+      },
+      {
+        "game": "usum-um",
+        "text": "Les jeunes gens en sont fous, mais sa timidité\net sa grande délicatesse en font un piètre\nPokémon de garde."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Granbull",
+    "genus": "Fee",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Es ist trotz seines Äußeren schüchtern. Wird es\nwütend, schnappt es mit seinen Fängen zu."
+      },
+      {
+        "game": "xy-y",
+        "text": "Es kann fast jedes Pokémon vertreiben, indem es sein\nMaul weit öffnet und seine scharfen Reißzähne zeigt."
+      },
+      {
+        "game": "oras-or",
+        "text": "Granbull besitzt einen besonders ausgeprägten Unterkiefer.\nWegen seiner schweren Zähne wackelt es mit dem Kopf.\nEs beißt nur zu, wenn es erschreckt wird."
+      },
+      {
+        "game": "oras-as",
+        "text": "Granbull besitzt einen besonders ausgeprägten Unterkiefer.\nWegen seiner schweren Zähne wackelt es mit dem Kopf.\nEs beißt nur zu, wenn es erschreckt wird."
+      },
+      {
+        "game": "sm-s",
+        "text": "Ein ausgeprägter Unterkiefer und schwere\nZähne sind seine Waffen. Es beißt nur zu,\nwenn es verärgert wird."
+      },
+      {
+        "game": "sm-m",
+        "text": "Es ist noch schüchterner als Snubbull. Der\nKontrast zwischen seinem Äußeren und seinem\nWesen macht es bei jungen Leuten so beliebt."
+      },
+      {
+        "game": "usum-us",
+        "text": "Sein Unterkiefer ist sehr stark. Da es jedoch\nden Kampf scheut, kommt es nur selten dazu,\ndies zu demonstrieren."
+      },
+      {
+        "game": "usum-um",
+        "text": "Es ist bei jungen Leuten sehr beliebt. Aufgrund\nseines feigen und sensiblen Charakters ist es\nals Wache allerdings völlig ungeeignet."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Granbull",
+    "genus": "Pokémon Hada",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "A pesar de su aspecto, es muy tímido. Sin embargo,\ncuando se enfada, ataca con sus colmillos."
+      },
+      {
+        "game": "xy-y",
+        "text": "Con solo enseñar las fauces, conseguirá ahuyentar\nprácticamente a todos los Pokémon con los que se\ncruce."
+      },
+      {
+        "game": "oras-or",
+        "text": "Granbull tiene la mandíbula inferior demasiado desarrollada\ny colmillos enormes y pesados que le obligan a inclinar la\ncabeza hacia atrás para compensar el peso. Si no se le\nasusta, no muerde."
+      },
+      {
+        "game": "oras-as",
+        "text": "Granbull tiene la mandíbula inferior demasiado desarrollada\ny colmillos enormes y pesados que le obligan a inclinar la\ncabeza hacia atrás para compensar el peso. Si no se le\nasusta, no muerde."
+      },
+      {
+        "game": "sm-s",
+        "text": "Ataca con su desarrollada mandíbula y sus\nenormes colmillos. Rara es la vez que muerde a\nalguien, a menos que le haya hecho enfadar."
+      },
+      {
+        "game": "sm-m",
+        "text": "Es más miedica que Snubbull. Resulta muy\npopular entre la gente joven debido a su\naspecto de duro y a su afable personalidad."
+      },
+      {
+        "game": "usum-us",
+        "text": "Su mandíbula posee una fuerza abrumadora,\npero, como no le gusta pelear, rara vez tiene\nocasión de demostrarlo."
+      },
+      {
+        "game": "usum-um",
+        "text": "Es muy popular entre la gente joven, pero su\npersonalidad afable y algo miedosa hacen de\nél un pésimo guardián."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Granbull",
+    "genus": "Pokémon Fata",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Malgrado il suo aspetto, è molto timido. Se si\narrabbia, tuttavia, colpisce con le sue enormi zanne."
+      },
+      {
+        "game": "xy-y",
+        "text": "Se spalanca la bocca mostrando i grandi denti,\nquasi tutti i Pokémon fuggono spaventati."
+      },
+      {
+        "game": "oras-or",
+        "text": "Granbull è dotato di una mascella inferiore particolarmente\nsviluppata. A causa delle enormi e pesanti zanne deve\ninclinare la testa per mantenersi in equilibrio.\nSe spaventato, può mordere in modo inconsulto."
+      },
+      {
+        "game": "oras-as",
+        "text": "Granbull è dotato di una mascella inferiore particolarmente\nsviluppata. A causa delle enormi e pesanti zanne deve\ninclinare la testa per mantenersi in equilibrio.\nSe spaventato, può mordere in modo inconsulto."
+      },
+      {
+        "game": "sm-s",
+        "text": "Attacca i nemici con la grossa mascella\ninferiore, dotata di zanne massicce.\nMorde solo quando è arrabbiato."
+      },
+      {
+        "game": "sm-m",
+        "text": "È persino più timido di Snubbull. I giovani lo\ntrovano irresistibile proprio per lo scarto tra\nil suo aspetto minaccioso e il suo carattere."
+      },
+      {
+        "game": "usum-us",
+        "text": "Ha una mascella molto potente, ma non ama\nbattersi, perciò non ha molte occasioni di dare\nprova della sua forza."
+      },
+      {
+        "game": "usum-um",
+        "text": "Piace moltissimo ai giovani.\nDi indole timida e delicata, non è adatto a fare\nla guardia."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Granbull",
+    "genus": "Fairy Pokémon",
+    "flavorText": [
+      {
+        "game": "gs-g",
+        "text": "It is actually\ntimid and easily\nspooked. If at­\ftacked, it flails\nabout to fend off\nits attacker."
+      },
+      {
+        "game": "gs-s",
+        "text": "Because its fangs\nare too heavy, it\nalways keeps its\fhead tilted down.\nHowever, its BITE\nis powerful."
+      },
+      {
+        "game": "c",
+        "text": "It can make most\nany POKéMON run\naway simply by\fopening its mouth\nwide to reveal its\nbig fangs."
+      },
+      {
+        "game": "rs-r",
+        "text": "GRANBULL has a particularly well-\ndeveloped lower jaw. The enormous fangs\nare heavy, causing the POKéMON to tip\fits head back for balance.\nUnless it is startled, it will not try to\nbite indiscriminately."
+      },
+      {
+        "game": "rs-s",
+        "text": "GRANBULL has a particularly well-\ndeveloped lower jaw. The enormous fangs\nare heavy, causing the POKéMON to tip\fits head back for balance.\nUnless it is startled, it will not try to\nbite indiscriminately."
+      },
+      {
+        "game": "e",
+        "text": "It has a particularly well-developed lower\njaw. The huge fangs are heavy, causing\nit to tilt its head. Unless it is startled, it\nwill not try to bite."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "Because its fangs are too heavy, it\nalways keeps its head tilted down.\nHowever, its BITE is powerful."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "It is actually timid and easily spooked.\nIf attacked, it flails about to fend off\nits attacker."
+      },
+      {
+        "game": "dp-d",
+        "text": "It is timid in spite of its looks.\nIf it becomes enraged, however,\nit will strike with its huge fangs."
+      },
+      {
+        "game": "dp-p",
+        "text": "It is timid in spite of its looks.\nIf it becomes enraged, however,\nit will strike with its huge fangs."
+      },
+      {
+        "game": "pt",
+        "text": "It is timid in spite of its looks.\nIf it becomes enraged, however,\nit will strike with its huge fangs."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "It is actually timid and easily\nspooked. If attacked, it flails\nabout to fend off its attacker."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "Because its fangs are too heavy, it\nalways keeps its head tilted down.\nHowever, its bite is powerful."
+      },
+      {
+        "game": "bw-b",
+        "text": "It is timid in spite of its looks.\nIf it becomes enraged, however,\nit will strike with its huge fangs."
+      },
+      {
+        "game": "bw-w",
+        "text": "It is timid in spite of its looks.\nIf it becomes enraged, however,\nit will strike with its huge fangs."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "It is timid in spite of its looks.\nIf it becomes enraged, however,\nit will strike with its huge fangs."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "It is timid in spite of its looks.\nIf it becomes enraged, however,\nit will strike with its huge fangs."
+      },
+      {
+        "game": "xy-x",
+        "text": "It is timid in spite of its looks. If it becomes\nenraged, however, it will strike with its huge fangs."
+      },
+      {
+        "game": "xy-y",
+        "text": "It can make most any Pokémon run away simply by\nopening its mouth wide to reveal its big fangs."
+      },
+      {
+        "game": "usum-us",
+        "text": "While it has powerful jaws, it doesn’t care for\ndisputes, so it rarely has a chance to display\ntheir might."
+      },
+      {
+        "game": "oras-or",
+        "text": "Granbull has a particularly well-developed lower jaw.\nThe enormous fangs are heavy, causing the Pokémon to tip its\nhead back for balance. Unless it is startled, it will not try to\nbite indiscriminately."
+      },
+      {
+        "game": "oras-as",
+        "text": "Granbull has a particularly well-developed lower jaw.\nThe enormous fangs are heavy, causing the Pokémon to tip\nits head back for balance. Unless it is startled, it will not try to\nbite indiscriminately."
+      },
+      {
+        "game": "sm-s",
+        "text": "Its well-developed lower jaw and heavy fangs\nare its weapons. As long as it’s not provoked,\nit rarely bites."
+      },
+      {
+        "game": "sm-m",
+        "text": "More timid than Snubbull, this Pokémon is doted\non by young people amused at the contrast\nbetween its looks and its attitude."
+      },
+      {
+        "game": "usum-um",
+        "text": "Although it’s popular with young people,\nGranbull is timid and sensitive, so it’s totally\nincompetent as a watchdog."
+      }
+    ]
+  },
+  "chs": {
+    "name": "布鲁皇",
+    "genus": "妖精宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "发达的下颚和沉重的牙齿\n是它的武器。只要不惹怒它，\n很少会被咬到哦。"
+      },
+      {
+        "game": "sm-m",
+        "text": "比布鲁更加胆小。\n与外表之间的反差萌很受欢迎，\n在年轻女性中人气很高。"
+      },
+      {
+        "game": "usum-us",
+        "text": "颚的力量很强，但不喜欢争斗，\n所以很少有展露的机会。"
+      },
+      {
+        "game": "usum-um",
+        "text": "虽然深受年轻女性的欢迎，\n但它胆小怕事，内心柔弱，\n所以无法成为一条看门犬。"
+      }
+    ]
+  }
+}

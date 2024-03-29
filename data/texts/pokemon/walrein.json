@@ -1,0 +1,313 @@
+{
+  "jap": {
+    "name": "トドゼルガ",
+    "genus": "こおりわりポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "おおきな　こおりを　キバで　くだく。\nあつい　しぼうは　さむさだけでなく\nてきの　こうげきも　はねかえす。"
+      },
+      {
+        "game": "xy-y",
+        "text": "たくましい　キバで　りゅうひょうを\nふんさいする。ぶあつい　しぼうが\nてきの　こうげきを　はねかえす。"
+      },
+      {
+        "game": "oras-or",
+        "text": "はったつした　２ほんの　キバは　１０トンも　ある\nひょうざんを　いちげきで　ふんさいする。\nしぼうが　ぶあつく　ひょうてんかでも　へいき。"
+      },
+      {
+        "game": "oras-as",
+        "text": "おおきな　キバで　ひょうざんを　くだきながら\nひょうてんかの　うみを　およぎまわる。\nぶあつい　しぼうが　こうげきを　はねかえす。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "２、３０ひきで　むれを　つくる。\nてきに　おそわれると　リーダーは\nからだを　はって　むれを　まもる。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "キバは　いっしょう　のびつづける。\nたたかいで　おれても　１ねんあれば\nもとの　りっぱな　キバに　もどる。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Todoseruga",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "씨카이저",
+    "genus": "얼음깨기포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "큰 얼음을 이빨로 부순다.\n두꺼운 지방은 추위뿐만 아니라\n상대의 공격도 이겨낸다."
+      },
+      {
+        "game": "xy-y",
+        "text": "믿음직한 송곳니로 유빙을\n부스러뜨린다. 두꺼운 지방으로\n적의 공격을 이겨낸다."
+      },
+      {
+        "game": "oras-or",
+        "text": "발달한 2개의 이빨은 10톤이나 되는\n빙산을 일격에 분쇄한다.\n지방이 두꺼워서 영하의 기온에서도 끄떡없다."
+      },
+      {
+        "game": "oras-as",
+        "text": "큰 이빨로 빙산을 깨트리며\n영하의 바다를 헤엄쳐 다닌다.\n두꺼운 지방이 공격을 튕겨낸다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "2, 30마리가 무리를 이룬다.\n적에게 공격받으면 리더는\n몸을 던져서 무리를 지킨다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "이빨은 평생 자란다.\n싸우다 부러져도 1년이 지나면\n원래의 훌륭한 이빨로 복원된다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "帝牙海獅",
+    "genus": "破冰寶可夢",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "會由２、３０隻群居生活。\n受到敵人攻擊時，首領會\n奮不顧身地保護群體。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "獠牙會一輩子不停地成長。\n即使在戰鬥中折斷，也只需要\n１年的時間就又能長得巨大如初。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Kaimorse",
+    "genus": "Pokémon Brise Glace",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Il brise la glace avec ses grosses\ndéfenses. Sa graisse le protège du\nfroid, mais aussi des attaques."
+      },
+      {
+        "game": "bw-w",
+        "text": "Il brise la glace avec ses grosses\ndéfenses. Sa graisse le protège du\nfroid, mais aussi des attaques."
+      },
+      {
+        "game": "xy-x",
+        "text": "Il brise la glace avec ses grosses défenses.\nSa graisse le protège du froid, mais aussi des\nattaques."
+      },
+      {
+        "game": "xy-y",
+        "text": "Ses robustes défenses pulvérisent la glace, et son\népaisse couche de graisse repousse les attaques."
+      },
+      {
+        "game": "oras-or",
+        "text": "Les deux énormes défenses de Kaimorse peuvent détruire\nen un seul coup des blocs de glace de plus de 10 t.\nL’épaisse couche de graisse de ce Pokémon l’isole\nlorsque la température est en dessous de zéro."
+      },
+      {
+        "game": "oras-as",
+        "text": "Kaimorse nage dans l’eau glacée et détruit les icebergs\nsur son passage à l’aide de ses grandes et impressionnantes\ndéfenses. Son épaisse couche de graisse lui permet de faire\nrebondir les attaques ennemies."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Ils vivent en groupes de 20 à 30 individus.\nSi un ennemi les attaque, le chef s’interpose\npour tous les protéger, au péril de sa vie."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Ses défenses poussent tout au long de sa vie.\nSi l’une d’elles se brise au cours d’un combat,\nau bout d’un an, elle aura repoussé entièrement."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Walraisa",
+    "genus": "Eisbrecher-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Mit seinen Stoßzähnen bricht es durch Eis.\nEine Speckschicht schützt es vor Kälte und Angriffen."
+      },
+      {
+        "game": "xy-y",
+        "text": "Seine kräftigen Stoßzähne können Eisschollen\nzerschmettern. Sein dicker Speck wehrt Angriffe ab."
+      },
+      {
+        "game": "oras-or",
+        "text": "Walraisa hat zwei massive Stoßzähne, die mit einem Hieb\nEisblöcke zertrümmern können, die bis zu 10 t wiegen.\nEs besitzt eine dicke Speckschicht, die es vor eisigen\nTemperaturen schützt."
+      },
+      {
+        "game": "oras-as",
+        "text": "Walraisa schwimmt in eiskaltem Meerwasser und zertrümmert\nEisberge mit seinen beeindruckenden Stoßzähnen. Eine dicke\nSchicht aus Walfischspeck lässt gegnerische Attacken von ihm\nabprallen."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Es bildet mit 20 bis 30 Artgenossen eine Herde.\nWird diese angegriffen, verteidigt der Anführer\nsie unter Einsatz seines Lebens."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Die Stoßzähne wachsen sein Leben lang. Selbst,\nwenn sie im Kampf abbrechen, erreichen sie nach\nnur einem Jahr wieder ihre alte imposante Größe."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Walrein",
+    "genus": "Pokémon Rompehielo",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Rompe el hielo con sus colmillos. Su gruesa capa de\ngrasa le protege del frío y de los enemigos."
+      },
+      {
+        "game": "xy-y",
+        "text": "Sus fuertes colmillos destrozan los témpanos de hielo.\nSu capa de grasa lo protege de sus enemigos."
+      },
+      {
+        "game": "oras-or",
+        "text": "Walrein tiene unos exagerados colmillos con los que puede\nhacer añicos bloques de hielo de hasta 10 toneladas de una\nsola dentellada. La gruesa capa de grasa que lo recubre le\nprotege de temperaturas inferiores a 0 °C."
+      },
+      {
+        "game": "oras-as",
+        "text": "Walrein va nadando por mares glaciales y destrozando\nicebergs con los enormes e imponentes colmillos que tiene.\nLa gruesa capa de grasa que tiene en el cuerpo hace que los\nataques enemigos reboten y no le hagan ningún daño."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Forman manadas de unos 20 o 30 individuos. Si\nel grupo se ve atacado por un enemigo, el líder\nse interpondrá para proteger al resto."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Sus colmillos nunca dejan de crecer. Aunque los\npierda en un combate, al cabo de un año ya los\nhabrá regenerado por completo."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Walrein",
+    "genus": "Pokémon Spaccagelo",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Frantuma il ghiaccio con le zanne. Lo spesso strato\nadiposo respinge il freddo e gli attacchi nemici."
+      },
+      {
+        "game": "xy-y",
+        "text": "Frantuma il ghiaccio con le potenti zanne. Il suo\nspesso strato adiposo respinge gli attacchi nemici."
+      },
+      {
+        "game": "oras-or",
+        "text": "Le due zanne molto sviluppate di Walrein sono in grado\ndi ridurre in polvere blocchi di ghiaccio del peso di\n100 quintali. Lo spesso strato di grasso attorno al corpo\nlo isola dalle rigide temperature polari."
+      },
+      {
+        "game": "oras-as",
+        "text": "Walrein nuota in tutti i mari glaciali e frantuma gli iceberg con\nle sue enormi e potenti zanne. Lo spesso strato di grasso che\navvolge il suo corpo fa rimbalzare senza danno gli attacchi\nnemici."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Vive in branchi di 20-30 esemplari. In caso\ndi attacco nemico, il capo protegge il gruppo\na costo della vita."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Le sue zanne continuano a crescere per tutta la\nvita. Se si spezzano mentre lotta, tornano\nforti e robuste nell’arco di un anno."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Walrein",
+    "genus": "Ice Break Pokémon",
+    "flavorText": [
+      {
+        "game": "frlg-lg",
+        "text": "It swims through icy seas while shattering\nice floes with its large tusks. It is\nprotected by its thick blubber."
+      },
+      {
+        "game": "rs-r",
+        "text": "WALREIN’s two massively developed\ntusks can totally shatter blocks of\nice weighing ten tons with one blow.\fThis POKéMON’s thick coat of blubber\ninsulates it from subzero temperatures."
+      },
+      {
+        "game": "rs-s",
+        "text": "WALREIN swims all over in frigid\nseawater while crushing icebergs with\nits grand, imposing tusks.\fIts thick layer of blubber makes enemy\nattacks bounce off harmlessly."
+      },
+      {
+        "game": "e",
+        "text": "To protect its herd, the leader battles\nanything that invades its territory, even\nat the cost of its life. Its tusks may snap\noff in battle."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "It swims through icy seas while shattering\nice floes with its large tusks. It is\nprotected by its thick blubber."
+      },
+      {
+        "game": "dp-d",
+        "text": "It shatters ice with its big tusks.\nIts thick blubber repels not only\nthe cold, but also enemy attacks."
+      },
+      {
+        "game": "dp-p",
+        "text": "It shatters ice with its big tusks.\nIts thick blubber repels not only\nthe cold, but also enemy attacks."
+      },
+      {
+        "game": "pt",
+        "text": "It shatters ice with its big tusks.\nIts thick blubber repels not only\nthe cold, but also enemy attacks."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "It shatters drift ice with its\nstrong tusks. Its thick layer of\nblubber repels enemy attacks."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "It shatters drift ice with its\nstrong tusks. Its thick layer of\nblubber repels enemy attacks."
+      },
+      {
+        "game": "bw-b",
+        "text": "It shatters ice with its big tusks.\nIts thick blubber repels not only\nthe cold, but also enemy attacks."
+      },
+      {
+        "game": "bw-w",
+        "text": "It shatters ice with its big tusks.\nIts thick blubber repels not only\nthe cold, but also enemy attacks."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "Not only does its thick blubber keep it\nwarm, it also protects it from attacks.\nIt shatters ice with its prized tusks."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "Not only does its thick blubber keep it\nwarm, it also protects it from attacks.\nIt shatters ice with its prized tusks."
+      },
+      {
+        "game": "xy-x",
+        "text": "It shatters ice with its big tusks. Its thick blubber\nrepels not only the cold, but also enemy attacks."
+      },
+      {
+        "game": "xy-y",
+        "text": "It shatters drift ice with its strong tusks. Its thick\nlayer of blubber repels enemy attacks."
+      },
+      {
+        "game": "oras-or",
+        "text": "Walrein’s two massively developed tusks can totally shatter\nblocks of ice weighing 10 tons with one blow. This Pokémon’s\nthick coat of blubber insulates it from subzero temperatures."
+      },
+      {
+        "game": "oras-as",
+        "text": "Walrein swims all over in frigid seawater while crushing\nicebergs with its grand, imposing tusks. Its thick layer of\nblubber makes enemy attacks bounce off harmlessly."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Walrein form herds of 20 to 30 individuals.\nWhen a threat appears, the herd’s leader will\nprotect the group with its life."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Walrein’s tusks keep growing throughout its life.\nTusks broken in battle will grow back to their\nusual impressive size in a year."
+      },
+      {
+        "game": "la",
+        "text": "Its thick tusks are strong enough to shatter drift ice. They have\nbeen known to break, but they will grow back by the next year.\nThe Hisui region is well known for these broken tusks."
+      }
+    ]
+  },
+  "chs": {
+    "name": "帝牙海狮",
+    "genus": "破冰宝可梦",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "２、３０只一起群居。\n受到敌人袭击时，\n首领会拼命保护族群。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "它的獠牙一生都会持续生长。\n即使在战斗中被折断也能逐渐恢复，\n只需要１年的时间便能完好如初。"
+      }
+    ]
+  }
+}

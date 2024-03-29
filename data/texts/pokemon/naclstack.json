@@ -1,0 +1,61 @@
+{
+  "jap": {
+    "name": "ジオヅム",
+    "genus": "がんえんポケモン",
+    "flavorText": []
+  },
+  "jap_ro": {
+    "name": "Jiodumu",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "스태솔트",
+    "genus": "",
+    "flavorText": []
+  },
+  "cht": {
+    "name": "鹽石壘",
+    "genus": "岩鹽寶可夢",
+    "flavorText": []
+  },
+  "fra": {
+    "name": "Amassel",
+    "genus": "",
+    "flavorText": []
+  },
+  "deu": {
+    "name": "Sedisal",
+    "genus": "Steinsalz",
+    "flavorText": []
+  },
+  "esp": {
+    "name": "Naclstack",
+    "genus": "",
+    "flavorText": []
+  },
+  "ita": {
+    "name": "Naclstack",
+    "genus": "",
+    "flavorText": []
+  },
+  "eng": {
+    "name": "Naclstack",
+    "genus": "Rock Salt Pokémon",
+    "flavorText": [
+      {
+        "game": "sv-s",
+        "text": "This Pokémon dry cures its prey by spraying salt over them. The curing process steals away the water in the prey’s body."
+      },
+      {
+        "game": "sv-v",
+        "text": "It compresses rock salt inside its body and shoots out hardened salt pellets with enough force to perforate an iron sheet."
+      }
+    ]
+  },
+  "chs": {
+    "name": "盐石垒",
+    "genus": "岩盐宝可梦",
+    "flavorText": []
+  }
+}

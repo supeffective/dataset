@@ -1,0 +1,553 @@
+{
+  "jap": {
+    "name": "ゴーリキー",
+    "genus": "かいりきポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "すごく　きょうじんな　にくたいなので\nパワーセーブ　ベルトを　つけて\nつよさを　せいぎょしている。"
+      },
+      {
+        "game": "xy-y",
+        "text": "かたてで　ダンプカーを　もちあげる\nパワーを　いかして　ひとの　かわりに\nちからしごとを　てつだう　ポケモン。"
+      },
+      {
+        "game": "oras-or",
+        "text": "きたえあげた　きんにくは　はがねの　かたさ。\nすもうとりの　からだも　ゆび　１ぽんで　らくらく\nもちあげてしまう　かいりきの　ポケモンだ。"
+      },
+      {
+        "game": "oras-as",
+        "text": "にんげんの　ちからしごとを　てつだいながら\nからだを　まいにち　きたえている　ポケモン。\nやすみの　ひには　のやまで　からだを　きたえる。"
+      },
+      {
+        "game": "sm-s",
+        "text": "きたえにきたえた　けっか　すさまじい\nパワーを　てにいれた。　そのちからを\nいかし　ひとのしごとを　てつだう。"
+      },
+      {
+        "game": "sm-m",
+        "text": "すすんで　じゅうろうどうを　てつだう。\nじぶんに　とっての　いい　きんりょく\nトレーニングになると　しっているから。"
+      },
+      {
+        "game": "usum-us",
+        "text": "しんの　きょうてきに　であうと\nこしの　パワーセーブ　ベルトを\nはずして　ぜんりょくを　はっきする。"
+      },
+      {
+        "game": "usum-um",
+        "text": "ちょうこくの　モチーフとして　にんき。\nきたえぬかれた　きんにくが　おおくの\nげいじゅつかを　とりこに　している。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "こしにまいた　パワーセーブベルトを\nはずした　ゴーリキーの　いきおいを\nとめることは　だれにも　ふかのうだ。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "こしにまいた　パワーセーブベルトを\nはずした　ゴーリキーの　いきおいを\nとめることは　だれにも　ふかのうだ。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "すごく　きょうじんな　にくたいなので\nパワーセーブ　ベルトを　つけて\nつよさを　せいぎょしている。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "つかれることのない　きょうじんな\nにくたいを　もつ。　おもい　にもつの\nうんぱんなどの　しごとを　てつだう。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Goriky",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "근육몬",
+    "genus": "괴력포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "엄청나게 강한 육체를 지녔기 때문에\n파워 세이브 벨트를 차서\n힘을 제어하고 있다."
+      },
+      {
+        "game": "xy-y",
+        "text": "한 손으로 덤프트럭을 들어 올린다.\n파워를 살려서 사람 대신\n힘쓰는 일을 돕는 포켓몬이다."
+      },
+      {
+        "game": "oras-or",
+        "text": "잘 단련된 근육은 강철처럼 단단하다.\n씨름 선수의 몸을 손가락 1개로 쉽게\n들어 올릴 수 있는 괴력의 포켓몬이다."
+      },
+      {
+        "game": "oras-as",
+        "text": "힘이 많이 드는 인간의 일을 도와주며\n매일 몸을 단련하는 포켓몬이다.\n쉬는 날에는 산야에서 몸을 단련한다."
+      },
+      {
+        "game": "sm-s",
+        "text": "단련하고 단련한 결과 무시무시한\n파워를 손에 넣었다. 그 힘을\n살려서 사람 일을 돕는다."
+      },
+      {
+        "game": "sm-m",
+        "text": "자진해서 중노동을 돕는다.\n자신에게 좋은 근력 트레이닝이\n되는 것을 알기 때문이다."
+      },
+      {
+        "game": "usum-us",
+        "text": "진정한 강적을 만나면\n허리의 파워 세이브 벨트를\n풀고 전력을 발휘한다."
+      },
+      {
+        "game": "usum-um",
+        "text": "조각의 모티브로 인기 있다.\n잘 단련된 근육이 많은\n예술가들을 사로잡는다."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "허리에 두른 파워 세이브 벨트를\n풀면 그 누구도 근육몬의\n기세를 막을 수 없다."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "허리에 두른 파워 세이브 벨트를\n풀면 그 누구도 근육몬의\n기세를 막을 수 없다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "엄청나게 강한 육체를 지녔기 때문에\n파워 세이브 벨트를 차서\n힘을 제어하고 있다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "지치지 않는 강인한\n육체를 가졌다. 무거운 물건을\n옮기는 등의 일을 돕는다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "豪力",
+    "genus": "怪力寶可夢",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "不斷鍛煉的成果就是\n獲得了非常驚人的力量。\n會靈活運用這股力量幫助人工作。"
+      },
+      {
+        "game": "sm-m",
+        "text": "會積極地幫忙做重體力勞動，\n因為牠知道這對自己來說\n是很好的肌肉鍛鍊方法。"
+      },
+      {
+        "game": "usum-us",
+        "text": "當遇上真正的強敵時，\n會解開限制力量的腰帶\n來使出全力。"
+      },
+      {
+        "game": "usum-um",
+        "text": "是很受歡迎的雕刻主題。\n經過千錘百煉的肌肉\n讓許多藝術家為之著迷。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "當腰上那條限制力量的\n腰帶解開時，豪力的氣勢\n將會變得無人能擋。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "當腰上那條限制力量的\n腰帶解開時，豪力的氣勢\n將會變得無人能擋。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "因為肉體非常強韌，\n所以戴著力量限制腰帶\n來控制力量。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "有著不會疲勞的強韌肉體。\n會去幫助人類完成例如\n搬運沉重行李之類的工作。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Machopeur",
+    "genus": "Pokémon Colosse",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Il soulève les plus lourdes charges\navec plaisir et facilité. Il donne un\ncoup de main tout en s’entraînant!"
+      },
+      {
+        "game": "bw-w",
+        "text": "Il soulève les plus lourdes charges\navec plaisir et facilité. Il donne un\ncoup de main tout en s’entraînant!"
+      },
+      {
+        "game": "xy-x",
+        "text": "Son corps est si puissant qu’il lui faut une ceinture\nde force pour équilibrer ses mouvements."
+      },
+      {
+        "game": "xy-y",
+        "text": "Il peut soulever un camion d’une main. Il se sert\nde sa force pour aider dans les tâches physiques."
+      },
+      {
+        "game": "oras-or",
+        "text": "Les muscles toniques de Machopeur sont durs comme\nde l’acier. Ce Pokémon est si fort qu’il peut facilement\nsoulever un sumo avec un seul doigt."
+      },
+      {
+        "game": "oras-as",
+        "text": "Machopeur pratique le body-building tous les jours,\nmême lorsqu’il aide les gens à réaliser de durs travaux.\nPendant ses congés, ce Pokémon va s’entraîner dans\nles champs et les montagnes."
+      },
+      {
+        "game": "sm-s",
+        "text": "Grâce à un long entraînement, il a obtenu\nune force incroyable, qu’il met au service des\nhumains pour les aider dans leurs travaux."
+      },
+      {
+        "game": "sm-m",
+        "text": "Il aide les humains dans les travaux de force.\nIl n’y a aucun scrupule à avoir, car il est ravi\nde pouvoir faire travailler ses muscles."
+      },
+      {
+        "game": "usum-us",
+        "text": "Quand il rencontre un adversaire vraiment\nredoutable, il retire sa ceinture de force\net déchaîne toute sa puissance."
+      },
+      {
+        "game": "usum-um",
+        "text": "C’est un modèle très en vogue chez les\nsculpteurs. De nombreux artistes ne jurent\nque par sa musculature parfaite."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Sa ceinture sert à retenir son énergie. Sans elle,\nil serait incontrôlable."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Sa ceinture sert à retenir son énergie. Sans elle,\nil serait incontrôlable."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Son corps est si puissant qu’il lui faut une ceinture\npour maîtriser sa force."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Son corps robuste ne se fatigue jamais.\nIl n’hésite pas à aider les gens lorsqu’il s’agit\nde soulever des objets très lourds."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Maschock",
+    "genus": "Kraftprotz-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Dieses Pokémon ist superstark. Es kann sich nur\nmit einem Kraft regulierenden Gürtel bewegen."
+      },
+      {
+        "game": "xy-y",
+        "text": "Es kann einen LKW mit einer Hand hochheben.\nEs nutzt die Kraft, um anderen bei der Arbeit zu helfen."
+      },
+      {
+        "game": "oras-or",
+        "text": "Maschocks starke Muskeln sind so hart wie Stahl.\nDieses Pokémon hat so viel Kraft, dass es mit nur\neinem Finger einen Sumo-Ringer in der Luft halten kann."
+      },
+      {
+        "game": "oras-as",
+        "text": "Maschock stählt seinen Körper jeden Tag, zum Beispiel\nindem es Menschen bei einer harten körperlichen Arbeit hilft.\nAn seinen freien Tagen begibt es sich auf Felder und Berge,\num zu trainieren."
+      },
+      {
+        "game": "sm-s",
+        "text": "Es hat sich durch unerbittliches Training\nunglaubliche Kräfte angeeignet, mit denen\nes die Menschen bei der Arbeit unterstützt."
+      },
+      {
+        "game": "sm-m",
+        "text": "Es bietet freiwillig seine Hilfe bei körperlicher\nSchwerstarbeit an, da es weiß, dass dies eine\nsehr effektive Form des Muskeltrainings ist."
+      },
+      {
+        "game": "usum-us",
+        "text": "Trifft es auf einen wahrhaft starken Gegner,\nnimmt es seinen kraftregulierenden Gürtel ab,\num seine volle Stärke entfalten zu können."
+      },
+      {
+        "game": "usum-um",
+        "text": "Es gilt als beliebtes Motiv in der Bildhauerei.\nSeinen wohlgeformten, stählernen Muskeln sind\nnicht wenige Künstler verfallen."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Der Gürtel an seiner Hüfte dient dazu, seine\nKraft zu begrenzen. Ohne ihn wäre Maschock\nnicht zu bändigen."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Der Gürtel an seiner Hüfte dient dazu, seine\nKraft zu begrenzen. Ohne ihn wäre Maschock\nnicht zu bändigen."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Dieses Pokémon ist superstark. Es kann sich nur\nmit einem kraftregulierenden Gürtel bewegen."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Sein durchtrainierter Körper wird nie müde.\nEs hilft den Menschen, indem es schwere\nSachen trägt."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Machoke",
+    "genus": "Pokémon Superpoder",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Su musculoso cuerpo es tan fuerte que usa un cinto\nantifuerza para controlar sus movimientos."
+      },
+      {
+        "game": "xy-y",
+        "text": "Puede levantar un gran camión con una mano. Utiliza\nsu fuerza para ayudar a la gente."
+      },
+      {
+        "game": "oras-or",
+        "text": "Los entrenados músculos de Machoke son tan fuertes como el\nacero. Este Pokémon es tan fuerte que puede levantar con un\nsolo dedo a un luchador de sumo."
+      },
+      {
+        "game": "oras-as",
+        "text": "Machoke realiza sesiones de culturismo todos los días.\nDe entrenamiento le sirven también las veces que ayuda a\nla gente en tareas de esfuerzo físico. En sus días libres, va\nal campo o a la montaña para hacer más ejercicio."
+      },
+      {
+        "game": "sm-s",
+        "text": "Posee una fuerza extraordinaria, obtenida a\ntravés de un tenaz entrenamiento. Utiliza su\nfuerza para ayudar a las personas."
+      },
+      {
+        "game": "sm-m",
+        "text": "Ayuda a las personas cuyos trabajos requieren\nmucha fuerza, ya que esto le sirve de\nentrenamiento para fortalecer sus músculos."
+      },
+      {
+        "game": "usum-us",
+        "text": "Cuando encuentra un rival realmente formidable,\nse quita el cinturón que restringe su energía y\ncombate con todas sus fuerzas."
+      },
+      {
+        "game": "usum-um",
+        "text": "Su escultural figura lo convierte en un modelo\nideal para artistas del cincel, a los que su\nperfecta musculatura embelesa sin remisión."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "El cinto antifuerza que lleva puesto limita sus\nmovimientos. Sin él, resultaría imparable."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "El cinto antifuerza que lleva puesto limita sus\nmovimientos. Sin él, resultaría imparable."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Su musculoso cuerpo es tan fuerte que usa un\ncinto antifuerza para controlar sus movimientos."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Tiene una complexión tan fuerte que nunca se\ncansa. Suele ayudar a la gente a cargar objetos\npesados."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Machoke",
+    "genus": "Pokémon Megaforza",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Il suo corpo muscoloso è così forte che usa una\ncintura antiforza per regolare i suoi movimenti."
+      },
+      {
+        "game": "xy-y",
+        "text": "È così forte da sollevare un autocarro con una sola\nmano. Aiuta le persone nei lavori pesanti."
+      },
+      {
+        "game": "oras-or",
+        "text": "I muscoli perfettamente tonici di Machoke possiedono\nla durezza dell’acciaio. Questo Pokémon è così forte\nda riuscire a sollevare un lottatore di sumo con un dito."
+      },
+      {
+        "game": "oras-as",
+        "text": "Machoke si allena ogni giorno con esercizi di body building,\naiutando l’uomo nei lavori fisicamente pesanti. Nei giorni\ndi riposo, si reca in campagna o in montagna per allenarsi\nancora."
+      },
+      {
+        "game": "sm-s",
+        "text": "Grazie al costante allenamento fisico ha\nsviluppato una forza straordinaria, di cui si\nserve per aiutare gli uomini nel loro lavoro."
+      },
+      {
+        "game": "sm-m",
+        "text": "È sempre disponibile ad aiutare nei lavori\npesanti, considerandoli un allenamento\nper accrescere la sua forza muscolare."
+      },
+      {
+        "game": "usum-us",
+        "text": "Quando incontra un nemico davvero formidabile,\nsi toglie la cintura che usa per contenere la sua\nforza e scatena tutta la sua potenza."
+      },
+      {
+        "game": "usum-um",
+        "text": "Gli artisti sono rapiti dalla perfezione dei suoi\nmuscoli ben sviluppati e spesso lo scelgono\ncome soggetto delle loro sculture."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "La cintura che porta attorno alla vita serve\na contenere la sua energia. Senza di essa\nsarebbe inarrestabile."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "La cintura che porta attorno alla vita serve\na contenere la sua energia. Senza di essa\nsarebbe inarrestabile."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Il suo corpo muscoloso è così forte che usa\nuna cintura per contenere la sua potenza."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Ha un fisico vigoroso e instancabile. Aiuta\nle persone a trasportare carichi e a svolgere\naltri lavori pesanti."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Machoke",
+    "genus": "Superpower Pokémon",
+    "flavorText": [
+      {
+        "game": "rb-r",
+        "text": "Its muscular body\nis so powerful, it\nmust wear a power\fsave belt to be\nable to regulate\nits motions."
+      },
+      {
+        "game": "rb-b",
+        "text": "Its muscular body\nis so powerful, it\nmust wear a power\fsave belt to be\nable to regulate\nits motions."
+      },
+      {
+        "game": "y",
+        "text": "The belt around\nits waist holds\nback its energy.\fWithout it, this\nPOKéMON would be\nunstoppable."
+      },
+      {
+        "game": "gs-g",
+        "text": "It always goes at\nits full power,\nbut this very\ftough and durable\nPOKéMON never gets\ntired."
+      },
+      {
+        "game": "gs-s",
+        "text": "The muscles cover­\ning its body teem\nwith power. Even\fwhen still, it\nexudes an amazing\nsense of strength."
+      },
+      {
+        "game": "c",
+        "text": "This tough POKéMON\nalways stays in\nthe zone. Its\fmuscles become\nthicker after\nevery battle."
+      },
+      {
+        "game": "rs-r",
+        "text": "MACHOKE’s thoroughly toned muscles\npossess the hardness of steel.\nThis POKéMON has so much strength,\fit can easily hold aloft a sumo wrestler\non just one finger."
+      },
+      {
+        "game": "rs-s",
+        "text": "MACHOKE undertakes bodybuilding every\nday even as it helps people with tough,\nphysically demanding labor.\fOn its days off, this POKéMON heads to\nthe fields and mountains to exercise\nand train."
+      },
+      {
+        "game": "e",
+        "text": "A belt is worn by a MACHOKE to keep its\noverwhelming power under control.\nBecause it is so dangerous, no one has\never removed the belt."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "Its formidable body never gets tired.\nIt helps people by doing work such as\nthe moving of heavy goods."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "Its muscular body is so powerful, it must\nwear a power-save belt to be able to\nregulate its motions."
+      },
+      {
+        "game": "dp-d",
+        "text": "MACHOKE’s boundless power is very\ndangerous, so it wears a belt that\nsuppresses its energy."
+      },
+      {
+        "game": "dp-p",
+        "text": "It can lift a dump truck with one\nhand. Using that power, it helps\npeople with heavy jobs."
+      },
+      {
+        "game": "pt",
+        "text": "It happily carries heavy cargo to\ntoughen up. It willingly does hard\nwork for people."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "It always goes at its full power,\nbut this very tough and durable\nPokémon never gets tired."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "The muscles covering its body teem\nwith power. Even when still, it\nexudes an amazing sense of strength."
+      },
+      {
+        "game": "bw-b",
+        "text": "It happily carries heavy cargo to\ntoughen up. It willingly does hard\nwork for people."
+      },
+      {
+        "game": "bw-w",
+        "text": "It happily carries heavy cargo to\ntoughen up. It willingly does hard\nwork for people."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "It happily carries heavy cargo to\ntoughen up. It willingly does hard\nwork for people."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "It happily carries heavy cargo to\ntoughen up. It willingly does hard\nwork for people."
+      },
+      {
+        "game": "xy-x",
+        "text": "Its muscular body is so powerful, it must wear a\npower-save belt to be able to regulate its motions."
+      },
+      {
+        "game": "xy-y",
+        "text": "It can lift a dump truck with one hand. Using that\npower, it helps people with heavy jobs."
+      },
+      {
+        "game": "oras-or",
+        "text": "Machoke’s thoroughly toned muscles possess the hardness\nof steel. This Pokémon has so much strength, it can easily\nhold aloft a sumo wrestler on just one finger."
+      },
+      {
+        "game": "oras-as",
+        "text": "Machoke undertakes bodybuilding every day even as\nit helps people with tough, physically demanding labor.\nOn its days off, this Pokémon heads to the fields and\nmountains to exercise and train."
+      },
+      {
+        "game": "sm-s",
+        "text": "As a result of its continual workouts, it has\ndeveloped tremendous power. It uses that\npower to help people with their work."
+      },
+      {
+        "game": "sm-m",
+        "text": "It willingly assists with hard labor because it\nknows the work is good training for its muscles."
+      },
+      {
+        "game": "usum-us",
+        "text": "When it encounters an enemy that’s truly\nmighty, this Pokémon removes the power-save\nbelt from its waist and unleashes its full power."
+      },
+      {
+        "game": "usum-um",
+        "text": "A popular motif for sculptures, its incredibly\nwell-developed muscles have captured the\nimagination of many an artist."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "The belt around its waist holds back its energy.\nWithout it, this Pokémon would be unstoppable."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "The belt around its waist holds back its energy.\nWithout it, this Pokémon would be unstoppable."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Its muscular body is so powerful, it must wear a\npower-save belt to be able to regulate\nits motions."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Its formidable body never gets tired. It helps\npeople by doing work such as the moving of\nheavy goods."
+      },
+      {
+        "game": "la",
+        "text": "A sturdy creature boasting a robust physique and boundless\nstamina. Loves training above all else and voluntarily assists with\ntasks such as construction and clearing land."
+      }
+    ]
+  },
+  "chs": {
+    "name": "豪力",
+    "genus": "怪力宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "不断锻炼的结果就是\n拥有了非常惊人的力量。\n灵活运用这力量帮助人类工作。"
+      },
+      {
+        "game": "sm-m",
+        "text": "积极地帮忙做重体力劳动，\n因为知道这会成为对自己\n有用的肌肉锻炼。"
+      },
+      {
+        "game": "usum-us",
+        "text": "如果遇到了真正的强敌，\n就会解开腰上的力量限制腰带，\n并使出全力。"
+      },
+      {
+        "game": "usum-um",
+        "text": "作为雕刻的主题很受欢迎。\n锻炼到极致的肌肉俘获了\n很多艺术家的心。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "只要解开系在腰上的\n限制它力量的腰带，\n豪力就会变得势不可挡。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "只要解开系在腰上的\n限制它力量的腰带，\n豪力就会变得势不可挡。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "因为肉体非常强韧，\n所以戴着力量限制腰带\n来控制力量。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "有着不会疲劳的强韧肉体。\n会去帮助人类完成例如\n搬运沉重行李之类的工作。"
+      }
+    ]
+  }
+}

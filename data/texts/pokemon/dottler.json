@@ -1,0 +1,133 @@
+{
+  "jap": {
+    "name": "レドームシ",
+    "genus": "レドームポケモン",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "ほぼ　うごかないが　いきている。\nのまずくわずで　からに　こもるうち\nちょうのうりょくに　めざめたらしい。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "からの　なかで　せいちょうちゅう。\nサイコパワーで　そとの　ようすを\nうかがい　しんかに　そなえている。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Redomushi",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "레돔벌레",
+    "genus": "레이돔포켓몬",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "거의 움직이지 않지만 살아 있다.\n식음을 전폐하고 껍질에 은둔하는 동안\n초능력에 눈을 뜬 모양이다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "껍질 안에서 성장 중이다.\n사이코 파워로 밖의 상태를\n살피며 진화에 대비하고 있다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "天罩蟲",
+    "genus": "天線罩寶可夢",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "雖然幾乎從來不動但還是活著的。\n牠的超能力似乎是在縮在殼裡\n不吃不喝的過程中覺醒的。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "正在殼裡成長著。\n用精神力量掌握外界的\n狀況，做好進化的準備。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Coléodôme",
+    "genus": "Pokémon Radôme",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Il ne bouge presque pas, mais il est bien vivant.\nOn dit qu’il aurait découvert ses pouvoirs\npsychiques à force de jeûner dans sa coquille."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Il se développe dans sa coquille et se prépare\nà évoluer en sondant les alentours grâce\nà ses pouvoirs psychiques."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Keradar",
+    "genus": "Radarkuppel-Pokémon",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Obwohl es sich fast nie bewegt, ist es am Leben.\nEs sollen Psycho-Kräfte in ihm erwacht sein, als\nes ohne Nahrung in seinem Panzer ausharrte."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Im Inneren seines Panzers wächst es. Während es\nsich auf die Entwicklung vorbereitet, prüft es mit\nseinen Psycho-Kräften, was im Freien geschieht."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Dottler",
+    "genus": "Pokémon Radomo",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Apenas se mueve, pero está vivo. Se cree que\nadquiere poderes psíquicos mientras permanece\nrecluido en su caparazón sin comer ni beber."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Está en constante crecimiento dentro del\ncaparazón. Mientras se prepara para evolucionar,\nexamina el exterior con sus poderes psíquicos."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Dottler",
+    "genus": "Pokémon Radome",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Si muove appena, ma è vivo. Sembra che sviluppi\npoteri paranormali mentre se ne sta rintanato nel\nsuo guscio senza bere né mangiare."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Continua a crescere dentro il suo guscio.\nIn attesa dell’evoluzione, percepisce il mondo\nesterno grazie ai suoi poteri psichici."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Dottler",
+    "genus": "Radome Pokémon",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "It barely moves, but it’s still alive. Hiding in its\nshell without food or water seems to have\nawakened its psychic powers."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "As it grows inside its shell, it uses its psychic\nabilities to monitor the outside world and\nprepare for evolution."
+      }
+    ]
+  },
+  "chs": {
+    "name": "天罩虫",
+    "genus": "天线罩宝可梦",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "虽然几乎从来不动但还是活着的。\n它的超能力似乎是在缩在壳里\n不吃不喝的过程中觉醒的。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "正在壳里成长着。\n用精神力量掌握外界的\n状况，做好进化的准备。"
+      }
+    ]
+  }
+}

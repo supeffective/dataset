@@ -1,0 +1,133 @@
+{
+  "jap": {
+    "name": "ズガドーン",
+    "genus": "はなびポケモン",
+    "flavorText": [
+      {
+        "game": "usum-us",
+        "text": "クネクネうごいて　ひとに　ちかづくと\nとつぜん　あたまを　ばくはつさせた。\nウルトラビーストの　いっしゅらしい。"
+      },
+      {
+        "game": "usum-um",
+        "text": "ウルトラホールから　あらわれたＵＢ。\nばくはつで　あいてを　おどろかし\nそのすきに　せいきを　うばっていた。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Zugadoon",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "두파팡",
+    "genus": "불꽃놀이포켓몬",
+    "flavorText": [
+      {
+        "game": "usum-us",
+        "text": "꿈틀거리며 사람에게 다가오다\n느닷없이 머리를 폭발시킨다.\n울트라비스트의 일종인 듯하다."
+      },
+      {
+        "game": "usum-um",
+        "text": "울트라홀에서 나타난 UB.\n폭발로 상대를 놀라게 하고\n그 틈에 생기를 빼앗는다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "砰頭小丑",
+    "genus": "煙火寶可夢",
+    "flavorText": [
+      {
+        "game": "usum-us",
+        "text": "會扭動著身體靠近人，\n然後突然讓頭爆炸。\n似乎是究極異獸的一種。"
+      },
+      {
+        "game": "usum-um",
+        "text": "從究極之洞中出現的究極異獸。\n會用爆炸嚇唬對手，\n然後趁機奪取對方的精氣。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Pierroteknik",
+    "genus": "Pokémon Artificier",
+    "flavorText": [
+      {
+        "game": "usum-us",
+        "text": "Il s’approche des gens avec son allure\ndésarticulée et fait subitement exploser\nsa tête. Ce serait une Ultra-Chimère."
+      },
+      {
+        "game": "usum-um",
+        "text": "Cette Ultra-Chimère sortie d’une Ultra-Brèche\nprovoque des explosions pour surprendre\nl’ennemi et en profite pour voler son énergie."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Kopplosio",
+    "genus": "Feuerwerks-Pokémon",
+    "flavorText": [
+      {
+        "game": "usum-us",
+        "text": "Dieses Wesen ist vermutlich eine Ultrabestie.\nEs nähert sich Menschen tänzelnd, nur um dann\nplötzlich seinen Kopf explodieren zu lassen."
+      },
+      {
+        "game": "usum-um",
+        "text": "Eine Ultrabestie, die durch eine Ultrapforte kam.\nSie erschreckt ihre Gegner mit Explosionen\nund raubt ihnen dann ihre Lebenskraft."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Blacephalon",
+    "genus": "Pokémon Pirotecnia",
+    "flavorText": [
+      {
+        "game": "usum-us",
+        "text": "Parece ser uno de los temibles Ultraentes.\nSe acerca a la gente contoneándose y hace\nexplotar su propia cabeza súbitamente."
+      },
+      {
+        "game": "usum-um",
+        "text": "Un Ultraente surgido de un Ultraumbral. Crea\nuna explosión para sorprender al oponente y\naprovecha para absorber su energía vital."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Blacephalon",
+    "genus": "Pokémon Pirotecnico",
+    "flavorText": [
+      {
+        "game": "usum-us",
+        "text": "Sembra che sia un’Ultracreatura. Si avvicina\nalle persone ondeggiando e fa esplodere la\nsua testa all’improvviso."
+      },
+      {
+        "game": "usum-um",
+        "text": "Ultracreatura arrivata attraverso un Ultravarco.\nSorprende le prede con un’esplosione e ne\napprofitta per sottrarre la loro energia vitale."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Blacephalon",
+    "genus": "Fireworks Pokémon",
+    "flavorText": [
+      {
+        "game": "usum-us",
+        "text": "It slithers toward people. Then, without warning,\nit triggers the explosion of its own head.\nIt’s apparently one kind of Ultra Beast."
+      },
+      {
+        "game": "usum-um",
+        "text": "A UB that appeared from an Ultra Wormhole, it\ncauses explosions, then takes advantage of\nopponents’ surprise to rob them of their vitality."
+      }
+    ]
+  },
+  "chs": {
+    "name": "砰头小丑",
+    "genus": "烟火宝可梦",
+    "flavorText": [
+      {
+        "game": "usum-us",
+        "text": "扭啊扭地移动着，\n靠近人后会突然让头爆炸。\n好像是究极异兽中的一种。"
+      },
+      {
+        "game": "usum-um",
+        "text": "从究极之洞里出现的究极异兽。\n用爆炸吓唬对手，\n趁那空当夺走对方的生命气息。"
+      }
+    ]
+  }
+}

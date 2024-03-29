@@ -1,0 +1,219 @@
+{
+  "jap": {
+    "name": "クレセリア",
+    "genus": "みかづきポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "ひこうするときは　ベールのような\nはねから　ひかる　りゅうしを　だす。\nみかづきのけしんと　よばれている。"
+      },
+      {
+        "game": "xy-y",
+        "text": "クレセリアの　はねを　もって　ねると\nたのしい　ゆめが　みられると　いう。\nみかづきのけしん　と　よばれている。"
+      },
+      {
+        "game": "oras-or",
+        "text": "ひこうするときは　ベールのような\nはねから　ひかる　りゅうしを　だす。\nみかづきのけしんと　よばれている。"
+      },
+      {
+        "game": "oras-as",
+        "text": "クレセリアの　はねを　もって　ねると\nたのしい　ゆめが　みられると　いう。\nみかづきのけしん　と　よばれている。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Crecelia",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "크레세리아",
+    "genus": "초승달포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "비행할 때는 베일 같은\n날개에서 빛나는 입자를 낸다.\n초승달의 화신으로 불리고 있다."
+      },
+      {
+        "game": "xy-y",
+        "text": "크레세리아의 날개를 가지고 자면\n즐거운 꿈을 꿀 수 있다고 한다.\n초승달의 화신으로 불리고 있다."
+      },
+      {
+        "game": "oras-or",
+        "text": "비행할 때는 베일 같은\n날개에서 빛나는 입자를 낸다.\n초승달의 화신으로 불리고 있다."
+      },
+      {
+        "game": "oras-as",
+        "text": "크레세리아의 날개를 가지고 자면\n즐거운 꿈을 꿀 수 있다고 한다.\n초승달의 화신으로 불리고 있다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "克雷色利亞",
+    "genus": "新月寶可夢",
+    "flavorText": []
+  },
+  "fra": {
+    "name": "Cresselia",
+    "genus": "Pokémon Lunaire",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Les nuits où le premier croissant\nde lune est visible, l’arc de sa\nqueue se déploie de façon superbe."
+      },
+      {
+        "game": "bw-w",
+        "text": "Les nuits où le premier croissant\nde lune est visible, l’arc de sa\nqueue se déploie de façon superbe."
+      },
+      {
+        "game": "xy-x",
+        "text": "Ses ailes libèrent un rideau de particules brillantes.\nCe Pokémon symboliserait le croissant de lune."
+      },
+      {
+        "game": "xy-y",
+        "text": "Dormir avec une de ses plumes à la main permet de\nfaire de beaux rêves. On le surnomme « avatar du\ncroissant de lune »."
+      },
+      {
+        "game": "oras-or",
+        "text": "Ses ailes libèrent un rideau de particules brillantes.\nCe Pokémon symboliserait le croissant de lune."
+      },
+      {
+        "game": "oras-as",
+        "text": "Dormir avec une de ses plumes à la main permet de faire\nde beaux rêves. On le surnomme « avatar du croissant\nde lune »."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Cresselia",
+    "genus": "Lunar-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Seine Flügel geben schimmernde Partikel ab,\ndie wie ein Schleier herabrieseln. Man sagt,\nes verkörpere die Mondsichel."
+      },
+      {
+        "game": "xy-y",
+        "text": "Hält man eine seiner Federn, träumt man süß. Manche\nglauben, es sei die Verkörperung der Mondsichel."
+      },
+      {
+        "game": "oras-or",
+        "text": "Seine Flügel geben schimmernde Partikel ab, die wie ein\nSchleier herabrieseln. Man sagt, es verkörpere die Mondsichel."
+      },
+      {
+        "game": "oras-as",
+        "text": "Hält man eine seiner Federn, träumt man süß. Manche glauben,\nes sei die Verkörperung der Mondsichel."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Cresselia",
+    "genus": "Pokémon Lunar",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Sus alas emiten un velo de partículas brillantes. Se\ndice que representa un cuarto lunar."
+      },
+      {
+        "game": "xy-y",
+        "text": "Si alguien se duerme con una pluma suya, tendrá\nsueños maravillosos. Encarna el creciente lunar."
+      },
+      {
+        "game": "oras-or",
+        "text": "Sus alas emiten un velo de partículas brillantes. Se dice que\nrepresenta un cuarto lunar."
+      },
+      {
+        "game": "oras-as",
+        "text": "Si alguien se duerme con una pluma suya, tendrá sueños\nmaravillosos. Encarna el creciente lunar."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Cresselia",
+    "genus": "Pokémon Falcato",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Volando rilascia un velo di particelle brillanti.\nSi dice che rappresenti la luna crescente."
+      },
+      {
+        "game": "xy-y",
+        "text": "Se si dorme con piume di Cresselia, si faranno bei\nsogni. È l’incarnazione di uno spicchio di luna."
+      },
+      {
+        "game": "oras-or",
+        "text": "Volando rilascia un velo di particelle brillanti. Si dice che\nrappresenti la luna crescente."
+      },
+      {
+        "game": "oras-as",
+        "text": "Se si dorme con piume di Cresselia, si faranno bei sogni.\nÈ l’incarnazione di uno spicchio di luna."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Cresselia",
+    "genus": "Lunar Pokémon",
+    "flavorText": [
+      {
+        "game": "dp-d",
+        "text": "Shiny particles are released from\nits wings like a veil. It is said\nto represent the crescent moon."
+      },
+      {
+        "game": "dp-p",
+        "text": "Shiny particles are released from\nits wings like a veil. It is said\nto represent the crescent moon."
+      },
+      {
+        "game": "pt",
+        "text": "On nights around the quarter moon,\nthe aurora from its tail extends\nand undulates beautifully."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "Those who sleep holding CRESSELIA’s\nfeather are assured of joyful dreams. It\nis said to represent the crescent moon."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "Those who sleep holding CRESSELIA’s\nfeather are assured of joyful dreams. It\nis said to represent the crescent moon."
+      },
+      {
+        "game": "bw-b",
+        "text": "On nights around the quarter moon,\nthe aurora from its tail extends\nand undulates beautifully."
+      },
+      {
+        "game": "bw-w",
+        "text": "On nights around the quarter moon,\nthe aurora from its tail extends\nand undulates beautifully."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "On nights around the quarter moon,\nthe aurora from its tail extends\nand undulates beautifully."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "On nights around the quarter moon,\nthe aurora from its tail extends\nand undulates beautifully."
+      },
+      {
+        "game": "xy-x",
+        "text": "Shiny particles are released from its wings like a\nveil. It is said to represent the crescent moon."
+      },
+      {
+        "game": "xy-y",
+        "text": "Those who sleep holding Cresselia’s feather are\nassured of joyful dreams. It is said to represent\nthe crescent moon."
+      },
+      {
+        "game": "oras-or",
+        "text": "Shiny particles are released from its wings like a\nveil. It is said to represent the crescent moon."
+      },
+      {
+        "game": "oras-as",
+        "text": "Those who sleep holding Cresselia’s feather are\nassured of joyful dreams. It is said to represent\nthe crescent moon."
+      },
+      {
+        "game": "la",
+        "text": "Cresselia is reminiscent of the crescent moon. It leaves a brilliant\nline of light in its wake as it flies across the night sky. I daresay\nit resembles the heavenly maiden who created the Milky Way."
+      }
+    ]
+  },
+  "chs": {
+    "name": "克雷色利亚",
+    "genus": "新月宝可梦",
+    "flavorText": []
+  }
+}

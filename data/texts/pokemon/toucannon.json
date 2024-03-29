@@ -1,0 +1,205 @@
+{
+  "jap": {
+    "name": "ドデカバシ",
+    "genus": "おおづつポケモン",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "クチバシを　はつねつさせ　たたかう。\nそのおんどは　１００どを　ゆうに　こえ\nつつかれるだけで　おおやけど。"
+      },
+      {
+        "game": "sm-m",
+        "text": "たいないの　ガスを　クチバシの　なかで\nばくはつさせ　きのタネを　はっしゃ。\nおおいわも　こなごなにする　パワー。"
+      },
+      {
+        "game": "usum-us",
+        "text": "なかまと　クチバシを　たたきあわせて\nコミュニケーション。　たたく　つよさや\nかいすうで　きもちを　つたえあう。"
+      },
+      {
+        "game": "usum-um",
+        "text": "つがいが　なかむつまじいことで\nしられる。　えんぎもの　の　かわりに\nけっこんしきに　つれて　こられる。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Dodekabashi",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "왕큰부리",
+    "genus": "대포포켓몬",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "부리를 발열시켜 싸운다.\n그 온도는 100도를 훨씬 넘어\n쪼이기만 해도 큰 화상을 입는다."
+      },
+      {
+        "game": "sm-m",
+        "text": "체내의 가스를 부리 안에서\n폭발시켜 씨앗을 발사. 큰 바위도\n가루로 만들어버릴 정도의 파워다."
+      },
+      {
+        "game": "usum-us",
+        "text": "동료와 부리를 부딪히며\n커뮤니케이션한다. 부딪히는 강도나\n횟수로 기분을 전달한다."
+      },
+      {
+        "game": "usum-um",
+        "text": "암수의 사이가 좋다고 알려져 있다.\n행운을 부르기 위해\n결혼식에 데리고 온다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "銃嘴大鳥",
+    "genus": "銃炮寶可夢",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "讓鳥嘴發熱來戰鬥。\n那溫度足足超過１００度，\n只要被啄到就會嚴重灼傷。"
+      },
+      {
+        "game": "sm-m",
+        "text": "在嘴裡爆發體內的氣體，\n發射出樹果的種子。\n威力大到連巨大的岩石也能粉碎。"
+      },
+      {
+        "game": "usum-us",
+        "text": "會與夥伴互相敲擊鳥嘴\n來進行溝通，透過敲擊的強度\n和次數來傳達彼此的心情。"
+      },
+      {
+        "game": "usum-um",
+        "text": "以伴侶之間深厚的感情而聞名。\n被視為一種吉利的象徵，\n常被人帶到結婚典禮去。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Bazoucan",
+    "genus": "Pokémon Canon",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "Pendant le combat, son bec chauffe et dépasse\nallègrement les 100 °C. Ses adversaires\nrepartent généralement avec de graves brûlures."
+      },
+      {
+        "game": "sm-m",
+        "text": "Il fait exploser ses gaz digestifs pour propulser\nles pépins qu’il a dans le bec, avec une force\ncapable de réduire en miettes de gros rochers."
+      },
+      {
+        "game": "usum-us",
+        "text": "Ils communiquent entre eux en se frappant\nmutuellement sur le bec. La force et la cadence\ndes coups en disent long sur leur état d’esprit."
+      },
+      {
+        "game": "usum-um",
+        "text": "Les couples de Bazoucan sont réputés pour leur\nharmonie. On en amène souvent aux mariages\npour porter bonheur aux jeunes époux."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Tukanon",
+    "genus": "Kanone",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "Erhitzt vor jedem Kampf seinen Schnabel auf\nüber 100 °C. Dadurch erleiden Gepiesackte\nschwere Verbrennungen."
+      },
+      {
+        "game": "sm-m",
+        "text": "Lässt körpereigene Gase in seinem Schnabel\nexplodieren, um Samen zu verschießen.\nSelbst große Felsen kann es damit zerstören."
+      },
+      {
+        "game": "usum-us",
+        "text": "Sie kommunizieren miteinander, indem sie ihre\nSchnäbel gegeneinanderschlagen. Stärke und\nAnzahl der Schläge übermitteln ihre Gefühle."
+      },
+      {
+        "game": "usum-um",
+        "text": "Tukanon-Pärchen sind für ihr harmonisches\nZusammenleben bekannt. Daher werden sie oft\nals Glücksbringer zu Hochzeiten mitgebracht."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Toucannon",
+    "genus": "Pokémon Cañón",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "Cuando va a combatir, calienta su pico hasta\ntemperaturas que superan los 100 °C, lo que\npuede causar graves quemaduras al contacto."
+      },
+      {
+        "game": "sm-m",
+        "text": "Hace estallar los gases de su interior para\ndisparar semillas por el pico con una potencia\ncapaz de pulverizar rocas enormes."
+      },
+      {
+        "game": "usum-us",
+        "text": "Se comunican con sus compañeros chocando los\npicos. El número de veces y la fuerza con la que\nlo hacen transmiten sus distintos sentimientos."
+      },
+      {
+        "game": "usum-um",
+        "text": "Las parejas de Toucannon son famosas por la\narmonía que reina entre ellas. Por eso se llevan\na las bodas como portadores de buena fortuna."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Toucannon",
+    "genus": "Pokémon Cannone",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "Quando lotta arroventa il suo becco a una\ntemperatura di oltre 100 °C, sufficiente a\nprovocare delle bruciature ai suoi avversari."
+      },
+      {
+        "game": "sm-m",
+        "text": "Sfruttando il gas del suo corpo, genera nel\nbecco un’esplosione per sparare semi con una\npotenza tale da ridurre in frantumi un macigno."
+      },
+      {
+        "game": "usum-us",
+        "text": "I Toucannon comunicano tra di loro sbattendo\ni becchi. La forza e il numero dei colpi indicano\ni sentimenti che vogliono esprimere."
+      },
+      {
+        "game": "usum-um",
+        "text": "Le coppie di Toucannon sono famose per la loro\nperfetta armonia. Per questo c’è chi le porta ai\nmatrimoni come augurio di felicità per gli sposi."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Toucannon",
+    "genus": "Cannon Pokémon",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "When it battles, its beak heats up. The\ntemperature can easily exceed 212 degrees\nFahrenheit, causing severe burns when it hits."
+      },
+      {
+        "game": "sm-m",
+        "text": "Within its beak, its internal gas ignites,\nexplosively launching seeds with enough power\nto pulverize boulders."
+      },
+      {
+        "game": "usum-us",
+        "text": "They smack beaks with others of their kind to\ncommunicate. The strength and number of hits\ntell each other how they feel."
+      },
+      {
+        "game": "usum-um",
+        "text": "Known for forming harmonious couples, this\nPokémon is brought to wedding ceremonies as a\ngood luck charm."
+      }
+    ]
+  },
+  "chs": {
+    "name": "铳嘴大鸟",
+    "genus": "铳炮宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "让鸟嘴发热来战斗。\n那温度足足超过１００度，\n只要被啄到就会严重灼伤。"
+      },
+      {
+        "game": "sm-m",
+        "text": "让体内的气体在嘴里爆发，\n发射出树果的种子。\n是连巨大岩石也能粉碎的力量。"
+      },
+      {
+        "game": "usum-us",
+        "text": "与伙伴互相敲击鸟嘴\n进行交流。通过敲击的强度\n和次数来互相传达心情。"
+      },
+      {
+        "game": "usum-um",
+        "text": "因成双成对感情和睦而闻名。\n它被视为一种吉祥的象征，\n常被带到结婚仪式去。"
+      }
+    ]
+  }
+}

@@ -1,0 +1,235 @@
+{
+  "jap": {
+    "name": "アサナン",
+    "genus": "めいそうポケモン",
+    "flavorText": [
+      {
+        "game": "xy-y",
+        "text": "１にち　１こだけ　きのみを　たべる。\nくうふくに　たえることで\nこころが　とぎすまされていく。"
+      },
+      {
+        "game": "xy-x",
+        "text": "いつもは　やまおくで　しゅぎょう。\nめいそうをして　せいしんりょくを\nたかめると　からだが　うかびあがる。"
+      },
+      {
+        "game": "oras-or",
+        "text": "やまおくで　ヨガの　しゅぎょうを　している。\nめいそうを　していても　しゅうちゅうりょくが\nとぎれてしまうため　しゅぎょうは　おわらない。"
+      },
+      {
+        "game": "oras-as",
+        "text": "めいそうで　せいしんエネルギーを　たかめている。\n１にちに　きのみを　１こだけしか　たべない。\nあまり　たべない　ことも　しゅぎょうの　ひとつ。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Asanan",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "요가랑",
+    "genus": "명상포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "평상시는 깊은 산속에서 수행한다.\n명상을 하고 정신력을\n높이면 몸이 떠오른다."
+      },
+      {
+        "game": "xy-y",
+        "text": "하루에 하나만 나무열매를 먹는다.\n배고픔을 참는 것으로\n마음을 갈고 닦아간다."
+      },
+      {
+        "game": "oras-or",
+        "text": "산속에서 요가 수행을 한다.\n명상을 하고 있어도 집중력이\n떨어지기 때문에 수행이 끝나지 않는다."
+      },
+      {
+        "game": "oras-as",
+        "text": "명상으로 정신 에너지를 높이고 있다.\n하루에 나무열매를 한 개만 먹는다.\n별로 먹지 않는 것도 수행의 하나다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "瑪沙那",
+    "genus": "冥想寶可夢",
+    "flavorText": []
+  },
+  "fra": {
+    "name": "Méditikka",
+    "genus": "Pokémon Méditation",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Son entraînement d’ermite lui\npermet de léviter par le seul\npouvoir de la méditation."
+      },
+      {
+        "game": "bw-w",
+        "text": "Son entraînement d’ermite lui\npermet de léviter par le seul\npouvoir de la méditation."
+      },
+      {
+        "game": "xy-x",
+        "text": "Son entraînement d’ermite lui permet de léviter par\nle seul pouvoir de la méditation."
+      },
+      {
+        "game": "xy-y",
+        "text": "Il ne mange qu’une Baie par jour. La faim lui a forgé\nune volonté de fer."
+      },
+      {
+        "game": "oras-or",
+        "text": "Méditikka poursuit un difficile entraînement mental dans\nles montagnes. Cependant, à chaque fois qu’il médite,\nce Pokémon perd sa concentration. Du coup, son\nentraînement ne s’arrête jamais."
+      },
+      {
+        "game": "oras-as",
+        "text": "Méditikka intensifie son énergie intérieure grâce à la\nméditation. Il lui suffit d’une Baie par jour pour survivre.\nLa diète fait partie de l’entraînement de ce Pokémon."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Meditie",
+    "genus": "Meditation",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Trainiert tief in den Bergen. Erhöht es seine\nspirituelle Kraft durch Meditation, kann es schweben."
+      },
+      {
+        "game": "xy-y",
+        "text": "Es isst gerade mal eine Beere am Tag. Durch Hunger\nwird sein Geist ruhiger und schärfer."
+      },
+      {
+        "game": "oras-or",
+        "text": "Meditie unterzieht sich einem strikten mentalen Training\ntief in den Bergen. Wenn es meditiert, verliert es jedoch\nimmer seine Konzentration. Deshalb wird sein Training\nniemals ein Ende haben."
+      },
+      {
+        "game": "oras-as",
+        "text": "Meditie erhöht seine Energie durch Meditation. Es lebt von\nnur einer Beere am Tag. Diese absolut reduzierte Ernährung\nist Bestandteil seines Trainings."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Meditite",
+    "genus": "Pokémon Meditador",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Se entrena en la profundidad de las montañas. Cuando\naumenta su poder espiritual con meditación, levita."
+      },
+      {
+        "game": "xy-y",
+        "text": "Solo come una baya al día. El ayuno fortalece su\nespíritu y su capacidad de concentración."
+      },
+      {
+        "game": "oras-or",
+        "text": "Meditite lleva a cabo un entrenamiento mental exhaustivo en lo\nmás profundo de las montañas. Aunque, cuando medita, pierde\ntoda la concentración y se descentra. Por eso, no deja nunca\nde entrenarse."
+      },
+      {
+        "game": "oras-as",
+        "text": "Meditite aumenta su energía interior mediante meditación.\nPara subsistir le basta con una baya al día. El comer poco\nentra dentro de su entrenamiento."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Meditite",
+    "genus": "Pokémon Meditazione",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Si allena in montagna per elevare il suo potere\nspirituale. Con la meditazione riesce a levitare."
+      },
+      {
+        "game": "xy-y",
+        "text": "Mangia solo una bacca al giorno. Resistendo alla\nfame, il suo spirito viene temprato e rinvigorito."
+      },
+      {
+        "game": "oras-or",
+        "text": "Meditite esegue rigorosi esercizi mentali in montagna.\nTuttavia, quando è immerso in meditazione, perde sempre\nla concentrazione, dovendo così ricominciare da capo.\nIl suo esercizio dunque non finisce mai."
+      },
+      {
+        "game": "oras-as",
+        "text": "Meditite incrementa la sua energia interiore grazie alla\nmeditazione. La sua alimentazione minima - si nutre di\nuna bacca al giorno - è un’altra peculiarità dell’esercizio\ndi questo Pokémon."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Meditite",
+    "genus": "Meditate Pokémon",
+    "flavorText": [
+      {
+        "game": "rs-r",
+        "text": "MEDITITE undertakes rigorous mental\ntraining deep in the mountains.\nHowever, whenever it meditates, this\fPOKéMON always loses its concentration\nand focus. As a result, its training\nnever ends."
+      },
+      {
+        "game": "rs-s",
+        "text": "MEDITITE heightens its inner energy\nthrough meditation. It survives on\njust one berry a day.\fMinimal eating is another aspect of\nthis POKéMON’s training."
+      },
+      {
+        "game": "e",
+        "text": "It continually meditates for hours every\nday. As a result of rigorous and dedicated\nyoga training, it has tempered its\nspiritual power so much it can fly."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "It never skips its daily yoga training.\nIt heightens its inner strength through\nmeditation."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "It never skips its daily yoga training.\nIt heightens its inner strength through\nmeditation."
+      },
+      {
+        "game": "dp-d",
+        "text": "It eats just one berry a day.\nBy enduring hunger, its spirit is\ntempered and made sharper."
+      },
+      {
+        "game": "dp-p",
+        "text": "It never misses its daily yoga\nworkouts, and it heightens its\nspiritual power through meditation."
+      },
+      {
+        "game": "pt",
+        "text": "It always trains deep in mountains.\nIt levitates when it heightens its\nspiritual power through meditation."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "It meditates to heighten its inner\nenergy and to float in the air.\nIt eats one berry a day."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "It meditates to heighten its inner\nenergy and to float in the air.\nIt eats one berry a day."
+      },
+      {
+        "game": "bw-b",
+        "text": "It always trains deep in mountains.\nIt levitates when it heightens its\nspiritual power through meditation."
+      },
+      {
+        "game": "bw-w",
+        "text": "It always trains deep in mountains.\nIt levitates when it heightens its\nspiritual power through meditation."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "It always trains deep in mountains.\nIt levitates when it heightens its\nspiritual power through meditation."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "It always trains deep in mountains.\nIt levitates when it heightens its\nspiritual power through meditation."
+      },
+      {
+        "game": "xy-x",
+        "text": "It always trains deep in mountains. It levitates\nwhen it heightens its spiritual power\nthrough meditation."
+      },
+      {
+        "game": "xy-y",
+        "text": "It eats just one berry a day. By enduring hunger,\nits spirit is tempered and made sharper."
+      },
+      {
+        "game": "oras-or",
+        "text": "Meditite undertakes rigorous mental training deep in the\nmountains. However, whenever it meditates, this Pokémon\nalways loses its concentration and focus. As a result,\nits training never ends."
+      },
+      {
+        "game": "oras-as",
+        "text": "Meditite heightens its inner energy through meditation.\nIt survives on just one berry a day. Minimal eating is another\naspect of this Pokémon’s training."
+      }
+    ]
+  },
+  "chs": {
+    "name": "玛沙那",
+    "genus": "冥想宝可梦",
+    "flavorText": []
+  }
+}

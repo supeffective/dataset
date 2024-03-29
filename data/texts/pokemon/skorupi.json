@@ -1,0 +1,293 @@
+{
+  "jap": {
+    "name": "スコルピ",
+    "genus": "さそりポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "しっぽの　ツメで　えものを　はさみ\nどくを　おくりこむ。どくが　きくまで\nぜったいに　はなさない　しゅうねん。"
+      },
+      {
+        "game": "xy-y",
+        "text": "すなの　なかに　かくれて　えものを\nまちぶせする。しっぽの　ツメから\nどくを　だして　えものを　しとめる。"
+      },
+      {
+        "game": "oras-or",
+        "text": "しっぽの　ツメで　えものを　はさみ\nどくを　おくりこむ。どくが　きくまで\nぜったいに　はなさない　しゅうねん。"
+      },
+      {
+        "game": "oras-as",
+        "text": "すなの　なかに　かくれて　えものを\nまちぶせする。しっぽの　ツメから\nどくを　だして　えものを　しとめる。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "すなに　からだを　うずめ　じっと\nえものを　まちつづけている。\nヤクデと　そせんが　ちかい。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "どくのある　しっぽの　ツメで\nおそいかかる。　はさまれると\nどくが　しみて　うごけなくなる。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Scorpi",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "스콜피",
+    "genus": "전갈포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "꼬리의 발톱으로 먹이를 집어\n독을 주입한다. 독이 퍼질 때까지\n절대 놓치지 않는 집념이 있다."
+      },
+      {
+        "game": "xy-y",
+        "text": "모래 속에 숨어 먹이를\n기다리고 있다. 꼬리의 발톱에서\n독을 내서 먹이를 꼼짝 못하게 한다."
+      },
+      {
+        "game": "oras-or",
+        "text": "꼬리의 발톱으로 먹이를 집어\n독을 주입한다. 독이 퍼질 때까지\n절대 놓치지 않는 집념이 있다."
+      },
+      {
+        "game": "oras-as",
+        "text": "모래 속에 숨어 먹이를\n기다리고 있다. 꼬리의 발톱에서\n독을 내서 먹이를 꼼짝 못하게 한다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "모래에 몸을 파묻은 채\n가만히 먹이를 기다린다.\n태우지네와 조상이 가깝다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "독이 있는 꼬리의 발톱으로\n덤벼든다. 집히면 독이 스며들어\n움직일 수 없게 된다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "鉗尾蠍",
+    "genus": "蠍子寶可夢",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "將自己的身體埋在沙子裡，\n一聲不響地等待獵物。\n祖先和燒火蚣的祖先是近親。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "用尾巴上帶毒的鉤爪襲擊對手。\n一旦被夾住，毒素就會擴散開來，\n導致全身無法動彈。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Rapion",
+    "genus": "Pokémon Scorpion",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Il saisit sa proie avec les pinces de\nsa queue et lui injecte un poison.\nIl peut survivre un an sans manger."
+      },
+      {
+        "game": "bw-w",
+        "text": "Il saisit sa proie avec les pinces de\nsa queue et lui injecte un poison.\nIl peut survivre un an sans manger."
+      },
+      {
+        "game": "xy-x",
+        "text": "Il saisit sa proie avec les pinces de sa queue, lui\ninjecte un poison et la retient jusqu’à ce qu’il agisse."
+      },
+      {
+        "game": "xy-y",
+        "text": "Il attend, en embuscade dans le sable, et empoisonne\nses proies avec les pinces de sa queue."
+      },
+      {
+        "game": "oras-or",
+        "text": "Il saisit sa proie avec les pinces de sa queue, lui injecte\nun poison et la retient jusqu’à ce qu’il agisse."
+      },
+      {
+        "game": "oras-as",
+        "text": "Il attend, en embuscade dans le sable, et empoisonne\nses proies avec les pinces de sa queue."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Il s’enfouit dans le sable et attend patiemment\nses proies. Il a des ancêtres en commun\navec Grillepattes."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Il attaque avec les pinces empoisonnées\nde sa queue. Le venin se répand alors\ndans le corps de la victime et la paralyse."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Pionskora",
+    "genus": "Skorpion-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Es greift seine Beute mit den Krallen an seinem\nSchweif und vergiftet sie. Dann wartet es ab..."
+      },
+      {
+        "game": "xy-y",
+        "text": "Es wartet im Sand versteckt auf Beute, die es sich\nmit seinem giftigen Schweif krallt."
+      },
+      {
+        "game": "oras-or",
+        "text": "Es greift seine Beute mit den Krallen an seinem Schweif und\nvergiftet sie. Dann wartet es ab..."
+      },
+      {
+        "game": "oras-as",
+        "text": "Es wartet im Sand versteckt auf Beute, die es sich mit seinem\ngiftigen Schweif krallt."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Dieses Pokémon vergräbt sich im Sand und\nlauert dort regungslos seiner Beute auf. Es ist\nartverwandt mit Thermopod."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Es schlägt mit den giftigen Krallen an seinem\nSchweif zu. Wer von ihnen gestochen wird,\nbekommt ein lähmendes Gift injiziert."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Skorupi",
+    "genus": "Pokémon Escorpión",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Agarra a sus presas con las pinzas de la cola y les\ninyecta veneno. Espera hasta que hace efecto."
+      },
+      {
+        "game": "xy-y",
+        "text": "Acecha a sus presas escondido en la arena y las\naturde con el veneno de su cola."
+      },
+      {
+        "game": "oras-or",
+        "text": "Agarra a sus presas con las pinzas de la cola y les inyecta\nveneno. Espera hasta que hace efecto."
+      },
+      {
+        "game": "oras-as",
+        "text": "Acecha a sus presas escondido en la arena y las aturde con\nel veneno de su cola."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Se entierra en la arena y aguarda inmóvil a sus\npresas. Sus antepasados están relacionados con\nlos de Sizzlipede."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Ataca con las pinzas venenosas de la cola. Tras\nclavarlas, inyecta una toxina que inmoviliza a la\npresa."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Skorupi",
+    "genus": "Pokémon Scorpione",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Afferra le prede con gli artigli della coda e non si\nallontana finché il veleno che inietta non agisce."
+      },
+      {
+        "game": "xy-y",
+        "text": "Si seppellisce nella sabbia e tende agguati alle prede,\npoi inietta loro il veleno dagli artigli della coda."
+      },
+      {
+        "game": "oras-or",
+        "text": "Afferra le prede con gli artigli della coda e non si allontana\nfinché il veleno che inietta non agisce."
+      },
+      {
+        "game": "oras-as",
+        "text": "Si seppellisce nella sabbia e tende agguati alle prede,\npoi inietta loro il veleno dagli artigli della coda."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Si nasconde nella sabbia e aspetta immobile\nla preda. Lui e Sizzlipede hanno antenati\nin comune."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Attacca la preda afferrandola con gli artigli\nvelenosi della coda, poi inietta il veleno per\nimmobilizzarla."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Skorupi",
+    "genus": "Scorpion Pokémon",
+    "flavorText": [
+      {
+        "game": "dp-d",
+        "text": "It grips prey with its tail claws\nand injects poison. It tenaciously\nhangs on until the poison takes."
+      },
+      {
+        "game": "dp-p",
+        "text": "It lives in arid lands. It buries\nitself in sand and lies in wait for\nunsuspecting prey."
+      },
+      {
+        "game": "pt",
+        "text": "As soon as the tail claws close,\nits needle tips secrete poison.\nIt can survive a year without food."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "It burrows under the sand to lie in\nwait for prey. Its tail claws can inject\nits prey with a savage poison."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "It burrows under the sand to lie in\nwait for prey. Its tail claws can inject\nits prey with a savage poison."
+      },
+      {
+        "game": "bw-b",
+        "text": "As soon as the tail claws close,\nits needle tips secrete poison.\nIt can survive a year without food."
+      },
+      {
+        "game": "bw-w",
+        "text": "As soon as the tail claws close,\nits needle tips secrete poison.\nIt can survive a year without food."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "It lives in arid regions and\ncan go without food for a year\nwhile waiting for prey."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "It lives in arid regions and\ncan go without food for a year\nwhile waiting for prey."
+      },
+      {
+        "game": "xy-x",
+        "text": "It grips prey with its tail claws and injects poison.\nIt tenaciously hangs on until the poison takes."
+      },
+      {
+        "game": "xy-y",
+        "text": "It burrows under the sand to lie in wait for prey.\nIts tail claws can inject its prey with a\nsavage poison."
+      },
+      {
+        "game": "oras-or",
+        "text": "It grips prey with its tail claws and injects poison.\nIt tenaciously hangs on until the poison takes."
+      },
+      {
+        "game": "oras-as",
+        "text": "It burrows under the sand to lie in wait for prey.\nIts tail claws can inject its prey with a\nsavage poison."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "After burrowing into the sand, it waits patiently\nfor prey to come near. This Pokémon and\nSizzlipede share common descent."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "It attacks using the claws on its tail. Once locked\nin its grip, its prey is unable to move as this\nPokémon’s poison seeps in."
+      },
+      {
+        "game": "la",
+        "text": "Its claws are not only razor-sharp but poisonous, making Skorupi\na highly dangerous Pokémon. It seems to be weakened by cold\ntemperatures, however."
+      }
+    ]
+  },
+  "chs": {
+    "name": "钳尾蝎",
+    "genus": "蝎子宝可梦",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "将自己的身体埋在沙子里，\n一声不响地等待猎物。\n祖先和烧火蚣的祖先是近亲。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "用尾巴上带毒的钩爪袭击对手。\n一旦被夹住，毒素就会扩散开来，\n导致全身无法动弹。"
+      }
+    ]
+  }
+}

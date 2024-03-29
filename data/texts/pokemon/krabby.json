@@ -1,0 +1,405 @@
+{
+  "jap": {
+    "name": "クラブ",
+    "genus": "さわがにポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "きけんがせまると　くちから　はきだす\nあわで　ぜんしんを　つつんで\nからだを　おおきく　みせようとする。"
+      },
+      {
+        "game": "xy-y",
+        "text": "うみの　ちかくで　みつかる。\nおおきな　ハサミは　もぎとっても\nあとから　また　はえてくる。"
+      },
+      {
+        "game": "oras-or",
+        "text": "すなはまに　あなを　ほり　そこで　くらしている。\nエサの　すくない　すなはまでは　ばしょとりをする\nクラブたちの　あらそいを　みる　ことが　できる。"
+      },
+      {
+        "game": "oras-as",
+        "text": "すなはまに　あなを　ほり　そこで　くらしている。\nエサの　すくない　すなはまでは　ばしょとりをする\nクラブたちの　あらそいを　みる　ことが　できる。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "きょうりょくな　ぶきとなる　ハサミは\nこうげきのとき　まれに　もげるが\nあとから　すぐに　はえてくる。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "きょうりょくな　ぶきとなる　ハサミは\nこうげきのとき　まれに　もげるが\nあとから　すぐに　はえてくる。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "うみの　ちかくで　みつかる。\nおおきな　ハサミは　もぎとっても\nあとから　また　はえてくる。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "きけんがせまると　くちから　はきだす\nあわで　ぜんしんを　つつんで\nからだを　おおきく　みせようとする。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Crab",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "크랩",
+    "genus": "게포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "위험이 닥치면 입에서 뿜어내는\n거품으로 전신을 감싸서\n몸을 크게 보이려고 한다."
+      },
+      {
+        "game": "xy-y",
+        "text": "바다 근처에서 발견된다.\n커다란 집게는 뜯겨도\n나중에 다시 자라난다."
+      },
+      {
+        "game": "oras-or",
+        "text": "모래 해변에 구멍을 뚫고 거기서 살고 있다.\n먹이가 적은 모래 해변에서는 자리 확보를\n위해 다투는 크랩들을 볼 수 있다."
+      },
+      {
+        "game": "oras-as",
+        "text": "모래 해변에 구멍을 뚫고 거기서 살고 있다.\n먹이가 적은 모래 해변에서는 자리 확보를\n위해 다투는 크랩들을 볼 수 있다."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "강력한 무기인 집게는\n공격하다 드물게 떨어지지만\n나중에 금방 자라난다."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "강력한 무기인 집게는\n공격하다 드물게 떨어지지만\n나중에 금방 자라난다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "바다 근처에서 발견된다.\n커다란 집게는 뜯겨도\n나중에 다시 자라난다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "위험이 닥치면 입에서 뿜어내는\n거품으로 전신을 감싸서\n몸을 크게 보이려고 한다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "大鉗蟹",
+    "genus": "清水蟹寶可夢",
+    "flavorText": [
+      {
+        "game": "lgpe-lgp",
+        "text": "牠的鉗子是威力強大的武器，\n但在攻擊時偶爾會脫落。\n脫落後很快就會長回來。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "牠的鉗子是威力強大的武器，\n但在攻擊時偶爾會脫落。\n脫落後很快就會長回來。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "能在海邊找到牠。\n巨大的鉗子即使斷掉\n也會再長出來。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "如果危險逼近，\n就會從嘴裡吐出泡沫包裹全身，\n讓身體看起來更大。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Krabby",
+    "genus": "Pokémon Doux Crabe",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Il creuse son terrier sur des plages\nsablonneuses. Ses pinces repoussent\nsi on les brise."
+      },
+      {
+        "game": "bw-w",
+        "text": "Il creuse son terrier sur des plages\nsablonneuses. Ses pinces repoussent\nsi on les brise."
+      },
+      {
+        "game": "xy-x",
+        "text": "S’il est menacé, il se cache derrière les bulles\némises par sa bouche pour paraître plus gros."
+      },
+      {
+        "game": "xy-y",
+        "text": "On trouve ce Pokémon près de la mer. Ses grosses\npinces peuvent repousser si elles se font arracher."
+      },
+      {
+        "game": "oras-or",
+        "text": "Krabby vit sur les plages, enterré dans le sable. Sur les plages\noù on trouve peu de nourriture, on peut voir ces Pokémon\nse disputer pour défendre leur territoire."
+      },
+      {
+        "game": "oras-as",
+        "text": "Krabby vit sur les plages, enterré dans le sable. Sur les plages\noù on trouve peu de nourriture, on peut voir ces Pokémon\nse disputer pour défendre leur territoire."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Ses pinces sont des armes puissantes. Il peut\narriver qu’elles se brisent durant un combat,\nmais elles repoussent vite."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Ses pinces sont des armes puissantes. Il peut\narriver qu’elles se brisent durant un combat,\nmais elles repoussent vite."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "On trouve ce Pokémon près de la mer.\nSes grosses pinces peuvent repousser\nsi elles sont arrachées."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "S’il se sent menacé, il se cache derrière les bulles\némises par sa bouche pour paraître plus gros."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Krabby",
+    "genus": "Krabben-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Wittert es Gefahr, hüllt es sich in Blasen\naus seinem Maul, um größer zu erscheinen."
+      },
+      {
+        "game": "xy-y",
+        "text": "Es kommt vor allem nahe des Meeres vor.\nDie großen Scheren wachsen nach, wenn sie\nvom Körper abgetrennt wurden."
+      },
+      {
+        "game": "oras-or",
+        "text": "Krabby lebt an Stränden, in Löchern im Sand.\nAn Sandstränden, an denen es wenig Nahrung findet,\nsieht man dieses Pokémon mit Artgenossen um sein\nRevier streiten."
+      },
+      {
+        "game": "oras-as",
+        "text": "Krabby lebt an Stränden, in Löchern im Sand.\nAn Sandstränden, an denen es wenig Nahrung findet,\nsieht man dieses Pokémon mit Artgenossen streiten."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Die Scheren dieses Pokémon bilden perfekte\nWaffen. Im Kampf brechen sie zwar manchmal\nab, wachsen aber schnell wieder nach."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Die Scheren dieses Pokémon bilden perfekte\nWaffen. Im Kampf brechen sie zwar manchmal\nab, wachsen aber schnell wieder nach."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Es kommt vor allem nahe dem Meer vor.\nDie großen Scheren wachsen nach, wenn\nsie vom Körper abgetrennt wurden."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Wittert es Gefahr, hüllt es sich in Blasen aus\nseinem Maul, um größer zu erscheinen."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Krabby",
+    "genus": "Pokémon Cangrejo",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Ante el peligro, se camufla con las burbujas que\ndesprende su boca, para parecer más grande."
+      },
+      {
+        "game": "xy-y",
+        "text": "Es fácil encontrarlo cerca del mar. Las largas pinzas\nque tiene vuelven a crecer si se las quitan de su sitio."
+      },
+      {
+        "game": "oras-or",
+        "text": "Krabby vive en la playa, enterrado en agujeros en la arena.\nCuando en las playas de arena fina escasea la comida, es\ncomún ver a estos Pokémon echando un pulso panza contra\npanza en defensa de su territorio."
+      },
+      {
+        "game": "oras-as",
+        "text": "Krabby vive en la playa, enterrado en agujeros en la arena.\nCuando en las playas de arena fina escasea la comida, es\ncomún ver a estos Pokémon echando un pulso panza contra\npanza en defensa de su territorio."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Sus pinzas son armas muy potentes y, aunque\nen ocasiones se le rompen al atacar, le crecen\nde nuevo con rapidez."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Sus pinzas son armas muy potentes y, aunque\nen ocasiones se le rompen al atacar, le crecen\nde nuevo con rapidez."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Es fácil encontrarlo cerca del mar. Las largas\npinzas que tiene vuelven a crecer si se las quitan\nde su sitio."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Ante el peligro, se camufla con las burbujas que\ndesprende por la boca para parecer más grande."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Krabby",
+    "genus": "Pokémon Granchio",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Se si sente in pericolo, si circonda di bolle che\nproduce con la bocca per sembrare più grande."
+      },
+      {
+        "game": "xy-y",
+        "text": "Si trova vicino al mare. Le grandi chele, se asportate,\nricrescono."
+      },
+      {
+        "game": "oras-or",
+        "text": "Krabby vive in spiaggia, nascosto in buche scavate nella\nsabbia. Sulle spiagge molto sabbiose, dove scarseggia\nil cibo, è possibile vedere questi Pokémon attaccarsi\na vicenda in difesa del proprio territorio."
+      },
+      {
+        "game": "oras-as",
+        "text": "Krabby vive in spiaggia, nascosto in buche scavate nella\nsabbia. Sulle spiagge molto sabbiose, dove scarseggia\nil cibo, è possibile vedere questi Pokémon attaccarsi\na vicenda in difesa del proprio territorio."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Le sue chele sono armi formidabili. A volte\nsi staccano durante la lotta, ma ricrescono\nimmediatamente."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Le sue chele sono armi formidabili. A volte\nsi staccano durante la lotta, ma ricrescono\nimmediatamente."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Lo si può trovare vicino al mare. Le grandi chele,\nse si staccano, ricrescono."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Se si sente in pericolo, emette bolle dalla bocca\ne se ne circonda per sembrare più grande."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Krabby",
+    "genus": "River Crab Pokémon",
+    "flavorText": [
+      {
+        "game": "rb-r",
+        "text": "Its pincers are\nnot only powerful\nweapons, they are\fused for balance\nwhen walking\nsideways."
+      },
+      {
+        "game": "rb-b",
+        "text": "Its pincers are\nnot only powerful\nweapons, they are\fused for balance\nwhen walking\nsideways."
+      },
+      {
+        "game": "y",
+        "text": "Its pincers are\nsuperb weapons.\nThey sometimes\fbreak off during\nbattle, but they\ngrow back fast."
+      },
+      {
+        "game": "gs-g",
+        "text": "If it senses dan­\nger approaching,\nit cloaks itself\fwith bubbles from\nits mouth so it\nwill look bigger."
+      },
+      {
+        "game": "gs-s",
+        "text": "The pincers break\noff easily. If it\nloses a pincer,\fit somehow becomes\nincapable of walk­\ning sideways."
+      },
+      {
+        "game": "c",
+        "text": "If it is unable\nto find food, it\nwill absorb\fnutrients by\nswallowing a\nmouthful of sand."
+      },
+      {
+        "game": "rs-r",
+        "text": "KRABBY live on beaches, burrowed inside\nholes dug into the sand.\nOn sandy beaches with little in the way\fof food, these POKéMON can be seen\nsquabbling with each other over\nterritory."
+      },
+      {
+        "game": "rs-s",
+        "text": "KRABBY live on beaches, burrowed inside\nholes dug into the sand.\nOn sandy beaches with little in the way\fof food, these POKéMON can be seen\nsquabbling with each other over\nterritory."
+      },
+      {
+        "game": "e",
+        "text": "KRABBY live in holes dug into beaches.\nOn sandy shores with little in the way\nof food, they can be seen squabbling with\neach other over territory."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "It can be found near the sea. The large\npincers grow back if they are torn out of\ntheir sockets."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "Its pincers are not only powerful weapons,\nthey are used for balance when walking\nsideways."
+      },
+      {
+        "game": "dp-d",
+        "text": "It lives in burrows dug on sandy\nbeaches. Its pincers fully grow\nback if they are broken in battle."
+      },
+      {
+        "game": "dp-p",
+        "text": "It lives in burrows dug on sandy\nbeaches. Its pincers fully grow\nback if they are broken in battle."
+      },
+      {
+        "game": "pt",
+        "text": "It lives in burrows dug on sandy\nbeaches. Its pincers fully grow\nback if they are broken in battle."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "If it senses danger approaching,\nit cloaks itself with bubbles from\nits mouth so it will look bigger."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "The pincers break off easily. If it\nloses a pincer, it somehow becomes\nincapable of walking sideways."
+      },
+      {
+        "game": "bw-b",
+        "text": "It lives in burrows dug on sandy\nbeaches. Its pincers fully grow\nback if they are broken in battle."
+      },
+      {
+        "game": "bw-w",
+        "text": "It lives in burrows dug on sandy\nbeaches. Its pincers fully grow\nback if they are broken in battle."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "It lives in burrows dug on sandy\nbeaches. Its pincers fully grow\nback if they are broken in battle."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "It lives in burrows dug on sandy\nbeaches. Its pincers fully grow\nback if they are broken in battle."
+      },
+      {
+        "game": "xy-x",
+        "text": "If it senses danger approaching, it cloaks itself with\nbubbles from its mouth so it will look bigger."
+      },
+      {
+        "game": "xy-y",
+        "text": "It can be found near the sea. The large pincers\ngrow back if they are torn out of their sockets."
+      },
+      {
+        "game": "oras-or",
+        "text": "Krabby live on beaches, burrowed inside holes dug into the\nsand. On sandy beaches with little in the way of food, these\nPokémon can be seen squabbling with each other\nover territory."
+      },
+      {
+        "game": "oras-as",
+        "text": "Krabby live on beaches, burrowed inside holes dug into\nthe sand. On sandy beaches with little in the way of food,\nthese Pokémon can be seen squabbling with each other\nover territory."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Its pincers are superb weapons. They sometimes\nbreak off during battle, but they grow back fast."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Its pincers are superb weapons. They sometimes\nbreak off during battle, but they grow back fast."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "It can be found near the sea. The large pincers\ngrow back if they are torn out of their sockets."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "If it senses danger approaching, it cloaks itself\nwith bubbles from its mouth so it will look bigger."
+      }
+    ]
+  },
+  "chs": {
+    "name": "大钳蟹",
+    "genus": "清水蟹宝可梦",
+    "flavorText": [
+      {
+        "game": "lgpe-lgp",
+        "text": "钳子是它强悍的武器，但在\n攻击时钳子偶尔会脱落。\n脱落后很快会长出新的来。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "钳子是它强悍的武器，但在\n攻击时钳子偶尔会脱落。\n脱落后很快会长出新的来。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "能在海边上找到它。\n巨大的钳子即使断掉，\n今后也会再长出来。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "如果危险逼近，\n就会从嘴里吐出泡沫包裹全身，\n让身体看起来更大。"
+      }
+    ]
+  }
+}

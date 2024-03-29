@@ -1,0 +1,277 @@
+{
+  "jap": {
+    "name": "タイプ：ヌル",
+    "genus": "じんこうポケモン",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "おもい　せいぎょマスクを　つけており\nほんらいの　のうりょくを　だせない。\nとくべつな　ちからを　ひめている。"
+      },
+      {
+        "game": "sm-m",
+        "text": "じんこうの　ポケモン。　ぼうそうの\nきけんが　あるため　せいぎょマスクで\nちからを　ふういん　されている。"
+      },
+      {
+        "game": "usum-us",
+        "text": "あるにんむの　ために　かいはつされた\nポケモンへいき。　じっけんちゅうに\nぼうそうした　ため　とうけつされた。"
+      },
+      {
+        "game": "usum-um",
+        "text": "ぼうそうの　きけんが　あるため\nせいぎょマスクに　よって　ほんとうの\nちからを　ふういん　されているのだ。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "ごくひだった　けんきゅう　しりょうが\nぬすまれ　ガラルちほうで　あらたに\nつくりだされたと　うわさされている。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "しんわの　ポケモンを　モデルに\nつくられたが　ちからの　ぼうそうを\nおさえる　マスクを　つけられている。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Null",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "타입:널",
+    "genus": "인공포켓몬",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "무거운 제어마스크를 쓰고 있어\n본래의 능력을 발휘할 수 없다.\n특별한 힘을 숨기고 있다."
+      },
+      {
+        "game": "sm-m",
+        "text": "인공의 포켓몬이다. 폭주할\n위험이 있어 제어마스크로\n힘을 봉인하고 있다."
+      },
+      {
+        "game": "usum-us",
+        "text": "특정 임무를 위해 개발된\n포켓몬 병기다. 실험 중에\n폭주해서 중단되었다."
+      },
+      {
+        "game": "usum-um",
+        "text": "폭주의 위험이 있어\n제어마스크를 통해 본래의\n힘을 봉인하고 있다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "극비였던 연구 자료가\n도난당한 뒤 가라르지방에서\n새로 만들어졌다는 소문이 있다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "신화 속 포켓몬을 모델로\n만들었지만 힘이 폭주하는 것을\n억제하는 마스크를 쓰고 있다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "屬性：空",
+    "genus": "人工寶可夢",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "帶著沉重的控制面罩，\n無法釋放出原有的能力。\n蘊藏著特別的力量。"
+      },
+      {
+        "game": "sm-m",
+        "text": "人工創造出的寶可夢。\n因為有暴走的危險，\n所以其力量被控制面罩封印住了。"
+      },
+      {
+        "game": "usum-us",
+        "text": "為了某個任務而被開發出來的\n寶可夢兵器。因為在實驗中失控\n而遭到了凍結。"
+      },
+      {
+        "game": "usum-um",
+        "text": "因為有失控的危險，\n所以被控制面罩\n封住了真正的力量。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "傳言說有人偷走了機密\n研究資料，在伽勒爾地區\n創造出了新的「屬性：空」。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "以神話中的寶可夢為原型所\n創造出的寶可夢，被戴上了\n抑制力量失控的面罩。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Type:0",
+    "genus": "Pokémon Multigénome",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "Le lourd masque qu’il porte est un limiteur qui\nl’empêche d’exprimer toute l’étendue de\nsa puissance. Il recèle une force mystérieuse."
+      },
+      {
+        "game": "sm-m",
+        "text": "Ce Pokémon créé de toutes pièces porte un\nmasque qui contient sa puissance et l’empêche\nde perdre le contrôle et de tout détruire."
+      },
+      {
+        "game": "usum-us",
+        "text": "Développé en tant qu’arme dans un but bien\nprécis, il est devenu incontrôlable lors d’une\nexpérience et a dû être cryogénisé."
+      },
+      {
+        "game": "usum-um",
+        "text": "On lui fait porter un masque qui limite\nsa puissance afin d’éviter qu’il n’en perde\nle contrôle et sème le chaos."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "On raconte qu’il aurait été recréé à Galar\nsuite à un vol de documents de recherche\nhautement confidentiels."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Il a été créé artificiellement d’après un Pokémon\nmythique. Il est muni d’un masque afin de contenir\nsa puissance."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Typ:Null",
+    "genus": "Modifikations-Pokémon",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "Seine schwere Maske unterdrückt seine wahre\nMacht. In ihm schlummern nämlich besondere\nKräfte."
+      },
+      {
+        "game": "sm-m",
+        "text": "Ein künstliches Pokémon. Da die Gefahr besteht,\ndass es alles kurz und klein schlagen könnte,\nmuss es eine Kontrollmaske tragen."
+      },
+      {
+        "game": "usum-us",
+        "text": "Dieses für einen bestimmten Zweck als Waffe\nkreierte Pokémon geriet bei einem Experiment\naußer Kontrolle und wurde deshalb stillgelegt."
+      },
+      {
+        "game": "usum-um",
+        "text": "Da die Gefahr besteht, dass es sonst alles kurz\nund klein schlägt, muss es eine Kontrollmaske\ntragen, die seine wahre Macht unterdrückt."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Gerüchte besagen, es sei in der Galar-Region\nmithilfe von gestohlenen, streng geheimen\nDokumenten komplett neu erschaffen worden."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Typ:Null ist eine künstliche Nachbildung eines\nPokémon aus einer alten Sage. Die Maske dient\ndazu, seine Kräfte unter Kontrolle zu halten."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Código Cero",
+    "genus": "Pokémon Multigénico",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "La pesada máscara le impide liberar toda su\nfuerza, que se cree que es extraordinaria."
+      },
+      {
+        "game": "sm-m",
+        "text": "Un Pokémon artificial. La máscara de contención\nque lleva sirve para evitar que se descontrole."
+      },
+      {
+        "game": "usum-us",
+        "text": "Este Pokémon se creó en un laboratorio como\narma para cierto fin. Fue criogenizado tras\ndesbocarse durante un experimento."
+      },
+      {
+        "game": "usum-um",
+        "text": "La máscara que lleva sirve para contener su\nverdadero poder y evitar que se descontrole."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Se rumorea que ha sido recreado en Galar a\npartir de documentos de investigación de alto\nsecreto robados."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Fue creado a imagen de un Pokémon mitológico.\nLleva una máscara de contención para evitar que\nsu poder se descontrole."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Tipo Zero",
+    "genus": "Pokémon Multigene",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "La pesante maschera che indossa agisce come\nun freno che gli impedisce di usare la sua vera\npotenza. Nasconde in sé un potere speciale."
+      },
+      {
+        "game": "sm-m",
+        "text": "È un Pokémon artificiale. La maschera che porta\nha la funzione di tenere a freno la sua potenza\ne impedirgli di perdere il controllo."
+      },
+      {
+        "game": "usum-us",
+        "text": "È stato creato come arma per una missione\nprecisa. Fu ibernato dopo aver perso il controllo\ndurante un esperimento."
+      },
+      {
+        "game": "usum-um",
+        "text": "La maschera che porta ha la funzione di\ntenere a freno la sua vera potenza e impedirgli\ndi perdere il controllo."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Si dice che sia stato ricreato nuovamente a\nGalar sulla base di documenti top secret\ntrafugati."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "È stato creato sul modello di un Pokémon\nmitologico. È stato necessario dotarlo di una\nmaschera per tenere a freno la sua potenza."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Type: Null",
+    "genus": "Synthetic Pokémon",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "The heavy control mask it wears suppresses its\nintrinsic capabilities. This Pokémon has some\nhidden special power."
+      },
+      {
+        "game": "sm-m",
+        "text": "Due to the danger that this synthetic Pokémon\nmay go on a rampage, it wears a control mask\nto restrain its power."
+      },
+      {
+        "game": "usum-us",
+        "text": "A Pokémon weapon developed for a specific\nmission, it went berserk during an experiment,\nso it was cryogenically frozen."
+      },
+      {
+        "game": "usum-um",
+        "text": "There’s danger of its going on a rampage, so its\ntrue power is sealed away beneath its\ncontrol mask."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Rumor has it that the theft of top-secret research\nnotes led to a new instance of this Pokémon\nbeing created in the Galar region."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "It was modeled after a mighty Pokémon of myth.\nThe mask placed upon it limits its power in order\nto keep it under control."
+      }
+    ]
+  },
+  "chs": {
+    "name": "属性：空",
+    "genus": "人工宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "带着沉重的控制面罩，\n不能释放出原来的能力。\n蕴藏着特别的力量。"
+      },
+      {
+        "game": "sm-m",
+        "text": "人工的宝可梦。\n因为有暴走的危险，\n所以被控制面罩封印住了力量。"
+      },
+      {
+        "game": "usum-us",
+        "text": "是为了某个任务而\n被开发出来的宝可梦武器。\n因为在试验中暴走而被冻结了。"
+      },
+      {
+        "game": "usum-um",
+        "text": "因为有暴走的危险，\n所以被控制面罩\n封印住了真正的力量。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "传言说有人偷走了绝密\n研究资料，在伽勒尔地区\n创造出了新的“属性：空”。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "以神话中的宝可梦为原型所\n创造出的宝可梦，被戴上了\n抑制力量失控的面罩。"
+      }
+    ]
+  }
+}

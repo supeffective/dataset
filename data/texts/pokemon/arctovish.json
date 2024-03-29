@@ -1,0 +1,133 @@
+{
+  "jap": {
+    "name": "ウオチルドン",
+    "genus": "かせきポケモン",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "しゅういを　こおりつかせて　えものを\nつかまえるが　くちが　あたまの\nうえに　あるので　たべづらい。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "どんな　こうげきにも　きずつかない\nつらのかわを　もつが　こきゅうが\nふじゆうだったため　ぜつめつした。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Uochilldon",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "어치르돈",
+    "genus": "화석포켓몬",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "주변을 꽁꽁 얼려서 먹이를\n잡지만 입이 머리 윗부분에\n있어서 먹기 힘들다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "어떤 공격에도 상처 입지 않는\n얼굴 가죽을 가졌지만 호흡이\n자유롭지 않았던 탓에 멸종하였다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "鰓魚海獸",
+    "genus": "化石寶可夢",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "雖然能透過凍結四周來捕捉獵物，\n但由於嘴長在頭頂上，\n所以吃起東西來不太方便。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "面部的皮膚無論受到什麼攻擊\n都不會受傷，但由於呼吸起來\n不方便而滅絕了。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Hydragla",
+    "genus": "Pokémon Fossile",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Il gèle les alentours pour capturer ses proies,\nmais comme sa bouche est sur le dessus de\nsa tête, il a beaucoup de mal à les manger."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Aucune attaque ne pouvait égratigner la peau\nde son visage, mais il s’est éteint, car il avait\ndu mal à respirer."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Pescryodon",
+    "genus": "Fossil-Pokémon",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Es fängt seine Beute, indem es seine Umgebung\neinfriert, doch da sich sein Maul oben auf seinem\nKopf befindet, ist Fressen für es sehr umständlich."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Kein Angriff konnte seine Gesichtshaut verletzen,\ndoch es war in seiner Atmung eingeschränkt und\nstarb daher aus."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Arctovish",
+    "genus": "Pokémon Fósil",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Atrapa a sus presas congelando su entorno, pero\nla ubicación de la boca encima de la cabeza le\ngenera dificultades para deglutirlas."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Aunque la piel de su rostro era capaz de resistir\ncualquier ataque, su dificultad para respirar\nacabó provocando su extinción."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Arctovish",
+    "genus": "Pokémon Fossile",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Cattura le prede congelando l’ambiente\ncircostante, ma avendo la bocca sopra\nla testa fatica a inghiottirle."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Nessun attacco poteva scalfire la pelle del suo\nmuso, ma si è estinto perché aveva difficoltà\na respirare."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Arctovish",
+    "genus": "Fossil Pokémon",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Though it’s able to capture prey by freezing its\nsurroundings, it has trouble eating the prey\nafterward because its mouth is on top of its head."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "The skin on its face is impervious to attack, but\nbreathing difficulties made this Pokémon go\nextinct anyway."
+      }
+    ]
+  },
+  "chs": {
+    "name": "鳃鱼海兽",
+    "genus": "化石宝可梦",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "虽然能通过冻结四周来捕捉猎物，\n但由于嘴长在头顶上，\n所以吃起东西来不太方便。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "面部的皮肤无论受到什么攻击\n都不会受伤，但由于呼吸起来\n不方便而灭绝了。"
+      }
+    ]
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "jap": {
+    "name": "ヒバニー",
+    "genus": "うさぎポケモン",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "はしりまわって　たいおんを　あげると\nほのおエネルギーが　からだを　めぐり\nほんらいの　ちからを　はっきできる。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "たたかう　じゅんびが　ととのうと\nはなの　あたまと　あしの　うらの\nにくきゅうが　こうねつを　はっする。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Hibanny",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "염버니",
+    "genus": "토끼포켓몬",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "뛰어다니며 체온을 높이면\n불꽃 에너지가 몸 안에 맴돌아\n본래의 힘을 발휘할 수 있다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "싸울 준비가 되면\n코끝과 발바닥의\n볼록살에서 고열을 낸다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "炎兔兒",
+    "genus": "兔子寶可夢",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "不斷奔跑使體溫升高後，\n火之能量會在牠體內循環，\n促使牠發揮出真正的力量。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "一旦做好了戰鬥的準備，\n牠鼻頭上和腳底的肉球\n就會散發出極度的高溫。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Flambino",
+    "genus": "Pokémon Lapin",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Il court pour augmenter sa température et faire\ncirculer l’énergie incandescente dans son corps.\nIl peut ainsi déployer toute sa puissance."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Quand il est prêt à se battre, la partie\nqui surmonte son museau ainsi que les coussinets\nde ses pattes postérieures émettent de la chaleur."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Hopplo",
+    "genus": "Hasen-Pokémon",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Erhöht es durch Rennen seine Körpertemperatur,\nströmt Feuer-Energie durch seinen Körper. Dann\nkann es seine wahre Kraft entfesseln."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Ist es kampfbereit, verströmt es von seiner\nNasenspitze und von den Ballen an seinen\nLäufen Hitze."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Scorbunny",
+    "genus": "Pokémon Conejo",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Se pone a correr para elevar su temperatura\ncorporal y propagar la energía ígnea por todo\nel cuerpo. Desata así su verdadera fuerza."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Cuando se prepara para combatir, irradia calor\npor la punta de la nariz y el pelo que le recubre\nlas patas."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Scorbunny",
+    "genus": "Pokémon Coniglio",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Quando corre, la sua temperatura corporea sale\npervadendolo di un’energia infuocata che gli\npermette di scatenare la sua vera potenza."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Quando si prepara a lottare, la punta del naso\ne i cuscinetti sotto le zampe irradiano calore."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Scorbunny",
+    "genus": "Rabbit Pokémon",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "A warm-up of running around gets fire energy\ncoursing through this Pokémon’s body. Once that\nhappens, it’s ready to fight at full power."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "It has special pads on the backs of its feet, and\none on its nose. Once it’s raring to fight, these\npads radiate tremendous heat."
+      }
+    ]
+  },
+  "chs": {
+    "name": "炎兔儿",
+    "genus": "兔子宝可梦",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "不断奔跑使体温升高后，\n火之能量会在它身体循环，\n促使它发挥出真正的力量。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "一旦做好了战斗的准备，\n它鼻头上和脚底的肉球\n就会发出极度的高温。"
+      }
+    ]
+  }
+}

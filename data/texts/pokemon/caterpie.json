@@ -1,0 +1,549 @@
+{
+  "jap": {
+    "name": "キャタピー",
+    "genus": "いもむしポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "あたまの　しょっかく　から\nきょうれつな　においを　だして\nてきを　おいはらい　みをまもる。"
+      },
+      {
+        "game": "xy-y",
+        "text": "あしの　さきは　どんなところにも\nすいつく　きゅうばん。ひっしに\nきのぼりをして　はっぱを　たべる。"
+      },
+      {
+        "game": "oras-or",
+        "text": "からだ　よりも　おおきな　はっぱを　みるみる\nたべつくして　しまうほどの　しょくよくを　もつ。\nしょっかくから　きょうれつな　においを　だすぞ。"
+      },
+      {
+        "game": "oras-as",
+        "text": "からだ　よりも　おおきな　はっぱを　みるみる\nたべつくして　しまうほどの　しょくよくを　もつ。\nしょっかくから　きょうれつな　においを　だすぞ。"
+      },
+      {
+        "game": "sm-s",
+        "text": "とりポケモンに　おそわれると　ツノから\nにおいを　だして　ていこう　するが\nえじきに　なることも　おおい。"
+      },
+      {
+        "game": "sm-m",
+        "text": "つかまえやすく　せいちょうも　はやい。\nしんまいトレーナーの　パートナーに\nおススメの　ポケモンの　いっぴき。"
+      },
+      {
+        "game": "usum-us",
+        "text": "はやく　せいちょう　したいのか\nしょくよくおうせいで　１にちに\n１００まいの　はっぱを　くらう。"
+      },
+      {
+        "game": "usum-um",
+        "text": "からだは　やわらかく　ちからもない。\nしぜんかいでは　つねに　エサとして\nねらわれ　つづける　うんめい。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "あたまの　さきにある　しょっかくに\nふれると　きょうれつな　においを\nだして　みを　まもろうとする。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "あたまの　さきにある　しょっかくに\nふれると　きょうれつな　においを\nだして　みを　まもろうとする。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "あたまの　しょっかくから\nきょうれつな　においを　だして\nてきを　おいはらい　みをまもる。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "あしは　みじかいが　きゅうばんに\nなっているので　さかでも　かべでも\nくたびれることなく　すすんでいく。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Caterpie",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "캐터피",
+    "genus": "애벌레포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "머리의 더듬이로부터\n강렬한 냄새를 내어\n적을 물리치고 몸을 보호한다."
+      },
+      {
+        "game": "xy-y",
+        "text": "발끝에는 어디든지\n달라붙는 빨판이 있다. 필사적으로\n나무 타기를 해서 나뭇잎을 먹는다."
+      },
+      {
+        "game": "oras-or",
+        "text": "몸보다 커다란 잎사귀를 순식간에\n먹어치울 정도의 식욕을 지녔다.\n더듬이로 강렬한 냄새를 피운다."
+      },
+      {
+        "game": "oras-as",
+        "text": "몸보다 커다란 잎사귀를 순식간에\n먹어치울 정도의 식욕을 지녔다.\n더듬이로 강렬한 냄새를 피운다."
+      },
+      {
+        "game": "sm-s",
+        "text": "새포켓몬에게 습격당하면 뿔에서\n냄새를 뿜어 저항하지만\n먹이가 되는 일도 많다."
+      },
+      {
+        "game": "sm-m",
+        "text": "잡기 쉽고 성장도 빠르다.\n새내기 트레이너의 파트너로\n추천하는 포켓몬 중 한 마리."
+      },
+      {
+        "game": "usum-us",
+        "text": "빨리 성장하고 싶어서인지\n식욕이 왕성하여 하루에\n100장의 잎사귀를 먹는다."
+      },
+      {
+        "game": "usum-um",
+        "text": "몸은 부드럽고 힘도 없다.\n자연계에서는 항상 먹이로\n노려지게 될 운명이다."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "머리끝에 있는 더듬이를\n건드리면 강렬한 냄새를 내서\n몸을 보호하려 한다."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "머리끝에 있는 더듬이를\n건드리면 강렬한 냄새를 내서\n몸을 보호하려 한다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "머리의 더듬이로부터\n강렬한 냄새를 내어\n적을 물리치고 몸을 보호한다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "다리는 짧지만 빨판으로\n되어 있어 비탈길이나 벽에서도\n지치지 않고 나아간다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "綠毛蟲",
+    "genus": "蟲寶寶寶可夢",
+    "flavorText": [
+      {
+        "game": "lgpe-lge",
+        "text": "如果碰到牠頭上的觸角，\n牠就會分泌強烈的臭味\n來保護自己。"
+      },
+      {
+        "game": "sm-s",
+        "text": "被鳥寶可夢襲擊時，\n會從觸角釋放出臭氣抵抗，\n但還是經常淪為獵物。"
+      },
+      {
+        "game": "sm-m",
+        "text": "易於捕捉，成長速度亦快。\n是推薦給新手訓練家\n作為同伴的寶可夢之一。"
+      },
+      {
+        "game": "usum-us",
+        "text": "或許是為了讓自己快點成長，\n牠的食慾非常旺盛，\n每天要吃掉１００片樹葉。"
+      },
+      {
+        "game": "usum-um",
+        "text": "身體柔軟，又沒什麼力氣。\n在自然界，牠的命運就是\n不斷被當成獵物來捕食。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "如果碰到牠頭上的觸角，\n牠就會分泌強烈的臭味\n來保護自己。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "會從頭部的觸角釋放出\n強烈的氣味來趕走敵人，\n藉此保護自己。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "別看牠的腳很短，\n因為是吸盤，所以無論是\n斜坡還是牆壁都能輕鬆前進。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Chenipan",
+    "genus": "Pokémon Ver",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Ses antennes rouges libèrent une\npuanteur qui repousse l’ennemi.\nIl grandit par mues régulières."
+      },
+      {
+        "game": "bw-w",
+        "text": "Ses antennes rouges libèrent une\npuanteur qui repousse l’ennemi.\nIl grandit par mues régulières."
+      },
+      {
+        "game": "xy-x",
+        "text": "Pour se protéger, il émet un gaz puant par ses\nantennes, qui fait fuir ses ennemis audacieux."
+      },
+      {
+        "game": "xy-y",
+        "text": "Ses pattes ont des ventouses lui permettant de\ngrimper sur toute surface, notamment les arbres."
+      },
+      {
+        "game": "oras-or",
+        "text": "Chenipan a un appétit d’ogre. Il peut engloutir des feuilles\nplus grosses que lui. Les antennes de ce Pokémon dégagent\nune odeur particulièrement entêtante."
+      },
+      {
+        "game": "oras-as",
+        "text": "Chenipan a un appétit d’ogre. Il peut engloutir des feuilles\nplus grosses que lui. Les antennes de ce Pokémon dégagent\nune odeur particulièrement entêtante."
+      },
+      {
+        "game": "sm-s",
+        "text": "Lorsqu’il est attaqué par un Pokémon Vol,\nil utilise ses antennes pour dégager une odeur\nnauséabonde, mais cela le sauve rarement."
+      },
+      {
+        "game": "sm-m",
+        "text": "Un Pokémon facile à attraper et qui croît\nrapidement. C’est l’un des partenaires\nprivilégiés des Dresseurs débutants."
+      },
+      {
+        "game": "usum-us",
+        "text": "C’est peut-être parce qu’il a envie de grandir\nle plus vite possible qu’il est si vorace.\nIl engloutit une centaine de feuilles par jour."
+      },
+      {
+        "game": "usum-um",
+        "text": "Son corps est mou et sans force.\nLa nature semble l’avoir destiné à servir\nde proie aux autres Pokémon."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Quand on touche l’appendice sur son front,\nil sécrète une odeur nauséabonde pour se\nprotéger."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Quand on touche l’appendice sur son front,\nil sécrète une odeur nauséabonde pour se\nprotéger."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Pour se protéger, il émet par ses antennes\nune odeur nauséabonde qui fait fuir ses ennemis."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Ses petites pattes munies de ventouses\nlui permettent de monter les pentes\net de grimper aux murs sans se fatiguer."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Raupy",
+    "genus": "Wurm-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Als Schutz vor Feinden sondert es einen übel\nriechenden Gestank mit seinen Antennen ab."
+      },
+      {
+        "game": "xy-y",
+        "text": "Die Saugnäpfe an den Beinen haften auf jedem\nUntergrund. Es sucht hartnäckig in Bäumen\nnach Futter."
+      },
+      {
+        "game": "oras-or",
+        "text": "Raupy ist sehr gefräßig, es kann Blätter verschlingen,\ndie größer sind als es selbst. Seine Antennen sondern\neinen übel riechenden Gestank ab."
+      },
+      {
+        "game": "oras-as",
+        "text": "Raupy ist sehr gefräßig. Es kann Blätter verschlingen,\ndie seine eigene Größe um ein Vielfaches übersteigen.\nSeine Antennen sondern einen übel riechenden Gestank ab."
+      },
+      {
+        "game": "sm-s",
+        "text": "Es versucht, angreifende Vogel-Pokémon mit\ndem Gestank aus seinen Antennen in die Flucht\nzu schlagen. Das gelingt ihm aber nicht immer."
+      },
+      {
+        "game": "sm-m",
+        "text": "Es eignet sich bestens für frischgebackene\nTrainer, da es sich leicht fangen lässt und\nsich sehr schnell entwickelt."
+      },
+      {
+        "game": "usum-us",
+        "text": "Das nimmersatte Raupy verschlingt 100 Blätter\nam Tag. Vermutlich strebt es so ein schnelleres\nWachstum an."
+      },
+      {
+        "game": "usum-um",
+        "text": "Sein weicher und schwacher Körper ist ein\nallseits beliebtes Futter. Es muss sich daher\nstets vor Angreifern in Acht nehmen."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Berührt man die Fühler auf seinem Kopf,\nso versucht es sich zu schützen, indem es\neinen penetranten Geruch absondert."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Berührt man die Fühler auf seinem Kopf,\nso versucht es sich zu schützen, indem es\neinen penetranten Geruch absondert."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Als Schutz vor Feinden sondert es einen übel\nriechenden Gestank mit seinen Antennen ab."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Es hat Saugnäpfe an den Beinchen, mit denen es\nmühelos Steigungen und Mauern erklimmen kann."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Caterpie",
+    "genus": "Pokémon Gusano",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Para protegerse despide un hedor horrible de sus\nantenas, con el que repele a sus enemigos."
+      },
+      {
+        "game": "xy-y",
+        "text": "Sus patas tienen ventosas con las que se adhiere a\ncualquier sitio. Escala árboles buscando forraje."
+      },
+      {
+        "game": "oras-or",
+        "text": "Caterpie tiene un apetito voraz. Es capaz de devorar hojas\nque superen su tamaño en un abrir y cerrar de ojos.\nAtención a la antena que tiene: libera un hedor realmente\nfuerte."
+      },
+      {
+        "game": "oras-as",
+        "text": "Caterpie tiene un apetito voraz. Es capaz de devorar hojas\nque superen su tamaño en un abrir y cerrar de ojos.\nAtención a la antena que tiene: libera un hedor realmente\nfuerte."
+      },
+      {
+        "game": "sm-s",
+        "text": "A menudo resulta presa de Pokémon pájaro,\nfrente a los que su única defensa es el hedor\nrepulsivo que libera por su antena."
+      },
+      {
+        "game": "sm-m",
+        "text": "Se desarrolla rápidamente y es fácil de atrapar.\nEs el compañero ideal para Entrenadores menos\nexperimentados."
+      },
+      {
+        "game": "usum-us",
+        "text": "Muestra un apetito voraz, debido quizás a sus\nganas de acelerar su desarrollo. Puede llegar a\ndevorar un centenar de hojas al día."
+      },
+      {
+        "game": "usum-um",
+        "text": "Su cuerpo es blando y carente de fuerza. Parece\nque la naturaleza lo hubiera destinado a servir\nde sustento a otros Pokémon."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Cuando le tocan la antena roja que tiene en la\nfrente, se defiende desprendiendo un hedor\nnauseabundo."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Cuando le tocan la antena roja que tiene en la\nfrente, se defiende desprendiendo un hedor\nnauseabundo."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Para protegerse, despide un hedor horrible por\nlas antenas con el que repele a sus enemigos."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Sus cortas patas están recubiertas de ventosas\nque le permiten subir incansable por muros y\ncuestas."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Caterpie",
+    "genus": "Pokémon Baco",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Per proteggersi emette un puzzo terribile\ndall’antenna sul capo, tenendo lontani i nemici."
+      },
+      {
+        "game": "xy-y",
+        "text": "Le sue zampe hanno ventose che possono aderire\na ogni superficie. Sale sugli alberi cercando cibo."
+      },
+      {
+        "game": "oras-or",
+        "text": "Caterpie mangia voracemente. È in grado di divorare foglie\npiù grandi del suo stesso corpo in pochi istanti.\nQuesto Pokémon emette un odore terrificante dalle antenne."
+      },
+      {
+        "game": "oras-as",
+        "text": "Caterpie mangia voracemente. È in grado di divorare foglie\npiù grandi del suo stesso corpo in pochi istanti.\nQuesto Pokémon emette un odore terrificante dalle antenne."
+      },
+      {
+        "game": "sm-s",
+        "text": "Tenta di difendersi dai Pokémon alati\nemettendo un forte fetore dalle antenne,\nma cade spesso vittima dei loro attacchi."
+      },
+      {
+        "game": "sm-m",
+        "text": "È facile da catturare e cresce in fretta.\nÈ uno dei Pokémon più indicati per gli Allenatori\nin erba."
+      },
+      {
+        "game": "usum-us",
+        "text": "Mangia 100 foglie al giorno. La sua voracità\npotrebbe essere dovuta al desiderio di crescere\nin fretta."
+      },
+      {
+        "game": "usum-um",
+        "text": "Il suo corpo è molle e privo di forza.\nMolto spesso il suo destino in natura è\ndi cadere preda di altri Pokémon."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Se gli si toccano le antenne che ha sulla testa,\nsi difende emettendo un odore insopportabile."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Se gli si toccano le antenne che ha sulla testa,\nsi difende emettendo un odore insopportabile."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Per proteggersi emette un puzzo terribile dalle\nantenne sul capo, con cui tiene lontani i nemici."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Le ventose sulle sue corte zampe gli permettono\ndi affrontare ogni salita e di scalare senza fatica\nqualsiasi muro."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Caterpie",
+    "genus": "Worm Pokémon",
+    "flavorText": [
+      {
+        "game": "frlg-lg",
+        "text": "Its short feet are tipped with suction\npads that enable it to tirelessly climb\nslopes and walls."
+      },
+      {
+        "game": "rb-r",
+        "text": "Its short feet\nare tipped with\nsuction pads that\fenable it to\ntirelessly climb\nslopes and walls."
+      },
+      {
+        "game": "rb-b",
+        "text": "Its short feet\nare tipped with\nsuction pads that\fenable it to\ntirelessly climb\nslopes and walls."
+      },
+      {
+        "game": "y",
+        "text": "If you touch the\nfeeler on top of\nits head, it will\frelease a horrible\nstink to protect\nitself."
+      },
+      {
+        "game": "gs-g",
+        "text": "For protection, it\nreleases a horri­\nble stench from\fthe antenna on its\nhead to drive away\nenemies."
+      },
+      {
+        "game": "gs-s",
+        "text": "Its feet have\nsuction cups\ndesigned to stick\fto any surface. It\ntenaciously climbs\ntrees to forage."
+      },
+      {
+        "game": "c",
+        "text": "It crawls into\nfoliage where it\ncamouflages itself\famong leaves that\nare the same color\nas its body."
+      },
+      {
+        "game": "rs-r",
+        "text": "CATERPIE has a voracious appetite.\nIt can devour leaves bigger than its\nbody right before your eyes.\fFrom its antenna, this POKéMON releases\na terrifically strong odor."
+      },
+      {
+        "game": "rs-s",
+        "text": "CATERPIE has a voracious appetite.\nIt can devour leaves bigger than its\nbody right before your eyes.\fFrom its antenna, this POKéMON releases\na terrifically strong odor."
+      },
+      {
+        "game": "e",
+        "text": "Its voracious appetite compels it to\ndevour leaves bigger than itself without\nhesitation. It releases a terribly strong\nodor from its antennae."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "It is covered with a green skin. When it\ngrows, it sheds the skin, covers itself\nwith silk, and becomes a cocoon."
+      },
+      {
+        "game": "dp-d",
+        "text": "It releases a stench from its red\nantenna to repel enemies. It\ngrows by molting repeatedly."
+      },
+      {
+        "game": "dp-p",
+        "text": "It releases a stench from its red\nantenna to repel enemies. It\ngrows by molting repeatedly."
+      },
+      {
+        "game": "pt",
+        "text": "It releases a stench from its red\nantenna to repel enemies. It\ngrows by molting repeatedly."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "For protection, it releases a horrible\nstench from the antennae on its\nhead to drive away enemies."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "Its feet have suction cups\ndesigned to stick to any surface. It\ntenaciously climbs trees to forage."
+      },
+      {
+        "game": "bw-b",
+        "text": "It releases a stench from its red\nantenna to repel enemies. It\ngrows by molting repeatedly."
+      },
+      {
+        "game": "bw-w",
+        "text": "It releases a stench from its red\nantenna to repel enemies. It\ngrows by molting repeatedly."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "It releases a stench from its red\nantenna to repel enemies. It\ngrows by molting repeatedly."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "It releases a stench from its red\nantenna to repel enemies. It\ngrows by molting repeatedly."
+      },
+      {
+        "game": "xy-x",
+        "text": "For protection, it releases a horrible stench from\nthe antennae on its head to drive away enemies."
+      },
+      {
+        "game": "xy-y",
+        "text": "Its feet have suction cups designed to stick to any\nsurface. It tenaciously climbs trees to forage."
+      },
+      {
+        "game": "oras-or",
+        "text": "Caterpie has a voracious appetite. It can devour leaves bigger\nthan its body right before your eyes. From its antenna, this\nPokémon releases a terrifically strong odor."
+      },
+      {
+        "game": "oras-as",
+        "text": "Caterpie has a voracious appetite. It can devour leaves\nbigger than its body right before your eyes. From its antenna,\nthis Pokémon releases a terrifically strong odor."
+      },
+      {
+        "game": "sm-s",
+        "text": "When attacked by bird Pokémon, it resists by\nreleasing a terrifically strong odor from its\nantennae, but it often becomes their prey."
+      },
+      {
+        "game": "sm-m",
+        "text": "It’s easy to catch, and it grows quickly, making\nit one of the top recommendations for novice\nPokémon Trainers."
+      },
+      {
+        "game": "usum-us",
+        "text": "Perhaps because it would like to grow up\nquickly, it has a voracious appetite, eating\na hundred leaves a day."
+      },
+      {
+        "game": "usum-um",
+        "text": "Its body is soft and weak. In nature, its\nperpetual fate is to be seen by others as food."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "If you touch the feeler on top of its head, it will\nrelease a horrible stink to protect itself."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "If you touch the feeler on top of its head, it will\nrelease a horrible stink to protect itself."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "For protection, it releases a horrible stench from\nthe antenna on its head to drive away enemies."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Its short feet are tipped with suction pads that\nenable it to tirelessly climb slopes and walls."
+      }
+    ]
+  },
+  "chs": {
+    "name": "绿毛虫",
+    "genus": "虫宝宝宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "被鸟宝可梦袭击时\n会从触角中释放出臭气抵抗，\n但也经常会成为鸟食。"
+      },
+      {
+        "game": "sm-m",
+        "text": "易于捕捉，成长也快。\n是推荐给新手训练家\n作为同伴的宝可梦之一。"
+      },
+      {
+        "game": "usum-us",
+        "text": "或许是想要尽快长大，\n它的食欲非常旺盛，\n每天能吃掉１００片叶子。"
+      },
+      {
+        "game": "usum-um",
+        "text": "身体软绵绵的，也没什么力气。\n在自然界，它的命运就是作为\n猎物而被不断捕食。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "如果你碰到了它头上的\n触角，它就会分泌出\n难闻的气味来保护自己。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "如果你碰到了它头上的\n触角，它就会分泌出\n难闻的气味来保护自己。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "会从头部的触角中\n释放出强烈的臭气，\n以此来赶走敌人保护自己。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "别看它的脚很短，\n因为是吸盘，所以无论是\n斜坡还是墙壁都能轻松前进。"
+      }
+    ]
+  }
+}

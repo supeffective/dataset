@@ -1,0 +1,269 @@
+{
+  "jap": {
+    "name": "ギギギアル",
+    "genus": "はぐるまポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "あかい　コアの　ついた　ギアを\nこうそくかいてんさせて　エネルギーを\nきゅうそくチャージ　するのだ。"
+      },
+      {
+        "game": "xy-y",
+        "text": "あかい　コアは　エネルギータンクの\nやくわり。チャージした　エネルギーを\nトゲから　しゅういに　うちだす。"
+      },
+      {
+        "game": "oras-or",
+        "text": "あかい　コアの　ついた　ギアを\nこうそくかいてんさせて　エネルギーを\nきゅうそくチャージ　するのだ。"
+      },
+      {
+        "game": "oras-as",
+        "text": "あかい　コアは　エネルギータンクの\nやくわり。チャージした　エネルギーを\nトゲから　しゅういに　うちだす。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "トゲの　さきから　つよい　でんげきを\nはっしゃ。　あかいコアに　たくさんの\nエネルギーを　たくわえている。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "３つの　ギアを　こうそくかいてん。\nあらたに　ふえた　トゲの　ついた\nギアは　いきものでは　ないのだ。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Gigigiaru",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "기기기어르",
+    "genus": "톱니바퀴포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "빨간 코어가 달린 기어를\n고속 회전시켜서 에너지를\n급속 충전한다."
+      },
+      {
+        "game": "xy-y",
+        "text": "빨간 코어는 에너지 탱크\n역할을 한다. 가시를 이용해\n모아둔 에너지를 주변에 쏘아댄다."
+      },
+      {
+        "game": "oras-or",
+        "text": "빨간 코어가 달린 기어를\n고속 회전시켜서 에너지를\n급속 충전한다."
+      },
+      {
+        "game": "oras-as",
+        "text": "빨간 코어는 에너지 탱크\n역할을 한다. 가시를 이용해\n모아둔 에너지를 주변에 쏘아댄다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "가시 끝에서 강한 전격을\n발사한다. 빨간 코어에 많은\n에너지를 비축하고 있다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "3개의 기어가 고속 회전한다.\n가시가 달려 있는 새로 생긴\n기어는 생물이 아니다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "齒輪怪",
+    "genus": "齒輪寶可夢",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "會從尖刺的前端發出強力\n電擊。紅色核心裡填充著\n非常多的能量。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "讓３個齒輪高速旋轉。\n新增出來的那個帶著\n尖刺的齒輪並不是生物。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Cliticlic",
+    "genus": "Pokémon Engrenage",
+    "flavorText": [
+      {
+        "game": "bw-w",
+        "text": "Il accumule rapidement de l’énergie en\nfaisant tourner très vite le rouage\nqui contient son noyau rouge."
+      },
+      {
+        "game": "bw-b",
+        "text": "Son noyau rouge lui permet d’accumuler\nde l’énergie qu’il projette ensuite aux\nalentours grâce à ses pics."
+      },
+      {
+        "game": "xy-x",
+        "text": "Il accumule rapidement de l’énergie en faisant tourner\ntrès vite le rouage qui contient son noyau rouge."
+      },
+      {
+        "game": "xy-y",
+        "text": "Son noyau rouge lui permet d’accumuler de l’énergie\nqu’il projette ensuite aux alentours grâce à ses pics."
+      },
+      {
+        "game": "oras-or",
+        "text": "Il accumule rapidement de l’énergie en faisant tourner très vite\nle rouage qui contient son noyau rouge."
+      },
+      {
+        "game": "oras-as",
+        "text": "Son noyau rouge lui permet d’accumuler de l’énergie\nqu’il projette ensuite aux alentours grâce à ses pics."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Il peut envoyer de terribles décharges électriques\nde la pointe de ses pics. Il accumule de grandes\nquantités d’énergie dans son noyau rouge."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Bien que son nouveau rouage à pointes\nne soit pas doué de vie, il parvient à le faire\ntourner à grande vitesse avec les deux autres."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Klikdiklak",
+    "genus": "Getriebe-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Indem es das Rad mit dem roten Zentrum mit\nhohem Tempo zum Rotieren bringt, kann es eine\nTurboladung durchführen."
+      },
+      {
+        "game": "xy-y",
+        "text": "Der rote Zentralbestandteil dient als Energiespeicher.\nDarin geladene Energie feuert es über seine Stacheln\nab."
+      },
+      {
+        "game": "oras-or",
+        "text": "Indem es das Rad mit dem roten Zentrum mit hohem Tempo\nzum Rotieren bringt, kann es eine Turboladung durchführen."
+      },
+      {
+        "game": "oras-as",
+        "text": "Der rote Zentralbestandteil dient als Energiespeicher.\nDarin geladene Energie feuert es über seine Stacheln ab."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Die Stachelspitzen können starke Elektrizität\nabfeuern. Im roten Zentralbestandteil sind\nUnmengen von Energie gespeichert."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Dieses Pokémon besteht aus drei schnell\nrotierenden Zahnrädern. Das neue dritte Rad\nmit den Stacheln ist unbelebt."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Klinklang",
+    "genus": "Pokémon Engranaje",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Recarga su energía rápidamente haciendo girar con\ngran celeridad el engranaje equipado con un núcleo\nrojo."
+      },
+      {
+        "game": "xy-y",
+        "text": "El núcleo rojo sirve como depósito de la energía que\nexpulsa por las púas una vez que está cargado."
+      },
+      {
+        "game": "oras-or",
+        "text": "Recarga su energía rápidamente haciendo girar con gran\nceleridad el engranaje equipado con un núcleo rojo."
+      },
+      {
+        "game": "oras-as",
+        "text": "El núcleo rojo sirve como depósito de la energía que expulsa\npor las púas una vez que está cargado."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Emite fuertes descargas eléctricas por la punta\nde las púas. Acumula una gran cantidad de\nenergía en su núcleo rojo."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Las tres ruedas dentadas giran a gran velocidad.\nEl aro metálico dotado de púas no es materia\nviva."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Klinklang",
+    "genus": "Pokémon Ingranaggio",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Facendo girare velocemente l’ingranaggio dotato\ndel nucleo rosso, accumula una grande quantità di\nenergia."
+      },
+      {
+        "game": "xy-y",
+        "text": "Il nucleo rosso serve da serbatoio di energia, che\npoi spara intorno a sé attraverso gli spuntoni."
+      },
+      {
+        "game": "oras-or",
+        "text": "Facendo girare velocemente l’ingranaggio dotato del nucleo\nrosso, accumula una grande quantità di energia."
+      },
+      {
+        "game": "oras-as",
+        "text": "Il nucleo rosso serve da serbatoio di energia, che poi spara\nintorno a sé attraverso gli spuntoni."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Emette una forte scarica elettrica dall’estremità\ndei suoi spuntoni. Il nucleo rosso contiene\nun’enorme quantità di energia."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "I suoi tre ingranaggi girano ad altissima velocità.\nQuello con gli spuntoni, apparso dopo\nl’evoluzione, è inanimato."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Klinklang",
+    "genus": "Gear Pokémon",
+    "flavorText": [
+      {
+        "game": "bw-w",
+        "text": "The gear with the red core is\nrotated at high speed for a\nrapid energy charge."
+      },
+      {
+        "game": "bw-b",
+        "text": "Its red core functions as an energy\ntank. It fires the charged energy\nthrough its spikes into an area."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "The minigear spins at high speed. Then\nthe energy from the red core charges\nthe minigear to make it ready to fire."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "The minigear spins at high speed. Then\nthe energy from the red core charges\nthe minigear to make it ready to fire."
+      },
+      {
+        "game": "xy-x",
+        "text": "The gear with the red core is rotated at high speed\nfor a rapid energy charge."
+      },
+      {
+        "game": "xy-y",
+        "text": "Its red core functions as an energy tank. It fires the\ncharged energy through its spikes into an area."
+      },
+      {
+        "game": "oras-or",
+        "text": "The gear with the red core is rotated at high speed\nfor a rapid energy charge."
+      },
+      {
+        "game": "oras-as",
+        "text": "Its red core functions as an energy tank. It fires the\ncharged energy through its spikes into an area."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "From its spikes, it launches powerful blasts of\nelectricity. Its red core contains an enormous\namount of energy."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "The three gears that compose this Pokémon\nspin at high speed. Its new spiked gear isn’t\na living creature."
+      }
+    ]
+  },
+  "chs": {
+    "name": "齿轮怪",
+    "genus": "齿轮宝可梦",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "会从尖刺的前端发出强力\n电击。红色核心里填充着\n非常多的能量。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "让３个齿轮高速旋转。\n新增出来的那个带着\n尖刺的齿轮并不是生物。"
+      }
+    ]
+  }
+}

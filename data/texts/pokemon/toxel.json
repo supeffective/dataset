@@ -1,0 +1,133 @@
+{
+  "jap": {
+    "name": "エレズン",
+    "genus": "あかごポケモン",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "たいないの　どくぶくろに　ためた\nどくそを　ひふから　ぶんぴつ。\nさわると　ピリピリと　しびれる。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "どくそを　かがくへんか　させて\nでんきを　だす。　でんりょくは\nよわいが　ビリビリと　しびれる。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Eleson",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "일레즌",
+    "genus": "젖먹이포켓몬",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "체내의 독주머니에 저장하고 있는\n독소를 피부를 통해 분비한다.\n건드리면 찌릿하고 마비된다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "독소를 화학 변화시켜\n전기를 만들어 낸다. 전력은\n약하지만 찌릿찌릿 마비된다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "毒電嬰",
+    "genus": "嬰兒寶可夢",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "會從皮膚把體內的毒囊裡\n儲存著的毒素分泌出來。\n一旦觸碰牠就會感到麻麻的。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "透過讓自身的毒素產生\n化學反應來發電。電力\n雖然弱，卻能造成麻痺。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Toxizap",
+    "genus": "Pokémon Poupon",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Sa peau sécrète les toxines accumulées\ndans sa poche de poison interne.\nQuand on le touche, on se fait électrocuter."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Par un procédé chimique, il change son poison\nen électricité. L’intensité du courant est faible,\nmais peut engourdir un ennemi."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Toxel",
+    "genus": "Baby-Pokémon",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Das Gift aus dem Giftsack in seinem Körper\nsondert es über die Haut ab. Berührt man es,\nbekommt man einen lähmenden Schock verpasst."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Es ändert sein Toxin auf chemischer Ebene,\num Strom zu erzeugen. Dieser ist zwar schwach,\nkann aber einen lähmenden Schlag verursachen."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Toxel",
+    "genus": "Pokémon Retoño",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Secreta toxinas por la piel y las almacena\nen una bolsa de veneno interna. Tocarlo da\ncalambre."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Provoca una reacción química para generar\nenergía eléctrica con sus toxinas. Aunque de\nbajo voltaje, puede causar entumecimiento."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Toxel",
+    "genus": "Pokémon Bebè",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Secerne dalla pelle le tossine contenute nella\nsua sacca di veleno interna. Provoca a chi lo\ntocca una sensazione di bruciore."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Produce elettricità grazie a una reazione chimica\ndelle sue tossine. Il voltaggio è debole, ma può\nintorpidire il nemico."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Toxel",
+    "genus": "Baby Pokémon",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "It stores poison in an internal poison sac and\nsecretes that poison through its skin. If you touch\nthis Pokémon, a tingling sensation follows."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "It manipulates the chemical makeup of its poison\nto produce electricity. The voltage is weak, but it\ncan cause a tingling paralysis."
+      }
+    ]
+  },
+  "chs": {
+    "name": "电音婴",
+    "genus": "婴儿宝可梦",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "会从皮肤把体内的毒囊里\n储存着的毒素分泌出来。\n一旦触碰它就会感到麻麻的。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "通过让自身的毒素产生\n化学反应来发电。电力\n虽然弱，却能造成麻痹。"
+      }
+    ]
+  }
+}

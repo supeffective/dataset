@@ -1,0 +1,219 @@
+{
+  "jap": {
+    "name": "ブイゼル",
+    "genus": "うみイタチポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "２ほんの　しっぽを　スクリューの\nように　まわして　およぐ。もぐる\nときは　うきぶくろが　しぼむ。"
+      },
+      {
+        "game": "xy-y",
+        "text": "くびの　うきぶくろを　ふくらませ\nすいめんから　かおを　だして\nあたりの　ようすを　うかがっている。"
+      },
+      {
+        "game": "oras-or",
+        "text": "２ほんの　しっぽを　スクリューの\nように　まわして　およぐ。もぐる\nときは　うきぶくろが　しぼむ。"
+      },
+      {
+        "game": "oras-as",
+        "text": "くびの　うきぶくろを　ふくらませ\nすいめんから　かおを　だして\nあたりの　ようすを　うかがっている。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Buoysel",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "브이젤",
+    "genus": "바다족제비포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "2개의 꼬리를 스크루처럼\n돌려서 헤엄친다. 잠수할 때는\n공기주머니가 오그라든다."
+      },
+      {
+        "game": "xy-y",
+        "text": "목의 부낭을 부풀려\n수면에서 얼굴을 내밀어\n주변의 상황을 살피고 있다."
+      },
+      {
+        "game": "oras-or",
+        "text": "2개의 꼬리를 스크루처럼\n돌려서 헤엄친다. 잠수할 때는\n부낭이 오그라든다."
+      },
+      {
+        "game": "oras-as",
+        "text": "목의 부낭을 부풀려\n수면에서 얼굴을 내밀어\n주변의 상황을 살피고 있다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "泳圈鼬",
+    "genus": "海鼬寶可夢",
+    "flavorText": []
+  },
+  "fra": {
+    "name": "Mustébouée",
+    "genus": "Pokémon Aquabelette",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Il utilise ses deux queues comme\nune hélice pour se propulser sous\nl’eau et trancher les algues."
+      },
+      {
+        "game": "bw-w",
+        "text": "Il utilise ses deux queues comme\nune hélice pour se propulser sous\nl’eau et trancher les algues."
+      },
+      {
+        "game": "xy-x",
+        "text": "Il nage en faisant tournoyer ses deux queues comme\nune hélice. Sa bouée s’affaisse quand il plonge."
+      },
+      {
+        "game": "xy-y",
+        "text": "Il utilise la bouée autour de son cou pour passer\nsa tête hors de l’eau et observer les alentours."
+      },
+      {
+        "game": "oras-or",
+        "text": "Il nage en faisant tournoyer ses deux queues comme\nune hélice. Sa bouée s’affaisse quand il plonge."
+      },
+      {
+        "game": "oras-as",
+        "text": "Il utilise la bouée autour de son cou pour passer sa tête hors\nde l’eau et observer les alentours."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Bamelin",
+    "genus": "Meereswiesel",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Es schwimmt, indem es seine beiden Schweife wie\neine Schiffsschraube rotieren lässt."
+      },
+      {
+        "game": "xy-y",
+        "text": "Es füllt den Schwimmreifen um seinen Hals mit Luft,\num den Kopf über dem Wasser zu halten und\ndie Umgebung zu überblicken."
+      },
+      {
+        "game": "oras-or",
+        "text": "Es schwimmt, indem es seine beiden Schweife wie eine\nSchiffsschraube rotieren lässt."
+      },
+      {
+        "game": "oras-as",
+        "text": "Es füllt den Schwimmreifen um seinen Hals mit Luft,\num den Kopf über dem Wasser zu halten und die Umgebung\nzu überblicken."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Buizel",
+    "genus": "Pokémon Nutria Mar.",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Nada rotando sus dos colas a modo de tornillo.\nCuando bucea, el flotador se pliega."
+      },
+      {
+        "game": "xy-y",
+        "text": "Hincha el flotador de su cuello para flotar y saca la\ncabeza de la superficie del agua para explorar sus\nalrededores."
+      },
+      {
+        "game": "oras-or",
+        "text": "Nada rotando sus dos colas a modo de tornillo. Cuando\nbucea, el flotador se pliega."
+      },
+      {
+        "game": "oras-as",
+        "text": "Hincha el flotador de su cuello para flotar y saca la cabeza\nde la superficie del agua para explorar sus alrededores."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Buizel",
+    "genus": "Pokémon Maridonnola",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Nuota roteando le due code come fossero viti.\nQuando si immerge, il suo galleggiante si sgonfia."
+      },
+      {
+        "game": "xy-y",
+        "text": "Gonfia il salvagente che ha attorno al collo per\nmantenere la testa fuori dall’acqua mentre controlla\ni paraggi."
+      },
+      {
+        "game": "oras-or",
+        "text": "Nuota roteando le due code come fossero viti. Quando si\nimmerge, il suo galleggiante si sgonfia."
+      },
+      {
+        "game": "oras-as",
+        "text": "Gonfia il salvagente che ha attorno al collo per mantenere\nla testa fuori dall’acqua mentre controlla i paraggi."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Buizel",
+    "genus": "Sea Weasel Pokémon",
+    "flavorText": [
+      {
+        "game": "dp-d",
+        "text": "It has a flotation sac that is\nlike an inflatable collar. It floats\non water with its head out."
+      },
+      {
+        "game": "dp-p",
+        "text": "It swims by rotating its two tails\nlike a screw. When it dives, its\nflotation sac collapses."
+      },
+      {
+        "game": "pt",
+        "text": "It spins its two tails like a screw\nto propel itself through water. The\ntails also slice clinging seaweed."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "It inflates its flotation sac,\nkeeping its face above water in\norder to watch for prey movement."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "It inflates its flotation sac,\nkeeping its face above water in\norder to watch for prey movement."
+      },
+      {
+        "game": "bw-b",
+        "text": "It spins its two tails like a screw\nto propel itself through water. The\ntails also slice clinging seaweed."
+      },
+      {
+        "game": "bw-w",
+        "text": "It spins its two tails like a screw\nto propel itself through water. The\ntails also slice clinging seaweed."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "It inflates the flotation sac around\nits neck and pokes its head out of\nthe water to see what is going on."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "It inflates the flotation sac around\nits neck and pokes its head out of\nthe water to see what is going on."
+      },
+      {
+        "game": "xy-x",
+        "text": "It swims by rotating its two tails like a screw.\nWhen it dives, its flotation sac collapses."
+      },
+      {
+        "game": "xy-y",
+        "text": "It inflates the flotation sac around its neck and\npokes its head out of the water to see what is\ngoing on."
+      },
+      {
+        "game": "oras-or",
+        "text": "It swims by rotating its two tails like a screw.\nWhen it dives, its flotation sac collapses."
+      },
+      {
+        "game": "oras-as",
+        "text": "It inflates the flotation sac around its neck and\npokes its head out of the water to see what is\ngoing on."
+      },
+      {
+        "game": "la",
+        "text": "It moves freely in the water by spinning its forked tail for\npropulsion. The resemblance to the screw of a steamboat\nis coincidental."
+      }
+    ]
+  },
+  "chs": {
+    "name": "泳圈鼬",
+    "genus": "海鼬宝可梦",
+    "flavorText": []
+  }
+}

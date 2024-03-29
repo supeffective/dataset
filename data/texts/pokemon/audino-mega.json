@@ -1,0 +1,269 @@
+{
+  "jap": {
+    "name": "タブンネ",
+    "genus": "ヒヤリングポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "みみの　しょっかくで　あいての\nたいちょうや　タマゴから　ポケモンが\nいつ　でてくるのかも　わかるのだ。"
+      },
+      {
+        "game": "xy-y",
+        "text": "みみの　しょっかくで　あいてに\nふれると　しんぞうの　おとで\nたいちょうや　きもちが　わかるのだ。"
+      },
+      {
+        "game": "oras-or",
+        "text": "みみの　しょっかくで　あいての\nたいちょうや　タマゴから　ポケモンが\nいつ　でてくるのかも　わかるのだ。"
+      },
+      {
+        "game": "oras-as",
+        "text": "みみの　しょっかくで　あいてに\nふれると　しんぞうの　おとで\nたいちょうや　きもちが　わかるのだ。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "すぐれた　ちょうかくを　もっている。\n２キロさきで　ころがった　こいしの\nおとも　ききとることが　できる。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "こころやさしい　ポケモン。\nしょっかくを　おしあて　あいての\nきもちや　たいちょうを　りかいする。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Tabunne",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "다부니",
+    "genus": "히어링포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "귀의 더듬이로 상대의\n컨디션이나 알에서 포켓몬이\n언제 나올지도 알 수 있다."
+      },
+      {
+        "game": "xy-y",
+        "text": "귀의 더듬이가 상대에게\n닿으면 심장 소리를 듣고\n몸 상태나 기분을 알 수 있다."
+      },
+      {
+        "game": "oras-or",
+        "text": "귀의 더듬이로 상대의\n컨디션이나 알에서 포켓몬이\n언제 나올지도 알 수 있다."
+      },
+      {
+        "game": "oras-as",
+        "text": "귀의 더듬이가 상대에게\n닿으면 심장 소리를 듣고\n몸 상태나 기분을 알 수 있다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "뛰어난 청각을 가졌다.\n2km 떨어진 곳에서 구르는\n돌멩이 소리도 들을 수 있다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "마음 착한 포켓몬이다.\n더듬이를 갖다 대어 상대의\n마음과 몸 상태를 파악한다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "差不多娃娃",
+    "genus": "聽力寶可夢",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "擁有極為敏銳的聽覺。\n連２公里外有小石子\n滾動的聲音牠都能聽見。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "心地善良的寶可夢。透過\n用觸角觸碰，就能了解\n對方的情緒和身體狀況。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Nanméouïe",
+    "genus": "Pokémon Audition",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Il ausculte les gens avec ses antennes\nauriculaires pour juger de leurs\némotions ou de leur santé."
+      },
+      {
+        "game": "bw-w",
+        "text": "Sa capacité auditive est exceptionnelle.\nIl émet des sons imperceptibles pour\nsonder les alentours, comme un sonar."
+      },
+      {
+        "game": "xy-x",
+        "text": "Son ouïe est si développée qu’il arrive à juger de\nla santé des gens ou à savoir quand un Œuf va éclore."
+      },
+      {
+        "game": "xy-y",
+        "text": "Il ausculte les gens avec ses antennes auriculaires\npour juger de leurs émotions ou de leur santé."
+      },
+      {
+        "game": "oras-or",
+        "text": "Son ouïe est si développée qu’il arrive à juger de la santé\ndes gens ou à savoir quand un Œuf va éclore."
+      },
+      {
+        "game": "oras-as",
+        "text": "Il ausculte les gens avec ses antennes auriculaires pour juger\nde leurs émotions ou de leur santé."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Son ouïe est si fine qu’il est capable d’entendre\nun caillou tomber à 2 km."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Ce Pokémon gentil est capable de deviner\nles émotions et l’état de santé des autres\nrien qu’en les touchant avec ses antennes."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Ohrdoch",
+    "genus": "Gehör-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Über die Fühler an seinen Ohren kann es ertasten,\nwie es einer Person geht oder wann ein Pokémon\naus seinem Ei schlüpft."
+      },
+      {
+        "game": "xy-y",
+        "text": "Berührt es jemanden mit den Fühlern an seinen Ohren,\nerfährt es durch den Herzschlag der Person,\nwie es ihr geht."
+      },
+      {
+        "game": "oras-or",
+        "text": "Über die Fühler an seinen Ohren kann es ertasten, wie es einer\nPerson geht oder wann ein Pokémon aus seinem Ei schlüpft."
+      },
+      {
+        "game": "oras-as",
+        "text": "Berührt es jemanden mit den Fühlern an seinen Ohren,\nerfährt es durch den Herzschlag der Person, wie es ihr geht."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Dieses Pokémon verfügt über ein außerordentlich\ngutes Gehör. Es kann sogar das Kullern eines\nKiesels aus 2 km Entfernung vernehmen."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Berührt dieses herzensgute Pokémon jemanden\nmit seinen Fühlern, kann es dessen körperliche\nVerfassung und Gemütszustand ertasten."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Audino",
+    "genus": "Pokémon Escucha",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Con las antenas de sus oídos, perciben el estado de\nun rival o predicen cuándo va a eclosionar un Huevo\nPokémon."
+      },
+      {
+        "game": "xy-y",
+        "text": "Al tocar a alguien con las antenas de sus orejas,\nconoce su estado de ánimo y de salud por los latidos\ndel corazón."
+      },
+      {
+        "game": "oras-or",
+        "text": "Con las antenas de sus oídos, perciben el estado de un rival o\npredicen cuándo va a eclosionar un Huevo Pokémon."
+      },
+      {
+        "game": "oras-as",
+        "text": "Al tocar a alguien con las antenas de sus orejas, conoce su\nestado de ánimo y de salud por los latidos del corazón."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Su sentido del oído es extraordinario. Puede\npercibir el sonido de una piedrecita rodando\na 2 km de distancia."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Un Pokémon gentil que es capaz de comprender\nlos sentimientos y averiguar el estado de salud\nde todo aquel que toque con sus antenas."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Audino",
+    "genus": "Pokémon Ascolto",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Le sue orecchie sono antenne capaci di sondare\nlo stato di salute degli altri o capire quando un\nuovo si schiuderà."
+      },
+      {
+        "game": "xy-y",
+        "text": "Quando tocca qualcuno con le antenne delle\norecchie, ne percepisce lo stato fisico e psicologico\ndal battito cardiaco."
+      },
+      {
+        "game": "oras-or",
+        "text": "Le sue orecchie sono antenne capaci di sondare lo stato\ndi salute degli altri o capire quando un uovo si schiuderà."
+      },
+      {
+        "game": "oras-as",
+        "text": "Quando tocca qualcuno con le antenne delle orecchie, ne\npercepisce lo stato fisico e psicologico dal battito cardiaco."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Possiede un udito eccellente, grazie al quale\nriesce a cogliere anche il suono di un sasso\nche rotola a 2 km di distanza."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Questo Pokémon dal cuore tenero è in grado di\npercepire le condizioni fisiche e mentali\ndi chi tocca con le antenne."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Audino",
+    "genus": "Hearing Pokémon",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "It touches others with the feelers on\nits ears, using the sound of their\nheartbeats to tell how they are feeling."
+      },
+      {
+        "game": "bw-w",
+        "text": "Its auditory sense is astounding. It has\na radarlike ability to understand its\nsurroundings through slight sounds."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "Using the feelers on its ears,\nit can tell how someone is feeling\nor when an egg might hatch."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "Using the feelers on its ears,\nit can tell how someone is feeling\nor when an egg might hatch."
+      },
+      {
+        "game": "xy-x",
+        "text": "Using the feelers on its ears, it can tell how\nsomeone is feeling or when an egg might hatch."
+      },
+      {
+        "game": "xy-y",
+        "text": "It touches others with the feelers on its ears, using\nthe sound of their heartbeats to tell how they\nare feeling."
+      },
+      {
+        "game": "oras-or",
+        "text": "Using the feelers on its ears, it can tell how\nsomeone is feeling or when an egg might hatch."
+      },
+      {
+        "game": "oras-as",
+        "text": "It touches others with the feelers on its ears, using\nthe sound of their heartbeats to tell how they\nare feeling."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Audino’s sense of hearing is superb. Not even a\npebble rolling along over a mile away will escape\nAudino’s ears."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "This Pokémon has a kind heart. By touching with\nits feelers, Audino can gauge other creatures’\nfeelings and physical conditions."
+      }
+    ]
+  },
+  "chs": {
+    "name": "差不多娃娃",
+    "genus": "听力宝可梦",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "拥有敏锐的听觉。\n连２公里以外小石头\n滚动的声音都能听到。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "心地善良的宝可梦。\n通过触角接触，就能了解\n对方的心情和身体状况。"
+      }
+    ]
+  }
+}

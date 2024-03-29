@@ -1,0 +1,133 @@
+{
+  "jap": {
+    "name": "サルノリ",
+    "genus": "こざるポケモン",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "とくべつな　スティックで　リズムを\nきざむと　くさばなを　げんきにする\nパワーが　おんぱになって　ひろがる。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "スティックの　れんだで　こうげき。\nすごい　スピードで　たたくうちに\nどんどん　テンションが　あがるのだ。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Sarunori",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "흥나숭",
+    "genus": "꼬마원숭이포켓몬",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "특별한 스틱으로 리듬을 타면\n화초를 생생하게 만드는 힘이\n음파가 되어 퍼진다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "스틱으로 연타하여 공격한다.\n굉장한 속도로 치다 보면\n점점 텐션이 올라간다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "敲音猴",
+    "genus": "小猴寶可夢",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "當牠用特別的木棒敲奏時，\n能夠給予花草活力的力量\n就會變成音波擴散開來。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "會用木棒連續擊打來攻擊。\n在以飛快的速度擊打的同時，\n情緒也會變得越來越高漲。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Ouistempo",
+    "genus": "Pokémon Chimpanzé",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Le rythme qu’il crée en tapant avec son bâton\ntrès spécial génère des ondes sonores\nqui ont le pouvoir de vivifier les plantes."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Il attaque en frappant frénétiquement avec\nson bâton. Son enthousiasme grandit à mesure\nque le rythme s’accélère."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Chimpep",
+    "genus": "Schimpansen-Pokémon",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Der Rhythmus, den es mit seinem besonderen\nSchlägel erzeugt, verbreitet Schallwellen, die\nPflanzen neue Vitalität verleihen können."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Es greift an, indem es wiederholt seinen Schlägel\nschwingt. Diese rasanten Trommelbewegungen\nbringen es immer mehr in Fahrt."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Grookey",
+    "genus": "Pokémon Chimpancé",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Al marcar el ritmo con su baqueta especial,\nproduce unas ondas sonoras capaces de devolver\nla vitalidad a la flora."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Ataca golpeando sin cesar con su baqueta, con\nun entusiasmo que crece a medida que acelera\nel ritmo."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Grookey",
+    "genus": "Pokémon Scimpanzé",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Segnando il ritmo con la sua bacchetta speciale\ndiffonde onde sonore che hanno il potere\ndi rinvigorire fiori e piante."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Attacca percuotendo il nemico con la sua\nbacchetta, con un entusiasmo che cresce\nall’aumentare del ritmo sfrenato con cui colpisce."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Grookey",
+    "genus": "Chimp Pokémon",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "When it uses its special stick to strike up a beat,\nthe sound waves produced carry revitalizing\nenergy to the plants and flowers in the area."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "It attacks with rapid beats of its stick.\nAs it strikes with amazing speed, it gets\nmore and more pumped."
+      }
+    ]
+  },
+  "chs": {
+    "name": "敲音猴",
+    "genus": "小猴宝可梦",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "当它用特别的木棒敲奏时，\n能够给予花草活力的力量\n就会变成音波扩散开来。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "会用木棒连续击打来攻击。\n在以飞快的速度击打的同时，\n情绪也会变得越来越高涨。"
+      }
+    ]
+  }
+}

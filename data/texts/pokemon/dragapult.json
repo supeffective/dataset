@@ -1,0 +1,133 @@
+{
+  "jap": {
+    "name": "ドラパルト",
+    "genus": "ステルスポケモン",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "ツノの　あなに　ドラメシヤを　いれて\nくらす。　たたかいになると　マッハの\nスピードで　ドラメシヤを　とばす。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "ツノに　はいった　ドラメシヤは\nマッハの　スピードで　とばされるのを\nこころまちに　しているらしい。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Dorapult",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "드래펄트",
+    "genus": "스텔스포켓몬",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "뿔에 있는 구멍에 드라꼰을 넣고\n지낸다. 싸움이 시작되면 마하의\n스피드로 드라꼰을 날린다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "뿔에 들어간 드라꼰은\n마하의 속도로 날려지기를\n기대하고 있는 것 같다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "多龍巴魯托",
+    "genus": "隱形寶可夢",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "讓多龍梅西亞住在自己角上的\n洞裡。戰鬥開始後會用音速\n將多龍梅西亞發射出去。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "牠角裡的多龍梅西亞\n似乎滿心期待著能被\n以音速發射出去。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Lanssorien",
+    "genus": "Pokémon Furtif",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Il vit en compagnie de Fantyrm qui logent\ndans les trous de ses cornes. Quand il passe\nà l’attaque, il les propulse à la vitesse du son."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Il paraît que les Fantyrm installés dans ses cornes\nattendent impatiemment le moment où ils seront\npropulsés à la vitesse du son."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Katapuldra",
+    "genus": "Tarnkünstler-Pokémon",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Es transportiert Grolldra in den Löchern an\nseinen Hörnern. Kommt es zum Kampf, schießt\nes diese mit Mach-Geschwindigkeit ab."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Die Grolldra, die in seinen Hörnern sitzen,\nwarten angeblich voller Spannung darauf, mit\nMach-Geschwindigkeit abgefeuert zu werden."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Dragapult",
+    "genus": "Pokémon Furtivo",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Vive en compañía de Dreepy, a los que hospeda\nen el interior de sus cuernos. Los dispara a\nvelocidad supersónica en combate."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Al parecer, los Dreepy que residen en sus\ncuernos esperan con ilusión el momento de ser\npropulsados a velocidad supersónica."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Dragapult",
+    "genus": "Pokémon Furtivo",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Vive assieme ai Dreepy, che ospita all’interno\ndei buchi sulle sue corna. Quando lotta\nli espelle alla velocità del suono."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "I Dreepy che vivono nelle sue corna attendono\nansiosamente di essere sparati alla velocità\ndel suono."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Dragapult",
+    "genus": "Stealth Pokémon",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "When it isn’t battling, it keeps Dreepy in the\nholes on its horns. Once a fight starts, it launches\nthe Dreepy like supersonic missiles."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Apparently the Dreepy inside Dragapult’s\nhorns eagerly look forward to being launched out\nat Mach speeds."
+      }
+    ]
+  },
+  "chs": {
+    "name": "多龙巴鲁托",
+    "genus": "隐形宝可梦",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "让多龙梅西亚住在自己角上的\n洞里。战斗开始后会用音速\n将多龙梅西亚发射出去。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "它角里的多龙梅西亚\n似乎满心期待着能被\n以音速发射出去。"
+      }
+    ]
+  }
+}

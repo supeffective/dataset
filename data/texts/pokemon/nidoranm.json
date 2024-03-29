@@ -1,0 +1,405 @@
+{
+  "jap": {
+    "name": "ニドラン♂",
+    "genus": "どくばりポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "くさむらの　うえに　みみだけ　だして\nまわりの　けはいを　さぐる。\nもうどくの　ツノで　みを　まもる。"
+      },
+      {
+        "game": "xy-y",
+        "text": "みみが　おおきく　とおくの　おとを\nきくとき　はばたくように　うごく。\nおこると　どくばりを　だす。"
+      },
+      {
+        "game": "oras-or",
+        "text": "みみを　うごかす　きんにくが　はったつしていて\nどんな　むきにも　じざいに　みみを　うごかせる。\nかすかな　ものおとも　ききもらさない　ポケモン。"
+      },
+      {
+        "game": "oras-as",
+        "text": "みみを　うごかす　きんにくが　はったつしていて\nどんな　むきにも　じざいに　みみを　うごかせる。\nかすかな　ものおとも　ききもらさない　ポケモン。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "いつも　おおきな　みみを　たてて\nまわりの　けはいを　さぐる。きけんを\nかんじたときは　どくバリを　つかう。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "いつも　おおきな　みみを　たてて\nまわりの　けはいを　さぐる。きけんを\nかんじたときは　どくバリを　つかう。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "ひたいの　ツノには　もうどくがある。\nけいかいしんが　つよく　おおきな\nみみを　つねに　そばだてている。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "こがらだが　いさましい　せいしつ。\nなかよしの　メスを　まもるため\nみを　ていして　かかんに　たたかう。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Nidoran♂",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "니드런♂",
+    "genus": "독침포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "풀밭 위로 귀만 내어\n주위의 낌새를 살핀다.\n맹독의 뿔로 몸을 보호한다."
+      },
+      {
+        "game": "xy-y",
+        "text": "귀가 커서 먼 곳의 소리를\n들을 때 날개 치듯 움직인다.\n화나면 독침을 쏜다."
+      },
+      {
+        "game": "oras-or",
+        "text": "귀를 움직이는 근육이 발달되어 있어서\n어떤 방향으로든 자유로이 귀를 움직일 수 있다.\n희미한 소리도 빠트리지 않고 듣는 포켓몬이다."
+      },
+      {
+        "game": "oras-as",
+        "text": "귀를 움직이는 근육이 발달되어 있어서\n어떤 방향으로든 자유로이 귀를 움직일 수 있다.\n희미한 소리도 빠트리지 않고 듣는 포켓몬이다."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "언제나 커다란 귀를 세워서\n주위의 낌새를 살핀다.\n위험을 감지하면 독침을 사용한다."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "언제나 커다란 귀를 세워서\n주위의 낌새를 살핀다.\n위험을 감지하면 독침을 사용한다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "이마의 뿔에는 맹독이 있다.\n경계심이 강해서 커다란\n귀를 늘 쫑긋 세우고 있다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "몸집은 작지만 용맹한 성질을 지녔다.\n친한 암컷을 지키기 위해\n몸을 던져 과감히 싸운다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "尼多朗",
+    "genus": "毒針寶可夢",
+    "flavorText": [
+      {
+        "game": "lgpe-lgp",
+        "text": "總是豎起大大的耳朵，\n探查著周遭的狀況。\n察覺到危險時會用毒針來應付。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "總是豎起大大的耳朵，\n探查著周遭的狀況。\n察覺到危險時會用毒針來應付。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "額頭的角有劇毒。\n警戒心強，隨時都\n豎著大耳朵戒備著。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "體型嬌小，但性情勇猛。\n為了保護感情好的雌性，\n會奮不顧身地勇敢戰鬥。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Nidoran♂",
+    "genus": "Pokémon Vénépic",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Il jauge le terrain en laissant\nses oreilles dépasser de l’herbe.\nIl se défend avec sa corne toxique."
+      },
+      {
+        "game": "bw-w",
+        "text": "Il jauge le terrain en laissant\nses oreilles dépasser de l’herbe.\nIl se défend avec sa corne toxique."
+      },
+      {
+        "game": "xy-x",
+        "text": "Il jauge le terrain en laissant ses oreilles dépasser\nde l’herbe. Il se défend avec sa corne toxique."
+      },
+      {
+        "game": "xy-y",
+        "text": "Ce Pokémon agite ses oreilles comme pour entendre\ntout ce qui se passe au loin. Il déploie des aiguillons\ntoxiques quand il est en colère."
+      },
+      {
+        "game": "oras-or",
+        "text": "Nidoran♂ a développé des muscles pour bouger\nses oreilles. Ainsi, il peut les orienter à sa guise.\nCe Pokémon peut entendre le plus discret des bruits."
+      },
+      {
+        "game": "oras-as",
+        "text": "Nidoran♂ a développé des muscles pour bouger\nses oreilles. Ainsi, il peut les orienter à sa guise.\nCe Pokémon peut entendre le plus discret des bruits."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Ses grandes oreilles sont toujours dressées et\nà l’affût de ce qu’il se passe alentour. S’il est\nmenacé, il se défend avec ses dards venimeux."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Ses grandes oreilles sont toujours dressées et\nà l’affût de ce qu’il se passe alentour. S’il est\nmenacé, il se défend avec ses dards venimeux."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Sa corne frontale contient un puissant poison.\nLes grandes oreilles de ce Pokémon très prudent\nsont constamment dressées."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Malgré sa petite taille, il est très téméraire.\nAfin de protéger sa compagne, il est prêt à\nse battre et à risquer sa vie."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Nidoran♂",
+    "genus": "Giftdorn-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Es untersucht die Umgebung, indem es die Ohren\nspitzt und lauscht. Sein giftiges Horn schützt es."
+      },
+      {
+        "game": "xy-y",
+        "text": "Seine großen Ohren schlagen wie Flügel, wenn es\nGeräusche in weiter Entfernung hört. Es fährt\ngiftige Stacheln aus, wenn es verärgert ist."
+      },
+      {
+        "game": "oras-or",
+        "text": "Nidoran♂ hat Muskeln entwickelt, um seine Ohren bewegen\nzu können. Dadurch kann es sie in jede beliebige Richtung\ndrehen. Diesem Pokémon entgeht nicht einmal das leiseste\nGeräusch."
+      },
+      {
+        "game": "oras-as",
+        "text": "Nidoran♂ hat Muskeln entwickelt, um seine Ohren\nbewegen zu können. Dadurch kann es sie in jede\nbeliebige Richtung wenden. Diesem Pokémon entgeht\nnicht das leiseste Geräusch."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Es stellt seine großen Ohren auf, um so seine\nUmgebung zu überwachen. Droht Gefahr,\nso greift es mit seinen Giftstacheln an."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Es stellt seine großen Ohren auf, um so seine\nUmgebung zu überwachen. Droht Gefahr,\nso greift es mit seinen Giftstacheln an."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Das Horn auf seiner Stirn enthält ein starkes Gift.\nDieses Pokémon ist sehr vorsichtig und stellt\nseine großen Ohren stets wachsam auf."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Trotz seiner geringen Größe ist es sehr mutig.\nUm ein befreundetes Weibchen zu beschützen,\nriskiert es sein Leben und kämpft unerschrocken."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Nidoran♂",
+    "genus": "Pokémon Pin Veneno",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Saca las orejas por encima de la hierba para explorar\nel territorio. Le protege su cuerno venenoso."
+      },
+      {
+        "game": "xy-y",
+        "text": "Cambia la orientación de las grandes orejas que\ntiene para oír mejor. Si se enfada, despliega sus\npúas venenosas."
+      },
+      {
+        "game": "oras-or",
+        "text": "Nidoran♂ ha desarrollado músculos para mover las orejas y\norientarlas en cualquier dirección. De este modo, es capaz de\ncaptar hasta el sonido más leve."
+      },
+      {
+        "game": "oras-as",
+        "text": "Nidoran♂ ha desarrollado músculos para mover las orejas y\norientarlas en cualquier dirección. De este modo, es capaz de\ncaptar hasta el sonido más leve."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Mantiene sus grandes orejas levantadas, siempre\nalerta. Si advierte peligro, ataca con las púas\nvenenosas."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Mantiene sus grandes orejas levantadas, siempre\nalerta. Si advierte peligro, ataca con las púas\nvenenosas."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Mantiene sus grandes orejas levantadas, siempre\nalerta. Si advierte peligro, ataca inoculando una\npotente toxina con su cuerno frontal."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Pequeño pero valiente. Arriesgaría la vida en\ncombate con tal de proteger a su compañera."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Nidoran♂",
+    "genus": "Pokémon Velenago",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Esamina l’ambiente circostante tendendo le orecchie\nfuori dall’erba. Si protegge con il corno velenoso."
+      },
+      {
+        "game": "xy-y",
+        "text": "Solleva le orecchie come ali per captare rumori in\nlontananza. Quando è adirato, estende i baffi velenosi."
+      },
+      {
+        "game": "oras-or",
+        "text": "Nidoran♂ ha sviluppato dei muscoli per muovere liberamente\nle orecchie in qualsiasi direzione. Così, questo Pokémon\nè in grado di percepire anche il più flebile fruscio."
+      },
+      {
+        "game": "oras-as",
+        "text": "Nidoran♂ ha sviluppato dei muscoli per muovere liberamente\nle orecchie in qualsiasi direzione. Così, questo Pokémon\nè in grado di percepire anche il più flebile fruscio."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Rizza le orecchie enormi per sondare i dintorni.\nSe percepisce un pericolo, attacca con gli aculei\nvelenosi."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Rizza le orecchie enormi per sondare i dintorni.\nSe percepisce un pericolo, attacca con gli aculei\nvelenosi."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Il corno sulla fronte è estremamente velenoso.\nDi indole circospetta, rizza costantemente le\nsue grandi orecchie."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Impavido nonostante la corporatura minuta,\nlotta con coraggio per proteggere la femmina\na cui è affezionato, anche a costo della vita."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Nidoran♂",
+    "genus": "Poison Pin Pokémon",
+    "flavorText": [
+      {
+        "game": "rb-r",
+        "text": "Stiffens its ears\nto sense danger.\nThe larger its\fhorns, the more\npowerful its\nsecreted venom."
+      },
+      {
+        "game": "rb-b",
+        "text": "Stiffens its ears\nto sense danger.\nThe larger its\fhorns, the more\npowerful its\nsecreted venom."
+      },
+      {
+        "game": "y",
+        "text": "Its large ears\nare always kept\nupright. If it\fsenses danger, it\nwill attack with a\npoisonous sting."
+      },
+      {
+        "game": "gs-g",
+        "text": "It is small, but\nits horn is filled\nwith poison. It\fcharges then stabs\nwith the horn to\ninject poison."
+      },
+      {
+        "game": "gs-s",
+        "text": "It raises its big\nears to check its\nsurroundings.\fIt will strike\nfirst if it senses\nany danger."
+      },
+      {
+        "game": "c",
+        "text": "It constantly\nmoves its large\nears in many\fdirections in\norder to detect\ndanger right away."
+      },
+      {
+        "game": "rs-r",
+        "text": "The male NIDORAN has developed\nmuscles for moving its ears. Thanks to\nthem, the ears can be freely moved in\fany direction. Even the slightest sound\ndoes not escape this POKéMON’s notice."
+      },
+      {
+        "game": "rs-s",
+        "text": "The male NIDORAN has developed\nmuscles for moving its ears. Thanks to\nthem, the ears can be freely moved in\fany direction. Even the slightest sound\ndoes not escape this POKéMON’s notice."
+      },
+      {
+        "game": "e",
+        "text": "The male NIDORAN has developed muscles\nthat freely move its ears in any direction.\nEven the slightest sound does not escape\nthis POKéMON’s notice."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "Its large ears are flapped like wings\nwhen it is listening to distant sounds.\nIt extends toxic barbs when angered."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "It stiffens its ears to sense danger.\nThe larger its horns, the more \npowerful its secreted venom."
+      },
+      {
+        "game": "dp-d",
+        "text": "It scans its surroundings by\nraising its ears out of the grass.\nIts toxic horn is for protection."
+      },
+      {
+        "game": "dp-p",
+        "text": "It scans its surroundings by\nraising its ears out of the grass.\nIts toxic horn is for protection."
+      },
+      {
+        "game": "pt",
+        "text": "It scans its surroundings by\nraising its ears out of the grass.\nIts toxic horn is for protection."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "It is small, but its horn is filled\nwith poison. It charges then stabs\nwith the horn to inject poison."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "It raises its big ears to check its\nsurroundings. It will strike\nfirst if it senses any danger."
+      },
+      {
+        "game": "bw-b",
+        "text": "It scans its surroundings by\nraising its ears out of the grass.\nIts toxic horn is for protection."
+      },
+      {
+        "game": "bw-w",
+        "text": "It scans its surroundings by\nraising its ears out of the grass.\nIts toxic horn is for protection."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "It scans its surroundings by\nraising its ears out of the grass.\nIts toxic horn is for protection."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "It scans its surroundings by\nraising its ears out of the grass.\nIts toxic horn is for protection."
+      },
+      {
+        "game": "xy-x",
+        "text": "It scans its surroundings by raising its ears out of\nthe grass. Its toxic horn is for protection."
+      },
+      {
+        "game": "xy-y",
+        "text": "Its large ears are flapped like wings when it is\nlistening to distant sounds. It extends toxic barbs\nwhen angered."
+      },
+      {
+        "game": "oras-or",
+        "text": "Nidoran♂ has developed muscles for moving its ears. Thanks\nto them, the ears can be freely moved in any direction. Even\nthe slightest sound does not escape this Pokémon’s notice."
+      },
+      {
+        "game": "oras-as",
+        "text": "Nidoran♂ has developed muscles for moving its ears. Thanks\nto them, the ears can be freely moved in any direction. Even\nthe slightest sound does not escape this Pokémon’s notice."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Its large ears are always kept upright. If it senses\ndanger, it will attack with a poisonous sting."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Its large ears are always kept upright. If it senses\ndanger, it will attack with a poisonous sting."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "The horn on a male Nidoran’s forehead contains\na powerful poison. This is a very cautious\nPokémon, always straining its large ears."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Small but brave, this Pokémon will hold its\nground and even risk its life in battle to protect\nthe female it’s friendly with."
+      }
+    ]
+  },
+  "chs": {
+    "name": "尼多朗",
+    "genus": "毒针宝可梦",
+    "flavorText": [
+      {
+        "game": "lgpe-lgp",
+        "text": "一直竖起它的大耳朵\n感知周围的情形。当它\n察觉到危险便会使用毒针。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "一直竖起它的大耳朵\n感知周围的情形。当它\n察觉到危险便会使用毒针。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "额头上的角含有剧毒。\n警戒心强，无论何时都\n竖着自己大大的耳朵。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "身材虽小，却性格勇敢。\n为了保护相好的雌性，\n会不顾生命果敢地战斗。"
+      }
+    ]
+  }
+}

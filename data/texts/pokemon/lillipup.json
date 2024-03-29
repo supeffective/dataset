@@ -1,0 +1,413 @@
+{
+  "jap": {
+    "name": "ヨーテリー",
+    "genus": "こいぬポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "かおを　おおう　ながい　けは\nすぐれた　レーダー。しゅういの\nようすを　びんかんに　さっちする。"
+      },
+      {
+        "game": "xy-y",
+        "text": "ゆうもうな　ポケモンだが　あいての\nつよさを　たしかめて　たたかいを\nさける　かしこさも　あわせもつ。"
+      },
+      {
+        "game": "oras-or",
+        "text": "かおを　おおう　ながい　けは\nすぐれた　レーダー。しゅういの\nようすを　びんかんに　さっちする。"
+      },
+      {
+        "game": "oras-as",
+        "text": "ゆうもうな　ポケモンだが　あいての\nつよさを　たしかめて　たたかいを\nさける　かしこさも　あわせもつ。"
+      },
+      {
+        "game": "sm-s",
+        "text": "キャンキャン　ほえたり　しないので\nマンションぐらしの　トレーナーに\nにんきの　たかい　ポケモン。"
+      },
+      {
+        "game": "sm-m",
+        "text": "かおを　おおう　けは　レーダーの\nやくめを　もっており　たたかう\nあいての　ようすを　さぐるのだ。"
+      },
+      {
+        "game": "usum-us",
+        "text": "はんだんりょくに　すぐれた　ポケモン。\nかてない　あいてと　はんだんしたら\nさっさと　シッポを　まいて　にげる。"
+      },
+      {
+        "game": "usum-um",
+        "text": "かしこく　トレーナーの　いうことを\nすなおに　きくので　しょしんしゃでも\nそだてやすいと　にんきの　ポケモン。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "ゆうかん　かつ　しんちょう。\nかおを　おおう　やわらかい　けで\nまわりの　じょうほうを　キャッチ。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "なみの　こども　よりも　ずっと\nりこう。　うけた　あいじょうも\nされた　しうちも　わすれないのだ。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Yorterrie",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "요테리",
+    "genus": "강아지포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "얼굴을 둘러싼 긴 털은\n우수한 레이더다. 주위\n상황을 민감히 살핀다."
+      },
+      {
+        "game": "xy-y",
+        "text": "용맹한 포켓몬이지만 상대의\n강함을 확인하고 싸움을\n피하는 영리함도 함께 갖추고 있다."
+      },
+      {
+        "game": "oras-or",
+        "text": "얼굴을 둘러싼 긴 털은\n우수한 레이더다. 주위\n상황을 민감히 살핀다."
+      },
+      {
+        "game": "oras-as",
+        "text": "용맹한 포켓몬이지만 상대의\n강함을 확인하고 싸움을\n피하는 영리함도 함께 갖추고 있다."
+      },
+      {
+        "game": "sm-s",
+        "text": "컹컹 짖거나 하지 않으므로\n맨션에 사는 트레이너에게\n인기가 많은 포켓몬이다."
+      },
+      {
+        "game": "sm-m",
+        "text": "얼굴을 둘러싼 털은\n레이더 역할을 하여\n싸우는 상대의 상태를 살핀다."
+      },
+      {
+        "game": "usum-us",
+        "text": "판단력이 뛰어난 포켓몬.\n이길 수 없는 상대라고 판단되면\n바로 꼬리를 내리고 도망친다."
+      },
+      {
+        "game": "usum-um",
+        "text": "영리해서 트레이너가 하는 말을\n잘 따르기 때문에 초보자라도\n키우기 쉬워서 인기 있는 포켓몬이다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "용감하고 신중하다.\n얼굴을 덮고 있는 부드러운 털로\n주변의 정보를 캐치한다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "또래의 아이보다 훨씬\n영리하다. 사랑받은 것도\n혼난 것도 잊지 않는다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "小約克",
+    "genus": "小狗寶可夢",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "因為不會汪汪汪地叫個不停，\n所以很受住公寓的訓練家們的歡迎。"
+      },
+      {
+        "game": "sm-m",
+        "text": "覆蓋著臉部的毛擁有雷達的功能，\n用來探測戰鬥對手的狀況。"
+      },
+      {
+        "game": "usum-us",
+        "text": "擁有優秀判斷力的寶可夢。\n一旦判斷自己無法戰勝對手，\n就會立刻夾著尾巴逃走，"
+      },
+      {
+        "game": "usum-um",
+        "text": "聰明的牠會忠實地聽從訓練家的吩咐，\n所以即使是新手也很容易培育。\n是很受歡迎的寶可夢。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "個性勇敢且慎重。\n會用覆蓋著臉部的軟毛\n獲取周遭的資訊。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "比一般的小孩子都還要聰明。\n對於自己得到的關愛，\n或是受到的傷害牠都不會忘記。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Ponchiot",
+    "genus": "Pokémon Chiot",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Il fait vaillamment face à des ennemis\ntrès puissants, mais il est intelligent\net évite les combats trop inégaux."
+      },
+      {
+        "game": "bw-w",
+        "text": "Les longs poils de son museau font\nun excellent radar qui analyse les\nalentours avec une grande acuité."
+      },
+      {
+        "game": "xy-x",
+        "text": "Les longs poils de son museau font un excellent\nradar qui analyse les alentours avec une grande\nacuité."
+      },
+      {
+        "game": "xy-y",
+        "text": "Bien que vaillant, il a aussi l’intelligence d’analyser\ntoutes les situations et de fuir quand il anticipe une\ndéfaite."
+      },
+      {
+        "game": "oras-or",
+        "text": "Les longs poils de son museau font un excellent radar\nqui analyse les alentours avec une grande acuité."
+      },
+      {
+        "game": "oras-as",
+        "text": "Bien que vaillant, il a aussi l’intelligence d’analyser toutes\nles situations et de fuir quand il anticipe une défaite."
+      },
+      {
+        "game": "sm-s",
+        "text": "Très sage, il n’aboie et ne mord pas sans raison,\nce qui en fait un Pokémon domestique très\napprécié des Dresseurs casaniers."
+      },
+      {
+        "game": "sm-m",
+        "text": "Les poils qui masquent son visage lui servent\nde radar, et lui permettent ainsi d’évaluer\nla position et la puissance de ses ennemis."
+      },
+      {
+        "game": "usum-us",
+        "text": "Réputé pour sa grande perspicacité, il s’enfuit\nla queue entre les pattes s’il s’estime trop faible\npour gagner."
+      },
+      {
+        "game": "usum-um",
+        "text": "Sa docilité en fait un Pokémon facile à élever.\nIl est notamment populaire auprès des\nDresseurs débutants."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Ce Pokémon est courageux, mais prudent.\nLes poils doux qui recouvrent son visage\nlui permettent de sonder les alentours."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Ce Pokémon est plus intelligent que la plupart\ndes enfants. Il n’oublie ni l’affection qu’il a reçue\nni les mauvais traitements qu’il a pu subir."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Yorkleff",
+    "genus": "Welpen-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Das lange Fell um sein Gesicht fungiert als\nHightech-Radar, mit dem es fein säuberlich\nseine Umgebung abtastet."
+      },
+      {
+        "game": "xy-y",
+        "text": "Ein tapferes Pokémon, das jedoch klug genug ist,\nseinen Gegner zu mustern, bevor es sich auf einen\nKampf einlässt."
+      },
+      {
+        "game": "oras-or",
+        "text": "Das lange Fell um sein Gesicht fungiert als Hightech-Radar,\nmit dem es fein säuberlich seine Umgebung abtastet."
+      },
+      {
+        "game": "oras-as",
+        "text": "Ein tapferes Pokémon, das jedoch klug genug ist, seinen\nGegner zu mustern, bevor es sich auf einen Kampf einlässt."
+      },
+      {
+        "game": "sm-s",
+        "text": "Es jault nicht, weswegen es bei Trainern, die in\nApartmenthäusern wohnen, sehr beliebt ist."
+      },
+      {
+        "game": "sm-m",
+        "text": "Das Fell auf seinem Gesicht fungiert als Radar,\nmit dem es Gegner aufspürt."
+      },
+      {
+        "game": "usum-us",
+        "text": "Ein Pokémon mit ausgeprägtem Urteilsvermögen.\nBefindet es seinen Gegner für zu stark, zieht es\nden Schwanz ein und sucht sofort das Weite."
+      },
+      {
+        "game": "usum-um",
+        "text": "Dieses pfiffige Pokémon ist besonders bei\nAnfängern beliebt, da es den Befehlen seines\nTrainers brav folgt und leicht zu trainieren ist."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Es ist zwar tapfer, aber auch vorsichtig. Mit dem\nweichen Fell, das sein Gesicht bedeckt, nimmt\nYorkleff Informationen über seine Umgebung auf."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Yorkleff ist deutlich intelligenter als die meisten\nKinder und vergisst nie, wenn man ihm Zuneigung\nentgegenbringt oder es schlecht behandelt."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Lillipup",
+    "genus": "Pokémon Perrito",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Los mechones que cubren su cara actúan como un\nmagnífico radar para detectar con precisión lo que hay\na su alrededor."
+      },
+      {
+        "game": "xy-y",
+        "text": "Aunque se trata de un Pokémon valeroso, también es\nlo bastante inteligente como para escapar si el rival es\nmuy fuerte."
+      },
+      {
+        "game": "oras-or",
+        "text": "Los mechones que cubren su cara actúan como un magnífico\nradar para detectar con precisión lo que hay a su alrededor."
+      },
+      {
+        "game": "oras-as",
+        "text": "Aunque se trata de un Pokémon valeroso, también es lo\nbastante inteligente como para escapar si el rival es muy\nfuerte."
+      },
+      {
+        "game": "sm-s",
+        "text": "No suele ladrar mucho, por lo que resulta muy\npopular entre los Entrenadores que viven\nen apartamentos."
+      },
+      {
+        "game": "sm-m",
+        "text": "Los mechones que le cubren el rostro actúan\ncomo un radar con el que averiguan la\nenvergadura de posibles contrincantes."
+      },
+      {
+        "game": "usum-us",
+        "text": "Este Pokémon destaca por su perspicacia. Si\npercibe que no lleva las de ganar, no duda en\nhuir con el rabo entre las piernas."
+      },
+      {
+        "game": "usum-um",
+        "text": "Este inteligente Pokémon es muy popular, ya que\nobedece sin rechistar a su Entrenador e incluso\nlos novatos pueden entrenarlo sin problemas."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Es valiente pero cauto. Usa el suave pelaje que le\nrecubre el rostro para obtener información sobre\nsu entorno."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Muestra una inteligencia muy superior a la media\nde los niños humanos. No olvida ni el amor ni los\nmalos tratos que recibe."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Lillipup",
+    "genus": "Pokémon Cagnolino",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "I lunghi peli che gli coprono il volto sono un radar\nmolto sensibile alle variazioni dell’ambiente\ncircostante."
+      },
+      {
+        "game": "xy-y",
+        "text": "È un Pokémon molto intrepido, ma ha l’intelligenza\ndi valutare la forza del nemico prima di decidere se\nlottare o no."
+      },
+      {
+        "game": "oras-or",
+        "text": "I lunghi peli che gli coprono il volto sono un radar molto\nsensibile alle variazioni dell’ambiente circostante."
+      },
+      {
+        "game": "oras-as",
+        "text": "È un Pokémon molto intrepido, ma ha l’intelligenza di valutare\nla forza del nemico prima di decidere se lottare o no."
+      },
+      {
+        "game": "sm-s",
+        "text": "Niente affatto rumoroso, è molto popolare\ntra gli Allenatori che vivono nei condomini."
+      },
+      {
+        "game": "sm-m",
+        "text": "I lunghi peli che gli coprono il muso fungono\nda radar e gli permettono di capire le condizioni\ndel nemico durante le lotte."
+      },
+      {
+        "game": "usum-us",
+        "text": "È molto perspicace e capisce al volo se può\ncompetere con l’avversario. Se sa di non\npoterlo battere, fugge con la coda fra le gambe."
+      },
+      {
+        "game": "usum-um",
+        "text": "È molto popolare per la sua intelligenza e per la\ndocilità nel seguire le istruzioni, che lo rendono\nadatto anche agli Allenatori principianti."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Coraggioso e al contempo prudente. Capta\ninformazioni sull’ambiente circostante grazie\nai morbidi peli che gli ricoprono il muso."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "È molto più intelligente di un bambino. Non\nscorda né l’affetto ricevuto né i maltrattamenti\nsubiti."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Lillipup",
+    "genus": "Puppy Pokémon",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "It faces strong opponents with great\ncourage. But, when at a disadvantage in\na fight, this intelligent Pokémon flees."
+      },
+      {
+        "game": "bw-w",
+        "text": "The long hair around its face provides\nan amazing radar that lets it sense\nsubtle changes in its surroundings."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "Though it is a very brave Pokémon,\nit’s also smart enough to check its\nfoe’s strength and avoid battle."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "Though it is a very brave Pokémon,\nit’s also smart enough to check its\nfoe’s strength and avoid battle."
+      },
+      {
+        "game": "xy-x",
+        "text": "The long hair around its face provides an amazing\nradar that lets it sense subtle changes in\nits surroundings."
+      },
+      {
+        "game": "xy-y",
+        "text": "Though it is a very brave Pokémon, it’s also smart\nenough to check its foe’s strength and avoid battle."
+      },
+      {
+        "game": "oras-or",
+        "text": "The long hair around its face provides an amazing\nradar that lets it sense subtle changes in\nits surroundings."
+      },
+      {
+        "game": "oras-as",
+        "text": "Though it is a very brave Pokémon, it’s also smart\nenough to check its foe’s strength and avoid battle."
+      },
+      {
+        "game": "sm-s",
+        "text": "Because it doesn’t yelp, it’s extremely popular\nwith Trainers who live in apartment buildings."
+      },
+      {
+        "game": "sm-m",
+        "text": "The long fur surrounding its face functions as\nradar, enabling it to probe the condition of its\nbattle opponents."
+      },
+      {
+        "game": "usum-us",
+        "text": "This Pokémon has excellent judgment.\nIf it decides it can’t defeat an opponent,\nit immediately turns tail and vamooses."
+      },
+      {
+        "game": "usum-um",
+        "text": "This Pokémon is popular with beginners\nbecause it’s intelligent, obedient to its Trainer’s\ncommands, and easy to raise."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "This Pokémon is courageous but also cautious.\nIt uses the soft fur covering its face to collect\ninformation about its surroundings."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "This Pokémon is far brighter than the average\nchild, and Lillipup won’t forget the love it\nreceives or any abuse it suffers."
+      }
+    ]
+  },
+  "chs": {
+    "name": "小约克",
+    "genus": "小狗宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "因为不会汪汪汪地叫个不停，\n所以对于住在公寓里的训练家\n是人气很高的宝可梦。"
+      },
+      {
+        "game": "sm-m",
+        "text": "覆盖着脸部的毛拥有雷达的功能，\n用来探索战斗对手的样子。"
+      },
+      {
+        "game": "usum-us",
+        "text": "是拥有优秀判断力的宝可梦。\n如果判断出自己无法战胜对手，\n就会立即夹着尾巴逃走。"
+      },
+      {
+        "game": "usum-um",
+        "text": "很聪明，会忠实地听从训练家的吩咐，\n所以即便是新手也很容易培育。\n是很受欢迎的宝可梦。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "勇敢而慎重。\n用覆盖着脸部的软毛\n来获取周围的信息。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "比普通的小孩子还要\n聪明许多。对于得到的关爱\n和受到的伤害都不会忘怀。"
+      }
+    ]
+  }
+}

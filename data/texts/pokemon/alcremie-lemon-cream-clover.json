@@ -1,0 +1,133 @@
+{
+  "jap": {
+    "name": "マホイップ",
+    "genus": "クリームポケモン",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "しんらいする　トレーナーには\nクリームで　デコレーションした\nきのみを　ふるまって　くれるのだ。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "てから　うみだす　クリームは\nマホイップが　しあわせなとき\nあまみと　コクが　ふかまる。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Mawhip",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "마휘핑",
+    "genus": "크림포켓몬",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "믿을 수 있는 트레이너에게는\n크림으로 데코레이션한\n나무열매를 대접한다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "손에서 나오는 크림은\n마휘핑이 행복할 때\n단맛과 감칠맛이 깊어진다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "霜奶仙",
+    "genus": "鮮奶油寶可夢",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "牠會把自己用鮮奶油\n裝飾過的樹果送給\n自己信任的訓練家。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "當牠感到幸福的時候，\n手中產生出的鮮奶油\n會變得更加香濃甜美。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Charmilly",
+    "genus": "Pokémon Crème",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Il offre aux Dresseurs auxquels il accorde\ntoute sa confiance des Baies décorées\navec de la crème."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Quand il est heureux, la crème qu’il produit\navec ses mains devient plus sucrée\net plus onctueuse."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Pokusan",
+    "genus": "Sahne-Pokémon",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Es macht einem Trainer, dem es vertraut, mit\nBeeren samt Sahnedekoration eine Freude."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Die Sahne, die Pokusan aus seinen Händen\nhervorbringt, wird noch süßer und intensiver\nim Geschmack, wenn es glücklich ist."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Alcremie",
+    "genus": "Pokémon Nata",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Obsequia bayas decoradas con nata a aquellos\nEntrenadores en los que confía."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "La nata que le brota de las manos es más dulce\ny sustanciosa cuando está feliz."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Alcremie",
+    "genus": "Pokémon Pannafresca",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Agli Allenatori di cui si fida regala bacche\ndecorate con la panna."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "La panna che Alcremie produce dalle mani\nè più dolce e gustosa quando è felice."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Alcremie",
+    "genus": "Cream Pokémon",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "When it trusts a Trainer, it will treat them to\nberries it’s decorated with cream."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "When Alcremie is content, the cream it\nsecretes from its hands becomes sweeter\nand richer."
+      }
+    ]
+  },
+  "chs": {
+    "name": "霜奶仙",
+    "genus": "鲜奶油宝可梦",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "它会把自己用鲜奶油\n装饰过的树果送给\n自己信任的训练家。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "当它感到幸福的时候，\n手中产生出的鲜奶油\n会变得更加香浓甜美。"
+      }
+    ]
+  }
+}

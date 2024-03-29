@@ -1,0 +1,309 @@
+{
+  "jap": {
+    "name": "マッスグマ",
+    "genus": "とっしんポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "まっすぐ　はしる　スピードは\nじそく１００キロを　かるく　こえる。\nまがった　みちは　とても　にがて。"
+      },
+      {
+        "game": "xy-y",
+        "text": "じそく１００キロで　えものに\nおそいかかるが　まっすぐにしか\nはしれないので　しっぱいも　おおい。"
+      },
+      {
+        "game": "oras-or",
+        "text": "まっすぐに　つっぱしり　しょうがいぶつが　ある\nときは　ちょっかくに　おれまがって　よける。\nゆるやかに　カーブした　みちが　とても　にがて。"
+      },
+      {
+        "game": "oras-as",
+        "text": "えもの　めがけて　いっちょくせんに　つっぱしる。\nじそく　１００キロを　こえる　スピードを　だすが\nいちど　きゅうていし　しないと　まがれないのだ。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "つよくて　コシの　ある　たいもう。\nぬけげで　つくられた　シェービング\nブラシは　ちょうこうきゅうひん。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "バツグンの　しゅんぱつりょくと\nするどいツメで　エモノを　しとめる。\nまがった　みちを　はしるのは　ヘタ。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Massuguma",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "직구리",
+    "genus": "돌진포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "똑바로 달리는 스피드는\n시속 100km를 가볍게 넘는다.\n휘어진 길은 매우 서툴다."
+      },
+      {
+        "game": "xy-y",
+        "text": "시속 100km로 먹이를\n덮치지만 똑바로밖에 달릴 수\n없어서 실패할 때도 많다."
+      },
+      {
+        "game": "oras-or",
+        "text": "똑바로 힘껏 달리며 장애물이 있을\n때는 직각으로 꺾어서 피한다.\n완만하게 굽은 길은 달리는 데 매우 서툴다."
+      },
+      {
+        "game": "oras-as",
+        "text": "먹이를 쫓아 일직선으로 질주한다.\n시속 100km를 넘는 스피드를 내지만\n한 번 급정지하지 않으면 꺾을 수 없다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "강하고 탄력 있는 털을 가졌다.\n빠진 털로 만든 면도솔은\n최고의 명품이다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "뛰어난 순발력과 예리한\n발톱으로 먹이의 숨통을 끊는다.\n굽은 길을 달리는 게 서툴다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "直衝熊",
+    "genus": "猛衝寶可夢",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "體毛有著良好的韌度與質感。\n用牠身上掉下的毛製成的\n刮鬍刷是最上等的高級貨。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "用自己超群的爆發力\n和銳利的爪子來制服獵物。\n不擅長在彎曲的道路上奔跑。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Linéon",
+    "genus": "Pokémon Fonceur",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Il fonce sur sa proie à plus de 100 km/h.\nMais il ne peut pas dévier sa course\net loupe souvent sa cible."
+      },
+      {
+        "game": "bw-w",
+        "text": "Il fonce sur sa proie à plus de 100 km/h.\nMais il ne peut pas dévier sa course\net loupe souvent sa cible."
+      },
+      {
+        "game": "xy-x",
+        "text": "Il peut courir en ligne droite à plus de 100 km/h.\nHélas, il n’est pas doué pour prendre les virages."
+      },
+      {
+        "game": "xy-y",
+        "text": "Il fonce sur sa proie à plus de 100 km/h. Mais il\nne peut pas dévier sa course et loupe souvent sa\ncible."
+      },
+      {
+        "game": "oras-or",
+        "text": "Linéon court très vite et toujours en ligne droite.\nSi un obstacle survient, il l’évite en prenant un angle droit.\nCe Pokémon a beaucoup de mal à suivre les routes\nlégèrement courbées."
+      },
+      {
+        "game": "oras-as",
+        "text": "Lorsqu’il chasse, Linéon fonce toujours tout droit sur sa proie\nà pleine vitesse. Bien que ce Pokémon puisse atteindre\n100 km/h, il doit s’arrêter en catastrophe avant de pouvoir\ntourner."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Son pelage est à la fois solide et flexible.\nLes blaireaux conçus à partir des poils de sa mue\nsont des produits de très grand luxe."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Il se sert de sa force de propulsion et de\nses griffes aiguisées pour achever ses proies.\nIl a du mal à courir sur les routes sinueuses."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Geradaks",
+    "genus": "Sprinter-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Auf gerader Strecke erreicht es mühelos 100 km/h.\nNur die Kurven bereiten ihm große Schwierigkeiten."
+      },
+      {
+        "game": "xy-y",
+        "text": "Es stürzt sich mit 100 km/h auf Beute. Aber es kann\nnur geradeaus laufen und die Jagd misslingt oft."
+      },
+      {
+        "game": "oras-or",
+        "text": "Geradaks rennt immer mit vollem Tempo und nie im Zickzack,\nsondern nur gerade. Wenn ihm ein Hindernis im Weg ist, läuft\nes rechtwinklig daran vorbei. Für dieses Pokémon stellen\nleichte Kurven eine große Herausforderung dar."
+      },
+      {
+        "game": "oras-as",
+        "text": "Auf der Jagd rennt Geradaks so schnell es kann schnurstracks\nhinter seiner Beute her. Es erreicht zwar über 100 km/h, muss\naber erst aus vollem Lauf zum Stehen kommen, bevor es die\nRichtung wechseln kann."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Sein Fell ist kräftig und fest. Rasierpinsel, die aus\nseinen ausgefallenen Haaren hergestellt werden,\nsind absolute Luxusartikel."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Es erlegt seine Beute mit schnellen Bewegungen\nund scharfen Klauen. Kurven zu nehmen bereitet\nihm aber große Schwierigkeiten."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Linoone",
+    "genus": "Pokémon Lanzado",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "En línea recta corre a algo más de 100 km/h, pero no\nes tan hábil si hay curvas de por medio."
+      },
+      {
+        "game": "xy-y",
+        "text": "Carga contra sus enemigos a más de 100 km/h.\nComo solo va en línea recta, falla a menudo."
+      },
+      {
+        "game": "oras-or",
+        "text": "Linoone siempre corre todo lo rápido que puede y solo en\nlínea recta. Si encuentra un obstáculo en el camino, girará\nen ángulo recto para esquivarlo. Correr bien por caminos\ntortuosos es todo un reto para él."
+      },
+      {
+        "game": "oras-as",
+        "text": "Cuando Linoone caza, va directo hacia su presa a toda\nvelocidad. Si por un lado puede alcanzar 100 km/h, por\notro tiene que frenar en seco para poder cambiar de sentido."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Posee un pelaje fuerte y firme. Las brochas de\nafeitar cuyas cerdas están hechas con el pelo\nque se le desprende son un producto de lujo."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Abate a sus presas con su vertiginosa velocidad\ny sus afiladas garras. Los trayectos sinuosos\nmerman notablemente su capacidad para correr."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Linoone",
+    "genus": "Pokémon Sfrecciante",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Quando corre in rettilineo può raggiungere\ni 100 km/h, ma le curve non sono il suo forte."
+      },
+      {
+        "game": "xy-y",
+        "text": "Carica la preda a una velocità di 100 km/h. Ma dal\nmomento che va solo dritto, sbaglia spesso."
+      },
+      {
+        "game": "oras-or",
+        "text": "Linoone è solito correre a tutta velocità e sempre in linea\nretta. Davanti a un ostacolo fa una curva ad angolo retto\nper evitarlo. Questo Pokémon si trova in difficoltà su percorsi\ncon curve poco accentuate."
+      },
+      {
+        "game": "oras-as",
+        "text": "Quando caccia, Linoone si lancia rapido sulla preda. Infatti\nriesce a raggiungere la velocità di 100 km/h ma prima di\ngirare è costretto a fermarsi in modo brusco e repentino."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Ha un pelo forte e resistente. I pennelli da barba\nrealizzati con le setole perse da questo Pokémon\nsono molto pregiati."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Si serve della sua straordinaria forza esplosiva\ne dei suoi artigli affilati per abbattere la preda.\nCorrere lungo strade tortuose non è il suo forte."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Linoone",
+    "genus": "Rushing Pokémon",
+    "flavorText": [
+      {
+        "game": "rs-r",
+        "text": "LINOONE always runs full speed and only\nin straight lines. If facing an obstacle,\nit makes a right-angle turn to evade it.\fThis POKéMON is very challenged by\ngently curving roads."
+      },
+      {
+        "game": "rs-s",
+        "text": "When hunting, LINOONE will make a\nbeeline straight for the prey at a full\nrun. While this POKéMON is capable of\ftopping 60 mph, it has to come to a\nscreeching halt before it can turn."
+      },
+      {
+        "game": "e",
+        "text": "It is exceedingly fast if it only has to run\nin a straight line. When it spots pond-\ndwelling prey underwater, it quickly leaps\nin and catches it with its sharp claws."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "When running in a straight line, it can top\n60 miles per hour. However, it has a\ntough time with curved roads."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "When running in a straight line, it can top\n60 miles per hour. However, it has a\ntough time with curved roads."
+      },
+      {
+        "game": "dp-d",
+        "text": "It charges prey at speeds over\n60 mph. However, because it can\nonly run straight, it often fails."
+      },
+      {
+        "game": "dp-p",
+        "text": "It charges prey at speeds over\n60 mph. However, because it can\nonly run straight, it often fails."
+      },
+      {
+        "game": "pt",
+        "text": "It charges prey at speeds over\n60 mph. However, because it can\nonly run straight, it often fails."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "When running in a straight line, it\ncan easily top 60 miles an hour. It\nhas a tough time with curved roads."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "When running in a straight line, it\ncan easily top 60 miles an hour. It\nhas a tough time with curved roads."
+      },
+      {
+        "game": "bw-b",
+        "text": "It charges prey at speeds over\n60 mph. However, because it can\nonly run straight, it often fails."
+      },
+      {
+        "game": "bw-w",
+        "text": "It charges prey at speeds over\n60 mph. However, because it can\nonly run straight, it often fails."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "It charges prey at speeds over\n60 mph. However, because it can\nonly run straight, it often fails."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "It charges prey at speeds over\n60 mph. However, because it can\nonly run straight, it often fails."
+      },
+      {
+        "game": "xy-x",
+        "text": "When running in a straight line, it can easily top\n60 miles an hour. It has a tough time with\ncurved roads."
+      },
+      {
+        "game": "xy-y",
+        "text": "It charges prey at speeds over 60 mph. However,\nbecause it can only run straight, it often fails."
+      },
+      {
+        "game": "oras-or",
+        "text": "Linoone always runs full speed and only in straight lines.\nIf facing an obstacle, it makes a right-angle turn to evade it.\nThis Pokémon is very challenged by gently curving roads."
+      },
+      {
+        "game": "oras-as",
+        "text": "When hunting, Linoone will make a beeline straight for the\nprey at a full run. While this Pokémon is capable of topping\n60 mph, it has to come to a screeching halt before it can turn."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Its fur is strong and supple. Shaving brushes\nmade with shed Linoone hairs are highly prized."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "It uses its explosive speed and razor-sharp claws\nto bring down prey. Running along winding\npaths is not its strong suit."
+      }
+    ]
+  },
+  "chs": {
+    "name": "直冲熊",
+    "genus": "猛冲宝可梦",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "体毛拥有良好的韧度与质感。\n用它身上掉下来的毛制成的\n剃须刷是最上等的高级货。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "用自己超群的爆发力\n和锐利的爪子来制服猎物。\n不擅长在弯曲的道路上奔跑。"
+      }
+    ]
+  }
+}

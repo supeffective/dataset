@@ -1,0 +1,553 @@
+{
+  "jap": {
+    "name": "サンダース",
+    "genus": "かみなりポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "たいないに　でんきが　たまると\nぜんしんの　たいもうが　ぜんぶ\nするどく　とがりはじめる。"
+      },
+      {
+        "game": "xy-y",
+        "text": "くうきちゅうの　マイナスイオンを\nすいこんで　やく１００００ボルトの\nでんきを　はきだすことができる。"
+      },
+      {
+        "game": "oras-or",
+        "text": "さいぼうの　だす　よわい　でんきを　たいもうの\nせいでんきで　ぞうふくさせ　カミナリを　おとす。\nさかだった　たいもうは　でんきを　おびた　はり。"
+      },
+      {
+        "game": "oras-as",
+        "text": "さいぼうの　だす　よわい　でんきを　たいもうの\nせいでんきで　ぞうふくさせ　カミナリを　おとす。\nさかだった　たいもうは　でんきを　おびた　はり。"
+      },
+      {
+        "game": "sm-s",
+        "text": "やく１００００ボルトの　でんきを\nはきだす。　かなり　しんけいしつで\nなつかせるのは　たいへんだ。"
+      },
+      {
+        "game": "sm-m",
+        "text": "たいもうが　さかだったら　でんきを\nはく　サイン。　そばに　かみなりが\nおちることも　あるので　ちゅうい。"
+      },
+      {
+        "game": "usum-us",
+        "text": "はいの　なかに　でんきを　うみだす\nきかんが　ある。　といきに　まざって\nでんきの　おとが　バチバチきこえる。"
+      },
+      {
+        "game": "usum-um",
+        "text": "さかだてた　けを　はりの　ように\nとばす。　てきが　よわった　ところを\n１まんボルトの　でんげきで　しとめる。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "ちょっとした　しげきで　ないたり\nおこったりする。また　かんじょうが\nかわるたびに　でんきがたまる。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "ちょっとした　しげきで　ないたり\nおこったりする。また　かんじょうが\nかわるたびに　でんきがたまる。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "おこったり　おどろいたりすると\nぜんしんの　けが　はりの　ように\nさかだって　あいてを　つらぬく。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "くうきちゅうの　マイナスイオンを\nすいこんで　やく１００００ボルトの\nでんきを　はきだすことができる。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Thunders",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "쥬피썬더",
+    "genus": "번개포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "체내에 전기가 모이면\n전신의 털이 모두\n날카롭게 곤두서기 시작한다."
+      },
+      {
+        "game": "xy-y",
+        "text": "공기 중의 마이너스 이온을\n빨아들여 약 10000볼트의\n전기를 내뱉을 수 있다."
+      },
+      {
+        "game": "oras-or",
+        "text": "세포에서 나오는 약한 전기를 털의\n정전기로 증폭시켜 번개를 떨어트린다.\n곤두세운 털은 전기를 띤 바늘이다."
+      },
+      {
+        "game": "oras-as",
+        "text": "세포에서 나오는 약한 전기를 털의\n정전기로 증폭시켜 번개를 떨어트린다.\n곤두세운 털은 전기를 띤 바늘이다."
+      },
+      {
+        "game": "sm-s",
+        "text": "약 10000볼트의 전기를\n토해낸다. 꽤 신경질적이어서\n길들이는 것은 힘들다."
+      },
+      {
+        "game": "sm-m",
+        "text": "털이 곤두서면 전기를\n뿜는다는 신호다. 근처에 번개가\n떨어질 때도 있으므로 주의."
+      },
+      {
+        "game": "usum-us",
+        "text": "폐 안에 전기를 만드는\n기관이 있다. 날숨에 섞여\n탁탁하는 전기 소리가 들린다."
+      },
+      {
+        "game": "usum-um",
+        "text": "곤두세운 털을 바늘처럼\n날린다. 적이 약해진 순간\n1만 볼트의 전격으로 처리한다."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "약간의 자극으로 울거나\n화를 낸다. 또한 감정이\n변할 때마다 전기가 모인다."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "약간의 자극으로 울거나\n화를 낸다. 또한 감정이\n변할 때마다 전기가 모인다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "화가 나거나 놀라면\n전신의 털이 바늘처럼\n곤두서서 상대를 꿰뚫는다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "공기 중의 마이너스 이온을\n빨아들여 약 10000볼트의\n전기를 내뱉을 수 있다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "雷伊布",
+    "genus": "雷寶可夢",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "能噴出大約１００００伏特的電力。\n因為相當神經質，所以要與牠\n變得親密是非常困難的。"
+      },
+      {
+        "game": "sm-m",
+        "text": "體毛豎立就是要噴出電流的信號。\n旁邊可能會有落雷，\n所以要多加注意。"
+      },
+      {
+        "game": "usum-us",
+        "text": "肺中有著能產生電力的器官，\n可以聽見牠吐氣的聲音裡\n混雜著劈哩啪啦的電流聲。"
+      },
+      {
+        "game": "usum-um",
+        "text": "能將豎起來的毛像針一樣\n發射出去。會趁敵人衰弱的時候\n用１萬伏特的電擊解決對手。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "稍微受點刺激就會哭叫或生氣。\n每當牠的情緒發生變化時，\n體內就會累積一些電力。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "稍微受點刺激就會哭叫或生氣。\n每當牠的情緒發生變化時，\n體內就會累積一些電力。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "當雷伊布生氣或是吃驚時，\n牠全身的體毛會像針一樣\n豎起來刺穿對手。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "有時會吸入空氣中\n的負離子，吐出大約\n１００００伏特的高壓電。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Voltali",
+    "genus": "Pokémon Orage",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Face au danger, il fait appel à\nl’électricité pour dresser ses\npoils et lancer des décharges."
+      },
+      {
+        "game": "bw-w",
+        "text": "Face au danger, il fait appel à\nl’électricité pour dresser ses\npoils et lancer des décharges."
+      },
+      {
+        "game": "xy-x",
+        "text": "Chaque poil sur son corps se dresse quand il se\ncharge en électricité."
+      },
+      {
+        "game": "xy-y",
+        "text": "Il se charge d’électricité statique pour envoyer\ndes décharges de 10 000 V."
+      },
+      {
+        "game": "oras-or",
+        "text": "Les cellules de Voltali génèrent un courant de faible intensité.\nCe pouvoir est amplifié par l’électricité statique de ses poils,\nce qui lui permet d’envoyer des éclairs. Sa fourrure hérissée\nest faite d’aiguilles chargées d’électricité."
+      },
+      {
+        "game": "oras-as",
+        "text": "Les cellules de Voltali génèrent un courant de faible intensité.\nCe pouvoir est amplifié par l’électricité statique de ses poils,\nce qui lui permet d’envoyer des éclairs. Sa fourrure hérissée\nest faite d’aiguilles chargées d’électricité."
+      },
+      {
+        "game": "sm-s",
+        "text": "Il peut projeter des décharges de 10 000 volts.\nIl est très nerveux, ce qui le rend difficile à\napprivoiser."
+      },
+      {
+        "game": "sm-m",
+        "text": "Quand son pelage se hérisse, c’est signe qu’il\nva projeter de l’électricité. Attention, car il\narrive que la foudre tombe près de lui."
+      },
+      {
+        "game": "usum-us",
+        "text": "Un organe situé à l’intérieur de ses poumons\nproduit de l’électricité. On entend une sorte\nde crépitement chaque fois qu’il expire."
+      },
+      {
+        "game": "usum-um",
+        "text": "Il projette ses poils hérissés comme si c’étaient\ndes aiguilles, avant d’achever ses ennemis ainsi\naffaiblis avec des décharges de 10 000 volts."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Un Pokémon très sensible et lunatique.\nIl se charge en électricité chaque fois\nque son humeur change."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Un Pokémon très sensible et lunatique.\nIl se charge en électricité chaque fois\nque son humeur change."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "S’il est irrité ou surpris, toute la fourrure\nde son corps se dresse comme des aiguilles\npour percer ses ennemis."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Il se charge d’ions négatifs contenus dans l’air\npour envoyer des décharges d’environ\n10 000 volts."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Blitza",
+    "genus": "Blitz-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Lädt es sich mit Elektrizität auf, steht jedes\neinzelne seiner Körperhaare steil nach oben."
+      },
+      {
+        "game": "xy-y",
+        "text": "Dieses Pokémon entzieht der Atmosphäre Ionen,\ndie es in Blitze von 10 000 V Stärke umwandelt."
+      },
+      {
+        "game": "oras-or",
+        "text": "Blitzas Zellen erzeugen schwache Elektrizität. Diese wird aber\ndurch die statische Aufladung seines Fells verstärkt, sodass es\nBlitzschläge erzeugen kann. Sein Fell besteht aus elektrisch\ngeladenen Nadeln."
+      },
+      {
+        "game": "oras-as",
+        "text": "Blitzas Zellen erzeugen schwache Elektrizität. Diese wird aber\ndurch die statische Aufladung seines Fells verstärkt, sodass es\nBlitzschläge erzeugen kann. Sein Fell besteht aus elektrisch\ngeladenen Nadeln."
+      },
+      {
+        "game": "sm-s",
+        "text": "Es feuert Blitze von 10 000 V Stärke aus seinem\nMund ab. Es ist sehr nervös, daher haben es\nTrainer schwer, seine Zuneigung zu gewinnen."
+      },
+      {
+        "game": "sm-m",
+        "text": "Steht ihm das Fell zu Berge, ist das ein Zeichen,\ndass es gleich aus seinem Mund einen Blitz\nabfeuert. In seiner Nähe schlagen oft Blitze ein."
+      },
+      {
+        "game": "usum-us",
+        "text": "Blitza verfügt über ein Organ in der Lunge,\ndas Elektrizität erzeugt. Wenn dieses Pokémon\nausatmet, hört man ein elektrisches Knistern."
+      },
+      {
+        "game": "usum-um",
+        "text": "Es stellt seine Haare auf und feuert sie ab wie\nNadeln. Dann gibt es dem geschwächten Gegner\nmit einem 10 000 V starken Blitz den Rest."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Schon geringste Reize lösen bei Blitza Wut oder\nTrauer aus. Wenn seine Gefühlslage umschlägt,\nbaut sich stets Elektrizität auf."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Schon geringste Reize lösen bei Blitza Wut oder\nTrauer aus. Wenn seine Gefühlslage umschlägt,\nbaut sich stets Elektrizität auf."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Wenn es erschrickt oder wütend wird, stellt sich\nsein Fell auf wie scharfe Nadeln und sticht den\nGegner."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Dieses Pokémon entzieht der Atmosphäre Ionen\nund kann dann Blitze von 10 000 V Stärke aus\nseinem Maul abfeuern."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Jolteon",
+    "genus": "Pokémon Relámpago",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Todos los pelos de su cuerpo se ponen de punta si\nempieza a cargarse de electricidad."
+      },
+      {
+        "game": "xy-y",
+        "text": "Acumula iones negativos de la atmósfera para lanzar\nrayos de 10 000 voltios de potencia."
+      },
+      {
+        "game": "oras-or",
+        "text": "Las células de Jolteon generan un nivel bajo de electricidad,\ncuya intensidad aumenta con la electricidad estática que\nacumula en un pelaje formado por agujas cargadas de\nelectricidad. Esta característica le permite lanzar rayos."
+      },
+      {
+        "game": "oras-as",
+        "text": "Las células de Jolteon generan un nivel bajo de electricidad,\ncuya intensidad aumenta con la electricidad estática que\nacumula en un pelaje formado por agujas cargadas de\nelectricidad. Esta característica le permite lanzar rayos."
+      },
+      {
+        "game": "sm-s",
+        "text": "Lanza rayos de 10 000 voltios de potencia. Es\ndifícil congeniar con este Pokémon debido a su\nnaturaleza nerviosa."
+      },
+      {
+        "game": "sm-m",
+        "text": "Cuando su pelaje se pone de punta, es señal de\nque va a soltar una descarga. Hay que tener\ncuidado porque pueden caer rayos cerca."
+      },
+      {
+        "game": "usum-us",
+        "text": "Posee un órgano en los pulmones que genera\nelectricidad. Cuando respira se puede oír un\ncrepitar eléctrico."
+      },
+      {
+        "game": "usum-um",
+        "text": "Lanza sus pelos erizados a modo de púas. Tras\ndebilitar a su rival, lo remata con una descarga\nde 10 000 voltios."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Un Pokémon muy sensible que se entristece\no enfada con mucha facilidad. Se carga de\nelectricidad cada vez que cambia de humor."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Un Pokémon muy sensible que se entristece\no enfada con mucha facilidad. Se carga de\nelectricidad cada vez que cambia de humor."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Si se enfada o asusta, se le eriza el pelaje. Cada\nuno de sus pelos se convierte en una afilada púa\nque hace trizas al rival."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Acumula iones negativos de la atmósfera para\nlanzar rayos de 10 000 V de potencia."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Jolteon",
+    "genus": "Pokémon Luminoso",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Quando inizia a caricarsi di elettricità, gli si rizza\nogni pelo del corpo."
+      },
+      {
+        "game": "xy-y",
+        "text": "Accumula ioni negativi nell’atmosfera per lanciare\nsaette da 10.000 volt."
+      },
+      {
+        "game": "oras-or",
+        "text": "Le cellule di Jolteon generano un basso potenziale elettrico,\nche viene tuttavia amplificato dall’elettricità statica della sua\npelliccia, da cui scatena fulmini. La pelliccia arruffata è fatta\ndi aghi caricati elettricamente."
+      },
+      {
+        "game": "oras-as",
+        "text": "Le cellule di Jolteon generano un basso potenziale elettrico,\nche viene tuttavia amplificato dall’elettricità statica della sua\npelliccia, da cui scatena fulmini. La pelliccia arruffata è fatta\ndi aghi caricati elettricamente."
+      },
+      {
+        "game": "sm-s",
+        "text": "Lancia scariche da 10.000 volt.\nÈ piuttosto nervoso e non è facile conquistarsi\nil suo affetto."
+      },
+      {
+        "game": "sm-m",
+        "text": "Quando rizza il pelo, è segno che sta per\nlanciare una scarica elettrica. A volte attira\ni fulmini, quindi è meglio stare attenti."
+      },
+      {
+        "game": "usum-us",
+        "text": "I suoi polmoni contengono un organo che\nproduce elettricità. Quando respira, si può\nudire un crepitio."
+      },
+      {
+        "game": "usum-um",
+        "text": "Rizza i peli e li scaglia come se fossero aghi.\nFinisce gli avversari indeboliti con scariche da\n10.000 volt."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Passa dalla tristezza all’ira in un soffio.\nOgni volta che ha uno sbalzo di umore\nsi carica di elettricità."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Passa dalla tristezza all’ira in un soffio.\nOgni volta che ha uno sbalzo di umore\nsi carica di elettricità."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Se si arrabbia o è sorpreso, tutti i peli del corpo\ngli si rizzano trasformandosi in aghi che infilzano\nil nemico."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Accumula gli ioni negativi presenti nell’atmosfera\nper lanciare scariche elettriche da 10.000 volt."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Jolteon",
+    "genus": "Lightning Pokémon",
+    "flavorText": [
+      {
+        "game": "rb-r",
+        "text": "It accumulates\nnegative ions in\nthe atmosphere to\fblast out 10000-\nvolt lightning\nbolts."
+      },
+      {
+        "game": "rb-b",
+        "text": "It accumulates\nnegative ions in\nthe atmosphere to\fblast out 10000-\nvolt lightning\nbolts."
+      },
+      {
+        "game": "y",
+        "text": "A sensitive POKé­\nMON that easily\nbecomes sad or\fangry. Every time\nits mood changes,\nit charges power."
+      },
+      {
+        "game": "gs-g",
+        "text": "It concentrates\nthe weak electric\ncharges emitted\fby its cells and\nlaunches wicked\nlightning bolts."
+      },
+      {
+        "game": "gs-s",
+        "text": "Every hair on its\nbody starts to\nstand sharply on\fend if it becomes\ncharged with\nelectricity."
+      },
+      {
+        "game": "c",
+        "text": "The negatively\ncharged ions\ngenerated in its\ffur create a\nconstant sparking\nnoise."
+      },
+      {
+        "game": "rs-r",
+        "text": "JOLTEON’s cells generate a low level of\nelectricity. This power is amplified by\nthe static electricity of its fur,\fenabling the POKéMON to drop\nthunderbolts. The bristling fur is made\nof electrically charged needles."
+      },
+      {
+        "game": "rs-s",
+        "text": "JOLTEON’s cells generate a low level of\nelectricity. This power is amplified by\nthe static electricity of its fur,\fenabling the POKéMON to drop\nthunderbolts. The bristling fur is made\nof electrically charged needles."
+      },
+      {
+        "game": "e",
+        "text": "Its cells generate weak power that is\namplified by its fur’s static electricity\nto drop thunderbolts. The bristling fur is\nmade of electrically charged needles."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "If it is angered or startled, the fur all\nover its body bristles like sharp needles\nthat pierce foes."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "It accumulates negative ions in the\natmosphere to blast out 10,000-volt\nlightning bolts."
+      },
+      {
+        "game": "dp-d",
+        "text": "It controls 10,000-volt power\nand can raise all the fur on its\nbody as if it were sharp needles."
+      },
+      {
+        "game": "dp-p",
+        "text": "It controls 10,000-volt power\nand can raise all the fur on its\nbody as if it were sharp needles."
+      },
+      {
+        "game": "pt",
+        "text": "If agitated, it uses electricity to\nstraighten out its fur and launch\nit in small bunches."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "It concentrates the weak electric\ncharges emitted by its cells and\nlaunches wicked lightning bolts."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "Every hair on its body starts to\nstand sharply on end if it becomes\ncharged with electricity."
+      },
+      {
+        "game": "bw-b",
+        "text": "If agitated, it uses electricity to\nstraighten out its fur and launch\nit in small bunches."
+      },
+      {
+        "game": "bw-w",
+        "text": "If agitated, it uses electricity to\nstraighten out its fur and launch\nit in small bunches."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "By storing electricity in its body,\nit can shoot its bristlelike fur\nlike a barrage of missiles."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "By storing electricity in its body,\nit can shoot its bristlelike fur\nlike a barrage of missiles."
+      },
+      {
+        "game": "xy-x",
+        "text": "Every hair on its body starts to stand sharply on\nend if it becomes charged with electricity."
+      },
+      {
+        "game": "xy-y",
+        "text": "It accumulates negative ions in the atmosphere to\nblast out 10,000-volt lightning bolts."
+      },
+      {
+        "game": "oras-or",
+        "text": "Jolteon’s cells generate a low level of electricity. This power is\namplified by the static electricity of its fur, enabling the\nPokémon to drop thunderbolts. The bristling fur is made of\nelectrically charged needles."
+      },
+      {
+        "game": "oras-as",
+        "text": "Jolteon’s cells generate a low level of electricity. This power\nis amplified by the static electricity of its fur, enabling the\nPokémon to drop thunderbolts. The bristling fur is made of\nelectrically charged needles."
+      },
+      {
+        "game": "sm-s",
+        "text": "They send out electrical charges of about\n10,000 volts. Because they are high-strung,\nit can be difficult to grow close to them."
+      },
+      {
+        "game": "sm-m",
+        "text": "When its fur stands on end, that’s a sign it’s\nabout to give off a jolt of electricity. Take care,\nas sometimes lightning strikes next to it, too."
+      },
+      {
+        "game": "usum-us",
+        "text": "Its lungs contain an organ that creates\nelectricity. The crackling sound of electricity\ncan be heard when it exhales."
+      },
+      {
+        "game": "usum-um",
+        "text": "Its fur stands on end, becoming like needles\nit fires at enemies. Once they’re weakened, it\nfinishes them off with a 10,000 volt shock."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "A sensitive Pokémon that easily becomes sad\nor angry. Every time its mood changes, it\ncharges power."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "A sensitive Pokémon that easily becomes sad\nor angry. Every time its mood changes, it\ncharges power."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "If it is angered or startled, the fur all over its\nbody bristles like sharp needles that pierce foes."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "It accumulates negative ions in the atmosphere to\nblast out 10,000-volt lightning bolts."
+      },
+      {
+        "game": "la",
+        "text": "Bristles its fur into sharp, needlelike points when enraged.\nOne can hear electricity crackle in its breath when it exhales."
+      }
+    ]
+  },
+  "chs": {
+    "name": "雷伊布",
+    "genus": "雷宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "喷出大约１００００伏特的电力。\n因为相当神经质，所以要与它\n变得亲密是非常困难的。"
+      },
+      {
+        "game": "sm-m",
+        "text": "体毛竖起来的话，是要喷出电的信号。\n因为旁边也可能会有雷落下，\n所以要注意。"
+      },
+      {
+        "game": "usum-us",
+        "text": "肺中有能产生电力的器官。\n从它的吐息中，能听到里面\n混杂着噼里啪啦的电流声。"
+      },
+      {
+        "game": "usum-um",
+        "text": "能将竖起来的毛发像针一样射出去。\n会趁着敌人虚弱的时候，\n用１万伏特的电击解决它。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "稍微受点刺激就会\n大叫或生气，每当\n心情变化时都会蓄电。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "稍微受点刺激就会\n大叫或生气，每当\n心情变化时都会蓄电。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "当雷伊布生气或是吃惊时，\n它全身的体毛会像针一样\n竖起来刺穿对手。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "能够吸入空气中的负离子，\n有时会吐出大约有\n１００００伏特的高压电。"
+      }
+    ]
+  }
+}

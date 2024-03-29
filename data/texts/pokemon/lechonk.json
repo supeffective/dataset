@@ -1,0 +1,61 @@
+{
+  "jap": {
+    "name": "グルトン",
+    "genus": "ぶたポケモン",
+    "flavorText": []
+  },
+  "jap_ro": {
+    "name": "Gourton",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "맛보돈",
+    "genus": "",
+    "flavorText": []
+  },
+  "cht": {
+    "name": "愛吃豚",
+    "genus": "豬寶可夢",
+    "flavorText": []
+  },
+  "fra": {
+    "name": "Gourmelet",
+    "genus": "",
+    "flavorText": []
+  },
+  "deu": {
+    "name": "Ferkuli",
+    "genus": "Schwein",
+    "flavorText": []
+  },
+  "esp": {
+    "name": "Lechonk",
+    "genus": "",
+    "flavorText": []
+  },
+  "ita": {
+    "name": "Lechonk",
+    "genus": "",
+    "flavorText": []
+  },
+  "eng": {
+    "name": "Lechonk",
+    "genus": "Hog Pokémon",
+    "flavorText": [
+      {
+        "game": "sv-s",
+        "text": "It searches for food all day. It possesses a keen sense of smell but doesn’t use it for anything other than foraging."
+      },
+      {
+        "game": "sv-v",
+        "text": "This Pokémon spurns all but the finest of foods. Its body gives off an herblike scent that bug Pokémon detest."
+      }
+    ]
+  },
+  "chs": {
+    "name": "爱吃豚",
+    "genus": "猪宝可梦",
+    "flavorText": []
+  }
+}

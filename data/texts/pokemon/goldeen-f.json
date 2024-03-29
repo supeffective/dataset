@@ -1,0 +1,549 @@
+{
+  "jap": {
+    "name": "トサキント",
+    "genus": "きんぎょポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "５ノットの　スピードで　およぐ。\nみの　きけんを　かんじると\nするどい　ツノで　はんげきする。"
+      },
+      {
+        "game": "xy-y",
+        "text": "せびれ　むなびれ　おびれが\nゆうがに　たなびくので\nみずのおどりこ　とよばれる。"
+      },
+      {
+        "game": "oras-or",
+        "text": "すいちゅうで　ゆうがに　たなびく　ひれが　とても\nうつくしい　ポケモンだが　ゆだんを　していると\nきょうれつな　ツノの　ひとつきを　くらうぞ。"
+      },
+      {
+        "game": "oras-as",
+        "text": "かわや　いけを　およぐ　ことが　だいすきなので\nすいそう　なんかに　いれていたら　ぶあつい\nガラスも　ツノの　ひとつきで　わって　にげるぞ。"
+      },
+      {
+        "game": "sm-s",
+        "text": "あたたかくなってくると　むれをなし\nかわを　さかのぼる。　そのこうけいは\nはるを　つげる　ふうぶつしだ。"
+      },
+      {
+        "game": "sm-m",
+        "text": "ツノの　ながさ　ひれの　うつくしさに\nみせられ　トサキントしか　そだてない\nおつな　トレーナーも　おおいのだ。"
+      },
+      {
+        "game": "usum-us",
+        "text": "うつくしい　おびれが　とくちょうだが\nトサキントどうしは　ツノの　ふとさと\nするどさを　きそいあっているらしい。"
+      },
+      {
+        "game": "usum-um",
+        "text": "ドレスの　ような　ヒレを　ひらひらと\nゆらしながら　およぐ　すがたから\nみずの　プリンセスと　よばれる。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "タマゴをうむ　じきになると　かわや\nたきを　のぼってくる　トサキントの\nしゅうだんの　すがたが　みられる。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "タマゴをうむ　じきになると　かわや\nたきを　のぼってくる　トサキントの\nしゅうだんの　すがたが　みられる。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "せびれ　むなびれ　おびれが\nゆうがに　たなびくので\nみずのおどりこ　とよばれる。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "せビレ　むなビレが　きんにくのように\nはったつしており　すいちゅうを\n５ノットの　はやさで　およぐ。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Tosakinto",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "콘치",
+    "genus": "금붕어포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "5노트의 스피드로 헤엄친다.\n몸에 위험을 느끼면\n날카로운 뿔로 반격한다."
+      },
+      {
+        "game": "xy-y",
+        "text": "등, 가슴, 꼬리지느러미가\n우아하게 나부끼기 때문에\n물의 무희라고 불린다."
+      },
+      {
+        "game": "oras-or",
+        "text": "물속에서 우아하게 나부끼는 지느러미가 매우\n아름다운 포켓몬이지만 방심하고 있으면\n강렬한 뿔의 일격을 당한다."
+      },
+      {
+        "game": "oras-as",
+        "text": "강이나 연못을 헤엄치는 것을 매우 좋아해서\n수조 같은 곳에 넣어 두면 두꺼운\n유리도 뿔의 일격으로 깨고 도망간다."
+      },
+      {
+        "game": "sm-s",
+        "text": "따뜻해지면 무리를 지어\n강을 거슬러 올라간다. 그 광경은\n봄을 알리는 풍물시이다."
+      },
+      {
+        "game": "sm-m",
+        "text": "뿔의 길이와 지느러미의 아름다움에\n매혹되어 콘치만 키우게 되는\n특이한 트레이너도 많다."
+      },
+      {
+        "game": "usum-us",
+        "text": "아름다운 꼬리지느러미가 특징이지만\n콘치끼리는 뿔의 굵기와\n날카로움을 겨루는 듯 하다."
+      },
+      {
+        "game": "usum-um",
+        "text": "드레스 같은 지느러미를 하늘하늘\n흔들면서 헤엄치는 모습 때문에\n물의 프린세스라고 불린다."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "알을 낳을 때가 되면 강이나\n폭포를 오르는 콘치 무리의\n모습을 볼 수 있다."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "알을 낳을 때가 되면 강이나\n폭포를 오르는 콘치 무리의\n모습을 볼 수 있다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "등, 가슴, 꼬리지느러미가\n우아하게 나부끼기 때문에\n물의 무희라고 불린다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "등지느러미와 가슴지느러미가\n근육처럼 발달하여 물속을\n5노트의 속도로 헤엄친다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "角金魚",
+    "genus": "金魚寶可夢",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "天氣變得暖和之後，\n就會成群結隊溯流而上。\n那畫面正如宣告春天來臨的風景詩。"
+      },
+      {
+        "game": "sm-m",
+        "text": "被角的長度和魚鰭的美麗所迷住，\n因而只培育角金魚的\n風雅訓練家也是很多的。"
+      },
+      {
+        "game": "usum-us",
+        "text": "特徵是美麗的尾鰭，\n但角金魚們之間競爭的\n似乎是角的粗細和尖銳度。"
+      },
+      {
+        "game": "usum-um",
+        "text": "會輕飄飄地搖擺著\n像裙子一樣的鰭來游動，\n所以牠被稱為水中公主。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "每到角金魚產卵的時期，\n就能看見牠們成群結隊\n從河川和瀑布逆流而上。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "每到角金魚產卵的時期，\n就能看見牠們成群結隊\n從河川和瀑布逆流而上。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "會優雅地搖擺\n背鰭、胸鰭和尾鰭，\n所以被稱為水中的舞者。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "背鰭和尾鰭像肌肉\n那樣發達。能夠以\n５節的速度在水中游泳。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Poissirène",
+    "genus": "Pokémon Poisson",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Malgré son élégance quand il\nnage, ses coups de corne sont\nredoutables."
+      },
+      {
+        "game": "bw-w",
+        "text": "Malgré son élégance quand il\nnage, ses coups de corne sont\nredoutables."
+      },
+      {
+        "game": "xy-x",
+        "text": "Il nage à 5 nœuds. Quand on l’agresse, il réplique\nd’un bon coup de corne aiguisée."
+      },
+      {
+        "game": "xy-y",
+        "text": "Ses nageoires dorsales et pectorales bougent avec\nélégance. Il est surnommé le danseur des flots."
+      },
+      {
+        "game": "oras-or",
+        "text": "Poissirène est un Pokémon magnifique doté de nageoires\nqui ondulent élégamment dans les profondeurs. Il ne faut\npourtant pas baisser sa garde face à ce Pokémon, car il peut\ncharger avec sa puissante corne."
+      },
+      {
+        "game": "oras-as",
+        "text": "Poissirène adore nager librement dans les rivières et\nles étangs. Si l’un de ces Pokémon est mis dans un aquarium,\nil n’hésitera pas à casser la vitre avec sa puissante corne pour\ns’enfuir."
+      },
+      {
+        "game": "sm-s",
+        "text": "À la fin de l’hiver, des bancs de Poissirène\nremontent les fleuves. Ce spectacle annonce\ntraditionnellement l’arrivée du printemps."
+      },
+      {
+        "game": "sm-m",
+        "text": "Séduits par la longueur de sa corne et la beauté\nde ses nageoires, de nombreux Dresseurs\nesthètes n’élèvent plus que des Poissirène."
+      },
+      {
+        "game": "usum-us",
+        "text": "Prisés pour la beauté de leur nageoire caudale,\nles Poissirène rivalisent quant à eux pour savoir\nqui a la corne la plus épaisse et la plus acérée."
+      },
+      {
+        "game": "usum-um",
+        "text": "La beauté de ses nageoires, qu’il agite telle\nune robe de bal, lui a valu le surnom de\n« princesse des eaux »."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Quand vient la saison de ponte des Poissirène,\non peut en voir de larges groupes remonter\nles rivières et les cascades."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Quand vient la saison de ponte des Poissirène,\non peut en voir de larges groupes remonter\nles rivières et les cascades."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Ses nageoires dorsales, pectorales et caudales\nondulent avec élégance. Il est surnommé\nle « danseur des flots »."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Ses nageoires dorsales et pectorales sont très\ndéveloppées. Elles lui permettent de nager\nà une vitesse de cinq nœuds."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Goldini",
+    "genus": "Goldfisch-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Es schwimmt mit fünf Knoten. Wird es angegriffen,\nwehrt es sich mit seinem scharfen Horn."
+      },
+      {
+        "game": "xy-y",
+        "text": "Seine Brust-, Rücken- und Schweifflossen sehen\nanmutig aus. Daher nennt man es den „Wassertänzer“."
+      },
+      {
+        "game": "oras-or",
+        "text": "Goldini ist ein wunderschönes Pokémon, dessen Flossen\nsich elegant im Wasser wiegen. Aber man muss auf dieses\nPokémon achtgeben. Es könnte einen sonst heftig mit\nseinem Horn rammen."
+      },
+      {
+        "game": "oras-as",
+        "text": "Goldini liebt es, in Teichen und Flüssen zu schwimmen.\nWenn ein solches Pokémon in ein Aquarium gebracht wird,\nwird es selbst das dickste Glas mit einem Stoß seines Horns\nzum Zerbersten bringen und die Flucht ergreifen."
+      },
+      {
+        "game": "sm-s",
+        "text": "Wenn es warm wird, bilden sie Schwärme und\nschwimmen stromaufwärts. Dies ist ein Zeichen\ndafür, dass der Frühling herannaht."
+      },
+      {
+        "game": "sm-m",
+        "text": "Einige Trainer sind von seinem langem Horn\nund seiner Eleganz so entzückt, dass sie\nausschließlich Goldini trainieren."
+      },
+      {
+        "game": "usum-us",
+        "text": "Es ist für seine schöne Schwanzflosse bekannt.\nMiteinander wetteifern sie aber darum, wer das\ndickste und spitzeste Horn auf dem Kopf hat."
+      },
+      {
+        "game": "usum-um",
+        "text": "Beim Schwimmen flattern seine Flossen wie ein\nKleid, was ihm eine märchenhafte Ausstrahlung\nverleiht. Man nennt es auch „Wasserprinzessin“."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Während der Laichzeit kann man Schwärme von\nGoldini dabei beobachten, wie sie gegen den\nStrom von Flüssen und Wasserfällen schwimmen."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Während der Laichzeit kann man Schwärme von\nGoldini dabei beobachten, wie sie gegen den\nStrom von Flüssen und Wasserfällen schwimmen."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Seine Brust-, Rücken- und Schwanzflossen\nbewegen sich anmutig. Daher nennt man es\nden „Wassertänzer“."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Seine Rücken- und Brustflossen sind muskelähnlich\nentwickelt. Es erreicht beim Schwimmen eine\nGeschwindigkeit von bis zu fünf Knoten."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Goldeen",
+    "genus": "Pokémon Pez Color",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Nada a una velocidad de cinco nudos. Si siente\npeligro, golpea con su afilado cuerno."
+      },
+      {
+        "game": "xy-y",
+        "text": "Sus aletas dorsal, trasera y pectoral ondean gráciles\nen el agua. Por eso es llamado el Bailarín Acuático."
+      },
+      {
+        "game": "oras-or",
+        "text": "Goldeen es un bello Pokémon que mueve con elegancia las\naletas en el agua. Con todo, no hay que bajar la guardia, en\ncualquier momento puede embestir con el cuerno."
+      },
+      {
+        "game": "oras-as",
+        "text": "A Goldeen le encanta nadar libremente y a su aire en ríos y\nestanques. Si pones a uno de estos Pokémon en un acuario,\nusará el cuerno que tiene para romper las paredes,\nindependientemente del grosor del cristal, y escapar."
+      },
+      {
+        "game": "sm-s",
+        "text": "Cuando el tiempo se vuelve más cálido, se\nagrupan y nadan río arriba. Este espectáculo tan\npoético anuncia la llegada de la primavera."
+      },
+      {
+        "game": "sm-m",
+        "text": "Hay muchos Entrenadores que, fascinados por\nel tamaño de su cuerno y la belleza de sus\naletas, entrenan únicamente Goldeen."
+      },
+      {
+        "game": "usum-us",
+        "text": "La hermosa aleta caudal es su rasgo distintivo,\npero por lo que compiten los propios Goldeen es\npor lucir el cuerno más grueso y afilado."
+      },
+      {
+        "game": "usum-um",
+        "text": "Al nadar, sus hermosas aletas ondean gráciles\ncual vestido de gala, lo que le ha merecido el\napodo de Princesa de los Mares."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Durante la época de desove, se les suele ver\nnadando a contracorriente en ríos o remontando\ncascadas en grandes grupos."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Durante la época de desove, se les suele ver\nnadando a contracorriente en ríos o remontando\ncascadas en grandes grupos."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Sus aletas pectorales, caudal y dorsal ondean\ngráciles en el agua. Por eso se le llama el Bailarín\nAcuático."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "La aleta dorsal y las aletas pectorales están tan\ndesarrolladas que actúan como músculos. Puede\nnadar a una velocidad de cinco nudos."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Goldeen",
+    "genus": "Pokémon Pescerosso",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Nuota alla velocità di 5 nodi. Se avverte il pericolo,\ncontrattacca con il suo corno aguzzo."
+      },
+      {
+        "game": "xy-y",
+        "text": "Le pinne su dorso, petto e coda ondulano con grazia\nin acqua. Per questo lo chiamano “danzatore d’acqua”."
+      },
+      {
+        "game": "oras-or",
+        "text": "Goldeen è un Pokémon molto elegante dai movimenti\naggraziati. Tuttavia, è necessario stare attenti poiché\npotrebbe attaccare violentemente con il suo corno."
+      },
+      {
+        "game": "oras-as",
+        "text": "Goldeen ama nuotare libero in fiumi e laghetti. Se messo\nin acquario, questo Pokémon riesce a fuggire spaccando\nanche il vetro più spesso con un colpo secco del suo corno."
+      },
+      {
+        "game": "sm-s",
+        "text": "Quando la temperatura comincia ad alzarsi,\nforma un banco con i suoi simili e inizia a risalire\ni fiumi, annunciando così l’inizio della primavera."
+      },
+      {
+        "game": "sm-m",
+        "text": "Molti Allenatori dai gusti raffinati allenano solo\ni Goldeen, affascinati dal loro lungo corno\ne dalle bellissime pinne."
+      },
+      {
+        "game": "usum-us",
+        "text": "È famoso per le sue splendide pinne caudali.\nSembra che competa con i suoi simili per\nstabilire chi ha il corno più spesso e affilato."
+      },
+      {
+        "game": "usum-um",
+        "text": "Quando nuota, le sue pinne fluttuano dolcemente\ncome un vestito da ballo. Da questo deriva il suo\nsoprannome “principessa delle acque”."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Nel periodo in cui i Goldeen depongono\nle Uova, se ne possono vedere a banchi\nmentre risalgono fiumi e cascate."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Nel periodo in cui i Goldeen depongono\nle Uova, se ne possono vedere a banchi\nmentre risalgono fiumi e cascate."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Le pinne su dorso, petto e coda ondeggiano\ncon grazia. Perciò viene chiamato “danzatore\nd’acqua”."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Le pinne dorsali e pettorali sono sviluppate\ncome potenti muscoli. Può raggiungere\nla velocità di 5 nodi."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Goldeen",
+    "genus": "Goldfish Pokémon",
+    "flavorText": [
+      {
+        "game": "rb-r",
+        "text": "Its tail fin\nbillows like an\nelegant ballroom\fdress, giving it\nthe nickname of\nthe Water Queen."
+      },
+      {
+        "game": "rb-b",
+        "text": "Its tail fin\nbillows like an\nelegant ballroom\fdress, giving it\nthe nickname of\nthe Water Queen."
+      },
+      {
+        "game": "y",
+        "text": "When it is time\nfor them to lay\neggs, they can be\fseen swimming up\nrivers and falls\nin large groups."
+      },
+      {
+        "game": "gs-g",
+        "text": "Its dorsal, pecto­\nral and tail fins\nwave elegantly in\fwater. That is why\nit is known as the\nwater dancer."
+      },
+      {
+        "game": "gs-s",
+        "text": "A strong swimmer,\nit is capable of\nswimming nonstop\fup fast streams at\na steady speed of\nfive knots."
+      },
+      {
+        "game": "c",
+        "text": "During spawning\nseason, they swim\ngracefully in the\fwater, searching\nfor their perfect\nmate."
+      },
+      {
+        "game": "rs-r",
+        "text": "GOLDEEN is a very beautiful POKéMON\nwith fins that billow elegantly in water.\nHowever, don’t let your guard down\faround this POKéMON - it could ram you\npowerfully with its horn."
+      },
+      {
+        "game": "rs-s",
+        "text": "GOLDEEN loves swimming wild and free\nin rivers and ponds.\nIf one of these POKéMON is placed in an\faquarium, it will shatter even the\nthickest glass with one ram of its horn\nand make its escape."
+      },
+      {
+        "game": "e",
+        "text": "In the springtime, schools of GOLDEEN\ncan be seen swimming up falls and rivers.\nIt metes out staggering damage with its\nsingle horn."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "Its dorsal and pectoral fins are strongly\ndeveloped like muscles. It can swim at a\nspeed of five knots."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "Its tail fin billows like an elegant\nballroom dress, giving it the nickname of\n“The Water Queen.”"
+      },
+      {
+        "game": "dp-d",
+        "text": "It swims elegantly by flittering\nits tail fin as if it were a dress.\nIt has the look of a queen."
+      },
+      {
+        "game": "dp-p",
+        "text": "It swims at a steady 5 knots.\nIf it senses danger, it will strike\nback with its sharp horn."
+      },
+      {
+        "game": "pt",
+        "text": "Though it appears very elegant\nwhen swimming with fins unfurled, it\ncan jab powerfully with its horn."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "Its dorsal, pectoral and tail fins\nwave elegantly in water. That is why\nit is known as the water dancer."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "A strong swimmer, it is capable of\nswimming nonstop up fast streams at\na steady speed of five knots per hour."
+      },
+      {
+        "game": "bw-b",
+        "text": "Though it appears very elegant\nwhen swimming with fins unfurled, it\ncan jab powerfully with its horn."
+      },
+      {
+        "game": "bw-w",
+        "text": "Though it appears very elegant\nwhen swimming with fins unfurled, it\ncan jab powerfully with its horn."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "Though it appears very elegant\nwhen swimming with fins unfurled, it\ncan jab powerfully with its horn."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "Though it appears very elegant\nwhen swimming with fins unfurled, it\ncan jab powerfully with its horn."
+      },
+      {
+        "game": "xy-x",
+        "text": "It swims at a steady 5 knots. If it senses danger,\nit will strike back with its sharp horn."
+      },
+      {
+        "game": "xy-y",
+        "text": "Its dorsal, pectoral, and tail fins wave elegantly in\nwater. That is why it is known as the water dancer."
+      },
+      {
+        "game": "oras-or",
+        "text": "Goldeen is a very beautiful Pokémon with fins that billow\nelegantly in water. However, don’t let your guard down around\nthis Pokémon—it could ram you powerfully with its horn."
+      },
+      {
+        "game": "oras-as",
+        "text": "Goldeen loves swimming wild and free in rivers and ponds.\nIf one of these Pokémon is placed in an aquarium, it will\nshatter even the thickest glass with one ram of its horn\nand make its escape."
+      },
+      {
+        "game": "sm-s",
+        "text": "When the weather grows warm, they form\ngroups and swim upriver. This sight serves\nas a poetic reminder that spring has arrived."
+      },
+      {
+        "game": "sm-m",
+        "text": "Spellbound by the length of its horn and the\nbeauty of its fins, many strange Trainers raise\nGoldeen and nothing but Goldeen."
+      },
+      {
+        "game": "usum-us",
+        "text": "Although known for their splendid tail fins,\nGoldeen apparently compete among themselves\nto see whose horn is thickest and sharpest."
+      },
+      {
+        "game": "usum-um",
+        "text": "The way it swims along fluttering its dress-like\nfins has earned it the name “princess of\nthe water.”"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "When it is time for them to lay eggs, they\ncan be seen swimming up rivers and falls\nin large groups."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "When it is time for them to lay eggs, they\ncan be seen swimming up rivers and falls\nin large groups."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Its dorsal, pectoral, and tail fins wave elegantly\nin water. That is why it is known as the Water Dancer."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Its dorsal and pectoral fins are strongly developed\nlike muscles. It can swim at a speed of five knots."
+      }
+    ]
+  },
+  "chs": {
+    "name": "角金鱼",
+    "genus": "金鱼宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "天气变得暖和之后，\n就会成群结队溯流而上。\n那画面正如告知春天的风景诗。"
+      },
+      {
+        "game": "sm-m",
+        "text": "被角的长度和鱼鳍的美丽而迷住，\n只培育角金鱼的\n风雅训练家也是很多的。"
+      },
+      {
+        "game": "usum-us",
+        "text": "虽然漂亮的尾鳍是其特征，\n但角金鱼之间好像会比\n谁的角更粗更尖锐。"
+      },
+      {
+        "game": "usum-um",
+        "text": "会飘飘然地摇摆着\n像裙子一样的鱼鳍游动，\n所以它被称为水中公主。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "到了产卵期你就可以\n看到成群的角金鱼\n逆流而行或是攀登瀑布。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "到了产卵期你就可以\n看到成群的角金鱼\n逆流而行或是攀登瀑布。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "会优雅地摇摆背鳍、\n胸鳍和尾鳍，\n所以被称之为水中的舞者。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "背鳍和尾鳍像肌肉\n那样发达。能够以\n５节的速度在水中游泳。"
+      }
+    ]
+  }
+}

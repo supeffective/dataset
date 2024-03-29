@@ -1,0 +1,219 @@
+{
+  "jap": {
+    "name": "ヒードラン",
+    "genus": "かこうポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "かざんの　ほらあなに　せいそく。\nじゅうじの　ツメを　くいこませて\nカベや　てんじょうを　はいまわる。"
+      },
+      {
+        "game": "xy-y",
+        "text": "マグマの　ように　もえたぎる\nけつえきが　からだを　ながれている。\nかざんの　ほらあなに　せいそくする。"
+      },
+      {
+        "game": "oras-or",
+        "text": "かざんの　ほらあなに　せいそく。\nじゅうじの　ツメを　くいこませて\nカベや　てんじょうを　はいまわる。"
+      },
+      {
+        "game": "oras-as",
+        "text": "マグマの　ように　もえたぎる\nけつえきが　からだを　ながれている。\nかざんの　ほらあなに　せいそくする。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Heatran",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "히드런",
+    "genus": "화구포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "화산의 동굴에서 서식한다.\n십자형의 발톱을 박아서\n벽이나 천장을 돌아다닌다."
+      },
+      {
+        "game": "xy-y",
+        "text": "마그마처럼 타오르는\n혈액이 몸에서 흐르고 있다.\n화산의 동굴에 서식한다."
+      },
+      {
+        "game": "oras-or",
+        "text": "화산의 동굴에서 서식한다.\n십자형의 발톱을 박아서\n벽이나 천장을 돌아다닌다."
+      },
+      {
+        "game": "oras-as",
+        "text": "마그마처럼 타오르는\n혈액이 몸에서 흐르고 있다.\n화산의 동굴에 서식한다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "席多藍恩",
+    "genus": "火山口寶可夢",
+    "flavorText": []
+  },
+  "fra": {
+    "name": "Heatran",
+    "genus": "Pokémon Caldeira",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Son corps est composé d’acier brut\ndont certaines parties ont fondu\nà cause de sa propre chaleur."
+      },
+      {
+        "game": "bw-w",
+        "text": "Son corps est composé d’acier brut\ndont certaines parties ont fondu\nà cause de sa propre chaleur."
+      },
+      {
+        "game": "xy-x",
+        "text": "Il hante les grottes volcaniques. Il rampe au mur et\nau plafond grâce à ses pieds en forme de croix."
+      },
+      {
+        "game": "xy-y",
+        "text": "Le sang de ce Pokémon des cratères bouillonne dans\nson corps comme du magma."
+      },
+      {
+        "game": "oras-or",
+        "text": "Il hante les grottes volcaniques. Il rampe au mur et au plafond\ngrâce à ses pieds en forme de croix."
+      },
+      {
+        "game": "oras-as",
+        "text": "Le sang de ce Pokémon des cratères bouillonne dans\nson corps comme du magma."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Heatran",
+    "genus": "Lavadom-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Es lebt in vulkanischen Höhlen. Mit seinen\nkreuzförmigen Klauen kann es sogar an der Decke\nlaufen."
+      },
+      {
+        "game": "xy-y",
+        "text": "Das Blut, das durch seinen Körper fließt, brodelt\nheiß wie Magma. Es lebt in vulkanischen Höhlen."
+      },
+      {
+        "game": "oras-or",
+        "text": "Es lebt in vulkanischen Höhlen. Mit seinen kreuzförmigen\nKlauen kann es sogar an der Decke laufen."
+      },
+      {
+        "game": "oras-as",
+        "text": "Das Blut, das durch seinen Körper fließt, brodelt heiß\nwie Magma. Es lebt in vulkanischen Höhlen."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Heatran",
+    "genus": "Pokémon Domo Lava",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Habita cuevas volcánicas. Cava con sus pies en forma\nde cruz para trepar por techos y paredes."
+      },
+      {
+        "game": "xy-y",
+        "text": "Su sangre fluye ardiendo como si fuera magma.\nVive en cráteres de volcanes."
+      },
+      {
+        "game": "oras-or",
+        "text": "Habita cuevas volcánicas. Cava con sus pies en forma de cruz\npara trepar por techos y paredes."
+      },
+      {
+        "game": "oras-as",
+        "text": "Su sangre fluye ardiendo como si fuera magma. Vive en\ncráteres de volcanes."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Heatran",
+    "genus": "Pokémon Cratere",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Vive nelle cavità dei vulcani. Scava con i suoi piedi\na croce per scalare pareti e arrampicarsi sui soffitti."
+      },
+      {
+        "game": "xy-y",
+        "text": "Nel suo corpo scorre sangue che ribolle come magma.\nVive in antri all’interno di vulcani."
+      },
+      {
+        "game": "oras-or",
+        "text": "Vive nelle cavità dei vulcani. Scava con i suoi piedi a croce\nper scalare pareti e arrampicarsi sui soffitti."
+      },
+      {
+        "game": "oras-as",
+        "text": "Nel suo corpo scorre sangue che ribolle come magma.\nVive in antri all’interno di vulcani."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Heatran",
+    "genus": "Lava Dome Pokémon",
+    "flavorText": [
+      {
+        "game": "dp-d",
+        "text": "It dwells in volcanic caves. It\ndigs in with its cross-shaped feet\nto crawl on ceilings and walls."
+      },
+      {
+        "game": "dp-p",
+        "text": "It dwells in volcanic caves. It\ndigs in with its cross-shaped feet\nto crawl on ceilings and walls."
+      },
+      {
+        "game": "pt",
+        "text": "Its body is made of rugged steel.\nHowever, it is partially melted in\nspots because of its own heat."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "Boiling blood, like magma, circulates\nthrough its body. It makes its dwelling\nplace in volcanic caves."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "Boiling blood, like magma, circulates\nthrough its body. It makes its dwelling\nplace in volcanic caves."
+      },
+      {
+        "game": "bw-b",
+        "text": "Its body is made of rugged steel.\nHowever, it is partially melted in\nspots because of its own heat."
+      },
+      {
+        "game": "bw-w",
+        "text": "Its body is made of rugged steel.\nHowever, it is partially melted in\nspots because of its own heat."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "Its body is made of rugged steel.\nHowever, it is partially melted in\nspots because of its own heat."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "Its body is made of rugged steel.\nHowever, it is partially melted in\nspots because of its own heat."
+      },
+      {
+        "game": "xy-x",
+        "text": "It dwells in volcanic caves. It digs in with its\ncross-shaped feet to crawl on ceilings and walls."
+      },
+      {
+        "game": "xy-y",
+        "text": "Boiling blood, like magma, circulates through its\nbody. It makes its dwelling place in volcanic caves."
+      },
+      {
+        "game": "oras-or",
+        "text": "It dwells in volcanic caves. It digs in with its\ncross-shaped feet to crawl on ceilings and walls."
+      },
+      {
+        "game": "oras-as",
+        "text": "Boiling blood, like magma, circulates through its\nbody. It makes its dwelling place in volcanic caves."
+      },
+      {
+        "game": "la",
+        "text": "Stories tell of this Pokémon being birthed from the boiling\nmagma within Mount Coronet. Its molten-steel body holds\nmany mysteries."
+      }
+    ]
+  },
+  "chs": {
+    "name": "席多蓝恩",
+    "genus": "火山口宝可梦",
+    "flavorText": []
+  }
+}

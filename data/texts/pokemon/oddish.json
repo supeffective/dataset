@@ -1,0 +1,413 @@
+{
+  "jap": {
+    "name": "ナゾノクサ",
+    "genus": "ざっそうポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "ひるまは　たいようを　さけるため\nつめたい　じめんに　もぐっている。\nつきのひかりを　あびて　そだつ。"
+      },
+      {
+        "game": "xy-y",
+        "text": "べつめい　アルキメンデス。\nよるに　なると　２ほんの　ねっこで\n３００メートルも　あるくという。"
+      },
+      {
+        "game": "oras-or",
+        "text": "ひるま　じめんの　なかに　からだを　うめて\nつちの　えいようを　ぜんしんで　すいあげている。\nこえた　つちほど　はっぱに　ツヤが　でるという。"
+      },
+      {
+        "game": "oras-as",
+        "text": "えいよう　たっぷりの　つちを　さがして　うまる。\nひるま　つちに　うまっている　ときには　あしが\nきの　ねっこのような　かたちを　しているらしい。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "ただの　くさだと　おもって\nひきぬこうとすると　なきごえがする。\nなぜか　とても　おそろしいきぶん。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "ただの　くさだと　おもって\nひきぬこうとすると　なきごえがする。\nなぜか　とても　おそろしいきぶん。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "つきのひかりを　あびて　うごきだす。\nよるのあいだに　タネを　あちこちに\nばらまくため　あるきまわる。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "ひるまは　たいようを　さけるため\nつめたい　じめんに　もぐっている。\nつきのひかりを　あびて　そだつ。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Nazonokusa",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "뚜벅쵸",
+    "genus": "잡초포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "낮에는 태양을 피하려고\n차가운 땅속에 들어가 있다.\n달빛을 쬐어 성장한다."
+      },
+      {
+        "game": "xy-y",
+        "text": "별명 걸어 다니는 독초.\n밤이 되면 2개의 뿌리로\n300m나 걷는다고 한다."
+      },
+      {
+        "game": "oras-or",
+        "text": "낮에 땅속에 몸을 묻고\n땅의 영양을 전신으로 빨아올린다.\n비옥한 땅일수록 잎사귀에 윤이 난다고 한다."
+      },
+      {
+        "game": "oras-as",
+        "text": "영양 만점인 흙을 찾아 몸을 묻는다.\n낮 동안 땅에 묻혀 있을 때는 다리가\n나무뿌리 같은 형태를 띠고 있는 듯하다."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "평범한 풀이라 생각하고\n뽑으려 하면 울음소리가 들린다.\n어쩐지 매우 오싹한 기분이 든다."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "평범한 풀이라 생각하고\n뽑으려 하면 울음소리가 들린다.\n어쩐지 매우 오싹한 기분이 든다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "달빛을 받아 움직인다.\n밤중에 씨앗을 여기저기\n뿌리기 위해 돌아다닌다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "낮에는 태양을 피하기 위해\n차가운 땅속에 들어가 있다.\n달빛을 쬐어 성장한다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "走路草",
+    "genus": "雜草寶可夢",
+    "flavorText": [
+      {
+        "game": "lgpe-lgp",
+        "text": "如果把牠當成普通的雜草去拔，\n牠就會發出叫聲，讓聽見的人\n莫名地感到異常恐怖。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "如果把牠當成普通的雜草去拔，\n牠就會發出叫聲，讓聽見的人\n莫名地感到異常恐怖。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "沐浴月光就會開始活動。\n為了四處散播種子，\n會在夜晚到處走動。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "白天為了躲避太陽，\n會鑽進涼爽的地下。\n藉由沐浴月光來成長。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Mystherbe",
+    "genus": "Pokémon Racine",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "En journée, il plante ses pieds-racines\ndans le sol. La nuit, il se promène en\nsemant des graines."
+      },
+      {
+        "game": "bw-w",
+        "text": "En journée, il plante ses pieds-racines\ndans le sol. La nuit, il se promène en\nsemant des graines."
+      },
+      {
+        "game": "xy-x",
+        "text": "Le jour, il reste en sous-sol et évite le soleil.\nIl grandit en se baignant au clair de lune."
+      },
+      {
+        "game": "xy-y",
+        "text": "Son nom scientifique est « Oddium Wanderus ».\nLorsqu’il fait nuit, il se déplace à l’aide de ses\nracines pour disséminer ses graines."
+      },
+      {
+        "game": "oras-or",
+        "text": "Pendant la journée, Mystherbe s’enterre dans le sol pour\nabsorber avec son corps tout entier les nutriments présents\ndans la terre. Plus le sol est fertile, plus ses feuilles sont\nbrillantes."
+      },
+      {
+        "game": "oras-as",
+        "text": "Mystherbe cherche un sol fertile et riche en nutriments,\npour s’y planter. Pendant la journée, quand il est planté,\nles pieds de ce Pokémon changent de forme et deviennent\nsimilaires à des racines."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "On le confond souvent avec de l’herbe.\nSi on essaie de le soulever du sol, il pousse\nun cri terrifiant."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "On le confond souvent avec de l’herbe.\nSi on essaie de le soulever du sol, il pousse\nun cri terrifiant."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Il ne bouge que lorsqu’il est exposé aux rayons\nde la lune. Il se déplace alors pour disséminer\nses graines."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Pendant la journée, il reste en sous-sol et évite\nle soleil. Il grandit en se baignant au clair de lune."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Myrapla",
+    "genus": "Unkraut-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Tagsüber versteckt es sich in der kalten Erde,\num die Sonne zu meiden. Es wächst im Mondschein."
+      },
+      {
+        "game": "xy-y",
+        "text": "Sein wissenschaftlicher Name lautet:\n„Oddium Wanderus“. Nachts soll es knapp\n300 m auf seinen zwei Wurzeln zurücklegen."
+      },
+      {
+        "game": "oras-or",
+        "text": "Am Tage vergräbt sich Myrapla im Boden, um mit seinem\nganzen Körper Nahrung aufzunehmen. Je fruchtbarer der\nBoden ist, desto glänzender werden seine Blätter."
+      },
+      {
+        "game": "oras-as",
+        "text": "Myrapla sucht nach fruchtbarem, nahrhaftem Boden und pflanzt\nsich selbst darin ein. Solange es eingepflanzt ist, nehmen seine\nFüße tagsüber die Gestalt von Baumwurzeln an."
+      },
+      {
+        "game": "usum-us",
+        "text": "Wenn sich der Mond zeigt, taucht es aus dem\nBoden auf. Über fruchtbarer Erde schüttelt es\nseinen Kopf und verstreut Samen."
+      },
+      {
+        "game": "usum-um",
+        "text": "Im warmen Klima Alolas gedeiht Myrapla\nbesonders gut. Hier lebende Exemplare\nsind rund und schwer."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Es wird oft mit Unkraut verwechselt. Versucht\nman, es aus der Erde zu ziehen, stößt es einen\nfürchterlichen Schrei aus."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Es wird oft mit Unkraut verwechselt. Versucht\nman, es aus der Erde zu ziehen, stößt es einen\nfürchterlichen Schrei aus."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Wird es vom Mondschein getroffen, bewegt es\nsich. Nachts wandert es weite Wege, um seine\nSamen zu verstreuen."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Tagsüber versteckt es sich in der kalten Erde,\num die Sonne zu meiden. Es wächst im\nMondschein."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Oddish",
+    "genus": "Pokémon Hierbajo",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Durante el día, se agazapa en el frío subsuelo huyendo\ndel sol. La luz de la luna le hace crecer mucho."
+      },
+      {
+        "game": "xy-y",
+        "text": "Su nombre científico es “Oddium Wanderus”. Se dice\nque de noche puede llegar a desplazarse hasta 300 m\ncon sus dos raíces."
+      },
+      {
+        "game": "oras-or",
+        "text": "Durante el día, Oddish se entierra en el suelo para absorber\nnutrientes valiéndose de todo el cuerpo. Cuanto más fértil sea\nel suelo, mayor brillo tendrá en las hojas."
+      },
+      {
+        "game": "oras-as",
+        "text": "Oddish busca los suelos fértiles y ricos en nutrientes para\nplantarse en la tierra. Durante el día, se cree que le cambia\nla forma de los pies y se le empiezan a parecer a las raíces\nde los árboles."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "En ocasiones lo confunden con una mala hierba\ny, al tratar de arrancarlo, profiere unos gritos\nescalofriantes."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "En ocasiones lo confunden con una mala hierba\ny, al tratar de arrancarlo, profiere unos gritos\nescalofriantes."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Se mueve al exponerse a la luz de la luna.\nMerodea por la noche para esparcir sus semillas."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Durante el día, se agazapa en el frío subsuelo\nhuyendo del sol. La luz de la luna le hace crecer."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Oddish",
+    "genus": "Pokémon Malerba",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Di giorno vive nel freddo sottosuolo, per evitare la\nluce del sole. Cresce assorbendo la luce lunare."
+      },
+      {
+        "game": "xy-y",
+        "text": "Nome scientifico: “Oddium Viandantis”. Percorre fino\na 300 m in una notte sulle due radici fatte a piede."
+      },
+      {
+        "game": "oras-or",
+        "text": "Durante il giorno, Oddish si nasconde nel terreno per\nassorbire sostanze nutritive con tutto il corpo.\nPiù il suolo è fertile, più lucide diventano le foglie."
+      },
+      {
+        "game": "oras-as",
+        "text": "Oddish cerca suolo fertile e ricco di sostanze nutritive per\npiantarvi le radici. Si dice che durante il giorno, quando\nè fisso nel terreno, le sue zampe si trasformino prendendo\nla forma delle radici degli alberi."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Spesso confuso con un’erbaccia, questo\nPokémon stride atrocemente se si prova\na estirparlo."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Spesso confuso con un’erbaccia, questo\nPokémon stride atrocemente se si prova\na estirparlo."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Inizia a muoversi quando è illuminato dalla luce\nlunare. Di notte se ne va in giro a spargere semi."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Di giorno vive nel freddo sottosuolo per\nevitare la luce del sole. Cresce assorbendo\nla luce lunare."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Oddish",
+    "genus": "Weed Pokémon",
+    "flavorText": [
+      {
+        "game": "rb-r",
+        "text": "During the day,\nit keeps its face\nburied in the\fground. At night,\nit wanders around\nsowing its seeds."
+      },
+      {
+        "game": "rb-b",
+        "text": "During the day,\nit keeps its face\nburied in the\fground. At night,\nit wanders around\nsowing its seeds."
+      },
+      {
+        "game": "y",
+        "text": "It may be mistaken\nfor a clump of\nweeds. If you try\fto yank it out of\nthe ground, it\nshrieks horribly."
+      },
+      {
+        "game": "gs-g",
+        "text": "Awakened by moon­\nlight, it roams \nactively at night.\fIn the day, it\nstays quietly\nunderground."
+      },
+      {
+        "game": "gs-s",
+        "text": "If exposed to\nmoonlight, it\nstarts to move.\fIt roams far and\nwide at night to\nscatter its seeds."
+      },
+      {
+        "game": "c",
+        "text": "During the day, it\nstays in the cold\nunderground to\favoid the sun.\nIt grows by bath­\ning in moonlight."
+      },
+      {
+        "game": "rs-r",
+        "text": "During the daytime, ODDISH buries\nitself in soil to absorb nutrients from \nthe ground using its entire body.\fThe more fertile the soil, the glossier\nits leaves become."
+      },
+      {
+        "game": "rs-s",
+        "text": "ODDISH searches for fertile, nutrient-\nrich soil, then plants itself.\nDuring the daytime, while it is planted,\fthis POKéMON’s feet are thought to\nchange shape and become similar to\nthe roots of trees."
+      },
+      {
+        "game": "e",
+        "text": "This POKéMON grows by absorbing moonlight.\nDuring the daytime, it buries itself in the\nground, leaving only its leaves exposed to\navoid detection by its enemies."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "Its scientific name is “Oddium Wanderus.”\nAt night, it is said to walk nearly 1,000\nfeet on its two roots."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "During the day, it keeps its face buried\nin the ground. At night, it wanders around\nsowing its seeds."
+      },
+      {
+        "game": "dp-d",
+        "text": "It often plants its root feet in the\nground during the day and sows\nseeds as it walks about at night."
+      },
+      {
+        "game": "dp-p",
+        "text": "It often plants its root feet in the\nground during the day and sows\nseeds as it walks about at night."
+      },
+      {
+        "game": "pt",
+        "text": "It often plants its root feet in the\nground during the day and sows\nseeds as it walks about at night."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "Awakened by moonlight, it roams\nactively at night. In the day, it stays\nquietly underground."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "If exposed to moonlight, it\nstarts to move. It roams far and\nwide at night to scatter its seeds."
+      },
+      {
+        "game": "bw-b",
+        "text": "It often plants its root feet in the\nground during the day and sows\nseeds as it walks about at night."
+      },
+      {
+        "game": "bw-w",
+        "text": "It often plants its root feet in the\nground during the day and sows\nseeds as it walks about at night."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "It often plants its root feet in the\nground during the day and sows\nseeds as it walks about at night."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "It often plants its root feet in the\nground during the day and sows\nseeds as it walks about at night."
+      },
+      {
+        "game": "xy-x",
+        "text": "During the day, it stays in the cold underground\nto avoid the sun. It grows by bathing in moonlight."
+      },
+      {
+        "game": "xy-y",
+        "text": "Its scientific name is “Oddium Wanderus.” At night,\nit is said to walk nearly 1,000 feet on its two roots."
+      },
+      {
+        "game": "oras-or",
+        "text": "During the daytime, Oddish buries itself in soil to absorb\nnutrients from the ground using its entire body.\nThe more fertile the soil, the glossier its leaves become."
+      },
+      {
+        "game": "oras-as",
+        "text": "Oddish searches for fertile, nutrient-rich soil, then plants itself.\nDuring the daytime, while it is planted, this Pokémon’s feet\nare thought to change shape and become similar to the roots\nof trees."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "It may be mistaken for a clump of weeds.\nIf you try to yank it out of the ground,\nit shrieks horribly."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "It may be mistaken for a clump of weeds.\nIf you try to yank it out of the ground,\nit shrieks horribly."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "If exposed to moonlight, it starts to move.\nIt roams far and wide at night to scatter its seeds."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "During the day, it stays in the cold underground\nto avoid the sun. It grows by bathing in moonlight."
+      }
+    ]
+  },
+  "chs": {
+    "name": "走路草",
+    "genus": "杂草宝可梦",
+    "flavorText": [
+      {
+        "game": "lgpe-lgp",
+        "text": "要是以为它是普通的草而\n将它拔起，就会听到它的叫声。\n这让人感到莫名的恐怖。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "要是以为它是普通的草而\n将它拔起，就会听到它的叫声。\n这让人感到莫名的恐怖。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "沐浴月光就会开始活动。\n为了四处散播种子\n会在夜晚到处走动。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "白天会为躲避太阳\n而钻入凉爽的地下。\n会通过沐浴月光成长。"
+      }
+    ]
+  }
+}

@@ -1,0 +1,405 @@
+{
+  "jap": {
+    "name": "パウワウ",
+    "genus": "あしかポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "ひょうざんで　くらす　ポケモン。\nあたまの　とがった　でっぱりで\nこおりを　わって　うみを　およぐ。"
+      },
+      {
+        "game": "xy-y",
+        "text": "みずいろの　たいもうに　おおわれた\nひふは　ぶあつくて　じょうぶ。\nれいか４０ど　でも　かつどうできる。"
+      },
+      {
+        "game": "oras-or",
+        "text": "こおりに　おおわれた　うみで　エサを　とる。\nいきつぎを　するときは　あたまの　でっぱりで\nこおりを　わって　うみから　かおを　だす。"
+      },
+      {
+        "game": "oras-as",
+        "text": "こおりに　おおわれた　うみで　エサを　とる。\nいきつぎを　するときは　あたまの　でっぱりで\nこおりを　わって　うみから　かおを　だす。"
+      },
+      {
+        "game": "usum-us",
+        "text": "つめたい　うみにしか　すまないと\nかんがえられてきた。　アローラに\nあらわれる　りゆうは　ナゾ。"
+      },
+      {
+        "game": "usum-um",
+        "text": "ぶあつい　しぼうの　おかげで　さむい\nうみも　へっちゃらだけど　あたたかい\nうみでは　ちょっと　バテやすいのだ。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "こおるほど　さむいところが　すき。\nひょうてんか　１０ど　くらいで\nきもちよく　およいでいる。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "こおるほど　さむいところが　すき。\nひょうてんか　１０ど　くらいで\nきもちよく　およいでいる。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Pawou",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "쥬쥬",
+    "genus": "강치포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "빙산에 사는 포켓몬이다.\n머리의 뾰족하게 돌출된 부분으로\n얼음을 깨고 바다를 헤엄친다."
+      },
+      {
+        "game": "xy-y",
+        "text": "하늘색의 털로 뒤덮인\n피부는 두껍고 튼튼하다.\n영하 40도라도 활동할 수 있다."
+      },
+      {
+        "game": "oras-or",
+        "text": "얼음으로 뒤덮인 바다에서 먹이를 잡는다.\n숨을 쉴 때는 머리의 돌출된 부분으로\n얼음을 깨고 바다 밖으로 얼굴을 내민다."
+      },
+      {
+        "game": "oras-as",
+        "text": "얼음으로 뒤덮인 바다에서 먹이를 잡는다.\n숨을 쉴 때는 머리의 돌출된 부분으로\n얼음을 깨고 바다 밖으로 얼굴을 내민다."
+      },
+      {
+        "game": "usum-us",
+        "text": "차가운 바다에서만 산다고\n추정되었다. 알로라에\n나타나는 이유를 알 수 없다."
+      },
+      {
+        "game": "usum-um",
+        "text": "두꺼운 지방 덕분에\n추운 바다는 문제없지만\n따뜻한 바다에서 쉽게 지친다."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "얼어붙을 정도로 추운 곳을 좋아한다.\n영하 10도 정도의 물속에서\n기분 좋게 헤엄친다."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "얼어붙을 정도로 추운 곳을 좋아한다.\n영하 10도 정도의 물속에서\n기분 좋게 헤엄친다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "小海獅",
+    "genus": "海獅寶可夢",
+    "flavorText": [
+      {
+        "game": "usum-us",
+        "text": "人們一向認為牠只棲息在\n寒冷的海域，沒人知道牠\n出現在阿羅拉的原因。"
+      },
+      {
+        "game": "usum-um",
+        "text": "因為有著厚厚的脂肪，\n所以完全不怕寒冷的海域，\n但在溫暖的海裡就有點容易中暑。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "喜歡滴水成冰的寒冷地方。\n在零下10度的溫度裡\n也能舒服自在地游泳。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "喜歡滴水成冰的寒冷地方。\n在零下10度的溫度裡\n也能舒服自在地游泳。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Otaria",
+    "genus": "Pokémon Otarie",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Un habitant des icebergs.\nEn mer, il utilise la corne sur\nsa tête pour briser la banquise."
+      },
+      {
+        "game": "bw-w",
+        "text": "Un habitant des icebergs.\nEn mer, il utilise la corne sur\nsa tête pour briser la banquise."
+      },
+      {
+        "game": "xy-x",
+        "text": "Un habitant des icebergs. En mer, il utilise la corne\nsur sa tête pour briser la banquise."
+      },
+      {
+        "game": "xy-y",
+        "text": "Sa peau épaisse et dure est recouverte d’une\nfourrure bleu clair. Elle permet à ce Pokémon\nde résister aux températures les plus glaciales."
+      },
+      {
+        "game": "oras-or",
+        "text": "Otaria chasse ses proies dans l’eau gelée, sous la couche de\nglace. Lorsqu’il cherche à respirer, il perce un trou en frappant\nla glace avec la partie saillante de sa tête."
+      },
+      {
+        "game": "oras-as",
+        "text": "Otaria chasse ses proies dans l’eau gelée, sous la couche de\nglace. Lorsqu’il cherche à respirer, il perce un trou en frappant\nla glace avec la partie saillante de sa tête."
+      },
+      {
+        "game": "usum-us",
+        "text": "Tout le monde pensait qu’il ne pouvait survivre\nque dans les mers froides.\nPersonne ne sait donc ce qu’il fait à Alola."
+      },
+      {
+        "game": "usum-um",
+        "text": "Sa couche de gras lui permet d’être à l’aise\ndans les eaux les plus froides. Il a par contre\nplus de mal à supporter les mers chaudes."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Il est à l’aise dans les endroits gelés.\nIl nage avec plaisir dans de l’eau à -10 ºC."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Il est à l’aise dans les endroits gelés.\nIl nage avec plaisir dans de l’eau à -10 ºC."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Jurob",
+    "genus": "Seehund",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Dieses Pokémon lebt auf Eisbergen. Es schwimmt\nim Eiswasser und bricht das Eis mithilfe seines Horns."
+      },
+      {
+        "game": "xy-y",
+        "text": "Unter seinem hellblauen Pelz liegt eine dicke und\nfeste Haut. Es ist bei frostigen -40 °C noch aktiv."
+      },
+      {
+        "game": "oras-or",
+        "text": "Jurob jagt unter der eisigen Oberfläche des Eismeeres nach\nBeute. Zum Luftholen schlägt es mit dem vorstehenden Teil\nseines Kopfes ein Loch ins Eis."
+      },
+      {
+        "game": "oras-as",
+        "text": "Jurob jagt unter der frostigen Oberfläche des Eismeeres\nnach Beute. Zum Luftholen schlägt es mit dem vorstehenden\nTeil seines Kopfes ein Loch ins Eis."
+      },
+      {
+        "game": "usum-us",
+        "text": "Bisher wurde vermutet, dass es ausschließlich\nin kalten Gewässern lebe. Warum es auch in\nAlola auftaucht, ist noch ein Rätsel."
+      },
+      {
+        "game": "usum-um",
+        "text": "Kalte Meere machen ihm dank seiner dicken\nFettschicht nichts aus. Wärmere Gewässer\nsetzen ihm hingegen sehr zu."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Es bevorzugt eiskalte Lebensräume und\nschwimmt mit Vorliebe in -10 ºC kaltem Wasser."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Es bevorzugt eiskalte Lebensräume und\nschwimmt mit Vorliebe in -10 ºC kaltem Wasser."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Seel",
+    "genus": "Pokémon León Marino",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Este Pokémon vive en icebergs. Nada en el mar y usa\nel cuerno de su cabeza para romper el hielo."
+      },
+      {
+        "game": "xy-y",
+        "text": "Está recubierto de un pelaje de color azul, y tiene una\npiel gruesa y tosca. Se mantiene activo a -40 °C."
+      },
+      {
+        "game": "oras-or",
+        "text": "Seel busca a sus presas en aguas heladas, bajo las capas de\nhielo. Cuando necesita respirar, abre un agujerito en el hielo\ncon la afilada protuberancia que tiene encima de la cabeza."
+      },
+      {
+        "game": "oras-as",
+        "text": "Seel busca a sus presas en aguas heladas, bajo las capas de\nhielo. Cuando necesita respirar, abre un agujerito en el hielo\ncon la afilada protuberancia que tiene encima de la cabeza."
+      },
+      {
+        "game": "usum-us",
+        "text": "Siempre se ha creído que solo puede subsistir\nen aguas frías. El motivo de su aparición en\nAlola es un misterio."
+      },
+      {
+        "game": "usum-um",
+        "text": "La gruesa capa de grasa que le permite nadar\nsin problemas en aguas frías le da más de un\nsofoco en climas más cálidos."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Le encantan los lugares gélidos y disfruta\nnadando en aguas a temperaturas en torno a\nlos -10 °C."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Le encantan los lugares gélidos y disfruta\nnadando en aguas a temperaturas en torno a\nlos -10 °C."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Seel",
+    "genus": "Pokémon Otaria",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Pokémon che vive sugli iceberg. Nuota spaccando\nil ghiaccio con la punta che ha sulla testa."
+      },
+      {
+        "game": "xy-y",
+        "text": "Sotto la pelliccia azzurra ha una pelle spessa e dura.\nPuò resistere a una temperatura di -40 °C."
+      },
+      {
+        "game": "oras-or",
+        "text": "Seel caccia le prede nel mare gelido sotto le lastre\ndi ghiaccio. Per respirare apre un foro nel ghiaccio\nusando la protuberanza appuntita sulla sommità del capo."
+      },
+      {
+        "game": "oras-as",
+        "text": "Seel caccia le prede nel mare gelido sotto le lastre\ndi ghiaccio. Per respirare apre un foro nel ghiaccio\nusando la protuberanza appuntita sulla sommità del capo."
+      },
+      {
+        "game": "usum-us",
+        "text": "Finora si pensava che i Seel potessero vivere\nsolo nei mari gelidi, pertanto la loro comparsa\nad Alola è alquanto misteriosa."
+      },
+      {
+        "game": "usum-um",
+        "text": "Grazie al suo spesso strato di grasso nuota\ntranquillamente nell’acqua gelida. Nei mari\ncaldi rischia facilmente lo sfinimento."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Adora gli ambienti gelidi. Nuota con piacere\nnell’acqua a temperature di circa -10 ºC."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Adora gli ambienti gelidi. Nuota con piacere\nnell’acqua a temperature di circa -10 ºC."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Seel",
+    "genus": "Sea Lion Pokémon",
+    "flavorText": [
+      {
+        "game": "rb-r",
+        "text": "The protruding\nhorn on its head\nis very hard.\fIt is used for\nbashing through\nthick ice."
+      },
+      {
+        "game": "rb-b",
+        "text": "The protruding\nhorn on its head\nis very hard.\fIt is used for\nbashing through\nthick ice."
+      },
+      {
+        "game": "y",
+        "text": "Loves freezing\ncold conditions.\nRelishes swimming\fin a frigid cli­\nmate of around 14F\ndegrees."
+      },
+      {
+        "game": "gs-g",
+        "text": "Although it can't\nwalk well on land,\nit is a graceful\fswimmer. It espe­\ncially loves being\nin frigid seas."
+      },
+      {
+        "game": "gs-s",
+        "text": "In daytime, it is\noften found asleep\non the seabed in\fshallow waters.\nIts nostrils close\nwhile it swims."
+      },
+      {
+        "game": "c",
+        "text": "The light blue fur\nthat covers it\nkeeps it protected\fagainst the cold.\nIt loves iceberg-\nfilled oceans."
+      },
+      {
+        "game": "rs-r",
+        "text": "SEEL hunts for prey in the frigid sea\nunderneath sheets of ice.\nWhen it needs to breathe, it punches\fa hole through the ice with the\nsharply protruding section of its head."
+      },
+      {
+        "game": "rs-s",
+        "text": "SEEL hunts for prey in the frigid sea\nunderneath sheets of ice.\nWhen it needs to breathe, it punches\fa hole through the ice with the\nsharply protruding section of its head."
+      },
+      {
+        "game": "e",
+        "text": "SEEL hunt for prey in frigid, ice-covered\nseas. When it needs to breathe, it punches\na hole through the ice with the sharply\nprotruding section of its head."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "Covered with light blue fur, its hide is\nthick and tough. It is active in bitter\ncold of minus 40 degrees Fahrenheit."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "The protruding horn on its head is very\nhard. It is used for bashing through thick\nicebergs."
+      },
+      {
+        "game": "dp-d",
+        "text": "A Pokémon that lives on icebergs.\nIt swims in the sea using the point\non its head to break up ice."
+      },
+      {
+        "game": "dp-p",
+        "text": "A Pokémon that lives on icebergs.\nIt swims in the sea using the point\non its head to break up ice."
+      },
+      {
+        "game": "pt",
+        "text": "A Pokémon that lives on icebergs.\nIt swims in the sea using the point\non its head to break up ice."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "Although it can’t walk well on land,\nit is a graceful swimmer. It especially\nloves being in frigid seas."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "In daytime, it is often found asleep\non the seabed in shallow waters.\nIts nostrils close while it swims."
+      },
+      {
+        "game": "bw-b",
+        "text": "A Pokémon that lives on icebergs.\nIt swims in the sea using the point\non its head to break up ice."
+      },
+      {
+        "game": "bw-w",
+        "text": "A Pokémon that lives on icebergs.\nIt swims in the sea using the point\non its head to break up ice."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "The colder it gets, the better it feels.\nIt joyfully swims around oceans so cold\nthat they are filled with floating ice."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "The colder it gets, the better it feels.\nIt joyfully swims around oceans so cold\nthat they are filled with floating ice."
+      },
+      {
+        "game": "xy-x",
+        "text": "A Pokémon that lives on icebergs. It swims in the\nsea using the point on its head to break up ice."
+      },
+      {
+        "game": "xy-y",
+        "text": "Covered with light blue fur, its hide is thick and\ntough. It is active in bitter cold of\n-40 degrees Fahrenheit."
+      },
+      {
+        "game": "oras-or",
+        "text": "Seel hunts for prey in the frigid sea underneath sheets of ice.\nWhen it needs to breathe, it punches a hole through the ice\nwith the sharply protruding section of its head."
+      },
+      {
+        "game": "oras-as",
+        "text": "Seel hunts for prey in the frigid sea underneath sheets of ice.\nWhen it needs to breathe, it punches a hole through the ice\nwith the sharply protruding section of its head."
+      },
+      {
+        "game": "usum-us",
+        "text": "It has always been supposed that Seel live only\nin cold seas. Their having shown up in Alola is\na mystery."
+      },
+      {
+        "game": "usum-um",
+        "text": "Thanks to its thick fat, cold seas don’t bother it\nat all, but it gets tired pretty easily in\nwarm waters."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Loves freezing-cold conditions.\nRelishes swimming in a frigid climate\nof around 14 degrees Fahrenheit."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Loves freezing-cold conditions.\nRelishes swimming in a frigid climate\nof around 14 degrees Fahrenheit."
+      }
+    ]
+  },
+  "chs": {
+    "name": "小海狮",
+    "genus": "海狮宝可梦",
+    "flavorText": [
+      {
+        "game": "usum-us",
+        "text": "人们一直以为它只生活在寒冷的海域。\n它出现在阿罗拉的原因是个谜。"
+      },
+      {
+        "game": "usum-um",
+        "text": "因为有着厚厚的脂肪，\n所以在寒冷的海里它也毫不在意，\n但在温暖的海里却有点容易疲劳。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "喜欢天寒地冻的地方，\n就算零下10度\n也能愉快地游泳。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "喜欢天寒地冻的地方，\n就算零下10度\n也能愉快地游泳。"
+      }
+    ]
+  }
+}

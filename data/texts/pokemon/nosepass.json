@@ -1,0 +1,385 @@
+{
+  "jap": {
+    "name": "ノズパス",
+    "genus": "コンパスポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "いつも　きたを　むいている\nじしゃくの　はなで　まわりの　てつを\nひきよせて　まもりを　かためるのだ。"
+      },
+      {
+        "game": "xy-y",
+        "text": "じしゃくの　はなは　いつも　きたを\nむいている。たびびとは　ノズパスを\nみて　ほうがくを　たしかめる。"
+      },
+      {
+        "game": "oras-or",
+        "text": "じしゃくの　はなは　いつも　きたを　むいている。\nノズパスどうしは　じしゃくが　はんぱつしあうため\nちかくで　かおを　あわせる　ことが　できない。"
+      },
+      {
+        "game": "oras-as",
+        "text": "じしゃくの　はなを　きたに　むけたまま　まったく\nうごかないと　いわれていたが　１ねんに　１センチ\nいどう　している　ことが　かんそくされた。"
+      },
+      {
+        "game": "sm-s",
+        "text": "ノズパスの　はなの　じしゃくは\nぜったいに　くるわないので　たびする\nトレーナーの　よき　パートナーだ。"
+      },
+      {
+        "game": "sm-m",
+        "text": "きょうりょくな　じりょくで　えものを\nひきよせる。　てつを　ひきよせ\nみを　まもることも　ある。"
+      },
+      {
+        "game": "usum-us",
+        "text": "１ねんに　１センチしか　うごかないが\nピンチに　おちいると　かいてんし\nいっしゅんで　ちちゅうに　もぐる。"
+      },
+      {
+        "game": "usum-um",
+        "text": "きょうりょくな　じりょくで　えものを\nひきよせ　うごかず　かりを　するが\nてんてきを　ひきよせることもある。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Nosepass",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "코코파스",
+    "genus": "콤파스포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "항상 북쪽을 향한다.\n자석의 코로 주변의 철을\n끌어당겨 방어를 굳힌다."
+      },
+      {
+        "game": "xy-y",
+        "text": "자석 코는 항상 북쪽을\n향하고 있다. 여행자는 코코파스를\n보고 방향을 확인한다."
+      },
+      {
+        "game": "oras-or",
+        "text": "자석으로 된 코는 항상 북쪽을 향하고 있다.\n코코파스끼리는 자석의 반발력 때문에\n가까이에서 얼굴을 마주 볼 수가 없다."
+      },
+      {
+        "game": "oras-as",
+        "text": "자석인 코를 북쪽으로 향한 채 전혀\n움직이지 않는다고 전해졌지만 1년에 1cm\n이동하는 것이 관측되었다."
+      },
+      {
+        "game": "sm-s",
+        "text": "코코파스의 코의 자석은\n절대로 고장 나지 않아서 여행하는\n트레이너의 좋은 파트너이다."
+      },
+      {
+        "game": "sm-m",
+        "text": "강력한 자력으로 먹이를\n끌어당긴다. 철을 끌어당겨\n몸을 지킬 때도 있다."
+      },
+      {
+        "game": "usum-us",
+        "text": "1년에 1cm밖에 움직이지 않지만\n위기에 처하면 회전하여\n순식간에 땅속으로 파고든다."
+      },
+      {
+        "game": "usum-um",
+        "text": "강력한 자력으로 먹이를 끌어당겨\n움직이지 않고 사냥을 하지만\n천적을 끌어당기는 일도 있다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "朝北鼻",
+    "genus": "羅盤寶可夢",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "朝北鼻鼻子上的磁鐵絕對不會失靈，\n所以是訓練家旅行時的良伴。"
+      },
+      {
+        "game": "sm-m",
+        "text": "用強勁的磁力把獵物吸過來。\n也會吸引並收集鐵來保護身軀。"
+      },
+      {
+        "game": "usum-us",
+        "text": "每年只會移動１公分，\n但在陷入危機時會轉動身體，\n在一瞬間潛入地底。"
+      },
+      {
+        "game": "usum-um",
+        "text": "牠會動也不動地用強大的\n磁力把獵物吸過來獵捕，\n但有時也會把天敵吸來。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Tarinor",
+    "genus": "Pokémon Boussole",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Face au danger, il se protège en\naugmentant son magnétisme et en\nattirant tout objet métallique."
+      },
+      {
+        "game": "bw-w",
+        "text": "Face au danger, il se protège en\naugmentant son magnétisme et en\nattirant tout objet métallique."
+      },
+      {
+        "game": "xy-x",
+        "text": "Son nez polarisé lui permet de se défendre en\naugmentant son magnétisme et en attirant tout objet\nmétallique."
+      },
+      {
+        "game": "xy-y",
+        "text": "Son nez magnétique pointe constamment vers\nle nord. Les voyageurs l’observent pour connaître\nleur position."
+      },
+      {
+        "game": "oras-or",
+        "text": "Le nez magnétique de Tarinor pointe toujours vers le nord.\nSi deux de ces Pokémon se rencontrent, ils ne peuvent pas\nse faire face car leurs nez magnétiques se repoussent."
+      },
+      {
+        "game": "oras-as",
+        "text": "On raconte que Tarinor reste complètement immobile,\navec son nez magnétique orienté vers le nord. Cependant,\ndes études minutieuses ont démontré que ce Pokémon\nse déplace de 1 cm par an."
+      },
+      {
+        "game": "sm-s",
+        "text": "Le nez de Tarinor, qui fonctionne comme une\nboussole infaillible, en fait un allié de choix pour\ntout Dresseur Pokémon."
+      },
+      {
+        "game": "sm-m",
+        "text": "Sa puissance magnétique lui sert à attirer\nses proies, mais également des objets\nmétalliques qu’il utilise en guise de bouclier."
+      },
+      {
+        "game": "usum-us",
+        "text": "Il ne se déplace que d’un centimètre par an,\nmais s’il se sent menacé, il virevolte et s’enfonce\ndans le sol en un instant."
+      },
+      {
+        "game": "usum-um",
+        "text": "Grâce à sa force magnétique, il peut chasser\nses proies sans se déplacer, mais il attire\nparfois ses pires ennemis."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Nasgnet",
+    "genus": "Kompass",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Es schützt sich mit Objekten aus Eisen, die es\nmithilfe seiner immer nach Norden zeigenden\nmagnetischen Nase anzieht."
+      },
+      {
+        "game": "xy-y",
+        "text": "Seine magnetische Nase zeigt stets gen Norden.\nReisende überprüfen Nasgnet, um sich zu orientieren."
+      },
+      {
+        "game": "oras-or",
+        "text": "Nasgnet besitzt eine magnetische Nase, die immer nach\nNorden zeigt. Wenn sich zwei Nasgnet treffen, können sie\nsich einander nicht zuwenden, da ihre magnetischen Nasen\nsich gegenseitig abstoßen."
+      },
+      {
+        "game": "oras-as",
+        "text": "Nasgnet wurde zunächst als völlig unbeweglich beschrieben,\nda seine magnetische Nase immer nach Norden zeigt.\nGenauere Beobachtungen haben jedoch ergeben, dass es sich\npro Jahr tatsächlich etwa um 1 cm bewegt."
+      },
+      {
+        "game": "sm-s",
+        "text": "Seine magnetische Nase ist unbeirrbar und\nerweist sich daher als ganz hervorragender\nPartner für Pokémon-Trainer auf Reisen."
+      },
+      {
+        "game": "sm-m",
+        "text": "Es nutzt sein starkes Magnetfeld, um Beute zu\nsich heranzuziehen. Ebenso zieht es Objekte\naus Eisen an, um sich mit ihnen zu schützen."
+      },
+      {
+        "game": "usum-us",
+        "text": "Es bewegt sich nur 1 cm pro Jahr, aber in\nNotlagen bohrt es sich mit seinem Körper\nblitzschnell in den Boden."
+      },
+      {
+        "game": "usum-um",
+        "text": "Es jagt bewegungslos, indem es Beute mit\nseinem starken Magnetfeld zu sich heranzieht.\nManchmal sind jedoch auch Fressfeinde dabei."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Nosepass",
+    "genus": "Pokémon Brújula",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Siempre apunta al norte con su nariz imantada. Con\nella reviste su cuerpo de objetos metálicos para\nprotegerse."
+      },
+      {
+        "game": "xy-y",
+        "text": "Siempre está con el pico magnético orientado hacia\nel norte. Quienes viajan toman a Nosepass como\nreferencia."
+      },
+      {
+        "game": "oras-or",
+        "text": "Nosepass siempre está con la nariz magnética que tiene\norientada hacia el norte. Si se encuentra con otro ejemplar\nde su especie, no puede mirarle de frente porque sus polos\nmagnéticos se repelen."
+      },
+      {
+        "game": "oras-as",
+        "text": "De Nosepass se llegó a decir que era totalmente estático;\nsiempre con su nariz magnética orientada hacia el norte.\nSin embargo, tras recientes estudios se ha visto que sí se\nmueve en realidad, apenas un centímetro al año."
+      },
+      {
+        "game": "sm-s",
+        "text": "Los Nosepass tienen una nariz brújula infalible,\npor lo que los Entrenadores viajeros suelen\nllevar uno consigo."
+      },
+      {
+        "game": "sm-m",
+        "text": "Atraen a sus presas usando su potente fuerza\nmagnética. En algunos casos también atraen\nmetales para proteger sus cuerpos."
+      },
+      {
+        "game": "usum-us",
+        "text": "Solo se desplaza un centímetro al año, pero, si\nse siente amenazado, gira sobre sí mismo y se\nhunde bajo tierra en un abrir y cerrar de ojos."
+      },
+      {
+        "game": "usum-um",
+        "text": "Su potente fuerza magnética le permite atraer a\nsus presas sin necesidad de moverse, aunque a\nveces también atrae a sus enemigos naturales."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Nosepass",
+    "genus": "Pokémon Bussola",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Rafforza le sue difese attirando su di sé gli oggetti\ndi ferro circostanti con il suo naso magnetico che\nindica sempre il nord."
+      },
+      {
+        "game": "xy-y",
+        "text": "Ha un naso magnetico che punta sempre verso nord,\ne che i viaggiatori controllano per orientarsi."
+      },
+      {
+        "game": "oras-or",
+        "text": "Il naso magnetico di Nosepass è sempre puntato verso nord.\nQuando incontra un suo simile, non riesce a guardarlo in volto\nda vicino perché i nasi magnetici si respingono l’un l’altro."
+      },
+      {
+        "game": "oras-as",
+        "text": "Pare che Nosepass sia completamente immobile, sempre\ncol naso magnetico puntato verso nord. Tuttavia, studi più\ndettagliati hanno rivelato che questo Pokémon si sposta\ndi 1 cm all’anno."
+      },
+      {
+        "game": "sm-s",
+        "text": "Il naso magnetico di Nosepass è una bussola\ninfallibile e questo lo rende il compagno\ndi viaggio ideale per ogni Allenatore."
+      },
+      {
+        "game": "sm-m",
+        "text": "Il suo potente magnetismo gli permette di\nattirare le prede e anche oggetti di ferro, che\nusa per proteggersi."
+      },
+      {
+        "game": "usum-us",
+        "text": "Si sposta di 1 cm all’anno, ma quando si trova\nin difficoltà ruota su se stesso e in un attimo\nsi nasconde sottoterra."
+      },
+      {
+        "game": "usum-um",
+        "text": "Il suo potente magnetismo gli permette di\nattirare le prede senza muoversi, ma a volte\nattrae anche i suoi nemici naturali."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Nosepass",
+    "genus": "Compass Pokémon",
+    "flavorText": [
+      {
+        "game": "rs-r",
+        "text": "NOSEPASS’s magnetic nose is always\npointed to the north. If two of these\nPOKéMON meet, they cannot turn\ftheir faces to each other when they\nare close because their magnetic noses\nrepel one another."
+      },
+      {
+        "game": "rs-s",
+        "text": "NOSEPASS had been said to be completely\nunmoving, with its magnetic nose\npointed due north.\fHowever, close observation has revealed\nthat the POKéMON actually moves by a\nlittle over 3/8 of an inch every year."
+      },
+      {
+        "game": "e",
+        "text": "Its body emits a powerful magnetism.\nIt feeds on prey that is pulled in by the\nforce. Its magnetism is stronger in cold\nseasons."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "Its magnetic nose consistently faces\nnorth. Travelers check NOSEPASS to get\ntheir bearings."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "Its magnetic nose consistently faces\nnorth. Travelers check NOSEPASS to get\ntheir bearings."
+      },
+      {
+        "game": "dp-d",
+        "text": "Its nose is a magnet. As a result,\nthis Pokémon always keeps its face\npointing north."
+      },
+      {
+        "game": "dp-p",
+        "text": "Its nose is a magnet. As a result,\nthis Pokémon always keeps its face\npointing north."
+      },
+      {
+        "game": "pt",
+        "text": "When endangered, it may protect\nitself by raising its magnetism and\ndrawing iron objects to its body."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "If two of these meet, they cannot\nget too close because their noses\nrepel each other."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "If two of these meet, they cannot\nget too close because their noses\nrepel each other."
+      },
+      {
+        "game": "bw-b",
+        "text": "When endangered, it may protect\nitself by raising its magnetism and\ndrawing iron objects to its body."
+      },
+      {
+        "game": "bw-w",
+        "text": "When endangered, it may protect\nitself by raising its magnetism and\ndrawing iron objects to its body."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "Its magnetic nose always faces north\nand draws iron objects to its body\nto protect itself better."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "Its magnetic nose always faces north\nand draws iron objects to its body\nto protect itself better."
+      },
+      {
+        "game": "xy-x",
+        "text": "Its magnetic nose always faces north and draws\niron objects to its body to protect itself better."
+      },
+      {
+        "game": "xy-y",
+        "text": "Its magnetic nose consistently faces north.\nTravelers check Nosepass to get their bearings."
+      },
+      {
+        "game": "oras-or",
+        "text": "Nosepass’s magnetic nose is always pointed to the north.\nIf two of these Pokémon meet, they cannot turn their faces to\neach other when they are close because their magnetic noses\nrepel one another."
+      },
+      {
+        "game": "oras-as",
+        "text": "Nosepass had been said to be completely unmoving, with its\nmagnetic nose pointed due north. However, close observation\nhas revealed that the Pokémon actually moves by a little over\n3/8 of an inch every year."
+      },
+      {
+        "game": "sm-s",
+        "text": "The magnet in Nosepass’s nose provides an\nunerring compass, making it an excellent\npartner for Trainers going on a journey."
+      },
+      {
+        "game": "sm-m",
+        "text": "It uses powerful magnetism to drag its prey\ntoward it. It’s also been known to pull in metal,\nwhich it collects and uses to protect itself."
+      },
+      {
+        "game": "usum-us",
+        "text": "It moves less than an inch a year, but when\nit’s in a jam, it will spin and drill down into the\nground in a split second."
+      },
+      {
+        "game": "usum-um",
+        "text": "It hunts without twitching a muscle by pulling in\nits prey with powerful magnetism. But\nsometimes it pulls natural enemies in close."
+      },
+      {
+        "game": "la",
+        "text": "Once the people of Hisui discovered that its red nose always\npoints north, they grew to rely on it greatly when traveling afar.\nThe nose seems to work in a similar way to ancient compasses."
+      }
+    ]
+  },
+  "chs": {
+    "name": "朝北鼻",
+    "genus": "罗盘宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "朝北鼻鼻子上的磁铁绝对不会失灵，\n所以是训练家旅行时的良伴。"
+      },
+      {
+        "game": "sm-m",
+        "text": "用强劲的磁力把猎物吸过来。\n也会吸引并收集铁来保护身躯。"
+      },
+      {
+        "game": "usum-us",
+        "text": "１年只会移动１厘米。\n但在陷入危机时会旋转身体，\n瞬间潜入地下。"
+      },
+      {
+        "game": "usum-um",
+        "text": "它会一动不动地用强力的\n磁力将猎物吸过来狩猎。\n但有时也会吸到天敌。"
+      }
+    ]
+  }
+}

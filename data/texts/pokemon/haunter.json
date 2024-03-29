@@ -1,0 +1,553 @@
+{
+  "jap": {
+    "name": "ゴースト",
+    "genus": "ガスじょうポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "くらやみで　だれもいないのに\nみられているような　きがしたら\nそこに　ゴーストが　いるのだ。"
+      },
+      {
+        "game": "xy-y",
+        "text": "ガスじょうの　したで　なめられると\nたましいを　とられてしまう。\nやみに　かくれて　えものを　ねらう。"
+      },
+      {
+        "game": "oras-or",
+        "text": "やみに　うかぶ　ゴーストが　てまねきしても\nぜったいに　ちかよっては　いけないよ。\nペロリと　なめられ　いのちを　すわれてしまうぞ。"
+      },
+      {
+        "game": "oras-as",
+        "text": "やみに　うかぶ　ゴーストが　てまねきしても\nぜったいに　ちかよっては　いけないよ。\nペロリと　なめられ　いのちを　すわれてしまうぞ。"
+      },
+      {
+        "game": "sm-s",
+        "text": "くらやみから　にんげんを　ねらう。\nつめたい　したに　なめられると\nひにひに　よわり　しに　いたる。"
+      },
+      {
+        "game": "sm-m",
+        "text": "ひかりに　おびえ　やみよを　このむ。\nよなかも　あかるい　とかいでは\nぜつめつの　ききに　あるという。"
+      },
+      {
+        "game": "usum-us",
+        "text": "つきのない　よる。　ゴーストは\nのろう　あいてを　さがしているので\nであるかない　ほうが　いいぞ。"
+      },
+      {
+        "game": "usum-um",
+        "text": "かなしい　きもちの　よるは　ひとりで\nそとに　でると　キケン。　ゴーストに\nつかまり　いえに　かえれなくなる。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "なめられると　いのちを　すわれる。\nからだが　ふるえて　とまらなくなり\nやがては　し　に　いたるという。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "なめられると　いのちを　すわれる。\nからだが　ふるえて　とまらなくなり\nやがては　し　に　いたるという。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "ガスじょうの　したで　なめられると\nからだの　ふるえが　とまらなくなり\nやがては　し　に　いたるという。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "くらやみで　だれもいないのに\nみられているような　きがしたら\nそこに　ゴーストが　いるのだ。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Ghost",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "고우스트",
+    "genus": "가스포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "어둠 속에서 아무도 없는데도\n누군가가 보고 있다는 느낌이 들면\n그곳에 고우스트가 있는 것이다."
+      },
+      {
+        "game": "xy-y",
+        "text": "가스로 된 혓바닥으로 핥이게 되면\n영혼을 빼앗겨 버린다.\n어둠에 숨어 먹이를 노린다."
+      },
+      {
+        "game": "oras-or",
+        "text": "어둠 속에서 나타나는 고우스트가 손짓으로\n불러도 절대 가까이 가면 안 된다.\n날름 핥아져 생명을 빨린다."
+      },
+      {
+        "game": "oras-as",
+        "text": "어둠 속에서 나타나는 고우스트가 손짓으로\n불러도 절대 가까이 가면 안 된다.\n날름 핥아져 생명을 빨린다."
+      },
+      {
+        "game": "sm-s",
+        "text": "어둠 속에서 인간을 노린다.\n차가운 혀로 핥으면\n날이 갈수록 약해져 죽음에 이른다."
+      },
+      {
+        "game": "sm-m",
+        "text": "빛을 무서워하고 어둠을 좋아한다.\n밤중에도 밝은 도시에서는\n멸종 위기에 처해있다고 전해진다."
+      },
+      {
+        "game": "usum-us",
+        "text": "달이 뜨지 않은 밤. 고우스트는\n저주할 상대를 찾기 때문에\n나다니지 않는 것이 좋다."
+      },
+      {
+        "game": "usum-um",
+        "text": "슬픈 기분이 드는 밤에는 혼자\n밖에 나가면 위험하다. 고우스트에게\n붙잡혀 집에 돌아갈 수 없게 된다."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "핥아서 상대의 생명을 흡수한다.\n상대는 몸을 계속 벌벌 떨다가\n결국에는 죽음에 이른다고 한다."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "핥아서 상대의 생명을 흡수한다.\n상대는 몸을 계속 벌벌 떨다가\n결국에는 죽음에 이른다고 한다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "가스로 된 혀에 닿게 되면\n몸의 떨림이 멈추지 않게 되어\n결국에는 죽음에 이른다고 전해진다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "어둠 속에서 아무도 없는데도\n누군가가 보고 있다는 느낌이 들면\n그곳에 고우스트가 있는 것이다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "鬼斯通",
+    "genus": "氣體狀寶可夢",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "會從陰暗處襲擊人類。\n如果被其冰冷的舌頭舔到，\n就會一天天虛弱至死。"
+      },
+      {
+        "game": "sm-m",
+        "text": "害怕光亮，喜歡黑夜。\n據說在深夜也燈火如晝的\n大都市中有滅絕的危險。"
+      },
+      {
+        "game": "usum-us",
+        "text": "在沒有月亮的夜裡，\n鬼斯通會四處尋找詛咒的對象，\n所以不要外出比較好。"
+      },
+      {
+        "game": "usum-um",
+        "text": "心情悲傷時在夜晚單獨外出\n是很危險的。鬼斯通會捉住你，\n讓你回不了家。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "被牠舔到時生命力會被吸走，\n身體會不受控制地不停顫抖，\n最後一命嗚呼。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "被牠舔到時生命力會被吸走，\n身體會不受控制地不停顫抖，\n最後一命嗚呼。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "據說如果被牠氣體狀的舌頭舔到，\n身體就會無法停止顫抖，\n最終將會導致死亡。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "如果黑暗中空無一人，\n但你卻感覺被什麼盯上了，\n那麼鬼斯通一定就在那裡。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Spectrum",
+    "genus": "Pokémon Gaz",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Il adore se tapir dans l’ombre et\nfaire frissonner ses proies en leur\ntouchant l’épaule."
+      },
+      {
+        "game": "bw-w",
+        "text": "Il adore se tapir dans l’ombre et\nfaire frissonner ses proies en leur\ntouchant l’épaule."
+      },
+      {
+        "game": "xy-x",
+        "text": "Si vous avez l’impression qu’on vous surveille dans\nle noir, c’est sûrement qu’un Spectrum est dans\nle coin."
+      },
+      {
+        "game": "xy-y",
+        "text": "Il vole l’énergie vitale de l’ennemi d’un coup de\nlangue gazeuse. Il aime chasser dans l’ombre."
+      },
+      {
+        "game": "oras-or",
+        "text": "Spectrum est un Pokémon dangereux. Si l’un d’entre eux fait\nsigne d’approcher, il ne faut jamais l’écouter. Ce Pokémon\nrisque de sortir sa langue pour essayer de voler votre vie."
+      },
+      {
+        "game": "oras-as",
+        "text": "Spectrum est un Pokémon dangereux. Si l’un d’entre eux fait\nsigne d’approcher, il ne faut jamais l’écouter. Ce Pokémon\nrisque de sortir sa langue pour essayer de voler votre vie."
+      },
+      {
+        "game": "sm-s",
+        "text": "Il assaille les humains depuis les ténèbres.\nUne personne léchée par sa langue glaciale\ns’affaiblit jour après jour jusqu’à décéder."
+      },
+      {
+        "game": "sm-m",
+        "text": "Il a peur de la lumière et se délecte de la nuit\nnoire. Dans les grandes villes où l’éclairage est\nomniprésent, il est en voie d’extinction."
+      },
+      {
+        "game": "usum-us",
+        "text": "Gare aux nuits sans lune ! C’est là que Spectrum\nerre à la recherche d’âmes à damner.\nToute promenade est fortement déconseillée."
+      },
+      {
+        "game": "usum-um",
+        "text": "Évitez les balades nocturnes en solitaire en cas\nde vague à l’âme : si Spectrum vous attrape,\nvous ne pourrez plus rentrer chez vous !"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Il lèche ses ennemis pour voler leur énergie\nvitale. Ceux-ci sont alors pris de tremblements\njusqu’à ce que mort s’ensuive."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Il lèche ses ennemis pour voler leur énergie\nvitale. Ceux-ci sont alors pris de tremblements\njusqu’à ce que mort s’ensuive."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "On raconte que quiconque est léché par sa langue\nfaite de gaz est pris de tremblements jusqu’à\nce que mort s’ensuive."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "On dit que lorsque quelqu’un a l’impression\nd’être surveillé dans le noir, c’est sûrement\nqu’un Spectrum se trouve dans les parages."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Alpollo",
+    "genus": "Gas-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Falls du im Dunkeln das Gefühl hast,\nbeobachtet zu werden und niemand\nist zu sehen, ist es bestimmt Alpollo."
+      },
+      {
+        "game": "xy-y",
+        "text": "Es beleckt seine Opfer mit seiner Zunge und stiehlt\nihnen so Lebenskraft. Es lauert im Dunkeln auf sie."
+      },
+      {
+        "game": "oras-or",
+        "text": "Alpollo ist ein gefährliches Pokémon. Wenn es dich zu sich\nlockt, während es durch die Dunkelheit schwebt, darfst du ihm\nkeinesfalls zu nahe kommen. Dieses Pokémon wird versuchen,\nan dir zu lecken und dein Leben zu stehlen."
+      },
+      {
+        "game": "oras-as",
+        "text": "Alpollo ist ein gefährliches Pokémon. Wenn es dir ein Zeichen\ngibt, während es durch die Dunkelheit schwebt, darfst du dich\nihm nicht nähern. Dieses Pokémon wird versuchen, an dir zu\nlecken und dein Leben zu stehlen."
+      },
+      {
+        "game": "sm-s",
+        "text": "Es lauert Menschen im Dunkeln auf und leckt sie\nmit seiner kalten Zunge. Danach werden sie von\nTag zu Tag schwächer, bis sie dahinscheiden."
+      },
+      {
+        "game": "sm-m",
+        "text": "Es ist lichtscheu und bevorzugt die Dunkelheit.\nAufgrund der hellen Lichter der Großstädte ist\nes dort vom Aussterben bedroht."
+      },
+      {
+        "game": "usum-us",
+        "text": "In mondlosen Nächten sucht es nach Opfern,\ndie es mit einem Fluch belegen kann. Zu Hause\nist man daher am sichersten aufgehoben."
+      },
+      {
+        "game": "usum-um",
+        "text": "Von Kummer Geplagte sollten nachts nicht allein\nherumspazieren. Ansonsten lauert ihnen Alpollo\nauf und lässt sie nie mehr nach Hause zurück."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Es saugt seinen Opfern das Leben aus, indem es\nsie abschleckt. Man sagt, sie würden daraufhin\nunentwegt zittern, bis sie schließlich entschlafen."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Es saugt seinen Opfern das Leben aus, indem es\nsie abschleckt. Man sagt, sie würden daraufhin\nunentwegt zittern, bis sie schließlich entschlafen."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Seine Zunge besteht aus Gas. Schleckt es seine\nOpfer damit ab, zittern diese unentwegt, bis sie\nschließlich entschlafen."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Falls du im Dunkeln das Gefühl hast, beobachtet\nzu werden, und niemand ist zu sehen, ist es\nbestimmt Alpollo."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Haunter",
+    "genus": "Pokémon Gas",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Cuando tienes la sensación de que te están\nobservando, seguro que es porque Haunter está\ncerca."
+      },
+      {
+        "game": "xy-y",
+        "text": "Utiliza su lengua gaseosa para chupar la vida de la\nvíctima. Acecha a sus presas en la oscuridad."
+      },
+      {
+        "game": "oras-or",
+        "text": "Haunter es un Pokémon peligroso. Si se ve alguno flotando\nen la oscuridad y haciendo señas, conviene no acercarse. Este\nPokémon intentará robarle la energía a su presa a base de\nlametazos."
+      },
+      {
+        "game": "oras-as",
+        "text": "Haunter es un Pokémon peligroso. Si se ve alguno flotando\nen la oscuridad y haciendo señas, conviene no acercarse. Este\nPokémon intentará robarle la energía a su presa a base de\nlametazos."
+      },
+      {
+        "game": "sm-s",
+        "text": "Surge de la oscuridad para atacar a la gente.\nLas víctimas de sus lametazos se debilitan\npoco a poco hasta que se les escapa la vida."
+      },
+      {
+        "game": "sm-m",
+        "text": "Rehúye la luz y adora las noches oscuras. En\nlas ciudades su presencia es casi inexistente,\npues por la noche todo se ilumina."
+      },
+      {
+        "game": "usum-us",
+        "text": "Se aconseja no salir a pasear en las noches de\nluna nueva, cuando los Haunter acechan en\nbusca de su próxima víctima."
+      },
+      {
+        "game": "usum-um",
+        "text": "Quienes se sientan tristes no deben salir solos\npor la noche, pues Haunter estará al acecho, los\natrapará y no podrán volver a casa."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Sus lengüetazos le arrebatan la energía vital a su\nvíctima y le causan unos temblores que no cesan\nhasta que fallece."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Sus lengüetazos le arrebatan la energía vital a su\nvíctima y le causan unos temblores que no cesan\nhasta que fallece."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Su lengua está hecha de gas. Si lame a su víctima,\nesta sufrirá constantes temblores hasta fallecer."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Cuando se tiene la sensación de ser observado\nen la oscuridad sin que haya nadie alrededor,\nseguro que es porque un Haunter anda cerca."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Haunter",
+    "genus": "Pokémon Gas",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Se da soli, al buio, si ha l’impressione di essere\nosservati da qualcuno, si tratta di Haunter."
+      },
+      {
+        "game": "xy-y",
+        "text": "Lecca i nemici con la lingua tossica e sottrae la loro\nvitalità. Si cela nell’oscurità in attesa delle prede."
+      },
+      {
+        "game": "oras-or",
+        "text": "Haunter è un Pokémon pericoloso. Se lo si vede far cenni\nmentre fluttua nell’oscurità, è meglio fuggire, poiché\nil Pokémon cercherà di leccare il malcapitato e\nsucchiargli la vita."
+      },
+      {
+        "game": "oras-as",
+        "text": "Haunter è un Pokémon pericoloso. Se lo si vede far cenni\nmentre fluttua nell’oscurità, è meglio fuggire, poiché\nil Pokémon cercherà di leccare il malcapitato e\nsucchiargli la vita."
+      },
+      {
+        "game": "sm-s",
+        "text": "Si nasconde nel buio e tende agguati agli esseri\numani. Chi viene leccato dalla sua lingua gelida\nsi indebolisce lentamente fino allo sfinimento."
+      },
+      {
+        "game": "sm-m",
+        "text": "Ama l’oscurità e rifugge la luce.\nNelle città illuminate anche di notte rischia\ndi scomparire."
+      },
+      {
+        "game": "usum-us",
+        "text": "Nelle notti senza luna è meglio rimanere in casa:\nHaunter vaga in cerca di vittime su cui scagliare\nmaledizioni!"
+      },
+      {
+        "game": "usum-um",
+        "text": "È pericoloso uscire da soli la notte quando\nsi è tristi: si rischia di essere presi da Haunter\ne non poter più fare ritorno a casa."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Lecca la preda per assorbirne l’energia vitale.\nSi dice che la vittima venga colta da tremori\nincontrollabili e spiri entro breve."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Lecca la preda per assorbirne l’energia vitale.\nSi dice che la vittima venga colta da tremori\nincontrollabili e spiri entro breve."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Chi viene leccato dalla sua lingua gassosa\nsoccombe in breve tempo scosso da tremiti\nirrefrenabili."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Se da soli, al buio, si ha l’impressione di essere\nosservati da qualcuno, si tratta di Haunter."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Haunter",
+    "genus": "Gas Pokémon",
+    "flavorText": [
+      {
+        "game": "rb-r",
+        "text": "Because of its\nability to slip\nthrough block\fwalls, it is said\nto be from an­\nother dimension."
+      },
+      {
+        "game": "rb-b",
+        "text": "Because of its\nability to slip\nthrough block\fwalls, it is said\nto be from an­\nother dimension."
+      },
+      {
+        "game": "y",
+        "text": "By licking, it\nsaps the victim's\nlife. It causes\fshaking that won't\nstop until the\nvictim's demise."
+      },
+      {
+        "game": "gs-g",
+        "text": "In total darkness,\nwhere nothing is\nvisible, HAUNTER\flurks, silently\nstalking its next\nvictim."
+      },
+      {
+        "game": "gs-s",
+        "text": "Its tongue is made\nof gas. If licked,\nits victim starts\fshaking constantly\nuntil death even­\ntually comes."
+      },
+      {
+        "game": "c",
+        "text": "It hides in the\ndark, planning to\ntake the life of\fthe next living\nthing that wanders\nclose by."
+      },
+      {
+        "game": "rs-r",
+        "text": "HAUNTER is a dangerous POKéMON.\nIf one beckons you while floating in\ndarkness, you must never approach it.\fThis POKéMON will try to lick you with its\ntongue and steal your life away."
+      },
+      {
+        "game": "rs-s",
+        "text": "HAUNTER is a dangerous POKéMON.\nIf one beckons you while floating in\ndarkness, you must never approach it.\fThis POKéMON will try to lick you with its\ntongue and steal your life away."
+      },
+      {
+        "game": "e",
+        "text": "If a HAUNTER beckons you while it is\nfloating in darkness, don’t approach it.\nThis POKéMON will try to lick you with its\ntongue and steal your life away."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "If you get the feeling of being watched\nin darkness when nobody is around,\nHAUNTER is there."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "Because of its ability to slip through\nblock walls, it is said to be from another\ndimension."
+      },
+      {
+        "game": "dp-d",
+        "text": "It can slip through any obstacle.\nIt lurks inside walls to keep an\neye on its foes."
+      },
+      {
+        "game": "dp-p",
+        "text": "It licks with its gaseous tongue\nto steal the victim’s life force.\nIt lurks in darkness for prey."
+      },
+      {
+        "game": "pt",
+        "text": "It likes to lurk in the dark and tap\nshoulders with a gaseous hand. Its\ntouch causes endless shuddering."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "In total darkness, where nothing is\nvisible, HAUNTER lurks, silently\nstalking its next victim."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "Its tongue is made of gas. If licked,\nits victim starts shaking constantly\nuntil death eventually comes."
+      },
+      {
+        "game": "bw-b",
+        "text": "It likes to lurk in the dark and tap\nshoulders with a gaseous hand. Its\ntouch causes endless shuddering."
+      },
+      {
+        "game": "bw-w",
+        "text": "It likes to lurk in the dark and tap\nshoulders with a gaseous hand. Its\ntouch causes endless shuddering."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "It likes to lurk in the dark and tap\nshoulders with a gaseous hand. Its\ntouch causes endless shuddering."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "It likes to lurk in the dark and tap\nshoulders with a gaseous hand. Its\ntouch causes endless shuddering."
+      },
+      {
+        "game": "xy-x",
+        "text": "If you get the feeling of being watched in darkness\nwhen nobody is around, Haunter is there."
+      },
+      {
+        "game": "xy-y",
+        "text": "It licks with its gaseous tongue to steal the victim’s\nlife force. It lurks in darkness for prey."
+      },
+      {
+        "game": "oras-or",
+        "text": "Haunter is a dangerous Pokémon. If one beckons you while\nfloating in darkness, you must never approach it. This Pokémon\nwill try to lick you with its tongue and steal your life away."
+      },
+      {
+        "game": "oras-as",
+        "text": "Haunter is a dangerous Pokémon. If one beckons you while\nfloating in darkness, you must never approach it. This Pokémon\nwill try to lick you with its tongue and steal your life away."
+      },
+      {
+        "game": "sm-s",
+        "text": "It strikes at humans from total darkness.\nThose licked by its cold tongue grow weaker\nwith each passing day until they die."
+      },
+      {
+        "game": "sm-m",
+        "text": "It fears the light and revels in the dark. It may\nbe on the verge of extinction in cities that stay\nbrightly lit at night."
+      },
+      {
+        "game": "usum-us",
+        "text": "On moonless nights, Haunter searches for\nsomeone to curse, so it’s best not to go out\nwalking around."
+      },
+      {
+        "game": "usum-um",
+        "text": "It’s dangerous to go outside alone on nights\nwhen you’re feeling sad. Haunter will catch you,\nand you won’t be able to go back home."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "By licking, it saps the victim’s life. It causes\nshaking that won’t stop until the victim’s demise."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "By licking, it saps the victim’s life. It causes\nshaking that won’t stop until the victim’s demise."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Its tongue is made of gas. If licked, its victim\nstarts shaking constantly until death\neventually comes."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "If you get the feeling of being watched in darkness\nwhen nobody is around, Haunter is there."
+      },
+      {
+        "game": "la",
+        "text": "This frightful, malevolent spirit can glide through walls,\nappearing wherever it likes. According to rumor, victims of\na Haunter's lick will wither to death day by day."
+      }
+    ]
+  },
+  "chs": {
+    "name": "鬼斯通",
+    "genus": "气体状宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "从阴暗处袭击人类。\n如果被其冰冷的舌头舔到，\n就会一天天虚弱至死。"
+      },
+      {
+        "game": "sm-m",
+        "text": "害怕光亮，喜欢黑夜。\n据说在即便深夜都灯火如昼的\n大都市有灭绝的危险。"
+      },
+      {
+        "game": "usum-us",
+        "text": "在没有月亮的晚上，\n鬼斯通会寻找可以诅咒的对象，\n所以不要外出走动比较好哦。"
+      },
+      {
+        "game": "usum-um",
+        "text": "心情悲伤时单独夜出很危险。\n因为你会被鬼斯通捉住而无法回家。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "被它舔到时生命力会被吸走，\n身体会不受控制地不停颤抖，\n最后一命呜呼。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "被它舔到时生命力会被吸走，\n身体会不受控制地不停颤抖，\n最后一命呜呼。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "据说如果被它气体状的舌头舔到，\n身体就会无法停止颤抖，\n最终将会导致死亡。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "如果黑暗中空空如也，\n但你却感觉被什么盯上了，\n那么鬼斯通一定就在那里。"
+      }
+    ]
+  }
+}

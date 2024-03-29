@@ -1,0 +1,293 @@
+{
+  "jap": {
+    "name": "レジギガス",
+    "genus": "きょだいポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "とくしゅな　ひょうざんや　がんせき\nマグマから　じぶんの　すがたに　にた\nポケモンを　つくったと　いわれる。"
+      },
+      {
+        "game": "xy-y",
+        "text": "なわで　しばった　たいりくを\nひっぱって　うごかしたという\nでんせつが　のこされている。"
+      },
+      {
+        "game": "oras-or",
+        "text": "とくしゅな　ひょうざんや　がんせき\nマグマから　じぶんの　すがたに　にた\nポケモンを　つくったと　いわれる。"
+      },
+      {
+        "game": "oras-as",
+        "text": "なわで　しばった　たいりくを\nひっぱって　うごかしたという\nでんせつが　のこされている。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "じぶんの　すがたに　にせて\nポケモンを　つくった　でんせつが\nせかいじゅうに　のこされている。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "さまざまな　ざいりょうで　ポケモンを\nつくってから　たいりくを　げんざいの\nばしょに　いどうさせたと　いわれる。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Regigigas",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "레지기가스",
+    "genus": "거대포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "특수한 빙산이나 암석,\n마그마에서 자신의 모습과 닮은\n포켓몬을 만들었다고 전해진다."
+      },
+      {
+        "game": "xy-y",
+        "text": "밧줄로 묶은 대륙을\n당겨서 움직였다고 하는\n전설이 남아 있다."
+      },
+      {
+        "game": "oras-or",
+        "text": "특수한 빙산이나 암석,\n마그마에서 자신의 모습과 닮은\n포켓몬을 만들었다고 전해진다."
+      },
+      {
+        "game": "oras-as",
+        "text": "밧줄로 묶은 대륙을\n당겨서 움직였다고 하는\n전설이 남아 있다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "자신의 모습을 닮은\n포켓몬을 만들었다는 전설이\n온 세계에 남아 있다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "다양한 재료로 포켓몬을\n만든 후 대륙을 지금의\n장소로 이동시켰다고 전해진다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "雷吉奇卡斯",
+    "genus": "巨大寶可夢",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "世界各地的傳說都有\n提到牠曾經模仿自己\n的樣子做出了寶可夢。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "據說牠曾使用各種材料\n製作了寶可夢，然後把\n大陸移動到了現在的位置。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Regigigas",
+    "genus": "Pokémon Prodigieux",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "On dit qu’il a créé des Pokémon\nà son image à partir de glace,\nde roche et de magma."
+      },
+      {
+        "game": "bw-w",
+        "text": "On dit qu’il a créé des Pokémon\nà son image à partir de glace,\nde roche et de magma."
+      },
+      {
+        "game": "xy-x",
+        "text": "On dit qu’il a créé des Pokémon à son image à partir\nde glace, de roche et de magma."
+      },
+      {
+        "game": "xy-y",
+        "text": "Une légende tenace veut que ce Pokémon ait traîné\nles continents en les attachant à des cordes."
+      },
+      {
+        "game": "oras-or",
+        "text": "On dit qu’il a créé des Pokémon à son image à partir de glace,\nde roche et de magma."
+      },
+      {
+        "game": "oras-as",
+        "text": "Une légende tenace veut que ce Pokémon ait traîné\nles continents en les attachant à des cordes."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Plusieurs légendes à travers le monde\nracontent que Regigigas aurait créé\ndes Pokémon à son image."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "On raconte qu’après avoir créé des Pokémon\navec différentes matières, il aurait placé\nles continents à leur position actuelle."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Regigigas",
+    "genus": "Kolossal-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Man sagt, es habe Pokémon aus einem Eisberg,\nFelsen und Magma nach seinem Abbild geschaffen."
+      },
+      {
+        "game": "xy-y",
+        "text": "Es gibt eine Legende, wonach dieses Pokémon\ndie Kontinente mit einem Seil gezogen hat."
+      },
+      {
+        "game": "oras-or",
+        "text": "Man sagt, es habe Pokémon aus einem Eisberg, Felsen und\nMagma nach seinem Abbild geschaffen."
+      },
+      {
+        "game": "oras-as",
+        "text": "Es gibt eine Legende, wonach dieses Pokémon die Kontinente\nmit einem Seil gezogen hat."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Überall auf der Welt kursieren Legenden, denen\nzufolge Regigigas Pokémon nach seinem Abbild\ngeschaffen habe."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Man sagt, es habe aus verschiedenen Materialien\nPokémon erschaffen und dann die Kontinente an\nihren jetzigen Standort bewegt."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Regigigas",
+    "genus": "Pokémon Colosal",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Se dice que usó rocas, magma y un hielo especial de\nmontaña para crear Pokémon con su aspecto."
+      },
+      {
+        "game": "xy-y",
+        "text": "Una antigua leyenda afirma que este Pokémon\narrastraba continentes con cuerdas."
+      },
+      {
+        "game": "oras-or",
+        "text": "Se dice que usó rocas, magma y un hielo especial de montaña\npara crear Pokémon con su aspecto."
+      },
+      {
+        "game": "oras-as",
+        "text": "Una antigua leyenda afirma que este Pokémon arrastraba\ncontinentes con cuerdas."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Existen leyendas en todo el mundo que narran\ncomo Regigigas creó otros Pokémon a su imagen\ny semejanza."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Dicen que creó a otros Pokémon a partir de\ndistintos materiales y que, después, colocó los\ncontinentes en su posición actual."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Regigigas",
+    "genus": "Pokémon Colossale",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Si dice che abbia creato dei Pokémon simili a sé\nusando una montagna ghiacciata, rocce e magma."
+      },
+      {
+        "game": "xy-y",
+        "text": "Una leggenda narra che questo Pokémon abbia\ntrainato i continenti con delle funi."
+      },
+      {
+        "game": "oras-or",
+        "text": "Si dice che abbia creato dei Pokémon simili a sé usando\nuna montagna ghiacciata, rocce e magma."
+      },
+      {
+        "game": "oras-as",
+        "text": "Una leggenda narra che questo Pokémon abbia trainato\ni continenti con delle funi."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "In tutto il mondo esistono leggende che narrano\ndi come Regigigas abbia creato dei Pokémon\nsimili a sé."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Si narra che abbia spostato i continenti nella loro\nposizione attuale dopo aver creato dei Pokémon\ncon vari materiali."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Regigigas",
+    "genus": "Colossal Pokémon",
+    "flavorText": [
+      {
+        "game": "dp-d",
+        "text": "There is an enduring legend that\nstates this Pokémon towed\ncontinents with ropes."
+      },
+      {
+        "game": "dp-p",
+        "text": "There is an enduring legend that\nstates this Pokémon towed\ncontinents with ropes."
+      },
+      {
+        "game": "pt",
+        "text": "It is said to have made Pokémon\nthat look like itself from a special\nice mountain, rocks, and magma."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "It is believed to have shaped\nREGIROCK, REGICE, and REGISTEEL\nout of clay, ice, and magma."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "It is believed to have shaped\nREGIROCK, REGICE, and REGISTEEL\nout of clay, ice, and magma."
+      },
+      {
+        "game": "bw-b",
+        "text": "It is said to have made Pokémon\nthat look like itself from a special\nice mountain, rocks, and magma."
+      },
+      {
+        "game": "bw-w",
+        "text": "It is said to have made Pokémon\nthat look like itself from a special\nice mountain, rocks, and magma."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "It is said to have made Pokémon\nthat look like itself from a special\nice mountain, rocks, and magma."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "It is said to have made Pokémon\nthat look like itself from a special\nice mountain, rocks, and magma."
+      },
+      {
+        "game": "xy-x",
+        "text": "It is said to have made Pokémon that look like\nitself from a special ice mountain, rocks,\nand magma."
+      },
+      {
+        "game": "xy-y",
+        "text": "There is an enduring legend that states this\nPokémon towed continents with ropes."
+      },
+      {
+        "game": "oras-or",
+        "text": "It is said to have made Pokémon that look like\nitself from a special ice mountain, rocks,\nand magma."
+      },
+      {
+        "game": "oras-as",
+        "text": "There is an enduring legend that states this\nPokémon towed continents with ropes."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "All over the world, there are legends that tell\nof Regigigas creating other Pokémon in its\nown image."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "It’s said that Regigigas created other Pokémon\nfrom many different materials before it moved\nthe continents to where they are today."
+      },
+      {
+        "game": "la",
+        "text": "According to legend, Regigigas pulled landmasses together and\nbound them with rope to create the continent of Hisui. Though I\nhave my doubts, the story could well contain a shred of truth."
+      }
+    ]
+  },
+  "chs": {
+    "name": "雷吉奇卡斯",
+    "genus": "巨大宝可梦",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "在世上流传着的传说中，\n它曾模仿自己的样子\n创造出过宝可梦。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "据说它用各种各样的材料\n制作了宝可梦后，把大陆\n移动到了现在的位置。"
+      }
+    ]
+  }
+}

@@ -1,0 +1,381 @@
+{
+  "jap": {
+    "name": "ヘイガニ",
+    "genus": "ごろつきポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "どんなに　みずが　よごれた\nかわでも　てきおうして　ふえていく\nタフな　せいめいりょくの　もちぬし。"
+      },
+      {
+        "game": "xy-y",
+        "text": "どんな　かんきょうにも　てきおうする\nつよい　せいめいりょくの　もちぬし。\nはさんだ　えものは　はなさない。"
+      },
+      {
+        "game": "oras-or",
+        "text": "もともと　がいこくに　すんでいた　ポケモンを\nペットとして　つれてきた　ものが　やせいかした。\nせいめいりょくが　つよいので　どんどん　ふえた。"
+      },
+      {
+        "game": "oras-as",
+        "text": "するどい　ハサミで　えものを　つかまえる。\nすき　きらいが　ないので　なんでも　たべるぞ。\nきたない　みずでも　へっちゃらな　ポケモン。"
+      },
+      {
+        "game": "usum-us",
+        "text": "そだてきれなく　なった　トレーナーが\nにがした　こたいが　ふえ　アローラ\nでも　よく　みかけるように　なった。"
+      },
+      {
+        "game": "usum-um",
+        "text": "かんきょうに　てきおうする　ちからが\nとてもつよい。　よどんだドブに　いる\nのは　ヒンバスと　こいつ　くらいだ。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "どんなに　みずが　よごれた\nかわでも　てきおうして　ふえていく\nタフな　せいめいりょくの　もちぬし。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "がいこくから　やってきた　ポケモンが\nやせいかした。　どんなに　きたない\nかわでも　てきおうしてしまう。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Heigani",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "가재군",
+    "genus": "건달포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "아무리 물이 더러운\n강이라도 적응해서 번식하는\n터프한 생명력의 소유자."
+      },
+      {
+        "game": "xy-y",
+        "text": "어떤 환경에도 적응하는\n강한 생명력의 소유자다.\n집은 먹이는 놓치지 않는다."
+      },
+      {
+        "game": "oras-or",
+        "text": "원래는 외국에 살던 포켓몬을\n애완용으로 데려왔던 것이 야생화됐다.\n생명력이 강해서 점점 늘어났다."
+      },
+      {
+        "game": "oras-as",
+        "text": "날카로운 집게로 먹이를 잡는다.\n편식하지 않아서 뭐든지 먹는다.\n더러운 물에서도 아무렇지 않은 포켓몬이다."
+      },
+      {
+        "game": "usum-us",
+        "text": "트레이너가 기를 수 없게 되어\n놓아 주었던 개체가 늘어나서\n알로라에서도 흔해졌다."
+      },
+      {
+        "game": "usum-um",
+        "text": "환경에 적응하는 힘이 매우 강하다.\n탁한 개울에 살 수 있는 건\n빈티나와 이 녀석 정도다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "심하게 오염된 강에서도\n적응해서 번식하는\n강인한 생명력의 소유자."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "외국에서 온 포켓몬이\n야생화했다. 아무리 더러운\n강이라도 적응해버린다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "龍蝦小兵",
+    "genus": "無賴寶可夢",
+    "flavorText": [
+      {
+        "game": "usum-us",
+        "text": "培育到一半就被訓練家\n放生的個體越來越多，\n如今在阿羅拉也能經常見到。"
+      },
+      {
+        "game": "usum-um",
+        "text": "對環境的適應力非常強。\n會待在混濁的臭水溝裡的，\n大概只有醜醜魚和這傢伙。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "有著頑強生命力的寶可夢。\n不論河裡的水有多髒\n都能適應並繁衍後代。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "來自外國的寶可夢，\n現在已經回歸了野生環境。\n不管多麼污濁的河水都能適應。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Écrapince",
+    "genus": "Pokémon Brute",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Sa nature robuste lui permet de\nvivre sur n’importe quel terrain. \nSes pinces ne lâchent jamais prise."
+      },
+      {
+        "game": "bw-w",
+        "text": "Sa nature robuste lui permet de\nvivre sur n’importe quel terrain. \nSes pinces ne lâchent jamais prise."
+      },
+      {
+        "game": "xy-x",
+        "text": "Sa nature robuste lui permet de prospérer dans\nn’importe quelles eaux, aussi polluées soient-elles."
+      },
+      {
+        "game": "xy-y",
+        "text": "Sa nature robuste lui permet de vivre sur n’importe\nquel terrain. Ses pinces ne lâchent jamais prise."
+      },
+      {
+        "game": "oras-or",
+        "text": "Les Écrapince étaient au départ des Pokémon étrangers\nimportés comme animaux domestiques. Ils ont fini par retrouver\nleur état sauvage. Ce Pokémon est particulièrement robuste\net sa population augmente sans arrêt."
+      },
+      {
+        "game": "oras-as",
+        "text": "Écrapince attrape ses proies avec ses puissantes pinces.\nPour la nourriture, il n’est pas difficile. Il mange de tout.\nVivre dans de l’eau sale ne dérange pas ce Pokémon."
+      },
+      {
+        "game": "usum-us",
+        "text": "On voit souvent des Écrapince sur les plages.\nIl s’agit en fait de Pokémon relâchés par leurs\nDresseurs, qui ne parvenaient pas les élever."
+      },
+      {
+        "game": "usum-um",
+        "text": "Il peut s’adapter à n’importe quel environnement.\nBarpau et lui sont d’ailleurs les seuls Pokémon\nà vivre dans l’eau des égouts !"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Sa nature robuste lui permet de prospérer\ndans n’importe quelles eaux, aussi polluées\nsoient-elles."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Un Pokémon importé, retourné à l’état sauvage.\nIl s’adapte même aux rivières les plus polluées."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Krebscorps",
+    "genus": "Grobian-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Egal, wie schmutzig der Fluss ist, in dem sie leben,\nsie passen sich daran an und vermehren sich.\nSie sind hart im Nehmen."
+      },
+      {
+        "game": "xy-y",
+        "text": "Ein robustes Pokémon, das sich jeder Umgebung\nanpassen kann. Seine Zangen geben keine Beute frei."
+      },
+      {
+        "game": "oras-or",
+        "text": "Krebscorps ist kein heimisches Pokémon, sondern wurde als\nHaustier importiert. Schließlich verwilderte es. Dieses Pokémon\nist mittlerweile sehr robust und hat seine Population\nvergrößert."
+      },
+      {
+        "game": "oras-as",
+        "text": "Krebscorps fängt seine Beute mit seinen scharfen Krallen.\nEs hat keine besonderen Ansprüche an seine Nahrung,\nes frisst einfach alles. Dieses Pokémon lebt gern in\nschmutzigem Wasser."
+      },
+      {
+        "game": "usum-us",
+        "text": "Da immer mehr Krebscorps von überforderten\nTrainern in die Freiheit entlassen werden, sieht\nman dieses Pokémon nun auch oft in Alola."
+      },
+      {
+        "game": "usum-um",
+        "text": "Sie sind sehr gut darin, sich an ihre Umwelt\nanzupassen. In Gräben mit trübem Wasser\nfindet man nur sie und Barschwa."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Egal, wie schmutzig der Fluss ist, in dem sie\nleben, sie passen sich daran an und vermehren\nsich. Sie sind hart im Nehmen."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Es stammt eigentlich aus dem Ausland und\nverwilderte. Es passt sich auch an die dreckigsten\nFlüsse an."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Corphish",
+    "genus": "Pokémon Rufián",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Por sucio o contaminado que esté el río, se adaptan\nrápido y se multiplican. Poseen una gran fuerza vital."
+      },
+      {
+        "game": "xy-y",
+        "text": "Su organismo le permite adaptarse a cualquier\nentorno. Sus pinzas nunca sueltan a su presa."
+      },
+      {
+        "game": "oras-or",
+        "text": "En un principio, se importaban Corphish como mascota. Pero,\nal final, se hicieron salvajes. Este Pokémon es muy resistente\ny ha aumentado su población de forma considerable."
+      },
+      {
+        "game": "oras-as",
+        "text": "Corphish atrapa a su presa con finas pinzas. En lo referente a\ncomida no es delicado; se come lo que sea. Tampoco tiene\nningún problema en vivir en aguas sucias."
+      },
+      {
+        "game": "usum-us",
+        "text": "Son muchos los Entrenadores que lo liberan sin\nterminar de criarlo, y su población ha crecido\ntanto que se les ha empezado a avistar en Alola."
+      },
+      {
+        "game": "usum-um",
+        "text": "Posee una excelente capacidad para adaptarse\na su entorno. Solo Corphish o Feebas habitan\nlas aguas estancadas de los canales."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Por muy sucio o contaminado que esté el río, se\nadaptan rápido y se multiplican. Poseen una gran\nfuerza vital."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Si bien procede del extranjero, ahora se halla en\nestado salvaje. Puede vivir hasta en los ríos más\nsucios."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Corphish",
+    "genus": "Pokémon Birbone",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "La sua grande vitalità gli permette di adattarsi e\nproliferare anche nelle acque dei fiumi più inquinati."
+      },
+      {
+        "game": "xy-y",
+        "text": "La sua grande vitalità gli permette di adattarsi a ogni\nhabitat. Le sue chele non rilasciano mai la preda."
+      },
+      {
+        "game": "oras-or",
+        "text": "Originariamente Corphish era stato importato da altre regioni\ncome Pokémon domestico. Attualmente ne sono stati\ntrovati anche allo stato brado. Essendo molto resistente,\nha moltiplicato la sua popolazione."
+      },
+      {
+        "game": "oras-as",
+        "text": "Corphish cattura la preda con le sue temibili chele.\nNon ha esigenze particolari riguardo al cibo, infatti mangia\ndi tutto. Riesce a vivere anche in acque molto inquinate."
+      },
+      {
+        "game": "usum-us",
+        "text": "Sempre più Corphish vengono liberati da\nAllenatori che non possono più allenarli.\nOrmai si incontrano spesso anche ad Alola."
+      },
+      {
+        "game": "usum-um",
+        "text": "Si adatta a ogni habitat. Insieme a Feebas, è\nl’unico Pokémon che vive nelle acque stagnanti\ndei canali."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "La sua grande vitalità gli permette di adattarsi\ne proliferare anche nelle acque dei fiumi più\ninquinati."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Importato dall’estero, si è successivamente\nrinselvatichito. Si adatta anche ai fiumi più\ninquinati."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Corphish",
+    "genus": "Ruffian Pokémon",
+    "flavorText": [
+      {
+        "game": "dp-p",
+        "text": "Its hardy vitality enables it to\nadapt to any environment. Its\npincers will never release prey."
+      },
+      {
+        "game": "rs-r",
+        "text": "CORPHISH were originally foreign\nPOKéMON that were imported as pets.\nThey eventually turned up in the wild.\fThis POKéMON is very hardy and has\ngreatly increased its population."
+      },
+      {
+        "game": "rs-s",
+        "text": "CORPHISH catches prey with its sharp\nclaws. It has no likes or dislikes when it\ncomes to food - it will eat anything.\fThis POKéMON has no trouble living in\nfilthy water."
+      },
+      {
+        "game": "e",
+        "text": "Once it grips prey with its large pincers,\nit will never let go, no matter what.\nIt is a hardy POKéMON that can thrive\nin any environment."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "It came from overseas. It is a very hardy\ncreature that will quickly proliferate,\neven in polluted streams."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "It came from overseas. It is a very hardy\ncreature that will quickly proliferate,\neven in polluted streams."
+      },
+      {
+        "game": "dp-d",
+        "text": "Its hardy vitality enables it to\nadapt to any environment. Its\npincers will never release prey."
+      },
+      {
+        "game": "pt",
+        "text": "Its hardy vitality enables it to\nadapt to any environment. Its\npincers will never release prey."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "It was originally a Pokémon from\nafar that escaped to the wild. It\ncan adapt to the dirtiest river."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "It was originally a Pokémon from\nafar that escaped to the wild. It\ncan adapt to the dirtiest river."
+      },
+      {
+        "game": "bw-b",
+        "text": "Its hardy vitality enables it to\nadapt to any environment. Its\npincers will never release prey."
+      },
+      {
+        "game": "bw-w",
+        "text": "Its hardy vitality enables it to\nadapt to any environment. Its\npincers will never release prey."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "No matter how dirty the water\nin the river, it will adapt and thrive.\nIt has a strong will to survive."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "No matter how dirty the water\nin the river, it will adapt and thrive.\nIt has a strong will to survive."
+      },
+      {
+        "game": "xy-x",
+        "text": "No matter how dirty the water in the river, it will\nadapt and thrive. It has a strong will to survive."
+      },
+      {
+        "game": "xy-y",
+        "text": "Its hardy vitality enables it to adapt to any\nenvironment. Its pincers will never release prey."
+      },
+      {
+        "game": "oras-or",
+        "text": "Corphish were originally foreign Pokémon that were imported\nas pets. They eventually turned up in the wild. This Pokémon is\nvery hardy and has greatly increased its population."
+      },
+      {
+        "game": "oras-as",
+        "text": "Corphish catches prey with its sharp claws. It has no\nlikes or dislikes when it comes to food—it will eat anything.\nThis Pokémon has no trouble living in filthy water."
+      },
+      {
+        "game": "usum-us",
+        "text": "Individuals that have been set free by Trainers\nwho could no longer raise them have become\ncommon, and they can now be found in Alola."
+      },
+      {
+        "game": "usum-um",
+        "text": "It can adapt very well to its environment.\nFeebas and Corphish are about the only\nPokémon to live in stagnant ditches."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "No matter how dirty the water in the river, it will\nadapt and thrive. It has a strong will to survive."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "It was originally a Pokémon from afar that escaped\nto the wild. It can adapt to the dirtiest river."
+      }
+    ]
+  },
+  "chs": {
+    "name": "龙虾小兵",
+    "genus": "无赖宝可梦",
+    "flavorText": [
+      {
+        "game": "usum-us",
+        "text": "被没有坚持培育的训练家放生了的\n个体在增加，即使在阿罗拉也变得\n时常能见到了。"
+      },
+      {
+        "game": "usum-um",
+        "text": "对环境的适应力非常强。\n呆在浑浊臭水沟里的\n大概就是丑丑鱼和这家伙。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "有着顽强生命力的宝可梦。\n不管河里的水有多脏，\n它都能适应并在那里繁衍生息。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "来自于外国的宝可梦，\n现在已经回归了野生环境。\n不管多么污浊的河水都能适应。"
+      }
+    ]
+  }
+}

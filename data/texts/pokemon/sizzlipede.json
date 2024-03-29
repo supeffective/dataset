@@ -1,0 +1,133 @@
+{
+  "jap": {
+    "name": "ヤクデ",
+    "genus": "はつねつポケモン",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "からだに　ためた　かねんガスで\nはつねつ。　とくに　おなかの\nきいろい　ぶぶんが　あついのだ。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "はつねつした　からだで　えものを\nしめあげる。　こんがり　やけたら\nむしゃむしゃ　いただくのだ。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Yakude",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "태우지네",
+    "genus": "발열포켓몬",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "몸속에 모아둔 가연성 가스로\n열을 낸다. 특히 배 쪽의\n노란 부분이 뜨겁다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "발열된 몸으로 먹이를\n세게 조른다. 알맞게 구워지면\n우적우적 먹어버린다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "燒火蚣",
+    "genus": "發熱寶可夢",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "靠儲存在體內的可燃氣體\n來發熱。熱度最高的是\n腹部的黃色部分。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "會用滾燙的身體勒緊獵物，\n等到烤得恰到好處之時，\n就把牠們大口大口地吃掉。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Grillepattes",
+    "genus": "Pokémon Calorifère",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Il produit de la chaleur grâce au gaz inflammable\nqu’il emmagasine dans son corps. La partie jaune\nde son abdomen est particulièrement brûlante."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Il enserre fermement ses proies avec son corps\nbrûlant et, quand elles sont bien grillées,\nil les dévore."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Thermopod",
+    "genus": "Exotherm-Pokémon",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Mit dem entzündlichen Gas in seinem Körper\nerzeugt es Hitze. Die gelben Stellen an seinem\nBauch werden besonders heiß."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Es nimmt Beute mit seinem aufgeheizten Körper\nin die Mangel. Sobald sie gut durchgebraten ist,\nfrisst es sie genüsslich."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Sizzlipede",
+    "genus": "Pokémon Radiador",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Genera calor consumiendo el gas inflamable que\nalmacena en su cuerpo. Los círculos amarillos del\nabdomen están particularmente calientes."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Oprime a sus presas con su cuerpo candente.\nUna vez bien tostadas, las devora con fruición."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Sizzlipede",
+    "genus": "Pokémon Termogeno",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Genera calore grazie ai gas combustibili\naccumulati nel suo corpo. Le parti gialle\ndel suo addome sono particolarmente calde."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Stritola le prede con il suo corpo ardente e,\nquando sono belle abbrustolite, le divora."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Sizzlipede",
+    "genus": "Radiator Pokémon",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "It stores flammable gas in its body and uses it to\ngenerate heat. The yellow sections on its belly\nget particularly hot."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "It wraps prey up with its heated body, cooking\nthem in its coils. Once they’re well-done, it will\nvoraciously nibble them down to the last morsel."
+      }
+    ]
+  },
+  "chs": {
+    "name": "烧火蚣",
+    "genus": "发热宝可梦",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "靠储存在体内的可燃气体\n来发热。热度最高的是\n腹部的黄色部分。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "会用滚烫的身体勒紧猎物，\n等到烤得恰到好处之时，\n就把它们大口大口地吃掉。"
+      }
+    ]
+  }
+}

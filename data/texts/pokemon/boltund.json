@@ -1,0 +1,133 @@
+{
+  "jap": {
+    "name": "パルスワン",
+    "genus": "いぬポケモン",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "でんきを　つくって　あしに　おくり\nはしりを　アシスト。　みっかみばん\nやすまず　はしれるのだ。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "でんきの　ちからで　きゃくりょくを\nぞうきょう。　トップスピードは\nじそく　９０キロを　かるく　こえる。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Pulsewan",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "펄스멍",
+    "genus": "개포켓몬",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "만든 전기를 다리로 보내서\n달리는 것을 돕는다. 삼 일 밤낮을\n쉬지 않고 달릴 수 있다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "전기의 힘으로 다릿심을\n강하게 키운다. 최고 속도는\n시속 90km를 가볍게 넘긴다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "逐電犬",
+    "genus": "狗寶可夢",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "會製造電能，並傳送到腳上\n作為奔跑時的輔助動力。\n能不眠不休地奔跑三天三夜。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "電力增強了牠的腳力。\n當以最高速度奔跑時，\n時速可以輕易超過９０公里。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Fulgudog",
+    "genus": "Pokémon Chien",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Il produit de l’électricité puis la transfère\ndans ses pattes pour mieux courir. Ainsi, il peut\nfoncer pendant trois jours et trois nuits."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Il se sert de l’énergie électrique pour augmenter\nla puissance de ses membres.\nSa vitesse maximale dépasse de peu les 90 km/h."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Bellektro",
+    "genus": "Hunde-Pokémon",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Es generiert Strom und lässt ihn zur Unterstützung\nbeim Rennen in seine Beine fließen. Dadurch\nkann es drei Tage und Nächte ohne Pause rennen."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Mit Elektrizität verstärkt es seine Beinkraft.\nSo erreicht es mit Leichtigkeit eine\nHöchstgeschwindigkeit von über 90 km/h."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Boltund",
+    "genus": "Pokémon Perro",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "La electricidad que genera y envía a sus patas le\nayuda a desplazarse rápidamente. Puede correr\nsin descanso durante tres días y tres noches."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "La electricidad le confiere una enorme fuerza en\nlas patas. Su velocidad punta puede superar los\n90 km/h sin problema."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Boltund",
+    "genus": "Pokémon Cane",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Trasferisce alle zampe l’elettricità che produce\nper aumentarne la resistenza. Può correre per\ntre giorni interi senza mai fermarsi."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "La potenza delle sue zampe aumenta grazie\nall’energia elettrica. Quando corre a tutta\nvelocità supera facilmente i 90 km/h."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Boltund",
+    "genus": "Dog Pokémon",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "This Pokémon generates electricity and channels\nit into its legs to keep them going strong.\nBoltund can run nonstop for three full days."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "It sends electricity through its legs to boost their\nstrength. Running at top speed, it easily breaks\n50 mph."
+      }
+    ]
+  },
+  "chs": {
+    "name": "逐电犬",
+    "genus": "狗宝可梦",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "会制造电能，并传送到脚上\n作为奔跑时的辅助动力。\n可以不眠不休地奔跑三天三夜。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "电力增强了它的脚力。\n当以最高速度奔跑时，\n时速可以轻易超过９０公里。"
+      }
+    ]
+  }
+}

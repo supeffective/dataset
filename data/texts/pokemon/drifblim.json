@@ -1,0 +1,437 @@
+{
+  "jap": {
+    "name": "フワライド",
+    "genus": "ききゅうポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "ひとや　ポケモンを　のせて　とぶが\nかぜに　ながされているだけなので\nどこへ　とんでいくか　わからない。"
+      },
+      {
+        "game": "xy-y",
+        "text": "ひるまは　ねぼけて　うかんでいるが\nゆうがた　たいぐんで　とんでいく。\nいきさきは　だれも　しらない。"
+      },
+      {
+        "game": "oras-or",
+        "text": "ひとや　ポケモンを　のせて　とぶが\nかぜに　ながされているだけなので\nどこへ　とんでいくか　わからない。"
+      },
+      {
+        "game": "oras-as",
+        "text": "ひるまは　ねぼけて　うかんでいるが\nゆうがた　たいぐんで　とんでいく。\nいきさきは　だれも　しらない。"
+      },
+      {
+        "game": "sm-s",
+        "text": "フワライドに　のって　たびにでた\nおとこが　そのまま　ゆくえふめいに\nなったという　じけんが　ある。"
+      },
+      {
+        "game": "sm-m",
+        "text": "ゆうぐれに　とぶ　フワライドの\nたいぐんは　じっと　かんさつして\nいても　いつのまにか　きえている。"
+      },
+      {
+        "game": "usum-us",
+        "text": "ゆうやみを　かぜに　のって　とぶ\nフワライドに　つかまると　あのよへ\nはこばれるという　ウワサだ。"
+      },
+      {
+        "game": "usum-um",
+        "text": "たいないの　ガスの　げんりょうは\nたましい。　からだが　しぼんでくると\nひとや　ポケモンを　つれさるという。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "むねんの　しを　とげた　たましいが\nあつまった　すがたとも　いわれる。\nよいやみを　おとも　なく　ただよう。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "ひとや　ポケモンを　つかんで\nそのまま　どこかへ　はこんでいく。\nいきさきは　だれも　しらない。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Fuwaride",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "둥실라이드",
+    "genus": "기구포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "사람이나 포켓몬을 태우고 날지만\n바람에 떠밀려 다닐 뿐이므로\n어디로 날아갈지 모른다."
+      },
+      {
+        "game": "xy-y",
+        "text": "낮에는 잠이 덜 깨어 떠 있지만\n저녁 무렵에는 큰 무리를 지어\n날아간다. 목적지는 아무도 모른다."
+      },
+      {
+        "game": "oras-or",
+        "text": "사람이나 포켓몬을 태우고 날지만\n바람에 떠밀려 다닐 뿐이므로\n어디로 날아갈지 모른다."
+      },
+      {
+        "game": "oras-as",
+        "text": "낮에는 잠이 덜 깨어 떠 있지만\n저녁 무렵에는 큰 무리를 지어\n날아간다. 목적지는 아무도 모른다."
+      },
+      {
+        "game": "sm-s",
+        "text": "둥실라이드에 타고 여행을 떠난\n남자가 그대로 행방불명이\n되었다는 사건이 있다."
+      },
+      {
+        "game": "sm-m",
+        "text": "석양을 나는 둥실라이드의\n큰 무리는 가만히 관찰하고\n있어도 어느새 사라져있다."
+      },
+      {
+        "game": "usum-us",
+        "text": "땅거미 진 후 바람을 타며 날아다니는\n둥실라이드에게 잡히면 저세상으로\n데려간다는 소문이다."
+      },
+      {
+        "game": "usum-um",
+        "text": "체내에 있는 가스의 원료는\n영혼이다. 몸이 쪼그라지기 시작하면\n사람이나 포켓몬을 데려간다고 한다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "억울하게 죽은 영혼이\n모인 모습으로도 일컬어진다.\n땅거미가 질 무렵 소리 없이 떠돈다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "사람과 포켓몬을 붙잡아\n그대로 어딘가로 운반한다.\n행선지는 아무도 모른다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "隨風球",
+    "genus": "熱氣球寶可夢",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "曾經發生過乘著隨風球\n出發旅行的男人就這樣\n失蹤的事件。"
+      },
+      {
+        "game": "sm-m",
+        "text": "日暮時分飛行的大群隨風球，\n即使一直盯著觀察，\n也會在一不留神間消失。"
+      },
+      {
+        "game": "usum-us",
+        "text": "傳說如果被乘著風\n在暮色裡飛行的隨風球捉住，\n就會被帶到陰間去。"
+      },
+      {
+        "game": "usum-um",
+        "text": "體內氣體的原料是靈魂。\n據說如果牠的身體開始消氣，\n就會去把人或寶可夢帶走。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "也有人說牠是萬念俱灰的\n靈魂聚在一起的樣子。\n會在黑夜裡靜靜地飄盪。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "會抓住人和寶可夢，\n然後運到某個地方。\n沒人知道那地方是哪裡。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Grodrive",
+    "genus": "Pokémon Ballon",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Des nuées de Grodrive dérivent\ndans le ciel au crépuscule. Ils\ndisparaissent dès qu’on les voit."
+      },
+      {
+        "game": "bw-w",
+        "text": "Des nuées de Grodrive dérivent\ndans le ciel au crépuscule. Ils\ndisparaissent dès qu’on les voit."
+      },
+      {
+        "game": "xy-x",
+        "text": "Il peut embarquer des gens et des Pokémon, mais\nnul ne sait où il va atterrir car il ne fait que flotter."
+      },
+      {
+        "game": "xy-y",
+        "text": "Il somnole la journée et s’envole en grands groupes\nle soir venu. Nul ne sait où ils vont."
+      },
+      {
+        "game": "oras-or",
+        "text": "Il peut embarquer des gens et des Pokémon, mais nul ne sait\noù il va atterrir car il ne fait que flotter."
+      },
+      {
+        "game": "oras-as",
+        "text": "Il somnole la journée et s’envole en grands groupes\nle soir venu. Nul ne sait où ils vont."
+      },
+      {
+        "game": "sm-s",
+        "text": "Un jour, un homme a grimpé sur un Grodrive\npour partir en voyage. Personne ne l’a jamais\nrevu."
+      },
+      {
+        "game": "sm-m",
+        "text": "Même si à la tombée de la nuit on peut observer\ndes nuées entières de Grodrive, elles finissent\ntoujours par s’évanouir dans la nature."
+      },
+      {
+        "game": "usum-us",
+        "text": "Si l’on en croit la rumeur, il serait possible de\nse rendre dans l’au-delà en se laissant porter\npar le vent nocturne, accroché à un Grodrive."
+      },
+      {
+        "game": "usum-um",
+        "text": "Son gaz est essentiellement composé d’âmes. Si\npar malheur son corps se dégonfle, on dit qu’il\nentraîne humains et Pokémon dans sa chute."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Ce Pokémon, qui flotte silencieusement\nau crépuscule, serait né des âmes des défunts\nrongés par les regrets."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Il attrape des personnes et des Pokémon pour\nles transporter vers une destination inconnue."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Drifzepeli",
+    "genus": "Luftschiff-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Es trägt Menschen und Pokémon im Flug.\nDa es sich aber nur vom Wind tragen lässt,\nweiß man nie, wo es hingeht."
+      },
+      {
+        "game": "xy-y",
+        "text": "Tagsüber treibt es faul vor sich hin, nachts fliegt es\nmit anderen umher. Niemand weiß wohin."
+      },
+      {
+        "game": "oras-or",
+        "text": "Es trägt Menschen und Pokémon im Flug. Da es sich aber nur\nvom Wind tragen lässt, weiß man nie, wo es hingeht."
+      },
+      {
+        "game": "oras-as",
+        "text": "Tagsüber treibt es faul vor sich hin, nachts fliegt es\nmit anderen umher. Niemand weiß wohin."
+      },
+      {
+        "game": "sm-s",
+        "text": "Einst stieg ein Mann auf ein Drifzepeli\nund brach zu einer Reise auf.\nEr wurde nie wieder gesehen."
+      },
+      {
+        "game": "sm-m",
+        "text": "Bemerkt man einen in der Dämmerung driftenden\nSchwarm von Drifzepeli, verschwindet dieser\nauch wieder sogleich."
+      },
+      {
+        "game": "usum-us",
+        "text": "Gerüchten zufolge wird man ins Jenseits\nmitgenommen, wenn man sich an einem\nDrifzepeli festhält, das im Abendwind driftet."
+      },
+      {
+        "game": "usum-um",
+        "text": "Das Gas in seinem Körper besteht aus Seelen.\nEs heißt, wenn sein Körper zusammenfalle,\nnehme es Menschen und Pokémon mit sich."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Man sagt, es bestehe aus den Seelen derer, die\nvoller Groll verstorben sind. Es treibt lautlos im\nZwielicht dahin."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Es greift sich Menschen und Pokémon und trägt\nsie fort. Niemand weiß, wohin."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Drifblim",
+    "genus": "Pokémon Dirigible",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Transporta a gente y a Pokémon volando, pero, como\nse deja llevar, puede acabar en cualquier sitio."
+      },
+      {
+        "game": "xy-y",
+        "text": "Durante el día está somnoliento, pero por la noche\nsale volando en grupo, aunque nadie sabe adónde."
+      },
+      {
+        "game": "oras-or",
+        "text": "Transporta a gente y a Pokémon volando, pero, como se deja\nllevar, puede acabar en cualquier sitio."
+      },
+      {
+        "game": "oras-as",
+        "text": "Durante el día está somnoliento, pero por la noche sale\nvolando en grupo, aunque nadie sabe adónde."
+      },
+      {
+        "game": "sm-s",
+        "text": "Hubo un caso de un chico que se subió a un\nDrifblim y salió de viaje. Desde entonces está\nen paradero desconocido."
+      },
+      {
+        "game": "sm-m",
+        "text": "Al anochecer, se reúnen en grupos y vuelan a la\nderiva. Si alguien trata de seguirlos con la\nmirada, desaparecen al instante."
+      },
+      {
+        "game": "usum-us",
+        "text": "Se rumorea que los Drifblim que surcan el cielo\nal ocaso llevan a todos aquellos que atrapan al\nmás allá."
+      },
+      {
+        "game": "usum-um",
+        "text": "El gas que alberga su interior se compone de\nalmas. Si su cuerpo se deshincha, arrastra\nconsigo tanto a personas como a Pokémon."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Se dice que está formado por almas en pena.\nAl caer la noche, flota a la deriva en silencio\nsepulcral."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Agarra a gente y a Pokémon para llevárselos a\nalgún sitio, aunque nadie sabe exactamente\nadónde."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Drifblim",
+    "genus": "Pokémon Dirigibile",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Vola trascinando persone e Pokémon. Poiché si fa\nportare dal vento, non si sa dove vada a finire."
+      },
+      {
+        "game": "xy-y",
+        "text": "Di giorno fluttua con aria sonnolenta, ma di notte\nvola via in gruppo. Nessuno sa dove vada."
+      },
+      {
+        "game": "oras-or",
+        "text": "Vola trascinando persone e Pokémon. Poiché si fa portare\ndal vento, non si sa dove vada a finire."
+      },
+      {
+        "game": "oras-as",
+        "text": "Di giorno fluttua con aria sonnolenta, ma di notte vola via\nin gruppo. Nessuno sa dove vada."
+      },
+      {
+        "game": "sm-s",
+        "text": "Si racconta di un uomo che un giorno è volato via\nin groppa a un Drifblim. Di lui non si è saputo\npiù nulla."
+      },
+      {
+        "game": "sm-m",
+        "text": "Se si osservano attentamente i gruppi di Drifblim\ntrascinati dal vento al tramonto, si noterà che a\nun certo punto svaniscono nel nulla."
+      },
+      {
+        "game": "usum-us",
+        "text": "Gira voce che afferrando un Drifblim mentre\nvola trasportato dal vento al crepuscolo si\nvenga condotti nell’aldilà."
+      },
+      {
+        "game": "usum-um",
+        "text": "I gas all’interno del suo corpo sono costituiti da\nanime. Si dice che, se inizia a sgonfiarsi, nella\nsua caduta trascini con sé persone e Pokémon."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Si dice che sia formato dall’aggregazione\ndi anime che hanno lasciato la vita con dei\nrimpianti. Fluttua silenzioso all’imbrunire."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Afferra persone e Pokémon e li trascina via\ncon sé. Nessuno sa dove li porti."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Drifblim",
+    "genus": "Blimp Pokémon",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "At dusk, swarms of them are\ncarried aloft on winds. When\nnoticed, they suddenly vanish."
+      },
+      {
+        "game": "dp-d",
+        "text": "It’s drowzy in daytime, but flies\noff in the evening in big groups.\nNo one knows where they go."
+      },
+      {
+        "game": "dp-p",
+        "text": "It carries people and Pokémon\nwhen it flies. But since it only\ndrifts, it can end up anywhere."
+      },
+      {
+        "game": "pt",
+        "text": "At dusk, swarms of them are\ncarried aloft on winds. When\nnoticed, they suddenly vanish."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "It can generate and release gas\nwithin its body. That’s how it can\ncontrol the altitude of its drift."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "It can generate and release gas\nwithin its body. That’s how it can\ncontrol the altitude of its drift."
+      },
+      {
+        "game": "bw-w",
+        "text": "At dusk, swarms of them are\ncarried aloft on winds. When\nnoticed, they suddenly vanish."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "They carry people and Pokémon,\nbut the wind can catch them, so\nthere can’t be a fixed destination."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "They carry people and Pokémon,\nbut the wind can catch them, so\nthere can’t be a fixed destination."
+      },
+      {
+        "game": "xy-x",
+        "text": "It carries people and Pokémon when it flies.\nBut since it only drifts, it can end up anywhere."
+      },
+      {
+        "game": "xy-y",
+        "text": "It’s drowsy in daytime, but flies off in the evening in\nbig groups. No one knows where they go."
+      },
+      {
+        "game": "oras-or",
+        "text": "It carries people and Pokémon when it flies.\nBut since it only drifts, it can end up anywhere."
+      },
+      {
+        "game": "oras-as",
+        "text": "It’s drowsy in daytime, but flies off in the evening in\nbig groups. No one knows where they go."
+      },
+      {
+        "game": "sm-s",
+        "text": "There was once an incident in which a man\ntook a trip riding a Drifblim, only to go missing."
+      },
+      {
+        "game": "sm-m",
+        "text": "Even while under careful observation, large\nflocks of Drifblim flying at dusk will inexplicably\ndisappear from view."
+      },
+      {
+        "game": "usum-us",
+        "text": "There’s a rumor that if you catch a Drifblim\nfloating on the wind at dusk, you’ll be carried\naway to the afterlife."
+      },
+      {
+        "game": "usum-um",
+        "text": "The raw material for the gas inside its body\nis souls. When its body starts to deflate, it’s\nthought to carry away people and Pokémon."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Some say this Pokémon is a collection of souls\nburdened with regrets, silently drifting through\nthe dusk."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "It grabs people and Pokémon and carries them\noff somewhere. Where do they go?\nNobody knows."
+      },
+      {
+        "game": "la",
+        "text": "It drifts along at dusk, perfectly silent. Its transient, melancholy\naspect touches some people deeply—every so often, one will\ncome upon a song or poem devoted to Drifblim."
+      }
+    ]
+  },
+  "chs": {
+    "name": "随风球",
+    "genus": "热气球宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "曾经发生过乘着随风球\n外出旅行的男人就这么\n行踪不明的事件。"
+      },
+      {
+        "game": "sm-m",
+        "text": "日暮时分飞行的大群随风球，\n即使一直盯着观察，\n也会在一不留神间消失。"
+      },
+      {
+        "game": "usum-us",
+        "text": "谣传说，如果被乘着风\n在暮色里飞行的随风球捉住，\n就会被运送往那个世界。"
+      },
+      {
+        "game": "usum-um",
+        "text": "体内气体的原料是魂魄。\n据说如果身体变得干瘪，\n就会把人和宝可梦带走。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "也有人说它是万念俱灰的\n灵魂聚在一起的样子。\n会在黑夜里静静地飘荡。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "会抓住人和宝可梦，\n然后运到某个地方。\n没人知道那地方是哪里。"
+      }
+    ]
+  }
+}

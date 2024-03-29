@@ -1,0 +1,293 @@
+{
+  "jap": {
+    "name": "スボミー",
+    "genus": "つぼみポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "あたたかい　ひざしを　あびると\nつぼみが　ひらき　かふんを　とばす。\nきれいな　みずの　ちかくが　すみか。"
+      },
+      {
+        "game": "xy-y",
+        "text": "ふゆの　あいだは　つぼみを　とざして\nさむさに　たえる。はるになると\nつぼみを　ひらき　かふんを　とばす。"
+      },
+      {
+        "game": "oras-or",
+        "text": "あたたかい　ひざしを　あびると\nつぼみが　ひらき　かふんを　とばす。\nきれいな　みずの　ちかくが　すみか。"
+      },
+      {
+        "game": "oras-as",
+        "text": "ふゆの　あいだは　つぼみを　とざして\nさむさに　たえる。はるになると\nつぼみを　ひらき　かふんを　とばす。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "どくを　ふくんだ　かふんを　まく。\nきれいな　みずで　そだてるほど\nどくの　せいぶんは　たかまる。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "きおんの　へんかに　びんかん。\nつぼみが　ひらきはじめたら\nはるの　おとずれは　もうすぐだ。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Subomie",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "꼬몽울",
+    "genus": "꽃봉오리포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "따뜻한 햇볕을 쬐면\n봉오리를 펴서 꽃가루를 날린다.\n깨끗한 물 가까이에 거처가 있다."
+      },
+      {
+        "game": "xy-y",
+        "text": "겨울 동안 봉오리를 닫고\n추위를 견딘다. 봄이 되면\n봉오리를 펴서 꽃가루를 날린다."
+      },
+      {
+        "game": "oras-or",
+        "text": "따뜻한 햇볕을 쬐면\n봉오리를 펴서 꽃가루를 날린다.\n깨끗한 물 가까이에 거처가 있다."
+      },
+      {
+        "game": "oras-as",
+        "text": "겨울 동안 봉오리를 닫고\n추위를 견딘다. 봄이 되면\n봉오리를 펴서 꽃가루를 날린다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "독을 품고 있는 꽃가루를 뿌린다.\n맑은 물을 줘서 키울수록\n독성은 더욱 강해진다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "기온 변화에 민감하다.\n봉오리가 피기 시작하면\n곧 봄이 온다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "含羞苞",
+    "genus": "花苞寶可夢",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "會散佈帶有毒素的花粉。\n培育時所用的水越乾淨，\n所含有的毒性就越高。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "對氣溫的變化很敏感。\n當牠開始打開花苞，\n便是冬去春來之時。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Rozbouton",
+    "genus": "Pokémon Bourgeon",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Il est sensible aux variations de\ntempérature et on dit qu’il fleurit\nquand il sent la chaleur du soleil."
+      },
+      {
+        "game": "bw-w",
+        "text": "Il est sensible aux variations de\ntempérature et on dit qu’il fleurit\nquand il sent la chaleur du soleil."
+      },
+      {
+        "game": "xy-x",
+        "text": "Son bourgeon s’ouvre une fois gorgé de soleil et\nlibère du pollen. Il vit près des sources d’eau pure."
+      },
+      {
+        "game": "xy-y",
+        "text": "En hiver, son bourgeon se referme pour résister au\nfroid. Il s’ouvre au printemps et libère du pollen."
+      },
+      {
+        "game": "oras-or",
+        "text": "Son bourgeon s’ouvre une fois gorgé de soleil et libère\ndu pollen. Il vit près des sources d’eau pure."
+      },
+      {
+        "game": "oras-as",
+        "text": "En hiver, son bourgeon se referme pour résister au froid.\nIl s’ouvre au printemps et libère du pollen."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Plus l’eau dont il se nourrit est pure, plus le niveau\nde toxicité du pollen qu’il répand est élevé."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Il est sensible aux variations de température.\nQuand son bourgeon commence à s’ouvrir,\nl’arrivée du printemps est imminente."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Knospi",
+    "genus": "Knospen-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Bei Sonnenlicht öffnet es seine Knospe und gibt\nPollen ab. Es lebt in der Nähe von sauberem Wasser."
+      },
+      {
+        "game": "xy-y",
+        "text": "Im Winter schließt es die Knospe. Im Frühjahr\nöffnet es die Knospe und gibt Pollen ab."
+      },
+      {
+        "game": "oras-or",
+        "text": "Bei Sonnenlicht öffnet es seine Knospe und gibt Pollen ab.\nEs lebt in der Nähe von sauberem Wasser."
+      },
+      {
+        "game": "oras-as",
+        "text": "Im Winter schließt es die Knospe. Im Frühjahr öffnet es\ndie Knospe und gibt Pollen ab."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Es verstreut giftigen Pollen. Je sauberer das\nWasser war, mit dem es gegossen wurde, desto\nstärker ist der Giftstoff."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Es hat ein feines Gespür für die kleinsten\nTemperaturveränderungen. Wenn sich seine\nKnospe öffnet, bricht bald der Frühling an."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Budew",
+    "genus": "Pokémon Brote",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Vive cerca de aguas cristalinas. Su cabello se abre y\nesparce polen cuando le bañan los rayos del sol."
+      },
+      {
+        "game": "xy-y",
+        "text": "En invierno cierra su capullo para protegerse del frío.\nEn primavera, el capullo se abre y esparce polen."
+      },
+      {
+        "game": "oras-or",
+        "text": "Vive cerca de aguas cristalinas. Su cabello se abre y esparce\npolen cuando le bañan los rayos del sol."
+      },
+      {
+        "game": "oras-as",
+        "text": "En invierno cierra su capullo para protegerse del frío.\nEn primavera, el capullo se abre y esparce polen."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Conforme más pura y cristalina sea el agua de\nsu entorno, más venenoso resulta el polen que\nesparce."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Es muy sensible a los cambios de temperatura.\nAnuncia la llegada inminente de la primavera\ncuando florece."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Budew",
+    "genus": "Pokémon Germoglio",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "I raggi del sole gli fanno schiudere la gemma e\nrilasciare polline. Fa la tana vicino a bei corsi d’acqua."
+      },
+      {
+        "game": "xy-y",
+        "text": "D’inverno chiude la sua gemma e resiste al freddo.\nIn primavera la gemma si riapre e rilascia polline."
+      },
+      {
+        "game": "oras-or",
+        "text": "I raggi del sole gli fanno schiudere la gemma e rilasciare\npolline. Fa la tana vicino a bei corsi d’acqua."
+      },
+      {
+        "game": "oras-as",
+        "text": "D’inverno chiude la sua gemma e resiste al freddo.\nIn primavera la gemma si riapre e rilascia polline."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Più pulita è l’acqua con cui è a contatto durante\nla crescita, più aumentano i componenti tossici\ndel polline velenoso che sparge."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "È sensibile agli sbalzi di temperatura.\nQuando le sue gemme si schiudono\nè segno che la primavera è vicina."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Budew",
+    "genus": "Bud Pokémon",
+    "flavorText": [
+      {
+        "game": "dp-d",
+        "text": "Over the winter, it closes its bud\nand endures the cold. In spring,\nthe bud opens and releases pollen."
+      },
+      {
+        "game": "dp-p",
+        "text": "It lives alongside clear ponds.\nIt scatters pollen that induces\nharsh sneezing and runny noses."
+      },
+      {
+        "game": "pt",
+        "text": "Sensitive to changing temperature,\nthe bud is said to bloom when it\nfeels the sun’s warm touch."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "When it feels the sun’s warm touch,\nit opens its bud to release pollen.\nIt lives alongside clear pools."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "When it feels the sun’s warm touch,\nit opens its bud to release pollen.\nIt lives alongside clear pools."
+      },
+      {
+        "game": "bw-b",
+        "text": "Sensitive to changing temperature,\nthe bud is said to bloom when it\nfeels the sun’s warm touch."
+      },
+      {
+        "game": "bw-w",
+        "text": "Sensitive to changing temperature,\nthe bud is said to bloom when it\nfeels the sun’s warm touch."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "Sensitive to changing temperatures,\nthe bud blooms when it’s warm,\nreleasing toxic pollen."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "Sensitive to changing temperatures,\nthe bud blooms when it’s warm,\nreleasing toxic pollen."
+      },
+      {
+        "game": "xy-x",
+        "text": "When it feels the sun’s warm touch, it opens its bud\nto release pollen. It lives alongside clear pools."
+      },
+      {
+        "game": "xy-y",
+        "text": "Over the winter, it closes its bud and endures the\ncold. In spring, the bud opens and releases pollen."
+      },
+      {
+        "game": "oras-or",
+        "text": "When it feels the sun’s warm touch, it opens its bud\nto release pollen. It lives alongside clear pools."
+      },
+      {
+        "game": "oras-as",
+        "text": "Over the winter, it closes its bud and endures the\ncold. In spring, the bud opens and releases pollen."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "The pollen it releases contains poison. If this\nPokémon is raised on clean water, the poison’s\ntoxicity is increased."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "This Pokémon is highly sensitive to temperature\nchanges. When its bud starts to open, that means\nspring is right around the corner."
+      },
+      {
+        "game": "la",
+        "text": "When the sun's light strengthens, the bud atop this Pokémon's\nhead opens. This is a sign to the people that the harsh winter is\nover, and the season of budding has begun."
+      }
+    ]
+  },
+  "chs": {
+    "name": "含羞苞",
+    "genus": "花苞宝可梦",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "会散布带有毒素的花粉。\n培育时所用的水越干净，\n所含有的毒性就越高。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "对气温的变化很敏感。\n当它开始打开花苞，\n便是冬去春来之时。"
+      }
+    ]
+  }
+}

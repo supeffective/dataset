@@ -1,0 +1,405 @@
+{
+  "jap": {
+    "name": "アーボック",
+    "genus": "コブラポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "おなかの　もようが　こわいかおに\nみえる。よわいてきは　そのもようを\nみただけで　にげだしてしまう。"
+      },
+      {
+        "game": "xy-y",
+        "text": "むねをひろげ　いかく　するとき\nくちから　もれる　くうきの　おとは\nぶきみで　あいてを　おびえさせる。"
+      },
+      {
+        "game": "oras-or",
+        "text": "しめつける　ちからは　とても　きょうりょく。\nドラムかんも　ぺしゃんこに　してしまうぞ。\nまきつかれたら　にげだす　ことは　ふかのうだ。"
+      },
+      {
+        "game": "oras-as",
+        "text": "しめつける　ちからは　とても　きょうりょく。\nドラムかんも　ぺしゃんこに　してしまうぞ。\nまきつかれたら　にげだす　ことは　ふかのうだ。"
+      },
+      {
+        "game": "usum-us",
+        "text": "さいしんの　けんきゅうで　おなかの\nもようは　２０しゅるい　いじょうの\nパターンが　あることが　はんめい。"
+      },
+      {
+        "game": "usum-um",
+        "text": "おなかの　もようで　ひるませると\nすばやく　からだで　しめあげて\nあいての　こどうが　とまるのを　まつ。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "おそろしげな　おなかの　もようは\nけんきゅうのけっか　６しゅるいほど\nパターンが　かくにんされている。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "おそろしげな　おなかの　もようは\nけんきゅうのけっか　６しゅるいほど\nパターンが　かくにんされている。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Arbok",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "아보크",
+    "genus": "코브라포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "배의 무늬가 무서운 얼굴로\n보인다. 약한 적은 그 무늬만\n보고도 도망치고 만다."
+      },
+      {
+        "game": "xy-y",
+        "text": "가슴을 펴서 위협할 때\n입에서 새는 공기 소리는\n으스스해서 상대를 겁먹게 한다."
+      },
+      {
+        "game": "oras-or",
+        "text": "조이는 힘이 매우 강력하다.\n드럼통도 납작하게 짜부라트린다.\n휘감기면 도망가는 것이 불가능하다."
+      },
+      {
+        "game": "oras-as",
+        "text": "조이는 힘이 매우 강력하다.\n드럼통도 납작하게 짜부라트린다.\n휘감기면 도망가는 것이 불가능하다."
+      },
+      {
+        "game": "usum-us",
+        "text": "최근 연구에서 배 모양은\n20종류 이상의\n패턴이 있다고 판명되었다."
+      },
+      {
+        "game": "usum-um",
+        "text": "배의 무늬로 풀이 죽게 한 뒤\n재빠르게 몸으로 조여서\n상대의 고동이 멈추기를 기다린다."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "무서워 보이는 배의 무늬는\n연구 결과 6종류 정도의\n패턴이 확인되었다."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "무서워 보이는 배의 무늬는\n연구 결과 6종류 정도의\n패턴이 확인되었다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "阿柏怪",
+    "genus": "眼鏡蛇寶可夢",
+    "flavorText": [
+      {
+        "game": "usum-us",
+        "text": "最新的研究結果顯示，\n牠們肚子上的花紋\n有２０種以上的不同圖案。"
+      },
+      {
+        "game": "usum-um",
+        "text": "用腹部的花紋使對手畏縮後，\n就會迅速地用身體纏緊對手，\n然後靜待對手心跳停止。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "根據目前已知的研究結果，\n長在牠肚子上的可怕花紋\n一共有６種不同的類型。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "根據目前已知的研究結果，\n長在牠肚子上的可怕花紋\n一共有６種不同的類型。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Arbok",
+    "genus": "Pokémon Cobra",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Il utilise la marque sur son ventre\npour intimider l’ennemi. Il étouffe\nl’ennemi pétrifié par la peur."
+      },
+      {
+        "game": "bw-w",
+        "text": "Il utilise la marque sur son ventre\npour intimider l’ennemi. Il étouffe\nl’ennemi pétrifié par la peur."
+      },
+      {
+        "game": "xy-x",
+        "text": "Les motifs sur son corps ressemblent à un visage\nmenaçant. Les adversaires les plus craintifs fuient à la\nseule vue de ce Pokémon."
+      },
+      {
+        "game": "xy-y",
+        "text": "Pour apeurer ses ennemis, il gonfle sa poitrine et\német d’étranges sons avec sa bouche."
+      },
+      {
+        "game": "oras-or",
+        "text": "Ce Pokémon doté d’une force extraordinaire peut étrangler\nses proies avec son corps. Il peut même écraser des tonneaux\nmétalliques. Une fois sous l’étreinte d’Arbok, il est impossible\nde lui échapper."
+      },
+      {
+        "game": "oras-as",
+        "text": "Ce Pokémon doté d’une force extraordinaire peut étrangler\nses proies avec son corps. Il peut même écraser des tonneaux\nmétalliques. Une fois sous l’étreinte d’Arbok, il est impossible\nde lui échapper."
+      },
+      {
+        "game": "usum-us",
+        "text": "Une étude récente aurait recensé plus de vingt\nmotifs différents pouvant orner le devant du\ncapuchon des Arbok."
+      },
+      {
+        "game": "usum-um",
+        "text": "Il intimide sa proie grâce au motif situé sur\nle devant de son capuchon, puis l’enserre\njusqu’à ce que son cœur cesse de battre."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Des études ont révélé que les marques\neffrayantes de son corps pouvaient former\nsix motifs différents."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Des études ont révélé que les marques\neffrayantes de son corps pouvaient former\nsix motifs différents."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Arbok",
+    "genus": "Kobra",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Das Muster auf seinem Bauch ähnelt einer Fratze.\nSchwache Gegner nehmen bereits beim Anblick\nReißaus."
+      },
+      {
+        "game": "xy-y",
+        "text": "Um Feinde einzuschüchtern, bläht es seine Brust\nauf und stößt unheimliche Laute durch sein Maul aus."
+      },
+      {
+        "game": "oras-or",
+        "text": "Dieses Pokémon ist unheimlich stark. Es kann seine Beute\nmit seinem Körper umwickeln und sogar Ölfässer zerdrücken.\nWenn Arbok einen Gegner umwickelt, ist es unmöglich,\nseinem Würgegriff zu entkommen."
+      },
+      {
+        "game": "oras-as",
+        "text": "Dieses Pokémon ist unheimlich stark. Es kann seine Beute\nmit seinem Körper umwickeln und sogar Ölfässer zerdrücken.\nWenn Arbok einen Gegner umwickelt, ist es unmöglich,\nseinem Würgegriff zu entkommen."
+      },
+      {
+        "game": "usum-us",
+        "text": "Jüngsten Forschungsergebnissen zufolge gibt\nes mehr als 20 verschiedene Musterungen, die\nArboks Bauch aufweisen kann."
+      },
+      {
+        "game": "usum-um",
+        "text": "Es schüchtert seinen Gegner mit dem Muster\nauf seinem Bauch ein und nimmt ihn dann in den\nWürgegriff, bis es keinen Widerstand mehr spürt."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Von dem furchterregenden Muster auf seinem\nBauch wurden durch Studien bislang sechs\nverschiedene Varianten entdeckt."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Von dem furchterregenden Muster auf seinem\nBauch wurden durch Studien bislang sechs\nverschiedene Varianten entdeckt."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Arbok",
+    "genus": "Pokémon Cobra",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "El dibujo que tiene en la panza aterroriza. Los rivales\nmás débiles salen huyendo al verlo."
+      },
+      {
+        "game": "xy-y",
+        "text": "Para intimidar a sus enemigos, hincha el pecho y echa\naire por la boca emitiendo sonidos."
+      },
+      {
+        "game": "oras-or",
+        "text": "Este Pokémon es tremendamente fuerte, puede oprimir\ncualquier cosa con su cuerpo y hasta es capaz de estrujar\nun barril de acero. Una vez que Arbok se enrosca a su\nvíctima, no hay forma de escapar de su asfixiante abrazo."
+      },
+      {
+        "game": "oras-as",
+        "text": "Este Pokémon es tremendamente fuerte, puede oprimir\ncualquier cosa con su cuerpo y hasta es capaz de estrujar\nun barril de acero. Una vez que Arbok se enrosca a su\nvíctima, no hay forma de escapar de su asfixiante abrazo."
+      },
+      {
+        "game": "usum-us",
+        "text": "Recientes estudios han llegado a identificar\nhasta una veintena de patrones distintos que\npuede presentar el motivo de su cuello."
+      },
+      {
+        "game": "usum-um",
+        "text": "Tras confundir a su presa con el motivo de su\ncuerpo, se enrosca a su alrededor y la aferra,\na la espera de que su pulso se detenga."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Se han llegado a identificar hasta seis\nvariaciones distintas de los espeluznantes\ndibujos de su piel."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Se han llegado a identificar hasta seis\nvariaciones distintas de los espeluznantes\ndibujos de su piel."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Arbok",
+    "genus": "Pokémon Cobra",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Il disegno sulla pancia rappresenta una faccia\nspaventosa, capace di far fuggire i nemici più pavidi."
+      },
+      {
+        "game": "xy-y",
+        "text": "Per terrorizzare la preda dilata il petto ed emette un\nterribile verso liberando aria dalla bocca."
+      },
+      {
+        "game": "oras-or",
+        "text": "Questo Pokémon è così forte da riuscire a stritolare qualsiasi\ncosa col corpo, persino un bidone in acciaio. Se Arbok\nsi avvinghia a un nemico è impossibile sfuggire a questa\nmorsa fatale."
+      },
+      {
+        "game": "oras-as",
+        "text": "Questo Pokémon è così forte da riuscire a stritolare qualsiasi\ncosa col corpo, persino un bidone in acciaio. Se Arbok\nsi avvinghia a un nemico è impossibile sfuggire a questa\nmorsa fatale."
+      },
+      {
+        "game": "usum-us",
+        "text": "Secondo gli studi più recenti, esistono più di 20\nvarianti del disegno che ha sul ventre."
+      },
+      {
+        "game": "usum-um",
+        "text": "Spiazza l’avversario con il disegno sul ventre,\npoi gli si avvinghia rapidamente e aspetta che\nil suo battito cardiaco si fermi."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Gli spaventosi disegni che ha sulla pancia\nsono oggetto di studio. Ne sono state scoperte\nsei diverse variazioni."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Gli spaventosi disegni che ha sulla pancia\nsono oggetto di studio. Ne sono state scoperte\nsei diverse variazioni."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Arbok",
+    "genus": "Cobra Pokémon",
+    "flavorText": [
+      {
+        "game": "rb-r",
+        "text": "It is rumored that\nthe ferocious\nwarning markings\fon its belly\ndiffer from area\nto area."
+      },
+      {
+        "game": "rb-b",
+        "text": "It is rumored that\nthe ferocious\nwarning markings\fon its belly\ndiffer from area\nto area."
+      },
+      {
+        "game": "y",
+        "text": "The frightening\npatterns on its\nbelly have been\fstudied. Six\nvariations have\nbeen confirmed."
+      },
+      {
+        "game": "gs-g",
+        "text": "Transfixing prey\nwith the face-like\npattern on its\fbelly, it binds\nand poisons the\nfrightened victim."
+      },
+      {
+        "game": "gs-s",
+        "text": "With a very venge­\nful nature, it\nwon't give up the\fchase, no matter\nhow far, once it\ntargets its prey."
+      },
+      {
+        "game": "c",
+        "text": "To intimidate\nfoes, it spreads\nits chest wide and\fmakes eerie sounds\nby expelling air\nfrom its mouth."
+      },
+      {
+        "game": "rs-r",
+        "text": "This POKéMON is terrifically strong in\norder to constrict things with its body.\nIt can even flatten steel oil drums.\fOnce ARBOK wraps its body around its\nfoe, escaping its crunching embrace is\nimpossible."
+      },
+      {
+        "game": "rs-s",
+        "text": "This POKéMON is terrifically strong in\norder to constrict things with its body.\nIt can even flatten steel oil drums.\fOnce ARBOK wraps its body around its\nfoe, escaping its crunching embrace is\nimpossible."
+      },
+      {
+        "game": "e",
+        "text": "This POKéMON has a terrifically strong\nconstricting power. It can even flatten\nsteel oil drums. Once it wraps its body\naround its foe, escaping is impossible."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "The pattern on its belly appears to be a\nfrightening face. Weak foes will flee just\nat the sight of the pattern."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "It is rumored that the ferocious warning\nmarkings on its belly differ from area to\narea."
+      },
+      {
+        "game": "dp-d",
+        "text": "The pattern on its belly is for\nintimidation. It constricts foes\nwhile they are frozen in fear."
+      },
+      {
+        "game": "dp-p",
+        "text": "The pattern on its belly is for\nintimidation. It constricts foes\nwhile they are frozen in fear."
+      },
+      {
+        "game": "pt",
+        "text": "The pattern on its belly is for\nintimidation. It constricts foes\nwhile they are frozen in fear."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "Transfixing prey with the face-like\npattern on its belly, it binds\nand poisons the frightened victim."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "With a very vengeful nature, it\nwon’t give up the chase, no matter\nhow far, once it targets its prey."
+      },
+      {
+        "game": "bw-b",
+        "text": "The pattern on its belly is for\nintimidation. It constricts foes\nwhile they are frozen in fear."
+      },
+      {
+        "game": "bw-w",
+        "text": "The pattern on its belly is for\nintimidation. It constricts foes\nwhile they are frozen in fear."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "The pattern on its belly is for\nintimidation. It constricts foes\nwhile they are frozen in fear."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "The pattern on its belly is for\nintimidation. It constricts foes\nwhile they are frozen in fear."
+      },
+      {
+        "game": "xy-x",
+        "text": "The pattern on its belly appears to be a frightening\nface. Weak foes will flee just at the sight of\nthe pattern."
+      },
+      {
+        "game": "xy-y",
+        "text": "To intimidate foes, it spreads its chest wide and\nmakes eerie sounds by expelling air from its mouth."
+      },
+      {
+        "game": "oras-or",
+        "text": "This Pokémon is terrifically strong in order to constrict things\nwith its body. It can even flatten steel oil drums.\nOnce Arbok wraps its body around its foe, escaping its\ncrunching embrace is impossible."
+      },
+      {
+        "game": "oras-as",
+        "text": "This Pokémon is terrifically strong in order to constrict things\nwith its body. It can even flatten steel oil drums. Once Arbok\nwraps its body around its foe, escaping its crunching embrace\nis impossible."
+      },
+      {
+        "game": "usum-us",
+        "text": "The latest research has determined that there\nare over 20 possible arrangements of the\npatterns on its stomach."
+      },
+      {
+        "game": "usum-um",
+        "text": "After stunning its opponents with the pattern\non its stomach, it quickly wraps them up in its\nbody and waits for them to stop moving."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "The frightening patterns on its belly have been\nstudied. Six variations have been confirmed."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "The frightening patterns on its belly have been\nstudied. Six variations have been confirmed."
+      }
+    ]
+  },
+  "chs": {
+    "name": "阿柏怪",
+    "genus": "眼镜蛇宝可梦",
+    "flavorText": [
+      {
+        "game": "usum-us",
+        "text": "根据最新的研究显示，\n它们腹部的花纹有着\n２０种以上不同的图案。"
+      },
+      {
+        "game": "usum-um",
+        "text": "用腹部的花纹让对手畏缩后，\n就会快速地用身体勒住对手，\n并等着对手的心跳停止。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "根据研究证实，它腹部\n那可怕的纹路大约有\n６个种类已经得到确认。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "根据研究证实，它腹部\n那可怕的纹路大约有\n６个种类已经得到确认。"
+      }
+    ]
+  }
+}

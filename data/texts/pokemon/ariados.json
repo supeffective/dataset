@@ -1,0 +1,393 @@
+{
+  "jap": {
+    "name": "アリアドス",
+    "genus": "あしながポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "おしりからだけでなく　くちからも\nいとを　だすので　みただけでは\nどっちが　あたまか　わからない。"
+      },
+      {
+        "game": "xy-y",
+        "text": "えものの　からだに　いとを　つけて\nわざと　にがす。いとを　たどれば\nなかまごと　つかまえられるからだ。"
+      },
+      {
+        "game": "oras-or",
+        "text": "あしの　せんたんには　ちいさな　カギヅメが　あり\nてんじょうや　すいちょくの　かべも　あるける。\nほそく　じょうぶな　いとで　てきを　しめあげる。"
+      },
+      {
+        "game": "oras-as",
+        "text": "あしの　せんたんには　ちいさな　カギヅメが　あり\nてんじょうや　すいちょくの　かべも　あるける。\nほそく　じょうぶな　いとで　てきを　しめあげる。"
+      },
+      {
+        "game": "sm-s",
+        "text": "アリアドスの　いとを　つかって\nはたを　おる　ちいきも　ある。\nじょうぶな　ぬので　こうひょうだ。"
+      },
+      {
+        "game": "sm-m",
+        "text": "しりからも　くちからも　いとをだす。\nいとで　えものを　からめとり\nゆっくりと　たいえきを　すする。"
+      },
+      {
+        "game": "usum-us",
+        "text": "よごと　えものを　もとめて　さまよう。\nみつけた　えものに　いとを　はき\nみうごきを　ふうじて　キバで　かじる。"
+      },
+      {
+        "game": "usum-um",
+        "text": "いとを　はいて　えものを　とらえる。\nよるに　なると　すから　はなれて\nせっきょくてきに　かりを　するぞ。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Ariados",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "아리아도스",
+    "genus": "롱다리포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "엉덩이뿐 아니라 입에서도\n실을 내기 때문에 봐서는\n어느 쪽이 머리인지 모른다."
+      },
+      {
+        "game": "xy-y",
+        "text": "먹이의 몸에 실을 붙여\n일부러 풀어준다. 실을 더듬어 가면\n동료까지 잡을 수 있기 때문이다."
+      },
+      {
+        "game": "oras-or",
+        "text": "발끝에는 작은 갈고리발톱이 있어서\n천장이나 수직인 벽도 걸을 수 있다.\n가늘고 튼튼한 실로 적을 조른다."
+      },
+      {
+        "game": "oras-as",
+        "text": "발끝에는 작은 갈고리발톱이 있어서\n천장이나 수직인 벽도 걸을 수 있다.\n가늘고 튼튼한 실로 적을 조른다."
+      },
+      {
+        "game": "sm-s",
+        "text": "아리아도스의 실을 사용해\n직물을 짜는 지역도 있다.\n튼튼한 천으로 호평이다."
+      },
+      {
+        "game": "sm-m",
+        "text": "엉덩이에서도 입에서도 실을 뿜는다.\n실로 먹이를 휘감아 잡고\n천천히 체액을 빨아들인다."
+      },
+      {
+        "game": "usum-us",
+        "text": "밤마다 먹이를 찾아 떠돈다.\n발견한 먹이에 실을 내뿜어\n움직이지 못하게 하고 이빨로 갉아먹는다."
+      },
+      {
+        "game": "usum-um",
+        "text": "실을 뿜어서 먹이를 잡는다.\n밤이 되면 둥지를 떠나\n적극적으로 사냥에 나선다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "阿利多斯",
+    "genus": "長腿寶可夢",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "也有地方會使用\n阿利多斯的絲來織布。\n結實的布料廣受好評。"
+      },
+      {
+        "game": "sm-m",
+        "text": "屁股和嘴裡都會吐出絲。\n用絲綁住獵物，\n慢慢地吸食獵物的體液。"
+      },
+      {
+        "game": "usum-us",
+        "text": "每晚都為了尋求獵物而四處徘徊，\n發現獵物時會吐絲封鎖對方的行動，\n然後用牙齒啃食。"
+      },
+      {
+        "game": "usum-um",
+        "text": "會吐絲來捕捉獵物。\n每到夜晚就會離開巢穴，\n積極地展開狩獵。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Migalos",
+    "genus": "Pokémon Long-Patte",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Il attache un fil à sa proie avant\nde la libérer. Il s’en servira pour\nla retrouver, elle et ses amis."
+      },
+      {
+        "game": "bw-w",
+        "text": "Il attache un fil à sa proie avant\nde la libérer. Il s’en servira pour\nla retrouver, elle et ses amis."
+      },
+      {
+        "game": "xy-x",
+        "text": "Il peut produire des fils de soie par l’arrière-train ou\npar la bouche. Il est difficile de différencier les deux."
+      },
+      {
+        "game": "xy-y",
+        "text": "Il attache un fil à sa proie avant de la libérer.\nIl s’en servira pour la retrouver, elle et ses amis."
+      },
+      {
+        "game": "oras-or",
+        "text": "À l’extrémité des pattes de Migalos, on trouve de petits\ncrochets qui lui permettent de cavaler sur les surfaces\nverticales et au plafond. Ce Pokémon peut piéger ses\nennemis dans sa solide toile de soie."
+      },
+      {
+        "game": "oras-as",
+        "text": "À l’extrémité des pattes de Migalos, on trouve de petits\ncrochets qui lui permettent de cavaler sur les surfaces\nverticales et au plafond. Ce Pokémon peut piéger ses\nennemis dans sa solide toile de soie."
+      },
+      {
+        "game": "sm-s",
+        "text": "Dans certaines régions, on utilise le fil de\nMigalos pour tisser des étoffes. Leur grande\nsolidité les rend très populaires."
+      },
+      {
+        "game": "sm-m",
+        "text": "Ce Pokémon peut créer du fil avec sa bouche\nou son abdomen. Il l’utilise pour ligoter sa proie,\npuis aspire lentement ses fluides vitaux."
+      },
+      {
+        "game": "usum-us",
+        "text": "Il erre chaque nuit à la recherche d’une proie.\nQuand il en trouve une, il l’immobilise grâce à\nses fils, puis la croque avec ses mandibules."
+      },
+      {
+        "game": "usum-um",
+        "text": "Il capture ses proies en projetant un fil qu’il\nsécrète. À la nuit tombée, il quitte sa toile\net part chasser activement."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Ariados",
+    "genus": "Langbein",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Da es Fäden sowohl mit dem Hinterleib als auch mit\ndem Mund spinnt, verwechselt man die beiden leicht."
+      },
+      {
+        "game": "xy-y",
+        "text": "Es befestigt Seide an der Beute und lässt sie frei. Es\nfolgt dem Seidenfaden zur Beute und ihren Freunden."
+      },
+      {
+        "game": "oras-or",
+        "text": "Ariados hat kleine hakenförmige Krallen an seinen Füßen.\nDamit kann es an Decken und Wänden entlangflitzen.\nDieses Pokémon schnürt seine Gegner mit einem starken,\ndünnen Seidenfaden ein."
+      },
+      {
+        "game": "oras-as",
+        "text": "Ariados hat kleine hakenförmige Krallen an seinen Füßen.\nDamit kann es an Decken und Wänden entlangflitzen.\nDieses Pokémon schnürt seine Gegner mit einem starken,\ndünnen Seidenfaden ein."
+      },
+      {
+        "game": "sm-s",
+        "text": "Man schätzt die Fäden von Ariados aufgrund\nihrer Stärke. Vielerorts werden sie zum Weben\nverwendet."
+      },
+      {
+        "game": "sm-m",
+        "text": "Es kann mit dem Hinterleib und dem Mund Fäden\nspinnen. Mit diesen fesselt es seine Beute und\nentzieht ihr gemächlich alle Flüssigkeit."
+      },
+      {
+        "game": "usum-us",
+        "text": "Nachts wandert es auf der Suche nach Futter\numher. Wird es fündig, fesselt es seine Beute\nmit einem Seidenfaden und beißt zu."
+      },
+      {
+        "game": "usum-um",
+        "text": "Seine Beute ergreift es mit einem Seidenfaden.\nBei Anbruch der Nacht verlässt es sein Netz\nund macht sich auf die Jagd."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Ariados",
+    "genus": "Pokémon Pata Larga",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Teje su telaraña desde atrás y desde su boca. Es muy\ndifícil saber dónde está cada cual."
+      },
+      {
+        "game": "xy-y",
+        "text": "Pega hilos de seda a sus presas y las libera para\nseguirlas más tarde y localizar también a sus amigos."
+      },
+      {
+        "game": "oras-or",
+        "text": "Ariados tiene unas patas con forma de garfio que le permiten\ncorrer por techos y superficies verticales. Este Pokémon\noprime al rival con una tela de araña fina y resistente."
+      },
+      {
+        "game": "oras-as",
+        "text": "Ariados tiene unas patas con forma de garfio que le permiten\ncorrer por techos y superficies verticales. Este Pokémon\noprime al rival con una tela de araña fina y resistente."
+      },
+      {
+        "game": "sm-s",
+        "text": "En ciertas regiones, se utiliza la telaraña de\nAriados para tejer. La tela tejida con este\nhilo tiene fama de ser muy resistente."
+      },
+      {
+        "game": "sm-m",
+        "text": "Teje su telaraña con el abdomen o la boca.\nInmoviliza a sus presas con su hilo y se alimenta\nlentamente de sus fluidos corporales."
+      },
+      {
+        "game": "usum-us",
+        "text": "Ronda por la noche en busca de presas a las\nque inmoviliza con su hilo para luego clavarles\nlos colmillos."
+      },
+      {
+        "game": "usum-um",
+        "text": "Captura a sus presas con el hilo que segrega.\nAl caer la noche, abandona su tela y sale a\ncazar activamente."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Ariados",
+    "genus": "Pokémon Lungazampa",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Seguendo il filo che gli esce da dietro, si giunge\ndi certo fino al suo nido."
+      },
+      {
+        "game": "xy-y",
+        "text": "Aggancia la preda con un filo di seta e la lascia\nandare. Poi segue il filo e la trova quando è in gruppo."
+      },
+      {
+        "game": "oras-or",
+        "text": "Le zampe di Ariados sono dotate di artigli uncinati che gli\nconsentono di aggrapparsi a soffitti e pareti. Questo Pokémon\nintrappola il nemico con la sua ragnatela sottile e robusta."
+      },
+      {
+        "game": "oras-as",
+        "text": "Le zampe di Ariados sono dotate di artigli uncinati che gli\nconsentono di aggrapparsi a soffitti e pareti. Questo Pokémon\nintrappola il nemico con la sua ragnatela sottile e robusta."
+      },
+      {
+        "game": "sm-s",
+        "text": "In alcune regioni il filo di Ariados viene usato per\ntessere al telaio, grazie alla sua straordinaria\nresistenza."
+      },
+      {
+        "game": "sm-m",
+        "text": "Tesse un filo sia dalla bocca che dalla parte\nposteriore del corpo. Vi avvolge la preda\ne lentamente ne succhia i fluidi vitali."
+      },
+      {
+        "game": "usum-us",
+        "text": "Vaga di notte in cerca di prede. Quando ne\ntrova una, usa il suo filo per immobilizzarla e poi\nla divora con le sue zanne."
+      },
+      {
+        "game": "usum-um",
+        "text": "Intrappola la preda usando il filo che secerne\ndalla bocca. Quando scende la notte si allontana\ndalla tela per cacciare."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Ariados",
+    "genus": "Long Leg Pokémon",
+    "flavorText": [
+      {
+        "game": "gs-g",
+        "text": "It spins string\nnot only from its\nrear but also from\fits mouth. It is\nhard to tell which\nend is which."
+      },
+      {
+        "game": "gs-s",
+        "text": "A single strand of\na special string\nis endlessly spun\fout of its rear.\nThe string leads\nback to its nest."
+      },
+      {
+        "game": "c",
+        "text": "Rather than mak­\ning a nest in one\nspecific spot, it\fwanders in search\nof food after\ndarkness falls."
+      },
+      {
+        "game": "rs-r",
+        "text": "ARIADOS’s feet are tipped with tiny\nhooked claws that enable it to scuttle\non ceilings and vertical walls.\fThis POKéMON constricts the foe with\nthin and strong silk webbing."
+      },
+      {
+        "game": "rs-s",
+        "text": "ARIADOS’s feet are tipped with tiny\nhooked claws that enable it to scuttle\non ceilings and vertical walls.\fThis POKéMON constricts the foe with\nthin and strong silk webbing."
+      },
+      {
+        "game": "e",
+        "text": "Its feet are tipped with tiny hooked claws\nthat enable it to scuttle on ceilings and\nvertical walls. It constricts its foe with\nthin and strong silk webbing."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "A single strand of a special string is\nendlessly spun out of its rear. The string\nleads back to its nest."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "It spins string not only from its rear but\nalso from its mouth. It is hard to tell\nwhich end is which."
+      },
+      {
+        "game": "dp-d",
+        "text": "It attaches silk to its prey and\nsets it free. Later, it tracks the\nsilk to the prey and its friends."
+      },
+      {
+        "game": "dp-p",
+        "text": "It attaches silk to its prey and\nsets it free. Later, it tracks the\nsilk to the prey and its friends."
+      },
+      {
+        "game": "pt",
+        "text": "It attaches silk to its prey and\nsets it free. Later, it tracks the\nsilk to the prey and its friends."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "It spins string not only from its\nrear but also from its mouth. It’s\nhard to tell which end is which."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "A single strand of a special string\nis endlessly spun out of its rear.\nThe string leads back to its nest."
+      },
+      {
+        "game": "bw-b",
+        "text": "It attaches silk to its prey and\nsets it free. Later, it tracks the\nsilk to the prey and its friends."
+      },
+      {
+        "game": "bw-w",
+        "text": "It attaches silk to its prey and\nsets it free. Later, it tracks the\nsilk to the prey and its friends."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "It attaches silk to its prey and\nsets it free. Later, it tracks the\nsilk to the prey and its friends."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "It attaches silk to its prey and\nsets it free. Later, it tracks the\nsilk to the prey and its friends."
+      },
+      {
+        "game": "xy-x",
+        "text": "It spins string not only from its rear but also from\nits mouth. It’s hard to tell which end is which."
+      },
+      {
+        "game": "xy-y",
+        "text": "It attaches silk to its prey and sets it free. Later,\nit tracks the silk to the prey and its friends."
+      },
+      {
+        "game": "oras-or",
+        "text": "Ariados’s feet are tipped with tiny hooked claws that enable it\nto scuttle on ceilings and vertical walls. This Pokémon\nconstricts the foe with thin and strong silk webbing."
+      },
+      {
+        "game": "oras-as",
+        "text": "Ariados’s feet are tipped with tiny hooked claws that enable it\nto scuttle on ceilings and vertical walls. This Pokémon\nconstricts the foe with thin and strong silk webbing."
+      },
+      {
+        "game": "sm-s",
+        "text": "There are some areas where people use the\nstring Ariados spins for their own weaving.\nThe resulting cloth is popular for its strength."
+      },
+      {
+        "game": "sm-m",
+        "text": "It spins thread from both its rear and its mouth.\nThen it wraps its prey up in thread and sips\ntheir bodily fluids at its leisure."
+      },
+      {
+        "game": "usum-us",
+        "text": "Every night, it wanders around in search of\nprey, whose movements it restrains by spewing\nthreads before it bites into them with its fangs."
+      },
+      {
+        "game": "usum-um",
+        "text": "It spews threads from its mouth to catch its\nprey. When night falls, it leaves its web to go\nhunt aggressively."
+      }
+    ]
+  },
+  "chs": {
+    "name": "阿利多斯",
+    "genus": "长腿宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "也有地区会使用\n阿利多斯的丝来织布。\n因布料结实而广受好评。"
+      },
+      {
+        "game": "sm-m",
+        "text": "屁股和嘴里都会吐出丝。\n用丝绑住猎物，\n慢慢地吸食它的体液。"
+      },
+      {
+        "game": "usum-us",
+        "text": "每晚都会为了寻求猎物而四处游走。\n发现猎物时会吐丝封住对方的行动，\n然后用牙齿啃食。"
+      },
+      {
+        "game": "usum-um",
+        "text": "会通过吐丝来捕捉猎物。\n到了晚上，就会离开\n巢穴并积极地狩猎。"
+      }
+    ]
+  }
+}

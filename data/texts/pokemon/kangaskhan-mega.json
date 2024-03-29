@@ -1,0 +1,549 @@
+{
+  "jap": {
+    "name": "ガルーラ",
+    "genus": "おやこポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "おなかの　ふくろで　こそだてをする。\nあんぜんな　ときだけ　こどもを\nふくろから　だして　あそばせる。"
+      },
+      {
+        "game": "xy-y",
+        "text": "あんぜんな　ばしょなら　こどもも\nおなかの　ふくろから　でて　あそぶ。\nおやは　それを　じっと　みまもる。"
+      },
+      {
+        "game": "oras-or",
+        "text": "ガルーラの　こどもが　１ぴきで　あそんでいても\nぜったいに　つかまえたりしては　いけないよ。\nちかくに　いる　おやが　はげしく　おこりだすぞ。"
+      },
+      {
+        "game": "oras-as",
+        "text": "ガルーラの　こどもが　１ぴきで　あそんでいても\nぜったいに　つかまえたりしては　いけないよ。\nちかくに　いる　おやが　はげしく　おこりだすぞ。"
+      },
+      {
+        "game": "sm-s",
+        "text": "ガルーラの　ははおやの　あいじょうは\nふかい。　わがこを　まもるためならば\nしさえ　おそれないと　いわれている。"
+      },
+      {
+        "game": "sm-m",
+        "text": "おなかの　こどもは　およそ　３ねんで\nおやばなれする。　ははおやが\nおおごえで　なくのは　そのときだけ。"
+      },
+      {
+        "game": "usum-us",
+        "text": "おなかの　ふくろに　わがこを　いれて\nまもる。　こどもを　きずつけたものは\nぜったいに　ゆるさず　たたきのめす。"
+      },
+      {
+        "game": "usum-um",
+        "text": "ふくろから　ぬけだして　あそんでいる\nこどもには　ちかづいては　いけない。\nどこかで　ははおやが　みまもっている。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "おなかのふくろで　こどもをそだてる。\nこどもを　まもるためになら　どんな\nあいてにも　たちむかっていく。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "おなかのふくろで　こどもをそだてる。\nこどもを　まもるためになら　どんな\nあいてにも　たちむかっていく。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "はらの　ふくろに　こどもが　いるが\nフットワークは　とても　かるい。\nすばやいジャブで　あいてを　いかく。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "こどもの　いない　ガルーラが\nそうなんした　にんげんの　こを\nそだてていたという　きろくがある。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Garura",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "캥카",
+    "genus": "가족포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "배의 주머니에서 새끼를 키운다.\n안전할 때만 새끼를\n주머니에서 꺼내어 놀게 한다."
+      },
+      {
+        "game": "xy-y",
+        "text": "안전한 장소라면 새끼도\n배의 주머니에서 나와서 논다.\n어미는 그것을 가만히 지켜본다."
+      },
+      {
+        "game": "oras-or",
+        "text": "캥카의 새끼가 혼자서 놀고 있어도\n절대로 잡으려 하면 안 된다.\n가까이 있는 부모가 격렬히 화낸다."
+      },
+      {
+        "game": "oras-as",
+        "text": "캥카의 새끼가 혼자서 놀고 있어도\n절대로 잡으려 하면 안 된다.\n가까이 있는 부모가 격렬히 화낸다."
+      },
+      {
+        "game": "sm-s",
+        "text": "캥카의 모성애는 깊다.\n자기 아이를 지키기 위해서라면\n죽음조차 두려워하지 않는다고 한다."
+      },
+      {
+        "game": "sm-m",
+        "text": "뱃속의 새끼는 대략 3년이면\n자립한다. 어미가 큰 소리로\n우는 것은 그때뿐이다."
+      },
+      {
+        "game": "usum-us",
+        "text": "배의 주머니에 자신의 새끼를 넣어\n지킨다. 새끼에게 해를 끼치는 자는\n절대 용서하지 않고 때려눕힌다."
+      },
+      {
+        "game": "usum-um",
+        "text": "주머니를 빠져나와 놀고 있는\n새끼에게는 다가가선 안 된다.\n어딘가에서 어미가 지켜보고 있다."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "배의 주머니에서 새끼를 키운다.\n새끼를 지키기 위해서라면\n어떤 상대든지 맞서 싸운다."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "배의 주머니에서 새끼를 키운다.\n새끼를 지키기 위해서라면\n어떤 상대든지 맞서 싸운다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "배의 주머니에 새끼가 있지만\n발놀림은 매우 가볍다.\n재빠른 잽으로 상대를 위협한다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "새끼가 없는 캥카가\n조난한 사람의 아이를\n길렀다는 기록이 있다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "袋獸",
+    "genus": "親子寶可夢",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "袋獸的母愛很深。\n如果是為了守護自己的孩子，\n據說連死都毫不畏懼。"
+      },
+      {
+        "game": "sm-m",
+        "text": "育兒袋裡的孩子\n大約３年左右會離開母親自立。\n只有在那個時候母親才會大聲鳴叫。"
+      },
+      {
+        "game": "usum-us",
+        "text": "把自己的孩子放進腹部的\n袋子裡保護，會毫不留情地\n狠狠教訓傷害自己孩子的傢伙。"
+      },
+      {
+        "game": "usum-um",
+        "text": "絕對不要靠近從袋獸腹中\n溜出來玩耍的孩子，\n因為母親正在某處守護著牠。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "把孩子放在腹部的袋中養育。\n為了保護自己的孩子，不管遇上\n什麼對手都會勇敢對抗。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "把孩子放在腹部的袋中養育。\n為了保護自己的孩子，不管遇上\n什麼對手都會勇敢對抗。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "腹部的袋子裡裝著孩子，\n但是步法非常輕盈。\n會用高速的刺拳威嚇對手。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "紀錄中記載著，\n曾經有沒孩子的袋獸\n養育了遇難的人類孩子。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Kangourex",
+    "genus": "Pokémon Maternel",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Il élève ses petits dans sa poche\nventrale. Il attend d’être en lieu\nsûr pour les laisser jouer dehors."
+      },
+      {
+        "game": "bw-w",
+        "text": "Il élève ses petits dans sa poche\nventrale. Il attend d’être en lieu\nsûr pour les laisser jouer dehors."
+      },
+      {
+        "game": "xy-x",
+        "text": "Il élève ses petits dans sa poche ventrale. Il attend\nd’être en lieu sûr pour les laisser jouer dehors."
+      },
+      {
+        "game": "xy-y",
+        "text": "Dans les endroits sûrs, le petit quitte sa poche pour\njouer sous la protection des adultes."
+      },
+      {
+        "game": "oras-or",
+        "text": "Lorsqu’on rencontre un petit Kangourex qui joue tout seul,\nil ne faut jamais le déranger ou essayer de l’attraper.\nLes parents du bébé Pokémon sont sûrement dans le coin\net ils risquent d’entrer dans une colère noire."
+      },
+      {
+        "game": "oras-as",
+        "text": "Lorsqu’on rencontre un petit Kangourex qui joue tout seul,\nil ne faut jamais le déranger ou essayer de l’attraper.\nLes parents du bébé Pokémon sont sûrement dans le coin\net ils risquent d’entrer dans une colère noire."
+      },
+      {
+        "game": "sm-s",
+        "text": "L’amour maternel de Kangourex est sans limites.\nElle marcherait au-devant de la mort pour\nprotéger son bébé."
+      },
+      {
+        "game": "sm-m",
+        "text": "Le bébé quitte la poche de sa mère au bout\nde trois ans. C’est le seul moment de sa vie\noù elle pleure à chaudes larmes."
+      },
+      {
+        "game": "usum-us",
+        "text": "Kangourex protège son petit en le mettant\ndans sa poche, et se montre sans pitié envers\nquiconque ose lui faire du mal."
+      },
+      {
+        "game": "usum-um",
+        "text": "Ne vous approchez surtout pas d’un bébé\nKangourex sorti de sa poche pour jouer !\nSa mère le surveille sûrement d’un peu plus loin."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Ce Pokémon élève son petit dans sa poche\nventrale. Il est prêt à combattre n’importe quel\nennemi pour le protéger."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Ce Pokémon élève son petit dans sa poche\nventrale. Il est prêt à combattre n’importe quel\nennemi pour le protéger."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Porter son petit dans sa poche ventrale ne\nl’empêche pas d’avoir un bon jeu de jambes.\nSes coups rapides intimident ses ennemis."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Certains documents certifient que les Kangourex\nsans progéniture élevaient des enfants humains\nen détresse."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Kangama",
+    "genus": "Muttertier-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Sein Nachwuchs wächst in seinem Beutel heran.\nNur wenn es sicher ist, darf das Junge aus dem Beutel."
+      },
+      {
+        "game": "xy-y",
+        "text": "Fühlt es sich sicher, dann verlässt das Junge\nden Beutel. Die Mutter behält es ständig im Auge."
+      },
+      {
+        "game": "oras-or",
+        "text": "Wenn du auf ein junges, spielendes Kangama stößt,\nsolltest du es nicht stören oder versuchen, es einzufangen.\nDie Mutter dieses Baby-Pokémon ist bestimmt in Reichweite\nund könnte sehr wütend auf dich werden."
+      },
+      {
+        "game": "oras-as",
+        "text": "Wenn du auf ein junges, spielendes Kangama stößt,\nsolltest du es nicht stören oder versuchen, es einzufangen.\nDie Mutter dieses Baby-Pokémon ist bestimmt in Reichweite\nund könnte sehr wütend auf dich werden."
+      },
+      {
+        "game": "sm-s",
+        "text": "Die Mutterliebe des ausgewachsenen Kangama\nist tief. Es wäre sogar bereit, sein eigenes Leben\nzu opfern, um sein Junges zu beschützen."
+      },
+      {
+        "game": "sm-m",
+        "text": "Das Junge verlässt den Beutel der Mutter im\nAlter von drei Jahren. Dies ist der einzige Zeit-\npunkt, zu dem man die Mutter laut weinen hört."
+      },
+      {
+        "game": "usum-us",
+        "text": "Sein Junges beschützt es in seinem Beutel.\nWer dieses verwundet, den erwarten Kangamas\nGroll und eine rücksichtslose Tracht Prügel."
+      },
+      {
+        "game": "usum-um",
+        "text": "Wer ein Kangama-Junges sieht, das zum Spielen\nden Beutel verlassen hat, sollte sich ihm nicht\nnähern. Seine Mutter behält es stets im Auge."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Es zieht sein Junges in seiner Bauchtasche auf.\nUm es zu schützen, nimmt es mit jedem Gegner\nden Kampf auf."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Es zieht sein Junges in seiner Bauchtasche auf.\nUm es zu schützen, nimmt es mit jedem Gegner\nden Kampf auf."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Obwohl es sein Junges im Beutel trägt, bewegt\nsich dieses Pokémon äußerst leichtfüßig. Gegner\nschreckt Kangama mit blitzschnellen Schlägen ab."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Es liegen Berichte vor, laut denen Kangama ohne\neigenen Nachwuchs stattdessen Menschenkinder\nin Not aufgezogen haben."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Kangaskhan",
+    "genus": "Pokémon Maternal",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Lleva a su cría en la bolsa de su panza. Solo deja que\nsu cría salga a jugar cuando no siente peligro."
+      },
+      {
+        "game": "xy-y",
+        "text": "Si no hay peligro, el joven sale de la bolsa y juega.\nEl adulto vigila atentamente al joven."
+      },
+      {
+        "game": "oras-or",
+        "text": "No es recomendable molestar ni intentar atrapar a crías de\nKangaskhan mientras estén jugando, ya que seguro que su\nmadre anda cerca y reaccionará con enfado y violencia."
+      },
+      {
+        "game": "oras-as",
+        "text": "No es recomendable molestar ni intentar atrapar a crías de\nKangaskhan mientras estén jugando, ya que seguro que su\nmadre anda cerca y reaccionará con enfado y violencia."
+      },
+      {
+        "game": "sm-s",
+        "text": "Profesa un fuerte amor por su cría. Se dice que\nes capaz de enfrentarse sin temor a cualquier\npeligro con tal de protegerla."
+      },
+      {
+        "game": "sm-m",
+        "text": "La cría se separa de su madre cuando ronda los\ntres años. Es el único momento en el que la\nmadre llora con vehemencia."
+      },
+      {
+        "game": "usum-us",
+        "text": "Mete a la cría en su marsupio para protegerla. Si\nalguien hace daño a su retoño, monta en cólera\ny ataca al agresor sin miramientos."
+      },
+      {
+        "game": "usum-um",
+        "text": "No es prudente acercarse a un retoño que esté\njugando fuera de su bolsa, pues la madre nunca\nanda lejos."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Cuida de la cría que lleva en la bolsa de su\npanza y se enfrenta a todo aquel que supone\nuna amenaza para protegerla."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Cuida de la cría que lleva en la bolsa de su\npanza y se enfrenta a todo aquel que supone\nuna amenaza para protegerla."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Aunque lleve una cría en el marsupio, su juego\nde pies no pierde ligereza. Abruma al rival con\nráfagas de ágiles puñetazos."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Se han documentado casos de Kangaskhan sin\ncrías que han adoptado bebés humanos cuyos\npadres habían sido víctimas de accidentes."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Kangaskhan",
+    "genus": "Pokémon Genitore",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Tiene il cucciolo nel marsupio che ha sulla pancia e\nlo lascia uscire solo quando non ci sono pericoli."
+      },
+      {
+        "game": "xy-y",
+        "text": "Se è al sicuro, il piccolo esce dal marsupio e inizia\na giocare sotto gli occhi vigili dell’adulto."
+      },
+      {
+        "game": "oras-or",
+        "text": "Vedendo un cucciolo di Kangaskhan giocare per conto suo,\nnon bisogna mai disturbarlo o cercare di catturarlo.\nIl suo genitore, infatti, è sicuramente nei paraggi e potrebbe\nreagire molto violentemente."
+      },
+      {
+        "game": "oras-as",
+        "text": "Vedendo un cucciolo di Kangaskhan giocare per conto suo,\nnon bisogna mai disturbarlo o cercare di catturarlo.\nIl suo genitore, infatti, è sicuramente nei paraggi e potrebbe\nreagire molto violentemente."
+      },
+      {
+        "game": "sm-s",
+        "text": "L’amore materno di Kangaskhan è molto\nprofondo. Non esiterebbe a mettere in pericolo\nla propria vita pur di proteggere il suo piccolo."
+      },
+      {
+        "game": "sm-m",
+        "text": "Il cucciolo esce dal marsupio verso i tre anni\ned è l’unico momento in cui la madre si lascia\nsfuggire possenti grida."
+      },
+      {
+        "game": "usum-us",
+        "text": "Protegge il proprio cucciolo tenendolo nel\nmarsupio che ha sulla pancia e attacca\nfuriosamente chiunque osi ferirlo."
+      },
+      {
+        "game": "usum-um",
+        "text": "Non bisogna avvicinarsi a un cucciolo che gioca\nfuori dal marsupio: la madre è sempre nei\nparaggi e vigila attenta su di lui."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Cresce il suo cucciolo dentro al marsupio.\nÈ pronto a qualsiasi lotta pur di proteggerlo."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Cresce il suo cucciolo dentro al marsupio.\nÈ pronto a qualsiasi lotta pur di proteggerlo."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Ha un agile gioco di gambe, nonostante si porti\nappresso il cucciolo nel marsupio ventrale.\nIntimidisce gli avversari con jab velocissimi."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Alcuni documenti parlano di Kangaskhan\nsenza cuccioli che hanno allevato bambini\numani dispersi."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Kangaskhan",
+    "genus": "Parent Pokémon",
+    "flavorText": [
+      {
+        "game": "rb-r",
+        "text": "The infant rarely\nventures out of\nits mother's\fprotective pouch\nuntil it is 3\nyears old."
+      },
+      {
+        "game": "rb-b",
+        "text": "The infant rarely\nventures out of\nits mother's\fprotective pouch\nuntil it is 3\nyears old."
+      },
+      {
+        "game": "y",
+        "text": "Raises its young\nin its belly\npouch. Won't run\ffrom any fight\nto keep its young\nprotected."
+      },
+      {
+        "game": "gs-g",
+        "text": "If it is safe, the\nyoung gets out of\nthe belly pouch to\fplay. The adult\nkeeps a close eye\non the youngster."
+      },
+      {
+        "game": "gs-s",
+        "text": "To protect its\nyoung, it will\nnever give up\fduring battle, no\nmatter how badly\nwounded it is."
+      },
+      {
+        "game": "c",
+        "text": "To avoid\ncrushing the\nbaby it carries in\fits pouch, it\nalways sleeps\nstanding up."
+      },
+      {
+        "game": "rs-r",
+        "text": "If you come across a young KANGASKHAN\nplaying by itself, you must never\ndisturb it or attempt to catch it.\fThe baby POKéMON’s parent is sure to\nbe in the area, and it will become\nviolently enraged at you."
+      },
+      {
+        "game": "rs-s",
+        "text": "If you come across a young KANGASKHAN\nplaying by itself, you must never\ndisturb it or attempt to catch it.\fThe baby POKéMON’s parent is sure to\nbe in the area, and it will become\nviolently enraged at you."
+      },
+      {
+        "game": "e",
+        "text": "If you come across a young KANGASKHAN\nplaying by itself, never try to catch it.\nThe baby’s parent is sure to be in the area,\nand it will become violently enraged."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "The female raises its offspring in a pouch\non its belly. It is skilled at attacking\nusing COMET PUNCH."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "The infant rarely ventures out of its\nmother’s protective pouch until it is\nthree years old."
+      },
+      {
+        "game": "dp-d",
+        "text": "It raises its offspring in its belly\npouch. It lets the baby out to\nplay only when it feels safe."
+      },
+      {
+        "game": "dp-p",
+        "text": "It raises its offspring in its belly\npouch. It lets the baby out to\nplay only when it feels safe."
+      },
+      {
+        "game": "pt",
+        "text": "It raises its offspring in its belly\npouch. It lets the baby out to\nplay only when it feels safe."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "If it is safe, the young gets out of\nthe belly pouch to play. The adult\nkeeps a close eye on the youngster."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "To protect its young, it will\nnever give up during battle, no\nmatter how badly wounded it is."
+      },
+      {
+        "game": "bw-b",
+        "text": "It raises its offspring in its belly\npouch. It lets the baby out to\nplay only when it feels safe."
+      },
+      {
+        "game": "bw-w",
+        "text": "It raises its offspring in its belly\npouch. It lets the baby out to\nplay only when it feels safe."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "It raises its offspring in its belly\npouch. It lets the baby out to\nplay only when it feels safe."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "It raises its offspring in its belly\npouch. It lets the baby out to\nplay only when it feels safe."
+      },
+      {
+        "game": "xy-x",
+        "text": "It raises its offspring in its belly pouch. It lets the\nbaby out to play only when it feels safe."
+      },
+      {
+        "game": "xy-y",
+        "text": "If it is safe, the young gets out of the belly pouch\nto play. The adult keeps a close eye on\nthe youngster."
+      },
+      {
+        "game": "oras-or",
+        "text": "If you come across a young Kangaskhan playing by itself, you\nmust never disturb it or attempt to catch it. The baby\nPokémon’s parent is sure to be in the area, and it will become\nviolently enraged at you."
+      },
+      {
+        "game": "oras-as",
+        "text": "If you come across a young Kangaskhan playing by itself,\nyou must never disturb it or attempt to catch it. The baby\nPokémon’s parent is sure to be in the area, and it will\nbecome violently enraged at you."
+      },
+      {
+        "game": "sm-s",
+        "text": "Kangaskhan’s maternal love is so deep that it\nwill brave death to protect its offspring."
+      },
+      {
+        "game": "sm-m",
+        "text": "The child in its pouch leaves home after roughly\nthree years. That is the only time the mother is\nheard to cry wildly."
+      },
+      {
+        "game": "usum-us",
+        "text": "Kangaskhan protects its child by keeping it in\nits pouch. It has zero forgiveness for those\nwho harm its child and will beat them down."
+      },
+      {
+        "game": "usum-um",
+        "text": "You shouldn’t get close to the child when it’s\nplaying outside its mother’s pouch. Its mother is\nalways nearby watching over it."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Raises its young in its belly pouch. Won’t run\nfrom any fight to keep its young protected."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Raises its young in its belly pouch. Won’t run\nfrom any fight to keep its young protected."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Although it’s carrying its baby in a pouch on\nits belly, Kangaskhan is swift on its feet. It\nintimidates its opponents with quick jabs."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "There are records of a lost human child being\nraised by a childless Kangaskhan."
+      }
+    ]
+  },
+  "chs": {
+    "name": "袋兽",
+    "genus": "亲子宝可梦",
+    "flavorText": [
+      {
+        "game": "usum-um",
+        "text": "不能接近从袋里溜出来玩耍的孩子。\n因为它的母亲就在某处守护着它。"
+      },
+      {
+        "game": "sm-s",
+        "text": "袋兽的母爱很深。\n如果是为了守护自己的孩子，\n据说连死都毫不畏惧。"
+      },
+      {
+        "game": "sm-m",
+        "text": "育儿袋中的孩子大约３年后\n才会离开母亲。\n只有在那个时候母亲才会大声地鸣叫。"
+      },
+      {
+        "game": "usum-us",
+        "text": "会把自己的孩子放入腹袋里保护起来。\n对于胆敢伤害自己孩子的家伙，\n会毫不留情地予以痛击。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "在腹部的袋子里养育自己的\n宝宝。为了保护宝宝，遇到\n什么样的敌人都不会退缩。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "在腹部的袋子里养育自己的\n宝宝。为了保护宝宝，遇到\n什么样的敌人都不会退缩。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "虽然腹部的袋子里装着\n宝宝，步法却极为轻盈。\n会用快速的刺拳威吓对手。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "据记载，曾有没孩子的\n袋兽将遇难人类的\n小孩抚养长大。"
+      }
+    ]
+  }
+}

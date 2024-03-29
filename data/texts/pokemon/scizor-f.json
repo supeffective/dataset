@@ -1,0 +1,469 @@
+{
+  "jap": {
+    "name": "ハッサム",
+    "genus": "はさみポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "こうてつを　ふくんでいる\nハサミで　とらえたものは　どんなに\nかたくても　コナゴナに　くだく。"
+      },
+      {
+        "game": "xy-y",
+        "text": "はがねの　からだを　もつ。\nめだまもようの　ついた　はさみを\nふりあげて　あいてを　いかくする。"
+      },
+      {
+        "game": "oras-or",
+        "text": "はがねの　かたさを　もつ　からだは　ちょっとや\nそっとの　こうげきでは　びくとも　しないぞ。\nハネを　はばたかせ　たいおんを　ちょうせつする。"
+      },
+      {
+        "game": "oras-as",
+        "text": "はがねの　かたさを　もつ　からだは　ちょっとや\nそっとの　こうげきでは　びくとも　しないぞ。\nハネを　はばたかせ　たいおんを　ちょうせつする。"
+      },
+      {
+        "game": "sm-s",
+        "text": "ハネを　つかい　たいおんちょうせつ。\nたたかいで　あつくなりすぎて\nきんぞくの　からだが　とけないため。"
+      },
+      {
+        "game": "sm-m",
+        "text": "ひとたび　てきと　にんしきすると\nこうてつの　こうどを　もつ　ハサミで\nようしゃなく　たたきつぶす。"
+      },
+      {
+        "game": "usum-us",
+        "text": "はがねの　ような　からだを　もつ。\nごつくて　おもい　ハサミは　てきを\nはさむより　たたきつぶすのに　むく。"
+      },
+      {
+        "game": "usum-um",
+        "text": "１ど　てきと　はんだんした　ものは\nこうてつの　かたさを　もつ　ハサミで\nこなごなになるまで　なぐりつづける。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "おおきな　ハサミは　たいじゅうの\n３ぶんの１の　おもさ。　ふりおろせば\nがんせきも　いっぱつで　こなごなだ。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "からだは　ほそいが　こうげきりょくは\nすさまじい。　からだの　きんにくも\nきんぞくで　できているのだ。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Hassam",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "핫삼",
+    "genus": "집게포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "강철이 함유된\n집게로 잡은 것은 아무리\n딱딱해도 산산조각이 난다."
+      },
+      {
+        "game": "xy-y",
+        "text": "강철의 몸을 가지고 있다.\n눈알 무늬가 붙은 집게를\n치켜들어 상대를 위협한다."
+      },
+      {
+        "game": "oras-or",
+        "text": "강철의 강도를 지닌 몸은 어지간한\n공격으로는 꿈쩍도 하지 않는다.\n날갯짓으로 체온을 조절한다."
+      },
+      {
+        "game": "oras-as",
+        "text": "강철의 강도를 지닌 몸은 어지간한\n공격으로는 꿈쩍도 하지 않는다.\n날갯짓으로 체온을 조절한다."
+      },
+      {
+        "game": "sm-s",
+        "text": "날개를 사용해 체온조절을 한다.\n싸움으로 너무 뜨거워져서\n금속 몸이 녹지 않게 하기 위함이다."
+      },
+      {
+        "game": "sm-m",
+        "text": "한 번 적이라고 인식하면\n강철의 경도를 지닌 집게로\n봐주지 않고 때려눕힌다."
+      },
+      {
+        "game": "usum-us",
+        "text": "강철 같은 몸을 가졌다.\n완고하고 무거운 집게는 적을\n잡기보다 때려눕히기에 적당하다."
+      },
+      {
+        "game": "usum-um",
+        "text": "한번 적이라고 판단한 상대는\n강철의 강도를 지닌 집게로\n가루가 되도록 때린다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "커다란 집게의 무게는\n체중의 3분의 1이다. 내리치면\n암석도 일격에 산산조각이 난다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "몸은 가늘지만 공격력은\n무시무시하다. 몸의 근육도\n금속으로 되어 있다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "巨鉗螳螂",
+    "genus": "鉗子寶可夢",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "為了防止戰鬥時變得過熱，\n而令金屬的身體熔化，\n會使用翅膀調節體溫。"
+      },
+      {
+        "game": "sm-m",
+        "text": "一旦認定對方是敵人，\n就會用具有鋼鐵硬度的鉗子\n毫不留情地將對方擊倒。"
+      },
+      {
+        "game": "usum-us",
+        "text": "有著鋼鐵般的身體，比起用來\n夾住敵人，牠粗重的鉗子\n更適合用來把敵人砸扁。"
+      },
+      {
+        "game": "usum-um",
+        "text": "一旦將對方認定為敵人，\n就會用鋼鐵般堅硬的鉗子\n不斷毆打，直到將對方粉碎。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "巨大的鉗子重達體重的\n３分之１。鉗子一揮，\n就連岩石都能一擊粉碎。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "體型雖然纖細，攻擊力卻\n非常駭人。連身體的肌肉\n都是由金屬構成的。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Cizayox",
+    "genus": "Pokémon Pince",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Les yeux sur ses pinces servent à\nintimider l’ennemi avant de passer\nà l’attaque."
+      },
+      {
+        "game": "bw-w",
+        "text": "Les yeux sur ses pinces servent à\nintimider l’ennemi avant de passer\nà l’attaque."
+      },
+      {
+        "game": "xy-x",
+        "text": "Les pinces de ce Pokémon contiennent de l’acier et\npeuvent réduire en miettes quasiment n’importe quoi."
+      },
+      {
+        "game": "xy-y",
+        "text": "Son corps est dur comme l’acier. Il intimide ses\nennemis en levant ses pinces pareilles à des yeux."
+      },
+      {
+        "game": "oras-or",
+        "text": "Le corps de Cizayox est dur comme de l’acier. Les attaques\nordinaires ne le déstabilisent pas. Ce Pokémon bat des ailes\npour réguler sa température interne."
+      },
+      {
+        "game": "oras-as",
+        "text": "Le corps de Cizayox est dur comme de l’acier. Les attaques\nordinaires ne le déstabilisent pas. Ce Pokémon bat des ailes\npour réguler sa température interne."
+      },
+      {
+        "game": "sm-s",
+        "text": "Il utilise ses ailes pour réguler sa température\ncorporelle, ce qui empêche sa carcasse d’acier\nde fondre en cas d’ardent combat."
+      },
+      {
+        "game": "sm-m",
+        "text": "Avec ses puissantes pinces d’acier, ce Pokémon\nimplacable s’acharne sur tout ce qu’il considère\ncomme un ennemi jusqu’à le briser."
+      },
+      {
+        "game": "usum-us",
+        "text": "Son corps est aussi solide que l’acier. Ses\npinces, grosses et lourdes, sont plus adaptées\nau broyage qu’à la capture d’ennemis."
+      },
+      {
+        "game": "usum-um",
+        "text": "Il utilise ses énormes pinces dures comme\nde l’acier pour réduire en miettes ceux\nqu’il identifie comme des ennemis."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Ses grandes pinces représentent un tiers de\nson poids. Un seul coup de l’une d’entre elles\npeut réduire un rocher en poussière."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Malgré son corps fin, sa puissance de frappe\nest prodigieuse, car même ses muscles sont\ncomposés de métal."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Scherox",
+    "genus": "Kneifer-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Dieses Pokémon kann mit seinen stählernen\nScheren jeden harten Gegenstand mühelos zermalmen."
+      },
+      {
+        "game": "xy-y",
+        "text": "Sein Körper ist stahlhart. Es bedroht seine Gegner,\nindem es die Augen auf seinen Scheren zeigt."
+      },
+      {
+        "game": "oras-or",
+        "text": "Scherox’ Körper ist hart wie Stahl. Gewöhnliche Angriffe jagen\nihm keine Angst ein. Dieses Pokémon schlägt mit den Flügeln,\num seine Körpertemperatur zu regulieren."
+      },
+      {
+        "game": "oras-as",
+        "text": "Scherox’ Körper ist hart wie Stahl. Gewöhnliche Angriffe jagen\nihm keine Angst ein. Dieses Pokémon schlägt mit den Flügeln,\num seine Körpertemperatur zu regulieren."
+      },
+      {
+        "game": "sm-s",
+        "text": "Es schlägt mit den Flügeln, um seine Körper-\ntemperatur zu regulieren. So überhitzt und\nschmilzt sein stählerner Körper im Kampf nicht."
+      },
+      {
+        "game": "sm-m",
+        "text": "Sobald es einen Gegner bemerkt, schlägt es ihn\nmit seinen stahlharten Scheren erbarmungslos\nnieder."
+      },
+      {
+        "game": "usum-us",
+        "text": "Sein Körper ist hart wie Stahl. Es nutzt seine\ngroßen, schweren Scheren weniger, um Gegner\nzu packen, als um sie niederzuschlagen."
+      },
+      {
+        "game": "usum-um",
+        "text": "Sobald es ein anderes Pokémon als Feind\nerkennt, schlägt es dieses mit seinen\nstahlharten Scheren gnadenlos in Stücke."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Mit einer seiner großen Scheren, die ein Drittel\nseines Körpergewichts ausmachen, kann es Felsen\nmit einem einzigen Schlag zermalmen."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Trotz seines dünnen Körpers verfügt Scherox\nüber eine gewaltige Angriffsstärke. Selbst seine\nMuskeln bestehen aus Metall."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Scizor",
+    "genus": "Pokémon Tenaza",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Las pinzas que posee tienen acero. Con ellas, no hay\nnada que se le resista. Rompen todo lo que pillan."
+      },
+      {
+        "game": "xy-y",
+        "text": "Su cuerpo es duro como el acero. Confunde a los\nrivales con los dibujos de ojos en sus pinzas."
+      },
+      {
+        "game": "oras-or",
+        "text": "Scizor tiene un cuerpo duro como el acero que no es fácil de\nalterar con ningún ataque común. Este Pokémon bate las alas\npara regular la temperatura corporal."
+      },
+      {
+        "game": "oras-as",
+        "text": "Scizor tiene un cuerpo duro como el acero que no es fácil de\nalterar con ningún ataque común. Este Pokémon bate las alas\npara regular la temperatura corporal."
+      },
+      {
+        "game": "sm-s",
+        "text": "Este Pokémon bate las alas para regular su\ntemperatura corporal y evitar que su cuerpo\nmetálico se derrita en el fragor de la batalla."
+      },
+      {
+        "game": "sm-m",
+        "text": "Arremete contra sus enemigos con sus\npoderosas pinzas, tan duras como el acero, sin\nningún tipo de compasión."
+      },
+      {
+        "game": "usum-us",
+        "text": "Su cuerpo es duro como el acero. Con sus\npinzas grandes y pesadas, si agarra a un rival,\nmás que inmovilizarlo lo destroza."
+      },
+      {
+        "game": "usum-um",
+        "text": "Una vez que identifica a su enemigo, arremete\ncontra él hasta hacerlo trizas con sus pinzas\nduras como el acero."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Sus grandes pinzas representan un tercio de su\npeso corporal. Basta el impacto de una de ellas\npara reducir a escombros una enorme roca."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Su potencia de ataque, que asombra dada su\ndelgadez, se debe a que sus músculos están\nhechos de metal."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Scizor",
+    "genus": "Pokémon Chela",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Le chele, che contengono acciaio, possono fare a\npezzi qualsiasi oggetto afferrino."
+      },
+      {
+        "game": "xy-y",
+        "text": "Ha un corpo duro come l’acciaio. Spaventa i nemici\ncon le chele, su cui sono disegnati degli occhi."
+      },
+      {
+        "game": "oras-or",
+        "text": "Il corpo di Scizor è duro come l’acciaio. Gli attacchi\npiù comuni non riescono neanche a scalfirlo. Sbatte le ali\nper regolare la propria temperatura corporea."
+      },
+      {
+        "game": "oras-as",
+        "text": "Il corpo di Scizor è duro come l’acciaio. Gli attacchi\npiù comuni non riescono neanche a scalfirlo. Sbatte le ali\nper regolare la propria temperatura corporea."
+      },
+      {
+        "game": "sm-s",
+        "text": "Quando lotta, sbatte continuamente le ali per\nregolare la temperatura corporea ed evitare che\nil suo corpo metallico si surriscaldi e fonda."
+      },
+      {
+        "game": "sm-m",
+        "text": "Si scaglia implacabile sul nemico, attaccandolo\ncon le sue chele dure come l’acciaio."
+      },
+      {
+        "game": "usum-us",
+        "text": "Il suo corpo è duro come l’acciaio. Con le pesanti\ne robuste chele schiaccia facilmente il nemico\nnon appena lo afferra."
+      },
+      {
+        "game": "usum-um",
+        "text": "Dopo aver stabilito che qualcuno è suo nemico,\nlo colpisce con le chele dure come l’acciaio fino\na ridurlo in polvere."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Le grandi chele costituiscono un terzo del suo\npeso corporeo. Agitandole può ridurre in polvere\nuna roccia con un colpo solo."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Nonostante il corpo esile, è dotato di capacità\noffensive spaventose. Persino i suoi muscoli sono\nformati da metallo."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Scizor",
+    "genus": "Pincer Pokémon",
+    "flavorText": [
+      {
+        "game": "dp-p",
+        "text": "It has a steel-hard body. It\nintimidates foes by upraising its\neye-patterned pincers."
+      },
+      {
+        "game": "gs-g",
+        "text": "It swings its eye-\npatterned pincers\nup to scare its\ffoes. This makes\nit look like it\nhas three heads."
+      },
+      {
+        "game": "gs-s",
+        "text": "Its wings are not\nused for flying.\nThey are flapped\fat high speed to\nadjust its body\ntemperature."
+      },
+      {
+        "game": "c",
+        "text": "This POKéMON's\npincers, which\ncontain steel, can\fcrush any hard\nobject it gets a\nhold of into bits."
+      },
+      {
+        "game": "rs-r",
+        "text": "SCIZOR has a body with the hardness of\nsteel. It is not easily fazed by ordinary\nsorts of attacks.\fThis POKéMON flaps its wings to\nregulate its body temperature."
+      },
+      {
+        "game": "rs-s",
+        "text": "SCIZOR has a body with the hardness of\nsteel. It is not easily fazed by ordinary\nsorts of attacks.\fThis POKéMON flaps its wings to\nregulate its body temperature."
+      },
+      {
+        "game": "e",
+        "text": "A SCIZOR has a body with the hardness of\nsteel. It is not easily fazed by ordinary\nsorts of attacks. It flaps its wings to\nregulate its body temperature."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "Its wings are not used for flying.\nThey are flapped at high speed to adjust\nits body temperature."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "It swings its eye-patterned pincers up to\nscare its foes. This makes it look like it\nhas three heads."
+      },
+      {
+        "game": "dp-d",
+        "text": "It has a steel-hard body. It\nintimidates foes by upraising its\neye-patterned pincers."
+      },
+      {
+        "game": "pt",
+        "text": "It raises its pincers with eyelike\nmarkings for intimidation. It also\nswings them down dangerously."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "It swings its eye-patterned pincers\nup to scare its foes. This makes\nit look like it has three heads."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "Its wings are not used for flying.\nThey are flapped at high speed to\nadjust its body temperature."
+      },
+      {
+        "game": "bw-b",
+        "text": "It raises its pincers with eyelike\nmarkings for intimidation. It also\nswings them down dangerously."
+      },
+      {
+        "game": "bw-w",
+        "text": "It raises its pincers with eyelike\nmarkings for intimidation. It also\nswings them down dangerously."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "It raises its pincers with eyelike\nmarkings for intimidation. It also\nswings them down dangerously."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "It raises its pincers with eyelike\nmarkings for intimidation. It also\nswings them down dangerously."
+      },
+      {
+        "game": "xy-x",
+        "text": "This Pokémon’s pincers, which contain steel, can\ncrush any hard object it gets ahold of into bits."
+      },
+      {
+        "game": "xy-y",
+        "text": "It has a steel-hard body. It intimidates foes by\nupraising its eye-patterned pincers."
+      },
+      {
+        "game": "oras-or",
+        "text": "Scizor has a body with the hardness of steel. It is not easily\nfazed by ordinary sorts of attacks. This Pokémon flaps its\nwings to regulate its body temperature."
+      },
+      {
+        "game": "oras-as",
+        "text": "Scizor has a body with the hardness of steel. It is not easily\nfazed by ordinary sorts of attacks. This Pokémon flaps its\nwings to regulate its body temperature."
+      },
+      {
+        "game": "sm-s",
+        "text": "It uses its wings to adjust its body temperature.\nOtherwise, its metal body would become\ntoo hot and melt in the heat of battle."
+      },
+      {
+        "game": "sm-m",
+        "text": "Once it has identified an enemy, this Pokémon\nsmashes it mercilessly with pincers hard\nas steel."
+      },
+      {
+        "game": "usum-us",
+        "text": "Its body is like steel. Its tough, heavy pincers\nare more suited to smashing enemies than\ngrabbing them."
+      },
+      {
+        "game": "usum-um",
+        "text": "Once it has identified something as an enemy, it\nwill continue beating them with its steel-hard\npincers until there’s nothing left but scraps."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Bulky pincers account for one third of Scizor’s\nbody weight. A single swing of one of these\npincers will crush a boulder completely."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Though its body is slim, Scizor has tremendous\nattacking power. Even Scizor’s muscles are made\nof metal."
+      },
+      {
+        "game": "la",
+        "text": "Evolved by way of a curious item. The shell covering its body\nhas been shown to be stronger than forged steel."
+      }
+    ]
+  },
+  "chs": {
+    "name": "巨钳螳螂",
+    "genus": "钳子宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "为了防止战斗时变得过热，\n而令金属的身体熔化，\n会使用翅膀调节体温。"
+      },
+      {
+        "game": "sm-m",
+        "text": "一旦认出敌人，\n就会用具有钢铁硬度的钳子\n毫不留情地将对方击溃。"
+      },
+      {
+        "game": "usum-us",
+        "text": "有着钢铁般的身体。\n比起夹住敌人，它粗重的钳子\n更适合用来把敌人砸扁。"
+      },
+      {
+        "game": "usum-um",
+        "text": "一旦将对方认定为敌人，\n就会用钢铁般坚硬的钳子\n持续殴打对方，直到其粉身碎骨。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "大大的钳子占了身体\n重量的３分之１。就算是\n岩石也能一击砸个粉碎。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "虽然身体纤细，却有着\n惊人的攻击力。身体的\n肌肉也是由金属构成的。"
+      }
+    ]
+  }
+}

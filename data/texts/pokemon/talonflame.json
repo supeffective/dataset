@@ -1,0 +1,389 @@
+{
+  "jap": {
+    "name": "ファイアロー",
+    "genus": "れっかポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "はげしい　たたかいで　こうふんすると\nぜんしんの　うもうの　すきまから\nひのこを　ふきだして　ひこうする。"
+      },
+      {
+        "game": "xy-y",
+        "text": "えものに　おそいかかるときの\nスピードは　じそく５００キロ。\nきょうれつな　キックで　しとめる。"
+      },
+      {
+        "game": "oras-or",
+        "text": "はげしい　たたかいで　こうふんすると\nぜんしんの　うもうの　すきまから\nひのこを　ふきだして　ひこうする。"
+      },
+      {
+        "game": "oras-as",
+        "text": "えものに　おそいかかるときの\nスピードは　じそく５００キロ。\nきょうれつな　キックで　しとめる。"
+      },
+      {
+        "game": "sm-s",
+        "text": "こうぶつは　キャモメや　ツツケラ。\nきょうれつな　キックを　おみまいし\nするどいツメで　がっちり　キャッチ。"
+      },
+      {
+        "game": "sm-m",
+        "text": "はねの　すきまから　ひのこを\nふきだしながら　じそく５００キロで\nえものに　むかって　いっちょくせん。"
+      },
+      {
+        "game": "usum-us",
+        "text": "はねは　ひを　とおさず　じょうぶ。\nむかしの　しょうぼうしの　ふくは\nファイアローの　はねで　できていた。"
+      },
+      {
+        "game": "usum-um",
+        "text": "とりポケモンが　おもな　えもの。\nきゅうせっきんからの　ちからづよい\nキックで　じめんに　たたきおとす。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "とりポケモンが　おもな　えもの。\nうもうの　あいだから　ひのこを\nふきだし　あいてを　いかくする。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "じそく５００キロで　とつげき。\nえものが　にげるすきを　あたえずに\nきょうれつな　けりで　しとめる。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Fiarrow",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "파이어로",
+    "genus": "열화포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "격렬한 싸움으로 흥분하게 되면\n온몸의 깃털 사이에서\n불꽃을 뿜어내며 비행한다."
+      },
+      {
+        "game": "xy-y",
+        "text": "사냥감을 덮칠 때의\n스피드는 시속 500km이다.\n강렬한 킥으로 꼼짝 못하게 한다."
+      },
+      {
+        "game": "oras-or",
+        "text": "격렬한 싸움으로 흥분하게 되면\n온몸의 깃털 사이에서\n불꽃을 뿜어내며 비행한다."
+      },
+      {
+        "game": "oras-as",
+        "text": "사냥감을 덮칠 때의\n스피드는 시속 500km이다.\n강렬한 킥으로 꼼짝 못하게 한다."
+      },
+      {
+        "game": "sm-s",
+        "text": "좋아하는 것은 갈모매와 콕코구리다.\n강렬한 킥으로 타격을 가하고\n날카로운 발톱으로 꽉 잡는다."
+      },
+      {
+        "game": "sm-m",
+        "text": "깃털 사이로 불꽃을 뿜어내며\n시속 500km로 먹이를 향해\n똑바로 날아간다."
+      },
+      {
+        "game": "usum-us",
+        "text": "날개는 불이 붙지 않고 튼튼하다.\n옛날에는 소방관들의 옷을\n파이어로의 날개로 만들었다."
+      },
+      {
+        "game": "usum-um",
+        "text": "새포켓몬이 주된 먹이다.\n갑자기 접근한 뒤 강력한\n킥으로 땅에 떨어뜨린다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "새포켓몬이 주요 먹이다.\n깃털 사이로 불똥을\n뿜어내며 상대를 위협한다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "시속 500km로 돌격한다.\n먹이가 도망칠 틈을 주지 않고\n강렬한 발차기로 꼼짝 못 하게 한다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "烈箭鷹",
+    "genus": "烈火寶可夢",
+    "flavorText": [
+      {
+        "game": "usum-um",
+        "text": "主要的獵物是鳥寶可夢。\n會急速接近對手，然後用\n猛烈的腳踢把對手擊落到地面。"
+      },
+      {
+        "game": "sm-s",
+        "text": "喜歡吃長翅鷗和小篤兒。\n會對獵物施展猛烈的踢腿，\n再用銳利的爪子牢牢抓住。"
+      },
+      {
+        "game": "sm-m",
+        "text": "從翅膀的縫隙裡噴出火花，\n同時以５００公里的時速\n直線衝向獵物。"
+      },
+      {
+        "game": "usum-us",
+        "text": "羽毛很結實而且能夠防火。\n在過去消防隊員的制服\n是用烈箭鷹的羽毛製成的。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "主要的獵物是鳥寶可夢。\n會從羽毛的縫隙裡噴出\n火花威嚇對手。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "會以時速５００公里的速度\n進行突擊。對手連逃跑都來不及\n就被牠猛烈的腳踢給解決了。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Flambusard",
+    "genus": "Pokémon Fournaise",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Exalté par un combat sans merci, il s’envole en\nsemant dans son sillage les escarbilles du feu qui\ncouve dans son plumage."
+      },
+      {
+        "game": "xy-y",
+        "text": "Quand il s’abat sur ses proies, sa vitesse dépasse\nles 500 km/h. Il les achève d’un puissant coup de\nserre."
+      },
+      {
+        "game": "oras-or",
+        "text": "Exalté par un combat sans merci, il s’envole en semant\ndans son sillage les escarbilles du feu qui couve dans\nson plumage."
+      },
+      {
+        "game": "oras-as",
+        "text": "Quand il s’abat sur ses proies, sa vitesse dépasse\nles 500 km/h. Il les achève d’un puissant coup de serre."
+      },
+      {
+        "game": "sm-s",
+        "text": "Il raffole des Goélise et des Picassaut.\nIl déstabilise ses proies d’un bon coup de patte\navant de les capturer avec ses serres acérées."
+      },
+      {
+        "game": "sm-m",
+        "text": "Il fond sur ses proies en piqué à 500 km/h,\nsemant derrière lui une pluie d’escarbilles\néchappées de ses ailes."
+      },
+      {
+        "game": "usum-us",
+        "text": "Son plumage résistant est ignifugé.\nJadis, la combinaison portée par les pompiers\nétait faite de plumes de Flambusard."
+      },
+      {
+        "game": "usum-um",
+        "text": "La plupart de ses proies sont des Pokémon\noiseaux. Il surgit sans prévenir et propulse\nsa victime au sol d’un puissant coup de patte."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Flambusard chasse surtout les Pokémon oiseaux.\nIl intimide ses adversaires en produisant\ndes étincelles avec son plumage."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Flambusard attaque à une vitesse de 500 km/h.\nIl achève ses proies d’un puissant coup de patte\nsans leur laisser la moindre chance de fuir."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Fiaro",
+    "genus": "Stichflammen-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Die Aufregung eines harten Kampfes veranlasst es\ndazu, im Flug Funken aus den Zwischenräumen\nseines Gefieders zu sprühen."
+      },
+      {
+        "game": "xy-y",
+        "text": "Bei der Jagd erreicht es Geschwindigkeiten von bis zu\n500 km/h. Es erledigt seine Beute mit einem kräftigen\nTritt."
+      },
+      {
+        "game": "oras-or",
+        "text": "Die Aufregung eines harten Kampfes veranlasst es dazu,\nim Flug Funken aus den Zwischenräumen seines Gefieders\nzu sprühen."
+      },
+      {
+        "game": "oras-as",
+        "text": "Bei der Jagd erreicht es Geschwindigkeiten von bis zu\n500 km/h. Es erledigt seine Beute mit einem kräftigen Tritt."
+      },
+      {
+        "game": "sm-s",
+        "text": "Auf seinem Speiseplan stehen bevorzugt Wingull\nund Peppeck. Es schaltet seine Beute mit einem\nkräftigen Tritt aus, um sie sich dann zu krallen."
+      },
+      {
+        "game": "sm-m",
+        "text": "Bei bis zu 500 km/h sprüht es im Flug Funken\naus den Zwischenräumen seines Gefieders und\nstürzt sich schnurstracks auf seine Beute."
+      },
+      {
+        "game": "usum-us",
+        "text": "Sein Gefieder ist robust und feuerfest. Früher\nfertigte man Feuerwehranzüge deshalb aus\nFiaro-Federn."
+      },
+      {
+        "game": "usum-um",
+        "text": "Fiaro ernährt sich vor allem von Vogel-Pokémon.\nEs nähert sich überfallartig seiner Beute und\nbefördert sie mit einem kräftigen Tritt zu Boden."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Fiaro ernährt sich vor allem von Vogel-Pokémon.\nAus den Zwischenräumen seines Gefieders sprüht\nes Funken, um seine Gegner einzuschüchtern."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Fiaro greift mit einer Geschwindigkeit von bis zu\n500 km/h an. Mit einem kräftigen Tritt erlegt es\nseine Beute und gibt ihr keine Chance zur Flucht."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Talonflame",
+    "genus": "Pokémon Flamígero",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Si se exalta durante un combate reñido, arroja chispas\ny ascuas de los intersticios entre su plumaje\nmientras vuela."
+      },
+      {
+        "game": "xy-y",
+        "text": "Llega a alcanzar los 500 km/h al perseguir a su presa,\na quien le asesta el golpe de gracia con una patada\nmuy potente."
+      },
+      {
+        "game": "oras-or",
+        "text": "Si se exalta durante un combate reñido, arroja chispas y\nascuas de los intersticios entre su plumaje mientras vuela."
+      },
+      {
+        "game": "oras-as",
+        "text": "Llega a alcanzar los 500 km/h al perseguir a su presa, a\nquien le asesta el golpe de gracia con una patada muy\npotente."
+      },
+      {
+        "game": "sm-s",
+        "text": "Wingull y Pikipek son sus presas favoritas.\nLes asesta un potente golpe y después las\natrapa sin remisión con sus garras afiladas."
+      },
+      {
+        "game": "sm-m",
+        "text": "Se abalanza en línea recta sobre su presa a una\nvelocidad de 500 km/h mientras arroja chispas\ny ascuas de los intersticios entre su plumaje."
+      },
+      {
+        "game": "usum-us",
+        "text": "Sus alas son resistentes al fuego, por lo que se\nsolían usar sus plumas para confeccionar trajes\nde bombero."
+      },
+      {
+        "game": "usum-um",
+        "text": "Su presa favorita son los Pokémon pájaro, a los\ncuales se acerca a velocidades vertiginosas y\nderriba con la temible potencia de sus patas."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Su presa predilecta son los Pokémon pájaro.\nIntimida a sus rivales lanzando ascuas desde\nlos intersticios de su plumaje."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Arremete contra sus presas a una velocidad de\n500 km/h y les asesta el golpe de gracia con una\npatada muy potente, sin dejarles escapatoria."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Talonflame",
+    "genus": "Pokémon Ardifiamma",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Durante lotte senza esclusione di colpi, spicca il\nvolo sprizzando scintille dalle fessure che ha tra\nle piume."
+      },
+      {
+        "game": "xy-y",
+        "text": "Piomba sulle prede a 500 km/h e le attacca con\nartigli potentissimi."
+      },
+      {
+        "game": "oras-or",
+        "text": "Durante lotte senza esclusione di colpi, spicca il volo\nsprizzando scintille dalle fessure che ha tra le piume."
+      },
+      {
+        "game": "oras-as",
+        "text": "Piomba sulle prede a 500 km/h e le attacca con artigli\npotentissimi."
+      },
+      {
+        "game": "sm-s",
+        "text": "È ghiotto di Wingull e Pikipek.\nStordisce le prede con potenti zampate e poi\nle afferra saldamente con i suoi artigli aguzzi."
+      },
+      {
+        "game": "sm-m",
+        "text": "Piomba dritto sulle prede a 500 km/h,\nsprizzando scintille dalle fessure che ha\ntra le piume."
+      },
+      {
+        "game": "usum-us",
+        "text": "Le sue ali sono robuste e ignifughe.\nIn passato le divise dei pompieri venivano\nfabbricate con le sue piume."
+      },
+      {
+        "game": "usum-um",
+        "text": "Caccia soprattutto Pokémon alati. Si avvicina\nrapido alla preda e l’abbatte con un calcio\npotentissimo, facendola precipitare al suolo."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Caccia soprattutto Pokémon alati.\nIntimorisce il bersaglio sprizzando scintille\ndalle fessure che ha tra le piume."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Piomba sulle prede a 500 km/h e le attacca\ncon calci potentissimi senza dargli via di scampo."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Talonflame",
+    "genus": "Scorching Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "In the fever of an exciting battle, it\nshowers embers from the gaps between\nits feathers and takes to the air."
+      },
+      {
+        "game": "xy-y",
+        "text": "When attacking prey, it can reach speeds\nof up to 310 mph. It finishes its prey off\nwith a colossal kick."
+      },
+      {
+        "game": "oras-or",
+        "text": "In the fever of an exciting battle, it\nshowers embers from the gaps between\nits feathers and takes to the air."
+      },
+      {
+        "game": "oras-as",
+        "text": "When attacking prey, it can reach speeds\nof up to 310 mph. It finishes its prey off\nwith a colossal kick."
+      },
+      {
+        "game": "sm-s",
+        "text": "Its favorite foods are Wingull and Pikipek.\nIt attacks with a powerful kick and grasps them\nfirmly in its talons."
+      },
+      {
+        "game": "sm-m",
+        "text": "It zooms directly at its prey at flight speeds of\nclose to 310 mph, while fiery embers scatter\nfrom gaps in its feathers."
+      },
+      {
+        "game": "usum-us",
+        "text": "Its tough wings don’t allow fire to pass through\nthem. A long time ago, firefighters’ outfits were\nmade from Talonflame wings."
+      },
+      {
+        "game": "usum-um",
+        "text": "Bird Pokémon make up most of its diet.\nIt approaches at high speeds and smacks them\ndown to the ground with its powerful kick."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Talonflame mainly preys upon other bird\nPokémon. To intimidate opponents, it sends\nembers spewing from gaps between its feathers."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Talonflame dives toward prey at speeds of up to\n310 mph and assaults them with powerful kicks,\ngiving the prey no chance to escape."
+      }
+    ]
+  },
+  "chs": {
+    "name": "烈箭鹰",
+    "genus": "烈火宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "喜欢吃的是长翅鸥和小笃儿。\n会施展猛烈的踢腿，\n用锐利的爪子牢牢抓住。"
+      },
+      {
+        "game": "sm-m",
+        "text": "从翅膀的缝隙里喷出火花，\n同时以５００公里的时速\n呈一直线冲向猎物。"
+      },
+      {
+        "game": "usum-us",
+        "text": "羽毛很结实，连火都烧不穿。\n过去的消防员服就是用\n烈箭鹰的羽毛做成的。"
+      },
+      {
+        "game": "usum-um",
+        "text": "鸟宝可梦是它的主要猎物。\n用迅速接近后的强力踢\n将对方打落到地面。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "主要以鸟宝可梦为食。\n会从羽毛的缝隙里\n喷出火花来威吓对手。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "会以５００公里的时速进行突击。\n不给猎物留下逃跑的机会，\n直接以猛烈的踢击将其解决。"
+      }
+    ]
+  }
+}

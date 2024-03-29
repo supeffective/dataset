@@ -1,0 +1,309 @@
+{
+  "jap": {
+    "name": "ゴニョニョ",
+    "genus": "ささやきポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "ふだんは　ささやき　ごえ。きけんを\nさっちすると　おおごえで　なきだす。\nみみの　ふたを　とじると　なきやむ。"
+      },
+      {
+        "game": "xy-y",
+        "text": "きけんを　さっちすると　ジェットきと\nおなじ　おんりょうの　なきごえを\nあげて　てきを　ひるませるのだ。"
+      },
+      {
+        "game": "oras-or",
+        "text": "ふだんは　ちゅういしないと　ききとれない　くらい\nちいさな　こえだが　きけんを　さっち　すると\nずつうを　おこす　ほどの　おおごえで　なきだす。"
+      },
+      {
+        "game": "oras-as",
+        "text": "ひとたび　おおごえで　なきだすと　じぶんの\nこえに　びっくりして　さらに　はげしく　なく。\nなきやむと　つかれて　ねむってしまう。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "なきごえは　１００デシベルを　こえる\nおんりょう。　ちかくで　なかれると\nいちにち　ずつうが　おさまらない。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "なきはじめると　じぶんの　こえに\nおどろいて　さらに　はげしく　なく。\nなきつかれると　ねむってしまう。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Gonyonyo",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "소곤룡",
+    "genus": "속삭임포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "평소에는 속삭이는 듯한 목소리다. 위험을\n감지하면 큰 소리로 울기 시작한다.\n귀의 덮개를 닫으면 울음을 멈춘다."
+      },
+      {
+        "game": "xy-y",
+        "text": "위험을 감지하면 제트기와\n같은 음량의 울음소리를\n내서 적을 풀죽게 한다."
+      },
+      {
+        "game": "oras-or",
+        "text": "평소에는 주의를 기울여야 들릴 만큼\n작은 목소리지만 위험을 감지하면\n두통을 일으킬 만큼 큰 소리로 울어댄다."
+      },
+      {
+        "game": "oras-as",
+        "text": "한 번 큰 소리로 울기 시작하면 자신의\n목소리에 놀라 한층 더 심하게 운다.\n울음을 그치면 지쳐서 잠들어버린다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "울음소리는 100데시벨을 넘는\n음량이다. 가까이에서 울면\n온종일 두통에 시달린다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "울음이 터지면 자신의 목소리에\n놀라 더 격렬하게 운다.\n울다 지치면 잠들어 버린다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "咕妞妞",
+    "genus": "細語寶可夢",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "叫聲的音量會超過１００分貝。\n要是被牠在近距離大叫，\n就會一整天都會頭痛不止。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "一旦叫了起來，就會被自己的\n聲音嚇到，然後用更大的聲音\n大吼大叫。叫到累了就會睡著。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Chuchmur",
+    "genus": "Pokémon Chuchoteur",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "En temps normal, son cri est pareil\nà un murmure. Effrayé, il atteint le\nvolume d’un avion à réaction."
+      },
+      {
+        "game": "bw-w",
+        "text": "En temps normal, son cri est pareil\nà un murmure. Effrayé, il atteint le\nvolume d’un avion à réaction."
+      },
+      {
+        "game": "xy-x",
+        "text": "Il communique en murmurant, mais se met à hurler\ns’il sent le moindre danger. Il s’arrête quand on lui\nbouche les oreilles."
+      },
+      {
+        "game": "xy-y",
+        "text": "Il repousse ses ennemis grâce à un cri aussi puissant\nque le bruit d’un avion à réaction."
+      },
+      {
+        "game": "oras-or",
+        "text": "Généralement, la voix de Chuchmur est très douce, à peine\naudible, même si on tend l’oreille. Pourtant, lorsque\nce Pokémon sent l’approche du danger, il se met à crier\nsi fort qu’il peut déchirer des tympans."
+      },
+      {
+        "game": "oras-as",
+        "text": "Chuchmur est très timide. S’il commence à pleurer, il s’effraie\ntout seul et pleure de plus belle. Quand ce Pokémon finit\nenfin de pleurer, il s’endort, épuisé."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Le cri qu’il émet dépasse les 100 décibels et\ndonne une migraine qui dure toute la journée\nà quiconque se trouve à proximité."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Quand il se met à crier, il se surprend lui-même\net hurle de plus belle. Il continue ainsi jusqu’à\nce qu’il se fatigue et tombe de sommeil."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Flurmel",
+    "genus": "Flüster-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Normalerweise murmelt es, aber bei Gefahr beginnt\nes laut zu schreien. Es hört auf zu schreien,\nwenn seine Ohrmuscheln bedeckt werden."
+      },
+      {
+        "game": "xy-y",
+        "text": "Sein Schrei ist so laut wie ein Düsenflugzeug.\nBei Gefahr vertreibt es damit seine Feinde."
+      },
+      {
+        "game": "oras-or",
+        "text": "Normalerweise ist Flurmels Stimme sehr leise,\nselbst mit größter Anstrengung ist sie kaum hörbar.\nWenn dieses Pokémon jedoch eine Gefahr wittert,\nstößt es ohrenbetäubende Schreie aus."
+      },
+      {
+        "game": "oras-as",
+        "text": "Flurmel ist sehr scheu. Wenn es laut brüllt, erschrickt es und\nbrüllt dadurch noch lauter. Wenn es schließlich damit aufhört,\nist es völlig ausgepumpt und legt sich schlafen."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Sein Schrei erreicht eine Lautstärke von über\n100 Dezibel. Hört man diesen aus der Nähe,\nleidet man den ganzen Tag unter Kopfschmerzen."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Stößt Flurmel einen Schrei aus, so erschrickt es\nvor seiner eigenen Stimme und brüllt noch lauter,\nbis es erschöpft ist und sich schlafen legen muss."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Whismur",
+    "genus": "Pokémon Susurro",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Normalmente murmulla, pero cuando siente que hay\npeligro se pone a chillar. Solo para cuando se le\ncierran las orejas."
+      },
+      {
+        "game": "xy-y",
+        "text": "Cuando percibe peligro, lanza gritos con volumen\nsimilar al de un reactor e intimida a sus enemigos."
+      },
+      {
+        "game": "oras-or",
+        "text": "Normalmente, Whismur tiene una voz tenue, casi inaudible,\naunque se preste atención. No obstante, si este Pokémon\nsiente que el peligro acecha, puede ponerse a chillar con un\nvolumen ensordecedor."
+      },
+      {
+        "game": "oras-as",
+        "text": "Whismur es muy tímido. Si empieza a gritar fuerte, se asusta a\nsí mismo y chilla más alto todavía. Cuando para por fin, se va\na dormir completamente agotado."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Su grito llega a superar los 100 decibelios y\nprovoca a quien lo oiga un dolor de cabeza\nque puede durar un día entero."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Al chillar, se asusta con su propia voz, lo cual\nle lleva a gritar más fuerte todavía. Cuando\nse cansa, se echa a dormir."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Whismur",
+    "genus": "Pokémon Sussurro",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Di solito sussurra, ma se avverte un pericolo lancia\ngrida acute, che interrompe quando ha le orecchie\nchiuse."
+      },
+      {
+        "game": "xy-y",
+        "text": "Se sospetta un pericolo, leva grida agli stessi\nassordanti decibel di un jet, gettando nel panico i\nnemici."
+      },
+      {
+        "game": "oras-or",
+        "text": "Normalmente la voce di Whismur è molto tenue, quasi\nimpercettibile, anche se ci si concentra. Tuttavia,\nse questo Pokémon percepisce un pericolo, inizia\na emettere suoni assordanti."
+      },
+      {
+        "game": "oras-as",
+        "text": "Whismur è estremamente timido. Se gli capita di emettere\nsuoni forti, è atterrito nell’udire la sua stessa voce, quindi\nurla ancora più fragorosamente. Quando finalmente si placa,\nva a dormire, spossato."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Il suo grido, che può superare i 100 decibel,\nfa venire mal di testa per tutta la giornata\na chiunque si trovi nelle vicinanze."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Se inizia a gridare, si spaventa al suono della sua\nstessa voce e urla ancora di più. Quando si stanca\ndi urlare, va a dormire."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Whismur",
+    "genus": "Whisper Pokémon",
+    "flavorText": [
+      {
+        "game": "rs-r",
+        "text": "Normally, WHISMUR’s voice is very quiet -\nit is barely audible even if one is\npaying close attention.\fHowever, if this POKéMON senses danger,\nit starts crying at an earsplitting\nvolume."
+      },
+      {
+        "game": "rs-s",
+        "text": "WHISMUR is very timid. If it starts to\ncry loudly, it becomes startled by its\nown crying and cries even harder.\fWhen it finally stops crying, the\nPOKéMON goes to sleep, all tired out."
+      },
+      {
+        "game": "e",
+        "text": "Its cries equal a jet plane in volume.\nIt inhales through its ear canals. Because\nof this system, it can cry continually\nwithout having to catch its breath."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "It usually murmurs, but starts crying\nloudly if it senses danger. It stops when\nits ear covers are shut."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "It usually murmurs, but starts crying\nloudly if it senses danger. It stops when\nits ear covers are shut."
+      },
+      {
+        "game": "dp-d",
+        "text": "Usually, its cries are like quiet\nmurmurs. If frightened, it shrieks\nat the same volume as a jet plane."
+      },
+      {
+        "game": "dp-p",
+        "text": "Usually, its cries are like quiet\nmurmurs. If frightened, it shrieks\nat the same volume as a jet plane."
+      },
+      {
+        "game": "pt",
+        "text": "Usually, its cries are like quiet\nmurmurs. If frightened, it shrieks\nat the same volume as a jet plane."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "If it senses danger, it scares\nthe foe by crying out with the\nvolume of a jet-plane engine."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "If it senses danger, it scares\nthe foe by crying out with the\nvolume of a jet-plane engine."
+      },
+      {
+        "game": "bw-b",
+        "text": "Usually, its cries are like quiet\nmurmurs. If frightened, it shrieks\nat the same volume as a jet plane."
+      },
+      {
+        "game": "bw-w",
+        "text": "Usually, its cries are like quiet\nmurmurs. If frightened, it shrieks\nat the same volume as a jet plane."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "Usually, its cries are like quiet\nmurmurs. If frightened, it shrieks\nat the same volume as a jet plane."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "Usually, its cries are like quiet\nmurmurs. If frightened, it shrieks\nat the same volume as a jet plane."
+      },
+      {
+        "game": "xy-x",
+        "text": "It usually murmurs but starts crying\nloudly if it senses danger. It stops\nwhen its ear covers are shut."
+      },
+      {
+        "game": "xy-y",
+        "text": "If it senses danger, it scares the foe by crying out\nwith the volume of a jet-plane engine."
+      },
+      {
+        "game": "oras-or",
+        "text": "Normally, Whismur’s voice is very quiet—it is barely audible\neven if one is paying close attention. However, if this Pokémon\nsenses danger, it starts crying at an earsplitting volume."
+      },
+      {
+        "game": "oras-as",
+        "text": "Whismur is very timid. If it starts to cry loudly, it becomes\nstartled by its own crying and cries even harder. When it finally\nstops crying, the Pokémon goes to sleep, all tired out."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "The cry of a Whismur is over 100 decibels.\nIf you’re close to a Whismur when it lets out a\ncry, you’ll be stuck with an all-day headache."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "When Whismur cries, the sound of its own voice\nstartles it, making the Pokémon cry even louder.\nIt cries until it’s exhausted, then it falls asleep."
+      }
+    ]
+  },
+  "chs": {
+    "name": "咕妞妞",
+    "genus": "细语宝可梦",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "叫声的音量超过了１００分贝。\n如果听到它在近处大叫，\n之后的一整天都会头痛不止。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "一旦开始喊叫，就会被自己的声音\n惊吓到，然后以更大的声音\n大吼大叫起来。叫累了以后就会睡着，"
+      }
+    ]
+  }
+}

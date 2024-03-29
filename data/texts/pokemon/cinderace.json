@@ -1,0 +1,133 @@
+{
+  "jap": {
+    "name": "エースバーン",
+    "genus": "ストライカーポケモン",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "こいしを　リフティングして　ほのおの\nサッカーボールを　つくる。　するどい\nシュートで　あいてを　もやす。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "こうしゅに　すぐれ　おうえんされると\nさらに　もえるが　スタンドプレイに\nはしり　ピンチを　まねくこともある。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Aceburn",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "에이스번",
+    "genus": "스트라이커포켓몬",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "작은 돌을 리프팅해서 불꽃의\n축구공을 만들고 날카로운\n슛으로 상대를 태워버린다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "공수에 뛰어나고 응원을 받으면\n더 뜨겁게 타오르지만 스탠드 플레이를\n하다가 위기에 처하는 경우도 있다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "閃焰王牌",
+    "genus": "前鋒寶可夢",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "會將小石頭像足球般用腳挑起，\n製造出纏繞著火焰的足球。\n會用猛烈的踢射來燃燒對手。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "擁有熟練的進攻和防守技巧。\n只要得到聲援就會更有衝勁，\n但有時會為了出風頭而弄巧成拙。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Pyrobut",
+    "genus": "Pokémon Buteur",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Il drible avec des pierres pour en faire\ndes ballons enflammés, avant de tirer\nsur ses adversaires pour les brûler."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Exceptionnel en attaque comme en défense,\nil s’exalte quand on l’encourage, mais il lui\narrive de se mettre en danger en jouant solo."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Liberlo",
+    "genus": "Torschützen-Pokémon",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Es jongliert kleine Steine mit den Füßen und\nerschafft daraus einen Flammenfußball. Seine\nGegner verbrennt es mit scharfen Schüssen."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Jubel für besonders gelungene Spielzüge schüren\nseinen Enthusiasmus. Spielt es aber zu sehr für die\nPublikumswirkung, geht dies oft nach hinten los."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Cinderace",
+    "genus": "Pokémon Delantero",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Convierte piedras en balones de fuego dándoles\ntoques y, luego, chuta con fuerza hacia el rival\npara chamuscarlo."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Destaca tanto en ataque como en defensa. Se\ncrece cuando recibe una ovación, pero a veces\nse luce tanto que termina viéndose en apuros."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Cinderace",
+    "genus": "Pokémon Cannoniere",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Crea un pallone da calcio infuocato palleggiando\ncon un sasso e poi tira una cannonata contro\nil nemico per abbrustolirlo."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Eccelle in attacco e in difesa. Se sente il tifo, a\nvolte si fa prendere dall’entusiasmo e inizia a\ndare spettacolo, finendo per trovarsi in difficoltà."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Cinderace",
+    "genus": "Striker Pokémon",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "It juggles a pebble with its feet, turning it into a\nburning soccer ball. Its shots strike opponents\nhard and leave them scorched."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "It’s skilled at both offense and defense, and it\ngets pumped up when cheered on. But if it starts\nshowboating, it could put itself in a tough spot."
+      }
+    ]
+  },
+  "chs": {
+    "name": "闪焰王牌",
+    "genus": "前锋宝可梦",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "会将小石头像足球般用脚挑起，\n制造出缠绕着火焰的足球。\n会用猛烈的踢射来燃烧对手。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "拥有熟练的进攻和防守技巧。\n只要得到声援就会更有冲劲，\n但有时会为了出风头而弄巧成拙。"
+      }
+    ]
+  }
+}

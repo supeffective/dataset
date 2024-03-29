@@ -1,0 +1,245 @@
+{
+  "jap": {
+    "name": "ニダンギル",
+    "genus": "とうけんポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "しんかして　２ほんに　ぶんれつした。\nテレパシーで　かいわして　れんけい\nこうげきで　てきを　きりきざむ。"
+      },
+      {
+        "game": "xy-y",
+        "text": "２ほんの　つるぎによる　ふくざつな\nれんぞく　こうげきを　ふせぐことは\nけんの　たつじんでも　ふかのうだ。"
+      },
+      {
+        "game": "oras-or",
+        "text": "しんかして　２ほんに　ぶんれつした。\nテレパシーで　かいわして　れんけい\nこうげきで　てきを　きりきざむ。"
+      },
+      {
+        "game": "oras-as",
+        "text": "２ほんの　つるぎによる　ふくざつな\nれんぞく　こうげきを　ふせぐことは\nけんの　たつじんでも　ふかのうだ。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "しんかして　ふたごに　なった。\nやいばを　こすりあわせて　ならす\nきんぞくおんで　あいてを　いかく。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "２ほんの　つるぎは　こうげきと\nぼうぎょが　めまぐるしく　いれかわる\nせんぽうで　えものを　しとめる。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Nidangill",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "쌍검킬",
+    "genus": "도검포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "진화하여 2자루로 분열되었다.\n텔레파시로 서로 대화하며\n연계 공격으로 적을 조각낸다."
+      },
+      {
+        "game": "xy-y",
+        "text": "2자루의 검에 의한 복잡한\n연속 공격을 막는 것은\n검의 달인일지라도 불가능하다."
+      },
+      {
+        "game": "oras-or",
+        "text": "진화하여 2자루로 분열되었다.\n텔레파시로 서로 대화하며\n연계 공격으로 적을 조각낸다."
+      },
+      {
+        "game": "oras-as",
+        "text": "2자루의 검에 의한 복잡한\n연속 공격을 막는 것은\n검의 달인일지라도 불가능하다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "진화해서 쌍둥이가 되었다.\n칼날을 맞부딪혀서 내는\n금속음으로 상대를 위협한다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "2자루의 검이 공격과 방어를\n어지러울 정도로 빠르게 바꾸는\n전법으로 먹이의 숨통을 끊는다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "雙劍鞘",
+    "genus": "刀劍寶可夢",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "進化之後變成了雙胞胎。\n用互相摩擦劍刃發出的\n聲音來威嚇對手。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "２把劍會用令人眼花繚亂的\n速度不斷交替攻擊和防禦，\n藉以制服獵物。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Dimoclès",
+    "genus": "Pokémon Glaive",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "En évoluant, Monorpale se divise en deux épées qui\ncommuniquent par télépathie pour mieux découper\nleur adversaire en morceaux."
+      },
+      {
+        "game": "xy-y",
+        "text": "Même les sabreurs chevronnés sont incapables\nde parer les assauts continus et complexes menés\nde concert par ces deux épées."
+      },
+      {
+        "game": "oras-or",
+        "text": "En évoluant, Monorpale se divise en deux épées qui\ncommuniquent par télépathie pour mieux découper\nleur adversaire en morceaux."
+      },
+      {
+        "game": "oras-as",
+        "text": "Même les sabreurs chevronnés sont incapables de parer\nles assauts continus et complexes menés de concert\npar ces deux épées."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Il s’est dédoublé en évoluant.\nIl intimide ses ennemis à grands coups de bruits\nmétalliques en entrechoquant ses deux lames."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Ses deux lames abattent leurs proies\nen enchaînant les attaques et les parades\nà un rythme effréné."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Duokles",
+    "genus": "Klingenkraft-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Bei seiner Entwicklung hat es sich in zwei Schwerter\ngeteilt. Es begegnet seinen Gegnern mit Attacken,\ndie es mittels Telepathie koordiniert."
+      },
+      {
+        "game": "xy-y",
+        "text": "Nicht einmal ein Meister des Schwertkampfs kann\nden komplizierten aufeinanderfolgenden Angriffen\nder zwei Schwerter ausweichen."
+      },
+      {
+        "game": "oras-or",
+        "text": "Bei seiner Entwicklung hat es sich in zwei Schwerter geteilt.\nEs begegnet seinen Gegnern mit Attacken, die es mittels\nTelepathie koordiniert."
+      },
+      {
+        "game": "oras-as",
+        "text": "Nicht einmal ein Meister des Schwertkampfs kann\nden komplizierten aufeinanderfolgenden Angriffen\nder zwei Schwerter ausweichen."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Bei der Entwicklung hat es sich verdoppelt. Es\nreibt seine Klingen aneinander, um Gegner mit\neinem metallenen Geräusch einzuschüchtern."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Seine zwei Schwerter wechseln sich in einer\nhektischen Aufeinanderfolge von Angriff und\nVerteidigung ab, um seine Beute zu erlegen."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Doublade",
+    "genus": "Pokémon Tizona",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Al evolucionar se divide en dos espadas.\nSe comunican entre sí mediante telepatía y\ncoordinan los ataques para rebanar al enemigo."
+      },
+      {
+        "game": "xy-y",
+        "text": "Ni siquiera el espadachín más ducho conseguiría\nesquivar los complejos ataques que encadenan\nambas espadas a la vez."
+      },
+      {
+        "game": "oras-or",
+        "text": "Al evolucionar se divide en dos espadas. Se comunican entre\nsí mediante telepatía y coordinan los ataques para rebanar al\nenemigo."
+      },
+      {
+        "game": "oras-as",
+        "text": "Ni siquiera el espadachín más ducho conseguiría esquivar los\ncomplejos ataques que encadenan ambas espadas a la vez."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Su espada se duplicó durante su proceso de\nevolución. Intimida a los rivales con el chirrido\nmetálico que produce al frotar ambas hojas."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Su táctica para abatir a las presas consiste en\nalternar ataque y defensa de forma frenética\nentre ambas espadas."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Doublade",
+    "genus": "Pokémon Armabianca",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Sdoppiatesi con l’evoluzione, le due parti comunicano\ntelepaticamente per lanciarsi in un attacco coordinato."
+      },
+      {
+        "game": "xy-y",
+        "text": "I fendenti vorticosi e velocissimi delle due spade\npossono mettere in ginocchio anche gli spadaccini\npiù esperti."
+      },
+      {
+        "game": "oras-or",
+        "text": "Sdoppiatesi con l’evoluzione, le due parti comunicano\ntelepaticamente per lanciarsi in un attacco coordinato."
+      },
+      {
+        "game": "oras-as",
+        "text": "I fendenti vorticosi e velocissimi delle due spade possono\nmettere in ginocchio anche gli spadaccini più esperti."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Si è duplicato con l’evoluzione. Minaccia\nl’avversario con il suono metallico che\nproduce sfregando le sue due lame."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Le due spade abbattono la preda alternando\nmosse di attacco e di difesa a un ritmo\nvertiginoso."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Doublade",
+    "genus": "Sword Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "When Honedge evolves, it divides into two swords,\nwhich cooperate via telepathy to coordinate attacks\nand slash their enemies to ribbons."
+      },
+      {
+        "game": "xy-y",
+        "text": "The complex attack patterns of its two swords\nare unstoppable, even for an opponent\ngreatly accomplished at swordplay."
+      },
+      {
+        "game": "oras-or",
+        "text": "When Honedge evolves, it divides into two swords,\nwhich cooperate via telepathy to coordinate attacks\nand slash their enemies to ribbons."
+      },
+      {
+        "game": "oras-as",
+        "text": "The complex attack patterns of its two swords\nare unstoppable, even for an opponent\ngreatly accomplished at swordplay."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Honedge evolves into twins. The two blades\nrub together to emit a metallic sound that\nunnerves opponents."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "The two swords employ a strategy of rapidly\nalternating between offense and defense to\nbring down their prey."
+      }
+    ]
+  },
+  "chs": {
+    "name": "双剑鞘",
+    "genus": "刀剑宝可梦",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "进化之后变成了双胞胎。\n用互相摩擦剑刃发出的\n金属音来威吓对手。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "２把剑会用令人眼花缭乱的\n速度不断交替攻击和防御，\n借以制服猎物。"
+      }
+    ]
+  }
+}

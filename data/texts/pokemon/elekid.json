@@ -1,0 +1,469 @@
+{
+  "jap": {
+    "name": "エレキッド",
+    "genus": "でんきポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "りょううでを　ぐるぐる　ふりまわして\nでんきを　はっせいさせる。しかし\nつくった　でんきは　ためておけない。"
+      },
+      {
+        "game": "xy-y",
+        "text": "りょううでを　ぐるぐる　まわして\nでんきを　はっせい　させると\nツノのあいだが　あおじろく　ひかる。"
+      },
+      {
+        "game": "oras-or",
+        "text": "きんぞくに　さわって　からだに　ためた　でんきが\nほうでん　してしまうと　りょううでを　ぐるぐる\nまわして　ふたたび　でんきを　ためる。"
+      },
+      {
+        "game": "oras-as",
+        "text": "きんぞくに　さわって　からだに　ためた　でんきが\nほうでん　してしまうと　りょううでを　ぐるぐる\nまわして　ふたたび　でんきを　ためる。"
+      },
+      {
+        "game": "sm-s",
+        "text": "いえに　いるときは　コンセントが\nほにゅうびん　がわり。　でんきを\nちゅうちゅう　すってるよ。"
+      },
+      {
+        "game": "sm-m",
+        "text": "でんきを　うばいにきた　トゲデマルと\nしょっちゅう　ケンカ。　けっかは\nだいたい　ごかくと　いった　ところ。"
+      },
+      {
+        "game": "usum-us",
+        "text": "かみなりの　おちる　おとを　きくと\nごきげん。　おちこんだときの　ために\nろくおん　しておくと　べんりだよ。"
+      },
+      {
+        "game": "usum-um",
+        "text": "ツノが　あおじろく　ひかったときが\nじゅうでん　かんりょうの　サイン。\nさわると　ビリリと　しびれるぞ。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "あらしが　ちかづくと　おちつきが\nなくなる。　かみなりの　おとが\nきこえると　たまらず　さわぎだす。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "まだ　でんきを　ためるのが　へた。\nでんきを　たべるために　みんかに\nしのびこみ　コンセントを　さがす。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Elekid",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "에레키드",
+    "genus": "전류포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "양팔을 빙글빙글 휘둘러서\n전기를 발생시킨다. 그러나\n만들어낸 전기는 모아둘 수 없다."
+      },
+      {
+        "game": "xy-y",
+        "text": "양팔을 빙글빙글 돌려\n전기를 발생시키면\n뿔 사이가 푸르스름하게 빛난다."
+      },
+      {
+        "game": "oras-or",
+        "text": "금속을 만져서 몸에 모은 전기가\n방전돼버리면 양손을 빙글빙글\n돌려서 다시 전기를 모은다."
+      },
+      {
+        "game": "oras-as",
+        "text": "금속을 만져서 몸에 모은 전기가\n방전돼버리면 양손을 빙글빙글\n돌려서 다시 전기를 모은다."
+      },
+      {
+        "game": "sm-s",
+        "text": "집에 있을 때는 콘센트가\n젖병 대신이다. 전기를\n쪽쪽 빨고 있다."
+      },
+      {
+        "game": "sm-m",
+        "text": "전기를 빼앗으러 온\n토게데마루와 늘 싸운다.\n결과는 거의 무승부."
+      },
+      {
+        "game": "usum-us",
+        "text": "번개 소리를 들으면 기분이 좋아진다.\n우울해질 때를 대비해서\n녹음해 두면 편리하다."
+      },
+      {
+        "game": "usum-um",
+        "text": "뿔이 푸르스름하게 빛날 때가\n충전이 완료되었다는 신호다.\n만지면 찌릿하게 저리다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "폭풍우가 다가오면 안절부절못한다.\n천둥소리가 들리면\n참지 못하고 동요하기 시작한다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "아직 전기를 모으는 게 서툴다.\n전기를 먹기 위해 민가에\n숨어들어 콘센트를 찾는다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "電擊怪",
+    "genus": "電氣寶可夢",
+    "flavorText": [
+      {
+        "game": "sm-m",
+        "text": "常常跟來搶奪電力的\n托戈德瑪爾打架。\n結果通常是不分上下。"
+      },
+      {
+        "game": "sm-s",
+        "text": "在家的時候，插座就相當於奶瓶。\n會啜啜地吸取電力哦。"
+      },
+      {
+        "game": "usum-us",
+        "text": "聽到打雷的聲音就會很高興。\n如果能先把打雷的聲音錄下來，\n當牠心情低落的時候會很好用。"
+      },
+      {
+        "game": "usum-um",
+        "text": "當角發出青白色亮光時，\n就代表充電已經完成了。\n如果去摸就會被電到麻痺。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "暴風雨靠近時就會變得\n坐立難安。一聽到打雷聲，\n就會按捺不住地吵鬧起來。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "還不擅長儲存電力。\n為了吸食電力，會偷偷\n潛入民宅尋找插座。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Élekid",
+    "genus": "Pokémon Électrique",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Un faible courant électrique circule\nentre ses cornes. Attention à ne\npas y mettre la main!"
+      },
+      {
+        "game": "bw-w",
+        "text": "Un faible courant électrique circule\nentre ses cornes. Attention à ne\npas y mettre la main!"
+      },
+      {
+        "game": "xy-x",
+        "text": "Il génère de l’électricité en battant des bras, mais\nil n’a aucun moyen de stocker cette énergie."
+      },
+      {
+        "game": "xy-y",
+        "text": "Ses cornes s’illuminent lorsqu’il fait tourner ses bras\npour générer de l’électricité."
+      },
+      {
+        "game": "oras-or",
+        "text": "Élekid stocke de l’électricité dans son corps. S’il touche\ndu métal et décharge sans le faire exprès son électricité,\nce Pokémon fait des cercles avec ses bras pour se recharger."
+      },
+      {
+        "game": "oras-as",
+        "text": "Élekid stocke de l’électricité dans son corps. S’il touche\ndu métal et décharge sans le faire exprès son électricité,\nce Pokémon fait des cercles avec ses bras pour se recharger."
+      },
+      {
+        "game": "sm-s",
+        "text": "Ce Pokémon « tète » les prises électriques\ndes maisons comme s’il s’agissait de biberons\nde lait, et ce jusqu’au dernier ampère."
+      },
+      {
+        "game": "sm-m",
+        "text": "Togedemaru et lui se disputent les mêmes\nsources d’électricité. Leurs combats\nse terminent souvent par une égalité."
+      },
+      {
+        "game": "usum-us",
+        "text": "Il adore le bruit de la foudre. Si vous\nl’enregistrez, vous pouvez le lui diffuser\nà loisir pour le mettre de bonne humeur."
+      },
+      {
+        "game": "usum-um",
+        "text": "Lorsqu’il est chargé à bloc, ses cornes émettent\nune lueur bleuâtre. Attention à ne pas les\ntoucher ou vous risquez l’électrocution !"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Il ne tient plus en place quand un orage\napproche. Lorsqu’il entend le tonnerre\ngronder, il devient tout excité."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Il a encore du mal à emmagasiner l’électricité.\nPour s’en nourrir, il se faufile dans les maisons\nà la recherche de prises électriques."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Elekid",
+    "genus": "Elektro-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Es bewegt seine Arme und generiert damit\nElektrizität. Diese kann es aber nicht speichern."
+      },
+      {
+        "game": "xy-y",
+        "text": "Wenn es seine Arme kreisen lässt, um Strom\nzu erzeugen, entstehen zwischen seinen Hörnern\nhellblaue Funken."
+      },
+      {
+        "game": "oras-or",
+        "text": "Elekid speichert Elektrizität in seinem Körper. Wenn es Metall\nberührt und versehentlich die aufgestaute Energie entlädt,\nrotiert es mit den Armen, um sich wieder aufzuladen."
+      },
+      {
+        "game": "oras-as",
+        "text": "Elekid speichert Elektrizität in seinem Körper. Wenn es Metall\nberührt und versehentlich die aufgestaute Energie entlädt,\nrotiert es mit den Armen, um sich wieder aufzuladen."
+      },
+      {
+        "game": "sm-s",
+        "text": "Daheim hängt es an der Steckdose wie an\neinem Babyfläschchen und nuckelt genüsslich\nden Strom."
+      },
+      {
+        "game": "sm-m",
+        "text": "Es muss sich oft mit Togedemaru herumärgern,\ndas ihm Strom klauen will. Ihre Raufereien enden\njedoch meist unentschieden."
+      },
+      {
+        "game": "usum-us",
+        "text": "Elekid freut sich, wenn es Donner hört. Es lohnt\nsich, das Geräusch aufzunehmen und es ihm\nvorzuspielen, wenn es mal schlecht drauf ist."
+      },
+      {
+        "game": "usum-um",
+        "text": "Seine Hörner leuchten weiß-blau, wenn es sich\nfertig aufgeladen hat. Fasst man es dann an,\nbekommt man einen Schlag und wird gelähmt."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Nähert sich ein Sturm, wird Elekid unruhig.\nSobald es Donnergrollen hört, ist es nicht\nmehr zu halten und fängt an zu toben."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Es kann Elektrizität noch nicht so gut speichern.\nUm sich diese einzuverleiben, schleicht es sich\nauf der Suche nach Steckdosen in fremde Häuser."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Elekid",
+    "genus": "Pokémon Eléctrico",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Genera electricidad girando los brazos. No obstante,\nes incapaz de almacenar la energía creada."
+      },
+      {
+        "game": "xy-y",
+        "text": "Al girar ambos brazos para generar electricidad, sus\ncuernos se iluminan con una luz blanquecina."
+      },
+      {
+        "game": "oras-or",
+        "text": "Elekid acumula electricidad. Si entra en contacto con algo de\nmetal y descarga accidentalmente toda la electricidad\nalmacenada, empieza a agitar los brazos en círculo para volver\na cargarse."
+      },
+      {
+        "game": "oras-as",
+        "text": "Elekid acumula electricidad. Si entra en contacto con algo de\nmetal y descarga accidentalmente toda la electricidad\nalmacenada, empieza a agitar los brazos en círculo para volver\na cargarse."
+      },
+      {
+        "game": "sm-s",
+        "text": "Cuando está en una casa, usa los enchufes de\nla pared a modo de biberones. Le encanta\nchupar electricidad."
+      },
+      {
+        "game": "sm-m",
+        "text": "Los Togedemaru siempre intentan robarles la\nelectricidad, lo que suele terminar en combates\nmuy reñidos."
+      },
+      {
+        "game": "usum-us",
+        "text": "El ruido de los truenos le mejora el ánimo.\nConviene tener a mano una grabación para\ncuando esté en horas bajas."
+      },
+      {
+        "game": "usum-um",
+        "text": "Cuando se carga de electricidad, sus cuernos\nemiten una luz blanquecina. Quien lo toque\nrecibirá un potente calambrazo."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Cuando se acerca una tormenta, pierde la\ncompostura. Si oye el sonido de un trueno,\nno se puede contener y monta un revuelo."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "No se le da bien acumular electricidad, por lo\nque se cuela en las casas en busca de enchufes\npara alimentarse."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Elekid",
+    "genus": "Pokémon Elettrico",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Genera elettricità roteando le braccia. Tuttavia,\nnon riesce a immagazzinare l’energia creata."
+      },
+      {
+        "game": "xy-y",
+        "text": "Quando rotea le braccia per produrre elettricità, le\nsue corna si illuminano."
+      },
+      {
+        "game": "oras-or",
+        "text": "Elekid immagazzina elettricità nel corpo. Se, a contatto\ncol metallo, scarica accidentalmente l’elettricità accumulata,\ninizia a far oscillare gli arti superiori con movimenti circolari\nper ricaricarsi."
+      },
+      {
+        "game": "oras-as",
+        "text": "Elekid immagazzina elettricità nel corpo. Se, a contatto\ncol metallo, scarica accidentalmente l’elettricità accumulata,\ninizia a far oscillare gli arti superiori con movimenti circolari\nper ricaricarsi."
+      },
+      {
+        "game": "sm-s",
+        "text": "Quando si trova in una casa, succhia l’energia\nelettrica attaccandosi alle prese di corrente."
+      },
+      {
+        "game": "sm-m",
+        "text": "Spesso si azzuffa con i Togedemaru che\nentrano in casa per rubare l’energia elettrica.\nIn genere, i loro scontri finiscono in parità."
+      },
+      {
+        "game": "usum-us",
+        "text": "Il rombo dei tuoni lo mette di buon umore, perciò\nè utile averne una registrazione a portata\ndi mano per quando è triste."
+      },
+      {
+        "game": "usum-um",
+        "text": "Quando le corna si illuminano di una luce\nbiancastra dalle sfumature blu, è carico di\nelettricità. Chi lo tocca rimane fulminato."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Quando si sta per scatenare una tempesta perde\nil controllo. Si fa prendere dall’agitazione\nse sente il rombo dei tuoni."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Non è ancora abile nell’immagazzinare elettricità.\nSi intrufola nelle abitazioni in cerca di prese\ndi corrente, che sfrutta per nutrirsi."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Elekid",
+    "genus": "Electric Pokémon",
+    "flavorText": [
+      {
+        "game": "gs-g",
+        "text": "It rotates its\narms to generate\nelectricity, but\fit tires easily,\nso it charges up\nonly a little bit."
+      },
+      {
+        "game": "gs-s",
+        "text": "Even in the most\nvicious storm,\nthis POKéMON plays\fhappily if thunder\nrumbles in the\nsky."
+      },
+      {
+        "game": "c",
+        "text": "It loves violent\nthunder. The space\nbetween its horns\fflickers bluish-\nwhite when it is\ncharging energy."
+      },
+      {
+        "game": "rs-r",
+        "text": "ELEKID stores electricity in its body.\nIf it touches metal and accidentally\ndischarges all its built-up electricity,\fthis POKéMON begins swinging its arms\nin circles to recharge itself."
+      },
+      {
+        "game": "rs-s",
+        "text": "ELEKID stores electricity in its body.\nIf it touches metal and accidentally\ndischarges all its built-up electricity,\fthis POKéMON begins swinging its arms\nin circles to recharge itself."
+      },
+      {
+        "game": "e",
+        "text": "If it touches metal and discharges the\nelectricity it has stored in its body, an\nELEKID begins swinging its arms in circles\nto recharge itself."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "Even in the most vicious storm, this\nPOKéMON plays happily if thunder rumbles\nin the sky."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "It rotates its arms to generate\nelectricity, but it tires easily, so it\ncharges up only a little bit."
+      },
+      {
+        "game": "dp-d",
+        "text": "It generates electricity by\nwhirling its arms. However, it\ncan’t store the energy it makes."
+      },
+      {
+        "game": "dp-p",
+        "text": "It generates electricity by\nwhirling its arms. However, it\ncan’t store the energy it makes."
+      },
+      {
+        "game": "pt",
+        "text": "A weak electric current flows\nbetween its horns. Sticking a hand\nthere shocks the unwary."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "It rotates its arms to generate\nelectricity, but it tires easily,\nso it only charges up a little bit."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "Even in the most vicious storm,\nthis Pokémon plays happily if thunder\nrumbles in the sky."
+      },
+      {
+        "game": "bw-b",
+        "text": "A weak electric current flows\nbetween its horns. Sticking a hand\nthere shocks the unwary."
+      },
+      {
+        "game": "bw-w",
+        "text": "A weak electric current flows\nbetween its horns. Sticking a hand\nthere shocks the unwary."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "Spinning its arms around\nto generate electricity makes the area\nbetween its horns shine light blue."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "Spinning its arms around\nto generate electricity makes the area\nbetween its horns shine light blue."
+      },
+      {
+        "game": "xy-x",
+        "text": "It generates electricity by whirling its arms.\nHowever, it can’t store the energy it makes."
+      },
+      {
+        "game": "xy-y",
+        "text": "Spinning its arms around to generate electricity\nmakes the area between its horns shine light blue."
+      },
+      {
+        "game": "oras-or",
+        "text": "Elekid stores electricity in its body. If it touches metal and\naccidentally discharges all its built-up electricity, this Pokémon\nbegins swinging its arms in circles to recharge itself."
+      },
+      {
+        "game": "oras-as",
+        "text": "Elekid stores electricity in its body. If it touches metal and\naccidentally discharges all its built-up electricity, this Pokémon\nbegins swinging its arms in circles to recharge itself."
+      },
+      {
+        "game": "sm-s",
+        "text": "When it’s in a house, electrical outlets serve as\nits baby bottles. It sucks down electricity."
+      },
+      {
+        "game": "sm-m",
+        "text": "This Pokémon is constantly fighting with\nTogedemaru that try to steal its electricity.\nIt’s a pretty even match."
+      },
+      {
+        "game": "usum-us",
+        "text": "When it hears the crash of thunder, Elekid’s\nmood improves. It can be useful to record that\nsound and play it when Elekid’s feeling down."
+      },
+      {
+        "game": "usum-um",
+        "text": "When its horns shine a bluish white, that’s the\nsign it’s fully charged. You’ll get a shocking\njolt if you touch it!"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "When a storm approaches, this Pokémon gets\nrestless. Once Elekid hears the sound of thunder,\nit gets full-on rowdy."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "It’s not good at storing electricity yet. This\nPokémon sneaks into people’s homes, looking\nfor electrical outlets to eat electricity from."
+      },
+      {
+        "game": "la",
+        "text": "They generate electricity by spinning their arms. During a\nthunderstorm, if one hears the lively voices of children out in the\nwilderness, what one is actually hearing are the voices of Elekid."
+      }
+    ]
+  },
+  "chs": {
+    "name": "电击怪",
+    "genus": "电气宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "在家的时候，插座就相当于奶瓶。\n可以从中滋滋地吸取电力哦。"
+      },
+      {
+        "game": "sm-m",
+        "text": "与过来抢夺电的托戈德玛尔经常发生斗殴。\n胜负大体上可以说是不相上下。"
+      },
+      {
+        "game": "usum-us",
+        "text": "听到打雷的声音会很高兴。如果事先\n将打雷的声音录下来，那么在它消沉的\n时候就能很方便地放给它听了哦。"
+      },
+      {
+        "game": "usum-um",
+        "text": "当角发出青白色亮光时，\n就表示充电已经完成了。\n如果去摸，就会被电得麻麻的。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "一旦暴风雨将至\n就会变得非常浮躁。\n听到雷鸣便会难掩兴奋。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "储存电力的本领还不到家。\n为了吸取电力，会偷偷\n潜入民宅寻找插座。"
+      }
+    ]
+  }
+}

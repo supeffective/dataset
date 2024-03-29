@@ -1,0 +1,549 @@
+{
+  "jap": {
+    "name": "カラカラ",
+    "genus": "こどくポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "しにわかれた　ははおやの　ほねを\nあたまに　かぶっている。さびしいとき\nおおごえで　なくという。"
+      },
+      {
+        "game": "xy-y",
+        "text": "しにわかれた　ははおやの　ホネを\nいつも　かぶっているので\nすがおが　どんなふうか　わからない。"
+      },
+      {
+        "game": "oras-or",
+        "text": "２どと　あえない　ははおやの　おもかげを\nまんげつに　みつけて　なきごえを　あげる。\nかぶっている　ホネの　しみは　なみだの　あと。"
+      },
+      {
+        "game": "oras-as",
+        "text": "２どと　あえない　ははおやの　おもかげを\nまんげつに　みつけて　なきごえを　あげる。\nかぶっている　ホネの　しみは　なみだの　あと。"
+      },
+      {
+        "game": "sm-s",
+        "text": "しにわかれた　ははを　おもいだして\nおおごえで　なく。　こえをききつけた\nバルジーナに　そらから　ねらわれる。"
+      },
+      {
+        "game": "sm-m",
+        "text": "あたまに　かぶった　ずがいこつは\nしんだ　ははおや。　しの　かなしみを\nのりこえたとき　しんかする　という。"
+      },
+      {
+        "game": "usum-us",
+        "text": "なくした　ははおやを　おもい　よるに\nなきさけぶが　そのせいで　てんてきの\nバルジーナに　みつかってしまう。"
+      },
+      {
+        "game": "usum-um",
+        "text": "ははおやの　ホネを　かぶっているので\nすがおも　ひょうじょうも　わからない。\nただ　いつも　ずっと　ないているぞ。　"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "しんだ　ははおやの　ホネを　かぶる。\nなきごえは　ホネのなかで　ひびいて\nものがなしい　メロディになる。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "しんだ　ははおやの　ホネを　かぶる。\nなきごえは　ホネのなかで　ひびいて\nものがなしい　メロディになる。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "しにわかれた　ははおやを　おもいだし\nなくと　あたまに　かぶった　ホネの\nなかで　ものがなしく　ひびくのだ。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "しんだ　ははおやの　ホネを　かぶる。\nゆめを　みて　なくことも　あるけれど\nなみだを　ながすたびに　つよくなる。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Karakara",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "탕구리",
+    "genus": "고독포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "죽은 어미의 해골을\n머리에 쓰고 있다. 외로울 때는\n큰 소리로 운다고 한다."
+      },
+      {
+        "game": "xy-y",
+        "text": "죽은 어미의 해골을\n항상 뒤집어쓰고 있어서\n얼굴이 어떻게 생겼는지 모른다."
+      },
+      {
+        "game": "oras-or",
+        "text": "두 번 다시 만나지 못하는 어미의 모습을\n보름달에서 발견하고 울음소리를 낸다.\n뒤집어쓰고 있는 뼈의 얼룩은 눈물 자국이다."
+      },
+      {
+        "game": "oras-as",
+        "text": "두 번 다시 만나지 못하는 어미의 모습을\n보름달에서 발견하고 울음소리를 낸다.\n뒤집어쓰고 있는 뼈의 얼룩은 눈물 자국이다."
+      },
+      {
+        "game": "sm-s",
+        "text": "사별한 어머니를 생각하며\n큰 소리로 운다. 목소리를 들은\n버랜지나가 하늘에서 노린다."
+      },
+      {
+        "game": "sm-m",
+        "text": "머리에 뒤집어쓴 두개골은\n죽은 어미의 것. 죽음의 슬픔을\n뛰어넘었을 때 진화한다고 전해진다."
+      },
+      {
+        "game": "usum-us",
+        "text": "밤이 되면 죽은 엄마를 생각하며\n울부짖는데, 그 탓에 천적인\n버랜지나에게 발각된다."
+      },
+      {
+        "game": "usum-um",
+        "text": "어미의 뼈를 뒤집어쓰고 있어서\n얼굴도 표정도 알 수 없다.\n그저 언제나 계속해서 울고 있다."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "죽은 어미의 뼈를 뒤집어썼다.\n울음소리는 뼈 안에서 울려서\n구슬픈 멜로디가 된다."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "죽은 어미의 뼈를 뒤집어썼다.\n울음소리는 뼈 안에서 울려서\n구슬픈 멜로디가 된다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "죽은 어머니를 떠올리며 울면\n머리에 쓴 뼈 안에서\n울음소리가 구슬프게 퍼진다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "죽은 어미의 뼈를 머리에 쓰고 있다.\n어미의 꿈을 꾸고 울기도 하지만\n눈물을 흘릴 때마다 강해진다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "卡拉卡拉",
+    "genus": "孤獨寶可夢",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "想起與自己死別的母親\n而大聲哭泣，被聽到聲音的\n禿鷹娜從空中襲擊。"
+      },
+      {
+        "game": "sm-m",
+        "text": "頭上戴著的是死去母親的\n頭蓋骨。據說，當牠擺脫\n母親死亡的悲痛時就會進化。"
+      },
+      {
+        "game": "usum-us",
+        "text": "因為思念死去的母親，\n會在夜裡大聲哭叫，\n導致自己被天敵禿鷹娜發現。"
+      },
+      {
+        "game": "usum-um",
+        "text": "頭上戴著母親的骨頭，\n所以看不見牠的長相和表情，\n只知道牠一直在哭泣。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "頭上戴著死去母親的頭骨。\n牠的叫聲會在頭骨內迴響，\n形成哀傷的旋律。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "頭上戴著死去母親的頭骨。\n牠的叫聲會在頭骨內迴響，\n形成哀傷的旋律。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "當牠想起與自己死別的\n母親而哭泣時，哭聲就會在\n頭上戴的骨頭中哀傷地迴盪。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "頭上戴著死去母親的頭骨。\n雖然有時會因為作夢而哭泣，\n但每次流淚後都會變得更強。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Osselait",
+    "genus": "Pokémon Solitaire",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Il pleure en pensant à sa mère\ndisparue, et ses larmes résonnent\ndans son crâne creux."
+      },
+      {
+        "game": "bw-w",
+        "text": "Il pleure en pensant à sa mère\ndisparue, et ses larmes résonnent\ndans son crâne creux."
+      },
+      {
+        "game": "xy-x",
+        "text": "Ce Pokémon porte le crâne de sa défunte mère sur\nsa tête. On raconte qu’il se met à pleurer dès qu’il\nse retrouve seul."
+      },
+      {
+        "game": "xy-y",
+        "text": "Il porte constamment le crâne de sa mère.\nPersonne ne sait à quoi il ressemble sans ce crâne."
+      },
+      {
+        "game": "oras-or",
+        "text": "La maman d’Osselait lui manque terriblement et il ne la reverra\njamais. La lune le fait pleurer, car elle lui rappelle sa mère.\nLes taches sur le crâne que porte ce Pokémon sont\nles marques de ses larmes."
+      },
+      {
+        "game": "oras-as",
+        "text": "La maman d’Osselait lui manque terriblement et il ne la reverra\njamais. La lune le fait pleurer, car elle lui rappelle sa mère.\nLes taches sur le crâne que porte ce Pokémon sont\nles marques de ses larmes."
+      },
+      {
+        "game": "sm-s",
+        "text": "Quand il se souvient de la mort de sa mère,\nil pleure à grands sanglots. Les Vaututrice\nentendent ces cris et fondent sur leur proie."
+      },
+      {
+        "game": "sm-m",
+        "text": "Le crâne qu’il porte sur la tête est celui de sa\nmère décédée. On dit qu’il évolue lorsqu’il\nparvient à surpasser la douleur de sa mort."
+      },
+      {
+        "game": "usum-us",
+        "text": "La nuit, il pense avec nostalgie à sa défunte\nmère et éclate en sanglots. Vaututrice, son\nprédateur, le localise au son de ses pleurs."
+      },
+      {
+        "game": "usum-um",
+        "text": "Comme il porte le crâne de sa mère sur sa tête,\nnul ne connaît son vrai visage. Une seule chose\nest sûre : il ne cesse de pleurer."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Il porte le crâne de sa défunte mère.\nSes pleurs résonnent dans son casque\nen une triste mélodie."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Il porte le crâne de sa défunte mère.\nSes pleurs résonnent dans son casque\nen une triste mélodie."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Lorsqu’il repense à sa mère défunte,\nses sanglots résonnent tristement sous\nle crâne qu’il porte sur la tête."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Il porte sur sa tête le crâne de sa défunte mère.\nIl lui arrive de rêver d’elle et de pleurer, mais\nchaque larme qu’il verse le rend plus fort."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Tragosso",
+    "genus": "Einsam-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Es trägt den Schädel seiner verstorbenen Mutter auf\nseinem Kopf. Fühlt es sich einsam, soll es laut weinen."
+      },
+      {
+        "game": "xy-y",
+        "text": "Es trägt immer den Schädel seiner verstorbenen\nMutter. Darum weiß niemand, wie sein Gesicht\naussieht."
+      },
+      {
+        "game": "oras-or",
+        "text": "Tragosso sehnt sich nach seiner Mutter, die nicht mehr da ist.\nWenn es im Vollmond das Ebenbild seiner Mutter erblickt,\nmuss es weinen. Die Flecken auf dem Totenkopf, den es trägt,\nstammen von vergossenen Tränen."
+      },
+      {
+        "game": "oras-as",
+        "text": "Tragosso sehnt sich nach seiner Mutter, die nicht mehr da ist.\nWenn es im Vollmond das Ebenbild seiner Mutter erblickt,\nmuss es weinen. Die Flecken auf dem Totenkopf, den es trägt,\nstammen von vergossenen Tränen."
+      },
+      {
+        "game": "sm-s",
+        "text": "Denkt es an seine verstorbene Mutter, weint es\nlaut. Hört dies ein Grypheldis, nutzt dieses die\nGelegenheit, um es aus der Luft anzugreifen."
+      },
+      {
+        "game": "sm-m",
+        "text": "Der Schädel auf seinem Kopf gehörte seiner\nverstorbenen Mutter. Überwindet es diesen\nVerlust, setzt angeblich die Entwicklung ein."
+      },
+      {
+        "game": "usum-us",
+        "text": "Nachts weint es laut, weil es seine verstorbene\nMutter vermisst. Dadurch wird jedoch sein\nnatürlicher Feind Grypheldis auf es aufmerksam."
+      },
+      {
+        "game": "usum-um",
+        "text": "Da es den Schädel seiner Mutter auf dem Kopf\nträgt, weiß man nicht, wie sein Gesicht aussieht.\nBekannt ist nur, dass es ständig weint."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Es trägt den Schädel seiner Mutter als Maske.\nSein Weinen hallt darin wider und wird zu einer\ntraurigen Melodie."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Es trägt den Schädel seiner Mutter als Maske.\nSein Weinen hallt darin wider und wird zu einer\ntraurigen Melodie."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Denkt Tragosso an seine verstorbene Mutter,\nso weint es. Sein Schluchzen hallt dabei in dem\nSchädel auf seinem Kopf klagend wider."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Es trägt den Schädel seiner verstorbenen Mutter.\nManchmal weint Tragosso, während es träumt,\ndoch jede vergossene Träne macht es stärker."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Cubone",
+    "genus": "Pokémon Solitario",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Lleva puesto el cráneo de su madre. Cuando se siente\nsolo se pone a gritar muy fuerte."
+      },
+      {
+        "game": "xy-y",
+        "text": "Siempre lleva la calavera de su difunta madre, así que\nnadie sabe cómo es su cara oculta."
+      },
+      {
+        "game": "oras-or",
+        "text": "A Cubone le ahoga la pena porque no volverá a ver jamás a\nsu madre. La luna le recuerda a veces a ella, y se pone a\nllorar. Los churretes que tiene en el cráneo que lleva puesto\nson debidos a las lágrimas que derrama."
+      },
+      {
+        "game": "oras-as",
+        "text": "A Cubone le ahoga la pena porque no volverá a ver jamás a\nsu madre. La luna le recuerda a veces a ella, y se pone a\nllorar. Los churretes que tiene en el cráneo que lleva puesto\nson debidos a las lágrimas que derrama."
+      },
+      {
+        "game": "sm-s",
+        "text": "Llora desconsoladamente por la pérdida de su\nmadre. Los Mandibuzz que escuchan su llanto\nse lanzan en picado al ataque."
+      },
+      {
+        "game": "sm-m",
+        "text": "El cráneo que lleva en la cabeza pertenece a su\nmadre. Se dice que evoluciona una vez que ha\nconseguido superar su pérdida."
+      },
+      {
+        "game": "usum-us",
+        "text": "Al caer la noche, rompe a llorar pensando en su\ndifunta madre, lo que delata su presencia ante\nlos Mandibuzz, sus enemigos naturales."
+      },
+      {
+        "game": "usum-um",
+        "text": "Al cubrir su rostro con el cráneo de su madre,\nsu expresión queda velada. La única emoción\nque lo delata es su llanto constante."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Siempre lleva puesto el cráneo de su difunta\nmadre. Su llanto resuena dentro como una\ntriste melodía."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Siempre lleva puesto el cráneo de su difunta\nmadre. Su llanto resuena dentro como una\ntriste melodía."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Cuando llora al acordarse de su madre fallecida,\nsu llanto resuena en el cráneo que lleva en la\ncabeza."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Lleva puesto el cráneo de su difunta madre.\nA veces llora en sueños, pero cada lágrima\nvertida le hace más fuerte."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Cubone",
+    "genus": "Pokémon Solitario",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Indossa il teschio della madre morta come un casco.\nQuando si sente solo lancia urla strazianti."
+      },
+      {
+        "game": "xy-y",
+        "text": "Indossa sempre il teschio della mamma scomparsa:\nnessuno l’ha mai potuto vedere in faccia."
+      },
+      {
+        "game": "oras-or",
+        "text": "Cubone si strugge per la madre che non rivedrà mai più.\nPiange alla luna piena che somiglia molto alla madre.\nLe macchie sul teschio che indossa sono dovute alle\nlacrime copiose."
+      },
+      {
+        "game": "oras-as",
+        "text": "Cubone si strugge per la madre che non rivedrà mai più.\nPiange alla luna piena che somiglia molto alla madre.\nLe macchie sul teschio che indossa sono dovute alle\nlacrime copiose."
+      },
+      {
+        "game": "sm-s",
+        "text": "Piange disperatamente pensando alla madre\nmorta. Quando i Mandibuzz lo sentono,\nsi lanciano in picchiata per attaccarlo."
+      },
+      {
+        "game": "sm-m",
+        "text": "Il teschio che porta in testa apparteneva alla\nmadre morta. Si evolve dopo aver superato\nil lutto per la sua perdita."
+      },
+      {
+        "game": "usum-us",
+        "text": "Di notte piange disperatamente pensando alla\nmadre morta. I suoi lamenti attirano i Mandibuzz,\nsuoi predatori naturali."
+      },
+      {
+        "game": "usum-um",
+        "text": "Poiché indossa sempre il teschio della madre,\nnon si sa che viso o che espressione abbia,\nma è evidente che piange continuamente."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Indossa il teschio di sua madre come elmo.\nIl suo verso riecheggia all’interno del teschio\nproducendo una triste melodia."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Indossa il teschio di sua madre come elmo.\nIl suo verso riecheggia all’interno del teschio\nproducendo una triste melodia."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Quando piange pensando alla madre defunta,\ni suoi lamenti riecheggiano tristemente all’interno\ndel teschio che ha in testa."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Indossa il teschio della madre defunta. A volte\ncapita che pianga vedendola in sogno, ma a ogni\nlacrima versata diventa più forte."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Cubone",
+    "genus": "Lonely Pokémon",
+    "flavorText": [
+      {
+        "game": "rb-r",
+        "text": "Because it never\nremoves its skull\nhelmet, no one\fhas ever seen\nthis POKéMON's\nreal face."
+      },
+      {
+        "game": "rb-b",
+        "text": "Because it never\nremoves its skull\nhelmet, no one\fhas ever seen\nthis POKéMON's\nreal face."
+      },
+      {
+        "game": "y",
+        "text": "Wears the skull\nof its deceased\nmother. Its cries\fecho inside the\nskull and come out\nas a sad melody."
+      },
+      {
+        "game": "gs-g",
+        "text": "If it is sad or\nlonely, the skull\nit wears shakes,\fand emits a plain­\ntive and mournful\nsound."
+      },
+      {
+        "game": "gs-s",
+        "text": "It always wears\nthe skull of its\ndead mother, so no\fone has any idea\nwhat its hidden\nface looks like."
+      },
+      {
+        "game": "c",
+        "text": "It lost its mother\nafter its birth.\nIt wears its\fmother's skull,\nnever revealing\nits true face."
+      },
+      {
+        "game": "rs-r",
+        "text": "CUBONE pines for the mother it will\nnever see again. Seeing a likeness of\nits mother in the full moon, it cries.\fThe stains on the skull the POKéMON\nwears are made by the tears it sheds."
+      },
+      {
+        "game": "rs-s",
+        "text": "CUBONE pines for the mother it will\nnever see again. Seeing a likeness of\nits mother in the full moon, it cries.\fThe stains on the skull the POKéMON\nwears are made by the tears it sheds."
+      },
+      {
+        "game": "e",
+        "text": "It pines for the mother it will never see\nagain. Seeing a likeness of its mother in\nthe full moon, it cries. The stains on the\nskull it wears are from its tears."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "It wears the skull of its dead mother on\nits head. When it becomes lonesome, it is\nsaid to cry loudly."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "Because it never removes its skull helmet,\nno one has ever seen this POKéMON’s real\nface."
+      },
+      {
+        "game": "dp-d",
+        "text": "When it thinks of its dead mother,\nit cries. Its crying makes the\nskull it wears rattle hollowly."
+      },
+      {
+        "game": "dp-p",
+        "text": "When it thinks of its dead mother,\nit cries. Its crying makes the\nskull it wears rattle hollowly."
+      },
+      {
+        "game": "pt",
+        "text": "When it thinks of its dead mother,\nit cries. Its crying makes the\nskull it wears rattle hollowly."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "If it is sad or lonely, the skull\nit wears shakes and emits a plaintive\nand mournful sound."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "It always wears the skull of its\ndead mother, so no one has any idea\nwhat its hidden face looks like."
+      },
+      {
+        "game": "bw-b",
+        "text": "When it thinks of its dead mother,\nit cries. Its crying makes the\nskull it wears rattle hollowly."
+      },
+      {
+        "game": "bw-w",
+        "text": "When it thinks of its dead mother,\nit cries. Its crying makes the\nskull it wears rattle hollowly."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "When it thinks of its dead mother,\nit cries. Its crying makes the\nskull it wears rattle hollowly."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "When it thinks of its dead mother,\nit cries. Its crying makes the\nskull it wears rattle hollowly."
+      },
+      {
+        "game": "xy-x",
+        "text": "It wears the skull of its dead mother on its head.\nWhen it becomes lonesome, it is said to cry loudly."
+      },
+      {
+        "game": "xy-y",
+        "text": "It always wears the skull of its dead mother, so no\none has any idea what its hidden face looks like."
+      },
+      {
+        "game": "oras-or",
+        "text": "Cubone pines for the mother it will never see again.\nSeeing a likeness of its mother in the full moon, it cries.\nThe stains on the skull the Pokémon wears are made by the\ntears it sheds."
+      },
+      {
+        "game": "oras-as",
+        "text": "Cubone pines for the mother it will never see again. Seeing a\nlikeness of its mother in the full moon, it cries. The stains on\nthe skull the Pokémon wears are made by the tears it sheds."
+      },
+      {
+        "game": "sm-s",
+        "text": "When it thinks of its deceased mother, it weeps\nloudly. Mandibuzz that hear its cries will attack\nit from the air."
+      },
+      {
+        "game": "sm-m",
+        "text": "The skull it wears on its head is that of its dead\nmother. According to some, it will evolve when\nit comes to terms with the pain of her death."
+      },
+      {
+        "game": "usum-us",
+        "text": "At night, it weeps loudly for its dead mother,\nbut those cries only attract its natural\nenemy—Mandibuzz."
+      },
+      {
+        "game": "usum-um",
+        "text": "It wears its mother’s skull on its head, so no\none knows what its bare face looks like.\nHowever, it’s clear that it’s always crying."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Wears the skull of its deceased mother.\nIts cries echo inside the skull and\ncome out as a sad melody."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Wears the skull of its deceased mother.\nIts cries echo inside the skull and\ncome out as a sad melody."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "When the memory of its departed mother brings\nit to tears, its cries echo mournfully within the\nskull it wears on its head."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "This Pokémon wears the skull of its deceased\nmother. Sometimes Cubone’s dreams make it cry,\nbut each tear Cubone sheds makes it stronger."
+      }
+    ]
+  },
+  "chs": {
+    "name": "卡拉卡拉",
+    "genus": "孤独宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "想起与自己天人永隔的母亲\n而大声哭泣。被听到声音的\n秃鹰娜从空中袭击。"
+      },
+      {
+        "game": "sm-m",
+        "text": "头上戴着的是死去母亲的\n头盖骨。据说，当它摆脱\n母亲死亡的悲痛时就会进化。"
+      },
+      {
+        "game": "usum-us",
+        "text": "会思念已故的母亲而在夜里哭叫，\n因此会被其天敌秃鹰娜发现。"
+      },
+      {
+        "game": "usum-um",
+        "text": "头上戴着母亲的骨头，\n因此无法知晓其长相和表情，\n只知道它一直在哭。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "它头上戴着死去母亲的头骨。\n它的哭声会在头骨里\n回响出悲伤的旋律。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "它头上戴着死去母亲的头骨。\n它的哭声会在头骨里\n回响出悲伤的旋律。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "因想起与自己天人永隔的母亲\n而哭泣时，哀伤的哭声便会\n回荡在它头上戴着的头骨中。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "它头上戴着死去母亲的头骨。\n虽然也会因悲伤的梦境而哭泣，\n但每流一次泪，都会变得更加坚强。"
+      }
+    ]
+  }
+}

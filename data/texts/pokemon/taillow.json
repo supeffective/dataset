@@ -1,0 +1,235 @@
+{
+  "jap": {
+    "name": "スバメ",
+    "genus": "こツバメポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "つよい　あいてにも　ゆうかんに\nたちむかう　こんじょうの　もちぬし。\nあたたかい　とちを　めざして　とぶ。"
+      },
+      {
+        "game": "xy-y",
+        "text": "さむい　きせつは　にがて。あたたかい\nとちを　さがし　１にち　３００キロの\nきょりを　とんで　いどうする。"
+      },
+      {
+        "game": "oras-or",
+        "text": "どんな　つよい　あいてでも　ゆうかんに　いどむ。\nまけても　へこたれない　こんじょうの　もちぬし。\nおなかが　すくと　おおごえで　ないて　しまう。"
+      },
+      {
+        "game": "oras-as",
+        "text": "すだちを　おえたばかり　なので　よるに　なると\nさみしく　なって　ないてしまう　ことも　ある。\nもりに　すむ　ケムッソを　つかまえて　たべる。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Subame",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "테일로",
+    "genus": "아기제비포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "강한 상대에게도 용감히\n맞서는 근성의 소유자다.\n따뜻한 땅을 찾아서 난다."
+      },
+      {
+        "game": "xy-y",
+        "text": "추운 계절에 약하다. 따뜻한\n지방을 찾아 하루에 300km의\n거리를 날아서 이동한다."
+      },
+      {
+        "game": "oras-or",
+        "text": "아무리 강한 상대라도 용감히 맞선다.\n져도 주저앉지 않는 근성의 소유자다.\n배가 고프면 큰 소리로 운다."
+      },
+      {
+        "game": "oras-as",
+        "text": "둥지를 떠난 지 얼마 안 돼서 밤이 되면\n쓸쓸함에 우는 일도 있다.\n숲에 사는 개무소를 잡아먹는다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "傲骨燕",
+    "genus": "幼燕寶可夢",
+    "flavorText": []
+  },
+  "fra": {
+    "name": "Nirondelle",
+    "genus": "Pokémon Minirondel",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Ce Pokémon téméraire n’a pas peur\nd’affronter des ennemis puissants.\nIl vole en quête de climats chauds."
+      },
+      {
+        "game": "bw-w",
+        "text": "Ce Pokémon téméraire n’a pas peur\nd’affronter des ennemis puissants.\nIl vole en quête de climats chauds."
+      },
+      {
+        "game": "xy-x",
+        "text": "Ce Pokémon téméraire n’a pas peur d’affronter\ndes ennemis puissants. Il vole en quête de climats\nchauds."
+      },
+      {
+        "game": "xy-y",
+        "text": "Nirondelle ne supporte pas les saisons froides.\nIl vole vers d’autres terres à la recherche de chaleur\net peut ainsi parcourir 300 km par jour."
+      },
+      {
+        "game": "oras-or",
+        "text": "Nirondelle défend courageusement son territoire contre\nses ennemis, même les plus puissants. Ce vaillant Pokémon\nest toujours prêt à relever un défi, mais s’il a faim, il se met\nà pleurer à chaudes larmes."
+      },
+      {
+        "game": "oras-as",
+        "text": "Nirondelle est jeune. Il vient de quitter son nid. Du coup,\nil se sent parfois un peu seul et pleure la nuit. Ce Pokémon\nse nourrit des Chenipotte qu’il trouve dans les forêts."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Schwalbini",
+    "genus": "Schwälblein",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Es ist sehr mutig und stellt sich auch starken\nGegnern. Es sucht ständig nach warmen Regionen."
+      },
+      {
+        "game": "xy-y",
+        "text": "Es mag die kalte Jahreszeit nicht. Daher legt es\nauf der Suche nach wärmeren Gefilden mehr als\n300 km am Tag zurück."
+      },
+      {
+        "game": "oras-or",
+        "text": "Mutig behauptet Schwalbini sein Territorium gegen\nEindringlinge, so stark diese auch sein mögen. Dieses\nunerschrockene Pokémon bleibt trotz einer Niederlage\nangriffslustig, heult aber laut, wenn es Hunger hat."
+      },
+      {
+        "game": "oras-as",
+        "text": "Schwalbini ist noch klein, es hat gerade erst sein Nest\nverlassen. Daher fühlt es sich manchmal einsam und weint\nnachts. Dieses Pokémon ernährt sich von Waumpel."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Taillow",
+    "genus": "Pokémon Pequebuche",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Es un Pokémon valiente que no teme a los rivales\nfuertes. Vuela en busca de climas templados."
+      },
+      {
+        "game": "xy-y",
+        "text": "No le gustan las bajas temperaturas. En las estaciones\nfrías se recorre casi 300 km al día en busca de zonas\ncálidas."
+      },
+      {
+        "game": "oras-or",
+        "text": "Taillow se mantiene firme ante sus rivales, sean lo fuertes que\nsean. Este valiente Pokémon seguirá mostrándose desafiante,\naunque pierda en combate. Además, si se enfada, se pondrá a\ngritar con energía."
+      },
+      {
+        "game": "oras-as",
+        "text": "Taillow es pequeño, está recién salido del nido. Por eso, se\nsiente solo con frecuencia y se pone a piar. Este Pokémon\nse alimenta de los Wurmple que hay por el bosque."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Taillow",
+    "genus": "Pokémon Rondinella",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "È molto coraggioso e affronta spavaldo i nemici\npiù forti. Migra verso i paesi caldi."
+      },
+      {
+        "game": "xy-y",
+        "text": "Non ama il freddo. In inverno emigra verso regioni\ncalde, viaggiando a una velocità di 300 km al giorno."
+      },
+      {
+        "game": "oras-or",
+        "text": "Taillow affronta coraggiosamente persino i nemici più forti.\nAnche in caso di sconfitta rimane fiero e spavaldo.\nMa quando ha fame, si lamenta rumorosamente."
+      },
+      {
+        "game": "oras-as",
+        "text": "Taillow è molto piccolo, infatti ha appena lasciato il nido.\nTalvolta di notte si sente solo e piange.\nSi nutre dei Wurmple che vivono nella foresta."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Taillow",
+    "genus": "Tiny Swallow Pokémon",
+    "flavorText": [
+      {
+        "game": "rs-r",
+        "text": "TAILLOW courageously stands its\nground against foes, however strong\nthey may be.\fThis gutsy POKéMON will remain defiant\neven after a loss. On the other hand,\nit cries loudly if it becomes hungry."
+      },
+      {
+        "game": "rs-s",
+        "text": "TAILLOW is young - it has only just\nleft its nest. As a result, it sometimes\nbecomes lonesome and cries at night.\fThis POKéMON feeds on WURMPLE that\nlive in forests."
+      },
+      {
+        "game": "e",
+        "text": "Although it is small, it is very courageous.\nIt will take on a larger SKARMORY on an\nequal footing. However, its will weakens if\nit becomes hungry."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "It dislikes cold seasons. They migrate to\nother lands in search of warmth, flying\nover 180 miles a day."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "It dislikes cold seasons. They migrate to\nother lands in search of warmth, flying\nover 180 miles a day."
+      },
+      {
+        "game": "dp-d",
+        "text": "It has a gutsy spirit that makes\nit bravely take on tough foes. It\nflies in search of warm climates."
+      },
+      {
+        "game": "dp-p",
+        "text": "It has a gutsy spirit that makes\nit bravely take on tough foes. It\nflies in search of warm climates."
+      },
+      {
+        "game": "pt",
+        "text": "It has a gutsy spirit that makes\nit bravely take on tough foes. It\nflies in search of warm climates."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "When it gets cold, they migrate,\nflying over 180 miles a day.\nIt hunts for tasty prey."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "When it gets cold, they migrate,\nflying over 180 miles a day.\nIt hunts for tasty prey."
+      },
+      {
+        "game": "bw-b",
+        "text": "It has a gutsy spirit that makes\nit bravely take on tough foes. It\nflies in search of warm climates."
+      },
+      {
+        "game": "bw-w",
+        "text": "It has a gutsy spirit that makes\nit bravely take on tough foes. It\nflies in search of warm climates."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "It has a gutsy spirit that makes\nit bravely take on tough foes. It\nflies in search of warm climates."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "It has a gutsy spirit that makes\nit bravely take on tough foes. It\nflies in search of warm climates."
+      },
+      {
+        "game": "xy-x",
+        "text": "It has a gutsy spirit that makes it bravely take on\ntough foes. It flies in search of warm climates."
+      },
+      {
+        "game": "xy-y",
+        "text": "It dislikes cold seasons. They migrate to other\nlands in search of warmth, flying over 180 miles\na day."
+      },
+      {
+        "game": "oras-or",
+        "text": "Taillow courageously stands its ground against foes, however\nstrong they may be. This gutsy Pokémon will remain defiant\neven after a loss. On the other hand, it cries loudly if it\nbecomes hungry."
+      },
+      {
+        "game": "oras-as",
+        "text": "Taillow is young—it has only just left its nest. As a result,\nit sometimes becomes lonesome and cries at night.\nThis Pokémon feeds on Wurmple that live in forests."
+      }
+    ]
+  },
+  "chs": {
+    "name": "傲骨燕",
+    "genus": "幼燕宝可梦",
+    "flavorText": []
+  }
+}

@@ -1,0 +1,269 @@
+{
+  "jap": {
+    "name": "ギアル",
+    "genus": "はぐるまポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "２つの　からだが　かみあい\nかいてんすることで　いきるための\nエネルギーを　つくりだしている。"
+      },
+      {
+        "game": "xy-y",
+        "text": "２つの　からだは　くみあわせが\nきまっている。べつの　からだとは\nかみあわずに　はなれてしまう。"
+      },
+      {
+        "game": "oras-or",
+        "text": "２つの　からだが　かみあい\nかいてんすることで　いきるための\nエネルギーを　つくりだしている。"
+      },
+      {
+        "game": "oras-as",
+        "text": "２つの　からだは　くみあわせが\nきまっている。べつの　からだとは\nかみあわずに　はなれてしまう。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "２つの　からだは　ふたごよりも\nちかい。　べつの　からだどうしだと\nいまいち　うまく　かみあわない。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "おおむかしに　ギアルを　みた\nにんげんが　はぐるまの　こうぞうを\nおもいついたと　いわれている。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Giaru",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "기어르",
+    "genus": "톱니바퀴포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "두 개의 몸을 맞물려\n회전시켜서 살아가기 위한\n에너지를 만들고 있다."
+      },
+      {
+        "game": "xy-y",
+        "text": "두 개의 몸은 그 조합 방법이\n정해져 있다. 다른 몸과는\n맞물리지 않고 떨어져 버린다."
+      },
+      {
+        "game": "oras-or",
+        "text": "두 개의 몸을 맞물려\n회전시켜서 살아가기 위한\n에너지를 만들고 있다."
+      },
+      {
+        "game": "oras-as",
+        "text": "두 개의 몸은 그 조합 방법이\n정해져 있다. 다른 몸과는\n맞물리지 않고 떨어져 버린다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "2개의 몸은 쌍둥이보다도\n가깝다. 다른 몸과 있으면\n제대로 맞물리지 못한다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "먼 옛날에 기어르를 본\n사람이 톱니바퀴의 구조를\n고안했다고 전해진다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "齒輪兒",
+    "genus": "齒輪寶可夢",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "２個身體比雙胞胎還要親近。\n要是換成別的齒輪兒，\n就沒有辦法好好咬合。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "據說在很久以前，\n是看到了齒輪兒的人\n發明了齒輪的構造。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Tic",
+    "genus": "Pokémon Engrenage",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "La compatibilité entre ses deux rouages\nest prédéterminée. Ceux-ci ne se\nfixeront à aucun autre."
+      },
+      {
+        "game": "bw-w",
+        "text": "Le mouvement de ses deux corps\nenchâssés produit l’énergie qui\nlui est nécessaire pour vivre."
+      },
+      {
+        "game": "xy-x",
+        "text": "Le mouvement de ses deux corps enchâssés produit\nl’énergie qui lui est nécessaire pour vivre."
+      },
+      {
+        "game": "xy-y",
+        "text": "La compatibilité entre ses deux rouages est\nprédéterminée. Ceux-ci ne se fixeront à aucun autre."
+      },
+      {
+        "game": "oras-or",
+        "text": "Le mouvement de ses deux corps enchâssés produit l’énergie\nqui lui est nécessaire pour vivre."
+      },
+      {
+        "game": "oras-as",
+        "text": "La compatibilité entre ses deux rouages est prédéterminée.\nCeux-ci ne se fixeront à aucun autre."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Ses deux rouages sont plus soudés que des\njumeaux. Si on essaie de les combiner à d’autres\nrouages, ils ne s’entendent pas très bien."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Les humains auraient inventé les mécanismes\nà engrenages il y a fort longtemps, en observant\nce Pokémon."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Klikk",
+    "genus": "Getriebe-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Es gewinnt lebenswichtige Energie, indem es seine\nzwei Einzelteile ineinander verzahnt und rotieren lässt."
+      },
+      {
+        "game": "xy-y",
+        "text": "Seine zwei Teile greifen ineinander wie ein Uhrwerk.\nJedes andere Objekt, das man mit ihm kombinieren\nwill, wird abgestoßen."
+      },
+      {
+        "game": "oras-or",
+        "text": "Es gewinnt lebenswichtige Energie, indem es seine zwei\nEinzelteile ineinander verzahnt und rotieren lässt."
+      },
+      {
+        "game": "oras-as",
+        "text": "Seine zwei Teile greifen ineinander wie ein Uhrwerk.\nJedes andere Objekt, das man mit ihm kombinieren will,\nwird abgestoßen."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Seine zwei Teile stehen einander näher als\nZwillinge. Eine andere Kombination würde\nnicht halb so gut ineinandergreifen."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Man sagt, dass vor langer Zeit ein Mensch das\nZahnrad erfand, weil er so von der Begegnung\nmit diesem Pokémon inspiriert wurde."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Klink",
+    "genus": "Pokémon Engranaje",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Genera la energía vital que necesita haciendo girar sus\ndos cuerpos."
+      },
+      {
+        "game": "xy-y",
+        "text": "La combinación de sus dos cuerpos es\npredeterminada. Si no se corresponde con\nsu homólogo, se separa."
+      },
+      {
+        "game": "oras-or",
+        "text": "Genera la energía vital que necesita haciendo girar sus dos\ncuerpos."
+      },
+      {
+        "game": "oras-as",
+        "text": "La combinación de sus dos cuerpos es predeterminada. Si no\nse corresponde con su homólogo, se separa."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Los dos cuerpos que lo componen están más\nunidos que unos gemelos. Si intentaran acoplarse\na otros, no lograrían encajar."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Se dice que en tiempos remotos los seres\nhumanos se inspiraron en este Pokémon para\ninventar el mecanismo de engranaje."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Klink",
+    "genus": "Pokémon Ingranaggio",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Produce l’energia che gli serve per vivere incastrando\ne facendo ruotare le due parti che lo compongono."
+      },
+      {
+        "game": "xy-y",
+        "text": "I due ingranaggi che lo compongono combaciano\nunicamente l’uno con l’altro. Qualsiasi altro incastro\nè impossibile."
+      },
+      {
+        "game": "oras-or",
+        "text": "Produce l’energia che gli serve per vivere incastrando\ne facendo ruotare le due parti che lo compongono."
+      },
+      {
+        "game": "oras-as",
+        "text": "I due ingranaggi che lo compongono combaciano unicamente\nl’uno con l’altro. Qualsiasi altro incastro è impossibile."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "I due ingranaggi che lo compongono sono più\nuniti di una coppia di gemelli. Se combinati con\ningranaggi diversi, non combaciano bene."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Si dice che gli uomini del passato abbiano\ninventato gli ingranaggi dopo aver visto\nquesto Pokémon."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Klink",
+    "genus": "Gear Pokémon",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "The two minigears that mesh together\nare predetermined. Each will rebound\nfrom other minigears without meshing."
+      },
+      {
+        "game": "bw-w",
+        "text": "Interlocking two bodies and\nspinning around generates\nthe energy they need to live."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "Two bodies comprise a fixed pair.\nThey spin around each other\nto generate energy."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "Two bodies comprise a fixed pair.\nThey spin around each other\nto generate energy."
+      },
+      {
+        "game": "xy-x",
+        "text": "Interlocking two bodies and spinning around\ngenerates the energy they need to live."
+      },
+      {
+        "game": "xy-y",
+        "text": "The two minigears that mesh together are\npredetermined. Each will rebound from other\nminigears without meshing."
+      },
+      {
+        "game": "oras-or",
+        "text": "Interlocking two bodies and spinning around\ngenerates the energy they need to live."
+      },
+      {
+        "game": "oras-as",
+        "text": "The two minigears that mesh together are\npredetermined. Each will rebound from other\nminigears without meshing."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "The two minigears that compose this Pokémon\nare closer than twins. They mesh well only with\neach other."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "It’s suspected that Klink were the inspiration\nbehind ancient people’s invention of the\nfirst gears."
+      }
+    ]
+  },
+  "chs": {
+    "name": "齿轮儿",
+    "genus": "齿轮宝可梦",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "２个身体比双胞胎还要亲近。\n要是换成别的齿轮儿。\n就没有办法好好咬合。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "据说在很久以前，\n是看到了齿轮儿的人\n发明了齿轮的构造。"
+      }
+    ]
+  }
+}

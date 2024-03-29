@@ -1,0 +1,553 @@
+{
+  "jap": {
+    "name": "エレブー",
+    "genus": "でんげきポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "からだの　ひょうめんには　でんきが\nながれている。あたりが　くらいと\nぜんしんが　あおじろく　ひかるのだ。"
+      },
+      {
+        "game": "xy-y",
+        "text": "つよい　でんきが　だいこうぶつで\nおおきな　はつでんしょ　などに\nしばしば　あらわれる。"
+      },
+      {
+        "game": "oras-or",
+        "text": "あらしが　くると　きの　うえ　など　カミナリの\nおちそうな　たかい　ばしょへ　きそって　のぼる。\nひらいしん　がわりに　する　まちも　ある。"
+      },
+      {
+        "game": "oras-as",
+        "text": "あらしが　くると　きの　うえ　など　カミナリの\nおちそうな　たかい　ばしょへ　きそって　のぼる。\nひらいしん　がわりに　する　まちも　ある。"
+      },
+      {
+        "game": "sm-s",
+        "text": "とつぜんおこる　ていでんの　はんぶんは\nエレブーが　はつでんしょに　あつまり\nでんきを　くいちらかした　からだ。"
+      },
+      {
+        "game": "sm-m",
+        "text": "エサで　くう　でんきりょう　よりも\nからだから　もれる　でんきりょうの\nほうが　あっとうてきに　おおい。"
+      },
+      {
+        "game": "usum-us",
+        "text": "ぜんしんが　でんきを　おびている。\nうでを　ぐるぐる　まわし　でんきを\nチャージしてから　パンチを　はなつ。"
+      },
+      {
+        "game": "usum-um",
+        "text": "ていでんが　おこる　げんいんに\nされることが　おおいが　じつは\nかいしゃの　ミスの　ほうが　おおい。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "おおきな　ていでんが　おきたときは\nエレブーが　はつでんしょの\nでんきを　たべたに　ちがいない。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "おおきな　ていでんが　おきたときは\nエレブーが　はつでんしょの\nでんきを　たべたに　ちがいない。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "でんきを　ねらう　エレブーの\nたいさくに　じめんポケモンを\nおく　はつでんしょは　おおい。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "あらしが　くると　たかい　きの\nまわりに　あつまり　かみなりが\nおちるのを　じっと　まちつづける。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Eleboo",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "에레브",
+    "genus": "전기포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "몸의 표면에는 전기가\n흐르고 있다. 주변이 어두우면\n전신이 푸르스름하게 빛난다."
+      },
+      {
+        "game": "xy-y",
+        "text": "강한 전기를 좋아하여\n커다란 발전소 같은 곳에\n종종 나타난다."
+      },
+      {
+        "game": "oras-or",
+        "text": "폭풍이 오면 나무 위처럼 벼락이\n떨어질 만한 높은 장소로 앞다투어 올라간다.\n피뢰침 대용으로 삼는 마을도 있다."
+      },
+      {
+        "game": "oras-as",
+        "text": "폭풍이 오면 나무 위처럼 벼락이\n떨어질 만한 높은 장소로 앞다투어 올라간다.\n피뢰침 대용으로 삼는 마을도 있다."
+      },
+      {
+        "game": "sm-s",
+        "text": "갑자기 일어나는 정전의 반은\n에레브가 발전소에 모여\n전기를 마구 먹어대기 때문이다."
+      },
+      {
+        "game": "sm-m",
+        "text": "먹이로 먹는 전기량보다\n몸에서 새는 전기량이\n압도적으로 많다."
+      },
+      {
+        "game": "usum-us",
+        "text": "온몸이 전기로 둘러싸여 있다.\n팔을 빙빙 돌려 전기를\n충전 후 펀치를 날린다."
+      },
+      {
+        "game": "usum-um",
+        "text": "정전이 일어나는 원인으로\n지목되는 경우가 많지만 사실은\n회사의 실수인 경우가 더 많다."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "대규모 정전이 일어났을 땐\n에레브가 발전소의 전기를\n먹은 것임이 틀림없다."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "대규모 정전이 일어났을 땐\n에레브가 발전소의 전기를\n먹은 것임이 틀림없다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "전기를 노리는 에레브를\n퇴치하고자 땅포켓몬을 두는\n발전소도 많다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "폭풍이 치면 높은 나무\n주위에 모여 번개가\n떨어지기를 가만히 기다린다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "電擊獸",
+    "genus": "電擊寶可夢",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "突發的停電，有一半\n是因為電擊獸聚集在發電廠\n胡亂吞食電力造成的。"
+      },
+      {
+        "game": "sm-m",
+        "text": "比起透過進食獲得的電量，\n從身體洩露的電量壓倒性地多。"
+      },
+      {
+        "game": "usum-us",
+        "text": "全身帶著電流，\n會不斷轉動手臂來充電\n然後使出拳擊。"
+      },
+      {
+        "game": "usum-um",
+        "text": "人們經常把停電的原因\n歸咎到牠們身上，但其實\n大多是電力公司的過失。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "要是發生了大規模停電，\n那肯定是因為電擊獸\n吃掉了發電廠的電力。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "要是發生了大規模停電，\n那肯定是因為電擊獸\n吃掉了發電廠的電力。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "很多發電廠會用地面屬性的\n寶可夢當守衛，藉以對抗\n想伺機偷吃電力的電擊獸。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "暴風雨來臨時，牠們會\n聚集在高大的樹周圍，\n靜靜地一直等待落雷。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Élektek",
+    "genus": "Pokémon Électrique",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Il fait tournoyer ses bras pour\ndonner de la force à ses coups.\nProfitez-en pour filer!"
+      },
+      {
+        "game": "bw-w",
+        "text": "Il fait tournoyer ses bras pour\ndonner de la force à ses coups.\nProfitez-en pour filer!"
+      },
+      {
+        "game": "xy-x",
+        "text": "Des ondes électriques parcourent la surface de son\ncorps. Il brille d’un éclat bleuté dans le noir."
+      },
+      {
+        "game": "xy-y",
+        "text": "Il adore se nourrir d’électricité. Il apparaît\noccasionnellement près des grandes centrales\nélectriques."
+      },
+      {
+        "game": "oras-or",
+        "text": "Lorsqu’une tempête approche, des groupes entiers de\nce Pokémon se battent pour grimper sur les hauteurs,\noù la foudre a le plus de chance de tomber. Certaines villes\nse servent d’Élektek en guise de paratonnerres."
+      },
+      {
+        "game": "oras-as",
+        "text": "Lorsqu’une tempête approche, des groupes entiers de\nce Pokémon se battent pour grimper sur les hauteurs,\noù la foudre a le plus de chance de tomber. Certaines villes\nse servent d’Élektek en guise de paratonnerres."
+      },
+      {
+        "game": "sm-s",
+        "text": "La moitié des coupures de courant soudaines\nest due à des groupes d’Élektek rassemblés\ndans une centrale électrique pour se nourrir."
+      },
+      {
+        "game": "sm-m",
+        "text": "L’électricité qui se dégage de son corps est\nlargement supérieure à celle qu’il ingère pour\nse nourrir."
+      },
+      {
+        "game": "usum-us",
+        "text": "Son corps regorge d’électricité. Il la concentre\ndans ses bras en faisant des moulinets, avant\nde décocher un coup d’une violence fulgurante."
+      },
+      {
+        "game": "usum-um",
+        "text": "On l’accuse d’être à l’origine des coupures\nde courant, mais c’est souvent une excuse pour\ncouvrir les bévues du personnel des centrales."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Il provoque de grosses pannes de courant en\nse nourrissant de l’électricité des centrales."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Il provoque de grosses pannes de courant en\nse nourrissant de l’électricité des centrales."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "De nombreuses centrales électriques gardent\ndes Pokémon Sol à proximité afin d’empêcher\nles Élektek de leur voler de l’électricité."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Quand un orage approche, ils se réunissent\ntous autour d’un grand arbre et attendent\npatiemment que la foudre s’abatte."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Elektek",
+    "genus": "Elektro-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Elektrizität bedeckt seinen Körper. Im Dunkeln\nerstrahlt es in einem bläulichen Ton."
+      },
+      {
+        "game": "xy-y",
+        "text": "Es konsumiert am liebsten Elektrizität. Gelegentlich\nsieht man es in der Nähe von Kraftwerken."
+      },
+      {
+        "game": "oras-or",
+        "text": "Bei Gewitter entbrennt unter Elektek ein Wettstreit um höher\ngelegene Orte, an denen ein Blitzeinschlag wahrscheinlich ist.\nEinige Ortschaften benutzen diese Pokémon anstelle von\nBlitzableitern."
+      },
+      {
+        "game": "oras-as",
+        "text": "Bei Gewitter entbrennt unter Elektek ein Wettstreit um höher\ngelegene Orte, an denen ein Blitzeinschlag wahrscheinlich ist.\nEinige Ortschaften benutzen diese Pokémon anstelle von\nBlitzableitern."
+      },
+      {
+        "game": "sm-s",
+        "text": "Für die Hälfte aller plötzlichen Stromausfälle\nsind Elektek verantwortlich. Sie belagern gerne\nKraftwerke und zapfen ihnen Strom ab."
+      },
+      {
+        "game": "sm-m",
+        "text": "Die Menge an Elektrizität, die aus seinem Körper\naustritt, ist sehr viel größer als jene, die es über\nseine Nahrung zu sich nimmt."
+      },
+      {
+        "game": "usum-us",
+        "text": "Sein ganzer Körper speichert Elektrizität.\nVor einem Schlag lädt es seine Arme mit\nkreisförmigen Bewegungen elektrisch auf."
+      },
+      {
+        "game": "usum-um",
+        "text": "Es wird oft für Stromausfälle verantwortlich\ngemacht, doch viel häufiger handelt es sich\num eine Folge menschlichen Fehlverhaltens."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Größere Stromausfälle sind fast immer darauf\nzurückzuführen, dass ein Elektek den Strom\neines Kraftwerks einfach gefressen hat."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Größere Stromausfälle sind fast immer darauf\nzurückzuführen, dass ein Elektek den Strom\neines Kraftwerks einfach gefressen hat."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "In vielen Elektrizitätswerken werden Pokémon\nvom Typ Boden eingesetzt, um Elektek davon\nabzuhalten, den dortigen Strom anzuzapfen."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Bei Gewittern versammeln sich Elektek in der\nNähe von hohen Bäumen, wo sie regungslos auf\nBlitzeinschläge warten."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Electabuzz",
+    "genus": "Pokémon Eléctrico",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Por la superficie de su piel corre la electricidad. En la\noscuridad, su cuerpo se torna blanquecino."
+      },
+      {
+        "game": "xy-y",
+        "text": "Le encanta alimentarse de alta tensión. A veces,\naparece cerca de centrales eléctricas y zonas\nsimilares."
+      },
+      {
+        "game": "oras-or",
+        "text": "Al desatarse una tormenta, bandadas de estos Pokémon se\nenfrentan entre sí para ver quién alcanza antes sitios altos en\nlos que suelan caer rayos. Hay ciudades que usan Electabuzz\nen lugar de pararrayos."
+      },
+      {
+        "game": "oras-as",
+        "text": "Al desatarse una tormenta, bandadas de estos Pokémon se\nenfrentan entre sí para ver quién alcanza antes sitios altos en\nlos que suelan caer rayos. Hay ciudades que usan Electabuzz\nen lugar de pararrayos."
+      },
+      {
+        "game": "sm-s",
+        "text": "La mitad de los apagones los provoca este\nPokémon, pues suele merodear por las centrales\neléctricas para alimentarse de electricidad."
+      },
+      {
+        "game": "sm-m",
+        "text": "La cantidad de electricidad que descarga su\ncuerpo supera con creces la cantidad que\nconsume para alimentarse."
+      },
+      {
+        "game": "usum-us",
+        "text": "Su cuerpo entero emite energía eléctrica. Hace\ngirar los brazos cuales aspas de molino para\ncargar sus puñetazos con electricidad."
+      },
+      {
+        "game": "usum-um",
+        "text": "Cuando se produce un apagón, a menudo se\nculpa a este Pokémon, aunque en realidad el\nfallo haya sido de la compañía eléctrica."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Cuando hay un apagón, es señal inequívoca de\nque este Pokémon se ha comido la energía de\nuna central eléctrica."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Cuando hay un apagón, es señal inequívoca de\nque este Pokémon se ha comido la energía de\nuna central eléctrica."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Es habitual que las centrales eléctricas cuenten\ncon Pokémon de tipo Tierra para hacer frente a\nlos Electabuzz ávidos de electricidad."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Al desatarse una tormenta, se reúnen en torno\na los árboles de mayor altura y esperan inmóviles\na que caiga algún rayo."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Electabuzz",
+    "genus": "Pokémon Elettrico",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "La corrente elettrica attraversa la superficie del\nsuo corpo che al buio riluce di un blu perlato."
+      },
+      {
+        "game": "xy-y",
+        "text": "Ama nutrirsi di elettricità ad alta tensione. È possibile\ntrovarlo vicino a grandi centrali elettriche."
+      },
+      {
+        "game": "oras-or",
+        "text": "All’arrivo di un temporale questi Pokémon si raggruppano\ne a gara scalano le vette più alte sperando di riuscire\na prendere qualche fulmine. Alcune città usano\ngli Electabuzz al posto dei parafulmini."
+      },
+      {
+        "game": "oras-as",
+        "text": "All’arrivo di un temporale questi Pokémon si raggruppano\ne a gara scalano le vette più alte sperando di riuscire\na prendere qualche fulmine. Alcune città usano\ngli Electabuzz al posto dei parafulmini."
+      },
+      {
+        "game": "sm-s",
+        "text": "Una buona metà dei blackout improvvisi sono\ncausati da Electabuzz che si riversano nelle\ncentrali per nutrirsi di elettricità."
+      },
+      {
+        "game": "sm-m",
+        "text": "La quantità di elettricità che libera dal suo\ncorpo è nettamente superiore a quella che\nassorbe come nutrimento."
+      },
+      {
+        "game": "usum-us",
+        "text": "Tutto il suo corpo è pervaso di elettricità.\nFa roteare vorticosamente le braccia prima di\nsferrare un pugno per caricarlo il più possibile."
+      },
+      {
+        "game": "usum-um",
+        "text": "Spesso gli si dà la colpa dei blackout, ma in\nrealtà in genere le vere responsabili sono le\ncompagnie elettriche."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Quando si verifica un grosso blackout,\nsignifica che questo Pokémon si è intrufolato\nin una centrale per cibarsi di elettricità."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Quando si verifica un grosso blackout,\nsignifica che questo Pokémon si è intrufolato\nin una centrale per cibarsi di elettricità."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Molte centrali elettriche utilizzano Pokémon\ndi tipo Terra per difendersi dagli Electabuzz\na caccia di elettricità."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "All’arrivo di un temporale questi Pokémon si\nraggruppano intorno agli alberi alti, aspettando\nimmobili che cada un fulmine."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Electabuzz",
+    "genus": "Electric Pokémon",
+    "flavorText": [
+      {
+        "game": "rb-r",
+        "text": "Normally found\nnear power plants,\nthey can wander\faway and cause\nmajor blackouts\nin cities."
+      },
+      {
+        "game": "rb-b",
+        "text": "Normally found\nnear power plants,\nthey can wander\faway and cause\nmajor blackouts\nin cities."
+      },
+      {
+        "game": "y",
+        "text": "If a major power\noutage occurs, it\nis certain that\fthis POKéMON has\neaten electricity\nat a power plant."
+      },
+      {
+        "game": "gs-g",
+        "text": "Electricity runs\nacross the surface\nof its body. In\fdarkness, its en­\ntire body glows a\nwhitish-blue."
+      },
+      {
+        "game": "gs-s",
+        "text": "Its body constant­\nly discharges\nelectricity. Get­\fting close to it\nwill make your\nhair stand on end."
+      },
+      {
+        "game": "c",
+        "text": "When two\nELECTABUZZ touch,\nthey control the\felectric currents\nto communicate\ntheir feelings."
+      },
+      {
+        "game": "rs-r",
+        "text": "When a storm arrives, gangs of this\nPOKéMON compete with each other to\nscale heights that are likely to be\fstricken by lightning bolts.\nSome towns use ELECTABUZZ in place of\nlightning rods."
+      },
+      {
+        "game": "rs-s",
+        "text": "When a storm arrives, gangs of this\nPOKéMON compete with each other to\nscale heights that are likely to be\fstricken by lightning bolts.\nSome towns use ELECTABUZZ in place of\nlightning rods."
+      },
+      {
+        "game": "e",
+        "text": "When a storm approaches, it competes with\nothers to scale heights that are likely to\nbe stricken by lightning. Some towns use\nELECTABUZZ in place of lightning rods."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "It loves to feed on strong electricity.\nIt occasionally appears around large\npower plants and so on."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "Normally found near power plants, they\ncan wander away and cause major\nblackouts in cities."
+      },
+      {
+        "game": "dp-d",
+        "text": "Half of all blackouts occur when\nthis Pokémon appears at power\nplants and eats electricity."
+      },
+      {
+        "game": "dp-p",
+        "text": "Half of all blackouts occur when\nthis Pokémon appears at power\nplants and eats electricity."
+      },
+      {
+        "game": "pt",
+        "text": "It windmills its arms to slightly\nboost its punches. Foes have been\nknown to escape in the meantime."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "Electricity runs across the surface\nof its body. In darkness, its entire\nbody glows a whitish-blue."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "Its body constantly discharges\nelectricity. Getting close to it\nwill make your hair stand on end."
+      },
+      {
+        "game": "bw-b",
+        "text": "It windmills its arms to slightly\nboost its punches. Foes have been\nknown to escape in the meantime."
+      },
+      {
+        "game": "bw-w",
+        "text": "It windmills its arms to slightly\nboost its punches. Foes have been\nknown to escape in the meantime."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "Research is progressing on storing\nlightning in Electabuzz so this\nenergy can be used at any time."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "Research is progressing on storing\nlightning in Electabuzz so this\nenergy can be used at any time."
+      },
+      {
+        "game": "xy-x",
+        "text": "Electricity runs across the surface of its body.\nIn darkness, its entire body glows a whitish blue."
+      },
+      {
+        "game": "xy-y",
+        "text": "It loves to feed on strong electricity. It occasionally\nappears around large power plants and so on."
+      },
+      {
+        "game": "oras-or",
+        "text": "When a storm arrives, gangs of this Pokémon compete with\neach other to scale heights that are likely to be stricken by\nlightning bolts. Some towns use Electabuzz in place of\nlightning rods."
+      },
+      {
+        "game": "oras-as",
+        "text": "When a storm arrives, gangs of this Pokémon compete with\neach other to scale heights that are likely to be stricken by\nlightning bolts. Some towns use Electabuzz in place of\nlightning rods."
+      },
+      {
+        "game": "sm-s",
+        "text": "Half of all sudden blackouts are caused\nby Electabuzz gathering at electric power\nplants and gobbling up electricity."
+      },
+      {
+        "game": "sm-m",
+        "text": "Electricity leaks from it in amounts far greater\nthan the amount of electricity it eats."
+      },
+      {
+        "game": "usum-us",
+        "text": "Electricity permeates its body. It swings\nits arms round and round to charge up\nelectricity before unleashing a punch."
+      },
+      {
+        "game": "usum-um",
+        "text": "While it’s often blamed for power outages, the\ntruth is the cause of outages is more often\nan error on the part of the electric company."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "If a major power outage occurs, it is certain\nthat this Pokémon has eaten electricity\nat a power plant."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "If a major power outage occurs, it is certain\nthat this Pokémon has eaten electricity\nat a power plant."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Many power plants keep Ground-type Pokémon\naround as a defense against Electabuzz that\ncome seeking electricity."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "With the coming of a storm, many of these\nPokémon will gather under tall trees and sit there\nwaiting for lightning to strike."
+      },
+      {
+        "game": "la",
+        "text": "Feeds on electrical energy. During sudden showers beneath\nlooming thunderclouds, one can observe Electabuzz scaling tall\ntrees, where the Pokémon will then wait for lightning to strike."
+      }
+    ]
+  },
+  "chs": {
+    "name": "电击兽",
+    "genus": "电击宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "突发的停电，有一半\n是因为电击兽聚集在发电厂\n胡乱吞食电力造成的。"
+      },
+      {
+        "game": "sm-m",
+        "text": "比起吃食物获得的电量，\n从身体泄露的电量要多得多。"
+      },
+      {
+        "game": "usum-us",
+        "text": "全身都带着电。\n会一圈圈抡动手臂\n进行充电后再出拳。"
+      },
+      {
+        "game": "usum-um",
+        "text": "虽然引起停电的原因多被\n归咎于它们身上，\n但其实很多是电力公司的过失。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "要是发生了大片的停电，\n那一定是电击兽偷偷\n吃掉了发电站的电能。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "要是发生了大片的停电，\n那一定是电击兽偷偷\n吃掉了发电站的电能。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "很多发电站为了防止\n电击兽来偷电，会放一些\n地面属性的宝可梦对付它们。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "暴风雨来临时，它们就会\n集结在高高的大树周围，\n耐心地等待落雷。"
+      }
+    ]
+  }
+}

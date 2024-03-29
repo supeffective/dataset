@@ -1,0 +1,195 @@
+{
+  "jap": {
+    "name": "シママ",
+    "genus": "たいでんポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "かみなりぐもで　そらが　おおわれると\nあらわれる。たてがみで　カミナリを\nキャッチして　でんきを　ためる。"
+      },
+      {
+        "game": "xy-y",
+        "text": "ほうでんすると　たてがみが　ひかる。\nたてがみが　かがやく　かいすうや\nリズムで　なかまと　かいわしている。"
+      },
+      {
+        "game": "oras-or",
+        "text": "かみなりぐもで　そらが　おおわれると\nあらわれる。たてがみで　カミナリを\nキャッチして　でんきを　ためる。"
+      },
+      {
+        "game": "oras-as",
+        "text": "ほうでんすると　たてがみが　ひかる。\nたてがみが　かがやく　かいすうや\nリズムで　なかまと　かいわしている。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Shimama",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "줄뮤마",
+    "genus": "하전포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "번개 구름이 하늘을 뒤덮으면\n나타난다. 갈기로 번개를\n붙잡아 전기를 모은다."
+      },
+      {
+        "game": "xy-y",
+        "text": "방전하면 갈기가 빛난다.\n갈기가 빛나는 횟수나\n리듬으로 동료와 대화한다."
+      },
+      {
+        "game": "oras-or",
+        "text": "번개 구름이 하늘을 뒤덮으면\n나타난다. 갈기로 번개를\n붙잡아 전기를 모은다."
+      },
+      {
+        "game": "oras-as",
+        "text": "방전하면 갈기가 빛난다.\n갈기가 빛나는 횟수나\n리듬으로 동료와 대화한다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "斑斑馬",
+    "genus": "帶電寶可夢",
+    "flavorText": []
+  },
+  "fra": {
+    "name": "Zébibron",
+    "genus": "Pokémon Étincélec",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Leur crinière scintille quand ils lâchent\nune décharge électrique. Ils se servent\nde ces scintillements pour communiquer."
+      },
+      {
+        "game": "bw-w",
+        "text": "Il apparaît quand le ciel est à l’orage.\nIl capte les éclairs avec sa crinière\net accumule de l’électricité."
+      },
+      {
+        "game": "xy-x",
+        "text": "Il apparaît quand le ciel est à l’orage. Il capte les\néclairs avec sa crinière et accumule de l’électricité."
+      },
+      {
+        "game": "xy-y",
+        "text": "Sa crinière luit quand il lâche des décharges.\nIl module leur rythme et leur nombre pour\ncommuniquer avec ses pairs."
+      },
+      {
+        "game": "oras-or",
+        "text": "Il apparaît quand le ciel est à l’orage. Il capte les éclairs\navec sa crinière et accumule de l’électricité."
+      },
+      {
+        "game": "oras-as",
+        "text": "Sa crinière luit quand il lâche des décharges. Il module\nleur rythme et leur nombre pour communiquer avec ses pairs."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Elezeba",
+    "genus": "Hochspannung",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Es erscheint, wenn Gewitterwolken den Himmel\nverdunkeln. Es fängt mit seiner Mähne Blitze\nund hortet ihre Energie."
+      },
+      {
+        "game": "xy-y",
+        "text": "Um mit Artgenossen zu kommunizieren, nutzt es\ndas Aufblitzen seiner Mähne beim Entladen von\nStrom als Morsecode."
+      },
+      {
+        "game": "oras-or",
+        "text": "Es erscheint, wenn Gewitterwolken den Himmel verdunkeln.\nEs fängt mit seiner Mähne Blitze und hortet ihre Energie."
+      },
+      {
+        "game": "oras-as",
+        "text": "Um mit Artgenossen zu kommunizieren, nutzt es das Aufblitzen\nseiner Mähne beim Entladen von Strom als Morsecode."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Blitzle",
+    "genus": "Pokémon Electrizado",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Aparece cuando nubes envueltas en rayos encapotan\nel cielo. Atrapa rayos con su crin y almacena\nelectricidad."
+      },
+      {
+        "game": "xy-y",
+        "text": "Su crin brilla cuando emite una descarga eléctrica.\nSe comunica con los suyos mediante el ritmo y el\nnúmero de brillos."
+      },
+      {
+        "game": "oras-or",
+        "text": "Aparece cuando nubes envueltas en rayos encapotan el cielo.\nAtrapa rayos con su crin y almacena electricidad."
+      },
+      {
+        "game": "oras-as",
+        "text": "Su crin brilla cuando emite una descarga eléctrica. Se\ncomunica con los suyos mediante el ritmo y el número de\nbrillos."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Blitzle",
+    "genus": "Pokémon Caricavolt",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Appare quando il cielo si riempie di fulmini e saette.\nAccumula elettricità attirando i fulmini con la criniera."
+      },
+      {
+        "game": "xy-y",
+        "text": "Se emette scariche la sua criniera brilla. Comunica\ncon i suoi simili tramite il ritmo e la frequenza delle\npulsazioni luminose."
+      },
+      {
+        "game": "oras-or",
+        "text": "Appare quando il cielo si riempie di fulmini e saette.\nAccumula elettricità attirando i fulmini con la criniera."
+      },
+      {
+        "game": "oras-as",
+        "text": "Se emette scariche la sua criniera brilla. Comunica con i suoi\nsimili tramite il ritmo e la frequenza delle pulsazioni luminose."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Blitzle",
+    "genus": "Electrified Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "When thunderclouds cover the sky, it will appear.\nIt can catch lightning with its mane and store\nthe electricity."
+      },
+      {
+        "game": "bw-b",
+        "text": "Its mane shines when it discharges\nelectricity. They use their flashing\nmanes to communicate with one another."
+      },
+      {
+        "game": "bw-w",
+        "text": "When thunderclouds cover the sky,\nit will appear. It can catch lightning\nwith its mane and store the electricity."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "Its mane shines when it discharges\nelectricity. They use the frequency and\nrhythm of these flashes to communicate."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "Its mane shines when it discharges\nelectricity. They use the frequency and\nrhythm of these flashes to communicate."
+      },
+      {
+        "game": "xy-y",
+        "text": "Its mane shines when it discharges electricity.\nThey use the frequency and rhythm of these flashes\nto communicate."
+      },
+      {
+        "game": "oras-or",
+        "text": "When thunderclouds cover the sky, it will appear.\nIt can catch lightning with its mane and store\nthe electricity."
+      },
+      {
+        "game": "oras-as",
+        "text": "Its mane shines when it discharges electricity.\nThey use the frequency and rhythm of these flashes\nto communicate."
+      }
+    ]
+  },
+  "chs": {
+    "name": "斑斑马",
+    "genus": "带电宝可梦",
+    "flavorText": []
+  }
+}

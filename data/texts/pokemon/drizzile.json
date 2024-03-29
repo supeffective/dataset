@@ -1,0 +1,133 @@
+{
+  "jap": {
+    "name": "ジメレオン",
+    "genus": "みずとかげポケモン",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "ての　ひらから　でる　すいぶんを\nまるめて　つくった　みずの　たまを\nつかい　ずのうせんを　くりひろげる。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "あたまが　よく　めんどうくさがり。\nナワバリに　てきが　ちかづかないよう\nそこかしこに　ワナを　しかけている。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Jimereon",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "누겔레온",
+    "genus": "물도마뱀포켓몬",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "손바닥에서 나오는 수분을\n빚어서 만든 물구슬로\n두뇌 싸움을 펼친다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "머리가 좋지만 귀찮음이 많다.\n영역에 적이 다가오지 못하게\n여기저기에 함정을 만들어 놓는다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "變澀蜥",
+    "genus": "水蜥寶可夢",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "很有戰略頭腦，\n會把手掌分泌出的水分\n做成水彈攻擊敵人。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "頭腦聰明但是很怕麻煩。\n為了不讓敵人接近自己的地盤，\n在各個地方都設下了陷阱。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Arrozard",
+    "genus": "Pokémon Lézard’Eau",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Il crée des bombes à eau grâce au liquide\nqu’il sécrète avec la paume de ses mains.\nIl s’en sert dans les combats où la stratégie prime."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Paresseux, mais malin, il parsème son territoire\nde pièges pour empêcher ses ennemis\nd’y pénétrer."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Phlegleon",
+    "genus": "Wasserechsen-Pokémon",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Das Sekret, das aus seinen Handflächen austritt,\nformt es zu Wasserkugeln. Diese nutzt es im\nKampf für taktisch ausgeklügelte Angriffe."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Es ist intelligent, fühlt sich aber schnell von jeder\nKleinigkeit genervt. Damit kein Feind in sein\nRevier eindringt, stellt es überall Fallen auf."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Drizzile",
+    "genus": "Pokémon Acuartija",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Crea bolas de agua con el líquido que segrega\npor las palmas de las manos y las usa en combate\nde forma estratégica."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Es inteligente, pero no muestra especial interés\npor nada. Distribuye trampas por su territorio\npara mantener alejados a sus enemigos."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Drizzile",
+    "genus": "Pokémon Acquacertola",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Lotta in modo strategico servendosi di sfere\nche crea con l’acqua che fuoriesce dalle\nsue zampe."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "È intelligente ma svogliato. Dissemina di\ntrappole il suo territorio per tenere alla\nlarga i nemici."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Drizzile",
+    "genus": "Water Lizard Pokémon",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "A clever combatant, this Pokémon battles using\nwater balloons created with moisture secreted\nfrom its palms."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Highly intelligent but also very lazy,\nit keeps enemies out of its territory\nby laying traps everywhere."
+      }
+    ]
+  },
+  "chs": {
+    "name": "变涩蜥",
+    "genus": "水蜥宝可梦",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "很有战略头脑，\n会把手掌分泌出的水分\n做成水弹攻击敌人。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "头脑聪明但是怕麻烦。\n为了不让敌人接近自己的地盘，\n在各个地方都设下了陷阱。"
+      }
+    ]
+  }
+}

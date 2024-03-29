@@ -1,0 +1,345 @@
+{
+  "jap": {
+    "name": "ゾロア",
+    "genus": "わるぎつねポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "あいてそっくりに　ばけているように\nみせかけ　だましたり　おどろかして\nそのすきに　にげだすことが　おおい。"
+      },
+      {
+        "game": "xy-y",
+        "text": "ひとや　ほかの　ポケモンに　ばける。\nじぶんの　しょうたいを　かくすことで\nきけんから　みを　まもっているのだ。"
+      },
+      {
+        "game": "oras-or",
+        "text": "あいてそっくりに　ばけているように\nみせかけ　だましたり　おどろかして\nそのすきに　にげだすことが　おおい。"
+      },
+      {
+        "game": "oras-as",
+        "text": "ひとや　ほかの　ポケモンに　ばける。\nじぶんの　しょうたいを　かくすことで\nきけんから　みを　まもっているのだ。"
+      },
+      {
+        "game": "usum-us",
+        "text": "おくびょうな　せいしつの　ポケモンで\nなかまと　いるとき　いがいは　ほぼ\nほかの　だれかに　ばけている。"
+      },
+      {
+        "game": "usum-um",
+        "text": "ふだん　おしゃべりな　こどもが\nむくちに　なった　ときは　ゾロアが\nいれかわって　いるかも　しれないよ。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "なにかに　ばける　のうりょくを\nみに　つけたのは　おくびょうな\nせいしつの　えいきょう　らしい。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "エサを　もとめて　ひとに　ばけ\nまちに　あらわれることも　あるぞ。\nおもに　こどもに　ばけている。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Zorua",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "조로아",
+    "genus": "나쁜여우포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "상대와 똑 닮게 둔갑한 것처럼\n보이게 하여 속이거나 놀라게 해서\n그 틈에 도망가는 일이 많다."
+      },
+      {
+        "game": "xy-y",
+        "text": "사람이나 다른 포켓몬으로 둔갑한다.\n자신의 정체를 감추어\n위험으로부터 몸을 지키는 것이다."
+      },
+      {
+        "game": "oras-or",
+        "text": "상대와 똑 닮게 둔갑한 것처럼\n보이게 하여 속이거나 놀라게 해서\n그 틈에 도망가는 일이 많다."
+      },
+      {
+        "game": "oras-as",
+        "text": "사람이나 다른 포켓몬으로 둔갑한다.\n자신의 정체를 감추어\n위험으로부터 몸을 지키는 것이다."
+      },
+      {
+        "game": "usum-us",
+        "text": "겁이 많은 포켓몬으로\n동료와 있을 때 말고는 거의\n다른 누군가로 둔갑하고 있다."
+      },
+      {
+        "game": "usum-um",
+        "text": "평소에 수다스러운 아이가\n과묵해졌다면 조로아가\n둔갑한 것일지도 모른다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "무언가로 둔갑하는 능력을\n익힌 것은 겁이 많은\n성질의 영향인 듯하다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "먹이를 찾아 사람으로 둔갑하여\n마을에 나타나기도 한다.\n주로 아이로 둔갑한다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "索羅亞",
+    "genus": "惡狐寶可夢",
+    "flavorText": [
+      {
+        "game": "usum-us",
+        "text": "性情膽小的寶可夢。\n除了和夥伴待在一起的時候之外，\n通常都會幻化成其他東西。"
+      },
+      {
+        "game": "usum-um",
+        "text": "平常很愛說話的孩子\n如果突然變得很沉默，\n就有可能是索羅亞假扮的。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "似乎是因為性情膽小，\n因此學會了幻化成\n其他模樣的能力。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "為了尋找食物，有時還會\n幻化成人類出現在城鎮裡。\n通常都會變成小孩子。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Zorua",
+    "genus": "Pokémon Sombrenard",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Il a le pouvoir de prendre l’apparence\ndes autres. On dit qu’il se transforme\nsouvent en petit enfant silencieux."
+      },
+      {
+        "game": "bw-w",
+        "text": "Il peut se transformer en humain ou en\nd’autres Pokémon. Il se protège du\ndanger en dissimulant sa vraie identité."
+      },
+      {
+        "game": "xy-x",
+        "text": "Il prend l’apparence de son adversaire pour le\ndésorienter et prendre la fuite grâce à la confusion\ncausée."
+      },
+      {
+        "game": "xy-y",
+        "text": "Il peut se transformer en humain ou en d’autres\nPokémon. Il se protège du danger en dissimulant\nsa vraie identité."
+      },
+      {
+        "game": "oras-or",
+        "text": "Il prend l’apparence de son adversaire pour le désorienter\net prendre la fuite grâce à la confusion causée."
+      },
+      {
+        "game": "oras-as",
+        "text": "Il peut se transformer en humain ou en d’autres Pokémon.\nIl se protège du danger en dissimulant sa vraie identité."
+      },
+      {
+        "game": "usum-us",
+        "text": "Timide de nature, il change constamment\nd’apparence, sauf quand il est entouré de\nses congénères."
+      },
+      {
+        "game": "usum-um",
+        "text": "Si un enfant volubile a soudain perdu sa langue,\nméfiez-vous ! C’est peut-être un Zorua qui\na pris son apparence..."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "À cause de sa timidité, il aurait développé\nla capacité de changer son apparence."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Il lui arrive de se changer en être humain,\nsurtout en enfant, pour venir chercher\nde la nourriture en ville."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Zorua",
+    "genus": "Lausefuchs-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Nicht selten überrumpelt es Gegner, indem es ihre\nGestalt annimmt und den Überraschungseffekt zur\nFlucht nutzt."
+      },
+      {
+        "game": "xy-y",
+        "text": "Es tarnt sich als Mensch oder als andere Pokémon.\nEs schützt sich vor Gefahren, indem es seine wahre\nGestalt geheim hält."
+      },
+      {
+        "game": "oras-or",
+        "text": "Nicht selten überrumpelt es Gegner, indem es ihre Gestalt\nannimmt und den Überraschungseffekt zur Flucht nutzt."
+      },
+      {
+        "game": "oras-as",
+        "text": "Es tarnt sich als Mensch oder als andere Pokémon. Es schützt\nsich vor Gefahren, indem es seine wahre Gestalt geheim hält."
+      },
+      {
+        "game": "usum-us",
+        "text": "Ein furchtsames Pokémon, das die Gestalt eines\nanderen annimmt, wenn es sich nicht in der\nGesellschaft seiner Artgenossen befindet."
+      },
+      {
+        "game": "usum-um",
+        "text": "Wenn man einem normalerweise geschwätzigen\nKind begegnet, das plötzlich keinen Ton mehr\nspricht, könnte es ein verwandeltes Zorua sein."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Durch seine furchtsame Natur lernte es wohl,\nseine Gestalt zu ändern."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Auf der Suche nach Nahrung verschlägt es Zorua\nmanchmal auch in Städte. Dort tarnt es sich\nüblicherweise als Menschenkind."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Zorua",
+    "genus": "Pokémon Zorro Pillo",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Adopta la apariencia de su enemigo para engañarlo\nvilmente y aprovecha su estupor para poner tierra por\nmedio."
+      },
+      {
+        "game": "xy-y",
+        "text": "Se transforma en humanos o en otros Pokémon.\nSe defiende del peligro ocultando su verdadera\napariencia."
+      },
+      {
+        "game": "oras-or",
+        "text": "Adopta la apariencia de su enemigo para engañarlo vilmente y\naprovecha su estupor para poner tierra por medio."
+      },
+      {
+        "game": "oras-as",
+        "text": "Se transforma en humanos o en otros Pokémon. Se defiende\ndel peligro ocultando su verdadera apariencia."
+      },
+      {
+        "game": "usum-us",
+        "text": "Es tan miedoso que, cuando no se halla junto a\nsus compañeros, casi siempre adopta un\naspecto distinto."
+      },
+      {
+        "game": "usum-um",
+        "text": "Si un niño parlanchín se vuelve taciturno, tal vez\npueda tratarse en realidad de un Zorua que ha\nadoptado su aspecto."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Al parecer, fue su carácter miedoso lo que le\nllevó a desarrollar la capacidad de transformarse."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Suele transformarse en personas, sobre todo en\nniños, y se adentra en pueblos buscando comida."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Zorua",
+    "genus": "Pokémon Malavolpe",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Inganna spesso il nemico assumendone la forma e\nlasciandolo esterrefatto, per poi darsi alla fuga."
+      },
+      {
+        "game": "xy-y",
+        "text": "Si protegge dai pericoli trasformandosi in essere\numano o in un altro Pokémon, nascondendo così la\nsua vera identità."
+      },
+      {
+        "game": "oras-or",
+        "text": "Inganna spesso il nemico assumendone la forma e lasciandolo\nesterrefatto, per poi darsi alla fuga."
+      },
+      {
+        "game": "oras-as",
+        "text": "Si protegge dai pericoli trasformandosi in essere umano o in\nun altro Pokémon, nascondendo così la sua vera identità."
+      },
+      {
+        "game": "usum-us",
+        "text": "È un Pokémon molto timido. Quando non è\ncircondato dai suoi simili, assume sembianze\ndiverse dalle quelle abituali."
+      },
+      {
+        "game": "usum-um",
+        "text": "Se un bambino chiacchierone diventa di colpo\ntaciturno, potrebbe essere in realtà uno Zorua\nche ne ha preso le sembianze."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Pare che abbia sviluppato l’abilità di alterare le\nsue sembianze per via della sua natura timorosa."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Quando è in cerca di cibo, capita persino che\nappaia in città assumendo sembianze umane.\nSi trasforma principalmente in bambini."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Zorua",
+    "genus": "Tricky Fox Pokémon",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "It changes into the forms of others\nto surprise them. Apparently, it\noften transforms into a silent child."
+      },
+      {
+        "game": "bw-w",
+        "text": "To protect themselves from danger,\nthey hide their true identities by\ntransforming into people and Pokémon."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "It changes so it looks just\nlike its foe, tricks it, and then\nuses that opportunity to flee."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "It changes so it looks just\nlike its foe, tricks it, and then\nuses that opportunity to flee."
+      },
+      {
+        "game": "xy-x",
+        "text": "It changes so it looks just like its foe, tricks it, and\nthen uses that opportunity to flee."
+      },
+      {
+        "game": "xy-y",
+        "text": "To protect themselves from danger, they hide their\ntrue identities by transforming into people\nand Pokémon."
+      },
+      {
+        "game": "oras-or",
+        "text": "It changes so it looks just like its foe, tricks it, and\nthen uses that opportunity to flee."
+      },
+      {
+        "game": "oras-as",
+        "text": "To protect themselves from danger, they hide their\ntrue identities by transforming into people\nand Pokémon."
+      },
+      {
+        "game": "usum-us",
+        "text": "This Pokémon has a cowardly disposition, so\nwhen it’s not around friends, it basically\nalways stays transformed as something else."
+      },
+      {
+        "game": "usum-um",
+        "text": "If a normally talkative child suddenly stops\ntalking, it may have been replaced by Zorua."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Zorua is a timid Pokémon. This disposition seems\nto be what led to the development of Zorua’s\nability to take on the forms of other creatures."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Zorua sometimes transforms into a person and\ngoes into cities to search for food. When Zorua\ndoes this, it usually takes on the form of a child."
+      },
+      {
+        "game": "la",
+        "text": "A once-departed soul, returned to life in Hisui. Derives power\nfrom resentment, which rises as energy atop its head and takes\non the forms of foes. In this way, Zorua vents lingering malice."
+      }
+    ]
+  },
+  "chs": {
+    "name": "索罗亚",
+    "genus": "恶狐宝可梦",
+    "flavorText": [
+      {
+        "game": "usum-us",
+        "text": "性格胆小的宝可梦，\n不和伙伴呆在一起的时候，\n通常都会幻化成其他东西。"
+      },
+      {
+        "game": "usum-um",
+        "text": "平时很爱说话的孩子\n如果突然不说话了，\n或许是被索罗亚替换了哦。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "之所以学会了幻化成\n其他东西的能力，似乎是\n因为它的性格比较胆小。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "为了寻找食物，有时甚至会\n幻化成人类出现在城镇里。\n多数情况下会幻化成小孩。"
+      }
+    ]
+  }
+}

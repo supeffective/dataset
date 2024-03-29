@@ -1,0 +1,365 @@
+{
+  "jap": {
+    "name": "ダイノーズ",
+    "genus": "コンパスポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "ぜんしんから　つよい　じりょくを\nだしている。３この　チビノーズと\nよばれる　ユニットを　あやつる。"
+      },
+      {
+        "game": "xy-y",
+        "text": "チビノーズと　よばれる　ちいさな\n３つの　ユニットを　じりょくで\nじゆうじざいに　あやつっている。"
+      },
+      {
+        "game": "oras-or",
+        "text": "ぜんしんから　つよい　じりょくを\nだしている。３この　チビノーズと\nよばれる　ユニットを　あやつる。"
+      },
+      {
+        "game": "oras-as",
+        "text": "チビノーズと　よばれる　ちいさな\n３つの　ユニットを　じりょくで\nじゆうじざいに　あやつっている。"
+      },
+      {
+        "game": "sm-s",
+        "text": "つよい　じりょくを　はなっているので\nちかくにある　でんかせいひんは\nつかいものに　ならなくなってしまう。"
+      },
+      {
+        "game": "sm-m",
+        "text": "ほんたいは　うごかず　チビノーズと\nよばれる　３つのユニットを　じざいに\nあやつり　えものを　とらえる。"
+      },
+      {
+        "game": "usum-us",
+        "text": "チビノーズと　よばれる　ユニットを\nあやつるが　たまに　まいごに　なって\nかえってこないことも　あるらしい。"
+      },
+      {
+        "game": "usum-um",
+        "text": "３つの　ちいさな　ユニットを　つかい\nエサを　とったり　てきと　たたかう。\nほんたいは　ほぼ　めいれいするだけ。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Dainose",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "대코파스",
+    "genus": "콤파스포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "전신에서 강한 자력을 발산하고\n있다. 꼬마코파스라고 불리는\n3개의 유닛을 조종한다."
+      },
+      {
+        "game": "xy-y",
+        "text": "꼬마코파스라고 불리는 작은\n3개의 유닛을 자력으로\n자유자재로 조종한다."
+      },
+      {
+        "game": "oras-or",
+        "text": "전신에서 강한 자력을 발산하고\n있다. 꼬마코파스라고 불리는\n3개의 유닛을 조종한다."
+      },
+      {
+        "game": "oras-as",
+        "text": "꼬마코파스라고 불리는 작은\n3개의 유닛을 자력으로\n자유자재로 조종한다."
+      },
+      {
+        "game": "sm-s",
+        "text": "강한 자력을 뿜어내기 때문에\n가까이 있는 전기 제품은\n망가져 버리고 만다."
+      },
+      {
+        "game": "sm-m",
+        "text": "본체는 움직이지 않고 꼬마코파스라고\n불리는 3개의 유닛을 자유자재로\n조종하여 먹이를 잡는다."
+      },
+      {
+        "game": "usum-us",
+        "text": "꼬마코파스라고 불리는 유닛을\n조종하지만 가끔 미아가 되어\n돌아오지 않는 경우도 있는 듯하다."
+      },
+      {
+        "game": "usum-um",
+        "text": "3개의 작은 유닛을 사용해서\n먹이를 잡거나 적과 싸운다.\n본체는 거의 명령할 뿐이다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "大朝北鼻",
+    "genus": "羅盤寶可夢",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "因為會釋放強大的磁力，\n導致附近的電器都變得\n無法使用。"
+      },
+      {
+        "game": "sm-m",
+        "text": "可以本體不動，\n自由操縱被稱為小朝北鼻的\n３個組件來捕捉獵物。"
+      },
+      {
+        "game": "usum-us",
+        "text": "會操縱被稱為小朝北鼻的組件。\n但這些組件有時似乎會\n因為迷路而無法回來。"
+      },
+      {
+        "game": "usum-um",
+        "text": "會驅使３個小組件去\n獲取食物或與敵人戰鬥。\n本體基本上只負責下命令。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Tarinorme",
+    "genus": "Pokémon Boussole",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Il utilise sa force magnétique pour\ndiriger trois petites unités\nappelées Mini-nez."
+      },
+      {
+        "game": "bw-w",
+        "text": "Il utilise sa force magnétique pour\ndiriger trois petites unités\nappelées Mini-nez."
+      },
+      {
+        "game": "xy-x",
+        "text": "Son corps libère une puissante force magnétique.\nIl dirige trois petites unités appelées Mini-nez."
+      },
+      {
+        "game": "xy-y",
+        "text": "Il utilise sa force magnétique pour diriger trois petites\nunités appelées Mini-nez."
+      },
+      {
+        "game": "oras-or",
+        "text": "Son corps libère une puissante force magnétique.\nIl dirige trois petites unités appelées Mini-nez."
+      },
+      {
+        "game": "oras-as",
+        "text": "Il utilise sa force magnétique pour diriger trois petites unités\nappelées Mini-nez."
+      },
+      {
+        "game": "sm-s",
+        "text": "Il émet un puissant champ magnétique qui rend\ntous les appareils électriques des alentours\ninutilisables."
+      },
+      {
+        "game": "sm-m",
+        "text": "Sans avoir besoin de se déplacer, il pilote ses\ntrois Mini-nez à distance afin de capturer\nses proies."
+      },
+      {
+        "game": "usum-us",
+        "text": "Il est capable de piloter ses Mini-nez à distance,\nmais il arrive que l’un d’entre eux s’aventure\ntrop loin et se perde pour ne jamais revenir."
+      },
+      {
+        "game": "usum-um",
+        "text": "Il utilise ses trois petites unités pour combattre\nses ennemis et capturer ses proies. Le reste de\nson corps se contente de donner des ordres."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Voluminas",
+    "genus": "Kompass",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Es gibt starken Magnetismus ab. Es steuert drei\nkleine Einheiten, die sich Mininasen nennen."
+      },
+      {
+        "game": "xy-y",
+        "text": "Es steuert drei kleine Einheiten mithilfe von\nstarkem Magnetismus. Man nennt sie Mininasen."
+      },
+      {
+        "game": "oras-or",
+        "text": "Es gibt starken Magnetismus ab. Es steuert drei kleine\nEinheiten, die sich Mininasen nennen."
+      },
+      {
+        "game": "oras-as",
+        "text": "Es steuert drei kleine Einheiten mithilfe von\nstarkem Magnetismus. Man nennt sie Mininasen."
+      },
+      {
+        "game": "sm-s",
+        "text": "Durch seinen starken Magnetismus macht es\nElektrogeräte in seiner Nähe kaputt."
+      },
+      {
+        "game": "sm-m",
+        "text": "Sein Körper selbst bewegt sich nicht. Um Beute\nzu fangen, steuert es drei kleine Einheiten,\ndie Mininasen genannt werden."
+      },
+      {
+        "game": "usum-us",
+        "text": "Es steuert kleine Einheiten, die man Mininasen\nnennt. Leider verirren sie sich manchmal, und es\nheißt, dass einige von ihnen nie wiederkehren."
+      },
+      {
+        "game": "usum-um",
+        "text": "Sein Körper selbst befehligt meist nur die drei\nkleinen Einheiten, die an seiner Stelle kämpfen\nund für die Nahrungssuche zuständig sind."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Probopass",
+    "genus": "Pokémon Brújula",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Emana un fuerte magnetismo. Controla tres pequeñas\nunidades llamadas mininarices."
+      },
+      {
+        "game": "xy-y",
+        "text": "Con el magnetismo que emana, controla tres pequeñas\nunidades llamadas mininarices."
+      },
+      {
+        "game": "oras-or",
+        "text": "Emana un fuerte magnetismo. Controla tres pequeñas\nunidades llamadas mininarices."
+      },
+      {
+        "game": "oras-as",
+        "text": "Con el magnetismo que emana, controla tres pequeñas\nunidades llamadas mininarices."
+      },
+      {
+        "game": "sm-s",
+        "text": "Crea un campo magnético tan potente que\ninutiliza cualquier electrodoméstico que se\nencuentre cerca."
+      },
+      {
+        "game": "sm-m",
+        "text": "Las tres unidades que controla, llamadas\nmininarices, le permiten atrapar a su presa\nsin necesidad de mover el resto de su cuerpo."
+      },
+      {
+        "game": "usum-us",
+        "text": "Manipula unas pequeñas unidades conocidas\ncomo mininarices, aunque estas a veces se\npierden y no saben cómo regresar a Probopass."
+      },
+      {
+        "game": "usum-um",
+        "text": "Usa sus tres pequeñas unidades para capturar\npresas o combatir, mientras que el resto de su\ncuerpo se dedica casi solo a impartir órdenes."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Probopass",
+    "genus": "Pokémon Bussola",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Emana un forte magnetismo da tutto il corpo.\nControlla tre piccole unità, dette Mininasi."
+      },
+      {
+        "game": "xy-y",
+        "text": "Controlla tre piccole unità, dette Mininasi, usando\nla forza magnetica."
+      },
+      {
+        "game": "oras-or",
+        "text": "Emana un forte magnetismo da tutto il corpo. Controlla\ntre piccole unità, dette Mininasi."
+      },
+      {
+        "game": "oras-as",
+        "text": "Controlla tre piccole unità, dette Mininasi, usando la forza\nmagnetica."
+      },
+      {
+        "game": "sm-s",
+        "text": "Emette un forte campo magnetico che manda\nin cortocircuito le apparecchiature elettriche\nrendendole inutilizzabili."
+      },
+      {
+        "game": "sm-m",
+        "text": "È in grado di controllare tre piccole unità dette\nMininasi per catturare le sue prede senza\ndoversi spostare."
+      },
+      {
+        "game": "usum-us",
+        "text": "Controlla delle unità dette Mininasi, ma pare che\na volte queste si smarriscano e non riescano più\na tornare."
+      },
+      {
+        "game": "usum-um",
+        "text": "Usa le tre piccole unità per procacciare il cibo\ne lottare contro i nemici. Il corpo centrale si\nlimita quasi esclusivamente a impartire ordini."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Probopass",
+    "genus": "Compass Pokémon",
+    "flavorText": [
+      {
+        "game": "pt",
+        "text": "It freely controls three small\nunits called Mini-Noses using\nmagnetic force."
+      },
+      {
+        "game": "dp-d",
+        "text": "It exudes strong magnetism from\nall over. It controls three small\nunits called Mini-Noses."
+      },
+      {
+        "game": "dp-p",
+        "text": "It exudes strong magnetism from\nall over. It controls three small\nunits called Mini-Noses."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "It controls three units called Mini-Noses\nusing magnetic force. With them, it can\nattack the foe from three directions."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "It controls three units called Mini-Noses\nusing magnetic force. With them, it can\nattack the foe from three directions."
+      },
+      {
+        "game": "bw-b",
+        "text": "It freely controls three small\nunits called Mini-Noses using\nmagnetic force."
+      },
+      {
+        "game": "bw-w",
+        "text": "It freely controls three small\nunits called Mini-Noses using\nmagnetic force."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "It freely controls three units\ncalled Mini-Noses using\nmagnetic force."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "It freely controls three units\ncalled Mini-Noses using\nmagnetic force."
+      },
+      {
+        "game": "xy-x",
+        "text": "It exudes strong magnetism from all over.\nIt controls three small units called Mini-Noses."
+      },
+      {
+        "game": "xy-y",
+        "text": "It freely controls three small units called Mini-Noses\nusing magnetic force."
+      },
+      {
+        "game": "oras-or",
+        "text": "It exudes strong magnetism from all over.\nIt controls three small units called Mini-Noses."
+      },
+      {
+        "game": "oras-as",
+        "text": "It freely controls three small units called Mini-Noses\nusing magnetic force."
+      },
+      {
+        "game": "sm-s",
+        "text": "It radiates such a powerful magnetic field that\nnearby electrical appliances become unusable."
+      },
+      {
+        "game": "sm-m",
+        "text": "The main body controls three mobile units called\nMini-Noses, which it maneuvers to catch prey."
+      },
+      {
+        "game": "usum-us",
+        "text": "Although it can control its units known as\nMini-Noses, they sometimes get lost and don’t\ncome back."
+      },
+      {
+        "game": "usum-um",
+        "text": "It uses three small units to catch prey and\nbattle enemies. The main body mostly just\ngives orders."
+      },
+      {
+        "game": "la",
+        "text": "It is able to emit powerful magnetism, allowing it control over\nthe iron sand that forms its luscious mustache. Using this iron\nsand, Probopass forms hard stones with which it smites its prey."
+      }
+    ]
+  },
+  "chs": {
+    "name": "大朝北鼻",
+    "genus": "罗盘宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "因为会释放强大的磁力，\n所以导致附近的电器都变得无法使用。"
+      },
+      {
+        "game": "sm-m",
+        "text": "可以本体不动，\n自由操纵被称为小朝北鼻的\n３个部件来捕捉猎物。"
+      },
+      {
+        "game": "usum-us",
+        "text": "操纵着被称为小朝北鼻的部件，\n但这些部件好像偶尔也会迷路，没法回来。"
+      },
+      {
+        "game": "usum-um",
+        "text": "使用３个小部件获取食物，\n或是和敌人战斗。\n本体基本上只负责下命令。"
+      }
+    ]
+  }
+}

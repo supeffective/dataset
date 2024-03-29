@@ -1,0 +1,477 @@
+{
+  "jap": {
+    "name": "オニドリル",
+    "genus": "くちばしポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "おおきな　つばさで　おおぞらを\nとびつづけることが　できる。\n１かいも　おりなくても　へいきだ。"
+      },
+      {
+        "game": "xy-y",
+        "text": "おおきな　つばさで　１にちじゅう\nとびまわる　たいりょくの　もちぬし。\nするどい　くちばしで　たたかう。"
+      },
+      {
+        "game": "oras-or",
+        "text": "ながい　くびと　くちばしは　つちや　みずの\nなかに　いる　エサを　つかまえるのに　べんり。\nほそながい　くちばしで　きように　つまむぞ。"
+      },
+      {
+        "game": "oras-as",
+        "text": "ながい　くびと　くちばしは　つちや　みずの\nなかに　いる　エサを　つかまえるのに　べんり。\nほそながい　くちばしで　きように　つまむぞ。"
+      },
+      {
+        "game": "sm-s",
+        "text": "タフで　じきゅうりょくに　すぐれる。\nおもたい　にもつを　のせたまま\nまる１にち　とびつづけても　へいき。"
+      },
+      {
+        "game": "sm-m",
+        "text": "はるか　たいこの　へきがのなかに\nオニドリルらしき　ポケモンが\nえがかれていることが　わかった。"
+      },
+      {
+        "game": "usum-us",
+        "text": "オニドリルの　なわばりで　たべものを\nもって　あるくのは　キケンだ。\nあっという　まに　かっさらわれるぞ。"
+      },
+      {
+        "game": "usum-um",
+        "text": "アローラでは　さかなポケモンが\nえもの。　うみの　うえを　せんかいし\nエサをさがす　こうけいが　みられる。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "むかしから　すんでいる　ポケモン。\nすこしでも　きけんを　かんじると\nそらたかく　とんで　いってしまう。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "むかしから　すんでいる　ポケモン。\nすこしでも　きけんを　かんじると\nそらたかく　とんで　いってしまう。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Onidrill",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "깨비드릴조",
+    "genus": "부리포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "커다란 날개로 넓은 하늘을\n계속 날 수 있다.\n한 번도 내려앉지 않아도 괜찮다."
+      },
+      {
+        "game": "xy-y",
+        "text": "큰 날개로 온종일\n날아다닐 수 있는 체력의 소유자다.\n날카로운 부리로 싸운다."
+      },
+      {
+        "game": "oras-or",
+        "text": "긴 목과 부리는 땅이나 물 안에\n있는 먹이를 잡기 편리하다.\n가늘고 긴 부리로 능숙히 집는다."
+      },
+      {
+        "game": "usum-um",
+        "text": "알로라에서는 물고기포켓몬이\n먹이다. 바다 위를 선회하며\n먹이를 찾는 광경을 볼 수 있다."
+      },
+      {
+        "game": "oras-as",
+        "text": "긴 목과 부리는 땅이나 물 안에\n있는 먹이를 잡기 편리하다.\n가늘고 긴 부리로 능숙히 집는다."
+      },
+      {
+        "game": "sm-s",
+        "text": "터프하고 지구력도 우수하다.\n무거운 짐을 진 채\n온종일 날아도 끄떡없다."
+      },
+      {
+        "game": "sm-m",
+        "text": "먼 태곳적 벽화 속에\n깨비드릴조처럼 보이는 포켓몬이\n그려져 있는 것이 발견되었다."
+      },
+      {
+        "game": "usum-us",
+        "text": "깨비드릴조 영역에서 음식을\n갖고 다니는 것은 위험하다.\n순식간에 빼앗긴다."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "옛날부터 살고 있는 포켓몬.\n조금이라도 위험을 감지하면\n하늘 높이 날아가 버린다."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "옛날부터 살고 있는 포켓몬.\n조금이라도 위험을 감지하면\n하늘 높이 날아가 버린다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "大嘴雀",
+    "genus": "鳥嘴寶可夢",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "強壯且擁有優秀的持久力。\n即使載著很重的貨物\n持續飛行一整天也沒問題。"
+      },
+      {
+        "game": "sm-m",
+        "text": "經調查發現，在遙遠\n太古時代的壁畫描繪著\n形似大嘴雀的寶可夢。"
+      },
+      {
+        "game": "usum-us",
+        "text": "在大嘴雀的地盤上\n帶著食物走動是件危險的事，\n食物轉眼間就會被奪走。"
+      },
+      {
+        "game": "usum-um",
+        "text": "在阿羅拉，牠的獵物是魚寶可夢，\n所以能看見牠盤旋在海上\n尋找食物的景象。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "從很久以前就已存在的寶可夢。\n只要察覺到絲毫的危險，\n就會立刻飛上高空躲避。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "從很久以前就已存在的寶可夢。\n只要察覺到絲毫的危險，\n就會立刻飛上高空躲避。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Rapasdepic",
+    "genus": "Pokémon Bec-Oiseau",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Il a assez d’énergie pour voler\ntoute la journée avec ses grandes\nailes. Il frappe de son bec acéré."
+      },
+      {
+        "game": "bw-w",
+        "text": "Il a assez d’énergie pour voler\ntoute la journée avec ses grandes\nailes. Il frappe de son bec acéré."
+      },
+      {
+        "game": "xy-x",
+        "text": "Ses ailes géantes lui permettent de voler sur de\nlongues distances sans qu’il ait besoin de se reposer."
+      },
+      {
+        "game": "xy-y",
+        "text": "Il a assez d’énergie pour voler toute la journée avec\nses grandes ailes. Il frappe de son bec acéré."
+      },
+      {
+        "game": "oras-or",
+        "text": "On reconnaît un Rapasdepic à son long cou et à son bec\nallongé. Ces attributs lui permettent d’attraper facilement\nses proies dans la terre ou dans l’eau. Il bouge son bec\nlong et fin avec une grande agilité."
+      },
+      {
+        "game": "oras-as",
+        "text": "On reconnaît un Rapasdepic à son long cou et à son bec\nallongé. Ces attributs lui permettent d’attraper facilement\nses proies dans la terre ou dans l’eau. Il bouge son bec\nlong et fin avec une grande agilité."
+      },
+      {
+        "game": "sm-s",
+        "text": "Un Pokémon robuste et extrêmement endurant.\nIl est capable de voler du matin au soir tout\nen transportant de lourdes charges."
+      },
+      {
+        "game": "sm-m",
+        "text": "Un Pokémon fort ancien, qui a même été identifié\nsur des fresques antiques."
+      },
+      {
+        "game": "usum-us",
+        "text": "Si vous vous promenez sur le territoire d’un\nRapasdepic en transportant de la nourriture,\nvous risquez de vite la voir s’envoler !"
+      },
+      {
+        "game": "usum-um",
+        "text": "À Alola, il se repaît de Pokémon poissons.\nOn le voit souvent voler en cercle au-dessus\ndes flots en quête de nourriture."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Un Pokémon très ancien. S’il perçoit un danger,\nil fuit instantanément à haute altitude."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Un Pokémon très ancien. S’il perçoit un danger,\nil fuit instantanément à haute altitude."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Ibitak",
+    "genus": "Pickvogel",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Mit seinen riesigen Flügeln kann dieses Pokémon\nnahezu pausenlos in der Luft bleiben."
+      },
+      {
+        "game": "xy-y",
+        "text": "Es hat genügend Ausdauer, den ganzen Tag\nzu fliegen. Sein scharfer Schnabel dient als Waffe."
+      },
+      {
+        "game": "oras-or",
+        "text": "Ibitak erkennt man an seinem langen Hals und Schnabel.\nEr ist hervorragend dafür geeignet, im Erdreich oder im\nWasser Beute zu jagen. Es setzt seinen langen, dünnen\nSchnabel dabei sehr geschickt ein."
+      },
+      {
+        "game": "oras-as",
+        "text": "Ibitak erkennt man an seinem langen Schnabel. Er ist\nhervorragend dafür geeignet, im Erdreich oder im Wasser\nBeute zu jagen. Es setzt seinen langen, dünnen Schnabel\ndabei sehr geschickt ein."
+      },
+      {
+        "game": "sm-s",
+        "text": "Es ist belastbar und hat genügend Ausdauer,\num selbst mit schwerer Fracht beladen einen\nganzen Tag lang in der Luft zu bleiben."
+      },
+      {
+        "game": "sm-m",
+        "text": "Wie kürzlich bekannt wurde, existieren uralte\nWandmalereien, auf denen Pokémon abgebildet\nsind, die Ähnlichkeiten mit Ibitak aufweisen."
+      },
+      {
+        "game": "usum-us",
+        "text": "Wer Essbares dabeihat, sollte sich nicht in\nIbitaks Revier begeben, da sonst ein Überfall\naus heiterem Himmel droht."
+      },
+      {
+        "game": "usum-um",
+        "text": "In Alola findet es seine Beute im Meer. Ibitak, die\nsuchend ihre Kreise über dem Wasser ziehen,\nsind ein typischer Anblick in der Region."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Dieses Pokémon gehört einer sehr alten Spezies\nan. Wittert es Gefahr, so fliegt es sofort in große\nHöhen davon."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Dieses Pokémon gehört einer sehr alten Spezies\nan. Wittert es Gefahr, so fliegt es sofort in große\nHöhen davon."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Fearow",
+    "genus": "Pokémon Pico",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Con sus enormes y magníficas alas, puede seguir\nvolando sin tener que aterrizar para descansar."
+      },
+      {
+        "game": "xy-y",
+        "text": "Tiene energía para volar todo el día con sus grandes\nalas. Lucha con su afilado pico."
+      },
+      {
+        "game": "oras-or",
+        "text": "A Fearow se le reconoce por tener un pescuezo y un pico\nlargos que le permiten cazar en tierra y agua. Tiene una\ngran habilidad moviendo el fino pico para atrapar a sus presas."
+      },
+      {
+        "game": "oras-as",
+        "text": "A Fearow se le reconoce por tener un pescuezo y un pico\nlargos que le permiten cazar en tierra y agua. Tiene una\ngran habilidad moviendo el fino pico para atrapar a sus presas."
+      },
+      {
+        "game": "sm-s",
+        "text": "Son de destacar su dureza y resistencia.\nPuede volar sin parar durante un día entero\naunque lleve una pesada carga."
+      },
+      {
+        "game": "sm-m",
+        "text": "En algunos murales de épocas arcaicas se han\nhallado pinturas de un Pokémon que guarda un\ngran parecido con Fearow."
+      },
+      {
+        "game": "usum-us",
+        "text": "Es peligroso pasear con comida por su territorio,\nya que supone exponerse a que en cualquier\nmomento se abalance para robarla."
+      },
+      {
+        "game": "usum-um",
+        "text": "En Alola, se alimenta de Pokémon pez. A menudo\nse lo puede ver sobrevolando el mar en círculos\nen busca de presas."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Este Pokémon ha existido desde tiempos\nremotos. Al menor atisbo de peligro, alza el\nvuelo y huye."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Este Pokémon ha existido desde tiempos\nremotos. Al menor atisbo de peligro, alza el\nvuelo y huye."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Fearow",
+    "genus": "Pokémon Becco",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Con le sue enormi e magnifiche ali, è in grado di\nvolare senza mai atterrare per riposarsi."
+      },
+      {
+        "game": "xy-y",
+        "text": "Le sue ampie ali robuste gli permettono di volare\ntutto il giorno. Combatte usando il becco aguzzo."
+      },
+      {
+        "game": "oras-or",
+        "text": "Fearow è caratterizzato da un collo e un becco molto lunghi,\ndalla forma ottimale per la cattura della preda a terra o\nin acqua. Muove agilmente il becco lungo e affusolato\nper stanare la preda."
+      },
+      {
+        "game": "oras-as",
+        "text": "Fearow è caratterizzato da un collo e un becco molto lunghi,\ndalla forma ottimale per la cattura della preda a terra o\nin acqua. Muove agilmente il becco lungo e affusolato\nper stanare la preda."
+      },
+      {
+        "game": "sm-s",
+        "text": "Ha una notevole resistenza fisica e può volare\nper un giorno intero trasportando oggetti\npesanti."
+      },
+      {
+        "game": "sm-m",
+        "text": "Sembra che questo Pokémon sia raffigurato\nin pitture rupestri antichissime."
+      },
+      {
+        "game": "usum-us",
+        "text": "Chi attraversa il suo territorio portando con sé\ndel cibo corre il rischio di vederselo strappare\nvia in men che non si dica."
+      },
+      {
+        "game": "usum-um",
+        "text": "Ad Alola si ciba di Pokémon acquatici.\nSpesso lo si vede volteggiare sul mare in\ncerca di prede."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Questo Pokémon molto antico vola in alto\nnel cielo al minimo accenno di pericolo."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Questo Pokémon molto antico vola in alto\nnel cielo al minimo accenno di pericolo."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Fearow",
+    "genus": "Beak Pokémon",
+    "flavorText": [
+      {
+        "game": "rb-r",
+        "text": "With its huge and\nmagnificent wings,\nit can keep aloft\fwithout ever\nhaving to land\nfor rest."
+      },
+      {
+        "game": "rb-b",
+        "text": "With its huge and\nmagnificent wings,\nit can keep aloft\fwithout ever\nhaving to land\nfor rest."
+      },
+      {
+        "game": "y",
+        "text": "A POKéMON that\ndates back many\nyears. If it\fsenses danger, it\nflies high and\naway, instantly."
+      },
+      {
+        "game": "gs-g",
+        "text": "It shoots itself\nsuddenly high into\nthe sky, then\fplummets down in\none fell swoop to\nstrike its prey."
+      },
+      {
+        "game": "gs-s",
+        "text": "It cleverly uses\nits thin, long\nbeak to pluck and\feat small insects\nthat hide under\nthe ground."
+      },
+      {
+        "game": "c",
+        "text": "It uses its long\nbeak to attack. It\nhas a surprisingly\flong reach, so it\nmust be treated\nwith caution."
+      },
+      {
+        "game": "rs-r",
+        "text": "FEAROW is recognized by its long neck\nand elongated beak.\nThey are conveniently shaped for\fcatching prey in soil or water.\nIt deftly moves its long and skinny\nbeak to pluck prey."
+      },
+      {
+        "game": "rs-s",
+        "text": "FEAROW is recognized by its long neck\nand elongated beak.\nThey are conveniently shaped for\fcatching prey in soil or water.\nIt deftly moves its long and skinny\nbeak to pluck prey."
+      },
+      {
+        "game": "e",
+        "text": "Its long neck and elongated beak are\nideal for catching prey in soil or water.\nIt deftly moves this extended and skinny\nbeak to pluck prey."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "Its huge and magnificent wings can keep it\naloft in the sky. It can remain flying a\nwhole day without landing."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "With its huge and magnificent wings, it can\nkeep aloft without ever having to land\nfor rest."
+      },
+      {
+        "game": "dp-d",
+        "text": "It has the stamina to fly all\nday on its broad wings. It\nfights by using its sharp beak."
+      },
+      {
+        "game": "dp-p",
+        "text": "It has the stamina to keep flying\nall day on its broad wings. It\nfights by using its sharp beak."
+      },
+      {
+        "game": "pt",
+        "text": "It has the stamina to fly all\nday on its broad wings. It\nfights by using its sharp beak."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "It shoots itself suddenly high into\nthe sky, then plummets down in\none fell swoop to strike its prey."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "It cleverly uses its thin, long\nbeak to pluck and eat small insects\nthat hide under the ground."
+      },
+      {
+        "game": "bw-b",
+        "text": "It has the stamina to fly all\nday on its broad wings. It\nfights by using its sharp beak."
+      },
+      {
+        "game": "bw-w",
+        "text": "It has the stamina to fly all\nday on its broad wings. It\nfights by using its sharp beak."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "It has the stamina to fly all\nday on its broad wings. It\nfights by using its sharp beak."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "It has the stamina to fly all\nday on its broad wings. It\nfights by using its sharp beak."
+      },
+      {
+        "game": "xy-x",
+        "text": "With its huge and magnificent wings, it can keep\naloft without ever having to land for rest."
+      },
+      {
+        "game": "xy-y",
+        "text": "It has the stamina to fly all day on its broad wings.\nIt fights by using its sharp beak."
+      },
+      {
+        "game": "oras-or",
+        "text": "Fearow is recognized by its long neck and elongated beak.\nThey are conveniently shaped for catching prey in soil\nor water. It deftly moves its long and skinny beak to\npluck prey."
+      },
+      {
+        "game": "oras-as",
+        "text": "Fearow is recognized by its long neck and elongated beak.\nThey are conveniently shaped for catching prey in soil or\nwater. It deftly moves its long and skinny beak to pluck prey."
+      },
+      {
+        "game": "sm-s",
+        "text": "It’s tough and has excellent stamina.\nIt has no problem flying continuously\nfor a whole day carrying a heavy load."
+      },
+      {
+        "game": "sm-m",
+        "text": "Drawings of a Pokémon resembling Fearow can\nbe seen in murals from deep in ancient history."
+      },
+      {
+        "game": "usum-us",
+        "text": "Carrying food through Fearow’s territory is\ndangerous. It will snatch the food away from\nyou in a flash!"
+      },
+      {
+        "game": "usum-um",
+        "text": "In Alola, fish Pokémon are its prey. It can be\nseen circling above the ocean searching\nfor food."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "A Pokémon that dates back many years. If it\nsenses danger, it flies high and away, instantly."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "A Pokémon that dates back many years. If it\nsenses danger, it flies high and away, instantly."
+      }
+    ]
+  },
+  "chs": {
+    "name": "大嘴雀",
+    "genus": "鸟嘴宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "因为很强壮而持久力优秀。\n即使载着很重的货物持续\n飞行一整天也平心静气。"
+      },
+      {
+        "game": "sm-m",
+        "text": "经查证，在遥远的\n太古时代壁画中描绘有\n形似大嘴雀的宝可梦。"
+      },
+      {
+        "game": "usum-us",
+        "text": "在大嘴雀的领地上拿着食物\n走动可是相当危险的。\n食物转眼间就会被抢走。"
+      },
+      {
+        "game": "usum-um",
+        "text": "在阿罗拉，它的猎物是鱼宝可梦。\n能看到它盘旋在海上觅食的景象。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "很久以前就存在的宝可梦。\n哪怕只察觉到一丝危险，\n都会立即飞向高空。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "很久以前就存在的宝可梦。\n哪怕只察觉到一丝危险，\n都会立即飞向高空。"
+      }
+    ]
+  }
+}

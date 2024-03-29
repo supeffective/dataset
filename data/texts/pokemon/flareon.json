@@ -1,0 +1,553 @@
+{
+  "jap": {
+    "name": "ブースター",
+    "genus": "ほのおポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "たいないに　ほのおぶくろを　もつ。\nたたかいが　はじまる　ちょくぜんには\nたいおんが　９００どまで　あがる。"
+      },
+      {
+        "game": "xy-y",
+        "text": "たいないに　ほのおぶくろが　あり\nふかく　いきを　すいこんだあと\n１７００ど　の　ひを　はく。"
+      },
+      {
+        "game": "oras-or",
+        "text": "ふさふさの　たいもうは　あがりすぎた　たいおんを\nくうきに　ほうねつして　さげる　きのうを　もつ。\nたいおんは　さいこう　９００ど　まで　あがるぞ。"
+      },
+      {
+        "game": "oras-as",
+        "text": "ふさふさの　たいもうは　あがりすぎた　たいおんを\nくうきに　ほうねつして　さげる　きのうを　もつ。\nたいおんは　さいこう　９００ど　まで　あがるぞ。"
+      },
+      {
+        "game": "sm-s",
+        "text": "きのみや　えものを　つかまえると\nほのおを　ふいて　ウェルダンぐらいに\nなるまで　やきあげてから　ガブリ。"
+      },
+      {
+        "game": "sm-m",
+        "text": "へいきんたいおん　７～８００ど。\nたいないに　ある　ほのおぶくろでは\n１７００どの　ほのおが　もえている。"
+      },
+      {
+        "game": "usum-us",
+        "text": "おおきく　くうきを　すいこむのは\nこうげきの　サイン。　１７００どの\nほのおが　おそってくるぞ。"
+      },
+      {
+        "game": "usum-um",
+        "text": "こうふんすると　たいないに　ある\nほのおぶくろに　ひが　ついて\nたいおんは　９００ど　まで　あがる。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "たいないに　ほのおぶくろが　あって\nすいこんだ　いきを　１７００どの\nほのおにして　くちから　はきだす。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "たいないに　ほのおぶくろが　あって\nすいこんだ　いきを　１７００どの\nほのおにして　くちから　はきだす。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "たいないに　ほのおが　たまると\nブースターの　たいおんも　さいこう\n９００ど　まで　あがっていく。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "すいこんだ　くうきの　いちぶは\nたいないの　ほのおぶくろに　おくられ\n１７００どの　ほのおに　なる。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Booster",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "부스터",
+    "genus": "불꽃포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "체내에 불꽃 주머니를 가지고 있다.\n싸움이 시작되기 직전에는\n체온이 900도까지 올라간다."
+      },
+      {
+        "game": "xy-y",
+        "text": "체내에 불꽃 주머니가 있어\n깊이 숨을 들이킨 후\n1700도의 불을 내뿜는다."
+      },
+      {
+        "game": "oras-or",
+        "text": "푹신한 털은 높이 오른 체온을\n공기 중으로 발산하여 낮추는 기능을 지녔다.\n체온은 최고 900도까지 올라간다."
+      },
+      {
+        "game": "oras-as",
+        "text": "푹신한 털은 높이 오른 체온을\n공기 중으로 발산하여 낮추는 기능을 지녔다.\n체온은 최고 900도까지 올라간다."
+      },
+      {
+        "game": "sm-s",
+        "text": "나무열매나 먹이를 잡으면\n불꽃을 뿜어 웰던 정도가\n될 때까지 구운 다음 꿀꺽한다."
+      },
+      {
+        "game": "sm-m",
+        "text": "평균 체온 7~800도.\n체내에 있는 불꽃 주머니에서는\n1700도의 불꽃이 타고 있다."
+      },
+      {
+        "game": "usum-us",
+        "text": "크게 공기를 들이쉬는 것은\n공격 신호다. 1700도의\n불꽃이 엄습해 온다."
+      },
+      {
+        "game": "usum-um",
+        "text": "흥분하면 체내에 있는\n불꽃 주머니에 불이 붙어서\n체온이 900도까지 오른다."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "체내에 불꽃 주머니가 있어\n들이마신 숨을 1700도의\n불꽃으로 바꿔 입에서 뿜어낸다."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "체내에 불꽃 주머니가 있어\n들이마신 숨을 1700도의\n불꽃으로 바꿔 입에서 뿜어낸다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "체내에 불꽃이 쌓이면\n부스터의 체온도 최고\n900도까지 오른다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "들이마신 공기 중 일부는\n체내의 불꽃 주머니로 보내져\n1700도의 불꽃이 된다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "火伊布",
+    "genus": "火寶可夢",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "如果尋獲樹果或捕捉到獵物，\n就會噴出火焰將其烤至熟透，\n然後大口吃掉。"
+      },
+      {
+        "game": "sm-m",
+        "text": "平均體溫７００～８００度。\n在體內的火袋裡熊熊燃燒著\n１７００度的火焰。"
+      },
+      {
+        "game": "usum-us",
+        "text": "當牠大口吸入空氣時，\n就是即將發動攻擊的信號，\n１７００度的火焰即將來襲。"
+      },
+      {
+        "game": "usum-um",
+        "text": "當牠興奮時，\n體內的火囊就會著火，\n體溫會上升到９００度。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "體內有著火囊，能將吸入的\n空氣轉化成1700度的火焰，\n再從口中吐出來。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "體內有著火囊，能將吸入的\n空氣轉化成1700度的火焰，\n再從口中吐出來。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "當火焰在體內積蓄時，\n火伊布的體溫也會隨之\n上升到最高９００度。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "會將吸入的空氣的一部分\n傳送到自己體內的火囊裡，\n製造出１７００度的火焰。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Pyroli",
+    "genus": "Pokémon Flamme",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "L’air qu’il inspire est chauffé par\nla glande enflammée de son corps,\natteignant les 1 700 °C."
+      },
+      {
+        "game": "bw-w",
+        "text": "L’air qu’il inspire est chauffé par\nla glande enflammée de son corps,\natteignant les 1 700 °C."
+      },
+      {
+        "game": "xy-x",
+        "text": "Son corps contient une glande enflammée.\nSa température monte à 900 °C avant le combat."
+      },
+      {
+        "game": "xy-y",
+        "text": "Pyroli a une poche de feu à l’intérieur de son corps.\nAprès une bonne inspiration, il est capable de\nrecracher des flammes à 1 700 °C."
+      },
+      {
+        "game": "oras-or",
+        "text": "La fourrure soyeuse de Pyroli a une fonction anatomique.\nElle rejette la chaleur dans l’air pour que son corps ne\nsurchauffe pas. La température du corps de ce Pokémon\npeut atteindre 900 °C."
+      },
+      {
+        "game": "oras-as",
+        "text": "La fourrure soyeuse de Pyroli a une fonction anatomique.\nElle rejette la chaleur dans l’air pour que son corps ne\nsurchauffe pas. La température du corps de ce Pokémon\npeut atteindre 900 °C."
+      },
+      {
+        "game": "sm-s",
+        "text": "Après avoir trouvé une proie et quelques Baies,\nil crache du feu jusqu’à ce qu’elles soient cuites\nà point avant de les gober."
+      },
+      {
+        "game": "sm-m",
+        "text": "Sa température moyenne est entre 700 et\n800 °C. La poche de feu à l’intérieur de son\ncorps peut atteindre 1 700 °C."
+      },
+      {
+        "game": "usum-us",
+        "text": "Si vous le voyez inspirer profondément,\nsauvez-vous, car c’est le signe qu’il va attaquer\nen soufflant une flamme à 1 700 °C !"
+      },
+      {
+        "game": "usum-um",
+        "text": "Lorsqu’il est agité, sa poche de feu interne\ns’enflamme, et sa température corporelle peut\nalors monter jusqu’à 900 °C."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "La poche de feu à l’intérieur de son corps\ntransforme l’air qu’il inspire en flammes\nà 1 700 ºC qu’il recrache par la bouche."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "La poche de feu à l’intérieur de son corps\ntransforme l’air qu’il inspire en flammes\nà 1 700 ºC qu’il recrache par la bouche."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Après avoir emmagasiné suffisamment de chaleur,\nsa température corporelle peut monter\njusqu’à 900 °C."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Il emmagasine de l’air dans sa poche de flammes\net le chauffe à une température de 1 700 °C."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Flamara",
+    "genus": "Feuer-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "In seinem Körper befindet sich eine Flamme.\nSeine Körpertemperatur liegt vor dem Kampf\nbei 900 °C."
+      },
+      {
+        "game": "xy-y",
+        "text": "In seinem Körper hat es eine Flammentasche.\nWenn es tief eingeatmet hat, kann es Flammen\nvon bis zu 1 700 °C spucken."
+      },
+      {
+        "game": "oras-or",
+        "text": "Flamaras flauschiges Fell dient einem besonderen Zweck.\nEs gibt Hitze an die Luft ab, damit sein Körper nicht zu heiß\nwird. Die Körpertemperatur dieses Pokémon kann bis auf\n900 °C ansteigen."
+      },
+      {
+        "game": "oras-as",
+        "text": "Flamaras flauschiges Fell dient einem besonderen Zweck.\nEs gibt Hitze an die Luft ab, damit sein Körper nicht zu heiß\nwird. Die Körpertemperatur dieses Pokémon kann bis auf\n900 °C ansteigen."
+      },
+      {
+        "game": "sm-s",
+        "text": "Hat es Beeren oder Pokémon erbeutet, speit es\nso lange Feuer, bis beides gut durchgebraten\nist. Danach beißt es beherzt zu."
+      },
+      {
+        "game": "sm-m",
+        "text": "Seine Körpertemperatur beträgt im Durchschnitt\n700 bis 800 °C. In einem Flammensack im\nKörper erzeugt es ein Feuer von 1 700 °C."
+      },
+      {
+        "game": "usum-us",
+        "text": "Wenn es tief einatmet, bereitet es gerade einen\nAngriff vor. Es kann bis zu 1 700 °C heiße\nFlammen speien."
+      },
+      {
+        "game": "usum-um",
+        "text": "Ist Flamara aufgeregt, fängt der Flammensack\nin seinem Körper Feuer, wodurch seine\nKörpertemperatur auf bis zu 900 °C steigt."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "In seinem Körper befindet sich ein Flammensack.\nDort wandelt es Luft in 1 700 ºC heiße Flammen\num, die es über den Mund ausspeit."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "In seinem Körper befindet sich ein Flammensack.\nDort wandelt es Luft in 1 700 ºC heiße Flammen\num, die es über den Mund ausspeit."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Wenn die Flamme in seinem Körper heiß genug\nbrennt, kann seine Körpertemperatur bis zu\n900 ºC erreichen."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Ein Teil der von ihm eingeatmeten Luft wird\nin einem Flammensack in seinem Körper\ngespeichert und dort auf 1 700 ºC erhitzt."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Flareon",
+    "genus": "Pokémon Llama",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Almacena llamas en su cuerpo, que alcanza una\ntemperatura de 900 °C antes de un combate."
+      },
+      {
+        "game": "xy-y",
+        "text": "Almacena llamas en el interior de su cuerpo. Tras\ninhalar profundamente, las lanza a una temperatura\nde 1700 °C."
+      },
+      {
+        "game": "oras-or",
+        "text": "La suavidad del pelaje de Flareon tiene una función clara:\nlibera calor para que el Pokémon no se asfixie. La temperatura\ncorporal de este Pokémon puede alcanzar los 900 °C."
+      },
+      {
+        "game": "oras-as",
+        "text": "La suavidad del pelaje de Flareon tiene una función clara:\nlibera calor para que el Pokémon no se asfixie. La temperatura\ncorporal de este Pokémon puede alcanzar los 900 °C."
+      },
+      {
+        "game": "sm-s",
+        "text": "Antes de hincarle el diente a algo, ya sean\nbayas o alguna presa, lo cocina con sus llamas\nhasta que queda bien hecho."
+      },
+      {
+        "game": "sm-m",
+        "text": "La temperatura corporal de este Pokémon ronda\nlos 700 u 800 °C. Las llamas que almacena en\nsu bolsa interior pueden llegar a los 1700 °C."
+      },
+      {
+        "game": "usum-us",
+        "text": "Cuando inspira profundamente es señal de que\nse dispone a atacar. Expele llamaradas que\nalcanzan temperaturas de 1700 °C."
+      },
+      {
+        "game": "usum-um",
+        "text": "Cuando su ánimo se altera, las llamas que\nalmacena en su bolsa interior se avivan y su\ntemperatura corporal llega a los 900 °C."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "La bolsa en el interior de su cuerpo le permite\nconvertir el aire que aspira en llamas a 1700 °C\nque luego exhala por la boca."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "La bolsa en el interior de su cuerpo le permite\nconvertir el aire que aspira en llamas a 1700 °C\nque luego exhala por la boca."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Una vez que ha almacenado el calor suficiente,\npuede alcanzar una temperatura de 900 °C."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Almacena parte del aire que inhala en la saca de\nfuego de su interior, que llega a calentarse a más\nde 1700 °C."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Flareon",
+    "genus": "Pokémon Fiamma",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Nel corpo conserva una tasca ardente. Prima di\nlottare, la sua temperatura si innalza a 900 °C."
+      },
+      {
+        "game": "xy-y",
+        "text": "Nel corpo ha una tasca infuocata. Dopo aver inspirato\nprofondamente, sputa fiamme alla temperatura di\n1700 °C."
+      },
+      {
+        "game": "oras-or",
+        "text": "La morbida pelliccia di Flareon ha uno scopo ben preciso:\nlibera calore nell’aria in modo da abbassare la temperatura\ncorporea, che nel caso di questo Pokémon può raggiungere\nanche 900 °C."
+      },
+      {
+        "game": "oras-as",
+        "text": "La morbida pelliccia di Flareon ha uno scopo ben preciso:\nlibera calore nell’aria in modo da abbassare la temperatura\ncorporea, che nel caso di questo Pokémon può raggiungere\nanche 900 °C."
+      },
+      {
+        "game": "sm-s",
+        "text": "Arrostisce con le sue fiamme le prede che\ncattura e le bacche che raccoglie finché non\nsono ben cotte e poi le mangia."
+      },
+      {
+        "game": "sm-m",
+        "text": "La sua temperatura corporea media oscilla tra\ni 700 e gli 800 °C. In una sacca all’interno del\nsuo corpo ardono fiamme a 1.700 °C."
+      },
+      {
+        "game": "usum-us",
+        "text": "Quando inspira profondamente significa che\nsi sta preparando all’attacco. Sputa fiamme\nalla temperatura di 1.700 °C."
+      },
+      {
+        "game": "usum-um",
+        "text": "Quando si agita si genera del fuoco in una sacca\ninterna e la sua temperatura corporea sale fino\na raggiungere i 900 °C."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Nel corpo ha una sacca ardente con cui\ntrasforma l’aria che respira in fiamme e le emette\ndalla bocca alla temperatura di 1.700 ºC."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Nel corpo ha una sacca ardente con cui\ntrasforma l’aria che respira in fiamme e le emette\ndalla bocca alla temperatura di 1.700 ºC."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Quando immagazzina abbastanza calore,\nla sua temperatura corporea può salire fino\na 900 ºC."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Parte dell’aria che inala finisce in una sacca\ninterna, dove brucia raggiungendo una\ntemperatura di 1.700 ºC."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Flareon",
+    "genus": "Flame Pokémon",
+    "flavorText": [
+      {
+        "game": "rb-r",
+        "text": "When storing\nthermal energy in\nits body, its\ftemperature could\nsoar to over 1600\ndegrees."
+      },
+      {
+        "game": "rb-b",
+        "text": "When storing\nthermal energy in\nits body, its\ftemperature could\nsoar to over 1600\ndegrees."
+      },
+      {
+        "game": "y",
+        "text": "It has a flame\nchamber inside its\nbody. It inhales,\fthen blows out\nfire that is over\n3,000F degrees."
+      },
+      {
+        "game": "gs-g",
+        "text": "It stores some of\nthe air it inhales\nin its internal\fflame pouch, which\nheats it to over\n3,000 degrees."
+      },
+      {
+        "game": "gs-s",
+        "text": "It fluffs out its\nfur collar to cool\ndown its body\ftemperature, which\ncan reach 1,650\ndegrees."
+      },
+      {
+        "game": "c",
+        "text": "Once it has stored\nup enough heat,\nthis POKéMON's\fbody temperature\ncan reach up to\n1700 degrees."
+      },
+      {
+        "game": "rs-r",
+        "text": "FLAREON’s fluffy fur has a functional\npurpose - it releases heat into the air\nso that its body does not get\fexcessively hot.\nThis POKéMON’s body temperature can\nrise to a maximum of 1,650 degrees F."
+      },
+      {
+        "game": "rs-s",
+        "text": "FLAREON’s fluffy fur has a functional\npurpose - it releases heat into the air\nso that its body does not get\fexcessively hot.\nThis POKéMON’s body temperature can\nrise to a maximum of 1,650 degrees F."
+      },
+      {
+        "game": "e",
+        "text": "FLAREON’s fluffy fur releases heat into\nthe air so that its body does not get\nexcessively hot. Its body temperature can\nrise to a maximum of 1,650 degrees F."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "It has a flame bag inside its body. After\ninhaling deeply, it blows out flames of\nnearly 3,100 degrees Fahrenheit."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "When storing thermal energy in its body,\nits temperature can soar to over 1,600\ndegrees Fahrenheit."
+      },
+      {
+        "game": "dp-d",
+        "text": "It has a flame sac in its body.\nIts body temperature tops 1,650\ndegrees Fahrenheit before battle."
+      },
+      {
+        "game": "dp-p",
+        "text": "It has a flame sac in its body.\nIts body temperature tops 1,650\ndegrees Fahrenheit before battle."
+      },
+      {
+        "game": "pt",
+        "text": "Inhaled air is heated in the flame\nsac in its body to an intense fire\nover 3,000 degrees Fahrenheit."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "It stores some of the air it inhales in\nits internal flame pouch, which heats it\nto over 3,000 degrees Fahrenheit."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "It fluffs out its fur collar to cool down\nits body temperature, which can reach\n1,650 degrees Fahrenheit."
+      },
+      {
+        "game": "bw-b",
+        "text": "Inhaled air is heated in the flame\nsac in its body to an intense fire\nover 3,000 degrees Fahrenheit."
+      },
+      {
+        "game": "bw-w",
+        "text": "Inhaled air is heated in the flame\nsac in its body to an intense fire\nover 3,000 degrees Fahrenheit."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "Inhaled air is carried to its flame sac,\nheated, and exhaled as fire\nthat reaches over 3,000 degrees F."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "Inhaled air is carried to its flame sac,\nheated, and exhaled as fire\nthat reaches over 3,000 degrees F."
+      },
+      {
+        "game": "xy-x",
+        "text": "It has a flame sac in its body. Its body temperature\ntops 1,650 degrees Fahrenheit before battle."
+      },
+      {
+        "game": "xy-y",
+        "text": "It has a flame bag inside its body. After inhaling\ndeeply, it blows out flames of nearly\n3,000 degrees Fahrenheit."
+      },
+      {
+        "game": "oras-or",
+        "text": "Flareon’s fluffy fur has a functional purpose—it releases heat\ninto the air so that its body does not get excessively hot.\nThis Pokémon’s body temperature can rise to a maximum of\n1,650 degrees Fahrenheit."
+      },
+      {
+        "game": "oras-as",
+        "text": "Flareon’s fluffy fur has a functional purpose—it releases heat\ninto the air so that its body does not get excessively hot.\nThis Pokémon’s body temperature can rise to a maximum of\n1,650 degrees Fahrenheit."
+      },
+      {
+        "game": "sm-s",
+        "text": "When it catches prey or finds berries, it\nbreathes fire on them until they’re well done,\nand then it gobbles them up."
+      },
+      {
+        "game": "sm-m",
+        "text": "Its average body temperature is between 1,300\nand 1,500 degrees Fahrenheit. In its internal\nflame sac, temperatures reach 3,000 degrees."
+      },
+      {
+        "game": "usum-us",
+        "text": "If it inhales deeply, that’s a sign it’s about to\nattack. Prepare to be hit by flames of over\n3,000 degrees Fahrenheit!"
+      },
+      {
+        "game": "usum-um",
+        "text": "The flame chamber inside its body ignites when\nFlareon gets agitated, reaching temperatures of\nup to 1,650 degrees Fahrenheit."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "It has a flame chamber inside its body. It inhales,\nthen breathes out fire that is over 3,000\ndegrees Fahrenheit."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "It has a flame chamber inside its body. It inhales,\nthen breathes out fire that is over 3,000\ndegrees Fahrenheit."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Once it has stored up enough heat, this\nPokémon’s body temperature can reach up to\n1,700 degrees Fahrenheit."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "It stores some of the air it inhales in its internal\nflame pouch, which heats it to over\n3,000 degrees Fahrenheit."
+      },
+      {
+        "game": "la",
+        "text": "Flames burn within a saclike organ inside this Pokémon.\nWhen Flareon inhales, these flames grow in intensity, reaching\na mighty 3,000 degrees Fahrenheit."
+      }
+    ]
+  },
+  "chs": {
+    "name": "火伊布",
+    "genus": "火宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "如果寻获树果或是捉到猎物，\n就会喷出火焰将其烤至完全熟透，\n之后大口大口吃掉。"
+      },
+      {
+        "game": "sm-m",
+        "text": "平均体温７００～８００度。\n在体内的火袋里熊熊燃烧着\n１７００度的火焰。"
+      },
+      {
+        "game": "usum-us",
+        "text": "大口吸入空气就是要攻击的前兆。\n这意味着１７００度的火焰即将来袭。"
+      },
+      {
+        "game": "usum-um",
+        "text": "兴奋时，它体内的火袋就会着火，\n体温会上升到９００度。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "体内的火袋能让它将吸入的\n气体转化为1700度的\n火焰，接着从口中喷出。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "体内的火袋能让它将吸入的\n气体转化为1700度的\n火焰，接着从口中喷出。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "当火焰在体内积蓄时，\n火伊布的体温也会随之\n上升到最高９００度。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "会将吸入的空气的一部分\n传送到自己体内的火囊里，\n制造出１７００度的火焰。"
+      }
+    ]
+  }
+}

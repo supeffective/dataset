@@ -1,0 +1,389 @@
+{
+  "jap": {
+    "name": "ヤヤコマ",
+    "genus": "コマドリポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "ひとなつっこい　せいかく。うつくしい\nさえずりと　おばねを　ふる　うごきで\nなかまに　あいずを　おくる。"
+      },
+      {
+        "game": "xy-y",
+        "text": "さえずる　こえは　うつくしいが\nなわばりに　はいった　あいては\nようしゃしない　あらあらしさだ。"
+      },
+      {
+        "game": "oras-or",
+        "text": "ひとなつっこい　せいかく。うつくしい\nさえずりと　おばねを　ふる　うごきで\nなかまに　あいずを　おくる。"
+      },
+      {
+        "game": "oras-as",
+        "text": "さえずる　こえは　うつくしいが\nなわばりに　はいった　あいては\nようしゃしない　あらあらしさだ。"
+      },
+      {
+        "game": "sm-s",
+        "text": "ひとなつっこいので　あつかいやすい\nポケモンだが　ひとたび　たたかいに\nなると　とても　あらあらしいぞ。"
+      },
+      {
+        "game": "sm-m",
+        "text": "こうふん　すると　たいおんが\n２ばいまで　あがり　たいないの\nホルモンが　かっぱつに　なるのだ。"
+      },
+      {
+        "game": "usum-us",
+        "text": "ひとなつっこい　ポケモンだけど\nむりに　さわると　からだを　いっきに\nはつねつさせるので　やけど　するぞ。"
+      },
+      {
+        "game": "usum-um",
+        "text": "からだは　いつでも　あたたかい。\nさむい　ちいきの　トレーナーは\nベッドで　いっしょに　ねるらしい。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "うつくしい　さえずりは　いかく。\nなわばりに　はいった　ものは\nようしゃなく　つつきまくる。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "こうふんすると　たいおんが\nグッと　あがる。　すでで　さわると\nヤケドすることも　あるほどだ。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Yayakoma",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "화살꼬빈",
+    "genus": "울새포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "사람을 잘 따르는 성격이다. 아름다운\n지저귐과 꽁지를 흔드는 움직임으로\n동료에게 신호를 보낸다."
+      },
+      {
+        "game": "xy-y",
+        "text": "지저귀는 소리는 아름답지만\n영역에 들어온 상대를\n용서하지 않는 난폭한 성격이다."
+      },
+      {
+        "game": "oras-or",
+        "text": "사람을 잘 따르는 성격이다. 아름다운\n지저귐과 꽁지를 흔드는 움직임으로\n동료에게 신호를 보낸다."
+      },
+      {
+        "game": "oras-as",
+        "text": "지저귀는 소리는 아름답지만\n영역에 들어온 상대를\n용서하지 않는 난폭한 성격이다."
+      },
+      {
+        "game": "sm-s",
+        "text": "사람을 잘 따라서 다루기 쉬운\n포켓몬이지만 한번 싸움이\n붙으면 매우 거칠어진다."
+      },
+      {
+        "game": "sm-m",
+        "text": "흥분하면 체온이\n2배까지 올라 체내의\n호르몬이 활발해진다."
+      },
+      {
+        "game": "usum-us",
+        "text": "사람을 잘 따르는 포켓몬이지만,\n억지로 만지면 몸을 단숨에\n발열시켜 화상을 입는다."
+      },
+      {
+        "game": "usum-um",
+        "text": "몸은 언제나 따뜻하다.\n추운 지역의 트레이너는\n침대에서 함께 잔다고 한다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "아름답게 지저귀는 소리는 위협하고\n있다는 뜻이다. 영역에 들어온 자는\n용서 없이 콕콕 쪼아버린다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "흥분하면 체온이 확 오른다.\n맨손으로 만지면\n화상을 입기도 할 정도다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "小箭雀",
+    "genus": "知更鳥寶可夢",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "和人很親近，所以是易於訓練的\n寶可夢，但一旦進入戰鬥，\n就會變得非常兇猛。"
+      },
+      {
+        "game": "sm-m",
+        "text": "一感到興奮，體溫會上升到２倍，\n同時體內的荷爾蒙會變得活躍。"
+      },
+      {
+        "game": "usum-us",
+        "text": "雖然是種容易與人親近的寶可夢，\n但如果強行去摸牠，牠的身體會\n一口氣發熱而讓人灼傷。"
+      },
+      {
+        "game": "usum-um",
+        "text": "身體總是很溫暖。\n寒冷地區的訓練家似乎\n會和牠一起睡在床上。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "婉轉的叫聲是在威嚇對方。\n對於闖入自己地盤的傢伙\n會毫不留情地啄個不停。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "一旦興奮體溫就會\n急速上升。赤手去摸牠\n有時甚至會被灼傷。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Passerouge",
+    "genus": "Pokémon Rougegorge",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Peu farouche, il communique avec ses congénères\npar un doux gazouillis et par des signaux de la queue."
+      },
+      {
+        "game": "xy-y",
+        "text": "Son chant est harmonieux, mais trompeur !\nLes ennemis qui pénètrent sur son territoire se\nretrouvent confrontés à un déluge de violence."
+      },
+      {
+        "game": "oras-or",
+        "text": "Peu farouche, il communique avec ses congénères\npar un doux gazouillis et par des signaux de la queue."
+      },
+      {
+        "game": "oras-as",
+        "text": "Son chant est harmonieux, mais trompeur !\nLes ennemis qui pénètrent sur son territoire se\nretrouvent confrontés à un déluge de violence."
+      },
+      {
+        "game": "sm-s",
+        "text": "C’est un Pokémon affectueux et très facile à\nélever, mais une fois en situation de combat,\nil devient un adversaire implacable."
+      },
+      {
+        "game": "sm-m",
+        "text": "Quand il est tout excité, sa température peut\ndoubler et ses hormones bouillonnent."
+      },
+      {
+        "game": "usum-us",
+        "text": "Bien qu’il soit affectueux, il peut brusquement\naugmenter sa température et infliger des\nbrûlures à ceux qui le touchent par surprise."
+      },
+      {
+        "game": "usum-um",
+        "text": "Une agréable chaleur émane toujours de son\npetit corps. Dans les régions froides, il n’est\npas rare qu’il dorme dans le lit de son Dresseur."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Son chant mélodieux est en fait une tentative\nd’intimidation. Il picore sans merci tout individu\nqui pénètre dans son territoire."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Quand il est surexcité, sa température corporelle\naugmente d’un coup, à tel point qu’il est possible\nde se brûler en le touchant à mains nues."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Dartiri",
+    "genus": "Rotkehlchen-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Ein sehr zutrauliches Pokémon. Durch Zwitschern\nund Bewegen der Schwanzfedern sendet es Signale\nan seine Gefährten."
+      },
+      {
+        "game": "xy-y",
+        "text": "Sein Zwitschern ist wunderschön, aber wenn Gegner\nsein Revier betreten, kennt es keine Gnade."
+      },
+      {
+        "game": "oras-or",
+        "text": "Ein sehr zutrauliches Pokémon. Durch Zwitschern und\nBewegen der Schwanzfedern sendet es Signale an seine\nGefährten."
+      },
+      {
+        "game": "oras-as",
+        "text": "Sein Zwitschern ist wunderschön, aber wenn Gegner sein\nRevier betreten, kennt es keine Gnade."
+      },
+      {
+        "game": "sm-s",
+        "text": "Ein sehr zutrauliches und pflegeleichtes\nPokémon, das im Kampf jedoch erstaunlich\nwild und ungestüm agiert."
+      },
+      {
+        "game": "sm-m",
+        "text": "Ist es aufgeregt, steigt seine Körpertemperatur\nauf das Doppelte an und seine Hormone\nspielen verrückt."
+      },
+      {
+        "game": "usum-us",
+        "text": "Es ist eigentlich sehr zutraulich. Berührt man es\naber gegen seinen Willen, erhitzt es blitzartig\nseinen Körper, was zu Verbrennungen führt."
+      },
+      {
+        "game": "usum-um",
+        "text": "Sein Körper ist immer warm. In kalten Gebieten\nschlafen Trainer deshalb oft in einem Bett\nmit ihm."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Sein wunderschönes Zwitschern ist in Wirklichkeit\neine Warnung. Wer in sein Revier eindringt, wird\ngnadenlos von ihm gepickt."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Ist es aufgeregt, steigt seine Körpertemperatur\nso stark an, dass man sich verbrennen kann,\nwenn man es mit bloßen Händen anfasst."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Fletchling",
+    "genus": "Pokémon Petirrojo",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Es muy amigable y se comunica con sus aliados\nmediante melodiosos gorjeos y el movimiento de su\ncola y sus gráciles alas."
+      },
+      {
+        "game": "xy-y",
+        "text": "Su melodioso gorjeo lo dota de una gran belleza,\npero adopta una actitud agresiva y despiadada hacia\ncualquiera que ose invadir su territorio."
+      },
+      {
+        "game": "oras-or",
+        "text": "Es muy amigable y se comunica con sus aliados mediante\nmelodiosos gorjeos y el movimiento de su cola y sus gráciles\nalas."
+      },
+      {
+        "game": "oras-as",
+        "text": "Su melodioso gorjeo lo dota de una gran belleza, pero\nadopta una actitud agresiva y despiadada hacia cualquiera\nque ose invadir su territorio."
+      },
+      {
+        "game": "sm-s",
+        "text": "Su carácter amigable lo convierte en un Pokémon\nmuy dócil. Ahora bien, en cuanto se pone a\ncombatir, se vuelve un adversario implacable."
+      },
+      {
+        "game": "sm-m",
+        "text": "Cuando se exalta, su temperatura corporal llega\na duplicarse y sus hormonas se descontrolan."
+      },
+      {
+        "game": "usum-us",
+        "text": "Es de carácter afable, pero si lo tocan en contra\nde su voluntad, aumenta repentinamente su\ntemperatura y puede provocar quemaduras."
+      },
+      {
+        "game": "usum-um",
+        "text": "Su cuerpo emana bastante calor, razón por la\nque los Entrenadores de regiones frías les\npermiten dormir en sus camas."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Sus melodiosos gorjeos son en realidad un aviso.\nAcribilla a picotazos a todo el que ose invadir su\nterritorio."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Su temperatura corporal aumenta de repente\ncuando se exalta y puede causar quemaduras\nal contacto con la piel."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Fletchling",
+    "genus": "Pokémon Pettirosso",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Ha una natura amichevole. Comunica con i suoi simili\ntramite meravigliosi cinguettii e movimenti delle penne\ndella coda."
+      },
+      {
+        "game": "xy-y",
+        "text": "Cinguetta in modo meraviglioso, ma diventa\nestremamente aggressivo se un nemico invade\nil suo territorio."
+      },
+      {
+        "game": "oras-or",
+        "text": "Ha una natura amichevole. Comunica con i suoi simili tramite\nmeravigliosi cinguettii e movimenti delle penne della coda."
+      },
+      {
+        "game": "oras-as",
+        "text": "Cinguetta in modo meraviglioso, ma diventa estremamente\naggressivo se un nemico invade il suo territorio."
+      },
+      {
+        "game": "sm-s",
+        "text": "È facile da allenare grazie alla sua indole\namichevole, ma nella lotta diventa\nestremamente aggressivo."
+      },
+      {
+        "game": "sm-m",
+        "text": "Quando si innervosisce, la sua temperatura\ncorporea sale fino a raddoppiare e gli ormoni\nribollono."
+      },
+      {
+        "game": "usum-us",
+        "text": "Ha un’indole amichevole, ma se viene infastidito\naumenta all’istante la sua temperatura corporea\nprovocando ustioni al colpevole."
+      },
+      {
+        "game": "usum-um",
+        "text": "Il suo corpo è sempre caldo e per questo gli\nAllenatori che vivono in zone fredde a volte\nlo lasciano dormire nel loro letto."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "I suoi meravigliosi cinguettii sono in realtà\nversi minacciosi. Becca senza pietà chi invade\nil suo territorio."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Quando si innervosisce, la sua temperatura\ncorporea sale di colpo, tanto da causare\nscottature a chi lo tocca a mani nude."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Fletchling",
+    "genus": "Tiny Robin Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "These friendly Pokémon send signals\nto one another with beautiful chirps\nand tail-feather movements."
+      },
+      {
+        "game": "xy-y",
+        "text": "Despite the beauty of its lilting voice, it’s\nmerciless to intruders that enter its territory."
+      },
+      {
+        "game": "oras-or",
+        "text": "These friendly Pokémon send signals\nto one another with beautiful chirps\nand tail-feather movements."
+      },
+      {
+        "game": "oras-as",
+        "text": "Despite the beauty of its lilting voice, it’s\nmerciless to intruders that enter its territory."
+      },
+      {
+        "game": "sm-s",
+        "text": "This amiable Pokémon is easy to train.\nBut when battle is joined, it shows its\nferocious side."
+      },
+      {
+        "game": "sm-m",
+        "text": "When it’s excited, its temperature can double,\nspiking hormone production in its body."
+      },
+      {
+        "game": "usum-us",
+        "text": "While it’s an amiable Pokémon, if you touch it\nunexpectedly, it will heat up its body in an\ninstant, and you’ll be burned."
+      },
+      {
+        "game": "usum-um",
+        "text": "Its body is always warm. Trainers who live in\ncold areas apparently sleep with it in their bed."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Its melodious cries are actually warnings.\nFletchling will mercilessly peck at anything\nthat enters its territory."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "When this Pokémon gets excited, its body\ntemperature increases sharply. If you touch a\nFletchling with bare hands, you might get burned."
+      }
+    ]
+  },
+  "chs": {
+    "name": "小箭雀",
+    "genus": "知更鸟宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "和人很亲近，所以是易于训练的\n宝可梦，但一旦进入战斗，\n就会变得非常凶猛。"
+      },
+      {
+        "game": "sm-m",
+        "text": "一兴奋，体温就会上升２倍，\n体内的荷尔蒙就会变得活跃。"
+      },
+      {
+        "game": "usum-us",
+        "text": "是和人很亲近的宝可梦，\n但如果强行触碰，它就会让身体\n一下子发热，从而造成灼伤。"
+      },
+      {
+        "game": "usum-um",
+        "text": "身体一直都很温暖。\n听说寒冷地区的训练家\n会和它一起睡在床上。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "它优美的鸣叫其实是威吓。\n对于进入自己领地的家伙，\n会毫不留情地啄个不停。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "一旦兴奋体温就会\n急剧上升。赤手去摸\n甚至有可能会被灼伤。"
+      }
+    ]
+  }
+}

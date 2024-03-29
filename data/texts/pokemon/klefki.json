@@ -1,0 +1,389 @@
+{
+  "jap": {
+    "name": "クレッフィ",
+    "genus": "かぎたばポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "カギを　あつめる　しゅうせい。\nてきに　おそわれると　ジャラジャラと\nカギを　うちならして　いかくする。"
+      },
+      {
+        "game": "xy-y",
+        "text": "きにいった　カギは　ぜったいに\nてばなさないので　ぼうはんのために\nきんこの　カギを　もたせるのだ。"
+      },
+      {
+        "game": "oras-or",
+        "text": "カギを　あつめる　しゅうせい。\nてきに　おそわれると　ジャラジャラと\nカギを　うちならして　いかくする。"
+      },
+      {
+        "game": "oras-as",
+        "text": "きにいった　カギは　ぜったいに\nてばなさないので　ぼうはんのために\nきんこの　カギを　もたせるのだ。"
+      },
+      {
+        "game": "sm-s",
+        "text": "カギを　あつめる　しゅうせいが　ある。\nおだやかな　せいかくだが　みんかに\nしのびこみ　カギを　ぬすんでいく。"
+      },
+      {
+        "game": "sm-m",
+        "text": "あたまのツノを　きんぞくの　すきまに\nつっこんで　きんぞくイオンを　すう。\nなぜか　カギを　あつめている。"
+      },
+      {
+        "game": "usum-us",
+        "text": "なぜ　カギを　あつめるか　ふめいだが\nあげると　とても　よろこぶ。　ただし\nマスターキーじゃないと　イヤみたい。"
+      },
+      {
+        "game": "usum-um",
+        "text": "むかしは　こうざんに　すんでいたが\nエサの　こうぶつが　へってきたので\nひとざとに　あらわれるようになった。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "カギを　あつめつづける　ポケモン。\nだいじな　カギを　あずけると\nなにが　あっても　まもってくれる。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "あたまのさきで　きんぞくイオンを\nすいとる。　カギに　にているのは\nすきすぎて　まねているかららしい。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Cleffy",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "클레피",
+    "genus": "열쇠꾸러미포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "열쇠를 모으는 습성이 있다.\n적에게 습격당하면 열쇠로\n짤랑짤랑 소리를 내어 위협한다."
+      },
+      {
+        "game": "xy-y",
+        "text": "마음에 든 열쇠는 절대로\n손에서 놓지 않아서 방범을 위해\n금고 열쇠를 지니게 한다."
+      },
+      {
+        "game": "oras-or",
+        "text": "열쇠를 모으는 습성이 있다.\n적에게 습격당하면 열쇠로\n짤랑짤랑 소리를 내어 위협한다."
+      },
+      {
+        "game": "oras-as",
+        "text": "마음에 든 열쇠는 절대로\n손에서 놓지 않아서 방범을 위해\n금고 열쇠를 지니게 한다."
+      },
+      {
+        "game": "sm-s",
+        "text": "열쇠를 모으는 습성이 있다.\n온화한 성격이지만 민가에\n몰래 들어가 열쇠를 훔쳐간다."
+      },
+      {
+        "game": "sm-m",
+        "text": "머리의 뿔을 금속 틈에\n찔러넣고 금속 이온을 빨아들인다.\n왜인지 열쇠를 모으고 있다."
+      },
+      {
+        "game": "usum-us",
+        "text": "왜 열쇠를 모으는지 알 수 없지만\n주면 매우 기뻐한다.\n단 마스터키만 좋아하는 것 같다."
+      },
+      {
+        "game": "usum-um",
+        "text": "옛날에는 광산에 살았지만\n먹이인 광물이 줄어들어서\n사람이 사는 마을에 나타나기 시작했다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "열쇠를 계속 모으는 포켓몬이다.\n소중한 열쇠를 맡기면\n무슨 일이 있어도 지켜준다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "머리끝으로 금속 이온을 흡수한다.\n열쇠를 너무 좋아한 나머지 흉내를 내서\n열쇠를 닮은 모습이 되었다고 한다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "鑰圈兒",
+    "genus": "鑰匙串寶可夢",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "有收集鑰匙的習慣。\n性格穩重，卻會偷偷潛入\n民居偷盜鑰匙。"
+      },
+      {
+        "game": "sm-m",
+        "text": "把頭上的角刺入金屬的縫隙中，\n吸取金屬離子。\n另外，不知為何在收集鑰匙。"
+      },
+      {
+        "game": "usum-us",
+        "text": "雖不知牠為何要收集鑰匙，\n但如果給牠鑰匙，牠就會很開心。\n不過，牠似乎就只喜歡萬能鑰匙。"
+      },
+      {
+        "game": "usum-um",
+        "text": "過去棲息在礦山裡，因為\n作為食物的礦物逐漸減少，\n於是開始出現在人類的聚落中。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "不斷收集鑰匙的寶可夢。\n如果把重要的鑰匙交給牠，\n無論發生什麼牠都會全力保管。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "會用頭的前端吸取金屬離子。\n據說是因為愛鑰匙成癡，\n因此擬態成鑰匙的樣子。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Trousselin",
+    "genus": "Pokémon Trousseau",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Ce Pokémon collectionne les clés qu’il agite devant\nses ennemis pour les intimider."
+      },
+      {
+        "game": "xy-y",
+        "text": "Comme il ne se sépare jamais d’une clé qu’il trouve\nà son goût, les gens lui confient celle de leurs coffres,\nafin d’éviter de se faire voler."
+      },
+      {
+        "game": "oras-or",
+        "text": "Ce Pokémon collectionne les clés qu’il agite devant\nses ennemis pour les intimider."
+      },
+      {
+        "game": "oras-as",
+        "text": "Comme il ne se sépare jamais d’une clé qu’il trouve\nà son goût, les gens lui confient celle de leurs coffres,\nafin d’éviter de se faire voler."
+      },
+      {
+        "game": "sm-s",
+        "text": "Malgré son caractère paisible, ce Pokémon ne\npeut s’empêcher de se faufiler dans les foyers\npour en voler les clés, qu’il aime collectionner."
+      },
+      {
+        "game": "sm-m",
+        "text": "Il insère l’appendice situé sur sa tête dans les\ninterstices en métal afin d’en extraire les ions.\nIl collectionne les clés pour une raison inconnue."
+      },
+      {
+        "game": "usum-us",
+        "text": "Nul ne sait pourquoi il collectionne les clés,\nmais il est aux anges dès qu’on lui en donne une.\nIl n’accepte toutefois que les passe-partout."
+      },
+      {
+        "game": "usum-um",
+        "text": "Il vivait autrefois dans les mines, mais quand\nles minéraux dont il se délectait se sont faits\nplus rares, il a migré vers les villages."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Ce Pokémon collectionne les clés.\nSi on lui en confie une particulièrement\nimportante, il la protègera coûte que coûte."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Il absorbe les ions métalliques avec l’appendice\nsur sa tête. Il paraît qu’il ressemble à une clé\ncar il tient à imiter cet objet qu’il aime tant."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Clavion",
+    "genus": "Schlüssel-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Dieses Pokémon sammelt eifrig Schlüssel, mit denen\nes wild herumfuchtelt, um Gegner abzuschrecken."
+      },
+      {
+        "game": "xy-y",
+        "text": "Da es Schlüssel, die ihm gefallen, wie seinen Augapfel\nhütet, vertrauen Menschen ihm die Schlüssel ihrer\nTresore an, um Diebstahl vorzubeugen."
+      },
+      {
+        "game": "oras-or",
+        "text": "Dieses Pokémon sammelt eifrig Schlüssel, mit denen es wild\nherumfuchtelt, um Gegner abzuschrecken."
+      },
+      {
+        "game": "oras-as",
+        "text": "Da es Schlüssel, die ihm gefallen, wie seinen Augapfel hütet,\nvertrauen Menschen ihm die Schlüssel ihrer Tresore an,\num Diebstahl vorzubeugen."
+      },
+      {
+        "game": "sm-s",
+        "text": "Dieses Pokémon sammelt eifrig Schlüssel,\ndie es oft aus fremden Häusern entwendet.\nAnsonsten ist es aber sehr friedlich."
+      },
+      {
+        "game": "sm-m",
+        "text": "Seinen Fortsatz steckt es gerne in metallene\nZwischenräume, um Metall-Ionen abzusaugen.\nSammelt aus unerfindlichen Gründen Schlüssel."
+      },
+      {
+        "game": "usum-us",
+        "text": "Niemand weiß, weshalb es Schlüssel sammelt,\naber schenkt man ihm einen, freut es sich sehr.\nEs akzeptiert allerdings nur Generalschlüssel."
+      },
+      {
+        "game": "usum-um",
+        "text": "Früher lebte es in Minen. Da sein mineralisches\nFutter dort aber immer seltener wird, findet man\nes nun auch in Menschensiedlungen."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Dieses Pokémon sammelt unaufhörlich Schlüssel.\nVertraut man ihm einen besonders wichtigen an,\nbeschützt es diesen um jeden Preis."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Mit dem Fortsatz an seinem Kopf saugt Clavion\nMetall-Ionen ein. Anscheinend liebt es Schlüssel\nso sehr, dass es sie mit seinem Aussehen imitiert."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Klefki",
+    "genus": "Pokémon Llavero",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Tiene el hábito de coleccionar llaves. Cuando un\nenemigo lo ataca, las hace tintinear como método\nde intimidación."
+      },
+      {
+        "game": "xy-y",
+        "text": "Como no se separa de las llaves que le gustan bajo\nningún concepto, la gente le encomienda las llaves\nde cajas fuertes para prevenir posibles robos."
+      },
+      {
+        "game": "oras-or",
+        "text": "Tiene el hábito de coleccionar llaves. Cuando un enemigo lo\nataca, las hace tintinear como método de intimidación."
+      },
+      {
+        "game": "oras-as",
+        "text": "Como no se separa de las llaves que le gustan bajo ningún\nconcepto, la gente le encomienda las llaves de cajas fuertes\npara prevenir posibles robos."
+      },
+      {
+        "game": "sm-s",
+        "text": "Tiene el hábito de coleccionar llaves. Su carácter\ntranquilo no impide que le guste colarse en\ncasas ajenas a robar llaves."
+      },
+      {
+        "game": "sm-m",
+        "text": "Introduce el apéndice de su cabeza por los\nresquicios de los metales para absorber los\niones. Por alguna razón, adora las llaves."
+      },
+      {
+        "game": "usum-us",
+        "text": "Su afán por coleccionar llaves es un misterio y\nse alegra mucho si le regalan una, pero si esta\nno es una llave maestra, se le tuerce la cara."
+      },
+      {
+        "game": "usum-um",
+        "text": "Hace tiempo solía vivir en minas, pero tras la\ndisminución de los minerales que le servían de\nalimento, se trasladó a poblaciones humanas."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Un Pokémon coleccionista de llaves. Si alguien le\nconfía una muy importante, la protegerá como si\nle fuese la vida en ello."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Según parece, absorbe iones metálicos por el\napéndice de la cabeza para adoptar una forma\nsimilar a la de sus amadas llaves."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Klefki",
+    "genus": "Pokémon Portachiavi",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Ha l’abitudine di raccogliere chiavi. Quando viene\nattaccato, minaccia il nemico agitandole e facendo\nun gran chiasso."
+      },
+      {
+        "game": "xy-y",
+        "text": "Spesso gli esseri umani affidano a questo Pokémon\nle chiavi delle loro casseforti per prevenire i furti.\nSi sa infatti che custodisce con cura le chiavi che ama."
+      },
+      {
+        "game": "oras-or",
+        "text": "Ha l’abitudine di raccogliere chiavi. Quando viene attaccato,\nminaccia il nemico agitandole e facendo un gran chiasso."
+      },
+      {
+        "game": "oras-as",
+        "text": "Spesso gli esseri umani affidano a questo Pokémon le chiavi\ndelle loro casseforti per prevenire i furti. Si sa infatti che\ncustodisce con cura le chiavi che ama."
+      },
+      {
+        "game": "sm-s",
+        "text": "Ha un carattere pacifico, ma non resiste alla\ntentazione di intrufolarsi nelle case per rubare\nchiavi, che adora collezionare."
+      },
+      {
+        "game": "sm-m",
+        "text": "Infila la sporgenza che ha sulla testa negli\ninterstizi tra oggetti di metallo per assorbire ioni.\nHa la strana abitudine di collezionare chiavi."
+      },
+      {
+        "game": "usum-us",
+        "text": "Per qualche motivo che nessuno sa, colleziona\nchiavi. È felicissimo quando gliene regalano una,\nma attenzione: accetta solo i passe-partout."
+      },
+      {
+        "game": "usum-um",
+        "text": "In passato viveva nelle miniere, ma poiché i\nminerali di cui si nutre si sono fatti più rari,\nadesso è possibile incontrarlo anche nei villaggi."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Colleziona chiavi. Se gli si affida una chiave\nimportante, si può star sicuri che la proteggerà\na ogni costo."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Assorbe gli ioni metallici con la sporgenza\nsulla testa. Si dice che abbia modificato il suo\naspetto per assomigliare alle sue amate chiavi."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Klefki",
+    "genus": "Key Ring Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "These key collectors threaten any attackers\nby fiercely jingling their keys at them."
+      },
+      {
+        "game": "xy-y",
+        "text": "It never lets go of a key that it likes,\nso people give it the keys to vaults and\nsafes as a way to prevent crime."
+      },
+      {
+        "game": "oras-or",
+        "text": "These key collectors threaten any attackers\nby fiercely jingling their keys at them."
+      },
+      {
+        "game": "oras-as",
+        "text": "It never lets go of a key that it likes,\nso people give it the keys to vaults and\nsafes as a way to prevent crime."
+      },
+      {
+        "game": "sm-s",
+        "text": "This even-tempered Pokémon has a habit of\ncollecting keys. It will sneak into people’s homes\nto steal their keys."
+      },
+      {
+        "game": "sm-m",
+        "text": "It inserts its horn into chinks in metal, absorbing\nmetal ions. For some reason, it collects keys."
+      },
+      {
+        "game": "usum-us",
+        "text": "Although it’s unclear why it collects keys, giving\nit a key makes Klefki very happy. However, it\napparently only likes master keys."
+      },
+      {
+        "game": "usum-um",
+        "text": "Long ago it lived in mines, but once the minerals\nthat make up its diet became scarcer, Klefki\nbegan appearing in human settlements."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "This Pokémon is constantly collecting keys.\nEntrust a Klefki with important keys, and the\nPokémon will protect them no matter what."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Klefki sucks in metal ions with the horn topping\nits head. It seems this Pokémon loves keys so\nmuch that its head needed to look like one, too."
+      }
+    ]
+  },
+  "chs": {
+    "name": "钥圈儿",
+    "genus": "钥匙串宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "有着收集钥匙的习性。\n性格稳重，却会偷偷潜入\n民宅偷盗钥匙。"
+      },
+      {
+        "game": "sm-m",
+        "text": "把头上的角刺入金属的缝隙中，\n吸取金属离子。\n不知为何在收集钥匙。"
+      },
+      {
+        "game": "usum-us",
+        "text": "不知为何要收集钥匙，\n但如果给它的话，就会很高兴。\n不过好像不是万能钥匙就不喜欢。"
+      },
+      {
+        "game": "usum-um",
+        "text": "过去一直住在矿山里，\n但因为作为食物的矿物不断减少，\n便开始出现在村落里。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "一直在收集钥匙的宝可梦。\n如果把重要的钥匙托付给它，\n无论发生什么它都会全力守护。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "会用头的前端吸取金属离子。\n之所以长得像钥匙，据说是因为\n太过喜欢钥匙，情不自禁进行了模仿。"
+      }
+    ]
+  }
+}

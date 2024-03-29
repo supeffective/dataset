@@ -1,0 +1,61 @@
+{
+  "jap": {
+    "name": "セゴール",
+    "genus": "こおりビレポケモン",
+    "flavorText": []
+  },
+  "jap_ro": {
+    "name": "Segohru",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "드니꽁",
+    "genus": "",
+    "flavorText": []
+  },
+  "cht": {
+    "name": "凍脊龍",
+    "genus": "冰鰭寶可夢",
+    "flavorText": []
+  },
+  "fra": {
+    "name": "Cryodo",
+    "genus": "",
+    "flavorText": []
+  },
+  "deu": {
+    "name": "Cryospino",
+    "genus": "Eisfinne",
+    "flavorText": []
+  },
+  "esp": {
+    "name": "Arctibax",
+    "genus": "",
+    "flavorText": []
+  },
+  "ita": {
+    "name": "Arctibax",
+    "genus": "",
+    "flavorText": []
+  },
+  "eng": {
+    "name": "Arctibax",
+    "genus": "Ice Fin Pokémon",
+    "flavorText": [
+      {
+        "game": "sv-s",
+        "text": "Arctibax freezes the air around it, protecting its face with an ice mask and turning its dorsal fin into a blade of ice."
+      },
+      {
+        "game": "sv-v",
+        "text": "It attacks with the blade of its frozen dorsal fin by doing a front flip in the air. Arctibax’s strong back and legs allow it to pull off this technique."
+      }
+    ]
+  },
+  "chs": {
+    "name": "冻脊龙",
+    "genus": "冰鳍宝可梦",
+    "flavorText": []
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "jap": {
+    "name": "アオガラス",
+    "genus": "カラスポケモン",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "あしで　こいしを　つかんで　なげたり\nロープを　てきに　まきつけるなど\nどうぐを　あつかう　ちえを　もつ。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "きびしい　たたかいを　くぐりぬけて\nあいての　りきりょうを　せいかくに\nはんだんする　ちからが　みについた。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Aogarasu",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "파크로우",
+    "genus": "까마귀포켓몬",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "발로 돌멩이를 쥐어서 던지거나\n로프를 상대에게 휘감는 등\n도구를 다루는 지혜를 가졌다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "혹독한 싸움을 헤쳐 나와\n상대의 역량을 정확히\n판단하는 힘을 습득했다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "藍鴉",
+    "genus": "烏鴉寶可夢",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "頭腦聰明，懂得使用工具。\n會用爪子抓起小石頭投向敵人，\n或是用繩子把敵人綑住。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "歷經無數次艱難的戰鬥後，\n牠學會了該如何正確地\n判斷敵人的力量。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Bleuseille",
+    "genus": "Pokémon Corbeau",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Il est capable d’utiliser des objets avec ses serres :\nil peut par exemple saisir et lancer des pierres\nou même enrouler une corde autour d’un ennemi."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Après avoir surmonté tant de rudes combats,\nil a appris à déterminer avec précision\nla puissance de ses adversaires."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Kranoviz",
+    "genus": "Krähen-Pokémon",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Es weiß Objekte geschickt einzusetzen. So greift\nund wirft es zum Beispiel kleine Steine mit seinen\nKrallen oder wickelt Seile um Gegner."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Es hat viele heftige Kämpfe überstanden und\ndabei gelernt, die Stärke seiner Gegner stets\nkorrekt einzuschätzen."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Corvisquire",
+    "genus": "Pokémon Cuervo",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Su inteligencia le permite servirse de objetos. Por\nejemplo, recoge y lanza piedras con las patas, o\nutiliza cuerdas para atrapar a su oponente."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Tras haber librado combates muy duros, ha\ndesarrollado la habilidad de determinar con\nprecisión la fuerza de su adversario."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Corvisquire",
+    "genus": "Pokémon Corvo",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "È in grado di adoperare oggetti. Ad esempio,\nsa afferrare e scagliare pietre con le zampe\no avvolgere il nemico con una corda."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Avendo affrontato lotte molto ardue, ha\nimparato a valutare con precisione la forza\ndel nemico."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Corvisquire",
+    "genus": "Raven Pokémon",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Smart enough to use tools in battle, these\nPokémon have been seen picking up rocks and\nflinging them or using ropes to wrap up enemies."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "The lessons of many harsh battles have taught it\nhow to accurately judge an opponent’s strength."
+      }
+    ]
+  },
+  "chs": {
+    "name": "蓝鸦",
+    "genus": "乌鸦宝可梦",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "头脑聪明，懂得使用工具。\n会用爪子抓起小石头投向敌人，\n或是用绳子把敌人捆住。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "经历无数次艰难的战斗后，\n它学会了该如何正确地\n判断敌人的力量。"
+      }
+    ]
+  }
+}

@@ -1,0 +1,437 @@
+{
+  "jap": {
+    "name": "ガバイト",
+    "genus": "ほらあなポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "ひかりかがやく　ものが　だいすきで\nどうくつの　なかで　みつけた\nたからを　じぶんのすに　ためこむ。"
+      },
+      {
+        "game": "xy-y",
+        "text": "すあなを　ひろげるとき　ちちゅうから\nでてきた　ほうせきの　げんせきを\nすに　ためる　しゅうせいを　もつ。"
+      },
+      {
+        "game": "oras-or",
+        "text": "ひかりかがやく　ものが　だいすきで\nどうくつの　なかで　みつけた\nたからを　じぶんのすに　ためこむ。"
+      },
+      {
+        "game": "oras-as",
+        "text": "すあなを　ひろげるとき　ちちゅうから\nでてきた　ほうせきの　げんせきを\nすに　ためる　しゅうせいを　もつ。"
+      },
+      {
+        "game": "sm-s",
+        "text": "まれに　だっぴし　ウロコが　はげる。\nそのせいぶんが　ふくまれる　くすりは\nつかれた　からだを　ギンギンにする。"
+      },
+      {
+        "game": "sm-m",
+        "text": "ひかり　かがやくものが　だいすき。\nほうせきや　つかまえた　メレシーを\nすあなで　じーっと　ながめている。"
+      },
+      {
+        "game": "usum-us",
+        "text": "ひかるものが　だいすき。　メレシーを\nねらう　ヤミラミを　みつけると\nはげしく　いかって　おそいかかる。"
+      },
+      {
+        "game": "usum-um",
+        "text": "だっぴして　おおきくなって　いく。\nウロコを　すって　こなにした　ものは\nかんぽうやくの　げんりょうに　なる。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "あたまの　さゆうの　とっきから\nちょうおんぱを　だして　まっくらな\nほらあなの　ようすを　しらべるのだ。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "すみかの　どうくつには　ほうせきを\nまいぞうするが　はいりこんだとたんに\nツメと　キバで　ズタズタにされる。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Gabite",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "한바이트",
+    "genus": "동굴포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "반짝반짝 빛나는 것을\n아주 좋아하기에 동굴 안에서 발견한\n보물을 자신의 둥지에 모아둔다."
+      },
+      {
+        "game": "xy-y",
+        "text": "거처를 늘릴 때 땅속에서\n나온 보석의 원석을\n거처에 모아두는 습성을 가졌다."
+      },
+      {
+        "game": "oras-or",
+        "text": "반짝반짝 빛나는 것을\n아주 좋아하기에 동굴 안에서 발견한\n보물을 자신의 둥지에 모아둔다."
+      },
+      {
+        "game": "oras-as",
+        "text": "거처를 늘릴 때 땅속에서\n나온 보석의 원석을\n거처에 모아두는 습성을 가졌다."
+      },
+      {
+        "game": "sm-s",
+        "text": "드물게 탈피해서 비늘이 벗겨진다.\n그 성분이 들어 있는 약은\n피곤한 몸을 회복시켜 준다."
+      },
+      {
+        "game": "sm-m",
+        "text": "반짝반짝 빛나는 것을 아주 좋아한다.\n보석이나 잡은 멜리시를\n둥지에서 가만히 바라보고 있다."
+      },
+      {
+        "game": "usum-us",
+        "text": "반짝이는 것을 매우 좋아한다.\n멜리시를 노리는 깜까미를 발견하면\n격렬하게 화를 내며 덤벼든다."
+      },
+      {
+        "game": "usum-um",
+        "text": "탈피하면서 커진다.\n비늘을 비벼서 가루로 만든 것은\n한방약의 원료가 된다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "머리의 좌우 돌기에서\n초음파를 내보내 캄캄한\n동굴의 상황을 살핀다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "거처인 동굴에 보석을 매장하는데\n그곳에 침입자가 들어가면 즉시\n발톱과 이빨로 갈기갈기 찢어버린다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "尖牙陸鯊",
+    "genus": "洞穴寶可夢",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "偶爾脫皮，鱗片會脫落。\n含有其成分的藥可以\n讓疲勞的身體活力四射。"
+      },
+      {
+        "game": "sm-m",
+        "text": "最喜歡閃閃發光的東西。\n會一直呆在巢穴裡\n盯著寶石和捕捉到的小碎鑽。"
+      },
+      {
+        "game": "usum-us",
+        "text": "最喜歡會發亮的東西。\n只要發現在打小碎鑽主意的勾魂眼，\n就會非常生氣地發動攻擊。"
+      },
+      {
+        "game": "usum-um",
+        "text": "會反覆脫皮並長大。\n將牠的鱗片磨成粉之後，\n可以當成中藥的原料。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "會從頭部左右兩側的突起處\n發出超音波，藉此調查漆黑\n洞窟裡的狀況。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "會把寶石埋藏在自己棲息的\n洞窟裡。但只要入侵牠的洞窟，\n就會立刻被牠的爪子和牙齒撕碎。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Carmache",
+    "genus": "Pokémon Caverne",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Toujours à la recherche d’objets\nbrillants, il arpente les grottes\npour constituer son butin."
+      },
+      {
+        "game": "bw-w",
+        "text": "Toujours à la recherche d’objets\nbrillants, il arpente les grottes\npour constituer son butin."
+      },
+      {
+        "game": "xy-x",
+        "text": "Toujours à la recherche d’objets brillants, il arpente\nles grottes pour constituer son butin."
+      },
+      {
+        "game": "xy-y",
+        "text": "Carmache accumule les pierres précieuses qu’il\ndéterre quand il entreprend d’agrandir son nid."
+      },
+      {
+        "game": "oras-or",
+        "text": "Toujours à la recherche d’objets brillants, il arpente\nles grottes pour constituer son butin."
+      },
+      {
+        "game": "oras-as",
+        "text": "Carmache accumule les pierres précieuses qu’il déterre quand\nil entreprend d’agrandir son nid."
+      },
+      {
+        "game": "sm-s",
+        "text": "Il perd parfois ses écailles quand il mue.\nLes remèdes à base d’écailles de Carmache\nsont de puissants toniques."
+      },
+      {
+        "game": "sm-m",
+        "text": "Il adore tout ce qui brille. Au fond de sa tanière,\nil contemple les joyaux qu’il a dérobés et les\nStrassie qu’il a kidnappés."
+      },
+      {
+        "game": "usum-us",
+        "text": "Il adore tout ce qui brille, et rien ne l’énerve plus\nqu’un Ténéfix s’en prenant à un Strassie. S’il est\ntémoin d’une telle agression, il passe à l’attaque."
+      },
+      {
+        "game": "usum-um",
+        "text": "Il mue régulièrement au cours de sa croissance.\nLes écailles ainsi tombées peuvent être pilées\npour préparer des remèdes traditionnels."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Il émet des ultrasons avec les deux appendices\nsur sa tête pour sonder les grottes obscures."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Il cache des pierres précieuses dans le sol\nde sa grotte, et accueille à coups de griffes\net de crocs quiconque ose y pénétrer."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Knarksel",
+    "genus": "Höhlen-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Es liebt funkelnde Dinge und sucht nach Schätzen\nin Höhlen, die es dann in seinem Nest hortet."
+      },
+      {
+        "game": "xy-y",
+        "text": "Die Rohedelsteine, die beim Erweitern seiner Höhle\nzum Vorschein kommen, hortet es in seinem Nest."
+      },
+      {
+        "game": "oras-or",
+        "text": "Es liebt funkelnde Dinge und sucht nach Schätzen in Höhlen,\ndie es dann in seinem Nest hortet."
+      },
+      {
+        "game": "oras-as",
+        "text": "Die Rohedelsteine, die beim Erweitern seiner Höhle\nzum Vorschein kommen, hortet es in seinem Nest."
+      },
+      {
+        "game": "sm-s",
+        "text": "Ab und zu häutet es sich und verliert Schuppen.\nMedizin, die solche Schuppen enthält, macht\nmüde Körper munter."
+      },
+      {
+        "game": "sm-m",
+        "text": "Es liebt funkelnde Dinge. Edelsteine und\ngefangene Rocara nimmt es mit in sein Nest,\num sich an ihrem Anblick zu weiden."
+      },
+      {
+        "game": "usum-us",
+        "text": "Es liebt funkelnde Dinge. Sieht es ein Zobiris,\ndas ein Rocara jagt, stürzt es sich wütend auf\nden Verfolger."
+      },
+      {
+        "game": "usum-um",
+        "text": "Wenn es wächst, streift es seine Schuppen ab.\nDiese lassen sich zu einem Pulver zerkleinern,\ndas als Basis für natürliche Heilmittel dient."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Aus den Fortsätzen an beiden Seiten seines\nKopfes stößt es Ultraschallwellen aus, um sich\nin stockfinsteren Höhlen zurechtzufinden."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "In der Höhle, die Knarksel als Nest dient,\nvergräbt es Edelsteine. Wer sie betritt, wird\nsofort von seinen Krallen und Zähnen zerfetzt."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Gabite",
+    "genus": "Pokémon Cueva",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Le gustan las cosas brillantes. Busca tesoros en\ncuevas y se lleva el botín a su nido."
+      },
+      {
+        "game": "xy-y",
+        "text": "Tiende a acumular las gemas en bruto que encuentra\ncuando agranda su guarida."
+      },
+      {
+        "game": "oras-or",
+        "text": "Le gustan las cosas brillantes. Busca tesoros en cuevas y se\nlleva el botín a su nido."
+      },
+      {
+        "game": "oras-as",
+        "text": "Tiende a acumular las gemas en bruto que encuentra cuando\nagranda su guarida."
+      },
+      {
+        "game": "sm-s",
+        "text": "Muy ocasionalmente puede mudar la piel y\nperder las escamas. Las medicinas que las usan\ncomo ingrediente son muy reconstituyentes."
+      },
+      {
+        "game": "sm-m",
+        "text": "Le gustan las cosas brillantes. Pasa largas\nhoras en su cueva, admirando las gemas y los\nCarbink que ha capturado."
+      },
+      {
+        "game": "usum-us",
+        "text": "Se vuelve loco por las cosas brillantes y no duda\nen atacar con violencia a los Sableye que\nacechan a los Carbink."
+      },
+      {
+        "game": "usum-um",
+        "text": "Muda la piel a medida que crece. Las escamas\nque pierde se pueden pulverizar para utilizar\ncomo ingrediente en remedios medicinales."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Explora las más oscuras cuevas utilizando ondas\nultrasónicas que emite desde las protuberancias\na ambos lados de la cabeza."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Entierra gemas en la cueva que le sirve de nido y\nhace trizas con sus garras y colmillos a cualquier\nintruso."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Gabite",
+    "genus": "Pokémon Grotta",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Adora gli oggetti luccicanti. Va a caccia di tesori\nnelle grotte e li trasporta nel suo nido."
+      },
+      {
+        "game": "xy-y",
+        "text": "Ha l’abitudine di collezionare gemme che trova\nmentre si scava la tana, appositamente ampliata."
+      },
+      {
+        "game": "oras-or",
+        "text": "Adora gli oggetti luccicanti. Va a caccia di tesori nelle grotte\ne li trasporta nel suo nido."
+      },
+      {
+        "game": "oras-as",
+        "text": "Ha l’abitudine di collezionare gemme che trova mentre si scava\nla tana, appositamente ampliata."
+      },
+      {
+        "game": "sm-s",
+        "text": "Con le scaglie che a volte perde durante la muta\nsi possono preparare tonici che alleviano\nla stanchezza e ripristinano le energie."
+      },
+      {
+        "game": "sm-m",
+        "text": "Adora gli oggetti luccicanti. Passa molto tempo\nnella sua tana a rimirare la sua scorta di gemme\ne Carbink."
+      },
+      {
+        "game": "usum-us",
+        "text": "Adora gli oggetti luccicanti. Se sorprende un\nSableye a caccia di Carbink, si infuria e lo\nattacca."
+      },
+      {
+        "game": "usum-um",
+        "text": "Quando il suo corpo si ingrandisce, fa la muta.\nCon la polvere ricavata frantumando le scaglie\nscartate si preparano dei rimedi naturali."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Emette ultrasuoni dalle protuberanze sulla testa\nper esaminare le grotte anche nel buio più fitto."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Accumula pietre preziose nella grotta in cui vive.\nFa a pezzi con gli artigli e le zanne chiunque\nvi si intrufoli."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Gabite",
+    "genus": "Cave Pokémon",
+    "flavorText": [
+      {
+        "game": "dp-d",
+        "text": "There is a long-held belief that\nmedicine made from its scales will\nheal even incurable illnesses."
+      },
+      {
+        "game": "dp-p",
+        "text": "It habitually digs up and hoards\ngems in its nest. Its loot is\nconstantly targeted by thieves."
+      },
+      {
+        "game": "pt",
+        "text": "It loves sparkly things. It seeks\ntreasures in caves and hoards the\nloot in its nest."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "As it digs to expand its nest, it\nhabitually digs up gems that it\nthen hoards in its nest."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "As it digs to expand its nest, it\nhabitually digs up gems that it\nthen hoards in its nest."
+      },
+      {
+        "game": "bw-b",
+        "text": "It loves sparkly things. It seeks\ntreasures in caves and hoards the\nloot in its nest."
+      },
+      {
+        "game": "bw-w",
+        "text": "It loves sparkly things. It seeks\ntreasures in caves and hoards the\nloot in its nest."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "It loves sparkly things. It seeks\ntreasures in caves and hoards the\nloot in its nest."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "It loves sparkly things. It seeks\ntreasures in caves and hoards the\nloot in its nest."
+      },
+      {
+        "game": "xy-x",
+        "text": "It loves sparkly things. It seeks treasures in caves\nand hoards the loot in its nest."
+      },
+      {
+        "game": "xy-y",
+        "text": "As it digs to expand its nest, it habitually digs up\ngems that it then hoards in its nest."
+      },
+      {
+        "game": "oras-or",
+        "text": "It loves sparkly things. It seeks treasures in caves\nand hoards the loot in its nest."
+      },
+      {
+        "game": "oras-as",
+        "text": "As it digs to expand its nest, it habitually digs up\ngems that it then hoards in its nest."
+      },
+      {
+        "game": "sm-s",
+        "text": "In rare cases, it molts and sheds its scales.\nMedicine containing its scales as an ingredient\nwill make a weary body feel invigorated."
+      },
+      {
+        "game": "sm-m",
+        "text": "Shiny objects are its passion. It can be found in\nits cave, scarcely moving, its gaze fixed on the\njewels it’s amassed or Carbink it has caught."
+      },
+      {
+        "game": "usum-us",
+        "text": "It loves shiny things. When it finds a Sableye\ntrying to catch a Carbink, Gabite becomes\nfuriously angry and attacks the Sableye."
+      },
+      {
+        "game": "usum-um",
+        "text": "It sheds its skin and gradually grows larger. Its\nscales can be ground into a powder and used\nas raw materials for traditional medicine."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "This Pokémon emits ultrasonic waves from a\nprotrusion on either side of its head to probe\npitch-dark caves."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Jewels are buried in the caves these Pokémon\nnest in, but you’ll be torn apart by claws and\nfangs the moment you enter one of these caves."
+      },
+      {
+        "game": "la",
+        "text": "Though Gabite are usually of a violent disposition, when I gave\none a glass bead it had been eyeing covetously, it suddenly\nbecame quite docile."
+      }
+    ]
+  },
+  "chs": {
+    "name": "尖牙陆鲨",
+    "genus": "洞穴宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "偶尔蜕皮，鳞片会脱落。\n其成分中所含的药物成分\n可以让疲劳的身体活力四射。"
+      },
+      {
+        "game": "sm-m",
+        "text": "最喜欢闪闪发光的东西。\n一直呆在巢穴里，\n盯着宝石和捕捉到的小碎钻。"
+      },
+      {
+        "game": "usum-us",
+        "text": "非常喜欢发光的东西。\n如果发现正在攻击小碎钻的勾魂眼，\n就会非常生气地发动袭击。"
+      },
+      {
+        "game": "usum-um",
+        "text": "会反复蜕皮变大。\n将鳞片磨成粉，\n可以作为中药的原料。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "会从头部左右两边的\n突起物发出超音波，\n观察漆黑洞窟中的状况。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "会把宝石埋藏在栖息的洞窟内。\n入侵者闯入洞窟后，会立刻\n被它用爪子和牙齿撕碎。"
+      }
+    ]
+  }
+}

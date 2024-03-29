@@ -1,0 +1,469 @@
+{
+  "jap": {
+    "name": "ブビィ",
+    "genus": "ひだねポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "こがらだが　たいおんは　６００ど。\nいきを　すったり　はいたりするたび\nくちと　はなから　ひのこが　もれる。"
+      },
+      {
+        "game": "xy-y",
+        "text": "マグマのような　けつえきが\nたいないに　ながれているため\nたいおんは　６００どにも　なる。"
+      },
+      {
+        "game": "oras-or",
+        "text": "きいろい　ほのおを　くちから　ふいている　ときは\nけんこうな　しょうこだが　つかれていると　くろい\nけむりが　まざる　ように　なるぞ。"
+      },
+      {
+        "game": "oras-as",
+        "text": "きいろい　ほのおを　くちから　ふいている　ときは\nけんこうな　しょうこだが　つかれていると　くろい\nけむりが　まざる　ように　なるぞ。"
+      },
+      {
+        "game": "sm-s",
+        "text": "かざんちたいで　おおく　みかける。\nヘタに　エサを　あげると　よろこび\nこうふんして　６００どの　ひを　ふく。"
+      },
+      {
+        "game": "sm-m",
+        "text": "ブビィと　くらす　ゆうめいな\nとうげいかが　いる。　やわらかい\nほのおが　いいさくひんを　うむらしい。"
+      },
+      {
+        "game": "usum-us",
+        "text": "はなから　ちょろちょろと　ほのおが\nもれているときは　かぜを　ひいている。\nマグマのなかで　やすませて　あげてね。"
+      },
+      {
+        "game": "usum-um",
+        "text": "たいおんは　つねに　６００どぜんご。\nブビィが　おっこちると　ちいさな\nいけ　くらいなら　ひあがってしまう。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "まだまだ　ちいさく　おくびょう。\nこうふんしたり　びっくりすると\nはなや　くちから　ひが　もれる。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "かざんの　まわりに　すんでいる。\nいちにちの　おわりには　マグマに\nつかり　つかれを　いやしている。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Buby",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "마그비",
+    "genus": "불씨포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "작은 몸이지만 체온은 600도다.\n숨을 들이쉬고 내쉴 때마다\n입과 코에서 불꽃이 샌다."
+      },
+      {
+        "game": "xy-y",
+        "text": "마그마 같은 혈액이\n체내에 흐르고 있기 때문에\n체온은 600도나 된다."
+      },
+      {
+        "game": "oras-or",
+        "text": "노란색 불꽃이 입에서 뿜어져 나오는 것은\n건강하다는 증거이지만 지쳐 있을 때는\n검은 연기가 섞이게 된다."
+      },
+      {
+        "game": "oras-as",
+        "text": "노란색 불꽃이 입에서 뿜어져 나오는 것은\n건강하다는 증거이지만 지쳐 있을 때는\n검은 연기가 섞이게 된다."
+      },
+      {
+        "game": "sm-s",
+        "text": "화산지대에서 많이 보인다.\n어설프게 먹이를 주면 좋아하며\n흥분해서 600도의 불을 뿜는다."
+      },
+      {
+        "game": "sm-m",
+        "text": "마그비와 사는 유명한\n도예가가 있다. 부드러운\n불꽃이 좋은 작품을 만드는 듯하다."
+      },
+      {
+        "game": "usum-us",
+        "text": "코에서 불꽃이 줄줄 흐른다면\n감기에 걸린 것이다.\n마그마에서 쉬게 해 주자."
+      },
+      {
+        "game": "usum-um",
+        "text": "체온은 항상 600도 전후다.\n마그비가 물에 떨어지면 작은\n연못 정도는 말라붙어 버린다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "아직은 작고 겁이 많다.\n흥분하거나 놀라면\n코나 입에서 불꽃이 새어 나온다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "화산 주위에 살고 있다.\n하루를 마칠 때에는\n마그마에 잠겨 피로를 푼다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "鴨嘴寶寶",
+    "genus": "火種寶可夢",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "經常能在火山地帶發現牠的蹤影。\n如果隨意餵牠東西吃的話，\n牠會很高興並激動得噴出６００度的火焰。"
+      },
+      {
+        "game": "sm-m",
+        "text": "有位著名的陶藝家和鴨嘴寶寶\n一起生活。用牠柔和的火似乎能\n創作出很棒的作品。"
+      },
+      {
+        "game": "usum-us",
+        "text": "當火焰像打開水龍頭似地不停從\n鼻子冒出來時，就代表牠感冒了。\n這時就讓牠待在熔岩裡休息吧。"
+      },
+      {
+        "game": "usum-um",
+        "text": "體溫隨時保持在６００度左右。\n如果鴨嘴寶寶掉進小池塘裡，\n整池水馬上就會蒸發殆盡。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "體型還很小，且性情膽小。\n興奮或吃驚的時候，就會\n從鼻子和嘴巴裡冒出火焰。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "棲息在火山的周圍。\n在一天結束時，會泡進\n熔岩中讓身體舒緩疲勞。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Magby",
+    "genus": "Pokémon Charbon",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Son sang est chaud comme du magma\net la température de son corps\npeut atteindre 600 °C."
+      },
+      {
+        "game": "bw-w",
+        "text": "Son sang est chaud comme du magma\net la température de son corps\npeut atteindre 600 °C."
+      },
+      {
+        "game": "xy-x",
+        "text": "La température de son corps peut atteindre 600 °C.\nSon nez et sa bouche laissent échapper des\nflammèches."
+      },
+      {
+        "game": "xy-y",
+        "text": "Son sang est chaud comme du magma et la\ntempérature de son corps peut atteindre 600 °C."
+      },
+      {
+        "game": "oras-or",
+        "text": "L’état de santé de Magby peut être deviné selon le type\nde flamme qu’il crache. Si ce Pokémon crache des flammes\njaunes, c’est qu’il est en bonne santé. Lorsqu’il est fatigué,\nde la fumée noire s’ajoute aux flammes."
+      },
+      {
+        "game": "oras-as",
+        "text": "L’état de santé de Magby peut être deviné selon le type\nde flamme qu’il crache. Si ce Pokémon crache des flammes\njaunes, c’est qu’il est en bonne santé. Lorsqu’il est fatigué,\nde la fumée noire s’ajoute aux flammes."
+      },
+      {
+        "game": "sm-s",
+        "text": "Ce Pokémon est souvent aperçu dans les\nrégions volcaniques. Donnez-lui à manger\net il vous déclarera sa flamme... littéralement."
+      },
+      {
+        "game": "sm-m",
+        "text": "Magby est le partenaire privilégié d’un potier\nextrêmement célèbre. Sa flamme légère l’aiderait\nà créer des œuvres d’un raffinement exquis."
+      },
+      {
+        "game": "usum-us",
+        "text": "Lorsque de petites flammes s’échappent\nde son nez, c’est qu’il est enrhumé. Le meilleur\nremède est encore de lui donner un bain de lave."
+      },
+      {
+        "game": "usum-um",
+        "text": "Sa température corporelle est d’environ 600 °C.\nS’il tombe dans une mare, celle-ci s’évapore\net il n’en reste plus rien."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Ce n’est encore qu’un petit Pokémon craintif.\nLorsqu’il est excité ou étonné, du feu s’échappe\nde son nez ou de sa bouche."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Il vit près des volcans. À la fin de la journée,\nil se détend dans un bon bain de magma."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Magby",
+    "genus": "Glutherd-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Seine Körpertemperatur misst 600 °C.\nBeim Ein- und Ausatmen springen\nglühende Kohlenstücke aus seinem Mund."
+      },
+      {
+        "game": "xy-y",
+        "text": "Durch seinen Körper fließt magmaartiges Blut.\nDie Körpertemperatur kann auf ca. 600 °C steigen."
+      },
+      {
+        "game": "oras-or",
+        "text": "Magbys Gesundheitszustand kann man am Feuer erkennen,\ndas es ausatmet. Wenn es gelbe Flammen ausstößt, ist es in\nguter Verfassung. Ist es erschöpft, vermischen sich die\nFlammen mit schwarzem Rauch."
+      },
+      {
+        "game": "oras-as",
+        "text": "Magbys Gesundheitszustand kann man am Feuer erkennen,\ndas es ausatmet. Wenn es gelbe Flammen ausstößt, ist es in\nguter Verfassung. Ist es erschöpft, vermischen sich die\nFlammen mit schwarzem Rauch."
+      },
+      {
+        "game": "sm-s",
+        "text": "Häufig in Vulkangebieten anzutreffen. Füttert\nman es, kann es sein, dass es vor lauter\nFreude 600 °C heißes Feuer ausstößt."
+      },
+      {
+        "game": "sm-m",
+        "text": "Ein berühmter Kunstkeramiker hat ein Magby\nals Mitbewohner. Seine Kunstwerke profitieren\nvon den sanften Flammen, die es ausstößt."
+      },
+      {
+        "game": "usum-us",
+        "text": "Wenn es kleine Flammen aus seiner Nase\nausstößt, ist es erkältet. Dann sollte man ihm\neine Ruhepause in Magma gönnen."
+      },
+      {
+        "game": "usum-um",
+        "text": "Seine Körpertemperatur liegt immer bei etwa\n600 °C. Wenn es in einen kleinen See fällt,\ntrocknet dieser komplett aus."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Es ist noch klein und furchtsam. Wenn es sich\naufregt oder erschrickt, entweichen Flammen aus\nseinem Mund und seiner Nase."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Es lebt in der Nähe von Vulkanen. Nach einem\nanstrengenden Tag badet es in Magma und\nschöpft so neue Energie."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Magby",
+    "genus": "Pokémon Ascuas",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Es pequeño, pero su cuerpo puede llegar a alcanzar\n600 °C. Cuando inspira y espira, expulsa llamas por la\nnariz y por la boca."
+      },
+      {
+        "game": "xy-y",
+        "text": "Su sangre es como magma y su temperatura corporal\npuede alcanzar los 600 °C."
+      },
+      {
+        "game": "oras-or",
+        "text": "El estado de salud de Magby se puede determinar observando\nel fuego que emana al respirar. Si las llamas que echa por la\nboca son amarillas, está bien. Pero, si además de las llamas\nsale humo negro, está cansado."
+      },
+      {
+        "game": "oras-as",
+        "text": "El estado de salud de Magby se puede determinar observando\nel fuego que emana al respirar. Si las llamas que echa por la\nboca son amarillas, está bien. Pero, si además de las llamas\nsale humo negro, está cansado."
+      },
+      {
+        "game": "sm-s",
+        "text": "Es fácil encontrarse con un Magby en áreas\ncercanas a volcanes. Si se le da comida, se\nemociona y expulsa fuego a 600 °C."
+      },
+      {
+        "game": "sm-m",
+        "text": "Hay reputados alfareros que viven con Magby.\nAl parecer, sus suaves llamas son ideales para\ncocer grandes obras de alfarería."
+      },
+      {
+        "game": "usum-us",
+        "text": "Cuando se le escapan pequeñas llamaradas por\nel hocico significa que está resfriado y el mejor\nremedio es un buen baño de magma."
+      },
+      {
+        "game": "usum-um",
+        "text": "Su temperatura corporal ronda los 600 °C. Si\ncae en un pequeño estanque, es capaz de\nevaporarlo por completo."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Como todavía es pequeño, se asusta fácilmente.\nCuando se emociona o se sorprende, se le\nescapa fuego por la nariz y por la boca."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Vive en los alrededores de los volcanes.\nAl final del día, se baña en magma para\naliviar el cansancio."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Magby",
+    "genus": "Pokémon Carbonvivo",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "È di piccole dimensioni, ma la temperatura del suo\ncorpo è di 600 °C. Quando respira emette scintille\nda naso e bocca."
+      },
+      {
+        "game": "xy-y",
+        "text": "Il suo sangue assomiglia al magma. La sua\ntemperatura corporea raggiunge i 600 °C."
+      },
+      {
+        "game": "oras-or",
+        "text": "Lo stato di salute di Magby si evince osservando il fuoco\nche emette dalla bocca. Se sputa fiamme gialle, gode\ndi buona salute, mentre se è stanco o affaticato, le fiamme\nsono miste a fumo nero."
+      },
+      {
+        "game": "oras-as",
+        "text": "Lo stato di salute di Magby si evince osservando il fuoco\nche emette dalla bocca. Se sputa fiamme gialle, gode\ndi buona salute, mentre se è stanco o affaticato, le fiamme\nsono miste a fumo nero."
+      },
+      {
+        "game": "sm-s",
+        "text": "Viene spesso avvistato nelle zone vulcaniche.\nQuando gli si dà da mangiare, si entusiasma\ne sputa fiamme a 600 °C."
+      },
+      {
+        "game": "sm-m",
+        "text": "Pare che alcuni famosi vasai lavorino assieme\na questi Pokémon, creando delle opere stupende\ngrazie alle fiamme che producono."
+      },
+      {
+        "game": "usum-us",
+        "text": "Quando dalle narici escono piccole fiamme\ntremule, significa che è raffreddato. In questi\ncasi bisogna farlo riposare nel magma."
+      },
+      {
+        "game": "usum-um",
+        "text": "Ha una temperatura corporea di circa 600 °C.\nSe cade in un piccolo stagno, può farlo\nevaporare completamente."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "È ancora piccolo e si intimorisce facilmente.\nQuando si emoziona o si spaventa, emette fuoco\ndalla bocca o dal naso."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Vive nei pressi dei vulcani. Dopo una faticosa\ngiornata, si gode un rilassante bagno nel magma."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Magby",
+    "genus": "Live Coal Pokémon",
+    "flavorText": [
+      {
+        "game": "gs-g",
+        "text": "Each and every\ntime it inhales\nand exhales, hot\fembers dribble out\nof its mouth and\nnostrils."
+      },
+      {
+        "game": "gs-s",
+        "text": "It is found in\nvolcanic craters.\nIts body temp. is\fover 1100 degrees,\nso don't under­\nestimate it."
+      },
+      {
+        "game": "c",
+        "text": "It naturally spits\nan 1100-degree\nflame. It is said\fwhen many appear,\nit heralds a\nvolcanic eruption."
+      },
+      {
+        "game": "rs-r",
+        "text": "MAGBY’s state of health is determined\nby observing the fire it breathes.\nIf the POKéMON is spouting yellow\fflames from its mouth, it is in good\nhealth. When it is fatigued, black smoke\nwill be mixed in with the flames."
+      },
+      {
+        "game": "rs-s",
+        "text": "MAGBY’s state of health is determined\nby observing the fire it breathes.\nIf the POKéMON is spouting yellow\fflames from its mouth, it is in good\nhealth. When it is fatigued, black smoke\nwill be mixed in with the flames."
+      },
+      {
+        "game": "e",
+        "text": "If a MAGBY is spouting yellow flames from\nits mouth, it is in good health. When it is\nfatigued, black smoke will be mixed in with\nthe flames."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "It is found in volcanic craters. Its body\nheat exceeds 1,100 degrees Fahrenheit,\nso don’t underestimate it."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "Each and every time it inhales and\nexhales, hot embers dribble out of its\nmouth and nostrils."
+      },
+      {
+        "game": "dp-d",
+        "text": "Its body temperature is around\n1,100 degrees F. It is healthy if\nit is breathing yellow flames."
+      },
+      {
+        "game": "dp-p",
+        "text": "Its body temperature is around\n1,100 degrees F. It is healthy if\nit is breathing yellow flames."
+      },
+      {
+        "game": "pt",
+        "text": "Its magma-like blood circulates\nthroughout its body. Its body’s\nheat can top 1,100 degrees F."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "Each and every time it inhales\nand exhales, hot embers dribble\nfrom its mouth and nostrils."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "It is found in volcanic craters. Its body\ntemperature is over 1,100 degrees\nFahrenheit, so don’t underestimate it."
+      },
+      {
+        "game": "bw-b",
+        "text": "Its magma-like blood circulates\nthroughout its body. Its body’s\nheat can top 1,100 degrees F."
+      },
+      {
+        "game": "bw-w",
+        "text": "Its magma-like blood circulates\nthroughout its body. Its body’s\nheat can top 1,100 degrees F."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "It’s small, but its body temperature\nis over 1,100 degrees F. Embers escape\nits mouth and nose when it breathes."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "It’s small, but its body temperature\nis over 1,100 degrees F. Embers escape\nits mouth and nose when it breathes."
+      },
+      {
+        "game": "xy-x",
+        "text": "It’s small, but its body temperature is over\n1,100 degrees Fahrenheit. Embers escape its\nmouth and nose when it breathes."
+      },
+      {
+        "game": "xy-y",
+        "text": "Its magma-like blood circulates throughout\nits body. Its body’s heat can top\n1,100 degrees Fahrenheit."
+      },
+      {
+        "game": "oras-or",
+        "text": "Magby’s state of health is determined by observing the fire it\nbreathes. If the Pokémon is spouting yellow flames from its\nmouth, it is in good health. When it is fatigued, black smoke\nwill be mixed in with the flames."
+      },
+      {
+        "game": "oras-as",
+        "text": "Magby’s state of health is determined by observing the fire it\nbreathes. If the Pokémon is spouting yellow flames from its\nmouth, it is in good health. When it is fatigued, black smoke\nwill be mixed in with the flames."
+      },
+      {
+        "game": "sm-s",
+        "text": "Many of these Pokémon can be seen in areas\nwith volcanic activity. Feeding can get them so\nexcited, they exhale flames of 1,100 degrees F."
+      },
+      {
+        "game": "sm-m",
+        "text": "A famous potter lives with a Magby.\nApparently its soft flames produce fine works."
+      },
+      {
+        "game": "usum-us",
+        "text": "When flames drip from its nose, that means it\nhas a cold. Have it lie down for a nice rest in\nsome magma."
+      },
+      {
+        "game": "usum-um",
+        "text": "Its body temperature is always around 1,100\ndegrees Fahrenheit. If Magby falls into a small-\nenough pond, the whole thing will dry up."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "This Pokémon is still small and timid.\nWhenever Magby gets excited or surprised,\nflames leak from its mouth and its nose."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "This Pokémon makes its home near volcanoes.\nAt the end of the day, Magby soaks in magma,\nresting and recovering from the day’s fatigue."
+      },
+      {
+        "game": "la",
+        "text": "This Pokémon lives in volcanic areas. With each breath, sparks\nspurt from its mouth and nose. When Magby is in good health,\nits flames gain a yellow tint."
+      }
+    ]
+  },
+  "chs": {
+    "name": "鸭嘴宝宝",
+    "genus": "火种宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "在火山地带经常能见到。\n如果冒失地给了它食物的话会很高兴，\n激动地喷出６００度的火。"
+      },
+      {
+        "game": "sm-m",
+        "text": "有和鸭嘴宝宝一起生活的\n著名的陶艺家。\n听说会用柔和的火创作出很棒的作品。"
+      },
+      {
+        "game": "usum-us",
+        "text": "当火焰哧溜哧溜地从鼻子里\n漏出来时，就表示它感冒了。\n这时就让它去熔岩里休息会吧。"
+      },
+      {
+        "game": "usum-um",
+        "text": "体温经常在６００度左右。\n如果鸭嘴宝宝掉到池塘里，\n池塘里的水就会被蒸发干净。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "不但身材很小，而且还很胆小。\n每次感到兴奋或是吃惊的时候，\n都会从嘴巴和鼻子里冒出火花。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "栖息在火山地带。\n会浸泡在岩浆中，\n疗愈一整天的疲劳。"
+      }
+    ]
+  }
+}

@@ -1,0 +1,269 @@
+{
+  "jap": {
+    "name": "コバルオン",
+    "genus": "てっしんポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "はがねの　からだと　こころを　もつ。\nにらみつけるだけで　きょうぼうな\nポケモンも　したがわせてしまう。"
+      },
+      {
+        "game": "xy-y",
+        "text": "はがねの　こころと　からだを　もつ。\nひとが　ポケモンを　きずつけたとき\nなかまとともに　ひとを　こらしめた。"
+      },
+      {
+        "game": "oras-or",
+        "text": "はがねの　からだと　こころを　もつ。\nにらみつけるだけで　きょうぼうな\nポケモンも　したがわせてしまう。"
+      },
+      {
+        "game": "oras-as",
+        "text": "はがねの　こころと　からだを　もつ。\nひとが　ポケモンを　きずつけたとき\nなかまとともに　ひとを　こらしめた。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "テラキオン　ビリジオンと　ともに\nイッシュちほうの　ポケモンを　まもり\nひとと　たたかった　でんせつがある。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "うまれながら　リーダーの　ふうかくを\nみにつける。　きょうぼうな　あいても\nコバルオンの　まえでは　おとなしい。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Cobalon",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "코바르온",
+    "genus": "철심포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "강철의 몸과 마음을 지녔다.\n째려보기만 해도 난폭한\n포켓몬마저도 따르게 된다."
+      },
+      {
+        "game": "xy-y",
+        "text": "강철의 마음과 몸을 지녔다.\n사람이 포켓몬을 상처 입혔을 때\n동료와 함께 사람을 벌했다."
+      },
+      {
+        "game": "oras-or",
+        "text": "강철의 몸과 마음을 지녔다.\n째려보기만 해도 난폭한\n포켓몬마저도 따르게 된다."
+      },
+      {
+        "game": "oras-as",
+        "text": "강철의 마음과 몸을 지녔다.\n사람이 포켓몬을 상처 입혔을 때\n동료와 함께 사람을 벌했다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "테라키온 비리디온과 함께\n하나지방의 포켓몬을 지키기 위해\n인간에 맞서 싸웠다는 전설이 있다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "태어나면서부터 리더의 품격을\n몸에 지녔다. 흉포한 상대도\n코바르온의 앞에서는 온순하다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "勾帕路翁",
+    "genus": "鐵心寶可夢",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "傳說牠曾經與代拉基翁和\n畢力吉翁一起，為了保護\n合眾地區的寶可夢而與人類作戰。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "生來就具有領導風範。\n即使是性情狂暴的寶可夢，\n在勾帕路翁面前也會變得溫順。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Cobaltium",
+    "genus": "Pokémon Cœur de Fer",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Un Pokémon légendaire qui a combattu\nles humains pour protéger les Pokémon.\nIl est d’un naturel calme et posé."
+      },
+      {
+        "game": "bw-w",
+        "text": "Il possède un corps et un cœur de fer.\nIl peut mater les Pokémon les plus\nagressifs d’un simple regard."
+      },
+      {
+        "game": "xy-x",
+        "text": "Il possède un corps et un cœur de fer. Il peut mater\nles Pokémon les plus agressifs d’un simple regard."
+      },
+      {
+        "game": "xy-y",
+        "text": "Un corps et un cœur en acier trempé, jadis au service\nde la défense des Pokémon blessés par les humains."
+      },
+      {
+        "game": "oras-or",
+        "text": "Il possède un corps et un cœur de fer. Il peut mater\nles Pokémon les plus agressifs d’un simple regard."
+      },
+      {
+        "game": "oras-as",
+        "text": "Un corps et un cœur en acier trempé, jadis au service\nde la défense des Pokémon blessés par les humains."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Selon la légende, il aurait défié les Hommes,\naux côtés de Terrakium et de Viridium,\npour protéger les Pokémon d’Unys."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Dès la naissance, il a un air de chef.\nMême le plus terrible des adversaires file doux\nface à lui."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Kobalium",
+    "genus": "Eisenkern-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Sein Körper und sein Herz sind aus Stahl. Ein böser\nBlick genügt und selbst die wildesten Pokémon\nunterwerfen sich ihm."
+      },
+      {
+        "game": "xy-y",
+        "text": "Sein Körper und Herz sind aus Stahl. Gemeinsam\nmit seinen Gefährten bestrafte es alle Menschen,\ndie Pokémon verletzen."
+      },
+      {
+        "game": "oras-or",
+        "text": "Sein Körper und sein Herz sind aus Stahl. Ein böser Blick\ngenügt und selbst die wildesten Pokémon unterwerfen sich\nihm."
+      },
+      {
+        "game": "oras-as",
+        "text": "Sein Körper und Herz sind aus Stahl. Gemeinsam mit seinen\nGefährten bestrafte es alle Menschen, die Pokémon verletzen."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Legenden zufolge kämpfte es einst zusammen mit\nTerrakium und Viridium gegen die Menschen, um\ndie Pokémon der Einall-Region zu beschützen."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Kobalium ist der geborene Anführer. Selbst die\ngefährlichsten Gegner unterwerfen sich ihm."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Cobalion",
+    "genus": "Pokémon Tesón Acero",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Posee un cuerpo y un corazón de acero. Basta una\nmirada suya para que Pokémon violentos le\nobedezcan."
+      },
+      {
+        "game": "xy-y",
+        "text": "Posee cuerpo y alma de acero. Junto con sus\ncompañeros, castiga a aquellas personas que hacen\ndaño a Pokémon."
+      },
+      {
+        "game": "oras-or",
+        "text": "Posee un cuerpo y un corazón de acero. Basta una mirada\nsuya para que Pokémon violentos le obedezcan."
+      },
+      {
+        "game": "oras-as",
+        "text": "Posee cuerpo y alma de acero. Junto con sus compañeros,\ncastiga a aquellas personas que hacen daño a Pokémon."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Cuenta una leyenda que combatió contra los\nhumanos junto a Terrakion y Virizion para\nproteger a los Pokémon de Teselia."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Un líder nato. Incluso los Pokémon más agresivos\nse muestran dóciles en su presencia."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Cobalion",
+    "genus": "Pokémon Metalcuore",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Ha un corpo e uno spirito d’acciaio. Gli basta lo\nsguardo per farsi ubbidire anche dai Pokémon più\nferoci."
+      },
+      {
+        "game": "xy-y",
+        "text": "Ha un corpo e uno spirito d’acciaio. È comparso con\ni suoi compagni per punire coloro che un tempo\nferirono i Pokémon."
+      },
+      {
+        "game": "oras-or",
+        "text": "Ha un corpo e uno spirito d’acciaio. Gli basta lo sguardo\nper farsi ubbidire anche dai Pokémon più feroci."
+      },
+      {
+        "game": "oras-as",
+        "text": "Ha un corpo e uno spirito d’acciaio. È comparso con i suoi\ncompagni per punire coloro che un tempo ferirono i Pokémon."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "La leggenda narra che abbia lottato assieme\na Terrakion e Virizion contro gli esseri umani\nper proteggere i Pokémon di Unima."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "È un leader nato. Al suo cospetto anche\ni Pokémon più feroci assumono un\natteggiamento reverenziale."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Cobalion",
+    "genus": "Iron Will Pokémon",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "This legendary Pokémon battled against\nhumans to protect Pokémon.\nIts personality is calm and composed."
+      },
+      {
+        "game": "bw-w",
+        "text": "It has a body and heart of steel.\nIts glare is sufficient to make even\nan unruly Pokémon obey it."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "It has a body and heart of steel.\nIt worked with its allies to punish\npeople when they hurt Pokémon."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "It has a body and heart of steel.\nIt worked with its allies to punish\npeople when they hurt Pokémon."
+      },
+      {
+        "game": "xy-x",
+        "text": "It has a body and heart of steel. Its glare is\nsufficient to make even an unruly Pokémon obey it."
+      },
+      {
+        "game": "xy-y",
+        "text": "It has a body and heart of steel. It worked with its\nallies to punish people when they hurt Pokémon."
+      },
+      {
+        "game": "oras-or",
+        "text": "It has a body and heart of steel. Its glare is\nsufficient to make even an unruly Pokémon obey it."
+      },
+      {
+        "game": "oras-as",
+        "text": "It has a body and heart of steel. It worked with its\nallies to punish people when they hurt Pokémon."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "This Pokémon appears in a legend alongside\nTerrakion and Virizion, fighting against humans in\ndefense of the Unova region’s Pokémon."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "From the moment it’s born, this Pokémon\nradiates the air of a leader. Its presence will\ncalm even vicious foes."
+      }
+    ]
+  },
+  "chs": {
+    "name": "勾帕路翁",
+    "genus": "铁心宝可梦",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "传说它曾经与代拉基翁和\n毕力吉翁一起，为了保护\n合众地区的宝可梦而与人类作战。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "生来就具有领导风范。\n即使是性格狂暴的宝可梦，\n在勾帕路翁面前也会变得温顺。"
+      }
+    ]
+  }
+}

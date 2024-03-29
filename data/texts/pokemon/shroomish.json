@@ -1,0 +1,235 @@
+{
+  "jap": {
+    "name": "キノココ",
+    "genus": "きのこポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "しめった　ばしょを　このみ　ひるまは\nもりの　こかげで　じっと　している。\nあたまから　どくの　こなを　だす。"
+      },
+      {
+        "game": "xy-y",
+        "text": "あたまの　てっぺんから　どくほうしを\nふきだす。ほうしを　すいこむと\nからだの　ふしぶしが　いたくなる。"
+      },
+      {
+        "game": "oras-or",
+        "text": "ふかい　もりの　しめった　じめんに　せいそく。\nおちばの　したで　じっとしていることが　おおい。\nおちばが　つもって　できた　ふようどを　たべる。"
+      },
+      {
+        "game": "oras-as",
+        "text": "きけんを　かんじると　からだを　ふるわせて\nあたまの　てっぺんから　ほうしを　ばらまくぞ。\nくさきも　しおれてしまうほどの　もうどくだ。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Kinococo",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "버섯꼬",
+    "genus": "버섯포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "습한 장소를 좋아해서 낮에는\n숲의 그늘에서 가만히 있다.\n머리에서 독가루를 뿌린다."
+      },
+      {
+        "game": "xy-y",
+        "text": "머리의 정수리에서 독 포자를\n뿜어낸다. 포자를 들이마시면\n몸의 마디마디가 아파진다."
+      },
+      {
+        "game": "oras-or",
+        "text": "깊은 숲의 축축한 땅에 서식한다.\n낙엽 밑에서 꼼짝하지 않고 있을 때가 많다.\n낙엽이 쌓여 만들어진 부엽토를 먹는다."
+      },
+      {
+        "game": "oras-as",
+        "text": "위험을 느끼면 몸을 흔들어\n머리의 정수리에서 포자를 뿌린다.\n풀과 나무가 시들 정도의 맹독이다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "蘑蘑菇",
+    "genus": "蘑菇寶可夢",
+    "flavorText": []
+  },
+  "fra": {
+    "name": "Balignon",
+    "genus": "Pokémon Champignon",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Le sommet de sa tête libère des\nspores empoisonnées. Il est\ndangereux de les inhaler."
+      },
+      {
+        "game": "bw-w",
+        "text": "Le sommet de sa tête libère des\nspores empoisonnées. Il est\ndangereux de les inhaler."
+      },
+      {
+        "game": "xy-x",
+        "text": "Il préfère les endroits humides. La journée, il reste\nà la lisière de la forêt. Il libère de la poudre toxique\npar sa tête."
+      },
+      {
+        "game": "xy-y",
+        "text": "Le sommet de sa tête libère des spores\nempoisonnées. Il est dangereux de les inhaler."
+      },
+      {
+        "game": "oras-or",
+        "text": "Les Balignon vivent dans les sols humides et les recoins\nsombres des grandes forêts. On les trouve souvent immobiles\nsous les feuilles mortes. Ce Pokémon se nourrit d’un compost\nfait de feuilles mortes pourries."
+      },
+      {
+        "game": "oras-as",
+        "text": "Lorsque Balignon sent un danger, il secoue son corps et\nrépand ses spores du haut de sa tête. Les spores de ce\nPokémon sont si toxiques qu’elles font dépérir les arbres\net les herbes."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Knilz",
+    "genus": "Pilz",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Es bevorzugt feuchte Orte. Am Tag sitzt es\nregungslos im Schatten des Waldes. Von seinem\nKopf sondert es einen giftigen Puder ab."
+      },
+      {
+        "game": "xy-y",
+        "text": "Es setzt an seinem Kopf Giftsporen frei. Werden diese\neingeatmet, verursachen sie Schmerzen."
+      },
+      {
+        "game": "oras-or",
+        "text": "Knilz lebt im feuchten Erdboden finsterer Wälder. Es wird\noft reglos unter herabgefallenen Blättern gefunden. Dieses\nPokémon ernährt sich von Kompost aus verrotteten Blättern."
+      },
+      {
+        "game": "oras-as",
+        "text": "Wenn Knilz Gefahr wittert, schüttelt es seinen Körper und\nverteilt Sporen von seinem Kopf. Diese Sporen sind so giftig,\ndass Bäume und Gräser davon eingehen."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Shroomish",
+    "genus": "Pokémon Hongo",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Prefiere los sitios húmedos. De día está tranquilamente\nen el bosque, a la sombra. Expulsa polvo tóxico por la\ncabeza."
+      },
+      {
+        "game": "xy-y",
+        "text": "Lanza esporas venenosas desde la parte superior de\nla cabeza. Inhalarlas es muy doloroso."
+      },
+      {
+        "game": "oras-or",
+        "text": "Los Shroomish viven en zonas húmedas en la profunda\noscuridad del bosque. Suelen quedarse tranquilamente bajo\nlas hojas caídas. Se alimentan del abono que estas generan al\nempezar a pudrirse."
+      },
+      {
+        "game": "oras-as",
+        "text": "Si Shroomish siente peligro, agita el cuerpo y libera esporas\nvenenosas por la cabeza. Estas esporas son tan tóxicas que\npueden hacer que se marchiten los árboles y hasta las malas\nhierbas."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Shroomish",
+    "genus": "Pokémon Fungo",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Predilige le aree umide. Di giorno resta immobile\nnell’ombra della foresta. Dal capo rilascia polvere\ntossica."
+      },
+      {
+        "game": "xy-y",
+        "text": "Sparge spore tossiche dalla sommità del capo. Se\ninalate, queste spore provocano dolore in tutto il\ncorpo."
+      },
+      {
+        "game": "oras-or",
+        "text": "Shroomish vive nel suolo umido nel cuore della foresta buia.\nSpesso si nasconde sotto le foglie cadute. Si ciba dell’humus\ncreato dal letto di foglie decomposte sul terreno."
+      },
+      {
+        "game": "oras-as",
+        "text": "In caso di pericolo Shroomish agita il proprio corpo spargendo\nspore dalla sommità del capo. Le spore di questo Pokémon\nsono così tossiche da far appassire fiori e piante."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Shroomish",
+    "genus": "Mushroom Pokémon",
+    "flavorText": [
+      {
+        "game": "rs-r",
+        "text": "SHROOMISH live in damp soil in the dark\ndepths of forests. They are often\nfound keeping still under fallen leaves.\fThis POKéMON feeds on compost that\nis made up of fallen, rotted leaves."
+      },
+      {
+        "game": "rs-s",
+        "text": "If SHROOMISH senses danger, it shakes\nits body and scatters spores from the\ntop of its head.\fThis POKéMON’s spores are so toxic,\nthey make trees and weeds wilt."
+      },
+      {
+        "game": "e",
+        "text": "It loves to eat damp, composted soil in\nforests. If you enter a forest after a\nlong rain, you can see many SHROOMISH\nfeasting on composted soil."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "It prefers damp places. By day it remains\nstill in the forest shade. It releases\ntoxic powder from its head."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "It prefers damp places. By day it remains\nstill in the forest shade. It releases\ntoxic powder from its head."
+      },
+      {
+        "game": "dp-d",
+        "text": "It spouts poison spores from the\ntop of its head. These spores\ncause pain all over if inhaled."
+      },
+      {
+        "game": "dp-p",
+        "text": "It spouts poison spores from the\ntop of its head. These spores\ncause pain all over if inhaled."
+      },
+      {
+        "game": "pt",
+        "text": "It spouts poison spores from the\ntop of its head. These spores\ncause pain all over if inhaled."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "If it senses danger, it scatters\nspores from the top of its head to\nprotect itself."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "If it senses danger, it scatters\nspores from the top of its head to\nprotect itself."
+      },
+      {
+        "game": "bw-b",
+        "text": "It spouts poison spores from the\ntop of its head. These spores\ncause pain all over if inhaled."
+      },
+      {
+        "game": "bw-w",
+        "text": "It spouts poison spores from the\ntop of its head. These spores\ncause pain all over if inhaled."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "It spouts poison spores from the\ntop of its head. These spores\ncause pain all over if inhaled."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "It spouts poison spores from the\ntop of its head. These spores\ncause pain all over if inhaled."
+      },
+      {
+        "game": "xy-x",
+        "text": "It prefers damp places. By day it remains still in\nthe forest shade. It releases toxic powder from\nits head."
+      },
+      {
+        "game": "xy-y",
+        "text": "It spouts poison spores from the top of its head.\nThese spores cause pain all over if inhaled."
+      },
+      {
+        "game": "oras-or",
+        "text": "Shroomish live in damp soil in the dark depths of forests.\nThey are often found keeping still under fallen leaves.\nThis Pokémon feeds on compost that is made up of fallen,\nrotted leaves."
+      },
+      {
+        "game": "oras-as",
+        "text": "If Shroomish senses danger, it shakes its body and scatters\nspores from the top of its head. This Pokémon’s spores are\nso toxic, they make trees and weeds wilt."
+      }
+    ]
+  },
+  "chs": {
+    "name": "蘑蘑菇",
+    "genus": "蘑菇宝可梦",
+    "flavorText": []
+  }
+}

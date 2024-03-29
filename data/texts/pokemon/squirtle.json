@@ -1,0 +1,405 @@
+{
+  "jap": {
+    "name": "ゼニガメ",
+    "genus": "かめのこポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "こうらに　とじこもり　みを　まもる。\nあいての　すきを　みのがさず\nみずを　ふきだして　はんげきする。"
+      },
+      {
+        "game": "xy-y",
+        "text": "すいめんから　みずを　ふんしゃして\nエサをとる。あぶなくなると　こうらに\nてあしを　ひっこめて　みをまもる。"
+      },
+      {
+        "game": "oras-or",
+        "text": "こうらの　やくめは　みを　まもる　だけではない。\nまるい　かたちと　ひょうめんの　みぞが　みずの\nていこうを　へらすので　はやく　およげるのだ。"
+      },
+      {
+        "game": "oras-as",
+        "text": "こうらの　やくめは　みを　まもる　だけではない。\nまるい　かたちと　ひょうめんの　みぞが　みずの\nていこうを　へらすので　はやく　およげるのだ。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "すいめんから　みずを　ふんしゃして\nエサをとる。あぶなくなると　こうらに\nてあしを　ひっこめて　みをまもる。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "すいめんから　みずを　ふんしゃして\nエサをとる。あぶなくなると　こうらに\nてあしを　ひっこめて　みをまもる。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "ながい　くびを　こうらのなかに\nひっこめるとき　いきおいよく\nみずでっぽうを　はっしゃする。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "あぶなくなると　こうらに　てあしを\nひっこめて　みを　まもりながら\nくちから　みずを　ふきだしてくる。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Zenigame",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "꼬부기",
+    "genus": "꼬마거북포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "등껍질에 숨어 몸을 보호한다.\n상대의 빈틈을 놓치지 않고\n물을 뿜어내어 반격한다."
+      },
+      {
+        "game": "xy-y",
+        "text": "수면에서 물을 분사하여\n먹이를 잡는다. 위험해지면 등껍질에\n손발을 감추고 몸을 지킨다."
+      },
+      {
+        "game": "oras-or",
+        "text": "등껍질의 역할은 몸을 지키는 것뿐만이 아니다.\n둥그런 모양과 표면의 홈이 물의\n저항을 줄여서 빠르게 헤엄칠 수 있다."
+      },
+      {
+        "game": "oras-as",
+        "text": "등껍질의 역할은 몸을 지키는 것뿐만이 아니다.\n둥그런 모양과 표면의 홈이 물의\n저항을 줄여서 빠르게 헤엄칠 수 있다."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "수면에서 물을 분사하여\n먹이를 잡는다. 위험해지면 등껍질에\n손발을 감추고 몸을 지킨다."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "수면에서 물을 분사하여\n먹이를 잡는다. 위험해지면 등껍질에\n손발을 감추고 몸을 지킨다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "기다란 목을 등껍질 속에\n감춘 다음 기세 좋게\n물대포를 발사한다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "위험해지면 등껍질에 손발을\n감추고 몸을 지키면서\n입에서 물을 내뿜는다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "傑尼龜",
+    "genus": "小龜寶可夢",
+    "flavorText": [
+      {
+        "game": "lgpe-lgp",
+        "text": "會從水面噴水來擊落獵物。\n當遇到危險時，會把手腳\n縮進甲殼裡保護自己。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "會從水面噴水來擊落獵物。\n當遇到危險時，會把手腳\n縮進甲殼裡保護自己。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "當牠把長長的脖子縮回\n殼裡時，會順勢發射\n力道強勁的水槍。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "當牠遇到危險的時候，\n會將四肢收回甲殼裡保護自己，\n同時從嘴裡噴出水來。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Carapuce",
+    "genus": "Pokémon Minitortue",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Il se réfugie dans sa carapace\net réplique en éclaboussant\nl’ennemi à la première occasion."
+      },
+      {
+        "game": "bw-w",
+        "text": "Il se réfugie dans sa carapace\net réplique en éclaboussant\nl’ennemi à la première occasion."
+      },
+      {
+        "game": "xy-x",
+        "text": "Il se réfugie dans sa carapace et réplique en\néclaboussant l’ennemi à la première occasion."
+      },
+      {
+        "game": "xy-y",
+        "text": "Caché sous l’eau, il crache un jet d’eau sur sa proie\net se cache à l’intérieur de sa carapace."
+      },
+      {
+        "game": "oras-or",
+        "text": "La carapace de Carapuce ne sert pas qu’à le protéger.\nLa forme ronde de sa carapace et ses rainures lui permettent\nd’améliorer son hydrodynamisme.\nCe Pokémon nage extrêmement vite."
+      },
+      {
+        "game": "oras-as",
+        "text": "La carapace de Carapuce ne sert pas qu’à le protéger.\nLa forme ronde de sa carapace et ses rainures lui permettent\nd’améliorer son hydrodynamisme.\nCe Pokémon nage extrêmement vite."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Caché sous les flots, il crache un jet d’eau sur\nsa proie et se réfugie à l’intérieur de sa carapace\nen cas de danger."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Caché sous les flots, il crache un jet d’eau sur\nsa proie et se réfugie à l’intérieur de sa carapace\nen cas de danger."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Quand il rentre son cou dans sa carapace,\nil peut projeter de l’eau à haute pression."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "S’il se sent menacé, il rétracte ses pattes dans\nsa carapace pour se protéger et crache de l’eau."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Schiggy",
+    "genus": "Minikröten-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Es zieht sich in seinen Panzer zurück und greift\ndann mit Wasserstrahlen seine Gegner an."
+      },
+      {
+        "game": "xy-y",
+        "text": "Dieses Pokémon jagt mit einem Wasserstrahl.\nBei Gefahr zieht es sich in seinen Panzer zurück."
+      },
+      {
+        "game": "oras-or",
+        "text": "Schiggys Panzer dient nicht nur zum Schutz. Die runde Form\nund die Furchen auf der Oberfläche verringern den Widerstand\nim Wasser, sodass dieses Pokémon sehr schnell schwimmen\nkann."
+      },
+      {
+        "game": "oras-as",
+        "text": "Schiggys Panzer dient nicht nur zum Schutz. Die runde Form\nund die Furchen auf der Oberfläche verringern den Widerstand\nim Wasser, sodass dieses Pokémon sehr schnell schwimmen\nkann."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Es greift seine Beute aus dem Wasser heraus mit\neinem Wasserstrahl an. Bei Gefahr zieht es sich\nin seinen Panzer zurück."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Es greift seine Beute aus dem Wasser heraus mit\neinem Wasserstrahl an. Bei Gefahr zieht es sich\nin seinen Panzer zurück."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Zieht es seinen langen Hals in seinen Panzer\nzurück, verspritzt es Wasser mit unbändiger Kraft."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Fühlt es sich bedroht, verkriecht es sich in seinen\nPanzer und spuckt Wasser aus seinem Maul."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Squirtle",
+    "genus": "Pokémon Tortuguita",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Se protege con su caparazón y luego contraataca\nlanzando agua a presión cuando tiene oportunidad."
+      },
+      {
+        "game": "xy-y",
+        "text": "Lanza agua a su presa desde el agua. Se esconde en\nsu concha cuando se siente en peligro."
+      },
+      {
+        "game": "oras-or",
+        "text": "El caparazón de Squirtle no le sirve de protección únicamente.\nSu forma redondeada y las hendiduras que tiene le ayudan\na deslizarse en el agua y le permiten nadar a gran velocidad."
+      },
+      {
+        "game": "oras-as",
+        "text": "El caparazón de Squirtle no le sirve de protección únicamente.\nSu forma redondeada y las hendiduras que tiene le ayudan\na deslizarse en el agua y le permiten nadar a gran velocidad."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Escupe chorros de agua mientras flota para\ncapturar a sus presas. Se esconde en su\ncaparazón cuando se siente en peligro."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Escupe chorros de agua mientras flota para\ncapturar a sus presas. Se esconde en su\ncaparazón cuando se siente en peligro."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Cuando retrae su largo cuello en el caparazón,\ndispara agua a una presión increíble."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Cuando se siente en peligro, se esconde en su\ncaparazón y escupe chorros de agua por la boca."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Squirtle",
+    "genus": "Pokémon Tartaghina",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Si ritira nel suo guscio e, alla prima occasione,\ncontrattacca colpendo il nemico con spruzzi d’acqua."
+      },
+      {
+        "game": "xy-y",
+        "text": "Attacca i nemici con potenti getti d’acqua. Se si\nsente in pericolo si ritira dentro la sua corazza."
+      },
+      {
+        "game": "oras-or",
+        "text": "La corazza di Squirtle non serve soltanto da protezione.\nLa particolare forma arrotondata e le scanalature\nsuperficiali lo aiutano a minimizzare l’attrito dell’acqua\nper nuotare ad alta velocità."
+      },
+      {
+        "game": "oras-as",
+        "text": "La corazza di Squirtle non serve soltanto da protezione.\nLa particolare forma arrotondata e le scanalature\nsuperficiali lo aiutano a minimizzare l’attrito dell’acqua\nper nuotare ad alta velocità."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Se ne sta tra i flutti e attacca le prede con\npotenti getti d’acqua. Se si sente in pericolo\nsi ritira dentro la corazza."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Se ne sta tra i flutti e attacca le prede con\npotenti getti d’acqua. Se si sente in pericolo\nsi ritira dentro la corazza."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Quando ritrae il lungo collo dentro la corazza\nsputa un vigoroso getto d’acqua."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Se si sente minacciato, ritira le zampe nel guscio\ne inizia a spruzzare acqua dalla bocca."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Squirtle",
+    "genus": "Tiny Turtle Pokémon",
+    "flavorText": [
+      {
+        "game": "rb-r",
+        "text": "After birth, its\nback swells and\nhardens into a\fshell. Powerfully\nsprays foam from\nits mouth."
+      },
+      {
+        "game": "rb-b",
+        "text": "After birth, its\nback swells and\nhardens into a\fshell. Powerfully\nsprays foam from\nits mouth."
+      },
+      {
+        "game": "y",
+        "text": "Shoots water at\nprey while in the\nwater.\fWithdraws into\nits shell when in\ndanger."
+      },
+      {
+        "game": "gs-g",
+        "text": "The shell is soft\nwhen it is born.\nIt soon becomes so\fresilient, prod­\nding fingers will\nbounce off it."
+      },
+      {
+        "game": "gs-s",
+        "text": "The shell, which\nhardens soon after\nit is born, is\fresilient. If you\npoke it, it will\nbounce back out."
+      },
+      {
+        "game": "c",
+        "text": "When it feels\nthreatened, it\ndraws its legs\finside its shell\nand sprays water\nfrom its mouth."
+      },
+      {
+        "game": "rs-r",
+        "text": "SQUIRTLE’s shell is not merely used\nfor protection.\nThe shell’s rounded shape and the\fgrooves on its surface help minimize\nresistance in water, enabling this\nPOKéMON to swim at high speeds."
+      },
+      {
+        "game": "rs-s",
+        "text": "SQUIRTLE’s shell is not merely used\nfor protection.\nThe shell’s rounded shape and the\fgrooves on its surface help minimize\nresistance in water, enabling this\nPOKéMON to swim at high speeds."
+      },
+      {
+        "game": "e",
+        "text": "Its shell is not just for protection.\nIts rounded shape and the grooves on its\nsurface minimize resistance in water,\nenabling SQUIRTLE to swim at high speeds."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "When it retracts its long neck into its\nshell, it squirts out water with vigorous\nforce."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "After birth, its back swells and hardens\ninto a shell. It powerfully sprays foam \nfrom its mouth."
+      },
+      {
+        "game": "dp-d",
+        "text": "It shelters itself in its shell,\nthen strikes back with spouts of\nwater at every opportunity."
+      },
+      {
+        "game": "dp-p",
+        "text": "It shelters itself in its shell,\nthen strikes back with spouts of\nwater at every opportunity."
+      },
+      {
+        "game": "pt",
+        "text": "It shelters itself in its shell,\nthen strikes back with spouts of\nwater at every opportunity."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "The shell is soft when it is born.\nIt soon becomes so resilient,\nprodding fingers will bounce off it."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "The shell, which hardens soon after\nit is born, is resilient. If you\npoke it, it will bounce back out."
+      },
+      {
+        "game": "bw-b",
+        "text": "It shelters itself in its shell,\nthen strikes back with spouts of\nwater at every opportunity."
+      },
+      {
+        "game": "bw-w",
+        "text": "It shelters itself in its shell,\nthen strikes back with spouts of\nwater at every opportunity."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "It shelters itself in its shell\nthen strikes back with spouts of\nwater at every opportunity."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "It shelters itself in its shell\nthen strikes back with spouts of\nwater at every opportunity."
+      },
+      {
+        "game": "xy-x",
+        "text": "It shelters itself in its shell, then strikes back\nwith spouts of water at every opportunity."
+      },
+      {
+        "game": "xy-y",
+        "text": "Shoots water at prey while in the water. Withdraws\ninto its shell when in danger."
+      },
+      {
+        "game": "oras-or",
+        "text": "Squirtle’s shell is not merely used for protection.\nThe shell’s rounded shape and the grooves on its surface\nhelp minimize resistance in water, enabling this Pokémon\nto swim at high speeds."
+      },
+      {
+        "game": "oras-as",
+        "text": "Squirtle’s shell is not merely used for protection.\nThe shell’s rounded shape and the grooves on its\nsurface help minimize resistance in water,\nenabling this Pokémon to swim at high speeds."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Shoots water at prey while in the water.\nWithdraws into its shell when in danger."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Shoots water at prey while in the water.\nWithdraws into its shell when in danger."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "When it retracts its long neck into its shell, it\nsquirts out water with vigorous force."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "When it feels threatened, it draws its limbs inside\nits shell and sprays water from its mouth."
+      }
+    ]
+  },
+  "chs": {
+    "name": "杰尼龟",
+    "genus": "小龟宝可梦",
+    "flavorText": [
+      {
+        "game": "lgpe-lgp",
+        "text": "通过从水面喷水来捕食。\n在危急时刻会将四肢\n缩入龟壳里保护自己。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "通过从水面喷水来捕食。\n在危急时刻会将四肢\n缩入龟壳里保护自己。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "当它把长长的脖子缩回\n壳里时，会顺势发射出\n力道强劲的水枪。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "当它遇到危险的时候，\n会将四肢收回龟壳里保护自己，\n同时从嘴里喷出水来。"
+      }
+    ]
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "jap": {
+    "name": "クスネ",
+    "genus": "きつねポケモン",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "ほかの　ポケモンが　みつけた　エサを\nかすめて　くらしている。　ふかふかの\nにくきゅうは　あしおとを　たてない。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "ようじん　ぶかく　ずるがしこい。\nエサを　ぬすむと　しっぽで\nあしあとを　けしながら　にげるのだ。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Kusune",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "훔처우",
+    "genus": "여우포켓몬",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "다른 포켓몬이 발견한 먹이를\n훔치며 산다. 푹신푹신한\n볼록살 덕분에 발소리가 나지 않는다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "조심성이 많고 교활하다.\n먹이를 훔치고는 꼬리로\n발자국을 지우며 도망간다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "偷兒狐",
+    "genus": "狐狸寶可夢",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "靠搶奪其他寶可夢找到的食物\n為生。腳上長著軟乎乎的肉球，\n走路時不會發出絲毫聲響。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "性情謹慎且狡猾。\n在偷盜食物逃走的時候\n會用尾巴擦掉自己的足跡。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Goupilou",
+    "genus": "Pokémon Renard",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Il vit en subtilisant la nourriture des autres\nPokémon. Grâce à ses coussinets moelleux,\nil ne fait aucun bruit quand il marche."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Rusé et vigilant, il prend la poudre d’escampette\naprès avoir volé de la nourriture en prenant soin\nd’effacer ses traces de pas avec sa queue."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Kleptifux",
+    "genus": "Fuchs-Pokémon",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Es stibitzt Futter, das andere Pokémon gefunden\nhaben. Dank der samtweichen Ballen an seinen\nPfoten ist sein Gang lautlos."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Es ist sehr vorsichtig und gerissen. Nachdem es\nFutter stibitzt hat, macht es sich davon und\nverwischt dabei seine Spuren mit seinem Schweif."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Nickit",
+    "genus": "Pokémon Zorro",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Se sustenta con el alimento que roba a otros\nPokémon. Las almohadillas de sus patas son tan\nblandas que no hace ningún ruido al caminar."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Prudente y astuto, borra con la cola las huellas\nque deja al huir tras robarle el alimento a otro\nPokémon."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Nickit",
+    "genus": "Pokémon Volpe",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Vive rubando il cibo trovato dagli altri Pokémon.\nI morbidi cuscinetti plantari rendono i suoi passi\nsilenziosi."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "È scaltro e molto prudente. Quando ruba\nil cibo, scappa cancellando le sue orme\ncon la coda."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Nickit",
+    "genus": "Fox Pokémon",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Aided by the soft pads on its feet, it silently raids\nthe food stores of other Pokémon. It survives off\nits ill-gotten gains."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Cunning and cautious, this Pokémon survives by\nstealing food from others. It erases its tracks with\nswipes of its tail as it makes off with its plunder."
+      }
+    ]
+  },
+  "chs": {
+    "name": "狡小狐",
+    "genus": "狐狸宝可梦",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "靠抢夺其他宝可梦找到的食物\n为生。脚上长着软乎乎的肉球，\n走路时不会发出丝毫声响。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "性格谨慎且狡猾。\n在偷盗食物逃走的时候\n会用尾巴擦掉自己的足迹。"
+      }
+    ]
+  }
+}

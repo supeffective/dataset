@@ -1,0 +1,133 @@
+{
+  "jap": {
+    "name": "ポットデス",
+    "genus": "こうちゃポケモン",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "アンティークの　ポットに　すみつく。\nほとんどが　がんさくだが　ごくまれに\nしんさくが　みつかる　ことも。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "のこされた　こうちゃを　みかけると\nじぶんの　からだを　そそぎこむ。\nその　こうちゃは　ポットデスになる。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Potdeath",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "포트데스",
+    "genus": "홍차포켓몬",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "앤티크한 찻주전자에 산다.\n대부분 위작이지만 매우 드물게\n진품이 발견되기도 한다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "남겨진 홍차를 발견하면\n자신의 몸을 흘러 들어가게 한다.\n그 홍차는 포트데스가 된다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "怖思壺",
+    "genus": "紅茶寶可夢",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "住在古董茶壺裡。\n雖然大多數都是贗品，\n但偶爾也能發現真貨。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "每當發現喝剩的紅茶，\n牠就會把自己的身體倒進去，\n讓那壺紅茶變成怖思壺。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Polthégeist",
+    "genus": "Pokémon Thé Noir",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Il élit domicile dans des théières antiques.\nLa plupart sont des contrefaçons, mais il lui arrive\ndans de très rares cas de trouver des originaux."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Dès qu’il voit un reste de thé noir, il se verse\ndedans pour donner naissance à un Polthégeist."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Mortipot",
+    "genus": "Schwarztee-Pokémon",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Sie lassen sich in alten Teekannen nieder. Die\nmeisten dieser Kannen sind billige Fälschungen,\naber es gibt auch ein paar sehr seltene Originale."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Entdeckt es zurückgelassenen Schwarztee, so\ngießt es seinen Körper hinein. Der Tee wird dann\nzu einem Mortipot."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Polteageist",
+    "genus": "Pokémon Té",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Se hospeda en teteras dignas de un anticuario.\nLas originales son escasísimas, pero existe un\ngran número de burdas falsificaciones."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Si avista una taza de té abandonada a su suerte,\nla rellena vertiendo parte de su propio cuerpo\npara generar otro Polteageist."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Polteageist",
+    "genus": "Pokémon Tè",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Prende dimora in una teiera antica. Quelle\nin circolazione sono quasi tutte contraffatte,\nma a volte ne trova una autentica."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Se trova una tazza di tè abbandonata, ci versa\ndentro un po’ del suo corpo per far nascere\nun Polteageist."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Polteageist",
+    "genus": "Black Tea Pokémon",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "This species lives in antique teapots.\nMost pots are forgeries, but on rare occasions,\nan authentic work is found."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Leaving leftover black tea unattended is asking\nfor this Pokémon to come along and pour itself\ninto it, turning the tea into a new Polteageist."
+      }
+    ]
+  },
+  "chs": {
+    "name": "怖思壶",
+    "genus": "红茶宝可梦",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "住在古董茶壶里。\n虽然大多数都是赝品，\n但偶尔也能发现真货。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "每当发现喝剩的红茶，\n它就会把自己的身体倒进去，\n让那壶红茶变成怖思壶。"
+      }
+    ]
+  }
+}

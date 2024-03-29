@@ -1,0 +1,553 @@
+{
+  "jap": {
+    "name": "コイル",
+    "genus": "じしゃくポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "さゆうの　ユニットから\nじゅうりょくを　さえぎる　ちからを\nだすので　くうちゅうに　うかべる。"
+      },
+      {
+        "game": "xy-y",
+        "text": "くうちゅうに　ういたまま　いどうして\nさゆうの　ユニットから\nでんじはなどを　ほうしゃする。"
+      },
+      {
+        "game": "oras-or",
+        "text": "でんせんに　くっついて　でんきを　たべている。\nていでんに　なったら　ブレーカーを　しらべよう。\nコイルが　びっしり　くっついて　いるかも。"
+      },
+      {
+        "game": "oras-as",
+        "text": "さゆうの　ユニットから　でんじはを　だす　ことで\nじゅうりょくを　さえぎり　くうちゅうに　うかぶ。\nたいないの　でんきが　なくなると　とべなくなる。"
+      },
+      {
+        "game": "sm-s",
+        "text": "でんきが　ある　ばしょに　むれる。\nでんきを　おくる　てっとう　などに\nビッシリと　はりついていることも。"
+      },
+      {
+        "game": "sm-m",
+        "text": "でんじはを　はなち　そらを　ただよう。\nでんきを　くっているときに　さわると\nぜんしんが　ビリッと　しびれるぞ。"
+      },
+      {
+        "game": "usum-us",
+        "text": "たびたび　ていでんの　げんいんとなる\nため　コイルが　いやがる　でんぱを\nながす　はつでんしょも　あるほど。"
+      },
+      {
+        "game": "usum-um",
+        "text": "さいきんは　でんせんが　じめんに\nうめられているためか　はつでんしょを\nおそう　コイルが　ふえている。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "うまれつき　じゅうりょくを　さえぎる\nのうりょくを　もち　でんじはを\nだしながら　くうちゅうを　いどう。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "うまれつき　じゅうりょくを　さえぎる\nのうりょくを　もち　でんじはを\nだしながら　くうちゅうを　いどう。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "たいないの　でんきが　きれて\nじめんに　ころがっていることもある。\nでんちを　あげると　うごきだすよ。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "でんきを　くって　いきている。\nさゆうの　ユニットから　でんじはを\nほうしゃ　しながら　そらを　とぶ。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Coil",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "코일",
+    "genus": "자석포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "좌우의 유닛에서\n중력을 차단하는 힘을\n발휘하기에 공중에 뜰 수 있다."
+      },
+      {
+        "game": "xy-y",
+        "text": "공중에 뜬 채로 이동하여\n좌우의 유닛에서\n전기자석파를 방사한다."
+      },
+      {
+        "game": "oras-or",
+        "text": "전선에 들러붙어 전기를 먹고 있다.\n정전되면 누전차단기를 살펴보자.\n코일이 빽빽이 들러붙어 있을지도 모른다."
+      },
+      {
+        "game": "oras-as",
+        "text": "좌우의 유닛에서 전자파를 내어\n중력을 차단하여 공중에 뜬다.\n체내의 전기가 없어지면 날지 못하게 된다."
+      },
+      {
+        "game": "sm-s",
+        "text": "전기가 있는 장소에 무리를 짓는다.\n전기를 보내는 철탑 등에\n빈틈없이 붙어 있는 일도 있다."
+      },
+      {
+        "game": "sm-m",
+        "text": "전기자석파를 발산하여 공중을 떠다닌다.\n전기를 먹고 있을 때 만지면\n전신이 찌릿하게 마비된다."
+      },
+      {
+        "game": "usum-us",
+        "text": "종종 정전의 원인이 되기 때문에\n코일이 싫어하는 전파를\n내보내는 발전소도 있을 정도다."
+      },
+      {
+        "game": "usum-um",
+        "text": "최근에는 전선이 땅에\n묻혀 있기 때문인지 발전소를\n습격하는 코일이 늘고 있다."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "태어날 때부터 중력을 차단하는\n능력을 가지고 있어 전자파를\n내면서 공중을 이동한다."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "태어날 때부터 중력을 차단하는\n능력을 가지고 있어 전자파를\n내면서 공중을 이동한다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "체내의 전기가 끊겨\n땅에서 뒹굴기도 한다.\n전지를 주면 움직이기 시작한다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "전기를 먹으며 살아간다.\n좌우의 유닛에서 전기자석파를\n방사하며 하늘을 난다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "小磁怪",
+    "genus": "磁鐵寶可夢",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "會群集在有電力的地方。\n有時還會成群緊貼在\n輸送電力的鐵塔等地方。"
+      },
+      {
+        "game": "sm-m",
+        "text": "釋放出電磁波，在空中飄浮。\n如果在牠吞食電力的時候碰牠，\n全身就會被電得劈哩啪啦的。"
+      },
+      {
+        "game": "usum-us",
+        "text": "由於小磁怪經常引發停電，\n有的發電廠甚至會特地發射\n小磁怪討厭的電波。"
+      },
+      {
+        "game": "usum-um",
+        "text": "可能是因為最近電線都埋在\n地下的關係，襲擊發電廠的\n小磁怪變得越來越多了。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "天生擁有阻斷重力的能力。\n會一邊發出電磁波，\n一邊在空中移動。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "天生擁有阻斷重力的能力。\n會一邊發出電磁波，\n一邊在空中移動。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "有時也會因為耗盡了體內的\n電力而掉落在地面上。給牠\n電池，牠就會再次動起來喔。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "靠吞食電力維持生命。\n會一邊從左右的組件放射\n出電磁波，一邊在空中飛。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Magnéti",
+    "genus": "Pokémon Magnétique",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Plus la rotation de ses extrémités\nest rapide, plus la force du champ\nmagnétique qu’il génère est grande."
+      },
+      {
+        "game": "bw-w",
+        "text": "Plus la rotation de ses extrémités\nest rapide, plus la force du champ\nmagnétique qu’il génère est grande."
+      },
+      {
+        "game": "xy-x",
+        "text": "Les parties sur les côtés de son corps génèrent\nune énergie lui permettant de léviter."
+      },
+      {
+        "game": "xy-y",
+        "text": "Il reste constamment en sustentation pour se\ndéplacer. Ce Pokémon peut envoyer de l’électricité\npar les aimants situés sur ses côtés."
+      },
+      {
+        "game": "oras-or",
+        "text": "Magnéti s’attache aux lignes à haute tension pour se charger\nen électricité. Si une maison a une panne de courant, il est\nconseillé de vérifier les fusibles car on trouve parfois ces\nPokémon amassés sur la boîte à fusibles."
+      },
+      {
+        "game": "oras-as",
+        "text": "Magnéti flotte dans les airs en émettant des ondes\nélectromagnétiques par les aimants sur ses côtés.\nCes ondes annulent les effets de la gravité. Ce Pokémon\nne peut plus voler si son stock d’électricité est épuisé."
+      },
+      {
+        "game": "sm-s",
+        "text": "Les Magnéti se rassemblent aux endroits où\nil y a beaucoup d’électricité, et s’agglutinent\npar exemple autour des pylônes électriques."
+      },
+      {
+        "game": "sm-m",
+        "text": "Il lévite en émettant des ondes électro-\nmagnétiques. Si on le touche quand il s’alimente\nen énergie, on risque un choc électrique."
+      },
+      {
+        "game": "usum-us",
+        "text": "Ce Pokémon causant des coupures de courant,\ncertaines centrales l’éloignent en diffusant\ndes ondes qu’il déteste."
+      },
+      {
+        "game": "usum-um",
+        "text": "De nos jours, les câbles électriques sont\nenterrés, aussi les Magnéti attaquent-ils\nde plus en plus les centrales électriques."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Sa nature défie les lois de la gravité.\nIl flotte grâce à un champ électromagnétique."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Sa nature défie les lois de la gravité.\nIl flotte grâce à un champ électromagnétique."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Il lui arrive d’être à court d’électricité\net de tomber au sol, mais il suffit de\nlui donner une batterie pour le ranimer."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Il se nourrit d’électricité et flotte dans les airs\nen libérant des ondes électromagnétiques avec\nles aimants situés de part et d’autre de son corps."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Magnetilo",
+    "genus": "Magnet-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Die Magneten an seinem Körper erzeugen\nein Antigravitationsfeld, um es ständig\nin der Schwebe zu halten."
+      },
+      {
+        "game": "xy-y",
+        "text": "Es bewegt sich schwebend. Seine Magnete an den\nSeiten entladen eine Donnerwelle nach der nächsten."
+      },
+      {
+        "game": "oras-or",
+        "text": "Magnetilo ernährt sich von Elektrizität aus Stromleitungen.\nDieses Pokémon hängt sich gern an Sicherungskästen.\nWenn es in deinem Haus zu einem Stromausfall kommt,\nsolltest du die Sicherungen überprüfen."
+      },
+      {
+        "game": "oras-as",
+        "text": "Magnetilo segelt durch die Luft und sendet dabei\nelektromagnetische Wellen an beiden Seiten seines\nKörpers aus. Dieses Pokémon wird flugunfähig,\nwenn die Stromquelle in seinem Inneren erschöpft ist."
+      },
+      {
+        "game": "sm-s",
+        "text": "Sie scharen sich um Orte, durch die Elektrizität\nfließt. Deshalb klammern sie sich zum Beispiel\nsehr oft in Massen an Strommasten fest."
+      },
+      {
+        "game": "sm-m",
+        "text": "Es sendet elektromagnetische Wellen aus und\nsegelt durch die Luft. Berührt man es, während\nes Strom saugt, bekommt man einen Schlag."
+      },
+      {
+        "game": "usum-us",
+        "text": "Da Magnetilo Stromausfälle verursacht, werden\nin vielen Kraftwerken Radiowellen ausgesendet,\ndie es nicht leiden kann, um es zu vertreiben."
+      },
+      {
+        "game": "usum-um",
+        "text": "Seit Stromleitungen zunehmend unterirdisch\nverlegt werden, stürzen sich mehr und mehr\nMagnetilo direkt auf Kraftwerke."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Es trotzt von Geburt an der Schwerkraft und\nschwebt auf elektromagnetischen Wellen durch\ndie Luft."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Es trotzt von Geburt an der Schwerkraft und\nschwebt auf elektromagnetischen Wellen durch\ndie Luft."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Manchmal geht die Elektrizität in seinem Körper\nzur Neige, woraufhin es zu Boden fällt. Eine\nBatterie bringt es wieder in Bewegung."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Es ernährt sich von Strom und segelt durch die\nLuft, indem es mit den Magneten an seinem\nKörper elektromagnetische Wellen aussendet."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Magnemite",
+    "genus": "Pokémon Imán",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Las unidades a los lados de su cuerpo generan\nenergía antigravitatoria para mantenerlo en el aire."
+      },
+      {
+        "game": "xy-y",
+        "text": "Está suspendido en el aire y no para de moverse. A\ntravés de las extremidades laterales dispara Onda\nTrueno."
+      },
+      {
+        "game": "oras-or",
+        "text": "Magnemite se engancha a las líneas de tensión para nutrirse\nde electricidad. Cuando se producen apagones en las casas,\nes aconsejable revisar el automático y comprobar que no hay\nPokémon de este tipo colgados de la caja de fusibles."
+      },
+      {
+        "game": "oras-as",
+        "text": "Magnemite flota en el aire emitiendo ondas electromagnéticas,\na través de las unidades de las extremidades, que bloquean\nla gravedad. Si se agota su suministro de electricidad interno,\nes incapaz de mantenerse flotando."
+      },
+      {
+        "game": "sm-s",
+        "text": "Estos Pokémon se agrupan en zonas donde hay\nelectricidad. A veces hasta se los ve\nmerodeando alrededor de las torres eléctricas."
+      },
+      {
+        "game": "sm-m",
+        "text": "Flota gracias a las ondas electromagnéticas\nque desprende. Al tocarlo mientras está\nalimentándose, uno puede electrocutarse."
+      },
+      {
+        "game": "usum-us",
+        "text": "Frecuentemente son la causa de apagones, por\nlo que algunas centrales eléctricas emiten unas\nondas que detestan para ahuyentarlos."
+      },
+      {
+        "game": "usum-um",
+        "text": "Debido a que el tendido eléctrico es ahora\nsoterrado, han aumentado los asaltos a\ncentrales eléctricas causados por Magnemite."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Puede desafiar la gravedad desde su\nnacimiento. Flota en el aire gracias a las\nondas electromagnéticas que emite."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Puede desafiar la gravedad desde su\nnacimiento. Flota en el aire gracias a las\nondas electromagnéticas que emite."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "A veces se desploman al suelo tras agotar su\nsuministro eléctrico interno, pero basta una\npequeña batería para reanimarlos."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Se nutre de electricidad. Puede flotar en el aire\ngracias a las ondas electromagnéticas que emite\na través de las unidades de sus extremidades."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Magnemite",
+    "genus": "Pokémon Calamita",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Le unità alle due estremità del corpo producono\nenergia antigravitazionale con cui si mantiene\na mezz’aria."
+      },
+      {
+        "game": "xy-y",
+        "text": "Si sposta restando sempre sollevato da terra. Si serve\ndei due elementi laterali per lanciare Tuononda\ne attacchi simili."
+      },
+      {
+        "game": "oras-or",
+        "text": "Magnemite si attacca alle linee elettriche per caricarsi di\nenergia. In caso di assenza di corrente in casa, controllare\ngli interruttori. Potrebbero esserci dei Pokémon attaccati\nalla cassetta degli interruttori."
+      },
+      {
+        "game": "oras-as",
+        "text": "Magnemite fluttua a mezz’aria emanando onde\nelettromagnetiche dai suoi elementi laterali. Queste onde\nbloccano la forza di gravità. Il Pokémon non riesce a rimanere\nsospeso dopo aver esaurito la carica elettrica."
+      },
+      {
+        "game": "sm-s",
+        "text": "I Magnemite si radunano dove c’è elettricità.\nSi possono anche trovare attaccati ai tralicci\ndelle linee elettriche."
+      },
+      {
+        "game": "sm-m",
+        "text": "Fluttua in aria emettendo onde\nelettromagnetiche. Se lo si tocca mentre si\nnutre di elettricità, si prende la scossa."
+      },
+      {
+        "game": "usum-us",
+        "text": "Poiché spesso causano dei blackout, alcune\ncentrali elettriche diffondono delle onde radio\nche i Magnemite non sopportano."
+      },
+      {
+        "game": "usum-um",
+        "text": "Gli attacchi da parte dei Magnemite alle centrali\nelettriche sono notevolmente aumentati, forse\nperché al giorno d’oggi i cavi sono interrati."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Ha l’innata capacità di contrastare la forza di\ngravità emettendo onde elettromagnetiche che\ngli permettono di spostarsi fluttuando in aria."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Ha l’innata capacità di contrastare la forza di\ngravità emettendo onde elettromagnetiche che\ngli permettono di spostarsi fluttuando in aria."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Gli capita di esaurire la sua riserva di elettricità\ne di cadere al suolo. Se gli viene data una\nbatteria, torna a muoversi."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Vive cibandosi di elettricità. Fluttua in aria\nrilasciando onde elettromagnetiche dagli\nelementi laterali."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Magnemite",
+    "genus": "Magnet Pokémon",
+    "flavorText": [
+      {
+        "game": "rb-r",
+        "text": "Uses anti-gravity\nto stay suspended.\nAppears without\fwarning and uses\nTHUNDER WAVE and\nsimilar moves."
+      },
+      {
+        "game": "rb-b",
+        "text": "Uses anti-gravity\nto stay suspended.\nAppears without\fwarning and uses\nTHUNDER WAVE and\nsimilar moves."
+      },
+      {
+        "game": "y",
+        "text": "It is born with\nthe ability to\ndefy gravity. It\ffloats in air on\npowerful electro­\nmagnetic waves."
+      },
+      {
+        "game": "gs-g",
+        "text": "It is attracted by\nelectromagnetic\nwaves. It may\fapproach trainers\nif they are using\ntheir POKéGEAR."
+      },
+      {
+        "game": "gs-s",
+        "text": "The units at the\nsides of its body\ngenerate anti­\fgravity energy to\nkeep it aloft in\nthe air."
+      },
+      {
+        "game": "c",
+        "text": "The electricity\nemitted by the\nunits on each side\fof its body cause\nit to become a\nstrong magnet."
+      },
+      {
+        "game": "rs-r",
+        "text": "MAGNEMITE attaches itself to power\nlines to feed on electricity.\nIf your house has a power outage,\fcheck your circuit breakers. You may\nfind a large number of this POKéMON\nclinging to the breaker box."
+      },
+      {
+        "game": "rs-s",
+        "text": "MAGNEMITE floats in the air by emitting\nelectromagnetic waves from the units\nat its sides. These waves block gravity.\fThis POKéMON becomes incapable of\nflight if its internal electrical supply\nis depleted."
+      },
+      {
+        "game": "e",
+        "text": "The units at its sides are extremely\npowerful magnets. They generate enough\nmagnetism to draw in iron objects from\nover 300 feet away."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "It moves while constantly hovering.\nIt discharges THUNDER WAVE and so on\nfrom the units at its sides."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "Uses antigravity to stay suspended.\nAppears without warning and uses THUNDER\nWAVE and similar moves."
+      },
+      {
+        "game": "dp-d",
+        "text": "The units at its sides generate\nelectromagnetic waves that keep it\nairborne. It feeds on electricity."
+      },
+      {
+        "game": "dp-p",
+        "text": "The units at its sides generate\nelectromagnetic waves that keep it\nairborne. It feeds on electricity."
+      },
+      {
+        "game": "pt",
+        "text": "The faster the units at its sides\nrotate, the greater the magnetic\nforce they generate."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "It is attracted by electromagnetic\nwaves. It may approach Trainers\nif they are using their Pokégear."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "The units at the sides of its body\ngenerate antigravity energy to\nkeep it aloft in the air."
+      },
+      {
+        "game": "bw-b",
+        "text": "The faster the units at its sides\nrotate, the greater the magnetic\nforce they generate."
+      },
+      {
+        "game": "bw-w",
+        "text": "The faster the units at its sides\nrotate, the greater the magnetic\nforce they generate."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "The electromagnetic waves emitted by\nthe units at the sides of its head expel\nantigravity, which allows it to float."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "The electromagnetic waves emitted by\nthe units at the sides of its head expel\nantigravity, which allows it to float."
+      },
+      {
+        "game": "xy-x",
+        "text": "The units at the sides of its body generate\nantigravity energy to keep it aloft in the air."
+      },
+      {
+        "game": "xy-y",
+        "text": "It moves while constantly hovering. It discharges\nThunder Wave and so on from the units at its sides."
+      },
+      {
+        "game": "usum-us",
+        "text": "It’s frequently the cause of power outages,\nwhich is why some power plants send out\nelectrical signals that it can’t stand."
+      },
+      {
+        "game": "oras-or",
+        "text": "Magnemite attaches itself to power lines to feed on electricity.\nIf your house has a power outage, check your circuit breakers.\nYou may find a large number of this Pokémon clinging to the\nbreaker box."
+      },
+      {
+        "game": "oras-as",
+        "text": "Magnemite floats in the air by emitting electromagnetic waves\nfrom the units at its sides. These waves block gravity. This\nPokémon becomes incapable of flight if its internal electrical\nsupply is depleted."
+      },
+      {
+        "game": "sm-s",
+        "text": "They gather in places where electricity is\navailable. They can be found clinging to the\nsteel towers used to support power lines."
+      },
+      {
+        "game": "sm-m",
+        "text": "It sends out electromagnetic waves, which let it\nfloat through the air. Touching it while it’s eating\nelectricity will give you a full-body shock."
+      },
+      {
+        "game": "usum-um",
+        "text": "Perhaps because electrical lines are often\nburied these days, the number of Magnemite\nattacks on power plants has increased."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "It is hatched with the ability to defy gravity.\nIt floats while emitting powerful\nelectromagnetic waves."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "It is hatched with the ability to defy gravity.\nIt floats while emitting powerful\nelectromagnetic waves."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "At times, Magnemite runs out of electricity and\nends up on the ground. If you give batteries to a\ngrounded Magnemite, it’ll start moving again."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "It subsists on electricity. As Magnemite flies, it\nemits electromagnetic waves from the units on\neach side of its body."
+      },
+      {
+        "game": "la",
+        "text": "A bizarre Pokémon with but a single eye embedded in an iron\nsphere. I suspect this creature levitates due to the magnetism it\nemits from its arms, which resemble horseshoe-shaped magnets."
+      }
+    ]
+  },
+  "chs": {
+    "name": "小磁怪",
+    "genus": "磁铁宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "聚集在有电的地方。\n也会密密麻麻地贴在\n输送电力的铁塔等地方。"
+      },
+      {
+        "game": "sm-m",
+        "text": "释放出电磁波，在空中飘浮。\n如果在吞食电力的时候触碰它，\n就会全身被电得噼里啪啦的。"
+      },
+      {
+        "game": "usum-us",
+        "text": "因为它时常会引发停电，\n所以有些发电厂会发出\n小磁怪讨厌的电波。"
+      },
+      {
+        "game": "usum-um",
+        "text": "可能是因为最近的电线\n都被埋在了地下，所以袭击\n发电厂的小磁怪变多了。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "天生就拥有遮断重力\n的能力，可以一边发出\n电磁波一边在空中移动。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "天生就拥有遮断重力\n的能力，可以一边发出\n电磁波一边在空中移动。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "有时也会因为体内的电力\n消耗完了而掉到地面上。\n给它电池它就会动起来。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "靠吃电来维持生命。\n会一边从左右两边的组件\n放射电磁波一边在空中飞行。"
+      }
+    ]
+  }
+}

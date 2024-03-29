@@ -1,0 +1,365 @@
+{
+  "jap": {
+    "name": "ミミロル",
+    "genus": "うさぎポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "いつも　まるめている　みみを\nいきおいよく　のばすと　おおきな\nいわも　かんたんに　こわせる。"
+      },
+      {
+        "game": "xy-y",
+        "text": "きけんを　かんじとると　りょうみみを\nたてて　けいかいする。さむい　よるは\nけがわに　かおを　うずめて　ねむる。"
+      },
+      {
+        "game": "oras-or",
+        "text": "いつも　まるめている　みみを\nいきおいよく　のばすと　おおきな\nいわも　かんたんに　こわせる。"
+      },
+      {
+        "game": "oras-as",
+        "text": "きけんを　かんじとると　りょうみみを\nたてて　けいかいする。さむい　よるは\nけがわに　かおを　うずめて　ねむる。"
+      },
+      {
+        "game": "usum-us",
+        "text": "てあしのちからは　よわいが　ぎゅっと\nまるめたみみを　おもいきり　のばすと\nおおきないわも　こなごなに　くだく。"
+      },
+      {
+        "game": "usum-um",
+        "text": "かたほうの　みみを　いつも　まるめて\nいるのは　てきに　おそわれた　とき\nすぐに　はんげきする　ためだ。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "さゆうの　みみを　まるめているときは\nからだや　こころの　ふちょうが\nげんいんなので　ケアが　ひつよう。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "まるめた　みみを　のばす　いきおいで\nこうげきする　わざは　トレーニングを\nするほど　いりょくが　ましていく。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Mimirol",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "이어롤",
+    "genus": "토끼포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "항상 말고 있는 귀를\n힘껏 늘리면 커다란\n바위도 간단히 부순다."
+      },
+      {
+        "game": "xy-y",
+        "text": "위험을 느끼면 양쪽 귀를\n세워서 경계한다. 추운 밤에는\n털에 얼굴을 묻고 잠잔다."
+      },
+      {
+        "game": "oras-or",
+        "text": "항상 말고 있는 귀를\n힘껏 늘리면 커다란\n바위도 간단히 부순다."
+      },
+      {
+        "game": "oras-as",
+        "text": "위험을 느끼면 양쪽 귀를\n세워서 경계한다. 추운 밤에는\n털에 얼굴을 묻고 잠잔다."
+      },
+      {
+        "game": "usum-us",
+        "text": "손발의 힘은 약하지만, 단단하게\n만 귀를 힘껏 뻗으면\n큰 바위도 산산조각 낸다."
+      },
+      {
+        "game": "usum-um",
+        "text": "한쪽 귀를 항상 말고 있는 것은\n적에게 공격당했을 때\n바로 반격하기 위해서다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "양쪽 귀를 말고 있을 때는\n몸이나 마음이 좋지 않다는 뜻이므로\n관리가 필요하다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "말고 있던 귀를 뻗는 힘으로\n공격하는 기술은 트레이닝을\n할수록 위력이 커진다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "捲捲耳",
+    "genus": "兔子寶可夢",
+    "flavorText": [
+      {
+        "game": "usum-us",
+        "text": "手腳的力量很弱，\n但如果使勁伸長緊緊捲起的耳朵，\n就連大岩石也能粉碎。"
+      },
+      {
+        "game": "usum-um",
+        "text": "一隻耳朵之所以總是捲起來，\n是為了在遭到敵人襲擊的時候\n能夠立刻做出反擊。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "將左右兩耳都捲起來時，\n就代表牠的身體或心情\n狀況不佳，需要照顧。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "會利用把捲成團的耳朵伸直\n時的威力來使出攻擊招式。\n越訓練，招式威力就會越大。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Laporeille",
+    "genus": "Pokémon Lapin",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Ses oreilles repliées se déroulent\navec une force capable de briser\nun gros rocher."
+      },
+      {
+        "game": "bw-w",
+        "text": "Ses oreilles repliées se déroulent\navec une force capable de briser\nun gros rocher."
+      },
+      {
+        "game": "xy-x",
+        "text": "Ses oreilles repliées se déroulent avec une force\ncapable de briser un gros rocher."
+      },
+      {
+        "game": "xy-y",
+        "text": "Il dresse les oreilles quand il sent un danger.\nIl dort la tête dans sa fourrure pendant les nuits\nfroides."
+      },
+      {
+        "game": "oras-or",
+        "text": "Ses oreilles repliées se déroulent avec une force capable de\nbriser un gros rocher."
+      },
+      {
+        "game": "oras-as",
+        "text": "Il dresse les oreilles quand il sent un danger. Il dort la tête\ndans sa fourrure pendant les nuits froides."
+      },
+      {
+        "game": "usum-us",
+        "text": "Il possède peu de force dans ses membres,\nmais il lui suffit de déplier son oreille comme\nun ressort pour réduire un rocher en poussière."
+      },
+      {
+        "game": "usum-um",
+        "text": "S’il a toujours une oreille repliée, c’est pour être\nà même de contre-attaquer dès qu’un ennemi\ntente de s’en prendre à lui."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Quand ses deux oreilles sont repliées, c’est\nsigne qu’il ne se sent pas bien physiquement\nou mentalement et qu’il a besoin de soins."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Plus il s’entraîne, plus les coups qu’il assène\nen déroulant vigoureusement ses oreilles\ngagnent en puissance."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Haspiror",
+    "genus": "Hasen-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Seine Ohren sind immer aufgerollt. Mit ihnen kann\nes selbst große Felsbrocken zertrümmern."
+      },
+      {
+        "game": "xy-y",
+        "text": "Nimmt es Gefahr wahr, richtet es seine Ohren auf.\nIn kalten Nächten vergräbt es den Kopf in seinem Fell."
+      },
+      {
+        "game": "oras-or",
+        "text": "Seine Ohren sind immer aufgerollt. Mit ihnen kann es selbst\ngroße Felsbrocken zertrümmern."
+      },
+      {
+        "game": "oras-as",
+        "text": "Nimmt es Gefahr wahr, richtet es seine Ohren auf.\nIn kalten Nächten vergräbt es den Kopf in seinem Fell."
+      },
+      {
+        "game": "usum-us",
+        "text": "Seine Gliedmaßen sind schwach, doch wenn es\nseine aufgerollten Ohren mit geballter Kraft\nhervorschnellen lässt, pulverisiert es jeden Fels."
+      },
+      {
+        "game": "usum-um",
+        "text": "Eines seiner Ohren ist stets aufgerollt, damit es\nim Falle eines gegnerischen Angriffs jederzeit\nzurückschlagen kann."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Sind seine beiden Ohren aufgerollt, deutet das\ndarauf hin, dass es ihm körperlich oder psychisch\nnicht gut geht und es Zuwendung braucht."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Es greift an, indem es seine Ohren aufrollt und\nmit viel Schwung wieder entrollt. Durch Training\nkann Haspiror die Kraft dieser Attacke steigern."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Buneary",
+    "genus": "Pokémon Conejo",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Lleva las orejas enrolladas. Cuando las extiende,\ngolpea con tal fuerza que incluso puede romper rocas."
+      },
+      {
+        "game": "xy-y",
+        "text": "Cuando siente peligro, levanta las orejas. En noches\nfrías, duerme con la cabeza metida en el pelaje."
+      },
+      {
+        "game": "oras-or",
+        "text": "Lleva las orejas enrolladas. Cuando las extiende, golpea con\ntal fuerza que incluso puede romper rocas."
+      },
+      {
+        "game": "oras-as",
+        "text": "Cuando siente peligro, levanta las orejas. En noches frías,\nduerme con la cabeza metida en el pelaje."
+      },
+      {
+        "game": "usum-us",
+        "text": "Si bien sus extremidades pecan de débiles, si\nenrolla las orejas y luego las extiende, puede\nhacer añicos incluso rocas bien grandes."
+      },
+      {
+        "game": "usum-um",
+        "text": "Siempre tiene una de las orejas enrollada para\npoder contraatacar de inmediato si un enemigo\nlanza su ofensiva."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Cuando enrolla ambas orejas, es señal de que\ntiene algún tipo de malestar físico o emocional\ny necesita cuidados."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Ataca estirando con un fuerte impulso las\norejas enrolladas. Cuanto más entrena esta\ntécnica, con más potencia la ejecuta."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Buneary",
+    "genus": "Pokémon Coniglio",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Le sue orecchie sono sempre arrotolate. Può\nestenderle con forza per distruggere qualsiasi cosa."
+      },
+      {
+        "game": "xy-y",
+        "text": "Drizza le orecchie quando avverte un pericolo. Nelle\nnotti fredde, dorme con la testa nella pelliccia."
+      },
+      {
+        "game": "oras-or",
+        "text": "Le sue orecchie sono sempre arrotolate. Può estenderle\ncon forza per distruggere qualsiasi cosa."
+      },
+      {
+        "game": "oras-as",
+        "text": "Drizza le orecchie quando avverte un pericolo. Nelle notti\nfredde, dorme con la testa nella pelliccia."
+      },
+      {
+        "game": "usum-us",
+        "text": "I suoi arti sono deboli, ma la sua forza è altrove:\nse estende di colpo l’orecchio arrotolato, può\nsbriciolare persino un macigno."
+      },
+      {
+        "game": "usum-um",
+        "text": "Tiene un orecchio sempre arrotolato per poter\ncontrattaccare prontamente se un nemico lo\nprende di mira."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Se arrotola entrambe le orecchie significa che è\nafflitto da qualche disturbo fisico o emotivo.\nÈ segno che bisogna prendersi cura di lui."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Attacca estendendo con impeto l’orecchio\narrotolato. Più si allena, più la potenza\ndei suoi attacchi aumenta."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Buneary",
+    "genus": "Rabbit Pokémon",
+    "flavorText": [
+      {
+        "game": "dp-d",
+        "text": "It slams foes by sharply uncoiling\nits rolled ears. It stings enough\nto make a grown-up cry in pain."
+      },
+      {
+        "game": "dp-p",
+        "text": "When it senses danger, it perks up\nits ears. On cold nights, it sleeps\nwith its head tucked into its fur."
+      },
+      {
+        "game": "pt",
+        "text": "Its ears are always rolled up. They\ncan be forcefully extended to\nshatter even a large boulder."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "You can tell how it feels by the way\nit rolls its ears. When it’s scared,\nboth ears are rolled up."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "You can tell how it feels by the way\nit rolls its ears. When it’s scared,\nboth ears are rolled up."
+      },
+      {
+        "game": "bw-b",
+        "text": "Its ears are always rolled up. They\ncan be forcefully extended to\nshatter even a large boulder."
+      },
+      {
+        "game": "bw-w",
+        "text": "Its ears are always rolled up. They\ncan be forcefully extended to\nshatter even a large boulder."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "By extending its rolled-up ears\nand striking the ground, it can\nbound so high it surprises itself."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "By extending its rolled-up ears\nand striking the ground, it can\nbound so high it surprises itself."
+      },
+      {
+        "game": "xy-x",
+        "text": "Its ears are always rolled up. They can be forcefully\nextended to shatter even a large boulder."
+      },
+      {
+        "game": "xy-y",
+        "text": "When it senses danger, it perks up its ears.\nOn cold nights, it sleeps with its head tucked into\nits fur."
+      },
+      {
+        "game": "oras-or",
+        "text": "Its ears are always rolled up. They can be forcefully\nextended to shatter even a large boulder."
+      },
+      {
+        "game": "oras-as",
+        "text": "When it senses danger, it perks up its ears.\nOn cold nights, it sleeps with its head tucked into\nits fur."
+      },
+      {
+        "game": "usum-us",
+        "text": "Its arms and legs are weak, but when it rolls its\nears up tight and then unleashes them with its\nfull force, it can smash boulders to dust."
+      },
+      {
+        "game": "usum-um",
+        "text": "The reason it keeps one ear rolled up is so it\ncan launch a swift counterattack if it’s attacked\nby an enemy."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "If both of Buneary’s ears are rolled up, something\nis wrong with its body or mind. It’s a sure sign the\nPokémon is in need of care."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Buneary can attack by rolling up their ears and\nthen striking with the force created by unrolling\nthem. This attack becomes stronger with training."
+      },
+      {
+        "game": "la",
+        "text": "My hypothesis as to why Buneary rolls up its ears is that its\nhearing is far too keen. I surmise that the Pokémon protects its\nhearing by limiting the sound that may enter its ears."
+      }
+    ]
+  },
+  "chs": {
+    "name": "卷卷耳",
+    "genus": "兔子宝可梦",
+    "flavorText": [
+      {
+        "game": "usum-us",
+        "text": "手脚的力量很弱，\n但如果死命伸长紧紧卷起的耳朵，\n连大岩石也能粉碎。"
+      },
+      {
+        "game": "usum-um",
+        "text": "一只耳朵一直卷着\n是为了被敌人袭击的时候\n能立即反击。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "若看到它卷起左右两只耳朵，\n就说明它此时身体和心理\n状态不佳，需要呵护。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "会利用把卷卷的耳朵伸直\n时产生的威力进行攻击。\n越训练，这一招式的威力就越强。"
+      }
+    ]
+  }
+}

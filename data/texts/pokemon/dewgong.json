@@ -1,0 +1,405 @@
+{
+  "jap": {
+    "name": "ジュゴン",
+    "genus": "あしかポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "ぜんしんが　まっしろな　けで\nおおわれている。さむさに　つよく\nむしろ　さむいほど　げんきになる。"
+      },
+      {
+        "game": "xy-y",
+        "text": "からだは　みずの　ていこうが\nすくない　りゅうせんけい。\nさむくなるほど　げんきが　でてくる。"
+      },
+      {
+        "game": "oras-or",
+        "text": "つめたい　こおりの　うえで　ねるのが　だいすき。\nむかし　ひょうざんで　ねむる　すがたを　みた\nふなのりが　にんぎょと　まちがえた。"
+      },
+      {
+        "game": "oras-as",
+        "text": "つめたい　こおりの　うえで　ねるのが　だいすき。\nむかし　ひょうざんで　ねむる　すがたを　みた\nふなのりが　にんぎょと　まちがえた。"
+      },
+      {
+        "game": "usum-us",
+        "text": "８ノットの　そくどで　うみを　およぎ\nえもので　ある　ポケモンを　さがす。\nとくに　ヨワシが　だいこうぶつ。"
+      },
+      {
+        "game": "usum-um",
+        "text": "しょくじの　あとは　すなはまで\nにっこうよくを　している。　たいおんを\nあげて　しょうかを　よく　するのだ。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "ぜんしん　ゆきのように　まっしろ。\nさむさに　つよく　こおりが　うかぶ\nうみも　げんきよく　およぎまわる。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "ぜんしん　ゆきのように　まっしろ。\nさむさに　つよく　こおりが　うかぶ\nうみも　げんきよく　およぎまわる。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Jugon",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "쥬레곤",
+    "genus": "강치포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "전신이 새하얀 털로\n뒤덮여 있다. 추위에 강해서\n오히려 추울수록 힘이 넘쳐 난다."
+      },
+      {
+        "game": "xy-y",
+        "text": "몸은 물의 저항이\n적은 유선형이다.\n추워질수록 기운이 난다."
+      },
+      {
+        "game": "oras-or",
+        "text": "차가운 얼음 위에서 자는 것을 매우 좋아한다.\n옛날에 빙산에서 자는 모습을 본\n뱃사람이 인어로 착각했다."
+      },
+      {
+        "game": "oras-as",
+        "text": "차가운 얼음 위에서 자는 것을 매우 좋아한다.\n옛날에 빙산에서 자는 모습을 본\n뱃사람이 인어로 착각했다."
+      },
+      {
+        "game": "usum-us",
+        "text": "8노트의 속도로 바다를 헤엄쳐\n먹이가 되는 포켓몬을 찾는다.\n특히 약어리를 매우 좋아한다."
+      },
+      {
+        "game": "usum-um",
+        "text": "식사 후에는 모래 해변에서\n일광욕을 하고 있다. 체온을\n높여서 소화를 돕기 위함이다."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "온몸이 눈처럼 새하얗다.\n추위에 강해 얼음이 떠 있는\n바다도 기운차게 헤엄쳐 다닌다."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "온몸이 눈처럼 새하얗다.\n추위에 강해 얼음이 떠 있는\n바다도 기운차게 헤엄쳐 다닌다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "白海獅",
+    "genus": "海獅寶可夢",
+    "flavorText": [
+      {
+        "game": "usum-us",
+        "text": "能以８節的速度在海中游動，\n尋找能當成獵物的寶可夢。\n弱丁魚是牠最愛吃的東西。"
+      },
+      {
+        "game": "usum-um",
+        "text": "進食之後會在沙灘上\n做日光浴，藉此提高體溫\n來幫助消化。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "全身上下一片雪白。\n不畏寒冷，在滿是浮冰的海上\n也能元氣十足地游來游去。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "全身上下一片雪白。\n不畏寒冷，在滿是浮冰的海上\n也能元氣十足地游來游去。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Lamantine",
+    "genus": "Pokémon Otarie",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Son corps est couvert d’un grand\nmanteau blanc qui, dans la neige, le\ndissimule aux yeux des prédateurs."
+      },
+      {
+        "game": "bw-w",
+        "text": "Son corps est couvert d’un grand\nmanteau blanc qui, dans la neige, le\ndissimule aux yeux des prédateurs."
+      },
+      {
+        "game": "xy-x",
+        "text": "Son corps est recouvert d’une fourrure d’un blanc pur.\nPlus il fait froid, et plus ce Pokémon est actif."
+      },
+      {
+        "game": "xy-y",
+        "text": "Son corps hydrodynamique glisse dans l’eau.\nPlus l’eau est froide plus il se sent à l’aise."
+      },
+      {
+        "game": "oras-or",
+        "text": "Lamantine adore piquer un roupillon à même la glace. Il y a\ntrès longtemps, un marin ayant aperçu ce Pokémon dormant\nsur un glacier a cru voir une sirène."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Son corps entier est aussi blanc que la neige.\nIl résiste bien au froid et peut même nager\nau milieu des icebergs."
+      },
+      {
+        "game": "oras-as",
+        "text": "Lamantine adore piquer un roupillon à même la glace. Il y a\ntrès longtemps, un marin ayant aperçu ce Pokémon dormant\nsur un glacier a cru voir une sirène."
+      },
+      {
+        "game": "usum-us",
+        "text": "Il sillonne les mers à la recherche de ses\nproies à une vitesse de 8 nœuds.\nIl raffole des Froussardine."
+      },
+      {
+        "game": "usum-um",
+        "text": "Après manger, il s’étale de tout son long sur\nles plages de sable fin. Le soleil le réchauffe\net facilite sa digestion."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Son corps entier est aussi blanc que la neige.\nIl résiste bien au froid et peut même nager\nau milieu des icebergs."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Jugong",
+    "genus": "Seehund",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Sein Körper ist mit reinem, weißem Fell überzogen.\nJe kälter es wird, desto aktiver wird dieses Pokémon."
+      },
+      {
+        "game": "xy-y",
+        "text": "Es verspürt kaum Widerstand im Wasser. Je niedriger\ndie Temperatur, desto verspielter verhält es sich."
+      },
+      {
+        "game": "oras-or",
+        "text": "Jugong liebt es, auf bitterkalten Eisschollen ein Nickerchen\nzu machen. Ein Seemann, der einmal ein solches Pokémon\nschlafend auf einem Eisberg sah, hielt es irrtümlicherweise\nfür eine Meerjungfrau."
+      },
+      {
+        "game": "oras-as",
+        "text": "Jugong liebt es, auf bitterkalten Eisschollen ein Nickerchen zu\nmachen. Ein Seemann, der ein solches Pokémon eines Tages\nauf einem Eisberg schlafen sah, hielt es für eine Meerjungfrau."
+      },
+      {
+        "game": "usum-us",
+        "text": "Es schwimmt mit bis zu acht Knoten im Meer\nund sucht nach Beute. Für Lusardin hat es eine\nbesondere Vorliebe."
+      },
+      {
+        "game": "usum-um",
+        "text": "Nach einer Mahlzeit genießt es ein Sonnenbad\nam Strand. Durch die erhöhte Körpertemperatur\nwird seine Verdauung unterstützt."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Sein ganzer Körper ist schneeweiß. Da ihm Kälte\nnichts ausmacht, kann es selbst in Eiswasser\nkraftvoll schwimmen."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Sein ganzer Körper ist schneeweiß. Da ihm Kälte\nnichts ausmacht, kann es selbst in Eiswasser\nkraftvoll schwimmen."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Dewgong",
+    "genus": "Pokémon León Marino",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Está recubierto de un luminoso pelaje blanco. Este\nPokémon aumenta su actividad cuando bajan las\ntemperaturas."
+      },
+      {
+        "game": "xy-y",
+        "text": "Su aerodinámico cuerpo avanza fácilmente por el agua.\nCuanto más fría, más diversión."
+      },
+      {
+        "game": "oras-or",
+        "text": "A Dewgong le encanta dormitar sobre la frialdad del hielo.\nAntiguamente, algún que otro marino lo confundió con una\nsirena al verlo dormido sobre un glaciar."
+      },
+      {
+        "game": "oras-as",
+        "text": "A Dewgong le encanta dormitar sobre la frialdad del hielo.\nAntiguamente, algún que otro marino lo confundió con una\nsirena al verlo dormido sobre un glaciar."
+      },
+      {
+        "game": "usum-us",
+        "text": "Surca los mares a velocidades de 8 nudos en\nbusca de Pokémon que le sirvan de sustento.\nSiente predilección especial por los Wishiwashi."
+      },
+      {
+        "game": "usum-um",
+        "text": "Le gusta tenderse al sol en la playa después de\ncomer, ya que aumentar su temperatura\ncorporal le facilita la digestión."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Su cuerpo es blanco como la nieve. Puede nadar\nplácidamente en mares gélidos gracias a su\nresistencia al frío."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Su cuerpo es blanco como la nieve. Puede nadar\nplácidamente en mares gélidos gracias a su\nresistencia al frío."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Dewgong",
+    "genus": "Pokémon Otaria",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Ha il corpo ricoperto da una candida pelliccia bianca.\nPiù fa freddo, più questo Pokémon è attivo."
+      },
+      {
+        "game": "xy-y",
+        "text": "Il suo corpo affusolato ha poco attrito nell’acqua.\nLe basse temperature lo rendono vivace."
+      },
+      {
+        "game": "oras-or",
+        "text": "Dewgong adora riposare su una gelida lastra di ghiaccio.\nIn passato i marinai confondevano il profilo di questo\nPokémon addormentato sulla superficie gelata con una sirena."
+      },
+      {
+        "game": "oras-as",
+        "text": "Dewgong adora riposare su una gelida lastra di ghiaccio.\nIn passato i marinai confondevano il profilo di questo\nPokémon addormentato sulla superficie gelata con una sirena."
+      },
+      {
+        "game": "usum-us",
+        "text": "Nuota nel mare alla velocità di 8 nodi alla\nricerca dei Pokémon di cui si nutre.\nÈ particolarmente ghiotto di Wishiwashi."
+      },
+      {
+        "game": "usum-um",
+        "text": "Dopo mangiato prende il sole sulla spiaggia\nper far aumentare la sua temperatura corporea\ne favorire la digestione."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Il suo corpo è bianco come la neve. Non soffre\nil freddo e nuota senza problemi anche in acque\ngelide."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Il suo corpo è bianco come la neve. Non soffre\nil freddo e nuota senza problemi anche in acque\ngelide."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Dewgong",
+    "genus": "Sea Lion Pokémon",
+    "flavorText": [
+      {
+        "game": "rb-r",
+        "text": "Stores thermal\nenergy in its\nbody. Swims at a\fsteady 8 knots\neven in intensely\ncold waters."
+      },
+      {
+        "game": "rb-b",
+        "text": "Stores thermal\nenergy in its\nbody. Swims at a\fsteady 8 knots\neven in intensely\ncold waters."
+      },
+      {
+        "game": "y",
+        "text": "Its entire body is\na snowy-white.\nUnharmed by even\fintense cold, it\nswims powerfully\nin icy waters."
+      },
+      {
+        "game": "gs-g",
+        "text": "Its streamlined\nbody has little\ndrag in water.\fThe colder the\ntemperature, the\nfriskier it gets."
+      },
+      {
+        "game": "gs-s",
+        "text": "It loves frigid\nseas with ice\nfloes. It uses its\flong tail to\nchange swimming\ndirection quickly."
+      },
+      {
+        "game": "c",
+        "text": "It sleeps under\nshallow ocean\nwaters during the\fday, then looks\nfor food at night\nwhen it's cold."
+      },
+      {
+        "game": "rs-r",
+        "text": "DEWGONG loves to snooze on bitterly\ncold ice.\nThe sight of this POKéMON sleeping on\fa glacier was mistakenly thought to be\na mermaid by a mariner long ago."
+      },
+      {
+        "game": "rs-s",
+        "text": "DEWGONG loves to snooze on bitterly\ncold ice.\nThe sight of this POKéMON sleeping on\fa glacier was mistakenly thought to be\na mermaid by a mariner long ago."
+      },
+      {
+        "game": "e",
+        "text": "It loves to snooze on bitterly cold ice.\nThe sight of this POKéMON sleeping on\na glacier was mistakenly thought to be\na mermaid by a mariner long ago."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "Its body is covered with a pure white\nfur. The colder the weather, the more\nactive it becomes."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "It stores thermal energy in the body.\nIt swims at a steady eight knots even in\nintensely cold waters."
+      },
+      {
+        "game": "dp-d",
+        "text": "In snow, the pure white coat\ncovering its body obscures it from\npredators."
+      },
+      {
+        "game": "dp-p",
+        "text": "In snow, the pure white coat\ncovering its body obscures it from\npredators."
+      },
+      {
+        "game": "pt",
+        "text": "In snow, the pure white coat\ncovering its body obscures it from\npredators."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "Its streamlined body has little\ndrag in water. The colder the\ntemperature, the friskier it gets."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "It loves frigid seas with ice\nfloes. It uses its long tail to\nchange swimming direction quickly."
+      },
+      {
+        "game": "bw-b",
+        "text": "In snow, the pure white coat\ncovering its body obscures it from\npredators."
+      },
+      {
+        "game": "bw-w",
+        "text": "In snow, the pure white coat\ncovering its body obscures it from\npredators."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "Its streamlined body has low resistance,\nand it swims around cold oceans at\na speed of eight knots."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "Its streamlined body has low resistance,\nand it swims around cold oceans at\na speed of eight knots."
+      },
+      {
+        "game": "xy-x",
+        "text": "Its body is covered with a pure white fur.\nThe colder the weather, the more active\nit becomes."
+      },
+      {
+        "game": "xy-y",
+        "text": "Its streamlined body has little drag in water.\nThe colder the temperature, the friskier it gets."
+      },
+      {
+        "game": "oras-or",
+        "text": "Dewgong loves to snooze on bitterly cold ice. The sight of this\nPokémon sleeping on a glacier was mistakenly thought to be a\nmermaid by a mariner long ago."
+      },
+      {
+        "game": "oras-as",
+        "text": "Dewgong loves to snooze on bitterly cold ice. The sight of\nthis Pokémon sleeping on a glacier was mistakenly thought\nto be a mermaid by a mariner long ago."
+      },
+      {
+        "game": "usum-us",
+        "text": "It swims through the ocean at a speed of eight\nknots, searching for Pokémon that will become\nits prey. It’s especially fond of Wishiwashi."
+      },
+      {
+        "game": "usum-um",
+        "text": "It sunbathes on the beach after meals. The rise\nin its body temperature helps its digestion."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Its entire body is a snowy white. Unharmed by\neven intense cold, it swims powerfully\nin icy waters."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Its entire body is a snowy white. Unharmed by\neven intense cold, it swims powerfully\nin icy waters."
+      }
+    ]
+  },
+  "chs": {
+    "name": "白海狮",
+    "genus": "海狮宝可梦",
+    "flavorText": [
+      {
+        "game": "usum-us",
+        "text": "能以８节的速度在海里游动，\n并搜寻能当做猎物的宝可梦。\n特别喜欢吃弱丁鱼。"
+      },
+      {
+        "game": "usum-um",
+        "text": "进食后会在沙滩上晒日光浴。\n会通过提高体温来帮助消化。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "全身像雪一样白。十分耐寒，\n即使是在有浮冰的大海里\n也能很精神地游来游去。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "全身像雪一样白。十分耐寒，\n即使是在有浮冰的大海里\n也能很精神地游来游去。"
+      }
+    ]
+  }
+}

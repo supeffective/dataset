@@ -1,0 +1,469 @@
+{
+  "jap": {
+    "name": "エーフィ",
+    "genus": "たいようポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "あいての　うごきを　よち　するとき\nふたまたに　なっている　しっぽの\nさきは　びみょうに　ゆれている。"
+      },
+      {
+        "game": "xy-y",
+        "text": "ぜんしんの　こまやかな　たいもうで\nくうきの　ながれを　かんじて　てきの\nかんがえや　てんこうを　よそくする。"
+      },
+      {
+        "game": "oras-or",
+        "text": "みとめた　トレーナーには　きわめて　ちゅうじつ。\nトレーナーを　きけんから　まもる　ために\nよちのうりょくが　はったつしたと　いわれている。"
+      },
+      {
+        "game": "oras-as",
+        "text": "みとめた　トレーナーには　きわめて　ちゅうじつ。\nトレーナーを　きけんから　まもる　ために\nよちのうりょくが　はったつしたと　いわれている。"
+      },
+      {
+        "game": "sm-s",
+        "text": "ほそく　みじかい　たいもうで　くうきの\nながれから　あいての　こうどう　まで\nいっしゅんで　よみとってしまう。"
+      },
+      {
+        "game": "sm-m",
+        "text": "ひたいの　たまから　サイコパワーを\nほうしゃして　たたかう。　パワーが\nつきると　たまの　いろが　くすむ。"
+      },
+      {
+        "game": "usum-us",
+        "text": "もともとは　なんの　のうりょくも\nなかったが　みを　まもるために\nよちのうりょくに　めざめたと　いう。"
+      },
+      {
+        "game": "usum-um",
+        "text": "にっこうを　あびていると　ひたいの\nたまに　サイコパワーが　たまっていく。\nよるの　たたかいは　にがて　なのだ。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "くうきの　ながれを　よみとることで\nこれからの　てんきや　あいての\nうごきなどを　すべて　あててしまう。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "ひたいの　たまから　サイコパワーを\nほうしゃして　たたかう。　パワーが\nつきると　たまの　いろが　くすむ。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Eifie",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "에브이",
+    "genus": "태양포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "상대의 움직임을 예지할 때\n두 갈래로 갈라져 있는 꼬리의\n끝이 미세하게 떨리고 있다."
+      },
+      {
+        "game": "xy-y",
+        "text": "전신의 세밀한 털로\n공기의 흐름을 알아차려 상대의\n생각이나 날씨를 예측한다."
+      },
+      {
+        "game": "oras-or",
+        "text": "인정한 트레이너에게는 극히 충실하다.\n트레이너를 위험에서 지키기 위해\n예지능력이 발달했다고 전해진다."
+      },
+      {
+        "game": "oras-as",
+        "text": "인정한 트레이너에게는 극히 충실하다.\n트레이너를 위험에서 지키기 위해\n예지능력이 발달했다고 전해진다."
+      },
+      {
+        "game": "sm-s",
+        "text": "가늘고 짧은 털로 공기의\n흐름부터 상대의 행동까지\n순식간에 읽어버린다."
+      },
+      {
+        "game": "sm-m",
+        "text": "이마의 구슬에서 사이코 파워를\n방사해서 싸운다. 파워가\n다하면 구슬의 색이 흐려진다."
+      },
+      {
+        "game": "usum-us",
+        "text": "원래는 아무런 능력도 없었지만\n몸을 지키기 위해\n예지 능력에 눈뜨게 됐다고 한다."
+      },
+      {
+        "game": "usum-um",
+        "text": "햇빛을 받으면 이마의 구슬에\n사이코 파워가 모인다.\n밤에 하는 싸움에 약하다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "공기의 흐름을 읽어내서\n앞으로의 날씨와 상대의\n움직임 등을 모두 맞혀버린다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "이마의 구슬에서 사이코 파워를\n방사해서 싸운다. 파워가\n다하면 구슬의 색이 흐려진다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "太陽伊布",
+    "genus": "太陽寶可夢",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "利用又細又短的體毛感受\n空氣的流動，連對手的行動\n也能一瞬間洞悉。"
+      },
+      {
+        "game": "sm-m",
+        "text": "從額頭的珠子放射出精神力量\n進行戰鬥。當力量用盡時，\n珠子的顏色也會褪去。"
+      },
+      {
+        "game": "usum-us",
+        "text": "據說本來沒有任何能力，\n是為了要保護自己，\n預知的能力才因此覺醒。"
+      },
+      {
+        "game": "usum-um",
+        "text": "只要沐浴在陽光下，額頭上的\n珠子裡就會開始累積精神力量。\n不擅長在夜間戰鬥。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "能透過感受空氣的流動，\n準確地預測出接下來的\n天氣和對手的行動等等。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "從額頭的珠子放射出精神力量\n進行戰鬥。當力量用盡時，\n珠子的顏色也會褪去。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Mentali",
+    "genus": "Pokémon Soleil",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Sa fourrure est si sensible qu’il\npeut détecter les vibrations de\nl’air et prédire le temps qu’il fera."
+      },
+      {
+        "game": "bw-w",
+        "text": "Sa fourrure est si sensible qu’il\npeut détecter les vibrations de\nl’air et prédire le temps qu’il fera."
+      },
+      {
+        "game": "xy-x",
+        "text": "Le bout fourchu de sa queue frémit lorsqu’il prédit\nla prochaine attaque de son adversaire."
+      },
+      {
+        "game": "xy-y",
+        "text": "Sa fourrure ultrasensible détecte les vibrations de\nl’air. Il peut ainsi prédire le temps ou lire les pensées\nadverses."
+      },
+      {
+        "game": "oras-or",
+        "text": "Mentali est extrêmement loyal envers les Dresseurs\nqu’il respecte. On raconte que ce Pokémon a développé\ndes talents divinatoires pour protéger son Dresseur."
+      },
+      {
+        "game": "oras-as",
+        "text": "Mentali est extrêmement loyal envers les Dresseurs\nqu’il respecte. On raconte que ce Pokémon a développé\ndes talents divinatoires pour protéger son Dresseur."
+      },
+      {
+        "game": "sm-s",
+        "text": "Son pelage court et clairsemé détecte en un\ninstant le moindre mouvement de l’air ou de\nl’ennemi."
+      },
+      {
+        "game": "sm-m",
+        "text": "Le joyau sur son front projette des ondes\npsychiques en combat, et s’obscurcit lorsque\nMentali est à bout de force."
+      },
+      {
+        "game": "usum-us",
+        "text": "À l’origine, il n’était doté d’aucune compétence\nparticulière, mais il a développé un don de\nprescience pour se défendre."
+      },
+      {
+        "game": "usum-um",
+        "text": "Le joyau sur son front accumulant de la force\npsychique lorsqu’il est exposé à la lumière\ndu soleil, il préfère les combats de jour."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "En analysant les courants aériens, il peut prédire\nla météo ou même les mouvements de son ennemi."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Le joyau sur le front de Mentali projette\ndes ondes psychiques en combat, et s’obscurcit\nquand il est à bout de force."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Psiana",
+    "genus": "Sonnen-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Die Spitze seines geteilten Schweifs bebt, wenn es\ndie nächste Attacke seines Feindes voraussagt."
+      },
+      {
+        "game": "xy-y",
+        "text": "Die Haare seines Fells sind so feinfühlig, dass es\nam Wind ablesen kann, was seine Gegner denken\nund wie das Wetter wird."
+      },
+      {
+        "game": "oras-or",
+        "text": "Psiana ist jedem Trainer treu, dem es zugetan ist.\nDieses Pokémon hat die Fähigkeit der Prophezeiung\nentwickelt, um seine Trainer vor Unheil zu bewahren."
+      },
+      {
+        "game": "oras-as",
+        "text": "Psiana ist jedem Trainer treu, dem es zugetan ist.\nDieses Pokémon hat die Fähigkeit der Prophezeiung\nentwickelt, um seine Trainer vor Unheil zu bewahren."
+      },
+      {
+        "game": "sm-s",
+        "text": "Mit seinem feinen, kurzen Fell kann es anhand\nvon Luftbewegungen augenblicklich erkennen,\nwas sein Gegner plant."
+      },
+      {
+        "game": "sm-m",
+        "text": "Über die Kugel an seiner Stirn feuert es\nPsycho-Kräfte ab. Geht ihm die Kraft aus,\nverliert die Farbe der Kugel an Glanz."
+      },
+      {
+        "game": "usum-us",
+        "text": "Es heißt, dass die Fähigkeit der Prophezeiung\nerst im Laufe der Zeit in ihm erwacht sei, damit\nes sich selbst vor Unheil bewahren könne."
+      },
+      {
+        "game": "usum-um",
+        "text": "Indem es im Sonnenlicht badet, speichert es\nPsycho-Kraft in der Kugel an seiner Stirn. Daher\ntut es sich nachts beim Kämpfen etwas schwer."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Es analysiert Luftströmungen und kann dadurch\ndas Wetter oder die nächste Attacke des\nGegners vorhersehen."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Über die Kugel an seiner Stirn feuert es\nPsycho-Kräfte ab. Geht ihm die Kraft aus,\nverliert die Farbe der Kugel an Glanz."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Espeon",
+    "genus": "Pokémon Sol",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Al predecir el siguiente movimiento de su rival,\nchasquea el extremo de la cola bífida que tiene."
+      },
+      {
+        "game": "xy-y",
+        "text": "Su pelaje es tan sensible que percibe los cambios en\nel aire y predice así los ataques de sus enemigos y el\ntiempo."
+      },
+      {
+        "game": "oras-or",
+        "text": "Espeon es tremendamente leal al Entrenador al que considera\ndigno de ello. Dicen que este Pokémon desarrolló sus poderes\nadivinatorios para evitar que su Entrenador sufra daño alguno."
+      },
+      {
+        "game": "oras-as",
+        "text": "Espeon es tremendamente leal al Entrenador al que considera\ndigno de ello. Dicen que este Pokémon desarrolló sus poderes\nadivinatorios para evitar que su Entrenador sufra daño alguno."
+      },
+      {
+        "game": "sm-s",
+        "text": "Su corto y fino pelaje percibe los cambios en el\naire y esto le permite predecir los movimientos\nde sus oponentes."
+      },
+      {
+        "game": "sm-m",
+        "text": "Lucha con los poderes psíquicos que brotan de\nla esfera de su frente, que se oscurece cuando\nsu energía disminuye."
+      },
+      {
+        "game": "usum-us",
+        "text": "Originariamente, carecía de habilidades\nespeciales, pero terminó desarrollando\nfacultades premonitorias para protegerse."
+      },
+      {
+        "game": "usum-um",
+        "text": "La luz del sol imbuye de poder psíquico la\nesfera de su frente, por lo que los combates\nnocturnos son su punto débil."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Basándose en las corrientes de aire, predice\ncosas como el tiempo atmosférico o la próxima\nacción del enemigo."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Lucha con los poderes psíquicos que brotan de\nla esfera de su frente, que se oscurece cuando\nsu energía disminuye."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Espeon",
+    "genus": "Pokémon Sole",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Mentre predice la prossima mossa del nemico,\nla coda biforcuta gli inizia a tremare."
+      },
+      {
+        "game": "xy-y",
+        "text": "Grazie al pelo sensibile, percepisce pure gli\nspostamenti d’aria. Sa leggere nel pensiero e\nprevedere il tempo."
+      },
+      {
+        "game": "oras-or",
+        "text": "Espeon è estremamente leale nei confronti di qualsiasi\nAllenatore considerato all’altezza. Si dice che questo\nPokémon abbia sviluppato capacità precognitive per\nproteggere il proprio Allenatore."
+      },
+      {
+        "game": "oras-as",
+        "text": "Espeon è estremamente leale nei confronti di qualsiasi\nAllenatore considerato all’altezza. Si dice che questo\nPokémon abbia sviluppato capacità precognitive per\nproteggere il proprio Allenatore."
+      },
+      {
+        "game": "sm-s",
+        "text": "Riesce a prevedere in un istante le mosse\ndei nemici analizzando le correnti d’aria\ngrazie al suo pelo corto e fine."
+      },
+      {
+        "game": "sm-m",
+        "text": "Lotta emettendo poteri psichici dalla sfera\nche ha sulla fronte, che diventa più scura\nman mano che le sue energie diminuiscono."
+      },
+      {
+        "game": "usum-us",
+        "text": "Inizialmente non aveva particolari abilità,\nma in seguito ha sviluppato delle capacità\npremonitrici per difendersi."
+      },
+      {
+        "game": "usum-um",
+        "text": "Accumula poteri psichici esponendo alla luce\nsolare la sfera che ha sulla fronte.\nLe lotte notturne non sono il suo forte."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Analizza le correnti d’aria per predire le\ncondizioni atmosferiche o la prossima\nmossa del nemico."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Lotta emettendo poteri psichici dalla sfera\nche ha sulla fronte, che diventa più scura\nman mano che le sue energie diminuiscono."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Espeon",
+    "genus": "Sun Pokémon",
+    "flavorText": [
+      {
+        "game": "gs-g",
+        "text": "It uses the fine\nhair that covers\nits body to sense\fair currents and\npredict its ene­\nmy's actions."
+      },
+      {
+        "game": "gs-s",
+        "text": "By reading air\ncurrents, it can\npredict things\fsuch as the weath­\ner or its foe's\nnext move."
+      },
+      {
+        "game": "c",
+        "text": "The tip of its\nforked tail\nquivers when it is\fpredicting its\nopponent's next\nmove."
+      },
+      {
+        "game": "rs-r",
+        "text": "ESPEON is extremely loyal to any\nTRAINER it considers to be worthy.\nIt is said that this POKéMON developed\fits precognitive powers to protect its\nTRAINER from harm."
+      },
+      {
+        "game": "rs-s",
+        "text": "ESPEON is extremely loyal to any\nTRAINER it considers to be worthy.\nIt is said that this POKéMON developed\fits precognitive powers to protect its\nTRAINER from harm."
+      },
+      {
+        "game": "e",
+        "text": "An ESPEON is extremely loyal to any\nTRAINER it considers to be worthy. It is\nsaid to have developed precognitive\npowers to protect its TRAINER from harm."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "By reading air currents, it can predict\nthings such as the weather or its foe’s\nnext move."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "It uses the fine hair that covers its body\nto sense air currents and predict its\nenemy’s actions."
+      },
+      {
+        "game": "dp-d",
+        "text": "Its fur has the look and feel of\nvelvet. The orb on its forehead\nglows when it uses psycho-power."
+      },
+      {
+        "game": "dp-p",
+        "text": "Its fur has the look and feel of\nvelvet. The orb on its forehead\nglows when it uses psycho-power."
+      },
+      {
+        "game": "pt",
+        "text": "Its fur is so sensitive, it can\nsense minute shifts in the air\nand predict the weather."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "It uses the fine hair that covers\nits body to sense air currents and\npredict its enemy’s actions."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "By reading air currents, it can\npredict things such as the weather\nor its foe’s next move."
+      },
+      {
+        "game": "bw-b",
+        "text": "Its fur is so sensitive, it can\nsense minute shifts in the air\nand predict the weather."
+      },
+      {
+        "game": "bw-w",
+        "text": "Its fur is so sensitive, it can\nsense minute shifts in the air\nand predict the weather."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "Its fur is so sensitive, it can feel\nminute shifts in the air and predict the\nweather...and its foes’ thoughts."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "Its fur is so sensitive, it can feel\nminute shifts in the air and predict the\nweather...and its foes’ thoughts."
+      },
+      {
+        "game": "xy-x",
+        "text": "The tip of its forked tail quivers when it is predicting\nits opponent’s next move."
+      },
+      {
+        "game": "xy-y",
+        "text": "Its fur is so sensitive, it can feel minute shifts in the\nair and predict the weather...and its foes’ thoughts."
+      },
+      {
+        "game": "oras-or",
+        "text": "Espeon is extremely loyal to any Trainer it considers to\nbe worthy. It is said that this Pokémon developed its\nprecognitive powers to protect its Trainer from harm."
+      },
+      {
+        "game": "oras-as",
+        "text": "Espeon is extremely loyal to any Trainer it considers to\nbe worthy. It is said that this Pokémon developed its\nprecognitive powers to protect its Trainer from harm."
+      },
+      {
+        "game": "sm-s",
+        "text": "It can instantaneously sense its opponent’s\nmovements by feeling air currents with its\nfine fur."
+      },
+      {
+        "game": "sm-m",
+        "text": "It unleashes psychic power from the orb on its\nforehead. When its power is exhausted, the orb\ngrows dull and dark."
+      },
+      {
+        "game": "usum-us",
+        "text": "Although it originally had no powers at all,\npeople say its precognitive faculties were\nawakened by its need to protect itself."
+      },
+      {
+        "game": "usum-um",
+        "text": "Psychic power builds up in the orb on its\nforehead as it bathes in the sunshine. Espeon is\nnot good at battling at night."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "By reading air currents, it can predict things such\nas the weather or its foe’s next move."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "It unleashes psychic power from the orb on its\nforehead. When its power is exhausted, the orb\ngrows dull and dark."
+      },
+      {
+        "game": "la",
+        "text": "Wields an arcane power with which it can predict the weather\nand even people's thoughts. When bathed in sunshine, the\nscarlet orb on its brow glows and builds energy."
+      }
+    ]
+  },
+  "chs": {
+    "name": "太阳伊布",
+    "genus": "太阳宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "利用又细又短的体毛，\n从空气的流动中，连对手的行动\n也能一瞬间就察觉。"
+      },
+      {
+        "game": "sm-m",
+        "text": "从额头的珠子放射出精神力量\n进行战斗。当力量用尽时，\n珠子的颜色也会褪去。"
+      },
+      {
+        "game": "usum-us",
+        "text": "本来没有任何能力，\n但据说为了保护自己\n从而觉醒了预知能力。"
+      },
+      {
+        "game": "usum-um",
+        "text": "如果沐浴在阳光下，额头上的\n珠子就会开始储存精神力量。\n不擅长夜间战斗。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "能通过感受空气的流动，\n准确地预测出接下来的\n天气和对手的行动等等。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "从额头的珠子放射出精神力量\n进行战斗。当力量用尽时，\n珠子的颜色也会褪去。"
+      }
+    ]
+  }
+}

@@ -1,0 +1,333 @@
+{
+  "jap": {
+    "name": "ビードル",
+    "genus": "けむしポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "もりや　くさちに　おおく　せいそく。\nあたまの　さきに　５センチぐらいの\nちいさく　するどい　どくばりをもつ。"
+      },
+      {
+        "game": "xy-y",
+        "text": "どくばりは　とても　きょうりょく。\nめだつ　からだの　いろは\nあいてに　けいかいを　させるためだ。"
+      },
+      {
+        "game": "oras-or",
+        "text": "とても　するどい　きゅうかくを　もっている。\nこうぶつの　はっぱか　きらいな　はっぱか\nおおきな　あかい　はなで　かぎわける。"
+      },
+      {
+        "game": "oras-as",
+        "text": "とても　するどい　きゅうかくを　もっている。\nこうぶつの　はっぱか　きらいな　はっぱか\nおおきな　あかい　はなで　かぎわける。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "あたまに　するどい　ハリを　もつ。\nもりや　くさちの　しげみに　かくれ\nひたすら　ハッパを　たべている。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "あたまに　するどい　ハリを　もつ。\nもりや　くさちの　しげみに　かくれ\nひたすら　ハッパを　たべている。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Beedle",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "뿔충이",
+    "genus": "송충이포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "숲이나 풀밭에 많이 서식한다.\n머리끝에 5cm 정도의\n작고 날카로운 독침을 지니고 있다."
+      },
+      {
+        "game": "xy-y",
+        "text": "독침이 매우 강력하다.\n눈에 띄는 몸의 색깔은\n상대방을 경계시키기 위해서다."
+      },
+      {
+        "game": "oras-or",
+        "text": "굉장히 예민한 후각을 지니고 있다.\n좋아하는 잎사귀인지 싫어하는 잎사귀인지\n크고 빨간 코로 냄새 맡아 구별한다."
+      },
+      {
+        "game": "oras-as",
+        "text": "굉장히 예민한 후각을 지니고 있다.\n좋아하는 잎사귀인지 싫어하는 잎사귀인지\n크고 빨간 코로 냄새 맡아 구별한다."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "머리에 날카로운 침을 지니고 있다.\n우거진 숲이나 풀밭에 숨어\n끊임없이 풀잎을 먹고 있다."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "머리에 날카로운 침을 지니고 있다.\n우거진 숲이나 풀밭에 숨어\n끊임없이 풀잎을 먹고 있다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "獨角蟲",
+    "genus": "毛毛蟲寶可夢",
+    "flavorText": [
+      {
+        "game": "lgpe-lgp",
+        "text": "頭上長著尖銳的針。\n總是躲在森林或是草叢裡，\n不停地吃著葉子。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "頭上長著尖銳的針。\n總是躲在森林或是草叢裡，\n不停地吃著葉子。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Aspicot",
+    "genus": "Pokémon Insectopic",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Il mange chaque jour son poids en\nfeuilles. Il utilise l’aiguillon sur sa\ntête pour repousser l’ennemi."
+      },
+      {
+        "game": "bw-w",
+        "text": "Il mange chaque jour son poids en\nfeuilles. Il utilise l’aiguillon sur sa\ntête pour repousser l’ennemi."
+      },
+      {
+        "game": "xy-x",
+        "text": "On trouve souvent ce Pokémon dans les forêts et\nles hautes herbes. L’aiguillon de 5 cm sur sa tête\ncontient un venin très toxique."
+      },
+      {
+        "game": "xy-y",
+        "text": "Son aiguillon empoisonné est très dangereux.\nSon corps est coloré afin de repousser ses ennemis."
+      },
+      {
+        "game": "oras-or",
+        "text": "L’odorat d’Aspicot est extrêmement développé. Il lui suffit de\nrenifler ses feuilles préférées avec son gros appendice nasal\npour les reconnaître entre mille."
+      },
+      {
+        "game": "oras-as",
+        "text": "L’odorat d’Aspicot est extrêmement développé. Il lui suffit de\nrenifler ses feuilles préférées avec son gros appendice nasal\npour les reconnaître entre mille."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "L’aiguillon sur son front est très pointu.\nIl se cache dans les bois et les hautes herbes,\noù il se gave de feuilles."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "L’aiguillon sur son front est très pointu.\nIl se cache dans les bois et les hautes herbes,\noù il se gave de feuilles."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Hornliu",
+    "genus": "Raupe",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Es lebt bevorzugt in Wäldern und in hohem Gras.\nAuf dem Kopf trägt es einen circa 5 cm langen,\nspitzen, giftigen Stachel."
+      },
+      {
+        "game": "xy-y",
+        "text": "Sein Giftstachel ist gefährlich. Sein hellleuchtender\nKörper soll Feinde abschrecken."
+      },
+      {
+        "game": "oras-or",
+        "text": "Hornliu verfügt über einen ausgezeichneten Geruchssinn.\nSo kann es seine Lieblingsblätter von denen unterscheiden,\ndie es nicht mag, indem es mit seiner großen roten Nase\ndaran schnuppert."
+      },
+      {
+        "game": "oras-as",
+        "text": "Hornliu verfügt über einen ausgezeichneten Geruchssinn.\nEs ist in der Lage, seine Lieblingsblätter von denen zu\nunterscheiden, die es nicht mag, indem es mit seinem großen\nroten Rüssel daran schnuppert."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Auf seinem Kopf befindet sich ein spitzer\nStachel. Es versteckt sich im hohen Gras\nsowie in Wäldern und frisst eifrig Blätter."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Auf seinem Kopf befindet sich ein spitzer\nStachel. Es versteckt sich im hohen Gras\nsowie in Wäldern und frisst eifrig Blätter."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Weedle",
+    "genus": "Pokémon Oruga",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Suele habitar bosques y praderas. Tiene un afilado y\nvenenoso aguijón de unos 5 cm encima de la cabeza."
+      },
+      {
+        "game": "xy-y",
+        "text": "Su venenoso aguijón es muy potente y su colorido\ncuerpo hace que los enemigos huyan."
+      },
+      {
+        "game": "oras-or",
+        "text": "Weedle tiene un finísimo sentido del olfato. Es capaz de\ndistinguir las hojas que le gustan de las que no le gustan\nolisqueando un poco con la gran nariz que tiene."
+      },
+      {
+        "game": "oras-as",
+        "text": "Weedle tiene un finísimo sentido del olfato. Es capaz de\ndistinguir las hojas que le gustan de las que no le gustan\nolisqueando un poco con la gran nariz que tiene."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "El aguijón de la cabeza es muy puntiagudo.\nSe alimenta de hojas oculto en la espesura\nde bosques y praderas."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "El aguijón de la cabeza es muy puntiagudo.\nSe alimenta de hojas oculto en la espesura\nde bosques y praderas."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Weedle",
+    "genus": "Pokémon Millepiedi",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Vive soprattutto nei boschi e nei prati. Sul capo ha\nun affilato e velenoso pungiglione lungo 5 cm."
+      },
+      {
+        "game": "xy-y",
+        "text": "Ha un pungiglione molto velenoso. La vivace\ncolorazione del suo corpo è un avvertimento per i\nnemici."
+      },
+      {
+        "game": "oras-or",
+        "text": "Weedle ha un senso dell’olfatto estremamente sviluppato.\nRiesce a distinguere le sue foglie preferite da quelle che\nlo disgustano semplicemente annusandole con il grande\nnaso rosso."
+      },
+      {
+        "game": "oras-as",
+        "text": "Weedle ha un senso dell’olfatto estremamente sviluppato.\nRiesce a distinguere le sue foglie preferite da quelle che\nlo disgustano semplicemente annusandole con il grande\nnaso rosso."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Ha un pungiglione acuminato sul capo. Vive tra\nl’erba alta e nei boschi, dove si nutre di foglie."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Ha un pungiglione acuminato sul capo. Vive tra\nl’erba alta e nei boschi, dove si nutre di foglie."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Weedle",
+    "genus": "Hairy Bug Pokémon",
+    "flavorText": [
+      {
+        "game": "rb-r",
+        "text": "Often found in\nforests, eating\nleaves.\fIt has a sharp\nvenomous stinger\non its head."
+      },
+      {
+        "game": "rb-b",
+        "text": "Often found in\nforests, eating\nleaves.\fIt has a sharp\nvenomous stinger\non its head."
+      },
+      {
+        "game": "y",
+        "text": "Beware of the\nsharp stinger on\nits head. It\fhides in grass\nand bushes where\nit eats leaves."
+      },
+      {
+        "game": "gs-g",
+        "text": "Its poison stinger\nis very powerful.\nIts bright-colored\fbody is intended\nto warn off its\nenemies."
+      },
+      {
+        "game": "gs-s",
+        "text": "It attacks using a\ntwo-inch poison\nbarb on its head.\fIt can usually be\nfound under the\nleaves it eats."
+      },
+      {
+        "game": "c",
+        "text": "The barb on top of\nits head secretes\na strong poison.\fIt uses this toxic\nbarb to protect\nitself."
+      },
+      {
+        "game": "rs-r",
+        "text": "WEEDLE has an extremely acute sense\nof smell.\nIt is capable of distinguishing its\ffavorite kinds of leaves from those it\ndislikes just by sniffing with its big\nred proboscis (nose)."
+      },
+      {
+        "game": "rs-s",
+        "text": "WEEDLE has an extremely acute sense\nof smell.\nIt is capable of distinguishing its\ffavorite kinds of leaves from those it\ndislikes just by sniffing with its big\nred proboscis (nose)."
+      },
+      {
+        "game": "e",
+        "text": "A WEEDLE has an extremely acute sense\nof smell. It distinguishes its favorite\nkinds of leaves from those it dislikes by\nsniffing with its big red proboscis (nose)."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "Often found in forests and grasslands.\nIt has a sharp, toxic barb of around two\ninches on top of its head."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "Often found in forests, eating leaves.\nIt has a sharp stinger on its head that\ninjects poison."
+      },
+      {
+        "game": "dp-d",
+        "text": "It eats its weight in leaves every\nday. It fends off attackers with\nthe needle on its head."
+      },
+      {
+        "game": "dp-p",
+        "text": "It eats its weight in leaves every\nday. It fends off attackers with\nthe needle on its head."
+      },
+      {
+        "game": "pt",
+        "text": "It eats its weight in leaves every\nday. It fends off attackers with\nthe needle on its head."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "Its poison stinger is very powerful.\nIts bright-colored body is intended\nto warn off its enemies."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "It attacks using a two-inch poison\nbarb on its head. It can usually be\nfound under the leaves it eats."
+      },
+      {
+        "game": "bw-b",
+        "text": "It eats its weight in leaves every\nday. It fends off attackers with\nthe needle on its head."
+      },
+      {
+        "game": "bw-w",
+        "text": "It eats its weight in leaves every\nday. It fends off attackers with\nthe needle on its head."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "It eats its weight in leaves every\nday. It fends off attackers with\nthe needle on its head."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "It eats its weight in leaves every\nday. It fends off attackers with\nthe needle on its head."
+      },
+      {
+        "game": "xy-x",
+        "text": "Often found in forests and grasslands.\nIt has a sharp, toxic barb of around two inches\non top of its head."
+      },
+      {
+        "game": "xy-y",
+        "text": "Its poison stinger is very powerful.\nIts bright-colored body is intended to\nwarn off its enemies."
+      },
+      {
+        "game": "oras-or",
+        "text": "Weedle has an extremely acute sense of smell. It is capable of\ndistinguishing its favorite kinds of leaves from those it dislikes\njust by sniffing with its big red proboscis (nose)."
+      },
+      {
+        "game": "oras-as",
+        "text": "Weedle has an extremely acute sense of smell. It is capable\nof distinguishing its favorite kinds of leaves from those it\ndislikes just by sniffing with its big red proboscis (nose)."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Beware of the sharp stinger on its head. It hides\nin grass and bushes where it eats leaves."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Beware of the sharp stinger on its head. It hides\nin grass and bushes where it eats leaves."
+      }
+    ]
+  },
+  "chs": {
+    "name": "独角虫",
+    "genus": "毛毛虫宝可梦",
+    "flavorText": [
+      {
+        "game": "lgpe-lgp",
+        "text": "头上长有尖锐的针。\n它喜欢藏在森林或\n草丛里大量吞食树叶。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "头上长有尖锐的针。\n它喜欢藏在森林或\n草丛里大量吞食树叶。"
+      }
+    ]
+  }
+}

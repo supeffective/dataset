@@ -1,0 +1,549 @@
+{
+  "jap": {
+    "name": "タマタマ",
+    "genus": "たまごポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "テレパシーで　かいわをしているため\nタマタマを　ひきはなそうとしても\nすぐに　あつまって　６ぴきになる。"
+      },
+      {
+        "game": "xy-y",
+        "text": "なにかの　たまごの　ようだが\nじつは　しょくぶつの　タネにちかい\nいきもの　であることが　わかった。"
+      },
+      {
+        "game": "oras-or",
+        "text": "なかまおもいの　６この　たまごは　おたがいに\nひきつけあい　くるくる　かいてんしている。\nカラの　ヒビが　ふえると　しんかは　まぢかだ。"
+      },
+      {
+        "game": "oras-as",
+        "text": "なかまおもいの　６この　たまごは　おたがいに\nひきつけあい　くるくる　かいてんしている。\nカラの　ヒビが　ふえると　しんかは　まぢかだ。"
+      },
+      {
+        "game": "sm-s",
+        "text": "テレパシーで　なかまと　こうしんする。\nしょくぶつと　あるしゅの　タイプの\nいでんしを　あわせもつと　いう。"
+      },
+      {
+        "game": "sm-m",
+        "text": "６ぴきで　１にんまえの　ポケモン。\nマケンカニに　よく　ねらわれるが\nねんりきを　つかって　げきたいする。"
+      },
+      {
+        "game": "usum-us",
+        "text": "６ぴきで　１ぴき。　なにかあって\n１ぴき　へっても　よくあさに　なると\nかならず　６ぴきに　もどっている。"
+      },
+      {
+        "game": "usum-um",
+        "text": "アローラさんの　タマタマは　おんなじ\nおおきさでも　かなり　おもたい。\nしっかり　なかみが　つまっているのだ。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "タマの　ひとつひとつが　おたがいに\nひきあって　かいてんしている。\n６つでないと　あんていしないのだ。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "タマの　ひとつひとつが　おたがいに\nひきあって　かいてんしている。\n６つでないと　あんていしないのだ。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "タマゴのように　みえるが　りっぱな\nポケモン。　テレパシーで　なかまと\nこうしん　している　らしいぞ。　"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "６ぴきで　いないと　おちつかない。\n１ぴきでも　いなくなると　とたんに\nにげごしに　なるのだ。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Tamatama",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "아라리",
+    "genus": "알포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "텔레파시로 대화를 하기 때문에\n아라리를 갈라놓으려 해도\n바로 모여들어 6마리가 된다."
+      },
+      {
+        "game": "xy-y",
+        "text": "무언가의 알 같지만\n실은 식물의 씨앗에 가까운\n생물이라는 사실이 드러났다."
+      },
+      {
+        "game": "oras-or",
+        "text": "동료애가 강한 여섯 알은 서로\n끌어당기며 빙글빙글 회전하고 있다.\n껍질의 금이 늘어나면 진화가 가까워진 것."
+      },
+      {
+        "game": "oras-as",
+        "text": "동료애가 강한 여섯 알은 서로\n끌어당기며 빙글빙글 회전하고 있다.\n껍질의 금이 늘어나면 진화가 가까워진 것."
+      },
+      {
+        "game": "sm-s",
+        "text": "텔레파시로 동료와 교신한다.\n식물과 어떤 종의 타입의 유전자를\n모두 갖추고 있다고 한다."
+      },
+      {
+        "game": "sm-m",
+        "text": "여섯 마리가 하나인 포켓몬이다.\n오기지게가 자주 노리지만\n염동력을 사용해서 물리친다."
+      },
+      {
+        "game": "usum-us",
+        "text": "6마리가 1마리다. 어쩌다\n1마리가 줄어도 다음날 아침이 되면\n다시 6마리로 돌아와 있다."
+      },
+      {
+        "game": "usum-um",
+        "text": "알로라산 아라리는\n같은 크기라도 꽤 무겁다.\n내용물이 꽉 차 있다."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "알 하나하나가 서로를\n끌어당겨서 회전한다.\n6개가 아니면 불안해한다."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "알 하나하나가 서로를\n끌어당겨서 회전한다.\n6개가 아니면 불안해한다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "알처럼 보이지만 엄연한\n포켓몬이다. 텔레파시로\n동료와 교신하는 듯하다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "6마리가 아니면 진정하지 못한다.\n1마리라도 없어지면 바로\n도망태세가 된다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "蛋蛋",
+    "genus": "蛋寶可夢",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "用心靈感應與夥伴交流。\n聽說同時具備植物與\n某種屬性的基因。"
+      },
+      {
+        "game": "sm-m",
+        "text": "６隻為１個單位的寶可夢。\n經常被好勝蟹襲擊，\n但是會使用念力擊退對方。"
+      },
+      {
+        "game": "usum-us",
+        "text": "６隻合起來算是１隻。就算\n發生了什麼事導致少了１隻，\n隔天也一定會變回６隻。"
+      },
+      {
+        "game": "usum-um",
+        "text": "即使大小相同，\n阿羅拉產的蛋蛋會特別重。\n這是因為牠裡面長得非常紮實。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "每顆蛋之間會互相吸引\n並且不停旋轉，只有在\n湊齊６顆時才會安定下來。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "每顆蛋之間會互相吸引\n並且不停旋轉，只有在\n湊齊６顆時才會安定下來。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "雖然看起來很像是蛋，但卻是\n如假包換的寶可夢。似乎會用\n心靈感應來與夥伴們交流喔。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "非得湊齊６隻才會有安全感。\n那怕只是少了１隻，都會立刻\n變得很膽小，隨時想要逃跑。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Noeunoeuf",
+    "genus": "Pokémon Œuf",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Ces six œufs communiquent par\ntélépathie. Ils peuvent se réunir\nrapidement si on les sépare."
+      },
+      {
+        "game": "bw-w",
+        "text": "Ces six œufs communiquent par\ntélépathie. Ils peuvent se réunir\nrapidement si on les sépare."
+      },
+      {
+        "game": "xy-x",
+        "text": "Ces six œufs communiquent par télépathie.\nIls peuvent se réunir rapidement si on les sépare."
+      },
+      {
+        "game": "xy-y",
+        "text": "Même s’il ressemble à des œufs, ce Pokémon\nappartient à la famille des végétaux."
+      },
+      {
+        "game": "oras-or",
+        "text": "Ce Pokémon est constitué de six œufs formant une grappe\nserrée. Ces six œufs s’attirent mutuellement et pivotent.\nQuand des fissures apparaissent sur les coquilles, ça signifie\nque Noeunoeuf est sur le point d’évoluer."
+      },
+      {
+        "game": "oras-as",
+        "text": "Ce Pokémon est constitué de six œufs formant une grappe\nserrée. Ces six œufs s’attirent mutuellement et pivotent.\nQuand des fissures apparaissent sur les coquilles, ça signifie\nque Noeunoeuf est sur le point d’évoluer."
+      },
+      {
+        "game": "sm-s",
+        "text": "Il communique avec ses amis par télépathie.\nSon ADN est un mélange de celui d’une plante\net d’un autre type non identifié."
+      },
+      {
+        "game": "sm-m",
+        "text": "Ce Pokémon est composé de six œufs.\nIls sont souvent attaqués par des Crabagarre,\nmais ils se défendent avec leurs pouvoirs psy."
+      },
+      {
+        "game": "usum-us",
+        "text": "Six pour le prix d’un ! Si par malheur l’un d’entre\neux disparaît, il est remplacé dès le lendemain\nmatin par une nouvelle recrue."
+      },
+      {
+        "game": "usum-um",
+        "text": "Bien qu’ils fassent la même taille, les Noeunoeuf\nd’Alola sont plus lourds que ceux des autres\nrégions, car leur intérieur est bien plus dense."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Ses têtes sont attirées les unes vers les autres\net pivotent. Il en faut six pour qu’il maintienne\nson équilibre."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Ses têtes sont attirées les unes vers les autres\net pivotent. Il en faut six pour qu’il maintienne\nson équilibre."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Même s’il ressemble à un tas d’œufs, il s’agit bien\nd’un Pokémon. Il paraît qu’ils communiquent\nentre eux par télépathie."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Il a besoin d’être constitué de ses six membres\npour rester calme. Sitôt qu’il en manque un,\nil lui prend soudainement l’envie de fuir."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Owei",
+    "genus": "Ei-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Die sechs Eier kommunizieren telepathisch.\nWerden sie getrennt, finden sie sich schnell wieder."
+      },
+      {
+        "game": "xy-y",
+        "text": "Auch wenn sein Erscheinungsbild eher Eiern ähnelt,\nwurde entdeckt, dass es mehr mit pflanzenähnlichen\nWurzeln in Zusammenhang steht."
+      },
+      {
+        "game": "oras-or",
+        "text": "Dieses Pokémon besteht aus sechs Eiern, die ein\nengmaschiges Netz bilden. Die sechs Eier ziehen sich\ngegenseitig an und drehen sich. Wenn die Eier Risse\nbekommen, steht Owei kurz vor seiner Entwicklung."
+      },
+      {
+        "game": "oras-as",
+        "text": "Dieses Pokémon besteht aus sechs Eiern, die ein\nengmaschiges Netz bilden. Die sechs Eier ziehen sich\ngegenseitig an und drehen sich. Wenn die Eier Risse\nbekommen, steht Owei kurz vor seiner Entwicklung."
+      },
+      {
+        "game": "sm-s",
+        "text": "Die sechs Eier kommunizieren telepathisch\nmiteinander. Sie tragen das Erbgut von Pflanzen\nsowie Pokémon eines bestimmten Typs in sich."
+      },
+      {
+        "game": "sm-m",
+        "text": "Es besteht aus sechs Eiern. Krabbox versucht\noft, es sich einzuverleiben, doch wehrt es sich\ntapfer mit seinen Psycho-Kräften."
+      },
+      {
+        "game": "usum-us",
+        "text": "Dieses Pokémon besteht aus sechs Individuen.\nGeht eines verloren, sind es am nächsten\nMorgen trotzdem auf jeden Fall wieder sechs."
+      },
+      {
+        "game": "usum-um",
+        "text": "Owei in Alola sind trotz gleicher Größe schwerer\nals ihre Artgenossen in anderen Regionen, da ihr\nInneres eine besonders hohe Dichte hat."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Oweis kleine Köpfe ziehen sich gegenseitig an\nund drehen sich. Es braucht sechs von ihnen,\num die Balance zu halten."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Oweis kleine Köpfe ziehen sich gegenseitig an\nund drehen sich. Es braucht sechs von ihnen,\num die Balance zu halten."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Owei mag zwar Eiern ähneln, ist aber ein echtes\nPokémon, das aus sechs Individuen besteht, die\nwohl telepathisch miteinander kommunizieren."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Es muss immer aus sechs Mitgliedern bestehen,\nsonst herrscht Unruhe. Fehlt auch nur eines, steigt\nbei den anderen die Bereitschaft zur Flucht."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Exeggcute",
+    "genus": "Pokémon Huevo",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Estos seis huevos se comunican por telepatía. Si se\nseparan, se pueden reunir rápidamente."
+      },
+      {
+        "game": "xy-y",
+        "text": "Aunque los huevos que lo constituyen parecen de\nverdad, se ha visto que son como semillas."
+      },
+      {
+        "game": "oras-or",
+        "text": "Este Pokémon está compuesto de seis huevos que forman\nuna tupida piña que va girando. Cuando se empiezan a\nresquebrajar las cáscaras, no hay duda de que Exeggcute\nestá a punto de evolucionar."
+      },
+      {
+        "game": "oras-as",
+        "text": "Este Pokémon está compuesto de seis huevos que forman\nuna tupida piña que va girando. Cuando se empiezan a\nresquebrajar las cáscaras, no hay duda de que Exeggcute\nestá a punto de evolucionar."
+      },
+      {
+        "game": "sm-s",
+        "text": "Los seis huevos que componen a Exeggcute se\ncomunican por medio de la telepatía. Se dice que\ncontiene genes de plantas y de otras especies."
+      },
+      {
+        "game": "sm-m",
+        "text": "Este Pokémon está formado por seis huevos.\nSe defiende con sus poderes psíquicos de los\nfrecuentes ataques de Crabrawler."
+      },
+      {
+        "game": "usum-us",
+        "text": "Seis criaturas en una. Si Exeggcute pierde alguno\nde los huevos que lo componen, este volverá a\ncrecer a la mañana siguiente."
+      },
+      {
+        "game": "usum-um",
+        "text": "Pese a tener el mismo tamaño, los Exeggcute de\nAlola son más pesados que los de otras\nregiones, ya que su interior es más denso."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Las cabezas se atraen unas a otras y giran entre\nsí. Debe tener seis para equilibrarse."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Las cabezas se atraen unas a otras y giran entre\nsí. Debe tener seis para equilibrarse."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Pese a su aspecto de mera piña de huevos, se\ntrata de un Pokémon. Al parecer, sus cabezas\nse comunican entre sí por telepatía."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Necesita contar con la totalidad de sus seis\nmiembros para mantener la calma. Si desaparece\nuno siquiera, le entran ganas de salir huyendo."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Exeggcute",
+    "genus": "Pokémon Uovo",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Queste sei uova comunicano per telepatia.\nSi riuniscono subito anche se vengono divise."
+      },
+      {
+        "game": "xy-y",
+        "text": "Nonostante sia formato da uova, si è scoperto che\nla sua struttura è più simile a quella dei semi."
+      },
+      {
+        "game": "oras-or",
+        "text": "Questo Pokémon è costituito da un nucleo compatto\nformato da sei uova, che girano vorticosamente attraendosi\na vicenda. Quando i gusci iniziano a rompersi, Exeggcute\nè prossimo all’evoluzione."
+      },
+      {
+        "game": "oras-as",
+        "text": "Questo Pokémon è costituito da un nucleo compatto\nformato da sei uova, che girano vorticosamente attraendosi\na vicenda. Quando i gusci iniziano a rompersi, Exeggcute\nè prossimo all’evoluzione."
+      },
+      {
+        "game": "sm-s",
+        "text": "Le sei uova comunicano telepaticamente. Il loro\npatrimonio genetico sembra avere elementi in\ncomune con quello dei vegetali e di altre specie."
+      },
+      {
+        "game": "sm-m",
+        "text": "È costituito da sei individui. Viene spesso preso\ndi mira dai Crabrawler, ma riesce a metterli\nin fuga con i suoi poteri psichici."
+      },
+      {
+        "game": "usum-us",
+        "text": "Ciascun Pokémon è formato da sei individui.\nAnche se dovesse sparirne uno per qualche\nmotivo, la mattina dopo sarebbero di nuovo sei."
+      },
+      {
+        "game": "usum-um",
+        "text": "Gli Exeggcute che vivono ad Alola, pur essendo\ngrandi come quelli di altre regioni, sono più\npesanti per via dell’interno più denso."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Le teste si attraggono a vicenda, creando un\nmovimento circolare. Riescono a stabilizzarsi\nsolo se sono in sei."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Le teste si attraggono a vicenda, creando un\nmovimento circolare. Riescono a stabilizzarsi\nsolo se sono in sei."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Somiglia a un mucchio di uova, ma è un Pokémon\na tutti gli effetti. Pare che comunichi con i suoi\nsimili telepaticamente."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Se non sono presenti tutti e sei gli individui\nche lo compongono, non è tranquillo.\nAppena ne sparisce uno si prepara alla fuga."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Exeggcute",
+    "genus": "Egg Pokémon",
+    "flavorText": [
+      {
+        "game": "rb-r",
+        "text": "Often mistaken\nfor eggs.\nWhen disturbed,\fthey quickly\ngather and attack\nin swarms."
+      },
+      {
+        "game": "rb-b",
+        "text": "Often mistaken\nfor eggs.\nWhen disturbed,\fthey quickly\ngather and attack\nin swarms."
+      },
+      {
+        "game": "y",
+        "text": "The heads attract\neach other and\nspin around.\fThere must be 6\nheads for it to\nmaintain balance."
+      },
+      {
+        "game": "gs-g",
+        "text": "The shell is very\ndurable. Even if\nit cracks, it can\fsurvive without\nspilling the\ncontents."
+      },
+      {
+        "game": "gs-s",
+        "text": "Using telepathy\nonly they can\nreceive, they\falways form a\ncluster of six\nEXEGGCUTE."
+      },
+      {
+        "game": "c",
+        "text": "If even one is\nseparated from the\ngroup, the energy\fbond between the\nsix will make them\nrejoin instantly."
+      },
+      {
+        "game": "rs-r",
+        "text": "This POKéMON consists of six eggs that\nform a closely knit cluster. The six eggs\nattract each other and spin around.\fWhen cracks increasingly appear on the\neggs, EXEGGCUTE is close to evolution."
+      },
+      {
+        "game": "rs-s",
+        "text": "This POKéMON consists of six eggs that\nform a closely knit cluster. The six eggs\nattract each other and spin around.\fWhen cracks increasingly appear on the\neggs, EXEGGCUTE is close to evolution."
+      },
+      {
+        "game": "e",
+        "text": "It consists of six eggs that care for each\nother. The eggs attract each other and\nspin around. When cracks increasingly\nappear, it is close to evolution."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "Even though it appears to be eggs of\nsome sort, it was discovered to be a life-\nform more like plant seeds."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "It is often mistaken for eggs. When\ndisturbed, they quickly gather and attack\nin swarms."
+      },
+      {
+        "game": "dp-d",
+        "text": "Its six eggs converse using\ntelepathy. They can quickly gather\nif they become separated."
+      },
+      {
+        "game": "dp-p",
+        "text": "Its six eggs converse using\ntelepathy. They can quickly gather\nif they become separated."
+      },
+      {
+        "game": "pt",
+        "text": "Its six eggs converse using\ntelepathy. They can quickly gather\nif they become separated."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "Their shells are very durable. Even if\nthey crack, they can survive without\nspilling their contents."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "Using telepathy only they can\nemploy, they always form a\ncluster of six EXEGGCUTE."
+      },
+      {
+        "game": "bw-b",
+        "text": "Its six eggs converse using\ntelepathy. They can quickly gather\nif they become separated."
+      },
+      {
+        "game": "bw-w",
+        "text": "Its six eggs converse using\ntelepathy. They can quickly gather\nif they become separated."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "Its six eggs converse using\ntelepathy. They can quickly gather\nif they become separated."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "Its six eggs converse using\ntelepathy. They can quickly gather\nif they become separated."
+      },
+      {
+        "game": "xy-x",
+        "text": "Its six eggs converse using telepathy. They can\nquickly gather if they become separated."
+      },
+      {
+        "game": "xy-y",
+        "text": "Even though it appears to be eggs of some sort,\nit was discovered to be a life-form more like\nplant seeds."
+      },
+      {
+        "game": "oras-or",
+        "text": "This Pokémon consists of six eggs that form a closely knit\ncluster. The six eggs attract each other and spin around.\nWhen cracks increasingly appear on the eggs, Exeggcute is\nclose to evolution."
+      },
+      {
+        "game": "oras-as",
+        "text": "This Pokémon consists of six eggs that form a closely knit\ncluster. The six eggs attract each other and spin around.\nWhen cracks increasingly appear on the eggs, Exeggcute is\nclose to evolution."
+      },
+      {
+        "game": "sm-s",
+        "text": "Its six eggs use telepathy to communicate\namong themselves. It is believed to carry\nplant genes and the genes of other species."
+      },
+      {
+        "game": "sm-m",
+        "text": "Six of them together form a full-fledged\nPokémon. It’s often hunted by Crabrawler,\nbut uses psychokinesis to drive it off."
+      },
+      {
+        "game": "usum-us",
+        "text": "Six of them form a single Pokémon. Should one\nof the six be lost, the next morning there will\nonce more be six."
+      },
+      {
+        "game": "usum-um",
+        "text": "Although they are the same size as other\nExeggcute, the ones produced in Alola are quite\nheavy. Their shells are packed full."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "The heads attract each other and spin\naround. There must be six heads for it to\nmaintain balance."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "The heads attract each other and spin\naround. There must be six heads for it to\nmaintain balance."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Though it may look like it’s just a bunch of eggs,\nit’s a proper Pokémon. Exeggcute communicates\nwith others of its kind via telepathy, apparently."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "These Pokémon get nervous when they’re not in a\ngroup of six. The minute even one member of the\ngroup goes missing, Exeggcute become cowardly."
+      }
+    ]
+  },
+  "chs": {
+    "name": "蛋蛋",
+    "genus": "蛋宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "用心灵感应与伙伴交流。\n据说兼有植物与某种别的遗传基因。"
+      },
+      {
+        "game": "sm-m",
+        "text": "６只成为１只完整的宝可梦。\n经常被好胜蟹袭击，\n但是会使用念力击退对方。"
+      },
+      {
+        "game": "usum-us",
+        "text": "６只加在一起算１只。\n即便出于某些原因少了１只，\n到了次日清晨也一定会变回６只。"
+      },
+      {
+        "game": "usum-um",
+        "text": "即便大小相同，\n阿罗拉产的蛋蛋却很沉重。\n这是因为里面长得十分密实。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "每一个蛋都相互吸引着\n旋转。６个蛋凑不齐时\n它就无法保持平衡。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "每一个蛋都相互吸引着\n旋转。６个蛋凑不齐时\n它就无法保持平衡。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "别看它看上去像蛋，其实是\n如假包换的宝可梦。据说它会\n用心灵感应来和伙伴通讯。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "６只不在一起就不安心。\n哪怕只是少了１只，\n都会马上想要逃跑。"
+      }
+    ]
+  }
+}

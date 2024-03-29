@@ -1,0 +1,61 @@
+{
+  "jap": {
+    "name": "シガロコ",
+    "genus": "ころがしポケモン",
+    "flavorText": []
+  },
+  "jap_ro": {
+    "name": "Shigaroko",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "구르데",
+    "genus": "",
+    "flavorText": []
+  },
+  "cht": {
+    "name": "蟲滾泥",
+    "genus": "滾動寶可夢",
+    "flavorText": []
+  },
+  "fra": {
+    "name": "Léboulérou",
+    "genus": "",
+    "flavorText": []
+  },
+  "deu": {
+    "name": "Relluk",
+    "genus": "Wälz",
+    "flavorText": []
+  },
+  "esp": {
+    "name": "Rellor",
+    "genus": "",
+    "flavorText": []
+  },
+  "ita": {
+    "name": "Rellor",
+    "genus": "",
+    "flavorText": []
+  },
+  "eng": {
+    "name": "Rellor",
+    "genus": "Rolling Pokémon",
+    "flavorText": [
+      {
+        "game": "sv-s",
+        "text": "This Pokémon creates a mud ball by mixing sand and dirt with psychic energy. It treasures its mud ball more than its own life."
+      },
+      {
+        "game": "sv-v",
+        "text": "It rolls its mud ball around while the energy it needs for evolution matures. Eventually the time comes for it to evolve."
+      }
+    ]
+  },
+  "chs": {
+    "name": "虫滚泥",
+    "genus": "滚动宝可梦",
+    "flavorText": []
+  }
+}

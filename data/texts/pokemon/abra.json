@@ -1,0 +1,553 @@
+{
+  "jap": {
+    "name": "ケーシィ",
+    "genus": "ねんりきポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "１にち　１８じかんは　ねている。\nねむってる　あいだでも　さまざまな\nちょうのうりょくを　つかう。"
+      },
+      {
+        "game": "xy-y",
+        "text": "こうげきの　けはいを　よみとって\nおそわれるまえに　さっさと\nテレポートで　そのばを　さっていく。"
+      },
+      {
+        "game": "oras-or",
+        "text": "１にち　１８じかん　ねむっている　ポケモン。\nねむったままでも　てきの　けはいを　さっちすると\nテレポートして　にげる　ことが　できるぞ。"
+      },
+      {
+        "game": "oras-as",
+        "text": "まいにち　１８じかん　ねむらないと　ねぶそくで\nちょうのうりょくが　つかえなくなってしまう。\nおそわれると　ねたまま　テレポートで　にげる。"
+      },
+      {
+        "game": "sm-s",
+        "text": "１にち　１８じかんは　ねむる。\nねたまま　テレポートで　きのうえに\nいどうし　きのみを　とって　くう。"
+      },
+      {
+        "game": "sm-m",
+        "text": "ねむっているときも　テレポートして\nみを　まもっているが　めざめたときに\nどこに　いるか　わからず　あわてる。"
+      },
+      {
+        "game": "usum-us",
+        "text": "ねむっている　あいだも　さまざまな\nちょうのうりょくを　つかってくるので\nおきているのか　みわけが　つかない。"
+      },
+      {
+        "game": "usum-um",
+        "text": "あいての　こころを　よみとって\nキケンが　せまるまえに　テレポート。\nつかまえるには　むしんに　なれ。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "１にちに　１８じかん　ねむる。\nきけんが　せまると　ねたままでも\nテレポートして　にげる。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "１にちに　１８じかん　ねむる。\nきけんが　せまると　ねたままでも\nテレポートして　にげる。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "ねながら　ちょうのうりょくを\nあやつる。　ゆめの　ないようが\nつかう　ちからに　えいきょうする。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "ねむったまま　テレポート　できる。\nねむりが　ふかいほど　はなれた\nばしょに　いどうする　という。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Casey",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "캐이시",
+    "genus": "초능력포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "하루에 18시간은 자고 있다.\n자는 동안에도 다양한\n초능력을 사용한다."
+      },
+      {
+        "game": "xy-y",
+        "text": "공격의 낌새를 읽고\n공격당하기 전에 얼른\n순간이동으로 그 장소를 떠난다."
+      },
+      {
+        "game": "oras-or",
+        "text": "하루에 18시간 잠들어 있는 포켓몬이다.\n잠든 상태에서도 적의 기척을 감지하면\n순간이동하여 도망갈 수 있다."
+      },
+      {
+        "game": "oras-as",
+        "text": "매일 18시간을 자지 않으면 수면 부족으로\n초능력을 사용할 수 없게 된다.\n습격당하면 잠든 채로 순간이동하여 도망간다."
+      },
+      {
+        "game": "sm-s",
+        "text": "1일 18시간을 잔다.\n잠든 채 순간이동으로 나무 위에\n이동하여 나무열매를 따서 먹는다."
+      },
+      {
+        "game": "sm-m",
+        "text": "잠든 사이에도 순간이동 해서\n몸을 지키지만 깨어났을 때\n어디에 있는지 몰라서 당황한다."
+      },
+      {
+        "game": "usum-us",
+        "text": "자는 동안에도 다양한\n초능력을 사용하기 때문에\n깨어 있는 것이 아닌지 헷갈린다."
+      },
+      {
+        "game": "usum-um",
+        "text": "상대의 마음을 읽어서\n위험이 닥치기 전에 순간이동한다.\n잡으려면 마음을 비워야 한다."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "하루에 18시간을 잔다.\n위험이 닥치면 잠든 상태에서도\n순간이동해서 도망친다."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "하루에 18시간을 잔다.\n위험이 닥치면 잠든 상태에서도\n순간이동해서 도망친다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "자면서 초능력을 구사한다.\n꿈의 내용이\n사용하는 힘에 영향을 준다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "잠이 든 상태에서 순간이동이\n가능하다. 깊이 잠들수록\n먼 곳으로 이동한다고 한다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "凱西",
+    "genus": "念力寶可夢",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "１天中有１８個小時都在睡覺。\n即使在睡夢中也能用瞬間移動\n跑到樹上去採樹果吃。"
+      },
+      {
+        "game": "sm-m",
+        "text": "即使在睡著的時候也會用\n瞬間移動保護自己的安全，\n但醒來時會因不知自己在何處而慌張。"
+      },
+      {
+        "game": "usum-us",
+        "text": "即使在睡夢中也會\n使出各式各樣的超能力，\n所以很難分辨牠是不是醒著。"
+      },
+      {
+        "game": "usum-um",
+        "text": "會讀對方的心，在危險來臨前\n使出瞬間移動逃走。要捕捉牠\n就必須讓自己的心完全放空。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "每天要睡18個小時。\n有危險逼近時，就算在睡夢中\n也能用瞬間移動來逃走。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "每天要睡18個小時。\n有危險逼近時，就算在睡夢中\n也能用瞬間移動來逃走。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "會一邊睡覺一邊操控超能力。\n夢的內容會影響牠使用的能力。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "就算在睡夢中也能使用瞬間移動。\n據說當牠睡得越熟，\n瞬間移動的距離就會越遠。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Abra",
+    "genus": "Pokémon Psy",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "L’utilisation de ses pouvoirs\nmentaux le fatigue tellement\nqu’il dort 18 heures par jour."
+      },
+      {
+        "game": "bw-w",
+        "text": "L’utilisation de ses pouvoirs\nmentaux le fatigue tellement\nqu’il dort 18 heures par jour."
+      },
+      {
+        "game": "xy-x",
+        "text": "Il dort 18 h par jour. Il peut utiliser de nombreux\npouvoirs psy, même pendant son sommeil."
+      },
+      {
+        "game": "xy-y",
+        "text": "Il prévoit les attaques futures et se téléporte pour\nse mettre à l’abri et éviter le combat."
+      },
+      {
+        "game": "oras-or",
+        "text": "Abra dort dix-huit heures par jour. Pourtant, il peut sentir\nla présence de ses ennemis, même endormi. Dans ce genre\nde situation, ce Pokémon se téléporte en lieu sûr."
+      },
+      {
+        "game": "oras-as",
+        "text": "Abra doit dormir dix-huit heures par jour. S’il dort moins,\nce Pokémon ne peut plus utiliser ses pouvoirs télékinétiques.\nLorsqu’il est attaqué, Abra s’enfuit en utilisant Téléport,\nsans même se réveiller."
+      },
+      {
+        "game": "sm-s",
+        "text": "Il dort 18 heures par jour. Il lui arrive de se\ntéléporter dans les arbres et d’en manger\nles Baies sans même se réveiller."
+      },
+      {
+        "game": "sm-m",
+        "text": "Il lui arrive de se téléporter pendant son sommeil\npour se protéger, mais lorsqu’il se réveille, il se\nretrouve dans un endroit inconnu et panique."
+      },
+      {
+        "game": "usum-us",
+        "text": "Il utilise certains de ses pouvoirs psychiques\nmême quand il dort, aussi est-ce impossible\nde savoir s’il est éveillé ou non."
+      },
+      {
+        "game": "usum-um",
+        "text": "Il lit les pensées de ses adversaires et se\ntéléporte au loin avant d’être en danger. Pour\nl’attraper, il faut faire le vide dans son esprit."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Il dort 18 heures par jour. En cas de danger, il se\ntéléporte vers un lieu sûr, même s’il est assoupi."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Il dort 18 heures par jour. En cas de danger, il se\ntéléporte vers un lieu sûr, même s’il est assoupi."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Le contenu de ses rêves influe sur les pouvoirs\npsychiques qu’il utilise dans son sommeil."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Il peut se téléporter en dormant. On dit que plus\nson sommeil est profond, plus il se téléporte loin."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Abra",
+    "genus": "Psi-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Es schläft 18 Stunden am Tag.\nWährenddessen setzt es eine Vielzahl\nzusätzlicher sensorischer Kräfte ein."
+      },
+      {
+        "game": "xy-y",
+        "text": "Es sieht die Attacken der Gegner voraus und setzt\nTeleport ein, um sich in Sicherheit zu bringen."
+      },
+      {
+        "game": "oras-or",
+        "text": "Abra schläft 18 Stunden am Tag. Es nimmt die Gegenwart\nvon Feinden aber auch im Schlaf wahr. In einer solchen\nSituation bringt es sich umgehend mit Teleport in Sicherheit."
+      },
+      {
+        "game": "oras-as",
+        "text": "Abra braucht 18 Stunden Schlaf pro Tag, sonst verliert\nes die Fähigkeit, seine telekinetischen Kräfte zu nutzen.\nAbra flüchtet mithilfe von Teleport, schläft dabei aber weiter."
+      },
+      {
+        "game": "sm-s",
+        "text": "Abra schläft 18 Stunden am Tag. Es kann sich\nim Schlaf auf Bäume teleportieren, um dort\nBeeren zu pflücken und zu essen."
+      },
+      {
+        "game": "sm-m",
+        "text": "Es bringt sich selbst im Schlaf mit Teleport vor\nAngreifern in Sicherheit. Wacht es danach auf,\ngerät es in Panik, weil es nicht weiß, wo es ist."
+      },
+      {
+        "game": "usum-us",
+        "text": "Da es seine Psycho-Kräfte selbst im Schlaf\neinsetzt, weiß man meistens nicht, ob es gerade\nwach ist oder schläft."
+      },
+      {
+        "game": "usum-um",
+        "text": "Es liest die Gedanken seines Gegners und setzt\nbei Gefahr Teleport ein. Wer es fangen möchte,\nübe seinen Geist in absoluter Gelassenheit."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Dieses Pokémon schläft 18 Stunden am Tag.\nBei Gefahr teleportiert es sich in Sicherheit,\nohne dabei aufzuwachen."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Dieses Pokémon schläft 18 Stunden am Tag.\nBei Gefahr teleportiert es sich in Sicherheit,\nohne dabei aufzuwachen."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Es setzt seine Psycho-Kräfte selbst im Schlaf ein.\nDer Inhalt seiner Träume hat Einfluss auf die\nKräfte, die es verwendet."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Es kann sich im Schlaf teleportieren. Je tiefer\nAbra schläft, desto weiter entfernt soll der Ort\nsein, an den es sich teleportiert."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Abra",
+    "genus": "Pokémon Psi",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Duerme 18 horas al día y mientras lo hace es capaz de\nusar una serie de poderes extrasensoriales."
+      },
+      {
+        "game": "xy-y",
+        "text": "Siente los ataques inminentes y se teletransporta a un\nlugar seguro, antes de que estos puedan darle."
+      },
+      {
+        "game": "oras-or",
+        "text": "Abra duerme 18 horas al día, pero puede detectar a cualquier\nenemigo que se le acerque mientras duerme. En una situación\nasí, usa Teletransporte para protegerse."
+      },
+      {
+        "game": "oras-as",
+        "text": "Abra necesita dormir 18 horas al día. Si no, pierde la habilidad\nque tiene de usar poderes de telequinesia. Si le atacan, Abra\npuede escapar usando Teletransporte mientras duerme."
+      },
+      {
+        "game": "sm-s",
+        "text": "Abra duerme 18 horas al día. Se teletransporta\na las copas de los árboles y, aún dormido,\nse alimenta de bayas."
+      },
+      {
+        "game": "sm-m",
+        "text": "Puede teletransportarse mientras duerme para\nevitar todo tipo de peligros, pero luego se\ndespierta desconcertado en un lugar extraño."
+      },
+      {
+        "game": "usum-us",
+        "text": "Es capaz de usar sus poderes psíquicos aun\nestando dormido, por lo que es difícil distinguir\nentre sus estados de sueño y vigilia."
+      },
+      {
+        "game": "usum-um",
+        "text": "Lee el pensamiento del rival y se teletransporta\nantes de verse en peligro. Para atraparlo es\nnecesario mantener la mente en blanco."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Duerme 18 horas al día. Si siente peligro, se\nteletransporta a un lugar seguro, aun estando\ndormido."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Duerme 18 horas al día. Si siente peligro, se\nteletransporta a un lugar seguro, aun estando\ndormido."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Es capaz de usar sus poderes psíquicos aun\nestando dormido. Al parecer, el contenido del\nsueño influye en sus facultades."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Puede teletransportarse mientras duerme. Se\ndice que, cuanto más profundo sea su sueño,\nmayor será la distancia a la que se desplace."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Abra",
+    "genus": "Pokémon Psico",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Dorme 18 ore al giorno. Anche da addormentato\nutilizza una serie di poteri extrasensoriali."
+      },
+      {
+        "game": "xy-y",
+        "text": "Avverte gli attacchi imminenti e si teletrasporta in\nsalvo prima che l’attacco lo possa colpire."
+      },
+      {
+        "game": "oras-or",
+        "text": "Abra dorme per 18 ore al giorno, ma riesce a captare\nla presenza dei nemici anche durante il sonno. In questo\ncaso il Pokémon si teletrasporta immediatamente al sicuro."
+      },
+      {
+        "game": "oras-as",
+        "text": "Abra ha bisogno di 18 ore di sonno al giorno. In caso\ncontrario perde le sue abilità telecinetiche. Se attaccato,\nAbra fugge usando Teletrasporto mentre dorme."
+      },
+      {
+        "game": "sm-s",
+        "text": "Dorme 18 ore al giorno. Anche nel sonno,\nsi teletrasporta sugli alberi, coglie le bacche\ne le mangia."
+      },
+      {
+        "game": "sm-m",
+        "text": "Può teletrasportarsi al sicuro anche mentre\ndorme, ma quando si sveglia non capisce dove\nsi trova e viene preso dall’agitazione."
+      },
+      {
+        "game": "usum-us",
+        "text": "Può usare i suoi poteri psichici anche mentre\ndorme. Per questo è difficile capire se è sveglio\noppure no."
+      },
+      {
+        "game": "usum-um",
+        "text": "Grazie alla sua capacità di leggere nel pensiero,\nprevede il pericolo e si teletrasporta lontano.\nPer catturarlo bisogna svuotare la mente."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Dorme 18 ore al giorno. Se percepisce\nun pericolo, riesce a teletrasportarsi anche\nsenza svegliarsi."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Dorme 18 ore al giorno. Se percepisce\nun pericolo, riesce a teletrasportarsi anche\nsenza svegliarsi."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Il contenuto dei suoi sogni influisce sui suoi\npoteri psichici, che può utilizzare anche\nmentre dorme."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "È in grado di teletrasportarsi mentre dorme.\nSi dice che più profondo sia il suo sonno, più\npossa spostarsi lontano."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Abra",
+    "genus": "Psi Pokémon",
+    "flavorText": [
+      {
+        "game": "rb-r",
+        "text": "Using its ability\nto read minds, it\nwill identify\fimpending danger\nand TELEPORT to\nsafety."
+      },
+      {
+        "game": "rb-b",
+        "text": "Using its ability\nto read minds, it\nwill identify\fimpending danger\nand TELEPORT to\nsafety."
+      },
+      {
+        "game": "y",
+        "text": "Sleeps 18 hours a\nday. If it senses\ndanger, it will\fteleport itself to\nsafety even as it\nsleeps."
+      },
+      {
+        "game": "gs-g",
+        "text": "It senses impend­\ning attacks and\nTELEPORTS away to\fsafety before the\nactual attacks can\nstrike."
+      },
+      {
+        "game": "gs-s",
+        "text": "If it decides to\nTELEPORT randomly,\nit creates the\fillusion that it\nhas created copies\nof itself."
+      },
+      {
+        "game": "c",
+        "text": "It hypnotizes\nitself so that it\ncan teleport away\fwhen it senses\ndanger, even\nif it is asleep."
+      },
+      {
+        "game": "rs-r",
+        "text": "ABRA sleeps for eighteen hours a day.\nHowever, it can sense the presence of\nfoes even while it is sleeping.\fIn such a situation, this POKéMON\nimmediately teleports to safety."
+      },
+      {
+        "game": "rs-s",
+        "text": "ABRA needs to sleep for eighteen hours\na day. If it doesn’t, this POKéMON loses\nits ability to use telekinetic powers.\fIf it is attacked, ABRA escapes using\nTELEPORT while it is still sleeping."
+      },
+      {
+        "game": "e",
+        "text": "A POKéMON that sleeps 18 hours a day.\nObservation revealed that it uses\nTELEPORT to change its location once\nevery hour."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "It sleeps for 18 hours a day. It uses a\nvariety of extrasensory powers even\nwhile asleep."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "Using its ability to read minds, it will\nsense impending danger and TELEPORT to\nsafety."
+      },
+      {
+        "game": "dp-d",
+        "text": "It sleeps for 18 hours a day.\nEven when awake, it teleports\nitself while remaining seated."
+      },
+      {
+        "game": "dp-p",
+        "text": "Even while asleep, it maintains a\ntelepathic radar. It teleports\nwhen it is threatened."
+      },
+      {
+        "game": "pt",
+        "text": "Using its psychic power is such a\nstrain on its brain that it needs\nto sleep for 18 hours a day."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "It senses impending attacks and\nteleports away to safety before the\nactual attacks can strike."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "If it decides to teleport randomly,\nit evokes the illusion that it\nhas created copies of itself."
+      },
+      {
+        "game": "bw-b",
+        "text": "Using its psychic power is such a\nstrain on its brain that it needs\nto sleep for 18 hours a day."
+      },
+      {
+        "game": "bw-w",
+        "text": "Using its psychic power is such a\nstrain on its brain that it needs\nto sleep for 18 hours a day."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "Using its psychic power is such a\nstrain on its brain that it needs\nto sleep for 18 hours a day."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "Using its psychic power is such a\nstrain on its brain that it needs\nto sleep for 18 hours a day."
+      },
+      {
+        "game": "xy-x",
+        "text": "It sleeps for 18 hours a day. It uses a variety of\nextrasensory powers even while asleep."
+      },
+      {
+        "game": "xy-y",
+        "text": "It senses impending attacks and teleports away to\nsafety before the actual attacks can strike."
+      },
+      {
+        "game": "oras-or",
+        "text": "Abra sleeps for eighteen hours a day. However, it can sense\nthe presence of foes even while it is sleeping. In such a\nsituation, this Pokémon immediately teleports to safety."
+      },
+      {
+        "game": "oras-as",
+        "text": "Abra needs to sleep for eighteen hours a day. If it doesn’t,\nthis Pokémon loses its ability to use telekinetic powers. If it is\nattacked, Abra escapes using Teleport while it is still sleeping."
+      },
+      {
+        "game": "sm-s",
+        "text": "It sleeps 18 hours a day. Even while sleeping,\nit will teleport itself to treetops and pick and\neat berries there."
+      },
+      {
+        "game": "sm-m",
+        "text": "It can teleport itself to safety while it’s asleep,\nbut when it wakes, it doesn’t know where it is,\nso it panics."
+      },
+      {
+        "game": "usum-us",
+        "text": "It uses various psychic powers even while it’s\nsleeping, so you can’t tell whether or not\nit’s awake."
+      },
+      {
+        "game": "usum-um",
+        "text": "It can read others’ minds and will teleport away\nwhen danger approaches. You must clear your\nmind if you want to catch it."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Sleeps 18 hours a day. If it senses danger,\nit will teleport itself to safety even as it sleeps."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Sleeps 18 hours a day. If it senses danger,\nit will teleport itself to safety even as it sleeps."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "This Pokémon uses its psychic powers while it\nsleeps. The contents of Abra’s dreams affect the\npowers that the Pokémon wields."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Abra can teleport in its sleep. Apparently\nthe more deeply Abra sleeps, the farther its\nteleportations go."
+      },
+      {
+        "game": "la",
+        "text": "Spends 18 hours of the day sleeping. Even while asleep, Abra\ncan control its psychic powers—should danger approach, the\nPokémon will simply teleport away."
+      }
+    ]
+  },
+  "chs": {
+    "name": "凯西",
+    "genus": "念力宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "１天中有１８个小时在睡觉。\n即使睡着，也能用瞬间移动\n在树上移动，采树果吃。"
+      },
+      {
+        "game": "sm-m",
+        "text": "即使是睡着的时候也会用\n瞬间移动保护身体，\n但醒来时会因不知自己在何处而慌张。"
+      },
+      {
+        "game": "usum-us",
+        "text": "即使是在睡梦中\n也会使用各种超能力，\n所以分辨不出它是不是醒着。"
+      },
+      {
+        "game": "usum-um",
+        "text": "能读取对方的心声，在危险临近前\n会通过瞬间移动逃走。\n要捕捉它的话，你得放空心灵。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "它每天要睡18个小时。\n遇到危险时，即使在睡梦中\n也可以用瞬间移动来逃脱。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "它每天要睡18个小时。\n遇到危险时，即使在睡梦中\n也可以用瞬间移动来逃脱。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "会一边睡觉一边操纵\n超能力。梦的内容会\n影响它使用的能力。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "能够在睡梦中使出瞬间移动。\n据说它睡得越熟，就能\n移动到越遥远的地方。"
+      }
+    ]
+  }
+}

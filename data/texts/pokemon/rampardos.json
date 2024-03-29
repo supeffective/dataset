@@ -1,0 +1,365 @@
+{
+  "jap": {
+    "name": "ラムパルド",
+    "genus": "ずつきポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "どんな　しょうげきにも　たえられる\nぶあつい　ずがいこつに　おさえられて\nのうみそは　おおきく　ならなかった。"
+      },
+      {
+        "game": "xy-y",
+        "text": "てつのように　かたい　ずがいこつ。\nジャングルの　きぎを　なぎたおし\nえものを　とらえる　あばれんぼう。"
+      },
+      {
+        "game": "oras-or",
+        "text": "どんな　しょうげきにも　たえられる\nぶあつい　ずがいこつに　おさえられて\nのうみそは　おおきく　ならなかった。"
+      },
+      {
+        "game": "oras-as",
+        "text": "てつのように　かたい　ずがいこつ。\nジャングルの　きぎを　なぎたおし\nえものを　とらえる　あばれんぼう。"
+      },
+      {
+        "game": "sm-s",
+        "text": "ずつきを　くりかえし　ずがいこつは\nかたく　あつくなったが　のうみそは\nズガイドスより　ちぢんでいる。"
+      },
+      {
+        "game": "sm-m",
+        "text": "ふくげんされ　しんかした　ラムパルドが\nにげだして　ずつきで　こうそうビルを\nはかいしたという　きろくが　ある。"
+      },
+      {
+        "game": "usum-us",
+        "text": "おおむかしの　ひとは　かせきを\nほりだし　こうてつ　よりも　かたい\nずがいこつで　かぶとを　つくっていた。"
+      },
+      {
+        "game": "usum-um",
+        "text": "ずつきが　とくいな　こだいのポケモン。\nほんとうに　のうみそが　ちいさいので\nおろかで　ほろんだというせつも　ある。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Rampard",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "램펄드",
+    "genus": "박치기포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "어떤 충격에도 견딜 수 있는\n두꺼운 두개골에 눌려\n뇌가 자라지 않았다."
+      },
+      {
+        "game": "xy-y",
+        "text": "철처럼 단단한 두개골이다.\n정글의 나무들을 넘어뜨려서\n먹이를 잡는 난동꾼이다."
+      },
+      {
+        "game": "oras-or",
+        "text": "어떤 충격에도 견딜 수 있는\n두꺼운 두개골에 눌려\n뇌가 자라지 않았다."
+      },
+      {
+        "game": "oras-as",
+        "text": "철처럼 단단한 두개골이다.\n정글의 나무들을 넘어뜨려서\n먹이를 잡는 난동꾼이다."
+      },
+      {
+        "game": "sm-s",
+        "text": "박치기를 반복해서 두개골은\n단단하고 두꺼워졌지만\n뇌는 두개도스보다 작아졌다."
+      },
+      {
+        "game": "sm-m",
+        "text": "복원되어 진화한 램펄드가 도망쳐\n박치기로 고층 빌딩을\n파괴했다는 기록이 있다."
+      },
+      {
+        "game": "usum-us",
+        "text": "먼 옛날 사람은 화석을 발굴하여\n강철보다 딱딱한 두개골로\n투구를 만들었다."
+      },
+      {
+        "game": "usum-um",
+        "text": "박치기가 특기인 고대 포켓몬이다.\n뇌가 정말 작기 때문에\n멍청해서 멸종했다는 설도 있다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "戰槌龍",
+    "genus": "頭錘寶可夢",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "反復使出頭錘的頭蓋骨變得又硬又厚。\n但腦容量比起頭蓋龍有所縮減。"
+      },
+      {
+        "game": "sm-m",
+        "text": "曾經有過復原進化後的\n戰槌龍逃之夭夭，\n用頭錘破壞高層建築的記錄。"
+      },
+      {
+        "game": "usum-us",
+        "text": "古時候人們會挖出牠的化石，\n用比鋼鐵還要堅硬的\n頭蓋骨製作頭盔。"
+      },
+      {
+        "game": "usum-um",
+        "text": "擅長頭錘的古代寶可夢。\n因為大腦真的很小，所以也有說法\n認為牠是因為太笨而滅亡的。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Charkos",
+    "genus": "Pokémon Coud’Boule",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Quand deux Charkos se rentrent\ndedans, leur crâne extrêmement\népais les empêche de s’assommer."
+      },
+      {
+        "game": "bw-w",
+        "text": "Quand deux Charkos se rentrent\ndedans, leur crâne extrêmement\népais les empêche de s’assommer."
+      },
+      {
+        "game": "xy-x",
+        "text": "À force de cogner son crâne pourtant hyper résistant,\nCharkos a un cerveau atrophié."
+      },
+      {
+        "game": "xy-y",
+        "text": "Son crâne est dur comme du fer. Cette brute abat\ndes arbres quand elle chasse sa proie dans la jungle."
+      },
+      {
+        "game": "oras-or",
+        "text": "À force de cogner son crâne pourtant hyper résistant,\nCharkos a un cerveau atrophié."
+      },
+      {
+        "game": "oras-as",
+        "text": "Son crâne est dur comme du fer. Cette brute abat des arbres\nquand elle chasse sa proie dans la jungle."
+      },
+      {
+        "game": "sm-s",
+        "text": "À force d’enchaîner les coups de tête, sa calotte\ncrânienne s’est épaissie. Son cerveau a donc dû\nrétrécir et il est plus petit que celui du Kranidos."
+      },
+      {
+        "game": "sm-m",
+        "text": "Des rapports font état d’un Charkos qui, après\nreconstitution et évolution, aurait pris la fuite en\ndémolissant un gratte-ciel d’un coup de tête."
+      },
+      {
+        "game": "usum-us",
+        "text": "Il y a bien longtemps, les hommes fabriquaient\ndes casques plus solides que l’acier à partir de\ncrânes de Charkos fossilisés."
+      },
+      {
+        "game": "usum-um",
+        "text": "Pokémon préhistorique célèbre pour ses coups\nde tête puissants et son petit cerveau, son\nextinction serait due à son extrême bêtise."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Rameidon",
+    "genus": "Kopfstoß",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Sein dicker Schädelknochen trotzt jedem Angriff.\nGleichzeitig stoppt er jedoch sein Hirnwachstum."
+      },
+      {
+        "game": "xy-y",
+        "text": "Sein Schädel ist hart wie Eisen. Es reißt\nDschungelbäume nieder, während es seine Beute jagt."
+      },
+      {
+        "game": "oras-or",
+        "text": "Sein dicker Schädelknochen trotzt jedem Angriff. Gleichzeitig\nstoppt er jedoch sein Hirnwachstum."
+      },
+      {
+        "game": "oras-as",
+        "text": "Sein Schädel ist hart wie Eisen. Es reißt Dschungelbäume\nnieder, während es seine Beute jagt."
+      },
+      {
+        "game": "sm-s",
+        "text": "Durch häufige Kopfstöße ist sein Schädel\nhart und dick geworden. Seine Hirnmasse litt\ndarunter und ist kleiner als bei Koknodon."
+      },
+      {
+        "game": "sm-m",
+        "text": "Es ist die Weiterentwicklung eines fossilen\nPokémon. Einmal entkam ein Rameidon und\nzerstörte per Kopfstoß ein ganzes Hochhaus."
+      },
+      {
+        "game": "usum-us",
+        "text": "Vor langer Zeit wurden die Fossilien dieses\nPokémon ausgegraben und aus den stahlharten\nSchädeln Helme hergestellt."
+      },
+      {
+        "game": "usum-um",
+        "text": "Dieses auf Kopfstöße spezialisierte urzeitliche\nPokémon soll einer Theorie zufolge wegen seines\nkleinen Hirns aus Dummheit ausgestorben sein."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Rampardos",
+    "genus": "Pokémon Cabezazo",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Tiene sesos pequeños porque su duro cráneo, que\nsoporta cualquier golpe, les impide desarrollarse."
+      },
+      {
+        "game": "xy-y",
+        "text": "Su cráneo es duro como el hierro. Es tan bruto que\ndestroza la jungla cuando persigue presas."
+      },
+      {
+        "game": "oras-or",
+        "text": "Tiene sesos pequeños porque su duro cráneo, que soporta\ncualquier golpe, les impide desarrollarse."
+      },
+      {
+        "game": "oras-as",
+        "text": "Su cráneo es duro como el hierro. Es tan bruto que destroza\nla jungla cuando persigue presas."
+      },
+      {
+        "game": "sm-s",
+        "text": "Debido a los continuos cabezazos que propina,\nsu cráneo se ha vuelto más duro y grueso. Sin\nembargo, tiene menos sesos que Cranidos."
+      },
+      {
+        "game": "sm-m",
+        "text": "Corren historias de un Cranidos regenerado a\npartir de un fósil que, tras evolucionar, escapó\ny derribó un rascacielos de un cabezazo."
+      },
+      {
+        "game": "usum-us",
+        "text": "Los hombres de antaño que encontraban restos\nfosilizados de Rampardos usaban su cráneo,\nmás duro que el metal, para fabricar cascos."
+      },
+      {
+        "game": "usum-um",
+        "text": "Pokémon prehistórico especializado en dar\ncabezazos. Una teoría atribuye su extinción a\nsu cerebro pequeño y a su poca inteligencia."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Rampardos",
+    "genus": "Pokémon Cranioso",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Il suo spesso cranio, che sopporta qualunque\nimpatto, è ridotto, e il cervello non si è sviluppato."
+      },
+      {
+        "game": "xy-y",
+        "text": "Il suo cranio è duro come il ferro. È violento e abbatte\ngli alberi della giungla mentre va a caccia di prede."
+      },
+      {
+        "game": "oras-or",
+        "text": "Il suo spesso cranio, che sopporta qualunque impatto,\nè ridotto, e il cervello non si è sviluppato."
+      },
+      {
+        "game": "oras-as",
+        "text": "Il suo cranio è duro come il ferro. È violento e abbatte gli\nalberi della giungla mentre va a caccia di prede."
+      },
+      {
+        "game": "sm-s",
+        "text": "A furia di testate, il suo cranio è diventato\nspesso e robusto, ma il cervello si è\nrimpicciolito rispetto a quello di Cranidos."
+      },
+      {
+        "game": "sm-m",
+        "text": "Un Rampardos, evolutosi da un Cranidos\nrigenerato da un fossile, fuggì da un laboratorio\ne abbatté un enorme palazzo a testate."
+      },
+      {
+        "game": "usum-us",
+        "text": "In tempi antichi gli uomini si servivano dei fossili\ndel cranio di questi Pokémon, più duro\ndell’acciaio, per fabbricare elmi."
+      },
+      {
+        "game": "usum-um",
+        "text": "Questo antico Pokémon eccelle nel dare testate.\nSecondo una teoria, si è estinto perché troppo\nottuso. Il suo cervello è infatti molto piccolo."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Rampardos",
+    "genus": "Head Butt Pokémon",
+    "flavorText": [
+      {
+        "game": "dp-d",
+        "text": "Its powerful head butt has enough\npower to shatter even the most\ndurable things upon impact."
+      },
+      {
+        "game": "dp-p",
+        "text": "Its skull is as hard as iron. It is\na brute that tears down jungle\ntrees while catching prey."
+      },
+      {
+        "game": "pt",
+        "text": "If two were to smash their heads\ntogether, their foot-thick skulls\nwould keep them from fainting."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "Its skull withstands impacts of any\nmagnitude. As a result, its brain\nnever gets the chance to grow."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "Its skull withstands impacts of any\nmagnitude. As a result, its brain\nnever gets the chance to grow."
+      },
+      {
+        "game": "bw-b",
+        "text": "If two were to smash their heads\ntogether, their foot-thick skulls\nwould keep them from fainting."
+      },
+      {
+        "game": "bw-w",
+        "text": "If two were to smash their heads\ntogether, their foot-thick skulls\nwould keep them from fainting."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "If two were to smash their heads\ntogether, their foot-thick skulls\nwould keep them from fainting."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "If two were to smash their heads\ntogether, their foot-thick skulls\nwould keep them from fainting."
+      },
+      {
+        "game": "xy-x",
+        "text": "Its skull withstands impacts of any magnitude. As a\nresult, its brain never gets the chance to grow."
+      },
+      {
+        "game": "xy-y",
+        "text": "Its skull is as hard as iron. It is a brute that tears\ndown jungle trees while catching prey."
+      },
+      {
+        "game": "oras-or",
+        "text": "Its skull withstands impacts of any magnitude. As a\nresult, its brain never gets the chance to grow."
+      },
+      {
+        "game": "oras-as",
+        "text": "Its skull is as hard as iron. It is a brute that tears\ndown jungle trees while catching prey."
+      },
+      {
+        "game": "sm-s",
+        "text": "The result of repeated headbutts is a skull\ngrown thick and hard. However, its brain has\nshrunk in size compared with Cranidos’s."
+      },
+      {
+        "game": "sm-m",
+        "text": "Records exist of a revived fossil that evolved\ninto Rampardos. It proceeded to escape and\nthen destroy a skyscraper with a headbutt."
+      },
+      {
+        "game": "usum-us",
+        "text": "In ancient times, people would dig up fossils of\nthis Pokémon and use its skull, which is harder\nthan steel, to make helmets."
+      },
+      {
+        "game": "usum-um",
+        "text": "This ancient Pokémon used headbutts skillfully.\nIts brain was really small, so some theories\nsuggest that its stupidity led to its extinction."
+      },
+      {
+        "game": "la",
+        "text": "Very little is known about its biology. Can knock down massive\ntrees by smashing its beautiful, pearl-like crown against them."
+      }
+    ]
+  },
+  "chs": {
+    "name": "战槌龙",
+    "genus": "头锤宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "反复使出头锤的头盖骨变得又硬又厚。\n但脑子比起头盖龙有所缩减。"
+      },
+      {
+        "game": "sm-m",
+        "text": "曾经有过复原进化后的\n战槌龙逃之夭夭，\n用头锤破坏高层建筑的记录。"
+      },
+      {
+        "game": "usum-us",
+        "text": "过去的人们曾在挖出化石后，\n用比钢铁还硬的头盖骨做成头盔。"
+      },
+      {
+        "game": "usum-um",
+        "text": "擅长头锤的古代宝可梦。\n因为大脑真的很小，\n所以也有说法它是因愚笨而灭亡的。"
+      }
+    ]
+  }
+}

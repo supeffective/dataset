@@ -1,0 +1,453 @@
+{
+  "jap": {
+    "name": "ビブラーバ",
+    "genus": "しんどうポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "２まいの　ハネを　こうそくで\nしんどうさせて　だす　ちょうおんぱは\nはげしい　ずつうを　ひきおこす。"
+      },
+      {
+        "game": "xy-y",
+        "text": "ハネを　はげしく　しんどうさせて\nちょうおんぱを　はっせい。きぜつした\nえものを　しょうかえきで　とかす。"
+      },
+      {
+        "game": "oras-or",
+        "text": "２まいの　ハネを　はげしく　しんどうさせて\nちょうおんぱを　だし　えものを　きぜつさせる。\nにんげんも　ずつうを　おこす　ほどの　いりょく。"
+      },
+      {
+        "game": "oras-as",
+        "text": "ビブラーバの　ハネは　まだ　せいちょうとちゅう。\nながい　きょりを　とぶ　よりも　しんどうさせて\nちょうおんぱを　だす　ほうが　とくいなのだ。"
+      },
+      {
+        "game": "sm-s",
+        "text": "みじゅくな　ハネは　とぶことよりも\nこすって　ちょうおんぱを　はっせいさせ\nてきを　こうげきするのに　つかう。"
+      },
+      {
+        "game": "sm-m",
+        "text": "ハネを　せいちょう　させるために\nまいにち　たいりょうの　えものを\nしょうかえきで　とかして　すする。"
+      },
+      {
+        "game": "usum-us",
+        "text": "ハネを　しんどうさせ　ちょうおんぱを\nはなつ。　きぜつした　えものを　すなの\nなかに　いきうめにして　ほぞんする。"
+      },
+      {
+        "game": "usum-um",
+        "text": "ハネを　しんどうさせ　おんぱを\nはっせいさせる。　いっしょに　いる\nトレーナーは　みみせんが　ひつよう。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "２まいの　ハネを　こうそくで\nしんどうさせて　だす　ちょうおんぱは\nはげしい　ずつうを　ひきおこす。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "ハネを　せいちょう　させるために\nまいにち　たいりょうの　えものを\nしょうかえきで　とかして　すする。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Vibrava",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "비브라바",
+    "genus": "진동포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "2장의 날개를 고속으로\n진동시켜서 내는 초음파는\n격렬한 두통을 불러일으킨다."
+      },
+      {
+        "game": "xy-y",
+        "text": "날개를 격렬하게 진동시켜서\n초음파를 발생시킨다. 기절한\n먹이를 소화액으로 녹인다."
+      },
+      {
+        "game": "oras-or",
+        "text": "두 장의 날개를 세차게 진동시켜서\n초음파를 내 먹이를 기절시킨다.\n인간도 두통이 일어날 정도의 위력이다."
+      },
+      {
+        "game": "oras-as",
+        "text": "비브라바의 날개는 아직 성장 중이다.\n장거리를 나는 것보다 진동시켜\n초음파를 내는 것이 특기다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "2장의 날개를 고속으로\n진동시켜서 내는 초음파는\n격렬한 두통을 불러일으킨다."
+      },
+      {
+        "game": "sm-s",
+        "text": "미숙한 날개는 나는 것보다는\n비벼서 초음파를 발생시켜\n적을 공격하는 데 사용한다."
+      },
+      {
+        "game": "sm-m",
+        "text": "날개를 성장시키기 위해\n매일 대량의 먹잇감을\n소화액으로 녹여 마신다."
+      },
+      {
+        "game": "usum-us",
+        "text": "날개를 진동시켜 초음파를 발산한다.\n기절한 먹이를 모래 속에\n산 채로 묻어 저장한다."
+      },
+      {
+        "game": "usum-um",
+        "text": "날개를 진동시켜서 음파를\n발생시킨다. 함께 있는\n트레이너는 귀마개가 필요하다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "날개를 성장시키기 위해\n매일 대량의 먹잇감을\n소화액으로 녹여 마신다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "超音波幼蟲",
+    "genus": "震動寶可夢",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "２片翅膀高速振動\n產生的超音波會\n引起劇烈的頭痛。"
+      },
+      {
+        "game": "sm-s",
+        "text": "還未發達的翅膀比起用於飛行，\n更常用來摩擦產生超音波，\n從而攻擊敵人。"
+      },
+      {
+        "game": "sm-m",
+        "text": "為了讓翅膀成長，\n每天要用消化液溶化\n並吸食大量的獵物。"
+      },
+      {
+        "game": "usum-us",
+        "text": "振動翅膀發出超音波。\n會把暈厥的獵物，\n活埋在沙中保存。"
+      },
+      {
+        "game": "usum-um",
+        "text": "會振動翅膀來製造特殊音波。\n和牠待在一起的訓練家\n必須準備耳塞才行。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "為了讓翅膀成長，\n每天要用消化液溶化\n並吸食大量的獵物。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Vibraninf",
+    "genus": "Pokémon Vibration",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Ses violents battements d’ailes\ngénèrent des vagues d’ultrasons\nqui donnent mal au crâne."
+      },
+      {
+        "game": "bw-w",
+        "text": "Ses violents battements d’ailes\ngénèrent des vagues d’ultrasons\nqui donnent mal au crâne."
+      },
+      {
+        "game": "xy-x",
+        "text": "Ses violents battements d’ailes génèrent des vagues\nd’ultrasons qui donnent d’intenses migraines."
+      },
+      {
+        "game": "xy-y",
+        "text": "Il génère des ondes ultrasoniques en battant\nviolemment des ailes. Dès que sa proie est\ninconsciente, il l’arrose d’acide pour pouvoir l’avaler."
+      },
+      {
+        "game": "oras-or",
+        "text": "Pour mettre ses proies K.O., Vibraninf envoie des ultrasons\nen faisant vibrer ses deux ailes. Les ondes sonores de ce\nPokémon sont si puissantes qu’elles peuvent déclencher\ndes maux de tête chez les gens."
+      },
+      {
+        "game": "oras-as",
+        "text": "Les ailes de Vibraninf n’ont pas complètement fini de pousser.\nElles ne lui servent pas à voler sur de longues distances,\nmais plutôt à générer des ultrasons en vibrant."
+      },
+      {
+        "game": "sm-s",
+        "text": "Ses ébauches d’ailes ne lui servent pas tant à\nvoler qu’à produire des ultrasons par frottement\npour neutraliser ses ennemis."
+      },
+      {
+        "game": "sm-m",
+        "text": "Pour aider ses ailes à pousser, il fait un vrai\ncarnage tous les jours, arrosant ses moult\nproies d’acide pour les dissoudre et s’en nourrir."
+      },
+      {
+        "game": "usum-us",
+        "text": "Il émet des ultrasons avec ses ailes pour\nassommer ses proies, puis les ensable vivantes\npour les conserver."
+      },
+      {
+        "game": "usum-um",
+        "text": "Il émet de puissantes ondes sonores en battant\ndes ailes, aussi est-il recommandé à son\nDresseur de se protéger les tympans."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Ses violents battements d’ailes génèrent\ndes vagues d’ultrasons qui donnent\ndes migraines intenses."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Pour aider ses ailes à pousser, il se nourrit chaque\njour d’un grand nombre de proies qu’il dissout\nen projetant de l’acide."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Vibrava",
+    "genus": "Vibrations-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Die Schallwellen, die es durch eine hohe\nFlügelschlagfrequenz erzeugt, verursachen\nheftige Kopfschmerzen."
+      },
+      {
+        "game": "xy-y",
+        "text": "Durch gewaltiges Schlagen seiner Flügel entstehen\nUltraschallwellen. Ist sein Gegner besiegt, löst es ihn\nmittels Säure auf."
+      },
+      {
+        "game": "oras-or",
+        "text": "Um seine Beute zu schwächen, erzeugt Vibrava\nUltraschallwellen, indem es seine Flügel vibrieren lässt.\nDie Ultraschallwellen dieses Pokémon sind so stark, dass\nsie bei Menschen Kopfschmerzen verursachen können."
+      },
+      {
+        "game": "oras-as",
+        "text": "Vibravas Flügel sind noch nicht ganz ausgewachsen. Für lange\nStrecken sind seine Flügel weniger geeignet. Aber es kann mit\nihnen Ultraschallwellen erzeugen, wenn es sie vibrieren lässt."
+      },
+      {
+        "game": "sm-s",
+        "text": "Vibravas Flügel sind zum Fliegen kaum geeignet.\nEs lässt sie vibrieren, um Ultraschallwellen\nzu erzeugen und so seine Gegner anzugreifen."
+      },
+      {
+        "game": "sm-m",
+        "text": "Um das Wachstum seiner Flügel zu fördern,\nschlürft es täglich große Mengen an Beute,\ndie es zuvor in Säure aufgelöst hat."
+      },
+      {
+        "game": "usum-us",
+        "text": "Durch die Vibration seiner Flügel erzeugt es\nUltraschallwellen. Es vergräbt bewusstlose\nBeute im Sand, um sie zu konservieren."
+      },
+      {
+        "game": "usum-um",
+        "text": "Es lässt seine Flügel vibrieren, um dadurch\nbizarre Schallwellen zu erzeugen. Seine Trainer\nbrauchen Ohrstöpsel."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Die Schallwellen, die es durch seine hohe\nFlügelschlagfrequenz erzeugt, verursachen\nheftige Kopfschmerzen."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Um das Wachstum seiner Flügel zu fördern,\nschlürft es täglich große Mengen an Beute,\ndie es zuvor in Magensäure aufgelöst hat."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Vibrava",
+    "genus": "Pokémon Vibrante",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Al agitar a gran velocidad ambas alas, emite ondas\nultrasónicas que provocan fuertes dolores de cabeza."
+      },
+      {
+        "game": "xy-y",
+        "text": "Genera ondas ultrasónicas batiendo las alas\nviolentamente. Cuando debilita a su presa, la\ndestruye con ácido."
+      },
+      {
+        "game": "oras-or",
+        "text": "Para debilitar a su víctima, Vibrava genera ondas ultrasónicas\nhaciendo vibrar con fuerza las alas. Las ondas que crea son\ntan fuertes que pueden dar dolor de cabeza a la gente."
+      },
+      {
+        "game": "oras-as",
+        "text": "Vibrava no ha desarrollado las alas del todo. Más que para\nvolar y recorrer largas distancias, le resultan útiles para\ngenerar ondas ultrasónicas al hacer que vibren."
+      },
+      {
+        "game": "sm-s",
+        "text": "Las alas de Vibrava están subdesarrolladas.\nMás que para volar, las utiliza para crear ondas\nultrasónicas con las que ataca a sus enemigos."
+      },
+      {
+        "game": "sm-m",
+        "text": "Para terminar de desarrollar sus alas, se nutre\na diario de un gran número de presas, a las que\ndisuelve con ácido antes de devorarlas."
+      },
+      {
+        "game": "usum-us",
+        "text": "Emite ondas ultrasónicas cuando hace vibrar\nsus alas. Entierra bajo la arena a las presas que\nha dejado inconscientes para conservarlas."
+      },
+      {
+        "game": "usum-um",
+        "text": "Genera raras ondas sónicas batiendo las alas.\nEl estruendo es tal que sus Entrenadores\nnecesitan tapones para los oídos."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Al agitar sus alas a gran velocidad, emite ondas\nultrasónicas que provocan fuertes dolores de\ncabeza."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Para terminar de desarrollar sus alas, se nutre\na diario de un gran número de presas, a las que\ndisuelve con ácido antes de devorarlas."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Vibrava",
+    "genus": "Pokémon Vibrazione",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Fa vibrare velocemente le ali generando onde\nultrasoniche che provocano dei forti mal di testa."
+      },
+      {
+        "game": "xy-y",
+        "text": "Sbattendo violentemente le ali genera onde\nultrasoniche per far svenire la preda che poi scioglie\ncol proprio acido."
+      },
+      {
+        "game": "oras-or",
+        "text": "Vibrava attacca la preda generando onde a ultrasuoni con\nle vigorose vibrazioni delle due ali. Tali onde sono così potenti\nda causare il mal di testa a chi le sente."
+      },
+      {
+        "game": "oras-as",
+        "text": "Le ali di Vibrava non hanno ancora completato il loro sviluppo.\nPiù che per affrontare lunghe distanze, le utilizza per generare\nonde ultrasoniche facendole vibrare."
+      },
+      {
+        "game": "sm-s",
+        "text": "Le sue ali non sono del tutto sviluppate. Più che\nper volare, le usa per attaccare i nemici con le\nonde ultrasoniche prodotte dalle loro vibrazioni."
+      },
+      {
+        "game": "sm-m",
+        "text": "Per far sviluppare le ali, si nutre ogni giorno\ndi una grande quantità di prede, che succhia\ndopo averle sciolte con il proprio acido."
+      },
+      {
+        "game": "usum-us",
+        "text": "Grazie agli ultrasuoni che produce con le\nvibrazioni delle ali, fa svenire le prede e le\nseppellisce nella sabbia per conservarle."
+      },
+      {
+        "game": "usum-um",
+        "text": "Genera strane onde acustiche con le vibrazioni\ndelle ali. Gli Allenatori devono proteggersi le\norecchie con dei tappi."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Fa vibrare velocemente le ali generando\nonde ultrasoniche che provocano dei\nforti mal di testa."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Per far sviluppare le ali, si nutre ogni giorno\ndi una grande quantità di prede, che succhia\ndopo averle sciolte con il proprio acido."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Vibrava",
+    "genus": "Vibration Pokémon",
+    "flavorText": [
+      {
+        "game": "rs-r",
+        "text": "To make prey faint, VIBRAVA generates\nultrasonic waves by vigorously making\nits two wings vibrate.\fThis POKéMON’s ultrasonic waves are so\npowerful, they can bring on headaches\nin people."
+      },
+      {
+        "game": "rs-s",
+        "text": "VIBRAVA’s wings have not yet\ncompleted the process of growing.\nRather than flying long distances,\fthey are more useful for generating\nultrasonic waves by vibrating."
+      },
+      {
+        "game": "e",
+        "text": "It looses ultrasonic waves by rubbing its\nwings together. Since a VIBRAVA’s wings\nare still in the process of growing, it can\nonly fly short distances."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "It generates ultrasonic waves by violently\nflapping its wings. After making its prey\nfaint, it melts the prey with acid."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "It generates ultrasonic waves by violently\nflapping its wings. After making its prey\nfaint, it melts the prey with acid."
+      },
+      {
+        "game": "dp-d",
+        "text": "It violently shudders its wings,\ngenerating ultrasonic waves to\ninduce headaches in people."
+      },
+      {
+        "game": "dp-p",
+        "text": "It violently shudders its wings,\ngenerating ultrasonic waves to\ninduce headaches in people."
+      },
+      {
+        "game": "pt",
+        "text": "It violently shudders its wings,\ngenerating ultrasonic waves to\ninduce headaches in people."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "It vibrates its wings vigorously,\ncreating ultrasonic waves that\ncause serious headaches."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "It vibrates its wings vigorously,\ncreating ultrasonic waves that\ncause serious headaches."
+      },
+      {
+        "game": "bw-b",
+        "text": "It violently shudders its wings,\ngenerating ultrasonic waves to\ninduce headaches in people."
+      },
+      {
+        "game": "bw-w",
+        "text": "It violently shudders its wings,\ngenerating ultrasonic waves to\ninduce headaches in people."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "The ultrasonic waves it generates\nby rubbing its two wings together\ncause severe headaches."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "The ultrasonic waves it generates\nby rubbing its two wings together\ncause severe headaches."
+      },
+      {
+        "game": "xy-x",
+        "text": "The ultrasonic waves it generates by rubbing its two\nwings together cause severe headaches."
+      },
+      {
+        "game": "xy-y",
+        "text": "It generates ultrasonic waves by violently flapping\nits wings. After making its prey faint, it melts the\nprey with acid."
+      },
+      {
+        "game": "oras-or",
+        "text": "To make prey faint, Vibrava generates ultrasonic waves by\nvigorously making its two wings vibrate. This Pokémon’s\nultrasonic waves are so powerful, they can bring on headaches\nin people."
+      },
+      {
+        "game": "oras-as",
+        "text": "Vibrava’s wings have not yet completed the process of\ngrowing. Rather than flying long distances, they are more\nuseful for generating ultrasonic waves by vibrating."
+      },
+      {
+        "game": "sm-s",
+        "text": "Rather than using its underdeveloped wings for\nflight, it rubs them together, producing\nultrasonic waves to attack its enemies."
+      },
+      {
+        "game": "sm-m",
+        "text": "To help make its wings grow, it dissolves\nquantities of prey in its digestive juices and\nguzzles them down every day."
+      },
+      {
+        "game": "usum-us",
+        "text": "It vibrates its wings to generate ultrasonic\nwaves, causing its prey to faint. Then it buries\nthe prey alive in the sand to preserve it."
+      },
+      {
+        "game": "usum-um",
+        "text": "It vibrates its wings to send out odd sound\nwaves. Trainers who are with it need earplugs."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "The ultrasonic waves it generates by rubbing its\ntwo wings together cause severe headaches."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "To help make its wings grow, it dissolves\nquantities of prey in its digestive juices and\nguzzles them down every day."
+      }
+    ]
+  },
+  "chs": {
+    "name": "超音波幼虫",
+    "genus": "振动宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "还不发达的翅膀，\n比起飞行，反而更多地用于\n通过摩擦产生超音波攻击敌人。"
+      },
+      {
+        "game": "sm-m",
+        "text": "为了让翅膀成长，\n每天要吸食大量\n用消化液溶化的猎物。"
+      },
+      {
+        "game": "usum-us",
+        "text": "振动翅膀，发出超音波。\n会把晕厥的猎物\n活埋在沙子里保存。"
+      },
+      {
+        "game": "usum-um",
+        "text": "会振动翅膀，产生特殊的音波。\n呆在一起的训练家\n有必要准备好耳塞。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "２根翅膀高速振动产生的\n超音波会引起剧烈的头痛。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "为了让翅膀成长，\n每天要用消化液溶化\n并吸食大量的猎物。"
+      }
+    ]
+  }
+}

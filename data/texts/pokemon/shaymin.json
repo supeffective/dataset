@@ -1,0 +1,219 @@
+{
+  "jap": {
+    "name": "シェイミ",
+    "genus": "かんしゃポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "たいきの　どくそを　ぶんかいして\nあれた　だいちを　いっしゅんのうちに\nはなばたけにする　ちからを　もつ。"
+      },
+      {
+        "game": "xy-y",
+        "text": "グラシデアのはなが　さく　きせつ\nかんしゃの　こころを　とどけるために\nとびたつと　いわれている。"
+      },
+      {
+        "game": "oras-or",
+        "text": "たいきの　どくそを　ぶんかいして\nあれた　だいちを　いっしゅんのうちに\nはなばたけにする　ちからを　もつ。"
+      },
+      {
+        "game": "oras-as",
+        "text": "グラシデアのはなが　さく　きせつ\nかんしゃの　こころを　とどけるために\nとびたつと　いわれている。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Shaymin",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "쉐이미",
+    "genus": "감사포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "대기의 독소를 분해해서\n거칠어진 대지를 일순간에\n꽃밭으로 만드는 힘을 가지고 있다."
+      },
+      {
+        "game": "xy-y",
+        "text": "그라시데아꽃이 피는 계절에\n감사의 마음을 전하기 위해\n날아오른다고 전해진다."
+      },
+      {
+        "game": "oras-or",
+        "text": "대기의 독소를 분해해서\n거칠어진 대지를 일순간에\n꽃밭으로 만드는 힘을 가지고 있다."
+      },
+      {
+        "game": "oras-as",
+        "text": "그라시데아꽃이 피는 계절에\n감사의 마음을 전하기 위해\n날아오른다고 전해진다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "謝米",
+    "genus": "感謝寶可夢",
+    "flavorText": []
+  },
+  "fra": {
+    "name": "Shaymin",
+    "genus": "Pokémon Gratitude",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Les fleurs qui couvrent son corps\ns’ouvrent quand il est câliné avec\namour et perçoit de la gratitude."
+      },
+      {
+        "game": "bw-w",
+        "text": "Les fleurs qui couvrent son corps\ns’ouvrent quand il est câliné avec\namour et perçoit de la gratitude."
+      },
+      {
+        "game": "xy-x",
+        "text": "Il peut dissoudre les toxines dans l’air pour\ntransformer un désert en un champ de fleurs\nluxuriantes."
+      },
+      {
+        "game": "xy-y",
+        "text": "Il prend son essor pour répandre la gratitude lorsque\nles Gracidées fleurissent."
+      },
+      {
+        "game": "oras-or",
+        "text": "Il peut dissoudre les toxines dans l’air pour transformer\nun désert en un champ de fleurs luxuriantes."
+      },
+      {
+        "game": "oras-as",
+        "text": "Il prend son essor pour répandre la gratitude lorsque\nles Gracidées fleurissent."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Shaymin",
+    "genus": "Dankbarkeit",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Es kann die Luft von Giften reinigen und Ödland\nin ein üppig blühendes Blumenfeld verwandeln."
+      },
+      {
+        "game": "xy-y",
+        "text": "Es heißt, wenn die Gracidea blühen, drückt es seine\nDankbarkeit aus, indem es hoch in die Lüfte fliegt."
+      },
+      {
+        "game": "oras-or",
+        "text": "Es kann die Luft von Giften reinigen und Ödland in ein üppig\nblühendes Blumenfeld verwandeln."
+      },
+      {
+        "game": "oras-as",
+        "text": "Es heißt, wenn die Gracidea blühen, drückt es seine\nDankbarkeit aus, indem es hoch in die Lüfte fliegt."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Shaymin",
+    "genus": "Pokémon Gratitud",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Puede disolver las toxinas del aire para transformar\ntierra yerma en campos de flores."
+      },
+      {
+        "game": "xy-y",
+        "text": "Se dice que, cuando florecen las Gracídeas, Shaymin\nalza el vuelo para mostrar su gratitud."
+      },
+      {
+        "game": "oras-or",
+        "text": "Puede disolver las toxinas del aire para transformar tierra\nyerma en campos de flores."
+      },
+      {
+        "game": "oras-as",
+        "text": "Se dice que, cuando florecen las Gracídeas, Shaymin alza el\nvuelo para mostrar su gratitud."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Shaymin",
+    "genus": "Pokémon Gratitudine",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Può dissolvere le tossine nell’aria per mutare\nall’istante una terra arida in un rigoglioso campo\nfiorito."
+      },
+      {
+        "game": "xy-y",
+        "text": "Si narra che Shaymin si alzi in volo per esprimere\ncommossa gratitudine per la fioritura delle gracidee."
+      },
+      {
+        "game": "oras-or",
+        "text": "Può dissolvere le tossine nell’aria per mutare all’istante\nuna terra arida in un rigoglioso campo fiorito."
+      },
+      {
+        "game": "oras-as",
+        "text": "Si narra che Shaymin si alzi in volo per esprimere commossa\ngratitudine per la fioritura delle gracidee."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Shaymin",
+    "genus": "Gratitude Pokémon",
+    "flavorText": [
+      {
+        "game": "dp-d",
+        "text": "It lives in flower patches and\navoids detection by curling up\nto look like a flowering plant."
+      },
+      {
+        "game": "dp-p",
+        "text": "It can dissolve toxins in the air\nto instantly transform ruined land\ninto a lush field of flowers."
+      },
+      {
+        "game": "pt",
+        "text": "The flowers all over its body burst\ninto bloom if it is lovingly hugged\nand senses gratitude."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "The blooming of Gracidea flowers confers\nthe power of flight upon it. Feelings \nof gratitude are the message it delivers."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "The blooming of Gracidea flowers confers\nthe power of flight upon it. Feelings \nof gratitude are the message it delivers."
+      },
+      {
+        "game": "bw-b",
+        "text": "The flowers all over its body burst\ninto bloom if it is lovingly hugged\nand senses gratitude."
+      },
+      {
+        "game": "bw-w",
+        "text": "The flowers all over its body burst\ninto bloom if it is lovingly hugged\nand senses gratitude."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "The flowers all over its body burst\ninto bloom if it is lovingly hugged\nand senses gratitude."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "The flowers all over its body burst\ninto bloom if it is lovingly hugged\nand senses gratitude."
+      },
+      {
+        "game": "xy-x",
+        "text": "It can dissolve toxins in the air to instantly\ntransform ruined land into a lush field of flowers."
+      },
+      {
+        "game": "xy-y",
+        "text": "The blooming of Gracidea flowers confers the\npower of flight upon it. Feelings of gratitude are\nthe message it delivers."
+      },
+      {
+        "game": "oras-or",
+        "text": "It can dissolve toxins in the air to instantly\ntransform ruined land into a lush field of flowers."
+      },
+      {
+        "game": "oras-as",
+        "text": "The blooming of Gracidea flowers confers the\npower of flight upon it. Feelings of gratitude are\nthe message it delivers."
+      },
+      {
+        "game": "la",
+        "text": "When the turning of seasons brings the cruel winter to its end\nand the joyous people give thanks to the heavens, Shaymin\nappears and covers the withered land with flowers."
+      }
+    ]
+  },
+  "chs": {
+    "name": "谢米",
+    "genus": "感谢宝可梦",
+    "flavorText": []
+  }
+}

@@ -1,0 +1,171 @@
+{
+  "jap": {
+    "name": "コフキムシ",
+    "genus": "こなふきポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "とりポケモンに　おそわれると\nくろい　こなを　まきちらす。\nふれると　マヒする　どくのこなだ。"
+      },
+      {
+        "game": "xy-y",
+        "text": "からだを　おおう　こなが　たいおんを\nちょうせつするので　どんな　きこうや\nふうどの　ちいきでも　くらせる。"
+      },
+      {
+        "game": "oras-or",
+        "text": "とりポケモンに　おそわれると\nくろい　こなを　まきちらす。\nふれると　マヒする　どくのこなだ。"
+      },
+      {
+        "game": "oras-as",
+        "text": "からだを　おおう　こなが　たいおんを\nちょうせつするので　どんな　きこうや\nふうどの　ちいきでも　くらせる。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Kofukimushi",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "분이벌레",
+    "genus": "가루뿜기포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "새포켓몬에게 습격당하면\n검은 가루를 흩뿌린다.\n만지면 마비되는 독가루다."
+      },
+      {
+        "game": "xy-y",
+        "text": "몸을 덮은 가루가 체온을\n조절하고 있어 어떤 기후나\n풍토의 지역에서도 살 수 있다."
+      },
+      {
+        "game": "oras-or",
+        "text": "새포켓몬에게 습격당하면\n검은 가루를 흩뿌린다.\n만지면 마비되는 독가루다."
+      },
+      {
+        "game": "oras-as",
+        "text": "몸을 덮은 가루가 체온을\n조절하고 있어 어떤 기후나\n풍토의 지역에서도 살 수 있다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "粉蝶蟲",
+    "genus": "噴粉寶可夢",
+    "flavorText": []
+  },
+  "fra": {
+    "name": "Lépidonille",
+    "genus": "Pokémon Exhalécaille",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Lorsqu’il est poursuivi par un Pokémon Oiseau,\nil projette une poudre noire qui paralyse tous ceux\nqu’elle touche."
+      },
+      {
+        "game": "xy-y",
+        "text": "La poudre qui recouvre son corps l’aide à réguler\nsa température. Il peut s’adapter à tous les climats."
+      },
+      {
+        "game": "oras-or",
+        "text": "Lorsqu’il est poursuivi par un Pokémon Oiseau, il projette\nune poudre noire qui paralyse tous ceux qu’elle touche."
+      },
+      {
+        "game": "oras-as",
+        "text": "La poudre qui recouvre son corps l’aide à réguler\nsa température. Il peut s’adapter à tous les climats."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Purmel",
+    "genus": "Puderinsekt",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Wird es von einem fliegenden Pokémon angegriffen,\nverstreut es schwarzen Puder. Der giftige Puder löst\nbei Berührung Paralyse aus."
+      },
+      {
+        "game": "xy-y",
+        "text": "Es reguliert seine Körpertemperatur mit dem Puder,\ndas seinen Körper bedeckt, und kommt deswegen\nin jedem Klima und jeder Region zurecht."
+      },
+      {
+        "game": "oras-or",
+        "text": "Wird es von einem fliegenden Pokémon angegriffen, verstreut\nes schwarzen Puder. Der giftige Puder löst bei Berührung\nParalyse aus."
+      },
+      {
+        "game": "oras-as",
+        "text": "Es reguliert seine Körpertemperatur mit dem Puder,\ndas seinen Körper bedeckt, und kommt deswegen in\njedem Klima und jeder Region zurecht."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Scatterbug",
+    "genus": "Pokémon Tiraescamas",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Cuando recibe el ataque de un Pokémon pájaro,\nexpulsa unas escamas negras que provocan parálisis\nsi se entra en contacto con ellas."
+      },
+      {
+        "game": "xy-y",
+        "text": "Gracias al polvo de escamas que lo recubre y regula\nsu temperatura, puede vivir en cualquier región, sin\nimportar las características del terreno o el clima."
+      },
+      {
+        "game": "oras-or",
+        "text": "Cuando recibe el ataque de un Pokémon pájaro, expulsa unas\nescamas negras que provocan parálisis si se entra en contacto\ncon ellas."
+      },
+      {
+        "game": "oras-as",
+        "text": "Gracias al polvo de escamas que lo recubre y regula su\ntemperatura, puede vivir en cualquier región, sin importar\nlas características del terreno o el clima."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Scatterbug",
+    "genus": "Pokémon Tirascaglie",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Se assalito da Pokémon uccello, si difende emettendo\nvelenose scaglie nere che paralizzano al minimo\ncontatto."
+      },
+      {
+        "game": "xy-y",
+        "text": "La sua temperatura corporea è regolata dalle scaglie\nche ne ricoprono il corpo. Grazie ad esse può adattarsi\ne sopravvivere in qualsiasi condizione climatica."
+      },
+      {
+        "game": "oras-or",
+        "text": "Se assalito da Pokémon uccello, si difende emettendo\nvelenose scaglie nere che paralizzano al minimo contatto."
+      },
+      {
+        "game": "oras-as",
+        "text": "La sua temperatura corporea è regolata dalle scaglie che ne\nricoprono il corpo. Grazie ad esse può adattarsi e sopravvivere\nin qualsiasi condizione climatica."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Scatterbug",
+    "genus": "Scatterdust Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "When under attack from bird Pokémon,\nit spews a poisonous black powder\nthat causes paralysis on contact."
+      },
+      {
+        "game": "xy-y",
+        "text": "The powder that covers its body\nregulates its temperature, so it\ncan live in any region or climate."
+      },
+      {
+        "game": "oras-or",
+        "text": "When under attack from bird Pokémon,\nit spews a poisonous black powder\nthat causes paralysis on contact."
+      },
+      {
+        "game": "oras-as",
+        "text": "The powder that covers its body\nregulates its temperature, so it\ncan live in any region or climate."
+      }
+    ]
+  },
+  "chs": {
+    "name": "粉蝶虫",
+    "genus": "喷粉宝可梦",
+    "flavorText": []
+  }
+}

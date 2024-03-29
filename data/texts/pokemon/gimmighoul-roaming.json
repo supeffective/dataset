@@ -1,0 +1,61 @@
+{
+  "jap": {
+    "name": "コレクレー",
+    "genus": "たからばこポケモン",
+    "flavorText": []
+  },
+  "jap_ro": {
+    "name": "Collecurei",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "모으령",
+    "genus": "",
+    "flavorText": []
+  },
+  "cht": {
+    "name": "索財靈",
+    "genus": "寶箱寶可夢",
+    "flavorText": []
+  },
+  "fra": {
+    "name": "Mordudor",
+    "genus": "",
+    "flavorText": []
+  },
+  "deu": {
+    "name": "Gierspenst",
+    "genus": "Schatztruhe",
+    "flavorText": []
+  },
+  "esp": {
+    "name": "Gimmighoul",
+    "genus": "",
+    "flavorText": []
+  },
+  "ita": {
+    "name": "Gimmighoul",
+    "genus": "",
+    "flavorText": []
+  },
+  "eng": {
+    "name": "Gimmighoul",
+    "genus": "Coin Chest Pokémon",
+    "flavorText": [
+      {
+        "game": "sv-s",
+        "text": "This Pokémon was born inside a treasure chest about 1,500 years ago. It sucks the life-force out of scoundrels who try to steal the treasure."
+      },
+      {
+        "game": "sv-v",
+        "text": "It lives inside an old treasure chest. Sometimes it gets left in shop corners since no one realizes it’s actually a Pokémon."
+      }
+    ]
+  },
+  "chs": {
+    "name": "索财灵",
+    "genus": "宝箱宝可梦",
+    "flavorText": []
+  }
+}

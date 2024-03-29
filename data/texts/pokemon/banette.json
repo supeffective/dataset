@@ -1,0 +1,309 @@
+{
+  "jap": {
+    "name": "ジュペッタ",
+    "genus": "ぬいぐるみポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "すてられた　ぬいぐるみに　おんねんが\nやどり　ポケモンになった。じぶんを\nすてた　こどもを　さがしている。"
+      },
+      {
+        "game": "xy-y",
+        "text": "つよい　おんねんが　ぬいぐるみを\nポケモンに　かえた。くちを　あけると\nのろいの　エネルギーが　にげていく。"
+      },
+      {
+        "game": "oras-or",
+        "text": "じぶんの　からだを　はりで　キズつける　とき\nつよい　のろいの　エネルギーが　はっせいする。\nもとは　すてられた　かわいそうな　ぬいぐるみ。"
+      },
+      {
+        "game": "oras-as",
+        "text": "すてられた　ぬいぐるみの　わたに　のろいの\nエネルギーが　しみこんで　ポケモンに　なった。\nくちを　あけると　エネルギーが　にげてしまう。"
+      },
+      {
+        "game": "usum-us",
+        "text": "すてられた　ヌイグルミに　おんねんが\nやどった。　じぶんを　すてたものを\nさがし　ふくしゅうする　つもりだ。"
+      },
+      {
+        "game": "usum-um",
+        "text": "すてられた　おんねんで　うまれる。\nたいせつに　されると　まんぞくして\nもとの　ヌイグルミに　もどるという。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Juppeta",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "다크펫",
+    "genus": "봉제인형포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "버려진 인형에 원념이\n깃들어 포켓몬이 되었다.\n자신을 버린 아이를 찾고 있다."
+      },
+      {
+        "game": "xy-y",
+        "text": "강한 원념이 인형을\n포켓몬으로 바꿨다. 입을 열면\n저주의 에너지가 빠져나간다."
+      },
+      {
+        "game": "oras-or",
+        "text": "자신의 몸을 바늘로 상처 낼 때\n강한 저주 에너지가 발생한다.\n원래는 버려진 불쌍한 인형이다."
+      },
+      {
+        "game": "oras-as",
+        "text": "버려진 인형의 솜에 저주\n에너지가 스며들어 포켓몬이 되었다.\n입을 열면 에너지가 빠져나간다."
+      },
+      {
+        "game": "usum-us",
+        "text": "버려진 인형에 원념이 깃들었다.\n자신을 버린 자를 \n찾아내 복수할 셈이다."
+      },
+      {
+        "game": "usum-um",
+        "text": "버려진 원념에 의해 태어난다.\n소중히 대하면 만족해서\n원래의 인형으로 돌아간다고 한다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "詛咒娃娃",
+    "genus": "布偶寶可夢",
+    "flavorText": [
+      {
+        "game": "usum-us",
+        "text": "怨念附在被丟棄的玩偶上，\n不斷尋找著丟棄自己的人，\n想要為自己報仇。"
+      },
+      {
+        "game": "usum-um",
+        "text": "誕生自遭到捨棄時的怨念。\n據說只要讓牠感覺自己受到重視，\n牠就會滿意地變回原本的玩偶。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Branette",
+    "genus": "Pokémon Marionnette",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Une poupée mue par la tristesse qui\nla ronge depuis qu’on l’a délaissée.\nElle recherche son propriétaire."
+      },
+      {
+        "game": "bw-w",
+        "text": "Une poupée mue par la tristesse qui\nla ronge depuis qu’on l’a délaissée.\nElle recherche son propriétaire."
+      },
+      {
+        "game": "xy-x",
+        "text": "Une poupée mue par la tristesse qui la ronge depuis\nqu’on l’a délaissée. Elle recherche son propriétaire."
+      },
+      {
+        "game": "xy-y",
+        "text": "Un très violent sentiment de haine a transformé\nune poupée de chiffon en Branette. S’il ouvre la\nbouche, une énergie négative s’en échappe."
+      },
+      {
+        "game": "oras-or",
+        "text": "En plantant des aiguilles dans son propre corps,\nBranette génère de l’énergie permettant de lancer\nde puissantes malédictions. Au départ, ce Pokémon\nn’était qu’une malheureuse peluche jetée à la poubelle."
+      },
+      {
+        "game": "oras-as",
+        "text": "Une énergie maudite a pénétré le rembourrage d’une vieille\npeluche abandonnée, donnant ainsi vie à Branette. L’énergie\nde ce Pokémon s’échappe s’il ouvre la bouche."
+      },
+      {
+        "game": "usum-us",
+        "text": "Animée par la rancune, cette poupée\nabandonnée traque son ancien propriétaire\npour se venger."
+      },
+      {
+        "game": "usum-um",
+        "text": "Il est né de la rancune qu’il a ressentie quand\nil a été abandonné. Il redevient apparemment\nune poupée si l’on en prend grand soin."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Banette",
+    "genus": "Marionette",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Dieses Pokémon war eine Puppe, die weggeworfen\nwurde. Es sucht nun das Kind, das dies getan hat."
+      },
+      {
+        "game": "xy-y",
+        "text": "Starke Gefühle des Hasses machten aus einer Puppe\nein Pokémon. Öffnet es seinen Mund, kann die ganze\nverfluchte Energie hinaus."
+      },
+      {
+        "game": "oras-or",
+        "text": "Banette belegt andere mit Flüchen, indem es Nadeln in seinen\neigenen Körper sticht. Dieses Pokémon war ursprünglich eine\nmitleiderregende Plüschpuppe, die weggeworfen wurde."
+      },
+      {
+        "game": "oras-as",
+        "text": "Die Energie eines Fluchs durchdrang die Füllung einer\nweggeworfenen und vergessenen Plüschpuppe und erweckte\nBanette zum Leben. Die Energie dieses Pokémon würde\nentweichen, wenn es seinen Mund öffnen sollte."
+      },
+      {
+        "game": "usum-us",
+        "text": "Einst als Plüschpuppe weggeworfen, ist dieses\nhasserfüllte Pokémon auf der Suche nach dem\nTäter, um sich an ihm zu rächen."
+      },
+      {
+        "game": "usum-um",
+        "text": "Geboren aus Hass, weil es weggeworfen wurde,\nsoll es sich wieder in eine Plüschpuppe\nzurückverwandeln, wenn es sich geliebt fühlt."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Banette",
+    "genus": "Pokémon Marioneta",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Este muñeco se convirtió en un Pokémon cuando lo\ntiraron a la basura. Busca a su antiguo dueño."
+      },
+      {
+        "game": "xy-y",
+        "text": "Cuando abandonaron a este muñeco de felpa, se\nconvirtió en Pokémon. Libera una energía que hechiza\nal enemigo."
+      },
+      {
+        "game": "oras-or",
+        "text": "Banette genera energía para echar un infalible hechizo\nclavándose púas a sí mismo. Los orígenes de este Pokémon\nson algo tristes: era un muñeco de felpa al que tiraron a la\nbasura."
+      },
+      {
+        "game": "oras-as",
+        "text": "Fue un hechizo el que hizo que el relleno de este muñeco de\nfelpa olvidado y abandonado pasara a ser Banette. Si este\nPokémon abriera la boca, se quedaría sin energía."
+      },
+      {
+        "game": "usum-us",
+        "text": "Este muñeco de trapo alberga gran odio por la\npersona que lo abandonó, a quien busca sin\ndescanso para vengarse."
+      },
+      {
+        "game": "usum-um",
+        "text": "El rencor de haber sido tirado a la basura fue lo\nque le dio vida. Se dice que puede convertirse\nde nuevo en muñeco si se le trata con cariño."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Banette",
+    "genus": "Pokémon Marionetta",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Un peluche divenuto Pokémon per la rabbia di essere\nstato buttato via da un bimbo, di cui è alla ricerca."
+      },
+      {
+        "game": "xy-y",
+        "text": "Peluche trasformato in Pokémon da un forte odio.\nAppena apre la sua bocca, sprigiona una forte\nenergia negativa."
+      },
+      {
+        "game": "oras-or",
+        "text": "Banette genera energia per lanciare terribili maledizioni,\nconficcandosi alcuni spilli nel corpo. Originariamente questo\nPokémon era un dolce peluche, successivamente gettato via."
+      },
+      {
+        "game": "oras-as",
+        "text": "Un’energia maledetta ha permeato l’imbottitura di un peluche\nvecchio e dimenticato, dando vita a Banette.\nQuesto Pokémon deve tenere sempre la bocca chiusa per\nevitare che l’energia accumulata scappi fuori."
+      },
+      {
+        "game": "usum-us",
+        "text": "È un peluche pieno di rancore per essere stato\nbuttato via. Cerca senza darsi pace il vecchio\nproprietario per vendicarsi."
+      },
+      {
+        "game": "usum-um",
+        "text": "È stato generato dalla rabbia per essere stato\nbuttato via. Si dice che se ci si prende cura di\nlui, tornerà a essere il peluche di un tempo."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Banette",
+    "genus": "Marionette Pokémon",
+    "flavorText": [
+      {
+        "game": "rs-r",
+        "text": "BANETTE generates energy for laying\nstrong curses by sticking pins into its\nown body.\fThis POKéMON was originally a pitiful\nplush doll that was thrown away."
+      },
+      {
+        "game": "rs-s",
+        "text": "A cursed energy permeated the stuffing\nof a discarded and forgotten plush doll,\ngiving it new life as BANETTE.\fThe POKéMON’s energy would escape if it\nwere to ever open its mouth."
+      },
+      {
+        "game": "e",
+        "text": "An abandoned plush doll became this\nPOKéMON. They are said to live in garbage\ndumps and wander about in search of the\nchildren that threw them away."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "Strong feelings of hatred turned a puppet\ninto a POKéMON. If it opens its mouth,\nits cursed energy escapes."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "Strong feelings of hatred turned a puppet\ninto a POKéMON. If it opens its mouth,\nits cursed energy escapes."
+      },
+      {
+        "game": "dp-d",
+        "text": "A doll that became a Pokémon over\nits grudge from being junked. It\nseeks the child that disowned it."
+      },
+      {
+        "game": "dp-p",
+        "text": "A doll that became a Pokémon over\nits grudge from being junked. It\nseeks the child that disowned it."
+      },
+      {
+        "game": "pt",
+        "text": "A doll that became a Pokémon over\nits grudge from being junked. It\nseeks the child that disowned it."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "This Pokémon developed from an\nabandoned doll that amassed a\ngrudge. It is seen in dark alleys."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "This Pokémon developed from an\nabandoned doll that amassed a\ngrudge. It is seen in dark alleys."
+      },
+      {
+        "game": "bw-b",
+        "text": "A doll that became a Pokémon over\nits grudge from being junked. It\nseeks the child that disowned it."
+      },
+      {
+        "game": "bw-w",
+        "text": "A doll that became a Pokémon over\nits grudge from being junked. It\nseeks the child that disowned it."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "A doll that became a Pokémon over\nits grudge of being thrown away. It\nseeks the child who disowned it."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "A doll that became a Pokémon over\nits grudge of being thrown away. It\nseeks the child who disowned it."
+      },
+      {
+        "game": "xy-x",
+        "text": "A doll that became a Pokémon over its grudge from\nbeing junked. It seeks the child that disowned it."
+      },
+      {
+        "game": "xy-y",
+        "text": "Strong feelings of hatred turned a puppet into a\nPokémon. If it opens its mouth, its cursed\nenergy escapes."
+      },
+      {
+        "game": "oras-or",
+        "text": "Banette generates energy for laying strong curses by sticking\npins into its own body. This Pokémon was originally a pitiful\nplush doll that was thrown away."
+      },
+      {
+        "game": "oras-as",
+        "text": "A cursed energy permeated the stuffing of a discarded and\nforgotten plush doll, giving it new life as Banette.\nThe Pokémon’s energy would escape if it were to ever open\nits mouth."
+      },
+      {
+        "game": "usum-us",
+        "text": "It’s a stuffed toy that was thrown away and\nbecame possessed, ever searching for the one\nwho threw it away so it can exact its revenge."
+      },
+      {
+        "game": "usum-um",
+        "text": "Resentment at being cast off made it spring into\nbeing. Some say that treating it well will satisfy\nit, and it will once more become a stuffed toy."
+      }
+    ]
+  },
+  "chs": {
+    "name": "诅咒娃娃",
+    "genus": "布偶宝可梦",
+    "flavorText": [
+      {
+        "game": "usum-us",
+        "text": "怨念附在被丢弃的玩偶身上，\n打算寻找丢弃自己的人来报仇。"
+      },
+      {
+        "game": "usum-um",
+        "text": "因被丢弃的怨念而诞生。\n听说，如果满足它受重视的需求，\n就会变回原来的玩偶。"
+      }
+    ]
+  }
+}

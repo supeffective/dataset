@@ -1,0 +1,549 @@
+{
+  "jap": {
+    "name": "ナッシー",
+    "genus": "やしのみポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "３つの　あたまは　かんがえることは\nべつべつでも　なかよし　なので\nケンカしたり　しないらしい。"
+      },
+      {
+        "game": "xy-y",
+        "text": "あるく　ねったいうりんと　よばれる。\nおおきくなった　あたまの　ひとつが\nじめんに　おちると　タマタマになる。"
+      },
+      {
+        "game": "oras-or",
+        "text": "なんごく　うまれの　ナッシーの　あたまは　つよい\nひざしを　いっぱい　あびて　どんどん　そだち\nじめんに　おちると　タマタマに　なると　いう。"
+      },
+      {
+        "game": "oras-as",
+        "text": "なんごく　うまれの　ナッシーの　あたまは　つよい\nひざしを　いっぱい　あびて　どんどん　そだち\nじめんに　おちると　タマタマに　なると　いう。"
+      },
+      {
+        "game": "sm-s",
+        "text": "それぞれの　あたまに　いしが　あり\nテレパシーで　はなしあい　みんなで\nなにを　するのか　きめている。"
+      },
+      {
+        "game": "sm-m",
+        "text": "あるじきが　くると　３つの　あたまの\nどれかが　おちる。　それが　やがて\nタマタマへと　せいちょう　していく。"
+      },
+      {
+        "game": "usum-us",
+        "text": "サイコパワーで　てきを　むかえうつ。\n３つのあたま　それぞれが　ねんりきを\nはなつので　そのいりょくは　３ばいだ。"
+      },
+      {
+        "game": "usum-um",
+        "text": "３つのあたまは　みな　べつの　ことを\nかんがえている。　いきたい　ほうこうが\nちがうと　みうごきが　とれなくなる。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "なきごえが　にぎやかなのは　３つある\nあたまが　それぞれ　すきなことを\nかんがえているからだ。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "なきごえが　にぎやかなのは　３つある\nあたまが　それぞれ　すきなことを\nかんがえているからだ。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "３つの　あたまは　べつのことを\nかんがえている。　じぶんいがいは\nあまり　きょうみがない　ようだ。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "３つの　あたまが　いちがんと　なって\nうつ　サイコパワーは　きょうりょく。\nそらが　くもると　うごきが　にぶる。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Nassy",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "나시",
+    "genus": "야자열매포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "3개의 머리는 생각하는 것이\n각각 다르지만 사이가 좋아서\n싸우지 않는 것 같다."
+      },
+      {
+        "game": "xy-y",
+        "text": "걸어 다니는 열대 우림이라고\n불린다. 크게 자란 머리 중 하나가\n땅에 떨어지면 아라리가 된다."
+      },
+      {
+        "game": "oras-or",
+        "text": "남쪽 나라 태생인 나시의 머리는 강한\n햇빛을 잔뜩 받고 점점 자라\n땅에 떨어지면 아라리가 된다고 한다."
+      },
+      {
+        "game": "oras-as",
+        "text": "남쪽 나라 태생인 나시의 머리는 강한\n햇빛을 잔뜩 받고 점점 자라\n땅에 떨어지면 아라리가 된다고 한다."
+      },
+      {
+        "game": "sm-s",
+        "text": "각각의 머리에 의지가 있어\n텔레파시로 대화하여 모두와\n무엇을 할건지 정한다."
+      },
+      {
+        "game": "sm-m",
+        "text": "어느 시기가 되면 3개의 머리 중\n하나가 떨어진다. 그것이 그대로\n아라리로 성장해간다."
+      },
+      {
+        "game": "usum-us",
+        "text": "사이코 파워로 적을 대적한다.\n3개의 머리가 각각 염동력을\n발산해서 그 위력은 3배가 된다."
+      },
+      {
+        "game": "usum-um",
+        "text": "3개의 머리는 모두 다른 생각을\n하고 있다. 가고 싶은 방향이\n다르면 움직일 수 없게 된다."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "울음소리가 시끄러운 것은\n3개의 머리가 좋아하는 것에 대해\n따로따로 생각하고 있기 때문이다."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "울음소리가 시끄러운 것은\n3개의 머리가 좋아하는 것에 대해\n따로따로 생각하고 있기 때문이다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "3개의 머리는 서로 다른\n생각을 하고 있다. 자신 외에는\n별로 흥미가 없는 듯하다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "3개의 머리가 똘똘 뭉쳐서 쏘는\n사이코 파워는 강력하다.\n날씨가 흐리면 움직임이 둔하다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "椰蛋樹",
+    "genus": "椰子寶可夢",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "每個腦袋各有各的思想，\n會通過心靈感應來交談，\n決定大家要做什麼。"
+      },
+      {
+        "game": "sm-m",
+        "text": "某個時期到來的時候，\n３個頭的某一個便會掉落，\n不久就會成長為蛋蛋。"
+      },
+      {
+        "game": "usum-us",
+        "text": "會用精神力量迎戰敵人。\n３個頭會分別發出念力，\n所以威力也會變成３倍。"
+      },
+      {
+        "game": "usum-um",
+        "text": "３個頭分別想著不同的事。\n如果每個頭想去的方向不同，\n就會在原地無法動彈。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "之所以會一直叫個不停，\n是因為３顆頭各自在想著\n自己喜歡的東西。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "之所以會一直叫個不停，\n是因為３顆頭各自在想著\n自己喜歡的東西。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "３顆頭都想著不同的事。\n對自己以外的事情\n似乎都沒什麼興趣。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "３顆頭團結一致發出的\n精神力量威力強大。天氣\n變陰時動作就會變得遲緩。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Noadkoko",
+    "genus": "Pokémon Fruitpalme",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "On l’appelle “jungle sur pattes”.\nSi une tête devient trop grosse,\nelle tombe et produit un Noeunoeuf."
+      },
+      {
+        "game": "bw-w",
+        "text": "On l’appelle “jungle sur pattes”.\nSi une tête devient trop grosse,\nelle tombe et produit un Noeunoeuf."
+      },
+      {
+        "game": "xy-x",
+        "text": "Ses trois têtes sont autonomes. Elles semblent\ntoutefois en harmonie et ne se disputent jamais."
+      },
+      {
+        "game": "xy-y",
+        "text": "On l’appelle « jungle sur pattes ». Si une tête devient\ntrop grosse, elle tombe et produit un Noeunoeuf."
+      },
+      {
+        "game": "oras-or",
+        "text": "Noadkoko vient des tropiques. À force de vivre sous un soleil\nardent, ses têtes ont rapidement grandi. On raconte que\nlorsque ses têtes tombent, elles se rassemblent et forment\nun Noeunoeuf."
+      },
+      {
+        "game": "oras-as",
+        "text": "Noadkoko vient des tropiques. À force de vivre sous un soleil\nardent, ses têtes ont rapidement grandi. On raconte que\nlorsque ses têtes tombent, elles se rassemblent et forment\nun Noeunoeuf."
+      },
+      {
+        "game": "sm-s",
+        "text": "Chaque tête a sa volonté propre. Toutes\ndiscutent ensemble par télépathie et décident\nde ce qu’elles vont faire d’un commun accord."
+      },
+      {
+        "game": "sm-m",
+        "text": "À un certain moment de sa vie, l’une des trois\ntêtes tombe. Elle germera en un nouveau\nNoeunoeuf."
+      },
+      {
+        "game": "usum-us",
+        "text": "Il frappe ses adversaires de ses pouvoirs\npsychiques. Comme il a trois têtes, la puissance\nde ses attaques s’en voit triplée."
+      },
+      {
+        "game": "usum-um",
+        "text": "Ses trois têtes pensent indépendamment.\nSi elles ne se mettent pas d’accord sur le\nchemin à emprunter, Noadkoko fait du surplace."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Si son cri est aussi bruyant, c’est parce que\nchacune de ses trois têtes dit ce qu’elle pense."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Si son cri est aussi bruyant, c’est parce que\nchacune de ses trois têtes dit ce qu’elle pense."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Chacune de ses trois têtes pense de manière\nautonome. Elles ne semblent s’intéresser\nqu’à elles-mêmes."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Les attaques psychiques lancées par ses trois\ntêtes à l’unisson sont très puissantes. Par temps\nnuageux, ses mouvements sont plus lents."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Kokowei",
+    "genus": "Palmfrucht-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Seine drei Köpfe denken unabhängig voneinander.\nDennoch sind sie nett zueinander und streiten nie."
+      },
+      {
+        "game": "xy-y",
+        "text": "Man nennt es den „Laufenden Dschungel“. Wird ein\nKopf zu groß, fällt er ab und wird zu einem Owei."
+      },
+      {
+        "game": "oras-or",
+        "text": "Kokowei stammt ursprünglich aus den Tropen. Seine Köpfe\nwachsen stetig, wenn es starkem Sonnenlicht ausgesetzt ist.\nWenn seine Köpfe abfallen, bilden sie zusammen ein Owei."
+      },
+      {
+        "game": "oras-as",
+        "text": "Kokowei stammt ursprünglich aus den Tropen. Seine Köpfe\nwachsen stetig, wenn es starkem Sonnenlicht ausgesetzt ist.\nWenn seine Köpfe abfallen, bilden sie zusammen ein Owei."
+      },
+      {
+        "game": "sm-s",
+        "text": "Jeder seiner Köpfe hat einen eigenen Willen.\nSie kommunizieren telepathisch miteinander,\num gemeinsam Entscheidungen zu treffen."
+      },
+      {
+        "game": "sm-m",
+        "text": "Zu einer bestimmten Jahreszeit fällt einer seiner\ndrei Köpfe ab. Dieser wird schließlich zu einem\nneuen Owei."
+      },
+      {
+        "game": "usum-us",
+        "text": "Gegen Feinde setzt es Psycho-Kräfte ein. Seine\ndrei Köpfe greifen unabhängig voneinander an,\nwodurch sich der Gesamtangriff verdreifacht."
+      },
+      {
+        "game": "usum-um",
+        "text": "Jeder seiner drei Köpfe hat einen eigenen Willen.\nKönnen sie sich nicht auf eine Richtung einigen,\nbleibt es wie angewurzelt auf der Stelle stehen."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Der Schrei dieses Pokémon ist ohrenbetäubend,\nweil jeder seiner drei Köpfe sagt, was er denkt."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Der Schrei dieses Pokémon ist ohrenbetäubend,\nweil jeder seiner drei Köpfe sagt, was er denkt."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Jeder der drei Köpfe hat einen eigenen Willen\nund scheint sich nur für sich selbst zu\ninteressieren."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Seine drei Köpfe setzen mächtige Psycho-Kräfte\nfrei, wenn sie als Einheit agieren. Zieht sich der\nHimmel zu, bewegt es sich nur noch schwerfällig."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Exeggutor",
+    "genus": "Pokémon Coco",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Sus tres cabezas piensan de forma independiente.\nSin embargo, son amigas y no suelen discutir nunca."
+      },
+      {
+        "game": "xy-y",
+        "text": "Se le llama la Selva Andante. Si una cabeza crece\ndemasiado, se cae y forma un Exeggcute."
+      },
+      {
+        "game": "oras-or",
+        "text": "Exeggutor es originario del trópico. Cuando se expone a un\nsol intenso, le empiezan a crecer las cabezas. Hay quien dice\nque, cuando las cabezas caen al suelo, se unen para formar\nun Exeggcute."
+      },
+      {
+        "game": "oras-as",
+        "text": "Exeggutor es originario del trópico. Cuando se expone a un\nsol intenso, le empiezan a crecer las cabezas. Hay quien dice\nque, cuando las cabezas caen al suelo, se unen para formar\nun Exeggcute."
+      },
+      {
+        "game": "sm-s",
+        "text": "Cada una de sus cabezas piensa de forma\nindividual. Para tomar decisiones, se comunican\nentre ellas telepáticamente."
+      },
+      {
+        "game": "sm-m",
+        "text": "En algún momento de su vida, una de sus tres\ncabezas se desprende y se transforma en un\nnuevo Exeggcute."
+      },
+      {
+        "game": "usum-us",
+        "text": "Ataca al rival con poderes psíquicos. Como tiene\ntres cabezas, la potencia de sus ataques se ve\ntriplicada."
+      },
+      {
+        "game": "usum-um",
+        "text": "Sus tres cabezas poseen juicio propio. Si no se\nponen de acuerdo en qué dirección tomar,\nExeggutor se quedará plantado en el sitio."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "El estrépito que causa se debe a que cada\nuna de las tres cabezas habla y actúa de forma\nindependiente, sin tener en cuenta a las demás."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "El estrépito que causa se debe a que cada\nuna de las tres cabezas habla y actúa de forma\nindependiente, sin tener en cuenta a las demás."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Cada una de las tres cabezas piensa de forma\nindependiente y apenas muestra interés por el\nresto."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Puede lanzar ataques psíquicos de gran potencia\nsi sus tres cabezas se ponen de acuerdo. Cuando\nse nubla el cielo, sus movimientos se ralentizan."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Exeggutor",
+    "genus": "Pokémon Nocecocco",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Ha tre teste che ragionano autonomamente.\nMa sono amichevoli e non litigano mai tra di loro."
+      },
+      {
+        "game": "xy-y",
+        "text": "Noto come “Giungla in moto”. Se una testa diventa\ntroppo grande, cade e si trasforma in Exeggcute."
+      },
+      {
+        "game": "oras-or",
+        "text": "Exeggutor è originario dei tropici. Le teste crescono\ncostantemente se esposte a forte luce solare.\nPare che quando le teste cadono, si uniscano per formare\nun Exeggcute."
+      },
+      {
+        "game": "oras-as",
+        "text": "Exeggutor è originario dei tropici. Le teste crescono\ncostantemente se esposte a forte luce solare.\nPare che quando le teste cadono, si uniscano per formare\nun Exeggcute."
+      },
+      {
+        "game": "sm-s",
+        "text": "Le tre teste ragionano autonomamente e\ncomunicano tramite telepatia per prendere\ndecisioni in comune."
+      },
+      {
+        "game": "sm-m",
+        "text": "Durante la crescita, una delle sue tre teste\ncade e dà vita a un nuovo Exeggcute."
+      },
+      {
+        "game": "usum-us",
+        "text": "Attacca l’avversario emettendo onde\npsicocinetiche da ogni testa. La potenza\ncomplessiva risulta triplicata."
+      },
+      {
+        "game": "usum-um",
+        "text": "Le sue tre teste ragionano in modo indipendente.\nQuando vogliono andare in direzioni diverse,\nExeggutor non riesce più a muoversi."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Il suo verso chiassoso è dovuto alla confusione\ncreata dalle tre teste che pensano ognuna per\nconto proprio."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Il suo verso chiassoso è dovuto alla confusione\ncreata dalle tre teste che pensano ognuna per\nconto proprio."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Le sue tre teste ragionano in modo indipendente.\nSembra che ciascuna pensi solo a sé."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "I poteri psichici che le sue tre teste scatenano\nall’unisono sono travolgenti. Quando il cielo\nsi rannuvola, i suoi movimenti si fanno lenti."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Exeggutor",
+    "genus": "Coconut Pokémon",
+    "flavorText": [
+      {
+        "game": "rb-r",
+        "text": "Legend has it that\non rare occasions,\none of its heads\fwill drop off and\ncontinue on as an\nEXEGGCUTE."
+      },
+      {
+        "game": "rb-b",
+        "text": "Legend has it that\non rare occasions,\none of its heads\fwill drop off and\ncontinue on as an\nEXEGGCUTE."
+      },
+      {
+        "game": "y",
+        "text": "Its cries are very\nnoisy. This is\nbecause each of\fthe 3 heads thinks\nabout whatever it\nlikes."
+      },
+      {
+        "game": "gs-g",
+        "text": "Its three heads\nthink independent­\nly. However, they\fare friendly and\nnever appear to\nsquabble."
+      },
+      {
+        "game": "gs-s",
+        "text": "If a head drops\noff, it emits a\ntelepathic call in\fsearch of others\nto form an\nEXEGGCUTE cluster."
+      },
+      {
+        "game": "c",
+        "text": "Living in a good\nenvironment makes\nit grow lots of\fheads. A head that\ndrops off becomes\nan EXEGGCUTE."
+      },
+      {
+        "game": "rs-r",
+        "text": "EXEGGUTOR originally came from the\ntropics. Its heads steadily grow larger\nfrom exposure to strong sunlight.\fIt is said that when the heads fall off,\nthey group together to form EXEGGCUTE."
+      },
+      {
+        "game": "rs-s",
+        "text": "EXEGGUTOR originally came from the\ntropics. Its heads steadily grow larger\nfrom exposure to strong sunlight.\fIt is said that when the heads fall off,\nthey group together to form EXEGGCUTE."
+      },
+      {
+        "game": "e",
+        "text": "Originally from the tropics, EXEGGUTOR’s\nheads grow larger from exposure to strong\nsunlight. It is said that when the heads\nfall, they group to form an EXEGGCUTE."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "It is called “The Walking Tropical\nRainforest.” Each of the nuts has\na face and a will of its own."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "It is said that on rare occasions, one\nof its heads will drop off and continue on\nas an EXEGGCUTE."
+      },
+      {
+        "game": "dp-d",
+        "text": "It is called “The Walking Jungle.”\nIf a head grows too big, it falls\noff and becomes an EXEGGCUTE."
+      },
+      {
+        "game": "dp-p",
+        "text": "It is called “The Walking Jungle.”\nIf a head grows too big, it falls\noff and becomes an EXEGGCUTE."
+      },
+      {
+        "game": "pt",
+        "text": "It is called “The Walking Jungle.”\nIf a head grows too big, it falls\noff and becomes an EXEGGCUTE."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "Its three heads think independently.\nHowever, they are friendly and\nnever appear to squabble."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "If a head drops off, it emits a\ntelepathic call in search of others\nto form an EXEGGCUTE cluster."
+      },
+      {
+        "game": "bw-b",
+        "text": "It is called “The Walking Jungle.”\nIf a head grows too big, it falls\noff and becomes an Exeggcute."
+      },
+      {
+        "game": "bw-w",
+        "text": "It is called “The Walking Jungle.”\nIf a head grows too big, it falls\noff and becomes an Exeggcute."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "It is called “The Walking Jungle.”\nIf a head grows too big, it falls\noff and becomes an Exeggcute."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "It is called “The Walking Jungle.”\nIf a head grows too big, it falls\noff and becomes an Exeggcute."
+      },
+      {
+        "game": "xy-x",
+        "text": "Its three heads think independently. However,\nthey are friendly and never appear to squabble."
+      },
+      {
+        "game": "xy-y",
+        "text": "It is called “The Walking Jungle.” If a head grows\ntoo big, it falls off and becomes an Exeggcute."
+      },
+      {
+        "game": "oras-or",
+        "text": "Exeggutor originally came from the tropics. Its heads\nsteadily grow larger from exposure to strong sunlight.\nIt is said that when the heads fall off, they group together\nto form Exeggcute."
+      },
+      {
+        "game": "oras-as",
+        "text": "Exeggutor originally came from the tropics. Its heads\nsteadily grow larger from exposure to strong sunlight. It is\nsaid that when the heads fall off, they group together to\nform Exeggcute."
+      },
+      {
+        "game": "sm-s",
+        "text": "Each of its heads has its own will. They use\ntelepathy to discuss their plans before coming\nto a joint decision."
+      },
+      {
+        "game": "sm-m",
+        "text": "When the time comes, one of its three heads\nfalls off. Before long, the fallen head grows into\nan Exeggcute."
+      },
+      {
+        "game": "usum-us",
+        "text": "It engages its enemies using psychic powers.\nEach of its three heads fires off psychokinetic\nenergy, tripling its power."
+      },
+      {
+        "game": "usum-um",
+        "text": "Each of its three heads has its own thoughts.\nWhen they want to go in different directions,\nExeggutor becomes unable to move."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Its cries are very noisy. This is because each of\nthe three heads thinks about whatever it likes."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Its cries are very noisy. This is because each of\nthe three heads thinks about whatever it likes."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Each of Exeggutor’s three heads is thinking\ndifferent thoughts. The three don’t seem to be\nvery interested in one another."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "When they work together, Exeggutor’s three\nheads can put out powerful psychic energy.\nCloudy days make this Pokémon sluggish."
+      }
+    ]
+  },
+  "chs": {
+    "name": "椰蛋树",
+    "genus": "椰子宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "各个脑袋里有各自的思想，\n通过心灵感应来交谈，\n决定大家要做什么。"
+      },
+      {
+        "game": "sm-m",
+        "text": "某个时期到来的时候，\n３个头的某一个会掉落。\n之后不久就会成长为蛋蛋。"
+      },
+      {
+        "game": "usum-us",
+        "text": "会用精神力量来迎击敌人。\n３个脑袋会分别放出念力，\n所以威力也会变成３倍。"
+      },
+      {
+        "game": "usum-um",
+        "text": "３个脑袋分别想着不同的事情。\n如果每个脑袋想去的方向不同，\n身体就会无法动弹。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "由于三个头各自都在\n思考自己喜欢的事情，\n所以它的叫声非常吵闹。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "由于三个头各自都在\n思考自己喜欢的事情，\n所以它的叫声非常吵闹。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "３个脑袋分别在想不同的事。\n似乎对自己以外的事物\n没有什么兴趣。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "３个脑袋联合起来\n能使出强大的精神力量。\n天气变阴时动作会变得迟钝。"
+      }
+    ]
+  }
+}

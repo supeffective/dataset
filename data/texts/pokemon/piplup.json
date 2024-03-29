@@ -1,0 +1,219 @@
+{
+  "jap": {
+    "name": "ポッチャマ",
+    "genus": "ペンギンポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "せわを　やかれる　ことが　きらい。\nトレーナーの　しじを　きかないので\nなかよく　なるのが　むずかしい。"
+      },
+      {
+        "game": "xy-y",
+        "text": "プライドが　たかく　ひとから\nたべものを　もらう　ことを　きらう。\nながい　うぶげが　さむさを　ふせぐ。"
+      },
+      {
+        "game": "oras-or",
+        "text": "せわを　やかれる　ことが　きらい。\nトレーナーの　しじを　きかないので\nなかよく　なるのが　むずかしい。"
+      },
+      {
+        "game": "oras-as",
+        "text": "プライドが　たかく　ひとから\nたべものを　もらう　ことを　きらう。\nながい　うぶげが　さむさを　ふせぐ。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Pochama",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "팽도리",
+    "genus": "펭귄포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "신세를 지는 것을 싫어한다.\n트레이너의 지시를 듣지 않아\n친해지기 어렵다."
+      },
+      {
+        "game": "xy-y",
+        "text": "자존심이 강해서 사람에게\n먹이를 얻는 것을 싫어한다.\n긴 솜털이 추위를 막는다."
+      },
+      {
+        "game": "oras-or",
+        "text": "신세를 지는 것을 싫어한다.\n트레이너의 지시를 듣지 않아\n친해지기 어렵다."
+      },
+      {
+        "game": "oras-as",
+        "text": "자존심이 강해서 사람에게\n먹이를 얻는 것을 싫어한다.\n긴 솜털이 추위를 막는다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "波加曼",
+    "genus": "企鵝寶可夢",
+    "flavorText": []
+  },
+  "fra": {
+    "name": "Tiplouf",
+    "genus": "Pokémon Pingouin",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Malgré sa démarche maladroite et\nses pertes d’équilibre, il bombe\ntoujours fièrement le torse."
+      },
+      {
+        "game": "bw-w",
+        "text": "Malgré sa démarche maladroite et\nses pertes d’équilibre, il bombe\ntoujours fièrement le torse."
+      },
+      {
+        "game": "xy-x",
+        "text": "Ce Pokémon est difficile à entraîner car il est très\ndésobéissant et déteste qu’on lui rende service."
+      },
+      {
+        "game": "xy-y",
+        "text": "Il est fier et déteste accepter la nourriture qu’on\nlui offre. Son pelage épais le protège du froid."
+      },
+      {
+        "game": "oras-or",
+        "text": "Ce Pokémon est difficile à entraîner car il est très désobéissant\net déteste qu’on lui rende service."
+      },
+      {
+        "game": "oras-as",
+        "text": "Il est fier et déteste accepter la nourriture qu’on lui offre.\nSon pelage épais le protège du froid."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Plinfa",
+    "genus": "Pinguin",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Einmischung kann es gar nicht leiden. Es ist bockig\nund fasst nur schwer Zutrauen zu seinem Trainer."
+      },
+      {
+        "game": "xy-y",
+        "text": "Es ist sehr stolz und nimmt daher kein Futter von\nanderen an. Seine dicken Daunen schützen vor Kälte."
+      },
+      {
+        "game": "oras-or",
+        "text": "Einmischung kann es gar nicht leiden. Es ist bockig und fasst\nnur schwer Zutrauen zu seinem Trainer."
+      },
+      {
+        "game": "oras-as",
+        "text": "Es ist sehr stolz und nimmt daher kein Futter von anderen an.\nSeine dicken Daunen schützen vor Kälte."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Piplup",
+    "genus": "Pokémon Pingüino",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "No le gusta que lo cuiden. Como no aprecia el apoyo\nde su Entrenador, le cuesta coger confianza con él."
+      },
+      {
+        "game": "xy-y",
+        "text": "Es muy orgulloso, por lo que odia aceptar comida de\nla gente. Su grueso plumón lo protege del frío."
+      },
+      {
+        "game": "oras-or",
+        "text": "No le gusta que lo cuiden. Como no aprecia el apoyo de su\nEntrenador, le cuesta coger confianza con él."
+      },
+      {
+        "game": "oras-as",
+        "text": "Es muy orgulloso, por lo que odia aceptar comida de la\ngente. Su grueso plumón lo protege del frío."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Piplup",
+    "genus": "Pokémon Pinguino",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Molto orgoglioso. Difficile farci amicizia perché\nnon ascolta mai i consigli dell’Allenatore."
+      },
+      {
+        "game": "xy-y",
+        "text": "È molto orgoglioso e odia accettare cibo dalla gente.\nLe fitte piume lo proteggono dal freddo."
+      },
+      {
+        "game": "oras-or",
+        "text": "Molto orgoglioso. Difficile farci amicizia perché non ascolta mai\ni consigli dell’Allenatore."
+      },
+      {
+        "game": "oras-as",
+        "text": "È molto orgoglioso e odia accettare cibo dalla gente.\nLe fitte piume lo proteggono dal freddo."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Piplup",
+    "genus": "Penguin Pokémon",
+    "flavorText": [
+      {
+        "game": "dp-d",
+        "text": "Because it is very proud, it hates\naccepting food from people. Its\nthick down guards it from cold."
+      },
+      {
+        "game": "dp-p",
+        "text": "It lives along shores in northern\ncountries. A skilled swimmer, it\ndives for over 10 minutes to hunt."
+      },
+      {
+        "game": "pt",
+        "text": "A poor walker, it often falls down.\nHowever, its strong pride makes it\npuff up its chest without a care."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "It doesn’t like to be taken care\nof. It’s difficult to bond with since\nit won’t listen to its Trainer."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "It doesn’t like to be taken care\nof. It’s difficult to bond with since\nit won’t listen to its Trainer."
+      },
+      {
+        "game": "bw-b",
+        "text": "A poor walker, it often falls down.\nHowever, its strong pride makes it\npuff up its chest without a care."
+      },
+      {
+        "game": "bw-w",
+        "text": "A poor walker, it often falls down.\nHowever, its strong pride makes it\npuff up its chest without a care."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "A poor walker, it often falls down.\nHowever, its strong pride makes it\npuff up its chest without a care."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "A poor walker, it often falls down.\nHowever, its strong pride makes it\npuff up its chest without a care."
+      },
+      {
+        "game": "xy-x",
+        "text": "It doesn’t like to be taken care of. It’s difficult to\nbond with since it won’t listen to its Trainer."
+      },
+      {
+        "game": "xy-y",
+        "text": "Because it is very proud, it hates accepting food\nfrom people. Its thick down guards it from cold."
+      },
+      {
+        "game": "oras-or",
+        "text": "It doesn’t like to be taken care of. It’s difficult to\nbond with since it won’t listen to its Trainer."
+      },
+      {
+        "game": "oras-as",
+        "text": "Because it is very proud, it hates accepting food\nfrom people. Its thick down guards it from cold."
+      },
+      {
+        "game": "la",
+        "text": "Prefers cold climes and appears along coasts. It's an adorable\nlittle thing—as cute as any child—but it's also prideful, unwilling\nto accept handouts from people."
+      }
+    ]
+  },
+  "chs": {
+    "name": "波加曼",
+    "genus": "企鹅宝可梦",
+    "flavorText": []
+  }
+}

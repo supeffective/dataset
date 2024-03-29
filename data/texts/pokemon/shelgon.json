@@ -1,0 +1,453 @@
+{
+  "jap": {
+    "name": "コモルー",
+    "genus": "にんたいポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "かたい　カラの　なかでは　さいぼうが\nへんかを　はじめている。しんかする\nしゅんかんに　カラが　はがれおちる。"
+      },
+      {
+        "game": "xy-y",
+        "text": "あらゆる　こうげきを　はねかえす。\nじょうぶすぎて　からだが　おもいため\nすこし　うごきが　にぶい。"
+      },
+      {
+        "game": "oras-or",
+        "text": "かたい　カラの　ないぶは　さいぼうが　へんかして\nあたらしい　からだを　つくっている　さいちゅう。\nカラが　とても　おもいので　うごきは　にぶいぞ。"
+      },
+      {
+        "game": "oras-as",
+        "text": "からだを　おおっているのは　ホネのような　もの。\nとても　かたく　てきの　こうげきを　はねかえす。\nほらあなで　みを　ひそめ　しんかを　まっている。"
+      },
+      {
+        "game": "sm-s",
+        "text": "カラの　なかでは　ばくはつてきな\nスピードで　さいぼうが　へんかし\nしんかの　じゅんびを　しているぞ。"
+      },
+      {
+        "game": "sm-m",
+        "text": "ほらあなの　おくに　じっと　ひそみ\nなにも　くわず　なにも　のまない。\nなぜ　しなないのかは　ふめいだ。"
+      },
+      {
+        "game": "usum-us",
+        "text": "たいないの　さいぼうが　めまぐるしく\nへんかしている　さいちゅう。　かたい\nカラは　ホネと　おなじ　せいぶんだ。"
+      },
+      {
+        "game": "usum-um",
+        "text": "どうくつの　おくふかくに　すむ。\nかたい　カラの　なかに　とじこもり\nそらを　とぶ　ひを　ゆめ　みている。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "ほねと　おなじ　せいぶんで　できた\nかたい　カラで　からだを　つつむ。\nしんかの　エネルギーを　たくわえる。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "エサを　たべず　くうふくに　たえる。\nためた　エネルギーを　つかいきると\nしんかが　はじまるらしい。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Komoruu",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "쉘곤",
+    "genus": "인내포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "단단한 껍질 안은 세포가\n변화를 시작하고 있다. 진화하는\n순간에 껍질이 벗겨져 떨어진다."
+      },
+      {
+        "game": "xy-y",
+        "text": "모든 공격을 튕겨낸다.\n너무 튼튼해서 몸이 무겁기 때문에\n약간 움직임이 둔하다."
+      },
+      {
+        "game": "oras-or",
+        "text": "단단한 껍질 내부는 세포가 변화되어\n새로운 몸을 만드는 중이다.\n껍질이 매우 무거워서 움직임이 둔하다."
+      },
+      {
+        "game": "oras-as",
+        "text": "몸을 감싸고 있는 것은 뼈와 같은 것이다.\n매우 단단해서 적의 공격을 튕겨낸다.\n동굴에서 몸을 숨기고 진화를 기다리고 있다."
+      },
+      {
+        "game": "sm-s",
+        "text": "껍질 안에서는 폭발적인\n스피드로 세포가 변화하며\n진화의 준비를 하고 있다."
+      },
+      {
+        "game": "sm-m",
+        "text": "동굴 깊숙한 곳에 가만히 숨어\n아무것도 먹지도 마시지도 않는다.\n어째서 죽지 않는지는 의문이다."
+      },
+      {
+        "game": "usum-us",
+        "text": "체내의 세포가 빠르게\n변화하고 있는 중이다. 단단한\n껍질은 뼈와 같은 성분이다."
+      },
+      {
+        "game": "usum-um",
+        "text": "동굴 깊숙한 곳에 산다.\n단단한 껍질 속에 틀어박혀\n하늘을 나는 날을 꿈꾸고 있다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "뼈와 같은 성분으로 만들어진\n단단한 껍질로 몸을 감쌌다.\n진화의 에너지를 비축하고 있다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "먹이를 먹지 않고 공복으로 버틴다.\n모은 에너지를 다 사용하면\n진화가 시작되는 듯하다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "甲殼龍",
+    "genus": "耐力寶可夢",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "細胞在殼中\n以爆發般的速度變化，\n正在為進化做準備。"
+      },
+      {
+        "game": "sm-m",
+        "text": "一動不動地潛伏在洞穴深處，\n不吃也不喝。\n不知為何不會死掉。"
+      },
+      {
+        "game": "usum-us",
+        "text": "體內的細胞以令人\n目不暇給的速度不斷變化。\n堅硬的外殼成分與骨骼相同。"
+      },
+      {
+        "game": "usum-um",
+        "text": "棲息在洞窟深處。\n總是躲在堅硬的外殼裡，\n夢想著飛上天空的那一天。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "用成分與骨頭相同的硬殼\n覆蓋身體。體內蓄積著\n進化所需的能量。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "忍耐飢餓，不吃任何食物。\n據說當牠用盡了儲存的\n能量後，就會開始進化。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Drackhaus",
+    "genus": "Pokémon Endurant",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Ses cellules ont commencé à changer\ndans sa robuste coquille. Il la perd\nen évoluant."
+      },
+      {
+        "game": "bw-w",
+        "text": "Ses cellules ont commencé à changer\ndans sa robuste coquille. Il la perd\nen évoluant."
+      },
+      {
+        "game": "xy-x",
+        "text": "Ses cellules ont commencé à changer dans sa\nrobuste coquille. Il la perd en évoluant."
+      },
+      {
+        "game": "xy-y",
+        "text": "Son corps renforcé repousse toutes les attaques.\nCependant, le poids important de cette armure\nempêche Drackhaus de se déplacer librement."
+      },
+      {
+        "game": "oras-or",
+        "text": "À l’intérieur de la carapace blindée de Drackhaus,\nses cellules sont en pleine transformation pour créer\nun nouveau corps. La carapace de ce Pokémon est\ntrès lourde, ce qui rend ses mouvements très lents."
+      },
+      {
+        "game": "oras-as",
+        "text": "Des excroissances osseuses recouvrent le corps de\nDrackhaus. Cette carapace est extrêmement dure et le\nprotège des attaques ennemies. En attendant son évolution,\nce Pokémon reste caché dans une caverne."
+      },
+      {
+        "game": "sm-s",
+        "text": "À l’intérieur de sa carapace, ses cellules\nsubissent un bouleversement cataclysmique.\nIl se prépare ainsi à son évolution."
+      },
+      {
+        "game": "sm-m",
+        "text": "Il se cache sans bouger au fond de sa grotte,\nsans eau ni nourriture. Les raisons de sa survie\nsont, à franchement parler, un véritable mystère."
+      },
+      {
+        "game": "usum-us",
+        "text": "À l’intérieur de sa carapace, dont la composition\ns’apparente à celle des os, son corps subit\nune véritable révolution cellulaire."
+      },
+      {
+        "game": "usum-um",
+        "text": "Il habite au fond des grottes et, bien à l’abri\nau creux de sa solide carapace, il rêve du jour\noù il pourra enfin s’envoler dans les cieux."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Ce Pokémon emmagasine l’énergie nécessaire\nà son évolution sous sa carapace dont\nla composition est identique à celles des os."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Il se prive de nourriture, résistant à la faim.\nOn dit que son évolution commence lorsque\nses réserves d’énergie sont épuisées."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Draschel",
+    "genus": "Durchsteher-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Die Zellen seines Panzers fingen an, sich zu verändern.\nEr fällt ab, sobald sich das Pokémon entwickelt."
+      },
+      {
+        "game": "xy-y",
+        "text": "Von seinem gepanzerten Körper prallen alle\nAngriffe ab. Die Panzerung ist jedoch zu hart,\nsodass es schwer und träge ist."
+      },
+      {
+        "game": "oras-or",
+        "text": "In Draschels panzerartiger Schale vollziehen seine Zellen\neine Transformation, um einen völlig neuen Körper zu bilden.\nDie Schale dieses Pokémon ist ausgesprochen schwer,\nsodass seine Bewegungen träge wirken."
+      },
+      {
+        "game": "oras-as",
+        "text": "Auf Draschels Körper befinden sich knochenähnliche\nAuswüchse. Sein Panzer ist sehr hart und wehrt jeden\nAngriff eines Gegners ab. Während es auf seine Entwicklung\nwartet, versteckt es sich in einer Höhle."
+      },
+      {
+        "game": "sm-s",
+        "text": "In Draschels Schale vollziehen seine Zellen\nin Vorbereitung auf seine Entwicklung\neine explosionsartige Transformation."
+      },
+      {
+        "game": "sm-m",
+        "text": "Es hält sich in den Tiefen einer Höhle versteckt,\nwo es weder trinkt noch isst. Niemand weiß so\nrecht, wie es eigentlich überleben kann."
+      },
+      {
+        "game": "usum-us",
+        "text": "Die Zellen in seinem Körper sind in ständigem,\nrasantem Wandel begriffen. Seine Schale\nbesteht aus derselben Substanz wie Knochen."
+      },
+      {
+        "game": "usum-um",
+        "text": "Es lebt tief im Inneren von Höhlen. Von seiner\nharten Schale umgeben träumt es von dem Tag,\nan dem es am Himmel fliegt."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Es hüllt seinen Körper in eine harte Schale,\ndie Knochengewebe gleicht, und sammelt so\nEnergie für seine Entwicklung."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Es ignoriert sein Hungergefühl und isst nichts.\nDraschels Entwicklung setzt anscheinend ein,\nwenn all seine Energiereserven aufgebraucht sind."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Shelgon",
+    "genus": "Pokémon Resistencia",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Las células han empezado a cambiar dentro de su dura\nconcha, que se separa cuando evoluciona."
+      },
+      {
+        "game": "xy-y",
+        "text": "La robusta capa que lo rodea repele los ataques.\nAunque es una buena protección, lo hace lento y\npesado."
+      },
+      {
+        "game": "oras-or",
+        "text": "Dentro de la capa acorazada de Shelgon, las células están en\npleno proceso de creación de un cuerpo nuevo. El peso de la\ncoraza le hace tener unos movimientos lentos."
+      },
+      {
+        "game": "oras-as",
+        "text": "Shelgon está recubierto por una especie de capa ósea: una\ncoraza muy dura que hace rebotar los ataques enemigos. Este\nPokémon se esconde en las cavernas para evolucionar."
+      },
+      {
+        "game": "sm-s",
+        "text": "En el interior de su coraza, las células se\ntransforman a una velocidad vertiginosa para\npreparar su evolución."
+      },
+      {
+        "game": "sm-m",
+        "text": "Permanece quieto en el fondo de las grutas sin\nprobar bocado ni beber ningún líquido. Resulta\nsorprendente que pueda sobrevivir así."
+      },
+      {
+        "game": "usum-us",
+        "text": "Las células de su cuerpo se transforman a una\nvelocidad vertiginosa. Su dura coraza está\nformada por una especie de tejido óseo."
+      },
+      {
+        "game": "usum-um",
+        "text": "Vive en el fondo de las grutas. Mientras se\nrecluye en su dura concha, sueña con el día\nen el que pueda surcar el cielo volando."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Lo recubre una dura coraza de tejido óseo. En el\ninterior, acumula energía de cara a la evolución."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Aguanta el hambre sin comer nada. Al parecer,\ninicia el proceso evolutivo cuando se agota toda\nla energía que tenía acumulada."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Shelgon",
+    "genus": "Pokémon Resistenza",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Nella sua dura corazza le cellule hanno cominciato\na cambiare. Quando si evolve, la corazza cade."
+      },
+      {
+        "game": "xy-y",
+        "text": "La sua corazza è capace di respingere qualsiasi\nattacco, ma lo appesantisce, rendendolo piuttosto\npigro."
+      },
+      {
+        "game": "oras-or",
+        "text": "All’interno della corazza-armatura di Shelgon, le cellule\nsono in continua trasformazione per creare un corpo\ncompletamente nuovo. La corazza pesantissima rende\ndifficili i movimenti."
+      },
+      {
+        "game": "oras-as",
+        "text": "Il corpo di Shelgon è ricoperto da escrescenze simili a ossa.\nQuesta corazza è così dura da proteggere completamente\ndagli attacchi nemici. Si rintana nelle grotte in attesa\ndell’evoluzione."
+      },
+      {
+        "game": "sm-s",
+        "text": "Le cellule all’interno della sua corazza mutano\na velocità vertiginosa in vista dell’evoluzione."
+      },
+      {
+        "game": "sm-m",
+        "text": "Si rintana nelle grotte senza bere né mangiare\nnulla. Gli studiosi non hanno ancora capito\ncome faccia a sopravvivere."
+      },
+      {
+        "game": "usum-us",
+        "text": "Le cellule all’interno della dura corazza,\ncomposta da materiale osseo, mutano a una\nvelocità vertiginosa."
+      },
+      {
+        "game": "usum-um",
+        "text": "Vive nelle profondità delle grotte. Resta chiuso\nnella dura corazza sognando il giorno in cui\nsarà in grado di volare."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Il suo corpo è protetto da una dura corazza\ncomposta di materiale osseo.\nAccumula energia per poi evolversi."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Resta a digiuno, sopportando la fame.\nSembra che l’evoluzione si inneschi quando\nesaurisce l’energia accumulata."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Shelgon",
+    "genus": "Endurance Pokémon",
+    "flavorText": [
+      {
+        "game": "rs-r",
+        "text": "Inside SHELGON’s armor-like shell, cells\nare in the midst of transformation\nto create an entirely new body.\fThis POKéMON’s shell is extremely heavy,\nmaking its movements sluggish."
+      },
+      {
+        "game": "rs-s",
+        "text": "Covering SHELGON’s body are outgrowths\nmuch like bones. The shell is very hard\nand bounces off enemy attacks.\fWhen awaiting evolution, this POKéMON\nhides away in a cavern."
+      },
+      {
+        "game": "e",
+        "text": "It hardly eats while it awaits evolution.\nIt becomes hardier by enduring hunger.\nIts shell peels off the instant it begins\nto evolve."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "Its armored body makes all attacks bounce\noff. The armor is too tough, however,\nmaking it heavy and somewhat sluggish."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "Its armored body makes all attacks bounce\noff. The armor is too tough, however,\nmaking it heavy and somewhat sluggish."
+      },
+      {
+        "game": "dp-d",
+        "text": "Within its rugged shell, its cells\nhave begun changing. The shell\npeels off the instant it evolves."
+      },
+      {
+        "game": "dp-p",
+        "text": "Within its rugged shell, its cells\nhave begun changing. The shell\npeels off the instant it evolves."
+      },
+      {
+        "game": "pt",
+        "text": "Within its rugged shell, its cells\nhave begun changing. The shell\npeels off the instant it evolves."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "It surrounds its body in an\niron-hard shell to accumulate\nenough power to evolve."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "It surrounds its body in an\niron-hard shell to accumulate\nenough power to evolve."
+      },
+      {
+        "game": "bw-b",
+        "text": "Within its rugged shell, its cells\nhave begun changing. The shell\npeels off the instant it evolves."
+      },
+      {
+        "game": "bw-w",
+        "text": "Within its rugged shell, its cells\nhave begun changing. The shell\npeels off the instant it evolves."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "Within its rugged shell, its cells\nhave begun changing. The shell\npeels off the instant it evolves."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "Within its rugged shell, its cells\nhave begun changing. The shell\npeels off the instant it evolves."
+      },
+      {
+        "game": "xy-x",
+        "text": "Within its rugged shell, its cells have begun\nchanging. The shell peels off the instant it evolves."
+      },
+      {
+        "game": "xy-y",
+        "text": "Its armored body makes all attacks bounce off.\nThe armor is too tough, however, making it heavy\nand somewhat sluggish."
+      },
+      {
+        "game": "oras-or",
+        "text": "Inside Shelgon’s armor-like shell, cells are in the midst of\ntransformation to create an entirely new body. This Pokémon’s\nshell is extremely heavy, making its movements sluggish."
+      },
+      {
+        "game": "oras-as",
+        "text": "Covering Shelgon’s body are outgrowths much like bones.\nThe shell is very hard and bounces off enemy attacks.\nWhen awaiting evolution, this Pokémon hides away in a cavern."
+      },
+      {
+        "game": "sm-s",
+        "text": "The cells within its shell transform with\nexplosive speed, preparing it for evolution."
+      },
+      {
+        "game": "sm-m",
+        "text": "They lurk deep within caves—motionless,\nneither eating nor drinking. Why they don’t die is\nnot known."
+      },
+      {
+        "game": "usum-us",
+        "text": "The cells within its body are changing at a\nbewildering pace. Its hard shell is made from\nthe same substance as bone."
+      },
+      {
+        "game": "usum-um",
+        "text": "Shelgon lives deep within caves. It stays shut\nup in its hard shell, dreaming of the day it will\nbe able to fly."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "This Pokémon has covered its body in a hard\nshell that has the same composition as bone.\nShelgon stores energy for evolution."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Shelgon ignores its hunger entirely, never eating\nany food. Apparently, Shelgon will evolve once\nall its energy stores are used up."
+      }
+    ]
+  },
+  "chs": {
+    "name": "甲壳龙",
+    "genus": "耐力宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "细胞在壳中\n以爆发般的速度变化，\n为进化做准备。"
+      },
+      {
+        "game": "sm-m",
+        "text": "一动不动地潜伏在洞穴深处，\n不吃也不喝。\n不知为何不会死掉。"
+      },
+      {
+        "game": "usum-us",
+        "text": "体内的细胞正处于千变万化的时期。\n坚硬的壳与骨头的成分相同。"
+      },
+      {
+        "game": "usum-um",
+        "text": "栖息在洞窟的深处，\n躲在坚硬的外壳里，\n梦想着飞上天空的那一天。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "覆盖着身体的硬壳\n成分和骨头相同。\n正在储备进化的能量。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "可以不吃食物忍受饥饿。\n据说当它用尽积蓄的能量后，\n就会开始进化。"
+      }
+    ]
+  }
+}

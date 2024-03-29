@@ -1,0 +1,199 @@
+{
+  "jap": {
+    "name": "ミジュマル",
+    "genus": "ラッコポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "おなかに　できる　ホタチは\nたたかうとき　だけでなく　かたい\nきのみを　わるときにも　つかう。"
+      },
+      {
+        "game": "xy-y",
+        "text": "おなかの　ホタチで　たたかう。\nこうげきを　うけとめてから　すかさず\nきりつけて　はんげきするのだ。"
+      },
+      {
+        "game": "oras-or",
+        "text": "おなかに　できる　ホタチは\nたたかうとき　だけでなく　かたい\nきのみを　わるときにも　つかう。"
+      },
+      {
+        "game": "oras-as",
+        "text": "おなかの　ホタチで　たたかう。\nこうげきを　うけとめてから　すかさず\nきりつけて　はんげきするのだ。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Mijumaru",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "수댕이",
+    "genus": "해달포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "배에 생기는 가리비칼은\n싸울 때뿐 아니라 딱딱한\n나무열매를 쪼갤 때도 사용한다."
+      },
+      {
+        "game": "xy-y",
+        "text": "배에 있는 가리비칼로 싸운다.\n공격을 막고 그 즉시\n베어 반격한다."
+      },
+      {
+        "game": "oras-or",
+        "text": "배에 생기는 가리비칼은\n싸울 때뿐 아니라 딱딱한\n나무열매를 쪼갤 때도 사용한다."
+      },
+      {
+        "game": "oras-as",
+        "text": "배에 있는 가리비칼로 싸운다.\n공격을 막고 그 즉시\n베어 반격한다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "水水獺",
+    "genus": "海獺寶可夢",
+    "flavorText": []
+  },
+  "fra": {
+    "name": "Moustillon",
+    "genus": "Pokémon Loutre",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Il combat avec le coupillage de son\nventre. Il peut parer un assaut et\nimmédiatement contre-attaquer."
+      },
+      {
+        "game": "bw-w",
+        "text": "Le coupillage sur son ventre est fait de\nla même matière que ses griffes. Il le\ndétache pour l’utiliser comme une dague."
+      },
+      {
+        "game": "xy-x",
+        "text": "Le coupillage sur son ventre lui sert non seulement à\ncombattre, mais aussi à trancher les Baies très dures."
+      },
+      {
+        "game": "xy-y",
+        "text": "Il combat avec le coupillage de son ventre. Il peut\nparer un assaut et immédiatement contre-attaquer."
+      },
+      {
+        "game": "oras-or",
+        "text": "Le coupillage sur son ventre lui sert non seulement à\ncombattre, mais aussi à trancher les Baies très dures."
+      },
+      {
+        "game": "oras-as",
+        "text": "Il combat avec le coupillage de son ventre. Il peut parer\nun assaut et immédiatement contre-attaquer."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Ottaro",
+    "genus": "Otter",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Die Muschel an seinem Bauch dient ihm nicht nur\nals Waffe, sondern auch als Messer, mit dem es\nBeeren aufschneidet."
+      },
+      {
+        "game": "xy-y",
+        "text": "Kämpft mit der Muschel auf seinem Bauch.\nPariert es einen Angriff, schlägt es sofort\nmit einer Schnitt-Attacke zurück."
+      },
+      {
+        "game": "oras-or",
+        "text": "Die Muschel an seinem Bauch dient ihm nicht nur als Waffe,\nsondern auch als Messer, mit dem es Beeren aufschneidet."
+      },
+      {
+        "game": "oras-as",
+        "text": "Kämpft mit der Muschel auf seinem Bauch. Pariert es einen\nAngriff, schlägt es sofort mit einer Schnitt-Attacke zurück."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Oshawott",
+    "genus": "Pokémon Nutria",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "La vieira de su ombligo no solo sirve como arma, sino\ntambién como instrumento para cortar las bayas que\nestén duras."
+      },
+      {
+        "game": "xy-y",
+        "text": "Ataca con la vieira de su ombligo. En cuanto para un\nataque, pasa al contraataque sin dilación."
+      },
+      {
+        "game": "oras-or",
+        "text": "La vieira de su ombligo no solo sirve como arma, sino también\ncomo instrumento para cortar las bayas que estén duras."
+      },
+      {
+        "game": "oras-as",
+        "text": "Ataca con la vieira de su ombligo. En cuanto para un ataque,\npasa al contraataque sin dilación."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Oshawott",
+    "genus": "Pokémon Lontra",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Non usa la conchiglia del suo ventre solo durante\nla lotta, ma anche per tagliare a metà le bacche."
+      },
+      {
+        "game": "xy-y",
+        "text": "Combatte con la conchiglia che ha sul ventre.\nContrattacca prontamente dopo aver parato\nl’attacco avversario."
+      },
+      {
+        "game": "oras-or",
+        "text": "Non usa la conchiglia del suo ventre solo durante la lotta,\nma anche per tagliare a metà le bacche."
+      },
+      {
+        "game": "oras-as",
+        "text": "Combatte con la conchiglia che ha sul ventre. Contrattacca\nprontamente dopo aver parato l’attacco avversario."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Oshawott",
+    "genus": "Sea Otter Pokémon",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "It fights using the scalchop on its\nstomach. In response to an attack,\nit retaliates immediately by slashing."
+      },
+      {
+        "game": "bw-w",
+        "text": "The scalchop on its stomach is made from\nthe same elements as claws. It detaches\nthe scalchop for use as a blade."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "The scalchop on its stomach isn’t\njust used for battle--it can be used\nto break open hard berries as well."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "The scalchop on its stomach isn’t\njust used for battle--it can be used\nto break open hard berries as well."
+      },
+      {
+        "game": "xy-x",
+        "text": "The scalchop on its stomach isn’t just used for\nbattle--it can be used to break open hard berries\nas well."
+      },
+      {
+        "game": "xy-y",
+        "text": "It fights using the scalchop on its stomach.\nIn response to an attack, it retaliates immediately\nby slashing."
+      },
+      {
+        "game": "oras-or",
+        "text": "The scalchop on its stomach isn’t just used for\nbattle—it can be used to break open hard berries\nas well."
+      },
+      {
+        "game": "oras-as",
+        "text": "It fights using the scalchop on its stomach.\nIn response to an attack, it retaliates immediately\nby slashing."
+      },
+      {
+        "game": "la",
+        "text": "This Pokémon from the Unova region uses the shell on its belly\nas a weapon to cut down its foes. Thus, I've conferred upon this\nshell the name ”scalchop”."
+      }
+    ]
+  },
+  "chs": {
+    "name": "水水獭",
+    "genus": "海獭宝可梦",
+    "flavorText": []
+  }
+}

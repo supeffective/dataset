@@ -1,0 +1,341 @@
+{
+  "jap": {
+    "name": "ママンボウ",
+    "genus": "かいほうポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "おおうなばらを　ただよって　くらす。\nきずついた　ポケモンを　みつけると\nだきかかえて　きしまで　はこぶ。"
+      },
+      {
+        "game": "xy-y",
+        "text": "きずついたり　よわった　ポケモンを\nヒレで　やさしく　かかえながら\nとくしゅな　ねんまくで　なおすのだ。"
+      },
+      {
+        "game": "oras-or",
+        "text": "おおうなばらを　ただよって　くらす。\nきずついた　ポケモンを　みつけると\nだきかかえて　きしまで　はこぶ。"
+      },
+      {
+        "game": "oras-as",
+        "text": "きずついたり　よわった　ポケモンを\nヒレで　やさしく　かかえながら\nとくしゅな　ねんまくで　なおすのだ。"
+      },
+      {
+        "game": "sm-s",
+        "text": "きずついた　ポケモンを　だきしめ\nとくしゅな　ねんえきで　きずを\nふさぐ。　そのりゆうは　ふめい。"
+      },
+      {
+        "game": "sm-m",
+        "text": "おおうなばらを　ただよって　くらす。\nママンボウの　まわりには　おおくの\nみずポケモンが　あつまってくる。"
+      },
+      {
+        "game": "usum-us",
+        "text": "りょうしは　ながい　こうかいの　とき\nつれていく。　ママンボウが　いれば\nいしゃも　くすりも　いらないからだ。"
+      },
+      {
+        "game": "usum-um",
+        "text": "よわった　ポケモンを　たすけるのは\nそれを　ねらう　ポケモンに\nじぶんも　おそわれるから　らしい。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Mamanbou",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "맘복치",
+    "genus": "돌보기포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "넓은 바다를 떠돌아다니며 산다.\n상처 입은 포켓몬을 발견하면\n안고서 물가까지 옮긴다."
+      },
+      {
+        "game": "xy-y",
+        "text": "상처 입거나 약해진 포켓몬을\n지느러미로 부드럽게 안으며\n특수한 점막으로 치료한다."
+      },
+      {
+        "game": "oras-or",
+        "text": "넓은 바다를 떠돌아다니며 산다.\n상처 입은 포켓몬을 발견하면\n안고서 물가까지 옮긴다."
+      },
+      {
+        "game": "oras-as",
+        "text": "상처 입거나 약해진 포켓몬을\n지느러미로 부드럽게 안으며\n특수한 점막으로 치료한다."
+      },
+      {
+        "game": "sm-s",
+        "text": "다친 포켓몬을 끌어안아\n특수한 점액으로 상처를\n덮는다. 그 이유는 불명이다."
+      },
+      {
+        "game": "sm-m",
+        "text": "넓은 바다를 떠돌아다니며 산다.\n맘복치 주변에는 많은\n물포켓몬들이 모여든다."
+      },
+      {
+        "game": "usum-us",
+        "text": "어부가 긴 항해를 할 때\n데려간다. 맘복치가 있으면\n의사도 약도 필요 없기 때문이다."
+      },
+      {
+        "game": "usum-um",
+        "text": "약해진 포켓몬을 도와주는 것은\n이를 노리고 오는 포켓몬에게\n자신도 공격받기 때문이라고 한다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "保母曼波",
+    "genus": "看護寶可夢",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "抱著受傷的寶可夢，\n用特殊的黏液敷傷口。\n但理由不明。"
+      },
+      {
+        "game": "sm-m",
+        "text": "漂浮在汪洋大海上生活。\n保母曼波的周圍\n會聚集起許多水屬性寶可夢。"
+      },
+      {
+        "game": "usum-us",
+        "text": "漁夫在長程航海時會帶著牠。\n有保母曼波在身邊\n就不需要醫生或藥物了。"
+      },
+      {
+        "game": "usum-um",
+        "text": "之所以救助衰弱的寶可夢，\n好像是因為自己也會被\n盯上牠們的寶可夢襲擊。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Mamanbo",
+    "genus": "Pokémon Soigneur",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "La membrane spéciale qui entoure\nson corps a la capacité de guérir\nles blessures."
+      },
+      {
+        "game": "bw-w",
+        "text": "Il vit en dérivant dans les grands\nocéans. Quand il trouve des Pokémon\nblessés, il les ramène jusqu’à la côte."
+      },
+      {
+        "game": "xy-x",
+        "text": "Il vit en dérivant dans les grands océans. Quand il\ntrouve des Pokémon blessés, il les ramène jusqu’à\nla côte."
+      },
+      {
+        "game": "xy-y",
+        "text": "Il berce les Pokémon blessés dans ses nageoires et\nles guérit grâce à la membrane dont il est recouvert."
+      },
+      {
+        "game": "oras-or",
+        "text": "Il vit en dérivant dans les grands océans. Quand il trouve\ndes Pokémon blessés, il les ramène jusqu’à la côte."
+      },
+      {
+        "game": "oras-as",
+        "text": "Il berce les Pokémon blessés dans ses nageoires et les guérit\ngrâce à la membrane dont il est recouvert."
+      },
+      {
+        "game": "sm-s",
+        "text": "Il recueille les Pokémon blessés et referme\nleurs plaies grâce à son mucus spécial.\nPar pur altruisme ? Nul ne le sait."
+      },
+      {
+        "game": "sm-m",
+        "text": "Il se laisse dériver au gré des courants\nocéaniques profonds. De nombreux Pokémon\nEau se rassemblent toujours autour de lui."
+      },
+      {
+        "game": "usum-us",
+        "text": "Ses talents de guérisseur sont tels que\nles marins l’emportent quand ils embarquent\npour une longue traversée."
+      },
+      {
+        "game": "usum-um",
+        "text": "On pense qu’il protège les Pokémon affaiblis\nparce qu’il partage avec eux les mêmes\nprédateurs."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Mamolida",
+    "genus": "Fürsorge",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Es treibt durch den Ozean. Findet es ein verletztes\nPokémon, nimmt es dieses auf und trägt es zurück\nan Land."
+      },
+      {
+        "game": "xy-y",
+        "text": "Es umarmt verletzte und geschwächte Pokémon\nliebevoll mit seinen Flossen und heilt sie mit einem\nspeziellen Schleim."
+      },
+      {
+        "game": "oras-or",
+        "text": "Es treibt durch den Ozean. Findet es ein verletztes Pokémon,\nnimmt es dieses auf und trägt es zurück an Land."
+      },
+      {
+        "game": "oras-as",
+        "text": "Es umarmt verletzte und geschwächte Pokémon liebevoll mit\nseinen Flossen und heilt sie mit einem speziellen Schleim."
+      },
+      {
+        "game": "sm-s",
+        "text": "Es umarmt verletzte Pokémon und bedeckt ihre\nWunden mit einem speziellen Schleim. Niemand\nweiß, warum es das tut."
+      },
+      {
+        "game": "sm-m",
+        "text": "Es treibt durch den Ozean. Um Mamolida\nversammeln sich stets viele Wasser-Pokémon."
+      },
+      {
+        "game": "usum-us",
+        "text": "Auf langen Seereisen lassen sich Fischer von\nMamolida begleiten. So ersparen Sie sich nämlich\neinen Arzt und Medizin."
+      },
+      {
+        "game": "usum-um",
+        "text": "Mamolida kümmert sich offenbar um verletzte\nPokémon, um nicht selbst von denen angegriffen\nzu werden, die es auf diese abgesehen haben."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Alomomola",
+    "genus": "Pokémon Socorrista",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Vive flotando a la deriva en mar abierto. Siempre que\nencuentra un Pokémon herido, lo abraza y lo lleva a la\ncosta."
+      },
+      {
+        "game": "xy-y",
+        "text": "Abraza gentilmente con sus aletas a Pokémon que\nestán lastimados y cura sus heridas con su membrana\nespecial."
+      },
+      {
+        "game": "oras-or",
+        "text": "Vive flotando a la deriva en mar abierto. Siempre que\nencuentra un Pokémon herido, lo abraza y lo lleva a la\ncosta."
+      },
+      {
+        "game": "oras-as",
+        "text": "Abraza gentilmente con sus aletas a Pokémon que están\nlastimados y cura sus heridas con su membrana especial."
+      },
+      {
+        "game": "sm-s",
+        "text": "Se acerca a los Pokémon heridos y cura sus\nheridas con la mucosidad especial que segrega.\nSe desconoce el motivo de este comportamiento."
+      },
+      {
+        "game": "sm-m",
+        "text": "Vive flotando a la deriva en mar abierto. Muchos\nPokémon de tipo Agua se arremolinan a su\nalrededor."
+      },
+      {
+        "game": "usum-us",
+        "text": "Los pescadores siempre lo llevan consigo en las\ntravesías largas, porque al tener un Alomomola\nno les hacen falta ni medicinas ni médicos."
+      },
+      {
+        "game": "usum-um",
+        "text": "Se cree que ayuda a los Pokémon heridos y\ndebilitados de forma que los depredadores\nnaturales de estos no le ataquen a él también."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Alomomola",
+    "genus": "Pokémon Assistenza",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Vive in mare aperto trasportato dalle onde. Se si\nimbatte in un Pokémon ferito, lo riaccompagna a riva."
+      },
+      {
+        "game": "xy-y",
+        "text": "Abbraccia dolcemente con le sue pinne i Pokémon\ndeboli o feriti e li guarisce grazie a una speciale\nmembrana mucosa."
+      },
+      {
+        "game": "oras-or",
+        "text": "Vive in mare aperto trasportato dalle onde. Se si imbatte\nin un Pokémon ferito, lo riaccompagna a riva."
+      },
+      {
+        "game": "oras-as",
+        "text": "Abbraccia dolcemente con le sue pinne i Pokémon deboli\no feriti e li guarisce grazie a una speciale membrana mucosa."
+      },
+      {
+        "game": "sm-s",
+        "text": "Abbraccia i Pokémon feriti e li guarisce grazie a\nuno speciale liquido viscoso.\nNon si sa perché lo faccia."
+      },
+      {
+        "game": "sm-m",
+        "text": "Vive in mare aperto, lasciandosi trasportare\ndalle onde. Attorno gli si radunano molti\nPokémon di tipo Acqua."
+      },
+      {
+        "game": "usum-us",
+        "text": "I pescatori li portano sempre con sé quando\npartono per lunghe traversate, perché dove c’è\nun Alomomola non servono medici né medicine."
+      },
+      {
+        "game": "usum-um",
+        "text": "Sembra che aiuti i Pokémon indeboliti per\nnon rischiare di essere attaccato da eventuali\nloro predatori."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Alomomola",
+    "genus": "Caring Pokémon",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "The special membrane enveloping\nAlomomola has the ability to heal wounds."
+      },
+      {
+        "game": "bw-w",
+        "text": "Floating in the open sea is how they live.\nWhen they find a wounded Pokémon,\nthey embrace it and bring it to shore."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "It gently holds injured and weak\nPokémon in its fins. Its special\nmembrane heals their wounds."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "It gently holds injured and weak\nPokémon in its fins. Its special\nmembrane heals their wounds."
+      },
+      {
+        "game": "xy-x",
+        "text": "Floating in the open sea is how they live.\nWhen they find a wounded Pokémon,\nthey embrace it and bring it to shore."
+      },
+      {
+        "game": "xy-y",
+        "text": "It gently holds injured and weak Pokémon in its\nfins. Its special membrane heals their wounds."
+      },
+      {
+        "game": "oras-or",
+        "text": "Floating in the open sea is how they live.\nWhen they find a wounded Pokémon,\nthey embrace it and bring it to shore."
+      },
+      {
+        "game": "oras-as",
+        "text": "It gently holds injured and weak Pokémon in its\nfins. Its special membrane heals their wounds."
+      },
+      {
+        "game": "sm-s",
+        "text": "It uses its special mucus to close the wounds of\ninjured Pokémon. The reason for this behavior\nremains unknown."
+      },
+      {
+        "game": "sm-m",
+        "text": "They float upon the open sea. Many water\nPokémon gather in the area around Alomomola."
+      },
+      {
+        "game": "usum-us",
+        "text": "Fishermen take them along on long voyages,\nbecause if you have an Alomomola with you,\nthere’ll be no need for a doctor or medicine."
+      },
+      {
+        "game": "usum-um",
+        "text": "The reason it helps Pokémon in a weakened\ncondition is that any Pokémon coming after\nthem may also attack Alomomola."
+      }
+    ]
+  },
+  "chs": {
+    "name": "保姆曼波",
+    "genus": "看护宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "抱着受伤的宝可梦，\n用特殊的粘液敷伤口。\n但其中的理由不太清楚。"
+      },
+      {
+        "game": "sm-m",
+        "text": "漂浮在汪洋大海上生活。\n保姆曼波的周围\n会聚集起许多水属性宝可梦。"
+      },
+      {
+        "game": "usum-us",
+        "text": "渔夫在长距离航海时会带着它。\n因为有了保姆曼波，\n医生和药都不需要了。"
+      },
+      {
+        "game": "usum-um",
+        "text": "之所以会救助体弱的宝可梦，\n好像是因为盯上它们的\n宝可梦也会攻击它自己。"
+      }
+    ]
+  }
+}

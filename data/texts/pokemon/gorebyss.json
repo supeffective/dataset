@@ -1,0 +1,309 @@
+{
+  "jap": {
+    "name": "サクラビス",
+    "genus": "なんかいポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "うみの　そこで　くらしているが\nはるになると　からだの　ピンクいろが\nなぜか　あざやかに　いろづく。"
+      },
+      {
+        "game": "xy-y",
+        "text": "およぐ　すがたは　とても　ゆうが。\nほそい　くちで　いわばの　すきまに\nはえた　かいそうを　たべる。"
+      },
+      {
+        "game": "oras-or",
+        "text": "みなみの　しんかいに　せいそくする　ポケモン。\nしんかいの　すいあつに　きたえられた　からだは\nちょっとの　こうげきでは　キズも　つかない。"
+      },
+      {
+        "game": "oras-as",
+        "text": "およぐ　すがたは　ゆうがで　とても　きれいだが\nえものを　みつけると　ほそい　くちを　からだに\nさしこんで　たいえきを　ずるずる　すするぞ。"
+      },
+      {
+        "game": "usum-us",
+        "text": "からだの　いろは　みずの　おんどで\nへんかする。　アローラの　サクラビスは\nまぶしいほど　あざやかに　いろづく。"
+      },
+      {
+        "game": "usum-um",
+        "text": "えものの　たいえきを　すう。\nにくは　かいていに　しずみ　ほかの\nポケモンの　エサに　なるのだ。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Sakurabyss",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "분홍장이",
+    "genus": "남해포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-y",
+        "text": "헤엄치는 모습이 굉장히 우아하다.\n가는 입으로 바위 틈새에 나 있는\n해초를 먹는다."
+      },
+      {
+        "game": "xy-x",
+        "text": "바다의 밑바닥에 살고 있지만\n봄이 되면 몸의 분홍색이\n웬일인지 선명하게 물든다."
+      },
+      {
+        "game": "oras-or",
+        "text": "남쪽 심해에 서식하는 포켓몬이다.\n심해의 수압에 단련된 몸은\n어지간한 공격에는 상처조차 입지 않는다."
+      },
+      {
+        "game": "oras-as",
+        "text": "헤엄치는 모습은 우아하고 매우 아름답지만\n먹이를 발견하면 가는 입을 몸에\n박아 넣고 체액을 후루룩 마신다."
+      },
+      {
+        "game": "usum-us",
+        "text": "몸의 색깔은 물의 온도로 변화한다.\n알로라의 분홍장이는 눈부실 정도로\n선명한 빛깔을 지녔다."
+      },
+      {
+        "game": "usum-um",
+        "text": "먹이의 체액을 빨아들인다.\n고기는 바다 밑으로 가라앉아\n다른 포켓몬의 먹이가 된다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "櫻花魚",
+    "genus": "南海寶可夢",
+    "flavorText": [
+      {
+        "game": "usum-us",
+        "text": "體色會隨著水溫而變化，\n阿羅拉的櫻花魚呈現著\n耀眼奪目的鮮豔色彩。"
+      },
+      {
+        "game": "usum-um",
+        "text": "會吸取獵物的體液。\n剩下的肉會沉入海底，\n成為其他寶可夢的食物。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Rosabyss",
+    "genus": "Pokémon Mer du Sud",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Au printemps, son corps rose se\nfait plus vif sans que l’on sache\npourquoi. Il vit au fond de la mer."
+      },
+      {
+        "game": "bw-w",
+        "text": "Au printemps, son corps rose se\nfait plus vif sans que l’on sache\npourquoi. Il vit au fond de la mer."
+      },
+      {
+        "game": "xy-x",
+        "text": "Au printemps, son corps rose se fait plus vif sans que\nl’on sache pourquoi. Il vit au fond de la mer."
+      },
+      {
+        "game": "xy-y",
+        "text": "Sa façon de se déplacer sous l’eau est d’une\nélégance incomparable. Du bout de sa fine bouche, il\nse nourrit des algues qui poussent entre les rochers."
+      },
+      {
+        "game": "oras-or",
+        "text": "Rosabyss vit dans les profondeurs des mers du sud.\nSon corps est conçu pour supporter l’énorme pression\ndes profondeurs abyssales. Du coup, le corps de ce Pokémon\nn’est pas endommagé par les attaques ordinaires."
+      },
+      {
+        "game": "oras-as",
+        "text": "Même si Rosabyss est l’image même de l’élégance et de la\nbeauté quand il nage, il est aussi très cruel. Quand il repère\nsa proie, ce Pokémon insère sa fine bouche dans le corps\nde sa proie et aspire ses fluides corporels."
+      },
+      {
+        "game": "usum-us",
+        "text": "La température de l’eau influence la couleur\nde son corps. À Alola, elle est tellement vive\nqu’elle en est éblouissante."
+      },
+      {
+        "game": "usum-um",
+        "text": "Il se nourrit en aspirant les fluides corporels\nde ses proies. Le reste tombe au fond de la mer,\nnourrissant ainsi d’autres Pokémon."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Saganabyss",
+    "genus": "Südsee",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Es lebt auf dem Grund des Meeres. Im Frühling\nwirkt die Farbe seines Körpers viel kräftiger."
+      },
+      {
+        "game": "xy-y",
+        "text": "Es schwimmt äußerst elegant. Mit seinem dünnen\nMaul ernährt es sich von Seetang, der zwischen\nFelsen wächst."
+      },
+      {
+        "game": "oras-or",
+        "text": "Saganabyss lebt in extremen Tiefen des Südmeeres. Sein\nKörper ist so angelegt, dass er dem enormen Wasserdruck\ndieser unglaublichen Tiefe standhalten kann. Daher übersteht\ndieses Pokémon gewöhnliche Attacken unbeschadet."
+      },
+      {
+        "game": "oras-as",
+        "text": "Obwohl Saganabyss beim Schwimmen ein Bild von Eleganz\nund Schönheit bietet, kann es auch sehr grausam sein.\nWenn es Beute sichtet, sticht es sein dünnes Maul in den\nKörper eines Gegners und entzieht ihm die Flüssigkeit."
+      },
+      {
+        "game": "usum-us",
+        "text": "Die Farbe seines Körpers ändert sich je nach\nWassertemperatur. In Alola verfügt es über eine\nfast schon blendend grelle Färbung."
+      },
+      {
+        "game": "usum-um",
+        "text": "Es saugt die Körpersäfte seiner Beute aus.\nWas übrig bleibt, sinkt zu Boden und wird\nvon anderen Pokémon verspeist."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Gorebyss",
+    "genus": "Pokémon Mar del Sur",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Vive en el fondo del mar. En primavera, su cuerpo\nrosado adquiere colores más vivos."
+      },
+      {
+        "game": "xy-y",
+        "text": "Tiene una forma de nadar de lo más elegante. Se\nalimenta de las algas marinas que crecen entre las\nrocas."
+      },
+      {
+        "game": "oras-or",
+        "text": "Gorebyss vive en los mares del sur, en lo más profundo; de\nahí que tenga el cuerpo preparado para soportar la presión tan\ngrande que hay en el fondo marino, y que no le hagan daño\nlos ataques comunes."
+      },
+      {
+        "game": "oras-as",
+        "text": "Aunque Gorebyss es la imagen de la elegancia y la belleza al\nnadar, es también la definición de la crueldad. Al detectar a su\npresa, este Pokémon le hinca los finos dientes que tiene y le\nabsorbe los fluidos corporales."
+      },
+      {
+        "game": "usum-us",
+        "text": "Su color de piel varía en base a la temperatura\ndel agua, y los que viven en Alola adoptan\ncolores tan vivos que llegan a deslumbrar."
+      },
+      {
+        "game": "usum-um",
+        "text": "Absorbe los fluidos corporales de su presa. Los\nrestos que deja caen hasta el lecho marino y se\nconvierten en alimento para otros Pokémon."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Gorebyss",
+    "genus": "Pokémon Sudmarino",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Vive sui fondali marini. In primavera il suo corpo\nrosato diventa più vivido per chissà quale motivo."
+      },
+      {
+        "game": "xy-y",
+        "text": "Nuota con grande eleganza. Si nutre di alghe, che\ncattura tra le rocce con il muso appuntito."
+      },
+      {
+        "game": "oras-or",
+        "text": "Gorebyss vive nei mari meridionali a profondità estreme.\nIl suo corpo è strutturato in modo da poter resistere\nall’incredibile pressione degli abissi. Proprio per questo\nil Pokémon è immune agli attacchi comuni."
+      },
+      {
+        "game": "oras-as",
+        "text": "Nonostante Gorebyss sia il ritratto dell’eleganza e della\nbellezza in nuoto, è anche molto crudele. Quando scova\nuna preda, la perfora con il muso appuntito e ne succhia\ni fluidi corporei."
+      },
+      {
+        "game": "usum-us",
+        "text": "Cambia colore in base alla temperatura\ndell’acqua. I Gorebyss che vivono ad Alola\nhanno un colore vivido e quasi abbagliante."
+      },
+      {
+        "game": "usum-um",
+        "text": "Succhia i fluidi corporei delle sue prede. La\ncarne che ne rimane sprofonda sui fondali marini\ne diventa prezioso nutrimento per altri Pokémon."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Gorebyss",
+    "genus": "South Sea Pokémon",
+    "flavorText": [
+      {
+        "game": "rs-r",
+        "text": "GOREBYSS lives in the southern seas\nat extreme depths. Its body is built to\nwithstand the enormous pressure of\fwater at incredible depths. Because of\nthis, this POKéMON’s body is unharmed\nby ordinary attacks."
+      },
+      {
+        "game": "rs-s",
+        "text": "Although GOREBYSS is the very picture\nof elegance and beauty while swimming,\nit is also cruel. When it spots prey, this\fPOKéMON inserts its thin mouth into the\nprey’s body and drains the prey of its\nbody fluids."
+      },
+      {
+        "game": "e",
+        "text": "A GOREBYSS siphons the body fluids of prey\nthrough its thin, tubular mouth. Its light\npink body color turns vivid when it\nfinishes feeding."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "Its swimming form is exquisitely elegant.\nWith its thin mouth, it feeds on seaweed\nthat grows between rocks."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "Its swimming form is exquisitely elegant.\nWith its thin mouth, it feeds on seaweed\nthat grows between rocks."
+      },
+      {
+        "game": "dp-d",
+        "text": "It lives at the bottom of the sea.\nIn the springtime, its pink body\nturns more vivid for some reason."
+      },
+      {
+        "game": "dp-p",
+        "text": "It lives at the bottom of the sea.\nIn the springtime, its pink body\nturns more vivid for some reason."
+      },
+      {
+        "game": "pt",
+        "text": "It lives at the bottom of the sea.\nIn the springtime, its pink body\nturns more vivid for some reason."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "Its pink body becomes more vivid\nwith the rise of water\ntemperatures in the springtime."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "Its pink body becomes more vivid\nwith the rise of water\ntemperatures in the springtime."
+      },
+      {
+        "game": "bw-b",
+        "text": "It lives at the bottom of the sea.\nIn the springtime, its pink body\nturns more vivid for some reason."
+      },
+      {
+        "game": "bw-w",
+        "text": "It lives at the bottom of the sea.\nIn the springtime, its pink body\nturns more vivid for some reason."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "It lives at the bottom of the sea.\nIn the springtime, its pink body\nturns more vivid for some reason."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "It lives at the bottom of the sea.\nIn the springtime, its pink body\nturns more vivid for some reason."
+      },
+      {
+        "game": "xy-x",
+        "text": "It lives at the bottom of the sea. In the springtime,\nits pink body turns more vivid for some reason."
+      },
+      {
+        "game": "xy-y",
+        "text": "Its swimming form is exquisitely elegant.\nWith its thin mouth, it feeds on seaweed\nthat grows between rocks."
+      },
+      {
+        "game": "oras-or",
+        "text": "Gorebyss lives in the southern seas at extreme depths. Its\nbody is built to withstand the enormous pressure of water at\nincredible depths. Because of this, this Pokémon’s body is\nunharmed by ordinary attacks."
+      },
+      {
+        "game": "oras-as",
+        "text": "Although Gorebyss is the very picture of elegance and beauty\nwhile swimming, it is also cruel. When it spots prey, this\nPokémon inserts its thin mouth into the prey’s body and drains\nthe prey of its body fluids."
+      },
+      {
+        "game": "usum-us",
+        "text": "The color of its body changes with the water\ntemperature. The coloration of Gorebyss in Alola\nis almost blindingly vivid."
+      },
+      {
+        "game": "usum-um",
+        "text": "It sucks bodily fluids out of its prey. The\nleftover meat sinks to the seafloor, where it\nbecomes food for other Pokémon."
+      }
+    ]
+  },
+  "chs": {
+    "name": "樱花鱼",
+    "genus": "南海宝可梦",
+    "flavorText": [
+      {
+        "game": "usum-us",
+        "text": "身体的颜色根据水温而变化。\n阿罗拉的樱花鱼呈现出\n令人炫目的鲜艳色彩。"
+      },
+      {
+        "game": "usum-um",
+        "text": "吸食猎物的体液。\n剩下的肉会沉入海底，\n成为其他宝可梦的食物。"
+      }
+    ]
+  }
+}

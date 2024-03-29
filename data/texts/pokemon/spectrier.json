@@ -1,0 +1,133 @@
+{
+  "jap": {
+    "name": "レイスポス",
+    "genus": "しゅんばポケモン",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "しかく　いがいの　ごかんを　つかい\nようすを　さぐる。　けられたものは\nたましいを　ぬかれてしまうという。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "やみよを　かけぬけ　ねているものの\nせいめいエネルギーを　すいとる。\nこどくと　せいじゃくを　このむ。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Wraithpos",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "레이스포스",
+    "genus": "빠른말포켓몬",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "시각 이외의 오감을 사용해서\n동태를 살핀다. 발에 차인 자는\n영혼이 빠져나가 버린다고 한다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "어두운 밤을 달리며 잠든 자의\n생명 에너지를 흡수한다.\n고독과 정적을 좋아한다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "靈幽馬",
+    "genus": "駿馬寶可夢",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "會利用視覺之外的感官\n去探測周圍的狀況。據說\n被牠踢到時靈魂就會出竅。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "在漆黑的夜裡奔馳，吸取\n正在睡覺的生物的生命能量。\n喜愛孤獨與寂靜。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Spectreval",
+    "genus": "Pokémon Cheval Vif",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Il se sert de tous ses sens pour se repérer, sauf\ncelui de la vue. Un coup de ses sabots suffirait\nà séparer l’âme du corps de sa cible."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Ce Pokémon friand de silence et de solitude\ngalope à travers les ténèbres nocturnes\net aspire l’énergie vitale des êtres endormis."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Phantoross",
+    "genus": "Flinkblut-Pokémon",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Um sein Umfeld zu erkunden, nutzt es all seine\nSinne – bis auf den Sehsinn. Wer von Phantoross\ngetreten wird, verliert angeblich seine Seele."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Es galoppiert durch die finstere Nacht und\nabsorbiert die Lebensenergie der Schlafenden.\nPhantoross bevorzugt Einsamkeit und Stille."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Spectrier",
+    "genus": "Pokémon Corcel Veloz",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Examina su entorno con todos los sentidos, salvo\nla vista. Se dice que sus coces son capaces de\nrobarle el alma a quien las recibe."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Amante de la quietud y la soledad, galopa por\nlas tinieblas nocturnas absorbiendo la energía\nvital de toda criatura que esté durmiendo."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Spectrier",
+    "genus": "Pokémon Sveltequino",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Sonda l’area circostante con tutti i suoi sensi,\nesclusa la vista. Si narra che chi subisce i suoi\ncalci venga privato dell’anima."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Galoppa nelle notti buie assorbendo l’energia\nvitale delle creature addormentate.\nAma la solitudine e la quiete."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Spectrier",
+    "genus": "Swift Horse Pokémon",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "It probes its surroundings with all its senses save\none—it doesn’t use its sense of sight. Spectrier’s\nkicks are said to separate soul from body."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "As it dashes through the night, Spectrier absorbs\nthe life-force of sleeping creatures. It craves\nsilence and solitude."
+      }
+    ]
+  },
+  "chs": {
+    "name": "灵幽马",
+    "genus": "骏马宝可梦",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "使用视觉以外的五感探索\n周围的情况。据说如果\n被它踢到，就会灵魂出窍。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "在黑暗的夜晚中奔跑，吸取\n正在睡觉的生物的生命能量。\n喜欢孤独和静寂。"
+      }
+    ]
+  }
+}

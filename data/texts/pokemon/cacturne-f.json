@@ -1,0 +1,235 @@
+{
+  "jap": {
+    "name": "ノクタス",
+    "genus": "カカシぐさポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "よるになると　かつどうを　はじめる。\nさばくの　あつさに　つかれはてた\nえものを　みつけだし　とらえるのだ。"
+      },
+      {
+        "game": "xy-y",
+        "text": "さばくの　たびびとの　うしろを\nしゅうだんで　つきまとい　つかれて\nうごけなく　なるのを　まつのだ。"
+      },
+      {
+        "game": "oras-or",
+        "text": "さばくの　ひざしで　すいぶんを　うしなわない\nように　ひるまは　じっと　たちつくしている。\nきおんの　さがる　よるに　かつどうを　はじめる。"
+      },
+      {
+        "game": "oras-as",
+        "text": "まよなか　さばくを　あるく　たびびとの　うしろを\nぞろぞろと　しゅうだんで　くっついて　あるく。\nつかれて　うごけなく　なるのを　まっているのだ。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Noctus",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "밤선인",
+    "genus": "허수아비포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "밤이 되면 활동을 시작한다.\n사막의 뜨거움에 몹시 지친\n먹이를 찾아내어 붙잡는다."
+      },
+      {
+        "game": "xy-y",
+        "text": "사막의 여행자 뒤를\n집단으로 뒤쫓아 가 지쳐\n움직이지 못하기를 기다린다."
+      },
+      {
+        "game": "oras-or",
+        "text": "사막의 햇빛에 수분을 빼앗기지 않도록\n낮에는 가만히 계속하여 서 있다.\n기온이 떨어지는 밤에 활동을 시작한다."
+      },
+      {
+        "game": "oras-as",
+        "text": "한밤중에 사막을 걷는 여행자의 뒤를\n단체로 줄줄 달라붙어 걷는다.\n지쳐 움직이지 못하게 되기를 기다리고 있다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "夢歌仙人掌",
+    "genus": "稻草人寶可夢",
+    "flavorText": []
+  },
+  "fra": {
+    "name": "Cacturne",
+    "genus": "Pokémon Épouvantail",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Il sort la nuit pour chasser. Il\ntraque les proies épuisées après\nune journée dans le désert."
+      },
+      {
+        "game": "bw-w",
+        "text": "Il sort la nuit pour chasser. Il\ntraque les proies épuisées après\nune journée dans le désert."
+      },
+      {
+        "game": "xy-x",
+        "text": "Il sort la nuit pour chasser. Il traque les proies\népuisées après une journée dans le désert."
+      },
+      {
+        "game": "xy-y",
+        "text": "Les Cacturne traquent en groupe les voyageurs du\ndésert, guettant les signes de fatigue pour frapper."
+      },
+      {
+        "game": "oras-or",
+        "text": "Pendant la journée, Cacturne reste immobile pour éviter\nde se déshydrater sous le soleil du désert. Ce Pokémon\nne commence son activité qu’une fois la nuit tombée,\nsous une température plus fraîche."
+      },
+      {
+        "game": "oras-as",
+        "text": "Lorsqu’un voyageur traverse le désert au milieu de la nuit,\nles Cacturne le suivent en groupe. Ces Pokémon attendent\nle bon moment, quand le voyageur est fatigué et qu’il n’est\nplus capable de bouger."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Noktuska",
+    "genus": "Vogelschock",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Ein nachtaktives Pokémon, das Beute sucht, die durch\ndie Tageshitze der Wüste bereits erschöpft ist."
+      },
+      {
+        "game": "xy-y",
+        "text": "Gruppen von Noktuska folgen müden Wüstenreisenden\nund warten, bis diese bewegungsunfähig werden."
+      },
+      {
+        "game": "oras-or",
+        "text": "Am Tage bleibt Noktuska reglos, damit es in der brennenden\nWüstenhitze keine Feuchtigkeit verliert. Dieses Pokémon wird\nbei Nacht aktiv, wenn die Temperatur sinkt."
+      },
+      {
+        "game": "oras-as",
+        "text": "Wenn ein Reisender mitten in der Nacht durch eine\nWüste wandert, folgt Noktuska ihm und spielt ihm Streiche.\nDann wartet dieses Pokémon darauf, dass der Reisende\nmüde wird und sich nicht mehr bewegen kann."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Cacturne",
+    "genus": "Pokémon Espantajo",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Es un Pokémon nocturno. Busca presas agotadas por\nel calor diurno del desierto."
+      },
+      {
+        "game": "xy-y",
+        "text": "Persiguen en grupo a los viajeros del desierto y los\nacechan hasta que el cansancio los agote."
+      },
+      {
+        "game": "oras-or",
+        "text": "Durante el día, Cacturne permanece inmóvil para no perder\nnada de humedad bajo el sol de justicia del desierto. Este\nPokémon entra en acción por la noche, cuando bajan las\ntemperaturas."
+      },
+      {
+        "game": "oras-as",
+        "text": "Cuando alguien se adentra en un desierto por la noche,\nCacturne le sigue junto con varios de los suyos. Este\nPokémon espera pacientemente a que el viajero se fatigue\ny no pueda continuar más, vencido por el cansancio."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Cacturne",
+    "genus": "Pokémon Spavento",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Diventa attivo di notte, quando va a caccia di\nprede stremate dalla calura del deserto."
+      },
+      {
+        "game": "xy-y",
+        "text": "Gruppi di Cacturne nel deserto braccano i passanti\nfinché questi, spossati, non si muovono più."
+      },
+      {
+        "game": "oras-or",
+        "text": "Di giorno Cacturne rimane immobile in modo da non perdere\nneanche una goccia d’acqua al sole cocente del deserto.\nIl Pokémon si desta di notte quando cala la temperatura."
+      },
+      {
+        "game": "oras-as",
+        "text": "Se un viaggiatore passa attraverso il deserto nella notte\ntenebrosa, un gruppo scomposto di Cacturne lo segue.\nPoi attende pazientemente che il malcapitato sia esausto\ne incapace di muoversi."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Cacturne",
+    "genus": "Scarecrow Pokémon",
+    "flavorText": [
+      {
+        "game": "rs-r",
+        "text": "During the daytime, CACTURNE remains\nunmoving so that it does not lose any\nmoisture to the harsh desert sun.\fThis POKéMON becomes active at night\nwhen the temperature drops."
+      },
+      {
+        "game": "rs-s",
+        "text": "If a traveler is going through a desert\nin the thick of night, CACTURNE\nwill follow in a ragtag group.\fThe POKéMON are biding their time,\nwaiting for the traveler to tire and\nbecome incapable of moving."
+      },
+      {
+        "game": "e",
+        "text": "After spending thousands of years in\nharsh deserts, its blood transformed into\nthe same substances as sand. It is\nnocturnal, so it hunts at night."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "It lives in deserts. It becomes active at\nnight when it hunts for prey exhausted\nfrom the desert’s heat."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "It lives in deserts. It becomes active at\nnight when it hunts for prey exhausted\nfrom the desert’s heat."
+      },
+      {
+        "game": "dp-d",
+        "text": "It becomes active at night,\nseeking prey that is exhausted\nfrom the day’s desert heat."
+      },
+      {
+        "game": "dp-p",
+        "text": "It becomes active at night,\nseeking prey that is exhausted\nfrom the day’s desert heat."
+      },
+      {
+        "game": "pt",
+        "text": "It becomes active at night,\nseeking prey that is exhausted\nfrom the day’s desert heat."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "Packs of them follow travelers\nthrough the desert until\nthe travelers can no longer move."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "Packs of them follow travelers\nthrough the desert until\nthe travelers can no longer move."
+      },
+      {
+        "game": "bw-b",
+        "text": "It becomes active at night,\nseeking prey that is exhausted\nfrom the day’s desert heat."
+      },
+      {
+        "game": "bw-w",
+        "text": "It becomes active at night,\nseeking prey that is exhausted\nfrom the day’s desert heat."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "It becomes active at night,\nseeking prey that is exhausted\nfrom the day’s desert heat."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "It becomes active at night,\nseeking prey that is exhausted\nfrom the day’s desert heat."
+      },
+      {
+        "game": "xy-x",
+        "text": "It becomes active at night, seeking prey that is\nexhausted from the day’s desert heat."
+      },
+      {
+        "game": "xy-y",
+        "text": "Packs of them follow travelers through the desert\nuntil the travelers can no longer move."
+      },
+      {
+        "game": "oras-or",
+        "text": "During the daytime, Cacturne remains unmoving so that it does\nnot lose any moisture to the harsh desert sun. This Pokémon\nbecomes active at night when the temperature drops."
+      },
+      {
+        "game": "oras-as",
+        "text": "If a traveler is going through a desert in the thick of night,\nCacturne will follow in a ragtag group. The Pokémon are\nbiding their time, waiting for the traveler to tire and become\nincapable of moving."
+      }
+    ]
+  },
+  "chs": {
+    "name": "梦歌仙人掌",
+    "genus": "稻草人宝可梦",
+    "flavorText": []
+  }
+}

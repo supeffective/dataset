@@ -1,0 +1,133 @@
+{
+  "jap": {
+    "name": "ラビフット",
+    "genus": "うさぎポケモン",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "ふかふかの　たいもうで　さむさに\nつよくなり　さらに　こうおんの\nほのおわざを　だせるようになった。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "てを　つかわずに　きの　えだから\nきのみを　つみとり　リフティング。\nあしわざを　みがく　れんしゅう。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Rabbifuto",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "래비풋",
+    "genus": "토끼포켓몬",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "푹신푹신한 털 덕분에 추위에\n강해지고 더 높은 온도의\n불꽃 기술도 쓸 수 있게 되었다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "손을 쓰지 않고 나뭇가지에서\n나무열매를 따내고 리프팅한다.\n발 기술을 연마하는 연습이다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "騰蹴小將",
+    "genus": "兔子寶可夢",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "蓬鬆的體毛幫助牠增強了抵禦\n寒冷的能力，也使牠能夠使出\n溫度更高的火屬性招式。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "會用腳把樹果從樹木上\n踢落，用來練習挑球，\n藉此鍛鍊自己的腳法。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Lapyro",
+    "genus": "Pokémon Lapin",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Son pelage épais lui permet de mieux résister\nau froid et d’augmenter la température\nde ses capacités Feu."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Pour parfaire son jeu de jambes,\nil cueille des Baies puis drible avec,\nle tout sans se servir de ses mains."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Kickerlo",
+    "genus": "Hasen-Pokémon",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Sein flauschiges Fell schützt es vor Kälte und\nermöglicht es ihm, noch heißere Feuer-Attacken\nauszuteilen."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Es pflückt Beeren von Ästen, ohne seine Hände\nzu benutzen, und jongliert sie mit den Füßen.\nDamit trainiert es seine Fußfertigkeiten."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Raboot",
+    "genus": "Pokémon Conejo",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Su suave pelaje lo protege del frío y le permite\nincrementar todavía más la temperatura de sus\nmovimientos de tipo Fuego."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Para mejorar su habilidad con los pies, toma\nbayas de las ramas de los árboles sin usar las\nmanos y juega a darles toques."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Raboot",
+    "genus": "Pokémon Coniglio",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Grazie alla folta pelliccia resiste al freddo\ned è in grado di sferrare mosse infuocate\na temperature ancora più alte."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Per perfezionare i suoi calci, si esercita\nprendendo le bacche dai rami degli alberi\ne palleggiando senza usare le mani."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Raboot",
+    "genus": "Rabbit Pokémon",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Its thick and fluffy fur protects it from the cold\nand enables it to use hotter fire moves."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "It kicks berries right off the branches of trees\nand then juggles them with its feet, practicing\nits footwork."
+      }
+    ]
+  },
+  "chs": {
+    "name": "腾蹴小将",
+    "genus": "兔子宝可梦",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "蓬松的体毛帮助它增强了抵御\n寒冷的能力，也使它能够使出\n温度更高的火属性招式。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "会用脚把树果从树木上\n踢落，用来练习颠球，\n借此锻炼自己的脚法。"
+      }
+    ]
+  }
+}

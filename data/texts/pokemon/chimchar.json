@@ -1,0 +1,219 @@
+{
+  "jap": {
+    "name": "ヒコザル",
+    "genus": "こざるポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "おしりの　ほのおは　おなかで\nつくられた　ガスが　ねんりょう。\nあめに　ぬれても　きえない。"
+      },
+      {
+        "game": "xy-y",
+        "text": "おなかで　つくられた　ガスが\nおしりで　もえている。たいちょうが\nわるいと　ほのおが　よわくなる。"
+      },
+      {
+        "game": "oras-or",
+        "text": "おしりの　ほのおは　おなかで\nつくられた　ガスが　ねんりょう。\nあめに　ぬれても　きえない。"
+      },
+      {
+        "game": "oras-as",
+        "text": "おなかで　つくられた　ガスが\nおしりで　もえている。たいちょうが\nわるいと　ほのおが　よわくなる。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Hikozaru",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "불꽃숭이",
+    "genus": "꼬마원숭이포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "엉덩이의 불꽃은 배에서\n만들어진 가스가 연료다.\n비에 젖어도 꺼지지 않는다."
+      },
+      {
+        "game": "xy-y",
+        "text": "배에서 만들어진 가스가\n엉덩이에서 타오르고 있다. 몸 상태가\n나쁘면 불꽃이 약해진다."
+      },
+      {
+        "game": "oras-or",
+        "text": "엉덩이의 불꽃은 배에서\n만들어진 가스가 연료다.\n비에 젖어도 꺼지지 않는다."
+      },
+      {
+        "game": "oras-as",
+        "text": "배에서 만들어진 가스가\n엉덩이에서 타오르고 있다. 몸 상태가\n나쁘면 불꽃이 약해진다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "小火焰猴",
+    "genus": "小猴寶可夢",
+    "flavorText": []
+  },
+  "fra": {
+    "name": "Ouisticram",
+    "genus": "Pokémon Chimpanzé",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Il est très agile. Il fait toujours\nattention d’éteindre la flamme de\nsa queue avant de se coucher."
+      },
+      {
+        "game": "bw-w",
+        "text": "Il est très agile. Il fait toujours\nattention d’éteindre la flamme de\nsa queue avant de se coucher."
+      },
+      {
+        "game": "xy-x",
+        "text": "La flamme de sa queue est alimentée par un gaz de\nson estomac. Même la pluie ne saurait l’éteindre."
+      },
+      {
+        "game": "xy-y",
+        "text": "La flamme de son postérieur brûle grâce à un gaz\nde son estomac. Elle faiblit quand il ne va pas bien."
+      },
+      {
+        "game": "oras-or",
+        "text": "La flamme de sa queue est alimentée par un gaz de\nson estomac. Même la pluie ne saurait l’éteindre."
+      },
+      {
+        "game": "oras-as",
+        "text": "La flamme de son postérieur brûle grâce à un gaz de son\nestomac. Elle faiblit quand il ne va pas bien."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Panflam",
+    "genus": "Schimpanse",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Das Feuer an seinem Hinterteil wird durch Gase\nim Bauch genährt. Selbst Regen löscht es nicht."
+      },
+      {
+        "game": "xy-y",
+        "text": "An seinem Rücken verbrennt es die Gase aus seinem\nBauch. Geht es ihm schlecht, leuchtet es weniger hell."
+      },
+      {
+        "game": "oras-or",
+        "text": "Das Feuer an seinem Hinterteil wird durch Gase im Bauch\ngenährt. Selbst Regen löscht es nicht."
+      },
+      {
+        "game": "oras-as",
+        "text": "An seinem Rücken verbrennt es die Gase aus seinem\nBauch. Geht es ihm schlecht, leuchtet es weniger hell."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Chimchar",
+    "genus": "Pokémon Chimpancé",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "El gas de su panza alimenta el fuego de su parte\ntrasera, que ni la lluvia puede extinguir."
+      },
+      {
+        "game": "xy-y",
+        "text": "El fuego que arde en su cola lo generan los gases\nde su estómago y disminuye cuando está débil."
+      },
+      {
+        "game": "oras-or",
+        "text": "El gas de su panza alimenta el fuego de su parte trasera, que\nni la lluvia puede extinguir."
+      },
+      {
+        "game": "oras-as",
+        "text": "El fuego que arde en su cola lo generan los gases de su\nestómago y disminuye cuando está débil."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Chimchar",
+    "genus": "Pokémon Scimpanzé",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Le fiamme sulla coda, alimentate dai gas della\npancia, non si spengono neppure quando piove."
+      },
+      {
+        "game": "xy-y",
+        "text": "Le fiamme sulla coda sono alimentate dal gas della\npancia. Si affievoliscono quando sta male."
+      },
+      {
+        "game": "oras-or",
+        "text": "Le fiamme sulla coda, alimentate dai gas della pancia,\nnon si spengono neppure quando piove."
+      },
+      {
+        "game": "oras-as",
+        "text": "Le fiamme sulla coda sono alimentate dal gas della pancia.\nSi affievoliscono quando sta male."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Chimchar",
+    "genus": "Chimp Pokémon",
+    "flavorText": [
+      {
+        "game": "dp-d",
+        "text": "It agilely scales sheer cliffs to\nlive atop craggy mountains. Its\nfire is put out when it sleeps."
+      },
+      {
+        "game": "dp-p",
+        "text": "Its fiery rear end is fueled by\ngas made in its belly. Even rain\ncan’t extinguish the fire."
+      },
+      {
+        "game": "pt",
+        "text": "It is very agile. Before going to\nsleep, it extinguishes the flame\non its tail to prevent fires."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "The gas made in its belly burns from\nits rear end. The fire burns weakly\nwhen it feels sick."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "The gas made in its belly burns from\nits rear end. The fire burns weakly\nwhen it feels sick."
+      },
+      {
+        "game": "bw-b",
+        "text": "It is very agile. Before going to\nsleep, it extinguishes the flame\non its tail to prevent fires."
+      },
+      {
+        "game": "bw-w",
+        "text": "It is very agile. Before going to\nsleep, it extinguishes the flame\non its tail to prevent fires."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "It is very agile. Before going to\nsleep, it extinguishes the flame\non its tail to prevent fires."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "It is very agile. Before going to\nsleep, it extinguishes the flame\non its tail to prevent fires."
+      },
+      {
+        "game": "xy-x",
+        "text": "Its fiery rear end is fueled by gas made in its belly.\nEven rain can’t extinguish the fire."
+      },
+      {
+        "game": "xy-y",
+        "text": "The gas made in its belly burns from its rear end.\nThe fire burns weakly when it feels sick."
+      },
+      {
+        "game": "oras-or",
+        "text": "Its fiery rear end is fueled by gas made in its belly.\nEven rain can’t extinguish the fire."
+      },
+      {
+        "game": "oras-as",
+        "text": "The gas made in its belly burns from its rear end.\nThe fire burns weakly when it feels sick."
+      },
+      {
+        "game": "la",
+        "text": "Full of vigor and always in high spirits. It was once known by the\nname ”Lantern-Tail” and feared as some kind of apparition."
+      }
+    ]
+  },
+  "chs": {
+    "name": "小火焰猴",
+    "genus": "小猴宝可梦",
+    "flavorText": []
+  }
+}

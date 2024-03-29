@@ -1,0 +1,269 @@
+{
+  "jap": {
+    "name": "キバゴ",
+    "genus": "キバポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "きのみを　キバで　くだいて　たべる。\nなんかいも　はえかわることで\nつよく　するどい　キバに　なる。"
+      },
+      {
+        "game": "xy-y",
+        "text": "キバで　じゅもくに　きずを　つけて\nなわばりの　めじるしにする。\nキバは　おれても　すぐに　はえる。"
+      },
+      {
+        "game": "oras-or",
+        "text": "きのみを　キバで　くだいて　たべる。\nなんかいも　はえかわることで\nつよく　するどい　キバに　なる。"
+      },
+      {
+        "game": "oras-as",
+        "text": "キバで　じゅもくに　きずを　つけて\nなわばりの　めじるしにする。\nキバは　おれても　すぐに　はえる。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "じめんに　つくった　すあなに　すむ。\nかたい　きのみを　キバで　くだいて\nなかまと　ちからを　くらべあう。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "おおきな　キバを　うちつけ　なかまと\nじゃれあう。　キバは　おれても\nすぐ　はえてくるから　へっちゃらだ。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Kibago",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "터검니",
+    "genus": "이빨포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "나무열매를 이빨로 깨물어 먹는다.\n이빨이 몇 차례에 걸쳐 새로 나면\n강하고 날카로워진다"
+      },
+      {
+        "game": "xy-y",
+        "text": "이빨로 수목에 상처를 내서\n영역 표시를 한다.\n부러지면 바로 새 이빨이 난다."
+      },
+      {
+        "game": "oras-or",
+        "text": "나무열매를 이빨로 깨물어 먹는다.\n이빨이 몇 차례에 걸쳐 새로 나면\n강하고 날카로워진다."
+      },
+      {
+        "game": "oras-as",
+        "text": "이빨로 수목에 상처를 내서\n영역 표시를 한다.\n부러지면 바로 새 이빨이 난다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "땅속에 만든 굴에 산다.\n딱딱한 나무열매를 어금니로\n부수는 것을 통해 동료와 힘을 겨룬다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "커다란 어금니를 부딪치며 동료와\n장난친다. 어금니는 부러져도\n바로 자라나서 걱정 없다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "牙牙",
+    "genus": "牙寶可夢",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "在地面上築巢居住。\n用牙齒粉碎堅硬的樹果，\n和夥伴比拼力氣。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "會和夥伴們一起互撞牙齒來玩。\n折斷的牙齒會馬上長出來，\n所以絲毫都不會在意。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Coupenotte",
+    "genus": "Pokémon Crocs",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Il broie les Baies à grands coups de\ncrocs. Ceux-ci repoussent plusieurs\nfois, toujours plus forts et aiguisés."
+      },
+      {
+        "game": "bw-w",
+        "text": "Il laisse la marque de ses crocs dans les\narbres pour marquer son territoire. Ses\ncrocs repoussent dès qu’ils tombent."
+      },
+      {
+        "game": "xy-x",
+        "text": "Il broie les Baies à grands coups de crocs.\nCeux-ci repoussent plusieurs fois, toujours plus forts\net aiguisés."
+      },
+      {
+        "game": "xy-y",
+        "text": "Il laisse la marque de ses crocs dans les arbres pour\nmarquer son territoire. Ses crocs repoussent dès\nqu’ils tombent."
+      },
+      {
+        "game": "oras-or",
+        "text": "Il broie les Baies à grands coups de crocs. Ceux-ci repoussent\nplusieurs fois, toujours plus forts et aiguisés."
+      },
+      {
+        "game": "oras-as",
+        "text": "Il laisse la marque de ses crocs dans les arbres pour marquer\nson territoire. Ses crocs repoussent dès qu’ils tombent."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Il vit dans des terriers qu’il creuse à même le sol,\net organise des concours avec ses camarades\npour voir qui peut briser la Baie la plus dure."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Il joue avec ses congénères à se donner de grands\ncoups de crocs. Peu importe s’ils se cassent :\nils repousseront aussitôt."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Milza",
+    "genus": "Stoßzahn-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Es knackt mit seinen Hauern Nüsse.\nBrechen seine Fangzähne ab, wächst\nan ihrer Stelle ein stärkeres Ersatzpaar."
+      },
+      {
+        "game": "xy-y",
+        "text": "Markiert sein Revier, indem es mit seinen Fängen\nKerben in Bäume schlägt. Brechen diese einmal ab,\nwachsen sie sofort nach."
+      },
+      {
+        "game": "oras-or",
+        "text": "Es knackt mit seinen Hauern Nüsse. Brechen seine Fangzähne\nab, wächst an ihrer Stelle ein stärkeres Ersatzpaar."
+      },
+      {
+        "game": "oras-as",
+        "text": "Markiert sein Revier, indem es mit seinen Fängen Kerben\nin Bäume schlägt. Brechen diese einmal ab, wachsen sie\nsofort nach."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Sie wohnen in Löchern, die sie selbst graben.\nAb und an veranstalten sie mit harten Beeren\nWettbewerbe, wer die stärksten Fangzähne hat."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Sie rammen sich spielerisch mit ihren Fangzähnen.\nBrechen diese ab, wachsen sie sofort nach."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Axew",
+    "genus": "Pokémon Colmillo",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Usa sus colmillos para romper las bayas que come.\nEstos se regeneran una y otra vez, por eso son tan\nfuertes y afilados."
+      },
+      {
+        "game": "xy-y",
+        "text": "Deja la huella de sus colmillos en los árboles para\nmarcar su territorio. Si se le rompen, se regeneran\nmuy rápido."
+      },
+      {
+        "game": "oras-or",
+        "text": "Usa sus colmillos para romper las bayas que come. Estos se\nregeneran una y otra vez, por eso son tan fuertes y afilados."
+      },
+      {
+        "game": "oras-as",
+        "text": "Deja la huella de sus colmillos en los árboles para marcar su\nterritorio. Si se le rompen, se regeneran muy rápido."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Viven en madrigueras que construyen bajo tierra.\nCompiten entre ellos para ver quién logra abrir\ncon los colmillos las bayas más duras."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Juega con sus congéneres chocando sus enormes\ncolmillos con la tranquilidad de saber que, si se\nle rompen, se regenerarán enseguida."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Axew",
+    "genus": "Pokémon Zanna",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Mangia le bacche sminuzzandole con i denti, che\nricrescono costantemente, diventando sempre più\nforti e affilati."
+      },
+      {
+        "game": "xy-y",
+        "text": "Incide gli alberi con le zanne per marcare il suo\nterritorio. Se le zanne gli si spezzano, ricrescono\nsubito."
+      },
+      {
+        "game": "oras-or",
+        "text": "Mangia le bacche sminuzzandole con i denti, che ricrescono\ncostantemente, diventando sempre più forti e affilati."
+      },
+      {
+        "game": "oras-as",
+        "text": "Incide gli alberi con le zanne per marcare il suo territorio.\nSe le zanne gli si spezzano, ricrescono subito."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Vive nelle tane che costruisce nel terreno.\nFa a gara con i suoi compagni a chi riesce a\nfrantumare con i denti le bacche più dure."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Giocano tra di loro facendo cozzare le zanne.\nSe si spezzano non è un problema, perché\nricrescono subito."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Axew",
+    "genus": "Tusk Pokémon",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "They use their tusks to crush the\nberries they eat. Repeated regrowth\nmakes their tusks strong and sharp."
+      },
+      {
+        "game": "bw-w",
+        "text": "They mark their territory by leaving\ngashes in trees with their tusks. If a\ntusk breaks, a new one grows in quickly."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "Its large tusks have a tendency to\nbreak, but each time they grow back,\nthey grow in harder and sturdier."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "Its large tusks have a tendency to\nbreak, but each time they grow back,\nthey grow in harder and sturdier."
+      },
+      {
+        "game": "xy-x",
+        "text": "They use their tusks to crush the berries they eat.\nRepeated regrowth makes their tusks strong\nand sharp."
+      },
+      {
+        "game": "xy-y",
+        "text": "They mark their territory by leaving gashes in trees\nwith their tusks. If a tusk breaks, a new one grows\nin quickly."
+      },
+      {
+        "game": "oras-or",
+        "text": "They use their tusks to crush the berries they eat.\nRepeated regrowth makes their tusks strong\nand sharp."
+      },
+      {
+        "game": "oras-as",
+        "text": "They mark their territory by leaving gashes in trees\nwith their tusks. If a tusk breaks, a new one grows\nin quickly."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "These Pokémon nest in the ground and use their\ntusks to crush hard berries. Crushing berries is\nalso how they test each other’s strength."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "They play with each other by knocking their large\ntusks together. Their tusks break sometimes, but\nthey grow back so quickly that it isn’t a concern."
+      }
+    ]
+  },
+  "chs": {
+    "name": "牙牙",
+    "genus": "牙宝可梦",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "在地面上筑巢居住。\n用牙齿粉碎坚硬的树果，\n和伙伴比拼力气。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "会和伙伴们一起互撞牙齿来玩。\n折断的牙齿会马上长出来，\n所以丝毫都不会去在意。"
+      }
+    ]
+  }
+}

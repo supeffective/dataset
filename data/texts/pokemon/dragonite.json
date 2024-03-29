@@ -1,0 +1,549 @@
+{
+  "jap": {
+    "name": "カイリュー",
+    "genus": "ドラゴンポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "おおきな　たいかくで　そらを　とぶ。\nちきゅうを　やく１６じかんで\n１しゅう　してしまう。"
+      },
+      {
+        "game": "xy-y",
+        "text": "ひろい　うみの　どこかに　すみかが\nあると　いわれている。なんぱした\nふねを　りくまで　みちびいてくれる。"
+      },
+      {
+        "game": "oras-or",
+        "text": "１６じかんで　ちきゅうを　１しゅうできる。\nあらしで　なんぱしかけた　ふねを　みつけると\nりくちまで　ゆうどうする　やさしい　ポケモン。"
+      },
+      {
+        "game": "oras-as",
+        "text": "１６じかんで　ちきゅうを　１しゅうできる。\nあらしで　なんぱしかけた　ふねを　みつけると\nりくちまで　ゆうどうする　やさしい　ポケモン。"
+      },
+      {
+        "game": "sm-s",
+        "text": "そうなんした　おとこが　たすけられ\nつれていかれた　ことう　は\nカイリューだけの　らくえんだった。"
+      },
+      {
+        "game": "sm-m",
+        "text": "ふだんは　きわめて　おだやかだが\nその　げきりんに　ふれると　すべてを\nこわしつくすまで　おさまらない。"
+      },
+      {
+        "game": "usum-us",
+        "text": "あれくるう　うみも　ものともせずに\nとんでいく。　そのすがたを　みかけた\nせんちょうは　うみのけしんと　よんだ。"
+      },
+      {
+        "game": "usum-um",
+        "text": "こころ　やさしい　ポケモンで　うみで\nおぼれた　にんげんや　ポケモンを\nたすけたという　はなしを　よくきく。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "ひろい　うみの　どこかを　すみかにし\nとんで　いどうすると　いわれているが\nあくまで　うわさに　すぎない。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "ひろい　うみの　どこかを　すみかにし\nとんで　いどうすると　いわれているが\nあくまで　うわさに　すぎない。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "おぼれている　ひとや　ポケモンを\nみつけると　たすけずには　いられない\nこころ　やさしい　ポケモン。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "うみの　けしんと　よばれる。\nカイリューがたの　ちょうぞうを\nへさきに　つける　ふねも　おおい。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Kairyu",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "망나뇽",
+    "genus": "드래곤포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "커다란 몸집으로 하늘을 난다.\n지구를 약 16시간 만에\n일주한다."
+      },
+      {
+        "game": "xy-y",
+        "text": "넓은 바다의 어딘가에 거처가\n있다고 전해진다. 난파한\n배를 육지까지 이끌어 준다."
+      },
+      {
+        "game": "oras-or",
+        "text": "16시간 만에 지구를 한 바퀴 돌 수 있다.\n폭풍으로 난파 직전인 배를 발견하면\n육지까지 유도하는 상냥한 포켓몬이다."
+      },
+      {
+        "game": "oras-as",
+        "text": "16시간 만에 지구를 한 바퀴 돌 수 있다.\n폭풍으로 난파 직전인 배를 발견하면\n육지까지 유도하는 상냥한 포켓몬이다."
+      },
+      {
+        "game": "sm-s",
+        "text": "조난당한 남자가 도움을 받아\n따라간 외딴섬은\n망나뇽만의 낙원이었다."
+      },
+      {
+        "game": "sm-m",
+        "text": "평소에는 극히 온화하지만\n역린을 건드리면 모든 것을\n부술 때까지 진정하지 않는다."
+      },
+      {
+        "game": "usum-us",
+        "text": "성난 바다도 아랑곳하지 않고\n날아간다. 그 모습을 본 선장은\n바다의 화신이라고 불렀다."
+      },
+      {
+        "game": "usum-um",
+        "text": "상냥한 포켓몬으로\n바다에 빠진 인간이나 포켓몬을\n구해 주었다는 이야기가 자주 들린다."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "넓은 바다 어딘가를 거처로 삼아\n날아서 이동한다고 전해지지만\n어디까지나 소문에 지나지 않는다."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "넓은 바다 어딘가를 거처로 삼아\n날아서 이동한다고 전해지지만\n어디까지나 소문에 지나지 않는다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "물에 빠진 사람이나 포켓몬을\n발견하면 반드시 도와주는\n마음 착한 포켓몬이다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "바다의 화신이라고 불린다.\n망나뇽 형태의 조각상을\n뱃머리에 두는 배도 많다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "快龍",
+    "genus": "龍寶可夢",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "遇難的男人獲救後\n被帶去的孤島\n是只屬於快龍的樂園。"
+      },
+      {
+        "game": "sm-m",
+        "text": "一般都是非常穩重的，\n但如果觸碰到了牠的逆鱗，\n牠將毀滅一切才肯罷休。"
+      },
+      {
+        "game": "usum-us",
+        "text": "能輕描淡寫地飛越驚濤駭浪，\n目睹這個景象的船長\n稱呼牠為大海的化身。"
+      },
+      {
+        "game": "usum-um",
+        "text": "心地善良的寶可夢。\n經常能聽見牠在海上救了\n溺水的人或寶可夢的消息。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "有人說牠棲息在廣大海洋\n的某處，以飛行的方式來移動，\n但這就只是傳聞而已。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "有人說牠棲息在廣大海洋\n的某處，以飛行的方式來移動，\n但這就只是傳聞而已。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "心地善良的寶可夢。只要\n發現溺水的人或寶可夢，\n就會忍不住去救助對方。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "人們稱牠為大海的化身。\n有許多船會在船頭設置\n快龍的雕像。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Dracolosse",
+    "genus": "Pokémon Dragon",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "On raconte qu’il vit quelque part\nen mer. Il guide les équipages\nnaufragés jusqu’à la terre ferme."
+      },
+      {
+        "game": "bw-w",
+        "text": "On raconte qu’il vit quelque part\nen mer. Il guide les équipages\nnaufragés jusqu’à la terre ferme."
+      },
+      {
+        "game": "xy-x",
+        "text": "Malgré son poids et son physique imposant,\nDracolosse est capable de voler. Il peut faire le tour\ndu monde en 16 heures."
+      },
+      {
+        "game": "xy-y",
+        "text": "On raconte qu’il vit quelque part en mer. Il guide\nles équipages naufragés jusqu’à la terre ferme."
+      },
+      {
+        "game": "oras-or",
+        "text": "Dracolosse est capable de faire le tour de la planète en seize\nheures à peine. C’est un Pokémon au grand cœur qui ramène\nà bon port les navires perdus dans les tempêtes."
+      },
+      {
+        "game": "oras-as",
+        "text": "Dracolosse est capable de faire le tour de la planète en seize\nheures à peine. C’est un Pokémon au grand cœur qui ramène\nà bon port les navires perdus dans les tempêtes."
+      },
+      {
+        "game": "sm-s",
+        "text": "On raconte l’histoire d’un naufragé sauvé par\nce Pokémon et emmené sur une île paradisiaque\nuniquement peuplée de Dracolosse."
+      },
+      {
+        "game": "sm-m",
+        "text": "Il est d’un naturel débonnaire, mais si quelque\nchose parvient à le mettre en colère, il ne se\ncalmera qu’après avoir tout réduit en miettes."
+      },
+      {
+        "game": "usum-us",
+        "text": "Il brave les flots impétueux sans ciller. C’est\npour cette raison qu’un capitaine l’ayant vu à\nl’œuvre l’a surnommé « l’avatar de la mer »."
+      },
+      {
+        "game": "usum-um",
+        "text": "De nombreux témoignages racontent que ce\nPokémon, de nature bienveillante, aurait sauvé\ndes humains et des Pokémon de la noyade."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "On raconte que ce Pokémon vit quelque part\ndans la mer et qu’il peut voler. Rien n’est moins\nsûr."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "On raconte que ce Pokémon vit quelque part\ndans la mer et qu’il peut voler. Rien n’est moins\nsûr."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Sa gentillesse est telle que s’il voit un Pokémon\nou un être humain en train de se noyer, il n’hésite\npas à lui venir en aide."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "On l’appelle « l’avatar de la mer ». Nombreux\nsont les navires arborant une figure de proue\nen forme de Dracolosse."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Dragoran",
+    "genus": "Drachen-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Trotz seines wuchtigen und massiven Körpers kann\nes fliegen. Es umrundet den Erdball in nur 16 Stunden."
+      },
+      {
+        "game": "xy-y",
+        "text": "Man sagt, es lebe in den Meeren. Es bringt\nSchiffbrüchige sicher an Land."
+      },
+      {
+        "game": "oras-or",
+        "text": "Dragoran kann die Welt innerhalb von 16 Stunden umkreisen.\nEs ist ein gutherziges Pokémon, das vermisste und sinkende\nSchiffe bei Unwetter sicher an Land zurückbringt."
+      },
+      {
+        "game": "oras-as",
+        "text": "Dragoran kann die Welt innerhalb von 16 Stunden umkreisen.\nEs ist ein gutherziges Pokémon, das vermisste und sinkende\nSchiffe bei Unwetter sicher an Land zurückbringt."
+      },
+      {
+        "game": "sm-s",
+        "text": "Einst rettete ein Dragoran einen Schiffbrüchigen\nund nahm ihn zu einem einsamen Inselparadies\nmit. Dort wohnten angeblich nur Dragoran."
+      },
+      {
+        "game": "sm-m",
+        "text": "Eigentlich ist es ein äußerst sanftmütiges\nPokémon, aber wenn man es verärgert,\nschlägt es alles um sich herum kurz und klein."
+      },
+      {
+        "game": "usum-us",
+        "text": "Es fliegt ohne Bedenken selbst über tosende\nMeere. Ein Schiffskapitän nannte es nach\ndiesem Anblick die „Inkarnation des Meeres“."
+      },
+      {
+        "game": "usum-um",
+        "text": "Dragoran ist ein äußerst gutherziges Pokémon,\nvon dem man sich erzählt, es habe Menschen\nund andere Pokémon vor dem Ertrinken gerettet."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Es heißt, dass Dragoran in einem entlegenen\nWinkel des Meeres zu Hause sei und fliegen\nkönne, doch das sind nur Gerüchte."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Es heißt, dass Dragoran in einem entlegenen\nWinkel des Meeres zu Hause sei und fliegen\nkönne, doch das sind nur Gerüchte."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Erspäht dieses gutherzige Pokémon ertrinkende\nMenschen oder Pokémon, so kann es gar nicht\nanders, als sie zu retten."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Dragoran wird die „Inkarnation des Meeres“\ngenannt. Sein Ebenbild ziert den Bug vieler\nSchiffe als Galionsfigur."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Dragonite",
+    "genus": "Pokémon Dragón",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "A pesar del tamaño que tiene y de lo pesado que es,\npuede volar. Es capaz de dar la vuelta al mundo en\nsolo 16 horas."
+      },
+      {
+        "game": "xy-y",
+        "text": "Se dice que vive en algún lugar del mar. Guía a las\ntripulaciones de los barcos hundidos a la costa."
+      },
+      {
+        "game": "oras-or",
+        "text": "Dragonite es capaz de dar la vuelta al mundo en solo 16\nhoras. Es un Pokémon de buen corazón que guía hasta tierra\na los barcos que se encuentran perdidos en plena tormenta y\na punto de zozobrar."
+      },
+      {
+        "game": "oras-as",
+        "text": "Dragonite es capaz de dar la vuelta al mundo en solo 16\nhoras. Es un Pokémon de buen corazón que guía hasta tierra\na los barcos que se encuentran perdidos en plena tormenta y\na punto de zozobrar."
+      },
+      {
+        "game": "sm-s",
+        "text": "Se narra la historia de un náufrago que fue\nrescatado y transportado hasta una isla perdida\ny habitada únicamente por Dragonite."
+      },
+      {
+        "game": "sm-m",
+        "text": "Es bastante pacífico por naturaleza, pero, si\nalguien le hace enfadar, no se calmará hasta\nhaber destruido todo lo que le rodea."
+      },
+      {
+        "game": "usum-us",
+        "text": "Sobrevuela los mares desafiando las más fieras\ntempestades, lo que le valió que cierto capitán\nde un buque lo llamara el Avatar de la Mar."
+      },
+      {
+        "game": "usum-um",
+        "text": "Un Pokémon benévolo que, según cuentan,\nacude al rescate de Pokémon o humanos que se\nencuentren a la deriva."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Se dice que este Pokémon vive en algún lugar\ndel mar y que también vuela. De todos modos,\nsolo es un rumor."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Se dice que este Pokémon vive en algún lugar\ndel mar y que también vuela. De todos modos,\nsolo es un rumor."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Un Pokémon bondadoso y compasivo al que le\nresulta imposible dar la espalda a Pokémon o\nhumanos que se encuentren a la deriva."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Se lo conoce como el Avatar de la Mar. Muchos\nbarcos lucen una talla de Dragonite como\nmascarón de proa."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Dragonite",
+    "genus": "Pokémon Drago",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Nonostante la stazza, è in grado di volare.\nPuò compiere il giro del mondo in 16 ore."
+      },
+      {
+        "game": "xy-y",
+        "text": "Si dice che faccia la sua tana da qualche parte nel\nmare. Porta a riva le vittime di naufragi."
+      },
+      {
+        "game": "oras-or",
+        "text": "Dragonite è in grado di fare il giro del mondo in sole 16 ore.\nÈ un Pokémon buono e mansueto che guida fino alla\nterraferma le navi prossime al naufragio."
+      },
+      {
+        "game": "oras-as",
+        "text": "Dragonite è in grado di fare il giro del mondo in sole 16 ore.\nÈ un Pokémon buono e mansueto che guida fino alla\nterraferma le navi prossime al naufragio."
+      },
+      {
+        "game": "sm-s",
+        "text": "Si racconta che un naufrago fu soccorso da\nquesto Pokémon e portato su una meravigliosa\nisola remota abitata solo da Dragonite."
+      },
+      {
+        "game": "sm-m",
+        "text": "Di solito è molto calmo, ma se qualcuno o\nqualcosa lo fa infuriare, non si placa finché\nnon ha distrutto ogni cosa."
+      },
+      {
+        "game": "usum-us",
+        "text": "Sorvola come se niente fosse anche i mari più\nagitati. Un capitano, vedendolo all’opera, l’ha\nsoprannominato “l’incarnazione del mare”."
+      },
+      {
+        "game": "usum-um",
+        "text": "È un Pokémon buono e mansueto. Si racconta\nspesso di come accorra in aiuto di persone\ne Pokémon che stanno affogando."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Si racconta che questo Pokémon viva\nda qualche parte nel mare e che si sposti\nvolando, ma in realtà non si sa nulla di certo."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Si racconta che questo Pokémon viva\nda qualche parte nel mare e che si sposti\nvolando, ma in realtà non si sa nulla di certo."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "È un Pokémon dal cuore gentile. Se vede persone\no Pokémon che stanno affogando, non può fare\na meno di salvarli."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Viene chiamato “Incarnazione del mare”.\nMolte navi hanno una statua di Dragonite\nsulla prua."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Dragonite",
+    "genus": "Dragon Pokémon",
+    "flavorText": [
+      {
+        "game": "rb-r",
+        "text": "An extremely\nrarely seen\nmarine POKéMON.\fIts intelligence\nis said to match\nthat of humans."
+      },
+      {
+        "game": "rb-b",
+        "text": "An extremely\nrarely seen\nmarine POKéMON.\fIts intelligence\nis said to match\nthat of humans."
+      },
+      {
+        "game": "y",
+        "text": "It is said that\nthis POKéMON lives\nsomewhere in the\fsea and that it\nflies. However, it\nis only a rumor."
+      },
+      {
+        "game": "gs-g",
+        "text": "It is said that\nthis POKéMON con­\nstantly flies over\fthe immense seas\nand rescues drown­\ning people."
+      },
+      {
+        "game": "gs-s",
+        "text": "This marine POKé­\nMON has an impres­\nsive build that\flets it freely fly\nover raging seas\nwithout trouble."
+      },
+      {
+        "game": "c",
+        "text": "It is said that\nsomewhere in the\nocean lies an\fisland where these\ngather. Only they\nlive there."
+      },
+      {
+        "game": "rs-r",
+        "text": "DRAGONITE is capable of circling the\nglobe in just sixteen hours.\nIt is a kindhearted POKéMON that leads\flost and foundering ships in a storm to\nthe safety of land."
+      },
+      {
+        "game": "rs-s",
+        "text": "DRAGONITE is capable of circling the\nglobe in just sixteen hours.\nIt is a kindhearted POKéMON that leads\flost and foundering ships in a storm to\nthe safety of land."
+      },
+      {
+        "game": "e",
+        "text": "It can circle the globe in just 16 hours.\nIt is a kindhearted POKéMON that leads\nlost and foundering ships in a storm\nto the safety of land."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "It can fly in spite of its big and bulky\nphysique. It circles the globe in just\n16 hours."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "Only a very few people ever see this\nPOKéMON. Its intelligence is said to\nmatch that of humans."
+      },
+      {
+        "game": "dp-d",
+        "text": "It is said to make its home\nsomewhere in the sea. It guides\ncrews of shipwrecks to shore."
+      },
+      {
+        "game": "dp-p",
+        "text": "It is said to make its home\nsomewhere in the sea. It guides\ncrews of shipwrecks to shore."
+      },
+      {
+        "game": "pt",
+        "text": "It is said to make its home\nsomewhere in the sea. It guides\ncrews of shipwrecks to shore."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "It is said that this Pokémon constantly\nflies over the immense seas\nand rescues drowning people."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "This marine Pokémon has an impressive\nbuild that lets it freely fly\nover raging seas without trouble."
+      },
+      {
+        "game": "bw-b",
+        "text": "It is said to make its home\nsomewhere in the sea. It guides\ncrews of shipwrecks to shore."
+      },
+      {
+        "game": "bw-w",
+        "text": "It is said to make its home\nsomewhere in the sea. It guides\ncrews of shipwrecks to shore."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "It is said to make its home\nsomewhere in the sea. It guides\ncrews of shipwrecks to shore."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "It is said to make its home\nsomewhere in the sea. It guides\ncrews of shipwrecks to shore."
+      },
+      {
+        "game": "xy-x",
+        "text": "It can fly in spite of its big and bulky physique.\nIt circles the globe in just 16 hours."
+      },
+      {
+        "game": "xy-y",
+        "text": "It is said to make its home somewhere in the sea.\nIt guides crews of shipwrecks to shore."
+      },
+      {
+        "game": "oras-or",
+        "text": "Dragonite is capable of circling the globe in just 16 hours.\nIt is a kindhearted Pokémon that leads lost and foundering\nships in a storm to the safety of land."
+      },
+      {
+        "game": "oras-as",
+        "text": "Dragonite is capable of circling the globe in just 16 hours.\nIt is a kindhearted Pokémon that leads lost and foundering\nships in a storm to the safety of land."
+      },
+      {
+        "game": "sm-s",
+        "text": "This Pokémon saved a shipwrecked man, taking\nhim to a remote island—a paradise occupied\nsolely by Dragonite."
+      },
+      {
+        "game": "sm-m",
+        "text": "Incur the wrath of this normally calm Pokémon\nat your peril, because it will smash everything\nto smithereens before it’s satisfied."
+      },
+      {
+        "game": "usum-us",
+        "text": "It flies over raging seas as if they were nothing.\nObserving this, a ship’s captain dubbed this\nPokémon “the sea incarnate.”"
+      },
+      {
+        "game": "usum-um",
+        "text": "You’ll often hear tales of this kindhearted\nPokémon rescuing people or Pokémon that\nare drowning."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "It is said that this Pokémon lives somewhere\nin the sea and that it flies. However, these are\nonly rumors."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "It is said that this Pokémon lives somewhere\nin the sea and that it flies. However, these are\nonly rumors."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "It’s a kindhearted Pokémon. If it spots a drowning\nperson or Pokémon, Dragonite simply must\nhelp them."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "This Pokémon is known as the Sea Incarnate.\nFigureheads that resemble Dragonite decorate\nthe bows of many ships."
+      }
+    ]
+  },
+  "chs": {
+    "name": "快龙",
+    "genus": "龙宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "遇难得救的男人\n被带去的那个孤岛，\n是曾属于快龙的乐园。"
+      },
+      {
+        "game": "sm-m",
+        "text": "平常都是非常稳重的，\n但如果触碰到了它的逆鳞，\n就会不毁灭一切不罢休。"
+      },
+      {
+        "game": "usum-us",
+        "text": "即便是狂风暴雨的海上，它也能波澜\n不惊地飞过。目睹过它那身姿的\n船长称其为大海的化身。"
+      },
+      {
+        "game": "usum-um",
+        "text": "心地善良的宝可梦，\n经常能听到它救助了在海里\n溺水的人或宝可梦的消息。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "据说它生活在无垠大海的\n某个地方，靠飞行来移动。\n但这也只是一个传言罢了。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "据说它生活在无垠大海的\n某个地方，靠飞行来移动。\n但这也只是一个传言罢了。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "只要发现溺水的人和宝可梦，\n就忍不住要去救助。\n是心地善良的宝可梦。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "被称为大海的化身。\n很多船都会把快龙的\n雕像设置在船头。"
+      }
+    ]
+  }
+}

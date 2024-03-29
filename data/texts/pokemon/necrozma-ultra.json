@@ -1,0 +1,277 @@
+{
+  "jap": {
+    "name": "ネクロズマ",
+    "genus": "プリズムポケモン",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "ちかで　ねむりに　ついていたようだ。\nたいこに　べつせかいから　やってきたと\nおもわれる　ＵＢらしき　せいぶつ。"
+      },
+      {
+        "game": "sm-m",
+        "text": "ひかりが　エネルギーげん　らしい。\nレーザーこうを　ぶっぱなしまくる\nひじょうに　きょうぼうな　せいしつ。"
+      },
+      {
+        "game": "usum-us",
+        "text": "エネルギーとなる　ひかりを　もとめて\nあばれる　すがたは　どこか　くるしげ。\nべつの　せかいの　そんざい　らしい。"
+      },
+      {
+        "game": "usum-um",
+        "text": "ひかりが　エネルギーげん。　ひかりを\nくらわないで　いると　ふじゅんぶつが\nたまり　くろずんで　うごけなくなる。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "ひかりを　エネルギーに　いきている。\nちかで　ねむっていたため　たいないに\nたまった　ふじゅんぶつで　くろずむ。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "いきるために　ひかりを　もとめて\nあばれまわる。　レーザーこうせんを\nはなち　あらゆるものを　きりきざむ。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Necrozma",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "네크로즈마",
+    "genus": "프리즘포켓몬",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "지하에서 잠들어 있던 것 같다.\n태고의 다른 세계에서 왔다고\n추측되는 UB같은 생물이다."
+      },
+      {
+        "game": "sm-m",
+        "text": "빛이 에너지원인 듯하다.\n레이저 광선을 마구 쏘아대는\n매우 난폭한 성질을 가졌다."
+      },
+      {
+        "game": "usum-us",
+        "text": "에너지인 빛을 찾아 날뛰는 모습은\n어딘지 모르게 괴로워 보인다.\n다른 세계의 존재인 듯하다."
+      },
+      {
+        "game": "usum-um",
+        "text": "빛이 에너지원이다.\n빛을 받지 못하면 불순물이 쌓여서\n검게 변해 움직일 수 없게 된다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "빛을 에너지원으로 하여 살고 있다.\n지하에 잠들어 있었기 때문에 체내에\n쌓인 불순물에 의해 검게 변했다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "살기 위해 빛을 찾아 날뛰며\n돌아다닌다. 레이저 광선을 쏘아\n온갖 것을 산산조각 낸다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "奈克洛茲瑪",
+    "genus": "稜鏡寶可夢",
+    "flavorText": [
+      {
+        "game": "sm-m",
+        "text": "光似乎是牠的能量來源。\n毫無節制地不停發射雷射，\n性格非常凶暴。"
+      },
+      {
+        "game": "sm-s",
+        "text": "好像一直都沉睡在地底下。\n被認為是在太古時代從另一個世界\n來到此地，是種類似ＵＢ的生物。"
+      },
+      {
+        "game": "usum-us",
+        "text": "為了尋求作為能量的光\n而發狂的牠看起來有些痛苦。\n似乎是來自於其他世界。"
+      },
+      {
+        "game": "usum-um",
+        "text": "光是牠的能量來源。如果一段時間\n沒吃到光，雜質就會逐漸累積，\n使得牠身體發黑且變得無法動彈。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "光芒是牠維持生命的能量。\n由於一直沉睡在地下，身體\n因積存在體內的雜質而發黑。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "為生存而發狂般地尋找著光。\n會發射出雷射光，\n將所有東西切成碎片。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Necrozma",
+    "genus": "Pokémon Prisme",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "Une créature endormie sous terre. On suppose\nqu’il s’agit d’une Ultra-Chimère et qu’elle serait\nvenue d’un autre monde, il y a bien longtemps."
+      },
+      {
+        "game": "sm-m",
+        "text": "La lumière semble être sa source d’énergie.\nUne créature extrêmement agressive, capable\nd’émettre des rayons laser au moindre prétexte."
+      },
+      {
+        "game": "usum-us",
+        "text": "Il semble souffrir dans sa recherche désespérée\nde lumière, sa source d’énergie. On pense\nqu’il vient d’un autre monde."
+      },
+      {
+        "game": "usum-um",
+        "text": "S’il ne dévore pas assez de lumière, sa source\nd’énergie, il accumule les impuretés. Il noircit\net finit par ne plus pouvoir bouger."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "La lumière est sa source d’énergie. Les impuretés\nque son corps a accumulées en dormant sous terre\nlui ont donné cette couleur noire."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Sa quête de lumière, sa source de vie, le rend\nviolent. Il détruit tout sur son passage avec\nses rayons laser."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Necrozma",
+    "genus": "Prisma-Pokémon",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "Diese einer Ultrabestie ähnelnde Kreatur ist\nwohl vor Urzeiten aus einer anderen Welt\ngekommen und ruhte lange Zeit unter der Erde."
+      },
+      {
+        "game": "sm-m",
+        "text": "Dieses extrem grausame Lebewesen wandelt\nLicht in Energie um und stößt unablässig\nLaserstrahlen aus."
+      },
+      {
+        "game": "usum-us",
+        "text": "Diese Kreatur stammt wohl aus einer anderen\nWelt. Sie wirkt gequält, wenn sie auf der Suche\nnach Licht, seiner Energiequelle, herumwütet."
+      },
+      {
+        "game": "usum-um",
+        "text": "Licht ist seine Energiequelle. Kann es dieses\nnicht verschlingen, sammeln sich Unreinheiten\nan und es wird schwarz und regungslos."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Es zieht seine Lebensenergie aus Licht. Weil es in\nder Erde ruhte, haben sich in seinem Körper\nUnreinheiten angesammelt und es wurde schwarz."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Auf der Suche nach Licht, das es zum Überleben\nbenötigt, wütet es umher. Es setzt Laserstrahlen\nfrei, die alles zerteilen."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Necrozma",
+    "genus": "Pokémon Prisma",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "Se dice que yacía en el interior de la tierra. Se\ncree que esta criatura, parecida a un Ultraente,\nvino de otro mundo hace muchísimo tiempo."
+      },
+      {
+        "game": "sm-m",
+        "text": "Este Ultraente parece alimentarse de luz. Posee\nun carácter muy hostil y no duda en lanzar\nrayos láser."
+      },
+      {
+        "game": "usum-us",
+        "text": "La luz es su fuente de energía y la busca con tal\ndesespero que da la impresión de que sufre.\nParece ser una criatura de otro mundo."
+      },
+      {
+        "game": "usum-um",
+        "text": "La luz es su fuente de energía. Si no absorbe la\nsuficiente, empieza a acumular impurezas que\nhacen que se quede negruzco e inmóvil."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "La luz es su fuente de energía. Se volvió negro\ndebido a las impurezas acumuladas en su cuerpo\nmientras yacía en el interior de la tierra."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Con sus rayos láser destruye todo a su paso en\nbusca de luz para sustentarse."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Necrozma",
+    "genus": "Pokémon Prisma",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "Pare che questo essere simile a un’Ultracreatura\nsia giunto da un altro mondo in tempi antichi e\nsia rimasto a lungo dormiente sottoterra."
+      },
+      {
+        "game": "sm-m",
+        "text": "La luce sembra essere la sua fonte di energia.\nÈ estremamente aggressivo e gli basta molto\npoco per mettersi a sparare raggi laser."
+      },
+      {
+        "game": "usum-us",
+        "text": "Pare che sia una creatura di un altro mondo.\nLa luce è la sua fonte d’energia e la cerca con\nfuria, rivelando sofferenza."
+      },
+      {
+        "game": "usum-um",
+        "text": "La luce è la sua fonte di energia. Quando non\nriesce a consumarne, accumula impurità che lo\nscuriscono e gli impediscono di muoversi."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "La luce è la sua fonte d’energia. Deve il colore\nnero del corpo alle impurità accumulatesi al suo\ninterno mentre giaceva addormentato sottoterra."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Cerca con furia la luce di cui si nutre,\ndistruggendo ogni cosa al suo passaggio\ncon i suoi micidiali raggi laser."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Necrozma",
+    "genus": "Prism Pokémon",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "Reminiscent of the Ultra Beasts, this life-form,\napparently asleep underground, is thought to\nhave come from another world in ancient times."
+      },
+      {
+        "game": "sm-m",
+        "text": "Light is apparently the source of its energy.\nIt has an extraordinarily vicious disposition\nand is constantly firing off laser beams."
+      },
+      {
+        "game": "usum-us",
+        "text": "It looks somehow pained as it rages around in\nsearch of light, which serves as its energy.\nIt’s apparently from another world."
+      },
+      {
+        "game": "usum-um",
+        "text": "Light is the source of its energy. If it isn’t\ndevouring light, impurities build up in it and on it,\nand Necrozma darkens and stops moving."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "It survives by absorbing light. After a long time\nspent slumbering underground, impurities\naccumulated within it, causing its body to darken."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "It needs light to survive, and it goes on a\nrampage seeking it out. Its laser beams will\ncut anything to pieces."
+      }
+    ]
+  },
+  "chs": {
+    "name": "奈克洛兹玛",
+    "genus": "棱镜宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "好像一直都沉睡在地下。\n被认为是太古时代从其他世界\n来到此地的类似究极异兽的生物。"
+      },
+      {
+        "game": "sm-m",
+        "text": "光似乎是它的能量源。\n一个劲儿地发射激光，\n性格非常粗暴。"
+      },
+      {
+        "game": "usum-us",
+        "text": "为了寻找作为能量的光\n而发狂的样子看上去有些痛苦。\n好像存在于其他世界。"
+      },
+      {
+        "game": "usum-um",
+        "text": "光是它的能量源。如果不吃\n光的话，杂质会慢慢积聚，\n它就会发黑而变得不能动弹。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "光芒是它维持生命的能量。\n由于一直沉睡于地下，身体\n因积存在体内的杂质而发黑。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "为生存而发狂般地寻找着光。\n会发射出激光，\n将所有东西切成碎片。"
+      }
+    ]
+  }
+}

@@ -1,0 +1,417 @@
+{
+  "jap": {
+    "name": "ドレディア",
+    "genus": "はなかざりポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "あたまの　はなかざりの　かおりには\nリラックスさせる　こうかが　ある。\nていれを　なまけると　かれてしまう。"
+      },
+      {
+        "game": "xy-y",
+        "text": "うつくしい　はなを　さかせるのは\nベテラントレーナーでも　むずかしい。\nセレブに　にんきの　ポケモン。"
+      },
+      {
+        "game": "oras-or",
+        "text": "あたまの　はなかざりの　かおりには\nリラックスさせる　こうかが　ある。\nていれを　なまけると　かれてしまう。"
+      },
+      {
+        "game": "oras-as",
+        "text": "うつくしい　はなを　さかせるのは\nベテラントレーナーでも　むずかしい。\nセレブに　にんきの　ポケモン。"
+      },
+      {
+        "game": "sm-s",
+        "text": "どんなに　てまと　おかねを　かけても\nひとの　てで　さかせるよりも　やせいで\nさく　はなの　ほうが　うつくしい。"
+      },
+      {
+        "game": "sm-m",
+        "text": "パートナーとなる　♂が　できた\nとたんに　うつくしい　はなは\nくすんで　しおれ　かれていく。"
+      },
+      {
+        "game": "usum-us",
+        "text": "そだった　つちの　せいぶんに　よって\nはなの　かおりは　すこしずつ　ちがう。\nかぐと　こころが　いやされ　やすらぐ。"
+      },
+      {
+        "game": "usum-um",
+        "text": "うつくしいので　ほかの　ポケモンに\nすかれる。　あたまのはなは　ていれを\nおこたると　すぐに　くさって　かれる。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "いちりゅうの　えんげいかでも\nあたまの　はなを　さかせるのは\nしなんのわざと　いわれている。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "はなから　つくられる　せいゆは\nごくじょうの　かおりが　するが\nめが　とびでるほど　こうかだ。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Dredear",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "드레디어",
+    "genus": "꽃장식포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "머리에 있는 꽃 장식의 향기에는\n긴장을 풀어 주는 효과가 있다.\n자주 손질하지 않으면 시들어 버린다."
+      },
+      {
+        "game": "xy-y",
+        "text": "베테랑 트레이너일지라도\n아름다운 꽃을 피우기는 쉽지 않다.\n유명 인사에게 인기가 많은 포켓몬이다."
+      },
+      {
+        "game": "oras-or",
+        "text": "머리에 있는 꽃 장식의 향기에는\n긴장을 풀어 주는 효과가 있다.\n자주 손질하지 않으면 시들어 버린다."
+      },
+      {
+        "game": "oras-as",
+        "text": "베테랑 트레이너일지라도\n아름다운 꽃을 피우기는 쉽지 않다.\n유명 인사에게 인기가 많은 포켓몬이다."
+      },
+      {
+        "game": "sm-s",
+        "text": "아무리 시간과 돈을 들여도\n사람 손으로 피우는 것보다\n야생에서 피는 꽃이 더 아름답다."
+      },
+      {
+        "game": "sm-m",
+        "text": "파트너인 수컷이 생기면\n아름다운 꽃은 곧\n생기 없이 시들어 말라간다."
+      },
+      {
+        "game": "usum-us",
+        "text": "자란 흙의 성분에 따라 꽃향기는\n조금씩 다르다. 냄새를 맡으면\n마음이 치유되고 평온해진다."
+      },
+      {
+        "game": "usum-um",
+        "text": "아름다워서 다른 포켓몬들에게\n사랑받는다. 머리의 꽃은 손질을\n게을리하면 금방 상해서 시든다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "일류 원예가라 하더라도\n머리의 꽃을 피우는 일은\n매우 어렵다고 전해진다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "꽃으로 만든 정유는\n최고의 향을 내지만\n눈이 튀어나올 정도로 비싸다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "裙兒小姐",
+    "genus": "花飾寶可夢",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "無論花多少功夫和金錢，\n比起借助人工手段培育出的花，\n在野外綻放的花更美。"
+      },
+      {
+        "game": "sm-m",
+        "text": "一旦和♂成為伴侶，\n美麗的花就會漸漸黯淡，\n變得枯萎。"
+      },
+      {
+        "game": "usum-us",
+        "text": "隨著栽培用的土壤不同，\n花香也會有些不一樣。\n聞一下就能舒緩心情，帶來安寧。"
+      },
+      {
+        "game": "usum-um",
+        "text": "因為美麗的模樣而受到其他\n寶可夢的喜愛。頭上的花如果\n疏於照料，很快就會腐爛枯萎。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "據說即使是一流的園藝家，\n要讓牠的頭上綻放美麗花朵\n也是極為困難的事。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "由牠的花朵提煉的精油有著\n極致的香氣，但價格同時也\n是貴得令人眼睛幾乎要掉出來。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Fragilady",
+    "genus": "Pokémon Chef-Fleur",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Même les Dresseurs confirmés ont\ndu mal à faire éclore sa belle fleur.\nUn Pokémon apprécié des célébrités."
+      },
+      {
+        "game": "bw-w",
+        "text": "La fleur sur sa tête a des propriétés\nrelaxantes. Elle se fane si on ne s’en\noccupe pas avec attention."
+      },
+      {
+        "game": "xy-x",
+        "text": "La fleur sur sa tête a des propriétés relaxantes.\nElle se fane si on ne s’en occupe pas avec attention."
+      },
+      {
+        "game": "xy-y",
+        "text": "Même les Dresseurs confirmés ont du mal à faire\néclore sa belle fleur. Un Pokémon apprécié des\ncélébrités."
+      },
+      {
+        "game": "oras-or",
+        "text": "La fleur sur sa tête a des propriétés relaxantes. Elle se fane\nsi on ne s’en occupe pas avec attention."
+      },
+      {
+        "game": "oras-as",
+        "text": "Même les Dresseurs confirmés ont du mal à faire éclore\nsa belle fleur. Un Pokémon apprécié des célébrités."
+      },
+      {
+        "game": "sm-s",
+        "text": "La main la plus verte au monde ne saurait faire\néclore une fleur de Fragilady aussi belle que\ncelles qui s’épanouissent à l’état sauvage."
+      },
+      {
+        "game": "sm-m",
+        "text": "Dès lors qu’une Fragilady trouve un compagnon\nmâle, sa si jolie fleur se dessèche, se flétrit\net finit par se faner."
+      },
+      {
+        "game": "usum-us",
+        "text": "Le parfum de sa fleur calme les nerfs et apaise\nl’esprit. Il varie légèrement selon la composition\nde la terre dans laquelle Fragilady a poussé."
+      },
+      {
+        "game": "usum-um",
+        "text": "Sa beauté lui confère une grande popularité\nauprès des autres Pokémon. Si l’on ne prend\npas soin de la fleur sur sa tête, elle fane."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "On raconte que même les meilleurs horticulteurs\nont énormément de mal à faire éclore sa fleur."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "L’huile essentielle extraite de sa fleur dégage\nun parfum exceptionnel, mais elle coûte\nextrêmement cher."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Dressella",
+    "genus": "Blumenzier-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Der Duft des Blumenschmucks auf seinem Kopf\nwirkt beruhigend. Damit der Schmuck nicht\nverwelkt, muss man es gut pflegen."
+      },
+      {
+        "game": "xy-y",
+        "text": "Bei Promis ist es sehr beliebt. Auch gestandene\nTrainer tun sich schwer damit, seine Blüte schön\naufblühen zu lassen."
+      },
+      {
+        "game": "oras-or",
+        "text": "Der Duft des Blumenschmucks auf seinem Kopf wirkt\nberuhigend. Damit der Schmuck nicht verwelkt, muss man\nes gut pflegen."
+      },
+      {
+        "game": "oras-as",
+        "text": "Bei Promis ist es sehr beliebt. Auch gestandene Trainer tun\nsich schwer damit, seine Blüte schön aufblühen zu lassen."
+      },
+      {
+        "game": "sm-s",
+        "text": "Egal, wie viel Mühe und Geld investiert wird,\nsein Blumenschmuck ist wild gewachsen immer\nschöner als von Menschenhand gezüchtet."
+      },
+      {
+        "game": "sm-m",
+        "text": "Sobald es einen Partner gefunden hat, verwelkt\nsein wunderschöner Blumenschmuck."
+      },
+      {
+        "game": "usum-us",
+        "text": "Sein Blumenduft wird von der Beschaffenheit\nder Erde, auf der es aufwächst, beeinflusst.\nDaran zu riechen ist eine Wohltat für die Seele."
+      },
+      {
+        "game": "usum-um",
+        "text": "Es ist aufgrund seiner Schönheit bei anderen\nPokémon beliebt. Die Blume an seinem Kopf\nverwelkt sofort, wenn man sie nicht pflegt."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Man sagt, dass selbst erstklassige Gärtner\nSchwierigkeiten damit haben, die Blume auf\nDressellas Kopf zum Blühen zu bringen."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Das aus seiner Blume gewonnene ätherische Öl\nverströmt den allerfeinsten Duft, doch es kostet\nein Vermögen."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Lilligant",
+    "genus": "Pokémon Adornofloral",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "El aroma de la flor de su tocado relaja a cualquiera a\nsu alrededor. Hay que cuidarle mucho para que no se\nmarchite."
+      },
+      {
+        "game": "xy-y",
+        "text": "Todos los famosos quieren uno de estos Pokémon.\nIncluso a los Entrenadores más curtidos les cuesta\nque florezca."
+      },
+      {
+        "game": "oras-or",
+        "text": "El aroma de la flor de su tocado relaja a cualquiera a su\nalrededor. Hay que cuidarle mucho para que no se marchite."
+      },
+      {
+        "game": "oras-as",
+        "text": "Todos los famosos quieren uno de estos Pokémon. Incluso\na los Entrenadores más curtidos les cuesta que florezca."
+      },
+      {
+        "game": "sm-s",
+        "text": "Por muchos esfuerzos o dinero que destine la\ngente para hacerla florecer, siempre es más\nbella la flor que brota en un ejemplar salvaje."
+      },
+      {
+        "game": "sm-m",
+        "text": "Nada más encontrar un compañero, su bella flor\ncomienza a languidecer y poco a poco se va\nmarchitando sin remedio."
+      },
+      {
+        "game": "usum-us",
+        "text": "El olor que desprende su flor varía en función\nde la composición de la tierra en la que crezca.\nSu aroma calma los nervios y sosiega el alma."
+      },
+      {
+        "game": "usum-um",
+        "text": "Su belleza fascina a otros Pokémon. La flor de la\ncabeza se marchita enseguida si no se le presta\nel cuidado necesario."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Se dice que conseguir que la flor de su cabeza\nflorezca es una empresa titánica incluso para los\nmejores jardineros."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "El aceite esencial que se extrae de su flor emana\nun aroma sublime, aunque su precio resulta\ndesorbitado."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Lilligant",
+    "genus": "Pokémon Fiorfronzolo",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "I fiori che ha sulla testa spandono un profumo\nrilassante, ma necessitano di continue attenzioni\nper non appassire."
+      },
+      {
+        "game": "xy-y",
+        "text": "Neanche gli Allenatori più navigati riescono sempre a\nfare schiudere il suo fiore. Va di moda fra le celebrità."
+      },
+      {
+        "game": "oras-or",
+        "text": "I fiori che ha sulla testa spandono un profumo rilassante,\nma necessitano di continue attenzioni per non appassire."
+      },
+      {
+        "game": "oras-as",
+        "text": "Neanche gli Allenatori più navigati riescono sempre a fare\nschiudere il suo fiore. Va di moda fra le celebrità."
+      },
+      {
+        "game": "sm-s",
+        "text": "Per quanto si possano impiegare tempo, denaro\ne fatica nella cura di questo Pokémon, il suo\nfiore sarà sempre più bello se sboccia in natura."
+      },
+      {
+        "game": "sm-m",
+        "text": "Appena trova un compagno, il meraviglioso fiore\nche ha sulla testa appassisce e si secca."
+      },
+      {
+        "game": "usum-us",
+        "text": "Il profumo del suo fiore, che varia lievemente in\nbase alla composizione del terreno dove il\nPokémon è cresciuto, dona serenità."
+      },
+      {
+        "game": "usum-um",
+        "text": "La sua bellezza affascina anche gli altri\nPokémon. Il fiore che ha sulla testa necessita\ndi continue attenzioni, altrimenti appassisce."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Si dice che riuscire a far sbocciare il fiore sulla\nsua testa sia un’impresa ardua anche per\ni floricoltori più esperti."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "L’olio essenziale che si ottiene dal fiore ha un\nprofumo sublime, ma costa un occhio della testa."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Lilligant",
+    "genus": "Flowering Pokémon",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Even veteran Trainers face a challenge\nin getting its beautiful flower to bloom.\nThis Pokémon is popular with celebrities."
+      },
+      {
+        "game": "bw-w",
+        "text": "The fragrance of the garland on its head\nhas a relaxing effect. It withers if a\nTrainer does not take good care of it."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "The fragrance of the garland on its head\nhas a relaxing effect, but taking\ncare of it is very difficult."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "The fragrance of the garland on its head\nhas a relaxing effect, but taking\ncare of it is very difficult."
+      },
+      {
+        "game": "xy-x",
+        "text": "The fragrance of the garland on its head has a\nrelaxing effect. It withers if a Trainer does not take\ngood care of it."
+      },
+      {
+        "game": "xy-y",
+        "text": "Even veteran Trainers face a challenge in getting its\nbeautiful flower to bloom. This Pokémon is popular\nwith celebrities."
+      },
+      {
+        "game": "oras-or",
+        "text": "The fragrance of the garland on its head has a\nrelaxing effect. It withers if a Trainer does not take\ngood care of it."
+      },
+      {
+        "game": "oras-as",
+        "text": "Even veteran Trainers face a challenge in getting its\nbeautiful flower to bloom. This Pokémon is popular\nwith celebrities."
+      },
+      {
+        "game": "sm-s",
+        "text": "No matter how much time and money is spent\nraising it, its flowers are the most beautiful\nwhen they bloom in the wild."
+      },
+      {
+        "game": "sm-m",
+        "text": "As soon as it finds a male to be its partner,\nthe beautiful flower on its head darkens,\ndroops, and withers away."
+      },
+      {
+        "game": "usum-us",
+        "text": "The fragrance of its flower differs slightly\ndepending on the soil where it grew up.\nSniffing the aroma calms your heart and mind."
+      },
+      {
+        "game": "usum-um",
+        "text": "It’s well liked by other Pokémon because of its\nbeauty. The flower on its head needs constant\ncare, or it will soon wither and rot."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "It’s believed that even first-rate gardeners have a\nhard time getting the flower on a Lilligant’s head\nto bloom."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Essential oils made from Lilligant flowers\nhave a sublime scent, but they’re also\nstaggeringly expensive."
+      },
+      {
+        "game": "la",
+        "text": "I suspect that its well-developed legs are the result of a life\nspent on mountains covered in deep snow. The scent it exudes\nfrom its flower crown heartens those in proximity."
+      }
+    ]
+  },
+  "chs": {
+    "name": "裙儿小姐",
+    "genus": "花饰宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "无论花多少工夫和金钱，\n比起借助人工手段让它开放，\n在野外绽放的花更美。"
+      },
+      {
+        "game": "sm-m",
+        "text": "一旦找到了♂作为同伴，\n美丽的花就会渐渐黯淡，\n变得枯萎。"
+      },
+      {
+        "game": "usum-us",
+        "text": "根据栽培土壤的成分不同，\n花香也会略微不一样。\n闻一下就能治愈心灵，心情舒畅。"
+      },
+      {
+        "game": "usum-um",
+        "text": "因为美丽而受其他宝可梦喜爱。\n头上的花如果疏于照料，\n很快就会腐烂枯萎。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "据说即使对一流的园艺家\n来说，让它头上的花朵绽放\n也是一件极其困难的事。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "用它的花朵制成的精油\n虽有着极致香气，但价格\n同时也贵得令人大跌眼镜。"
+      }
+    ]
+  }
+}

@@ -1,0 +1,549 @@
+{
+  "jap": {
+    "name": "ディグダ",
+    "genus": "もぐらポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "ちか１メートルくらいを　ほりすすみ\nきのねっこなどを　かじって　いきる。\nたまに　ちじょうに　かおをだす。"
+      },
+      {
+        "game": "xy-y",
+        "text": "ひふが　とても　うすいので\nひかりに　てらされると　けつえきが\nあたためられて　よわってしまう。"
+      },
+      {
+        "game": "oras-or",
+        "text": "ほとんどの　のうかは　ディグダを　そだてている。\nディグダが　あなを　ほった　とちは　ほどよく\nたがやされ　おいしい　やさいが　つくれるからだ。"
+      },
+      {
+        "game": "oras-as",
+        "text": "ほとんどの　のうかは　ディグダを　そだてている。\nディグダが　あなを　ほった　とちは　ほどよく\nたがやされ　おいしい　やさいが　つくれるからだ。"
+      },
+      {
+        "game": "sm-s",
+        "text": "ちかで　きのねを　かじる。　そだてる\nやさいの　ひんしゅに　よっては\nのうかに　がいを　なす　ポケモン。"
+      },
+      {
+        "game": "sm-m",
+        "text": "ディグダが　すむ　とちは　たがやされ\nフンで　ゆたかに　なるため　おおくの\nのうかが　たいせつに　そだてている。"
+      },
+      {
+        "game": "usum-us",
+        "text": "ちかに　トンネルを　ほって　いどう。\nひかりが　きらいなので　ちじょうに\nでてくるのは　ひが　しずんでから。"
+      },
+      {
+        "game": "usum-um",
+        "text": "のうかでは　さくもつの　まわりに\nディグダの　こうぶつの　きを　うえて\nじめんを　たがやして　もらっているよ。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "くらいところを　このむ。ほとんど\nちちゅうですごすが　どうくつでは\nよく　かおを　だしている。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "くらいところを　このむ。ほとんど\nちちゅうですごすが　どうくつでは\nよく　かおを　だしている。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "ディグダが　とおったあとの　だいちは\nほどよく　たがやされて\nさいこうの　はたけに　なる。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "ちちゅうの　あさいところを　いどう。\nほりすすんだあとは　じめんが\nもりあがっているので　すぐわかる。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Digda",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "디그다",
+    "genus": "두더지포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-y",
+        "text": "피부가 매우 얇아서\n빛을 쪼이게 되면 혈액이\n데워져 약해진다."
+      },
+      {
+        "game": "xy-x",
+        "text": "지하 1m 정도를 파고들어 가서\n나무뿌리 등을 씹어 먹고 산다.\n가끔 지상으로 얼굴을 내민다."
+      },
+      {
+        "game": "oras-or",
+        "text": "농가 대부분이 디그다를 기르고 있다.\n디그다가 구멍을 판 땅은 적당히\n일궈져 있어 맛있는 채소가 재배되기 때문이다."
+      },
+      {
+        "game": "oras-as",
+        "text": "농가 대부분이 디그다를 기르고 있다.\n디그다가 구멍을 판 땅은 적당히\n일궈져 있어 맛있는 채소가 재배되기 때문이다."
+      },
+      {
+        "game": "sm-s",
+        "text": "지하에서 나무뿌리를 갉아먹는다.\n키우는 채소의 품종에 따라서는\n농가에 해를 끼치는 포켓몬이다."
+      },
+      {
+        "game": "sm-m",
+        "text": "디그다가 사는 땅은 일궈져 있으며\n배설물로 비옥해져서 많은\n농가에서 소중히 기르고 있다."
+      },
+      {
+        "game": "usum-us",
+        "text": "지하에 터널을 파서 이동한다.\n빛을 싫어해서 해가 진 후에\n지상으로 나온다."
+      },
+      {
+        "game": "usum-um",
+        "text": "농가에서는 작물 주변에\n디그다가 좋아하는 나무를 심어서\n땅을 일구게 하고 있다."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "어두운 곳을 좋아한다.\n거의 땅속에서 지내지만 동굴에서는\n자주 얼굴을 내밀고 있다."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "어두운 곳을 좋아한다.\n거의 땅속에서 지내지만 동굴에서는\n자주 얼굴을 내밀고 있다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "디그다가 지나간 뒤의\n대지는 알맞게 땅이 일궈져\n최고의 밭이 된다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "얕은 땅속을 이동한다.\n굴을 파며 다닌 곳은 지면이\n솟아 있기 때문에 바로 알 수 있다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "地鼠",
+    "genus": "鼴鼠寶可夢",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "會在地下嚼食樹根。根據種植\n的蔬菜品種不同，有時會對農家\n造成災害的寶可夢。"
+      },
+      {
+        "game": "sm-m",
+        "text": "地鼠棲息的土地會被翻掘，\n並因糞便而變得肥沃，所以很多\n農戶把牠們當成寶貝培育著。"
+      },
+      {
+        "game": "usum-us",
+        "text": "會在地下挖隧道來移動。\n由於討厭陽光，所以總是在\n太陽下山後才來到地上。"
+      },
+      {
+        "game": "usum-um",
+        "text": "農民們會在農作物周圍\n種上地鼠喜歡的樹木，\n藉此讓牠們來耕作土地。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "喜歡待在陰暗的地方。\n大部分時間都待在地下，\n只有在洞窟裡會經常探頭出來。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "喜歡待在陰暗的地方。\n大部分時間都待在地下，\n只有在洞窟裡會經常探頭出來。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "地鼠經過之後的土壤\n會得到適當的翻動，\n成為最適合耕種的田地。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "在地下較淺的地方移動。\n被牠挖掘過的地面會鼓起來，\n所以非常容易發現。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Taupiqueur",
+    "genus": "Pokémon Taupe",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Un Pokémon qui vit sous terre.\nHabitué aux souterrains, il fuit la\nlumière du jour."
+      },
+      {
+        "game": "bw-w",
+        "text": "Un Pokémon qui vit sous terre.\nHabitué aux souterrains, il fuit la\nlumière du jour."
+      },
+      {
+        "game": "xy-x",
+        "text": "Il vit à 1 m sous la terre et se nourrit de racines.\nIl apparaît rarement à la surface."
+      },
+      {
+        "game": "xy-y",
+        "text": "Son épiderme est très fin. S’il est exposé au soleil,\nson sang se réchauffe, ce qui l’affaiblit."
+      },
+      {
+        "game": "oras-or",
+        "text": "Les Taupiqueur sont élevés dans la plupart des fermes.\nEn effet, lorsque ce Pokémon creuse quelque part, le sol\nest comme labouré, prêt à recevoir les semences.\nOn peut alors y planter de délicieux légumes."
+      },
+      {
+        "game": "oras-as",
+        "text": "Les Taupiqueur sont élevés dans la plupart des fermes.\nEn effet, lorsque ce Pokémon creuse quelque part, le sol\nest comme labouré, prêt à recevoir les semences.\nOn peut alors y planter de délicieux légumes."
+      },
+      {
+        "game": "sm-s",
+        "text": "Il mange les racines souterraines des arbres,\net cause beaucoup de soucis aux fermiers\nqui cultivent certains légumes."
+      },
+      {
+        "game": "sm-m",
+        "text": "Ce Pokémon laboure le sol et le fertilise avec\nses déjections. Pour cette raison, beaucoup\nd’agriculteurs l’élèvent avec soin."
+      },
+      {
+        "game": "usum-us",
+        "text": "Il se déplace en creusant des tunnels.\nIl déteste la lumière et n’apparaît à la\nsurface qu’une fois le soleil couché."
+      },
+      {
+        "game": "usum-um",
+        "text": "Pour encourager les Taupiqueur à labourer leurs\nchamps, les agriculteurs les bordent d’arbres\nappréciés de ces Pokémon."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Il aime les lieux sombres. Il passe la majeure\npartie de son temps sous terre mais il remonte\nsouvent dans les cavernes."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Il aime les lieux sombres. Il passe la majeure\npartie de son temps sous terre mais il remonte\nsouvent dans les cavernes."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Si un Taupiqueur creuse un tunnel sous un champ,\nil retourne la terre et améliore les récoltes."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Ce Pokémon creuse sous terre à faible profondeur.\nLa terre qu’il laisse dans son sillage le rend facile\nà repérer."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Digda",
+    "genus": "Maulwurf-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Dieses Pokémon lebt 1 m unter der Erde.\nEs frisst Wurzeln und kommt selten an die Oberfläche."
+      },
+      {
+        "game": "xy-y",
+        "text": "Seine Haut ist sehr dünn. Wird es Sonnenlicht\nausgesetzt, erhitzt sich sein Blut und es wird schwach."
+      },
+      {
+        "game": "oras-or",
+        "text": "Digda wird zumeist auf Farmen gezüchtet. Denn wo auch\nimmer dieses Pokémon zu graben beginnt, hinterlässt es Erde,\ndie für das Anpflanzen von Feldfrüchten perfekt geeignet und\nfür den Anbau köstlichen Gemüses ideal ist."
+      },
+      {
+        "game": "oras-as",
+        "text": "Digda wird zumeist auf Farmen gezüchtet. Denn wo auch\nimmer dieses Pokémon zu graben beginnt, hinterlässt es Erde,\ndie für das Anpflanzen von Feldfrüchten perfekt geeignet und\nfür den Anbau köstlichen Gemüses ideal ist."
+      },
+      {
+        "game": "sm-s",
+        "text": "Es knabbert im Erdreich die Wurzeln von Bäumen\nund Pflanzen an. Bei manchen Gemüsesorten\nkann dies zu Ernteschäden führen."
+      },
+      {
+        "game": "sm-m",
+        "text": "Digda wird gerne auf Farmen gezüchtet, da es\ndas Erdreich, in dem es wohnt, gut durchpflügt\nund mit seinen Ausscheidungen düngt."
+      },
+      {
+        "game": "usum-us",
+        "text": "Es gräbt unterirdische Tunnel und bewegt sich\ndarin fort. Da es Licht verabscheut, taucht es\nerst nachts wieder an der Oberfläche auf."
+      },
+      {
+        "game": "usum-um",
+        "text": "Auf Farmen werden Digdas Lieblingsbäume um\ndie Feldfrüchte herum gepflanzt. Im Gegenzug\ndurchpflügen sie dafür den Boden."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Digda bevorzugt dunkle Orte. Es hält sich meist\nunter der Erdoberfläche auf, kommt aber auch\noft in Höhlen zum Vorschein."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Digda bevorzugt dunkle Orte. Es hält sich meist\nunter der Erdoberfläche auf, kommt aber auch\noft in Höhlen zum Vorschein."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Bewegt sich ein Digda unterirdisch fort, pflügt es\ndabei den Erdboden gleich mit und bereitet so\nden Anbau von Feldfrüchten vor."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Es gräbt sich in geringer Tiefe durch den\nErdboden. Da es dabei durchwühlte Erde an der\nOberfläche hinterlässt, ist es leicht zu finden."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Diglett",
+    "genus": "Pokémon Topo",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Vive un metro por debajo del suelo, donde se alimenta\nde raíces. También aparece en la superficie."
+      },
+      {
+        "game": "xy-y",
+        "text": "Su piel es muy fina. Si se expone a la luz, su sangre\nse calienta y su crecimiento se debilita."
+      },
+      {
+        "game": "oras-or",
+        "text": "En la mayoría de las granjas se suelen criar Diglett por la\nsencilla razón de que, excaven donde excaven, dejan la tierra\nperfectamente labrada para sembrar. El terreno queda listo\npara plantar ricas verduras."
+      },
+      {
+        "game": "oras-as",
+        "text": "En la mayoría de las granjas se suelen criar Diglett por la\nsencilla razón de que, excaven donde excaven, dejan la tierra\nperfectamente labrada para sembrar. El terreno queda listo\npara plantar ricas verduras."
+      },
+      {
+        "game": "sm-s",
+        "text": "Le gusta mordisquear las raíces subterráneas\nde las plantas. Puede causar estragos en las\ngranjas según el tipo de cultivos."
+      },
+      {
+        "game": "sm-m",
+        "text": "En muchas granjas crían Diglett, pues dejan la\ntierra perfectamente labrada y abonada, y así\nlas cosechas son mucho más productivas."
+      },
+      {
+        "game": "usum-us",
+        "text": "Se desplaza excavando túneles subterráneos.\nNo soporta la luz brillante, por lo que solo sale\na la superficie tras la puesta de sol."
+      },
+      {
+        "game": "usum-um",
+        "text": "Muchos agricultores flanquean sus campos con\nárboles del agrado de los Diglett para atraerlos\ny fomentar así que labren la tierra."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Prefiere los lugares oscuros. Pasa la mayor parte\ndel tiempo bajo tierra, pero también se avista\ncon frecuencia en cuevas."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Prefiere los lugares oscuros. Pasa la mayor parte\ndel tiempo bajo tierra, pero también se avista\ncon frecuencia en cuevas."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Si un Diglett excava un terreno, lo deja\nperfectamente arado y preparado para\nsembrarlo."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Este Pokémon avanza horadando la tierra a poca\nprofundidad. Resulta fácil localizarlo por los\nmontículos que deja como rastro."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Diglett",
+    "genus": "Pokémon Talpa",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Vive un metro sotto terra, dove si nutre di radici.\nTalvolta compare in superficie."
+      },
+      {
+        "game": "xy-y",
+        "text": "La sua pelle è sottilissima. Se si espone alla luce,\nil sangue si riscalda, indebolendolo."
+      },
+      {
+        "game": "oras-or",
+        "text": "Diglett è allevato in molte aziende agricole. La ragione\nè semplice: quando questo Pokémon scava, lascia il suolo\nperfettamente arato per la semina. Il suolo è poi pronto\nper la coltivazione di squisite verdure."
+      },
+      {
+        "game": "oras-as",
+        "text": "Diglett è allevato in molte aziende agricole. La ragione\nè semplice: quando questo Pokémon scava, lascia il suolo\nperfettamente arato per la semina. Il suolo è poi pronto\nper la coltivazione di squisite verdure."
+      },
+      {
+        "game": "sm-s",
+        "text": "Vive nutrendosi delle radici che trova\nsottoterra. Causa problemi agli agricoltori\nper la coltivazione di certe verdure."
+      },
+      {
+        "game": "sm-m",
+        "text": "È allevato in molte aziende agricole perché,\nvivendo sottoterra, ara il terreno e lo concima\ncon i suoi escrementi."
+      },
+      {
+        "game": "usum-us",
+        "text": "Si sposta scavando gallerie nel terreno.\nOdia la luce e sale in superficie solo dopo\nil tramonto."
+      },
+      {
+        "game": "usum-um",
+        "text": "Gli agricoltori piantano attorno ai campi gli alberi\namati da questi Pokémon per fare in modo che\narino il terreno per loro."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Ama i luoghi bui e vive soprattutto sottoterra,\nma esce spesso allo scoperto nelle grotte."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Ama i luoghi bui e vive soprattutto sottoterra,\nma esce spesso allo scoperto nelle grotte."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Se Diglett attraversa un terreno nel corso dei\nsuoi scavi, lo lascia perfettamente lavorato e\npronto per la semina."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Scava buche a bassa profondità. La terra\nsollevata che lascia al suo passaggio lo rende\nfacilmente individuabile."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Diglett",
+    "genus": "Mole Pokémon",
+    "flavorText": [
+      {
+        "game": "rb-r",
+        "text": "Lives about one\nyard underground\nwhere it feeds on\fplant roots. It\nsometimes appears\nabove ground."
+      },
+      {
+        "game": "rb-b",
+        "text": "Lives about one\nyard underground\nwhere it feeds on\fplant roots. It\nsometimes appears\nabove ground."
+      },
+      {
+        "game": "y",
+        "text": "It prefers dark\nplaces. It spends\nmost of its time\funderground,\nthough it may pop\nup in caves."
+      },
+      {
+        "game": "gs-g",
+        "text": "Its skin is very\nthin. If it is\nexposed to light,\fits blood heats\nup, causing it to\ngrow weak."
+      },
+      {
+        "game": "gs-s",
+        "text": "If a DIGLETT DIGS\nthrough a field,\nit leaves the soil\fperfectly tilled\nand ideal for\nplanting crops."
+      },
+      {
+        "game": "c",
+        "text": "It digs under­\nground and chews\non tree roots,\fsticking its head\nout only when the\nsun isn't bright."
+      },
+      {
+        "game": "rs-r",
+        "text": "DIGLETT are raised in most farms.\nThe reason is simple - wherever this\nPOKéMON burrows, the soil is left\fperfectly tilled for planting crops.\nThis soil is made ideal for growing\ndelicious vegetables."
+      },
+      {
+        "game": "rs-s",
+        "text": "DIGLETT are raised in most farms.\nThe reason is simple - wherever this\nPOKéMON burrows, the soil is left\fperfectly tilled for planting crops.\nThis soil is made ideal for growing\ndelicious vegetables."
+      },
+      {
+        "game": "e",
+        "text": "DIGLETT are raised in most farms.\nThe reason is simple--wherever they\nburrow, the soil is left perfectly tilled\nfor growing delicious crops."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "It burrows through the ground at a\nshallow depth. It leaves raised earth in\nits wake, making it easy to spot."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "Lives about one yard underground where it\nfeeds on plant roots. It sometimes appears\naboveground."
+      },
+      {
+        "game": "dp-d",
+        "text": "A Pokémon that lives underground.\nBecause of its dark habitat, it is\nrepelled by bright sunlight."
+      },
+      {
+        "game": "dp-p",
+        "text": "A Pokémon that lives underground.\nBecause of its dark habitat, it is\nrepelled by bright sunlight."
+      },
+      {
+        "game": "pt",
+        "text": "A Pokémon that lives underground.\nBecause of its dark habitat, it is\nrepelled by bright sunlight."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "Its skin is very thin. If it is exposed\nto light, its blood heats up,\ncausing it to grow weak."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "If a DIGLETT digs through a field,\nit leaves the soil perfectly tilled\nand ideal for planting crops."
+      },
+      {
+        "game": "bw-b",
+        "text": "A Pokémon that lives underground.\nBecause of its dark habitat, it is\nrepelled by bright sunlight."
+      },
+      {
+        "game": "bw-w",
+        "text": "A Pokémon that lives underground.\nBecause of its dark habitat, it is\nrepelled by bright sunlight."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "A Pokémon that lives underground.\nBecause of its dark habitat, it is\nrepelled by bright sunlight."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "A Pokémon that lives underground.\nBecause of its dark habitat, it is\nrepelled by bright sunlight."
+      },
+      {
+        "game": "xy-x",
+        "text": "Lives about one yard underground where it feeds\non plant roots. It sometimes appears aboveground."
+      },
+      {
+        "game": "xy-y",
+        "text": "Its skin is very thin. If it is exposed to light,\nits blood heats up, causing it to grow weak."
+      },
+      {
+        "game": "oras-or",
+        "text": "Diglett are raised in most farms. The reason is simple—\nwherever this Pokémon burrows, the soil is left perfectly tilled\nfor planting crops. This soil is made ideal for growing\ndelicious vegetables."
+      },
+      {
+        "game": "oras-as",
+        "text": "Diglett are raised in most farms. The reason is simple—\nwherever this Pokémon burrows, the soil is left perfectly tilled\nfor planting crops. This soil is made ideal for growing\ndelicious vegetables."
+      },
+      {
+        "game": "sm-s",
+        "text": "It chews on plant roots underground.\nFarmers whose vegetables are vulnerable\nfind it can be quite a pest."
+      },
+      {
+        "game": "sm-m",
+        "text": "Many farmers cherish and nurture Diglett\nbecause its droppings enrich the soil it lives in."
+      },
+      {
+        "game": "usum-us",
+        "text": "It travels through tunnels that it digs\nunderground. It hates sunlight, so it comes\nout only after the sun goes down."
+      },
+      {
+        "game": "usum-um",
+        "text": "Around their crops, farmers plant the kind of\ntree that Diglett like to eat as a way of getting\nDiglett to plow the fields for them."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "It prefers dark places. It spends most of its time\nunderground, though it may pop up in caves."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "It prefers dark places. It spends most of its time\nunderground, though it may pop up in caves."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "If a Diglett digs through a field, it leaves the soil\nperfectly tilled and ideal for planting crops."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "It burrows through the ground at a shallow depth.\nIt leaves raised earth in its wake, making it easy\nto spot."
+      }
+    ]
+  },
+  "chs": {
+    "name": "地鼠",
+    "genus": "鼹鼠宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "在地下啃食树根。\n因有些品种的蔬菜会遭其啃食，\n是可能对农户造成灾害的宝可梦。"
+      },
+      {
+        "game": "sm-m",
+        "text": "地鼠会疏松栖息的土地，\n其粪便也会让土壤肥沃，\n所以很多农户会精心培育它们。"
+      },
+      {
+        "game": "usum-us",
+        "text": "会在地下挖掘隧道移动。\n由于讨厌光线，所以会在\n太阳落山后来到地上。"
+      },
+      {
+        "game": "usum-um",
+        "text": "农户会在农作物周围\n种上地鼠喜食的树木，\n并以此来让它们耕作土地哦。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "喜欢阴暗的地方。\n大部分时间都待在地下，\n只有在洞窟里会经常探头出来。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "喜欢阴暗的地方。\n大部分时间都待在地下，\n只有在洞窟里会经常探头出来。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "地鼠经过之后的土壤\n会得到适当的翻动，\n成为最适合耕种的田地。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "在地下较浅的地方移动。\n被它挖掘过的地面会鼓起来，\n所以非常容易发现。"
+      }
+    ]
+  }
+}

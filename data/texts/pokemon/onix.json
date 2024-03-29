@@ -1,0 +1,409 @@
+{
+  "jap": {
+    "name": "イワーク",
+    "genus": "いわへびポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "ちちゅうを　ものすごい　いきおいで\nほりすすみ　エサを　さがす。とおった\nあとは　ディグダの　すみかになる。"
+      },
+      {
+        "game": "xy-y",
+        "text": "ふだんは　つちのなかに　すんでいる。\nちちゅうを　じそく　８０キロで\nほりながら　エサを　さがす。"
+      },
+      {
+        "game": "oras-or",
+        "text": "のうみそに　じしゃくが　あるので　つちの　なかを\nほり　すすんでいても　ほうこうを　まちがえない。\nとしを　とるほど　からだは　まるみを　おびる。"
+      },
+      {
+        "game": "oras-as",
+        "text": "のうみそに　じしゃくが　あるので　つちの　なかを\nほり　すすんでいても　ほうこうを　まちがえない。\nとしを　とるほど　からだは　まるみを　おびる。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "ちちゅうを　ものすごい　いきおいで\nほりすすみ　エサを　さがす。とおった\nあとは　ディグダの　すみかになる。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "ちちゅうを　ものすごい　いきおいで\nほりすすみ　エサを　さがす。とおった\nあとは　ディグダの　すみかになる。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "ちちゅうを　ほりすすみながら\nいろんな　かたいものを　とりこみ\nがんじょうな　からだをつくる。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "おおきく　じょうぶな　からだを\nくねらせ　よじらせ　じそく８０キロで\nじめんを　いきおいよく　ほりすすむ。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Iwark",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "롱스톤",
+    "genus": "돌뱀포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "땅속을 엄청난 기세로\n뚫고 나아가며 먹이를 찾는다. 지나간\n곳은 디그다의 보금자리가 된다."
+      },
+      {
+        "game": "xy-y",
+        "text": "평상시에는 땅속에 살고 있다.\n땅속을 시속 80km로\n파면서 먹이를 찾는다."
+      },
+      {
+        "game": "oras-or",
+        "text": "뇌에 자석이 있어서 땅속을\n파고 나가도 방향을 틀리지 않는다.\n나이를 먹을수록 몸이 둥그스름해진다."
+      },
+      {
+        "game": "oras-as",
+        "text": "뇌에 자석이 있어서 땅속을\n파고 나가도 방향을 틀리지 않는다.\n나이를 먹을수록 몸이 둥그스름해진다."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "땅속을 엄청난 기세로\n뚫고 나아가며 먹이를 찾는다. 지나간\n곳은 디그다의 보금자리가 된다."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "땅속을 엄청난 기세로\n뚫고 나아가며 먹이를 찾는다. 지나간\n곳은 디그다의 보금자리가 된다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "땅속을 파고들면서 여러 가지\n단단한 것들을 집어삼켜서\n튼튼한 몸을 만든다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "크고 튼튼한 몸을\n뒤틀고 꼬아서 시속 80km로\n힘차게 땅을 파나간다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "大岩蛇",
+    "genus": "岩蛇寶可夢",
+    "flavorText": [
+      {
+        "game": "lgpe-lgp",
+        "text": "會以驚人的氣勢在地底下\n鑽洞尋找獵物。經過後留下的\n隧道會成為地鼠的巢穴。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "會以驚人的氣勢在地底下\n鑽洞尋找獵物。經過後留下的\n隧道會成為地鼠的巢穴。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "會一邊在地底挖掘前進，\n一邊吸收各種堅硬的物體，\n藉此讓身體變得更加結實。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "彎曲扭動巨大結實的身體，\n以時速８０公里的\n猛烈勢頭挖掘前進。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Onix",
+    "genus": "Pokémon Serpenroc",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Il se nourrit des pierres qu’il\nrencontre en creusant le sol.\nIl peut creuser à 80 km/h!"
+      },
+      {
+        "game": "bw-w",
+        "text": "Il se nourrit des pierres qu’il\nrencontre en creusant le sol.\nIl peut creuser à 80 km/h!"
+      },
+      {
+        "game": "xy-x",
+        "text": "Il creuse sous terre en quête de nourriture.\nSes tunnels servent de maison aux Taupiqueur."
+      },
+      {
+        "game": "xy-y",
+        "text": "Onix vit généralement sous terre. Il cherche de\nla nourriture en creusant à plus de 80 km/h."
+      },
+      {
+        "game": "oras-or",
+        "text": "Onix a dans le cerveau un aimant qui lui sert de boussole.\nIl permet à ce Pokémon de ne pas se perdre pendant\nqu’il creuse. En prenant de l’âge, son corps s’arrondit\net se polit."
+      },
+      {
+        "game": "oras-as",
+        "text": "Onix a dans le cerveau un aimant qui lui sert de boussole.\nIl permet à ce Pokémon de ne pas se perdre pendant\nqu’il creuse. En prenant de l’âge, son corps s’arrondit\net se polit."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Il creuse la terre à toute allure en quête de\nnourriture. Ses tunnels servent de maison\naux Taupiqueur."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Il creuse la terre à toute allure en quête de\nnourriture. Ses tunnels servent de maison\naux Taupiqueur."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Il absorbe des éléments solides en creusant le sol,\nce qui le rend plus robuste."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Il creuse dans le sol à une vitesse de 80 km/h\nen contorsionnant son immense corps de pierre."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Onix",
+    "genus": "Felsnatter-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Dieses Pokémon gräbt auf seiner Suche nach Futter\nlange Tunnel, in denen sich später Digda einnisten."
+      },
+      {
+        "game": "xy-y",
+        "text": "Es lebt gewöhnlich unter der Erde. Während es sich\nmit 80 km/h durchs Erdreich bohrt, sucht es nach\nNahrung."
+      },
+      {
+        "game": "oras-or",
+        "text": "Onix hat einen Magneten in seinem Gehirn. Er dient ihm\nals Kompass, sodass es beim Graben von Tunneln nicht\ndie Orientierung verliert. Wenn es älter wird, wird sein\nKörper immer runder und glatter."
+      },
+      {
+        "game": "oras-as",
+        "text": "Onix hat einen Magneten in seinem Gehirn. Er dient ihm\nals Kompass, sodass es beim Graben von Tunneln nicht\ndie Orientierung verliert. Wenn es älter wird, wird sein\nKörper immer runder und glatter."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Es gräbt auf seiner Suche nach Futter mit\nirrsinniger Geschwindigkeit lange Tunnel,\nin denen sich später Digda einnisten."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Es gräbt auf seiner Suche nach Futter mit\nirrsinniger Geschwindigkeit lange Tunnel,\nin denen sich später Digda einnisten."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Wenn es sich durch die Erde gräbt, nimmt es\nviele harte Gegenstände auf, die seinen Körper\nerhärten."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Es bohrt sich mit 80 km/h durch das Erdreich,\nindem es seinen massiven, rauen Körper dreht\nund windet."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Onix",
+    "genus": "Pokémon Serpiente Roca",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Cava a gran velocidad en busca de comida. Los\ntúneles que deja son usados por los Diglett."
+      },
+      {
+        "game": "xy-y",
+        "text": "Suele vivir bajo tierra. Va buscando comida a medida\nque se va abriendo camino a 80 km por hora."
+      },
+      {
+        "game": "oras-or",
+        "text": "Onix tiene un imán en el cerebro, que actúa como una brújula\npara no perder la orientación cuando está cavando túneles.\nA medida que crece, se le redondea y suaviza el cuerpo."
+      },
+      {
+        "game": "oras-as",
+        "text": "Onix tiene un imán en el cerebro, que actúa como una brújula\npara no perder la orientación cuando está cavando túneles.\nA medida que crece, se le redondea y suaviza el cuerpo."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Cava a gran velocidad en busca de comida.\nLos Diglett convierten en su hogar los túneles\nque deja a su paso."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Cava a gran velocidad en busca de comida.\nLos Diglett convierten en su hogar los túneles\nque deja a su paso."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Al abrirse paso bajo tierra, va absorbiendo todo\nlo que encuentra. Eso hace que su cuerpo sea\nasí de sólido."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Perfora el suelo a una velocidad de 80 km/h\ngirando y retorciendo su robusto y enorme\ncuerpo."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Onix",
+    "genus": "Pokémon Serpesasso",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Scava veloce nel terreno in cerca di cibo lasciando\nlunghi cunicoli usati poi come casa dai Diglett."
+      },
+      {
+        "game": "xy-y",
+        "text": "Di solito vive sottoterra. Cerca cibo scavando\ncunicoli nel terreno alla velocità di 80 km/h."
+      },
+      {
+        "game": "oras-or",
+        "text": "Onix nel cervello ha una calamita, che agisce da bussola\nper consentirgli di non perdere l’orientamento mentre\nscava sottoterra. Con il passare del tempo il suo corpo\ndiventa sempre più smussato e levigato."
+      },
+      {
+        "game": "oras-as",
+        "text": "Onix nel cervello ha una calamita, che agisce da bussola\nper consentirgli di non perdere l’orientamento mentre\nscava sottoterra. Con il passare del tempo il suo corpo\ndiventa sempre più smussato e levigato."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Scava nel terreno con incredibile vigore in cerca\ndi cibo, creando cunicoli usati poi come tana\ndai Diglett."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Scava nel terreno con incredibile vigore in cerca\ndi cibo, creando cunicoli usati poi come tana\ndai Diglett."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Scava nel terreno assorbendo gli oggetti più duri\nper irrobustire il suo corpo."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Scava nel terreno a una velocità di 80 km/h\ncontorcendo e agitando il corpo grande\ne possente."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Onix",
+    "genus": "Rock Snake Pokémon",
+    "flavorText": [
+      {
+        "game": "rb-r",
+        "text": "As it grows, the\nstone portions of\nits body harden\fto become similar\nto a diamond, but\ncolored black."
+      },
+      {
+        "game": "rb-b",
+        "text": "As it grows, the\nstone portions of\nits body harden\fto become similar\nto a diamond, but\ncolored black."
+      },
+      {
+        "game": "y",
+        "text": "Burrows at high\nspeed in search\nof food. The\ftunnels it leaves\nare used as homes\nby DIGLETTs."
+      },
+      {
+        "game": "gs-g",
+        "text": "It twists and\nsquirms through\nthe ground. The\fthunderous roar of\nits tunneling\nechoes a long way."
+      },
+      {
+        "game": "gs-s",
+        "text": "It rapidly bores\nthrough the ground\nat 50 mph by\fsquirming and\ntwisting its mas­\nsive, rugged body."
+      },
+      {
+        "game": "c",
+        "text": "As it digs through\nthe ground, it\nabsorbs many hard\fobjects. This is\nwhat makes its\nbody so solid."
+      },
+      {
+        "game": "rs-r",
+        "text": "ONIX has a magnet in its brain. It acts\nas a compass so that this POKéMON does\nnot lose direction while it is tunneling.\fAs it grows older, its body becomes\nincreasingly rounder and smoother."
+      },
+      {
+        "game": "rs-s",
+        "text": "ONIX has a magnet in its brain. It acts\nas a compass so that this POKéMON does\nnot lose direction while it is tunneling.\fAs it grows older, its body becomes\nincreasingly rounder and smoother."
+      },
+      {
+        "game": "e",
+        "text": "There is a magnet in its brain that\nprevents an ONIX from losing direction\nwhile tunneling. As it grows older, its body\nbecomes steadily rounder and smoother."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "It usually lives underground. It searches\nfor food while boring its way through the\nground at 50 miles per hour."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "As it grows, the stone portions of its\nbody harden to become similar to\nblack-colored diamonds."
+      },
+      {
+        "game": "dp-d",
+        "text": "When it travels underground, it\ncauses rumbling and tremors.\nIt can move at 50 mph."
+      },
+      {
+        "game": "dp-p",
+        "text": "It squirms through the ground\nusing its long and rugged body.\nIt always eats while burrowing."
+      },
+      {
+        "game": "pt",
+        "text": "It burrows through the ground\nat a speed of 50 mph while\nfeeding on large boulders.\n"
+      },
+      {
+        "game": "hgss-hg",
+        "text": "It twists and squirms through\nthe ground. The thunderous roar of\nits tunneling echoes a long way."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "It rapidly bores through the ground\nat 50 mph by squirming and\ntwisting its massive, rugged body."
+      },
+      {
+        "game": "bw-b",
+        "text": "It burrows through the ground\nat a speed of 50 mph while\nfeeding on large boulders."
+      },
+      {
+        "game": "bw-w",
+        "text": "It burrows through the ground\nat a speed of 50 mph while\nfeeding on large boulders."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "Opening its large mouth, it ingests\nmassive amounts of soil and creates\nlong tunnels."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "Opening its large mouth, it ingests\nmassive amounts of soil and creates\nlong tunnels."
+      },
+      {
+        "game": "xy-x",
+        "text": "Burrows at high speed in search of food.\nThe tunnels it leaves are used as homes\nby Diglett."
+      },
+      {
+        "game": "xy-y",
+        "text": "It usually lives underground. It searches for food\nwhile boring its way through the ground at 50 miles\nper hour."
+      },
+      {
+        "game": "oras-or",
+        "text": "Onix has a magnet in its brain. It acts as a compass so that this\nPokémon does not lose direction while it is tunneling.\nAs it grows older, its body becomes increasingly rounder\nand smoother."
+      },
+      {
+        "game": "oras-as",
+        "text": "Onix has a magnet in its brain. It acts as a compass so that\nthis Pokémon does not lose direction while it is tunneling.\nAs it grows older, its body becomes increasingly rounder\nand smoother."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Burrows at high speed in search of food.\nThe tunnels it leaves are used as homes\nby Diglett."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Burrows at high speed in search of food.\nThe tunnels it leaves are used as homes\nby Diglett."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "As it digs through the ground, it absorbs many\nhard objects. This is what makes its body so solid."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "It rapidly bores through the ground at 50 mph by\nsquirming and twisting its massive, rugged body."
+      },
+      {
+        "game": "la",
+        "text": "This chain of immense stones resembles a giant serpent. Tremors\nshake the earth above as it burrows deep beneath the ground,\nfeeding on boulders as it goes."
+      }
+    ]
+  },
+  "chs": {
+    "name": "大岩蛇",
+    "genus": "岩蛇宝可梦",
+    "flavorText": [
+      {
+        "game": "lgpe-lgp",
+        "text": "以惊人之势钻地觅食。在它\n通过之后形成的洞穴会\n被地鼠们当作自己的住处。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "以惊人之势钻地觅食。在它\n通过之后形成的洞穴会\n被地鼠们当作自己的住处。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "会一边在地里挖掘前进，\n一边吸收各种坚硬的物体，\n以此让身体变得更加结实。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "弯曲扭动巨大结实的身体，\n以时速８０公里的\n猛烈劲头向前挖进。"
+      }
+    ]
+  }
+}

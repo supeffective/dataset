@@ -1,0 +1,549 @@
+{
+  "jap": {
+    "name": "ダグトリオ",
+    "genus": "もぐらポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "ちちゅうを　ほりすすんで\nあいてが　ゆだんしているところを\nべつの　ばしょから　こうげきする。"
+      },
+      {
+        "game": "xy-y",
+        "text": "すごい　ちからの　もちぬしで\nどんなに　かたい　じめんでも\nちか１００キロまで　ほりすすむ。"
+      },
+      {
+        "game": "oras-or",
+        "text": "もともと　ひとつの　からだから　３つごに\nなったので　みんな　かんがえることは　おなじ。\nちからを　あわせ　どこまでも　ほりすすむ。"
+      },
+      {
+        "game": "oras-as",
+        "text": "もともと　ひとつの　からだから　３つごに\nなったので　みんな　かんがえることは　おなじ。\nちからを　あわせ　どこまでも　ほりすすむ。"
+      },
+      {
+        "game": "sm-s",
+        "text": "３つごが　きょうりょくして　こうどう。\nちか１００キロを　ほりすすむほどの\nパワーは　チームワークの　たまもの。"
+      },
+      {
+        "game": "sm-m",
+        "text": "のうかなど　おおくの　ひとびとに\nしたしまれているのに　じめんの　したの\nすがたを　みたものは　いない。"
+      },
+      {
+        "game": "usum-us",
+        "text": "いつも　なかよしの　３つごだが\nごく　まれに　どのあたまが　はじめに\nエサを　くうかで　おおゲンカになる。"
+      },
+      {
+        "game": "usum-um",
+        "text": "つるりとした　かたちを　しているが\nとてつもなく　かたいあたま。　どんな\nじばんも　ずつきで　ほりすすめるぞ。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "みつごのパワーで　ちか１００キロまで\nほりすすむので　じしんの　げんいんに\nなるとの　ほうこくも　されている。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "みつごのパワーで　ちか１００キロまで\nほりすすむので　じしんの　げんいんに\nなるとの　ほうこくも　されている。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "チームワークに　すぐれた　みつごの\nディグダ。　ちか　１００キロまで\nほって　じしんを　おこすこともある。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "ちか１００キロまで　ほりすすむ\nパワーをひめた　みつごの　ディグダ。\nじめんのしたは　だれも　しらない。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Dugtrio",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "닥트리오",
+    "genus": "두더지포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "땅속을 파고들어 가\n상대가 방심하고 있을 때\n다른 곳에서 공격한다."
+      },
+      {
+        "game": "xy-y",
+        "text": "엄청난 힘의 소유자로\n그 어떤 단단한 땅이라도\n지하 100km까지 파고들어 간다."
+      },
+      {
+        "game": "oras-or",
+        "text": "본래 하나의 몸에서 세쌍둥이가\n된 것이라 모두 생각하는 것이 같다.\n힘을 모아 끝없이 파나간다."
+      },
+      {
+        "game": "oras-as",
+        "text": "본래 하나의 몸에서 세쌍둥이가\n된 것이라 모두 생각하는 것이 같다.\n힘을 모아 끝없이 파나간다."
+      },
+      {
+        "game": "sm-s",
+        "text": "세쌍둥이가 협력해서 행동한다.\n지하 100km를 파고 갈 정도의\n파워는 팀워크 덕택이다."
+      },
+      {
+        "game": "sm-m",
+        "text": "농가 등 많은 사람에게\n친숙하지만 땅 아래의\n모습을 본 사람은 없다."
+      },
+      {
+        "game": "usum-us",
+        "text": "언제나 사이좋은 세쌍둥이지만\n극히 드물게 어느 머리가 먼저\n먹이를 먹을까로 큰 싸움을 한다."
+      },
+      {
+        "game": "usum-um",
+        "text": "매끄러운 형태를 하고 있지만\n굉장히 머리가 단단하다. 어떤\n지반이라도 박치기로 파고 간다."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "세쌍둥이의 파워로 지하 100km까지\n땅을 파고들어 간다. 이것이\n지진의 원인이라는 보고도 있다."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "세쌍둥이의 파워로 지하 100km까지\n땅을 파고들어 간다. 이것이\n지진의 원인이라는 보고도 있다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "팀워크가 뛰어난 세쌍둥이 디그다.\n지하 100km까지 파고들어\n지진을 일으킬 때도 있다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "지하 100km까지 파고들 수 있는\n파워를 간직한 세쌍둥이 디그다.\n땅 밑은 아무도 모른다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "三地鼠",
+    "genus": "鼴鼠寶可夢",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "三胞胎合作行動。\n足以挖到地下１００公里深的\n力量是團隊合作的成果。"
+      },
+      {
+        "game": "sm-m",
+        "text": "和農戶等大多數人都很親近，\n不過還是沒有人見過\n牠在地面下的樣子。"
+      },
+      {
+        "game": "usum-us",
+        "text": "三胞胎的感情一向很好，\n但在極少數情況下也會為了\n哪個頭先吃東西而大吵一架。"
+      },
+      {
+        "game": "usum-um",
+        "text": "腦袋長得渾圓光滑，但卻\n極為堅硬。不管是哪種地層\n都能用頭錘挖掘前進。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "會以三胞胎的力量一路\n往下挖到100公里的深度。\n有報告指出這是地震的成因之一。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "會以三胞胎的力量一路\n往下挖到100公里的深度。\n有報告指出這是地震的成因之一。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "擅長團隊合作的三胞胎地鼠。\n有時會挖掘到１００公里深的\n地底，甚至引發地震。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "三胞胎的地鼠，擁有能夠挖掘到\n地下１００公里深的潛力。沒人知道\n牠在地下的部分究竟長成什麼樣子。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Triopikeur",
+    "genus": "Pokémon Taupe",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Ses trois têtes creusent le sol à\ntour de rôle. Il peut atteindre des\nprofondeurs de 100 kilomètres."
+      },
+      {
+        "game": "bw-w",
+        "text": "Ses trois têtes creusent le sol à\ntour de rôle. Il peut atteindre des\nprofondeurs de 100 kilomètres."
+      },
+      {
+        "game": "xy-x",
+        "text": "Au combat, il s’enfouit sous terre pour pouvoir frapper\nses adversaires depuis n’importe quelle direction."
+      },
+      {
+        "game": "xy-y",
+        "text": "Terriblement puissants, ils peuvent creuser un\ntunnel dans tout type de sol et jusqu’à 100 km\nde profondeur."
+      },
+      {
+        "game": "oras-or",
+        "text": "Les Triopikeur sont en fait des triplés qui ont émergé du\nmême corps. C’est pourquoi chaque triplé pense exactement\ncomme les deux autres. Ils creusent inlassablement, dans\nune coopération parfaite."
+      },
+      {
+        "game": "oras-as",
+        "text": "Les Triopikeur sont en fait des triplés qui ont émergé du\nmême corps. C’est pourquoi chaque triplé pense exactement\ncomme les deux autres. Ils creusent inlassablement, dans\nune coopération parfaite."
+      },
+      {
+        "game": "sm-s",
+        "text": "Des triplés Taupiqueur qui s’entraident en tout.\nEn se coordonnant, ils peuvent creuser en\néquipe jusqu’à 100 km de profondeur."
+      },
+      {
+        "game": "sm-m",
+        "text": "Bien que beaucoup d’agriculteurs élèvent\nce Pokémon, personne n’a jamais vu la partie\nenfouie de son corps."
+      },
+      {
+        "game": "usum-us",
+        "text": "Ces triplés s’entendent à merveille, mais en\nde rares occasions, une terrible dispute éclate\npour savoir qui va manger en premier."
+      },
+      {
+        "game": "usum-um",
+        "text": "D’apparence lisse, ses têtes sont\nincroyablement dures. Il creuse la terre\nà coups de crâne répétés."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "À trois, ils peuvent creuser jusqu’à 100 km\nde profondeur. On les dit responsables des\ntremblements de terre."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "À trois, ils peuvent creuser jusqu’à 100 km\nde profondeur. On les dit responsables des\ntremblements de terre."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Ces triplés forment une équipe de choc.\nIls causent parfois des séismes lorsqu’ils creusent\njusqu’à 100 km de profondeur."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Ce trio de Taupiqueur est capable de creuser\njusqu’à 100 km sous terre, vers l’inconnu."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Digdri",
+    "genus": "Maulwurf-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Im Kampf gräbt es sich ein und attackiert den\nGegner aus einer unvorhersehbaren Richtung."
+      },
+      {
+        "game": "xy-y",
+        "text": "Es ist so stark, dass es sich mit Schaufler sogar durch\nsteinharten Boden bis in 100 km Tiefe gräbt."
+      },
+      {
+        "game": "oras-or",
+        "text": "Digdri sind Drillinge, die aus einem Körper entstanden sind.\nDaher denken alle Köpfe gleich. Sie arbeiten so gut zusammen,\ndass sie endlos graben können."
+      },
+      {
+        "game": "oras-as",
+        "text": "Digdri sind Drillinge, die aus einem Körper entstanden sind.\nDaher denken alle Köpfe gleich. Sie arbeiten so gut zusammen,\ndass sie endlos graben können."
+      },
+      {
+        "game": "sm-s",
+        "text": "Die drei arbeiten und handeln stets zusammen.\nDurch Teamwork gelingt es dem Pokémon, sich\nbis zu 100 km tief ins Erdreich zu graben."
+      },
+      {
+        "game": "sm-m",
+        "text": "Trotz seiner Beliebtheit bei Farmern und vielen\nanderen Menschen, hat noch niemand den unter\nder Erde versteckten Teil von Digdri gesehen."
+      },
+      {
+        "game": "usum-us",
+        "text": "Digdri sind Drillinge und normalerweise ein Herz\nund eine Seele. Nur ganz selten streiten sie sich,\nwelcher Kopf zuerst ans Futter darf."
+      },
+      {
+        "game": "usum-um",
+        "text": "Seine Köpfe sind vollkommen glatt und steinhart.\nMit Kopfnüssen gräbt es sich mühelos durch\njeden Untergrund."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Mit der vereinten Kraft von drei Digda gräbt\nes sich bis zu 100 km tief in die Erde. Berichten\nzufolge löst dies mitunter Erdbeben aus."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Mit der vereinten Kraft von drei Digda gräbt\nes sich bis zu 100 km tief in die Erde. Berichten\nzufolge löst dies mitunter Erdbeben aus."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Diese Digda-Drillinge graben sich manchmal\nbis zu 100 km tief in den Erdboden und lösen\ndadurch Erdbeben aus."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Diese kraftvollen Digda-Drillinge graben bis zu\n100 km tief. Keiner weiß, wie sie unter der Erde\naussehen."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Dugtrio",
+    "genus": "Pokémon Topo",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "En combate, cava la tierra, se esconde y sale de\nrepente para golpear a su rival. Nunca se sabe por\ndónde puede aparecer."
+      },
+      {
+        "game": "xy-y",
+        "text": "Muy poderosos, pueden excavar hasta los terrenos\nmás duros a una profundidad de más de 100 km."
+      },
+      {
+        "game": "oras-or",
+        "text": "Los Dugtrio son trillizos que se originaron a partir de un solo\ncuerpo, por eso piensan de la misma forma. A la hora de\nexcavar, trabajan en equipo y sin descanso."
+      },
+      {
+        "game": "oras-as",
+        "text": "Los Dugtrio son trillizos que se originaron a partir de un solo\ncuerpo, por eso piensan de la misma forma. A la hora de\nexcavar, trabajan en equipo y sin descanso."
+      },
+      {
+        "game": "sm-s",
+        "text": "Este trío siempre trabaja en equipo, gracias a lo\ncual puede perforar hasta alcanzar 100 km de\nprofundidad."
+      },
+      {
+        "game": "sm-m",
+        "text": "A pesar de ser muy comunes en las granjas,\nnadie ha visto jamás la parte de sus cuerpos\nque ocultan bajo tierra."
+      },
+      {
+        "game": "usum-us",
+        "text": "Este trío se lleva de maravilla, aunque muy de\nvez en cuando se enzarzan en acaloradas\ndisputas para decidir cuál come primero."
+      },
+      {
+        "game": "usum-um",
+        "text": "A pesar de ser lisas, sus cabezas son de una\ndureza extraordinaria. Puede horadar el terreno\nmás difícil a base de testarazos."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Estos trillizos combinan su fuerza para excavar\nhasta una profundidad de 100 km, razón por la\nque se les atribuyen algunos terremotos."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Estos trillizos combinan su fuerza para excavar\nhasta una profundidad de 100 km, razón por la\nque se les atribuyen algunos terremotos."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Un trío de Diglett. Causa enormes terremotos al\ncavar en el subsuelo a profundidades de hasta\n100 km."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Estos trillizos cavan a una profundidad de hasta\n100 km. Se desconoce el aspecto de la parte de\nsus cuerpos que se oculta bajo tierra."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Dugtrio",
+    "genus": "Pokémon Talpa",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Nella lotta, scava tunnel nel terreno per sorprendere\nil nemico attaccandolo da una direzione imprevedibile."
+      },
+      {
+        "game": "xy-y",
+        "text": "Estremamente forte, può scavare una fossa anche\nnella terra più dura fino a 100 km di profondità."
+      },
+      {
+        "game": "oras-or",
+        "text": "Dugtrio è un Pokémon formato da tre unità legate in un solo\ncorpo. Ogni trio è un’unica mente pensante. Le tre unità\ncollaborano scavando instancabilmente."
+      },
+      {
+        "game": "oras-as",
+        "text": "Dugtrio è un Pokémon formato da tre unità legate in un solo\ncorpo. Ogni trio è un’unica mente pensante. Le tre unità\ncollaborano scavando instancabilmente."
+      },
+      {
+        "game": "sm-s",
+        "text": "Le tre unità agiscono collaborando fra loro.\nGrazie al lavoro di squadra possono scavare\nfino a raggiungere i 100 km di profondità."
+      },
+      {
+        "game": "sm-m",
+        "text": "È un Pokémon amato da molti, soprattutto dagli\nagricoltori. Nessuno ha mai visto la parte del\nsuo corpo che si trova sottoterra."
+      },
+      {
+        "game": "usum-us",
+        "text": "In genere le tre teste vanno d’accordo, ma a\nvolte può capitare che scoppi una lite furiosa\nper decidere quale mangerà per prima."
+      },
+      {
+        "game": "usum-um",
+        "text": "Le sue teste sono perfettamente lisce e\nincredibilmente dure. Può scavare a testate\nqualsiasi tipo di terreno."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Un gruppo di tre Diglett che può scavare\ngallerie fino a 100 km di profondità. Per questo\nsi dice che causi dei terremoti."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Un gruppo di tre Diglett che può scavare\ngallerie fino a 100 km di profondità. Per questo\nsi dice che causi dei terremoti."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Trio di Diglett che eccellono nel lavoro di\nsquadra. Scava fino a 100 km di profondità,\nprovocando a volte dei terremoti."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Questo trio di Diglett può scavare fino a 100 km\ndi profondità. Nessuno ha mai visto la parte\nnascosta sotto terra."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Dugtrio",
+    "genus": "Mole Pokémon",
+    "flavorText": [
+      {
+        "game": "rb-r",
+        "text": "A team of DIGLETT\ntriplets.\nIt triggers huge\fearthquakes by\nburrowing 60 miles\nunderground."
+      },
+      {
+        "game": "rb-b",
+        "text": "A team of DIGLETT\ntriplets.\nIt triggers huge\fearthquakes by\nburrowing 60 miles\nunderground."
+      },
+      {
+        "game": "y",
+        "text": "A team of triplets\nthat can burrow\nover 60 MPH.\fDue to this, some\npeople think it's\nan earthquake."
+      },
+      {
+        "game": "gs-g",
+        "text": "Its three heads\nbob separately up\nand down to loosen\fthe soil nearby,\nmaking it easier\nfor it to burrow."
+      },
+      {
+        "game": "gs-s",
+        "text": "Extremely power­\nful, they can DIG\nthrough even the\fhardest ground to\na depth of over 60\nmiles."
+      },
+      {
+        "game": "c",
+        "text": "These DIGLETT\ntriplets dig over\n60 miles below sea\flevel. No one\nknows what it's\nlike underground."
+      },
+      {
+        "game": "rs-r",
+        "text": "DUGTRIO are actually triplets that\nemerged from one body. As a result,\neach triplet thinks exactly like the\fother two triplets.\nThey work cooperatively to burrow\nendlessly."
+      },
+      {
+        "game": "rs-s",
+        "text": "DUGTRIO are actually triplets that\nemerged from one body. As a result,\neach triplet thinks exactly like the\fother two triplets.\nThey work cooperatively to burrow\nendlessly."
+      },
+      {
+        "game": "e",
+        "text": "Because the triplets originally split from\none body, they think exactly alike.\nThey work cooperatively to burrow\nendlessly through the ground."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "In battle, it digs through the ground and\nstrikes the unsuspecting foe from an\nunexpected direction."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "A team of DIGLETT triplets. It triggers\nhuge earthquakes by burrowing 60 miles\nunderground."
+      },
+      {
+        "game": "dp-d",
+        "text": "Its three heads move alternately,\ndriving it through tough soil to\ndepths of over 60 miles."
+      },
+      {
+        "game": "dp-p",
+        "text": "Its three heads move alternately,\ndriving it through tough soil to\ndepths of over 60 miles."
+      },
+      {
+        "game": "pt",
+        "text": "Its three heads move alternately,\ndriving it through tough soil to\ndepths of over 60 miles."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "Its three heads bob separately up\nand down to loosen the soil nearby,\nmaking it easier for it to burrow."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "Extremely powerful, they can dig\nthrough even the hardest ground to\na depth of over 60 miles."
+      },
+      {
+        "game": "bw-b",
+        "text": "Its three heads move alternately,\ndriving it through tough soil to\ndepths of over 60 miles."
+      },
+      {
+        "game": "bw-w",
+        "text": "Its three heads move alternately,\ndriving it through tough soil to\ndepths of over 60 miles."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "Its three heads move alternately,\ndriving it through tough soil to\ndepths of over 60 miles."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "Its three heads move alternately,\ndriving it through tough soil to\ndepths of over 60 miles."
+      },
+      {
+        "game": "xy-x",
+        "text": "In battle, it digs through the ground and strikes\nthe unsuspecting foe from an unexpected direction."
+      },
+      {
+        "game": "xy-y",
+        "text": "Extremely powerful, they can dig through even the\nhardest ground to a depth of over 60 miles."
+      },
+      {
+        "game": "oras-or",
+        "text": "Dugtrio are actually triplets that emerged from one body.\nAs a result, each triplet thinks exactly like the other\ntwo triplets. They work cooperatively to burrow endlessly."
+      },
+      {
+        "game": "oras-as",
+        "text": "Dugtrio are actually triplets that emerged from one body.\nAs a result, each triplet thinks exactly like the other two\ntriplets. They work cooperatively to burrow endlessly."
+      },
+      {
+        "game": "sm-s",
+        "text": "This set of triplets moves cooperatively.\nIt’s the power of teamwork that enables\nthis Pokémon to dig to a depth of 60 miles."
+      },
+      {
+        "game": "sm-m",
+        "text": "Despite the closeness between this Pokémon\nand farmers and other people, no one has ever\nseen the parts of it concealed underground."
+      },
+      {
+        "game": "usum-us",
+        "text": "While the three of them normally get along\nsplendidly, on rare occasions a huge fight will\nbreak out over which head gets to eat first."
+      },
+      {
+        "game": "usum-um",
+        "text": "Dugtrio’s heads are sleek and smooth and\nincredibly hard. It can dig through any soil with\nits headbutts."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "A team of triplets that can burrow to a depth\nof 60 miles. It’s reported that this triggers\nan earthquake."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "A team of triplets that can burrow to a depth\nof 60 miles. It’s reported that this triggers\nan earthquake."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "A team of Diglett triplets. It triggers huge\nearthquakes by burrowing 60 miles underground."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "These Diglett triplets dig over 60 miles below sea\nlevel. No one knows what it’s like underground."
+      }
+    ]
+  },
+  "chs": {
+    "name": "三地鼠",
+    "genus": "鼹鼠宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "三胞胎合作行动。\n甚至连地下１００公里都能挖到，\n这种力量是团队合作的成果。"
+      },
+      {
+        "game": "sm-m",
+        "text": "和农户等大多数人都很亲近，\n不过还是没有人见过\n它在地面下的样子。"
+      },
+      {
+        "game": "usum-us",
+        "text": "三胞胎的感情一直很好，\n但在极少数情况下，也会为哪个\n脑袋先进食而激烈争吵。"
+      },
+      {
+        "game": "usum-um",
+        "text": "虽然长得很圆润，但却有着出奇\n坚硬的脑袋。不管是怎样的地层，\n它都能用头锤的方式挖掘前进。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "三合一的力量能让它们\n挖地深至100公里，甚至\n有报告说它们会引发地震。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "三合一的力量能让它们\n挖地深至100公里，甚至\n有报告说它们会引发地震。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "擅长团队合作的三胞胎地鼠。\n有时会挖掘到１００公里深的\n地底，甚至引发地震。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "三胞胎的地鼠，拥有能够挖掘到\n地下１００公里深的潜力。没人知道\n它在地下的部分究竟长成什么样子。"
+      }
+    ]
+  }
+}

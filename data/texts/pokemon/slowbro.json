@@ -1,0 +1,549 @@
+{
+  "jap": {
+    "name": "ヤドラン",
+    "genus": "やどかりポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "くっついている　シェルダーは\nしっぽから　にじみでる　うまみが\nほしくて　ずっと　はなれない。"
+      },
+      {
+        "game": "xy-y",
+        "text": "ヤドンが　うみへ　エサを\nとりにいったとき　シェルダーに\nしっぽをかまれ　ヤドランになった。"
+      },
+      {
+        "game": "oras-or",
+        "text": "シェルダーが　かみついて　いるので　しっぽで\nエサを　つれなくなった　ヤドランは　しぶしぶ\nすいちゅうを　およいで　エサを　つかまえている。"
+      },
+      {
+        "game": "oras-as",
+        "text": "シェルダーが　かみついて　いるので　しっぽで\nエサを　つれなくなった　ヤドランは　しぶしぶ\nすいちゅうを　およいで　エサを　つかまえている。"
+      },
+      {
+        "game": "sm-s",
+        "text": "うみを　ながめ　ぼーっと　している。\nシェルダーのどくが　からだに　まわり\nより　ぼんやりするように　なった。"
+      },
+      {
+        "game": "sm-m",
+        "text": "シェルダーが　つよく　かむたび\nいっしゅん　なにかを　ひらめくが\nあっというまに　わすれてしまう。"
+      },
+      {
+        "game": "usum-us",
+        "text": "きほんてきに　ぼんやり　している。\nシッポが　ちぎれて　シェルダーが\nはずれてしまうと　ヤドンに　もどる。"
+      },
+      {
+        "game": "usum-um",
+        "text": "シッポの　あまみを　もっと　もっと\nすすろうと　よくばった　シェルダーが\nまきがい　じょうに　へんかしたのだ。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "うみのちかくで　のんびり　くらす。\nもし　シッポの　シェルダーが\nはずれてしまうと　ヤドンにもどる。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "うみのちかくで　のんびり　くらす。\nもし　シッポの　シェルダーが\nはずれてしまうと　ヤドンにもどる。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "シェルダーに　しっぽを　かまれて\nしんか。　シェルダーは　しっぽから\nにじみでる　あまみに　ゆめごこちだ。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "シェルダーに　かまれた　ショックで\nにそくほこうになった。　シェルダーが\nはなれると　ヤドンに　もどるらしい。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Yadoran",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "야도란",
+    "genus": "기생포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "붙어 있는 셀러는\n꼬리에서 배어 나오는 맛을\n좋아해서 계속 떨어지지 않는다."
+      },
+      {
+        "game": "xy-y",
+        "text": "야돈이 바다로 먹이를\n잡으러 갔다가 셀러에게\n꼬리를 물려 야도란이 되었다."
+      },
+      {
+        "game": "oras-or",
+        "text": "셀러가 물고 있어서 꼬리로 먹이를\n낚을 수 없게 된 야도란은 마지못해\n물속을 헤엄쳐 먹이를 잡고 있다."
+      },
+      {
+        "game": "oras-as",
+        "text": "셀러가 물고 있어서 꼬리로 먹이를\n낚을 수 없게 된 야도란은 마지못해\n물속을 헤엄쳐 먹이를 잡고 있다."
+      },
+      {
+        "game": "sm-s",
+        "text": "바다를 바라보며 멍하니 있다.\n셀러의 독이 몸에 퍼져서\n더욱 멍하니 있게 되었다."
+      },
+      {
+        "game": "sm-m",
+        "text": "셀러가 세게 물 때마다\n퍼뜩 무언가가 떠오르지만\n순식간에 잊어버린다."
+      },
+      {
+        "game": "usum-us",
+        "text": "기본적으로 멍하니 있다.\n꼬리가 끊겨 셀러가 떨어지면\n야돈으로 돌아간다."
+      },
+      {
+        "game": "usum-um",
+        "text": "꼬리의 단맛을 더 많이\n마시기 위해 욕심을 낸 셀러가\n고둥 모양으로 변화했다."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "바다 근처에서 느긋하게 산다.\n만약 꼬리에 있는 셀러가\n떨어지면 야돈으로 돌아간다."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "바다 근처에서 느긋하게 산다.\n만약 꼬리에 있는 셀러가\n떨어지면 야돈으로 돌아간다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "셀러에게 꼬리를 물려서 진화했다.\n셀러는 꼬리에서 배어 나오는\n단맛에 황홀한 기분이다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "셀러에게 물린 충격으로 두 발로\n걸을 수 있게 되었다. 셀러가 떨어지면\n야돈으로 돌아간다고 한다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "呆殼獸",
+    "genus": "寄居蟹寶可夢",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "呆呆地遠望著大海。\n大舌貝的毒因為在身體中循環，\n變得越來越呆呆笨笨的。"
+      },
+      {
+        "game": "sm-m",
+        "text": "每次大舌貝狠狠咬下去的瞬間\n會有什麼在腦海中閃過，\n但轉瞬之間就全部忘光了。"
+      },
+      {
+        "game": "usum-us",
+        "text": "基本上一直在發呆。\n當尾巴斷掉，大舌貝脫落後\n就會變回呆呆獸。"
+      },
+      {
+        "game": "usum-um",
+        "text": "為了能夠從尾巴上吸到更多的\n甘美精華，貪吃的大舌貝\n把外殼變化成了螺旋狀。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "悠閒地生活在海邊。\n尾巴上的大舌貝如果脫落，\n就會變回呆呆獸。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "悠閒地生活在海邊。\n尾巴上的大舌貝如果脫落，\n就會變回呆呆獸。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "被大舌貝咬住尾巴而進化。\n大舌貝陶醉在尾巴滲出的\n甜味裡，彷彿置身夢境。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "被大舌貝狠狠咬下的衝擊讓牠\n變得能用兩腳行走。如果大舌貝\n脫落了，牠似乎就會變回呆呆獸。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Flagadoss",
+    "genus": "Pokémon Symbiose",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Ce grand benêt connaît des éclairs\nde lucidité lorsque le Kokiyas de sa\nqueue se met à mordre."
+      },
+      {
+        "game": "bw-w",
+        "text": "Ce grand benêt connaît des éclairs\nde lucidité lorsque le Kokiyas de sa\nqueue se met à mordre."
+      },
+      {
+        "game": "xy-x",
+        "text": "Le Kokiyas accroché à sa queue est friand de ce qu’il\ndévore et ne veut pas lâcher prise."
+      },
+      {
+        "game": "xy-y",
+        "text": "Un Kokiyas s’est un jour accroché à la queue d’un\nRamoloss qui pêchait et l’a fait évoluer en Flagadoss."
+      },
+      {
+        "game": "oras-or",
+        "text": "Flagadoss a un Kokiyas solidement attaché à sa queue.\nDu coup, il ne peut plus l’utiliser pour pêcher. Flagadoss est\ndonc obligé, à contrecœur, de nager pour attraper ses proies."
+      },
+      {
+        "game": "oras-as",
+        "text": "Flagadoss a un Kokiyas solidement attaché à sa queue.\nDu coup, il ne peut plus l’utiliser pour pêcher. Flagadoss est\ndonc obligé, à contrecœur, de nager pour attraper ses proies."
+      },
+      {
+        "game": "sm-s",
+        "text": "Il aime contempler la mer sans bouger. Le poison\ndu Kokiyas répandu dans son organisme a\nencore plus ralenti son métabolisme."
+      },
+      {
+        "game": "sm-m",
+        "text": "Chaque fois que le Kokiyas mord avec force,\nil a soudain une idée de génie, mais il l’oublie\nimmédiatement."
+      },
+      {
+        "game": "usum-us",
+        "text": "Ce Pokémon passe son temps dans l’oisiveté\nla plus totale. Sa queue se détache parfois et il\nperd son Kokiyas, redevenant ainsi un Ramoloss."
+      },
+      {
+        "game": "usum-um",
+        "text": "Un Kokiyas avide s’est accroché à sa queue\npour en sucer le jus sucré et s’est transformé\npour prendre une forme en spirale."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Il mène une vie tranquille en bord de mer.\nSi le Kokiyas accroché à sa queue s’en va,\nil redevient un Ramoloss."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Il mène une vie tranquille en bord de mer.\nSi le Kokiyas accroché à sa queue s’en va,\nil redevient un Ramoloss."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Il a évolué après qu’un Kokiyas lui a mordu\nla queue. Celle-ci sécrète une substance sucrée\nqui enchante particulièrement les Kokiyas."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "La morsure du Kokiyas l’a tellement surpris\nqu’il est devenu bipède. Il paraît qu’il redevient\nun Ramoloss si le Kokiyas lâche prise."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Lahmus",
+    "genus": "Symbiose-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Das Muschas an seiner Rute lässt nicht locker,\nda ein leckerer Geschmack aus seiner Rute strömt."
+      },
+      {
+        "game": "xy-y",
+        "text": "Als Flegmon im Wasser jagen ging, wurde es von\neinem Muschas gebissen. Dadurch entwickelte es sich\nzu Lahmus."
+      },
+      {
+        "game": "oras-or",
+        "text": "An Lahmus’ Rute hat sich ein Muschas festgebissen. Daher\nkann es ihn nicht mehr zum Angeln benutzen und es ist dazu\ngezwungen, umherzuschwimmen und nach Beute Ausschau\nzu halten."
+      },
+      {
+        "game": "oras-as",
+        "text": "An Lahmus’ Schweif hat sich ein Muschas festgebissen.\nDaher kann es ihn nicht mehr zum Fischen benutzen und\nist dazu gezwungen, umherzuschwimmen und Ausschau\nnach Beute zu halten."
+      },
+      {
+        "game": "sm-s",
+        "text": "Es betrachtet oft mit leerem Blick das Meer.\nDas Gift, das Muschas in seinen Körper injiziert,\nerhöht seine Begriffsstutzigkeit noch weiter."
+      },
+      {
+        "game": "sm-m",
+        "text": "Beißt das Muschas an seinem Schweif beherzt\nzu, hat es eine geniale Idee, die es aber sofort\nwieder vergisst."
+      },
+      {
+        "game": "usum-us",
+        "text": "Ein von Grund auf begriffsstutziges Pokémon.\nVerliert es seine Rute mitsamt Muschas,\nentwickelt es sich zu Flegmon zurück."
+      },
+      {
+        "game": "usum-um",
+        "text": "Das Muschas an seiner Rute bekommt von dem\nsüßen Geschmack einfach nicht genug und\nmutiert für mehr Biss zu einer Spiralform."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Es führt ein ruhiges Leben in der Nähe des\nMeeres. Verliert es das Muschas an seinem\nSchwanz, wird es wieder zu einem Flegmon."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Es führt ein ruhiges Leben in der Nähe des\nMeeres. Verliert es das Muschas an seinem\nSchwanz, wird es wieder zu einem Flegmon."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Es entwickelte sich, als ein Muschas in seine Rute\nbiss. Das süße Aroma, das aus der Rute strömt,\nhat Muschas in eine Art Trance versetzt."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Der Schock, den Muschas’ Biss verursachte,\nließ es auf zwei Beinen stehen. Löst das Muschas\nsich von ihm, wird es wieder zu einem Flegmon."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Slowbro",
+    "genus": "Pokémon Ermitaño",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Tiene una cola tan apetecible, que el Shellder que va\nenganchado a ella no se soltará por nada del mundo."
+      },
+      {
+        "game": "xy-y",
+        "text": "Según parece, cuando Slowpoke fue a pescar al río,\nle mordió un Shellder en la cola y así se convirtió en\nSlowbro."
+      },
+      {
+        "game": "usum-us",
+        "text": "Vive en un estado de distracción constante.\nSi el Shellder que tiene en la cola se desprende,\nrevierte a su estadio evolutivo anterior."
+      },
+      {
+        "game": "oras-or",
+        "text": "Slowbro lleva en la cola un Shellder enganchado, sujeto por\nlos dientes. Como Slowbro no puede usar la cola para pescar,\nse mete en el agua de mala gana en busca de sus presas."
+      },
+      {
+        "game": "oras-as",
+        "text": "Slowbro lleva en la cola un Shellder enganchado, sujeto por\nlos dientes. Como Slowbro no puede usar la cola para pescar,\nse mete en el agua de mala gana en busca de sus presas."
+      },
+      {
+        "game": "sm-s",
+        "text": "Contemplar el océano le permite relajarse y\ndesconectar. Si el veneno de Shellder circula por\nsus venas, alcanza el culmen de la relajación."
+      },
+      {
+        "game": "sm-m",
+        "text": "Cada vez que Shellder le muerde la cola, se le\nocurre una idea brillante, pero la olvida instantes\ndespués."
+      },
+      {
+        "game": "usum-um",
+        "text": "El Shellder que le muerde la cola para sorber su\ndulce savia ha terminado por transformarse en\nuna especie de caracola."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Lleva una vida tranquila cerca del mar. Si el\nShellder de la cola se desprende, se convierte\nde nuevo en un Slowpoke."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Lleva una vida tranquila cerca del mar. Si el\nShellder de la cola se desprende, se convierte\nde nuevo en un Slowpoke."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Ha evolucionado después de que lo mordiera\nun Shellder, al cual le embelesa la sustancia que\nsecreta por la cola."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Se volvió bípedo por el impacto que le causó la\nmordedura del Shellder. Si este se desprende,\nvuelve a convertirse en un Slowpoke."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Slowbro",
+    "genus": "Pokémon Paguro",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Lo Shellder che gli sta attaccato non si stacca mai\na causa del profumo appetitoso della coda."
+      },
+      {
+        "game": "xy-y",
+        "text": "Uno Slowpoke che si trovava in mare in cerca di cibo\nfu morso da uno Shellder, evolvendosi in Slowbro."
+      },
+      {
+        "game": "oras-or",
+        "text": "Slowbro ha uno Shellder saldamente attaccato alla coda,\nche quindi non può più essere usata per pescare.\nCosì Slowbro può essere visto nuotare di malavoglia per\ncatturare una preda."
+      },
+      {
+        "game": "oras-as",
+        "text": "Slowbro ha uno Shellder saldamente attaccato alla coda,\nche quindi non può più essere usata per pescare.\nCosì Slowbro può essere visto nuotare di malavoglia per\ncatturare una preda."
+      },
+      {
+        "game": "sm-s",
+        "text": "Contempla il mare con aria assente.\nIl veleno di Shellder che circola nel suo corpo\nlo rende ancora più stordito."
+      },
+      {
+        "game": "sm-m",
+        "text": "Ogni volta che lo Shellder che ha sulla coda\nlo morde, aguzza l’ingegno e gli viene un’idea\nbrillante, ma un attimo dopo l’ha già dimenticata."
+      },
+      {
+        "game": "usum-us",
+        "text": "Ha sempre un’aria un po’ assente. Se perde la\ncoda e lo Shellder che vi è attaccato, si\ntrasforma in uno Slowpoke."
+      },
+      {
+        "game": "usum-um",
+        "text": "Lo Shellder che sta attaccato alla sua coda per\nsucchiarne avidamente la dolce linfa si è\ntrasformato, assumendo una forma a spirale."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Vive tranquillo vicino al mare. Se per caso\nlo Shellder che ha sulla coda si stacca,\ntorna ad essere uno Slowpoke."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Vive tranquillo vicino al mare. Se per caso\nlo Shellder che ha sulla coda si stacca,\ntorna ad essere uno Slowpoke."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Si è evoluto in seguito al morso di uno Shellder.\nGli Shellder sono inebriati dalla dolce linfa\nsecreta dalla coda."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Ha assunto una postura eretta per lo shock\ncausato dal morso di uno Shellder. Pare che torni\na essere uno Slowpoke se lo Shellder si stacca."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Slowbro",
+    "genus": "Hermit Crab Pokémon",
+    "flavorText": [
+      {
+        "game": "rb-r",
+        "text": "The SHELLDER that\nis latched onto\nSLOWPOKE's tail\fis said to feed\non the host's left\nover scraps."
+      },
+      {
+        "game": "rb-b",
+        "text": "The SHELLDER that\nis latched onto\nSLOWPOKE's tail\fis said to feed\non the host's left\nover scraps."
+      },
+      {
+        "game": "y",
+        "text": "Lives lazily by\nthe sea. If the\nSHELLDER on its\ftail comes off,\nit becomes a\nSLOWPOKE again."
+      },
+      {
+        "game": "gs-g",
+        "text": "If the tail-biting\nSHELLDER is thrown\noff in a harsh\fbattle, it reverts\nto being an ordi­\nnary SLOWPOKE."
+      },
+      {
+        "game": "gs-s",
+        "text": "Naturally dull to\nbegin with, it\nlost its ability\fto feel pain due\nto SHELLDER's\nseeping poison."
+      },
+      {
+        "game": "c",
+        "text": "An attached\nSHELLDER won't let\ngo because of the\ftasty flavor that\noozes out of its\ntail."
+      },
+      {
+        "game": "rs-r",
+        "text": "SLOWBRO’s tail has a SHELLDER firmly\nattached with a bite. As a result, the\ntail can’t be used for fishing anymore.\fThis causes SLOWBRO to grudgingly swim\nand catch prey instead."
+      },
+      {
+        "game": "rs-s",
+        "text": "SLOWBRO’s tail has a SHELLDER firmly\nattached with a bite. As a result, the\ntail can’t be used for fishing anymore.\fThis causes SLOWBRO to grudgingly swim\nand catch prey instead."
+      },
+      {
+        "game": "e",
+        "text": "Its tail has a SHELLDER firmly attached\nwith a bite. As a result, the tail can’t be\nused for fishing anymore. This forces it\nto reluctantly swim and catch prey."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "When a SLOWPOKE went hunting in the sea,\nits tail was bitten by a SHELLDER. That\nmade it evolve into SLOWBRO."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "The SHELLDER that latches onto\nSLOWPOKE’s tail is said to feed on the\nhost’s leftover scraps."
+      },
+      {
+        "game": "dp-d",
+        "text": "Though usually dim witted, it\nseems to become inspired if the\nSHELLDER on its tail bites down."
+      },
+      {
+        "game": "dp-p",
+        "text": "Though usually dim witted, it\nseems to become inspired if the\nSHELLDER on its tail bites down."
+      },
+      {
+        "game": "pt",
+        "text": "Though usually dim witted, it\nseems to become inspired if the\nSHELLDER on its tail bites down."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "If the tail-biting SHELLDER is thrown\noff in a harsh battle, it reverts to\nbeing an ordinary SLOWPOKE."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "Naturally dull to begin with, it\nlost its ability to feel pain due\nto SHELLDER’s seeping poison."
+      },
+      {
+        "game": "bw-b",
+        "text": "Though usually dim witted, it\nseems to become inspired if the\nShellder on its tail bites down."
+      },
+      {
+        "game": "bw-w",
+        "text": "Though usually dim witted, it\nseems to become inspired if the\nShellder on its tail bites down."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "Though usually dim witted, it\nseems to become inspired if the\nShellder on its tail bites down."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "Though usually dim witted, it\nseems to become inspired if the\nShellder on its tail bites down."
+      },
+      {
+        "game": "xy-x",
+        "text": "An attached Shellder won’t let go because of\nthe tasty flavor that oozes out of its tail."
+      },
+      {
+        "game": "xy-y",
+        "text": "When a Slowpoke went hunting in the sea, its tail\nwas bitten by a Shellder. That made it evolve\ninto Slowbro."
+      },
+      {
+        "game": "oras-or",
+        "text": "Slowbro’s tail has a Shellder firmly attached with a bite.\nAs a result, the tail can’t be used for fishing anymore.\nThis causes Slowbro to grudgingly swim and catch\nprey instead."
+      },
+      {
+        "game": "oras-as",
+        "text": "Slowbro’s tail has a Shellder firmly attached with a bite.\nAs a result, the tail can’t be used for fishing anymore. This\ncauses Slowbro to grudgingly swim and catch prey instead."
+      },
+      {
+        "game": "sm-s",
+        "text": "It spaces out while gazing at the sea.\nWith Shellder’s poison flowing through its body,\nit becomes even spacier."
+      },
+      {
+        "game": "sm-m",
+        "text": "Whenever Shellder bites down hard on its tail,\nit gives Slowbro a flash of inspiration...which it\nforgets a moment later."
+      },
+      {
+        "game": "usum-us",
+        "text": "Spacing out is basically all it does. It turns back\ninto Slowpoke if its tail, along with Shellder,\nbreaks off."
+      },
+      {
+        "game": "usum-um",
+        "text": "Shellder, in its greed to suck out more and more\nsweetness from Slowbro’s tail, has\nmetamorphosed into a spiral-shaped shell."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Lives lazily by the sea. If the Shellder on its tail\ncomes off, it becomes a Slowpoke again."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Lives lazily by the sea. If the Shellder on its tail\ncomes off, it becomes a Slowpoke again."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Slowpoke became Slowbro when a Shellder bit\non to its tail. Sweet flavors seeping from the tail\nmake the Shellder feel as if its life is a dream."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Being bitten by a Shellder shocked this Pokémon\ninto standing on two legs. If the Shellder lets go,\nit seems Slowbro will turn back into a Slowpoke."
+      }
+    ]
+  },
+  "chs": {
+    "name": "呆壳兽",
+    "genus": "寄居蟹宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "呆呆地望着大海。\n因大舌贝的毒在身体中循环\n而变得越来越傻乎乎。"
+      },
+      {
+        "game": "sm-m",
+        "text": "每次大舌贝狠狠咬下去的瞬间\n会有什么在脑海中闪过，\n但转瞬之间就全部忘光了。"
+      },
+      {
+        "game": "usum-us",
+        "text": "基本上一直在发呆。\n当尾巴被切断，大舌贝脱落后，\n它就会变回呆呆兽。"
+      },
+      {
+        "game": "usum-um",
+        "text": "为了能从其尾巴上吸到\n更多更多的甜味，贪吃的大舌贝\n把外壳变成了螺旋状的样子。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "在海边悠闲地生活。如果\n尾巴上的大舌贝脱落了，\n它就会变回呆呆兽。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "在海边悠闲地生活。如果\n尾巴上的大舌贝脱落了，\n它就会变回呆呆兽。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "被大舌贝咬住尾巴而\n进化。尾巴里渗出的\n甜味让大舌贝心醉神迷。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "因为被大舌贝咬住而受到的刺激使它\n变得能够两足直立行走。当大舌贝\n离开后，它似乎就会变回呆呆兽。"
+      }
+    ]
+  }
+}

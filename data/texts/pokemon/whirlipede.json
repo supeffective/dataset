@@ -1,0 +1,269 @@
+{
+  "jap": {
+    "name": "ホイーガ",
+    "genus": "まゆムカデポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "かたい　カラに　まもられている。\nタイヤのように　かいてんして\nてきに　はげしく　たいあたりする。"
+      },
+      {
+        "game": "xy-y",
+        "text": "ふだんは　うごかないが　おそわれると\nこうそく　かいてんして　はしりまわり\nたいあたりで　はんげきするのだ。"
+      },
+      {
+        "game": "oras-or",
+        "text": "かたい　カラに　まもられている。\nタイヤのように　かいてんして\nてきに　はげしく　たいあたりする。"
+      },
+      {
+        "game": "oras-as",
+        "text": "ふだんは　うごかないが　おそわれると\nこうそく　かいてんして　はしりまわり\nたいあたりで　はんげきするのだ。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "こうそくで　かいてんし　あいてに\nとつげき。　さいこうじそくは\nおよそ　１００キロに　たっする。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "かたいカラと　どくのトゲで　みを\nまもり　しんかに　ひつような\nエネルギーを　ためているのだ。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Wheega",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "휠구",
+    "genus": "눈썹지네포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "단단한 껍질로 보호되고 있다.\n타이어처럼 회전하여 상대에게\n격렬히 몸통박치기를 날린다."
+      },
+      {
+        "game": "xy-y",
+        "text": "평소에는 움직이지 않지만 공격당하면\n고속 회전하여 뛰어다니다가\n몸통박치기로 반격한다."
+      },
+      {
+        "game": "oras-or",
+        "text": "단단한 껍질로 보호되고 있다.\n타이어처럼 회전하여 상대에게\n격렬히 몸통박치기를 날린다."
+      },
+      {
+        "game": "oras-as",
+        "text": "평소에는 움직이지 않지만 공격당하면\n고속 회전하여 뛰어다니다가\n몸통박치기로 반격한다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "고속으로 회전해 상대에게\n돌격한다. 최고 시속은\n약 100km에 달한다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "단단한 껍질과 독가시로\n몸을 보호하면서 진화에 필요한\n에너지를 비축하고 있다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "車輪毬",
+    "genus": "繭蜈蚣寶可夢",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "會高速旋轉去突擊對手。\n牠的最高時速可以達到\n大約１００公里。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "用堅硬的殼和有毒的刺\n保護自己，同時累積\n進化所需的能量。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Scobolide",
+    "genus": "Pokémon Coconplopode",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Protégé par sa solide carapace,\nil fonce sur ses ennemis en\nroulant comme un pneu."
+      },
+      {
+        "game": "bw-w",
+        "text": "En général, il reste immobile. Mais quand\non l’attaque, il se met à tourbillonner\nà toute vitesse et fonce sur l’ennemi."
+      },
+      {
+        "game": "xy-x",
+        "text": "Protégé par sa solide carapace, il fonce sur ses\nennemis en roulant comme un pneu."
+      },
+      {
+        "game": "xy-y",
+        "text": "En général, il reste immobile. Mais quand on l’attaque,\nil se met à tourbillonner à toute vitesse et fonce sur\nl’ennemi."
+      },
+      {
+        "game": "oras-or",
+        "text": "Protégé par sa solide carapace, il fonce sur ses ennemis\nen roulant comme un pneu."
+      },
+      {
+        "game": "oras-as",
+        "text": "En général, il reste immobile. Mais quand on l’attaque,\nil se met à tourbillonner à toute vitesse et fonce sur l’ennemi."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Il se propulse sur ses ennemis en tournant\ntrès vite sur lui-même. Il peut ainsi atteindre\nune vitesse d’environ 100 km/h."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Il se protège avec sa solide carapace et ses épines\nempoisonnées tandis qu’il rassemble l’énergie\nnécessaire à son évolution."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Rollum",
+    "genus": "Kokonfüßer-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Von einem harten Schutzpanzer umgeben. Es greift\nseine Gegner an, indem es mit Karacho wie ein Rad\nin sie hineinrollt."
+      },
+      {
+        "game": "xy-y",
+        "text": "An sich ist es harmlos. Bringt man es jedoch\nin Bedrängnis, setzt es sich mit blitzschnellen\nRollattacken zur Wehr."
+      },
+      {
+        "game": "oras-or",
+        "text": "Von einem harten Schutzpanzer umgeben. Es greift seine\nGegner an, indem es mit Karacho wie ein Rad in sie hineinrollt."
+      },
+      {
+        "game": "oras-as",
+        "text": "An sich ist es harmlos. Bringt man es jedoch in Bedrängnis,\nsetzt es sich mit blitzschnellen Rollattacken zur Wehr."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Rollum dreht sich mit hoher Geschwindigkeit\nund rammt seine Gegner. Dabei erreicht es\nGeschwindigkeiten von bis zu 100 km/h."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Es schützt sich mit seinem harten Panzer und den\nGiftspitzen, um ungestört genügend Energie für\nseine Entwicklung zu sammeln."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Whirlipede",
+    "genus": "Pokémon Pupaciempiés",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Lo protege un duro caparazón. Gira como una rueda y\nrealiza brutales placajes contra sus enemigos."
+      },
+      {
+        "game": "xy-y",
+        "text": "Normalmente no se mueve, pero se pone a rodar\nfrenéticamente y contraataca con placajes si lo atacan."
+      },
+      {
+        "game": "oras-or",
+        "text": "Lo protege un duro caparazón. Gira como una rueda y realiza\nbrutales placajes contra sus enemigos."
+      },
+      {
+        "game": "oras-as",
+        "text": "Normalmente no se mueve, pero se pone a rodar\nfrenéticamente y contraataca con placajes si lo atacan."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Gira a gran velocidad y carga contra sus rivales.\nPuede alcanzar los 100 km/h."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Se defiende con su duro caparazón y sus\npúas venenosas mientras acumula la energía\nnecesaria para evolucionar."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Whirlipede",
+    "genus": "Pokémon Rotopede",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "È protetto da un guscio resistente. Si scaglia contro\nil nemico rotolando come uno pneumatico."
+      },
+      {
+        "game": "xy-y",
+        "text": "Di solito non si muove, ma se viene attaccato,\ncomincia a turbinare su se stesso e si scaglia contro\nil nemico."
+      },
+      {
+        "game": "oras-or",
+        "text": "È protetto da un guscio resistente. Si scaglia contro il nemico\nrotolando come uno pneumatico."
+      },
+      {
+        "game": "oras-as",
+        "text": "Di solito non si muove, ma se viene attaccato, comincia a\nturbinare su se stesso e si scaglia contro il nemico."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Attacca l’avversario turbinando rapidamente\nsu se stesso. Può raggiungere una velocità\ndi circa 100 km/h."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Mentre accumula l’energia necessaria per\nevolversi, si difende con il guscio resistente\ne le spine velenose."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Whirlipede",
+    "genus": "Curlipede Pokémon",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Protected by a hard shell, it spins\nits body like a wheel and crashes\nfuriously into its enemies."
+      },
+      {
+        "game": "bw-w",
+        "text": "It is usually motionless, but when\nattacked, it rotates at high speed and\nthen crashes into its opponent."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "Storing energy for evolution, it sits.\nBut, when predators approach, it\nmoves to stab them with poison spikes."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "Storing energy for evolution, it sits.\nBut, when predators approach, it\nmoves to stab them with poison spikes."
+      },
+      {
+        "game": "xy-x",
+        "text": "Protected by a hard shell, it spins its body like a\nwheel and crashes furiously into its enemies."
+      },
+      {
+        "game": "xy-y",
+        "text": "It is usually motionless, but when attacked,\nit rotates at high speed and then crashes into\nits opponent."
+      },
+      {
+        "game": "oras-or",
+        "text": "Protected by a hard shell, it spins its body like a\nwheel and crashes furiously into its enemies."
+      },
+      {
+        "game": "oras-as",
+        "text": "It is usually motionless, but when attacked,\nit rotates at high speed and then crashes into\nits opponent."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "This Pokémon spins itself rapidly and charges into\nits opponents. Its top speed is just over 60 mph."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Whirlipede protects itself with a sturdy shell and\npoisonous spikes while it stores up the energy it’ll\nneed for evolution."
+      }
+    ]
+  },
+  "chs": {
+    "name": "车轮球",
+    "genus": "茧蜈蚣宝可梦",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "高速旋转突击对方。\n最高时速可以达到\n１００公里左右。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "用坚硬的壳和带毒的刺\n保护自己的身体，\n积蓄进化所需的能量。"
+      }
+    ]
+  }
+}

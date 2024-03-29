@@ -1,0 +1,553 @@
+{
+  "jap": {
+    "name": "ゴース",
+    "genus": "ガスじょうポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "ガスでできた　うすい　からだは\nどんな　おおきさの　あいても\nつつみこみ　いきのねを　とめる。"
+      },
+      {
+        "game": "xy-y",
+        "text": "ガスから　うまれた　せいめいたい。\nどくをふくんだ　ガスの　からだに\nつつまれると　だれでも　きぜつする。"
+      },
+      {
+        "game": "oras-or",
+        "text": "きょうふうを　うけると　ガスじょうの　からだは\nみるみる　ふきとばされ　ちいさくなって　しまう。\nかぜを　さけた　ゴースが　のきしたに　あつまる。"
+      },
+      {
+        "game": "oras-as",
+        "text": "きょうふうを　うけると　ガスじょうの　からだは\nみるみる　ふきとばされ　ちいさくなって　しまう。\nかぜを　さけた　ゴースが　のきしたに　あつまる。"
+      },
+      {
+        "game": "sm-s",
+        "text": "はいきょに　なった　たてものに\nあやしいひかりが　ともっていたら\nそこに　ゴースが　ひそんでいる。"
+      },
+      {
+        "game": "sm-m",
+        "text": "そのすがたは　ほとんど　みえないが\nゴースが　ちかくに　あらわれると\nかすかに　あまい　においが　する。"
+      },
+      {
+        "game": "usum-us",
+        "text": "はかばで　はっせいする　ガスに\nおんねんが　やどるうち　やがて\nポケモンに　なったと　いわれている。"
+      },
+      {
+        "game": "usum-um",
+        "text": "からだの　９５パーセントは　どくガス。\nのこりの　５パーセントは　どくガスで\nしんだものの　たましいだと　いわれる。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "ふるくなって　だれも　すまなくなった\nたてものに　はっせいするらしい。\nかたちは　あいまいで　ガスのよう。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "ふるくなって　だれも　すまなくなった\nたてものに　はっせいするらしい。\nかたちは　あいまいで　ガスのよう。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "ガスから　うまれた　せいめいたい。\nどくをふくんだ　ガスの　からだに\nつつまれると　だれでも　きぜつする。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "うすい　ガスのような　からだで\nどこにでも　しのびこむが\nかぜが　ふくと　ふきとばされる。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Ghos",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "고오스",
+    "genus": "가스포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "가스로 만들어진 몸은\n어떠한 크기의 상대라도\n둘러싸서 숨을 못 쉬게 한다."
+      },
+      {
+        "game": "xy-y",
+        "text": "가스에서 태어난 생명체다.\n독을 포함한 가스로 된 몸에\n둘러싸이면 누구든지 기절한다."
+      },
+      {
+        "game": "oras-or",
+        "text": "강풍을 맞으면 가스로 된 몸은\n금세 날려져서 작아진다.\n바람을 피해 고오스가 처마 밑에 모인다."
+      },
+      {
+        "game": "oras-as",
+        "text": "강풍을 맞으면 가스로 된 몸은\n금세 날려져서 작아진다.\n바람을 피해 고오스가 처마 밑에 모인다."
+      },
+      {
+        "game": "sm-s",
+        "text": "폐허가 된 건물에\n수상한 빛이 비친다면\n그곳에 고오스가 살고 있다."
+      },
+      {
+        "game": "sm-m",
+        "text": "그 모습은 거의 보이지 않지만\n고오스가 근처에 나타나면\n희미하게 달콤한 향기가 난다."
+      },
+      {
+        "game": "usum-us",
+        "text": "무덤에서 발생한 가스에\n원념이 머물러 이윽고\n포켓몬이 되었다고 전해진다."
+      },
+      {
+        "game": "usum-um",
+        "text": "몸의 95퍼센트는 독가스다.\n남은 5퍼센트는 독가스에 의해\n죽은 이들의 영혼이라고 전해진다."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "오래되어 아무도 살지 않는\n건물에 나타나는 듯하다.\n형태는 모호하고 가스 같다."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "오래되어 아무도 살지 않는\n건물에 나타나는 듯하다.\n형태는 모호하고 가스 같다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "가스에서 태어난 생명체다.\n독을 포함한 가스의 몸에\n둘러싸이면 누구든지 기절한다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "몸은 옅은 가스로 되어 있어\n어디든지 숨어들어 가지만\n바람이 불면 날아가 버린다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "鬼斯",
+    "genus": "氣體狀寶可夢",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "如果在已成廢墟的\n建築物裡亮著怪異的光，\n代表那裡潛藏著鬼斯。"
+      },
+      {
+        "game": "sm-m",
+        "text": "幾乎沒人能看到鬼斯的模樣，\n但牠在近處出現時，\n會聞到淡淡的甜香味。"
+      },
+      {
+        "game": "usum-us",
+        "text": "據說怨念寄宿在\n墳場產生的瓦斯裡，\n最後變成了寶可夢。"
+      },
+      {
+        "game": "usum-um",
+        "text": "身體的９５％是由毒氣構成。\n剩下的５％據說是死於毒氣的\n死者的靈魂。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "似乎會從老舊無人居住的\n建築物中出現。看起來像是\n一團氣體，沒有明確的形體。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "似乎會從老舊無人居住的\n建築物中出現。看起來像是\n一團氣體，沒有明確的形體。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "從氣體中誕生的生命體。\n若被牠那有毒氣體形成的身體裹住，\n不管是誰都會昏迷。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "能用稀薄氣體狀的\n身體潛入任何地方，\n但只要起風就會被吹跑。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Fantominus",
+    "genus": "Pokémon Gaz",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Son corps composé de gaz toxique\npourrait asphyxier n’importe qui\nen quelques secondes."
+      },
+      {
+        "game": "bw-w",
+        "text": "Son corps composé de gaz toxique\npourrait asphyxier n’importe qui\nen quelques secondes."
+      },
+      {
+        "game": "xy-x",
+        "text": "Son corps est composé de gaz. Il peut ainsi\nenvelopper un adversaire et le faire suffoquer."
+      },
+      {
+        "game": "xy-y",
+        "text": "Son corps composé de gaz toxique pourrait asphyxier\nn’importe qui en quelques secondes."
+      },
+      {
+        "game": "oras-or",
+        "text": "Fantominus est principalement constitué de matière gazeuse.\nLorsqu’il est exposé au vent, son corps gazeux se disperse\net diminue. Des groupes de ce Pokémon se rassemblent sous\nles auvents des maisons pour se protéger."
+      },
+      {
+        "game": "oras-as",
+        "text": "Fantominus est principalement constitué de matière gazeuse.\nLorsqu’il est exposé au vent, son corps gazeux se disperse\net diminue. Des groupes de ce Pokémon se rassemblent sous\nles auvents des maisons pour se protéger."
+      },
+      {
+        "game": "sm-s",
+        "text": "Lorsqu’on aperçoit une lueur diaphane dans\nun bâtiment désaffecté, c’est qu’un Fantominus\ns’y terre."
+      },
+      {
+        "game": "sm-m",
+        "text": "Il est presque invisible, mais lorsqu’il se\nmanifeste à proximité, une étrange odeur\nsucrée flotte dans l’air."
+      },
+      {
+        "game": "usum-us",
+        "text": "Ce Pokémon serait né des émanations gazeuses\ndes cimetières et de la rancœur qui les habite."
+      },
+      {
+        "game": "usum-um",
+        "text": "Il est composé à 95 % de gaz toxiques. Les 5 %\nrestants ? Aux dires de certains, il s’agirait d’un\nmélange de gaz toxiques et d’âmes damnées."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "On en trouve dans les maisons en ruine.\nComposé de gaz, il ne possède pas de forme\ndéfinie."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "On en trouve dans les maisons en ruine.\nComposé de gaz, il ne possède pas de forme\ndéfinie."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Le corps de ce Pokémon s’est formé à partir\nde gaz si toxiques qu’ils pourraient faire perdre\nconnaissance à n’importe qui."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Son corps gazéiforme lui permet de se glisser\nn’importe où, mais au moindre coup de vent,\nil s’envole."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Nebulak",
+    "genus": "Gas-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Es hat einen gasförmigen Körper. Es kann jeden\nGegner mit Giftgas einnebeln und dadurch ersticken."
+      },
+      {
+        "game": "xy-y",
+        "text": "Eingehüllt in seinen gasförmigen, Gift enthaltenden\nKörper würde jeder in Ohnmacht fallen."
+      },
+      {
+        "game": "oras-or",
+        "text": "Nebulak hat einen gasförmigen Körper. Wenn es starkem Wind\nausgesetzt wird, kann es davongeweht werden. Scharen dieser\nPokémon sammeln sich unter Dachrinnen, um sich vor dem\ngefährlichen Wind zu schützen."
+      },
+      {
+        "game": "oras-as",
+        "text": "Nebulak hat einen gasförmigen Körper. Wenn es starkem Wind\nausgesetzt wird, kann es davongeweht werden. Scharen dieser\nPokémon sammeln sich unter Dachrinnen, um sich vor dem\ngefährlichen Wind zu schützen."
+      },
+      {
+        "game": "sm-s",
+        "text": "Flackert in einem verlassenen alten Gebäude\nplötzlich ein rätselhaftes Licht auf, hält sich\ndort ein Nebulak versteckt."
+      },
+      {
+        "game": "sm-m",
+        "text": "Dass sich ein Nebulak in der Nähe aufhält,\nerkennt man hauptsächlich an einem süßlichen\nDuft. Sehen kann man es fast gar nicht."
+      },
+      {
+        "game": "usum-us",
+        "text": "Es heißt, dieses Pokémon sei aus einem tiefen\nGroll entstanden, der Gasen innewohnte, die auf\nFriedhöfen ausgeströmt waren."
+      },
+      {
+        "game": "usum-um",
+        "text": "Es besteht zu 95 % aus Giftgas. Die restlichen\n5 % bestehen aus Seelen von Opfern giftiger\nGase."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Es heißt, es erscheine in alten, verlassenen\nGebäuden. Sein Körper hat keine feste Form\nund erinnert an Gas."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Es heißt, es erscheine in alten, verlassenen\nGebäuden. Sein Körper hat keine feste Form\nund erinnert an Gas."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Es ist aus Gasen entstanden. Wird jemand in\nseinen gasförmigen, giftigen Körper gehüllt,\nso fällt er in Ohnmacht."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Aufgrund seines an Gas erinnernden Körpers\nkommt es an jeden Ort. Es kann jedoch vom\nWind davongeweht werden."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Gastly",
+    "genus": "Pokémon Gas",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Su etéreo cuerpo está hecho de gas. Puede envolver\na un oponente de cualquier tamaño hasta ahogarlo."
+      },
+      {
+        "game": "xy-y",
+        "text": "Nació a partir de gases venenosos que asfixiarían a\ncualquiera que se viera envuelto en ellos."
+      },
+      {
+        "game": "oras-or",
+        "text": "Gastly está compuesto en gran medida de materia gaseosa.\nCuando hay viento, el aire arrastra parte de esta materia y el\nPokémon mengua. Suelen agruparse bajo los aleros de las\ncasas para resguardarse del viento."
+      },
+      {
+        "game": "oras-as",
+        "text": "Gastly está compuesto en gran medida de materia gaseosa.\nCuando hay viento, el aire arrastra parte de esta materia y el\nPokémon mengua. Suelen agruparse bajo los aleros de las\ncasas para resguardarse del viento."
+      },
+      {
+        "game": "sm-s",
+        "text": "Si se aprecia una tenue luz en el interior de un\nedificio abandonado, suele ser indicio de que\nun Gastly mora en él."
+      },
+      {
+        "game": "sm-m",
+        "text": "El cuerpo de Gastly es casi invisible. Aun así,\npuede percibirse su presencia cuando está\ncerca, pues desprende un sutil olor dulce."
+      },
+      {
+        "game": "usum-us",
+        "text": "Se dice que su origen son nubes de gas\nprovenientes de un cementerio que cobraron\nvida al verse imbuidas de rencor."
+      },
+      {
+        "game": "usum-um",
+        "text": "Su cuerpo está formado en un 95% por gas\nvenenoso. El 5% restante corresponde a las\nalmas de quienes fallecieran a causa del gas."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Según dicen, aparece en edificios antiguos y\ndeshabitados. Su cuerpo, de aspecto gaseoso,\ncarece de una forma definida."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Según dicen, aparece en edificios antiguos y\ndeshabitados. Su cuerpo, de aspecto gaseoso,\ncarece de una forma definida."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Nació a partir de gases venenosos que asfixiarían\na cualquiera que se viera envuelto en ellos."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Con su cuerpo gaseoso puede colarse por donde\nquiera, aunque con un golpe de viento sale\ndespedido."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Gastly",
+    "genus": "Pokémon Gas",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Il suo corpo sottile è fatto di gas. Avvolge nemici\ndi ogni dimensione, soffocandoli."
+      },
+      {
+        "game": "xy-y",
+        "text": "Generato da sostanze gassose, fa perdere i sensi a\nchiunque respiri i gas tossici di cui è costituito."
+      },
+      {
+        "game": "oras-or",
+        "text": "Gastly è composto prevalentemente di sostanze gassose.\nSe esposto al vento forte il suo corpo gassoso si disperde\nsubito. Gruppi di questi Pokémon si radunano sotto\ni cornicioni per ripararsi dal vento."
+      },
+      {
+        "game": "oras-as",
+        "text": "Gastly è composto prevalentemente di sostanze gassose.\nSe esposto al vento forte il suo corpo gassoso si disperde\nsubito. Gruppi di questi Pokémon si radunano sotto\ni cornicioni per ripararsi dal vento."
+      },
+      {
+        "game": "sm-s",
+        "text": "Gli strani bagliori che a volte si scorgono negli\nedifici abbandonati potrebbero indicare la\npresenza di Gastly."
+      },
+      {
+        "game": "sm-m",
+        "text": "È molto difficile scorgere la sua sagoma,\nma è facilmente riconoscibile per via dell’odore\nvagamente dolciastro che emana."
+      },
+      {
+        "game": "usum-us",
+        "text": "Si dice che questo Pokémon sia nato quando\ni gas esalati da un cimitero sono stati\nanimati da un sentimento di rancore."
+      },
+      {
+        "game": "usum-um",
+        "text": "Il 95% del suo corpo è composto da gas tossici.\nSi dice che la percentuale restante sia l’anima\ndi qualcuno morto intossicato."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Si dice che appaia nelle case diroccate\ne abbandonate. Il suo corpo sembra fatto\ndi gas e non ha una forma definita."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Si dice che appaia nelle case diroccate\ne abbandonate. Il suo corpo sembra fatto\ndi gas e non ha una forma definita."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Generato da sostanze gassose, fa perdere i sensi\na chiunque respiri i gas tossici di cui è costituito."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Il suo corpo gassoso può infilarsi ovunque, ma\nun colpo di vento lo può spazzare via."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Gastly",
+    "genus": "Gas Pokémon",
+    "flavorText": [
+      {
+        "game": "rb-r",
+        "text": "Almost invisible,\nthis gaseous\nPOKéMON cloaks\fthe target and\nputs it to sleep\nwithout notice."
+      },
+      {
+        "game": "rb-b",
+        "text": "Almost invisible,\nthis gaseous\nPOKéMON cloaks\fthe target and\nputs it to sleep\nwithout notice."
+      },
+      {
+        "game": "y",
+        "text": "Said to appear in\ndecrepit, deserted\nbuildings. It has\fno real shape as\nit appears to be\nmade of a gas."
+      },
+      {
+        "game": "gs-g",
+        "text": "With its gas-like\nbody, it can sneak\ninto any place it\fdesires. However,\nit can be blown\naway by wind."
+      },
+      {
+        "game": "gs-s",
+        "text": "Its thin body is\nmade of gas. It\ncan envelop an\fopponent of any\nsize and cause\nsuffocation."
+      },
+      {
+        "game": "c",
+        "text": "It wraps its op­\nponent in its gas-\nlike body, slowly\fweakening its prey\nby poisoning it\nthrough the skin."
+      },
+      {
+        "game": "rs-r",
+        "text": "GASTLY is largely composed of gaseous\nmatter. When exposed to a strong wind,\nthe gaseous body quickly dwindles away.\fGroups of this POKéMON cluster under\nthe eaves of houses to escape the\nravages of wind."
+      },
+      {
+        "game": "rs-s",
+        "text": "GASTLY is largely composed of gaseous\nmatter. When exposed to a strong wind,\nthe gaseous body quickly dwindles away.\fGroups of this POKéMON cluster under\nthe eaves of houses to escape the\nravages of wind."
+      },
+      {
+        "game": "e",
+        "text": "When exposed to a strong wind, a GASTLY’s\ngaseous body quickly dwindles away.\nThey cluster under the eaves of houses\nto escape the ravages of wind."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "A being that exists as a thin gas. It can\ntopple an Indian elephant by enveloping\nthe prey in two seconds."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "Almost invisible, this gaseous POKéMON\ncloaks the target and puts it to sleep\nwithout notice."
+      },
+      {
+        "game": "dp-d",
+        "text": "This Pokémon’s body is 95% made up\nof gases, which are blown away by\nstrong gusts of wind."
+      },
+      {
+        "game": "dp-p",
+        "text": "A Pokémon born from poison gases.\nIt defeats even the largest foes\nby enveloping them in gas."
+      },
+      {
+        "game": "pt",
+        "text": "Born from gases, anyone would\nfaint if engulfed by its gaseous\nbody, which contains poison."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "With its gas-like body, it can sneak\ninto any place it desires. However,\nit can be blown away by wind."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "Its body is made of gas. Despite lacking\nsubstance, it can envelop an opponent\nof any size and cause suffocation."
+      },
+      {
+        "game": "bw-b",
+        "text": "Born from gases, anyone would\nfaint if engulfed by its gaseous\nbody, which contains poison."
+      },
+      {
+        "game": "bw-w",
+        "text": "Born from gases, anyone would\nfaint if engulfed by its gaseous\nbody, which contains poison."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "Born from gases, anyone would\nfaint if engulfed by its gaseous\nbody, which contains poison."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "Born from gases, anyone would\nfaint if engulfed by its gaseous\nbody, which contains poison."
+      },
+      {
+        "game": "xy-x",
+        "text": "Its body is made of gas. Despite lacking substance,\nit can envelop an opponent of any size and\ncause suffocation."
+      },
+      {
+        "game": "xy-y",
+        "text": "Born from gases, anyone would faint if engulfed by\nits gaseous body, which contains poison."
+      },
+      {
+        "game": "oras-or",
+        "text": "Gastly is largely composed of gaseous matter. When exposed\nto a strong wind, the gaseous body quickly dwindles away.\nGroups of this Pokémon cluster under the eaves of houses to\nescape the ravages of wind."
+      },
+      {
+        "game": "oras-as",
+        "text": "Gastly is largely composed of gaseous matter. When exposed\nto a strong wind, the gaseous body quickly dwindles away.\nGroups of this Pokémon cluster under the eaves of houses to\nescape the ravages of wind."
+      },
+      {
+        "game": "sm-s",
+        "text": "Should a strange light be seen flickering\nin an abandoned building, Gastly is lurking there."
+      },
+      {
+        "game": "sm-m",
+        "text": "Although Gastly is barely visible, when it’s near,\na faint sweet smell lingers."
+      },
+      {
+        "game": "usum-us",
+        "text": "It’s said that gas emanating from a graveyard\nwas possessed by the grievances of the\ndeceased and thus became a Pokémon."
+      },
+      {
+        "game": "usum-um",
+        "text": "Poisonous gas comprises 95% of its body. It’s\nsaid that the remaining 5% is made up of the\nsouls of those who died from the gas."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Said to appear in decrepit, deserted buildings.\nIt has no real shape, as it appears to be\nmade of a gas."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Said to appear in decrepit, deserted buildings.\nIt has no real shape, as it appears to be\nmade of a gas."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Born from gases, anyone would faint if engulfed\nby its gaseous body, which contains poison."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "With its gas-like body, it can sneak into any place\nit desires. However, it can be blown away by wind."
+      },
+      {
+        "game": "la",
+        "text": "Gaseous and completely impalpable. Also highly dangerous—\ninhaling part of its poisonous body will cause one to\nfaint instantly."
+      }
+    ]
+  },
+  "chs": {
+    "name": "鬼斯",
+    "genus": "气体状宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "如果在已成废墟的\n建筑物里亮着怪异的光，\n说明那里潜藏着鬼斯。"
+      },
+      {
+        "game": "sm-m",
+        "text": "它的样子几乎看不到，\n但鬼斯一旦出现，\n附近就会发出淡淡的甜香味。"
+      },
+      {
+        "game": "usum-us",
+        "text": "据说是怨念寄宿在了\n墓地散发出的气体中，\n并最终变成了宝可梦。"
+      },
+      {
+        "game": "usum-um",
+        "text": "身体的９５％是毒瓦斯。\n剩下的５％据说是死于\n毒瓦斯的死者的灵魂。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "它似乎会在没人居住的\n旧屋子里出现。形状不清，\n仿佛就像是气体一样。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "它似乎会在没人居住的\n旧屋子里出现。形状不清，\n仿佛就像是气体一样。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "从气体中诞生的生命体。\n如果被含毒的气体状身体裹住的话，\n不管是谁都会昏迷过去。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "能用稀薄气体状的\n身体潜入任何地方，\n但只要起风就会被吹跑。"
+      }
+    ]
+  }
+}

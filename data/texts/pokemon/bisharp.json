@@ -1,0 +1,341 @@
+{
+  "jap": {
+    "name": "キリキザン",
+    "genus": "とうじんポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "すうひきの　コマタナを　たたかわせ\nきずつき　うごけなくなった　えものを\nまっぷたつにする　こわい　ポケモン。"
+      },
+      {
+        "game": "xy-y",
+        "text": "おおぜいの　コマタナを　したがえて\nえものを　むれで　おいつめる。\nとどめは　キリキザンが　さす。"
+      },
+      {
+        "game": "oras-or",
+        "text": "すうひきの　コマタナを　たたかわせ\nきずつき　うごけなくなった　えものを\nまっぷたつにする　こわい　ポケモン。"
+      },
+      {
+        "game": "oras-as",
+        "text": "おおぜいの　コマタナを　したがえて\nえものを　むれで　おいつめる。\nとどめは　キリキザンが　さす。"
+      },
+      {
+        "game": "usum-us",
+        "text": "どんなに　つよい　キリキザンでも\nあたまの　やいばが　はこぼれすると\nボスの　ざを　いんたいすると　いう。"
+      },
+      {
+        "game": "usum-um",
+        "text": "コマタナの　むれを　ひきいている。\nあいてに　とどめを　さすときも\nいっさい　ひょうじょうを　かえない。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "おおぜいの　コマタナを　したがえる。\nてしたたちが　うらぎらない　よう\nつねに　めを　ひからせている。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "やいばを　とぐ　いしが　ある\nばしょを　めぐって　オノンドと\nはげしい　あらそいを　くりひろげる。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Kirikizan",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "절각참",
+    "genus": "도인포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "몇 마리의 자망칼과 싸우게 해서\n상처 입고 움직일 수 없게 된 먹이를\n두 동강 내버리는 무서운 포켓몬."
+      },
+      {
+        "game": "xy-y",
+        "text": "많은 자망칼을 거느리며\n무리를 지어 먹이를 바싹 몰아넣는다.\n마무리는 절각참이 한다."
+      },
+      {
+        "game": "oras-or",
+        "text": "몇 마리의 자망칼과 싸우게 해서\n상처 입고 움직일 수 없게 된 먹이를\n두 동강 내버리는 무서운 포켓몬."
+      },
+      {
+        "game": "oras-as",
+        "text": "많은 자망칼을 거느리며\n무리를 지어 먹이를 바싹 몰아넣는다.\n마무리는 절각참이 한다."
+      },
+      {
+        "game": "usum-us",
+        "text": "아무리 강한 절각참이라도\n머리의 칼날의 이가 빠지면\n보스의 자리를 은퇴한다고 한다."
+      },
+      {
+        "game": "usum-um",
+        "text": "자망칼의 무리를 거느리고 있다.\n상대를 마무리할 때도\n전혀 표정을 바꾸지 않는다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "많은 수의 자망칼을 거느리고 있다.\n부하들이 배신하지 못하도록\n항상 눈에 불을 켜고 있다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "칼날을 가는 돌의\n장소를 두고 액슨도와\n격렬하게 싸움을 벌인다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "劈斬司令",
+    "genus": "刀刃寶可夢",
+    "flavorText": [
+      {
+        "game": "usum-us",
+        "text": "據說無論是多麼強大的劈斬司令，\n一旦頭上的刀刃出現了缺損，\n就會從首領的位子上退下來。"
+      },
+      {
+        "game": "usum-um",
+        "text": "率領著成群的駒刀小兵。\n即使在給對手致命一擊的時候，\n也完全面不改色。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "率領著一大群駒刀小兵。\n為了防止手下們背叛自己，\n總是睜大著眼睛監視牠們。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "為了搶佔能找到磨刀石\n的地方，和斧牙龍展開了\n激烈的鬥爭。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Scalproie",
+    "genus": "Pokémon Tranchant",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Ils dirigent les groupes de Scalpion.\nIls se battent pour la suprématie sur le\ngroupe, et les perdants en sont exclus."
+      },
+      {
+        "game": "bw-w",
+        "text": "Il chasse avec un groupe de Scalpion\nsous ses ordres, mais c’est lui qui\ndonne le coup de grâce."
+      },
+      {
+        "game": "xy-x",
+        "text": "Un Pokémon sans pitié qui tranche en deux ses proies\nimmobilisées par les cohortes de Scalpion qu’il\ncommande."
+      },
+      {
+        "game": "xy-y",
+        "text": "Il chasse avec un groupe de Scalpion sous ses ordres,\nmais c’est lui qui donne le coup de grâce."
+      },
+      {
+        "game": "oras-or",
+        "text": "Un Pokémon sans pitié qui tranche en deux ses proies\nimmobilisées par les cohortes de Scalpion qu’il commande."
+      },
+      {
+        "game": "oras-as",
+        "text": "Il chasse avec un groupe de Scalpion sous ses ordres,\nmais c’est lui qui donne le coup de grâce."
+      },
+      {
+        "game": "usum-us",
+        "text": "Peu importe la puissance du Scalproie,\nil abdique de son rôle de chef si la lame\nde sa tête subit la moindre ébréchure."
+      },
+      {
+        "game": "usum-um",
+        "text": "Il dirige une cohorte de Scalpion. Il ne laisse\ntransparaître aucune émotion lorsqu’il assène\nle coup de grâce."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Il dirige des cohortes de Scalpion.\nIl garde constamment ses sous-fifres à l’œil\npour parer à toute velléité de mutinerie."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Sa recherche des meilleurs endroits où trouver\ndes pierres pour affûter ses lames le conduit\nsouvent à affronter des Incisache."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Caesurio",
+    "genus": "Schwertklingen-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Ein kaltblütiges Pokémon, das Gegner zunächst mit\neiner Schar von Gladiantri lähmt und dann zweiteilt."
+      },
+      {
+        "game": "xy-y",
+        "text": "Es rückt seinen Opfern mit einer Schar von Gladiantri\nim Gefolge auf den Pelz. Den letzten Hieb übernimmt\nes selbst."
+      },
+      {
+        "game": "oras-or",
+        "text": "Ein kaltblütiges Pokémon, das Gegner zunächst mit einer\nSchar von Gladiantri lähmt und dann zweiteilt."
+      },
+      {
+        "game": "oras-as",
+        "text": "Es rückt seinen Opfern mit einer Schar von Gladiantri im\nGefolge auf den Pelz. Den letzten Hieb übernimmt es selbst."
+      },
+      {
+        "game": "usum-us",
+        "text": "Es heißt, dass ein Caesurio ungeachtet seiner\nStärke seinen Rang als Anführer abtreten muss,\nwenn die Klinge an seinem Kopf schartig wird."
+      },
+      {
+        "game": "usum-um",
+        "text": "Es führt eine Gruppe von Gladiantri an. Selbst\nwenn es dem Gegner den finalen Stoß versetzt,\nbleibt sein Gesichtsausdruck stets unverändert."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Es hat stets ein Gefolge aus mehreren Gladiantri\nund achtet immer streng darauf, dass ihm keiner\nseiner Handlanger in den Rücken fällt."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Sie streiten sich mit Sharfax aufs Heftigste um\ndas Vorrecht auf Orte mit Felsen, an denen\nsie ihre Klingen schärfen können."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Bisharp",
+    "genus": "Pokémon Filo",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Un Pokémon temible que remata a su presa una vez\nque su séquito de Pawniard la ha debilitado e\ninmovilizado."
+      },
+      {
+        "game": "xy-y",
+        "text": "Su séquito son los Pawniard. Acorralan a su presa con\ntodo el grupo y Bisharp propina el golpe de gracia."
+      },
+      {
+        "game": "oras-or",
+        "text": "Un Pokémon temible que remata a su presa una vez que su\nséquito de Pawniard la ha debilitado e inmovilizado."
+      },
+      {
+        "game": "oras-as",
+        "text": "Su séquito son los Pawniard. Acorralan a su presa con todo\nel grupo y Bisharp propina el golpe de gracia."
+      },
+      {
+        "game": "usum-us",
+        "text": "Por fuerte que sea un Bisharp, la más mínima\nmella en la hoja de su cabeza es deshonrosa\ny motivo de destitución como líder de su grupo."
+      },
+      {
+        "game": "usum-um",
+        "text": "Lidera un grupo de Pawniard y no muestra el\nmás mínimo sentimiento ni cuando propina el\nataque de gracia al rival."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Siempre va acompañado por un nutrido séquito\nde Pawniard, a los que no pierde nunca de vista\npara evitar posibles motines."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Libra encarnizados combates con los Fraxure por\nel control de los emplazamientos donde se hallan\nlas piedras con las que afila sus cuchillas."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Bisharp",
+    "genus": "Pokémon Fildilama",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "È molto crudele. Lascia che un gruppo di Pawniard\nattacchi la preda e, quando è ferita e non può più\nmuoversi, la finisce."
+      },
+      {
+        "game": "xy-y",
+        "text": "Accompagnato da molti Pawniard, blocca le prede\ngrazie alla forza del gruppo. È Bisharp a dare il\ncolpo di grazia."
+      },
+      {
+        "game": "oras-or",
+        "text": "È molto crudele. Lascia che un gruppo di Pawniard attacchi\nla preda e, quando è ferita e non può più muoversi, la finisce."
+      },
+      {
+        "game": "oras-as",
+        "text": "Accompagnato da molti Pawniard, blocca le prede grazie alla\nforza del gruppo. È Bisharp a dare il colpo di grazia."
+      },
+      {
+        "game": "usum-us",
+        "text": "Per quanto sia forte, se la lama sulla sua testa\nviene intaccata deve rinunciare al comando\ndel gruppo."
+      },
+      {
+        "game": "usum-um",
+        "text": "Comanda gruppi di Pawniard. Quando attacca\nil nemico per dargli il colpo di grazia, non lascia\ntrasparire alcuna emozione."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "È sempre accompagnato da molti Pawniard.\nPer evitare che si verifichino ammutinamenti,\nli tiene sempre sotto stretta sorveglianza."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Affronta spesso Fraxure in violenti scontri\nper il controllo dei territori in cui si trovano\nle pietre che usa per affilare le sue lame."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Bisharp",
+    "genus": "Sword Blade Pokémon",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "It leads a group of Pawniard.\nIt battles to become the boss, but will\nbe driven from the group if it loses."
+      },
+      {
+        "game": "bw-w",
+        "text": "Bisharp pursues prey in the company of a\nlarge group of Pawniard. Then Bisharp\nfinishes off the prey."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "This pitiless Pokémon commands a group\nof Pawniard to hound prey into immobility.\nIt then moves in to finish the prey off."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "This pitiless Pokémon commands a group\nof Pawniard to hound prey into immobility.\nIt then moves in to finish the prey off."
+      },
+      {
+        "game": "xy-x",
+        "text": "This pitiless Pokémon commands a group of\nPawniard to hound prey into immobility. It then\nmoves in to finish the prey off."
+      },
+      {
+        "game": "xy-y",
+        "text": "Bisharp pursues prey in the company of a large\ngroup of Pawniard. Then Bisharp finishes off\nthe prey."
+      },
+      {
+        "game": "oras-or",
+        "text": "This pitiless Pokémon commands a group of\nPawniard to hound prey into immobility. It then\nmoves in to finish the prey off."
+      },
+      {
+        "game": "oras-as",
+        "text": "Bisharp pursues prey in the company of a large\ngroup of Pawniard. Then Bisharp finishes off\nthe prey."
+      },
+      {
+        "game": "usum-us",
+        "text": "No matter how strong the Bisharp, it’s said\nthat if the blade on its head is chipped, it will\nretire from its position as the boss."
+      },
+      {
+        "game": "usum-um",
+        "text": "It leads a group of Pawniard. Bisharp doesn’t\neven change its expression when it deals\nthe finishing blow to an opponent."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "It’s accompanied by a large retinue of Pawniard.\nBisharp keeps a keen eye on its minions, ensuring\nnone of them even think of double-crossing it."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Violent conflicts erupt between Bisharp and\nFraxure over places where sharpening stones\ncan be found."
+      }
+    ]
+  },
+  "chs": {
+    "name": "劈斩司令",
+    "genus": "刀刃宝可梦",
+    "flavorText": [
+      {
+        "game": "usum-us",
+        "text": "据说，无论是多么强大的劈斩司令，\n一旦头部的刀刃有损伤，\n就会从首领的位置上引退。"
+      },
+      {
+        "game": "usum-um",
+        "text": "率领着驹刀小兵群。\n在给对手致命一击时，\n也完全面不改色。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "率领着一大群驹刀小兵。\n为了防止手下们背叛自己，\n总是睁大着眼睛监视它们。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "为了抢占能找到磨刀石\n的地方，和斧牙龙展开了\n激烈的斗争。"
+      }
+    ]
+  }
+}

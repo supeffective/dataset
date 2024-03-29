@@ -1,0 +1,381 @@
+{
+  "jap": {
+    "name": "ポワルン",
+    "genus": "てんきポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "きおんや　しつどの　へんかが\nからだの　さいぼうに　えいきょうして\nすがたを　かえる　ポケモン。"
+      },
+      {
+        "game": "xy-y",
+        "text": "しぜんの　ちからを　うけて　たいよう\nあまみず　ゆきぐもと　すがたを\nかえる　のうりょくを　もっている。"
+      },
+      {
+        "game": "oras-or",
+        "text": "てんきに　よって　すがたが　かわる　ポケモン。\nちいさい　からだを　まもる　ために　だいしぜんの\nおおきな　パワーを　つかえる　ように　なった。"
+      },
+      {
+        "game": "oras-as",
+        "text": "しぜんの　ちからを　うけて　たいよう　あまみず\nゆきぐもに　すがたを　かえる　ポケモン。\nきしょうが　かわると　きしょうも　かわるぞ。"
+      },
+      {
+        "game": "sm-s",
+        "text": "てんきに　よって　すがたを　かえる。\nきおんや　しつどの　へんかが\nさいぼうに　えいきょう　するらしい。"
+      },
+      {
+        "game": "sm-m",
+        "text": "きおんや　しつどに　さいぼうが\nびんかんに　はんのうし　すがたが\nかってに　かわって　しまうのだ。"
+      },
+      {
+        "game": "usum-us",
+        "text": "てんきに　よって　すがたが　かわるが\nかがくてきな　はんのうの　けっかで\nじぶんの　いしでは　ないらしい。"
+      },
+      {
+        "game": "usum-um",
+        "text": "てんきに　よって　すがたが　かわる。\nきしょうが　あらくなるほど\nきしょうも　あらっぽく　なってくる。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Powalen",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "캐스퐁",
+    "genus": "날씨포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "기온이나 습도의 변화가\n몸의 세포에 영향을 주어\n모습을 바꾸는 포켓몬이다."
+      },
+      {
+        "game": "xy-y",
+        "text": "자연의 힘을 받아 태양,\n빗물, 설운으로 모습을\n바꾸는 능력을 가지고 있다."
+      },
+      {
+        "game": "oras-or",
+        "text": "날씨에 따라 모습이 바뀌는 포켓몬이다.\n작은 몸을 지키기 위해 대자연의\n거대한 힘을 사용할 수 있게 됐다."
+      },
+      {
+        "game": "oras-as",
+        "text": "자연의 힘을 받아 태양과 빗방울\n그리고 설운으로 모습을 바꾸는 포켓몬이다.\n날씨가 바뀌면 기질도 바뀐다."
+      },
+      {
+        "game": "sm-s",
+        "text": "날씨에 따라 모습을 바꾼다.\n기온과 습도의 변화가\n세포에 영향을 준다고 한다."
+      },
+      {
+        "game": "sm-m",
+        "text": "기온이나 습도에 세포가\n민감하게 반응해 모습이\n멋대로 변해버린다."
+      },
+      {
+        "game": "usum-us",
+        "text": "날씨에 따라 모습이 바뀌지만,\n화학 반응의 결과일 뿐\n자신의 의지는 아닌 듯하다."
+      },
+      {
+        "game": "usum-um",
+        "text": "날씨에 따라 모습이 바뀐다.\n날씨가 궂을수록\n성질도 난폭해진다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "飄浮泡泡",
+    "genus": "天氣寶可夢",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "會隨著天氣而改變樣子。\n氣溫和濕度的變化似乎會\n對牠的細胞產生影響。"
+      },
+      {
+        "game": "sm-m",
+        "text": "細胞會靈敏地反應氣溫和濕度，\n導致樣子不由自主地變化。"
+      },
+      {
+        "game": "usum-us",
+        "text": "樣子會隨著天氣而改變。\n這似乎是化學反應產生的結果，\n不受牠自身的意志控制。"
+      },
+      {
+        "game": "usum-um",
+        "text": "樣子會隨著天氣而變化。\n天氣越是惡劣，\n性情就會變得越粗暴。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Morphéo",
+    "genus": "Pokémon Climat",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Son aspect change avec la météo.\nOn a récemment découvert que ses\nmolécules étaient pareilles à l’eau."
+      },
+      {
+        "game": "bw-w",
+        "text": "Son aspect change avec la météo.\nOn a récemment découvert que ses\nmolécules étaient pareilles à l’eau."
+      },
+      {
+        "game": "xy-x",
+        "text": "Les variations de température ou d’humidité affectent\nsa structure cellulaire et son apparence."
+      },
+      {
+        "game": "xy-y",
+        "text": "Morphéo a la capacité de changer son apparence\nen fonction du temps. Il utilise la force de la nature\npour combattre."
+      },
+      {
+        "game": "oras-or",
+        "text": "L’apparence de Morphéo change en fonction du temps.\nCe Pokémon a appris à utiliser l’immense pouvoir de la nature\npour protéger son corps minuscule."
+      },
+      {
+        "game": "oras-as",
+        "text": "Morphéo emprunte le pouvoir de la nature pour prendre\nl’apparence du soleil, de la pluie ou de la neige. Le type\nde ce Pokémon change en fonction du temps."
+      },
+      {
+        "game": "sm-s",
+        "text": "Son apparence change en fonction du temps.\nLes changements de température et d’humidité\ninfluenceraient sa structure cellulaire."
+      },
+      {
+        "game": "sm-m",
+        "text": "Comme ses cellules réagissent au moindre\nchangement de température ou d’humidité, il ne\ncontrôle pas ses changements d’apparence."
+      },
+      {
+        "game": "usum-us",
+        "text": "Il change de forme en fonction de la météo,\nmais ce phénomène serait en fait une réaction\nchimique indépendante de sa volonté."
+      },
+      {
+        "game": "usum-um",
+        "text": "Il n’y a pas que son apparence qui change en\nfonction de la météo : son tempérament aussi !\nPlus il y a de vent, plus il se montre agressif."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Formeo",
+    "genus": "Wetter",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Formeo kann seine Gestalt ändern. Seine Zellen\nreagieren auf Temperaturschwankungen und\nFeuchtigkeit."
+      },
+      {
+        "game": "xy-y",
+        "text": "Es verfügt über die Eigenschaft, seinen Körper\nin die Sonne, den Regen oder eine Schneewolke,\nje nach Wetter, zu verändern."
+      },
+      {
+        "game": "oras-or",
+        "text": "Formeos Erscheinung ändert sich mit dem Wetter. Dieses\nPokémon hat die Fähigkeit erworben, die mächtige Kraft der\nNatur zu nutzen, um seinen winzigen Körper zu schützen."
+      },
+      {
+        "game": "oras-as",
+        "text": "Formeo bedient sich der Kraft der Natur, um die Gestalt\nder Sonne, des Regens oder von Schneewolken anzunehmen.\nDie Gefühlslage dieses Pokémon verändert sich mit dem\nWetter."
+      },
+      {
+        "game": "sm-s",
+        "text": "Es ändert seine Erscheinung je nach Wetter.\nSeine Zellen reagieren anscheinend auf\nTemperatur- und Feuchtigkeitsschwankungen."
+      },
+      {
+        "game": "sm-m",
+        "text": "Seine Zellen reagieren empfindlich auf\nTemperatur und Feuchtigkeit, wodurch sich\nunweigerlich seine Gestalt verändert."
+      },
+      {
+        "game": "usum-us",
+        "text": "Seine Erscheinung ändert sich je nach Wetter.\nDies hat weniger mit seinem eigenen Willen zu\ntun als vielmehr mit einer chemischen Reaktion."
+      },
+      {
+        "game": "usum-um",
+        "text": "Seine Gestalt ändert sich abhängig vom Wetter.\nJe ungestümer dieses ist, desto gröber wird\nauch sein Charakter."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Castform",
+    "genus": "Pokémon Clima",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Sus células son muy sensibles a los cambios de\ntemperatura y humedad y se adapta sin problema."
+      },
+      {
+        "game": "xy-y",
+        "text": "Tiene la habilidad de cambiar y adaptarse al tiempo.\nSegún el clima, se transformará en sol, nubarrones\nde lluvia o nieve."
+      },
+      {
+        "game": "oras-or",
+        "text": "La forma de Castform cambia con las variaciones del tiempo.\nEste Pokémon consiguió aprender a usar el gran poder de la\nnaturaleza para proteger el pequeño cuerpo que tiene."
+      },
+      {
+        "game": "oras-as",
+        "text": "Castform se vale del poder de la naturaleza para tomar el\naspecto del sol, la lluvia o nubarrones de nieve. El estado de\nánimo de este Pokémon varía según el clima."
+      },
+      {
+        "game": "sm-s",
+        "text": "Cambia de apariencia en función del tiempo\natmosférico. Se cree que las variaciones en la\ntemperatura y la humedad afectan a sus células."
+      },
+      {
+        "game": "sm-m",
+        "text": "Sus células captan la más mínima variación en la\ntemperatura y la humedad, y cambian la forma\nde este Pokémon de manera espontánea."
+      },
+      {
+        "game": "usum-us",
+        "text": "Cambia de apariencia en función del tiempo\natmosférico, pero se trata más bien de una\nreacción química ajena a su voluntad."
+      },
+      {
+        "game": "usum-um",
+        "text": "El tiempo atmosférico cambia tanto su aspecto\ncomo su estado de ánimo. Cuanto más arrecia,\nmás agresivo se vuelve."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Castform",
+    "genus": "Pokémon Meteo",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Il suo aspetto varia con l’umidità e la temperatura,\nche influenzano la sua struttura molecolare."
+      },
+      {
+        "game": "xy-y",
+        "text": "Ha la capacità di trasformarsi in sole, pioggia o in una\nnuvola di neve, secondo le condizioni atmosferiche."
+      },
+      {
+        "game": "oras-or",
+        "text": "L’aspetto di Castform cambia con le condizioni atmosferiche.\nQuesto Pokémon ha imparato a usare la potente forza\ndella natura per proteggere il suo corpicino indifeso."
+      },
+      {
+        "game": "oras-as",
+        "text": "Castform usa il potere della natura per trasformarsi in sole,\ngocce di pioggia e nubi nevose. Il tipo di questo Pokémon\nvaria con i mutamenti meteorologici."
+      },
+      {
+        "game": "sm-s",
+        "text": "Le sue cellule reagiscono all’umidità\ne alla temperatura, facendogli assumere\nun aspetto diverso a seconda del clima."
+      },
+      {
+        "game": "sm-m",
+        "text": "Il suo aspetto varia in base all’umidità\ne alla temperatura, che ne influenzano\nla struttura molecolare."
+      },
+      {
+        "game": "usum-us",
+        "text": "Il suo aspetto cambia con le condizioni\natmosferiche per effetto di una reazione\nchimica indipendente dalla sua volontà."
+      },
+      {
+        "game": "usum-um",
+        "text": "Il suo aspetto cambia con le condizioni\natmosferiche. Più il tempo è brutto, più\ndiventa aggressivo."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Castform",
+    "genus": "Weather Pokémon",
+    "flavorText": [
+      {
+        "game": "rs-r",
+        "text": "CASTFORM’s appearance changes with\nthe weather.\nThis POKéMON gained the ability to use\fthe vast power of nature to protect\nits tiny body."
+      },
+      {
+        "game": "rs-s",
+        "text": "CASTFORM borrows the power of nature\nto transform itself into the guises of\nthe sun, rain clouds, and snow clouds.\fThis POKéMON’s feelings change with the\nweather."
+      },
+      {
+        "game": "e",
+        "text": "It alters its form depending on the\nweather. Changes in the climate such as\nthe temperature and humidity appear to\naffect its cellular structure."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "It has the ability to change its form into\nthe sun, the rain, or a snow cloud, \ndepending on the weather."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "It has the ability to change its form into\nthe sun, the rain, or a snow cloud, \ndepending on the weather."
+      },
+      {
+        "game": "dp-d",
+        "text": "Its appearance changes with the\nweather. Recently, its molecules\nwere found to be just like water."
+      },
+      {
+        "game": "dp-p",
+        "text": "Its appearance changes with the\nweather. Recently, its molecules\nwere found to be just like water."
+      },
+      {
+        "game": "pt",
+        "text": "Its appearance changes with the\nweather. Recently, its molecules\nwere found to be just like water."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "This Pokémon can change its cells,\ntaking different forms based on\nthe temperature and humidity."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "This Pokémon can change its cells,\ntaking different forms based on\nthe temperature and humidity."
+      },
+      {
+        "game": "bw-b",
+        "text": "Its appearance changes with the\nweather. Recently, its molecules\nwere found to be just like water."
+      },
+      {
+        "game": "bw-w",
+        "text": "Its appearance changes with the\nweather. Recently, its molecules\nwere found to be just like water."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "Temperature and weather affect its\ncellular structure, so this Pokémon\nchanges form according to the weather."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "Temperature and weather affect its\ncellular structure, so this Pokémon\nchanges form according to the weather."
+      },
+      {
+        "game": "xy-x",
+        "text": "This Pokémon can change its cells, taking different\nforms based on the temperature and humidity."
+      },
+      {
+        "game": "xy-y",
+        "text": "It has the ability to change its form into the sun,\nthe rain, or a snow cloud, depending on\nthe weather."
+      },
+      {
+        "game": "oras-or",
+        "text": "Castform’s appearance changes with the weather.\nThis Pokémon gained the ability to use the vast power of\nnature to protect its tiny body."
+      },
+      {
+        "game": "oras-as",
+        "text": "Castform borrows the power of nature to transform itself\ninto the guises of the sun, rain, and snow-clouds.\nThis Pokémon’s feelings change with the weather."
+      },
+      {
+        "game": "sm-s",
+        "text": "It changes its form depending on the weather.\nChanges in the temperature or humidity\nappear to affect its cellular structure."
+      },
+      {
+        "game": "sm-m",
+        "text": "Its form changes on its own, due to its cells’\nsensitive reactions to temperature and humidity."
+      },
+      {
+        "game": "usum-us",
+        "text": "Although its form changes with the weather,\nthat is apparently the result of a chemical\nreaction and not the result of its own free will."
+      },
+      {
+        "game": "usum-um",
+        "text": "Its form changes depending on the weather.\nThe rougher conditions get, the rougher\nCastform’s disposition!"
+      }
+    ]
+  },
+  "chs": {
+    "name": "飘浮泡泡",
+    "genus": "天气宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "根据天气而改变样子。\n听说气温和湿度的变化\n对细胞有影响。"
+      },
+      {
+        "game": "sm-m",
+        "text": "细胞对气温和湿度的反应很敏感，\n导致样子会随意地变化。"
+      },
+      {
+        "game": "usum-us",
+        "text": "样子会根据天气发生变化。\n但这是根据化学反应的结果，\n似乎并不是出于它的本意。"
+      },
+      {
+        "game": "usum-um",
+        "text": "样子会根据天气发生变化。\n天气越恶劣，\n性格也会变得越暴躁。"
+      }
+    ]
+  }
+}

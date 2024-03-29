@@ -1,0 +1,61 @@
+{
+  "jap": {
+    "name": "カイデン",
+    "genus": "うみつばめポケモン",
+    "flavorText": []
+  },
+  "jap_ro": {
+    "name": "Kaiden",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "찌리비",
+    "genus": "",
+    "flavorText": []
+  },
+  "cht": {
+    "name": "電海燕",
+    "genus": "海燕寶可夢",
+    "flavorText": []
+  },
+  "fra": {
+    "name": "Zapétrel",
+    "genus": "",
+    "flavorText": []
+  },
+  "deu": {
+    "name": "Voltrel",
+    "genus": "Sturmvogel",
+    "flavorText": []
+  },
+  "esp": {
+    "name": "Wattrel",
+    "genus": "",
+    "flavorText": []
+  },
+  "ita": {
+    "name": "Wattrel",
+    "genus": "",
+    "flavorText": []
+  },
+  "eng": {
+    "name": "Wattrel",
+    "genus": "Storm Petrel Pokémon",
+    "flavorText": [
+      {
+        "game": "sv-s",
+        "text": "When its wings catch the wind, the bones within produce electricity. This Pokémon dives into the ocean, catching prey by electrocuting them."
+      },
+      {
+        "game": "sv-v",
+        "text": "These Pokémon make their nests on coastal cliffs. The nests have a strange, crackling texture, and they’re a popular delicacy."
+      }
+    ]
+  },
+  "chs": {
+    "name": "电海燕",
+    "genus": "海燕宝可梦",
+    "flavorText": []
+  }
+}

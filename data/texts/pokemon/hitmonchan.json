@@ -1,0 +1,405 @@
+{
+  "jap": {
+    "name": "エビワラー",
+    "genus": "パンチポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "うでを　ねじりながら　くりだす\nパンチは　コンクリートも　ふんさい。\n３ぷん　たたかうと　ひとやすみする。"
+      },
+      {
+        "game": "xy-y",
+        "text": "プロボクサーの　たましいが\nのりうつっている。パンチのスピードは\nしんかんせんよりも　はやい。"
+      },
+      {
+        "game": "oras-or",
+        "text": "せかいチャンピオンを　めざしていた　ボクサーの\nたましいが　やどったと　いわれる　エビワラーは\nふくつの　せいしんで　ぜったいに　へこたれない。"
+      },
+      {
+        "game": "oras-as",
+        "text": "せかいチャンピオンを　めざしていた　ボクサーの\nたましいが　やどったと　いわれる　エビワラーは\nふくつの　せいしんで　ぜったいに　へこたれない。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "ねじりこむような　パンチこうげき！\nコンクリートのかべが　ドリルじょうに\nけずられて　やがて　あなが　あく。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "ねじりこむような　パンチこうげき！\nコンクリートのかべが　ドリルじょうに\nけずられて　やがて　あなが　あく。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "くうきを　きりさく　パンチ。\nかすっただけで　やけどに　なるほど\nパンチの　スピードは　はやいのだ。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "くうきをも　きりさく　パンチ。\nだが　３ぷんかん　こうげきすると\nひとやすみ　したくなるらしい。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Ebiwalar",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "홍수몬",
+    "genus": "펀치포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "팔을 비틀며 날리는 펀치는\n콘크리트도 부스러뜨린다.\n3분 싸우면 잠시 쉰다."
+      },
+      {
+        "game": "xy-y",
+        "text": "프로 복서의 혼에 씌었다.\n펀치의 스피드는\n고속열차보다도 빠르다."
+      },
+      {
+        "game": "oras-or",
+        "text": "세계 챔피언을 목표했던 복서의\n혼이 깃들었다고 하는 홍수몬은\n불굴의 정신으로 절대 지쳐 쓰러지지 않는다."
+      },
+      {
+        "game": "oras-as",
+        "text": "세계 챔피언을 목표했던 복서의\n혼이 깃들었다고 하는 홍수몬은\n불굴의 정신으로 절대 지쳐 쓰러지지 않는다."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "비틀면서 뚫는 듯한 펀치 공격!\n콘크리트 벽이 드릴 모양으로\n깎여나가 구멍이 뚫린다."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "비틀면서 뚫는 듯한 펀치 공격!\n콘크리트 벽이 드릴 모양으로\n깎여나가 구멍이 뚫린다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "주변의 공기를 가르는 펀치.\n스치기만 해도 화상을 입을 정도로\n펀치 스피드가 매우 빠르다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "공기마저 베어 가르는 펀치.\n하지만 3분간 공격하면\n잠시 쉬고 싶어하는 것 같다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "快拳郎",
+    "genus": "拳擊寶可夢",
+    "flavorText": [
+      {
+        "game": "lgpe-lgp",
+        "text": "牠的拳擊就像是鑽頭！\n在牠的攻擊之下，即使是\n水泥牆也會被鑽出洞來。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "牠的拳擊就像是鑽頭！\n在牠的攻擊之下，即使是\n水泥牆也會被鑽出洞來。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "使出的拳擊能劈開空氣。\n出拳的速度極為迅速，\n即便只是擦過都會造成灼傷。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "打出的拳擊甚至能劈開空氣。\n但連續攻擊３分鐘後，\n牠似乎就會想休息一下。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Tygnon",
+    "genus": "Pokémon Puncheur",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Même le béton cède sous ses \npoings dévastateurs. Au combat, il\ns’essouffle au bout de 3 minutes."
+      },
+      {
+        "game": "bw-w",
+        "text": "Même le béton cède sous ses \npoings dévastateurs. Au combat, il\ns’essouffle au bout de 3 minutes."
+      },
+      {
+        "game": "xy-x",
+        "text": "Même le béton cède sous ses poings dévastateurs.\nAu combat, il s’essouffle au bout de trois minutes."
+      },
+      {
+        "game": "xy-y",
+        "text": "Tygnon possède l’esprit combatif des plus grands\nchampions de boxe. Ses coups de poing partent plus\nvite qu’un boulet de canon."
+      },
+      {
+        "game": "oras-or",
+        "text": "On raconte que Tygnon dispose de l’état d’esprit d’un boxeur\nqui s’entraîne pour le championnat du monde. Ce Pokémon\nest doté d’une ténacité à toute épreuve et n’abandonne\njamais face à l’adversité."
+      },
+      {
+        "game": "oras-as",
+        "text": "On raconte que Tygnon dispose de l’état d’esprit d’un boxeur\nqui s’entraîne pour le championnat du monde. Ce Pokémon\nest doté d’une ténacité à toute épreuve et n’abandonne\njamais face à l’adversité."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Ses coups de poing rotatifs sont si puissants\nqu’ils peuvent percer le béton comme\nune foreuse."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Ses coups de poing rotatifs sont si puissants\nqu’ils peuvent percer le béton comme\nune foreuse."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Ses poings fendent l’air. Ils sont si rapides\nqu’un simple frôlement peut causer une brûlure."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Ses poings fendent l’air, mais il se fatigue au bout\nde trois minutes à enchaîner les coups."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Nockchan",
+    "genus": "Puncher-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Die Schläge, die es austeilt, können Beton\npulverisieren. Es muss sich im Kampf alle\ndrei Minuten ausruhen."
+      },
+      {
+        "game": "xy-y",
+        "text": "Der Geist eines Profi-Boxers hat dieses Pokémon\ninspiriert. Seine Faustschläge sind schneller als\nein Hochgeschwindigkeitszug."
+      },
+      {
+        "game": "oras-or",
+        "text": "Nockchan besitzt das Herz eines Boxers, der sich auf eine\nWeltmeisterschaft vorbereitet. Dieses Pokémon hat einen\nunbeugsamen Willen und gibt niemals auf."
+      },
+      {
+        "game": "oras-as",
+        "text": "Nockchan besitzt das Herz eines Boxers, der sich auf eine\nWeltmeisterschaft vorbereitet. Dieses Pokémon hat einen\nunbeugsamen Willen und gibt niemals auf."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Mit seinen rotierenden Hieben vermag es, sich\nwie eine Bohrmaschine Stück für Stück durch\nBetonwände zu bohren."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Mit seinen rotierenden Hieben vermag es, sich\nwie eine Bohrmaschine Stück für Stück durch\nBetonwände zu bohren."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Seine Fäuste zerschneiden regelrecht die Luft.\nSie sind so schnell, dass selbst die geringste\nBerührung Verbrennungen verursacht."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Seine Fäuste zerschneiden die Luft. Es muss\njedoch alle drei Minuten eine kurze Pause\neinlegen."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Hitmonchan",
+    "genus": "Pokémon Puñetazo",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Los potentes golpes de sus brazos pueden pulverizar\nel hormigón. Descansa tras luchar tres minutos."
+      },
+      {
+        "game": "xy-y",
+        "text": "Dicen que tiene el alma de un boxeador profesional.\nDa puñetazos a la velocidad del rayo."
+      },
+      {
+        "game": "oras-or",
+        "text": "Dicen que Hitmonchan tiene el mismo ímpetu que un boxeador\nentrenándose para un campeonato mundial. Este Pokémon\ntiene un espíritu indomable que nunca se doblega ante la\nadversidad."
+      },
+      {
+        "game": "oras-as",
+        "text": "Dicen que Hitmonchan tiene el mismo ímpetu que un boxeador\nentrenándose para un campeonato mundial. Este Pokémon\ntiene un espíritu indomable que nunca se doblega ante la\nadversidad."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Sus puñetazos, semejantes a una taladradora,\npueden perforar un muro de hormigón como si\nnada."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Sus puñetazos, semejantes a una taladradora,\npueden perforar un muro de hormigón como si\nnada."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Sus puñetazos cortan el aire. Son tan veloces que\nel mínimo roce podría causar una quemadura."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Sus puñetazos son capaces incluso de cortar el\naire, aunque parece necesitar un descanso tras\nestar luchando durante 3 min."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Hitmonchan",
+    "genus": "Pokémon Tirapugni",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Sferra pugni così potenti da polverizzare persino\nil cemento. Si riposa dopo 3 minuti di lotta."
+      },
+      {
+        "game": "xy-y",
+        "text": "Questo Pokémon ha lo spirito di un pugile\nprofessionista. I suoi pugni sono più rapidi di un\ntreno superveloce."
+      },
+      {
+        "game": "oras-or",
+        "text": "Si dice che Hitmonchan abbia l’animo di un pugile destinato\na partecipare al campionato mondiale. Questo Pokémon\nha uno spirito indomito e non demorde mai di fronte\nalle avversità."
+      },
+      {
+        "game": "oras-as",
+        "text": "Si dice che Hitmonchan abbia l’animo di un pugile destinato\na partecipare al campionato mondiale. Questo Pokémon\nha uno spirito indomito e non demorde mai di fronte\nalle avversità."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Attacca facendo ruotare i pugni come un\ntrapano. Grazie ad essi, è in grado di perforare\npersino un muro di cemento."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Attacca facendo ruotare i pugni come un\ntrapano. Grazie ad essi, è in grado di perforare\npersino un muro di cemento."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "I suoi pugni fendono l’aria a una tale velocità\nche basta venire sfiorati per riportare\nuna scottatura."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Fende l’aria con i suoi pugni. Tuttavia, dopo\ntre minuti di lotta deve riprendere fiato."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Hitmonchan",
+    "genus": "Punching Pokémon",
+    "flavorText": [
+      {
+        "game": "rb-r",
+        "text": "While apparently\ndoing nothing, it\nfires punches in\flightning fast\nvolleys that are\nimpossible to see."
+      },
+      {
+        "game": "rb-b",
+        "text": "While apparently\ndoing nothing, it\nfires punches in\flightning fast\nvolleys that are\nimpossible to see."
+      },
+      {
+        "game": "y",
+        "text": "Punches in cork­\nscrew fashion. It\ncan punch its way\fthrough a concrete\nwall in the same\nway as a drill."
+      },
+      {
+        "game": "gs-g",
+        "text": "Its punches slice\nthe air. However,\nit seems to need a\fshort break after\nfighting for three\nminutes."
+      },
+      {
+        "game": "gs-s",
+        "text": "Its punches slice\nthe air. They are\nlaunched at such\fhigh speed, even a\nslight graze could\ncause a burn."
+      },
+      {
+        "game": "c",
+        "text": "To increase the\nstrength of all\nits punch moves,\fit spins its arms\njust before making\ncontact."
+      },
+      {
+        "game": "rs-r",
+        "text": "HITMONCHAN is said to possess the\nspirit of a boxer who had been working\ntowards a world championship.\fThis POKéMON has an indomitable spirit\nand will never give up in the face of\nadversity."
+      },
+      {
+        "game": "rs-s",
+        "text": "HITMONCHAN is said to possess the\nspirit of a boxer who had been working\ntowards a world championship.\fThis POKéMON has an indomitable spirit\nand will never give up in the face of\nadversity."
+      },
+      {
+        "game": "e",
+        "text": "A HITMONCHAN is said to possess the\nspirit of a boxer who aimed to become the\nworld champion. Having an indomitable\nspirit means that it will never give up."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "The spirit of a pro boxer has infused this\nPOKéMON. It throws punches that are\nfaster than a bullet train."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "While apparently doing nothing, it fires\npunches in lightning-fast volleys that are\nimpossible to see."
+      },
+      {
+        "game": "dp-d",
+        "text": "The arm-twisting punches it throws\npulverize even concrete. It rests\nafter three minutes of fighting."
+      },
+      {
+        "game": "dp-p",
+        "text": "The arm-twisting punches it throws\npulverize even concrete. It rests\nafter three minutes of fighting."
+      },
+      {
+        "game": "pt",
+        "text": "The arm-twisting punches it throws\npulverize even concrete. It rests\nafter three minutes of fighting."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "Its punches slice the air. However,\nit seems to need a short break after\nfighting for three minutes."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "Its punches slice the air. They are\nlaunched at such high speed, even a\nslight graze could cause a burn."
+      },
+      {
+        "game": "bw-b",
+        "text": "The arm-twisting punches it throws\npulverize even concrete. It rests\nafter three minutes of fighting."
+      },
+      {
+        "game": "bw-w",
+        "text": "The arm-twisting punches it throws\npulverize even concrete. It rests\nafter three minutes of fighting."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "The arm-twisting punches it throws\npulverize even concrete. It rests\nafter three minutes of fighting."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "The arm-twisting punches it throws\npulverize even concrete. It rests\nafter three minutes of fighting."
+      },
+      {
+        "game": "xy-x",
+        "text": "The arm-twisting punches it throws pulverize even\nconcrete. It rests after three minutes of fighting."
+      },
+      {
+        "game": "xy-y",
+        "text": "The spirit of a pro boxer has infused this Pokémon.\nIt throws punches that are faster than a bullet train."
+      },
+      {
+        "game": "oras-or",
+        "text": "Hitmonchan is said to possess the spirit of a boxer who had\nbeen working toward a world championship. This Pokémon has\nan indomitable spirit and will never give up in the face\nof adversity."
+      },
+      {
+        "game": "oras-as",
+        "text": "Hitmonchan is said to possess the spirit of a boxer who had\nbeen working toward a world championship. This Pokémon\nhas an indomitable spirit and will never give up in the face\nof adversity."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Punches in corkscrew fashion. It can punch\nits way through a concrete wall like a drill."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Punches in corkscrew fashion. It can punch\nits way through a concrete wall like a drill."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Its punches slice the air. They are launched at\nsuch high speed, even a slight graze could cause\na burn."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Its punches slice the air. However, it seems to\nneed a short break after fighting for three minutes."
+      }
+    ]
+  },
+  "chs": {
+    "name": "快拳郎",
+    "genus": "拳击宝可梦",
+    "flavorText": [
+      {
+        "game": "lgpe-lgp",
+        "text": "它的拳击好似钻头一般！\n在它的攻击之下，哪怕是\n水泥墙也会被钻出洞来。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "它的拳击好似钻头一般！\n在它的攻击之下，哪怕是\n水泥墙也会被钻出洞来。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "使出的拳击能劈开空气。\n出拳的速度极为迅速，\n即使只是擦过都会造成灼伤。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "打出的拳击甚至能劈开空气。\n但攻击３分钟后，\n它似乎就会想休息一下。"
+      }
+    ]
+  }
+}

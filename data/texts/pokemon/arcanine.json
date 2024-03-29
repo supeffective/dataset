@@ -1,0 +1,553 @@
+{
+  "jap": {
+    "name": "ウインディ",
+    "genus": "でんせつポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "むかしから　おおくの　ひとを\nとりこにした　うつくしい　ポケモン。\nとぶように　かろやかに　はしる。"
+      },
+      {
+        "game": "xy-y",
+        "text": "どうどうとした　なきごえは\nいげんに　あふれ　きいたものは\nおもわず　ひれふしてしまう。"
+      },
+      {
+        "game": "oras-or",
+        "text": "１００００キロの　きょりを　いっちゅうやで\nはしると　いわれている　かいそくの　ポケモン。\nたいないで　もえさかる　ほのおが　パワーとなる。"
+      },
+      {
+        "game": "oras-as",
+        "text": "１００００キロの　きょりを　いっちゅうやで\nはしると　いわれている　かいそくの　ポケモン。\nたいないで　もえさかる　ほのおが　パワーとなる。"
+      },
+      {
+        "game": "sm-s",
+        "text": "とうようの　ふるい　いいつたえ　にも\nとうじょうする。　いげんに　あふれ\nたくましくも　うつくしい　ポケモン。"
+      },
+      {
+        "game": "sm-m",
+        "text": "たいないで　もえさかる　ほのおを\nエネルギーに　だいちを　かける。\nおおくの　でんせつが　のこっている。"
+      },
+      {
+        "game": "usum-us",
+        "text": "おおむかしに　とある　ぶしょうと\nともに　たたかい　くにを　おさめた\nという　でんせつが　のこされている。"
+      },
+      {
+        "game": "usum-um",
+        "text": "おおくの　いいつたえが　のこっており\nでんせつの　ポケモンと　よばれるが\nいがいと　みつかる　かずは　おおい。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "とうようで　でんせつの　ポケモン。\nかろやかに　はしる　そのすがたに\nとりこに　される　ものも　おおい。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "とうようで　でんせつの　ポケモン。\nかろやかに　はしる　そのすがたに\nとりこに　される　ものも　おおい。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "いっちゅうやで　１００００キロの\nきょりを　かけぬける　すがたは\nおおくの　ひとを　みりょうしてきた。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "むかしから　おおくの　ひとを\nとりこにした　うつくしい　ポケモン。\nとぶように　かろやかに　はしる。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Windie",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "윈디",
+    "genus": "전설포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "옛날부터 많은 사람의\n마음을 사로잡은 아름다운 포켓몬이다.\n날듯이 경쾌하게 달린다."
+      },
+      {
+        "game": "xy-y",
+        "text": "위풍당당한 울음소리는\n위엄이 넘쳐 소리를 들은 상대는\n무의식중에 몸을 움츠리게 된다."
+      },
+      {
+        "game": "oras-or",
+        "text": "10000km 거리를 하루 만에 달려간다고\n전해지는 매우 빠른 포켓몬이다.\n체내에서 불타오르는 불꽃이 파워가 된다."
+      },
+      {
+        "game": "oras-as",
+        "text": "10000km 거리를 하루 만에 달려간다고\n전해지는 매우 빠른 포켓몬이다.\n체내에서 불타오르는 불꽃이 파워가 된다."
+      },
+      {
+        "game": "sm-s",
+        "text": "동양의 오래된 전설에도\n등장한다. 위엄이 넘치며\n늠름하면서 아름다운 포켓몬."
+      },
+      {
+        "game": "sm-m",
+        "text": "체내에서 불타오르는 불꽃을\n에너지로 대지를 달린다.\n많은 전설이 남아 있다."
+      },
+      {
+        "game": "usum-us",
+        "text": "아주 먼 옛날 어느 장수와\n함께 싸워 나라를 다스렸다고 하는\n전설이 남아 있다."
+      },
+      {
+        "game": "usum-um",
+        "text": "많은 전설이 남아 있어\n전설의 포켓몬이라고 불리지만\n의외로 발견되는 수는 많다."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "동양의 전설의 포켓몬.\n경쾌하게 달리는 그 모습에\n반하는 자도 많다."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "동양의 전설의 포켓몬.\n경쾌하게 달리는 그 모습에\n반하는 자도 많다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "하루 만에 10000km의\n거리를 달리는 모습은\n많은 사람을 매료시켜 왔다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "옛날부터 많은 사람의 마음을\n사로잡은 아름다운 포켓몬이다.\n마치 나는 것처럼 경쾌하게 달린다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "風速狗",
+    "genus": "傳說寶可夢",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "在東方的古代傳說中也曾出現。\n充滿威嚴，強壯而又美麗的寶可夢。"
+      },
+      {
+        "game": "sm-m",
+        "text": "把體內熊熊燃燒的火焰\n作為能量在大地奔馳。\n留下了大量的傳說。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "只需要一晝夜時間就能\n跑完１００００公里的身影\n令許多人為之沉醉。"
+      },
+      {
+        "game": "usum-us",
+        "text": "在遠古流傳至今的傳說中，\n牠曾與某位武將並肩作戰，\n共同治理國家。"
+      },
+      {
+        "game": "usum-um",
+        "text": "雖然留下了許多傳說，\n被人們稱為傳說的寶可夢，\n但發現到的數量卻意外地多。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "東洋古老傳說中的寶可夢。\n御風而行般的輕靈姿態\n吸引了許多人對牠著迷。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "東洋古老傳說中的寶可夢。\n御風而行般的輕靈姿態\n吸引了許多人對牠著迷。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "從古時候起就是擄獲\n眾多人心的美麗寶可夢。\n能像飛一樣輕盈地奔跑。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Arcanin",
+    "genus": "Pokémon Légendaire",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Son port altier et son attitude\nfière ont depuis longtemps\nconquis le cœur des hommes."
+      },
+      {
+        "game": "bw-w",
+        "text": "Son port altier et son attitude\nfière ont depuis longtemps\nconquis le cœur des hommes."
+      },
+      {
+        "game": "xy-x",
+        "text": "Un Pokémon très recherché pour sa grâce légendaire.\nIl court avec tellement d’agilité qu’on dirait qu’il vole."
+      },
+      {
+        "game": "xy-y",
+        "text": "Son aboiement est tout simplement majestueux.\nOn ne peut que ramper à ses pieds après l’avoir\nentendu."
+      },
+      {
+        "game": "oras-or",
+        "text": "Arcanin est célèbre pour son extraordinaire vitesse.\nOn le dit capable de parcourir plus de 10 000 km en 24 h.\nLe feu qui fait rage à l’intérieur du corps de ce Pokémon\nest la source de son pouvoir."
+      },
+      {
+        "game": "oras-as",
+        "text": "Arcanin est célèbre pour son extraordinaire vitesse.\nOn le dit capable de parcourir plus de 10 000 km en 24 h.\nLe feu qui fait rage à l’intérieur du corps de ce Pokémon\nest la source de son pouvoir."
+      },
+      {
+        "game": "sm-s",
+        "text": "Ce Pokémon apparaît dans de vieux contes\nd’Extrême-Orient. Aussi beau que majestueux,\nsa puissance est légendaire."
+      },
+      {
+        "game": "sm-m",
+        "text": "La flamme qui brûle dans son corps lui donne\nl’énergie de parcourir les contrées.\nDe nombreuses légendes existent à son sujet."
+      },
+      {
+        "game": "usum-us",
+        "text": "Une légende célèbre relate les exploits d’un\nchef de guerre et de son Arcanin à la conquête\nd’un certain royaume antique."
+      },
+      {
+        "game": "usum-um",
+        "text": "Tant de mythes circulent sur son compte\nqu’il est parfois qualifié de légendaire, alors\nqu’en réalité, il est on ne peut plus commun."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Un Pokémon légendaire en Extrême-Orient.\nIl est admiré pour la grâce et la beauté de\nsa course."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Un Pokémon légendaire en Extrême-Orient.\nIl est admiré pour la grâce et la beauté de\nsa course."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "De nombreuses personnes ont été charmées\nà la vue de ce Pokémon parcourant 10 000 km\nen 24 heures."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Ce Pokémon est admiré depuis toujours pour\nsa beauté. Il court avec tellement de légèreté\nqu’on dirait qu’il vole."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Arkani",
+    "genus": "Legendär-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Dieses Pokémon trägt ein wunderschönes Fell.\nEs ist obendrein schnell und sehr wendig."
+      },
+      {
+        "game": "xy-y",
+        "text": "Sein bezauberndes Bellen klingt majestätisch. Jeder,\nder es vernimmt, muss sich automatisch verbeugen."
+      },
+      {
+        "game": "oras-or",
+        "text": "Arkani ist sehr schnell. Es kann an einem Tag fast 10 000 km\nzurücklegen. Das Feuer, das im Innern dieses Pokémon lodert,\ndient ihm als Energiequelle."
+      },
+      {
+        "game": "oras-as",
+        "text": "Arkani ist sehr schnell. Es kann an einem Tag fast 10 000 km\nzurücklegen. Das Feuer, das im Innern dieses Pokémon lodert,\ndient ihm als Energiequelle."
+      },
+      {
+        "game": "sm-s",
+        "text": "Ein anmutiges Pokémon, das Kraft und Stolz\nausstrahlt. Bereits in alten Legenden aus dem\nweit entfernten Osten wurde von ihm berichtet."
+      },
+      {
+        "game": "sm-m",
+        "text": "Mithilfe der Energie, die das in ihm lodernde\nFeuer erzeugt, eilt es über Berg und Tal. Viele\nLegenden ranken sich um dieses Pokémon."
+      },
+      {
+        "game": "usum-us",
+        "text": "Der Legende nach soll es vor langer Zeit an der\nSeite eines Kriegshelden gekämpft und so an\nder Eroberung eines Landes mitgewirkt haben."
+      },
+      {
+        "game": "usum-um",
+        "text": "Es ranken sich so viele Mythen um Arkani, dass\nes gemeinhin als legendär gilt. In Wirklichkeit \nkommt es jedoch sehr häufig vor."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Weit entfernt im Osten gilt Arkani als legendär.\nWenn es rennt, zieht es mit seinen leichtfüßigen\nBewegungen so manche in seinen Bann."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Weit entfernt im Osten gilt Arkani als legendär.\nWenn es rennt, zieht es mit seinen leichtfüßigen\nBewegungen so manche in seinen Bann."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Viele Trainer sind davon fasziniert, dass dieses\nPokémon innerhalb eines Tages 10 000 km\nzurücklegen kann."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Dieses Pokémon verzaubert die Menschen seit\nUrzeiten mit seiner Schönheit. Obendrein ist es\nschnell und sehr wendig."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Arcanine",
+    "genus": "Pokémon Leyenda",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Un Pokémon muy admirado desde la antigüedad por\nsu belleza. Corre ágilmente como si tuviera alas."
+      },
+      {
+        "game": "xy-y",
+        "text": "Su magnífico ladrido transmite majestuosidad. Todo\nel que lo escuche no podrá evitar adularlo."
+      },
+      {
+        "game": "oras-or",
+        "text": "Arcanine es conocido por lo veloz que es. Dicen que es capaz\nde correr 10 000 km en 24 horas. El fuego que arde con\nvigor en el interior de este Pokémon constituye su fuente\nde energía."
+      },
+      {
+        "game": "oras-as",
+        "text": "Arcanine es conocido por lo veloz que es. Dicen que es capaz\nde correr 10 000 km en 24 horas. El fuego que arde con\nvigor en el interior de este Pokémon constituye su fuente\nde energía."
+      },
+      {
+        "game": "sm-s",
+        "text": "Aparece en algunas leyendas de la antigüedad.\nEs un Pokémon de una belleza y majestuosidad\ndesmesuradas."
+      },
+      {
+        "game": "sm-m",
+        "text": "Puede recorrer grandes distancias gracias a la\nenergía producida por el fuego de su interior.\nHay innumerables leyendas sobre este Pokémon."
+      },
+      {
+        "game": "usum-us",
+        "text": "Cuenta una antigua leyenda que, tiempo ha, llegó\na conquistar territorios enteros luchando junto a\ncierto señor de la guerra."
+      },
+      {
+        "game": "usum-um",
+        "text": "La infinidad de mitos relacionados con este\nPokémon le ha conferido un carácter de leyenda,\naunque en realidad es muy común."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Este Pokémon es toda una leyenda en oriente.\nMuchos han quedado cautivados por la belleza\ny gracilidad que exhibe al correr."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Este Pokémon es toda una leyenda en oriente.\nMuchos han quedado cautivados por la belleza\ny gracilidad que exhibe al correr."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Es capaz de correr 10 000 km al día, lo que deja\nembelesados a todos los que lo ven pasar."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Muchos han quedado cautivados por su belleza\ndesde la antigüedad. Corre ágilmente como si\ntuviera alas."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Arcanine",
+    "genus": "Pokémon Leggenda",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Da sempre ammirato per la sua bellezza, corre\nveloce come se avesse le ali."
+      },
+      {
+        "game": "xy-y",
+        "text": "Il suo incredibile ruggito ispira un senso di maestosità.\nChiunque lo senta non può far a meno di prostrarsi."
+      },
+      {
+        "game": "oras-or",
+        "text": "Arcanine è noto per la sua velocità. Si dice sia in grado\ndi percorrere 10.000 km in un giorno e una notte.\nIl fuoco che arde indomabile nel suo corpo è fonte di forza."
+      },
+      {
+        "game": "oras-as",
+        "text": "Arcanine è noto per la sua velocità. Si dice sia in grado\ndi percorrere 10.000 km in un giorno e una notte.\nIl fuoco che arde indomabile nel suo corpo è fonte di forza."
+      },
+      {
+        "game": "sm-s",
+        "text": "Il suo aspetto maestoso ed elegante incute\nrispetto. Di lui si parla anche in antiche\nleggende orientali."
+      },
+      {
+        "game": "sm-m",
+        "text": "Corre instancabile attraverso distese sconfinate\ngrazie al fuoco indomabile che arde nel suo\ncorpo. Si narra di lui in molte leggende."
+      },
+      {
+        "game": "usum-us",
+        "text": "Narra la leggenda che in un lontano passato\nabbia lottato a fianco di un generale,\naiutandolo a conquistare paesi interi."
+      },
+      {
+        "game": "usum-um",
+        "text": "Si narra di lui in molti racconti, tanto che viene\nchiamato “Pokémon leggendario”. Non è però un\nPokémon raro, ma piuttosto comune."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "È considerato un Pokémon leggendario in\noriente. Molti sono ammaliati dal modo\nleggiadro in cui corre."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "È considerato un Pokémon leggendario in\noriente. Molti sono ammaliati dal modo\nleggiadro in cui corre."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Sono molte le persone affascinate dalla capacità\ndi questo Pokémon di correre per una distanza\ndi 10.000 km in 24 ore."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Da sempre ammirato per la sua bellezza,\ncorre veloce come se avesse le ali."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Arcanine",
+    "genus": "Legendary Pokémon",
+    "flavorText": [
+      {
+        "game": "rb-r",
+        "text": "A POKéMON that\nhas been admired\nsince the past\ffor its beauty.\nIt runs agilely\nas if on wings."
+      },
+      {
+        "game": "rb-b",
+        "text": "A POKéMON that\nhas been admired\nsince the past\ffor its beauty.\nIt runs agilely\nas if on wings."
+      },
+      {
+        "game": "y",
+        "text": "A legendary POKé­\nMON in China.\nMany people are\fcharmed by its\ngrace and beauty\nwhile running."
+      },
+      {
+        "game": "gs-g",
+        "text": "This legendary\nChinese POKEMON is\nconsidered magnif­\ficent. Many people\nare enchanted by\nits grand mane."
+      },
+      {
+        "game": "gs-s",
+        "text": "Its magnificent\nbark conveys a\nsense of majesty.\fAnyone hearing it\ncan't help but\ngrovel before it."
+      },
+      {
+        "game": "c",
+        "text": "An ancient picture\nscroll shows that\npeople were\fattracted to its\nmovement as it ran\nthrough prairies."
+      },
+      {
+        "game": "rs-r",
+        "text": "ARCANINE is known for its high speed.\nIt is said to be capable of running over\n6,200 miles in a single day and night.\fThe fire that blazes wildly within this\nPOKéMON’s body is its source of power."
+      },
+      {
+        "game": "rs-s",
+        "text": "ARCANINE is known for its high speed.\nIt is said to be capable of running over\n6,200 miles in a single day and night.\fThe fire that blazes wildly within this\nPOKéMON’s body is its source of power."
+      },
+      {
+        "game": "e",
+        "text": "This fleet-footed POKéMON is said to run\nover 6,200 miles in a single day and night.\nThe fire that blazes wildly within its body\nis its source of power."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "A POKéMON that is described in Chinese\nlegends. It is said to race at an\nunbelievable speed."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "A POKéMON that has long been admired\nfor its beauty. It runs agilely as if\non wings."
+      },
+      {
+        "game": "dp-d",
+        "text": "Its proud and regal appearance\nhas captured the hearts of\npeople since long ago."
+      },
+      {
+        "game": "dp-p",
+        "text": "Its proud and regal appearance\nhas captured the hearts of\npeople since long ago."
+      },
+      {
+        "game": "pt",
+        "text": "Its proud and regal appearance\nhas captured the hearts of\npeople since long ago."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "This legendary Chinese Pokémon is\nconsidered magnificent. Many people\nare enchanted by its grand mane."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "Its magnificent bark conveys a\nsense of majesty. Anyone hearing it\ncan’t help but grovel before it."
+      },
+      {
+        "game": "bw-b",
+        "text": "Its proud and regal appearance\nhas captured the hearts of\npeople since long ago."
+      },
+      {
+        "game": "bw-w",
+        "text": "Its proud and regal appearance\nhas captured the hearts of\npeople since long ago."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "The sight of it running over 6,200 miles\nin a single day and night has captivated\nmany people."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "The sight of it running over 6,200 miles\nin a single day and night has captivated\nmany people."
+      },
+      {
+        "game": "xy-x",
+        "text": "A Pokémon that has long been admired for its\nbeauty. It runs agilely as if on wings."
+      },
+      {
+        "game": "xy-y",
+        "text": "Its magnificent bark conveys a sense of majesty.\nAnyone hearing it can’t help but grovel before it."
+      },
+      {
+        "game": "oras-or",
+        "text": "Arcanine is known for its high speed. It is said to be capable of\nrunning over 6,200 miles in a single day and night.\nThe fire that blazes wildly within this Pokémon’s body is its\nsource of power."
+      },
+      {
+        "game": "oras-as",
+        "text": "Arcanine is known for its high speed. It is said to be capable\nof running over 6,200 miles in a single day and night. The\nfire that blazes wildly within this Pokémon’s body is its source\nof power."
+      },
+      {
+        "game": "sm-s",
+        "text": "Overflowing with beauty and majesty,\nthis strong Pokémon appears in ancient\nEastern folklore."
+      },
+      {
+        "game": "sm-m",
+        "text": "The fire burning inside its body serves as the\nenergy to fuel it as it runs great distances.\nIt appears in many legends."
+      },
+      {
+        "game": "usum-us",
+        "text": "Legends tell of its fighting alongside a general\nand conquering a whole country."
+      },
+      {
+        "game": "usum-um",
+        "text": "There are so many old tales about them that\nthey’re called legendary Pokémon, but there are\nway more of them around than you’d expect."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "A legendary Pokémon in the East. Many people\nare charmed by the grace and beauty of\nits running."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "A legendary Pokémon in the East. Many people\nare charmed by the grace and beauty of\nits running."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "The sight of it running over 6,200 miles\nin a single day and night has captivated\nmany people."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "A Pokémon that has long been admired for its\nbeauty. It runs agilely as if on wings."
+      },
+      {
+        "game": "la",
+        "text": "Snaps at its foes with fangs cloaked in blazing flame. Despite its\nbulk, it deftly feints every which way, leading opponents on a\ndeceptively merry chase as it all but dances around them."
+      }
+    ]
+  },
+  "chs": {
+    "name": "风速狗",
+    "genus": "传说宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "在东方的古代传说中也会出现。\n充满威严，强壮而又美丽的宝可梦。"
+      },
+      {
+        "game": "sm-m",
+        "text": "把体内熊熊燃烧的火焰\n作为能量在大地奔驰。\n留下了大量的传说。"
+      },
+      {
+        "game": "usum-us",
+        "text": "流传着这样一个传说。\n很久以前，它曾经和某位武将\n一起并肩战斗并治理国家。"
+      },
+      {
+        "game": "usum-um",
+        "text": "虽然留有众多传说，\n被称为传说的宝可梦，\n但发现它的次数却意外的多。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "东方古老传说中的宝可梦。\n曾有不计其数的人为它\n轻巧跑动的身姿而倾倒。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "东方古老传说中的宝可梦。\n曾有不计其数的人为它\n轻巧跑动的身姿而倾倒。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "只需要一昼夜时间就能\n跑完１００００公里的身影\n令许多人为之沉醉。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "从古时候起就是俘获了\n众多人心的美丽宝可梦。\n能像飞一样轻巧地奔跑。"
+      }
+    ]
+  }
+}

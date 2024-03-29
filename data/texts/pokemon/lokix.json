@@ -1,0 +1,61 @@
+{
+  "jap": {
+    "name": "エクスレッグ",
+    "genus": "バッタポケモン",
+    "flavorText": []
+  },
+  "jap_ro": {
+    "name": "Exleg",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "엑스레그",
+    "genus": "",
+    "flavorText": []
+  },
+  "cht": {
+    "name": "烈腿蝗",
+    "genus": "蝗蟲寶可夢",
+    "flavorText": []
+  },
+  "fra": {
+    "name": "Gambex",
+    "genus": "",
+    "flavorText": []
+  },
+  "deu": {
+    "name": "Lextremo",
+    "genus": "Heuschrecke",
+    "flavorText": []
+  },
+  "esp": {
+    "name": "Lokix",
+    "genus": "",
+    "flavorText": []
+  },
+  "ita": {
+    "name": "Lokix",
+    "genus": "",
+    "flavorText": []
+  },
+  "eng": {
+    "name": "Lokix",
+    "genus": "Grasshopper Pokémon",
+    "flavorText": [
+      {
+        "game": "sv-s",
+        "text": "When it decides to fight all out, it stands on its previously folded legs to enter Showdown Mode. It neutralizes its enemies in short order."
+      },
+      {
+        "game": "sv-v",
+        "text": "It uses its normally folded third set of legs when in Showdown Mode. This places a huge burden on its body, so it can’t stay in this mode for long."
+      }
+    ]
+  },
+  "chs": {
+    "name": "烈腿蝗",
+    "genus": "蝗虫宝可梦",
+    "flavorText": []
+  }
+}

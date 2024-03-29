@@ -1,0 +1,553 @@
+{
+  "jap": {
+    "name": "ブーバー",
+    "genus": "ひふきポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "かざんの　かこうちかくで\nみつかった。くちから　ほのおをはく。\nたいおんは　１２００ど　もある。"
+      },
+      {
+        "game": "xy-y",
+        "text": "かざんの　かこうで　うまれそだった。\nたいようと　おなじような　ほのおの\nゆらめきが　ぜんしんを　おおう。"
+      },
+      {
+        "game": "oras-or",
+        "text": "たたかいに　なると　からだから　しゃくねつの\nほのおを　ふきあげ　あいてを　いかくする。\nその　ねっぷうで　まわりの　くさきも　もやすぞ。"
+      },
+      {
+        "game": "oras-as",
+        "text": "たたかいに　なると　からだから　しゃくねつの\nほのおを　ふきあげ　あいてを　いかくする。\nその　ねっぷうで　まわりの　くさきも　もやすぞ。"
+      },
+      {
+        "game": "sm-s",
+        "text": "つかれると　かこうに　とびこみ\nマグマに　つかって　からだを　いやす。\nぜんしんが　１２００どで　もえている。"
+      },
+      {
+        "game": "sm-m",
+        "text": "おこると　ぜんしんから　しゃくねつの\nほのおを　ふきあげる。　あいてを\nすみに　するまで　おさまらない。"
+      },
+      {
+        "game": "usum-us",
+        "text": "ぜんしんが　もえていて　いきを\nするだけでも　あつい。　くしゃみと\nどうじに　ほのおが　ふきだすぞ。"
+      },
+      {
+        "game": "usum-um",
+        "text": "あついばしょほど　ちょうしが　よい。\nアローラのブーバーは　ほかの　とちと\nくらべ　たくましいと　いわれている。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "かざんの　ふんかこうから　うまれた。\nぜんしんが　もえているため\nひのたまと　みわけが　つかない。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "かざんの　ふんかこうから　うまれた。\nぜんしんが　もえているため\nひのたまと　みわけが　つかない。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "ほのおで　えものを　しとめる。\nついつい　やきすぎて　くろコゲに\nしてしまい　こうかいする。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "ぜんしんが　つねに　もえている。\nかじを　おこす　げんいんの\nひとつとして　おそれられる。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Boober",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "마그마",
+    "genus": "불뿜기포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "화산의 분화구 근처에서\n발견되었다. 입에서 불꽃을 뿜어낸다.\n체온은 1200도나 된다."
+      },
+      {
+        "game": "xy-y",
+        "text": "화산의 분화구에서 태어나 자랐다.\n태양과도 같은 불꽃의\n일렁임이 전신을 감싼다."
+      },
+      {
+        "game": "oras-or",
+        "text": "싸우게 되면 몸에서 작열하는\n불꽃을 뿜어내 상대를 위협한다.\n그 열풍으로 주변의 초목도 불태운다."
+      },
+      {
+        "game": "oras-as",
+        "text": "싸우게 되면 몸에서 작열하는\n불꽃을 뿜어내 상대를 위협한다.\n그 열풍으로 주변의 초목도 불태운다."
+      },
+      {
+        "game": "sm-s",
+        "text": "피곤하면 화구에 뛰어들어\n마그마에 잠겨 몸을 치유한다.\n전신이 1200도로 타고 있다."
+      },
+      {
+        "game": "sm-m",
+        "text": "화가 나면 전신에서 작열하는\n불꽃을 뿜어 올린다. 상대를\n재로 만들 때까지 멈추지 않는다."
+      },
+      {
+        "game": "usum-us",
+        "text": "온몸이 불에 타고 있어서\n숨을 쉬기만 해도 뜨겁다.\n재채기와 동시에 불꽃을 뿜어낸다."
+      },
+      {
+        "game": "usum-um",
+        "text": "더운 곳일수록 컨디션이 좋다.\n알로라의 마그마는 다른 지역에\n비해 늠름하다고 한다."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "화산의 분화구에서 태어났다.\n전신이 불타고 있어\n불구슬과 구분이 안된다."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "화산의 분화구에서 태어났다.\n전신이 불타고 있어\n불구슬과 구분이 안된다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "불꽃으로 먹이를 꼼짝 못 하게 한다.\n무의식중에 너무 오래 익혀서\n까맣게 태우고는 후회한다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "온몸이 늘 불타고 있다.\n화재를 일으키는 원인 중 하나로\n두려움의 대상이 되고 있다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "鴨嘴火獸",
+    "genus": "吐火寶可夢",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "感到疲勞時會跳入火山口，\n浸泡在熔岩中讓身體舒緩疲勞。\n全身以１２００度燃燒著。"
+      },
+      {
+        "game": "sm-m",
+        "text": "生氣的時候會從全身噴出\n灼熱的火焰，不把對手燒成\n灰燼就無法平息怒火。"
+      },
+      {
+        "game": "usum-us",
+        "text": "全身都在燃燒，\n光是呼出的氣息就帶著高溫，\n打噴嚏時會同時噴出火焰。"
+      },
+      {
+        "game": "usum-um",
+        "text": "待的地方越熱，身體狀況就越好。\n據說和其他地方比起來，\n阿羅拉的鴨嘴火獸更加強壯。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "從火山口之中誕生。\n由於全身都在燃燒，\n看起來和火球沒有兩樣。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "從火山口之中誕生。\n由於全身都在燃燒，\n看起來和火球沒有兩樣。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "會用火焰解決獵物。\n但是一不留神就會把獵物\n燒得太焦，然後才後悔。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "全身時時刻刻都在燃燒。\n人們認為牠是引起火災的\n原因之一，非常畏懼牠。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Magmar",
+    "genus": "Pokémon Crache-Feu",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Quand il respire profondément, des\nvagues de chaleur émanent de son\ncorps et le rendent difficile à voir."
+      },
+      {
+        "game": "bw-w",
+        "text": "Quand il respire profondément, des\nvagues de chaleur émanent de son\ncorps et le rendent difficile à voir."
+      },
+      {
+        "game": "xy-x",
+        "text": "On trouve ce Pokémon près des bouches de volcans.\nSon corps incandescent atteint 1 200 °C."
+      },
+      {
+        "game": "xy-y",
+        "text": "Il est né au milieu d’un volcan. Son corps est couvert\nde flammes qui flambent comme un soleil."
+      },
+      {
+        "game": "oras-or",
+        "text": "Lorsqu’il se bat, Magmar fait jaillir des flammes de son corps\npour intimider son adversaire. Les explosions enflammées de\nce Pokémon déclenchent des vagues de chaleur qui embrasent\nla végétation environnante."
+      },
+      {
+        "game": "oras-as",
+        "text": "Lorsqu’il se bat, Magmar fait jaillir des flammes de son corps\npour intimider son adversaire. Les explosions enflammées de\nce Pokémon déclenchent des vagues de chaleur qui embrasent\nla végétation environnante."
+      },
+      {
+        "game": "sm-s",
+        "text": "Quand il est fatigué, il se jette dans un volcan\npour se soigner dans le magma. Son corps brûle\nà 1 200 °C."
+      },
+      {
+        "game": "sm-m",
+        "text": "Quand il s’énerve, une flamme ardente\nl’enveloppe tout entier. Il ne se calme que\nquand son adversaire est réduit en cendres."
+      },
+      {
+        "game": "usum-us",
+        "text": "Son corps est tellement ardent que même son\nsouffle brûle. Lorsqu’il éternue, des flammes\ns’échappent de son bec."
+      },
+      {
+        "game": "usum-um",
+        "text": "Plus il fait chaud, mieux il se porte. On dit\nd’ailleurs que le Magmar d’Alola est plus robuste\nque ses cousins habitant d’autres contrées."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Né dans le cratère d’un volcan, son corps est\nrecouvert de flammes. Il ressemble ainsi à une\nboule de feu."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Né dans le cratère d’un volcan, son corps est\nrecouvert de flammes. Il ressemble ainsi à une\nboule de feu."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Il achève ses proies avec ses flammes, mais\nil lui arrive de les calciner accidentellement,\nà son plus grand regret."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Tout son corps est en combustion permanente.\nIl est craint, car on dit qu’il cause des incendies."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Magmar",
+    "genus": "Brenner-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Es wurde in der Nähe eines Vulkans gefunden.\nDie Körpertemperatur dieses Feuerspuckers\nliegt bei fast 1 200 °C."
+      },
+      {
+        "game": "xy-y",
+        "text": "Es wurde bei einem Vulkanausbruch geboren.\nSein Körper ist von hellen Flammen umgeben."
+      },
+      {
+        "game": "oras-or",
+        "text": "Im Kampf stößt Magmar glühend heiße Flammen aus,\num seinen Gegner einzuschüchtern. Diese Feuersalven\nerzeugen Hitzewellen, die das Gras und die Bäume der\nUmgebung in Brand setzen."
+      },
+      {
+        "game": "oras-as",
+        "text": "Im Kampf stößt Magmar glühend heiße Flammen aus,\num seinen Gegner einzuschüchtern. Diese Feuersalven\nerzeugen Hitzewellen, die das Gras und die Bäume der\nUmgebung in Brand setzen."
+      },
+      {
+        "game": "sm-s",
+        "text": "Wenn es erschöpft ist, springt es in einen\nVulkankrater und entspannt sich in der Lava.\nSein brennender Körper ist 1 200 °C heiß."
+      },
+      {
+        "game": "sm-m",
+        "text": "Ist es wütend, stößt es glühend heiße Flammen\naus. Es hört damit erst auf, wenn von seinem\nGegner nur noch Asche übrig ist."
+      },
+      {
+        "game": "usum-us",
+        "text": "Mit seinem brennenden Körper und glühenden\nAtem heizt es seine Umgebung auf. Beim Niesen\nstößt es Flammen aus."
+      },
+      {
+        "game": "usum-um",
+        "text": "Je heißer die Umgebung, desto besser ist\nMagmar in Form. Im Vergleich zu anderen\nRegionen ist es in Alola besonders stark."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Magmar werden in Vulkankratern geboren.\nSie sehen aus wie Feuerbälle, da ihr ganzer\nKörper in Flammen gehüllt ist."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Magmar werden in Vulkankratern geboren.\nSie sehen aus wie Feuerbälle, da ihr ganzer\nKörper in Flammen gehüllt ist."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Magmar erlegt seine Beute mit Feuer. Manchmal\nröstet es diese zu seinem Bedauern so stark,\ndass sie versehentlich verkohlt."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Sein Körper ist ständig in Flammen gehüllt,\nwodurch es als eine Ursache von Bränden\ngefürchtet wird."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Magmar",
+    "genus": "Pokémon Escupefuego",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "A este Pokémon se lo encontraron cerca de un volcán.\nEsta criatura ígnea tiene una temperatura corporal de\nunos 1200 °C."
+      },
+      {
+        "game": "xy-y",
+        "text": "Nació en el centro de un volcán. Su cuerpo está\ncubierto de llamas que brillan como el Sol."
+      },
+      {
+        "game": "oras-or",
+        "text": "Al luchar, Magmar expulsa violentas llamas por todo el cuerpo\npara intimidar a su rival. Estos estallidos de fuego crean\nondas de calor que abrasan la hierba y los árboles que haya\nen las proximidades."
+      },
+      {
+        "game": "oras-as",
+        "text": "Al luchar, Magmar expulsa violentas llamas por todo el cuerpo\npara intimidar a su rival. Estos estallidos de fuego crean\nondas de calor que abrasan la hierba y los árboles que haya\nen las proximidades."
+      },
+      {
+        "game": "sm-s",
+        "text": "Cuando está agotado, se zambulle en el cráter\nde un volcán para reponer energías. Su cuerpo\nalcanza una temperatura de 1200 °C."
+      },
+      {
+        "game": "sm-m",
+        "text": "Cuando se enfada, llamas candentes empiezan a\nbrotar de su cuerpo. No se tranquiliza hasta que\nsu rival queda carbonizado por completo."
+      },
+      {
+        "game": "usum-us",
+        "text": "Su cuerpo arde con tal fuerza que su aliento\nresulta abrasador. Expulsa llamaradas con tan\nsolo estornudar."
+      },
+      {
+        "game": "usum-um",
+        "text": "Se desarrolla mejor cuanto más cálido sea el\nentorno, por lo que los ejemplares de Alola son\nmás robustos que los de otras regiones."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Nace en cráteres de volcanes. Su cuerpo\nenvuelto en llamas parece una bola de fuego."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Nace en cráteres de volcanes. Su cuerpo\nenvuelto en llamas parece una bola de fuego."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Abate a sus presas con las llamas que genera y\ncon frecuencia acaba reduciéndolas a carbonilla\npor accidente."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Un Pokémon cuyo cuerpo está siempre envuelto\nen llamas. Es temido porque se lo considera un\ncausante potencial de incendios."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Magmar",
+    "genus": "Pokémon Sputafuoco",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "È stato trovato presso il cratere di un vulcano.\nLa sua temperatura corporea si aggira sui 1200 °C."
+      },
+      {
+        "game": "xy-y",
+        "text": "È nato dallo zampillo di un vulcano. Ha il corpo\nricoperto da fiamme che brillano come i raggi solari."
+      },
+      {
+        "game": "oras-or",
+        "text": "In lotta, Magmar sputa fiamme roventi da tutto il corpo per\nintimidire l’avversario. La sua furia irruente provoca ondate\ndi calore che bruciano tutta la vegetazione attorno a lui."
+      },
+      {
+        "game": "oras-as",
+        "text": "In lotta, Magmar sputa fiamme roventi da tutto il corpo per\nintimidire l’avversario. La sua furia irruente provoca ondate\ndi calore che bruciano tutta la vegetazione attorno a lui."
+      },
+      {
+        "game": "sm-s",
+        "text": "Quando è stanco, si tuffa in un vulcano e si\nimmerge nel magma per rimettersi in forze. Il suo\ncorpo ardente ha una temperatura di 1.200 °C."
+      },
+      {
+        "game": "sm-m",
+        "text": "Quando si arrabbia, sprigiona fiamme roventi\nda tutto il corpo. Non si placa finché il nemico\nnon è carbonizzato."
+      },
+      {
+        "game": "usum-us",
+        "text": "Tutto il suo corpo arde e persino il suo respiro\nè rovente. Quando starnutisce sputa fiamme\ndalla bocca."
+      },
+      {
+        "game": "usum-um",
+        "text": "Si trova molto a suo agio nei luoghi caldi.\nSi dice che i Magmar che vivono ad Alola\nsiano più robusti di quelli delle altre regioni."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "È nato nel cratere di un vulcano.\nIl suo corpo interamente coperto\ndi fiamme sembra una palla di fuoco."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "È nato nel cratere di un vulcano.\nIl suo corpo interamente coperto\ndi fiamme sembra una palla di fuoco."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Abbatte le sue prede con le fiamme, ma finisce\nper carbonizzarle accidentalmente, con suo\ngrande rammarico."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Il suo corpo è perennemente in fiamme.\nViene considerato una delle cause degli incendi,\ne per questo è temuto."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Magmar",
+    "genus": "Spitfire Pokémon",
+    "flavorText": [
+      {
+        "game": "rb-r",
+        "text": "Its body always\nburns with an\norange glow that\fenables it to\nhide perfectly\namong flames."
+      },
+      {
+        "game": "rb-b",
+        "text": "Its body always\nburns with an\norange glow that\fenables it to\nhide perfectly\namong flames."
+      },
+      {
+        "game": "y",
+        "text": "Born in an active\nvolcano. Its body\nis always cloaked\fin flames, so it\nlooks like a big\nball of fire."
+      },
+      {
+        "game": "gs-g",
+        "text": "It dislikes cold\nplaces, so it\nblows scorching\fflames to make the\nenvironment suit­\nable for itself."
+      },
+      {
+        "game": "gs-s",
+        "text": "The fiery surface\nof its body gives\noff a wavering,\frippling glare\nthat is similar to\nthe sun."
+      },
+      {
+        "game": "c",
+        "text": "It moves more\nfrequently in hot\nareas. It can heal\fitself by dipping\nits wound into\nlava."
+      },
+      {
+        "game": "rs-r",
+        "text": "In battle, MAGMAR blows out intensely\nhot flames from all over its body to\nintimidate its opponent.\fThis POKéMON’s fiery bursts create\nheat waves that ignite grass and trees\nin its surroundings."
+      },
+      {
+        "game": "rs-s",
+        "text": "In battle, MAGMAR blows out intensely\nhot flames from all over its body to\nintimidate its opponent.\fThis POKéMON’s fiery bursts create\nheat waves that ignite grass and trees\nin its surroundings."
+      },
+      {
+        "game": "e",
+        "text": "In battle, it blows out intense flames from\nall over its body to intimidate its foe.\nThese fiery bursts create heat waves that\nignite grass and trees in the area."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "Found near the mouth of a volcano.\nThis fire-breather’s body temperature is\nnearly 2,200 degrees Fahrenheit."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "Its body always burns with an orange glow\nthat enables it to hide perfectly amidst\nflames."
+      },
+      {
+        "game": "dp-d",
+        "text": "Born in the spout of a volcano,\nits body is covered by flames\nthat shimmer like the sun."
+      },
+      {
+        "game": "dp-p",
+        "text": "Born in the spout of a volcano,\nits body is covered by flames\nthat shimmer like the sun."
+      },
+      {
+        "game": "pt",
+        "text": "When it breathes deeply, heat\nwaves form around its body, making\nit hard to see clearly."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "It dislikes cold places, so it blows\nscorching flames to make the\nenvironment suitable for itself."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "The fiery surface of its body gives\noff a wavering, rippling glare\nthat is similar to the sun."
+      },
+      {
+        "game": "bw-b",
+        "text": "When it breathes deeply, heat\nwaves form around its body, making\nit hard to see clearly."
+      },
+      {
+        "game": "bw-w",
+        "text": "When it breathes deeply, heat\nwaves form around its body, making\nit hard to see clearly."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "The scorching fire exhaled by Magmar\nforms heat waves around its body, making\nit hard to see the Pokémon clearly."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "The scorching fire exhaled by Magmar\nforms heat waves around its body, making\nit hard to see the Pokémon clearly."
+      },
+      {
+        "game": "xy-x",
+        "text": "Found near the mouth of a volcano.\nThis fire-breather’s body temperature is\nnearly 2,200 degrees Fahrenheit."
+      },
+      {
+        "game": "xy-y",
+        "text": "Born in the spout of a volcano, its body is covered\nby flames that shimmer like the sun."
+      },
+      {
+        "game": "oras-or",
+        "text": "In battle, Magmar blows out intensely hot flames from all\nover its body to intimidate its opponent. This Pokémon’s\nfiery bursts create heat waves that ignite grass and trees\nin its surroundings."
+      },
+      {
+        "game": "oras-as",
+        "text": "In battle, Magmar blows out intensely hot flames from\nall over its body to intimidate its opponent. This Pokémon’s\nfiery bursts create heat waves that ignite grass and trees in\nits surroundings."
+      },
+      {
+        "game": "sm-s",
+        "text": "When it’s tired, it leaps into the mouth of a\nvolcano and soaks its body in magma to ease its\nweariness. Its body burns at 2,192 degrees F."
+      },
+      {
+        "game": "sm-m",
+        "text": "When angered, it spouts brilliant fire from all\nover its body. It doesn’t calm down until its\nopponent has burned to ash."
+      },
+      {
+        "game": "usum-us",
+        "text": "Its entire body is burning. When it breathes,\nthe temperature rises. When it sneezes, flames\nshoot out!"
+      },
+      {
+        "game": "usum-um",
+        "text": "The hotter the place, the better they feel.\nMagmar in Alola are said to be hardier than\nthose in other areas."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Born in an active volcano. Its body is\nalways cloaked in flames, so it looks like\na big ball of fire."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Born in an active volcano. Its body is\nalways cloaked in flames, so it looks like\na big ball of fire."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Magmar dispatches its prey with fire. But it\nregrets this habit once it realizes that it has\nburned its intended prey to a charred crisp."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "These Pokémon’s bodies are constantly burning.\nMagmar are feared as one of the causes\nbehind fires."
+      },
+      {
+        "game": "la",
+        "text": "Legend has it that this Pokémon was born from the crater of a\nvolcano. When wounded, it bathes in lava to heal its body, much\nas one would soak in a hot spring."
+      }
+    ]
+  },
+  "chs": {
+    "name": "鸭嘴火兽",
+    "genus": "吐火宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "感到疲劳时就跳入火山口，\n浸泡在熔岩中让身体解乏。\n全身以１２００度燃烧着。"
+      },
+      {
+        "game": "sm-m",
+        "text": "生气的时候会从全身喷出\n灼热的火焰，不把对手烧成\n灰烬就无法平息怒火。"
+      },
+      {
+        "game": "usum-us",
+        "text": "全身都在燃烧，\n光是呼出的气息就带着高温，\n打喷嚏时会同时喷出火焰。"
+      },
+      {
+        "game": "usum-um",
+        "text": "越热的地方，它的身体就会越好。\n据说比起其他地方来，\n阿罗拉的鸭嘴火兽长得更壮实。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "出生在火山口。因为它的\n全身都在燃烧，所以人们\n难以分辨它和火球的区别。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "出生在火山口。因为它的\n全身都在燃烧，所以人们\n难以分辨它和火球的区别。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "会用火焰终结猎物的性命。不过\n经常掌握不好火候，一不小心就\n把猎物烧得焦黑，让自己后悔莫及。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "全身时刻都在燃烧。\n大家认为它是引发火灾的\n原因之一，非常惧怕它。"
+      }
+    ]
+  }
+}

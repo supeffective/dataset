@@ -1,0 +1,133 @@
+{
+  "jap": {
+    "name": "デスバーン",
+    "genus": "おんねんポケモン",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "つよい　のろいを　こめて　かかれた\nこだいの　えが　デスマスの\nたましいを　とりこみ　うごきだした。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "かげの　ような　からだに　ふれては\nいけない。　えに　きざまれた\nおそろしい　きおくを　みせられるぞ。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Deathbarn",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "데스판",
+    "genus": "원념포켓몬",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "강한 저주를 담아 그린\n고대의 그림이 데스마스의 영혼을\n흡수해서 움직이기 시작했다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "그림자 같은 몸을 만지면 안 된다.\n그림에 새겨진 무서운 기억을\n보게 되기 때문이다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "死神板",
+    "genus": "怨念寶可夢",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "被注入了強烈詛咒的古代繪畫\n在吸進哭哭面具的靈魂後\n就開始動起來了。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "絕對不能觸摸牠影子般的\n身體，否則牠會讓你看到\n印刻在牠畫中的恐怖記憶。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Tutétékri",
+    "genus": "Pokémon Rancune",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Les motifs antiques qui ont été gravés\nen y incorporant une puissante malédiction\nont aspiré l’âme de Tutafeh avant de prendre vie."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Quiconque touchera son corps semblable\nà une ombre devra endurer la vision des souvenirs\neffroyables gravés dans ses motifs."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Oghnatoll",
+    "genus": "Gram-Pokémon",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Eine antike Malerei, die mit einem mächtigen\nFluch versehen wurde, nahm die Seele eines\nMakabaja auf und erwachte zum Leben."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Man sollte seinen schattenhaften Körper nicht\nberühren, sonst zeigt es einem die schauerlichen\nErinnerungen, die in sein Bild eingraviert wurden."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Runerigus",
+    "genus": "Pokémon Resquemor",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Una poderosa maldición pesa sobre esta antigua\nimagen grabada, que ha cobrado vida tras\nadueñarse del alma de Yamask."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Su cuerpo, similar a una sombra, no debe tocarse\nbajo ningún concepto o se visualizarán los\nhorribles recuerdos impregnados en la imagen."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Runerigus",
+    "genus": "Pokémon Rancore",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Un antico disegno afflitto da una potente\nmaledizione ha preso vita, imprigionando\nl’anima di Yamask."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Non bisogna toccare il suo corpo simile a\nun’ombra, o si vedranno i propri ricordi più\nterribili imprigionati nel suo motivo."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Runerigus",
+    "genus": "Grudge Pokémon",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "A powerful curse was woven into an ancient\npainting. After absorbing the spirit of a Yamask,\nthe painting began to move."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Never touch its shadowlike body, or you’ll be\nshown the horrific memories behind the picture\ncarved into it."
+      }
+    ]
+  },
+  "chs": {
+    "name": "迭失板",
+    "genus": "怨念宝可梦",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "被注入了强烈诅咒的古代绘画\n在吸进哭哭面具的灵魂后\n就开始动起来了。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "绝对不能触摸它影子般的\n身体，否则它会让你看到\n印刻在它画中的恐怖记忆。"
+      }
+    ]
+  }
+}

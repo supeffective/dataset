@@ -1,0 +1,133 @@
+{
+  "jap": {
+    "name": "スナヘビ",
+    "genus": "すなへびポケモン",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "あなを　ほりながら　たべた　すなを\nくびの　ふくろに　ためている。\n８キロもの　すなが　はいるのだ。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "はなの　あなから　すなを　ふんしゃ。\nてきの　めを　くらました　すきに\nちちゅうに　もぐって　みを　かくす。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Sunahebi",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "모래뱀",
+    "genus": "모래뱀포켓몬",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "굴을 파면서 먹은 모래를\n목에 있는 주머니에 저장하는데\n8kg이나 되는 모래가 들어간다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "콧구멍으로 모래를 분사한다.\n적의 눈을 속이고 그 틈에\n땅속으로 숨어들어 몸을 숨긴다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "沙包蛇",
+    "genus": "沙蛇寶可夢",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "一邊挖洞一邊把吃掉的\n沙子儲存在頸部的囊裡。\n囊裡面能裝進８公斤的沙子。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "會從鼻孔噴射出沙子，\n趁敵人看不清的時候\n躲進地底下藏身。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Dunaja",
+    "genus": "Pokémon Serpensable",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Il amasse le sable qu’il avale en creusant\ndans la poche de son cou. Elle peut en contenir\njusqu’à huit kilos."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "En expulsant du sable par les narines, il aveugle\nson adversaire et en profite pour se cacher\nsous terre."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Salanga",
+    "genus": "Sandschlangen-Pokémon",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Den Sand, den es beim Graben von Löchern\nverzehrt, speichert es in einem Beutel in seinem\nHals. Dieser kann bis zu 8 kg Sand aufnehmen."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Aus seinen Nasenlöchern verschießt es Sand.\nSobald der Feind dadurch nichts mehr sieht,\nversteckt es sich flugs unter der Erde."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Silicobra",
+    "genus": "Pokémon Serp. Arena",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Almacena la arena que ingiere al perforar hoyos\nen la saca del cuello, cuya capacidad llega a\nalcanzar incluso los 8 kg."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Expulsa arena por los orificios nasales. Una vez\nque aturde al enemigo, aprovecha la ocasión\npara ocultarse bajo tierra."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Silicobra",
+    "genus": "Pokémon Sabbiaserpe",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Conserva nella sacca del collo la sabbia che\ningoia scavando buche. Può accumularne ben\n8 kg."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Espelle sabbia dalle narici accecando il nemico\nper distrarlo e ne approfitta per nascondersi\nsottoterra."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Silicobra",
+    "genus": "Sand Snake Pokémon",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "As it digs, it swallows sand and stores it in its\nneck pouch. The pouch can hold more than\n17 pounds of sand."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "It spews sand from its nostrils. While the enemy\nis blinded, it burrows into the ground to hide."
+      }
+    ]
+  },
+  "chs": {
+    "name": "沙包蛇",
+    "genus": "沙蛇宝可梦",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "一边挖洞一边把吃掉的\n沙子储存在颈部的囊里。\n囊里面能装进８公斤的沙子。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "会从鼻孔喷射出沙子，\n趁敌人看不清的时候\n躲进地底下藏身。"
+      }
+    ]
+  }
+}

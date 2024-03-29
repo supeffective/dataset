@@ -1,0 +1,269 @@
+{
+  "jap": {
+    "name": "オタマロ",
+    "genus": "おたまポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "ほほの　しんどうまくを　ふるわせ\nひとには　きこえない　おんぱを　だし\nなかまたちに　きけんを　つたえる。"
+      },
+      {
+        "game": "xy-y",
+        "text": "ほほを　しんどうさせて　ひとには\nきこえない　おんぱを　だす。\nおんぱの　リズムで　かいわする。"
+      },
+      {
+        "game": "oras-or",
+        "text": "ほほの　しんどうまくを　ふるわせ\nひとには　きこえない　おんぱを　だし\nなかまたちに　きけんを　つたえる。"
+      },
+      {
+        "game": "oras-as",
+        "text": "ほほを　しんどうさせて　ひとには\nきこえない　おんぱを　だす。\nおんぱの　リズムで　かいわする。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "きれいな　はもんが　ひろがる\nみずの　したでは　オタマロが\nかんだかい　こえで　ないている。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "おんぱで　なかまと　れんらくする。\nけいかいの　なきごえは　ひとや\nほかの　ポケモンには　きこえない。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Otamaro",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "동챙이",
+    "genus": "올챙이포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "볼의 진동막을 떨어\n사람에게는 들리지 않는 음파를 내어\n동료에게 위험을 전달한다."
+      },
+      {
+        "game": "xy-y",
+        "text": "볼을 진동시켜서 사람에게는\n들리지 않는 음파를 낸다.\n음파의 리듬으로 대화를 나눈다."
+      },
+      {
+        "game": "oras-or",
+        "text": "볼의 진동막을 떨어\n사람에게는 들리지 않는 음파를 내어\n동료에게 위험을 전달한다."
+      },
+      {
+        "game": "oras-as",
+        "text": "볼을 진동시켜서 사람에게는\n들리지 않는 음파를 낸다.\n음파의 리듬으로 대화를 나눈다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "아름다운 파문이 펼쳐지는\n물 아래에는 동챙이가\n날카로운 소리로 울고 있다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "음파로 동료와 연락한다.\n경계하는 울음소리는 사람이나\n다른 포켓몬에게 들리지 않는다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "圓蝌蚪",
+    "genus": "蝌蚪寶可夢",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "如果水面上擴散開美麗的\n波紋，就代表有圓蝌蚪正在\n水面下用高昂的聲音鳴叫。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "透過音波來聯繫夥伴。\n人類和其他寶可夢都\n聽不見牠發出的警告聲。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Tritonde",
+    "genus": "Pokémon Têtard",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Il prévient ses camarades du danger en\nfaisant vibrer ses joues pour générer\nun signal d’alarme très aigu."
+      },
+      {
+        "game": "bw-w",
+        "text": "Il fait vibrer ses joues pour émettre\ndes sons imperceptibles pour l’homme.\nIl communique grâce à leur rythme."
+      },
+      {
+        "game": "xy-x",
+        "text": "Il fait vibrer ses joues pour émettre des sons\ninaudibles pour les humains et alerter ses semblables\ndes dangers."
+      },
+      {
+        "game": "xy-y",
+        "text": "Il fait vibrer ses joues pour émettre des sons\nimperceptibles pour l’homme. Il communique grâce\nà leur rythme."
+      },
+      {
+        "game": "oras-or",
+        "text": "Il fait vibrer ses joues pour émettre des sons inaudibles\npour les humains et alerter ses semblables des dangers."
+      },
+      {
+        "game": "oras-as",
+        "text": "Il fait vibrer ses joues pour émettre des sons imperceptibles\npour l’homme. Il communique grâce à leur rythme."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Lorsqu’un Tritonde pousse des cris aigus\nsous l’eau, des ondes ravissantes se propagent\nà la surface."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Il communique avec ses compagnons en émettant\ndes ondes. Son cri d’alerte est inaudible\npour les humains et les autres Pokémon."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Schallquap",
+    "genus": "Kaulquappen-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Erzeugt mit seinen Wangen für Menschen\nunhörbare Schallwellen, um Artgenossen\nvor Gefahr zu warnen."
+      },
+      {
+        "game": "xy-y",
+        "text": "Erzeugt mit seinen Wangen für Menschen unhörbare\nSchallwellen. Es verständigt sich über den Rhythmus\ndieser Wellen."
+      },
+      {
+        "game": "oras-or",
+        "text": "Erzeugt mit seinen Wangen für Menschen unhörbare\nSchallwellen, um Artgenossen vor Gefahr zu warnen."
+      },
+      {
+        "game": "oras-as",
+        "text": "Erzeugt mit seinen Wangen für Menschen unhörbare\nSchallwellen. Es verständigt sich über den Rhythmus\ndieser Wellen."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Man sagt, wenn auf Wasseroberflächen schöne\nKräuselwellen zu sehen sind, liege das an\nSchallquap, die unter Wasser schrill rufen."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Es kommuniziert mit seinen Artgenossen über\nSchallwellen. Seine Warnrufe sind für Menschen\nund andere Pokémon nicht hörbar."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Tympole",
+    "genus": "Pokémon Renacuajo",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Emite sonidos imperceptibles para los humanos con la\nvibración de sus mejillas y advierte de algún peligro a\nlos suyos."
+      },
+      {
+        "game": "xy-y",
+        "text": "Emite sonidos imperceptibles para los humanos\ncon la vibración de sus mejillas y se comunica\ncon el ritmo de los mismos."
+      },
+      {
+        "game": "oras-or",
+        "text": "Emite sonidos imperceptibles para los humanos con la\nvibración de sus mejillas y advierte de algún peligro a\nlos suyos."
+      },
+      {
+        "game": "oras-as",
+        "text": "Emite sonidos imperceptibles para los humanos con la\nvibración de sus mejillas y se comunica con el ritmo de los\nmismos."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "El agudo canto de los Tympole bajo el agua\ncrea hermosas ondas que se extienden por la\nsuperficie."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Se comunica con los suyos mediante ondas\nsonoras. Su grito de alerta es imperceptible para\nlos humanos y el resto de los Pokémon."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Tympole",
+    "genus": "Pokémon Girino",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Fa vibrare le membrane sulle guance per emettere\nonde sonore impercettibili agli umani con cui\nsegnala un pericolo."
+      },
+      {
+        "game": "xy-y",
+        "text": "Facendo vibrare le guance, emette onde sonore\nche gli uomini non sentono. Conversa al ritmo di\nqueste onde."
+      },
+      {
+        "game": "oras-or",
+        "text": "Fa vibrare le membrane sulle guance per emettere onde\nsonore impercettibili agli umani con cui segnala un pericolo."
+      },
+      {
+        "game": "oras-as",
+        "text": "Facendo vibrare le guance, emette onde sonore che gli uomini\nnon sentono. Conversa al ritmo di queste onde."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Tympole canta sott’acqua con la sua voce acuta\nformando delicate increspature sulla superficie."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Comunica con i suoi simili tramite onde sonore.\nIl suo grido d’allerta è impercettibile agli esseri\numani e agli altri Pokémon."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Tympole",
+    "genus": "Tadpole Pokémon",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "They warn others of danger by\nvibrating their cheeks to create\na high-pitched sound."
+      },
+      {
+        "game": "bw-w",
+        "text": "By vibrating its cheeks, it emits sound\nwaves imperceptible to humans. It uses\nthe rhythm of these sounds to talk."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "By vibrating its cheeks, it emits\nsound waves imperceptible to humans\nand warns others of danger."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "By vibrating its cheeks, it emits\nsound waves imperceptible to humans\nand warns others of danger."
+      },
+      {
+        "game": "xy-x",
+        "text": "By vibrating its cheeks, it emits sound waves\nimperceptible to humans and warns others\nof danger."
+      },
+      {
+        "game": "xy-y",
+        "text": "By vibrating its cheeks, it emits sound waves\nimperceptible to humans. It uses the rhythm of\nthese sounds to talk."
+      },
+      {
+        "game": "oras-or",
+        "text": "By vibrating its cheeks, it emits sound waves\nimperceptible to humans and warns others\nof danger."
+      },
+      {
+        "game": "oras-as",
+        "text": "By vibrating its cheeks, it emits sound waves\nimperceptible to humans. It uses the rhythm of\nthese sounds to talk."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Graceful ripples running across the water’s\nsurface are a sure sign that Tympole are singing\nin high-pitched voices below."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "It uses sound waves to communicate with\nothers of its kind. People and other Pokémon\nspecies can’t hear its cries of warning."
+      }
+    ]
+  },
+  "chs": {
+    "name": "圆蝌蚪",
+    "genus": "蝌蚪宝可梦",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "如果水面上扩散开美丽的\n波纹，就代表有圆蝌蚪正在\n水下面用高昂的声音鸣叫。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "通过音波来联系伙伴。\n人类和其他宝可梦都\n听不见它发出的警告声。"
+      }
+    ]
+  }
+}

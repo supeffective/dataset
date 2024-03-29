@@ -1,0 +1,465 @@
+{
+  "jap": {
+    "name": "ププリン",
+    "genus": "ふうせんポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "みじかい　あしで　あるくより\nやわらかい　からだを　つかって\nとびはねながら　うごきまわる。"
+      },
+      {
+        "game": "xy-y",
+        "text": "とても　やわらかい　からだ。\nいちど　ころがると　はずみまくって\nぜんぜん　とまれなくなる。"
+      },
+      {
+        "game": "oras-or",
+        "text": "せいたいが　まだ　じゅうぶんに　はったつして\nいないので　うたい　つづけると　ノドが　いたむ。\nきれいな　おがわの　みずで　うがいをするよ。"
+      },
+      {
+        "game": "oras-as",
+        "text": "マシュマロ　みたいな　さわりごこちの　からだから\nほんのり　あまい　においが　ただよってくるよ。\nにおいは　てきの　きもちを　おだやかにする。"
+      },
+      {
+        "game": "sm-s",
+        "text": "うたうのが　すきだが　まだまだ　へた。\nちゃんと　ほめてあげると　すこしずつ\nじょうずに　なっていくよ。"
+      },
+      {
+        "game": "sm-m",
+        "text": "ポンポン　はずみながら　いどう。\nたくさん　うごいて　あせを　かくと\nほんのり　あまい　たいしゅうが　する。"
+      },
+      {
+        "game": "usum-us",
+        "text": "うまくなりたくて　ずっと　うたの\nれんしゅうを　している。　ねてるときも\nゆめの　なかで　うたっているよ。"
+      },
+      {
+        "game": "usum-um",
+        "text": "ほうっておくと　ずーっと　うたの\nれんしゅうを　つづける。　のどを\nいためないように　やすませてあげて。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "うたを　うたうことが　だいすき。\nマシュマロのような　からだからは\nほんのり　あまい　においが　するぞ。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "やわらかい　からだで　はずむように\nうごきまわる。　たいおんが　あがると\nからだは　こい　ピンクいろに　なる。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Pupurin",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "푸푸린",
+    "genus": "풍선포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "짧은 다리로 걷는 것보다는\n부드러운 몸으로\n튀어 오르며 돌아다닌다."
+      },
+      {
+        "game": "xy-y",
+        "text": "매우 부드러운 몸이다.\n한번 구르면 탄력이 붙어서\n전혀 멈출 수 없게 된다."
+      },
+      {
+        "game": "oras-or",
+        "text": "성대가 아직 충분히 발달하지\n않아 계속 노래 부르면 목이 아프다.\n깨끗한 시냇물로 양치질한다."
+      },
+      {
+        "game": "oras-as",
+        "text": "마시멜로 같은 촉감의 몸에서\n은은하게 달콤한 냄새가 풍겨온다.\n냄새는 적의 기분을 차분하게 만든다."
+      },
+      {
+        "game": "sm-s",
+        "text": "노래 부르기를 좋아하지만\n아직 서툴다. 제대로 칭찬해주면\n조금씩 잘하게 된다."
+      },
+      {
+        "game": "sm-m",
+        "text": "통통 튀면서 이동한다.\n많이 움직여서 땀이 나면\n은은하게 달콤한 체취가 난다."
+      },
+      {
+        "game": "usum-us",
+        "text": "노래를 잘하고 싶어서\n계속 연습을 한다. 잘 때도\n꿈속에서 노래를 부른다."
+      },
+      {
+        "game": "usum-um",
+        "text": "내버려 두면 계속해서\n노래 연습을 반복한다.\n목이 상하지 않도록 쉬게 해주자."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "노래 부르기를 굉장히 좋아한다.\n마시멜로 같은 몸에서는\n은은하게 달콤한 냄새가 난다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "부드러운 몸으로 통통 튀며\n움직인다. 체온이 오르면\n몸은 짙은 핑크색이 된다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "寶寶丁",
+    "genus": "氣球寶可夢",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "很喜歡唱歌，但唱得不怎麼樣。\n如果好好地稱讚牠，\n就會越唱越好哦。"
+      },
+      {
+        "game": "sm-m",
+        "text": "蹦蹦蹦地彈跳著移動。\n因大量運動而流汗時，\n會發出微甜的體味。"
+      },
+      {
+        "game": "usum-us",
+        "text": "為了讓歌喉變好，\n牠一直努力練習唱歌，\n就連在睡夢中也不斷歌唱。"
+      },
+      {
+        "game": "usum-um",
+        "text": "放著不管的話，牠就會一直\n練習唱歌。要記得讓牠休息，\n不然是會弄壞嗓子的。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "很喜歡唱歌。\n像是棉花糖的身體會\n散發出微甜的氣味喔。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "會用柔軟的身體一彈一跳地\n四處移動。體溫上升時，\n身體就會變成深粉紅色。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Toudoudou",
+    "genus": "Pokémon Bouboule",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Son corps est doux et élastique.\nQuand il commence à rebondir,\non ne peut plus l’arrêter."
+      },
+      {
+        "game": "bw-w",
+        "text": "Son corps est doux et élastique.\nQuand il commence à rebondir,\non ne peut plus l’arrêter."
+      },
+      {
+        "game": "xy-x",
+        "text": "Plutôt que de se déplacer avec ses petites pattes,\nil rebondit avec son corps doux et moelleux."
+      },
+      {
+        "game": "xy-y",
+        "text": "Son corps est très doux. Quand il commence à\nrebondir, il est impossible de l’arrêter."
+      },
+      {
+        "game": "oras-or",
+        "text": "Les cordes vocales de Toudoudou ne sont pas assez\ndéveloppées. S’il devait chanter trop longtemps, il se ferait\nmal à la gorge. Ce Pokémon se gargarise souvent avec\nde l’eau fraîche puisée dans un ruisseau clair."
+      },
+      {
+        "game": "oras-as",
+        "text": "Toudoudou a un corps mou et pelucheux, semblable à\nde la guimauve. Un parfum doux et sucré s’échappe de son\ncorps, ce qui lui permet d’apaiser et de calmer ses ennemis."
+      },
+      {
+        "game": "sm-s",
+        "text": "Il adore chanter, mais il n’est pas encore très\ndoué. Il s’améliore progressivement si on le\ncomplimente suffisamment."
+      },
+      {
+        "game": "sm-m",
+        "text": "Il se déplace en rebondissant comme une balle.\nQuand il a beaucoup bougé et qu’il sue, son\ncorps dégage une légère odeur sucrée."
+      },
+      {
+        "game": "usum-us",
+        "text": "Il s’entraîne dur pour maîtriser le chant.\nMême quand il dort, il continue de faire\ndes gammes dans ses rêves."
+      },
+      {
+        "game": "usum-um",
+        "text": "Si on le laissait faire, il passerait son temps\nà chanter. Il vaut donc mieux l’en empêcher\npour préserver sa petite gorge."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Il adore chanter. Son corps semblable à de\nla guimauve dégage une légère odeur sucrée."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Il se déplace en faisant rebondir son corps\ntout mou. Lorsque sa température corporelle\naugmente, il devient rose foncé."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Fluffeluff",
+    "genus": "Ballon-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Anstatt mit seinen kurzen Beinen zu laufen, hüpft es\nmit seinem weichen und kuscheligen Körper."
+      },
+      {
+        "game": "xy-y",
+        "text": "Sein Körper ist sehr weich. Kommt es ins Rollen,\nhüpft es herum und man kann es nicht aufhalten."
+      },
+      {
+        "game": "oras-or",
+        "text": "Fluffeluffs Stimmbänder sind noch nicht voll entwickelt. Wenn\nes zu viel singt, schmerzt ihm die Kehle. Dieses Pokémon\ngurgelt mit Süßwasser aus einem sauberen Fluss."
+      },
+      {
+        "game": "oras-as",
+        "text": "Fluffeluff hat einen weichen Körper, der sich anfühlt wie\nein Marshmallow. Es verströmt einen süßlichen Duft,\nder die Emotionen seiner Gegner beruhigt."
+      },
+      {
+        "game": "sm-s",
+        "text": "Es liebt das Singen, ist aber noch nicht sehr gut\ndarin. Lobt man es regelmäßig, verbessern sich\nseine Gesangskünste jedoch nach und nach."
+      },
+      {
+        "game": "sm-m",
+        "text": "Es bewegt sich hüpfend umher. Gerät es\ndabei ins Schwitzen, sondert es einen\nsüßlichen Duft ab."
+      },
+      {
+        "game": "usum-us",
+        "text": "Um seine Gesangskünste zu verbessern, übt es\npausenlos. Selbst wenn es schon schläft, singt\nes in seinen Träumen weiter."
+      },
+      {
+        "game": "usum-um",
+        "text": "Wenn man es lässt, widmet es sich unentwegt\ndem Gesang. Zur Schonung der Stimmbänder\nwerden gezielte Pausen empfohlen."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Dieses Pokémon singt liebend gern. Von seinem\nKörper, der an ein Marshmallow erinnert, geht\nein leicht süßlicher Duft aus."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Dank seines weichen Körpers bewegt es sich stets\nhüpfend fort. Wenn Fluffeluffs Temperatur steigt,\nändert sich seine Farbe zu einem intensiven Pink."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Igglybuff",
+    "genus": "Pokémon Globo",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Para caminar, en lugar de usar los pies que tiene, opta\npor dar botes con su cuerpo redondo y blandito."
+      },
+      {
+        "game": "xy-y",
+        "text": "Su cuerpo es muy blando. Si se pone a rodar,\nrebotará contra todo y será imposible de parar."
+      },
+      {
+        "game": "oras-or",
+        "text": "Las cuerdas vocales de Igglybuff no están suficientemente\ndesarrolladas. Si tuviera que cantar mucho, se haría daño en\nla garganta. Este Pokémon suele hacer gárgaras con agua\npura de manantial."
+      },
+      {
+        "game": "oras-as",
+        "text": "Igglybuff es suave y tierno, parece un merengue. Emana un\naroma dulce y agradable que le sirve para calmar los ánimos\nde sus oponentes en combate."
+      },
+      {
+        "game": "sm-s",
+        "text": "Le apasiona cantar, pero no se le da muy bien.\nCuantos más elogios reciba, más mejorarán sus\ndotes de cantante."
+      },
+      {
+        "game": "sm-m",
+        "text": "Se desplaza dando botes con su cuerpo.\nDespués de hacer mucho ejercicio, empieza a\nsudar y desprende un ligero aroma dulce."
+      },
+      {
+        "game": "usum-us",
+        "text": "Practica constantemente para mejorar su canto,\nllegando incluso a cantar en sueños."
+      },
+      {
+        "game": "usum-um",
+        "text": "Si le dejan, se pasa el día entero practicando su\ncanto, así que conviene animarlo a descansar de\nvez en cuando para que no se destroce la voz."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Le apasiona cantar. Su cuerpo suave y esponjoso\ndesprende un aroma ligeramente dulce."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Se desplaza dando botes con su cuerpo mullido.\nCuando aumenta su temperatura corporal, se va\nponiendo de un color rosa cada vez más intenso."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Igglybuff",
+    "genus": "Pokémon Pallone",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Anziché camminare sulle sue corte zampe, preferisce\nrimbalzare sul suo corpo soffice e delicato."
+      },
+      {
+        "game": "xy-y",
+        "text": "Il suo corpo è morbidissimo. Se inizia a rotolare,\nrimbalza così forte che è impossibile fermarlo."
+      },
+      {
+        "game": "oras-or",
+        "text": "Le corde vocali di Igglybuff non sono sufficientemente\nsviluppate. Se eccede nel canto, gli viene il mal di gola.\nÈ solito fare i gargarismi con l’acqua corrente dei torrenti puri."
+      },
+      {
+        "game": "oras-as",
+        "text": "Igglybuff, così morbido e soffice, sembra fatto di gommapiuma\nrosa. Il suo corpo emana un lieve aroma che placa le emozioni\ne l’aggressività del nemico."
+      },
+      {
+        "game": "sm-s",
+        "text": "Gli piace molto cantare, ma è ancora inesperto.\nSe incoraggiato nel modo giusto, migliora\na poco a poco."
+      },
+      {
+        "game": "sm-m",
+        "text": "Si muove rimbalzando e quando suda molto\nemana un lieve aroma dolciastro."
+      },
+      {
+        "game": "usum-us",
+        "text": "Si allena continuamente nel canto per migliorare.\nAnche mentre dorme, continua a cantare\nin sogno."
+      },
+      {
+        "game": "usum-um",
+        "text": "Se lasciato fare, si allena nel canto senza sosta.\nOgni tanto è meglio fargli fare una pausa per\nevitare che si faccia male alla gola."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Adora cantare. Il suo corpo simile al\nmarshmallow emana una lieve e dolce fragranza."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Si sposta facendo rimbalzare il suo corpo\nmorbido. Quando la sua temperatura corporea\nsi alza, si colora di un rosa intenso."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Igglybuff",
+    "genus": "Balloon Pokémon",
+    "flavorText": [
+      {
+        "game": "gs-g",
+        "text": "It has a very soft\nbody. If it starts\nto roll, it will\fbounce all over\nand be impossible\nto stop."
+      },
+      {
+        "game": "gs-s",
+        "text": "Its extremely\nflexible and elas­\ntic body makes it\fbounce continuous­\nly--anytime, any­\nwhere."
+      },
+      {
+        "game": "c",
+        "text": "Instead of walking\nwith its short\nlegs, it moves\faround by bouncing\non its soft,\ntender body."
+      },
+      {
+        "game": "rs-r",
+        "text": "IGGLYBUFF’s vocal chords are not\nsufficiently developed. It would hurt\nits throat if it were to sing too much.\fThis POKéMON gargles with freshwater\nfrom a clean stream."
+      },
+      {
+        "game": "rs-s",
+        "text": "IGGLYBUFF has a soft and plushy body\nthat feels very much like a marshmallow.\nFrom this body wafts a gently sweet\ffragrance that soothes and calms the\nemotions of its foes."
+      },
+      {
+        "game": "e",
+        "text": "Its soft and pliable body is very bouncy.\nWhen it sings continuously with all its\nmight, its body steadily turns a deepening\npink color."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "Its extremely flexible and elastic body\nmakes it bounce continuously--anytime,\nanywhere."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "It has a very soft body. If it starts to\nroll, it will bounce all over and be\nimpossible to stop."
+      },
+      {
+        "game": "dp-d",
+        "text": "It has a soft and bouncy body.\nOnce it starts bouncing, it\nbecomes impossible to stop."
+      },
+      {
+        "game": "dp-p",
+        "text": "It has a soft and bouncy body.\nOnce it starts bouncing, it\nbecomes impossible to stop."
+      },
+      {
+        "game": "pt",
+        "text": "It has a soft and bouncy body.\nOnce it starts bouncing, it\nbecomes impossible to stop."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "It has a very soft body. If it\nstarts to roll, it will bounce all\nover and be impossible to stop."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "Its extremely flexible and\nelastic body makes it bounce\ncontinuously--anytime, anywhere."
+      },
+      {
+        "game": "bw-b",
+        "text": "It has a soft and bouncy body.\nOnce it starts bouncing, it\nbecomes impossible to stop."
+      },
+      {
+        "game": "bw-w",
+        "text": "It has a soft and bouncy body.\nOnce it starts bouncing, it\nbecomes impossible to stop."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "Its body has a faintly sweet scent\nand is bouncy and soft. If it bounces\neven once, it cannot stop."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "Its body has a faintly sweet scent\nand is bouncy and soft. If it bounces\neven once, it cannot stop."
+      },
+      {
+        "game": "xy-x",
+        "text": "Instead of walking with its short legs, it moves\naround by bouncing on its soft, tender body."
+      },
+      {
+        "game": "xy-y",
+        "text": "It has a very soft body. If it starts to roll, it will\nbounce all over and be impossible to stop."
+      },
+      {
+        "game": "oras-or",
+        "text": "Igglybuff’s vocal cords are not sufficiently developed. It would\nhurt its throat if it were to sing too much. This Pokémon\ngargles with freshwater from a clean stream."
+      },
+      {
+        "game": "oras-as",
+        "text": "Igglybuff has a soft and plushy body that feels very much like\na marshmallow. From this body wafts a gently sweet fragrance\nthat soothes and calms the emotions of its foes."
+      },
+      {
+        "game": "sm-s",
+        "text": "It likes to sing but is not yet good at it.\nWith praise and encouragement, it will get\nbetter little by little."
+      },
+      {
+        "game": "sm-m",
+        "text": "It moves by bouncing along. As it moves a lot,\nit sweats, and its body gives off a sweet aroma."
+      },
+      {
+        "game": "usum-us",
+        "text": "It’s always practicing its singing because it\nwants to improve. Even when it’s asleep,\nit keeps singing in its dreams!"
+      },
+      {
+        "game": "usum-um",
+        "text": "Left to its own devices, it will constantly\npractice singing. You should make it take a\nbreak so it doesn’t hurt its throat."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Igglybuff loves to sing. Its marshmallow-like body\ngives off a faint sweet smell."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Taking advantage of the softness of its body,\nIgglybuff moves as if bouncing. Its body turns a\ndeep pink when its temperature rises."
+      }
+    ]
+  },
+  "chs": {
+    "name": "宝宝丁",
+    "genus": "气球宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "喜欢唱歌，但还不怎么在行。\n如果能给予恰当的表扬，\n就会渐渐有所提高哦。"
+      },
+      {
+        "game": "sm-m",
+        "text": "嘭嘭嘭地弹跳着移动。\n动得多了出汗的话，\n会发出微甜的体味。"
+      },
+      {
+        "game": "usum-us",
+        "text": "为了能动听地歌唱，它会一直练习唱歌。\n就算是睡着了，也会在梦中不停地歌唱哦。"
+      },
+      {
+        "game": "usum-um",
+        "text": "如果不去管它，它就会一直练习唱歌。\n所以还是让它休息会，别伤到了嗓子。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "最喜欢唱歌。\n像棉花糖一样的身体\n会散发出微甜的香气。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "用柔软的身体弹跳著移动。\n当它的体温上升时，\n身体会变成深粉红色。"
+      }
+    ]
+  }
+}

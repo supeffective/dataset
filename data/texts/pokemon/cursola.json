@@ -1,0 +1,133 @@
+{
+  "jap": {
+    "name": "サニゴーン",
+    "genus": "さんごポケモン",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "れいりょくが　たかまり　カラから\nときはなたれた。　れいたいで\nかくの　たましいを　まもっている。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "たましいを　おおう　れいたいの\nからだには　ちゅうい。　ふれると\nいしのように　うごけなく　なるぞ。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Sunigoon",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "산호르곤",
+    "genus": "산호포켓몬",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "영력이 높아져서 껍질에서\n해방되었다. 영체로\n핵이 되는 영혼을 지킨다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "혼을 감싸는 영체의 몸은\n주의가 필요하다. 만지면\n돌처럼 움직일 수 없게 된다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "魔靈珊瑚",
+    "genus": "珊瑚寶可夢",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "靈力增強之後從殼裡\n被解放出來。用靈體\n保護著內核中的靈魂。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "一定要小心牠那包覆著\n靈魂的靈體。如果觸摸到，\n就會像石頭一樣動彈不得。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Corayôme",
+    "genus": "Pokémon Corail",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Son énergie spectrale accrue s’est répandue\nhors de sa coquille. Il protège l’âme de son noyau\navec son corps spirituel."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Ceux qui ont le malheur de toucher le corps\nspirituel qui protège son noyau se retrouveront\nimmobilisés, comme changés en pierre."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Gorgasonn",
+    "genus": "Korallen-Pokémon",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "In ihm wuchs eine mysteriöse Kraft und so löste\nes sich von seinem Panzer los. Sein geisterhaftes\nEktoplasma schützt die Seele im Kern."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Vor dem geisterhaften Ektoplasma, das seine\nSeele umhüllt, ist Vorsicht geboten. Berührt man\nes, erstarrt man wie zu Stein."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Cursola",
+    "genus": "Pokémon Coral",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Su energía espiritual ha aumentado hasta hacerlo\ndesprenderse de su base caliza. Protege el alma\ndel núcleo con su cuerpo espectral."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Conviene tener cuidado con el cuerpo espectral\nque recubre su alma, pues quien lo toque podría\nacabar inerte como una piedra."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Cursola",
+    "genus": "Pokémon Corallo",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Un accumulo di energia misteriosa lo ha separato\ndal suo guscio. Protegge l’anima contenuta nel\nsuo nucleo in una sorta di ectoplasma."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Il corpo di ectoplasma che avvolge la sua anima\nè pericolosissimo: chi lo tocca si immobilizza\ncome se fosse stato tramutato in pietra."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Cursola",
+    "genus": "Coral Pokémon",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Its shell is overflowing with its heightened\notherworldly energy. The ectoplasm serves as\nprotection for this Pokémon’s core spirit."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Be cautious of the ectoplasmic body\nsurrounding its soul. You’ll become\nstiff as stone if you touch it."
+      }
+    ]
+  },
+  "chs": {
+    "name": "魔灵珊瑚",
+    "genus": "珊瑚宝可梦",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "灵力增强之后从壳里\n被解放出来。用灵体\n保护着内核中的灵魂。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "一定要小心它那包覆着\n灵魂的灵体。如果触摸到，\n就会像石头一样动弹不得。"
+      }
+    ]
+  }
+}

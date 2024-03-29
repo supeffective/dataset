@@ -1,0 +1,437 @@
+{
+  "jap": {
+    "name": "ルカリオ",
+    "genus": "はどうポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "あいての　はっする　はどうを\nキャッチすることで　かんがえや\nうごきを　よみとることが　できる。"
+      },
+      {
+        "game": "xy-y",
+        "text": "あらゆる　ものが　だす　はどうを\nよみとることで　１キロさきに　いる\nあいての　きもちも　りかいできる。"
+      },
+      {
+        "game": "oras-or",
+        "text": "あいての　はっする　はどうを\nキャッチすることで　かんがえや\nうごきを　よみとることが　できる。"
+      },
+      {
+        "game": "oras-as",
+        "text": "あらゆる　ものが　だす　はどうを\nよみとることで　１キロさきに　いる\nあいての　きもちも　りかいできる。"
+      },
+      {
+        "game": "sm-s",
+        "text": "よみとるだけ　ではなく　はどうを\nあやつる　ちからを　てに　いれた。\nたたかいにも　りよう　するぞ。"
+      },
+      {
+        "game": "sm-m",
+        "text": "１キロさきの　いきものの　しゅるいや\nきもちを　キャッチする。　はどうを\nあやつり　むれで　えものを　かる。"
+      },
+      {
+        "game": "usum-us",
+        "text": "せいしんを　しゅうちゅうして　はなつ\nはどうと　よばれる　ふしぎな　なみは\nおおいわをも　こなごなに　くだく。"
+      },
+      {
+        "game": "usum-um",
+        "text": "はどうの　なみで　あいての　きもちを\nキャッチする。　しりたくないことも\nわかるので　ストレスを　ためやすい。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "おおいわも　こなごなに　くだく\nはどうと　よばれる　ちからを\nあやつって　えものを　かる。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "ひとの　かんがえていることも\nわかるので　ただしい　こころの\nトレーナーにしか　なつかない。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Lucario",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "루카리오",
+    "genus": "파동포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "상대가 발하는 파동을\n감지하여 생각이나\n움직임을 간파할 수 있다."
+      },
+      {
+        "game": "xy-y",
+        "text": "모든 물건이 내는 파동을\n읽어내어 1km 앞에 있는\n상대의 마음도 이해할 수 있다."
+      },
+      {
+        "game": "oras-or",
+        "text": "상대가 발하는 파동을\n감지하여 생각이나\n움직임을 간파할 수 있다."
+      },
+      {
+        "game": "oras-as",
+        "text": "모든 물건이 내는 파동을\n읽어내어 1km 앞에 있는\n상대의 마음도 이해할 수 있다."
+      },
+      {
+        "game": "sm-s",
+        "text": "간파하는 것뿐만 아니라\n파동을 조종하는 힘을 얻었다.\n싸울 때도 이용한다."
+      },
+      {
+        "game": "sm-m",
+        "text": "1km 앞의 생물의 종류나\n기분을 캐치한다. 파동을\n이용해 무리로 먹이를 사냥한다."
+      },
+      {
+        "game": "usum-us",
+        "text": "정신을 집중하고 발산하는\n파동이라고 불리는 신비한 파는\n큰 바위도 산산이 부숴 버린다."
+      },
+      {
+        "game": "usum-um",
+        "text": "파동의 파장으로 상대의 기분을\n캐치한다. 알고 싶지 않은 일도\n알게 되어 스트레스가 잘 쌓인다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "큰 바위도 산산조각 내는\n파동이라 불리는 힘을\n다뤄서 먹이를 사냥한다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "사람이 생각하는 것도\n알 수 있기 때문에 정직한 마음을\n가진 트레이너만 따른다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "路卡利歐",
+    "genus": "波導寶可夢",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "不僅僅是讀取，\n還獲得了操控波導的能力。\n也會用於戰鬥。"
+      },
+      {
+        "game": "sm-m",
+        "text": "能察覺到１公里外\n生物的種類和心情。\n操縱波導以群體形式狩獵。"
+      },
+      {
+        "game": "usum-us",
+        "text": "集中精神後能放出一種\n被稱為波導的奇異波動，\n就連巨大的岩石都能粉碎。"
+      },
+      {
+        "game": "usum-um",
+        "text": "會用波導來偵測對手的心情。\n就連不想知道的事也會知道，\n所以很容易累積壓力。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "操作一種被稱為波導的力量\n來進行狩獵。這種力量就連\n巨大的岩石也能擊得粉碎。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "牠能理解人類的想法，\n因此只會去親近\n內心端正的訓練家。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Lucario",
+    "genus": "Pokémon Aura",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Un spécimen bien entraîné peut\nsentir et identifier les émotions de\nquelqu’un à plus d’un kilomètre."
+      },
+      {
+        "game": "bw-w",
+        "text": "Un spécimen bien entraîné peut\nsentir et identifier les émotions de\nquelqu’un à plus d’un kilomètre."
+      },
+      {
+        "game": "xy-x",
+        "text": "Il peut deviner les pensées et les mouvements des\nautres en analysant leur aura."
+      },
+      {
+        "game": "xy-y",
+        "text": "Il peut sentir et identifier les émotions de quelqu’un\nà plus d’un kilomètre."
+      },
+      {
+        "game": "oras-or",
+        "text": "Il peut deviner les pensées et les mouvements des autres\nen analysant leur aura."
+      },
+      {
+        "game": "oras-as",
+        "text": "Il peut sentir et identifier les émotions de quelqu’un à plus\nd’un kilomètre."
+      },
+      {
+        "game": "sm-s",
+        "text": "Ne se contentant pas de percevoir les auras,\nil peut également les modifier. Il n’hésite pas\nà s’en servir en plein combat."
+      },
+      {
+        "game": "sm-m",
+        "text": "Il peut détecter les émotions des individus\nse trouvant à 1 km, ainsi que leur espèce.\nIl chasse en meute en se servant des auras."
+      },
+      {
+        "game": "usum-us",
+        "text": "Il peut canaliser son énergie mentale pour\ndéchaîner des auras mystérieuses capables\nde réduire d’énormes rochers en miettes."
+      },
+      {
+        "game": "usum-um",
+        "text": "Grâce à ses auras, il peut détecter toutes les\némotions de son adversaire, même celles qu’il\npréférerait ignorer et qui lui causent du stress."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Il chasse ses proies en se servant d’une force\nappelée aura, dont la puissance est telle qu’elle\nlui permet de réduire un rocher en poussière."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Étant capable de lire ce que pensent les humains,\nce Pokémon ne s’attache qu’aux Dresseurs dotés\nd’un cœur pur."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Lucario",
+    "genus": "Aura-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Es nimmt die Aura seines Gegners wahr. So kann es\ndessen Gedanken und Bewegungen erkennen."
+      },
+      {
+        "game": "xy-y",
+        "text": "Kann aus 1 km Entfernung die Gefühle anderer Wesen\nerfassen, indem es die Wellen liest, die sie aussenden."
+      },
+      {
+        "game": "oras-or",
+        "text": "Es nimmt die Aura seines Gegners wahr. So kann es dessen\nGedanken und Bewegungen erkennen."
+      },
+      {
+        "game": "oras-as",
+        "text": "Kann aus 1 km Entfernung die Gefühle anderer Wesen\nerfassen, indem es die Wellen liest, die sie aussenden."
+      },
+      {
+        "game": "sm-s",
+        "text": "Es kann Auren nicht nur wahrnehmen, sondern\nauch manipulieren. Diese Fähigkeit nutzt es\nbeim Kämpfen."
+      },
+      {
+        "game": "sm-m",
+        "text": "Es kann aus 1 km Entfernung die Art und auch\ndie Gefühle von Lebewesen erfassen. Es jagt\nim Rudel und manipuliert die Aura der Beute."
+      },
+      {
+        "game": "usum-us",
+        "text": "Unter starker Konzentration kann es rätselhafte\nWellen von sich geben, die man Aura nennt.\nDamit kann es sogar große Felsen pulverisieren."
+      },
+      {
+        "game": "usum-um",
+        "text": "Es kann über die Auren anderer deren Gefühle\nwahrnehmen. Da es dabei auch Dinge erfährt,\ndie es lieber nicht wüsste, ist es oft gestresst."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Es jagt seine Beute, indem es eine Kraft\nmanipuliert, die Aura genannt wird. Dadurch\nkann es sogar große Felsen pulverisieren."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Es kann die Gedanken von Menschen lesen.\nDeshalb lässt es sich nur auf Trainer ein, die\nihr Herz auf dem rechten Fleck haben."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Lucario",
+    "genus": "Pokémon Aura",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Puede leer los pensamientos y movimientos de su\nadversario a través de su aura."
+      },
+      {
+        "game": "xy-y",
+        "text": "Emite unas ondas que le permiten percibir todo lo que\nse encuentre a 1 km, incluso los sentimientos de otras\npersonas."
+      },
+      {
+        "game": "oras-or",
+        "text": "Puede leer los pensamientos y movimientos de su adversario\na través de su aura."
+      },
+      {
+        "game": "oras-as",
+        "text": "Emite unas ondas que le permiten percibir todo lo que se\nencuentre a 1 km, incluso los sentimientos de otras personas."
+      },
+      {
+        "game": "sm-s",
+        "text": "No solo es capaz de detectar auras, sino\ntambién de manipularlas. Esta habilidad le\nresulta muy útil durante los combates."
+      },
+      {
+        "game": "sm-m",
+        "text": "Detecta la presencia y los sentimientos de los\nseres vivos a más de 1 km de distancia,\nhabilidad que aprovecha para cazar en grupos."
+      },
+      {
+        "game": "usum-us",
+        "text": "Acumula poder espiritual y lo canaliza en forma\nde auras misteriosas capaces de hacer añicos\nincluso enormes rocas."
+      },
+      {
+        "game": "usum-um",
+        "text": "Puede percibir sentimientos ajenos a través de\nsu aura, pero averiguar cosas que preferiría no\nsaber constituye una fuente de estrés para él."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Caza a sus presas manipulando una energía,\ndenominada aura, cuya potencia es capaz incluso\nde hacer añicos rocas enormes."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Puede leer los pensamientos de la gente, por\nlo que establece lazos afectivos únicamente con\nEntrenadores de corazón noble."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Lucario",
+    "genus": "Pokémon Aura",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Riesce a leggere i pensieri e i movimenti del\nnemico decifrando l’aura che questo emette."
+      },
+      {
+        "game": "xy-y",
+        "text": "Sa decifrare le onde emesse da ogni cosa. Questo gli\npermette di capire le emozioni di creature lontane\nanche 1 km."
+      },
+      {
+        "game": "oras-or",
+        "text": "Riesce a leggere i pensieri e i movimenti del nemico decifrando\nl’aura che questo emette."
+      },
+      {
+        "game": "oras-as",
+        "text": "Sa decifrare le onde emesse da ogni cosa. Questo gli permette\ndi capire le emozioni di creature lontane anche 1 km."
+      },
+      {
+        "game": "sm-s",
+        "text": "Oltre a essere in grado di percepire l’aura,\nha anche la capacità di controllarla.\nSfrutta questa sua abilità anche nelle lotte."
+      },
+      {
+        "game": "sm-m",
+        "text": "Riesce a identificare creature ed emozioni a\n1 km di distanza. Sfrutta la sua capacità di\npercepire l’aura per cacciare in gruppo."
+      },
+      {
+        "game": "usum-us",
+        "text": "È in grado di concentrare le sue energie\nspirituali per sprigionare un’aura che può\nfrantumare anche grossi macigni."
+      },
+      {
+        "game": "usum-um",
+        "text": "Riesce a identificare le emozioni dell’avversario\ntramite l’aura. A volte capta pensieri che\npreferirebbe ignorare e questo gli causa stress."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Caccia le prede usando un potere chiamato\naura, in grado di ridurre in frantumi anche\ngrossi macigni."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "È in grado di comprendere anche i pensieri\ndegli esseri umani. Per questo, si affeziona\nsolo agli Allenatori dall’animo onesto."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Lucario",
+    "genus": "Aura Pokémon",
+    "flavorText": [
+      {
+        "game": "dp-d",
+        "text": "It has the ability to sense the\nauras of all things.\nIt understands human speech."
+      },
+      {
+        "game": "dp-p",
+        "text": "By catching the aura emanating\nfrom others, it can read their\nthoughts and movements."
+      },
+      {
+        "game": "pt",
+        "text": "A well-trained one can sense auras\nto identify and take in the feelings\nof creatures over half a mile away."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "It’s said that no foe can remain invisible\nto LUCARIO, since it can detect auras.\nEven foes it could not otherwise see."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "It’s said that no foe can remain invisible\nto LUCARIO, since it can detect auras.\nEven foes it could not otherwise see."
+      },
+      {
+        "game": "bw-b",
+        "text": "A well-trained one can sense auras\nto identify and take in the feelings\nof creatures over half a mile away."
+      },
+      {
+        "game": "bw-w",
+        "text": "A well-trained one can sense auras\nto identify and take in the feelings\nof creatures over half a mile away."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "By reading the auras of all things,\nit can tell how others are feeling\nfrom over half a mile away."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "By reading the auras of all things,\nit can tell how others are feeling\nfrom over half a mile away."
+      },
+      {
+        "game": "xy-x",
+        "text": "By catching the aura emanating from others, it can\nread their thoughts and movements."
+      },
+      {
+        "game": "xy-y",
+        "text": "By reading the auras of all things, it can tell how\nothers are feeling from over half a mile away."
+      },
+      {
+        "game": "oras-or",
+        "text": "By catching the aura emanating from others, it can\nread their thoughts and movements."
+      },
+      {
+        "game": "oras-as",
+        "text": "By reading the auras of all things, it can tell how\nothers are feeling from over half a mile away."
+      },
+      {
+        "game": "sm-s",
+        "text": "Not only does it perceive auras, but it has also\ngained the power to control them. It employs\nthem in battle."
+      },
+      {
+        "game": "sm-m",
+        "text": "They can detect the species of a living being—\nand its emotions—from over half a mile away.\nThey control auras and hunt their prey in packs."
+      },
+      {
+        "game": "usum-us",
+        "text": "It concentrates its mental energy and fires off\nmysterious waves called auras, which can crush\nboulders of large size to dust."
+      },
+      {
+        "game": "usum-um",
+        "text": "Lucario reads its opponent’s feelings with its\naura waves. It finds out things it would rather\nnot know, so it gets stressed out easily."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "It controls waves known as auras, which are\npowerful enough to pulverize huge rocks.\nIt uses these waves to take down its prey."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "It can tell what people are thinking. Only Trainers\nwho have justice in their hearts can earn this\nPokémon’s trust."
+      },
+      {
+        "game": "la",
+        "text": "A most gallant-looking creature. It emits energy waves and\ncontrols them with precision, using them to sense even faraway\nbeings. I have given the name ”aura” to this power."
+      }
+    ]
+  },
+  "chs": {
+    "name": "路卡利欧",
+    "genus": "波导宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "不仅仅是读取，\n还获得了操控波导的能力。\n也会被用于战斗。"
+      },
+      {
+        "game": "sm-m",
+        "text": "能侦测到１公里开外\n生物的种类和心情。\n操纵波导以群体形式狩猎。"
+      },
+      {
+        "game": "usum-us",
+        "text": "它集中精神所放出的一种\n神奇的波，被称为波导，\n连巨大的岩石都能击得粉碎。"
+      },
+      {
+        "game": "usum-um",
+        "text": "用波导来侦测对手的心情。\n不想知道的事情也会知道，\n所以很容易累积压力。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "操纵一种被称为波导的力量\n来进行狩猎。这种力量就连\n巨大的岩石也能击得粉碎。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "他能理解人类的想法，\n因此只会去亲近\n内心端正的训练家。"
+      }
+    ]
+  }
+}

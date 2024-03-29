@@ -1,0 +1,553 @@
+{
+  "jap": {
+    "name": "イーブイ",
+    "genus": "しんかポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "しんかのとき　すがたと　のうりょくが\nかわることで　きびしい　かんきょうに\nたいおうする　めずらしい　ポケモン。"
+      },
+      {
+        "game": "xy-y",
+        "text": "ふあんていな　いでんしの　おかげで\nさまざまな　しんかの　かのうせいを\nひめている　とくしゅな　ポケモン。"
+      },
+      {
+        "game": "oras-or",
+        "text": "くらしている　かんきょうで　とつぜんへんい　する\nふあんていな　いでんしを　もつ　ポケモン。\nいしの　ほうしゃせんが　しんかを　ひきおこす。"
+      },
+      {
+        "game": "oras-as",
+        "text": "くらしている　かんきょうで　とつぜんへんい　する\nふあんていな　いでんしを　もつ　ポケモン。\nいしの　ほうしゃせんが　しんかを　ひきおこす。"
+      },
+      {
+        "game": "sm-s",
+        "text": "アンバランス　かつ　ふあんていな\nいでんしを　もっており　さまざまな\nしんかの　かのうせいを　ひめている。"
+      },
+      {
+        "game": "sm-m",
+        "text": "いま　げんざいの　ちょうさでは\nなんと　８しゅるいもの　ポケモンへ\nしんかする　かのうせいを　もつ。"
+      },
+      {
+        "game": "usum-us",
+        "text": "イーブイだけが　とても　ふあんていな\nいでんしを　もっている　りゆうは\nいまだ　かいめい　されて　いない。"
+      },
+      {
+        "game": "usum-um",
+        "text": "まわりの　えいきょうを　うけやすい\nいでんしを　もつ。　おやに　なった\nトレーナーの　かおにも　にてくるよ。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "さまざまな　すがたに　しんかする。\nイーブイの　いでんしは　しんかの\nひみつを　ときあかす　かぎ　だ。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "さまざまな　すがたに　しんかする。\nイーブイの　いでんしは　しんかの\nひみつを　ときあかす　かぎ　だ。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "まわりの　かんきょうに　あわせて\nからだの　つくりを　かえていく\nのうりょくの　もちぬし。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "ふあんていな　いでんしの　おかげで\nさまざまな　しんかの　かのうせいを\nひめている　とくしゅな　ポケモン。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Eievui",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "이브이",
+    "genus": "진화포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "진화할 때 모습과 능력이\n바뀜으로써 혹독한 환경에\n적응하는 희귀한 포켓몬이다."
+      },
+      {
+        "game": "xy-y",
+        "text": "불안정한 유전자 덕분에\n여러 가지 진화 가능성을\n간직하고 있는 특수한 포켓몬."
+      },
+      {
+        "game": "oras-or",
+        "text": "사는 환경에 따라 돌연변이하는\n불안정한 유전자를 지닌 포켓몬이다.\n돌의 방사선이 진화를 일으킨다."
+      },
+      {
+        "game": "oras-as",
+        "text": "사는 환경에 따라 돌연변이하는\n불안정한 유전자를 지닌 포켓몬이다.\n돌의 방사선이 진화를 일으킨다."
+      },
+      {
+        "game": "sm-s",
+        "text": "언밸런스하고도 불안정한\n유전자를 가지고 있어 다양한\n진화의 가능성을 품고 있다."
+      },
+      {
+        "game": "sm-m",
+        "text": "지금까지 조사에 의하면\n무려 8종류의 포켓몬으로\n진화할 가능성을 갖고 있다."
+      },
+      {
+        "game": "usum-us",
+        "text": "이브이만 매우 불안정한\n유전자를 갖고 있는 이유는\n아직 해명되지 않았다."
+      },
+      {
+        "game": "usum-um",
+        "text": "주위의 영향을 받기 쉬운\n유전자를 가졌다. 어버이가 된\n트레이너의 얼굴에도 닮아 간다."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "다양한 모습으로 진화한다.\n이브이의 유전자는 진화의\n비밀을 밝혀낼 열쇠다."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "다양한 모습으로 진화한다.\n이브이의 유전자는 진화의\n비밀을 밝혀낼 열쇠다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "주위의 환경에 맞춰서\n몸의 구조를 바꿔나가는\n능력의 소유자다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "불안정한 유전자 덕분에\n여러 가지 진화의 가능성을\n가지고 있는 특수한 포켓몬."
+      }
+    ]
+  },
+  "cht": {
+    "name": "伊布",
+    "genus": "進化寶可夢",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "擁有不平衡且不穩定的基因，\n因而蘊含著十分各種各樣的\n進化可能性。"
+      },
+      {
+        "game": "sm-m",
+        "text": "根據目前的調查，\n擁有進化為多達８種\n寶可夢的可能性。"
+      },
+      {
+        "game": "usum-us",
+        "text": "為何只有伊布有著\n極其不穩定的基因？\n理由至今仍然不明。"
+      },
+      {
+        "game": "usum-um",
+        "text": "有著容易受到周遭影響的基因。\n就連長相都會變得和\n成為牠主人的訓練家越來越像。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "能夠進化成許多樣子。\n伊布的基因是解開\n進化之謎的關鍵。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "能夠進化成許多樣子。\n伊布的基因是解開\n進化之謎的關鍵。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "伊布擁有著能夠為了\n適應周遭的環境而\n改變身體構造的能力。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "由於不穩定的基因，\n蘊含著各式各樣進化\n可能性的特殊寶可夢。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Évoli",
+    "genus": "Pokémon Évolutif",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Son ADN particulier lui permet de\ns’adapter très rapidement à son\nenvironnement."
+      },
+      {
+        "game": "bw-w",
+        "text": "Son ADN particulier lui permet de\ns’adapter très rapidement à son\nenvironnement."
+      },
+      {
+        "game": "xy-x",
+        "text": "Un Pokémon rare qui s’adapte aux environnements\nhostiles en variant ses formes évolutives."
+      },
+      {
+        "game": "xy-y",
+        "text": "L’ADN de ce Pokémon très particulier recèle de\nnombreuses possibilités d’évolution."
+      },
+      {
+        "game": "oras-or",
+        "text": "Évoli a une structure génétique instable qui se transforme\nen fonction de l’environnement dans lequel il vit.\nCe Pokémon peut évoluer grâce aux radiations de\ndiverses pierres."
+      },
+      {
+        "game": "oras-as",
+        "text": "Évoli a une structure génétique instable qui se transforme\nen fonction de l’environnement dans lequel il vit.\nCe Pokémon peut évoluer grâce aux radiations de\ndiverses pierres."
+      },
+      {
+        "game": "sm-s",
+        "text": "Son ADN est instable et possède de\nnombreuses possibilités d’évolution."
+      },
+      {
+        "game": "sm-m",
+        "text": "D’après les dernières recherches, il semble que\nce Pokémon soit capable d’évoluer en huit\nespèces différentes."
+      },
+      {
+        "game": "usum-us",
+        "text": "À ce jour, nul ne sait pourquoi Évoli est le seul\nPokémon dont l’ADN est instable."
+      },
+      {
+        "game": "usum-um",
+        "text": "L’ADN d’Évoli est sujet aux influences de\nson environnement. Sa tête finit même par\nressembler à celle de son Dresseur."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Il peut évoluer de diverses façons. Son ADN est\nla clé pour percer le secret de l’évolution."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Il peut évoluer de diverses façons. Son ADN est\nla clé pour percer le secret de l’évolution."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Il a la capacité de changer la composition de\nson corps pour s’adapter à son environnement."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "L’ADN de ce Pokémon très particulier recèle\nde nombreuses possibilités d’évolution."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Evoli",
+    "genus": "Evolutions-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Ein seltenes Pokémon, das sich seiner Umgebung\nanpasst, indem es sich in unterschiedliche Formen\nentwickelt."
+      },
+      {
+        "game": "xy-y",
+        "text": "Aufgrund einer genetischen Anomalie kann seine\nEntwicklung viele verschiedene Formen annehmen."
+      },
+      {
+        "game": "oras-or",
+        "text": "Evolis genetisches Erbmaterial ist so instabil, dass die\nUmgebung plötzliche Mutationen auslösen kann. Unter\nanderem führt die Wirkung verschiedener Steine zur\nEntwicklung dieses Pokémon."
+      },
+      {
+        "game": "oras-as",
+        "text": "Evolis genetisches Erbmaterial ist so instabil, dass die\nUmgebung plötzliche Mutationen auslösen kann. Unter\nanderem führt die Wirkung verschiedener Steine zur\nEntwicklung dieses Pokémon."
+      },
+      {
+        "game": "sm-s",
+        "text": "Sein instabiles Erbmaterial ermöglicht es ihm,\nsich zu verschiedenen Pokémon zu entwickeln."
+      },
+      {
+        "game": "sm-m",
+        "text": "Nach derzeitigem Forschungsstand kann es sich\nzu acht verschiedenen Pokémon entwickeln."
+      },
+      {
+        "game": "usum-us",
+        "text": "Evoli ist das einzige Pokémon mit einem höchst\ninstabilen Erbmaterial. Die Ursache dafür ist\nnach wie vor unklar."
+      },
+      {
+        "game": "usum-um",
+        "text": "Seine DNS-Struktur ist anfällig für Einflüsse von\naußen. Selbst die Gesichtszüge seines Trainers\nkönnen sich in ihm wiedererkennen lassen."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Es kann sich auf verschiedene Weise entwickeln.\nEvolis genetischer Code ist der Schlüssel für das\nGeheimnis der Entwicklung von Pokémon."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Es kann sich auf verschiedene Weise entwickeln.\nEvolis genetischer Code ist der Schlüssel für das\nGeheimnis der Entwicklung von Pokémon."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Es ist imstande, seinen Körper perfekt an die\njeweilige Umgebung anzupassen."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Das Erbmaterial dieses besonderen Pokémon ist\ninstabil, weshalb es das Potenzial für viele\nverschiedene Entwicklungen in sich trägt."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Eevee",
+    "genus": "Pokémon Evolución",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Un extraño Pokémon que se adapta a los entornos\nmás hostiles gracias a sus diferentes evoluciones."
+      },
+      {
+        "game": "xy-y",
+        "text": "Su irregular estructura genética encierra el secreto de\nsu capacidad para adoptar evoluciones de lo más\ndiversas."
+      },
+      {
+        "game": "oras-or",
+        "text": "La configuración genética de Eevee le permite mutar y\nadaptarse enseguida a cualquier medio en el que viva.\nLa evolución de este Pokémon suele ser posible gracias a\nlas radiaciones emitidas por varias piedras."
+      },
+      {
+        "game": "oras-as",
+        "text": "La configuración genética de Eevee le permite mutar y\nadaptarse enseguida a cualquier medio en el que viva.\nLa evolución de este Pokémon suele ser posible gracias a\nlas radiaciones emitidas por varias piedras."
+      },
+      {
+        "game": "sm-s",
+        "text": "Su irregular estructura genética encierra el\nsecreto de su capacidad para adoptar\nevoluciones de lo más diversas."
+      },
+      {
+        "game": "sm-m",
+        "text": "Según las últimas investigaciones, Eevee es\ncapaz de evolucionar a ocho especies de\nPokémon distintas."
+      },
+      {
+        "game": "usum-us",
+        "text": "Todavía no se ha esclarecido el motivo por el\nque es el único Pokémon que presenta un\ncódigo genético inestable."
+      },
+      {
+        "game": "usum-um",
+        "text": "Su genética es muy sensible a la influencia del\nentorno, hasta el punto de que su rostro puede\nllegar a parecerse al de su Entrenador."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Puede evolucionar a varias especies distintas.\nSu código genético es la clave para descifrar el\nmisterio de dicha evolución."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Puede evolucionar a varias especies distintas.\nSu código genético es la clave para descifrar el\nmisterio de dicha evolución."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Es capaz de alterar la composición de su cuerpo\npara adaptarse al entorno."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Su irregular estructura genética alberga el secreto\nde la capacidad que posee este Pokémon tan\nespecial para adoptar evoluciones muy variadas."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Eevee",
+    "genus": "Pokémon Evoluzione",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Un Pokémon raro che si adatta agli ambienti più\ndifficili assumendo diverse forme nell’evoluzione."
+      },
+      {
+        "game": "xy-y",
+        "text": "È un Pokémon molto particolare. Dotato di un corredo\ngenetico instabile, serba in sé le più varie possibilità\nevolutive."
+      },
+      {
+        "game": "oras-or",
+        "text": "Eevee è dotato di un instabile corredo genetico che muta\nin base all’habitat naturale in cui è integrato. Le radiazioni\ndi diverse pietre scatenano l’evoluzione di questo Pokémon."
+      },
+      {
+        "game": "oras-as",
+        "text": "Eevee è dotato di un instabile corredo genetico che muta\nin base all’habitat naturale in cui è integrato. Le radiazioni\ndi diverse pietre scatenano l’evoluzione di questo Pokémon."
+      },
+      {
+        "game": "sm-s",
+        "text": "Dotato di un corredo genetico instabile,\nserba in sé varie possibilità evolutive."
+      },
+      {
+        "game": "sm-m",
+        "text": "Secondo le ultime ricerche, può evolversi in ben\notto specie diverse."
+      },
+      {
+        "game": "usum-us",
+        "text": "Non si conosce ancora il motivo per cui Eevee\nsia l’unico Pokémon a possedere un corredo\ngenetico così instabile."
+      },
+      {
+        "game": "usum-um",
+        "text": "Possiede un corredo genetico molto suscettibile\nall’influenza dell’ambiente in cui vive. Può anche\nfinire per assomigliare al suo Allenatore."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Eevee può evolversi in diverse specie.\nIl suo corredo genetico è la chiave per fare luce\nsul mistero dell’evoluzione."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Eevee può evolversi in diverse specie.\nIl suo corredo genetico è la chiave per fare luce\nsul mistero dell’evoluzione."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Ha la capacità di alterare la propria struttura\ncorporea per adattarsi all’ambiente circostante."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "È un Pokémon molto particolare. Dotato di un\ncorredo genetico instabile, serba in sé le più\nvarie possibilità evolutive."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Eevee",
+    "genus": "Evolution Pokémon",
+    "flavorText": [
+      {
+        "game": "rb-r",
+        "text": "Its genetic code\nis irregular.\nIt may mutate if\fit is exposed to\nradiation from\nelement STONEs."
+      },
+      {
+        "game": "rb-b",
+        "text": "Its genetic code\nis irregular.\nIt may mutate if\fit is exposed to\nradiation from\nelement STONEs."
+      },
+      {
+        "game": "y",
+        "text": "Its genetic code\nis unstable, so it\ncould evolve in\fa variety of ways.\nThere are only a\nfew alive."
+      },
+      {
+        "game": "gs-g",
+        "text": "It has the ability\nto alter the com­\nposition of its\fbody to suit its\nsurrounding envi­\nronment."
+      },
+      {
+        "game": "gs-s",
+        "text": "Its irregularly\nconfigured DNA is\naffected by its\fsurroundings. It\nevolves if its en­\nvironment changes."
+      },
+      {
+        "game": "c",
+        "text": "Its ability to\nevolve into many\nforms allows it to\fadapt smoothly\nand perfectly to\nany environment."
+      },
+      {
+        "game": "rs-r",
+        "text": "EEVEE has an unstable genetic makeup\nthat suddenly mutates due to the\nenvironment in which it lives.\fRadiation from various STONES causes\nthis POKéMON to evolve."
+      },
+      {
+        "game": "rs-s",
+        "text": "EEVEE has an unstable genetic makeup\nthat suddenly mutates due to the\nenvironment in which it lives.\fRadiation from various STONES causes\nthis POKéMON to evolve."
+      },
+      {
+        "game": "e",
+        "text": "An EEVEE has an unstable genetic makeup\nthat suddenly mutates due to its\nenvironment. Radiation from various\nSTONES causes this POKéMON to evolve."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "An extremely rare POKéMON that may\nevolve in a number of different ways\ndepending on stimuli."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "Its genetic code is irregular. It may\nmutate if it is exposed to radiation from\nelement STONES."
+      },
+      {
+        "game": "dp-d",
+        "text": "A rare Pokémon that adapts to\nharsh environments by taking on\ndifferent evolutionary forms."
+      },
+      {
+        "game": "dp-p",
+        "text": "A rare Pokémon that adapts to\nharsh environments by taking on\ndifferent evolutionary forms."
+      },
+      {
+        "game": "pt",
+        "text": "Because its genetic makeup is\nirregular, it quickly changes its\nform due to a variety of causes."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "It has the ability to alter the\ncomposition of its body to suit its\nsurrounding environment."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "Its irregularly configured DNA is\naffected by its surroundings. It\nevolves if its environment changes."
+      },
+      {
+        "game": "bw-b",
+        "text": "Because its genetic makeup is\nirregular, it quickly changes its\nform due to a variety of causes."
+      },
+      {
+        "game": "bw-w",
+        "text": "Because its genetic makeup is\nirregular, it quickly changes its\nform due to a variety of causes."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "Thanks to its unstable genetic makeup,\nthis special Pokémon conceals many\ndifferent possible evolutions."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "Thanks to its unstable genetic makeup,\nthis special Pokémon conceals many\ndifferent possible evolutions."
+      },
+      {
+        "game": "xy-x",
+        "text": "A rare Pokémon that adapts to harsh environments\nby taking on different evolutionary forms."
+      },
+      {
+        "game": "xy-y",
+        "text": "Thanks to its unstable genetic makeup, this\nspecial Pokémon conceals many different\npossible evolutions."
+      },
+      {
+        "game": "oras-or",
+        "text": "Eevee has an unstable genetic makeup that suddenly mutates\ndue to the environment in which it lives. Radiation from various\nstones causes this Pokémon to evolve."
+      },
+      {
+        "game": "oras-as",
+        "text": "Eevee has an unstable genetic makeup that suddenly mutates\ndue to the environment in which it lives. Radiation from various\nstones causes this Pokémon to evolve."
+      },
+      {
+        "game": "sm-s",
+        "text": "Possessing an unbalanced and unstable genetic\nmakeup, it conceals many possible evolutions."
+      },
+      {
+        "game": "sm-m",
+        "text": "Current studies show it can evolve into an\nincredible eight different species of Pokémon."
+      },
+      {
+        "game": "usum-us",
+        "text": "The question of why only Eevee has such\nunstable genes has still not been solved."
+      },
+      {
+        "game": "usum-um",
+        "text": "Its genes are easily influenced by its\nsurroundings. Even its face starts to look like\nthat of its Trainer."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "It can evolve into a variety of forms.\nEevee’s genes are the key to solving\nthe mysteries of Pokémon evolution."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "It can evolve into a variety of forms.\nEevee’s genes are the key to solving\nthe mysteries of Pokémon evolution."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "It has the ability to alter the composition of its\nbody to suit its surrounding environment."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Thanks to its unstable genetic makeup, this\nspecial Pokémon conceals many different\npossible evolutions."
+      },
+      {
+        "game": "la",
+        "text": "Harbors the potential to evolve into manifold forms.\nWithin Eevee lies the key to the mysteries of Pokémon\nevolution—I'm certain of it."
+      }
+    ]
+  },
+  "chs": {
+    "name": "伊布",
+    "genus": "进化宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "拥有不平衡性外加不稳定的\n遗传基因，因而蕴含着各种\n各样的进化可能性。"
+      },
+      {
+        "game": "sm-m",
+        "text": "根据目前的调查，\n拥有进化为多达８种\n宝可梦的可能性。"
+      },
+      {
+        "game": "usum-us",
+        "text": "至今未弄清为何只有伊布\n携带着非常不稳定的遗传基因。"
+      },
+      {
+        "game": "usum-um",
+        "text": "有着易受周围影响的遗传基因。\n就连长相都会变得和成为\n它主人的训练家很像哦。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "能进化成很多样子。\n伊布的基因也是解开\n进化之谜的关键。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "能进化成很多样子。\n伊布的基因也是解开\n进化之谜的关键。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "伊布拥有能够为了\n适应周围环境而\n改变身体构造的能力。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "由于不稳定的遗传基因，\n蕴含着各种各样进化\n可能性的特殊宝可梦。"
+      }
+    ]
+  }
+}

@@ -1,0 +1,405 @@
+{
+  "jap": {
+    "name": "フシギバナ",
+    "genus": "たねポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "おおきな　はなびらを　ひろげ\nたいようの　ひかりを　あびていると\nからだに　げんきが　みなぎっていく。"
+      },
+      {
+        "game": "xy-y",
+        "text": "あめの　ふった　よくじつは　せなかの\nはなの　かおりが　つよまる。かおりに\nさそわれ　ポケモンが　あつまる。"
+      },
+      {
+        "game": "oras-or",
+        "text": "じゅうぶんな　えいようと　たいようの　ひかりが\nはなの　いろを　あざやかに　すると　いわれる。\nはなの　かおりは　ひとの　こころを　いやす。"
+      },
+      {
+        "game": "oras-as",
+        "text": "じゅうぶんな　えいようと　たいようの　ひかりが\nはなの　いろを　あざやかに　すると　いわれる。\nはなの　かおりは　ひとの　こころを　いやす。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "せなかに　はえた　おおきな　ハナは\nたいようの　ひかりを　きゅうしゅうし\nエネルギーに　へんかん　できる。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "せなかに　はえた　おおきな　ハナは\nたいようの　ひかりを　きゅうしゅうし\nエネルギーに　へんかん　できる。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "たいようエネルギーを　えいようにして\nおおきなハナが　ひらく。　ひなたに\nひきよせられるように　いどうする。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "はなから　うっとりする　かおりが\nただよい　たたかうものの　きもちを\nなだめてしまう。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Fushigibana",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "이상해꽃",
+    "genus": "씨앗포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "큰 꽃잎을 펼쳐\n햇빛을 받고 있으면\n몸에 힘이 넘쳐흐른다."
+      },
+      {
+        "game": "xy-y",
+        "text": "비가 내린 다음 날은 등의\n꽃향기가 강해진다. 향기에\n이끌려 포켓몬이 모여든다."
+      },
+      {
+        "game": "oras-or",
+        "text": "충분한 영양분과 태양의 빛이\n꽃의 색을 선명하게 만든다고 한다.\n꽃의 향기는 사람의 마음을 치유한다."
+      },
+      {
+        "game": "oras-as",
+        "text": "충분한 영양분과 태양의 빛이\n꽃의 색을 선명하게 만든다고 한다.\n꽃의 향기는 사람의 마음을 치유한다."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "등 위에 활짝 핀 큰 꽃은\n태양 빛을 흡수해서\n에너지로 변환할 수 있다."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "등 위에 활짝 핀 큰 꽃은\n태양 빛을 흡수해서\n에너지로 변환할 수 있다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "태양에너지를 양분으로\n큰 꽃을 피운다. 양지를 향해\n이끌려가듯이 이동한다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "꽃에서 황홀한 향기가\n퍼져 나와 싸우는 자의\n기분을 달래준다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "妙蛙花",
+    "genus": "種子寶可夢",
+    "flavorText": [
+      {
+        "game": "lgpe-lgp",
+        "text": "長在背上的大花\n能夠吸收太陽光，\n並轉換成能量。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "長在背上的大花\n能夠吸收太陽光，\n並轉換成能量。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "把太陽的能源當成養分，\n開出碩大的花朵。總是\n朝著有陽光的地方移動。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "花朵散發出的迷人香味，\n能安撫激動的心情，\n甚至消弭鬥爭。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Florizarre",
+    "genus": "Pokémon Graine",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Le parfum de sa fleur se fait plus\npénétrant les lendemains de pluie.\nCela appâte les autres Pokémon."
+      },
+      {
+        "game": "bw-w",
+        "text": "Le parfum de sa fleur se fait plus\npénétrant les lendemains de pluie.\nCela appâte les autres Pokémon."
+      },
+      {
+        "game": "xy-x",
+        "text": "Ses pétales lui servent à capter la lumière du soleil.\nIl peut ainsi en canaliser l’énergie."
+      },
+      {
+        "game": "xy-y",
+        "text": "Le parfum de sa fleur se fait plus pénétrant les\nlendemains de pluie. Cela appâte les autres Pokémon."
+      },
+      {
+        "game": "oras-or",
+        "text": "Une belle fleur se trouve sur le dos de Florizarre.\nElle prend une couleur vive lorsqu’elle est bien nourrie et bien\nensoleillée. Le parfum de cette fleur peut apaiser les gens."
+      },
+      {
+        "game": "oras-as",
+        "text": "Une belle fleur se trouve sur le dos de Florizarre.\nElle prend une couleur vive lorsqu’elle est bien nourrie et bien\nensoleillée. Le parfum de cette fleur peut apaiser les gens."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Les pétales de sa fleur dorsale absorbent les\nrayons du soleil pour les convertir en énergie."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Les pétales de sa fleur dorsale absorbent les\nrayons du soleil pour les convertir en énergie."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Sa plante donne une grosse fleur quand\nelle absorbe les rayons du soleil. Il est toujours\nà la recherche des endroits les plus ensoleillés."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Une douce senteur émane de sa plante.\nCette fragrance calme tous ceux qui sont\nengagés dans un combat."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Bisaflor",
+    "genus": "Samen-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Es spreizt die breiten Blätter seiner Blüte,\num seinen Körper mit Sonnenenergie\nzu durchfluten."
+      },
+      {
+        "game": "xy-y",
+        "text": "Nach einem Regentag riecht die Blume auf seinem\nRücken intensiver. Das Aroma zieht andere\nPokémon an."
+      },
+      {
+        "game": "oras-or",
+        "text": "Bisaflor hat eine Blume auf seinem Rücken. Wenn sie\nviel Nahrung und Sonne aufnimmt, verfärbt sie sich bunt.\nDer Duft der Blume mildert die Emotionen der Menschen."
+      },
+      {
+        "game": "oras-as",
+        "text": "Bisaflor hat eine Blume auf seinem Rücken. Wenn sie viel\nNahrung und Sonne aufnimmt, verfärbt sie sich bunt.\nDer Duft der Blume besänftigt die Gemüter der Menschen."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Die große Blume auf seinem Rücken absorbiert\nSonnenlicht und kann dieses in Energie\numwandeln."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Die große Blume auf seinem Rücken absorbiert\nSonnenlicht und kann dieses in Energie\numwandeln."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Es nutzt Solarenergie als Nahrung und bringt so\nseine große Blume zum Blühen. Es geht dorthin,\nwo die Sonne scheint."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Die Blume verströmt einen zauberhaften Duft.\nEr beschwichtigt erhitzte Kämpfer."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Venusaur",
+    "genus": "Pokémon Semilla",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Llena su cuerpo de energía con los rayos solares que\ncaptan los anchos pétalos de su flor."
+      },
+      {
+        "game": "xy-y",
+        "text": "Después de un día de lluvia, la flor de su lomo tiene\nun aroma más potente y atrae a otros Pokémon."
+      },
+      {
+        "game": "oras-or",
+        "text": "Venusaur tiene una flor enorme en el lomo que, según\nparece, adquiere unos colores muy vivos si está bien\nnutrido y le da mucho el sol. El aroma delicado de la flor\ntiene un efecto relajante en el ánimo de las personas."
+      },
+      {
+        "game": "oras-as",
+        "text": "Venusaur tiene una flor enorme en el lomo que, según\nparece, adquiere unos colores muy vivos si está bien\nnutrido y le da mucho el sol. El aroma delicado de la flor\ntiene un efecto relajante en el ánimo de las personas."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "La flor que tiene en el lomo puede recoger los\nrayos solares para transformarlos en energía."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "La flor que tiene en el lomo puede recoger los\nrayos solares para transformarlos en energía."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "La planta florece cuando absorbe energía solar,\nlo cual le obliga a buscar siempre la luz del sol."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "La flor que tiene en el lomo libera un delicado\naroma, que tiene un efecto relajante en combate."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Venusaur",
+    "genus": "Pokémon Seme",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Si riempie di energia grazie ai grandi petali del fiore,\nche spalanca catturando i raggi solari."
+      },
+      {
+        "game": "xy-y",
+        "text": "Dopo la pioggia, il fiore sul suo dorso emana un\nprofumo più intenso e attira gli altri Pokémon."
+      },
+      {
+        "game": "oras-or",
+        "text": "C’è un grande fiore sulla schiena di Venusaur. Si dice che\ni colori diventino più vividi con il giusto nutrimento e i\nraggi solari. Il suo profumo calma le reazioni emotive\ndelle persone."
+      },
+      {
+        "game": "oras-as",
+        "text": "C’è un grande fiore sulla schiena di Venusaur. Si dice che\ni colori diventino più vividi con il giusto nutrimento e i\nraggi solari. Il suo profumo calma le reazioni emotive\ndelle persone."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Il grande fiore che ha sulla schiena può assorbire\ni raggi solari e trasformarli in energia."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Il grande fiore che ha sulla schiena può assorbire\ni raggi solari e trasformarli in energia."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Il fiore sboccia assorbendo energia solare.\nSi muove continuamente in cerca di luce."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Il suo fiore emana una fragranza inebriante\ncapace di placare l’animo di chi è impegnato\nnella lotta."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Venusaur",
+    "genus": "Seed Pokémon",
+    "flavorText": [
+      {
+        "game": "rb-r",
+        "text": "The plant blooms\nwhen it is\nabsorbing solar\fenergy. It stays\non the move to\nseek sunlight."
+      },
+      {
+        "game": "rb-b",
+        "text": "The plant blooms\nwhen it is\nabsorbing solar\fenergy. It stays\non the move to\nseek sunlight."
+      },
+      {
+        "game": "y",
+        "text": "The flower on its\nback catches the\nsun's rays.\fThe sunlight is\nthen absorbed and\nused for energy."
+      },
+      {
+        "game": "gs-g",
+        "text": "By spreading the\nbroad petals of\nits flower and\fcatching the sun's\nrays, it fills its\nbody with power."
+      },
+      {
+        "game": "gs-s",
+        "text": "It is able to con­\nvert sunlight into\nenergy. As a\fresult, it is more\npowerful in the\nsummertime."
+      },
+      {
+        "game": "c",
+        "text": "As it warms it­\nself and absorbs\nthe sunlight, its\fflower petals\nrelease a pleasant\nfragrance."
+      },
+      {
+        "game": "rs-r",
+        "text": "There is a large flower on VENUSAUR’s\nback. The flower is said to take on vivid\ncolors if it gets plenty of nutrition\fand sunlight. The flower’s aroma\nsoothes the emotions of people."
+      },
+      {
+        "game": "rs-s",
+        "text": "There is a large flower on VENUSAUR’s\nback. The flower is said to take on vivid\ncolors if it gets plenty of nutrition\fand sunlight. The flower’s aroma\nsoothes the emotions of people."
+      },
+      {
+        "game": "e",
+        "text": "VENUSAUR’s flower is said to take on vivid\ncolors if it gets plenty of nutrition and\nsunlight. The flower’s aroma soothes the\nemotions of people."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "A bewitching aroma wafts from its flower.\nThe fragrance becalms those engaged in\na battle."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "Its plant blooms when it is absorbing\nsolar energy. It stays on the move to\nseek sunlight."
+      },
+      {
+        "game": "dp-d",
+        "text": "After a rainy day, the flower on\nits back smells stronger. The\nscent attracts other Pokémon."
+      },
+      {
+        "game": "dp-p",
+        "text": "After a rainy day, the flower on\nits back smells stronger. The\nscent attracts other Pokémon."
+      },
+      {
+        "game": "pt",
+        "text": "After a rainy day, the flower on\nits back smells stronger. The\nscent attracts other Pokémon."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "By spreading the broad petals of\nits flower and catching the sun’s\nrays, it fills its body with power."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "It is able to convert sunlight into\nenergy. As a result, it is more\npowerful in the summertime."
+      },
+      {
+        "game": "bw-b",
+        "text": "After a rainy day, the flower on\nits back smells stronger. The\nscent attracts other Pokémon."
+      },
+      {
+        "game": "bw-w",
+        "text": "After a rainy day, the flower on\nits back smells stronger. The\nscent attracts other Pokémon."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "After a rainy day, the flower on\nits back smells stronger. The\nscent attracts other Pokémon."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "After a rainy day, the flower on\nits back smells stronger. The\nscent attracts other Pokémon."
+      },
+      {
+        "game": "xy-x",
+        "text": "By spreading the broad petals of its flower\nand catching the sun’s rays, it fills its body\nwith power."
+      },
+      {
+        "game": "xy-y",
+        "text": "After a rainy day, the flower on its back smells\nstronger. The scent attracts other Pokémon."
+      },
+      {
+        "game": "oras-or",
+        "text": "There is a large flower on Venusaur’s back. The flower is said\nto take on vivid colors if it gets plenty of nutrition and sunlight.\nThe flower’s aroma soothes the emotions of people."
+      },
+      {
+        "game": "oras-as",
+        "text": "There is a large flower on Venusaur’s back. The flower is said\nto take on vivid colors if it gets plenty of nutrition and sunlight.\nThe flower’s aroma soothes the emotions of people."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "The flower on its back catches the sun’s rays.\nThe sunlight is then absorbed and\nused for energy."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "The flower on its back catches the sun’s rays.\nThe sunlight is then absorbed and\nused for energy."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Its plant blooms when it is absorbing solar\nenergy. It stays on the move to seek sunlight."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "A bewitching aroma wafts from its flower.\nThe fragrance becalms those engaged\nin a battle."
+      }
+    ]
+  },
+  "chs": {
+    "name": "妙蛙花",
+    "genus": "种子宝可梦",
+    "flavorText": [
+      {
+        "game": "lgpe-lgp",
+        "text": "它背上开出的大花\n能够吸收太阳光\n并将其转换为能量。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "它背上开出的大花\n能够吸收太阳光\n并将其转换为能量。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "把太阳的能源当成养分，\n开出硕大的花朵。总是\n朝着有阳光的地方移动。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "花朵散发出的迷人香味\n能安抚激动的心情，\n甚至消弭斗争。"
+      }
+    ]
+  }
+}

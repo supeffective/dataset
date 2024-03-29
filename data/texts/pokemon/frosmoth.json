@@ -1,0 +1,133 @@
+{
+  "jap": {
+    "name": "モスノウ",
+    "genus": "こおりがポケモン",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "はねの　おんどは　マイナス１８０ど。\nれいきを　こめた　りんぷんを　ゆきの\nように　ふりまき　のやまを　とぶ。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "のやまを　あらすものには　ようしゃ\nしない。　つめたいはねで　とびまわり\nふぶきを　おこして　こらしめる。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Mothnow",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "모스노우",
+    "genus": "얼음나방포켓몬",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "날개의 온도는 영하 180도.\n냉기가 담긴 인분을 눈처럼\n흩뿌리며 산과 들을 날아다닌다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "산과 들을 황폐하게 만들면 용서하지 않는다.\n차가운 날개로 날아다니며\n눈보라를 일으켜 응징한다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "雪絨蛾",
+    "genus": "冰蛾寶可夢",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "翅膀的溫度是零下１８０度。\n當牠飛過山野時，帶有冷氣的\n鱗粉會像下雪般地飄落下來。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "絕不放過破壞山野環境的人。\n會用冰冷的翅膀四處飛翔，\n製造出暴風雪來懲罰他們。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Beldeneige",
+    "genus": "Pokémon Mite Givre",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "La température de ses ailes est de - 180 °C.\nQuand il vole, ses écailles gelées tombent\nsur le paysage comme des flocons de neige."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Sans pitié pour les vandales, il bat ses ailes\ngelées pour provoquer des blizzards et punir\nquiconque ose souiller les champs et les collines."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Mottineva",
+    "genus": "Eismotten-Pokémon",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Seine Flügel sind -180 ºC kalt. Während es über\nFelder und Berge fliegt, verstreut es mit Kälte\nversetzten Flügelstaub, der wie Schnee aussieht."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Verwüstet jemand Felder und Berge, vergibt es\nihm niemals. Es bestraft den Täter, indem es mit\nseinen kalten Flügeln einen Schneesturm erzeugt."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Frosmoth",
+    "genus": "Pokémon Polillahielo",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "La temperatura de sus alas es de -180 °C.\nSobrevuela el campo esparciendo sus gélidas\nescamas, como si de nieve se tratase."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "No muestra la menor compasión con quien asole\nel campo: lo escarmienta batiendo sus gélidas\nalas para provocar una ventisca."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Frosmoth",
+    "genus": "Pokémon Gelofalena",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "La temperatura delle sue ali è di -180 ºC.\nSorvola pianure e montagne lasciando cadere le\nsue scaglie gelide come fossero fiocchi di neve."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Non ha alcuna pietà per chi danneggia la natura.\nVola in ricognizione e punisce i malfattori con\ntempeste di neve che crea con le sue fredde ali."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Frosmoth",
+    "genus": "Frost Moth Pokémon",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Icy scales fall from its wings like snow as it flies\nover fields and mountains. The temperature of its\nwings is less than −290 degrees Fahrenheit."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "It shows no mercy to any who desecrate fields\nand mountains. It will fly around on its icy wings,\ncausing a blizzard to chase offenders away."
+      }
+    ]
+  },
+  "chs": {
+    "name": "雪绒蛾",
+    "genus": "冰蛾宝可梦",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "翅膀的温度为零下１８０度。\n当它飞过山野时，带有冷气的\n鳞粉会像下雪般地飘落下来。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "绝不放过破坏山野环境的人。\n会用冰冷的翅膀四处飞翔，\n制造出暴风雪来惩罚他们。"
+      }
+    ]
+  }
+}

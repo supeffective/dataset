@@ -1,0 +1,465 @@
+{
+  "jap": {
+    "name": "ランターン",
+    "genus": "ライトポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "しんかいを　およぐ　ランターンの\nあかりは　すいめんまで　とどく。\nしんかいのほし　と　よばれている。"
+      },
+      {
+        "game": "xy-y",
+        "text": "まぶしい　ひかりを　はなって\nあいての　めを　くらませ　うごけない\nあいだに　まるのみに　してしまう。"
+      },
+      {
+        "game": "oras-or",
+        "text": "しんかいのほし　と　よばれる　ポケモンだ。\nしょくしゅの　なかの　バクテリアと　たいえきを\nかがくはんのうさせる　ことで　ひかりを　つくる。"
+      },
+      {
+        "game": "oras-as",
+        "text": "よなかに　ふねから　くらい　うみを　のぞきこむと\nしんかいを　およぐ　ランターンの　ひかりが\nほしぞらの　ように　みえる　ことが　あるよ。"
+      },
+      {
+        "game": "sm-s",
+        "text": "よるの　かいめんを　のぞきこんで\nかがやく　ほしの　ような　ひかりが\nみえたら　それは　ランターンだよ。"
+      },
+      {
+        "game": "sm-m",
+        "text": "つよい　ひかりを　はなち　えものの\nめを　くらませる。　スキが　できたら\nでんげきを　おみまいする。"
+      },
+      {
+        "game": "usum-us",
+        "text": "しょくしゅに　すむ　バクテリアが\nランターンの　たいえきを　すうとき\nつよい　はっこうげんしょうが　おこる。"
+      },
+      {
+        "game": "usum-um",
+        "text": "かいちゅうの　はるか　ふかくに　すむ。\nひかりで　えものの　めを　くらませて\nひるんだ　すきに　まるのみに　する。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "ランターンのだす　ひかりは\n５０００メートルの　ふかさ　からでも\nすいめんまで　とどくほど　あかるい。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "つよい　ひかりを　はなち　えものの\nめを　くらませる。　スキが　できたら\nでんげきを　おみまいする。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Lantern",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "랜턴",
+    "genus": "라이트포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "심해를 헤엄치는 랜턴의\n불빛은 수면까지 다다른다.\n심해의 별이라고 불리고 있다."
+      },
+      {
+        "game": "xy-y",
+        "text": "눈부신 빛을 발산하여 상대의 눈을\n안 보이게 만들어 움직이지 못하는\n동안에 통째로 삼켜버린다."
+      },
+      {
+        "game": "oras-or",
+        "text": "심해의 별이라 불리는 포켓몬이다.\n촉수 안의 박테리아와 체액을\n화학 반응시켜서 빛을 만든다."
+      },
+      {
+        "game": "oras-as",
+        "text": "밤중에 배에서 어두운 바다를 들여다보면\n심해를 헤엄치는 랜턴의 빛이\n별이 총총한 하늘처럼 보이는 일이 있다."
+      },
+      {
+        "game": "sm-s",
+        "text": "밤에 해면을 들여다보다\n반짝이는 별 같은 빛이\n보이면 그것은 랜턴이다."
+      },
+      {
+        "game": "sm-m",
+        "text": "강한 빛을 발산해 먹이의 눈을\n멀게 한다. 허점이 생기면\n전격을 먹인다."
+      },
+      {
+        "game": "usum-us",
+        "text": "촉수에 사는 박테리아가\n랜턴의 체액을 빨아들일 때\n강한 발광 현상이 일어난다."
+      },
+      {
+        "game": "usum-um",
+        "text": "바닷속 깊고 깊은 곳에 산다.\n빛으로 먹이의 눈을 멀게 해서\n풀이 죽은 틈을 타 통째로 삼킨다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "랜턴이 내는 빛은\n5000m의 깊이에서도\n수면까지 전해질 정도로 밝다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "강한 빛을 발산해\n먹이의 눈을 멀게 한다.\n허점을 보이면 전격을 먹인다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "電燈怪",
+    "genus": "燈寶可夢",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "探頭望向夜晚的海面，\n如果能看到有如星星閃爍\n一樣的光，那就是電燈怪哦。"
+      },
+      {
+        "game": "sm-m",
+        "text": "發出強光讓獵物暫時失明。\n趁獵物露出破綻時，\n用電擊招呼對手。"
+      },
+      {
+        "game": "usum-us",
+        "text": "當棲息在觸手中的細菌\n吸食電燈怪的體液時，\n會產生強烈的發光現象。"
+      },
+      {
+        "game": "usum-um",
+        "text": "棲息在很深的海底。會用\n刺眼的光線讓獵物看不見東西，\n再趁對方畏縮時一口吞下。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "電燈怪發出的光有著極高的\n亮度，甚至可以從５０００公尺\n深的水底照亮水面。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "發出強光讓獵物暫時失明。\n趁獵物露出破綻時，\n用電擊招呼對手。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Lanturn",
+    "genus": "Pokémon Lumière",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "La lumière de Lanturn surgit des\nprofondeurs. On le surnomme\n“étoile des profondeurs”."
+      },
+      {
+        "game": "bw-w",
+        "text": "La lumière de Lanturn surgit des\nprofondeurs. On le surnomme\n“étoile des profondeurs”."
+      },
+      {
+        "game": "xy-x",
+        "text": "La lumière de Lanturn surgit des profondeurs.\nOn le surnomme « étoile des profondeurs »."
+      },
+      {
+        "game": "xy-y",
+        "text": "Il aveugle sa proie avec une lumière intense, puis\nl’avale d’un seul trait une fois immobilisée."
+      },
+      {
+        "game": "oras-or",
+        "text": "On surnomme Lanturn « l’étoile des profondeurs » à cause de\nson antenne lumineuse. Ce Pokémon produit de la lumière\nen provoquant une réaction chimique entre des bactéries\net les fluides corporels de son antenne."
+      },
+      {
+        "game": "oras-as",
+        "text": "On sait que Lanturn émet de la lumière. Si on regarde\nattentivement la mer de nuit à partir d’un bateau, on peut voir\nla lumière générée par ce Pokémon éclairer les profondeurs.\nCela donne à la mer l’apparence d’un ciel étoilé."
+      },
+      {
+        "game": "sm-s",
+        "text": "Lorsqu’on regarde au fond de la mer au milieu\nde la nuit et que l’on croit apercevoir le reflet\ndes étoiles, c’est probablement un Lanturn."
+      },
+      {
+        "game": "sm-m",
+        "text": "Il dégage une vive lumière pour éblouir ses\nproies, puis les achève d’un choc électrique\nbien senti."
+      },
+      {
+        "game": "usum-us",
+        "text": "Les bactéries nichées dans l’antenne de Lanturn\némettent une lumière vive quand elles aspirent\nses fluides corporels."
+      },
+      {
+        "game": "usum-um",
+        "text": "Ce Pokémon des abysses immobilise ses proies\nen les aveuglant grâce à la lumière de son\nantenne, puis les gobe toutes crues."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Sa lumière est si intense qu’on peut la voir\nà la surface de l’eau alors qu’il se trouve\nà 5 000 mètres de profondeur."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Il dégage une vive lumière pour éblouir ses proies,\npuis leur inflige un choc électrique bien senti."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Lanturn",
+    "genus": "Leuchten-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Lanturns Licht kann aus großen Tiefen heraufscheinen.\nMan nennt es auch „Tiefseestern“."
+      },
+      {
+        "game": "xy-y",
+        "text": "Es blendet seine Beute mit einem starken Blitz und\nverschlingt die gelähmte Beute mit einem Schluck."
+      },
+      {
+        "game": "oras-or",
+        "text": "Lanturn wird auch „Tiefseestern“ genannt, da es eine\nleuchtende Antenne besitzt. Dieses Pokémon erzeugt Licht,\nindem es in der Antenne eine chemische Reaktion zwischen\nBakterien und seinen Körperflüssigkeiten erzeugt."
+      },
+      {
+        "game": "oras-as",
+        "text": "Lanturn strahlt Licht ab. Wenn du nachts aufs dunkle Meer\nhinausblickst, kannst du vielleicht das Licht dieses Pokémon\naus der Tiefe, in der es schwimmt, heraufschimmern sehen.\nEs lässt das Meer wie eine sternklare Nacht wirken."
+      },
+      {
+        "game": "sm-s",
+        "text": "Blickt man nachts in die Tiefen des Meeres\nhinab und sieht am Grund ein helles Licht,\nhandelt es sich dabei um ein Lanturn."
+      },
+      {
+        "game": "sm-m",
+        "text": "Es blendet seine Beute mit einem starken Blitz.\nSieht es eine Chance zuzuschlagen, greift es\nsie mit Elektrizität an."
+      },
+      {
+        "game": "usum-us",
+        "text": "In Lanturns Antennen leben Bakterien, die seine\nKörperflüssigkeiten aufnehmen und so ein\neindrucksvolles Lichtspektakel auslösen."
+      },
+      {
+        "game": "usum-um",
+        "text": "Dieses tief im Meer lebende Pokémon blendet\nseine Beute mit dem Licht seiner Antennen und\nverschlingt sie anschließend mit einem Schluck."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Sein Licht ist so hell, dass es selbst aus 5 000 m\nTiefe an die Meeresoberfläche dringt."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Es blendet seine Beute mit einem grellen Licht.\nSieht es eine Chance zuzuschlagen, greift es sie\nmit Elektrizität an."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Lanturn",
+    "genus": "Pokémon Luz",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "La luz de Lanturn se puede ver desde lo más\nprofundo. Se le llama la Estrella de Alta Mar."
+      },
+      {
+        "game": "xy-y",
+        "text": "Ciega a su presa con una luz intensa y luego se la\ntraga de un solo bocado."
+      },
+      {
+        "game": "oras-or",
+        "text": "A Lanturn lo llaman la Estrella del Fondo del Mar por la antena\niluminada que tiene. Este Pokémon produce luz creando una\nreacción química entre una bacteria y los fluidos corporales de\nla antena."
+      },
+      {
+        "game": "oras-as",
+        "text": "Todos saben que Lanturn emite luz. Si echas un ojo al mar\ndesde un barco en una noche cerrada, quizás veas su luz a\ntravés de las aguas, brillando desde lo más profundo, por\ndonde suele nadar. Con él, el mar parece un cielo estrellado."
+      },
+      {
+        "game": "sm-s",
+        "text": "Cuando por la noche el mar parece un cielo\nestrellado, es muy probable que se trate de\nLanturn haciendo brillar su antena."
+      },
+      {
+        "game": "sm-m",
+        "text": "Ciega a sus presas con una luz intensa. Si tiene\nla ocasión, les propina una buena descarga\neléctrica."
+      },
+      {
+        "game": "usum-us",
+        "text": "Cuando las bacterias que viven en sus antenas\nabsorben sus fluidos corporales, sufren una\nreacción que libera una luz intensa."
+      },
+      {
+        "game": "usum-um",
+        "text": "Vive en lo más profundo del océano. Deslumbra\na su presa con la luz de sus antenas y, mientras\nestá confusa, la engulle de un bocado."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "La luz que emite es tan brillante que puede\niluminar la superficie del mar desde unos 5 km\nde profundidad."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Ciega a sus presas con una luz intensa. Si tiene la\nocasión, les propina una descarga eléctrica."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Lanturn",
+    "genus": "Pokémon Luce",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "La sua luce è visibile anche quando si trova in\nprofondità. È soprannominato “Stella degli abissi”."
+      },
+      {
+        "game": "xy-y",
+        "text": "Acceca la preda con un’intensa ondata di luce,\nimmobilizzandola, per poi ingoiarla in un sol boccone."
+      },
+      {
+        "game": "oras-or",
+        "text": "Lanturn è detto anche “Stella degli abissi” per la sua\nantenna-lanterna. Genera la luce grazie a una reazione\nchimica tra i batteri e i fluidi corporei all’interno\ndell’antenna stessa."
+      },
+      {
+        "game": "oras-as",
+        "text": "Lanturn emette una luce intensa. Osservando il mare da\nun’imbarcazione, di notte, è possibile scorgere la sua luce\nrisalire dagli abissi dov’è solito nuotare. Il mare assume\nl’aspetto d’un cielo stellato."
+      },
+      {
+        "game": "sm-s",
+        "text": "Quando sulla superficie del mare si vede brillare\nuna luce che sembra una stella, si tratta di\nun Lanturn."
+      },
+      {
+        "game": "sm-m",
+        "text": "Acceca la preda con una luce intensa per poi\nattaccarla immediatamente con una scossa\nelettrica."
+      },
+      {
+        "game": "usum-us",
+        "text": "Quando i batteri nelle antenne di Lanturn\nassimilano i suoi fluidi corporei, scatenano una\nreazione che sprigiona una forte luce."
+      },
+      {
+        "game": "usum-um",
+        "text": "Vive negli abissi più remoti. Abbaglia la preda\ncon la sua luce e approfitta del suo stordimento\nper ingoiarla in un sol boccone."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Emette una luce così intensa da illuminare la\nsuperficie del mare da oltre 5 km di profondità."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Acceca la preda con una luce intensa per poi\nattaccarla immediatamente con una scossa\nelettrica."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Lanturn",
+    "genus": "Light Pokémon",
+    "flavorText": [
+      {
+        "game": "gs-g",
+        "text": "The light it emits\nis so bright that\nit can illuminate\fthe sea's surface\nfrom a depth of\nover three miles."
+      },
+      {
+        "game": "gs-s",
+        "text": "It blinds prey\nwith an intense\nburst of light,\fthen swallows the\nimmobilized prey\nin a single gulp."
+      },
+      {
+        "game": "c",
+        "text": "This POKéMON uses\nthe bright part of\nits body, which\fchanged from a\ndorsal fin, to\nlure prey."
+      },
+      {
+        "game": "rs-r",
+        "text": "LANTURN is nicknamed “the deep-sea\nstar” for its illuminated antenna.\nThis POKéMON produces light by\fcausing a chemical reaction between\nbacteria and its bodily fluids inside\nthe antenna."
+      },
+      {
+        "game": "rs-s",
+        "text": "LANTURN is known to emit light.\nIf you peer down into the dark sea from\na ship at night, you can sometimes see\fthis POKéMON’s light rising from the\ndepths where it swims. It gives the sea\nan appearance of a starlit night."
+      },
+      {
+        "game": "e",
+        "text": "The light-emitting orbs on its back are\nvery bright. They are formed from a part of\nits dorsal fin. This POKéMON illuminates\nthe inky darkness of deep seas."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "It blinds prey with an intense burst of\nlight, then swallows the immobilized prey\nin a single gulp."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "The light it emits is so bright that it can\nilluminate the sea’s surface from a depth\nof over three miles."
+      },
+      {
+        "game": "dp-d",
+        "text": "LANTURN’s light can shine up from\ngreat depths. It is nicknamed\n“The Deep-Sea Star.”"
+      },
+      {
+        "game": "dp-p",
+        "text": "LANTURN’s light can shine up from\ngreat depths. It is nicknamed\n“The Deep-Sea Star.”"
+      },
+      {
+        "game": "pt",
+        "text": "LANTURN’s light can shine up from\ngreat depths. It is nicknamed\n“The Deep-Sea Star.”"
+      },
+      {
+        "game": "hgss-hg",
+        "text": "The light it emits is so bright that\nit can illuminate the sea’s surface\nfrom a depth of over three miles."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "It blinds prey with an intense burst of\nlight. With the prey incapacitated, the\nPokémon swallows it in a single gulp."
+      },
+      {
+        "game": "bw-b",
+        "text": "Lanturn’s light can shine up from\ngreat depths. It is nicknamed\n“The Deep-Sea Star.”"
+      },
+      {
+        "game": "bw-w",
+        "text": "Lanturn’s light can shine up from\ngreat depths. It is nicknamed\n“The Deep-Sea Star.”"
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "Lanturn’s light can shine up from\ngreat depths. It is nicknamed\n“The Deep-Sea Star.”"
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "Lanturn’s light can shine up from\ngreat depths. It is nicknamed\n“The Deep-Sea Star.”"
+      },
+      {
+        "game": "xy-x",
+        "text": "Lanturn’s light can shine up from great depths.\nIt is nicknamed “The Deep-Sea Star.”"
+      },
+      {
+        "game": "xy-y",
+        "text": "It blinds prey with an intense burst of light.\nWith the prey incapacitated, the Pokémon\nswallows it in a single gulp."
+      },
+      {
+        "game": "oras-or",
+        "text": "Lanturn is nicknamed “the deep-sea star” for its illuminated\nantenna. This Pokémon produces light by causing a chemical\nreaction between bacteria and its bodily fluids inside\nthe antenna."
+      },
+      {
+        "game": "oras-as",
+        "text": "Lanturn is known to emit light. If you peer down into the dark\nsea from a ship at night, you can sometimes see this\nPokémon’s light rising from the depths where it swims. It gives\nthe sea an appearance of a starlit night."
+      },
+      {
+        "game": "sm-s",
+        "text": "Should you peer into the ocean at night and see\na light shining like the stars, that is Lanturn."
+      },
+      {
+        "game": "sm-m",
+        "text": "This Pokémon flashes a bright light that blinds\nits prey. This creates an opening for it to deliver\nan electrical attack."
+      },
+      {
+        "game": "usum-us",
+        "text": "When the bacteria living inside its antennae\nabsorb Lanturn’s bodily fluids, a strong\nluminescent effect is produced."
+      },
+      {
+        "game": "usum-um",
+        "text": "It lives far down in the depths of the ocean. It\nblinds its prey with light, using the moment\nthey’re dazzled to swallow them whole."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "The light it emits is so bright that it can illuminate\nthe sea’s surface from a depth of over three miles."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "This Pokémon flashes a bright light that blinds\nits prey. This creates an opening for it to deliver\nan electrical attack."
+      }
+    ]
+  },
+  "chs": {
+    "name": "电灯怪",
+    "genus": "灯宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "探头望向夜晚的海面，\n如果看到犹如闪烁的星星\n一样的光，那是电灯怪哦。"
+      },
+      {
+        "game": "sm-m",
+        "text": "发出强光蒙住猎物的眼睛。\n抓住那一瞬间的空档，\n使其遭受电的攻击。"
+      },
+      {
+        "game": "usum-us",
+        "text": "栖息在触手里的细菌在\n吸食电灯怪的体液时，\n会产生强烈的发光现象。"
+      },
+      {
+        "game": "usum-um",
+        "text": "栖息在深邃的海里。\n会用光眩晕猎物，并趁对方\n畏缩时将其整个吞下。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "电灯怪发出的光有着极高的\n亮度，甚至可以从５０００米\n深的水底照亮水面。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "发出强光蒙住猎物的眼睛。\n抓住那一瞬间的空档，\n使其遭受电的攻击。"
+      }
+    ]
+  }
+}

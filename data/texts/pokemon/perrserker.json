@@ -1,0 +1,133 @@
+{
+  "jap": {
+    "name": "ニャイキング",
+    "genus": "バイキングポケモン",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "あたまの　たいもうが　こうしつかして\nてつの　ヘルメットのように　なった。\nとても　こうせんてきな　せいしつ。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "たたかいに　あけくれて　しんかした\nけっか　のばすと　たんけんに　かわる\nぶっそうな　ツメを　てにいれた。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Nyaiking",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "나이킹",
+    "genus": "바이킹포켓몬",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "머리의 털이 단단해져서\n철로 된 헬멧처럼 되었다.\n매우 호전적인 성질을 가졌다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "싸움에 열중해 진화한 결과\n펴면 단검으로 변하는\n위험한 발톱을 얻었다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "喵頭目",
+    "genus": "維京寶可夢",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "有著十分好戰的性格。\n頭上像鐵頭盔一樣的東西\n其實是牠硬化後的體毛。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "在日復一日的戰鬥中得以進化。\n進化的結果是那危險的指甲，\n留長後能當作短劍來用。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Berserkatt",
+    "genus": "Pokémon Viking",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "La fourrure sur sa tête s’est endurcie\net a pris la forme d’un casque en fer.\nIl est de nature très bagarreuse."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Il s’est tant adonné au combat qu’il a évolué :\nil est désormais doté de griffes redoutables\nqui prennent la forme de dagues en s’allongeant."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Mauzinger",
+    "genus": "Wikinger-Pokémon",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Die Haare auf seinem Kopf haben sich zu etwas\nverhärtet, das an einen eisernen Helm erinnert.\nEs ist von Natur aus kriegerisch veranlagt."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Es entwickelte sich nach einer langen Zeit voller\nKämpfe. Nun kann es seine Krallen ausfahren,\num sie als Dolche zu nutzen."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Perrserker",
+    "genus": "Pokémon Vikingo",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "El pelo de la cabeza se le ha endurecido hasta\nel punto de parecer un yelmo de hierro. Posee\nun temperamento muy combativo."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Su devoción por la lucha ha propiciado que\nevolucionara y le ha conferido unas peligrosas\ngarras que se convierten en dagas al extenderse."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Perrserker",
+    "genus": "Pokémon Vichingo",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "La pelliccia sulla testa si è indurita ed è\ndiventata simile a un elmetto di ferro.\nHa una natura molto combattiva."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Si è evoluto dopo aver passato giorni interi\na lottare e ha sviluppato degli artigli che,\nuna volta sfoderati, diventano temibili pugnali."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Perrserker",
+    "genus": "Viking Pokémon",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "What appears to be an iron helmet is actually\nhardened hair. This Pokémon lives for the thrill\nof battle."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "After many battles, it evolved dangerous\nclaws that come together to form daggers\nwhen extended."
+      }
+    ]
+  },
+  "chs": {
+    "name": "喵头目",
+    "genus": "维京宝可梦",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "有着十分好战的性格。\n头上像铁头盔一样的东西\n其实是它硬化后的体毛。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "在日复一日的战斗中得以进化。\n进化的结果是那危险的指甲，\n留长后能当作短剑来用。"
+      }
+    ]
+  }
+}

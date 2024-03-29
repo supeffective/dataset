@@ -1,0 +1,277 @@
+{
+  "jap": {
+    "name": "クワガノン",
+    "genus": "くわがたポケモン",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "とびまわって　スキを　うかがう。\nでんきエネルギーを　おおきなアゴで\nしゅうそくさせ　てきに　はっしゃ。"
+      },
+      {
+        "game": "sm-m",
+        "text": "おなかに　ある　はつでんきかんで\nでんきを　おこす。　でんげきビームで\nとりポケモンも　あっとうする。"
+      },
+      {
+        "game": "usum-us",
+        "text": "ふくぶに　はつでん　きかんを　もつ。\nおおアゴに　エネルギーを　あつめ\nすさまじい　でんげきを　はなつ。"
+      },
+      {
+        "game": "usum-um",
+        "text": "アクロバティックな　ひこうで　てきを\nかくらん。　ひるんだ　すきを　ついて\nでんげきビームを　おみまいする。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "おなかで　はつでんした　でんきを\nおおきな　アゴで　しゅうそくさせて\nだいしゅつりょくの　ビームを　うつ。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "よびバッテリーとして　デンヂムシを\nかかえて　とべば　だいでんりょくの\nでんじビームを　れんしゃ　できる。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Kuwagannon",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "투구뿌논",
+    "genus": "뿔집게포켓몬",
+    "flavorText": [
+      {
+        "game": "usum-us",
+        "text": "복부에 발전 기관을 갖고 있다.\n큰 턱에 에너지를 모아\n굉장한 전격을 쏜다."
+      },
+      {
+        "game": "sm-s",
+        "text": "날아다니며 틈을 노린다.\n전기 에너지를 큰 턱으로\n모아서 적에게 발사한다."
+      },
+      {
+        "game": "sm-m",
+        "text": "배에 있는 발전기관에서\n전기를 일으킨다. 전격 빔으로\n새포켓몬도 압도한다."
+      },
+      {
+        "game": "usum-um",
+        "text": "아크로바틱한 비행으로 적을\n교란한다. 풀이 죽은 틈을 타\n전격 빔을 가한다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "복부에서 만든 전기를\n커다란 턱에 집중시켜서\n고출력의 빔을 쏜다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "예비 배터리로서 전지충이를\n안고 날면 높은 전력의\n전자빔을 연사할 수 있다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "鍬農炮蟲",
+    "genus": "鍬形蟲寶可夢",
+    "flavorText": [
+      {
+        "game": "usum-us",
+        "text": "腹部有著發電器官，\n會將能量集中在大顎上，\n發出驚人的電擊。"
+      },
+      {
+        "game": "sm-s",
+        "text": "來回盤旋尋找機會。\n用巨大的顎部積蓄電能，\n向敵人發射。"
+      },
+      {
+        "game": "sm-m",
+        "text": "利用位於腹部的發電器官\n製造電力。靠著電擊光束，\n即使面對鳥寶可夢也能佔據優勢。"
+      },
+      {
+        "game": "usum-um",
+        "text": "會以雜技般的飛行擾亂敵人，\n趁著對手退縮的那一瞬間\n施展出電擊光束。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "用腹部發電，\n並把電力集中在大大的顎部，\n釋放出能量驚人的光束。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "如果牠在飛行時把蟲電寶抱住\n當作備用電池，就能連續發射\n電力超高的電磁光束。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Lucanon",
+    "genus": "Pokémon Scarabée",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "Il virevolte dans tous les sens, guettant la faille\npour frapper. Il concentre l’électricité dans ses\ngrandes mandibules pour foudroyer l’ennemi."
+      },
+      {
+        "game": "sm-m",
+        "text": "Il possède un organe spécial pouvant produire\nde l’électricité. Les Pokémon oiseaux ne font\npas le poids face à son rayon électrique."
+      },
+      {
+        "game": "usum-us",
+        "text": "Il possède un organe électrogène sur le ventre.\nIl concentre de l’énergie dans ses mandibules\navant de libérer une puissante décharge."
+      },
+      {
+        "game": "usum-um",
+        "text": "Il déroute l’ennemi avec ses pirouettes\nacrobatiques, puis profite de sa surprise\npour l’attaquer grâce à un rayon électrique."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "L’électricité qu’il produit dans son ventre\ns’accumule dans ses larges mandibules.\nIl la libère sous forme d’un rayon puissant."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "S’il emporte un Chrysapile en tant que batterie\nde secours, il peut tirer une salve de rayons\nélectriques extrêmement puissants en plein vol."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Donarion",
+    "genus": "Kneifkäfer-Pokémon",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "Es fliegt umher und wartet auf seine Chance.\nIn seinem großen Kiefer speichert es elektrische\nEnergie, die es auf Feinde abfeuern kann."
+      },
+      {
+        "game": "sm-m",
+        "text": "In seinem Bauch hat es ein elektrisches Organ,\nwelches Strom erzeugt. Mit seinem Elektrostrahl\nkann es auch Vogel-Pokémon überwältigen."
+      },
+      {
+        "game": "usum-us",
+        "text": "Es erzeugt mit einem Organ in seinem Bauch\nElektrizität. In seinem großen Kiefer speichert\nes Strom für enorm starke Elektrosalven."
+      },
+      {
+        "game": "usum-um",
+        "text": "Mit akrobatischen Flugmanövern verwirrt es\nseine Gegner und nutzt diese Gelegenheit, um\nElektrostrahlen auf sie abzufeuern."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "In seinem Bauch erzeugt es Elektrizität, die es in\nseinem großen Kiefer sammelt und dann als\nHochleistungsstrahlen abfeuern kann."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Wenn es ein Akkup als Reservebatterie trägt,\nkann es im Flug eine Salve aus extrem starken\nElektrostrahlen abfeuern."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Vikavolt",
+    "genus": "Pokémon Escarabajo",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "Sobrevuela un área en busca de presas. Puede\nconcentrar una potente carga eléctrica entre\nsus mandíbulas para atacar a sus rivales."
+      },
+      {
+        "game": "sm-m",
+        "text": "En su estómago posee un órgano que genera\nenergía eléctrica. Los Pokémon pájaro no\npueden hacer nada contra los rayos que lanza."
+      },
+      {
+        "game": "usum-us",
+        "text": "El órgano que posee en el abdomen genera\nelectricidad. Libera la energía acumulada en sus\ngrandes mandíbulas con una potente descarga."
+      },
+      {
+        "game": "usum-um",
+        "text": "Aturde al enemigo con su vuelo acrobático y\naprovecha el desconcierto para propinarle una\ndescarga en forma de rayo."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Acumula en sus enormes mandíbulas la carga\neléctrica que genera en su abdomen y la libera\nen forma de rayos de alto voltaje."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Cuando vuela llevando consigo un Charjabug\na modo de batería adicional, puede liberar\npotentes descargas electromagnéticas."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Vikavolt",
+    "genus": "Pokémon Cervolante",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "Sorvola l’area in attesa dell’occasione giusta per\nattaccare. Nelle grandi mandibole concentra\nenergia elettrica che scarica contro il nemico."
+      },
+      {
+        "game": "sm-m",
+        "text": "Genera elettricità tramite un organo situato\nnella pancia. I Pokémon alati di solito battono\nin ritirata dinanzi ai suoi raggi elettrici."
+      },
+      {
+        "game": "usum-us",
+        "text": "Nella pancia ha un organo che genera elettricità.\nAccumula energia nelle mandibole per poi\nrilasciare potenti scariche elettriche."
+      },
+      {
+        "game": "usum-um",
+        "text": "Confonde i nemici con voli acrobatici e, non\nappena li vede esitare, li colpisce con un\nraggio elettrico."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Concentra nelle grandi mandibole l’elettricità\ngenerata nella pancia per colpire l’avversario\ncon un raggio ad altissima potenza."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Quando vola portando con sé un Charjabug\ncome batteria di riserva, può sparare una raffica\ndi potentissimi raggi elettromagnetici."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Vikavolt",
+    "genus": "Stag Beetle Pokémon",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "It zips around, on sharp lookout for an opening.\nIt concentrates electrical energy within its large\njaws and uses it to zap its enemies."
+      },
+      {
+        "game": "sm-m",
+        "text": "It produces electricity via an electrical organ in\nits abdomen. It overwhelms bird Pokémon with\nshocking beams of electrical energy."
+      },
+      {
+        "game": "usum-us",
+        "text": "It has an organ that generates electricity in its\nabdomen. It concentrates energy in its strong\njaws and fires off powerful jolts of electricity."
+      },
+      {
+        "game": "usum-um",
+        "text": "Vikavolt flusters opponents with acrobatic\nflying maneuvers. This creates an opening for\nit to deliver an electric beam attack."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "It builds up electricity in its abdomen, focuses it\nthrough its jaws, and then fires the electricity off\nin concentrated beams."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "If it carries a Charjabug to use as a spare battery,\na flying Vikavolt can rapidly fire high-powered\nbeams of electricity."
+      }
+    ]
+  },
+  "chs": {
+    "name": "锹农炮虫",
+    "genus": "锹形虫宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "来回盘旋寻找机会。\n用巨大的颚部收集电能向敌人发射。"
+      },
+      {
+        "game": "sm-m",
+        "text": "用位于腹部的发电器官\n发出电力。即便是鸟宝可梦\n也能被它用电击光束压制。"
+      },
+      {
+        "game": "usum-us",
+        "text": "腹部拥有发电器官。\n在大颚里收集能量，\n释放出惊人的电击。"
+      },
+      {
+        "game": "usum-um",
+        "text": "以杂技般的飞行搅乱敌人。\n抓住对方胆怯的那一瞬，\n施展出电击光束。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "用腹部发电，\n并把电力集中至大大的颚部，\n释放出能量惊人的光束。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "如果它在飞翔时把虫电宝抱住\n当作备用电池，就能连续发射\n电力超高的电磁光束。"
+      }
+    ]
+  }
+}

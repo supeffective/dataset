@@ -1,0 +1,437 @@
+{
+  "jap": {
+    "name": "カラナクシ",
+    "genus": "ウミウシポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "やわらかい　からだを　つよくおすと\nむらさきいろの　なぞの　えきたいが\nにじみでるので　ようちゅうい。"
+      },
+      {
+        "game": "xy-y",
+        "text": "すむ　ばしょの　かんきょうに　よって\nからだの　かたちや　いろが\nへんか　しやすい　ポケモンだ。"
+      },
+      {
+        "game": "oras-or",
+        "text": "やわらかい　からだを　つよくおすと\nむらさきいろの　なぞの　えきたいが\nにじみでるので　ようちゅうい。"
+      },
+      {
+        "game": "oras-as",
+        "text": "すむ　ばしょの　かんきょうに　よって\nからだの　かたちや　いろが\nへんか　しやすい　ポケモンだ。"
+      },
+      {
+        "game": "sm-s",
+        "text": "いそが　おもな　すみか。\nせいそくちの　かんきょうや　エサの\nしつで　いろや　すがたが　ことなる。"
+      },
+      {
+        "game": "sm-m",
+        "text": "さわると　むらさきの　ねんえきが\nてに　つくぞ。　あらっても　あらっても\nなかなか　おちないので　ちゅうい。"
+      },
+      {
+        "game": "usum-us",
+        "text": "ふだん　うみのなかに　くらしているが\nひふが　かんそう　するまでなら\nりくちでも　かつどう　できるぞ。"
+      },
+      {
+        "game": "usum-um",
+        "text": "キケンを　かんじると　むらさきいろの\nしるを　だす。　あぶらあせの　ような\nものだと　かんがえられている。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "かんきょうで　すがたが　かわる。\nすいおんが　あたたかい　うみでは\nこのすがたに　なるという　せつも。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "つよく　ふれると　むらさきいろの\nナゾの　しるを　だす。　がいは\nないけれど　ネバネバするよ。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Karanakushi",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "깝질무",
+    "genus": "갯민숭달팽이포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "부드러운 몸을 강하게 누르면\n보랏빛이 나는 정체불명의 액체가\n배어 나오므로 주의가 필요하다."
+      },
+      {
+        "game": "xy-y",
+        "text": "사는 장소의 환경에 따라\n몸의 모양과 색깔이\n변화하기 쉬운 포켓몬이다."
+      },
+      {
+        "game": "oras-or",
+        "text": "부드러운 몸을 강하게 누르면\n보랏빛이 나는 정체불명의 액체가\n배어 나오므로 주의가 필요하다."
+      },
+      {
+        "game": "oras-as",
+        "text": "사는 장소의 환경에 따라\n몸의 모양과 색깔이\n변화하기 쉬운 포켓몬이다."
+      },
+      {
+        "game": "sm-s",
+        "text": "물가가 주요 서식지다.\n서식지의 환경이나 먹이의\n질에 따라 색과 모습이 다르다."
+      },
+      {
+        "game": "sm-m",
+        "text": "만지면 보라색 점액이\n손에 묻는다. 아무리 씻어도\n좀처럼 떨어지지 않으므로 주의."
+      },
+      {
+        "game": "usum-us",
+        "text": "평소에는 바닷속에서 지내지만,\n피부가 마르기 전까지는\n육지에서도 활동할 수 있다."
+      },
+      {
+        "game": "usum-um",
+        "text": "위험을 느끼면 보라색\n분비액을 내보낸다. 진땀 같은\n것이라고 여겨지고 있다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "환경에 따라 모습이 바뀐다.\n수온이 따뜻한 바다에서는\n이 모습이 된다는 설도 있다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "세게 만지면 보라색의\n정체 모를 액체를 내보낸다.\n해롭지는 않지만 끈적거린다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "無殼海兔",
+    "genus": "海兔寶可夢",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "岩岸是牠主要的居所。\n根據棲息地的環境和所吃食物的質地，\n顏色和樣子會有所不同。"
+      },
+      {
+        "game": "sm-m",
+        "text": "如果用手摸牠，紫色的黏液\n就會沾到手上。不管怎麼洗\n都很難洗掉，所以要注意。"
+      },
+      {
+        "game": "usum-us",
+        "text": "平常生活在海裡，\n但只要皮膚沒有乾燥，\n也可以在陸地上活動。"
+      },
+      {
+        "game": "usum-um",
+        "text": "感受到危險時會分泌\n紫色的汁液。人們認為\n這是類似冷汗的東西。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "樣子會因環境不同而改變。\n也有人說牠到了溫暖的\n海裡就會變成這個樣子。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "如果用力按住牠，\n牠就會分泌出神秘的紫色液體。\n雖然液體無害，不過黏糊糊的。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Sancoki",
+    "genus": "Pokémon Aqualimace",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Un étrange liquide mauve s’échappe\nde son corps, ne lui appuyez pas\ndessus."
+      },
+      {
+        "game": "bw-w",
+        "text": "Un étrange liquide mauve s’échappe\nde son corps, ne lui appuyez pas\ndessus."
+      },
+      {
+        "game": "xy-x",
+        "text": "Un étrange liquide mauve s’échappe de son corps,\nne lui appuyez pas dessus."
+      },
+      {
+        "game": "xy-y",
+        "text": "Il change facilement de couleur ou de forme en\nfonction de son environnement."
+      },
+      {
+        "game": "oras-or",
+        "text": "Un étrange liquide mauve s’échappe de son corps,\nne lui appuyez pas dessus."
+      },
+      {
+        "game": "oras-as",
+        "text": "Il change facilement de couleur ou de forme en fonction\nde son environnement."
+      },
+      {
+        "game": "sm-s",
+        "text": "Il vit principalement sur les rivages rocheux.\nSa forme et sa couleur peuvent varier selon\nson environnement et son alimentation."
+      },
+      {
+        "game": "sm-m",
+        "text": "Au toucher, une sécrétion mauve se dépose sur\nles mains. Faites bien attention, car elle ne part\nvraiment pas facilement, même en lavant bien."
+      },
+      {
+        "game": "usum-us",
+        "text": "Il vit normalement dans la mer, mais il peut\naussi s’installer sur la terre ferme, tant que\nsa peau reste humide."
+      },
+      {
+        "game": "usum-um",
+        "text": "Il sécrète un liquide mauve lorsqu’il se sent\nen danger. Il s’agirait d’un phénomène similaire\naux sueurs froides."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Son apparence change selon son environnement.\nOn raconte qu’il adopte celle-ci dans les mers\nchaudes."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Si on le caresse trop fort, il sécrète un étrange\nliquide mauve qui est inoffensif, mais dont\nla texture est très gluante."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Schalellos",
+    "genus": "Seeschnecken-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Nicht seinen Körper zusammendrücken,\nsonst sickert eine seltsame lilafarbene Flüssigkeit aus!"
+      },
+      {
+        "game": "xy-y",
+        "text": "Form und Farbe dieses Pokémon ändern sich\nje nach der Umgebung, in der es lebt."
+      },
+      {
+        "game": "oras-or",
+        "text": "Nicht seinen Körper zusammendrücken, sonst sickert eine\nseltsame lilafarbene Flüssigkeit aus!"
+      },
+      {
+        "game": "oras-as",
+        "text": "Form und Farbe dieses Pokémon ändern sich je nach\nder Umgebung, in der es lebt."
+      },
+      {
+        "game": "sm-s",
+        "text": "Es lebt hauptsächlich in Küstengebieten.\nSeine Form und Farbe ändern sich je nach\nLebensraum und Futter."
+      },
+      {
+        "game": "sm-m",
+        "text": "Fasst man es an, schmiert man sich mit\nlilafarbenem Schleim voll, der nicht abgeht,\negal, wie oft man sich auch die Hände wäscht."
+      },
+      {
+        "game": "usum-us",
+        "text": "Es lebt zwar für gewöhnlich im Meer, kann sich\naber auch an Land bewegen, bis seine Haut\naustrocknet."
+      },
+      {
+        "game": "usum-um",
+        "text": "Spürt es Gefahr, stößt es eine lilafarbene\nFlüssigkeit aus. Man geht davon aus, dass es\nsich dabei um eine Art Angstschweiß handelt."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Sein Aussehen hängt von seiner Umgebung ab.\nMan geht davon aus, dass es diese Form in\nwarmen Meeren annimmt."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Wenn man es fest drückt, sondert es eine\nseltsame lilafarbene Flüssigkeit ab. Diese ist\nzwar nicht schädlich, aber sehr schleimig."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Shellos",
+    "genus": "Pokémon Babosa Marina",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "No hay que apretarle muy fuerte, ya que, si lo haces,\nsecreta un misterioso fluido morado."
+      },
+      {
+        "game": "xy-y",
+        "text": "Shellos adapta la forma y color de su cuerpo\ndependiendo del lugar en donde viva."
+      },
+      {
+        "game": "oras-or",
+        "text": "No hay que apretarle muy fuerte, ya que, si lo haces, secreta\nun misterioso fluido morado."
+      },
+      {
+        "game": "oras-as",
+        "text": "Shellos adapta la forma y color de su cuerpo dependiendo\ndel lugar en donde viva."
+      },
+      {
+        "game": "sm-s",
+        "text": "Suele vivir cerca del agua y su forma y color\nvarían en función de factores como su hábitat\no su alimentación."
+      },
+      {
+        "game": "sm-m",
+        "text": "Al tocarlo, segrega un fluido violáceo que\nmancha las manos y que es extremadamente\ndifícil de eliminar aún tras repetidos lavados."
+      },
+      {
+        "game": "usum-us",
+        "text": "Por lo general suele habitar en el agua, pero\ntambién puede moverse por tierra firme siempre\ny cuando su piel no se reseque por completo."
+      },
+      {
+        "game": "usum-um",
+        "text": "Cuando se siente amenazado, secreta un fluido\nmorado. Según se cree, podría tratarse de un\nfenómeno similar al de los sudores fríos."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Su aspecto cambia según el entorno. Al parecer,\nesta es la forma que adopta en mares de aguas\ncálidas."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Si se le aprieta muy fuerte, secreta un misterioso\nfluido morado que, aunque inofensivo, resulta\ndesagradable por su viscosidad."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Shellos",
+    "genus": "Pokémon Lumacomare",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Se si esercita una forte pressione sul suo corpo,\nne fuoriesce un misterioso liquido viola."
+      },
+      {
+        "game": "xy-y",
+        "text": "Cambia facilmente aspetto e colore secondo il luogo\ndi provenienza."
+      },
+      {
+        "game": "oras-or",
+        "text": "Se si esercita una forte pressione sul suo corpo, ne fuoriesce\nun misterioso liquido viola."
+      },
+      {
+        "game": "oras-as",
+        "text": "Cambia facilmente aspetto e colore secondo il luogo\ndi provenienza."
+      },
+      {
+        "game": "sm-s",
+        "text": "Vive principalmente sui litorali rocciosi.\nLa forma e il colore del suo corpo mutano in\nbase all’habitat e al cibo di cui si nutre."
+      },
+      {
+        "game": "sm-m",
+        "text": "Quando lo si tocca, lascia sulle mani un viscoso\nliquido viola difficile da rimuovere anche dopo\nripetuti lavaggi."
+      },
+      {
+        "game": "usum-us",
+        "text": "Vive solitamente in mare, ma può spostarsi\nanche sulla terraferma e restarvi finché\nla pelle non inizia a seccarsi."
+      },
+      {
+        "game": "usum-um",
+        "text": "Quando avverte il pericolo, secerne un liquido\nviola. Si ritiene sia un fenomeno simile ai sudori\nfreddi causati dalla paura."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Il suo aspetto cambia in base all’habitat.\nSecondo alcune teorie, assume questa forma\nnei mari più caldi."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Se premuto con forza secerne un misterioso\nliquido viola molto appiccicoso, ma non nocivo."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Shellos",
+    "genus": "Sea Slug Pokémon",
+    "flavorText": [
+      {
+        "game": "dp-d",
+        "text": "Its colors and shapes differ from\nregion to region. In the Sinnoh\nregion, two types are confirmed."
+      },
+      {
+        "game": "dp-p",
+        "text": "It lives along bodies of water.\nIts body shape has changed to\nsuit its habitat."
+      },
+      {
+        "game": "pt",
+        "text": "Beware of pushing strongly on\nits squishy body, as it makes a\nmysterious purple fluid ooze out."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "Its shape and coloration vary,\ndepending on its habitat."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "Its shape and coloration vary,\ndepending on its habitat."
+      },
+      {
+        "game": "bw-b",
+        "text": "Beware of pushing strongly on\nits squishy body, as it makes a\nmysterious purple fluid ooze out."
+      },
+      {
+        "game": "bw-w",
+        "text": "Beware of pushing strongly on\nits squishy body, as it makes a\nmysterious purple fluid ooze out."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "Beware of pushing strongly on\nits squishy body, as it makes a\nmysterious purple fluid ooze out."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "Beware of pushing strongly on\nits squishy body, as it makes a\nmysterious purple fluid ooze out."
+      },
+      {
+        "game": "xy-x",
+        "text": "Beware of pushing strongly on its squishy body,\nas it makes a mysterious purple fluid ooze out."
+      },
+      {
+        "game": "xy-y",
+        "text": "Its shape and coloration vary, depending on\nits habitat."
+      },
+      {
+        "game": "oras-or",
+        "text": "Beware of pushing strongly on its squishy body,\nas it makes a mysterious purple fluid ooze out."
+      },
+      {
+        "game": "oras-as",
+        "text": "Its shape and coloration vary, depending on\nits habitat."
+      },
+      {
+        "game": "sm-s",
+        "text": "For the most part, it makes its home along\nthe seashore. Its color and form differ according\nto its habitat and the quality of its food."
+      },
+      {
+        "game": "sm-m",
+        "text": "Purple mucus sticks to the hands of anyone\nwho touches it. Take care, as the substance is\ntroublesome to wash off."
+      },
+      {
+        "game": "usum-us",
+        "text": "While they normally live in the sea, they can\nfunction on land, too, until their skin dries out."
+      },
+      {
+        "game": "usum-um",
+        "text": "When it senses danger, a purple liquid oozes out\nof it. The liquid is thought to be something like\ngreasy sweat."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "This Pokémon’s habitat shapes its physique.\nAccording to some theories, life in warm ocean\nwaters causes this variation to develop."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Subjecting this Pokémon to a strong force\ncauses it to secrete a strange purple fluid.\nThough harmless, the fluid is awfully sticky."
+      },
+      {
+        "game": "la",
+        "text": "Found in abundance on seashores bordering warm waters.\nShellos are unexpectedly friendly and will crawl toward any\nperson they see. Take care not to get coated in mucus!"
+      }
+    ]
+  },
+  "chs": {
+    "name": "无壳海兔",
+    "genus": "海兔宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "岩岸是它主要的居所。\n根据栖息地的环境和食物的质地，\n颜色和样子会有所不同。"
+      },
+      {
+        "game": "sm-m",
+        "text": "一旦接触，紫色的粘液就\n会粘到手上。即使反复洗\n也不怎么能洗掉，所以要注意。"
+      },
+      {
+        "game": "usum-us",
+        "text": "平常在海里生活，\n但只要皮肤没有干燥，\n也可以在陆地活动。"
+      },
+      {
+        "game": "usum-um",
+        "text": "如果感到危险，就会分泌出紫色的汁。\n人们认为这是类似于虚汗的东西。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "样子会因环境不同而改变。\n也有人说它到了温暖的\n海里就会变成这个样子。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "如果用力按住它，\n它就会分泌出神秘的紫色液体。\n虽然液体无害，不过黏糊糊的。"
+      }
+    ]
+  }
+}

@@ -1,0 +1,393 @@
+{
+  "jap": {
+    "name": "ヌメラ",
+    "genus": "なんたいポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "いちばん　よわい　ドラゴンポケモン。\nヌメヌメの　からだが　かわかないよう\nジメジメした　ひかげで　くらす。"
+      },
+      {
+        "game": "xy-y",
+        "text": "ヌメヌメの　ねんまくで　おおわれた\nからだは　てきの　パンチや　キックを\nヌルリと　すべらせてしまうのだ。"
+      },
+      {
+        "game": "oras-or",
+        "text": "いちばん　よわい　ドラゴンポケモン。\nヌメヌメの　からだが　かわかないよう\nジメジメした　ひかげで　くらす。"
+      },
+      {
+        "game": "oras-as",
+        "text": "ヌメヌメの　ねんまくで　おおわれた\nからだは　てきの　パンチや　キックを\nヌルリと　すべらせてしまうのだ。"
+      },
+      {
+        "game": "sm-s",
+        "text": "もっとも　よわい　ドラゴンポケモン。\nひふが　かわくと　いきが　できないので\nひかげで　じーっと　しているよ。"
+      },
+      {
+        "game": "sm-m",
+        "text": "ヌメヌメの　ねんまくで　みを　まもる。\nねんまくは　ざっきんまみれ　なので\nさわったら　しっかり　てを　あらおう。"
+      },
+      {
+        "game": "usum-us",
+        "text": "ツノで　あたりの　ようすを　さぐる。\nとても　びんかんなので　にぎられると\nショックで　うごけなくなってしまう。"
+      },
+      {
+        "game": "usum-um",
+        "text": "からだの　ほとんどは　すいぶん。\nかんそうすると　しんでしまうので\nいつも　ひかげで　じっと　している。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "からだの　ほとんどが　すいぶん。\nかんそうすると　ひからびてしまう\nさいじゃくの　ドラゴンポケモン。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "ツノは　すぐれた　かんかくきかん。\nてきの　けはいを　かんじとり　すぐに\nかくれる　ことで　いきのこってきた。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Numera",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "미끄메라",
+    "genus": "연체포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "가장 약한 드래곤포켓몬이다.\n미끌미끌한 몸이 마르지 않도록\n축축한 그늘에서 산다."
+      },
+      {
+        "game": "xy-y",
+        "text": "미끌미끌한 점막으로 덮여 있는\n몸은 적의 펀치나 킥을\n매끄럽게 미끄러뜨린다."
+      },
+      {
+        "game": "oras-or",
+        "text": "가장 약한 드래곤포켓몬이다.\n미끌미끌한 몸이 마르지 않도록\n축축한 그늘에서 산다."
+      },
+      {
+        "game": "oras-as",
+        "text": "미끌미끌한 점막으로 덮여 있는\n몸은 적의 펀치나 킥을\n매끄럽게 미끄러뜨린다."
+      },
+      {
+        "game": "sm-s",
+        "text": "가장 약한 드래곤포켓몬.\n피부가 마르면 숨을 쉴 수 없어서\n그늘에서 가만히 있다."
+      },
+      {
+        "game": "sm-m",
+        "text": "미끌미끌한 점막으로 몸을 지킨다.\n점막은 세균투성이이므로\n만지면 반드시 손을 씻자."
+      },
+      {
+        "game": "usum-us",
+        "text": "뿔로 주변의 상황을 살핀다.\n매우 민감하여 잡으면\n쇼크로 움직일 수 없게 된다."
+      },
+      {
+        "game": "usum-um",
+        "text": "몸의 대부분이 수분이다.\n건조해지면 죽어 버리므로\n언제나 그늘에서 가만히 있다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "몸의 대부분이 수분이다.\n건조해지면 바싹 말라버리는\n가장 약한 드래곤포켓몬."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "뿔은 뛰어난 감각 기관이다.\n적의 기척을 느끼면 바로\n숨어들어 살아남아 왔다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "黏黏寶",
+    "genus": "軟體生物寶可夢",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "最弱小的龍屬性寶可夢。\n皮膚一旦乾燥就會無法呼吸，\n因此總是靜靜地呆在遮蔭下哦。"
+      },
+      {
+        "game": "sm-m",
+        "text": "用滑膩膩的黏膜保護身體。\n因為黏膜上佈滿各種細菌，\n接觸後要好好地洗手哦。"
+      },
+      {
+        "game": "usum-us",
+        "text": "會用角探查周圍的狀況。\n角非常敏感，一旦被握住，\n牠就會驚嚇到無法動彈。"
+      },
+      {
+        "game": "usum-um",
+        "text": "身體絕大部分是水分，\n一旦乾燥就會死亡，\n所以總是靜靜待在陰暗處。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "身體幾乎都是水分。\n只要環境乾燥身體就會變乾，\n是最弱的龍寶可夢。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "牠的觸角是優秀的感覺器官。\n只要感覺到有敵人就會立刻\n躲起來，以此存活到了現在。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Mucuscule",
+    "genus": "Pokémon Mollusque",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "C’est le plus faible de tous les Pokémon Dragon.\nPour éviter que son corps ne se dessèche,\nil recherche les lieux humides et ombragés."
+      },
+      {
+        "game": "xy-y",
+        "text": "Son corps est recouvert d’une membrane gluante,\naussi les coups des ennemis glissent sur lui sans\nlui faire le moindre mal."
+      },
+      {
+        "game": "oras-or",
+        "text": "C’est le plus faible de tous les Pokémon Dragon. Pour éviter\nque son corps ne se dessèche, il recherche les lieux humides\net ombragés."
+      },
+      {
+        "game": "oras-as",
+        "text": "Son corps est recouvert d’une membrane gluante,\naussi les coups des ennemis glissent sur lui sans\nlui faire le moindre mal."
+      },
+      {
+        "game": "sm-s",
+        "text": "C’est le plus faible de tous les Pokémon Dragon.\nSa peau doit rester hydratée pour respirer, c’est\npourquoi il préfère vivre tapi dans l’ombre."
+      },
+      {
+        "game": "sm-m",
+        "text": "Son corps est recouvert d’une membrane\ngluante protectrice, mais pleine de germes.\nLavez-vous les mains si vous le touchez !"
+      },
+      {
+        "game": "usum-us",
+        "text": "Ses cornes lui permettent d’inspecter\nles alentours. Elles sont si sensibles que\ntout son corps se fige si on les pince."
+      },
+      {
+        "game": "usum-um",
+        "text": "Son corps est majoritairement composé d’eau.\nIl meurt s’il se dessèche, aussi préfère-t-il vivre\ntapi dans l’ombre."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Son corps est principalement composé d’eau.\nS’il se déshydrate, il devient tout rabougri.\nC’est le plus faible des Pokémon Dragon."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Ses cornes sont des organes sensoriels qui lui\npermettent de se cacher quand il détecte des\nennemis. C’est grâce à cela qu’il vit toujours."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Viscora",
+    "genus": "Schneckedei-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Dieses schwächste aller Drachen-Pokémon lebt\nan feuchten und schattigen Plätzen, um seinen\nglitschigen Körper vor dem Austrocknen zu bewahren."
+      },
+      {
+        "game": "xy-y",
+        "text": "Sein Körper ist von einer schleimigen Schicht umhüllt,\nan der gegnerische Tritte und Schläge abgleiten, ohne\nSchaden anzurichten."
+      },
+      {
+        "game": "oras-or",
+        "text": "Dieses schwächste aller Drachen-Pokémon lebt an feuchten\nund schattigen Plätzen, um seinen glitschigen Körper vor dem\nAustrocknen zu bewahren."
+      },
+      {
+        "game": "oras-as",
+        "text": "Sein Körper ist von einer schleimigen Schicht umhüllt, an der\ngegnerische Tritte und Schläge abgleiten, ohne Schaden\nanzurichten."
+      },
+      {
+        "game": "sm-s",
+        "text": "Das schwächste aller Drachen-Pokémon.\nWenn seine Haut austrocknet, erstickt es.\nDaher hält es sich bevorzugt im Schatten auf."
+      },
+      {
+        "game": "sm-m",
+        "text": "Sein Körper ist von einer schleimigen Schutz-\nschicht umhüllt, die voller Bakterien steckt.\nNach dem Anfassen also Hände waschen!"
+      },
+      {
+        "game": "usum-us",
+        "text": "Mit seinen Fühlern tastet es die Umgebung ab.\nEs ist so empfindlich, dass es in Schockstarre\nverfällt, wenn man es in die Hand nimmt."
+      },
+      {
+        "game": "usum-um",
+        "text": "Sein Körper besteht fast ausschließlich aus\nWasser. Trocknet es aus, stirbt es. Deshalb hält\nes sich immer bewegungslos im Schatten auf."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Sein Körper besteht vorwiegend aus Wasser und\nverschrumpelt daher völlig, wenn es austrocknet.\nEs ist das schwächste aller Drachen-Pokémon."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Seine Fühler sind hochentwickelte Sinnesorgane.\nDa es dank ihnen Feinde sofort spüren und sich\nverstecken kann, hat es bis heute überlebt."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Goomy",
+    "genus": "Pokémon Molusco",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Es el Pokémon de tipo Dragón más débil. Habita en\nzonas oscuras y húmedas para evitar que su viscoso\ncuerpo se seque."
+      },
+      {
+        "game": "xy-y",
+        "text": "La membrana mucosa que lo recubre hace resbalar\ntanto los puñetazos como las patadas de los\nenemigos que lo golpean, gracias a su viscosidad."
+      },
+      {
+        "game": "oras-or",
+        "text": "Es el Pokémon de tipo Dragón más débil. Habita en zonas\noscuras y húmedas para evitar que su viscoso cuerpo se\nseque."
+      },
+      {
+        "game": "oras-as",
+        "text": "La membrana mucosa que lo recubre hace resbalar tanto los\npuñetazos como las patadas de los enemigos que lo golpean,\ngracias a su viscosidad."
+      },
+      {
+        "game": "sm-s",
+        "text": "Es el Pokémon de tipo Dragón más débil.\nNecesita mantener la piel húmeda para respirar,\ny por eso se oculta en las sombras."
+      },
+      {
+        "game": "sm-m",
+        "text": "Una membrana viscosa lo envuelve y lo protege,\npero tiene tal cantidad de gérmenes que hay\nque lavarse bien las manos tras tocarlo."
+      },
+      {
+        "game": "usum-us",
+        "text": "Palpa los alrededores con sus cuernos. Estos\nson tan sensibles que se queda paralizado si\nalguien se los agarra."
+      },
+      {
+        "game": "usum-um",
+        "text": "La mayor parte de su cuerpo está compuesto\npor agua, por lo que muere si llega a secarse.\nSiempre se le encuentra inmóvil en la sombra."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Su cuerpo se compone casi exclusivamente de\nagua, por lo que se debilitaría si se deshidratase.\nEs el Pokémon de tipo Dragón más débil."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Sus antenas son órganos sensoriales sumamente\ndesarrollados. Poder esconderse nada más\ndetectar enemigos le ha permitido sobrevivir."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Goomy",
+    "genus": "Pokémon Mollusco",
+    "flavorText": [
+      {
+        "game": "oras-as",
+        "text": "Il suo corpo è coperto da una membrana viscida che fa\nscivolare e devia i colpi dei nemici."
+      },
+      {
+        "game": "xy-x",
+        "text": "È il Pokémon Drago più debole di tutti. Vive in ambienti\numidi e in ombra per evitare che il suo corpo si secchi."
+      },
+      {
+        "game": "xy-y",
+        "text": "Il suo corpo è coperto da una membrana viscida\nche fa scivolare e devia i colpi dei nemici."
+      },
+      {
+        "game": "oras-or",
+        "text": "È il Pokémon Drago più debole di tutti. Vive in ambienti\numidi e in ombra per evitare che il suo corpo si secchi."
+      },
+      {
+        "game": "sm-s",
+        "text": "È il Pokémon di tipo Drago più debole di tutti.\nLa sua pelle deve restare umida per poter\nrespirare e per questo si rifugia nell’ombra."
+      },
+      {
+        "game": "sm-m",
+        "text": "Il suo corpo è protetto da una membrana viscida\nche pullula di batteri. Meglio lavarsi bene le mani\ndopo averlo toccato!"
+      },
+      {
+        "game": "usum-us",
+        "text": "I corni con cui sonda l’ambiente circostante sono\ncosì sensibili che, se qualcuno glieli afferra,\nil Pokémon resta pietrificato per lo shock."
+      },
+      {
+        "game": "usum-um",
+        "text": "Il suo corpo è formato prevalentemente d’acqua\ne se si disidrata rischia di morire. Per questo\nse ne sta rintanato all’ombra."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Il suo corpo è composto quasi esclusivamente\ndi acqua. Se si secca, avvizzisce. È il più debole\ndei Pokémon di tipo Drago."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "I suoi corni sono degli straordinari organi\nsensoriali. Riesce a sopravvivere nascondendosi\nnon appena percepisce la presenza del nemico."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Goomy",
+    "genus": "Soft Tissue Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "The weakest Dragon-type Pokémon,\nit lives in damp, shady places, so its\nbody doesn’t dry out."
+      },
+      {
+        "game": "xy-y",
+        "text": "It’s covered in a slimy membrane that makes\nany punches or kicks slide off it harmlessly."
+      },
+      {
+        "game": "oras-or",
+        "text": "The weakest Dragon-type Pokémon,\nit lives in damp, shady places, so its\nbody doesn’t dry out."
+      },
+      {
+        "game": "oras-as",
+        "text": "It’s covered in a slimy membrane that makes\nany punches or kicks slide off it harmlessly."
+      },
+      {
+        "game": "sm-s",
+        "text": "The weakest of all Dragon-type Pokémon,\nit’s unable to breathe if its skin dries out,\nso it sticks to shady places."
+      },
+      {
+        "game": "sm-m",
+        "text": "Its source of protection is its slimy, germ-laden\nmucous membrane. Anyone who touches it\nneeds some thorough hand-washing."
+      },
+      {
+        "game": "usum-us",
+        "text": "It uses its horns to check out its surroundings.\nThey’re very sensitive, so if you grab them, it\nwill feel a strong shock and be unable to move."
+      },
+      {
+        "game": "usum-um",
+        "text": "Its body is mostly water. If it dries out, it will\ndie, so it’s always sitting with perfect stillness\nin the shade."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Because most of its body is water, it will dry up if\nthe weather becomes too arid. It’s considered\nthe weakest dragon Pokémon."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Their horns are powerful sensors. As soon as\nGoomy pick up any sign of enemies, they go into\nhiding. This is how they’ve survived."
+      },
+      {
+        "game": "la",
+        "text": "Goomy hides away in the shade of trees, where it's nice and\nhumid. If the slime coating its body dries out, the Pokémon\ninstantly becomes lethargic."
+      }
+    ]
+  },
+  "chs": {
+    "name": "黏黏宝",
+    "genus": "软体生物宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "最弱小的龙属性宝可梦。\n皮肤干燥的话就会无法呼吸，\n因此一直静静地呆在背阴处哦。"
+      },
+      {
+        "game": "sm-m",
+        "text": "用滑腻腻的粘膜保护身体。\n因为粘膜上尽是各种细菌，\n接触后要好好地洗手哦。"
+      },
+      {
+        "game": "usum-us",
+        "text": "用角探索周围的情况。\n非常敏感，所以只要被握住，\n就会因震惊而无法动弹。"
+      },
+      {
+        "game": "usum-um",
+        "text": "身体几乎都是水分。\n如果干燥就会死亡，\n所以一直都静静地呆在背阴处。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "身体几乎都是水分。\n只要环境干燥身体就会变干，\n是最弱的龙宝可梦。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "它的触角是优秀的感觉器官。\n只要感觉到有敌人就会立刻\n藏起来，以此存活到了现在。"
+      }
+    ]
+  }
+}

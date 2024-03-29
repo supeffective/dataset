@@ -1,0 +1,309 @@
+{
+  "jap": {
+    "name": "ハンテール",
+    "genus": "しんかいポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "ひかりの　とどかない　しんかいに\nせいそく。こざかなに　にた　しっぽを\nひからせて　えものを　さそいだす。"
+      },
+      {
+        "game": "xy-y",
+        "text": "しんかいに　せいそくする　ポケモン。\nこざかなの　かたちをした　しっぽで\nえものを　おびきよせ　つかまえる。"
+      },
+      {
+        "game": "oras-or",
+        "text": "とても　ふかい　うみの　そこに　すんでいるため\nながい　あいだ　ひとに　みつからなかった。\nくらい　しんかいでも　よく　みえる　めを　もつ。"
+      },
+      {
+        "game": "oras-as",
+        "text": "さかなの　かたちをした　シッポで　おびきよせ\nおおきな　くちで　エサを　まるのみ　する。\nヘビのように　からだを　くねらせて　およぐ。"
+      },
+      {
+        "game": "usum-us",
+        "text": "およぐちからは　あまり　つよくない。\nシッポを　ふって　えものを　よびよせ\nちかよったところを　ガブリと　いく。"
+      },
+      {
+        "game": "usum-um",
+        "text": "しんかいに　せいそく。　ハンテールが\nはまに　うちあがると　ふきつなことが\nおこるという　いいつたえが　ある。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Huntail",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "헌테일",
+    "genus": "깊은바다포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "빛이 닿지 않는 심해에 서식한다.\n작은 생선처럼 생긴 꼬리를\n빛내어 먹잇감을 유인한다."
+      },
+      {
+        "game": "xy-y",
+        "text": "심해에 서식하는 포켓몬이다.\n작은 물고기 형태를 한 꼬리로\n먹이를 끌어들여 붙잡는다."
+      },
+      {
+        "game": "oras-or",
+        "text": "매우 깊은 바다 밑에 살고 있어서\n오랫동안 사람에게 발견되지 않았다.\n어두운 심해에서도 잘 볼 수 있는 눈을 지녔다."
+      },
+      {
+        "game": "oras-as",
+        "text": "물고기 모양 꼬리로 유인하여\n큰 입으로 먹이를 통째로 삼킨다.\n뱀처럼 몸을 구부리며 헤엄친다."
+      },
+      {
+        "game": "usum-us",
+        "text": "헤엄치는 힘은 그다지 강하지 않다.\n꼬리를 흔들어 먹이를 유인해\n다가오면 덥석 문다."
+      },
+      {
+        "game": "usum-um",
+        "text": "심해에 서식한다. 헌테일이\n해변에 올라오면 불길한 일이\n일어난다는 전설이 있다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "獵斑魚",
+    "genus": "深海寶可夢",
+    "flavorText": [
+      {
+        "game": "usum-us",
+        "text": "游泳能力不怎麼強，\n會揮動尾巴來吸引獵物，\n趁獵物靠近的時候一口咬住。"
+      },
+      {
+        "game": "usum-um",
+        "text": "棲息在深海中。傳說如果\n有獵斑魚被沖上沙灘，\n就會有不好的事發生。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Serpang",
+    "genus": "Pokémon Abysse",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Il vit loin sous la mer. Il appâte\nles proies crédules avec sa queue\nqui rappelle un petit poisson."
+      },
+      {
+        "game": "bw-w",
+        "text": "Il vit loin sous la mer. Il appâte\nles proies crédules avec sa queue\nqui rappelle un petit poisson."
+      },
+      {
+        "game": "xy-x",
+        "text": "Il vit dans les abysses, là où la lumière ne va jamais.\nIl allume le bout de sa queue, qui ressemble à un\npoisson, pour attirer ses proies."
+      },
+      {
+        "game": "xy-y",
+        "text": "Il vit loin sous la mer. Il appâte les proies crédules\navec sa queue qui rappelle un petit poisson."
+      },
+      {
+        "game": "oras-or",
+        "text": "L’existence de Serpang fut longtemps ignorée, car il vit\ndans les profondeurs abyssales des océans. Les yeux\nde ce Pokémon sont excellents et peuvent même voir\nà travers les eaux troubles des grandes profondeurs."
+      },
+      {
+        "game": "oras-as",
+        "text": "La queue de Serpang est en forme de poisson. Il l’utilise pour\nattirer sa proie qu’il avale en une fois grâce à sa bouche\nbéante. Ce Pokémon nage en tortillant son corps comme\nun serpent."
+      },
+      {
+        "game": "usum-us",
+        "text": "Ce piètre nageur se sert de sa queue pour\nappâter ses proies. Il les gobe si elles\napprochent de trop près."
+      },
+      {
+        "game": "usum-um",
+        "text": "Il habite dans les profondeurs de l’océan.\nUn Serpang trouvé sur la plage serait\nun mauvais présage."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Aalabyss",
+    "genus": "Tiefsee",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Es lebt tief im Meer, wo Sonnenlicht nie vordringt.\nBeim Beutefang leuchtet sein fischartiger Schwanz,\num Beute anzulocken."
+      },
+      {
+        "game": "xy-y",
+        "text": "Es lebt tief im Meer. Sein Schweif ist wie ein kleiner\nFisch geformt. Mit ihm lockt es Beute an."
+      },
+      {
+        "game": "oras-or",
+        "text": "Aalabyss entging lange der Aufmerksamkeit des Menschen,\nda es in extremen Tiefen des Meeres lebt. Die Augen dieses\nPokémon können selbst in den dunklen und trüben Tiefen des\nMeeres einwandfrei sehen."
+      },
+      {
+        "game": "oras-as",
+        "text": "Aalabyss’ Schweif ist wie ein Fisch geformt. Es benutzt ihn,\num Beute anzuziehen und schluckt diese dann im Ganzen\nherunter. Beim Schwimmen bewegt es seinen schlanken Körper\nwie eine Schlange."
+      },
+      {
+        "game": "usum-us",
+        "text": "Schwimmen ist nicht seine Stärke. Es schwingt\nseinen Schweif, um Beute anzulocken und\nverschluckt sie im Ganzen, wenn sie sich nähert."
+      },
+      {
+        "game": "usum-um",
+        "text": "Es lebt in der Tiefsee. Einer Überlieferung\nzufolge geschieht etwas Unheilvolles, wenn\nein Aalabyss am Strand auftaucht."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Huntail",
+    "genus": "Pokémon Abisal",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Vive en los abismos marinos, donde no se filtra la luz.\nTiene una cola en forma de pez, que enciende para\natraer a su presa."
+      },
+      {
+        "game": "xy-y",
+        "text": "Vive en los fondos marinos. Atrae a sus confiadas\npresas con la cola, que tiene forma de pez."
+      },
+      {
+        "game": "oras-or",
+        "text": "Huntail ha pasado desapercibido durante mucho tiempo por\nvivir en las profundidades del mar. El sentido de la vista de\neste Pokémon le permite ver en las oscuras y turbias aguas\nsubmarinas."
+      },
+      {
+        "game": "oras-as",
+        "text": "Huntail tiene una cola en forma de pez, que usa para atraer a\nsu presa. Una vez que la tiene cerca, la engulle sin más. Este\nPokémon nada haciendo serpentear el cuerpo como si fuera\nun reptil."
+      },
+      {
+        "game": "usum-us",
+        "text": "Curiosamente, no es un gran nadador. Agita la\ncola para atraer a sus presas y, cuando estas\nse acercan, las engulle de golpe."
+      },
+      {
+        "game": "usum-um",
+        "text": "Vive en los fondos marinos. Según una leyenda,\nque un Huntail aparezca varado en la playa es\nseñal de mal augurio."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Huntail",
+    "genus": "Pokémon Abissi",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Vive in mare a grandi profondità, dove non filtra\nnessuna luce. Attira le prede illuminando la codina\na forma di pesce."
+      },
+      {
+        "game": "xy-y",
+        "text": "Vive nei mari profondi. Con la coda a forma di\npesciolino attrae prede ignare del pericolo."
+      },
+      {
+        "game": "oras-or",
+        "text": "L’esistenza di Huntail è rimasta a lungo sconosciuta perché\nvive solo in mare a incredibili profondità.\nCon la sua vista così acuta riesce a vedere chiaramente\npersino nel buio pesto dei fondali marini."
+      },
+      {
+        "game": "oras-as",
+        "text": "La coda di Huntail è a forma di pesce. Il Pokémon la usa\ncome esca per la preda, che poi ingoia intera con l’enorme\nbocca spalancata. Nuota facendo ondeggiare il corpo\nsnello a forma di serpente."
+      },
+      {
+        "game": "usum-us",
+        "text": "Non è un grande nuotatore. Attira la preda\nagitando la coda, e non appena si avvicina\nla ingoia in un boccone."
+      },
+      {
+        "game": "usum-um",
+        "text": "Vive nelle profondità marine. Secondo le\nleggende, quando un Huntail si arena sulla riva\nè segno che sta per accadere una disgrazia."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Huntail",
+    "genus": "Deep Sea Pokémon",
+    "flavorText": [
+      {
+        "game": "rs-r",
+        "text": "HUNTAIL’s presence went unnoticed by\npeople for a long time because it lives\nat extreme depths in the sea.\fThis POKéMON’s eyes can see clearly\neven in the murky dark depths of the\nocean."
+      },
+      {
+        "game": "rs-s",
+        "text": "HUNTAIL’s tail is shaped like a fish.\nIt uses the tail to attract prey, then\nswallows the prey whole with its large,\fgaping mouth.\nThis POKéMON swims by wiggling its\nslender body like a snake."
+      },
+      {
+        "game": "e",
+        "text": "To withstand the crushing pressure of\nwater deep under the sea, its spine is very\nthick and sturdy. Its tail, which is shaped\nlike a small fish, has eyes that light up."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "It lives deep in the sea where no light\never filters down. It lights up its small\nfishlike tail to attract prey."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "It lives deep in the sea where no light\never filters down. It lights up its small\nfishlike tail to attract prey."
+      },
+      {
+        "game": "dp-d",
+        "text": "It lives deep in the sea. With a\ntail shaped like a small fish, it\nattracts unsuspecting prey."
+      },
+      {
+        "game": "dp-p",
+        "text": "It lives deep in the sea. With a\ntail shaped like a small fish, it\nattracts unsuspecting prey."
+      },
+      {
+        "game": "pt",
+        "text": "It lives deep in the sea. With a\ntail shaped like a small fish, it\nattracts unsuspecting prey."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "It lives deep in the pitch-dark sea.\nIt attracts prey by moving its tail\nin mimicry of a small animal."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "It lives deep in the pitch-dark sea.\nIt attracts prey by moving its tail\nin mimicry of a small animal."
+      },
+      {
+        "game": "bw-b",
+        "text": "It lives deep in the sea. With a\ntail shaped like a small fish, it\nattracts unsuspecting prey."
+      },
+      {
+        "game": "bw-w",
+        "text": "It lives deep in the sea. With a\ntail shaped like a small fish, it\nattracts unsuspecting prey."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "It lives deep in the sea. With a\ntail shaped like a small fish, it\nattracts unsuspecting prey."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "It lives deep in the sea. With a\ntail shaped like a small fish, it\nattracts unsuspecting prey."
+      },
+      {
+        "game": "xy-x",
+        "text": "It lives deep in the sea where no light ever filters\ndown. It lights up its small fishlike tail to\nattract prey."
+      },
+      {
+        "game": "xy-y",
+        "text": "It lives deep in the sea. With a tail shaped like a\nsmall fish, it attracts unsuspecting prey."
+      },
+      {
+        "game": "oras-or",
+        "text": "Huntail’s presence went unnoticed by people for a long\ntime because it lives at extreme depths in the sea.\nThis Pokémon’s eyes can see clearly even in the murky\ndark depths of the ocean."
+      },
+      {
+        "game": "oras-as",
+        "text": "Huntail’s tail is shaped like a fish. It uses the tail to attract\nprey, then swallows the prey whole with its large, gaping\nmouth. This Pokémon swims by wiggling its slender body\nlike a snake."
+      },
+      {
+        "game": "usum-us",
+        "text": "It’s not the strongest swimmer. It wags its tail to\nlure in its prey and then gulps them down as\nsoon as they get close."
+      },
+      {
+        "game": "usum-um",
+        "text": "Deep seas are their habitat. According to\ntradition, when Huntail wash up onshore,\nsomething unfortunate will happen."
+      }
+    ]
+  },
+  "chs": {
+    "name": "猎斑鱼",
+    "genus": "深海宝可梦",
+    "flavorText": [
+      {
+        "game": "usum-us",
+        "text": "游泳能力不太强。\n会挥动尾巴来吸引猎物，\n在很接近的时候一口咬住。"
+      },
+      {
+        "game": "usum-um",
+        "text": "栖息在深海中。\n传说，如果猎斑鱼被冲上沙滩，\n就会有不祥的事情发生。"
+      }
+    ]
+  }
+}

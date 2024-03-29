@@ -1,0 +1,133 @@
+{
+  "jap": {
+    "name": "メッソン",
+    "genus": "みずとかげポケモン",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "おびえると　タマネギ１００コぶんの\nさいるいせいぶんを　もつ　なみだを\nながして　もらいなき　させる。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "ひふの　いろは　ぬれると　かわる。\nカモフラージュ　されたかの　ように\nすがたが　みえなく　なるのだ。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Messon",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "울머기",
+    "genus": "물도마뱀포켓몬",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "겁을 먹으면 양파 100개와 맞먹는\n최루 성분의 눈물을 흘려서\n상대도 덩달아 울게 만든다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "젖으면 피부색이 변한다.\n위장한 것처럼\n모습이 보이지 않게 된다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "淚眼蜥",
+    "genus": "水蜥寶可夢",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "害怕時流下的淚水中含有\n相當於１００顆洋蔥的催淚成分，\n能讓對手淚流不止。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "皮膚在濕掉時會變色，\n彷彿像是隱身了一樣，\n誰都看不見牠的身影。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Larméléon",
+    "genus": "Pokémon Lézard’Eau",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Quand il a peur, il pleure des larmes contenant\nune substance lacrymogène d’une puissance\néquivalente à celle de cent oignons."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Sa peau change de couleur et le rend invisible\nquand elle est mouillée, comme un camouflage."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Memmeon",
+    "genus": "Wasserechsen-Pokémon",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Hat es Angst, vergießt es Tränen, die Reizstoffe\nenthalten, welche andere ebenfalls zum Weinen\nbringen. Sie sind so stark wie 100 Zwiebeln."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Wird seine Haut feucht, ändert sich ihre Farbe.\nDies dient ihm zur Tarnung, da man es dann\nnicht mehr sehen kann."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Sobble",
+    "genus": "Pokémon Acuartija",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Cuando se espanta, libera unas lágrimas con un\nfactor lacrimógeno equivalente a 100 cebollas\npara hacer llorar también al rival."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Al mojarse, su piel cambia de color y pasa a ser\ninvisible, como si se hubiese camuflado."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Sobble",
+    "genus": "Pokémon Acquacertola",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Se si spaventa, produce lacrime con un fattore\nlacrimogeno cento volte più potente di quello di\nuna cipolla per far piangere anche i nemici."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Quando si bagna, la pelle cambia colore e lo\nrende invisibile, come se si fosse mimetizzato."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Sobble",
+    "genus": "Water Lizard Pokémon",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "When scared, this Pokémon cries. Its tears pack\nthe chemical punch of 100 onions, and attackers\nwon’t be able to resist weeping."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "When it gets wet, its skin changes color,\nand this Pokémon becomes invisible as if\nit were camouflaged."
+      }
+    ]
+  },
+  "chs": {
+    "name": "泪眼蜥",
+    "genus": "水蜥宝可梦",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "害怕时流下的泪水中含有\n相当于１００颗洋葱的催泪成分，\n能让对手泪流不止。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "皮肤在湿掉时会变色，\n仿佛像是隐身了一样，\n谁都看不见它的身影。"
+      }
+    ]
+  }
+}

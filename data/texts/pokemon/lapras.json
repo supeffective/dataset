@@ -1,0 +1,549 @@
+{
+  "jap": {
+    "name": "ラプラス",
+    "genus": "のりものポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "やさしい　こころの　もちぬし。\nめったに　あらそわないため　たくさん\nつかまえられ　かずが　へった。"
+      },
+      {
+        "game": "xy-y",
+        "text": "ひとの　ことばを　りかいする　たかい\nちのうを　もつ。うみの　うえを\nひとを　のせて　すすむのが　すき。"
+      },
+      {
+        "game": "oras-or",
+        "text": "ひとが　ぜつめつの　ききに　おいこんでしまった。\nゆうぐれどきになると　すくなくなった　なかまを\nさがして　かなしそうな　こえで　うたうと　いう。"
+      },
+      {
+        "game": "oras-as",
+        "text": "ひとが　ぜつめつの　ききに　おいこんでしまった。\nゆうぐれどきになると　すくなくなった　なかまを\nさがして　かなしそうな　こえで　うたうと　いう。"
+      },
+      {
+        "game": "sm-s",
+        "text": "たかい　ちのうを　もち　にんげんの\nことばを　りかいする。　ごきげんに\nなると　うつくしい　こえで　うたう。"
+      },
+      {
+        "game": "sm-m",
+        "text": "みつりょうで　ぜつめつすんぜんに。\nたいせつに　ほご　された　けっか\nぎゃくに　ふえすぎてきたという。"
+      },
+      {
+        "game": "usum-us",
+        "text": "ひとを　のせて　およぐのが　すき。\nアローラちほう　では　たいせつな\nすいじょうの　こうつう　しゅだん。"
+      },
+      {
+        "game": "usum-um",
+        "text": "たいせつに　されすぎて　ふえすぎた。\nラプラスが　おおすぎる　うみでは\nさかなポケモンが　へってきたという。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "にんげんの　ことばを　りかいする\nやさしい　こころの　もちぬしだ。\nせなかに　のせて　うみをゆく。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "にんげんの　ことばを　りかいする\nやさしい　こころの　もちぬしだ。\nせなかに　のせて　うみをゆく。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "かしこく　こころやさしい　ポケモン。\nきれいな　うたごえを　ひびかせながら\nうみのうえを　およいで　いく。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "さむさに　つよく　こおりの　うみも\nへいき。　ひふは　スベスベで\nすこしだけ　ひんやり　しているよ。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Laplace",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "라프라스",
+    "genus": "탈것포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "부드러운 마음의 소유자다.\n좀처럼 다투지 않아 많이\n잡혔기 때문에 수가 줄었다."
+      },
+      {
+        "game": "xy-y",
+        "text": "사람의 말을 이해하는 높은 지능을\n가지고 있다. 사람을 태우고\n바다를 건너는 것을 좋아한다."
+      },
+      {
+        "game": "oras-or",
+        "text": "사람이 멸종의 위기로 몰아갔다.\n석양이 내리면 수가 줄어든 동료를\n찾아 슬픈 목소리로 노래한다고 한다."
+      },
+      {
+        "game": "oras-as",
+        "text": "사람이 멸종의 위기로 몰아갔다.\n석양이 내리면 수가 줄어든 동료를\n찾아 슬픈 목소리로 노래한다고 한다."
+      },
+      {
+        "game": "sm-s",
+        "text": "높은 지능을 가졌으며 인간의\n말을 이해한다. 기분이 좋아지면\n아름다운 목소리로 노래한다."
+      },
+      {
+        "game": "sm-m",
+        "text": "밀렵으로 멸종 위기에 처했다가\n소중히 보호한 결과\n오히려 수가 너무 늘었다고 한다."
+      },
+      {
+        "game": "usum-us",
+        "text": "사람을 태우고 헤엄치는 것을 좋아한다.\n알로라지방에서는 소중한\n수상 교통수단이다."
+      },
+      {
+        "game": "usum-um",
+        "text": "너무 소중히 여겨져서 수가 너무 늘었다.\n라프라스가 너무 많은 바다에는\n물고기포켓몬이 줄어든다고 한다."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "인간의 말을 이해하는\n착한 마음의 소유자다.\n사람을 등에 태우고 바다를 건넌다."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "인간의 말을 이해하는\n착한 마음의 소유자다.\n사람을 등에 태우고 바다를 건넌다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "영리하고 마음 착한 포켓몬.\n아름다운 소리로 노래 부르며\n바다 위를 헤엄친다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "추위에 강해서 얼음 바다에서도\n끄떡없다. 피부는 매끈매끈하고\n조금 차갑다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "拉普拉斯",
+    "genus": "乘載寶可夢",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "擁有很高的智商，理解人類的語言。\n心情好的時候會用美妙的聲音唱歌。"
+      },
+      {
+        "game": "sm-m",
+        "text": "因違法捕撈而導致瀕臨絕種。\n但據說在受到重點保護之後，\n數量反而開始過度增加了。"
+      },
+      {
+        "game": "usum-us",
+        "text": "喜歡載著人游泳。\n在阿羅拉地區\n是重要的水上交通工具。"
+      },
+      {
+        "game": "usum-um",
+        "text": "因為受到過度保護而導致數量激增。\n據說在拉普拉斯過多的海域，\n魚寶可夢的數量已漸漸減少了。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "能夠理解人類的語言。\n有著一顆善良的心，\n會把人載在背上渡過大海。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "能夠理解人類的語言。\n有著一顆善良的心，\n會把人載在背上渡過大海。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "頭腦聰慧，心地善良的寶可夢。\n會一邊以優美的聲音歌唱，\n一邊暢游在大海之上。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "十分耐寒，不畏冰海。\n皮膚滑滑的，\n摸起來會有點涼。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Lokhlass",
+    "genus": "Pokémon Transport",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Il aime naviguer en portant des\nhumains et des Pokémon sur son\ndos. Il comprend le langage humain."
+      },
+      {
+        "game": "bw-w",
+        "text": "Il aime naviguer en portant des\nhumains et des Pokémon sur son\ndos. Il comprend le langage humain."
+      },
+      {
+        "game": "xy-x",
+        "text": "Ils sont d’une nature gentille. Comme ils se défendent\nrarement, ils sont en voie d’extinction."
+      },
+      {
+        "game": "xy-y",
+        "text": "Son intelligence lui permet de comprendre le langage\ndes humains. Il adore promener les gens sur son dos."
+      },
+      {
+        "game": "oras-or",
+        "text": "Les Lokhlass sont en voie d’extinction. Le soir, on entend\nce Pokémon chantonner une complainte mélancolique,\nespérant retrouver ses rares congénères."
+      },
+      {
+        "game": "oras-as",
+        "text": "Les Lokhlass sont en voie d’extinction. Le soir, on entend\nce Pokémon chantonner une complainte mélancolique,\nespérant retrouver ses rares congénères."
+      },
+      {
+        "game": "sm-s",
+        "text": "Ce Pokémon est très intelligent et comprend\nle langage humain. Quand il est de bonne\nhumeur, il chante avec une voix magnifique."
+      },
+      {
+        "game": "sm-m",
+        "text": "Il était en voie d’extinction à cause de la pêche\nillégale, mais après de stricts programmes de\nprotection, il y en a maintenant trop."
+      },
+      {
+        "game": "usum-us",
+        "text": "Il prend plaisir à transporter des humains sur\nson dos quand il nage. Les habitants d’Alola\nadorent ce moyen de transport."
+      },
+      {
+        "game": "usum-um",
+        "text": "Cette espèce protégée a tellement proliféré que\nles Pokémon poissons se font apparemment\nplus rares dans les eaux peuplées de Lokhlass."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Ce gentil Pokémon comprend le langage\nhumain. Il parcourt les mers en transportant\ndes gens sur son dos."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Ce gentil Pokémon comprend le langage\nhumain. Il parcourt les mers en transportant\ndes gens sur son dos."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "C’est un Pokémon doux et intelligent.\nIl vogue sur la mer en émettant un chant\nmagnifique."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Il résiste bien aux très basses températures\net peut nager dans des mers glaciales.\nSa peau est lisse et légèrement froide au toucher."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Lapras",
+    "genus": "Transport-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Sie sind gutmütig. Da sie selten kämpfen,\nwurden sie oft gefangen. Ihre Anzahl ist\nstark reduziert."
+      },
+      {
+        "game": "xy-y",
+        "text": "Aufgrund seiner hohen Intelligenz kann es\ndie menschliche Sprache verstehen. Es mag es,\nMenschen auf seinem Rücken zu transportieren."
+      },
+      {
+        "game": "oras-or",
+        "text": "Die Menschen sind dafür verantwortlich, dass Lapras fast\nausgestorben wäre. Abends singt es traurige Klagelieder,\nda nur noch wenige seiner Artgenossen übrig sind."
+      },
+      {
+        "game": "oras-as",
+        "text": "Die Menschen sind dafür verantwortlich, dass Lapras fast\nausgestorben wäre. Abends singt es traurige Klagelieder,\nda nur noch wenige seiner Artgenossen übrig sind."
+      },
+      {
+        "game": "sm-s",
+        "text": "Aufgrund seiner hohen Intelligenz kann es die\nmenschliche Sprache verstehen. Ist es gut\ngelaunt, singt es mit wunderschöner Stimme."
+      },
+      {
+        "game": "sm-m",
+        "text": "Es wäre einst durch übermäßiges Fischen fast\nausgestorben. Durch ein strenges Abkommen\nzum Artenschutz gibt es nun fast zu viele."
+      },
+      {
+        "game": "usum-us",
+        "text": "Da es liebend gerne beim Schwimmen Menschen\nauf seinem Rücken trägt, gilt es in Alola als\nbedeutendes Transportmittel."
+      },
+      {
+        "game": "usum-um",
+        "text": "Aufgrund eines Artenschutzabkommens gibt es\nnun zu viele Lapras. In den betroffenen Meeren\nsinkt daher das Vorkommen von Fisch-Pokémon."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Dieses freundliche Pokémon besitzt ein sanftes\nGemüt und versteht die Sprache der Menschen.\nAuf seinem Rücken trägt es sie über das Meer."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Dieses freundliche Pokémon besitzt ein sanftes\nGemüt und versteht die Sprache der Menschen.\nAuf seinem Rücken trägt es sie über das Meer."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Ein intelligentes und herzensgutes Pokémon.\nWährend es auf dem Meer schwimmt, lässt es\nseinen herrlichen Gesang erklingen."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Es kommt gut mit Kälte zurecht und kann auch\nin eisigen Meeren problemlos schwimmen.\nSeine Haut fühlt sich glatt und kühl an."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Lapras",
+    "genus": "Pokémon Transporte",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Son buenos de corazón. Muchos fueron capturados\npor ser tan pacíficos. Ahora hay muchos menos."
+      },
+      {
+        "game": "xy-y",
+        "text": "Tiene un coeficiente intelectual tan alto que puede\nentender el lenguaje humano. Le encanta llevar a\ngente sobre el lomo."
+      },
+      {
+        "game": "oras-or",
+        "text": "Por culpa de la gente, Lapras está casi en extinción. Dicen\nque, al anochecer, se pone a cantar quejicoso mientras busca\na los miembros de su especie que puedan quedar."
+      },
+      {
+        "game": "oras-as",
+        "text": "Por culpa de la gente, Lapras está casi en extinción. Dicen\nque, al anochecer, se pone a cantar quejicoso mientras busca\na los miembros de su especie que puedan quedar."
+      },
+      {
+        "game": "sm-s",
+        "text": "Es un Pokémon muy inteligente y comprende el\nlenguaje humano. Cuando está de buen humor,\ncanta con su bella voz."
+      },
+      {
+        "game": "sm-m",
+        "text": "Estuvo en peligro de extinción debido a la caza\nilegal. Sin embargo, desde que está protegido, la\npoblación de Lapras ha crecido sin mesura."
+      },
+      {
+        "game": "usum-us",
+        "text": "Debido a su buena disposición a llevar gente\nsobre su lomo, ha terminado por convertirse en\nun medio de transporte muy popular en Alola."
+      },
+      {
+        "game": "usum-um",
+        "text": "Desde que están protegidos, la población de\nLapras ha crecido sin mesura, a la par que la de\nlos Pokémon pez ha ido en descenso."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Este amable Pokémon es capaz de comprender\nel lenguaje humano y deja que las personas\nmonten en él para navegar por el mar."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Este amable Pokémon es capaz de comprender\nel lenguaje humano y deja que las personas\nmonten en él para navegar por el mar."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Este Pokémon posee una notable inteligencia y\nun corazón de oro. Entona un canto melodioso\nmientras surca el mar."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Nada sin problema en aguas heladas gracias a la\nsoberbia resistencia al frío que posee. Su tersa\npiel es ligeramente fría al tacto."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Lapras",
+    "genus": "Pokémon Trasporto",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Sono buoni d’animo e lottano di rado, così molti\ndi loro sono facili prede: sono stati decimati."
+      },
+      {
+        "game": "xy-y",
+        "text": "La sua intelligenza gli permette di comprendere il\nlinguaggio degli umani, che ama trasportare sul suo\ndorso."
+      },
+      {
+        "game": "oras-or",
+        "text": "L’uomo ha portato Lapras alla sua quasi totale estinzione.\nSi dice che la sera lo si senta cantare malinconico per\nrichiamare i suoi pochi simili ancora in vita."
+      },
+      {
+        "game": "oras-as",
+        "text": "L’uomo ha portato Lapras alla sua quasi totale estinzione.\nSi dice che la sera lo si senta cantare malinconico per\nrichiamare i suoi pochi simili ancora in vita."
+      },
+      {
+        "game": "sm-s",
+        "text": "È talmente intelligente da comprendere\nil linguaggio degli esseri umani. Quando è di\nbuon umore, canta con la sua bellissima voce."
+      },
+      {
+        "game": "sm-m",
+        "text": "Le misure adottate per proteggerlo ne hanno\nscongiurato il pericolo di estinzione, ma ha finito\nper moltiplicarsi in modo eccessivo."
+      },
+      {
+        "game": "usum-us",
+        "text": "Ama trasportare persone sul suo dorso.\nAd Alola, viaggiare in groppa a Lapras è un\nmodo molto popolare di spostarsi sull’acqua."
+      },
+      {
+        "game": "usum-um",
+        "text": "Fin troppo protetto, ha finito per moltiplicarsi\nin modo eccessivo e questo ha causato una\ndiminuzione dei Pokémon acquatici nei mari."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Possiede un animo gentile e capisce il linguaggio\ndegli esseri umani. Trasporta le persone per\nmare sul suo dorso."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Possiede un animo gentile e capisce il linguaggio\ndegli esseri umani. Trasporta le persone per\nmare sul suo dorso."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "È un Pokémon intelligente e dall’animo gentile.\nSolca i mari facendo riecheggiare il suo canto\ndolce e melodioso."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Resiste molto bene al freddo e si trova\na suo agio anche nei mari ghiacciati.\nLa sua pelle è liscia e fresca."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Lapras",
+    "genus": "Transport Pokémon",
+    "flavorText": [
+      {
+        "game": "rb-r",
+        "text": "A POKéMON that\nhas been over­\nhunted almost to\fextinction. It\ncan ferry people\nacross the water."
+      },
+      {
+        "game": "rb-b",
+        "text": "A POKéMON that\nhas been over­\nhunted almost to\fextinction. It\ncan ferry people\nacross the water."
+      },
+      {
+        "game": "y",
+        "text": "A gentle soul that\ncan read the minds\nof people. It can\fferry people\nacross the sea on\nits back."
+      },
+      {
+        "game": "gs-g",
+        "text": "They have gentle\nhearts. Because\nthey rarely fight,\fmany have been\ncaught. Their num­\nber has dwindled."
+      },
+      {
+        "game": "gs-s",
+        "text": "It ferries people\nacross the sea on\nits back. It may\fsing an enchanting\ncry if it is in a\ngood mood."
+      },
+      {
+        "game": "c",
+        "text": "This gentle\nPOKéMON loves to\ngive people rides\fand provides a ve­\nry comfortable way\nto get around."
+      },
+      {
+        "game": "rs-r",
+        "text": "People have driven LAPRAS almost to the\npoint of extinction. In the evenings,\nthis POKéMON is said to sing plaintively\fas it seeks what few others of its kind\nstill remain."
+      },
+      {
+        "game": "rs-s",
+        "text": "People have driven LAPRAS almost to the\npoint of extinction. In the evenings,\nthis POKéMON is said to sing plaintively\fas it seeks what few others of its kind\nstill remain."
+      },
+      {
+        "game": "e",
+        "text": "People have driven LAPRAS almost to the\npoint of extinction. In the evenings,\nit is said to sing plaintively as it seeks\nwhat few others of its kind still remain."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "Its high intelligence enables it to\nunderstand human speech. It likes to ferry\npeople on its back."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "A POKéMON that has been overhunted\nalmost to extinction. It can ferry people\non its back."
+      },
+      {
+        "game": "dp-d",
+        "text": "It loves crossing the sea with\npeople and Pokémon on its back.\nIt understands human speech."
+      },
+      {
+        "game": "dp-p",
+        "text": "It loves crossing the sea with\npeople and Pokémon on its back.\nIt understands human speech."
+      },
+      {
+        "game": "pt",
+        "text": "It loves crossing the sea with\npeople and Pokémon on its back.\nIt understands human speech."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "They have gentle hearts. Because\nthey rarely fight, many have been\ncaught. Their number has dwindled."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "It ferries people across the sea on\nits back. It may sing an enchanting\ncry if it is in a good mood."
+      },
+      {
+        "game": "bw-b",
+        "text": "It loves crossing the sea with\npeople and Pokémon on its back.\nIt understands human speech."
+      },
+      {
+        "game": "bw-w",
+        "text": "It loves crossing the sea with\npeople and Pokémon on its back.\nIt understands human speech."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "Able to understand human speech\nand very intelligent, it loves to swim\nin the sea with people on its back."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "Able to understand human speech\nand very intelligent, it loves to swim\nin the sea with people on its back."
+      },
+      {
+        "game": "xy-x",
+        "text": "They have gentle hearts. Because they rarely\nfight, many have been caught. Their number\nhas dwindled."
+      },
+      {
+        "game": "xy-y",
+        "text": "Its high intelligence enables it to understand human\nspeech. It likes to ferry people on its back."
+      },
+      {
+        "game": "oras-or",
+        "text": "People have driven Lapras almost to the point of extinction.\nIn the evenings, this Pokémon is said to sing plaintively as it\nseeks what few others of its kind still remain."
+      },
+      {
+        "game": "oras-as",
+        "text": "People have driven Lapras almost to the point of extinction.\nIn the evenings, this Pokémon is said to sing plaintively as\nit seeks what few others of its kind still remain."
+      },
+      {
+        "game": "sm-s",
+        "text": "Its high intelligence enables it to comprehend\nhuman speech. When it’s in a good mood,\nit sings in its beautiful voice."
+      },
+      {
+        "game": "sm-m",
+        "text": "These Pokémon were once near extinction due\nto poaching. Following protective regulations,\nthere is now an overabundance of them."
+      },
+      {
+        "game": "usum-us",
+        "text": "It likes swimming around with people on its\nback. In the Alola region, it’s an important means\nof transportation over water."
+      },
+      {
+        "game": "usum-um",
+        "text": "They’ve been so cherished that there’s now an\noverabundance. The fish Pokémon population\nhas declined in waters with too many Lapras."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "A gentle soul that can understand\nhuman speech. It can ferry people across\nthe sea on its back."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "A gentle soul that can understand\nhuman speech. It can ferry people across\nthe sea on its back."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "A smart and kindhearted Pokémon,\nit glides across the surface of the sea while\nits beautiful song echoes around it."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Crossing icy seas is no issue for this\ncold-resistant Pokémon. Its smooth skin\nis a little cool to the touch."
+      }
+    ]
+  },
+  "chs": {
+    "name": "拉普拉斯",
+    "genus": "乘载宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "拥有很高的智商，理解人类的语言。\n心情好的时候会用美妙的声音唱歌。"
+      },
+      {
+        "game": "sm-m",
+        "text": "曾因非法捕捞濒临灭绝。\n但听说重点保护却反而\n导致它有点泛滥成灾。"
+      },
+      {
+        "game": "usum-us",
+        "text": "喜欢乘载着人游泳。\n在阿罗拉地区，\n这是重要的水上交通方式。"
+      },
+      {
+        "game": "usum-um",
+        "text": "重点保护过头导致数量增加太多。\n据说在拉普拉斯过多的海域，\n鱼宝可梦的数量已经减少了。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "它拥有可以理解人类\n语言的温柔之心。\n会把人载在背上渡过大海。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "它拥有可以理解人类\n语言的温柔之心。\n会把人载在背上渡过大海。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "头脑聪慧，心地善良的宝可梦。\n会一边以优美的声音歌唱，\n一边畅游于大海之上。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "十分耐寒，不畏冰海。\n皮肤滑滑的，\n摸上去会有点凉。"
+      }
+    ]
+  }
+}

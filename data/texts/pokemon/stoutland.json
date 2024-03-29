@@ -1,0 +1,413 @@
+{
+  "jap": {
+    "name": "ムーランド",
+    "genus": "かんだいポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "ふぶきで　とざされた　やまに　はいり\nそうなんした　ひとを　たすける。\nながい　けが　さむさを　ふせぐ。"
+      },
+      {
+        "game": "xy-y",
+        "text": "ながい　たいもうに　つつまれると\nふゆやまでも　ひとばん　へいきなほど\nあたたかく　とても　ここちよい。"
+      },
+      {
+        "game": "oras-or",
+        "text": "ふぶきで　とざされた　やまに　はいり\nそうなんした　ひとを　たすける。\nながい　けが　さむさを　ふせぐ。"
+      },
+      {
+        "game": "oras-as",
+        "text": "ながい　たいもうに　つつまれると\nふゆやまでも　ひとばん　へいきなほど\nあたたかく　とても　ここちよい。"
+      },
+      {
+        "game": "sm-s",
+        "text": "かしこく　おんこうで　ゆうかん。\nレスキューたいの　たいいんたちの\nたよれる　あいぼう　だぞ。"
+      },
+      {
+        "game": "sm-m",
+        "text": "かしこく　ひとに　おそいかかる\nしんぱいが　ないので　こどもの\nおもりを　まかせる　おやも　いる。"
+      },
+      {
+        "game": "usum-us",
+        "text": "ながく　あたたかい　けの　おかげで\nさむさは　へっちゃら。　アローラの\nムーランドは　すこし　くるしそうだ。"
+      },
+      {
+        "game": "usum-um",
+        "text": "ながく　あつでの　たいもうを　もつ。\nむかしは　さむい　ちほうでは　１かに\n１ぴき　ムーランドを　かっていた。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "ひとと　くらすのが　すきらしい。\nやせいで　つかまえても　みっかも\nたてば　ひとに　なつくようになる。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "りっぱなヒゲが　じまんの　ポケモン。\nその　ながさで　なかまどうしの\nゆうれつが　きまると　いう。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Mooland",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "바랜드",
+    "genus": "관대포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "눈보라로 길이 막힌 산에 들어가\n조난된 사람을 구해준다.\n긴 털이 추위를 막는다."
+      },
+      {
+        "game": "xy-y",
+        "text": "긴 털에 둘러싸이면 겨울 산에서\n하룻밤을 보내도 괜찮을 정도로\n따뜻하고 매우 기분이 좋다."
+      },
+      {
+        "game": "oras-or",
+        "text": "눈보라로 길이 막힌 산에 들어가\n조난된 사람을 구해준다.\n긴 털이 추위를 막는다."
+      },
+      {
+        "game": "oras-as",
+        "text": "긴 털에 둘러싸이면 겨울 산에서\n하룻밤을 보내도 괜찮을 정도로\n따뜻하고 매우 기분이 좋다."
+      },
+      {
+        "game": "sm-s",
+        "text": "똑똑하고 온후하며 용감하다.\n구조대 대원들의\n믿음직한 동료이다."
+      },
+      {
+        "game": "sm-m",
+        "text": "영리해서 사람을 공격할\n걱정이 없어 아이를\n돌보게 하는 부모도 있다."
+      },
+      {
+        "game": "usum-us",
+        "text": "길고 따듯한 털 덕분에\n추위는 걱정 없다. 알로라의\n바랜드는 조금 괴로운 것 같다."
+      },
+      {
+        "game": "usum-um",
+        "text": "길고 두꺼운 털을 가졌다.\n옛날 추운 지방에서는 한 집에\n1마리씩 바랜드를 키웠다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "사람과 사는 것을 좋아하는 듯하다.\n야생에서 잡아도 3일만 지나면\n사람을 따르게 된다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "훌륭한 수염이 특징인 포켓몬이다.\n그 길이로 동료들과\n우열을 가린다고 한다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "長毛狗",
+    "genus": "寬大寶可夢",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "聰明溫厚而勇敢。\n是深受救援隊隊員們\n信賴的好夥伴。"
+      },
+      {
+        "game": "sm-m",
+        "text": "很聰明，不用擔心牠會\n襲擊人，所以也有家長會\n把保護孩子的任務交給牠。"
+      },
+      {
+        "game": "usum-us",
+        "text": "靠著又長又暖的毛皮，\n一點也不怕寒冷的天氣。\n但阿羅拉的長毛狗看起來有點難受。"
+      },
+      {
+        "game": "usum-um",
+        "text": "有著又長又厚的體毛。\n過去在寒冷的地方，\n每戶人家都會養１隻長毛狗。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "似乎很喜歡和人類一起生活。\n即使是捕捉來的野生長毛狗，\n只要過個三天就會與人親近。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "以氣派的鬍鬚為傲的寶可夢。\n據說在夥伴之間的階級地位\n就取決於鬍鬚的長度。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Mastouffe",
+    "genus": "Pokémon Magnanime",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Il sauve les gens bloqués dans les\nmontagnes par des tempêtes de neige.\nSes longs poils le protègent du froid."
+      },
+      {
+        "game": "bw-w",
+        "text": "Il est spécialisé dans l’assistance aux\npersonnes perdues en mer ou en\nmontagne. Il est très intelligent."
+      },
+      {
+        "game": "xy-x",
+        "text": "Il sauve les gens bloqués dans les montagnes par\ndes tempêtes de neige. Ses longs poils le protègent\ndu froid."
+      },
+      {
+        "game": "xy-y",
+        "text": "Sa soyeuse fourrure à poils longs est assez chaude\npour supporter de longues nuits d’hiver en montagne."
+      },
+      {
+        "game": "oras-or",
+        "text": "Il sauve les gens bloqués dans les montagnes par\ndes tempêtes de neige. Ses longs poils le protègent\ndu froid."
+      },
+      {
+        "game": "oras-as",
+        "text": "Sa soyeuse fourrure à poils longs est assez chaude\npour supporter de longues nuits d’hiver en montagne."
+      },
+      {
+        "game": "sm-s",
+        "text": "Sagesse, gentillesse et bravoure sont les mots\nqui qualifient le mieux ce Pokémon, devenu\nl’inséparable partenaire des équipes de secours."
+      },
+      {
+        "game": "sm-m",
+        "text": "Modèle de sagesse, il ne s’en prend jamais aux\nhumains sans raison, et assume volontiers le\nrôle de nounou pour les parents occupés."
+      },
+      {
+        "game": "usum-us",
+        "text": "Son long pelage le protège parfaitement du froid.\nMalheureusement pour lui, cela n’est pas très\nutile à Alola."
+      },
+      {
+        "game": "usum-um",
+        "text": "Il possède un pelage long et épais. Jadis, dans\nles régions froides, chaque foyer en élevait un."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Il apprécierait tant la compagnie des êtres\nhumains qu’il ne faudrait pas plus de trois jours\npour apprivoiser un Mastouffe sauvage."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Sa moustache remarquable fait sa fierté,\ncar sa longueur permettrait de déterminer\nla hiérarchie au sein de l’espèce."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Bissbark",
+    "genus": "Großmut-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Es rettet Menschen, die aufgrund eines\nSchneesturmes im Gebirge festsitzen.\nSein langes Fell schützt es vor Kälte."
+      },
+      {
+        "game": "xy-y",
+        "text": "Sein langes Fell ist sehr bequem und kann einen\nMenschen eine ganze Nacht lang auf einem\nschneebedeckten Berg warmhalten."
+      },
+      {
+        "game": "oras-or",
+        "text": "Es rettet Menschen, die aufgrund eines Schneesturmes im\nGebirge festsitzen. Sein langes Fell schützt es vor Kälte."
+      },
+      {
+        "game": "oras-as",
+        "text": "Sein langes Fell ist sehr bequem und kann einen Menschen\neine ganze Nacht lang auf einem schneebedeckten Berg\nwarmhalten."
+      },
+      {
+        "game": "sm-s",
+        "text": "Es ist ein kluges, sanftmütiges und tapferes\nPokémon. Für Mitglieder von Rettungstruppen\nstellt es einen zuverlässigen Partner dar."
+      },
+      {
+        "game": "sm-m",
+        "text": "Da es klug ist und keine Gefahr besteht, dass\nes Menschen angreift, geben Eltern ihre Kinder\nin seine Obhut."
+      },
+      {
+        "game": "usum-us",
+        "text": "Dank seines langen, warmen Fells kann ihm die\nKälte nichts anhaben. In Alola hat es daher\nleider mit dem schwülen Klima zu kämpfen."
+      },
+      {
+        "game": "usum-um",
+        "text": "Es hat langes, dickes Fell. Vor einiger Zeit war\nes in kalten Gegenden üblich, dass jede Familie\nein Bissbark im Haus hielt."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Bissbark scheint gerne unter Menschen zu leben.\nWenn man ein wildes Exemplar fängt, dauert es\nnur etwa drei Tage, bis dieses zutraulich wird."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Seinen üppigen Schnauzbart trägt es mit Stolz.\nAngeblich entscheidet dessen Länge über die\nRangordnung innerhalb dieser Pokémon-Art."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Stoutland",
+    "genus": "Pokémon Magnánimo",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Socorre a humanos perdidos en montañas azotadas\npor ventiscas. Su largo pelaje le protege del frío."
+      },
+      {
+        "game": "xy-y",
+        "text": "Un humano podría pasar una noche gélida en las\nmontañas sin pasar frío si se tapara con su largo y\ntupido pelaje."
+      },
+      {
+        "game": "oras-or",
+        "text": "Socorre a humanos perdidos en montañas azotadas por\nventiscas. Su largo pelaje le protege del frío."
+      },
+      {
+        "game": "oras-as",
+        "text": "Un humano podría pasar una noche gélida en las montañas\nsin pasar frío si se tapara con su largo y tupido pelaje."
+      },
+      {
+        "game": "sm-s",
+        "text": "A su inteligencia y carácter afable se suma su\nvalentía. Presta una ayuda inestimable a los\nequipos de rescate."
+      },
+      {
+        "game": "sm-m",
+        "text": "Debido a su inteligencia y a lo manso que se\nmuestra al tratar con personas, algunos padres\nconfían en él incluso para proteger a sus hijos."
+      },
+      {
+        "game": "usum-us",
+        "text": "El largo y cálido pelaje le permite soportar sin\nningún problema el frío, pero resulta un poco\nasfixiante en Alola."
+      },
+      {
+        "game": "usum-um",
+        "text": "Posee un largo y tupido pelaje. En las regiones\nfrías no había antaño una casa que no tuviese\nun Stoutland."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Parece ser que le gusta vivir con personas. En tan\nsolo tres días ya le coge cariño a cualquiera que\nlo haya atrapado en estado salvaje."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Sus impresionantes bigotes son su orgullo. Entre\nlos de su especie se establece una jerarquía\nsegún su longitud."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Stoutland",
+    "genus": "Pokémon Generosità",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Soccorre chi si trova in difficoltà sulle montagne\nspazzate da bufere di neve. I lunghi peli lo\nproteggono dal freddo."
+      },
+      {
+        "game": "xy-y",
+        "text": "Avvolti nel suo caldo manto si può dormire\nall’addiaccio su una montagna in inverno senza\ncorrere alcun pericolo."
+      },
+      {
+        "game": "oras-or",
+        "text": "Soccorre chi si trova in difficoltà sulle montagne spazzate\nda bufere di neve. I lunghi peli lo proteggono dal freddo."
+      },
+      {
+        "game": "oras-as",
+        "text": "Avvolti nel suo caldo manto si può dormire all’addiaccio su una\nmontagna in inverno senza correre alcun pericolo."
+      },
+      {
+        "game": "sm-s",
+        "text": "Intelligente, calmo e coraggioso, è il compagno\nideale degli addetti alle missioni di soccorso."
+      },
+      {
+        "game": "sm-m",
+        "text": "La sua intelligenza e docilità verso gli esseri\numani fanno sì che molti genitori si affidino\na lui per la cura dei figli."
+      },
+      {
+        "game": "usum-us",
+        "text": "Non teme il freddo grazie al manto lungo\ne caldo. Gli Stoutland che vivono ad Alola,\nperò, sembrano soffrire un po’ il caldo."
+      },
+      {
+        "game": "usum-um",
+        "text": "Ha un manto lungo e folto. In passato, nelle\nregioni fredde ogni famiglia aveva uno Stoutland."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Sembra gli piaccia vivere con gli esseri umani.\nGli esemplari selvatici catturati si affezionano\nnel giro di tre giorni."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Va molto fiero dei suoi splendidi baffi. Si dice\nche la loro lunghezza determini la sua\nsuperiorità o inferiorità rispetto ai suoi simili."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Stoutland",
+    "genus": "Big-Hearted Pokémon",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "It rescues people stranded by\nblizzards in the mountains. Its\nshaggy fur shields it from the cold."
+      },
+      {
+        "game": "bw-w",
+        "text": "This extremely wise Pokémon excels\nat rescuing people stranded at sea or\nin the mountains."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "Being wrapped in its long fur is so\ncomfortable that a person would be fine\neven overnight on a wintry mountain."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "Being wrapped in its long fur is so\ncomfortable that a person would be fine\neven overnight on a wintry mountain."
+      },
+      {
+        "game": "xy-x",
+        "text": "It rescues people stranded by blizzards in the\nmountains. Its shaggy fur shields it from the cold."
+      },
+      {
+        "game": "xy-y",
+        "text": "Being wrapped in its long fur is so comfortable\nthat a person would be fine even overnight on a\nwintry mountain."
+      },
+      {
+        "game": "oras-or",
+        "text": "It rescues people stranded by blizzards in the\nmountains. Its shaggy fur shields it from the cold."
+      },
+      {
+        "game": "oras-as",
+        "text": "Being wrapped in its long fur is so comfortable\nthat a person would be fine even overnight on a\nwintry mountain."
+      },
+      {
+        "game": "sm-s",
+        "text": "Intelligent, good-natured, and valiant,\nit’s a trustworthy partner on rescue teams."
+      },
+      {
+        "game": "sm-m",
+        "text": "With this wise Pokémon, there could be no\nconcern that it would ever attack people. Some\nparents even trust it to babysit."
+      },
+      {
+        "game": "usum-us",
+        "text": "It pays no mind to the cold, thanks to its long\nwarm coat. Stoutland in Alola look a\nlittle uncomfortable."
+      },
+      {
+        "game": "usum-um",
+        "text": "Its fur is long and thick. A long time ago in cold\nregions, every household kept a Stoutland."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "These Pokémon seem to enjoy living with humans.\nEven a Stoutland caught in the wild will warm up\nto people in about three days."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Stoutland is immensely proud of its impressive\nmoustache. It’s said that moustache length is what\ndetermines social standing among this species."
+      }
+    ]
+  },
+  "chs": {
+    "name": "长毛狗",
+    "genus": "宽大宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "聪明温厚而勇敢。\n是救援队队员们可以信赖的伙伴。"
+      },
+      {
+        "game": "sm-m",
+        "text": "很聪明，且不用担心会朝人\n猛扑过来，所以也有家长会\n把保护孩子的任务交给它。"
+      },
+      {
+        "game": "usum-us",
+        "text": "多亏了那身又长又暖和的毛，\n抵御寒冷根本不在话下。\n阿罗拉的长毛狗看上去有点辛苦。"
+      },
+      {
+        "game": "usum-um",
+        "text": "拥有又长又厚实的体毛。\n过去在寒冷的地方，\n每家都会养１只长毛狗。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "似乎喜欢和人类一起生活。\n就算是野生的长毛狗，捕捉后\n只要过个三天就能和人亲近。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "以自己气派的胡须为傲。\n据说，每只个体在族群中的地位，\n就是根据胡须长度来决定的。"
+      }
+    ]
+  }
+}

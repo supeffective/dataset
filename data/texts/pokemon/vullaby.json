@@ -1,0 +1,413 @@
+{
+  "jap": {
+    "name": "バルチャイ",
+    "genus": "おむつポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "つばさが　ちいさいため　とべない。\nしんかの　ときが　ちかづくと\nじぶんから　ガイコツを　ぬぎすてる。"
+      },
+      {
+        "game": "xy-y",
+        "text": "つばさは　ちいさく　まだ　とべない。\nバルジーナが　あつめてきた\nガイコツで　おしりを　まもっている。"
+      },
+      {
+        "game": "oras-or",
+        "text": "つばさが　ちいさいため　とべない。\nしんかの　ときが　ちかづくと\nじぶんから　ガイコツを　ぬぎすてる。"
+      },
+      {
+        "game": "oras-as",
+        "text": "つばさは　ちいさく　まだ　とべない。\nバルジーナが　あつめてきた\nガイコツで　おしりを　まもっている。"
+      },
+      {
+        "game": "sm-s",
+        "text": "ぷよぷよの　おしりを　まもるのは\nくった　えものの　ホネ。\nせいちょうのたび　はきかえるよ。"
+      },
+      {
+        "game": "sm-m",
+        "text": "まだまだ　あそびざかり。\nはねが　みじゅくで　とべないので\nぴょんぴょん　はねまわっているよ。"
+      },
+      {
+        "game": "usum-us",
+        "text": "ガイコツは　バルジーナが　あたえる。\nつばさは　みじかく　まだ　とべないが\nおおぞらを　ゆめみて　とびはねる。"
+      },
+      {
+        "game": "usum-um",
+        "text": "たべざかりの　そだちざかり。\nからだの　せいちょうに　あわせて\nガイコツを　なんども　はきかえるよ。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "ガイコツを　はき　おしりを　ガード。\nはきごこちの　いい　ガイコツを\nめぐり　なかまどうしで　こぜりあう。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "すぐに　おおきく　そだつので\nおしりの　ガイコツは　すの　なかで\nおさがりとして　つかいまわされる。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Valchai",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "벌차이",
+    "genus": "기저귀포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "날개가 작아서 날지 못한다.\n진화가 가까워지면\n자기 스스로 해골을 벗어버린다."
+      },
+      {
+        "game": "xy-y",
+        "text": "날개는 작아서 아직 날 수 없다.\n버랜지나가 모아온\n해골로 엉덩이를 지키고 있다."
+      },
+      {
+        "game": "oras-or",
+        "text": "날개가 작아서 날지 못한다.\n진화가 가까워지면\n자기 스스로 해골을 벗어버린다."
+      },
+      {
+        "game": "oras-as",
+        "text": "날개는 작아서 아직 날 수 없다.\n버랜지나가 모아온\n해골로 엉덩이를 지키고 있다."
+      },
+      {
+        "game": "sm-s",
+        "text": "포동포동한 엉덩이를 지키는 것은\n먹어버린 먹이의 뼈다.\n성장할 때마다 갈아입는다."
+      },
+      {
+        "game": "sm-m",
+        "text": "아직 한창 놀 때이다. 날개가\n다 자라지 않아 날지 못하기 때문에\n깡충깡충 뛰어다닌다."
+      },
+      {
+        "game": "usum-us",
+        "text": "해골은 버랜지나가 준다.\n날개가 짧아 아직 날지 못하지만,\n넓은 하늘을 꿈꾸며 뛰어오른다."
+      },
+      {
+        "game": "usum-um",
+        "text": "한창 먹고 자랄 때다.\n몸의 성장에 맞춰서\n해골을 몇 번이고 갈아입는다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "해골을 입어서 엉덩이를 보호한다.\n착용감이 편안한 해골을 두고\n동료끼리 옥신각신한다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "금방 크게 성장하므로\n엉덩이의 해골은 둥지 안에서\n대물림되어 계속 사용된다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "禿鷹丫頭",
+    "genus": "尿布寶可夢",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "保護著軟綿綿屁股的\n是吃完獵物後剩下的骨頭。\n會隨著每次成長丟棄更換哦。"
+      },
+      {
+        "game": "sm-m",
+        "text": "還是貪玩的年紀。\n翅膀還未發達，所以無法飛行，\n會來來回回地蹦蹦跳哦。"
+      },
+      {
+        "game": "usum-us",
+        "text": "骸骨是禿鷹娜給的。\n雖然翅膀太短還不能飛，但總是\n因為憧憬著天空而蹦蹦跳跳。"
+      },
+      {
+        "game": "usum-um",
+        "text": "正處於食慾旺盛的發育期。\n為了配合身體的成長，\n會多次更換所穿的骨頭。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "穿上骸骨來保護屁股。\n會和夥伴互相爭搶\n穿起來舒服的骸骨。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "由於很快就會長大，\n屁股上的骸骨會接著傳給\n巢裡更小的禿鷹丫頭用。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Vostourno",
+    "genus": "Pokémon Couche",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Ses ailes sont trop petites pour lui\npermettre de voler. Quand l’évolution\napproche, il sort lui-même de sa coquille."
+      },
+      {
+        "game": "bw-w",
+        "text": "Il trouve des os convenables pour\nprotéger ses arrières, puis harcèle\nles Pokémon plus faibles que lui."
+      },
+      {
+        "game": "xy-x",
+        "text": "Ses ailes sont trop petites pour lui permettre de\nvoler. Quand l’évolution approche, il sort lui-même\ndu crâne qui le protège."
+      },
+      {
+        "game": "xy-y",
+        "text": "Ses ailes sont trop petites pour voler. Il protège son\ncroupion avec un crâne apporté par un Vaututrice."
+      },
+      {
+        "game": "oras-or",
+        "text": "Ses ailes sont trop petites pour lui permettre de voler.\nQuand l’évolution approche, il sort lui-même du crâne\nqui le protège."
+      },
+      {
+        "game": "oras-as",
+        "text": "Ses ailes sont trop petites pour voler. Il protège son croupion\navec un crâne apporté par un Vaututrice."
+      },
+      {
+        "game": "sm-s",
+        "text": "Il protège son tendre popotin avec le crâne\nd’une de ses proies. Il en change régulièrement\nen grandissant."
+      },
+      {
+        "game": "sm-m",
+        "text": "Il est encore très joueur. Ses ailes n’étant pas\nassez développées pour lui permettre de voler,\nil se déplace en sautillant."
+      },
+      {
+        "game": "usum-us",
+        "text": "Sa culotte est un cadeau de Vaututrice.\nSes petites ailes ne pouvant pas le porter, il est\ncondamné à sautiller en rêvant au grand azur."
+      },
+      {
+        "game": "usum-um",
+        "text": "Ce petit est en pleine croissance et forcit à vue\nd’œil. Il doit donc régulièrement changer le crâne\nqui lui sert de culotte."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Ils protègent leur derrière en portant un crâne\ncomme couche. Ils se disputent les plus douillets\nd’entre eux."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Il grandit vite. Au sein du nid, les petits Vostourno\nhéritent des couches en crâne de leurs aînés."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Skallyk",
+    "genus": "Windel-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Seine Flügel sind noch zu klein zum Fliegen.\nKurz bevor es sich entwickelt, wirft es seine\nSchädelwindel ab."
+      },
+      {
+        "game": "xy-y",
+        "text": "Seine Flügel sind noch zu klein zum Fliegen. Ein von\nGrypheldis beschaffter Schädel schützt seinen Bürzel."
+      },
+      {
+        "game": "oras-or",
+        "text": "Seine Flügel sind noch zu klein zum Fliegen. Kurz bevor es\nsich entwickelt, wirft es seine Schädelwindel ab."
+      },
+      {
+        "game": "oras-as",
+        "text": "Seine Flügel sind noch zu klein zum Fliegen. Ein von\nGrypheldis beschaffter Schädel schützt seinen Bürzel."
+      },
+      {
+        "game": "sm-s",
+        "text": "Seinen weichen Bürzel schützt es mithilfe von\nSchädeln gefressener Beute. Ist es ein Stück\ngewachsen, muss ein größerer Schädel her."
+      },
+      {
+        "game": "sm-m",
+        "text": "Dieses Pokémon ist noch sehr verspielt. Seine\nFlügel sind noch zu klein zum Fliegen, es kann\nsich also nur hüpfend fortbewegen."
+      },
+      {
+        "game": "usum-us",
+        "text": "Seine Schädelwindel erhält es von Grypheldis.\nAuch wenn seine Flügel noch zu klein dafür sind,\nträumt es vom Fliegen und hüpft wild herum."
+      },
+      {
+        "game": "usum-um",
+        "text": "Durch seinen ständigen Appetit hat Skallyk\nfortlaufend Wachstumsschübe. Deshalb muss\nes seine Schädelwindel immerzu auswechseln."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Sie schützen ihren Bürzel mit einer Schädelwindel.\nUntereinander streiten sie sich um den Schädel\nmit dem höchsten Tragekomfort."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Sie werden rasend schnell größer. Wenn sie aus\nSchädelwindeln herauswachsen, werden diese\nvon jüngeren Nestgefährten getragen."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Vullaby",
+    "genus": "Pokémon Pañal",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "No puede volar porque sus alas son muy pequeñas.\nCuando va a evolucionar, se deshace de su calavera."
+      },
+      {
+        "game": "xy-y",
+        "text": "Sus pequeñas alas no le permiten volar. Usa una\ncalavera que le dio Mandibuzz para proteger sus\nposaderas."
+      },
+      {
+        "game": "oras-or",
+        "text": "No puede volar porque sus alas son muy pequeñas. Cuando\nva a evolucionar, se deshace de su calavera."
+      },
+      {
+        "game": "oras-as",
+        "text": "Sus pequeñas alas no le permiten volar. Usa una calavera que\nle dio Mandibuzz para proteger sus posaderas."
+      },
+      {
+        "game": "sm-s",
+        "text": "Protege sus posaderas blanduzcas con los\nhuesos de las presas que ha devorado. A\nmedida que crece se ve obligado a cambiarlos."
+      },
+      {
+        "game": "sm-m",
+        "text": "Todavía está en su más tierna infancia. Como\nsus alas aún no se han desarrollado del todo,\nse desplaza dando saltos."
+      },
+      {
+        "game": "usum-us",
+        "text": "El cráneo que usa de protección es regalo de un\nMandibuzz. Como sus alas son muy cortas para\nvolar, da brincos soñando que vuela por el cielo."
+      },
+      {
+        "game": "usum-um",
+        "text": "Demuestra un voraz apetito y aumenta de\ntamaño a vista de ojo. Su continuo crecimiento\nle obliga a cambiar varias veces de cráneo."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Usa una calavera para proteger sus posaderas.\nA menudo pelea con sus congéneres para\nhacerse con la más cómoda."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Deja en el nido las calaveras que va descartando\na medida que crece con celeridad para que las\nreutilicen futuras generaciones."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Vullaby",
+    "genus": "Pokémon Pannolino",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Le piccole ali non gli consentono di volare. Quando si\navvicina il momento di evolversi, si libera del teschio."
+      },
+      {
+        "game": "xy-y",
+        "text": "Le sue ali sono ancora piccole e non può volare.\nUsa delle ossa ricevute da Mandibuzz per riparare\nil suo bacino."
+      },
+      {
+        "game": "oras-or",
+        "text": "Le piccole ali non gli consentono di volare. Quando si\navvicina il momento di evolversi, si libera del teschio."
+      },
+      {
+        "game": "oras-as",
+        "text": "Le sue ali sono ancora piccole e non può volare. Usa delle\nossa ricevute da Mandibuzz per riparare il suo bacino."
+      },
+      {
+        "game": "sm-s",
+        "text": "Protegge il debole bacino con i teschi delle\nprede di cui si nutre. Man mano che cresce,\ndeve cambiare il teschio."
+      },
+      {
+        "game": "sm-m",
+        "text": "È un giocherellone. Non potendo volare a causa\ndelle ali poco sviluppate, si sposta saltellando."
+      },
+      {
+        "game": "usum-us",
+        "text": "Ha ricevuto il suo teschio da Mandibuzz.\nPoiché le corte ali non gli permettono di volare,\nsaltella sognando un giorno di poterlo fare."
+      },
+      {
+        "game": "usum-um",
+        "text": "Ha un grande appetito e cresce a vista d’occhio.\nMan mano che la sua taglia aumenta, deve\ncambiare il teschio che indossa."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Indossa il teschio per proteggere il suo bacino.\nSpesso litiga con i suoi consimili per accaparrarsi\nil teschio più comodo."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Cresce così velocemente che il teschio gli va\npresto stretto. I teschi smessi restano nel nido\ne vengono usati dalle generazioni successive."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Vullaby",
+    "genus": "Diapered Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-y",
+        "text": "Their wings are too tiny to allow them to fly.\nThey guard their posteriors with bones that were\ngathered by Mandibuzz."
+      },
+      {
+        "game": "bw-b",
+        "text": "Its wings are too tiny to allow it to fly.\nAs the time approaches for it to evolve,\nit discards the bones it was wearing."
+      },
+      {
+        "game": "bw-w",
+        "text": "They tend to guard their posteriors\nwith suitable bones they have found.\nThey pursue weak Pokémon."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "Their wings are too tiny to allow them to\nfly. They guard their posteriors with\nbones that were gathered by Mandibuzz."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "Their wings are too tiny to allow them to\nfly. They guard their posteriors with\nbones that were gathered by Mandibuzz."
+      },
+      {
+        "game": "xy-x",
+        "text": "Its wings are too tiny to allow it to fly. As the time\napproaches for it to evolve, it discards the bones\nit was wearing."
+      },
+      {
+        "game": "oras-or",
+        "text": "Its wings are too tiny to allow it to fly. As the time\napproaches for it to evolve, it discards the bones\nit was wearing."
+      },
+      {
+        "game": "oras-as",
+        "text": "Their wings are too tiny to allow them to fly.\nThey guard their posteriors with bones that were\ngathered by Mandibuzz."
+      },
+      {
+        "game": "sm-s",
+        "text": "It protects its plump posterior with the bones\nof prey it has consumed. As it grows, it \nreplaces the bones."
+      },
+      {
+        "game": "sm-m",
+        "text": "It can’t fly yet and must wait until its wings have\ndeveloped more. Since it’s still at a playful age,\nit hops around friskily."
+      },
+      {
+        "game": "usum-us",
+        "text": "Mandibuzz gives it the bones it wears. Vullaby’s\nwings are short, so it can’t fly yet, but it jumps\naround, dreaming of wide open skies."
+      },
+      {
+        "game": "usum-um",
+        "text": "Its healthy appetite leads to visible growth\nspurts. It often has to replace the bones it\nwears as its size increases."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "It wears a bone to protect its rear.\nIt often squabbles with others of its kind over\nparticularly comfy bones."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Vullaby grow quickly. Bones that have gotten too\nsmall for older Vullaby to wear often get passed\ndown to younger ones in the nest."
+      }
+    ]
+  },
+  "chs": {
+    "name": "秃鹰丫头",
+    "genus": "尿布宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "保护着软乎乎屁股的\n是吃完的猎物的尸骨。\n会随着每次生长丢弃更换哦。"
+      },
+      {
+        "game": "sm-m",
+        "text": "还是最爱玩的年纪。\n翅膀还不发达，无法飞行，\n所以会来回地蹦蹦跳哦。"
+      },
+      {
+        "game": "usum-us",
+        "text": "骸骨是秃鹰娜所给予的。\n翅膀很短，还不会飞，\n但是一直憧憬着天空而蹦蹦跳跳的。"
+      },
+      {
+        "game": "usum-um",
+        "text": "正处于食欲旺盛的发育期。\n为了配合身体的成长，\n会多次更换所穿的骸骨哦。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "穿上骸骨来保护屁股。\n会和伙伴互相争抢\n穿起来舒服的骸骨。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "由于很快就会长大，\n屁股上的骸骨会接着传给\n巢里更小的秃鹰丫头用。"
+      }
+    ]
+  }
+}

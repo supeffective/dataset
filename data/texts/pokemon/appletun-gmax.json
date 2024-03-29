@@ -1,0 +1,133 @@
+{
+  "jap": {
+    "name": "タルップル",
+    "genus": "りんごじるポケモン",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "あまい　りんごを　たべて　しんか。\nからだから　あまい　においを　だして\nエサの　むしポケモンを　ひきよせる。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "あまい　みつで　からだが　おおわれ\nせなかの　かわは　とくに　あまく\nむかしは　こどもの　おやつだった。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Tarupple",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "단지래플",
+    "genus": "사과즙포켓몬",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "달콤한 사과를 먹고 진화했다.\n몸에서 달콤한 향기를 내보내서\n먹이인 벌레포켓몬을 유인한다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "달콤한 꿀로 몸이 둘러싸여 있다.\n등의 껍질은 특히 더 달콤해서\n옛날에는 어린이 간식이었다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "豐蜜龍",
+    "genus": "蘋果汁寶可夢",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "啃果蟲吃了甜蘋果後進化而成。\n以蟲寶可夢為食，會從體內發出\n甜甜的香味引誘牠們上鉤。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "身體被甜甜的蜜汁包裹，\n背部的皮尤其甘甜，\n過去曾經是小孩的零食。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Dratatin",
+    "genus": "Pokémon Jus Pomme",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Il a évolué après avoir mangé une pomme sucrée.\nIl attire ses proies, les Pokémon Insecte,\nen dégageant un parfum mielleux."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Son corps est recouvert de nectar.\nLa peau de son dos, particulièrement sucrée,\nconstituait jadis le goûter des enfants."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Schlapfel",
+    "genus": "Apfelnektar-Pokémon",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Nach dem Verzehr eines süßen Apfels hat es sich\nentwickelt. Es verströmt einen süßen Duft und\nlockt damit sein Futter an: Käfer-Pokémon."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Sein Körper wird von süßem Nektar bedeckt und\ndie Schale auf seinem Rücken ist besonders süß.\nFrüher war diese ein Leckerbissen für Kinder."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Appletun",
+    "genus": "Pokémon Manzanéctar",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Ha evolucionado tras ingerir una manzana dulce.\nDe ahí que el olor que emana para atraer a sus\npresas, los Pokémon insecto, sea tan agradable."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Su cuerpo está recubierto de néctar. La piel de\nla espalda es tan dulce que los niños de antaño\nsolían tomarla como merienda."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Appletun",
+    "genus": "Pokémon Pomisucco",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Si è evoluto dopo aver mangiato una mela dolce.\nSi nutre di Pokémon Coleottero, che attira\nemanando un dolce profumo dal corpo."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "È ricoperto di una specie di sciroppo. La buccia\nsulla sua schiena, particolarmente dolce, una\nvolta veniva data ai bambini per merenda."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Appletun",
+    "genus": "Apple Nectar Pokémon",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Eating a sweet apple caused its evolution.\nA nectarous scent wafts from its body, luring in\nthe bug Pokémon it preys on."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Its body is covered in sweet nectar, and the\nskin on its back is especially yummy. Children\nused to have it as a snack."
+      }
+    ]
+  },
+  "chs": {
+    "name": "丰蜜龙",
+    "genus": "苹果汁宝可梦",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "啃果虫吃了甜苹果后进化而成。\n以虫宝可梦为食，会从体内发出\n甜甜的香味引诱它们上钩。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "身体被甜甜的蜜汁包裹，\n背部的皮尤其甘甜，\n过去曾经是小孩的零食。"
+      }
+    ]
+  }
+}

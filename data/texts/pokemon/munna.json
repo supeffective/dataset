@@ -1,0 +1,269 @@
+{
+  "jap": {
+    "name": "ムンナ",
+    "genus": "ゆめくいポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "わるい　ゆめに　うなされている\nポケモンや　ひとの　まえに　あらわれ\nそのゆめを　たべてしまう　ポケモン。"
+      },
+      {
+        "game": "xy-y",
+        "text": "ひとや　ポケモンが　みた　ゆめを\nたべる。たのしい　ゆめを　たべると\nピンクいろの　けむりを　はきだす。"
+      },
+      {
+        "game": "oras-or",
+        "text": "わるい　ゆめに　うなされている\nポケモンや　ひとの　まえに　あらわれ\nそのゆめを　たべてしまう　ポケモン。"
+      },
+      {
+        "game": "oras-as",
+        "text": "ひとや　ポケモンが　みた　ゆめを\nたべる。たのしい　ゆめを　たべると\nピンクいろの　けむりを　はきだす。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "しんや　まくらもとに　あらわれる。\nゆめを　たべているとき　からだの\nもようが　ぼんやりと　ひかる。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "ゆめを　たべて　けむりを　はく。\nたのしい　ゆめなら　ピンクいろで\nあくむの　ときは　くろっぽいぞ。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Munna",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "몽나",
+    "genus": "꿈먹기포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "나쁜 꿈에 시달리고 있는\n포켓몬이나 사람 앞에 나타나\n그 꿈을 먹어버리는 포켓몬."
+      },
+      {
+        "game": "xy-y",
+        "text": "사람이나 포켓몬이 꾼 꿈을\n먹는다. 즐거운 꿈을 먹으면\n분홍색 연기를 뿜어낸다."
+      },
+      {
+        "game": "oras-or",
+        "text": "나쁜 꿈에 시달리고 있는\n포켓몬이나 사람 앞에 나타나\n그 꿈을 먹어버리는 포켓몬."
+      },
+      {
+        "game": "oras-as",
+        "text": "사람이나 포켓몬이 꾼 꿈을\n먹는다. 즐거운 꿈을 먹으면\n분홍색 연기를 뿜어낸다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "깊은 밤중 머리맡에 나타난다.\n꿈을 먹는 동안 몸에 있는\n무늬가 어렴풋이 빛난다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "꿈을 먹고 연기를 내뿜는다.\n즐거운 꿈이면 핑크색이고\n악몽이면 거무스름하다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "食夢夢",
+    "genus": "食夢寶可夢",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "會在深夜出現在枕頭邊。\n在吃夢的時候，\n身上的花紋會微微發亮。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "在吃掉夢之後會吐出煙霧。\n吃了快樂的夢時，煙霧是粉紅色的；\n如果是惡夢，煙霧則是黑灰色的。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Munna",
+    "genus": "Pokémon Mangerêve",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Quand Munna mange un rêve, celui-ci\nest aussitôt oublié par le rêveur.\nIl lévite en permanence."
+      },
+      {
+        "game": "bw-w",
+        "text": "Il se nourrit des rêves des gens et des\nPokémon. Quand le rêve est agréable,\nil crache une fumée rose."
+      },
+      {
+        "game": "xy-x",
+        "text": "Il apparaît aux humains et aux Pokémon qui font\ndes mauvais rêves et mange leurs cauchemars pour\nles en libérer."
+      },
+      {
+        "game": "xy-y",
+        "text": "Il se nourrit des rêves des gens et des Pokémon.\nQuand le rêve est agréable, il crache une fumée rose."
+      },
+      {
+        "game": "oras-or",
+        "text": "Il apparaît aux humains et aux Pokémon qui font des mauvais\nrêves et mange leurs cauchemars pour les en libérer."
+      },
+      {
+        "game": "oras-as",
+        "text": "Il se nourrit des rêves des gens et des Pokémon.\nQuand le rêve est agréable, il crache une fumée rose."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Il apparaît en pleine nuit, à côté de l’oreiller.\nQuand il se nourrit de rêves, les motifs\nde son corps luisent légèrement."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Il se nourrit de songes et expire de la fumée\nqui prend la couleur rose si le rêve est joyeux,\nou noire s’il s’agit d’un cauchemar."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Somniam",
+    "genus": "Traumfresser-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Es erscheint vor schlafenden Menschen\nund Pokémon und frisst ihre Alpträume."
+      },
+      {
+        "game": "xy-y",
+        "text": "Es verschlingt die Träume der Menschen.\nFrisst es einen fröhlichen Traum, stößt es\ndanach einen rosafarbenen Dunst aus."
+      },
+      {
+        "game": "oras-or",
+        "text": "Es erscheint vor schlafenden Menschen und Pokémon und\nfrisst ihre Alpträume."
+      },
+      {
+        "game": "oras-as",
+        "text": "Es verschlingt die Träume der Menschen. Frisst es einen\nfröhlichen Traum, stößt es danach einen rosafarbenen Dunst\naus."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Tief in der Nacht erscheint es am Kopfende von\nBetten. Während es einen Traum frisst, schimmert\ndas Muster auf seinem Körper."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Während es Träume frisst, stößt es Dunst aus.\nBei fröhlichen Träumen ist dieser rosafarben,\nbei Alpträumen schwärzlich."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Munna",
+    "genus": "Pokémon Comesueños",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Cuando un humano o un Pokémon sufre una pesadilla,\nMunna se aparece ante ellos y la engulle."
+      },
+      {
+        "game": "xy-y",
+        "text": "Se alimenta de los sueños de humanos y Pokémon.\nSi los sueños son felices, despide humo rosa."
+      },
+      {
+        "game": "oras-or",
+        "text": "Cuando un humano o un Pokémon sufre una pesadilla, Munna\nse aparece ante ellos y la engulle."
+      },
+      {
+        "game": "oras-as",
+        "text": "Se alimenta de los sueños de humanos y Pokémon. Si los\nsueños son felices, despide humo rosa."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Aparece en plena noche junto a la almohada\nde la gente. Cuando devora los sueños, los\nmotivos de su cuerpo emiten una luz tenue."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "El humo que despide cambia de color en función\ndel sueño que haya consumido. Si es alegre, será\nrosa, o negruzco en el caso de una pesadilla."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Munna",
+    "genus": "Pokémon Divorasogni",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Compare accanto a Pokémon e uomini tormentati\ndagli incubi per nutrirsi di tutti i loro brutti sogni."
+      },
+      {
+        "game": "xy-y",
+        "text": "Si nutre dei sogni di uomini e Pokémon. Se mangia\nsogni piacevoli, esala un fumo di colore rosa."
+      },
+      {
+        "game": "oras-or",
+        "text": "Compare accanto a Pokémon e uomini tormentati dagli incubi\nper nutrirsi di tutti i loro brutti sogni."
+      },
+      {
+        "game": "oras-as",
+        "text": "Si nutre dei sogni di uomini e Pokémon. Se mangia sogni\npiacevoli, esala un fumo di colore rosa."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Appare vicino al guanciale nel cuore della notte.\nQuando mangia i sogni, i motivi che ha sul\ncorpo si illuminano lievemente."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Si nutre di sogni. Esala un fumo rosa se sono\nsogni piacevoli e nero se sono incubi."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Munna",
+    "genus": "Dream Eater Pokémon",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Munna always float in the air. People\nwhose dreams are eaten by them\nforget what the dreams had been about."
+      },
+      {
+        "game": "bw-w",
+        "text": "It eats the dreams of people and\nPokémon. When it eats a pleasant\ndream, it expels pink-colored mist."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "This Pokémon appears before people\nand Pokémon who are having nightmares\nand eats those dreams."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "This Pokémon appears before people\nand Pokémon who are having nightmares\nand eats those dreams."
+      },
+      {
+        "game": "xy-x",
+        "text": "This Pokémon appears before people and Pokémon\nwho are having nightmares and eats those dreams."
+      },
+      {
+        "game": "xy-y",
+        "text": "It eats the dreams of people and Pokémon. When it\neats a pleasant dream, it expels pink-colored mist."
+      },
+      {
+        "game": "oras-or",
+        "text": "This Pokémon appears before people and Pokémon\nwho are having nightmares and eats those dreams."
+      },
+      {
+        "game": "oras-as",
+        "text": "It eats the dreams of people and Pokémon. When it\neats a pleasant dream, it expels pink-colored mist."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Late at night, it appears beside people’s pillows.\nAs it feeds on dreams, the patterns on its body\ngive off a faint glow."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "It eats dreams and releases mist. The mist is pink\nwhen it’s eating a good dream, and black when\nit’s eating a nightmare."
+      }
+    ]
+  },
+  "chs": {
+    "name": "食梦梦",
+    "genus": "食梦宝可梦",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "会在深夜出现在枕头边。\n在吃梦的时候，\n身上的花纹会微微发亮。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "在吃掉梦之后会吐出烟雾。\n吃了快乐的梦时，烟雾是粉红色的；\n如果是噩梦，烟雾则是黑灰色的。"
+      }
+    ]
+  }
+}

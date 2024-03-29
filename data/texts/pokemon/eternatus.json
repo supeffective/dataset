@@ -1,0 +1,133 @@
+{
+  "jap": {
+    "name": "ムゲンダイナ",
+    "genus": "キョダイポケモン",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "むねの　コアが　ガラルちほうの\nだいちから　わきだす　エネルギーを\nきゅうしゅうして　かつどうしている。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "２まんねんまえに　おちた　いんせきの\nなかに　いた。　ダイマックスの\nなぞに　かんけいしている　らしい。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Mugendina",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "무한다이노",
+    "genus": "거대포켓몬",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "가슴의 코어가 가라르지방의\n대지에서 솟아나는 에너지를\n흡수해서 활동한다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "2만 년 전에 떨어진 운석\n안에 있었다. 다이맥스의\n수수께끼와 관련이 있는 듯하다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "無極汰那",
+    "genus": "超極巨寶可夢",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "會用胸部的核心吸收\n伽勒爾的大地湧出的能量，\n藉以保持自己的活力。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "來自於２萬年前墜落\n到地上的隕石之中。\n似乎與極巨化之謎有所關聯。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Éthernatos",
+    "genus": "Pokémon Giga",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Il devient actif en absorbant l’énergie qui émerge\ndu sol de Galar grâce au noyau situé\nsur sa poitrine."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Il se trouvait dans une météorite qui s’est écrasée\nil y a 20 000 ans. Il semble y avoir un lien\nentre ce Pokémon et le phénomène Dynamax."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Endynalos",
+    "genus": "Giganten-Pokémon",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Indem der Kern in seinem Brustkorb die Energie\nabsorbiert, die aus dem Boden der Galar-Region\nströmt, wird es aktiv."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Es steckte in einem Meteorit, der vor 20 000\nJahren herabstürzte. Es scheint in Verbindung\nmit dem Dynamax-Phänomen zu stehen."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Eternatus",
+    "genus": "Pokémon Gigantesco",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Se alimenta de la energía que brota de la tierra\nde Galar absorbiéndola por el núcleo del pecho."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Fue hallado en el interior de un meteorito caído\nhace 20 000 años. Por lo visto, está relacionado\ncon el misterio que rodea al fenómeno Dinamax."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Eternatus",
+    "genus": "Pokémon Gigante",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Si alimenta attraverso il nucleo sul suo petto,\ncon cui assorbe l’energia emanata dalla terra\ndella regione di Galar."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "È giunto dallo spazio dentro un meteorite caduto\n20.000 anni fa. Sembra essere in qualche modo\ncollegato al mistero del fenomeno Dynamax."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Eternatus",
+    "genus": "Gigantic Pokémon",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "The core on its chest absorbs energy emanating\nfrom the lands of the Galar region. This energy is\nwhat allows Eternatus to stay active."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "It was inside a meteorite that fell 20,000 years\nago. There seems to be a connection between\nthis Pokémon and the Dynamax phenomenon."
+      }
+    ]
+  },
+  "chs": {
+    "name": "无极汰那",
+    "genus": "超极巨宝可梦",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "会用胸部的核心吸收\n伽勒尔地区涌出的能量，\n借以保持自己的活力。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "来自于２万年前坠落\n到地上的陨石之中。\n似乎与极巨化之谜有所关联。"
+      }
+    ]
+  }
+}

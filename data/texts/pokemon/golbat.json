@@ -1,0 +1,553 @@
+{
+  "jap": {
+    "name": "ゴルバット",
+    "genus": "こうもりポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "かみついたら　さいご。しぬほど\nちを　すいまくるので　おもたくなって\nじぶんで　とべなくなることもある。"
+      },
+      {
+        "game": "xy-y",
+        "text": "ひとたび　ちを　すいはじめると\nまんぷくに　なるまで　やめない。\nくらやみを　とび　えものを　さがす。"
+      },
+      {
+        "game": "oras-or",
+        "text": "いきものの　けつえきが　だいこうぶつ。\nとくに　まよなか　かつどうする　ことが　おおく\nいきちを　もとめて　よぞらを　とびまわる。"
+      },
+      {
+        "game": "oras-as",
+        "text": "４ほんの　キバで　かみつき　けつえきを　のむ。\nつきの　でてない　まっくらな　よるは　かっぱつに\nとびまわり　ひとや　ポケモンを　おそうぞ。"
+      },
+      {
+        "game": "sm-s",
+        "text": "ふとい　キバは　ストローのように\nなかが　くうどうで　いがいに　もろい。\nちを　すうのに　とっか　したのだ。"
+      },
+      {
+        "game": "sm-m",
+        "text": "ちを　すいすぎて　とべなくなり\nじめんに　おちて　ほかの　ポケモンの\nえじきに　なっていることも。"
+      },
+      {
+        "game": "usum-us",
+        "text": "くうふくの　あまり　はがねポケモンに\nかみついたせいで　キバの　かけた\nゴルバットを　たまに　みかけるぞ。"
+      },
+      {
+        "game": "usum-um",
+        "text": "１どに　３００シーシーの　けつえきを\nすいとる。　あまりに　たくさん　ちを\nすって　とべなくなることも　ある。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "どこから　ともなく　ちかづいてくる。\nするどいキバを　つかって　かみつくと\nどうじに　ちを　すいまくる。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "どこから　ともなく　ちかづいてくる。\nするどいキバを　つかって　かみつくと\nどうじに　ちを　すいまくる。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "いきものの　けつえきが　こうぶつ。\nはらぺこの　なかまに　すった　ちを\nわけあたえることも　あるという。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "ちいさな　あしで　きように　あるく。\nねている　エモノに　しのびより\nキバを　つきたて　ちを　すするのだ。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Golbat",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "골뱃",
+    "genus": "박쥐포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "물리면 끝이다. 죽을 정도로\n피를 빨아들이기 때문에 무거워져서\n날 수 없게 될 때도 있다."
+      },
+      {
+        "game": "xy-y",
+        "text": "한번 피를 빨기 시작하면\n배가 부를 때까지 그만두지 않는다.\n어둠 속을 날며 먹이를 찾는다."
+      },
+      {
+        "game": "oras-or",
+        "text": "생물의 혈액을 매우 좋아한다.\n특히 한밤중에 활동하는 경우가 많으며\n생피를 찾아 밤하늘을 날아다닌다."
+      },
+      {
+        "game": "oras-as",
+        "text": "4개의 이빨로 물어 혈액을 마신다.\n달이 뜨지 않은 캄캄한 밤에는 활발하게\n날아다니며 사람이나 포켓몬을 습격한다."
+      },
+      {
+        "game": "sm-s",
+        "text": "두꺼운 이빨은 빨대처럼\n속이 비어있어 의외로 약하다.\n피를 빠는데 특화된 것이다."
+      },
+      {
+        "game": "sm-m",
+        "text": "피를 너무 빨아들여 날 수 없게 되어\n땅에 떨어져 다른 포켓몬의\n먹이가 되는 일도 있다."
+      },
+      {
+        "game": "usum-us",
+        "text": "배가 고픈 나머지 강철포켓몬을\n물어 버리는 바람에 이빨이 빠진\n골뱃을 가끔 볼 수 있다."
+      },
+      {
+        "game": "usum-um",
+        "text": "한 번에 300cc의 혈액을\n빨아들인다. 너무 많은 피를\n빨아들여서 날 수 없게 되는 일도 있다."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "어디선가 소리 없이 다가온다.\n날카로운 이빨로 무는\n동시에 피를 빨아들인다."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "어디선가 소리 없이 다가온다.\n날카로운 이빨로 무는\n동시에 피를 빨아들인다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "살아 있는 생물의 혈액을 좋아한다.\n굶주린 동료에게 빨아들인 피를\n나눠주기도 한다고 한다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "작은 다리로 능숙하게 걷는다.\n자고 있는 먹이에게 살며시 다가가\n이빨을 꽂아 피를 빨아먹는다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "大嘴蝠",
+    "genus": "蝙蝠寶可夢",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "粗粗的牙齒像吸管一樣是中空的，\n所以意想不到地脆弱。\n這牙齒是專為吸血而演變而成的。"
+      },
+      {
+        "game": "sm-m",
+        "text": "也有發生過因吸血過多無法飛行\n而落到地面成為其他寶可夢的\n食物的事情。"
+      },
+      {
+        "game": "usum-us",
+        "text": "有時可以看見因為肚子太餓\n而去咬鋼屬性寶可夢，\n結果因此缺了牙齒的大嘴蝠。"
+      },
+      {
+        "game": "usum-um",
+        "text": "一次能吸３００毫升的血液。\n有時會因為吸了太多的血，\n連飛都飛不起來。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "會無聲無息地靠近過來，\n用銳利的獠牙咬住對手，\n盡情吸食對手的血液。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "會無聲無息地靠近過來，\n用銳利的獠牙咬住對手，\n盡情吸食對手的血液。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "喜歡吸食生物的血液。\n據說還會將吸來的血\n分給空腹的夥伴。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "能以小小的腳靈巧地步行。\n會無聲無息地靠近沉睡中的獵物，\n用獠牙咬住對方並且吸食血液。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Nosferalto",
+    "genus": "Pokémon Chovsouris",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Ses crocs acérés et creux peuvent\npénétrer la plus épaisse des peaux\net sucer le sang de la victime."
+      },
+      {
+        "game": "bw-w",
+        "text": "Ses crocs acérés et creux peuvent\npénétrer la plus épaisse des peaux\net sucer le sang de la victime."
+      },
+      {
+        "game": "xy-x",
+        "text": "Il mord son adversaire et absorbe toute son énergie,\nmême s’il devient trop lourd pour voler."
+      },
+      {
+        "game": "xy-y",
+        "text": "Quand il se met à sucer du sang, il ne s’arrête\nqu’une fois rassasié. C’est un chasseur nocturne."
+      },
+      {
+        "game": "oras-or",
+        "text": "Nosferalto adore boire le sang des créatures vivantes.\nIl est particulièrement actif pendant les nuits noires.\nCe Pokémon se balade dans les cieux étoilés, à la recherche\nde sang frais."
+      },
+      {
+        "game": "oras-as",
+        "text": "Nosferalto mord sa proie grâce à ses quatre crocs pour\nboire son sang. Il ne sort que lorsque la nuit est noire\net sans lune, pour voleter en quête de gens et de Pokémon\nà mordre."
+      },
+      {
+        "game": "sm-s",
+        "text": "Ses crocs sont creux comme des pailles et\nétonnamment fragiles. Ils sont en revanche\nparfaits pour sucer le sang de ses victimes."
+      },
+      {
+        "game": "sm-m",
+        "text": "Il arrive qu’un Nosferalto ayant trop sucé de\nsang ne puisse plus voler et tombe au sol,\noù il est dévoré par d’autres Pokémon."
+      },
+      {
+        "game": "usum-us",
+        "text": "On rencontre parfois des Nosferalto édentés\nque la faim a poussés à attaquer un Pokémon\nde type Acier."
+      },
+      {
+        "game": "usum-um",
+        "text": "Ce Pokémon peut absorber jusqu’à 300 ml\nde sang d’un coup. Victime de sa gourmandise,\nil en devient parfois trop lourd pour voler."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Il s’approche furtivement et attaque sans crier\ngare. Ses crocs acérés lui servent à sucer le sang."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Il s’approche furtivement et attaque sans crier\ngare. Ses crocs acérés lui servent à sucer le sang."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Le sang des êtres vivants est son péché mignon.\nOn dit qu’il partage parfois ce précieux breuvage\navec ses congénères affamés."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Il se déplace habilement sur ses petites pattes,\ns’approche silencieusement de sa proie endormie,\net lui suce le sang à l’aide de ses crocs."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Golbat",
+    "genus": "Fledermaus-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Dieses Pokémon saugt dem Gegner selbst dann noch\nEnergie ab, wenn es zu schwer zum Fliegen wird."
+      },
+      {
+        "game": "xy-y",
+        "text": "Hat es einmal angefangen Blut zu saugen, hört es\nerst wieder auf, wenn es satt ist. Es jagt nachts."
+      },
+      {
+        "game": "oras-or",
+        "text": "Golbat hat es auf das Blut von Lebewesen abgesehen.\nIm Schutze der Nacht wird es besonders aktiv. Dieses\nPokémon fliegt durch die Nacht, um nach frischem Blut\nzu suchen."
+      },
+      {
+        "game": "oras-as",
+        "text": "Golbat beißt seine Beute mit seinen vier Reißzähnen und trinkt\ndas Blut seiner Opfer. Es wird in Nächten aktiv, in denen nicht\neinmal der Mond scheint. Es fliegt dann durch die Dunkelheit\nund greift Menschen und Pokémon an."
+      },
+      {
+        "game": "sm-s",
+        "text": "Seine dicken Reißzähne sind im Inneren hohl\nwie Strohhalme und zerbrechlich. Sie sind das\nProdukt seiner Entwicklung zum Blutsauger."
+      },
+      {
+        "game": "sm-m",
+        "text": "Manchmal saugt es so viel Blut, dass es\nhilflos zu Boden fällt und leichte Beute für\nandere Pokémon wird."
+      },
+      {
+        "game": "usum-us",
+        "text": "Um seinen Hunger zu stillen, versucht es\nmitunter auch, in Stahl-Pokémon zu beißen,\nund bricht sich dabei die Reißzähne ab."
+      },
+      {
+        "game": "usum-um",
+        "text": "In einem Schluck kann es bis zu 300 ml Blut\nabsaugen. Manchmal trinkt es so viel, dass es\nnicht mehr fliegen kann."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Golbat nähert sich schnell und lautlos an.\nMit seinen spitzen Zähnen beißt es zu und\nsaugt seinen Opfern Blut ab."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Golbat nähert sich schnell und lautlos an.\nMit seinen spitzen Zähnen beißt es zu und\nsaugt seinen Opfern Blut ab."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Das Blut anderer Lebewesen ist seine Leibspeise.\nMan sagt, dass es das abgesaugte Blut manchmal\nmit hungrigen Artgenossen teilt."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Golbat kann trotz seiner kleinen Beine geschickt\nlaufen. Es schleicht sich an schlafende Beute an,\nstößt seine Zähne in sie und schlürft ihr Blut."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Golbat",
+    "genus": "Pokémon Murciélago",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Cuando ataque, seguirá chupando energía de su\nvíctima, aunque pese tanto que ya no pueda volar."
+      },
+      {
+        "game": "xy-y",
+        "text": "Cuando chupa sangre, no para hasta hartarse.\nPor la noche sale volando a la caza de presas."
+      },
+      {
+        "game": "oras-or",
+        "text": "A Golbat le encanta chuparles la sangre a los seres vivos. Este\nPokémon es más activo en la oscuridad de la noche. Es al caer\nla noche cuando sale a revolotear y a buscar sangre fresca."
+      },
+      {
+        "game": "oras-as",
+        "text": "Golbat derriba a sus víctimas mordiéndoles con los cuatro\ncolmillos que tiene y chupándoles la sangre. Solo entra en\nacción en las noches sin luna. Revolotea en la oscuridad para\natacar a Pokémon y personas."
+      },
+      {
+        "game": "sm-s",
+        "text": "Succiona la sangre de sus presas con sus\ngruesos colmillos, que son huecos por dentro a\nmodo de caña y más frágiles de lo que parecen."
+      },
+      {
+        "game": "sm-m",
+        "text": "A veces chupa tanta sangre que es incapaz de\nvolar y cae al suelo para acabar siendo presa\nde otros Pokémon."
+      },
+      {
+        "game": "usum-us",
+        "text": "En ocasiones se ven ejemplares a los que les\nfalta algún colmillo por haber intentado morder\na un Pokémon de tipo Acero, presas del hambre."
+      },
+      {
+        "game": "usum-um",
+        "text": "Es capaz de ingerir 300 cc de sangre de una\nsentada. A veces chupa tanta que es incapaz\nde volar."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Tras aproximarse sigilosamente a su objetivo,\nutiliza sus afilados colmillos para chuparle la\nsangre."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Tras aproximarse sigilosamente a su objetivo,\nutiliza sus afilados colmillos para chuparle la\nsangre."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Le encanta chuparles la sangre a los seres vivos.\nEn ocasiones comparte la preciada colecta con\notros congéneres hambrientos."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Camina con soltura sobre sus pequeñas patas. Se\nacerca con sigilo a su presa mientras esta duerme\ny le clava los colmillos para chuparle la sangre."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Golbat",
+    "genus": "Pokémon Pipistrello",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Quando attacca, non smette di succhiare l’energia\ndella vittima, fino a diventare troppo pesante\nper volare."
+      },
+      {
+        "game": "xy-y",
+        "text": "Quando inizia a succhiare sangue, non smette finché\nnon è sazio. Vola di notte in cerca di prede."
+      },
+      {
+        "game": "oras-or",
+        "text": "Golbat adora bere il sangue di creature viventi.\nÈ particolarmente attivo di notte, nella totale oscurità.\nSvolazza nel cielo notturno in cerca di sangue fresco."
+      },
+      {
+        "game": "oras-as",
+        "text": "Golbat azzanna i nemici con i suoi quattro canini e ne beve\nil sangue. È particolarmente attivo nel buio pesto delle notti\nsenza luna e vola attaccando le persone e gli altri Pokémon."
+      },
+      {
+        "game": "sm-s",
+        "text": "I suoi grossi canini sono cavi come cannucce\ne sorprendentemente fragili. Se ne serve per\nsucchiare il sangue."
+      },
+      {
+        "game": "sm-m",
+        "text": "Se succhia troppo sangue, non riesce più\na volare e cade a terra diventando preda\ndi altri Pokémon."
+      },
+      {
+        "game": "usum-us",
+        "text": "A volte si vedono dei Golbat senza canini\nperché, spinti dalla fame, hanno provato\nad azzannare un Pokémon di tipo Acciaio."
+      },
+      {
+        "game": "usum-um",
+        "text": "Può succhiare 300 cc di sangue in un colpo\nsolo. Quando ne succhia troppo, non riesce\npiù a volare."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Attacca in modo repentino e furtivo. Usa i denti\naguzzi per mordere e succhiare sangue."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Attacca in modo repentino e furtivo. Usa i denti\naguzzi per mordere e succhiare sangue."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Va matto per il sangue di altre creature.\nSi dice che a volte lo condivida con i compagni\naffamati."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Cammina agilmente con i piccoli piedi.\nSi avvicina di soppiatto alle prede addormentate\nper azzannarle e berne il sangue."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Golbat",
+    "genus": "Bat Pokémon",
+    "flavorText": [
+      {
+        "game": "rb-r",
+        "text": "Once it strikes,\nit will not stop\ndraining energy\ffrom the victim\neven if it gets\ntoo heavy to fly."
+      },
+      {
+        "game": "rb-b",
+        "text": "Once it strikes,\nit will not stop\ndraining energy\ffrom the victim\neven if it gets\ntoo heavy to fly."
+      },
+      {
+        "game": "y",
+        "text": "It attacks in a\nstealthy manner,\nwithout warning.\fIts sharp fangs\nare used to bite\nand suck blood."
+      },
+      {
+        "game": "gs-g",
+        "text": "However hard its\nvictim's hide may\nbe, it punctures\fwith sharp fangs\nand gorges itself\nwith blood."
+      },
+      {
+        "game": "gs-s",
+        "text": "It can drink more\nthan 10 ounces of\nblood at once. If\fit has too much,\nit gets heavy and\nflies clumsily."
+      },
+      {
+        "game": "c",
+        "text": "When it plunges\nits fangs into its\nprey, it instantly\fdraws and gulps\ndown more than ten\nounces of blood."
+      },
+      {
+        "game": "rs-r",
+        "text": "GOLBAT loves to drink the blood of\nliving things. It is particularly active\nin the pitch black of night.\fThis POKéMON flits around in the night\nskies, seeking fresh blood."
+      },
+      {
+        "game": "rs-s",
+        "text": "GOLBAT bites down on prey with its four\nfangs and drinks the victim’s blood.\nIt becomes active on inky dark\fmoonless nights, flying around to\nattack people and POKéMON."
+      },
+      {
+        "game": "e",
+        "text": "Its fangs easily puncture even thick\nanimal hide. It loves to feast on the blood\nof people and POKéMON. It flits about in\ndarkness and strikes from behind."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "It clamps down on its prey with needle-\nsharp fangs and drains over 10 ounces of\nblood in one gulp."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "Once it bites, it will not stop draining\nenergy from the victim even if it gets too\nheavy to fly."
+      },
+      {
+        "game": "dp-d",
+        "text": "It loves the blood of humans and\nPokémon. It flies around at night\nin search of neck veins."
+      },
+      {
+        "game": "dp-p",
+        "text": "Once it starts sucking blood, it\ndoes not stop until it is full. It\nflies at night in search of prey."
+      },
+      {
+        "game": "pt",
+        "text": "Its sharp fangs puncture the\ntoughest of hides and have small\nholes for greedily sucking blood."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "However hard its victim’s hide may be,\nit punctures with sharp fangs\nand gorges itself with blood."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "It can drink more than 10 ounces of\nblood at once. If it has too much,\nit gets heavy and flies clumsily."
+      },
+      {
+        "game": "bw-b",
+        "text": "Its sharp fangs puncture the\ntoughest of hides and have small\nholes for greedily sucking blood."
+      },
+      {
+        "game": "bw-w",
+        "text": "Its sharp fangs puncture the\ntoughest of hides and have small\nholes for greedily sucking blood."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "Flitting around in the dead of night,\nit sinks its fangs into its prey and\ndrains a nearly fatal amount of blood."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "Flitting around in the dead of night,\nit sinks its fangs into its prey and\ndrains a nearly fatal amount of blood."
+      },
+      {
+        "game": "xy-x",
+        "text": "Once it bites, it will not stop draining energy\nfrom the victim even if it gets too heavy to fly."
+      },
+      {
+        "game": "xy-y",
+        "text": "Once it starts sucking blood, it does not stop until\nit is full. It flies at night in search of prey."
+      },
+      {
+        "game": "oras-or",
+        "text": "Golbat loves to drink the blood of living things. It is particularly\nactive in the pitch black of night. This Pokémon flits around in\nthe night skies, seeking fresh blood."
+      },
+      {
+        "game": "oras-as",
+        "text": "Golbat bites down on prey with its four fangs and drinks\nthe victim’s blood. It becomes active on inky dark\nmoonless nights, flying around to attack people and Pokémon."
+      },
+      {
+        "game": "sm-s",
+        "text": "Its thick fangs are hollow like straws, making\nthem unexpectedly fragile. These fangs are\nspecialized for sucking blood."
+      },
+      {
+        "game": "sm-m",
+        "text": "Sometimes they drink so much blood, they can’t\nfly anymore. Then they fall to the ground and\nbecome food for other Pokémon."
+      },
+      {
+        "game": "usum-us",
+        "text": "Every once in a while, you’ll see a Golbat that’s\nmissing some fangs. This happens when hunger\ndrives it to try biting a Steel-type Pokémon."
+      },
+      {
+        "game": "usum-um",
+        "text": "They can suck down over 10 ounces of blood in\none go. They have been known to drink so much\nblood that they can no longer fly."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "It attacks in a stealthy manner,\nwithout warning. Its sharp fangs\nare used to bite and to suck blood."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "It attacks in a stealthy manner,\nwithout warning. Its sharp fangs\nare used to bite and to suck blood."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "It loves to drink other creatures’ blood. It’s said\nthat if it finds others of its kind going hungry,\nit sometimes shares the blood it’s gathered."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Its feet are tiny, but this Pokémon walks skillfully.\nIt sneaks up on sleeping prey before sinking in its\nfangs and slurping up blood."
+      },
+      {
+        "game": "la",
+        "text": "It sinks its sharp fangs into other creatures and slurps up their\nblood. A closer look at the fangs reveals that they are hollow\nand akin to straws."
+      }
+    ]
+  },
+  "chs": {
+    "name": "大嘴蝠",
+    "genus": "蝙蝠宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "粗粗的牙齿像吸管一样，\n中间是空的，因而意想不到的脆弱。\n是为了吸血而特别进化的。"
+      },
+      {
+        "game": "sm-m",
+        "text": "因吸血过多无法飞行而落到\n地面成为其他宝可梦的食物，\n这样的事也有过。"
+      },
+      {
+        "game": "usum-us",
+        "text": "因为它肚子太饿\n而去咬了钢属性宝可梦，\n所以偶尔会看见缺了牙的大嘴蝠。"
+      },
+      {
+        "game": "usum-um",
+        "text": "一次能吸３００毫升的血液。\n有时会因吸血过多而无法飞行。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "难以察觉它会从哪里悄悄\n接近。它会用尖锐的牙\n咬住对手，同时使劲地吸血。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "难以察觉它会从哪里悄悄\n接近。它会用尖锐的牙\n咬住对手，同时使劲地吸血。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "喜欢吸食生物的血液。\n据说也会把自己吸到的血\n分给肚子饿扁了的伙伴。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "用小而灵活的脚走路。\n会悄悄接近正在睡觉的猎物，\n用尖牙咬住对方吸取血液。"
+      }
+    ]
+  }
+}

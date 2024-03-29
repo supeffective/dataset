@@ -1,0 +1,309 @@
+{
+  "jap": {
+    "name": "コドラ",
+    "genus": "てつヨロイポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "てっこうせきが　だいこうぶつ。\nはがねの　からだを　ぶつけあって\nなわばり　あらそいを　する。"
+      },
+      {
+        "game": "xy-y",
+        "text": "はがねの　よろいを　いわに　ぶつけた\nときに　でる　ひばなの　おおきさで\nつよさを　アピールする　しゅうせい。"
+      },
+      {
+        "game": "oras-or",
+        "text": "えいよう　まんてんの　わきみずを　おなかいっぱい\nのむ　ことで　はがねの　からだが　きたえられる。\nおいしい　わきみずの　ちかくに　すを　つくる。"
+      },
+      {
+        "game": "oras-as",
+        "text": "いしや　みずに　ふくまれる　てつぶんを　たべる。\nてっこうせきの　うもれた　やまに　すを　つくるが\nてつを　とりにくる　にんげんと　あらそいになる。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "コドラが　くらす　やまは　わきみずと\nてっこうせきが　ほうふなので　ひとと\nあらそいに　なることも　おおかった。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "からだを　ぶつけあって　なわばりを\nあらそう。　はがねの　よろいは　よく\nみると　きずや　へこみが　あるのだ。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Kodora",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "갱도라",
+    "genus": "철갑옷포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "철광석을 매우 좋아한다.\n강철의 몸을 서로 부딪치며\n영역 싸움을 한다."
+      },
+      {
+        "game": "xy-y",
+        "text": "강철의 갑옷을 바위에 부딪쳤을 때\n튀는 불꽃의 크기로\n강함을 어필하는 습성이 있다."
+      },
+      {
+        "game": "oras-or",
+        "text": "영양 만점인 샘물을 배 속 가득\n마셔서 강철 몸을 단련시킨다.\n맛있는 샘물 가까이에 거처를 만든다."
+      },
+      {
+        "game": "oras-as",
+        "text": "돌이나 물에 포함된 철 성분을 먹는다.\n철광석이 묻힌 산에 둥지를 만들지만\n철을 캐러 오는 인간과 다투게 된다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "갱도라가 사는 산은\n샘물과 철광석이 풍부하여\n사람과 다투는 일도 잦았다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "서로 몸을 부딪치며 영역\n싸움을 한다. 강철의 갑옷은\n잘 보면 흠집과 파인 곳이 있다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "可多拉",
+    "genus": "鐵鎧寶可夢",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "可多拉棲息的山區有\n豐富的泉水和鐵礦石，\n因此常會與人類起紛爭。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "會互相碰撞身體來爭奪地盤。\n仔細看牠的鋼鐵盔甲，就會\n發現有傷痕及凹痕。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Galegon",
+    "genus": "Pokémon Armurfer",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Il se nourrit du minerai de fer qu’il\nfore. Il défend son territoire en\nchargeant avec son corps d’acier."
+      },
+      {
+        "game": "bw-w",
+        "text": "Il se nourrit du minerai de fer qu’il\nfore. Il défend son territoire en\nchargeant avec son corps d’acier."
+      },
+      {
+        "game": "xy-x",
+        "text": "Il raffole du minerai de fer. Il défend son territoire\nen chargeant avec son corps d’acier."
+      },
+      {
+        "game": "xy-y",
+        "text": "Pour montrer sa force à ses ennemis, Galegon frotte\nson corps d’acier contre les rochers pour produire\nde gigantesques étincelles."
+      },
+      {
+        "game": "oras-or",
+        "text": "Galegon adoucit son corps d’acier en buvant une eau minérale\njusqu’à ce qu’il soit tout boursouflé. Ce Pokémon fait son nid\nprès des sources d’eau minérale riches en nutriments."
+      },
+      {
+        "game": "oras-as",
+        "text": "Galegon se nourrit du fer contenu dans les rochers et\ndans l’eau. Il fait son nid sur les montagnes renfermant\ndu minerai de fer. Du coup, il se confronte souvent\naux humains travaillant dans les mines."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Vivre au sein de montagnes riches en minerai\net abondantes en eau de source lui a souvent\nvalu d’entrer en conflit avec l’Homme."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Les Galegon se disputent les territoires en luttant\nau corps à corps, comme le montrent les éraflures\nsur leur armure d’acier."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Stollrak",
+    "genus": "Eisenpanzer-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Ist verrückt nach Eisenerz. Bei Revierkämpfen\nstoßen Stollrak einander mit ihren Stahlkörpern."
+      },
+      {
+        "game": "xy-y",
+        "text": "Gelegentlich demonstriert es seine Kraft, indem es\nmit der Größe der Funken angibt, die entstehen,\nwenn es seinen stählernen Körper in Felsen rammt."
+      },
+      {
+        "game": "oras-or",
+        "text": "Stollrak temperiert seinen Körper, indem es ausgesprochen\nnahrhaftes Quellwasser trinkt, bis es völlig aufgebläht ist.\nDieses Pokémon baut sein Nest in der Nähe von Quellen,\naus denen köstliches Wasser sprudelt."
+      },
+      {
+        "game": "oras-as",
+        "text": "Stollrak ernährt sich von Eisen, das in Steinen und Wasser\nenthalten ist. Es baut sein Nest in Bergen, in denen Eisenerz\nabgebaut wird. Es gerät dabei häufig mit Bergarbeitern\nin Konflikt."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Stollrak leben in Bergen, die reich an Quellwasser\nund Eisenerz sind, weshalb sie oft mit Menschen\nin Konflikt gerieten."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Bei Revierkämpfen prallen sie mit ihren Körpern\ngegeneinander. Betrachtet man die Stahlpanzer\ngenauer, entdeckt man Kratzer und Dellen."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Lairon",
+    "genus": "Pokémon Coraza Férrea",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Le encanta comer hierro. Lucha por su territorio\nembistiendo a sus rivales con su cuerpo de acero."
+      },
+      {
+        "game": "xy-y",
+        "text": "Para alardear de su fuerza, hace saltar chispas\nfrotando contra grandes rocas el cuerpo de acero\nque tiene."
+      },
+      {
+        "game": "oras-or",
+        "text": "Lairon templa su cuerpo de acero bebiendo agua mineral muy\nrica en nutrientes hasta que no puede más. Este Pokémon\nsuele crear su nido cerca de manantiales de rica agua."
+      },
+      {
+        "game": "oras-as",
+        "text": "Lairon se alimenta del hierro que hay en las rocas y el agua.\nHace su nido en las montañas, de donde se saca el hierro.\nPor eso, se encuentra muchas veces con las personas que\nestán trabajando en las minas extrayéndolo."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Habita en zonas ricas en hierro y con numerosos\nmanantiales, por lo que en el pasado las disputas\nterritoriales con los humanos eran frecuentes."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Resuelven sus disputas territoriales embistiendo\ny golpeando con el cuerpo. En sus corazas de\nacero se pueden apreciar hendiduras y rasguños."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Lairon",
+    "genus": "Pokémon Corazza",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Adora i minerali di ferro. Scaglia il suo corpo d’acciaio\ncontro gli altri nella lotta per il territorio."
+      },
+      {
+        "game": "xy-y",
+        "text": "Per sfoggiare la sua potenza, crea grandi scintille\nscontrandosi contro i massi con il suo corpo d’acciaio."
+      },
+      {
+        "game": "oras-or",
+        "text": "Lairon tempra la sua fibra d’acciaio ingerendo dosi enormi\ndi minerali altamente nutritivi presenti nell’acqua di sorgente.\nQuesto Pokémon crea la propria dimora nei pressi di sorgenti\nd’acqua purissima."
+      },
+      {
+        "game": "oras-as",
+        "text": "Lairon si nutre del ferro contenuto nelle rocce e nell’acqua.\nCrea la propria dimora in montagna vicino a giacimenti ferrosi.\nPer questo motivo il Pokémon si scontra spesso con minatori\nalla ricerca di pepite di ferro."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "I monti in cui vive sono ricchi di minerali ferrosi\ne sorgenti d’acqua. Per questo, spesso in passato\nquesto Pokémon si scontrava con gli esseri umani."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "I Lairon lottano per il territorio scagliandosi l’uno\ncontro l’altro. A un’osservazione attenta, la loro\narmatura d’acciaio mostra graffi e ammaccature."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Lairon",
+    "genus": "Iron Armor Pokémon",
+    "flavorText": [
+      {
+        "game": "rs-r",
+        "text": "LAIRON tempers its steel body by\ndrinking highly nutritious mineral\nspringwater until it is bloated.\fThis POKéMON makes its nest close to\nsprings of delicious water."
+      },
+      {
+        "game": "rs-s",
+        "text": "LAIRON feeds on iron contained in\nrocks and water. It makes its nest on\nmountains where iron ore is buried.\fAs a result, the POKéMON often clashes\nwith humans mining the iron ore."
+      },
+      {
+        "game": "e",
+        "text": "When two LAIRON meet in the wild, they\nfight for territory by bashing into each\nother with their steel bodies. The sound\nof their collision carries for miles."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "It habitually shows off its strength with\nthe size of sparks it creates by ramming\nits steel body into boulders."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "It habitually shows off its strength with\nthe size of sparks it creates by ramming\nits steel body into boulders."
+      },
+      {
+        "game": "dp-d",
+        "text": "For food, it digs up iron ore. It\nsmashes its steely body against\nothers to fight over territory."
+      },
+      {
+        "game": "dp-p",
+        "text": "For food, it digs up iron ore. It\nsmashes its steely body against\nothers to fight over territory."
+      },
+      {
+        "game": "pt",
+        "text": "For food, it digs up iron ore. It\nsmashes its steely body against\nothers to fight over territory."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "It loves iron ore. Groups of them\nfight for territory by bashing one\nanother with their steel bodies."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "It loves iron ore. Groups of them\nfight for territory by bashing one\nanother with their steel bodies."
+      },
+      {
+        "game": "bw-b",
+        "text": "For food, it digs up iron ore. It\nsmashes its steely body against\nothers to fight over territory."
+      },
+      {
+        "game": "bw-w",
+        "text": "For food, it digs up iron ore. It\nsmashes its steely body against\nothers to fight over territory."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "Lairon fight over territory,\nand when their steel bodies\ncollide, sparks fly."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "Lairon fight over territory,\nand when their steel bodies\ncollide, sparks fly."
+      },
+      {
+        "game": "xy-x",
+        "text": "It loves iron ore. Groups of them fight for territory\nby bashing one another with their steel bodies."
+      },
+      {
+        "game": "xy-y",
+        "text": "It habitually shows off its strength with the size of\nsparks it creates by ramming its steel body\ninto boulders."
+      },
+      {
+        "game": "oras-or",
+        "text": "Lairon tempers its steel body by drinking highly nutritious\nmineral springwater until it is bloated. This Pokémon makes its\nnest close to springs of delicious water."
+      },
+      {
+        "game": "oras-as",
+        "text": "Lairon feeds on iron contained in rocks and water. It makes\nits nest on mountains where iron ore is buried. As a result,\nthe Pokémon often clashes with humans mining the iron ore."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Lairon live in mountains brimming with spring\nwater and iron ore, so these Pokémon often\ncame into conflict with humans in the past."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "During territorial disputes, Lairon fight by\nslamming into each other. Close inspection of\ntheir steel armor reveals scratches and dents."
+      }
+    ]
+  },
+  "chs": {
+    "name": "可多拉",
+    "genus": "铁铠宝可梦",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "由于可多拉所栖息的山上\n有着丰富的泉水和铁矿石，\n因此经常会与人类发生争端。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "会用钢铁之躯互相撞击\n来争夺地盘。仔细看会发现\n钢铁盔甲上有伤痕和凹陷。"
+      }
+    ]
+  }
+}

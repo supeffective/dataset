@@ -1,0 +1,453 @@
+{
+  "jap": {
+    "name": "サメハダー",
+    "genus": "きょうぼうポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "てっぱんも　かみちぎる　キバを　もち\nおよぐ　そくどは　じそく１２０キロ。\nべつめいは　うみのギャング。"
+      },
+      {
+        "game": "xy-y",
+        "text": "おしりから　かいすいを　ふんしゃして\nじそく　１２０キロの　スピードで\nおよぎまわる　うみの　あばれんぼう。"
+      },
+      {
+        "game": "oras-or",
+        "text": "うみのギャングと　よばれ　おそれられている。\nおれても　すぐに　はえかわる　キバを　もち\nおおがたタンカーも　１ぴきで　バラバラに　する。"
+      },
+      {
+        "game": "oras-as",
+        "text": "かいすいを　おしりの　あなから　ふきだして\nじそく１２０キロで　およぐことが　できる。\nながい　きょりを　およげないのが　じゃくてんだ。"
+      },
+      {
+        "game": "sm-s",
+        "text": "じそく　１２０キロで　えものを　おい\nてつをも　くだく　キバで　しとめる。\nつうしょう　うみのギャング。"
+      },
+      {
+        "game": "sm-m",
+        "text": "かつては　せビレが　しょくざいとして\nちんちょうされ　らんかく　された\nかなしい　かこを　もっている。"
+      },
+      {
+        "game": "usum-us",
+        "text": "ぬけた　キバを　もっていると　うみで\nじこに　あわないと　しんじられており\nアクセサリーなどに　かこう　される。"
+      },
+      {
+        "game": "usum-um",
+        "text": "おしりの　あなから　のみこんだ\nかいすいを　ふきだし　およぐ。\nちの　においには　とても　びんかん。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "えものの　においを　かぎとると\nおしりから　かいすいを　ふんしゃして\nじそく１２０キロで　しゅうげきする。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "うみのギャングと　よばれ　せいそく\nかいいきに　はいりこんでしまった\nふねは　もれなく　おそわれてしまう。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Samehader",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "샤크니아",
+    "genus": "난폭포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "철판도 물어 찢는 이빨을 가지며\n헤엄치는 속도는 시속 120km다.\n별명은 바다의 건달이다."
+      },
+      {
+        "game": "xy-y",
+        "text": "엉덩이에서 해수를 분사해\n시속 120km의 스피드로\n헤엄치는 바다의 난동꾼이다."
+      },
+      {
+        "game": "oras-or",
+        "text": "바다의 건달이라 불리는 두려움의 대상이다.\n부러져도 바로 다시 나는 이빨이 있어서\n한 마리가 대형 유조선을 엉망으로 만든다."
+      },
+      {
+        "game": "oras-as",
+        "text": "바닷물을 엉덩이의 구멍으로 뿜어내서\n시속 120km로 헤엄칠 수 있다.\n장거리를 헤엄칠 수 없는 것이 약점이다."
+      },
+      {
+        "game": "sm-s",
+        "text": "시속 120km로 먹이를 쫓아\n철도 부수는 어금니로 잡는다.\n통칭 바다의 건달."
+      },
+      {
+        "game": "sm-m",
+        "text": "한때 등지느러미가 귀한\n식재료로 여겨져 남획된\n슬픈 과거를 갖고 있다."
+      },
+      {
+        "game": "usum-us",
+        "text": "빠진 이빨을 지니고 있으면 바다에서\n사고를 당하지 않는다고 믿어\n액세서리 등으로 가공된다."
+      },
+      {
+        "game": "usum-um",
+        "text": "엉덩이의 구멍으로 들이마신\n바닷물을 뿜어내서 헤엄친다.\n피 냄새에는 매우 민감하다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "먹이의 냄새를 맡으면\n엉덩이로 바닷물을 내뿜어서\n시속 120km의 속도로 습격한다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "바다의 건달로 불리며\n서식하는 해역에 들어간\n배는 모조리 공격당한다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "巨牙鯊",
+    "genus": "凶暴寶可夢",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "以１２０公里的時速追逐獵物，\n再用連鐵都能咬碎的牙齒捕殺。\n人稱牠為大海惡霸。"
+      },
+      {
+        "game": "sm-m",
+        "text": "在過去，牠的背鰭被當作貴重的食材，\n因此有著被濫捕的悲慘歷史。"
+      },
+      {
+        "game": "usum-us",
+        "text": "人們相信只要帶著牠脫落的牙齒\n就不會在海上遭遇事故，\n因此會將牠的牙齒加工成飾品。"
+      },
+      {
+        "game": "usum-um",
+        "text": "會將吞下的海水從臀部的\n孔中噴出，藉此來游動。\n對血的氣味非常敏感。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "當牠嗅到獵物的氣味，\n就會從臀部噴射出海水，\n發動時速１２０公里的襲擊。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "被稱為大海惡霸。船隻\n要是誤闖了牠的棲息海域，\n無一倖免地都會被襲擊。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Sharpedo",
+    "genus": "Pokémon Brutal",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Ses crocs lacèrent des feuilles\nd’acier. Il nage à 120 km/h. On\nl’appelle “tyran des mers”."
+      },
+      {
+        "game": "bw-w",
+        "text": "Ses crocs lacèrent des feuilles\nd’acier. Il nage à 120 km/h. On\nl’appelle “tyran des mers”."
+      },
+      {
+        "game": "xy-x",
+        "text": "Ses crocs lacèrent des feuilles d’acier. Il nage à\n120 km/h. On l’appelle « tyran des mers »."
+      },
+      {
+        "game": "xy-y",
+        "text": "Ce petit voyou fend les mers en se propulsant à\n120 km/h grâce à son postérieur."
+      },
+      {
+        "game": "oras-or",
+        "text": "Surnommé le « tyran des mers », Sharpedo est craint\nde par le monde. Ses crocs menaçants repoussent\nlorsqu’ils se brisent. Un seul de ces Pokémon peut\ndétruire un pétrolier gros porteur."
+      },
+      {
+        "game": "oras-as",
+        "text": "Sharpedo peut nager à plus de 120 km/h en propulsant de\nl’eau de mer par l’arrière de son corps. Ce Pokémon a un\npoint faible : il ne peut pas parcourir de longues distances."
+      },
+      {
+        "game": "sm-s",
+        "text": "Sa vitesse de pointe atteint les 120 km/h et\nses dents acérées viennent même à bout de\nl’acier. On le surnomme le « tyran des mers »."
+      },
+      {
+        "game": "sm-m",
+        "text": "Ce Pokémon a un bien triste passé : il était\nen effet impitoyablement chassé pour son\naileron, fort apprécié des gourmets."
+      },
+      {
+        "game": "usum-us",
+        "text": "On fabrique des accessoires à partir de ses\ndents, car elles ont la réputation de protéger\nleurs porteurs des accidents en mer."
+      },
+      {
+        "game": "usum-um",
+        "text": "Ce Pokémon extrêmement sensible à l’odeur\ndu sang se déplace en évacuant par son orifice\npostérieur l’eau de mer qu’il avale."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Dès qu’il détecte l’odeur d’une proie, il fonce\nsur elle à une vitesse de 120 km/h en propulsant\nde l’eau de mer par son postérieur."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Surnommé le « tyran des mers », ce Pokémon\nattaque sans exception tous les navires\nqui osent s’aventurer sur son territoire."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Tohaido",
+    "genus": "Brutal-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Seine Zähne durchdringen sogar Eisen.\nEs schwimmt mit 120 km/h und wird\n„Tyrann des Meeres“ genannt."
+      },
+      {
+        "game": "xy-y",
+        "text": "Tohaido mag Radau und schwimmt bis zu\n120 km/h schnell, indem es Wasser aus\nseinem Hinterteil ausstößt."
+      },
+      {
+        "game": "oras-or",
+        "text": "Tohaido trägt den Spitznamen „Tyrann des Meeres“ und ist\nsehr gefürchtet. Seine grausamen Zähne wachsen sofort nach,\nwenn sie ausgebrochen sind. Es kann sogar einen Öltanker\nzerreißen."
+      },
+      {
+        "game": "oras-as",
+        "text": "Tohaido kann bis zu 120 km/h schnell schwimmen, indem\nes Meerwasser aus seinem Hinterteil herausschießt. Dieses\nPokémon kann jedoch keine weiten Strecken zurücklegen."
+      },
+      {
+        "game": "sm-s",
+        "text": "Es jagt mit 120 km/h seine Beute und erlegt sie\nmithilfe seiner Zähne, die selbst Eisen durch-\ndringen. Sein Spitzname ist „Tyrann des Meeres“."
+      },
+      {
+        "game": "sm-m",
+        "text": "Tohaido hat eine traurige Vergangenheit: Seine\nRückenflosse gilt als Delikatesse, weshalb es\nlange Zeit gnadenlos überfischt wurde."
+      },
+      {
+        "game": "usum-us",
+        "text": "Man glaubt, dass die ausgefallenen Zähne von\nTohaido vor Unfällen auf dem Meer schützen.\nDeswegen werden sie zu Schmuck verarbeitet."
+      },
+      {
+        "game": "usum-um",
+        "text": "Es schwimmt, indem es das Meerwasser, das es\ntrinkt, aus seinem Hinterteil ausstößt. Für den\nGeruch von Blut ist es sehr empfänglich."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Wittert es Beute, schießt es Wasser aus seinem\nHinterteil und jagt ihr mit einer Geschwindigkeit\nvon 120 km/h hinterher."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Tohaido trägt den Spitznamen „Tyrann des\nMeeres“. Schiffe, die in sein Revier eindringen,\ngreift es ausnahmslos an."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Sharpedo",
+    "genus": "Pokémon Voraz",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Con sus colmillos puede atravesar el acero. Nada a\n120 km/h. Le llaman el Terror de los Mares."
+      },
+      {
+        "game": "xy-y",
+        "text": "Propulsándose con sus aletas, nada a 120 km/h.\nEs el terror de los mares."
+      },
+      {
+        "game": "oras-or",
+        "text": "Conocido como el Terror de los Mares, Sharpedo es temido\npor todos. Si este Pokémon pierde los escalofriantes\ncolmillos que tiene, los recupera en breve. Basta con un\nSharpedo para destrozar un buque-cisterna."
+      },
+      {
+        "game": "oras-as",
+        "text": "Sharpedo puede alcanzar nadando los 120 km/h agitando\nla aleta trasera y propulsándose por el agua. El punto flaco\nde este Pokémon es la imposibilidad que tiene de nadar\nlargas distancias."
+      },
+      {
+        "game": "sm-s",
+        "text": "Puede nadar a 120 km/h y abatir a su presa\ncon sus colmillos, capaces de destrozar incluso\nel metal. Su apodo es el Terror de los Mares."
+      },
+      {
+        "game": "sm-m",
+        "text": "Este Pokémon tiene un pasado triste, ya que\nantaño fue pescado en exceso por lo deliciosa\nque era su aleta dorsal."
+      },
+      {
+        "game": "usum-us",
+        "text": "Existe la creencia de que sus dientes traen\nbuena suerte en la mar, por lo que se usan para\nla elaboración de amuletos y adornos."
+      },
+      {
+        "game": "usum-um",
+        "text": "Nada tragando agua marina, que le sirve de\npropulsión al expelerla por detrás. Su olfato es\nextremadamente sensible al olor de la sangre."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "En cuanto detecta el olor de una presa, expele\nagua marina para propulsarse hacia delante y\natacar a una velocidad de 120 km/h."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Conocido como el Terror de los Mares, ataca sin\nexcepción a todo barco que ose adentrarse en su\nterritorio oceánico."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Sharpedo",
+    "genus": "Pokémon Brutale",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Con le sue zanne può spezzare il ferro. Nuota\na 120 km/h. È noto come il “Tiranno del mare”."
+      },
+      {
+        "game": "xy-y",
+        "text": "Il “Tiranno del mare”! Nuota a 120 km/h espellendo\nacqua marina dal didietro a mo’ di propulsore."
+      },
+      {
+        "game": "oras-or",
+        "text": "Soprannominato “Tiranno del mare”, Sharpedo è molto\ntemuto. Se perde qualcuno dei suoi temibili denti, questo\nricresce all’istante. Uno di questi Pokémon da solo\nriesce ad affondare una superpetroliera."
+      },
+      {
+        "game": "oras-as",
+        "text": "Sharpedo riesce a nuotare fino alla velocità di 120 km/h,\nespellendo acqua di mare dalla parte posteriore del corpo\ncome un propulsore. La sua unica debolezza è la mancanza\ndi resistenza sulle lunghe distanze."
+      },
+      {
+        "game": "sm-s",
+        "text": "Insegue le prede nuotando a 120 km/h e le\nafferra con le potenti zanne in grado di\nspezzare il ferro. È detto il “Tiranno del mare”."
+      },
+      {
+        "game": "sm-m",
+        "text": "In un triste passato, la sua pinna dorsale era\nconsiderata una prelibatezza e questo l’ha\nreso vittima di una caccia indiscriminata."
+      },
+      {
+        "game": "usum-us",
+        "text": "Si dice che i suoi denti siano dei portafortuna\nche proteggono dagli incidenti in mare. Con\nquelli che perde vengono fabbricati accessori."
+      },
+      {
+        "game": "usum-um",
+        "text": "Nuota espellendo dalla parte posteriore del\ncorpo l’acqua di mare ingerita. È molto sensibile\nall’odore del sangue."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Se fiuta l’odore di una preda, la assale alla\nvelocità di 120 km/h, che raggiunge espellendo\nacqua marina dalla parte posteriore del corpo."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Questo Pokémon, detto “Tiranno del mare”,\nassale qualsiasi nave si addentri nelle acque\nin cui dimora."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Sharpedo",
+    "genus": "Brutal Pokémon",
+    "flavorText": [
+      {
+        "game": "rs-r",
+        "text": "Nicknamed “the bully of the sea,”\nSHARPEDO is widely feared.\nIts cruel fangs grow back immediately\fif they snap off.\nJust one of these POKéMON can\nthoroughly tear apart a supertanker."
+      },
+      {
+        "game": "rs-s",
+        "text": "SHARPEDO can swim at speeds of up to\n75 mph by jetting seawater out of its\nbackside.\fThis POKéMON’s drawback is its inability\nto swim long distances."
+      },
+      {
+        "game": "e",
+        "text": "The vicious and sly gangster of the sea.\nIts skin is specially textured to minimize\ndrag in water. Its speed tops out at over\n75 miles per hour."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "The ruffian of the seas, it has fangs that\ncrunch through iron. It swims by jetting\nwater from its rear."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "The ruffian of the seas, it has fangs that\ncrunch through iron. It swims by jetting\nwater from its rear."
+      },
+      {
+        "game": "dp-d",
+        "text": "Its fangs rip through sheet iron.\nIt swims at 75 mph and is known as\n“The Bully of the Sea.”"
+      },
+      {
+        "game": "dp-p",
+        "text": "Its fangs rip through sheet iron.\nIt swims at 75 mph and is known as\n“The Bully of the Sea.”"
+      },
+      {
+        "game": "pt",
+        "text": "Its fangs rip through sheet iron.\nIt swims at 75 mph and is known as\n“The Bully of the Sea.”"
+      },
+      {
+        "game": "hgss-hg",
+        "text": "It can swim at speeds of 75 mph by\njetting seawater through its body.\nIt is the bandit of the sea."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "It can swim at speeds of 75 mph by\njetting seawater through its body.\nIt is the bandit of the sea."
+      },
+      {
+        "game": "bw-b",
+        "text": "Its fangs rip through sheet iron.\nIt swims at 75 mph and is known as\n“The Bully of the Sea.”"
+      },
+      {
+        "game": "bw-w",
+        "text": "Its fangs rip through sheet iron.\nIt swims at 75 mph and is known as\n“The Bully of the Sea.”"
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "Its fangs rip through sheet iron.\nIt swims at 75 mph and is known as\n“The Bully of the Sea.”"
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "Its fangs rip through sheet iron.\nIt swims at 75 mph and is known as\n“The Bully of the Sea.”"
+      },
+      {
+        "game": "xy-x",
+        "text": "Its fangs rip through sheet iron. It swims at 75 mph\nand is known as “The Bully of the Sea.”"
+      },
+      {
+        "game": "xy-y",
+        "text": "It can swim at speeds of 75 mph by jetting\nseawater through its body. It is the bandit of\nthe sea."
+      },
+      {
+        "game": "oras-or",
+        "text": "Nicknamed “the bully of the sea,” Sharpedo is widely feared.\nIts cruel fangs grow back immediately if they snap off. Just one\nof these Pokémon can thoroughly tear apart a supertanker."
+      },
+      {
+        "game": "oras-as",
+        "text": "Sharpedo can swim at speeds of up to 75 mph by jetting\nseawater out of its backside. This Pokémon’s drawback is its\ninability to swim long distances."
+      },
+      {
+        "game": "sm-s",
+        "text": "It pursues its prey at speeds of 75 mph and\nfinishes them off with fangs that can crush iron.\nIt is known as the bully of the sea."
+      },
+      {
+        "game": "sm-m",
+        "text": "It has a sad history. In the past, its dorsal fin\nwas a treasured foodstuff, so this Pokémon\nbecame a victim of overfishing."
+      },
+      {
+        "game": "usum-us",
+        "text": "People believe that carrying one of its\ndiscarded fangs will prevent mishaps at sea,\nso the fangs are made into accessories."
+      },
+      {
+        "game": "usum-um",
+        "text": "It drinks in seawater and jets it from its rear to\npropel itself. It’s very sensitive to the scent\nof blood."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "As soon as it catches the scent of prey, Sharpedo\nwill jet seawater from its backside, hurtling\ntoward the target to attack at 75 mph."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "This Pokémon is known as the Bully of the Sea.\nAny ship entering the waters Sharpedo calls\nhome will be attacked—no exceptions."
+      }
+    ]
+  },
+  "chs": {
+    "name": "巨牙鲨",
+    "genus": "凶暴宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "以１２０公里的时速追击猎物，\n用连铁都能咬碎的牙齿捕杀。\n通常称之为大海恶霸。"
+      },
+      {
+        "game": "sm-m",
+        "text": "过去，它的背鳍被当做贵重的食材，\n因此有着被滥捕的悲惨历史。"
+      },
+      {
+        "game": "usum-us",
+        "text": "人们相信，如果带着它脱落的牙齿\n就不会在海上遭遇事故，\n因此会将牙齿加工为饰品等。"
+      },
+      {
+        "game": "usum-um",
+        "text": "会从臀部的孔里喷出\n喝入的海水来游泳。\n对血的气味十分敏感。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "嗅到猎物的味道后，\n会从臀部喷射海水，\n以１２０公里的时速发动袭击。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "被称为大海恶霸。\n进入它栖息海域的船只\n会无一例外地遭到袭击。"
+      }
+    ]
+  }
+}

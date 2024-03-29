@@ -1,0 +1,205 @@
+{
+  "jap": {
+    "name": "オドリドリ",
+    "genus": "ダンスポケモン",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "はねを　うちあわせて　はっか。\nかれいな　ステップを　ふみながら\nはげしい　ほのおを　あびせかけるぞ。"
+      },
+      {
+        "game": "sm-m",
+        "text": "くれないのミツを　すった　オドリドリ。\nじょうねつてきな　ステップで　てきの\nみも　こころも　やきつくす。"
+      },
+      {
+        "game": "usum-us",
+        "text": "じょうねつてきな　ダンスで　てきの\nこころを　つかみ　ゆだんした　すきに\nもえさかる　ほのおで　やきつくす。"
+      },
+      {
+        "game": "usum-um",
+        "text": "くれないのミツを　すった　オドリドリ。\nトレーナーが　しじを　まちがえると\nはげしく　おこる　げきじょうか　だ。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Odoridori",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "춤추새",
+    "genus": "댄스포켓몬",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "날개를 부딪쳐서 발화시킨다.\n화려한 스텝을 밟으면서\n격렬한 불꽃을 퍼붓는다."
+      },
+      {
+        "game": "sm-m",
+        "text": "다홍꿀을 빨아들인 춤추새.\n정열적인 스텝으로 적의\n몸도 마음도 불태운다."
+      },
+      {
+        "game": "usum-us",
+        "text": "정열적인 댄스로 적의 마음을\n사로잡아 방심하게 한 후\n타오르는 불꽃으로 태워버린다."
+      },
+      {
+        "game": "usum-um",
+        "text": "다홍꿀을 빨아들인 춤추새.\n트레이너가 틀린 지시를 내리면\n격렬하게 화를 내는 격정적인 성격이다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "花舞鳥",
+    "genus": "舞蹈寶可夢",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "拍打翅膀生火。\n一邊踩著華麗的步伐，\n一邊灑下猛烈的火焰。"
+      },
+      {
+        "game": "sm-m",
+        "text": "吸食了朱紅色花蜜的花舞鳥。\n以熱情的舞步將敵人的身心\n全部燃燒殆盡。"
+      },
+      {
+        "game": "usum-us",
+        "text": "會用熱情的舞蹈抓住敵人的心，\n再趁對手失去戒心的空檔\n用熊熊燃燒的火焰把對方燒成灰。"
+      },
+      {
+        "game": "usum-um",
+        "text": "吸食了朱紅色花蜜的花舞鳥。\n訓練家如果做出了錯誤的指示，\n感情起伏激烈的牠就會非常生氣。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Plumeline",
+    "genus": "Pokémon Danse",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "Il réunit ses ailes pour générer du feu.\nSa chorégraphie envoûtante noie l’ennemi\nsous un torrent de flammes."
+      },
+      {
+        "game": "sm-m",
+        "text": "Après avoir bu du Nectar Rouge, Plumeline\nse lance dans une ardente danse qui consume\nle cœur de ses ennemis."
+      },
+      {
+        "game": "usum-us",
+        "text": "Il envoûte ses ennemis avec une danse\nfougueuse, et profite de leur inattention\npour les noyer sous un torrent de flammes."
+      },
+      {
+        "game": "usum-um",
+        "text": "Un Plumeline ayant bu du Nectar Rouge.\nD’un naturel passionné, il brûle de rage\nquand son Dresseur se trompe d’ordre."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Choreogel",
+    "genus": "Tanz",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "Schlägt es mit den Flügeln, gibt es Zunder!\nMit eleganten Ausfallschritten lässt es dann\nFeuer auf seine Gegner herabregnen."
+      },
+      {
+        "game": "sm-m",
+        "text": "Ein Choreogel, das roten Nektar geschlürft hat.\nMit seinen hitzigen Tanzschritten versengt es\nKörper und Geist eines jeden Gegners."
+      },
+      {
+        "game": "usum-us",
+        "text": "Mit feurigen Tanzschritten zieht es Gegner in\nseinen Bann und nutzt ihre Unachtsamkeit, um\nsie mit lodernden Flammen einzuäschern."
+      },
+      {
+        "game": "usum-um",
+        "text": "Ein Choreogel, das roten Nektar geschlürft hat.\nEs neigt zur Theatralik. Gibt ihm sein Trainer\neinen falschen Befehl, macht es ihm eine Szene."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Oricorio",
+    "genus": "Pokémon Danza",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "Junta las alas y lanza voraces llamas al rival.\nSu ataque se asemeja a una elaborada\ncoreografía de fuego."
+      },
+      {
+        "game": "sm-m",
+        "text": "Forma que toma Oricorio al libar Néctar Rojo.\nHace arder el corazón de sus adversarios con\nsu cálida danza."
+      },
+      {
+        "game": "usum-us",
+        "text": "Con su danza apasionada cautiva al enemigo.\nEn cuanto este baja la guardia, lo calcina con\nsus enormes llamaradas."
+      },
+      {
+        "game": "usum-um",
+        "text": "Forma que toma Oricorio al libar Néctar Rojo. Su\nvehemencia le lleva a ponerse hecho una furia\nsi el Entrenador le imparte la orden equivocada."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Oricorio",
+    "genus": "Pokémon Danza",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "Genera del fuoco congiungendo le ali.\nAvvolge il nemico con violente fiamme mentre\nsi esibisce in un’elegante coreografia di danza."
+      },
+      {
+        "game": "sm-m",
+        "text": "Un Oricorio che si è nutrito di Nettare rosso.\nCon i suoi ardenti passi di danza trascina i suoi\nnemici in una lotta infuocata."
+      },
+      {
+        "game": "usum-us",
+        "text": "Ammalia il nemico con una danza appassionata\ne approfitta della sua distrazione per attaccare\ncon fiamme potentissime riducendolo in cenere."
+      },
+      {
+        "game": "usum-um",
+        "text": "Un Oricorio che si è nutrito di Nettare rosso.\nÈ molto melodrammatico e va su tutte le furie se\nil suo Allenatore gli dà un’indicazione sbagliata."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Oricorio",
+    "genus": "Dancing Pokémon",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "It beats its wings together to create fire.\nAs it moves in the steps of its beautiful dance,\nit bathes opponents in intense flames."
+      },
+      {
+        "game": "sm-m",
+        "text": "This Oricorio has sipped red nectar. Its\npassionate dance moves cause its enemies\nto combust in both body and mind."
+      },
+      {
+        "game": "usum-us",
+        "text": "It wins the hearts of its enemies with its\npassionate dancing and then uses the opening\nit creates to burn them up with blazing flames."
+      },
+      {
+        "game": "usum-um",
+        "text": "This Oricorio has drunk red nectar. If its Trainer\ngives the wrong order, this passionate Pokémon\nbecomes fiercely angry."
+      }
+    ]
+  },
+  "chs": {
+    "name": "花舞鸟",
+    "genus": "舞蹈宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "拍打翅膀生火。\n一边踩着华丽的步伐，\n一边洒下猛烈的火焰。"
+      },
+      {
+        "game": "sm-m",
+        "text": "吸食了朱红色花蜜的花舞鸟。\n以热情的步伐将敌人的身心\n全部燃烧殆尽。"
+      },
+      {
+        "game": "usum-us",
+        "text": "用热情的舞蹈抓住敌人的心，\n趁对方疏忽的间隙，\n用熊熊燃烧的火焰将其烧尽。"
+      },
+      {
+        "game": "usum-um",
+        "text": "吸食了朱红色花蜜的花舞鸟。\n训练家弄错指示的话就会非常生气。\n是情感变化非常剧烈的家伙。"
+      }
+    ]
+  }
+}

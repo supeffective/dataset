@@ -1,0 +1,553 @@
+{
+  "jap": {
+    "name": "ピッピ",
+    "genus": "ようせいポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "まんげつのよる　ピッピが　あつまって\nダンスを　おどるようすを　みると\nしあわせに　なれると　いわれている。"
+      },
+      {
+        "game": "xy-y",
+        "text": "せなかの　つばさに　つきのひかりを\nあつめることで　くうちゅうに\nうかぶことが　できるらしい。"
+      },
+      {
+        "game": "oras-or",
+        "text": "まんげつの　よるは　げんき　いっぱいに　あそぶ。\nあけがた　つかれた　ピッピたちは　しずかな\nやまおくで　なかまたちと　よりそって　ねむる。"
+      },
+      {
+        "game": "oras-as",
+        "text": "まんげつの　よるは　げんき　いっぱいに　あそぶ。\nあけがた　つかれた　ピッピたちは　しずかな\nやまおくで　なかまたちと　よりそって　ねむる。"
+      },
+      {
+        "game": "sm-s",
+        "text": "あいくるしい　しぐさと　すがたで\nろうにゃくなんにょ　とわずに\nにんきだが　そのかずは　すくない。"
+      },
+      {
+        "game": "sm-m",
+        "text": "まんげつの　ばんに　あつまって\nなかまと　ダンス。　そのしゅういは\nいじょうな　じばに　つつまれる。"
+      },
+      {
+        "game": "usum-us",
+        "text": "にんきだが　かずが　すくないので\nきちょう。　むやみに　みせびらかすと\nどろぼうに　ねらわれるぞ。"
+      },
+      {
+        "game": "usum-um",
+        "text": "つきあかりを　あびた　つばさは\nあわく　かがやき　はばたかなくとも\nちゅうに　うかんで　まいおどる。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "すがたや　しぐさが　あいくるしく\nにんきだが　かずが　すくないのか\nなかなか　はっけん　できない。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "すがたや　しぐさが　あいくるしく\nにんきだが　かずが　すくないのか\nなかなか　はっけん　できない。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "まんげつのよる　ピッピが　あつまって\nダンスを　おどるようすを　みると\nしあわせに　なれると　いわれている。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "あいくるしい　しぐさと　なきごえで\nかわいいと　だいにんきの　ポケモン。\nだが　めったに　みつからない。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Pippi",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "삐삐",
+    "genus": "요정포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "보름달 밤에 삐삐가 모여\n춤을 추는 모습을 보면\n행복해진다고 전해진다."
+      },
+      {
+        "game": "xy-y",
+        "text": "등의 날개에 달빛을\n모으면 공중에\n떠오를 수 있다는 듯하다."
+      },
+      {
+        "game": "oras-or",
+        "text": "보름달 밤에는 기운차게 논다.\n동틀 녘에 지친 삐삐들은 조용한\n산속에서 동료와 바짝 붙어 잠잔다."
+      },
+      {
+        "game": "oras-as",
+        "text": "보름달 밤에는 기운차게 논다.\n동틀 녘에 지친 삐삐들은 조용한\n산속에서 동료와 바짝 붙어 잠잔다."
+      },
+      {
+        "game": "sm-s",
+        "text": "사랑스러운 몸짓과 모습으로\n남녀노소 가리지 않고\n인기가 있지만, 그 수는 적다."
+      },
+      {
+        "game": "sm-m",
+        "text": "보름달 밤에 모여서\n동료와 춤을 춘다. 그 주변은\n이상한 자기장으로 둘러싸인다."
+      },
+      {
+        "game": "usum-us",
+        "text": "인기가 있지만, 개체 수가 적어\n귀하다. 함부로 자랑하다가는\n도둑의 타깃이 된다."
+      },
+      {
+        "game": "usum-um",
+        "text": "달빛에 비친 날개는 희미하게\n빛나고 날갯짓하지 않아도\n허공을 떠다니며 춤을 춘다."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "모습과 행동이 사랑스러워서\n인기가 높지만 수가 적어서인지\n좀처럼 발견되지 않는다."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "모습과 행동이 사랑스러워서\n인기가 높지만 수가 적어서인지\n좀처럼 발견되지 않는다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "보름달 밤에 삐삐가 모여\n춤을 추는 모습을 보면\n행복해진다고 전해진다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "애교 있는 몸동작과 울음소리로\n귀엽다고 많은 인기를 누리는 포켓몬.\n그러나 좀처럼 눈에 띄지 않는다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "皮皮",
+    "genus": "妖精寶可夢",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "因為可愛的舉止和模樣，\n不論男女老幼都很喜歡牠。\n但數量很稀少。"
+      },
+      {
+        "game": "sm-m",
+        "text": "在月圓之夜聚集，和夥伴一起跳舞。\n周圍被異常的磁場包圍著。"
+      },
+      {
+        "game": "usum-us",
+        "text": "深受人們喜愛，但因為數量稀少\n所以十分珍貴。如果隨便把牠\n帶出來炫耀，就會被小偷盯上哦。"
+      },
+      {
+        "game": "usum-um",
+        "text": "沐浴著月光的翅膀會發出\n淡淡的光輝，不需要振翅\n就能浮在空中翩翩起舞。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "可愛的外型和動作使牠深受歡迎。\n但可能因為數量稀少的緣故，\n人們很難發現牠的蹤跡。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "可愛的外型和動作使牠深受歡迎。\n但可能因為數量稀少的緣故，\n人們很難發現牠的蹤跡。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "據說如果在滿月的夜晚\n看見皮皮們聚在一起跳舞，\n就能得到幸福。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "因可愛的舉止和叫聲\n而廣受歡迎的寶可夢。\n不過很少被人發現。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Mélofée",
+    "genus": "Pokémon Fée",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "On dit que ceux qui voient danser\nun groupe de Mélofée sous la pleine\nlune connaîtront un grand bonheur."
+      },
+      {
+        "game": "bw-w",
+        "text": "On dit que ceux qui voient danser\nun groupe de Mélofée sous la pleine\nlune connaîtront un grand bonheur."
+      },
+      {
+        "game": "xy-x",
+        "text": "On dit que ceux qui voient danser un groupe de\nMélofée sous la pleine lune connaîtront un grand\nbonheur."
+      },
+      {
+        "game": "xy-y",
+        "text": "La lumière de la lune qu’il emmagasine dans ses ailes\ndorsales lui permet de flotter dans les airs."
+      },
+      {
+        "game": "oras-or",
+        "text": "Les nuits de pleine lune, des groupes de ces Pokémon\nsortent jouer. Lorsque l’aube commence à poindre,\nles Mélofée fatigués rentrent dans leur retraite montagneuse\net vont dormir, blottis les uns contre les autres."
+      },
+      {
+        "game": "oras-as",
+        "text": "Les nuits de pleine lune, des groupes de ces Pokémon\nsortent jouer. Lorsque l’aube commence à poindre,\nles Mélofée fatigués rentrent dans leur retraite montagneuse\net vont dormir, blottis les uns contre les autres."
+      },
+      {
+        "game": "sm-s",
+        "text": "Son apparence et ses mimiques charmantes lui\nont valu de nombreux fans de tous âges, mais\nil reste un Pokémon relativement rare."
+      },
+      {
+        "game": "sm-m",
+        "text": "Ce Pokémon retrouve ses congénères et danse\nlors des nuits de pleine lune. Un champ\nmagnétique mystérieux s’étend alors alentour."
+      },
+      {
+        "game": "usum-us",
+        "text": "Il est très rare en dépit de sa popularité. Ne le\nlaissez pas sans surveillance, car il risquerait\nde se faire dérober par un voleur de Pokémon !"
+      },
+      {
+        "game": "usum-um",
+        "text": "Quand ses ailes absorbent la lumière de la lune,\nelles brillent légèrement et le font léviter pour\nlui permettre de danser dans les airs."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Adoré pour son aspect mignon et joyeux,\non le suppose rare, car on en voit très peu\nde spécimens."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Adoré pour son aspect mignon et joyeux,\non le suppose rare, car on en voit très peu\nde spécimens."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "On dit que ceux qui voient danser un groupe\nde Mélofée sous la pleine lune connaîtront\nun grand bonheur."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Son comportement et son cri adorables font de\nlui un Pokémon très populaire. Malheureusement,\nil est difficile d’en croiser un spécimen."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Piepi",
+    "genus": "Feen-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Eine Ansammlung von Piepi bei Vollmond tanzen\nzu sehen, soll Freude verheißen."
+      },
+      {
+        "game": "xy-y",
+        "text": "Aufgrund des gespeicherten Mondlichts in seinen\nFlügeln auf dem Rücken kann es in der Luft schweben."
+      },
+      {
+        "game": "oras-or",
+        "text": "In Vollmondnächten sammeln sich einige dieser Pokémon,\num zu spielen. Wird es Tag, kehrt Piepi zu seinem Zufluchtsort\nin den Bergen zurück und schläft eingekuschelt neben seinen\nArtgenossen ein."
+      },
+      {
+        "game": "oras-as",
+        "text": "In Vollmondnächten zeigt sich dieses Pokémon. Wenn es Tag\nwird, kehrt Piepi zu seinem Zufluchtsort in den Bergen zurück\nund schläft eingekuschelt neben seinen Artgenossen ein."
+      },
+      {
+        "game": "sm-s",
+        "text": "Dank seiner verspielten Art und seines süßen\nAussehens ist es bei Jung und Alt sehr beliebt.\nDieses Pokémon ist jedoch selten."
+      },
+      {
+        "game": "sm-m",
+        "text": "Bei Vollmond versammeln sie sich und tanzen\ngemeinsam. Um sie herum entsteht dadurch\nein ungewöhnliches Magnetfeld."
+      },
+      {
+        "game": "usum-us",
+        "text": "Dieses beliebte Pokémon hat Seltenheitswert.\nWer leichtsinnig damit prahlt, eins zu haben,\nkönnte in das Visier von Dieben geraten."
+      },
+      {
+        "game": "usum-um",
+        "text": "Im Mondlicht erstrahlen seine Flügel in sanftem\nSchein und lassen es auch ohne Flügelschlag\nin der Luft schwebend tanzen."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Wegen seines reizenden Aussehens und Wesens\nist Piepi beliebt, aber man sieht es nur selten,\nda es anscheinend nicht viele Exemplare gibt."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Wegen seines reizenden Aussehens und Wesens\nist Piepi beliebt, aber man sieht es nur selten,\nda es anscheinend nicht viele Exemplare gibt."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Eine Ansammlung von Piepi bei Vollmond tanzen\nzu sehen, soll ein glückliches Leben verheißen."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Aufgrund seines reizenden Wesens und seines\nRufes erfreut sich dieses Pokémon großer\nBeliebtheit. Leider ist es auch sehr selten."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Clefairy",
+    "genus": "Pokémon Hada",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Se dice que la felicidad llegará a quien vea a un grupo\nde Clefairy bailando a la luz de la luna llena."
+      },
+      {
+        "game": "xy-y",
+        "text": "La luz de luna que guarda en las alas de su lomo\nparece darle la habilidad de flotar en el aire."
+      },
+      {
+        "game": "oras-or",
+        "text": "Siempre que hay luna llena, salen en grupo para jugar.\nAl amanecer, los Clefairy, agotados, regresan a sus refugios\nde montaña para dormir acurrucados unos con otros."
+      },
+      {
+        "game": "oras-as",
+        "text": "Siempre que hay luna llena, salen en grupo para jugar.\nAl amanecer, los Clefairy, agotados, regresan a sus refugios\nde montaña para dormir acurrucados unos con otros."
+      },
+      {
+        "game": "sm-s",
+        "text": "Tanto niños como adultos de todas las edades\nlos encuentran adorables por su aspecto y su\ncomportamiento. No quedan muchos ejemplares."
+      },
+      {
+        "game": "sm-m",
+        "text": "Cuando hay luna llena, los Clefairy salen en\ngrupo a bailar. A su alrededor se genera un\nmisterioso campo magnético."
+      },
+      {
+        "game": "usum-us",
+        "text": "Es muy popular y la escasez de ejemplares lo\nhace muy valioso. Quien presume mucho de\ntener uno se arriesga a que se lo roben."
+      },
+      {
+        "game": "usum-um",
+        "text": "Cuando la luz de la luna baña sus alas, estas\nemiten un tenue brillo y, sin batirlas siquiera,\nlevita en el aire y comienza a bailar."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Su aspecto jovial y sus ademanes lo hacen\nadorable y muy popular, aunque no suelen verse\na menudo, tal vez porque su número sea escaso."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Su aspecto jovial y sus ademanes lo hacen\nadorable y muy popular, aunque no suelen verse\na menudo, tal vez porque su número sea escaso."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Se dice que la felicidad llegará a quien vea un\ngrupo de Clefairy bailando a la luz de la luna\nllena."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Su adorable grito y comportamiento lo hacen\nmuy popular. Sin embargo, raramente se avista."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Clefairy",
+    "genus": "Pokémon Fata",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Si dice che vedere un gruppo di Clefairy ballare\ncon la luna piena sia di ottimo auspicio."
+      },
+      {
+        "game": "xy-y",
+        "text": "Sembra che la luce lunare che raccoglie nelle ali\nsul dorso gli permetta di volare a mezz’aria."
+      },
+      {
+        "game": "oras-or",
+        "text": "In ogni notte di luna piena questi Pokémon escono in gruppo\na giocare. All’alba i Clefairy tornano stanchi nella quiete\ndelle loro tane montane e vanno a dormire stretti fra loro."
+      },
+      {
+        "game": "oras-as",
+        "text": "In ogni notte di luna piena questi Pokémon escono in gruppo\na giocare. All’alba i Clefairy tornano stanchi nella quiete\ndelle loro tane montane e vanno a dormire stretti fra loro."
+      },
+      {
+        "game": "sm-s",
+        "text": "È amato da donne e uomini di tutte le età per\nil suo aspetto adorabile e le sue graziose\nmovenze. Ne esistono solo pochi esemplari."
+      },
+      {
+        "game": "sm-m",
+        "text": "Nelle notti di luna piena, i Clefairy si radunano\nper danzare. Intorno a loro si crea un misterioso\ncampo magnetico."
+      },
+      {
+        "game": "usum-us",
+        "text": "Questo Pokémon molto popolare è piuttosto raro\ne prezioso. È meglio evitare di metterlo troppo in\nmostra, o si corre il rischio di farselo rubare."
+      },
+      {
+        "game": "usum-um",
+        "text": "Danza librandosi a mezz’aria senza sbattere\nle ali, che al chiarore della luna emettono un\ndebole scintillio."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "È molto amato per l’aspetto adorabile\ne le graziose movenze, ma non si vede\nspesso perché ne esistono pochi esemplari."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "È molto amato per l’aspetto adorabile\ne le graziose movenze, ma non si vede\nspesso perché ne esistono pochi esemplari."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Si dice che vedere un gruppo di Clefairy ballare\ncon la luna piena sia di ottimo auspicio."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Il suo verso e le sue movenze graziose rendono\nquesto adorabile Pokémon molto popolare.\nSfortunatamente, però, è molto raro."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Clefairy",
+    "genus": "Fairy Pokémon",
+    "flavorText": [
+      {
+        "game": "rb-r",
+        "text": "Its magical and\ncute appeal has\nmany admirers.\fIt is rare and\nfound only in\ncertain areas."
+      },
+      {
+        "game": "rb-b",
+        "text": "Its magical and\ncute appeal has\nmany admirers.\fIt is rare and\nfound only in\ncertain areas."
+      },
+      {
+        "game": "y",
+        "text": "Adored for their\ncute looks and\nplayfulness. They\fare thought to be\nrare, as they do\nnot appear often."
+      },
+      {
+        "game": "gs-g",
+        "text": "The moonlight that\nit stores in the\nwings on its back\fapparently gives\nit the ability to\nfloat in midair."
+      },
+      {
+        "game": "gs-s",
+        "text": "Its adorable be­\nhavior and cry\nmake it highly\fpopular. However,\nthis cute POKéMON\nis rarely found."
+      },
+      {
+        "game": "c",
+        "text": "Though rarely\nseen, it becomes\neasier to spot,\ffor some reason,\non the night of a \nfull moon."
+      },
+      {
+        "game": "rs-r",
+        "text": "On every night of a full moon, groups of\nthis POKéMON come out to play.\nWhen dawn arrives, the tired CLEFAIRY\freturn to their quiet mountain retreats\nand go to sleep nestled up against each\nother."
+      },
+      {
+        "game": "rs-s",
+        "text": "On every night of a full moon, groups of\nthis POKéMON come out to play.\nWhen dawn arrives, the tired CLEFAIRY\freturn to their quiet mountain retreats\nand go to sleep nestled up against each\nother."
+      },
+      {
+        "game": "e",
+        "text": "On every night of a full moon, they come\nout to play. When dawn arrives, the tired\nCLEFAIRY go to sleep nestled up against\neach other in deep and quiet mountains."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "Its adorable appearance makes it popular\nas a pet. However, it is rare and\ndifficult to find."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "With its magical and cute appeal, it has \nmany admirers. It is rare and found only\nin certain areas."
+      },
+      {
+        "game": "dp-d",
+        "text": "Thought to live with others on\nquiet mountains, it is popular\nfor its adorable nature."
+      },
+      {
+        "game": "dp-p",
+        "text": "It flies using the wings on its\nback to collect moonlight. This\nPokémon is difficult to find."
+      },
+      {
+        "game": "pt",
+        "text": "It is said that happiness will come\nto those who see a gathering of\nCLEFAIRY dancing under a full moon."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "The moonlight that it stores in the\nwings on its back apparently gives\nit the ability to float in midair."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "Its adorable behavior and cry\nmake it highly popular. However,\nthis cute Pokémon is rarely found."
+      },
+      {
+        "game": "bw-b",
+        "text": "It is said that happiness will come\nto those who see a gathering of\nClefairy dancing under a full moon."
+      },
+      {
+        "game": "bw-w",
+        "text": "It is said that happiness will come\nto those who see a gathering of\nClefairy dancing under a full moon."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "On nights with a full moon, Clefairy\ngather from all over and dance.\nBathing in moonlight makes them float."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "On nights with a full moon, Clefairy\ngather from all over and dance.\nBathing in moonlight makes them float."
+      },
+      {
+        "game": "xy-x",
+        "text": "It is said that happiness will come to those who see\na gathering of Clefairy dancing under a full moon."
+      },
+      {
+        "game": "xy-y",
+        "text": "The moonlight that it stores in the wings on its back\napparently gives it the ability to float in midair."
+      },
+      {
+        "game": "oras-or",
+        "text": "On every night of a full moon, groups of this Pokémon come\nout to play. When dawn arrives, the tired Clefairy return to their\nquiet mountain retreats and go to sleep nestled up against\neach other."
+      },
+      {
+        "game": "oras-as",
+        "text": "On every night of a full moon, groups of this Pokémon\ncome out to play. When dawn arrives, the tired Clefairy\nreturn to their quiet mountain retreats and go to sleep\nnestled up against each other."
+      },
+      {
+        "game": "sm-s",
+        "text": "Its adorable behavior and appearance make it\npopular with men and women, young and old.\nIts numbers are few, however."
+      },
+      {
+        "game": "sm-m",
+        "text": "On nights with a full moon, they gather together\nand dance. The surrounding area is enveloped\nin an abnormal magnetic field."
+      },
+      {
+        "game": "usum-us",
+        "text": "They’re popular, but they’re rare. Trainers who\nshow them off recklessly may be targeted\nby thieves."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Its adorable behavior and cry make it highly popular.\nHowever, this cute Pokémon is rarely found."
+      },
+      {
+        "game": "usum-um",
+        "text": "Bathed in moonlight, its wings glow faintly.\nWithout even flapping, Clefairy rises into the air,\nwhere it dances around."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Adored for their cute looks and playfulness.\nThey are thought to be rare, as they\ndo not appear often."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Adored for their cute looks and playfulness.\nThey are thought to be rare, as they\ndo not appear often."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "It is said that happiness will come to those who\nsee a gathering of Clefairy dancing under a\nfull moon."
+      },
+      {
+        "game": "la",
+        "text": "It can be found in quiet mountain areas on a full moon's night.\nIts dancing and its tiny, faintly glowing wings confer upon it a\nlovely fairylike quality."
+      }
+    ]
+  },
+  "chs": {
+    "name": "皮皮",
+    "genus": "妖精宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "因为可爱的举止和样子，\n不论男女老幼都很喜欢它。\n但数量稀少。"
+      },
+      {
+        "game": "sm-m",
+        "text": "在月圆之夜聚集，和伙伴一起跳舞。\n那周围也会被异常的磁场包围。"
+      },
+      {
+        "game": "usum-us",
+        "text": "虽然深受人们的喜爱，但由于数量稀少\n故而十分珍贵。如果随便把它\n带出来炫耀，就会被小偷盯上哦。"
+      },
+      {
+        "game": "usum-um",
+        "text": "沐浴着月光的翅膀会发出\n淡淡的光辉。即便不挥动翅膀，\n它也能浮在空中翩翩起舞。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "因外形和动作可爱而深受\n大家的喜爱。但或许是由于\n数量稀少，它们很难被发现。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "因外形和动作可爱而深受\n大家的喜爱。但或许是由于\n数量稀少，它们很难被发现。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "据说在满月的夜晚，\n如果能看到皮皮们聚在一起跳舞，\n就能得到幸福。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "因可爱的举止和叫声\n而广受欢迎的宝可梦。\n不过很少被人发现。"
+      }
+    ]
+  }
+}

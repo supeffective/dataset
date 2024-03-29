@@ -1,0 +1,405 @@
+{
+  "jap": {
+    "name": "カメール",
+    "genus": "かめポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "ポカンと　あたまを　たたかれるとき\nこうらに　ひっこんで　よける。でも\nちょっとだけ　しっぽが　でているよ。"
+      },
+      {
+        "game": "xy-y",
+        "text": "いちまんねんの　じゅみょうを　もつと\nいわれている。ふさふさの　しっぽは\nながいきの　シンボルとして　にんき。"
+      },
+      {
+        "game": "oras-or",
+        "text": "ふさふさの　けで　おおわれた　おおきな　しっぽは\nながいき　するほど　ふかい　いろあいに　かわる。\nこうらの　キズは　つわものの　あかし。"
+      },
+      {
+        "game": "oras-as",
+        "text": "ふさふさの　けで　おおわれた　おおきな　しっぽは\nながいき　するほど　ふかい　いろあいに　かわる。\nこうらの　キズは　つわものの　あかし。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "ポカンと　あたまを　たたかれるとき\nこうらに　ひっこんで　よける。でも\nちょっとだけ　シッポが　でているよ。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "ポカンと　あたまを　たたかれるとき\nこうらに　ひっこんで　よける。でも\nちょっとだけ　シッポが　でているよ。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "ながいきの　シンボルと　されている。\nこうらに　コケが　ついているのは\nとくに　ながいきの　カメールだ。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "ふさふさの　みみと　しっぽを\nたくみに　あやつって　すいちゅうでの\nバランスを　たもつ。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Kameil",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "어니부기",
+    "genus": "거북포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "딱 하고 머리를 맞을 때\n등껍질로 숨어서 피한다. 하지만\n꼬리가 살짝 삐져나와 있다."
+      },
+      {
+        "game": "xy-y",
+        "text": "만 년의 수명을 가지고 있다고들\n말한다. 치렁치렁한 꼬리는\n장수의 상징으로서 인기가 있다."
+      },
+      {
+        "game": "oras-or",
+        "text": "푹신한 털로 덮인 큰 꼬리는\n오래 살수록 깊은 색으로 변한다.\n등껍질의 상처는 강자임을 증명한다."
+      },
+      {
+        "game": "oras-as",
+        "text": "푹신한 털로 덮인 큰 꼬리는\n오래 살수록 깊은 색으로 변한다.\n등껍질의 상처는 강자임을 증명한다."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "딱 하고 머리를 맞을 때\n등껍질로 숨어서 피한다. 하지만\n꼬리가 살짝 삐져나와 있다."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "딱 하고 머리를 맞을 때\n등껍질로 숨어서 피한다. 하지만\n꼬리가 살짝 삐져나와 있다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "장수의 상징으로 여겨진다.\n등껍질에 이끼가 붙어 있는 것은\n특히 장수한 어니부기다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "탐스러운 귀와 꼬리를\n능숙하게 다뤄서 수중에서의\n밸런스를 유지한다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "卡咪龜",
+    "genus": "龜寶可夢",
+    "flavorText": [
+      {
+        "game": "lgpe-lgp",
+        "text": "如果有人打牠的頭，\n牠會縮進殼裡來躲避，\n但會留下一小截尾巴在外面。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "如果有人打牠的頭，\n牠會縮進殼裡來躲避，\n但會留下一小截尾巴在外面。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "被視為長壽的象徵。\n如果卡咪龜的殼上長著苔蘚，\n那就代表牠已經活了非常久。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "會靈巧地擺動自己\n毛茸茸的耳朵和尾巴，\n藉此在水中保持平衡。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Carabaffe",
+    "genus": "Pokémon Tortue",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "On prétend qu’il vit 10 000 ans.\nSa queue duveteuse est un\nsymbole de longévité populaire."
+      },
+      {
+        "game": "bw-w",
+        "text": "On prétend qu’il vit 10 000 ans.\nSa queue duveteuse est un\nsymbole de longévité populaire."
+      },
+      {
+        "game": "xy-x",
+        "text": "Attaqué, il cache sa tête dans sa carapace, mais\nson corps trop gros ne peut y tenir en entier."
+      },
+      {
+        "game": "xy-y",
+        "text": "On prétend qu’il vit 10 000 ans. Sa queue duveteuse\nest un symbole de longévité populaire."
+      },
+      {
+        "game": "oras-or",
+        "text": "Carabaffe a une large queue recouverte d’une épaisse\nfourrure. Elle devient de plus en plus foncée avec l’âge.\nLes éraflures sur la carapace de ce Pokémon témoignent\nde son expérience au combat."
+      },
+      {
+        "game": "oras-as",
+        "text": "Carabaffe a une large queue recouverte d’une épaisse\nfourrure. Elle devient de plus en plus foncée avec l’âge.\nLes éraflures sur la carapace de ce Pokémon témoignent\nde son expérience au combat."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Quand on lui tapote la tête, il se cache dans\nsa carapace, mais son corps ne peut pas y tenir\nen entier."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Quand on lui tapote la tête, il se cache dans\nsa carapace, mais son corps ne peut pas y tenir\nen entier."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Il est considéré comme un symbole de longévité.\nOn reconnaît les spécimens les plus âgés\nà la mousse qui pousse sur leur carapace."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Il se sert habilement de sa queue et de ses\noreilles touffues pour garder son équilibre\nsous l’eau."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Schillok",
+    "genus": "Kröten-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Bei Gefahr zieht dieses Pokémon seinen Kopf ein.\nDie Schwanzspitze ragt jedoch aus dem Panzer\nheraus."
+      },
+      {
+        "game": "xy-y",
+        "text": "Man sagt, es werde 10 000 Jahre alt. Sein buschiger\nSchweif ist ein Symbol für langes Leben."
+      },
+      {
+        "game": "oras-or",
+        "text": "Schillok hat einen langen, buschigen Schweif, dessen Farbe\nintensiver wird, wenn es altert. Die Kratzer auf seinem Panzer\nzeugen von seiner Kampfkraft."
+      },
+      {
+        "game": "oras-as",
+        "text": "Schillok hat einen langen, buschigen Schweif, dessen Farbe\nintensiver wird, wenn es altert. Die Kratzer auf seinem Panzer\nzeugen von seiner Kampfkraft."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Wenn es einen Schlag auf den Kopf bekommt,\nzieht es sich in seinen Panzer zurück. Seine\nSchwanzspitze ragt jedoch ein wenig heraus."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Wenn es einen Schlag auf den Kopf bekommt,\nzieht es sich in seinen Panzer zurück. Seine\nSchwanzspitze ragt jedoch ein wenig heraus."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Es gilt als Symbol für Langlebigkeit. Sehr alte\nExemplare erkennt man daran, dass ihr Panzer\nmit Algen übersät ist."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Es balanciert geschickt mit seinen buschigen\nOhren und dem Schweif, während es im Wasser\nschwimmt."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Wartortle",
+    "genus": "Pokémon Tortuga",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Si es golpeado, esconderá su cabeza. Aun así, su cola\npuede seguir golpeando."
+      },
+      {
+        "game": "xy-y",
+        "text": "Se dice que vive 10 000 años. Su peluda cola es un\nsímbolo de longevidad."
+      },
+      {
+        "game": "oras-or",
+        "text": "Tiene una cola larga y cubierta de un pelo abundante y\ngrueso que se torna más oscuro a medida que crece.\nLos arañazos que tiene en el caparazón dan fe de lo buen\nguerrero que es."
+      },
+      {
+        "game": "oras-as",
+        "text": "Tiene una cola larga y cubierta de un pelo abundante y\ngrueso que se torna más oscuro a medida que crece.\nLos arañazos que tiene en el caparazón dan fe de lo buen\nguerrero que es."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Si alguien le golpea la cabeza, se protege\nescondiéndose en su caparazón, aunque parte\nde la cola queda al descubierto."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Si alguien le golpea la cabeza, se protege\nescondiéndose en su caparazón, aunque parte\nde la cola queda al descubierto."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Se lo considera un símbolo de longevidad. Los\nejemplares más ancianos tienen musgo sobre el\ncaparazón."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Utiliza hábilmente sus peludas orejas y la cola\npara mantener el equilibrio al nadar."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Wartortle",
+    "genus": "Pokémon Tartaruga",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Quando si sente minacciato ritira la testa nella\ncorazza, mentre la coda sporge sempre un po’."
+      },
+      {
+        "game": "xy-y",
+        "text": "Pare che viva 10.000 anni. Ha la coda ricoperta da\nuna folta pelliccia, indice di longevità."
+      },
+      {
+        "game": "oras-or",
+        "text": "La grande coda di Wartortle è coperta da una folta\npelliccia, che diventa sempre più scura con l’avanzare\ndell’età. I graffi sulla corazza indicano la potenza di questo\nPokémon come lottatore."
+      },
+      {
+        "game": "oras-as",
+        "text": "La grande coda di Wartortle è coperta da una folta\npelliccia, che diventa sempre più scura con l’avanzare\ndell’età. I graffi sulla corazza indicano la potenza di questo\nPokémon come lottatore."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Quando viene colpito sulla testa si ritira nella\ncorazza. La coda, però, sporge sempre un po’."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Quando viene colpito sulla testa si ritira nella\ncorazza. La coda, però, sporge sempre un po’."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "È considerato un simbolo di longevità.\nSe c’è del muschio sul suo guscio, significa\nche è molto anziano."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Controlla abilmente le orecchie e la coda\ncoperte di pelo, mantenendo l’assetto\nmentre nuota."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Wartortle",
+    "genus": "Turtle Pokémon",
+    "flavorText": [
+      {
+        "game": "rb-r",
+        "text": "Often hides in\nwater to stalk\nunwary prey. For\fswimming fast, it\nmoves its ears to\nmaintain balance."
+      },
+      {
+        "game": "rb-b",
+        "text": "Often hides in\nwater to stalk\nunwary prey. For\fswimming fast, it\nmoves its ears to\nmaintain balance."
+      },
+      {
+        "game": "y",
+        "text": "When tapped, this\nPOKéMON will pull\nin its head, but\fits tail will\nstill stick out a\nlittle bit."
+      },
+      {
+        "game": "gs-g",
+        "text": "It is recognized\nas a symbol of\nlongevity. If its\fshell has algae on\nit, that WARTORTLE\nis very old."
+      },
+      {
+        "game": "gs-s",
+        "text": "It cleverly con­\ntrols its furry\nears and tail to\fmaintain its\nbalance while\nswimming."
+      },
+      {
+        "game": "c",
+        "text": "Its long, furry\ntail is a symbol\nof longevity,\fmaking it quite\npopular among\nolder people."
+      },
+      {
+        "game": "rs-r",
+        "text": "Its tail is large and covered with a rich,\nthick fur. The tail becomes increasingly\ndeeper in color as WARTORTLE ages.\fThe scratches on its shell are evidence\nof this POKéMON’s toughness as a\nbattler."
+      },
+      {
+        "game": "rs-s",
+        "text": "Its tail is large and covered with a rich,\nthick fur. The tail becomes increasingly\ndeeper in color as WARTORTLE ages.\fThe scratches on its shell are evidence\nof this POKéMON’s toughness as a\nbattler."
+      },
+      {
+        "game": "e",
+        "text": "Its large tail is covered with rich, thick\nfur that deepens in color with age.\nThe scratches on its shell are evidence\nof this POKéMON’s toughness in battle."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "This POKéMON is very popular as a pet.\nIts fur-covered tail is a symbol of its\nlongevity."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "It often hides in water to stalk unwary\nprey. For fast swimming, it moves its\nears to maintain balance."
+      },
+      {
+        "game": "dp-d",
+        "text": "It is said to live 10,000 years.\nIts furry tail is popular as a\nsymbol of longevity."
+      },
+      {
+        "game": "dp-p",
+        "text": "It is said to live 10,000 years.\nIts furry tail is popular as a\nsymbol of longevity."
+      },
+      {
+        "game": "pt",
+        "text": "It is said to live 10,000 years.\nIts furry tail is popular as a\nsymbol of longevity."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "It is a well-established symbol of\nlongevity. If its shell has algae on it,\nthat WARTORTLE is very old."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "It cleverly controls its furry\nears and tail to maintain its\nbalance while swimming."
+      },
+      {
+        "game": "bw-b",
+        "text": "It is said to live 10,000 years.\nIts furry tail is popular as a\nsymbol of longevity."
+      },
+      {
+        "game": "bw-w",
+        "text": "It is said to live 10,000 years.\nIts furry tail is popular as a\nsymbol of longevity."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "It is said to live 10,000 years.\nIts furry tail is popular as a\nsymbol of longevity."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "It is said to live 10,000 years.\nIts furry tail is popular as a\nsymbol of longevity."
+      },
+      {
+        "game": "xy-x",
+        "text": "When tapped, this Pokémon will pull in its head,\nbut its tail will still stick out a little bit."
+      },
+      {
+        "game": "xy-y",
+        "text": "It is said to live 10,000 years. Its furry tail is\npopular as a symbol of longevity."
+      },
+      {
+        "game": "oras-or",
+        "text": "Its tail is large and covered with a rich, thick fur. The tail\nbecomes increasingly deeper in color as Wartortle ages.\nThe scratches on its shell are evidence of this Pokémon’s\ntoughness as a battler."
+      },
+      {
+        "game": "oras-as",
+        "text": "Its tail is large and covered with a rich, thick fur. The tail\nbecomes increasingly deeper in color as Wartortle ages.\nThe scratches on its shell are evidence of this Pokémon’s\ntoughness as a battler."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "When tapped on its head, this Pokémon will pull\nit in, but its tail will still stick out a little bit."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "When tapped on its head, this Pokémon will pull\nit in, but its tail will still stick out a little bit."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "It is recognized as a symbol of longevity. If its\nshell has algae on it, that Wartortle is very old."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "It cleverly controls its furry ears and tail to\nmaintain its balance while swimming."
+      }
+    ]
+  },
+  "chs": {
+    "name": "卡咪龟",
+    "genus": "龟宝可梦",
+    "flavorText": [
+      {
+        "game": "lgpe-lgp",
+        "text": "如果拍打它的头部，它会\n把头缩进壳里，但尾巴\n还是会露出来一点点。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "如果拍打它的头部，它会\n把头缩进壳里，但尾巴\n还是会露出来一点点。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "被视为长寿的象征。\n如果卡咪龟的壳上长着苔藓，\n代表它已经活了非常久了。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "会灵巧地摆动自己\n毛茸茸的耳朵和尾巴，\n借此在水中保持平衡。"
+      }
+    ]
+  }
+}

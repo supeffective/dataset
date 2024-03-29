@@ -1,0 +1,219 @@
+{
+  "jap": {
+    "name": "ニャルマー",
+    "genus": "ねこかぶりポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "きにいらないと　ツメを　たてるが\nたまに　のどを　ならして　あまえる\nせいかくが　いちぶに　だいにんきだ。"
+      },
+      {
+        "game": "xy-y",
+        "text": "ごきげんな　ニャルマーは　しっぽで\nしんたいそうの　リボンの　ような\nうつくしい　うごきを　みせる。"
+      },
+      {
+        "game": "oras-or",
+        "text": "きにいらないと　ツメを　たてるが\nたまに　のどを　ならして　あまえる\nせいかくが　いちぶに　だいにんきだ。"
+      },
+      {
+        "game": "oras-as",
+        "text": "ごきげんな　ニャルマーは　しっぽで\nしんたいそうの　リボンの　ような\nうつくしい　うごきを　みせる。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Nyarmar",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "나옹마",
+    "genus": "내숭포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "마음에 안 들면 발톱을 세우지만\n가끔 울음소리로 응석을 부리는\n성격이 일부에게 매우 인기가 있다."
+      },
+      {
+        "game": "xy-y",
+        "text": "기분이 좋은 나옹마는 꼬리로\n리듬 체조의 리본처럼\n아름다운 움직임을 보인다."
+      },
+      {
+        "game": "oras-or",
+        "text": "마음에 안 들면 발톱을 세우지만\n가끔 울음소리로 응석을 부리는\n성격이 일부에게 매우 인기가 있다."
+      },
+      {
+        "game": "oras-as",
+        "text": "기분이 좋은 나옹마는 꼬리로\n리듬 체조의 리본처럼\n아름다운 움직임을 보인다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "魅力喵",
+    "genus": "裝乖寶可夢",
+    "flavorText": []
+  },
+  "fra": {
+    "name": "Chaglam",
+    "genus": "Pokémon Chafouin",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Il a tendance à planter ses griffes\ndans le nez de son Dresseur s’il\nn’a pas été nourri à temps."
+      },
+      {
+        "game": "bw-w",
+        "text": "Il a tendance à planter ses griffes\ndans le nez de son Dresseur s’il\nn’a pas été nourri à temps."
+      },
+      {
+        "game": "xy-x",
+        "text": "Il griffe quand il est en colère et ronronne quand\nil est heureux. Certains aiment ce côté lunatique."
+      },
+      {
+        "game": "xy-y",
+        "text": "Lorsqu’il est heureux, sa queue décrit des arabesques\ncomme un ruban de gymnastique rythmique."
+      },
+      {
+        "game": "oras-or",
+        "text": "Il griffe quand il est en colère et ronronne quand\nil est heureux. Certains aiment ce côté lunatique."
+      },
+      {
+        "game": "oras-as",
+        "text": "Lorsqu’il est heureux, sa queue décrit des arabesques\ncomme un ruban de gymnastique rythmique."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Charmian",
+    "genus": "Fies",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Es schlägt mit Krallen zu oder schnurrt,\nje nachdem, ob es gerade wütend oder zutraulich ist."
+      },
+      {
+        "game": "xy-y",
+        "text": "Je nach Laune lässt es seinen Schweif anmutig\nwirbeln, ganz wie das Band eines Sportgymnasten."
+      },
+      {
+        "game": "oras-or",
+        "text": "Es schlägt mit Krallen zu oder schnurrt, je nachdem,\nob es gerade wütend oder zutraulich ist."
+      },
+      {
+        "game": "oras-as",
+        "text": "Je nach Laune lässt es seinen Schweif anmutig wirbeln,\nganz wie das Band eines Sportgymnasten."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Glameow",
+    "genus": "Pokémon Gastuto",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Araña cuando está enfadado y ronronea cuando está\ncariñoso. Su imprevisibilidad es famosa."
+      },
+      {
+        "game": "xy-y",
+        "text": "Dependiendo de su humor, mueve grácilmente su\ncola, que se asemeja a un lazo de gimnasia rítmica."
+      },
+      {
+        "game": "oras-or",
+        "text": "Araña cuando está enfadado y ronronea cuando está cariñoso.\nSu imprevisibilidad es famosa."
+      },
+      {
+        "game": "oras-as",
+        "text": "Dependiendo de su humor, mueve grácilmente su cola, que\nse asemeja a un lazo de gimnasia rítmica."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Glameow",
+    "genus": "Pokémon Felide",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Se disturbato, tira fuori gli artigli; se soddisfatto,\nfa le fusa. La sua incostanza piace a molti."
+      },
+      {
+        "game": "xy-y",
+        "text": "Il lunatico Glameow fa sinuosi movimenti di coda\nche ricordano i nastri della ginnastica artistica."
+      },
+      {
+        "game": "oras-or",
+        "text": "Se disturbato, tira fuori gli artigli; se soddisfatto, fa le fusa.\nLa sua incostanza piace a molti."
+      },
+      {
+        "game": "oras-as",
+        "text": "Il lunatico Glameow fa sinuosi movimenti di coda che ricordano\ni nastri della ginnastica artistica."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Glameow",
+    "genus": "Catty Pokémon",
+    "flavorText": [
+      {
+        "game": "dp-d",
+        "text": "It claws if displeased and purrs\nwhen affectionate. Its fickleness\nis very popular among some."
+      },
+      {
+        "game": "dp-p",
+        "text": "With its sharp glare, it puts\nfoes in a mild hypnotic state.\nIt is a very fickle Pokémon."
+      },
+      {
+        "game": "pt",
+        "text": "It hides its spiteful tendency of\nhooking its claws into the nose of\nits Trainer if it isn’t fed."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "When it’s happy, GLAMEOW\ndemonstrates beautiful movements\nof its tail, like a dancing ribbon."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "When it’s happy, GLAMEOW\ndemonstrates beautiful movements\nof its tail, like a dancing ribbon."
+      },
+      {
+        "game": "bw-b",
+        "text": "It hides its spiteful tendency of\nhooking its claws into the nose of\nits Trainer if it isn’t fed."
+      },
+      {
+        "game": "bw-w",
+        "text": "It hides its spiteful tendency of\nhooking its claws into the nose of\nits Trainer if it isn’t fed."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "It hides its spiteful tendency of\nhooking its claws into the nose of\nits Trainer if it isn’t fed."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "It hides its spiteful tendency of\nhooking its claws into the nose of\nits Trainer if it isn’t fed."
+      },
+      {
+        "game": "xy-x",
+        "text": "It claws if displeased and purrs when affectionate.\nIts fickleness is very popular among some."
+      },
+      {
+        "game": "xy-y",
+        "text": "When it’s happy, Glameow demonstrates beautiful\nmovements of its tail, like a dancing ribbon."
+      },
+      {
+        "game": "oras-or",
+        "text": "It claws if displeased and purrs when affectionate.\nIts fickleness is very popular among some."
+      },
+      {
+        "game": "oras-as",
+        "text": "When it’s happy, Glameow demonstrates beautiful\nmovements of its tail, like a dancing ribbon."
+      },
+      {
+        "game": "la",
+        "text": "Bewitches humans with its helical tail and piercing gaze.\nIts hidden claws are quite sharp as well, making this Pokémon\nan exceedingly tricky opponent if antagonized."
+      }
+    ]
+  },
+  "chs": {
+    "name": "魅力喵",
+    "genus": "装乖宝可梦",
+    "flavorText": []
+  }
+}

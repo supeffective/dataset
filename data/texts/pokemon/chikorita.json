@@ -1,0 +1,247 @@
+{
+  "jap": {
+    "name": "チコリータ",
+    "genus": "はっぱポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "あたまのはっぱから　ほのかに　あまい\nかおりが　ただよう。おとなしくて\nひざしを　あびるのが　だいすき。"
+      },
+      {
+        "game": "xy-y",
+        "text": "あたまの　はっぱで　まわりの\nおんどや　しつどを　さぐる。\nひざしを　あびることが　だいすき。"
+      },
+      {
+        "game": "oras-or",
+        "text": "はっぱを　ふりまわして　あいてを　いかくするが\nはっぱから　あまい　かおりが　ただようので\nおたがいに　なごやかな　ふんいきに　なるよ。"
+      },
+      {
+        "game": "oras-as",
+        "text": "はっぱを　ふりまわして　あいてを　いかくするが\nはっぱから　あまい　かおりが　ただようので\nおたがいに　なごやかな　ふんいきに　なるよ。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Chicorita",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "치코리타",
+    "genus": "잎사귀포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "머리의 잎사귀에서 살짝 달콤한\n향기가 감돈다. 얌전하며\n햇볕을 쬐는 것을 매우 좋아한다."
+      },
+      {
+        "game": "xy-y",
+        "text": "머리의 잎사귀로 주위의\n온도나 습도를 살핀다.\n햇볕을 쬐는 것을 매우 좋아한다."
+      },
+      {
+        "game": "oras-or",
+        "text": "잎사귀를 휘둘러 상대를 위협하지만\n잎사귀에서 달콤한 향기가 풍겨 나와\n서로 온화한 분위기가 된다."
+      },
+      {
+        "game": "oras-as",
+        "text": "잎사귀를 휘둘러 상대를 위협하지만\n잎사귀에서 달콤한 향기가 풍겨 나와\n서로 온화한 분위기가 된다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "菊草葉",
+    "genus": "葉子寶可夢",
+    "flavorText": []
+  },
+  "fra": {
+    "name": "Germignon",
+    "genus": "Pokémon Feuille",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Il jauge la température et l’humidité\ngrâce à la feuille sur sa tête. Il\nraffole des bains de soleil."
+      },
+      {
+        "game": "bw-w",
+        "text": "Il jauge la température et l’humidité\ngrâce à la feuille sur sa tête. Il\nraffole des bains de soleil."
+      },
+      {
+        "game": "xy-x",
+        "text": "Un doux parfum émane de la feuille placée sur sa tête.\nIl est très gentil et aime dormir au soleil."
+      },
+      {
+        "game": "xy-y",
+        "text": "Il jauge la température et l’humidité grâce à la feuille\nsur sa tête. Il raffole des bains de soleil."
+      },
+      {
+        "game": "oras-or",
+        "text": "Lorsqu’il se bat, Germignon secoue sa feuille pour tenir son\nennemi à distance. Un doux parfum s’en dégage également,\napaisant les Pokémon qui se battent et créant une atmosphère\nagréable et amicale."
+      },
+      {
+        "game": "oras-as",
+        "text": "Lorsqu’il se bat, Germignon secoue sa feuille pour tenir son\nennemi à distance. Un doux parfum s’en dégage également,\napaisant les Pokémon qui se battent et créant une atmosphère\nagréable et amicale."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Endivie",
+    "genus": "Laub",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Ein süßer Duft geht von dem Blatt auf seinem Kopf\naus. Es ist ruhig und liegt gerne in der Sonne."
+      },
+      {
+        "game": "xy-y",
+        "text": "Mit dem Blatt auf seinem Kopf bestimmt es die\nTemperatur und Feuchtigkeit. Es liebt Sonnenbäder."
+      },
+      {
+        "game": "oras-or",
+        "text": "Im Kampf wedelt Endivie mit seinem Blatt, um den Feind\nfernzuhalten. Von dem Blatt geht auch ein süßlicher Duft aus,\nder die kämpfenden Pokémon beruhigt und eine gemütliche,\nfreundliche Atmosphäre schafft."
+      },
+      {
+        "game": "oras-as",
+        "text": "Im Kampf wedelt Endivie mit seinem Blatt, um den Feind\nfernzuhalten. Von dem Blatt geht auch ein süßlicher Duft aus,\nder das gegnerische Pokémon im Kampf beruhigt und eine\ngemütliche, freundliche Atmosphäre schafft."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Chikorita",
+    "genus": "Pokémon Hoja",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Un dulce aroma se desprende de la hoja de su\ncabeza. Es dócil y le encanta absorber los rayos\nde sol."
+      },
+      {
+        "game": "xy-y",
+        "text": "Con la hoja de su cabeza puede medir la temperatura\ny la humedad. Le encanta tomar el sol."
+      },
+      {
+        "game": "oras-or",
+        "text": "Al luchar, Chikorita agita la hoja que tiene para mantener a\nraya al rival. Pero, al mismo tiempo, libera una suave fragancia\nque apacigua el encuentro y crea un ambiente agradable y de\namistad."
+      },
+      {
+        "game": "oras-as",
+        "text": "Al luchar, Chikorita agita la hoja que tiene para mantener a\nraya al rival. Pero, al mismo tiempo, libera una suave fragancia\nque apacigua el encuentro y crea un ambiente agradable y de\namistad."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Chikorita",
+    "genus": "Pokémon Foglia",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Un dolce profumo si diffonde dalla sua testa.\nÈ docile e ama scaldarsi al sole."
+      },
+      {
+        "game": "xy-y",
+        "text": "Usa la foglia sulla sua testa per misurare la\ntemperatura e l’umidità. Ama crogiolarsi al sole."
+      },
+      {
+        "game": "oras-or",
+        "text": "Nella lotta, Chikorita sventola la sua foglia in modo da tenere\na bada il nemico. Tuttavia, la foglia emana anche un aroma\ndolce, che calma il Pokémon avversario, creando un’atmosfera\ngradevole e rilassata tutt’attorno."
+      },
+      {
+        "game": "oras-as",
+        "text": "Nella lotta, Chikorita sventola la sua foglia in modo da tenere\na bada il nemico. Tuttavia, la foglia emana anche un aroma\ndolce, che calma il Pokémon avversario, creando un’atmosfera\ngradevole e rilassata tutt’attorno."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Chikorita",
+    "genus": "Leaf Pokémon",
+    "flavorText": [
+      {
+        "game": "gs-g",
+        "text": "A sweet aroma\ngently wafts from\nthe leaf on its\fhead. It is docile\nand loves to soak\nup the sun's rays."
+      },
+      {
+        "game": "gs-s",
+        "text": "Its pleasantly\naromatic leaves\nhave the ability\fto check the hu­\nmidity and tem­\nperature."
+      },
+      {
+        "game": "c",
+        "text": "It loves to bask\nin the sunlight.\nIt uses the leaf\fon its head to\nseek out warm\nplaces."
+      },
+      {
+        "game": "rs-r",
+        "text": "In battle, CHIKORITA waves its leaf\naround to keep the foe at bay.\nHowever, a sweet fragrance also wafts\ffrom the leaf, becalming the battling\nPOKéMON and creating a cozy, friendly\natmosphere all around."
+      },
+      {
+        "game": "rs-s",
+        "text": "In battle, CHIKORITA waves its leaf\naround to keep the foe at bay.\nHowever, a sweet fragrance also wafts\ffrom the leaf, becalming the battling\nPOKéMON and creating a cozy, friendly\natmosphere all around."
+      },
+      {
+        "game": "e",
+        "text": "It waves its leaf around to keep foes\nat bay. However, a sweet fragrance also\nwafts from the leaf, creating a friendly\natmosphere that becalms the battlers."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "Its pleasantly aromatic leaves have the\nability to check the humidity and\ntemperature."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "A sweet aroma gently wafts from the leaf\non its head. It is docile and loves to\nsoak up the sun’s rays."
+      },
+      {
+        "game": "dp-d",
+        "text": "It uses the leaf on its head to\ndetermine the temperature and\nhumidity. It loves to sunbathe."
+      },
+      {
+        "game": "dp-p",
+        "text": "It uses the leaf on its head to\ndetermine the temperature and\nhumidity. It loves to sunbathe."
+      },
+      {
+        "game": "pt",
+        "text": "It uses the leaf on its head to\ndetermine the temperature and\nhumidity. It loves to sunbathe."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "A sweet aroma gently wafts from\nthe leaf on its head. It is docile\nand loves to soak up sunrays."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "Its pleasantly aromatic leaf\nhas the ability to check\nhumidity and temperature."
+      },
+      {
+        "game": "bw-b",
+        "text": "It uses the leaf on its head to\ndetermine the temperature and\nhumidity. It loves to sunbathe."
+      },
+      {
+        "game": "bw-w",
+        "text": "It uses the leaf on its head to\ndetermine the temperature and\nhumidity. It loves to sunbathe."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "It uses the leaf on its head to\ndetermine the temperature and\nhumidity. It loves to sunbathe."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "It uses the leaf on its head to\ndetermine the temperature and\nhumidity. It loves to sunbathe."
+      },
+      {
+        "game": "xy-x",
+        "text": "A sweet aroma gently wafts from the leaf on its\nhead. It is docile and loves to soak up sun rays."
+      },
+      {
+        "game": "xy-y",
+        "text": "It uses the leaf on its head to determine the\ntemperature and humidity. It loves to sunbathe."
+      },
+      {
+        "game": "oras-or",
+        "text": "In battle, Chikorita waves its leaf around to keep the foe at\nbay. However, a sweet fragrance also wafts from the leaf,\nbecalming the battling Pokémon and creating a cozy, friendly\natmosphere all around."
+      },
+      {
+        "game": "oras-as",
+        "text": "In battle, Chikorita waves its leaf around to keep the foe at\nbay. However, a sweet fragrance also wafts from the leaf,\nbecalming the battling Pokémon and creating a cozy,\nfriendly atmosphere all around."
+      }
+    ]
+  },
+  "chs": {
+    "name": "菊草叶",
+    "genus": "叶子宝可梦",
+    "flavorText": []
+  }
+}

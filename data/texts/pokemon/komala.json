@@ -1,0 +1,205 @@
+{
+  "jap": {
+    "name": "ネッコアラ",
+    "genus": "ゆめうつつポケモン",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "ねたまま　うまれ　ねたまま　しぬ。\nすべての　こうどうは　みている\nゆめに　よる　ねぞう　らしい。"
+      },
+      {
+        "game": "sm-m",
+        "text": "だいた　きは　うまれたとき　おやから\nあたえられたもの。　よく　なつけば\nトレーナーの　うでにも　しがみつく。"
+      },
+      {
+        "game": "usum-us",
+        "text": "うまれてから　ずっと　ねむったまま。\nふかい　ねむりに　おちているときは\nいっさい　うごかなくなる。"
+      },
+      {
+        "game": "usum-um",
+        "text": "しぬまで　ずっと　ねむったままなのは\nエサの　はっぱに　ますいの　ような\nせいぶんが　ふくまれているからだ。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Nekkoara",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "자말라",
+    "genus": "꿈결포켓몬",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "잔 채 태어나고 잔 채 죽는다.\n모든 행동은 꾸고 있는\n꿈에 의한 잠버릇인 것 같다."
+      },
+      {
+        "game": "sm-m",
+        "text": "안고 있는 나무는 태어났을 때 부모로부터\n받은 것이다. 잘 길들이면\n트레이너의 팔에도 달라붙는다."
+      },
+      {
+        "game": "usum-us",
+        "text": "태어날 때부터 계속 자고 있다.\n깊은 수면에 빠져 있을 때는\n일체 움직이지 않는다."
+      },
+      {
+        "game": "usum-um",
+        "text": "죽을 때까지 계속 잠들어 있는 이유는\n먹이인 잎사귀에 마취 성분이\n포함되어 있기 때문이다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "樹枕尾熊",
+    "genus": "半夢半醒寶可夢",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "睡著生，睡著死。\n似乎所有的行動都是根據\n所看見的夢而引發的睡相。"
+      },
+      {
+        "game": "sm-m",
+        "text": "抱住的樹是出生時父母所贈的。\n關係親密的話，也會緊緊抱著\n訓練家的胳膊。"
+      },
+      {
+        "game": "usum-us",
+        "text": "從出生那刻起就一直在睡覺。\n當進入深度睡眠的時候，\n會變得完全靜止不動。"
+      },
+      {
+        "game": "usum-um",
+        "text": "終其一生都處於睡著的狀態。\n這是因為牠所吃的葉子裡\n含有類似麻醉藥的成分。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Dodoala",
+    "genus": "Pokémon Rêveur",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "Il rejoint et quitte ce monde en dormant. Son\nexistence se déroule comme un rêve paisible.\nIl dort du sommeil du juste toute sa vie durant."
+      },
+      {
+        "game": "sm-m",
+        "text": "La bûche qu’il tient est un cadeau de naissance\nde ses parents. S’il est bien apprivoisé,\nil s’accrochera au bras de son Dresseur."
+      },
+      {
+        "game": "usum-us",
+        "text": "Il dort continuellement depuis sa naissance.\nLorsqu’il est en phase de sommeil profond,\nil ne bouge plus d’un poil."
+      },
+      {
+        "game": "usum-um",
+        "text": "Ce Pokémon passe sa vie entière à dormir\nà cause des composants anesthésiants qui\nse trouvent dans les feuilles qu’il mange."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Koalelu",
+    "genus": "Halbschlaf",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "Es wird schlafend geboren und stirbt schlafend.\nSein ganzes Leben ist ein Traum, seine einzige\nkörperliche Aktivität das Umdrehen im Schlaf."
+      },
+      {
+        "game": "sm-m",
+        "text": "Den Baumstumpf bekam es zu seiner Geburt\nvon seinen Eltern. Fasst es Zutrauen, klammert\nes sich aber auch am Arm seines Trainers fest."
+      },
+      {
+        "game": "usum-us",
+        "text": "Vom Augenblick seiner Geburt an verbringt es\nsein ganzes Leben schlafend. Wenn es extrem\ntief schläft, wird es völlig regungslos."
+      },
+      {
+        "game": "usum-um",
+        "text": "Es verbringt sein Leben schlafend, bis es stirbt.\nDas liegt an den narkotisierenden Wirkstoffen,\ndie in den Blättern enthalten sind, die es frisst."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Komala",
+    "genus": "Pokémon Duermevela",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "Pasa la vida entera sumido en un profundo\nsueño. Toda su actividad parece reflejar los\nsueños que tiene en ese momento."
+      },
+      {
+        "game": "sm-m",
+        "text": "El tronco que agarra es un regalo que le dieron\nsus padres al nacer. También se aferra al brazo\nde todo aquel Entrenador con el que congenie."
+      },
+      {
+        "game": "usum-us",
+        "text": "Duerme continuamente desde que nace. Cuando\nel sueño en el que está sumido es especialmente\nprofundo, se queda inmóvil."
+      },
+      {
+        "game": "usum-um",
+        "text": "El motivo de su letargo vitalicio es la sustancia\nsomnífera que contienen las hojas de las que\nse alimenta."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Komala",
+    "genus": "Pokémon Dormiveglia",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "Trascorre la sua intera esistenza dormendo.\nPare che le sue azioni siano determinate\nda quello che sta sognando."
+      },
+      {
+        "game": "sm-m",
+        "text": "Il tronco che ha con sé è un dono dei genitori\nricevuto alla nascita. Quando è molto affezionato\nal proprio Allenatore, si aggrappa al suo braccio."
+      },
+      {
+        "game": "usum-us",
+        "text": "Dorme ininterrottamente fin dalla nascita.\nQuando il suo sonno è particolarmente profondo\nrimane completamente immobile."
+      },
+      {
+        "game": "usum-um",
+        "text": "Poiché le foglie di cui si nutre contengono una\nsostanza soporifera, Komala trascorre la sua\nintera vita dormendo."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Komala",
+    "genus": "Drowsing Pokémon",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "It is born asleep, and it dies asleep. All its\nmovements are apparently no more than the\nresults of it tossing and turning in its dreams."
+      },
+      {
+        "game": "sm-m",
+        "text": "The log it holds was given to it by its parents at\nbirth. It has also been known to cling to the arm\nof a friendly Trainer."
+      },
+      {
+        "game": "usum-us",
+        "text": "It stays asleep from the moment it’s born.\nWhen it falls into a deep sleep, it stops\nmoving altogether."
+      },
+      {
+        "game": "usum-um",
+        "text": "It remains asleep from birth to death as a result\nof the sedative properties of the leaves that\nform its diet."
+      }
+    ]
+  },
+  "chs": {
+    "name": "树枕尾熊",
+    "genus": "半梦半醒宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "睡着生，睡着死。\n似乎所有的行动都是根据\n所看见的梦而引发的睡相。"
+      },
+      {
+        "game": "sm-m",
+        "text": "抱住的树干是出生时父母所给予的。\n关系亲密的话，也会紧紧抱着\n训练家的胳膊。"
+      },
+      {
+        "game": "usum-us",
+        "text": "出生后就一直都睡着。\n进入深度睡眠的时候，\n会变的一动也不动。"
+      },
+      {
+        "game": "usum-um",
+        "text": "到死都一直是睡着的状态，\n是因为吃的叶子里含有\n类似麻醉药的成分。"
+      }
+    ]
+  }
+}

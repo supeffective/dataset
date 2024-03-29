@@ -1,0 +1,269 @@
+{
+  "jap": {
+    "name": "バチュル",
+    "genus": "くっつきポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "じぶんでは　でんきを　つくれないので\nほかの　おおきな　ポケモンに\nとりつき　せいでんきを　すいとる。"
+      },
+      {
+        "game": "xy-y",
+        "text": "からだの　おおきな　ポケモンに\nとりついて　せいでんきを　すいとり\nちくでんぶくろに　でんきを　ためる。"
+      },
+      {
+        "game": "oras-or",
+        "text": "じぶんでは　でんきを　つくれないので\nほかの　おおきな　ポケモンに\nとりつき　せいでんきを　すいとる。"
+      },
+      {
+        "game": "oras-as",
+        "text": "からだの　おおきな　ポケモンに\nとりついて　せいでんきを　すいとり\nちくでんぶくろに　でんきを　ためる。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "ポケモンの　からだに　くっついて\nせいでんきを　すいとる。　じぶんでは\nでんきを　つくることが　できない。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "ほかの　ポケモンに　とりついて\nせいでんきを　すいとる。　ワンパチの\nおしりに　よく　くっついている。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Bachuru",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "파쪼옥",
+    "genus": "들러붙기포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "스스로 전기를 만들 수 없어\n다른 큰 포켓몬에\n달라붙어 정전기를 흡수한다."
+      },
+      {
+        "game": "xy-y",
+        "text": "몸이 큰 포켓몬에게 매달려\n정전기를 빨아들인 후\n축전 주머니에 전기를 모은다."
+      },
+      {
+        "game": "oras-or",
+        "text": "스스로 전기를 만들 수 없어\n다른 큰 포켓몬에\n달라붙어 정전기를 흡수한다."
+      },
+      {
+        "game": "oras-as",
+        "text": "몸이 큰 포켓몬에게 매달려\n정전기를 빨아들인 후\n축전 주머니에 전기를 모은다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "포켓몬의 몸에 들러붙어\n정전기를 흡수한다.\n스스로는 전기를 만들 수 없다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "다른 포켓몬에게 달라붙어\n정전기를 빨아들인다. 멍파치의\n엉덩이에 자주 달라붙어 있다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "電電蟲",
+    "genus": "吸附寶可夢",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "會附在寶可夢的身上\n吸收靜電。自身並沒有\n製造電的能力。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "會附在其他寶可夢身上\n吸取靜電。經常會把自己\n貼在來電汪的屁股上。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Statitik",
+    "genus": "Pokémon Crampon",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Les Statitik qui vivent en ville ont\nappris à aspirer le courant depuis\nles prises électriques des maisons."
+      },
+      {
+        "game": "bw-w",
+        "text": "Il s’accroche aux Pokémon plus grands\net aspire leur électricité statique.\nIl la stocke dans ses poches-accus."
+      },
+      {
+        "game": "xy-x",
+        "text": "Ne produisant pas lui-même d’électricité, il s’accroche\naux Pokémon plus grands et aspire leur électricité\nstatique."
+      },
+      {
+        "game": "xy-y",
+        "text": "Il s’accroche aux Pokémon plus grands et aspire\nleur électricité statique. Il la stocke dans ses\npoches-accus."
+      },
+      {
+        "game": "oras-or",
+        "text": "Ne produisant pas lui-même d’électricité, il s’accroche\naux Pokémon plus grands et aspire leur électricité statique."
+      },
+      {
+        "game": "oras-as",
+        "text": "Il s’accroche aux Pokémon plus grands et aspire leur\nélectricité statique. Il la stocke dans ses poches-accus."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Il s’accroche au corps des autres Pokémon pour\nabsorber leur électricité statique. Il est incapable\nd’en produire tout seul."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Il s’accroche aux autres Pokémon pour aspirer\nleur électricité statique. On en trouve souvent\ncollés au postérieur de Voltoutou."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Wattzapf",
+    "genus": "Kleben-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Da es selbst keinen Strom erzeugen kann,\nklettert es auf andere Pokémon, um ihnen\nelektrostatische Energie abzusaugen."
+      },
+      {
+        "game": "xy-y",
+        "text": "Es pflanzt sich an großen Pokémon fest und zapft\nihnen elektrische Energie ab. Diese hortet es in\nseinen Ladetaschen."
+      },
+      {
+        "game": "oras-or",
+        "text": "Da es selbst keinen Strom erzeugen kann, klettert es auf\nandere Pokémon, um ihnen elektrostatische Energie\nabzusaugen."
+      },
+      {
+        "game": "oras-as",
+        "text": "Es pflanzt sich an großen Pokémon fest und zapft ihnen\nelektrische Energie ab. Diese hortet es in seinen Ladetaschen."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Wattzapf heftet sich an andere Pokémon und\nsaugt ihnen statische Elektrizität ab. Es selbst\nkann keinen Strom produzieren."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Es heftet sich an andere Pokémon und saugt\nihnen statische Elektrizität aus. Häufig wird es\nan Hinterteilen von Voldi gesichtet."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Joltik",
+    "genus": "Pokémon Lapa",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "No puede generar electricidad por sí mismo, así que se\nencarama a Pokémon grandes y absorbe su energía\nestática."
+      },
+      {
+        "game": "xy-y",
+        "text": "Se agarra a Pokémon de gran tamaño, absorbe su\nelectricidad estática y la guarda en una bolsa interna."
+      },
+      {
+        "game": "oras-or",
+        "text": "No puede generar electricidad por sí mismo, así que se\nencarama a Pokémon grandes y absorbe su energía estática."
+      },
+      {
+        "game": "oras-as",
+        "text": "Se agarra a Pokémon de gran tamaño, absorbe su electricidad\nestática y la guarda en una bolsa interna."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "No puede generar electricidad por sí mismo,\nasí que se encarama a otros Pokémon y absorbe\nsu energía estática."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Se agarra a otros Pokémon para absorber su\nelectricidad estática. Es muy común verlo\naferrado a las posaderas de un Yamper."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Joltik",
+    "genus": "Pokémon Appiccicante",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Non può produrre elettricità da sé, per cui si attacca\na Pokémon più grandi per succhiarne l’energia\nelettrostatica."
+      },
+      {
+        "game": "xy-y",
+        "text": "Si aggrappa ai Pokémon più grossi e ne assorbe\nl’energia statica che conserva in una sacca\nd’accumulo."
+      },
+      {
+        "game": "oras-or",
+        "text": "Non può produrre elettricità da sé, per cui si attacca a\nPokémon più grandi per succhiarne l’energia elettrostatica."
+      },
+      {
+        "game": "oras-as",
+        "text": "Si aggrappa ai Pokémon più grossi e ne assorbe l’energia\nstatica che conserva in una sacca d’accumulo."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Si aggrappa al corpo di altri Pokémon e ne\nassorbe l’energia elettrostatica. Non può\nprodurre elettricità da sé."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Si attacca ad altri Pokémon per assorbirne\nl’energia elettrostatica. Non è raro trovarne\nuno sul posteriore di Yamper."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Joltik",
+    "genus": "Attaching Pokémon",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Joltik that live in cities have learned\na technique for sucking electricity\nfrom the outlets in houses."
+      },
+      {
+        "game": "bw-w",
+        "text": "They attach themselves to large-bodied\nPokémon and absorb static electricity,\nwhich they store in an electric pouch."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "Since it can’t generate its own\nelectricity, it sticks onto large-bodied\nPokémon and absorbs static electricity."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "Since it can’t generate its own\nelectricity, it sticks onto large-bodied\nPokémon and absorbs static electricity."
+      },
+      {
+        "game": "xy-x",
+        "text": "Since it can’t generate its own electricity, it sticks\nonto large-bodied Pokémon and absorbs\nstatic electricity."
+      },
+      {
+        "game": "xy-y",
+        "text": "They attach themselves to large-bodied Pokémon\nand absorb static electricity, which they store in an\nelectric pouch."
+      },
+      {
+        "game": "oras-or",
+        "text": "Since it can’t generate its own electricity, it sticks\nonto large-bodied Pokémon and absorbs\nstatic electricity."
+      },
+      {
+        "game": "oras-as",
+        "text": "They attach themselves to large-bodied Pokémon\nand absorb static electricity, which they store in an\nelectric pouch."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Joltik can be found clinging to other Pokémon.\nIt’s soaking up static electricity because it can’t\nproduce a charge on its own."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Joltik latch on to other Pokémon and suck out\nstatic electricity. They’re often found sticking to\nYamper’s hindquarters."
+      }
+    ]
+  },
+  "chs": {
+    "name": "电电虫",
+    "genus": "吸附宝可梦",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "会附在宝可梦的身上\n吸取静电。自身并没有\n制造电的能力。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "会附在其他宝可梦身上\n吸取静电。经常会把自己\n贴在来电汪的屁股上。"
+      }
+    ]
+  }
+}

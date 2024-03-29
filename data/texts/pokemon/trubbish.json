@@ -1,0 +1,413 @@
+{
+  "jap": {
+    "name": "ヤブクロン",
+    "genus": "ゴミぶくろポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "ゴミぶくろが　さんぎょうはいきぶつと\nかがくへんかを　おこした　ことで\nポケモンとして　うまれかわった。"
+      },
+      {
+        "game": "xy-y",
+        "text": "ふえいせいな　ばしょを　このむ。\nゲップのように　はきだす　ガスを\nすいこむと　１しゅうかん　ねこむ。"
+      },
+      {
+        "game": "oras-or",
+        "text": "ゴミぶくろが　さんぎょうはいきぶつと\nかがくへんかを　おこした　ことで\nポケモンとして　うまれかわった。"
+      },
+      {
+        "game": "oras-as",
+        "text": "ふえいせいな　ばしょを　このむ。\nゲップのように　はきだす　ガスを\nすいこむと　１しゅうかん　ねこむ。"
+      },
+      {
+        "game": "sm-s",
+        "text": "ふえいせいな　ばしょが　すき。\nアローラでは　よく　ベトベターに\nおいまわされる　すがたを　みかける。"
+      },
+      {
+        "game": "sm-m",
+        "text": "まんぷくまで　ゴミを　くらうと\nくちから　どくガスを　はきだす。\nうっかり　かぐと　そく　にゅういん。"
+      },
+      {
+        "game": "usum-us",
+        "text": "こきゅうすると　どくガスが　もれる。\nにおいを　かぎつけ　ベトベトンが\nよだれを　たらして　やってくる。"
+      },
+      {
+        "game": "usum-um",
+        "text": "ゲップの　ように　はきだす　ガスは\nちいさな　こが　すいこんでしまうと\nいのちに　かかわるほど　きけん。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "ふえいせいな　ばしょが　すき。\nゴミで　よごしたまま　ほうっておくと\nへやにも　あらわれて　すみつく。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "ゴミの　つまった　ゴミぶくろから\nうまれた。　はきだす　どくガスは\nガラルの　マタドガスの　こうぶつ。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Yabukuron",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "깨봉이",
+    "genus": "쓰레기봉투포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "쓰레기 봉지가 산업 폐기물과\n화학적 변화를 일으켜서\n포켓몬으로 다시 태어났다."
+      },
+      {
+        "game": "xy-y",
+        "text": "비위생적인 장소를 좋아한다.\n트림하듯이 토해내는 가스를\n들이마시면 1주일 동안 잠에 빠진다."
+      },
+      {
+        "game": "oras-or",
+        "text": "쓰레기 봉지가 산업 폐기물과\n화학적 변화를 일으켜서\n포켓몬으로 다시 태어났다."
+      },
+      {
+        "game": "oras-as",
+        "text": "비위생적인 장소를 좋아한다.\n트림하듯이 토해내는 가스를\n들이마시면 1주일 동안 잠에 빠진다."
+      },
+      {
+        "game": "sm-s",
+        "text": "비위생적인 곳을 좋아한다.\n알로라에서는 자주 질퍽이에게\n쫓겨 다니는 모습을 볼 수 있다."
+      },
+      {
+        "game": "sm-m",
+        "text": "배가 부를 때까지 쓰레기를 먹은 후\n입에서 독가스를 토해낸다.\n실수로 맡으면 즉시 입원해야 한다."
+      },
+      {
+        "game": "usum-us",
+        "text": "숨을 쉬면 독가스가 새어 나온다.\n냄새를 맡고 질뻐기가\n침을 흘리며 찾아온다."
+      },
+      {
+        "game": "usum-um",
+        "text": "트림처럼 내뱉는 가스는\n어린아이가 들이마시면\n치명적일 정도로 위험하다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "비위생적인 장소를 좋아한다.\n쓰레기를 어질러놓은 채 내버려 두면\n방에 나타나 그대로 눌러앉는다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "쓰레기가 가득 담긴 쓰레기봉투에서\n태어났다. 내뿜는 독가스는\n가라르의 또도가스가 매우 좋아한다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "破破袋",
+    "genus": "垃圾袋寶可夢",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "喜歡不衛生的地方。\n在阿羅拉經常可以看見牠\n被臭泥追著到處跑的樣子。"
+      },
+      {
+        "game": "sm-m",
+        "text": "吃垃圾吃到肚子鼓鼓之後，\n便會從嘴裡噴出毒瓦斯來。\n不小心聞到的話就得立即進醫院。"
+      },
+      {
+        "game": "usum-us",
+        "text": "呼吸時會有毒氣漏出，\n聞到這個味道的臭臭泥會\n流著口水跑過來。"
+      },
+      {
+        "game": "usum-um",
+        "text": "像打嗝一樣吐出的氣體\n一旦被小孩子吸進去，\n就會造成生命危險。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "喜歡不衛生的地方。\n如果不及時清理家裡的垃圾，\n破破袋就會過來居住。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "誕生自塞滿垃圾的垃圾袋裡。\n牠嘴裡噴出的毒氣\n是伽勒爾雙彈瓦斯的最愛。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Miamiasme",
+    "genus": "Pokémon Sac Poubelle",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Il aime les endroits mal tenus.\nLe gaz qu’il rote endort\npendant une semaine."
+      },
+      {
+        "game": "bw-w",
+        "text": "Il est né de la mutation d’un\nsac poubelle contenant des\ndéchets industriels."
+      },
+      {
+        "game": "xy-x",
+        "text": "Il est né de la mutation d’un sac poubelle contenant\ndes déchets industriels."
+      },
+      {
+        "game": "xy-y",
+        "text": "Il aime les endroits mal tenus. Le gaz qu’il rote endort\npendant une semaine."
+      },
+      {
+        "game": "oras-or",
+        "text": "Il est né de la mutation d’un sac poubelle contenant\ndes déchets industriels."
+      },
+      {
+        "game": "oras-as",
+        "text": "Il aime les endroits mal tenus. Le gaz qu’il rote endort\npendant une semaine."
+      },
+      {
+        "game": "sm-s",
+        "text": "Il affectionne particulièrement les endroits\ninsalubres. À Alola, il n’est pas rare de voir\ndes Tadmorv courir après des Miamiasme."
+      },
+      {
+        "game": "sm-m",
+        "text": "Une fois qu’il a gobé assez d’ordures, il relâche\nun gaz toxique par la bouche. Ne le respirez\npas, surtout s’il n’y a aucun hôpital à la ronde."
+      },
+      {
+        "game": "usum-us",
+        "text": "Il laisse échapper un gaz toxique quand\nil respire. Les Grotadmorv, par l’odeur alléchés,\naccourent alors en salivant."
+      },
+      {
+        "game": "usum-um",
+        "text": "Le gaz toxique qu’il laisse échapper par\nsa bouche peut s’avérer dangereux pour les\nenfants et les jeunes Pokémon qui le respirent."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Il raffole des endroits sales. Si on laisse traîner\ndes ordures dans une pièce trop longtemps,\nil finit par en faire son domicile."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Il est né d’un sac poubelle rempli d’ordures.\nLe gaz empoisonné qu’il exhale est très apprécié\ndes Smogogo de Galar."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Unratütox",
+    "genus": "Mülltüten-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Eine Mülltüte, der Industrieabfälle und chemische\nReaktionen neues Leben eingehaucht haben."
+      },
+      {
+        "game": "xy-y",
+        "text": "Hat ein Faible für schmutzige Orte. Wer das Gas\neinatmet, das es mit Rülpslauten ausstößt, schläft\neine Woche durch."
+      },
+      {
+        "game": "oras-or",
+        "text": "Eine Mülltüte, der Industrieabfälle und chemische Reaktionen\nneues Leben eingehaucht haben."
+      },
+      {
+        "game": "oras-as",
+        "text": "Hat ein Faible für schmutzige Orte. Wer das Gas einatmet,\ndas es mit Rülpslauten ausstößt, schläft eine Woche durch."
+      },
+      {
+        "game": "sm-s",
+        "text": "Es liebt schmutzige Orte. In Alola sieht man oft,\nwie es von Sleima verfolgt wird."
+      },
+      {
+        "game": "sm-m",
+        "text": "Wenn es sich mit Müll vollstopft, rülpst es giftige\nGase. Wer diese unabsichtlich einatmet, muss\nsofort ins Krankenhaus."
+      },
+      {
+        "game": "usum-us",
+        "text": "Mit jedem Atemzug entweicht ihm giftiges Gas.\nBekommt ein Sleimok davon Wind, nimmt es\ngierig sabbernd die Fährte auf und verfolgt es."
+      },
+      {
+        "game": "usum-um",
+        "text": "Atmen kleine Kinder oder Pokémon das Gas ein,\ndas es rülpsend ausstößt, ist nicht nur ihr\nGeruchssinn in Gefahr, sondern sogar ihr Leben."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Es liebt schmutzige Orte. Angeblich zieht es auch\nin menschliche Behausungen ein, wenn man zu\nviel Müll herumliegen lässt."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Es ist aus einer überfüllten Mülltüte entstanden.\nDie Smogmog der Galar-Region sind verrückt\nnach den giftigen Gasen, die es ausstößt."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Trubbish",
+    "genus": "Pokémon Bolsa Basura",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Pokémon nacido de la reacción química entre una\nbolsa de basura y residuos industriales."
+      },
+      {
+        "game": "xy-y",
+        "text": "Le gustan los lugares con suciedad. Quien inhala los\ngases que eructa duerme durante una semana."
+      },
+      {
+        "game": "oras-or",
+        "text": "Pokémon nacido de la reacción química entre una bolsa de\nbasura y residuos industriales."
+      },
+      {
+        "game": "oras-as",
+        "text": "Le gustan los lugares con suciedad. Quien inhala los gases\nque eructa duerme durante una semana."
+      },
+      {
+        "game": "sm-s",
+        "text": "Le gustan los lugares sucios. En Alola se lo\nsuele ver junto a Grimer, que lo sigue a todas\npartes."
+      },
+      {
+        "game": "sm-m",
+        "text": "Tras atiborrarse de basura, eructa unos gases\nvenenosos capaces de llevar a cualquiera al\nhospital en caso de inhalarlos sin querer."
+      },
+      {
+        "game": "usum-us",
+        "text": "Expulsa gases nocivos al respirar. Cuando Muk\nse percata del olor, acude salivando."
+      },
+      {
+        "game": "usum-um",
+        "text": "Los gases que exhala a modo de eructos\npueden poner en peligro la vida de niños y crías\nPokémon que los inhalen de forma accidental."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Le gustan los lugares insalubres. Puede llegar a\nestablecerse en las casas de aquellas personas\nque no hagan la limpieza con regularidad."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Nació a partir de una rebosante bolsa de basura.\nLos gases nocivos que eructa son un manjar para\nlos Weezing de Galar."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Trubbish",
+    "genus": "Pokémon Spazzatura",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "È nato da un sacchetto della spazzatura che ha\nsubito un cambiamento chimico a causa delle scorie\nindustriali."
+      },
+      {
+        "game": "xy-y",
+        "text": "Predilige luoghi insalubri. Esala gas dalle fauci in\ngrado di addormentare per una settimana."
+      },
+      {
+        "game": "oras-or",
+        "text": "È nato da un sacchetto della spazzatura che ha subito\nun cambiamento chimico a causa delle scorie industriali."
+      },
+      {
+        "game": "oras-as",
+        "text": "Predilige luoghi insalubri. Esala gas dalle fauci in grado di\naddormentare per una settimana."
+      },
+      {
+        "game": "sm-s",
+        "text": "Predilige luoghi insalubri. Nella regione\ndi Alola lo si vede spesso inseguito da\nGrimer."
+      },
+      {
+        "game": "sm-m",
+        "text": "Quando si rimpinza di spazzatura esala dalle\nfauci un gas tossico. Chi lo respira finisce\nimmediatamente all’ospedale."
+      },
+      {
+        "game": "usum-us",
+        "text": "Esala gas tossici a ogni respiro.\nQuando Muk ne sente l’odore, si dirige verso\ndi lui con l’acquolina in bocca."
+      },
+      {
+        "game": "usum-um",
+        "text": "Il gas tossico che gli sfugge dalla bocca può\nessere pericolosissimo se inalato da bambini\no piccoli di Pokémon."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Predilige luoghi insalubri. Sbuca fuori nelle case\ndove è stata lasciata spazzatura in giro e vi si\nstabilisce."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "È nato da un sacchetto pieno di spazzatura.\nI Weezing di Galar sono ghiotti del gas tossico\nche esala."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Trubbish",
+    "genus": "Trash Bag Pokémon",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Inhaling the gas they belch will make\nyou sleep for a week. They prefer\nunsanitary places."
+      },
+      {
+        "game": "bw-w",
+        "text": "The combination of garbage bags and\nindustrial waste caused the chemical\nreaction that created this Pokémon."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "Wanting more garbage, they\nfollow people who litter.\nThey always belch poison gas."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "Wanting more garbage, they\nfollow people who litter.\nThey always belch poison gas."
+      },
+      {
+        "game": "xy-x",
+        "text": "The combination of garbage bags and industrial\nwaste caused the chemical reaction that created\nthis Pokémon."
+      },
+      {
+        "game": "xy-y",
+        "text": "Inhaling the gas they belch will make you sleep for\na week. They prefer unsanitary places."
+      },
+      {
+        "game": "oras-or",
+        "text": "The combination of garbage bags and industrial\nwaste caused the chemical reaction that created\nthis Pokémon."
+      },
+      {
+        "game": "oras-as",
+        "text": "Inhaling the gas they belch will make you sleep for\na week. They prefer unsanitary places."
+      },
+      {
+        "game": "sm-s",
+        "text": "Unsanitary places are what they like best.\nThey can be spotted in Alola, often with Grimer\nin hot pursuit."
+      },
+      {
+        "game": "sm-m",
+        "text": "It gorges on trash until its stomach is full. Then\nit belches toxic gas. An unlucky whiff of gas will\nput a person in the hospital."
+      },
+      {
+        "game": "usum-us",
+        "text": "Poisonous gas leaks out of it when it breathes.\nMuk that catch a whiff of that stench will\ncome drooling."
+      },
+      {
+        "game": "usum-um",
+        "text": "If a young Pokémon or child breathes in the\ntoxic gas that Trubbish belches out, it could be\na life-threatening situation."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Its favorite places are unsanitary ones. If you\nleave trash lying around, you could even find\none of these Pokémon living in your room."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "This Pokémon was born from a bag stuffed with\ntrash. Galarian Weezing relish the fumes belched\nby Trubbish."
+      }
+    ]
+  },
+  "chs": {
+    "name": "破破袋",
+    "genus": "垃圾袋宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "喜欢不卫生的场所。\n在阿罗拉经常可以发现\n被臭泥追着到处跑的样子。"
+      },
+      {
+        "game": "sm-m",
+        "text": "吃垃圾吃到肚子鼓鼓之后，\n从嘴里喷出毒瓦斯来。\n不小心闻到的话要立即进医院。"
+      },
+      {
+        "game": "usum-us",
+        "text": "呼吸的时候会有毒瓦斯漏出。\n臭臭泥闻到气味就会流着口水赶过来。"
+      },
+      {
+        "game": "usum-um",
+        "text": "像打嗝一样吐出的瓦斯，\n一旦被小孩子吸入，\n就会有性命攸关的危险。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "喜欢不卫生的地方。\n如果不及时清理家里的垃圾，\n破破袋就会过来居住。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "诞生于塞满垃圾的垃圾袋里。\n它嘴里喷出的毒气\n是伽勒尔双弹瓦斯的最爱。"
+      }
+    ]
+  }
+}

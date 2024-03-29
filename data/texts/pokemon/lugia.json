@@ -1,0 +1,247 @@
+{
+  "jap": {
+    "name": "ルギア",
+    "genus": "せんすいポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "ふかい　かいこうの　そこで　ねむる。\nルギアが　はばたくと　４０にち\nあらしが　つづくと　いわれている。"
+      },
+      {
+        "game": "xy-y",
+        "text": "うみのかみさま　と　つたえられる\nポケモン。あらしのよる　すがたを\nみたという　はなしが　つたえられる。"
+      },
+      {
+        "game": "oras-or",
+        "text": "つばさを　かるく　はばたかせた　だけで　みんかを\nふきとばす　はかいりょくを　もっている　ために\nかいていで　ひとしれず　くらす　ように　なった。"
+      },
+      {
+        "game": "oras-as",
+        "text": "つばさを　かるく　はばたかせた　だけで　みんかを\nふきとばす　はかいりょくを　もっている　ために\nかいていで　ひとしれず　くらす　ように　なった。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Lugia",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "루기아",
+    "genus": "잠수포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "깊은 해구의 밑바닥에서 잠잔다.\n루기아가 날개를 치면 40일 동안\n폭풍우가 계속된다고 전해진다."
+      },
+      {
+        "game": "xy-y",
+        "text": "바다의 신이라고 전해지는\n포켓몬이다. 폭풍 치는 밤에 모습을\n봤다는 이야기가 전해져온다."
+      },
+      {
+        "game": "oras-or",
+        "text": "가벼운 날갯짓만으로도 민가를\n날려버릴 만한 파괴력을 지니고 있어서\n해저에서 사람들 몰래 살게 됐다."
+      },
+      {
+        "game": "oras-as",
+        "text": "가벼운 날갯짓만으로도 민가를\n날려버릴 만한 파괴력을 지니고 있어서\n해저에서 사람들 몰래 살게 됐다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "洛奇亞",
+    "genus": "潛水寶可夢",
+    "flavorText": []
+  },
+  "fra": {
+    "name": "Lugia",
+    "genus": "Pokémon Plongeon",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Il dort dans une faille des grands\nfonds. Ses battements d’ailes\ngénèrent une tempête de 40 jours."
+      },
+      {
+        "game": "bw-w",
+        "text": "Il dort dans une faille des grands\nfonds. Ses battements d’ailes\ngénèrent une tempête de 40 jours."
+      },
+      {
+        "game": "xy-x",
+        "text": "Il dort dans une faille des grands fonds.\nSes battements d’ailes génèrent une tempête de 40\njours."
+      },
+      {
+        "game": "xy-y",
+        "text": "Il est supposé être le gardien des sept mers.\nOn raconte qu’il est apparu une nuit de forte tempête."
+      },
+      {
+        "game": "oras-or",
+        "text": "Les ailes de Lugia renferment une puissance dévastatrice.\nUn simple battement de ses ailes peut détruire de petites\nmaisons. Du coup, ce Pokémon a choisi de vivre loin de tout,\ndans les profondeurs océaniques."
+      },
+      {
+        "game": "oras-as",
+        "text": "Les ailes de Lugia renferment une puissance dévastatrice.\nUn simple battement de ses ailes peut détruire de petites\nmaisons. Du coup, ce Pokémon a choisi de vivre loin de tout,\ndans les profondeurs océaniques."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Lugia",
+    "genus": "Taucher-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Es schläft in einem Tiefseegraben. Schwingt es\nseine Flügel, entsteht ein Sturm, der 40 Tage dauert."
+      },
+      {
+        "game": "xy-y",
+        "text": "Man berichtet, es sei der Wächter der Meere und man\nhabe es im Herzen eines tosenden Sturmes gesehen."
+      },
+      {
+        "game": "oras-or",
+        "text": "Lugias Flügel haben eine zerstörerische Kraft. Bereits ein\nleichtes Flattern kann Häuser hinfortwehen. Daher hat sich\ndieses Pokémon dafür entschieden, tief unter dem Meer\nzu leben, wo es niemand sieht."
+      },
+      {
+        "game": "oras-as",
+        "text": "Lugias Flügel haben eine zerstörerische Kraft. Bereits ein\nleichtes Flattern kann Häuser hinfortwehen. Daher hat sich\ndieses Pokémon dafür entschieden, tief unten im Meer zu\nleben, wo es niemand sieht."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Lugia",
+    "genus": "Pokémon Buceo",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Duerme en una dorsal marina. Si bate sus alas, puede\ncausar tormentas de 40 días."
+      },
+      {
+        "game": "xy-y",
+        "text": "Dicen que es el guardián de los mares. Hay rumores\nde que fue visto en una noche de tormenta."
+      },
+      {
+        "game": "oras-or",
+        "text": "La fuerza que tiene Lugia en las alas es devastadora; con\nnada que las bata es capaz de derribar edificios enteros.\nPor eso mismo, prefiere vivir donde no haya nadie, en lo más\nprofundo del mar."
+      },
+      {
+        "game": "oras-as",
+        "text": "La fuerza que tiene Lugia en las alas es devastadora; con\nnada que las bata es capaz de derribar edificios enteros.\nPor eso mismo, prefiere vivir donde no haya nadie, en lo más\nprofundo del mar."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Lugia",
+    "genus": "Pokémon Immersione",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Dorme in una fossa negli abissi marini. Con un\nbattito d’ali provoca una tempesta di 40 giorni."
+      },
+      {
+        "game": "xy-y",
+        "text": "Viene definito il guardiano dei mari. Si dice che sia\nstato visto nelle notti di tempesta."
+      },
+      {
+        "game": "oras-or",
+        "text": "Le ali di Lugia hanno un’enorme potenza distruttiva:\nun leggero battito d’ali è in grado di abbattere una\nnormale abitazione. Perciò il Pokémon ha scelto\ndi vivere lontano dall’uomo, nelle profondità abissali."
+      },
+      {
+        "game": "oras-as",
+        "text": "Le ali di Lugia hanno un’enorme potenza distruttiva:\nun leggero battito d’ali è in grado di abbattere una\nnormale abitazione. Perciò il Pokémon ha scelto\ndi vivere lontano dall’uomo, nelle profondità abissali."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Lugia",
+    "genus": "Diving Pokémon",
+    "flavorText": [
+      {
+        "game": "gs-g",
+        "text": "It is said that it\nquietly spends its\ntime deep at the\fbottom of the sea\nbecause its powers\nare too strong."
+      },
+      {
+        "game": "gs-s",
+        "text": "It is said to be\nthe guardian of\nthe seas. It is\frumored to have\nbeen seen on the\nnight of a storm."
+      },
+      {
+        "game": "c",
+        "text": "It has an incred­\nible ability to\ncalm raging sto­\frms. It is said\nthat LUGIA appears\nwhen storms start."
+      },
+      {
+        "game": "rs-r",
+        "text": "LUGIA’s wings pack devastating power -\na light fluttering of its wings can blow\napart regular houses.\fAs a result, this POKéMON chooses to\nlive out of sight deep under the sea."
+      },
+      {
+        "game": "rs-s",
+        "text": "LUGIA’s wings pack devastating power -\na light fluttering of its wings can blow\napart regular houses.\fAs a result, this POKéMON chooses to\nlive out of sight deep under the sea."
+      },
+      {
+        "game": "e",
+        "text": "LUGIA is so powerful even a light\nfluttering of its wings can blow apart\nhouses. As a result, it chooses to live out\nof sight deep under the sea."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "It is said to be the guardian of the seas.\nIt is rumored to have been seen on the\nnight of a storm."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "It is said that it quietly spends its time\ndeep at the bottom of the sea because\nits powers are too strong."
+      },
+      {
+        "game": "dp-d",
+        "text": "It sleeps in a deep-sea trench.\nIf it flaps its wings, it is said to\ncause a 40-day storm."
+      },
+      {
+        "game": "dp-p",
+        "text": "It sleeps in a deep-sea trench.\nIf it flaps its wings, it is said to\ncause a 40-day storm."
+      },
+      {
+        "game": "pt",
+        "text": "It sleeps in a deep-sea trench.\nIf it flaps its wings, it is said to\ncause a 40-day storm."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "It is said that it quietly spends its\ntime deep at the bottom of the sea\nbecause its powers are too strong."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "It is said to be the guardian of\nthe seas. It is rumored to have\nbeen seen on the night of a storm."
+      },
+      {
+        "game": "bw-b",
+        "text": "It sleeps in a deep-sea trench.\nIf it flaps its wings, it is said to\ncause a 40-day storm."
+      },
+      {
+        "game": "bw-w",
+        "text": "It sleeps in a deep-sea trench.\nIf it flaps its wings, it is said to\ncause a 40-day storm."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "It sleeps in a deep-sea trench.\nIf it flaps its wings, it is said to\ncause a 40-day storm."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "It sleeps in a deep-sea trench.\nIf it flaps its wings, it is said to\ncause a 40-day storm."
+      },
+      {
+        "game": "xy-x",
+        "text": "It sleeps in a deep-sea trench. If it flaps its wings,\nit is said to cause a 40-day storm."
+      },
+      {
+        "game": "xy-y",
+        "text": "It is said to be the guardian of the seas. It is\nrumored to have been seen on the night of a storm."
+      },
+      {
+        "game": "oras-or",
+        "text": "Lugia’s wings pack devastating power—a light fluttering of its\nwings can blow apart regular houses. As a result, this\nPokémon chooses to live out of sight deep under the sea."
+      },
+      {
+        "game": "oras-as",
+        "text": "Lugia’s wings pack devastating power—a light fluttering of its\nwings can blow apart regular houses. As a result, this\nPokémon chooses to live out of sight deep under the sea."
+      }
+    ]
+  },
+  "chs": {
+    "name": "洛奇亚",
+    "genus": "潜水宝可梦",
+    "flavorText": []
+  }
+}

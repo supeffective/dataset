@@ -1,0 +1,247 @@
+{
+  "jap": {
+    "name": "キリンリキ",
+    "genus": "くびながポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "ねむっている　あいだ　しっぽの\nあたまが　あたりを　みはっている。\nしっぽは　ねむらなくても　へいき。"
+      },
+      {
+        "game": "xy-y",
+        "text": "しっぽにも　ちいさな　のうがある。\nちかよると　においに　はんのうして\nかみついて　くるので　ちゅうい。"
+      },
+      {
+        "game": "oras-or",
+        "text": "シッポの　あたまにも　ちいさな　のうが　ある。\nにおいや　おとに　はんのうして　こうげきするので\nうしろから　ちかよると　いきなり　かみつかれる。"
+      },
+      {
+        "game": "oras-as",
+        "text": "しっぽの　のうは　かんがえごとが　できないほど\nちいさいけど　ねむらなくても　へいき　なので\n２４じかん　あたりを　みはりつづけて　いるぞ。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Kirinriki",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "키링키",
+    "genus": "긴목포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "잠자는 동안 꼬리의\n머리가 주위를 망보고 있다.\n꼬리는 잠을 잘 필요가 없다."
+      },
+      {
+        "game": "xy-y",
+        "text": "꼬리에도 작은 뇌가 있다.\n다가가면 냄새에 반응해서\n물어서 공격하므로 주의하자."
+      },
+      {
+        "game": "oras-or",
+        "text": "꼬리의 머리에도 작은 뇌가 있다.\n냄새나 소리에 반응하여 공격하기 때문에\n뒤에서 접근하면 느닷없이 물린다."
+      },
+      {
+        "game": "oras-as",
+        "text": "꼬리의 뇌는 생각을 할 수 없을 정도로\n작지만 자지 않아도 괜찮아서\n24시간 주변을 계속 망보고 있다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "麒麟奇",
+    "genus": "長頸寶可夢",
+    "flavorText": []
+  },
+  "fra": {
+    "name": "Girafarig",
+    "genus": "Pokémon Long-Cou",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "La tête qu’il a sur la queue dispose\nde son propre cerveau et lui\npermet de couvrir ses arrières."
+      },
+      {
+        "game": "bw-w",
+        "text": "La tête qu’il a sur la queue dispose\nde son propre cerveau et lui\npermet de couvrir ses arrières."
+      },
+      {
+        "game": "xy-x",
+        "text": "La tête sur sa queue monte la garde quand il dort.\nElle n’a pas besoin de dormir."
+      },
+      {
+        "game": "xy-y",
+        "text": "Sa queue possède un cerveau. Si vous vous en\napprochez, elle vous sentira et vous mordra."
+      },
+      {
+        "game": "oras-or",
+        "text": "La tête à l’arrière de Girafarig a aussi un cerveau, mais il est\nplus petit. Elle attaque en réponse aux sons et aux odeurs.\nSi on approche de ce Pokémon par derrière, cette petite tête\npeut tout à coup jaillir et mordre."
+      },
+      {
+        "game": "oras-as",
+        "text": "La tête à l’arrière de Girafarig abrite un cerveau trop petit\npour penser. En revanche, cette tête arrière n’a pas besoin\nde dormir, ce qui lui permet de monter la garde tout le temps."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Girafarig",
+    "genus": "Langhals",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Während es schläft, hält sein Schweif Wache.\nDieser benötigt keinen Schlaf."
+      },
+      {
+        "game": "xy-y",
+        "text": "Sein Schweif hat ein eigenes Gehirn. Achtung!\nKommst du ihm zu nahe, kann es dich riechen\nund beißt."
+      },
+      {
+        "game": "oras-or",
+        "text": "Der Kopf an Girafarigs Hinterteil hat ein eigenes Gehirn.\nEr reagiert mit Angriffen auf Gerüche und Geräusche.\nWenn man sich diesem Pokémon von hinten nähert,\nkönnte der hintere Kopf plötzlich vorschnellen und zubeißen."
+      },
+      {
+        "game": "oras-as",
+        "text": "Der Kopf an Girafarigs Hinterteil verfügt nur über\nein kleines Gehirn, mit dem es nicht denken kann.\nDieses Gehirn benötigt jedoch keinen Schlaf und\nist somit in der Lage, die Umgebung rund um die\nUhr im Auge zu behalten."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Girafarig",
+    "genus": "Pokémon Gran Cuello",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Cuando duerme, la cabeza de su cola se queda\nvigilando, ya que ella no necesita dormir."
+      },
+      {
+        "game": "xy-y",
+        "text": "Su cola tiene un pequeño cerebro. ¡Cuidado! Si te\nacercas, puede reaccionar a tu olor y morder."
+      },
+      {
+        "game": "oras-or",
+        "text": "Girafarig tiene un cerebro también en la cabeza de la cola que\nreacciona atacando ante olores y sonidos. Cuando alguien se\nacerca a este Pokémon por la espalda, puede provocar que la\ncabeza trasera se abalance y lo muerda."
+      },
+      {
+        "game": "oras-as",
+        "text": "La cabeza trasera de Girafarig tiene un cerebro muy pequeño\npara pensar, pero, como no le hace falta dormir, al menos\npuede hacer de centinela las 24 horas del día."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Girafarig",
+    "genus": "Pokémon Lungocollo",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "La testa che ha sulla coda rimane vigile mentre dorme.\nLa coda, infatti, non ha bisogno di riposare."
+      },
+      {
+        "game": "xy-y",
+        "text": "La coda possiede un cervello autonomo. Se ci si\navvicina può fiutare la presenza e mordere."
+      },
+      {
+        "game": "oras-or",
+        "text": "La testa posteriore di Girafarig è dotata di un cervello\npiccolissimo. Attacca soltanto in risposta agli odori\ne ai suoni. Avvicinando questo Pokémon da dietro\nsussiste il pericolo di essere morsi dalla testa posteriore."
+      },
+      {
+        "game": "oras-as",
+        "text": "La testa posteriore di Girafarig contiene un cervello minuto,\ntroppo piccolo per pensare. Tuttavia, questa testolina non\ndorme mai, così può rimanere di sorveglianza 24 ore su 24."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Girafarig",
+    "genus": "Long Neck Pokémon",
+    "flavorText": [
+      {
+        "game": "gs-g",
+        "text": "Its tail has a\nsmall brain of its\nown. Beware! If\fyou get close, it\nmay react to your\nscent and bite."
+      },
+      {
+        "game": "gs-s",
+        "text": "Its tail, which\nalso contains a\nsmall brain, may\fbite on its own if\nit notices an\nalluring smell."
+      },
+      {
+        "game": "c",
+        "text": "When it is in\ndanger, its tail\nuses some sort of\fmysterious powers\nto drive away the\nenemy."
+      },
+      {
+        "game": "rs-r",
+        "text": "GIRAFARIG’s rear head also has a brain,\nbut it is small. The rear head attacks in\nresponse to smells and sounds.\fApproaching this POKéMON from behind\ncan cause the rear head to suddenly\nlash out and bite."
+      },
+      {
+        "game": "rs-s",
+        "text": "GIRAFARIG’s rear head contains a tiny\nbrain that is too small for thinking.\nHowever, the rear head doesn’t need to\fsleep, so it can keep watch over its\nsurroundings 24 hours a day."
+      },
+      {
+        "game": "e",
+        "text": "A GIRAFARIG is an herbivore--it eats\ngrass and tree shoots. While it is eating,\nits tail makes chewing and swallowing\nmotions as if it were also eating."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "Its tail, which also contains a small\nbrain, may bite on its own if it notices an\nalluring smell."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "Its tail has a small brain of its own.\nBeware! If you get close, it may react\nto your scent and bite."
+      },
+      {
+        "game": "dp-d",
+        "text": "Its tail also has a small brain.\nIt bites to repel any foe trying\nto sneak up on it from behind."
+      },
+      {
+        "game": "dp-p",
+        "text": "While it sleeps, the head on its\ntail keeps watch. The tail doesn’t\nneed to sleep."
+      },
+      {
+        "game": "pt",
+        "text": "The head on its tail contains a\nsmall brain. It can instinctively\nfight even while facing backward."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "Its tail has a small brain of its\nown. Beware! If you get close, it\nmay react to your scent by biting."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "Its tail, which also contains a\nsmall brain, may bite on its own if\nit notices an alluring smell."
+      },
+      {
+        "game": "bw-b",
+        "text": "The head on its tail contains a\nsmall brain. It can instinctively\nfight even while facing backward."
+      },
+      {
+        "game": "bw-w",
+        "text": "The head on its tail contains a\nsmall brain. It can instinctively\nfight even while facing backward."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "The head on its tail contains a\nsmall brain. It can instinctively\nfight even while facing backward."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "The head on its tail contains a\nsmall brain. It can instinctively\nfight even while facing backward."
+      },
+      {
+        "game": "xy-x",
+        "text": "While it sleeps, the head on its tail keeps watch.\nThe tail doesn’t need to sleep."
+      },
+      {
+        "game": "xy-y",
+        "text": "Its tail has a small brain of its own. Beware! If you\nget close, it may react to your scent by biting."
+      },
+      {
+        "game": "oras-or",
+        "text": "Girafarig’s rear head also has a brain, but it is small. The rear\nhead attacks in response to smells and sounds. Approaching\nthis Pokémon from behind can cause the rear head to suddenly\nlash out and bite."
+      },
+      {
+        "game": "oras-as",
+        "text": "Girafarig’s rear head contains a tiny brain that is too small for\nthinking. However, the rear head doesn’t need to sleep, so it\ncan keep watch over its surroundings 24 hours a day."
+      }
+    ]
+  },
+  "chs": {
+    "name": "麒麟奇",
+    "genus": "长颈宝可梦",
+    "flavorText": []
+  }
+}

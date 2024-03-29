@@ -1,0 +1,133 @@
+{
+  "jap": {
+    "name": "モルペコ",
+    "genus": "にめんポケモン",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "いつも　おなかを　すかせている。\nポケットの　ような　ふくろに　いれた\nタネを　たべて　でんきを　つくる。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "どんなに　たべても　すぐに　おなかが\nすく。　でんきで　ローストした\nタネを　たいせつに　もちあるく。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Morpeko",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "모르페코",
+    "genus": "양면포켓몬",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "항상 배가 고프다.\n호주머니같이 생긴 주머니에 넣어둔\n씨앗을 먹어서 전기를 만든다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "아무리 먹어도 금방 배가 고프다.\n전기로 구운 씨앗을\n소중히 갖고 다닌다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "莫魯貝可",
+    "genus": "雙面寶可夢",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "總是餓著肚子。\n會吃掉裝在像口袋一樣的\n袋子裡的種子來發電。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "無論怎麼吃都會馬上肚子餓。\n十分珍愛自己用電烘烤過的\n種子，隨時都帶在身上。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Morpeko",
+    "genus": "Pokémon Volt Face",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Il a toujours un petit creux. Il grignote les graines\nqu’il a mises dans ses sortes de poches\npour produire de l’électricité."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Il a beau manger, il a tout le temps faim.\nIl a toujours des graines grillées à l’électricité\nsur lui."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Morpeko",
+    "genus": "Alter Ego-Pokémon",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Dieses immerzu hungrige Pokémon frisst Samen,\ndie es in seinen beutelartigen Taschen verwahrt,\nund produziert so Elektrizität."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Egal, wie viel es auch frisst, es wird sofort wieder\nhungrig. Es röstet Samen mit seiner Elektrizität\nund trägt diese dann vorsichtig mit sich herum."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Morpeko",
+    "genus": "Pokémon Dos Caras",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Siempre tiene hambre. Se nutre de las semillas\nque guarda en una suerte de bolsillos para\ngenerar electricidad."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Siempre tiene apetito, sin importar lo mucho que\ncoma. Lleva con sumo cuidado las semillas que\nha tostado con su propia electricidad."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Morpeko",
+    "genus": "Pokémon Doppiafaccia",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Ha costantemente fame. Si nutre dei semi che\ntiene nelle sue tasche per produrre elettricità."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Indipendentemente da quanto mangia, è sempre\naffamato. Tiene molto ai semi che ha arrostito\ncon l’elettricità e li porta sempre con sé."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Morpeko",
+    "genus": "Two-Sided Pokémon",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "As it eats the seeds stored up in its pocket-like\npouches, this Pokémon is not just satisfying its\nconstant hunger. It’s also generating electricity."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "It carries electrically roasted seeds with it as if\nthey’re precious treasures. No matter how much\nit eats, it always gets hungry again in short order."
+      }
+    ]
+  },
+  "chs": {
+    "name": "莫鲁贝可",
+    "genus": "双面宝可梦",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "总是饿着肚子。\n会吃掉装在像口袋一样的\n袋子里的种子来发电。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "无论怎么吃都会马上肚子饿。\n十分珍爱自己用电烘烤过的\n种子，随时都带在身上。"
+      }
+    ]
+  }
+}

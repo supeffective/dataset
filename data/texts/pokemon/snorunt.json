@@ -1,0 +1,457 @@
+{
+  "jap": {
+    "name": "ユキワラシ",
+    "genus": "ゆきかさポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "おおきな　はっぱの　したに\nすうひきの　ユキワラシが　あつまり\nなかよく　くらしているという。"
+      },
+      {
+        "game": "xy-y",
+        "text": "ユキワラシの　すみついた　いえは\nおかねもちになるという　いいつたえが\nゆきぐにには　のこっている。"
+      },
+      {
+        "game": "oras-or",
+        "text": "ゆきの　おおい　とちで　くらす　ポケモン。\nはるや　なつの　ゆきの　ふらない　きせつには\nしょうにゅうどうの　おくで　しずかに　くらす。"
+      },
+      {
+        "game": "oras-as",
+        "text": "ゆきや　こおりだけを　たべて　くらしている。\nユキワラシの　おとずれた　いえは　だいだい\nさかえるという　いいつたえが　のこっている。"
+      },
+      {
+        "game": "sm-s",
+        "text": "きづくと　アローラで　ふえていた。\nユキワラシが　すみついた　いえは\nししそんそんに　さかえると　いう。"
+      },
+      {
+        "game": "sm-m",
+        "text": "さむい　とちでしか　いきられない。\nマイナス　１００どの　かんきょうでも\nげんきに　はねまわっているよ。"
+      },
+      {
+        "game": "usum-us",
+        "text": "ゆきや　こおりが　おもな　エサ。\nあたたかな　アローラでは　かぎられた\nばしょ　でしか　いきていけない。"
+      },
+      {
+        "game": "usum-um",
+        "text": "さむい　とちの　かねもちは　みんな\nこどもの　ころに　ユキワラシと\nあそんだ　おもいでが　あるらしい。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "まよなか　あらわれる　ユキワラシは\nおおゆきを　ふらせると　いわれる。\nゆきや　こおりを　たべて　くらす。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "さむい　とちでしか　いきられない。\nマイナス　１００どの　かんきょうでも\nげんきに　はねまわっているよ。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Yukiwarashi",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "눈꼬마",
+    "genus": "눈우산포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "커다란 잎사귀 아래서\n여러 마리의 눈꼬마가 모여\n사이좋게 살고 있다고 한다."
+      },
+      {
+        "game": "xy-y",
+        "text": "눈꼬마가 자리 잡은 집은\n부자가 된다고 하는 전설이\n설국에는 남아 있다."
+      },
+      {
+        "game": "oras-or",
+        "text": "눈이 많은 땅에서 사는 포켓몬이다.\n봄이나 여름처럼 눈이 내리지 않는 계절에는\n석회암 동굴 깊은 곳에서 조용히 산다."
+      },
+      {
+        "game": "oras-as",
+        "text": "눈이나 얼음만 먹고 생활하고 있다.\n눈꼬마가 찾아간 집은 대대로\n번창한다는 전설이 남아 있다."
+      },
+      {
+        "game": "sm-s",
+        "text": "어느새 알로라에서 늘어나 있었다.\n눈꼬마가 살고 있는 집은\n자자손손 번창한다고 한다."
+      },
+      {
+        "game": "sm-m",
+        "text": "추운 땅에서만 살 수 있다.\n영하 100도의 환경에서도\n건강하게 뛰어다닌다."
+      },
+      {
+        "game": "usum-us",
+        "text": "눈과 얼음이 주요 먹이다.\n따듯한 알로라에서는 한정된\n장소에서만 살 수 있다."
+      },
+      {
+        "game": "usum-um",
+        "text": "추운 토지의 부자들은 모두\n어린 시절에 눈꼬마와\n놀았던 추억이 있다고 한다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "한밤중에 나타나는 눈꼬마는\n큰 눈을 내리게 한다고 전해진다.\n눈과 얼음을 먹으며 지낸다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "추운 땅에서만 살 수 있다.\n영하 100도의 환경에서도\n건강하게 뛰어다닌다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "雪童子",
+    "genus": "雪笠寶可夢",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "不知不覺間已在阿羅拉增多起來。\n據說，有雪童子棲息的家庭\n會子孫滿堂家族繁榮。"
+      },
+      {
+        "game": "sm-m",
+        "text": "只能在寒冷的土地上生存。\n即使在零下１００度的環境下\n也能充滿活力地到處蹦蹦跳跳哦。"
+      },
+      {
+        "game": "usum-us",
+        "text": "雪和冰是牠的主食。\n在溫暖的阿羅拉地區，\n牠只能在少數地方生存。"
+      },
+      {
+        "game": "usum-um",
+        "text": "寒冷地帶的有錢人們\n好像都有在小時候和\n雪童子一起玩的回憶。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "據說半夜出現的\n雪童子會帶來大雪。\n靠吃雪和冰維生。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "只能在寒冷的土地上生存。\n即使在零下１００度的環境下\n也能充滿活力地到處蹦蹦跳跳。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Stalgamin",
+    "genus": "Pokémon Capuche",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "On dit que des groupes entiers de\nStalgamin vivent en harmonie\nsous des feuilles gigantesques."
+      },
+      {
+        "game": "bw-w",
+        "text": "On dit que des groupes entiers de\nStalgamin vivent en harmonie\nsous des feuilles gigantesques."
+      },
+      {
+        "game": "xy-x",
+        "text": "On dit que des groupes entiers de Stalgamin vivent\nen harmonie sous des feuilles gigantesques."
+      },
+      {
+        "game": "xy-y",
+        "text": "Selon un vieux dicton des régions enneigées :\n« Stalgamin dans la maison, richesse à l’horizon »."
+      },
+      {
+        "game": "oras-or",
+        "text": "Les Stalgamin vivent dans les régions enneigées.\nPendant les saisons sans neige, comme le printemps\net l’été, ces Pokémon se retirent pour vivre dans\nles cavernes, au milieu des stalactites et des stalagmites."
+      },
+      {
+        "game": "oras-as",
+        "text": "Stalgamin survit en se nourrissant uniquement de neige\net d’eau. De vieilles légendes racontent que les maisons\nvisitées par ce Pokémon sont assurées d’être prospères\npendant plusieurs générations."
+      },
+      {
+        "game": "sm-s",
+        "text": "De nombreux spécimens de ce Pokémon vivent\ndans la région d’Alola. On dit que les maisons\nabritant un Stalgamin seront prospères."
+      },
+      {
+        "game": "sm-m",
+        "text": "Il ne peut voir le jour que dans les plus froides\ncontrées. Il s’accommode parfaitement de\ntempératures atteignant les -100 °C."
+      },
+      {
+        "game": "usum-us",
+        "text": "Il se nourrit principalement de neige et de glace.\nLe climat chaud d’Alola le contraint à vivre dans\ndes lieux bien spécifiques."
+      },
+      {
+        "game": "usum-um",
+        "text": "Il semblerait que toute personne aisée ayant\ngrandi dans les régions enneigées se rappelle\navoir joué avec un Stalgamin étant enfant."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Quand ce Pokémon apparaît la nuit, il provoque\nde fortes chutes de neige.\nIl se nourrit de glace et de neige."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Il ne peut vivre que dans les plus froides contrées.\nIl s’accommode parfaitement de températures\natteignant les - 100 °C."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Schneppke",
+    "genus": "Schneehut-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Gerüchten zufolge sammeln sich Schneppke unter\nriesigen Blättern und leben dort friedlich zusammen."
+      },
+      {
+        "game": "xy-y",
+        "text": "Im Land des Schnees sagt eine Legende, dass in\nein Haus Wohlstand einzieht, wenn es darin lebt."
+      },
+      {
+        "game": "oras-or",
+        "text": "Schneppke lebt in Gebieten mit heftigem Schneefall.\nIn Jahreszeiten, in denen es nicht schneit, wie im Frühling\noder im Sommer, nimmt das Pokémon Reißaus, um in einer\nHöhle ein ruhiges Leben zwischen Stalaktiten und Stalagmiten\nzu führen."
+      },
+      {
+        "game": "oras-as",
+        "text": "Schneppke kann überleben, indem es nur Schnee und Eis\nzu sich nimmt. Alte Überlieferungen besagen, dass ein Haus,\nwelches von diesem Pokémon besucht wird, vielen kommenden\nGenerationen Glück und Erfolg beschert."
+      },
+      {
+        "game": "sm-s",
+        "text": "Schneppke hat sich rasant in Alola verbreitet.\nEs heißt, das Haus, in dem es lebt, werde über\nviele Generationen blühen und gedeihen."
+      },
+      {
+        "game": "sm-m",
+        "text": "Schneppke kann nur in besonders kalten\nGebieten leben. Selbst bei -100 °C hopst es\nmunter umher."
+      },
+      {
+        "game": "usum-us",
+        "text": "Es ernährt sich hauptsächlich von Eis und\nSchnee. Im warmen Alola kann es daher nur\nan wenigen Orten überleben."
+      },
+      {
+        "game": "usum-um",
+        "text": "Wohlhabende Leute aus kalten Gebieten haben\nalle in ihrer Kindheit mit Schneppke gespielt."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Erscheint es mitten in der Nacht, so sagt man,\nsteht starker Schneefall bevor. Es ernährt sich\nvon Eis und Schnee."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Schneppke kann nur in besonders kalten\nGebieten leben. Selbst bei -100 ºC hopst es\nmunter umher."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Snorunt",
+    "genus": "Pokémon Gorro Nieve",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Se dice que se reúnen en grupos bajo hojas\ngigantescas y viven allí en total armonía."
+      },
+      {
+        "game": "xy-y",
+        "text": "En las zonas nevadas, las leyendas dicen que si un\nSnorunt vive en una casa, trae prosperidad."
+      },
+      {
+        "game": "oras-or",
+        "text": "Snorunt vive en zonas de grandes nevadas. En primavera y\nverano, cuando no nieva, se retira a las cavernas para vivir\ntranquilamente entre estalactitas y estalagmitas."
+      },
+      {
+        "game": "oras-as",
+        "text": "Snorunt sobrevive alimentándose solo de nieve y hielo. Se\ndice que la casa por la que pase este Pokémon estará llena\nde prosperidad durante generaciones."
+      },
+      {
+        "game": "sm-s",
+        "text": "Su número ha aumentado en la región de Alola.\nDicen que traen prosperidad durante\ngeneraciones a las casas en las que habitan."
+      },
+      {
+        "game": "sm-m",
+        "text": "Las regiones frías son su hábitat natural. Se\nencuentra a sus anchas en lugares donde la\ntemperatura alcanza los -100 °C."
+      },
+      {
+        "game": "usum-us",
+        "text": "Se alimenta sobre todo de hielo y nieve. Debido\na las temperaturas cálidas que reinan en Alola,\nsolo puede habitar en contados lugares."
+      },
+      {
+        "game": "usum-um",
+        "text": "Según parece, en las regiones frías todos los\nmiembros de las familias pudientes recuerdan\nhaber jugado con Snorunt en su infancia."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Dicen que, si aparece a medianoche, provoca\ngrandes nevadas. Se alimenta de nieve y hielo."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Las regiones frías son su hábitat natural. Se\nencuentra a sus anchas incluso en lugares donde\nla temperatura alcanza los -100 °C."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Snorunt",
+    "genus": "Pokémon Cappelneve",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Si dice che gli Snorunt vivano in armonia riuniti\nsotto gigantesche foglie."
+      },
+      {
+        "game": "xy-y",
+        "text": "Secondo alcune leggende delle regioni fredde, uno\nSnorunt porta prosperità alla casa in cui vive."
+      },
+      {
+        "game": "oras-or",
+        "text": "Snorunt vive in regioni molto nevose. Nelle stagioni più calde,\ncome l’estate e la primavera, questo Pokémon si ritira a vivere\nin tranquillità nel cuore delle caverne tra stalattiti e stalagmiti."
+      },
+      {
+        "game": "oras-as",
+        "text": "Snorunt si nutre soltanto di neve e ghiaccio.\nGli antichi detti popolari affermano che questo Pokémon porta\nfortuna e prosperità per molte generazioni alle case che visita."
+      },
+      {
+        "game": "sm-s",
+        "text": "È sempre più diffuso nella regione di Alola.\nSi dice che porti prosperità per generazioni\nagli abitanti delle case in cui vive."
+      },
+      {
+        "game": "sm-m",
+        "text": "Sopravvive solo nelle regioni fredde.\nSi trova perfettamente a suo agio anche\na una temperatura di -100 °C."
+      },
+      {
+        "game": "usum-us",
+        "text": "Si nutre principalmente di neve e ghiaccio.\nAd Alola, dove il clima è generalmente caldo,\nsopravvive solo in determinate zone."
+      },
+      {
+        "game": "usum-um",
+        "text": "Sembra che tutte le persone facoltose delle\nregioni fredde ricordino di aver giocato con\nuno Snorunt da piccoli."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Si dice che provochi forti nevicate se appare\nnel cuore della notte. Si nutre di neve e ghiaccio."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Sopravvive solo nelle regioni fredde.\nSi trova perfettamente a suo agio anche\na una temperatura di -100 ºC."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Snorunt",
+    "genus": "Snow Hat Pokémon",
+    "flavorText": [
+      {
+        "game": "rs-r",
+        "text": "SNORUNT live in regions with heavy\nsnowfall. In seasons without snow, such\nas spring and summer, this POKéMON\fsteals away to live quietly among\nstalactites and stalagmites deep in\ncaverns."
+      },
+      {
+        "game": "rs-s",
+        "text": "SNORUNT survives by eating only snow\nand ice.\nOld folklore claims that a house visited\fby this POKéMON is sure to prosper for\nmany generations to come."
+      },
+      {
+        "game": "e",
+        "text": "They tend to move about in groups of\naround five SNORUNT. In snowy regions,\nit is said that when they are seen late at\nnight, snowfall will arrive by morning."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "It is said that a home visited by a\nSNORUNT will prosper. It can withstand\ncold of minus 150 degrees Fahrenheit."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "It is said that a home visited by a\nSNORUNT will prosper. It can withstand\ncold of minus 150 degrees Fahrenheit."
+      },
+      {
+        "game": "dp-d",
+        "text": "In the snow country, certain\nfolklore says a house will\nprosper if a SNORUNT lives there."
+      },
+      {
+        "game": "dp-p",
+        "text": "In the snow country, certain\nfolklore says a house will\nprosper if a SNORUNT lives there."
+      },
+      {
+        "game": "pt",
+        "text": "It is said that several SNORUNT\ngather under giant leaves and\nlive together in harmony."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "It’s said that if they are seen at\nmidnight, they’ll cause heavy snow.\nThey eat snow and ice to survive."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "It’s said that if they are seen at\nmidnight, they’ll cause heavy snow.\nThey eat snow and ice to survive."
+      },
+      {
+        "game": "bw-b",
+        "text": "It is said that several Snorunt\ngather under giant leaves and\nlive together in harmony."
+      },
+      {
+        "game": "bw-w",
+        "text": "It is said that several Snorunt\ngather under giant leaves and\nlive together in harmony."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "It is said that several Snorunt\ngather under giant leaves and\nlive together in harmony."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "It is said that several Snorunt\ngather under giant leaves and\nlive together in harmony."
+      },
+      {
+        "game": "xy-x",
+        "text": "It is said that several Snorunt gather under giant\nleaves and live together in harmony."
+      },
+      {
+        "game": "xy-y",
+        "text": "In the snow country, certain folklore says a house\nwill prosper if a Snorunt lives there."
+      },
+      {
+        "game": "oras-or",
+        "text": "Snorunt live in regions with heavy snowfall. In seasons\nwithout snow, such as spring and summer, this Pokémon\nsteals away to live quietly among stalactites and stalagmites\ndeep in caverns."
+      },
+      {
+        "game": "oras-as",
+        "text": "Snorunt survives by eating only snow and ice. Old folklore\nclaims that a house visited by this Pokémon is sure to prosper\nfor many generations to come."
+      },
+      {
+        "game": "sm-s",
+        "text": "Their numbers seem to have rapidly increased in\nAlola. Custom has it that houses where Snorunt\nlive will be prosperous for generations to come."
+      },
+      {
+        "game": "sm-m",
+        "text": "It can only survive in cold areas. It bounces\nhappily around, even in environments as cold as\n-150 degrees Fahrenheit."
+      },
+      {
+        "game": "usum-us",
+        "text": "It feeds mainly on ice and snow. It’s only able to\nsurvive in a limited number of places in the\nwarm Alola region."
+      },
+      {
+        "game": "usum-um",
+        "text": "Rich people from cold areas all share childhood\nmemories of playing with Snorunt."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "It’s said that if they are seen at midnight, they’ll\ncause heavy snow. They eat snow and ice\nto survive."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "It can only survive in cold areas. It bounces\nhappily around, even in environments as cold as\n−150 degrees Fahrenheit."
+      },
+      {
+        "game": "la",
+        "text": "Arrives alongside the first snow. It's thought that homes Snorunt\nvisit will prosper for many generations. By tradition, one might\noffer a lump of ice made from pure water at one's front door."
+      }
+    ]
+  },
+  "chs": {
+    "name": "雪童子",
+    "genus": "雪笠宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "等发觉时，已在阿罗拉增多起来。\n据说，雪童子栖息过的家庭\n会子孙满堂家族繁荣。"
+      },
+      {
+        "game": "sm-m",
+        "text": "只能在寒冷的土地上生存。\n即使在零下１００度的环境下\n也能充满活力地到处蹦蹦跳跳哦。"
+      },
+      {
+        "game": "usum-us",
+        "text": "雪和冰是它的主要食物。\n在温暖的阿罗拉只能在\n限定的地方生存。"
+      },
+      {
+        "game": "usum-um",
+        "text": "寒冷地方的富人们，\n好像都会有小时候\n和雪童子一起玩的回忆。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "据说半夜出现的\n雪童子会带来大雪。\n靠吃雪和冰为生。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "只能在寒冷的土地上生存。\n即使在零下１００度的环境下\n也能充满活力地到处蹦蹦跳跳。"
+      }
+    ]
+  }
+}

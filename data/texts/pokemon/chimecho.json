@@ -1,0 +1,239 @@
+{
+  "jap": {
+    "name": "チリーン",
+    "genus": "ふうりんポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "あたまの　きゅうばんで　きの　えだや\nいえの　のきしたに　ぶらさがる。\n７しゅるい　ねいろを　つかいわける。"
+      },
+      {
+        "game": "xy-y",
+        "text": "ちょうおんぱの　なきごえを　もつ。\nふわふわと　うかび　かぜに　のって\nながい　きょりを　たびする。"
+      },
+      {
+        "game": "oras-or",
+        "text": "こえを　からだの　くうどうに　はんきょうさせる。\nおこった　ときの　なきごえは　てきを　ふきとばす\nいりょくを　もった　ちょうおんぱに　なるぞ。"
+      },
+      {
+        "game": "oras-as",
+        "text": "かぜが　つよくなると　きの　えだや　のきしたに\nあたまの　きゅうばんで　ぶらさがり　なきだす。\nながい　シッポで　きのみを　つまんで　たべる。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Chirean",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "치렁",
+    "genus": "풍경포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "머리의 빨판으로 나뭇가지나\n집의 처마 밑에 매달린다.\n7종류의 음색을 나누어 쓴다."
+      },
+      {
+        "game": "xy-y",
+        "text": "초음파 울음소리를 가지고 있다.\n둥둥 떠서 바람을 타고\n긴 거리를 여행한다."
+      },
+      {
+        "game": "oras-or",
+        "text": "목소리를 몸의 빈 곳에 메아리치게 한다.\n화가 났을 때의 울음소리는 적을 날려버릴\n위력을 지닌 초음파가 된다."
+      },
+      {
+        "game": "oras-as",
+        "text": "바람이 강해지면 나뭇가지나 처마 끝에\n머리의 흡반으로 매달려 울기 시작한다.\n긴 꼬리로 나무열매를 집어서 먹는다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "風鈴鈴",
+    "genus": "風鈴寶可夢",
+    "flavorText": []
+  },
+  "fra": {
+    "name": "Éoko",
+    "genus": "Pokémon Carillon",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Ses cris se répercutent dans son\ncorps creux avant d’exploser en\nnotes mélodieuses et saisissantes."
+      },
+      {
+        "game": "bw-w",
+        "text": "Ses cris se répercutent dans son\ncorps creux avant d’exploser en\nnotes mélodieuses et saisissantes."
+      },
+      {
+        "game": "xy-x",
+        "text": "Il se suspend sous une branche ou un auvent avec\nla ventouse de sa tête. Son langage comporte sept\ncris."
+      },
+      {
+        "game": "xy-y",
+        "text": "Il émet des cris à ultrasons et chevauche le vent pour\nparcourir de grandes distances."
+      },
+      {
+        "game": "oras-or",
+        "text": "Éoko fait résonner son cri dans son corps creux.\nLorsque ce Pokémon est en colère, les échos de\nson cri génèrent des ultrasons capables d’envoyer\nvoler des ennemis."
+      },
+      {
+        "game": "oras-as",
+        "text": "Lorsqu’il y a beaucoup de vent, Éoko pousse des cris,\naccroché à une branche ou à un auvent par une ventouse\nplacée sur sa tête. Ce Pokémon attrape des Baies avec\nsa longue queue pour les manger."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Palimpalim",
+    "genus": "Windspiel",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Mit seinem Saugnapf hängt es sich an Äste oder unter\nVordächer. Es kennt sieben verschiedene Schreie."
+      },
+      {
+        "game": "xy-y",
+        "text": "Es setzt Ultraschallwellen frei, während es sich\nvom Wind über große Distanzen tragen lässt."
+      },
+      {
+        "game": "oras-or",
+        "text": "Palimpalims Schreie hallen durch seinen hohlen Körper.\nWenn dieses Pokémon wütend wird, erzeugen seine Schreie\nUltraschallwellen, die seine Feinde buchstäblich wegfegen\nkönnen."
+      },
+      {
+        "game": "oras-as",
+        "text": "Bei starkem Wind hängt sich Palimpalim an einen Ast oder an\ndie Dachrinne eines Gebäudes, wobei es eine Saugkappe auf\nseinem Kopf benutzt. Das Pokémon pflückt mit seinem langen\nSchweif Beeren und verspeist sie."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Chimecho",
+    "genus": "Pokémon Sonido Aire",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Se cuelga de ramas y aleros con la ventosa de su\ncabeza. Tiene siete tipos de gritos diferentes."
+      },
+      {
+        "game": "xy-y",
+        "text": "Emite ondas ultrasónicas que le permiten flotar en el\nviento para viajar grandes distancias."
+      },
+      {
+        "game": "oras-or",
+        "text": "Chimecho hace que sus gritos resuenen con eco en su\ninterior. Cuando se enfada, los chillidos se convierten en\nondas ultrasónicas capaces de derribar a los enemigos\nvoladores."
+      },
+      {
+        "game": "oras-as",
+        "text": "Cuando hay viento fuerte, Chimecho chilla colgado de la rama\nde un árbol o de los aleros de un edificio por la ventosa que\ntiene en la cabeza. Este Pokémon usa la larga cola que tiene\npara agarrar bayas y comérselas."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Chimecho",
+    "genus": "Pokémon Vencampana",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Emette sette tipi di versi penzolando da rami\no cornicioni, a cui si attacca con la ventosa che ha\nsul capo."
+      },
+      {
+        "game": "xy-y",
+        "text": "Emette versi ultrasonici. Percorre grandi distanze\nfacendosi trascinare dai venti."
+      },
+      {
+        "game": "oras-or",
+        "text": "Chimecho fa riecheggiare il suo verso dentro al corpo vuoto.\nQuando s’infuria emette onde a ultrasuoni in grado di\nabbattere i nemici in volo."
+      },
+      {
+        "game": "oras-as",
+        "text": "Quando soffia il vento forte, Chimecho emette il suo verso\npenzolando dai rami degli alberi o dai cornicioni, a cui\nsi attacca con la ventosa che ha sul capo. Con la sua\nlunga coda scova le bacche dal terreno e se ne ciba."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Chimecho",
+    "genus": "Wind Chime Pokémon",
+    "flavorText": [
+      {
+        "game": "rs-r",
+        "text": "CHIMECHO makes its cries echo\ninside its hollow body. When this\nPOKéMON becomes enraged, its cries\fresult in ultrasonic waves that have\nthe power to knock foes flying."
+      },
+      {
+        "game": "rs-s",
+        "text": "In high winds, CHIMECHO cries as it\nhangs from a tree branch or the eaves\nof a building using a suction cup on its\fhead.\nThis POKéMON plucks berries with its\nlong tail and eats them."
+      },
+      {
+        "game": "e",
+        "text": "They fly about very actively when the hot\nseason arrives. They communicate among\nthemselves using seven different and\ndistinguishing cries."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "It travels by riding on winds. It cleverly\nuses its long tail to pluck nuts and\nberries, which it loves to eat."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "It travels by riding on winds. It cleverly\nuses its long tail to pluck nuts and\nberries, which it loves to eat."
+      },
+      {
+        "game": "dp-d",
+        "text": "To knock foes flying, it makes the\nair shudder with its cries. It\nconverses using seven cries."
+      },
+      {
+        "game": "dp-p",
+        "text": "Emitting ultrasonic cries, it\nfloats on winds to travel great\ndistances."
+      },
+      {
+        "game": "pt",
+        "text": "Its cries echo inside its hollow\nbody to emerge as beautiful notes\nfor startling and repelling foes."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "It uses the sucker on its head to\nhang from a tree or from eaves. It\ncan produce seven different tones."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "It uses the sucker on its head to\nhang from a tree or from eaves. It\ncan produce seven different tones."
+      },
+      {
+        "game": "bw-b",
+        "text": "Its cries echo inside its hollow\nbody to emerge as beautiful notes\nfor startling and repelling foes."
+      },
+      {
+        "game": "bw-w",
+        "text": "Its cries echo inside its hollow\nbody to emerge as beautiful notes\nfor startling and repelling foes."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "Its cries echo inside its hollow\nbody to emerge as beautiful notes\nfor startling and repelling foes."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "Its cries echo inside its hollow\nbody to emerge as beautiful notes\nfor startling and repelling foes."
+      },
+      {
+        "game": "xy-x",
+        "text": "It uses the sucker on its head to hang from a tree\nor from eaves. It can produce seven different tones."
+      },
+      {
+        "game": "xy-y",
+        "text": "Emitting ultrasonic cries, it floats on winds to travel\ngreat distances."
+      },
+      {
+        "game": "oras-or",
+        "text": "Chimecho makes its cries echo inside its hollow body.\nWhen this Pokémon becomes enraged, its cries result in\nultrasonic waves that have the power to knock foes flying."
+      },
+      {
+        "game": "oras-as",
+        "text": "In high winds, Chimecho cries as it hangs from a tree branch or\nthe eaves of a building using a suction cup on its head. This\nPokémon plucks berries with its long tail and eats them."
+      },
+      {
+        "game": "la",
+        "text": "Can emit waves of air powerful enough to knock out prey taller\nthan itself. I hypothesize that it amplifies the faint sound of wind\nwithin its body."
+      }
+    ]
+  },
+  "chs": {
+    "name": "风铃铃",
+    "genus": "风铃宝可梦",
+    "flavorText": []
+  }
+}

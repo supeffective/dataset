@@ -1,0 +1,453 @@
+{
+  "jap": {
+    "name": "キバニア",
+    "genus": "どうもうポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "しゅうだんで　ふねに　おそいかかり\nふなぞこを　くいちぎり　しずめる。\nジャングルの　かわに　せいそくする。"
+      },
+      {
+        "game": "xy-y",
+        "text": "ジャングルを　ながれる　たいがに\nせいそく。なわばりに　まぎれこんだ\nえものを　しゅうだんで　おそう。"
+      },
+      {
+        "game": "oras-or",
+        "text": "はったつした　アゴと　するどく　とがった　キバは\nふなぞこを　かみちぎる　ほどの　はかいりょく。\nキバニアに　おそわれ　しずんだ　ふねは　おおい。"
+      },
+      {
+        "game": "oras-as",
+        "text": "テリトリーを　あらす　ものには　しゅうだんで\nおそいかかり　とがった　キバで　やつざきにする。\n１ぴきに　なると　とたんに　よわごしに　なるぞ。"
+      },
+      {
+        "game": "sm-s",
+        "text": "むれごとに　テリトリーを　もっている。\nしんにゅうする　ものは　ようしゃなく\nキバを　むきだしにして　おそいかかる。"
+      },
+      {
+        "game": "sm-m",
+        "text": "わずかな　ちの　においを　かぎつけ\nしゅうだんで　えものを　おそう。\n１ぴきでは　けっこう　おくびょう。"
+      },
+      {
+        "game": "usum-us",
+        "text": "おくびょうで　１ぴきでは　かりも\nしない。　５ひき　くらい　あつまると\nきゅうに　きょうぼうに　なるぞ。"
+      },
+      {
+        "game": "usum-um",
+        "text": "じょうぶなアゴと　キバは　もくぞうの\nふね　なら　かんたんに　かみくだく。\nエサをめぐり　バスラオと　あらそう。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "えものを　みつけても　１ぴきのときは\nおそわない。　なかまが　くるのを\nまって　しゅうだんで　おそいかかる。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "するどい　キバと　たくましい　アゴを\nもつ。　ふなのりたちは　キバニアの\nすみかには　けっして　ちかづかない。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Kibanha",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "샤프니아",
+    "genus": "사나움포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "집단으로 배를 공격해\n배의 밑바닥도 물어뜯어 가라앉힌다.\n정글의 강에 서식한다."
+      },
+      {
+        "game": "xy-y",
+        "text": "정글을 흐르는 큰 강에 서식한다.\n영역에 섞여 들어온\n먹이를 집단으로 덮친다."
+      },
+      {
+        "game": "oras-or",
+        "text": "발달한 턱과 날카롭고 뾰족한 이빨은\n배 밑바닥을 물어뜯을 정도의 파괴력을 지녔다.\n샤프니아에게 습격당해 가라앉은 배가 많다."
+      },
+      {
+        "game": "oras-as",
+        "text": "영역을 침범하는 자는 집단으로\n덤벼들어 뾰족한 이빨로 갈가리 찢는다.\n혼자가 되면 바로 소극적인 모습을 보인다."
+      },
+      {
+        "game": "sm-s",
+        "text": "무리별로 영역이 있다.\n침입하는 자는 봐주지 않고\n이빨을 드러내며 덤벼든다."
+      },
+      {
+        "game": "sm-m",
+        "text": "아주 적은 피 냄새에도 먹이를 찾아내\n집단으로 먹이를 덮친다.\n1마리만 있으면 꽤 겁쟁이다."
+      },
+      {
+        "game": "usum-us",
+        "text": "겁이 많아 1마리일 때는 사냥도\n하지 않는다. 5마리 정도 모이면\n갑자기 흉포해진다."
+      },
+      {
+        "game": "usum-um",
+        "text": "튼튼한 턱과 이빨은 나무로 만든\n배라면 간단하게 깨물어 부순다.\n먹이를 두고 배쓰나이와 싸운다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "먹이를 발견해도 혼자일 때는\n공격하지 않는다. 동료가 오는 것을\n기다린 다음 집단으로 공격한다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "날카로운 이빨과 튼튼한 턱을\n갖고 있다. 선원들은 샤프니아\n거처에 결코 가까이 가지 않는다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "利牙魚",
+    "genus": "凶猛寶可夢",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "每個群體都擁有自己的地盤。\n對於入侵者，會毫不留情地\n露出牙齒發動攻擊。"
+      },
+      {
+        "game": "sm-m",
+        "text": "能聞出些微的鮮血氣味，\n集體攻擊獵物。\n只有１隻的時候相當膽小。"
+      },
+      {
+        "game": "usum-us",
+        "text": "個性膽小，只有１隻的話連狩獵\n也不敢去，但如果聚集了５隻左右\n就會一下子變得兇暴。"
+      },
+      {
+        "game": "usum-um",
+        "text": "結實的下巴和牙齒能夠\n輕易地咬碎木造的船隻。\n與野蠻鱸魚互相爭奪著食物。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "只有１隻時即使發現了獵物\n也不會發動攻擊。會等到\n夥伴來之後，再結隊襲擊。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "擁有銳利的牙齒和結實的\n下巴。船員們絕對不會去\n靠近利牙魚棲息的地方。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Carvanha",
+    "genus": "Pokémon Féroce",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Il attaque en banc quand on menace\nson territoire. Ses dents aiguisées\npeuvent couler un navire."
+      },
+      {
+        "game": "bw-w",
+        "text": "Il attaque en banc quand on menace\nson territoire. Ses dents aiguisées\npeuvent couler un navire."
+      },
+      {
+        "game": "xy-x",
+        "text": "Il s’attaque en banc aux bateaux dont il dévore la\ncoque. Les rivières de la jungle forment son habitat."
+      },
+      {
+        "game": "xy-y",
+        "text": "Ce Pokémon vit dans les fleuves qui traversent les\nforêts tropicales. Il attaque en groupe ceux qui\ns’aventurent sur son territoire."
+      },
+      {
+        "game": "oras-or",
+        "text": "Les mâchoires surdéveloppées de Carvanha et ses crocs\nacérés sont si puissants qu’ils peuvent déchirer la coque\ndes bateaux. De nombreux navires ont été attaqués\net coulés par ce Pokémon."
+      },
+      {
+        "game": "oras-as",
+        "text": "Si un intrus s’aventure sur le territoire des Carvanha, ils se\nruent sur lui et le mordent à l’aide de leurs crocs acérés.\nEn revanche, lorsqu’il est seul, ce Pokémon devient tout\nà coup très timide."
+      },
+      {
+        "game": "sm-s",
+        "text": "Il protège son territoire en se déplaçant en banc.\nLe moindre intrus est raccompagné sans pitié,\nà grands claquements de mâchoire."
+      },
+      {
+        "game": "sm-m",
+        "text": "En banc, il guette l’odeur du sang et fond sur\nsa proie sans aucune pitié. Seul, il se montre\nplus timoré."
+      },
+      {
+        "game": "usum-us",
+        "text": "C’est un couard qui ne chasse jamais tout seul.\nDès qu’il se retrouve dans un groupe de cinq,\npar contre, il devient on ne peut plus féroce !"
+      },
+      {
+        "game": "usum-um",
+        "text": "Grâce à sa mâchoire d’acier et ses dents\nacérées, il déchiquette sans peine les canots.\nBargantua et lui se disputent le menu fretin."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Il ne s’attaque jamais à une proie tout seul,\npréférant attendre l’arrivée de ses congénères\npour lancer l’assaut."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Il possède une mâchoire puissante garnie de\ndents acérées. Les marins ne s’approchent\njamais des eaux habitées par les Carvanha."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Kanivanha",
+    "genus": "Gnadenlos-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Schwärme von Kanivanha haben in Dschungelflüssen\nschon so manches Boot zerbissen und versenkt."
+      },
+      {
+        "game": "xy-y",
+        "text": "Es lebt in reißenden Flüssen, die sich ihren Weg\ndurch den Dschungel bahnen. Es fängt Beute,\ndie sich in sein Gebiet wagt."
+      },
+      {
+        "game": "oras-or",
+        "text": "Kanivanhas starke Kiefer und seine spitzen Zähne verfügen\nüber die zerstörerische Kraft, Bootsrümpfe verschlingen zu\nkönnen. Dieses Pokémon hat schon viele Boote versenkt."
+      },
+      {
+        "game": "oras-as",
+        "text": "Wenn jemand Kanivanhas Revier betritt, schwärmt es aus und\nschnappt mit seinen spitzen Zähnen nach dem Eindringling.\nWenn es allein ist, ist dieses Pokémon sehr scheu."
+      },
+      {
+        "game": "sm-s",
+        "text": "Schwärme von Kanivanha schützen ihr Revier,\nindem sie sich mit gefletschten Zähnen\ngnadenlos auf Eindringlinge stürzen."
+      },
+      {
+        "game": "sm-m",
+        "text": "Wittert es auch nur einen Hauch von Blut,\ngreift es im Schwarm seine Beute an.\nAlleine ist es hingegen ziemlich furchtsam."
+      },
+      {
+        "game": "usum-us",
+        "text": "Dieses ängstliche Pokémon jagt nicht, wenn es\nallein ist. Aber sobald sich fünf von ihnen\nversammeln, geraten sie in Rage."
+      },
+      {
+        "game": "usum-um",
+        "text": "Mit seinem robusten Kiefer und starken Zähnen\nzerbeißt es mühelos Holzboote. Es streitet mit\nBarschuft um Futter."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Kanivanha jagt Beute nicht im Alleingang,\nsondern wartet auf seine Artgenossen, um mit\nihnen im Schwarm anzugreifen."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Es verfügt über äußerst spitze Zähne und kräftige\nKiefer. Seefahrer meiden die Lebensräume von\nKanivanha um jeden Preis."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Carvanha",
+    "genus": "Pokémon Feroz",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Atacan en grupo a los barcos y los hunden a base de\nbocados. Habitan en los ríos de la jungla."
+      },
+      {
+        "game": "xy-y",
+        "text": "Habita caudalosos ríos que atraviesan las junglas.\nSi alguien invade su territorio, acude con más de su\nespecie."
+      },
+      {
+        "game": "oras-or",
+        "text": "Carvanha, gracias a las descomunales fauces de afilados\ncolmillos que tiene, es capaz de hacer trizas un barco. Son\nmuchas las naves que han sufrido el ataque de este Pokémon\ny han acabado naufragando."
+      },
+      {
+        "game": "oras-as",
+        "text": "Si algo o alguien invade el territorio de los Carvanha, se\nacercarán en masa y harán trizas al intruso con los afilados\ncolmillos. Sin embargo, cuando están en solitario, estos\nPokémon se vuelven tímidos de repente."
+      },
+      {
+        "game": "sm-s",
+        "text": "Cada banco de Carvanha tiene su propio\nterritorio. En cuanto detectan a un intruso, sacan\nlos dientes y lo atacan sin miramientos."
+      },
+      {
+        "game": "sm-m",
+        "text": "En cuanto huelen la menor cantidad de sangre,\ntodo el grupo ataca a la presa, pero cuando van\nen solitario se amilanan fácilmente."
+      },
+      {
+        "game": "usum-us",
+        "text": "Es algo timorato, por lo que nunca va solo. Pero,\nen cuanto se reúnen cinco ejemplares, de pronto\nse convierten en una fuerza de la naturaleza."
+      },
+      {
+        "game": "usum-um",
+        "text": "Puede destrozar a bocados fácilmente un barco\nde madera con sus potentes mandíbulas y\ncolmillos. Compite por presas con los Basculin."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Nunca aborda a su presa en solitario, sino que\nespera a que lleguen sus semejantes para atacar\nen grupo."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Los marineros evitan por completo las zonas\ndonde habita este Pokémon de afilados colmillos\ny fuertes mandíbulas."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Carvanha",
+    "genus": "Pokémon Feroce",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "I Carvanha attaccano le navi in branco e ne strappano\ngli scafi a morsi. Abitano i fiumi della giungla."
+      },
+      {
+        "game": "xy-y",
+        "text": "Vive in grandi fiumi che attraversano la giungla,\nlanciandosi in branco contro gli intrusi."
+      },
+      {
+        "game": "oras-or",
+        "text": "Le sviluppate mascelle di Carvanha e i denti estremamente\nappuntiti e affilati hanno una potenza distruttiva tale da\nsventrare la carena di una nave. Già molte navi sono state\nattaccate e affondate da questo Pokémon."
+      },
+      {
+        "game": "oras-as",
+        "text": "In caso di invasione del proprio territorio, i Carvanha si\nlanciano in branco contro gli intrusi annientandoli senza\npietà. Preso singolarmente, invece, questo Pokémon diventa\nestremamente timido."
+      },
+      {
+        "game": "sm-s",
+        "text": "I branchi di Carvanha difendono il territorio\nlanciandosi contro gli intrusi e attaccandoli\ncon le zanne micidiali."
+      },
+      {
+        "game": "sm-m",
+        "text": "In gruppo, questo Pokémon attacca le prede\nappena avverte odore di sangue.\nDa solo, invece, è molto timido."
+      },
+      {
+        "game": "usum-us",
+        "text": "È di indole timida e non va mai a caccia da solo,\nma in un gruppo di quattro o cinque esemplari\ndiventa molto feroce."
+      },
+      {
+        "game": "usum-um",
+        "text": "Può frantumare una nave di legno usando le\nsue mascelle robuste e dai denti affilati.\nSi contende il cibo con i Basculin."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Se è da solo, non assale la preda.\nPreferisce aspettare i suoi compagni\nper attaccare in gruppo."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "È dotato di denti affilati e mascelle robuste.\nChi viaggia per mare si tiene accuratamente\nalla larga dalle tane di Carvanha."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Carvanha",
+    "genus": "Savage Pokémon",
+    "flavorText": [
+      {
+        "game": "rs-r",
+        "text": "CARVANHA’s strongly developed jaws\nand its sharply pointed fangs pack the\ndestructive power to rip out boat hulls.\fMany boats have been attacked and\nsunk by this POKéMON."
+      },
+      {
+        "game": "rs-s",
+        "text": "If anything invades CARVANHA’s\nterritory, it will swarm and tear at the\nintruder with its pointed fangs.\fOn its own, however, this POKéMON turns\nsuddenly timid."
+      },
+      {
+        "game": "e",
+        "text": "CARVANHA attack ships in swarms, making\nthem sink. Although it is said to be a very\nvicious POKéMON, it timidly flees as soon\nas it finds itself alone."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "It lives in massive rivers that course\nthrough jungles. It swarms prey that\nenter its territory."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "It lives in massive rivers that course\nthrough jungles. It swarms prey that\nenter its territory."
+      },
+      {
+        "game": "dp-d",
+        "text": "They swarm any foe that invades\ntheir territory. Their sharp fangs\ncan tear out boat hulls."
+      },
+      {
+        "game": "dp-p",
+        "text": "They swarm any foe that invades\ntheir territory. Their sharp fangs\ncan tear out boat hulls."
+      },
+      {
+        "game": "pt",
+        "text": "They swarm any foe that invades\ntheir territory. Their sharp fangs\ncan tear out boat hulls."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "They form packs to attack boats\nand rip out their hulls to sink them.\nThey live in rivers in the jungle."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "They form packs to attack boats\nand rip out their hulls to sink them.\nThey live in rivers in the jungle."
+      },
+      {
+        "game": "bw-b",
+        "text": "They swarm any foe that invades\ntheir territory. Their sharp fangs\ncan tear out boat hulls."
+      },
+      {
+        "game": "bw-w",
+        "text": "They swarm any foe that invades\ntheir territory. Their sharp fangs\ncan tear out boat hulls."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "They swarm any foe that invades\ntheir territory. Their sharp fangs\ncan tear out boat hulls."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "They swarm any foe that invades\ntheir territory. Their sharp fangs\ncan tear out boat hulls."
+      },
+      {
+        "game": "xy-x",
+        "text": "They form packs to attack boats and rip out their\nhulls to sink them. They live in rivers in the jungle."
+      },
+      {
+        "game": "xy-y",
+        "text": "It lives in massive rivers that course through\njungles. It swarms prey that enter its territory."
+      },
+      {
+        "game": "oras-or",
+        "text": "Carvanha’s strongly developed jaws and its sharply pointed\nfangs pack the destructive power to rip out boat hulls.\nMany boats have been attacked and sunk by this Pokémon."
+      },
+      {
+        "game": "oras-as",
+        "text": "If anything invades Carvanha’s territory, it will swarm and tear\nat the intruder with its pointed fangs. On its own, however, this\nPokémon turns suddenly timid."
+      },
+      {
+        "game": "sm-s",
+        "text": "Each school has its own territory. Any intruders\nare mercilessly attacked with fangs bared."
+      },
+      {
+        "game": "sm-m",
+        "text": "If they scent the faintest trace of blood, they\nrush to attack en masse. When alone, they’re\nrather cowardly."
+      },
+      {
+        "game": "usum-us",
+        "text": "They’re such cowards that they won’t hunt\nalone. When five or so of them get together,\nthey suddenly turn ferocious!"
+      },
+      {
+        "game": "usum-um",
+        "text": "With its sturdy jaws and fangs, it can easily\nchomp wooden boats to splinters. It fights with\nBasculin over food."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "It won’t attack while it’s alone—not even if it\nspots prey. Instead, it waits for other Carvanha to\njoin it, and then the Pokémon attack as a group."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "These Pokémon have sharp fangs and powerful\njaws. Sailors avoid Carvanha dens at all costs."
+      }
+    ]
+  },
+  "chs": {
+    "name": "利牙鱼",
+    "genus": "凶猛宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "每个群体都拥有自己的领地。\n对于入侵者，会毫不留情地\n露出牙齿发动袭击。"
+      },
+      {
+        "game": "sm-m",
+        "text": "即使一丝丝血的味道也能闻到，\n并以集群形式袭击猎物。\n但只有１只的话，就相当胆小。"
+      },
+      {
+        "game": "usum-us",
+        "text": "非常胆小，１只的话不会去狩猎。\n如果聚集了５只左右的话，\n就会一下子变得很粗暴。"
+      },
+      {
+        "game": "usum-um",
+        "text": "结实的颚部和牙齿，如果是\n木头造的船，轻易就可以咬碎。\n围绕食物的问题，和野蛮鲈鱼争斗。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "即使发现猎物也不会单独\n发起攻击。会等待伙伴的\n到来，发动集体攻击。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "拥有锋利的牙齿和\n结实的下颚。水手们绝不会\n主动靠近利牙鱼的栖息地。"
+      }
+    ]
+  }
+}

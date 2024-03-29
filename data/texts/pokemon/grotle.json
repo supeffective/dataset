@@ -1,0 +1,219 @@
+{
+  "jap": {
+    "name": "ハヤシガメ",
+    "genus": "こだちポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "もりの　なかの　みずべで　くらす。\nひるまは　もりの　そとに　でて\nこうらの　きに　ひかりを　あてる。"
+      },
+      {
+        "game": "xy-y",
+        "text": "きれいな　みずが　わきでる　ばしょを\nしっていて　なかまの　ポケモンを\nせなかに　のせて　そこまで　はこぶ。"
+      },
+      {
+        "game": "oras-or",
+        "text": "もりの　なかの　みずべで　くらす。\nひるまは　もりの　そとに　でて\nこうらの　きに　ひかりを　あてる。"
+      },
+      {
+        "game": "oras-as",
+        "text": "きれいな　みずが　わきでる　ばしょを\nしっていて　なかまの　ポケモンを\nせなかに　のせて　そこまで　はこぶ。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Hayashigame",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "수풀부기",
+    "genus": "나무숲포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "숲 속의 물가에서 산다.\n낮에는 숲 밖으로 나와서\n등껍질의 나무에 빛을 쬔다."
+      },
+      {
+        "game": "xy-y",
+        "text": "깨끗한 물이 솟아나는 장소를\n알고 있어서 동료 포켓몬을\n등에 태우고 그곳까지 데려다 준다."
+      },
+      {
+        "game": "oras-or",
+        "text": "숲 속의 물가에서 산다.\n낮에는 숲 밖으로 나와서\n등껍질의 나무에 빛을 쬔다."
+      },
+      {
+        "game": "oras-as",
+        "text": "깨끗한 물이 솟아나는 장소를\n알고 있어서 동료 포켓몬을\n등에 태우고 그곳까지 데려다 준다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "樹林龜",
+    "genus": "樹叢寶可夢",
+    "flavorText": []
+  },
+  "fra": {
+    "name": "Boskara",
+    "genus": "Pokémon Bosquet",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Il sait d’instinct où trouver une\nsource d’eau pure. Il y transporte\nd’autres Pokémon sur son dos."
+      },
+      {
+        "game": "bw-w",
+        "text": "Il sait d’instinct où trouver une\nsource d’eau pure. Il y transporte\nd’autres Pokémon sur son dos."
+      },
+      {
+        "game": "xy-x",
+        "text": "Il vit en forêt près de l’eau. En journée, il la quitte\npour dorer sa carapace feuillue au soleil."
+      },
+      {
+        "game": "xy-y",
+        "text": "Il sait d’instinct où trouver une source d’eau pure.\nIl y transporte d’autres Pokémon sur son dos."
+      },
+      {
+        "game": "oras-or",
+        "text": "Il vit en forêt près de l’eau. En journée, il la quitte pour dorer\nsa carapace feuillue au soleil."
+      },
+      {
+        "game": "oras-as",
+        "text": "Il sait d’instinct où trouver une source d’eau pure.\nIl y transporte d’autres Pokémon sur son dos."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Chelcarain",
+    "genus": "Hain",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Es lebt in der Nähe von Wasser in Wäldern.\nTagsüber verlässt es diese, um ein Sonnenbad\nzu nehmen."
+      },
+      {
+        "game": "xy-y",
+        "text": "Es weiß, wo es reinstes Quellwasser finden kann.\nTrägt andere Pokémon auf seinem Rücken dorthin."
+      },
+      {
+        "game": "oras-or",
+        "text": "Es lebt in der Nähe von Wasser in Wäldern. Tagsüber verlässt\nes diese, um ein Sonnenbad zu nehmen."
+      },
+      {
+        "game": "oras-as",
+        "text": "Es weiß, wo es reinstes Quellwasser finden kann.\nTrägt andere Pokémon auf seinem Rücken dorthin."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Grotle",
+    "genus": "Pokémon Arboleda",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Vive en los bosques cerca del agua. Por el día, sale a\nque les dé el sol a las plantas de su espalda."
+      },
+      {
+        "game": "xy-y",
+        "text": "Sabe dónde encontrar manantiales de agua pura y\nlleva a los Pokémon amigos hasta allí en su lomo."
+      },
+      {
+        "game": "oras-or",
+        "text": "Vive en los bosques cerca del agua. Por el día, sale a que les\ndé el sol a las plantas de su espalda."
+      },
+      {
+        "game": "oras-as",
+        "text": "Sabe dónde encontrar manantiales de agua pura y lleva a\nlos Pokémon amigos hasta allí en su lomo."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Grotle",
+    "genus": "Pokémon Boschetto",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Vive nelle foreste vicino all’acqua, ma esce di giorno\nper far prendere sole alle piante sul guscio."
+      },
+      {
+        "game": "xy-y",
+        "text": "Sa come trovare sorgenti incontaminate, dove porta\ni Pokémon amici tenendoli sulla schiena."
+      },
+      {
+        "game": "oras-or",
+        "text": "Vive nelle foreste vicino all’acqua, ma esce di giorno per far\nprendere sole alle piante sul guscio."
+      },
+      {
+        "game": "oras-as",
+        "text": "Sa come trovare sorgenti incontaminate, dove porta i Pokémon\namici tenendoli sulla schiena."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Grotle",
+    "genus": "Grove Pokémon",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "It knows where pure water wells\nup. It carries fellow Pokémon there\non its back."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "A GROTLE that lives in the forest\nis said to have its own secret\nspringwater."
+      },
+      {
+        "game": "dp-d",
+        "text": "It lives along water in forests. In\nthe daytime, it leaves the forest\nto sunbathe its treed shell."
+      },
+      {
+        "game": "dp-p",
+        "text": "The shell is hardened soil. Some\nPokémon come to peck the berries\ngrowing on the trees on its back."
+      },
+      {
+        "game": "pt",
+        "text": "It knows where pure water wells\nup. It carries fellow Pokémon there\non its back."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "A GROTLE that lives in the forest\nis said to have its own secret\nspringwater."
+      },
+      {
+        "game": "bw-w",
+        "text": "It knows where pure water wells\nup. It carries fellow Pokémon there\non its back."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "It knows where pure water wells\nup. It carries fellow Pokémon there\non its back."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "It knows where pure water wells\nup. It carries fellow Pokémon there\non its back."
+      },
+      {
+        "game": "xy-x",
+        "text": "It lives along water in forests. In the daytime,\nit leaves the forest to sunbathe its treed shell."
+      },
+      {
+        "game": "xy-y",
+        "text": "It knows where pure water wells up. It carries fellow\nPokémon there on its back."
+      },
+      {
+        "game": "oras-or",
+        "text": "It lives along water in forests. In the daytime,\nit leaves the forest to sunbathe its treed shell."
+      },
+      {
+        "game": "oras-as",
+        "text": "It knows where pure water wells up. It carries fellow\nPokémon there on its back."
+      },
+      {
+        "game": "la",
+        "text": "Appears where there is clean spring water. The fruit that grows\non the shrubs on its shell is sweet, nutritious, and truly delicious."
+      }
+    ]
+  },
+  "chs": {
+    "name": "树林龟",
+    "genus": "树丛宝可梦",
+    "flavorText": []
+  }
+}

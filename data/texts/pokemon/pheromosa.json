@@ -1,0 +1,205 @@
+{
+  "jap": {
+    "name": "フェローチェ",
+    "genus": "えんびポケモン",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "きけんなＵＢの　いっしゅ。　すさまじい\nそくどで　だいちを　しっそうする\nすがたが　もくげき　されている。"
+      },
+      {
+        "game": "sm-m",
+        "text": "ＵＢの　いっしゅ。　このせかいの\nものに　けがれを　かんじるのか\nいっさい　てを　ふれようと　しない。"
+      },
+      {
+        "game": "usum-us",
+        "text": "べつせかいに　すむ　せいめいたい。\nほそく　しなやかな　からだ　だが\nつよいパワーを　ひめている　ようす。"
+      },
+      {
+        "game": "usum-um",
+        "text": "このせかいでは　いしつで　きけんだが\nほんらい　すんでいる　せかいでは\nふつうに　みかける　せいぶつらしい。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Pheroache",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "페로코체",
+    "genus": "염미포켓몬",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "위험한 UB 중 1마리이다. 굉장한\n속도로 대지를 질주하는\n모습이 목격되었다."
+      },
+      {
+        "game": "sm-m",
+        "text": "UB의 일종. 이 세계의\n물건에 불결함을 느끼는 것인지\n전혀 손을 대려 하지 않는다."
+      },
+      {
+        "game": "usum-us",
+        "text": "다른 세계에 사는 생명체다.\n가늘고 부드러운 몸이지만,\n강한 파워를 간직하고 있는 듯하다."
+      },
+      {
+        "game": "usum-um",
+        "text": "이 세계와는 성질이 다르고\n위험하지만 원래 살던 세계에서는\n흔히 볼 수 있는 생물인 듯하다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "費洛美螂",
+    "genus": "美艷寶可夢",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "屬於危險ＵＢ的一種。\n被人目擊到以駭人的速度\n在大地狂奔的樣子。"
+      },
+      {
+        "game": "sm-m",
+        "text": "ＵＢ的一種。\n或許是覺得這個世界上萬物污穢不堪，\n因此不願用手觸及分毫。"
+      },
+      {
+        "game": "usum-us",
+        "text": "棲息在其他世界的生命體。\n身體纖細柔軟，\n但似乎蘊藏著強大的力量。"
+      },
+      {
+        "game": "usum-um",
+        "text": "在這個世界是危險的異類，\n但牠在原本棲息的世界裡\n似乎是隨處可見的普通生物。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Cancrelove",
+    "genus": "Pokémon Gracile",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "L’une des dangereuses Ultra-Chimères.\nOn l’aurait aperçue en train de courir à\nune vitesse prodigieuse."
+      },
+      {
+        "game": "sm-m",
+        "text": "L’une des Ultra-Chimères. Elle semble refuser\nde toucher les choses de ce monde, comme si\ntout était souillé à ses yeux."
+      },
+      {
+        "game": "usum-us",
+        "text": "Une forme de vie venant d’un autre monde.\nSon corps gracile cache une puissance\ninsoupçonnée."
+      },
+      {
+        "game": "usum-um",
+        "text": "Cette créature venue d’ailleurs est dangereuse\ndans notre monde, mais il semblerait qu’elle soit\ntrès commune dans le sien."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Schabelle",
+    "genus": "Eleganz-Pokémon",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "Diese bedrohliche Ultrabestie wurde dabei\nbeobachtet, wie sie mit ungeheuerlicher\nGeschwindigkeit über die Erde hinwegfegt."
+      },
+      {
+        "game": "sm-m",
+        "text": "Diese Ultrabestie scheint diese Welt für unrein\nzu halten und zieht es daher vor, mit nichts und\nniemandem in Berührung zu kommen."
+      },
+      {
+        "game": "usum-us",
+        "text": "Ein Lebewesen aus einer anderen Welt. Sein\nKörper ist schmal und anmutig, doch es verbirgt\nsich große Kraft darin."
+      },
+      {
+        "game": "usum-um",
+        "text": "In dieser Welt wirkt sein Aussehen gefährlich\nund fremdartig, doch in seiner ursprünglichen\nWelt ist es ein ganz gewöhnliches Lebewesen."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Pheromosa",
+    "genus": "Pokémon Elegancia",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "Uno de los temibles Ultraentes. Se dice\nque ha sido avistado recorriendo la superficie\nterrestre a velocidades de vértigo."
+      },
+      {
+        "game": "sm-m",
+        "text": "Este Ultraente se muestra reacio al contacto,\nprobablemente porque percibe inmundicia en\ntodo cuanto le rodea."
+      },
+      {
+        "game": "usum-us",
+        "text": "Una forma de vida procedente de otro mundo.\nAunque su cuerpo es esbelto y flexible, alberga\nun gran poder."
+      },
+      {
+        "game": "usum-um",
+        "text": "Para los seres de este mundo resulta extraño\ny peligroso, pero en el mundo del que procede\nes una criatura muy común."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Pheromosa",
+    "genus": "Pokémon Leggiadria",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "Una delle temibili Ultracreature.\nÈ stata avvistata mentre correva a una velocità\nimpressionante."
+      },
+      {
+        "game": "sm-m",
+        "text": "Un’Ultracreatura che cerca di evitare ogni\ncontatto con le cose di questo mondo, come\nse lo considerasse contaminato."
+      },
+      {
+        "game": "usum-us",
+        "text": "Una forma di vita proveniente da un altro mondo.\nIl suo corpo esile e flessibile nasconde una forza\ninaspettata."
+      },
+      {
+        "game": "usum-um",
+        "text": "Nel nostro mondo il suo aspetto appare strano\ne minaccioso, ma sembra che in quello da cui\nproviene sia una creatura molto comune."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Pheromosa",
+    "genus": "Lissome Pokémon",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "One of the dangerous Ultra Beasts, it has been\nspotted running across the land at\nterrific speeds."
+      },
+      {
+        "game": "sm-m",
+        "text": "One of the Ultra Beasts. It refuses to touch\nanything, perhaps because it senses some\nuncleanness in this world."
+      },
+      {
+        "game": "usum-us",
+        "text": "A life-form that lives in another world, its body\nis thin and supple, but it also possesses\ngreat power."
+      },
+      {
+        "game": "usum-um",
+        "text": "Although it’s alien to this world and a danger\nhere, it’s apparently a common organism in the\nworld where it normally lives."
+      }
+    ]
+  },
+  "chs": {
+    "name": "费洛美螂",
+    "genus": "美艳宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "危险究极异兽中的一种。\n被人目击到以骇人的速度\n在大地狂奔的样子。"
+      },
+      {
+        "game": "sm-m",
+        "text": "究极异兽中的一种。\n或许是觉得这个世界上万物污秽不堪，\n因此不愿用手触及分毫。"
+      },
+      {
+        "game": "usum-us",
+        "text": "栖息在其他世界的生命体。\n身体纤细柔软，\n但是看起来蕴藏着强大的力量。"
+      },
+      {
+        "game": "usum-um",
+        "text": "在这个世界是异类，很危险，\n但在它原本栖息的世界，\n好像只是寻常能见的生物。"
+      }
+    ]
+  }
+}

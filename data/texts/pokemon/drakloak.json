@@ -1,0 +1,133 @@
+{
+  "jap": {
+    "name": "ドロンチ",
+    "genus": "せわやくポケモン",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "ひこう　そくどは　じそく２００キロ。\nドラメシヤと　いっしょに　たたかい\nぶじに　しんかするまで　せわをする。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "せわをする　ドラメシヤを　あたまに\nのせていないと　おちつかないので\nほかの　ポケモンを　のせようとする。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Doronch",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "드래런치",
+    "genus": "돌보미포켓몬",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "비행 속도는 시속 200km.\n드라꼰과 함께 싸우며\n무사히 진화할 때까지 돌본다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "보살피는 드라꼰을 머리에\n태우지 않으면 진정하지 못하고\n다른 포켓몬을 태우려고 한다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "多龍奇",
+    "genus": "保姆寶可夢",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "飛行速度為每小時２００公里。\n與多龍梅西亞一起戰鬥，\n到牠進化為止都會細心照顧。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "要是沒讓自己在照顧的多龍梅西亞\n乘在頭上就靜不下心來，甚至會\n因此試圖把別的寶可夢放到頭上。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Dispareptil",
+    "genus": "Pokémon Baby-sitter",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Il vole à une vitesse de 200 km/h et se bat\naux côtés d’un Fantyrm, dont il prend soin\njusqu’à son évolution."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Il prend soin du Fantyrm sur sa tête.\nQuand ce dernier n’est plus là, il panique\net tente de le remplacer par un autre Pokémon."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Phandra",
+    "genus": "Betreuer-Pokémon",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Beim Fliegen ist es bis zu 200 km/h schnell. Es\nkämpft gemeinsam mit Grolldra und kümmert\nsich bis zu dessen Entwicklung um es."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Hat es kein Grolldra auf seinem Kopf, auf das es\naufpassen kann, wird es nervös. Dann versucht es,\nein anderes Pokémon auf seinen Kopf zu setzen."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Drakloak",
+    "genus": "Pokémon Cuidador",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Vuela a una velocidad de 200 km/h. Lucha junto\na un Dreepy, al que cuida hasta el momento de\nsu evolución."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Si no lleva un Dreepy del que cuidar encima de\nla cabeza, se intranquiliza y trata de sustituirlo\ncon otro Pokémon."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Drakloak",
+    "genus": "Pokémon Sostegno",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Vola a una velocità di 200 km/h. Lotta assieme\na Dreepy e se ne prende cura fino a quando\nnon si evolve."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Se non ha un Dreepy sulla testa di cui prendersi\ncura, non riesce a stare tranquillo e cerca\ndi sostituirlo con altri Pokémon."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Drakloak",
+    "genus": "Caretaker Pokémon",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "It’s capable of flying faster than 120 mph.\nIt battles alongside Dreepy and\ndotes on them until they successfully evolve."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Without a Dreepy to place on its head and\ncare for, it gets so uneasy it’ll try to substitute\nany Pokémon it finds for the missing Dreepy."
+      }
+    ]
+  },
+  "chs": {
+    "name": "多龙奇",
+    "genus": "保姆宝可梦",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "飞行速度为每小时２００公里。\n与多龙梅西亚一起战斗，\n到它进化为止都会细心照顾。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "要是没让自己在照顾的多龙梅西亚\n乘在头上就静不下心来，甚至会\n因此试图把别的宝可梦放到头上。"
+      }
+    ]
+  }
+}

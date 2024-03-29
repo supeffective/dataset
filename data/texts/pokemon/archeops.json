@@ -1,0 +1,413 @@
+{
+  "jap": {
+    "name": "アーケオス",
+    "genus": "さいこどりポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "ちじょうで　じょそうを　つけてから\nとびたつ。なかまと　きょうりょくして\nえものを　しとめる　ちのうを　もつ。"
+      },
+      {
+        "game": "xy-y",
+        "text": "とぶよりも　はしるほうが　とくいで\nじそく４０キロで　かけぬけた\nいきおいで　おおぞらに　はばたく。"
+      },
+      {
+        "game": "oras-or",
+        "text": "ちじょうで　じょそうを　つけてから\nとびたつ。なかまと　きょうりょくして\nえものを　しとめる　ちのうを　もつ。"
+      },
+      {
+        "game": "oras-as",
+        "text": "とぶよりも　はしるほうが　とくいで\nじそく４０キロで　かけぬけた\nいきおいで　おおぞらに　はばたく。"
+      },
+      {
+        "game": "sm-s",
+        "text": "とぶことも　できたようだが　おもに\nちじょうを　かけまわっていた。\nその　じそくは　へいきん４０キロ。"
+      },
+      {
+        "game": "sm-m",
+        "text": "むれで　かりを　していた。　えものを\nおいつめてから　べつの　なかまが\nそらから　きゅうしゅう　するのだ。"
+      },
+      {
+        "game": "usum-us",
+        "text": "うもうが　こまかいので　じゅくれんの\nしょくにん　でなければ　ふくげんに\nしっぱいするという　こだいのポケモン。"
+      },
+      {
+        "game": "usum-um",
+        "text": "とりポケモンの　そせんと　いわれる。\nはばたく　きんにくが　まだ　よわく\nじょそうを　つけなければ　とべない。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "とびたつために　じょそうする。\nその　きょりは　およそ　４キロ。\nはしるはやさは　じそく４０キロ。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "とぶことも　できるが　ちじょうで\nえものを　かることの　ほうが\nずっと　とくい　だったようだ。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Archeos",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "아케오스",
+    "genus": "최초새포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "지상에서 도움닫기를 하여\n날아오른다. 동료와 협력하여\n먹이를 잡는 지능을 가졌다."
+      },
+      {
+        "game": "xy-y",
+        "text": "나는 것보다 달리는 것이 특기로\n시속 40km로 달리던 기세로\n넓은 하늘로 날아오른다."
+      },
+      {
+        "game": "oras-or",
+        "text": "지상에서 도움닫기를 하여\n날아오른다. 동료와 협력하여\n먹이를 잡는 지능을 가졌다."
+      },
+      {
+        "game": "oras-as",
+        "text": "나는 것보다 달리는 것이 특기로\n시속 40km로 달리던 기세로\n넓은 하늘로 날아오른다."
+      },
+      {
+        "game": "sm-s",
+        "text": "날 수도 있었지만 대부분\n지상을 뛰어다녔다.\n그 시속은 평균 40km이다."
+      },
+      {
+        "game": "sm-m",
+        "text": "무리 지어 사냥을 했다. 먹이를\n몰아넣으면 다른 동료가\n하늘에서 급습한다."
+      },
+      {
+        "game": "usum-us",
+        "text": "깃털이 매우 가늘어\n숙련된 장인이 아니면 복원에\n실패한다고 전해지는 고대의 포켓몬."
+      },
+      {
+        "game": "usum-um",
+        "text": "새포켓몬의 조상이라 불린다.\n날갯짓하는 근육은 아직 약해서\n도움닫기를 하지 않으면 날 수 없다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "날아오르기 위해 도움닫기를 하는데\n그 거리는 약 4km다.\n도움닫기의 속도는 시속 40km다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "비행도 가능하지만\n지상에서 먹이를 사냥하는\n일을 훨씬 더 잘하는 듯하다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "始祖大鳥",
+    "genus": "遠古鳥寶可夢",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "好像也懂得飛行，\n但主要是在地上四處飛奔。\n平均時速達到４０公里。"
+      },
+      {
+        "game": "sm-m",
+        "text": "會成群結隊進行捕獵。\n將獵物追到無路可逃時，\n其他夥伴便會從空中突然發動襲擊。"
+      },
+      {
+        "game": "usum-us",
+        "text": "古代的寶可夢。\n因為羽毛很細，若不是由熟練的\n師傅來動手，就無法成功復原。"
+      },
+      {
+        "game": "usum-um",
+        "text": "據說是鳥寶可夢的祖先。\n用來振翅的肌肉還很弱，\n必須靠助跑才能飛起來。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "必須靠助跑才能飛起來。\n助跑的距離大約是４公里，\n奔跑的速度是時速４０公里。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "雖然能夠飛行，\n但牠似乎更擅於\n在地上捕捉獵物。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Aéroptéryx",
+    "genus": "Pokémon Oisancien",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Il s’envole après avoir pris de l’élan.\nIl est assez intelligent pour chasser\nses proies en groupe."
+      },
+      {
+        "game": "bw-w",
+        "text": "Il est plus doué pour courir que pour\nvoler. Il fonce sur ses proies aussi vite\nqu’une voiture pour les attraper."
+      },
+      {
+        "game": "xy-x",
+        "text": "Il s’envole après avoir pris de l’élan. Il est assez\nintelligent pour chasser ses proies en groupe."
+      },
+      {
+        "game": "xy-y",
+        "text": "Il est plus doué pour courir que pour voler. Il doit\ns’élancer à 40 km/h avant de pouvoir s’envoler."
+      },
+      {
+        "game": "oras-or",
+        "text": "Il s’envole après avoir pris de l’élan. Il est assez intelligent\npour chasser ses proies en groupe."
+      },
+      {
+        "game": "oras-as",
+        "text": "Il est plus doué pour courir que pour voler. Il doit s’élancer\nà 40 km/h avant de pouvoir s’envoler."
+      },
+      {
+        "game": "sm-s",
+        "text": "Bien qu’ayant enfin acquis la capacité de voler,\nce Pokémon préférait bien souvent courir\nsur le sol, à une vitesse moyenne de 40 km/h."
+      },
+      {
+        "game": "sm-m",
+        "text": "Ce Pokémon avait pour habitude de chasser en\ngroupe. Une partie de la volée était chargée\nd’acculer la proie, et l’autre de porter l’estoc."
+      },
+      {
+        "game": "usum-us",
+        "text": "Les plumes de ce Pokémon antique sont si fines\nque seuls les experts les plus talentueux\npeuvent leur rendre justice en le reconstituant."
+      },
+      {
+        "game": "usum-um",
+        "text": "On dit que c’est l’ancêtre des Pokémon oiseaux.\nLes muscles de ses ailes étant assez faibles,\nil doit prendre son élan pour s’envoler."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Pour s’envoler, il doit d’abord prendre son élan\nsur 4 km à une vitesse de 40 km/h."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Il savait voler, mais il semble qu’il était beaucoup\nplus doué pour chasser ses proies sur la terre\nferme."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Aeropteryx",
+    "genus": "Urzeitvogel-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Bevor es abhebt, nimmt es am Boden Anlauf.\nEs ist schlau genug, seine Beute zusammen\nmit Artgenossen zu jagen."
+      },
+      {
+        "game": "xy-y",
+        "text": "Zu Fuß ist es schneller als in der Luft. Es muss\nein Tempo von 40 km/h erreichen, bevor es sich\nin die Lüfte aufschwingt."
+      },
+      {
+        "game": "oras-or",
+        "text": "Bevor es abhebt, nimmt es am Boden Anlauf. Es ist schlau\ngenug, seine Beute zusammen mit Artgenossen zu jagen."
+      },
+      {
+        "game": "oras-as",
+        "text": "Zu Fuß ist es schneller als in der Luft. Es muss ein Tempo\nvon 40 km/h erreichen, bevor es sich in die Lüfte aufschwingt."
+      },
+      {
+        "game": "sm-s",
+        "text": "Es kann anscheinend auch fliegen, bewegt sich\naber überwiegend mit einer durchschnittlichen\nGeschwindigkeit von 40 km/h am Boden fort."
+      },
+      {
+        "game": "sm-m",
+        "text": "Es jagt in Gruppen. Sobald es die Beute in die\nEnge getrieben hat, stürzt sich ein Artgenosse\naus der Luft auf sie."
+      },
+      {
+        "game": "usum-us",
+        "text": "Aufgrund seines feinen Gefieders glückt die\nZurückverwandlung dieses urzeitlichen Pokémon\nnur Experten mit langjähriger Erfahrung."
+      },
+      {
+        "game": "usum-um",
+        "text": "Es gilt als Urahn aller Vogel-Pokémon. Da die\nMuskeln an seinen Flügeln noch zu schwach\nsind, kann es nur mit Anlauf fliegen."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Um abheben zu können, muss es circa 4 km\nAnlauf nehmen und dabei eine Geschwindigkeit\nvon 40 km/h erreichen."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Es konnte zwar auch fliegen, schien aber sehr viel\ngeschickter darin zu sein, am Boden Jagd auf\nBeute zu machen."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Archeops",
+    "genus": "Pokémon Protopájaro",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Levanta el vuelo tras coger carrerilla. Coopera con sus\ncompañeros de bandada para atrapar a sus presas."
+      },
+      {
+        "game": "xy-y",
+        "text": "Corre a mayor velocidad de la que puede volar.\nAlcanza una velocidad de 40 km/h antes de alzarse\nen vuelo hacia el cielo."
+      },
+      {
+        "game": "oras-or",
+        "text": "Levanta el vuelo tras coger carrerilla. Coopera con sus\ncompañeros de bandada para atrapar a sus presas."
+      },
+      {
+        "game": "oras-as",
+        "text": "Corre a mayor velocidad de la que puede volar. Alcanza una\nvelocidad de 40 km/h antes de alzarse en vuelo hacia el cielo."
+      },
+      {
+        "game": "sm-s",
+        "text": "Pese a haber desarrollado la capacidad de\nvolar, prefería seguir corriendo por la superficie\nterrestre, con una velocidad media de 40 km/h."
+      },
+      {
+        "game": "sm-m",
+        "text": "Se agrupaban en bandadas para salir de caza.\nPrimero, unos arrinconaban a la presa y luego\notros se lanzaban en picado sobre ella."
+      },
+      {
+        "game": "usum-us",
+        "text": "Pokémon vetusto de plumaje tan fino que solo\nalguien con extremada pericia puede regenerar\na partir de un fósil."
+      },
+      {
+        "game": "usum-um",
+        "text": "Precursor de los Pokémon pájaro. Para alzar el\nvuelo necesita coger carrerilla, debido a una\nmusculatura en las alas poco desarrollada."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Coge carrerilla durante aproximadamente 4 km\na una velocidad de 40 km/h para poder levantar\nel vuelo."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Si bien era capaz de volar, parece ser que se le\ndaba mucho mejor cazar presas en tierra firme\nque en el aire."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Archeops",
+    "genus": "Pokémon Paleouccello",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Spicca il volo prendendo la rincorsa da terra.\nCollabora con i suoi simili per catturare le prede."
+      },
+      {
+        "game": "xy-y",
+        "text": "È più versato nella corsa che nel volo. Si lancia in\naria a una velocità di 40 km/h sbattendo le ali."
+      },
+      {
+        "game": "oras-or",
+        "text": "Spicca il volo prendendo la rincorsa da terra. Collabora\ncon i suoi simili per catturare le prede."
+      },
+      {
+        "game": "oras-as",
+        "text": "È più versato nella corsa che nel volo. Si lancia in aria a una\nvelocità di 40 km/h sbattendo le ali."
+      },
+      {
+        "game": "sm-s",
+        "text": "Nonostante sapesse volare, si spostava\nprincipalmente via terra a una velocità media\ndi 40 km/h."
+      },
+      {
+        "game": "sm-m",
+        "text": "Cacciava in gruppo: alcuni Pokémon\nintrappolavano la preda e i loro compagni\nla assalivano."
+      },
+      {
+        "game": "usum-us",
+        "text": "È un Pokémon antico dal piumaggio molto fitto.\nSolo i più esperti riescono a rigenerarlo con\nsuccesso."
+      },
+      {
+        "game": "usum-um",
+        "text": "Si ritiene che sia l’antenato dei Pokémon alati.\nHa i muscoli delle ali non ancora sviluppati\ne per volare deve prendere la rincorsa."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Prende la rincorsa per volare, percorrendo\ncirca 4 km a una velocità di 40 km/h."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Si sa che questo Pokémon era in grado di volare,\nma pare che fosse molto più abile nel cacciare\nle prede a terra."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Archeops",
+    "genus": "First Bird Pokémon",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "They are intelligent and will cooperate\nto catch prey. From the ground, they\nuse a running start to take flight."
+      },
+      {
+        "game": "bw-w",
+        "text": "It runs better than it flies.\nIt catches prey by running at speeds\ncomparable to those of an automobile."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "It runs better than it flies.\nIt takes off into the sky by\nrunning at a speed of 25 mph."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "It runs better than it flies.\nIt takes off into the sky by\nrunning at a speed of 25 mph."
+      },
+      {
+        "game": "xy-x",
+        "text": "They are intelligent and will cooperate to catch\nprey. From the ground, they use a running start to\ntake flight."
+      },
+      {
+        "game": "xy-y",
+        "text": "It runs better than it flies. It takes off into the sky\nby running at a speed of 25 mph."
+      },
+      {
+        "game": "oras-or",
+        "text": "They are intelligent and will cooperate to catch\nprey. From the ground, they use a running start to\ntake flight."
+      },
+      {
+        "game": "oras-as",
+        "text": "It runs better than it flies. It takes off into the sky\nby running at a speed of 25 mph."
+      },
+      {
+        "game": "sm-s",
+        "text": "Although apparently able to fly, they tended\nto run along the ground, averaging speeds of\nroughly 25 mph."
+      },
+      {
+        "game": "sm-m",
+        "text": "They hunted in flocks. When one Archeops had\nthe prey cornered, another would swoop on it."
+      },
+      {
+        "game": "usum-us",
+        "text": "This ancient Pokémon’s plumage is delicate,\nso if anyone other than an experienced\nprofessional tries to restore it, they will fail."
+      },
+      {
+        "game": "usum-um",
+        "text": "Said to be an ancestor of bird Pokémon, the\nmuscles it uses to flap its wings are still weak,\nso it needs a long runway in order to take off."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "It needs a running start to take off. If Archeops\nwants to fly, it first needs to run nearly 25 mph,\nbuilding speed over a course of about 2.5 miles."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Though capable of flight, Archeops was\napparently better at hunting on the ground."
+      }
+    ]
+  },
+  "chs": {
+    "name": "始祖大鸟",
+    "genus": "远古鸟宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "好像也会飞行，\n但主要是在地上四处飞奔。\n平均时速达到４０公里。"
+      },
+      {
+        "game": "sm-m",
+        "text": "成群结队进行捕猎。\n将猎物追到无路可逃时，\n其他伙伴就会从空中发动突袭。"
+      },
+      {
+        "game": "usum-us",
+        "text": "古代的宝可梦。\n因为羽毛很细，所以如果不是\n熟练的匠人，就会复原失败。"
+      },
+      {
+        "game": "usum-um",
+        "text": "据说是鸟宝可梦的祖先。\n挥动翅膀的肌肉还很弱，\n必须助跑才能飞起来。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "会为了飞翔而助跑。\n助跑的距离大约为４公里，\n跑步的速度为每小时４０公里。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "虽然也会飞行，\n但是似乎更擅长在\n地面上捕捉猎物。"
+      }
+    ]
+  }
+}

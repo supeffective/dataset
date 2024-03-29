@@ -1,0 +1,453 @@
+{
+  "jap": {
+    "name": "ヒンバス",
+    "genus": "さかなポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "なんでも　たべるので　きたない\nかわや　みずうみでも　いきていける。\nだれも　ちゅうもくしない　ポケモン。"
+      },
+      {
+        "game": "xy-y",
+        "text": "いちばん　みすぼらしい　ポケモン。\nみずくさの　おおい　かわぞこで\nおおぜい　あつまって　くらしている。"
+      },
+      {
+        "game": "oras-or",
+        "text": "うまれつき　ヒレが　ボロボロで　みっともないため\nだれにも　あいてに　されない　ポケモンだ。\nうみと　かわの　どちらでも　せいかつできる。"
+      },
+      {
+        "game": "oras-as",
+        "text": "からだは　ボロボロだが　どこでも　いきていける\nしぶとい　せいめいりょくを　もつ　ポケモン。\nしかし　ノロマなので　すぐに　つかまってしまう。"
+      },
+      {
+        "game": "sm-s",
+        "text": "きたない　みずでも　ぜんぜん　へいきな\nタフな　ポケモン。　でも　ボロボロで\nみすぼらしいので　にんきは　ない。"
+      },
+      {
+        "game": "sm-m",
+        "text": "みためが　わるいので　にんきはないが\nきょういの　せいめいりょくが　あり\nけんきゅうたいしょうには　なっている。"
+      },
+      {
+        "game": "usum-us",
+        "text": "ボロボロなので　だれも　つかまえない。\nまずそうなので　えものにも　されない。\nけっかてきに　どんどん　ふえていく。"
+      },
+      {
+        "game": "usum-um",
+        "text": "みすぼらしいので　たいていの　ひとは\nみむきも　しないが　ヒンバス　だけを\nあつめる　コレクターだって　いるぞ。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "みためが　わるいので　にんきはないが\nきょういの　せいめいりょくが　あり\nけんきゅうたいしょうには　なっている。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "みすぼらしく　みにくい　ポケモンだが\nしぶとい　せいめいりょくを　もち\nわずかな　みずだけでも　いきのびる。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Hinbass",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "빈티나",
+    "genus": "물고기포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "무엇이든 먹기 때문에 더러운\n강이나 호수에서도 살 수 있다.\n누구도 주목하지 않는 포켓몬이다."
+      },
+      {
+        "game": "xy-y",
+        "text": "제일 볼품없는 포켓몬이다.\n수초가 많은 강바닥에\n한데 모여 살고 있다."
+      },
+      {
+        "game": "oras-or",
+        "text": "태어날 때부터 지느러미가 너덜너덜\n보기 흉해서 아무도 상대해주지 않는 포켓몬이다.\n바다와 강 양쪽 모두에서 생활할 수 있다."
+      },
+      {
+        "game": "oras-as",
+        "text": "몸은 엉망이지만 어디에서든 살아갈 수 있는\n끈질긴 생명력을 지닌 포켓몬이다.\n하지만 아둔해서 금방 붙잡힌다."
+      },
+      {
+        "game": "sm-s",
+        "text": "더러운 물이라도 아무렇지 않은\n터프한 포켓몬. 하지만 추레하고\n초라해서 인기는 없다."
+      },
+      {
+        "game": "sm-m",
+        "text": "겉모습이 좋지 않아 인기는 없지만\n경이로운 생명력을 지니고 있어\n연구대상이 되고 있다."
+      },
+      {
+        "game": "usum-us",
+        "text": "모습이 초라해서 아무도 잡지 않는다.\n맛없어 보여서 아무도 먹지 않는다.\n결과적으로 개체 수만 점점 늘어난다."
+      },
+      {
+        "game": "usum-um",
+        "text": "외모가 초라해서 대부분 사람은\n거들떠보지도 않지만 빈티나만을\n모으는 컬렉터도 있다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "겉모습이 좋지 않아 인기는 없지만\n경이로운 생명력을 지니고 있어\n연구 대상이 되고 있다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "볼품없고 못생긴 포켓몬이지만\n강인한 생명력을 가져\n약간의 물만 있어도 살아남는다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "醜醜魚",
+    "genus": "魚寶可夢",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "即使在髒水裡也毫不介意的\n堅強寶可夢。但那一副破破爛爛的\n寒酸樣子並不受到歡迎。"
+      },
+      {
+        "game": "sm-m",
+        "text": "外表醜陋，所以不受歡迎。\n擁有驚人的生命力，\n因而成為了研究對象。"
+      },
+      {
+        "game": "usum-us",
+        "text": "因為破破爛爛的，誰也不會去捉牠。\n因為看起來很難吃，所以不會被當成獵物。\n於是數量就變得越來越多了。"
+      },
+      {
+        "game": "usum-um",
+        "text": "因為長得很難看，大多數的人\n對牠毫無興趣。但也有\n專門收集醜醜魚的收藏家存在。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "外表醜陋，所以不受歡迎。\n擁有驚人的生命力，\n因而成為了研究對象。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "雖然看起來弱小又醜陋，\n但擁有頑強的生命力，\n只要少量的水就能存活。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Barpau",
+    "genus": "Pokémon Poisson",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Ce Pokémon a peut-être un physique\ndisgracieux, mais il est robuste et\npeut survivre dans très peu d’eau."
+      },
+      {
+        "game": "bw-w",
+        "text": "Ce Pokémon a peut-être un physique\ndisgracieux, mais il est robuste et\npeut survivre dans très peu d’eau."
+      },
+      {
+        "game": "xy-x",
+        "text": "Il peut vivre dans les fleuves et les lacs pollués car\nil mange de tout. Personne ne se soucie de lui."
+      },
+      {
+        "game": "xy-y",
+        "text": "Son apparence est pathétique. Il forme des bancs\ndans les rivières riches en plantes aquatiques."
+      },
+      {
+        "game": "oras-or",
+        "text": "Les nageoires de Barpau sont abîmées et déchirées\ndès sa naissance. Ce Pokémon est généralement ignoré\nà cause de son apparence miséreuse. Il peut vivre\ndans la mer ou en eau douce."
+      },
+      {
+        "game": "oras-as",
+        "text": "Même si le corps de Barpau est en lambeaux, il reste tenace\net obstiné, ce qui lui permet de survivre partout. Cependant,\nce Pokémon est très lent et un peu bête, ce qui en fait\nune proie facile."
+      },
+      {
+        "game": "sm-s",
+        "text": "Ce Pokémon n’a pas beaucoup d’adeptes, du\nfait de son air miteux. Il est pourtant robuste\net n’a pas peur de nager en eaux troubles."
+      },
+      {
+        "game": "sm-m",
+        "text": "Comme il est tout de même franchement laid,\nce Pokémon a un succès très mitigé. Sa grande\nvitalité fait néanmoins l’objet de moult études."
+      },
+      {
+        "game": "usum-us",
+        "text": "Son apparence peu ragoûtante repousse les\nprédateurs et dissuade les gens de le pêcher.\nSa population augmente donc rapidement."
+      },
+      {
+        "game": "usum-um",
+        "text": "En raison de sa laideur, la plupart des gens\ndétournent le regard quand ils le croisent.\nIl a cependant des fans qui le collectionnent."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Comme il est tout de même franchement laid,\nce Pokémon a un succès très mitigé. Sa grande\nvitalité fait néanmoins l’objet de moult études."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Ce Pokémon a peut-être un physique disgracieux,\nmais il est robuste et peut survivre dans très peu\nd’eau."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Barschwa",
+    "genus": "Fisch-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Es frisst einfach alles und kann daher\nauch in verschmutzter Umgebung leben.\nNiemand beachtet es."
+      },
+      {
+        "game": "xy-y",
+        "text": "Das schäbigste Pokémon von allen. Es lebt auf dem\nGrund von Flüssen, wo viele Wasserpflanzen wachsen."
+      },
+      {
+        "game": "oras-or",
+        "text": "Barschwas Flossen waren schon immer zerfetzt. Wegen seines\nmerkwürdigen Aussehens wird dieses Pokémon weitgehend\nignoriert. Es kann sowohl im Meer als auch in Flüssen leben."
+      },
+      {
+        "game": "oras-as",
+        "text": "Obwohl Barschwas Körper zerfetzt ist, besitzt es eine harte\nund zähe Lebenskraft, sodass es überall leben kann. Aber\ndieses Pokémon ist langsam und dusselig. Daher ist es leicht\nzu fangen."
+      },
+      {
+        "game": "sm-s",
+        "text": "Dieses robuste Pokémon fühlt sich selbst in\nverschmutztem Wasser wohl. So schäbig und\nzerfetzt es ist, so unbeliebt ist es auch."
+      },
+      {
+        "game": "sm-m",
+        "text": "Sein unvorteilhaftes Aussehen macht es zwar\nunbeliebt, doch seine erstaunliche Lebenskraft\nhat das Interesse der Forscher an ihm geweckt."
+      },
+      {
+        "game": "usum-us",
+        "text": "Wegen ihres schäbigen Aussehens werden sie\nnicht gefangen und auch als Beute verschmäht.\nDadurch vermehren sie sich ungehindert."
+      },
+      {
+        "game": "usum-um",
+        "text": "Die meisten Menschen schenken ihm wegen\nseines armseligen Äußeren keine Beachtung.\nDoch es gibt Sammler, die nur Barschwa wollen."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Sein unvorteilhaftes Aussehen macht es zwar\nunbeliebt, doch seine erstaunliche Lebenskraft\nhat das Interesse der Forscher an ihm geweckt."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Ein schäbiges, ja sogar hässliches Pokémon.\nDafür ist es abgehärtet und überlebt auch mit\nwenig Wasser."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Feebas",
+    "genus": "Pokémon Pez",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Come de todo, por lo que puede vivir en aguas\ncontaminadas. Nadie le presta atención."
+      },
+      {
+        "game": "xy-y",
+        "text": "Es el Pokémon con peor aspecto. Vive en grupos en\nlechos de ríos con abundantes plantas acuáticas."
+      },
+      {
+        "game": "oras-or",
+        "text": "Feebas tiene las aletas melladas y rasgadas desde que nace.\nDebido a este aspecto poco imponente, son pocos los que lo\ntienen en cuenta. Este Pokémon puede vivir tanto en agua\nsalada como dulce."
+      },
+      {
+        "game": "oras-as",
+        "text": "Aunque Feebas tenga el cuerpo mellado, posee una\ntremenda y constante fuerza vital que le permite vivir en\ncualquier lugar. Con todo, es un Pokémon lento y simplón;\nes fácil de atrapar."
+      },
+      {
+        "game": "sm-s",
+        "text": "Este Pokémon es tan resistente que puede vivir\nsin problema hasta en las aguas más sucias,\npero no es muy popular a causa de su aspecto."
+      },
+      {
+        "game": "sm-m",
+        "text": "Como su aspecto deja bastante que desear, no\nse le aprecia mucho. Aun así, su gran vitalidad\npuede ser muy interesante para la ciencia."
+      },
+      {
+        "game": "usum-us",
+        "text": "Debido a su cuerpo mellado y su feo aspecto, no\nes muy apetecible como presa ni popular entre\nlos Entrenadores y por eso está proliferando."
+      },
+      {
+        "game": "usum-um",
+        "text": "Debido a su aspecto tan descuidado, la mayoría\nde la gente no le presta atención. Sin embargo,\nhay personas que coleccionan solo Feebas."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Su aspecto poco agraciado hace que no sea muy\npopular, pero su gran vitalidad resulta de gran\ninterés para la ciencia."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Su apariencia deja bastante que desear, pero es\nmuy resistente y puede sobrevivir con poca agua."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Feebas",
+    "genus": "Pokémon Pesce",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Si nutre di qualsiasi cosa, pertanto vive anche in fiumi\ne laghi inquinati. È un Pokémon di scarso interesse."
+      },
+      {
+        "game": "xy-y",
+        "text": "Il Pokémon più sciatto. Vive in grandi gruppi nei\nletti dei fiumi ricchi di piante acquatiche."
+      },
+      {
+        "game": "oras-or",
+        "text": "Le pinne di Feebas sono logore e sbrindellate fin dalla\nnascita. A causa di questo suo aspetto disordinato,\nil Pokémon è solitamente ignorato. È in grado di vivere\nin mare e nei fiumi."
+      },
+      {
+        "game": "oras-as",
+        "text": "Sebbene abbia il corpo logoro, Feebas è molto tenace\ne resistente, potendo così vivere in ogni luogo. Tuttavia,\nquesto Pokémon è anche lento e poco sveglio, il che\nlo rende una preda facile."
+      },
+      {
+        "game": "sm-s",
+        "text": "Non è molto popolare per via del suo misero\naspetto, ma è molto resistente e in grado di\nvivere anche in acque inquinate."
+      },
+      {
+        "game": "sm-m",
+        "text": "È un Pokémon poco popolare per via del suo\nmisero aspetto. Tuttavia, la sua prodigiosa\nvitalità ha attirato l’interesse dei ricercatori."
+      },
+      {
+        "game": "usum-us",
+        "text": "Per via del suo misero aspetto, nessuno lo\ncattura e nessun predatore lo trova appetitoso.\nPer questo continua a proliferare."
+      },
+      {
+        "game": "usum-um",
+        "text": "Molti non lo degnano di uno sguardo per via del\nsuo misero aspetto. Tuttavia, alcuni collezionisti\ncatturano solo i Feebas."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "È un Pokémon poco popolare per via del suo\nmisero aspetto. Tuttavia, la sua prodigiosa\nvitalità ha attirato l’interesse dei ricercatori."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "È un Pokémon dall’aspetto brutto e misero.\nTuttavia, è molto resistente e può sopravvivere\nanche in pochissima acqua."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Feebas",
+    "genus": "Fish Pokémon",
+    "flavorText": [
+      {
+        "game": "rs-r",
+        "text": "FEEBAS’s fins are ragged and\ntattered from the start of its life.\nBecause of its shoddy appearance, this\fPOKéMON is largely ignored.\nIt is capable of living in both the sea\nand in rivers."
+      },
+      {
+        "game": "rs-s",
+        "text": "While FEEBAS’s body is in tatters,\nit has a hardy and tenacious life force\nthat enables it to live anywhere.\fHowever, this POKéMON is also slow and\ndimwitted, making it an easy catch."
+      },
+      {
+        "game": "e",
+        "text": "FEEBAS live in ponds that are heavily\ninfested with weeds. Because of its\nhopelessly shabby appearance, it\nseems as if few TRAINERS raise it."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "Ridiculed for its shabby appearance,\nit is ignored by researchers. It lives in\nponds choked with weeds."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "Ridiculed for its shabby appearance,\nit is ignored by researchers. It lives in\nponds choked with weeds."
+      },
+      {
+        "game": "dp-d",
+        "text": "It is famous for its shabby\nappearance. While populous, they\ntend to cluster in set locations."
+      },
+      {
+        "game": "dp-p",
+        "text": "It eats anything, so it can even\nlive in polluted streams and lakes.\nNo one pays any attention to it."
+      },
+      {
+        "game": "pt",
+        "text": "It is a shabby and ugly Pokémon.\nHowever, it is very hardy and\ncan survive on little water."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "It is the shabbiest Pokémon of all.\nIt forms in schools and lives at the\nbottom of rivers."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "It is the shabbiest Pokémon of all.\nIt forms in schools and lives at the\nbottom of rivers."
+      },
+      {
+        "game": "bw-b",
+        "text": "It is a shabby and ugly Pokémon.\nHowever, it is very hardy and\ncan survive on little water."
+      },
+      {
+        "game": "bw-w",
+        "text": "It is a shabby and ugly Pokémon.\nHowever, it is very hardy and\ncan survive on little water."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "It is a shabby and ugly Pokémon.\nHowever, it is very hardy and\ncan survive on little water."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "It is a shabby and ugly Pokémon.\nHowever, it is very hardy and\ncan survive on little water."
+      },
+      {
+        "game": "xy-x",
+        "text": "It eats anything, so it can even live in polluted\nstreams and lakes. No one pays any attention to it."
+      },
+      {
+        "game": "xy-y",
+        "text": "It is the shabbiest Pokémon of all. It forms in\nschools and lives at the bottom of rivers."
+      },
+      {
+        "game": "oras-or",
+        "text": "Feebas’s fins are ragged and tattered from the start of its life.\nBecause of its shoddy appearance, this Pokémon is largely\nignored. It is capable of living in both the sea and in rivers."
+      },
+      {
+        "game": "oras-as",
+        "text": "While Feebas’s body is in tatters, it has a hardy and tenacious\nlife force that enables it to live anywhere. However, this\nPokémon is also slow and dimwitted, making it an easy catch."
+      },
+      {
+        "game": "sm-s",
+        "text": "A tough Pokémon that is perfectly fine even\nin dirty water. However, due to its ragged,\nshabby appearance, it isn’t popular."
+      },
+      {
+        "game": "sm-m",
+        "text": "Although unattractive and unpopular, this\nPokémon’s marvelous vitality has made it a\nsubject of research."
+      },
+      {
+        "game": "usum-us",
+        "text": "They look ragged, so no one catches them. They\nlook like they’d taste bad, so predators won’t\neat them. And their numbers continue to grow."
+      },
+      {
+        "game": "usum-um",
+        "text": "Because of its wretched appearance, most\npeople pay it no attention, but there are some\nwho collect Feebas—and Feebas alone!"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Although unattractive and unpopular, this\nPokémon’s marvelous vitality has made it a\nsubject of research."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "It is a shabby and ugly Pokémon. However, it is\nvery hardy and can survive on little water."
+      }
+    ]
+  },
+  "chs": {
+    "name": "丑丑鱼",
+    "genus": "鱼宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "即使在脏水里也完全不介意的\n强壮的宝可梦。但破破烂烂一副\n寒酸的样子，所以不受欢迎。"
+      },
+      {
+        "game": "sm-m",
+        "text": "外表丑陋，所以不受欢迎。\n拥有惊人的生命力，\n因而成为了研究对象。"
+      },
+      {
+        "game": "usum-us",
+        "text": "因为破破烂烂的，谁也不要捉。\n因为看起来不好吃，也不会被当做猎物。\n结果就是，数量嗖嗖地增加起来。"
+      },
+      {
+        "game": "usum-um",
+        "text": "因为长得寒碜，\n大多数人看都不看，\n但是有只收集丑丑鱼的收藏家。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "外表丑陋，所以不受欢迎。\n拥有惊人的生命力，\n因而成为了研究对象。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "虽然外表丑陋，\n但拥有顽强的生命力，\n只要少量的水就能存活。"
+      }
+    ]
+  }
+}

@@ -1,0 +1,235 @@
+{
+  "jap": {
+    "name": "ザングース",
+    "genus": "ネコイタチポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "なんせだいにも　わたって\nハブネークと　たたかってきた。\nするどい　ツメが　さいだいの　ぶき。"
+      },
+      {
+        "game": "xy-y",
+        "text": "ハブネークの　においを　かぐ　だけで\nぜんしんの　たいもうが　さかだつ。\nするどい　ツメが　てきを　きりさく。"
+      },
+      {
+        "game": "oras-or",
+        "text": "しゅくてき　ハブネークとの　たたかいの　きおくが\nからだじゅうの　さいぼうに　きざみこまれている。\nびんしょうな　みのこなしで　こうげきを　かわす。"
+      },
+      {
+        "game": "oras-as",
+        "text": "ふだんは　４ほんあしで　こうどうするが　おこると\nうしろあしで　たち　まえあしの　ツメが　とびだす。\nハブネークとは　せんぞから　つづく　ライバルだ。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Zangoose",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "쟝고",
+    "genus": "고양이족제비포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "몇 대에 걸쳐서\n세비퍼와 싸워왔다.\n날카로운 발톱이 최대의 무기다."
+      },
+      {
+        "game": "xy-y",
+        "text": "세비퍼의 냄새를 맡는 것만으로도\n전신의 털이 곤두선다.\n예리한 손톱으로 적을 베어 가른다."
+      },
+      {
+        "game": "oras-or",
+        "text": "숙적 세비퍼와 대결했던 기억이\n전신의 세포에 새겨져 있다.\n민첩한 몸동작으로 공격을 피한다."
+      },
+      {
+        "game": "oras-as",
+        "text": "평소에는 4개의 다리로 행동하지만 화나면\n뒷다리로 서서 앞발의 발톱을 내보인다.\n세비퍼와는 선조 대대로 라이벌이다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "貓鼬斬",
+    "genus": "貓鼬寶可夢",
+    "flavorText": []
+  },
+  "fra": {
+    "name": "Mangriff",
+    "genus": "Pokémon Chat Furet",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "C’est le rival de Séviper depuis\ndes générations. Ses griffes\naiguisées sont son meilleur atout."
+      },
+      {
+        "game": "bw-w",
+        "text": "C’est le rival de Séviper depuis\ndes générations. Ses griffes\naiguisées sont son meilleur atout."
+      },
+      {
+        "game": "xy-x",
+        "text": "C’est le rival de Séviper depuis des générations.\nSes griffes aiguisées sont son meilleur atout."
+      },
+      {
+        "game": "xy-y",
+        "text": "Son poil se hérisse dès qu’il sent un Séviper.\nIl lacère ses ennemis avec ses griffes acérées."
+      },
+      {
+        "game": "oras-or",
+        "text": "Chaque cellule du corps de Mangriff porte les stigmates\nde sa rivalité avec Séviper. Ce Pokémon est capable\nd’esquiver les attaques avec une agilité incroyable."
+      },
+      {
+        "game": "oras-as",
+        "text": "Mangriff est généralement à quatre pattes, mais lorsqu’il\nest en colère, il se lève sur ses pattes arrière et montre\nses griffes. Ce Pokémon est l’ennemi juré de Séviper depuis\nplusieurs générations."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Sengo",
+    "genus": "Frettkatz",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Seit Generationen ist es mit Vipitis verfeindet.\nSeine scharfen Klauen sind seine stärksten Waffen."
+      },
+      {
+        "game": "xy-y",
+        "text": "Vipitis’ Geruch lässt ihm alle Haare zu Berge stehen.\nMit seinen scharfen Klauen kratzt es seine Feinde."
+      },
+      {
+        "game": "oras-or",
+        "text": "Die Erinnerungen an den Kampf mit seinem Erzrivalen Vipitis\nhaben sich in jede Zelle von Sengos Körper eingebrannt.\nDieses Pokémon weicht feindlichen Angriffen unheimlich\nraffiniert und geschickt aus."
+      },
+      {
+        "game": "oras-as",
+        "text": "Sengo bewegt sich normalerweise auf allen Vieren. Wenn es\naber wütend wird, stellt es sich auf seine Hinterbeine und\nfährt die Klauen an seinen Vorderbeinen aus. Dieses Pokémon\nist seit Generationen ein erbitterter Rivale von Vipitis."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Zangoose",
+    "genus": "Pokémon Gato Hurón",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Hace muchos años que se enfrenta a Seviper. Su arma\nmás eficaz son sus zarpas afiladas."
+      },
+      {
+        "game": "xy-y",
+        "text": "Se le eriza todo el pelaje con solo oler un Seviper.\nCon sus afiladas zarpas puede rajar a sus enemigos."
+      },
+      {
+        "game": "oras-or",
+        "text": "Los ecos del combate mantenido con su rival más feroz,\nSeviper, resuenan aún en cada célula de Zangoose. Este\nPokémon esquiva los ataques con auténtica destreza."
+      },
+      {
+        "game": "oras-as",
+        "text": "Zangoose suele caminar a cuatro patas, pero cuando se\nenfada se pone de pie sobre las traseras y saca las zarpas.\nEste Pokémon tiene desde hace varias generaciones una\náspera rivalidad con Seviper."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Zangoose",
+    "genus": "Pokémon Furogatto",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Da generazioni, è acerrimo nemico di Seviper. Gli\nartigli aguzzi sono le sue armi più potenti."
+      },
+      {
+        "game": "xy-y",
+        "text": "Se sente anche solo l’odore di Seviper, gli si rizza\nla pelliccia. Lacera il nemico con artigli affilati."
+      },
+      {
+        "game": "oras-or",
+        "text": "I ricordi delle lotte contro il suo acerrimo nemico Seviper sono\ninsiti in ogni cellula del corpo di Zangoose. Questo Pokémon\nriesce a schivare gli attacchi con incredibile maestria."
+      },
+      {
+        "game": "oras-as",
+        "text": "Di solito Zangoose cammina a quattro zampe, ma quando\nsi infuria si alza sulle zampe posteriori ed estrae gli artigli.\nQuesto Pokémon è acerrimo nemico di Seviper, infatti la loro\ninimicizia è ormai leggendaria."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Zangoose",
+    "genus": "Cat Ferret Pokémon",
+    "flavorText": [
+      {
+        "game": "rs-r",
+        "text": "Memories of battling its arch-rival\nSEVIPER are etched into every cell of\nZANGOOSE’s body.\fThis POKéMON adroitly dodges attacks\nwith incredible agility."
+      },
+      {
+        "game": "rs-s",
+        "text": "ZANGOOSE usually stays on all fours,\nbut when angered, it gets up on its\nhind legs and extends its claws.\fThis POKéMON shares a bitter rivalry\nwith SEVIPER that dates back over\ngenerations."
+      },
+      {
+        "game": "e",
+        "text": "When it battles, it stands on its hind legs\nand attacks with its sharply clawed\nforelegs. Its fur bristles if it encounters\nany SEVIPER."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "If it comes across a SEVIPER, its fur\nbristles and it assumes its battle pose.\nIts sharp claws are its best weapon."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "If it comes across a SEVIPER, its fur\nbristles and it assumes its battle pose.\nIts sharp claws are its best weapon."
+      },
+      {
+        "game": "dp-d",
+        "text": "It has feuded with SEVIPER for\nmany generations. Its sharp claws\nare its biggest weapons."
+      },
+      {
+        "game": "dp-p",
+        "text": "It has feuded with SEVIPER for\nmany generations. Its sharp claws\nare its biggest weapons."
+      },
+      {
+        "game": "pt",
+        "text": "It has feuded with SEVIPER for\nmany generations. Its sharp claws\nare its biggest weapons."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "Its fur would all stand on end if\nit smelled a SEVIPER nearby.\nIts sharp claws tear up its foes."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "Its fur would all stand on end if\nit smelled a SEVIPER nearby.\nIts sharp claws tear up its foes."
+      },
+      {
+        "game": "bw-b",
+        "text": "It has feuded with Seviper for\nmany generations. Its sharp claws\nare its biggest weapons."
+      },
+      {
+        "game": "bw-w",
+        "text": "It has feuded with Seviper for\nmany generations. Its sharp claws\nare its biggest weapons."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "It’s Seviper’s archrival. To threaten\nthose it encounters, it fans out\nthe claws on its front paws."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "It’s Seviper’s archrival. To threaten\nthose it encounters, it fans out\nthe claws on its front paws."
+      },
+      {
+        "game": "xy-x",
+        "text": "It has feuded with Seviper for many generations.\nIts sharp claws are its biggest weapons."
+      },
+      {
+        "game": "xy-y",
+        "text": "Its fur would all stand on end if it smelled a Seviper\nnearby. Its sharp claws tear up its foes."
+      },
+      {
+        "game": "oras-or",
+        "text": "Memories of battling its archrival Seviper are etched into every\ncell of Zangoose’s body. This Pokémon adroitly dodges\nattacks with incredible agility."
+      },
+      {
+        "game": "oras-as",
+        "text": "Zangoose usually stays on all fours, but when angered, it gets\nup on its hind legs and extends its claws. This Pokémon shares\na bitter rivalry with Seviper that dates back over generations."
+      }
+    ]
+  },
+  "chs": {
+    "name": "猫鼬斩",
+    "genus": "猫鼬宝可梦",
+    "flavorText": []
+  }
+}

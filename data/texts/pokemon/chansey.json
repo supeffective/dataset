@@ -1,0 +1,553 @@
+{
+  "jap": {
+    "name": "ラッキー",
+    "genus": "たまごポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "しあわせを　はこぶと　いわれている。\nきずついた　ひとに　タマゴを\nわけてあげる　やさしい　ポケモン。"
+      },
+      {
+        "game": "xy-y",
+        "text": "１にちに　いくつか　たまごを　うむ。\nその　たまごは　えいよう　まんてんで\nものすごく　おいしい　らしい。"
+      },
+      {
+        "game": "oras-or",
+        "text": "えいよう　まんてんの　タマゴを　まいにち　うむ。\nしょくよくを　なくした　ひとでも　ペロリと\nたべてしまうほど　おいしい　タマゴだ。"
+      },
+      {
+        "game": "oras-as",
+        "text": "えいよう　まんてんの　タマゴを　まいにち　うむ。\nしょくよくを　なくした　ひとでも　ペロリと\nたべてしまうほど　おいしい　タマゴだ。"
+      },
+      {
+        "game": "sm-s",
+        "text": "ラッキーの　うむ　タマゴは　えいようが\nたっぷり　つまっている。　おおくの\nポケモンが　だいこうぶつだ。"
+      },
+      {
+        "game": "sm-m",
+        "text": "かずが　すくないうえに　にげあしの\nはやい　ポケモンなので\nみつけた　ひとは　うんが　いいぞ。"
+      },
+      {
+        "game": "usum-us",
+        "text": "おいしく　えいようもある　タマゴを\nほかのポケモンに　ねらわれるうちに\nにげあしが　はやくなったらしい。"
+      },
+      {
+        "game": "usum-um",
+        "text": "おなかの　タマゴを　ねらい\nらんかく　されてきた　れきしから\nせいそくすうは　とても　すくない。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "きずついた　ものを　みかけると\nえいようまんてんの　タマゴを\nわけあたえる　やさしい　ポケモン。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "きずついた　ものを　みかけると\nえいようまんてんの　タマゴを\nわけあたえる　やさしい　ポケモン。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "タマゴは　えいようまんてんで\nあじも　ばつぐん。　こうきゅうな\nしょくざいとして　あつかわれる。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "もともとは　うごきが　にぶかった。\nタマゴを　ねらうものから　まもるため\nにげあしが　はやくなった。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Lucky",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "럭키",
+    "genus": "알포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "행복을 가져다준다고 전해진다.\n상처 입은 사람에게 알을\n나눠주는 상냥한 포켓몬이다."
+      },
+      {
+        "game": "xy-y",
+        "text": "하루에 몇 개의 알을 낳는다.\n그 알은 영양 만점으로\n굉장히 맛있다고 한다."
+      },
+      {
+        "game": "oras-or",
+        "text": "영양 만점인 알을 매일 낳는다.\n식욕을 잃은 사람도 한 번에\n먹어치울 정도로 맛있는 알이다."
+      },
+      {
+        "game": "oras-as",
+        "text": "영양 만점인 알을 매일 낳는다.\n식욕을 잃은 사람도 한 번에\n먹어치울 정도로 맛있는 알이다."
+      },
+      {
+        "game": "sm-s",
+        "text": "럭키가 낳는 알은 영양이\n듬뿍 들어있다. 많은\n포켓몬들이 아주 좋아한다."
+      },
+      {
+        "game": "sm-m",
+        "text": "수가 적은 데다가 도주도\n빠른 포켓몬이라\n발견한 사람은 운이 좋은 것이다."
+      },
+      {
+        "game": "usum-us",
+        "text": "맛있고 영양 많은 알을\n다른 포켓몬들이 자꾸 노려서\n도망치는 속도가 빨라진 듯하다."
+      },
+      {
+        "game": "usum-um",
+        "text": "배에 있는 알을 노리고\n마구잡이로 잡힌 역사에서\n개체 수는 매우 적다."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "상처 입은 자를 발견하면\n영양 만점인 알을\n나눠주는 상냥한 포켓몬."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "상처 입은 자를 발견하면\n영양 만점인 알을\n나눠주는 상냥한 포켓몬."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "알은 영양 만점에\n맛도 뛰어나다.\n고급 식재료로 취급된다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "원래 움직임이 둔했지만\n알을 노리는 자들로부터\n지켜내기 위해 도주 속도가 빨라졌다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "吉利蛋",
+    "genus": "蛋寶可夢",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "吉利蛋生下的蛋飽含豐富的營養。\n是許多寶可夢非常愛吃的東西。"
+      },
+      {
+        "game": "sm-m",
+        "text": "因為是數量稀少\n而且逃跑很快的寶可夢，\n所以能找到牠的人運氣相當不錯。"
+      },
+      {
+        "game": "usum-us",
+        "text": "因為其他寶可夢盯上了牠\n營養又美味的蛋，牠的腳程\n似乎在逃跑的過程中變快了。"
+      },
+      {
+        "game": "usum-um",
+        "text": "由於曾有過以奪取牠腹部的蛋\n為目的而加以濫捕的歷史，\n所以牠的數量非常稀少。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "性情溫和善良的寶可夢。\n只要看到有誰受傷了，\n就會把營養豐富的蛋分給對方。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "性情溫和善良的寶可夢。\n只要看到有誰受傷了，\n就會把營養豐富的蛋分給對方。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "牠的蛋不僅營養豐富，\n而且非常美味。因此\n被視為是高級的食材。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "原本動作遲緩。但為了從\n盯上蛋的傢伙們手裡保護蛋，\n逃跑的速度就變快了。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Leveinard",
+    "genus": "Pokémon Œuf",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Ce Pokémon très serviable distribue\nses œufs hautement nutritifs aux\nhumains et Pokémon blessés."
+      },
+      {
+        "game": "bw-w",
+        "text": "Ce Pokémon très serviable distribue\nses œufs hautement nutritifs aux\nhumains et Pokémon blessés."
+      },
+      {
+        "game": "xy-x",
+        "text": "Il est censé apporter la joie. Ce Pokémon charitable\noffre ses œufs aux blessés."
+      },
+      {
+        "game": "xy-y",
+        "text": "Il peut pondre plusieurs œufs par jour. Ses œufs sont\ntrès riches en nutriments et vraiment délicieux."
+      },
+      {
+        "game": "oras-or",
+        "text": "Leveinard pond tous les jours des œufs pleins de vitamines.\nCes œufs sont tellement bons que les gens les mangent\nmême quand ils n’ont pas faim."
+      },
+      {
+        "game": "oras-as",
+        "text": "Leveinard pond tous les jours des œufs pleins de vitamines.\nCes œufs sont tellement bons que les gens les mangent\nmême quand ils n’ont pas faim."
+      },
+      {
+        "game": "sm-s",
+        "text": "Les œufs pondus par Leveinard sont\nextrêmement nutritifs. C’est la nourriture\nfavorite de beaucoup de Pokémon."
+      },
+      {
+        "game": "sm-m",
+        "text": "C’est un Pokémon assez rare et qui prend la\nfuite très rapidement. Apercevoir ce Pokémon\nest un signe que la chance vous sourit."
+      },
+      {
+        "game": "usum-us",
+        "text": "À force de fuir les Pokémon qui en avaient après\nses œufs, réputés pour leur goût et leur valeur\nnutritive, il a appris à courir plus vite."
+      },
+      {
+        "game": "usum-um",
+        "text": "Pendant longtemps, ce Pokémon a été chassé\nà outrance pour ses œufs, ce qui explique\nsa population fort réduite."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "D’un naturel gentil et aimable, il partage\nses œufs nourrissants avec les blessés."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "D’un naturel gentil et aimable, il partage\nses œufs nourrissants avec les blessés."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Ses œufs sont si délicieux et nutritifs qu’on\nles considère comme des ingrédients de luxe."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Ce Pokémon lent à l’origine a appris à fuir\nplus vite pour protéger ses œufs des voleurs."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Chaneira",
+    "genus": "Ei-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Man sagt, es bringe Glück. Es ist sehr mitfühlend\nund teilt seine Eier mit Verletzten."
+      },
+      {
+        "game": "xy-y",
+        "text": "Es legt mehrere Eier am Tag. Sie sind sehr nahrhaft\nund außerordentlich schmackhaft."
+      },
+      {
+        "game": "oras-or",
+        "text": "Chaneira legt täglich ausgesprochen nahrhafte Eier.\nSie sind so köstlich, dass sie sogar von Menschen\nverspeist werden, die gar keinen Appetit haben."
+      },
+      {
+        "game": "oras-as",
+        "text": "Chaneira legt täglich ausgesprochen nahrhafte Eier.\nSie sind so köstlich, dass sie sogar von Menschen\nverspeist werden, die gar keinen Appetit haben."
+      },
+      {
+        "game": "sm-s",
+        "text": "Die Eier, die es legt, sind ausgesprochen\nnahrhaft. Sie sind die Leibspeise vieler\nPokémon."
+      },
+      {
+        "game": "sm-m",
+        "text": "Es ist äußerst selten und kann zudem sehr\nschnell davonlaufen. Schafft man es trotzdem,\neins zu fangen, bringt es angeblich Glück."
+      },
+      {
+        "game": "usum-us",
+        "text": "Es hat gelernt, rasch davonzulaufen, da es viele\nPokémon auf die nahrhaften und köstlichen Eier\nabgesehen haben, die es legt."
+      },
+      {
+        "game": "usum-um",
+        "text": "Einst wurde es exzessiv von Wilddieben gejagt,\ndie es auf das Ei in seinem Beutel abgesehen\nhatten. Mittlerweile ist es daher sehr selten."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Chaneira ist sehr warmherzig und freundlich. Es\nkümmert sich liebevoll um verletzte Lebewesen,\nindem es seine nahrhaften Eier mit ihnen teilt."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Chaneira ist sehr warmherzig und freundlich. Es\nkümmert sich liebevoll um verletzte Lebewesen,\nindem es seine nahrhaften Eier mit ihnen teilt."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Seine Eier sind äußerst nahrhaft und schmecken\nköstlich, weshalb sie als erlesene Kochzutat\ngelten."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Dieses ursprünglich eher träge Pokémon hat\ngelernt, schnell davonzulaufen, um seine Eier vor\nRäubern schützen zu können."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Chansey",
+    "genus": "Pokémon Huevo",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Se dice que reparte felicidad. Se caracteriza por su\ncompasión y reparte sus huevos entre la gente herida."
+      },
+      {
+        "game": "xy-y",
+        "text": "Pone varios huevos al día. Según parece son muy\nnutritivos y están riquísimos."
+      },
+      {
+        "game": "oras-or",
+        "text": "Chansey pone a diario huevos con un valor nutritivo altísimo.\nEstán tan ricos que hasta quien no tenga hambre se los\ncomerá en un abrir y cerrar de ojos."
+      },
+      {
+        "game": "oras-as",
+        "text": "Chansey pone a diario huevos con un valor nutritivo altísimo.\nEstán tan ricos que hasta quien no tenga hambre se los\ncomerá en un abrir y cerrar de ojos."
+      },
+      {
+        "game": "sm-s",
+        "text": "Los huevos que pone Chansey tienen un valor\nnutritivo altísimo. Muchos Pokémon los\nconsideran un manjar."
+      },
+      {
+        "game": "sm-m",
+        "text": "Es un Pokémon poco común que escapa\nrápidamente, por lo que quienes se topen con\nuno pueden considerarse afortunados."
+      },
+      {
+        "game": "usum-us",
+        "text": "Ha desarrollado gran velocidad para huir de los\nPokémon que quieren robarle sus huevos, que\nson exquisitos y poseen un gran valor nutritivo."
+      },
+      {
+        "game": "usum-um",
+        "text": "Su número ha disminuido espectacularmente\ndebido al constante hurto del que son objeto\nsus huevos."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Este amable Pokémon comparte sus nutritivos\nhuevos con quien encuentre herido."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Este amable Pokémon comparte sus nutritivos\nhuevos con quien encuentre herido."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Los huevos que pone Chansey tienen un valor\nnutritivo altísimo y un sabor exquisito.\nSe consideran un manjar."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Este Pokémon solía ser lento de reflejos, pero\nha desarrollado una gran velocidad para evitar\nque le roben sus preciados huevos."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Chansey",
+    "genus": "Pokémon Uovo",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Si dice che porti felicità. È molto altruista e condivide\nle uova con chi è ferito."
+      },
+      {
+        "game": "xy-y",
+        "text": "Ogni giorno depone diverse uova, che sembrano\nessere deliziose e molto nutrienti."
+      },
+      {
+        "game": "oras-or",
+        "text": "Ogni giorno Chansey depone uova molto nutrienti.\nQueste uova sono così buone da far tornare l’appetito\na chi lo ha perso."
+      },
+      {
+        "game": "oras-as",
+        "text": "Ogni giorno Chansey depone uova molto nutrienti.\nQueste uova sono così buone da far tornare l’appetito\na chi lo ha perso."
+      },
+      {
+        "game": "sm-s",
+        "text": "Le uova di Chansey sono molto nutrienti\ne molti Pokémon ne vanno ghiotti."
+      },
+      {
+        "game": "sm-m",
+        "text": "Esistono pochi esemplari di questo Pokémon,\nche inoltre è anche velocissimo nella fuga.\nSolo chi ha la fortuna dalla sua riesce a trovarlo!"
+      },
+      {
+        "game": "usum-us",
+        "text": "Molti Pokémon cercano di rubare le sue uova\ngustose e nutrienti. Probabilmente per questo\nè diventato velocissimo nella fuga."
+      },
+      {
+        "game": "usum-um",
+        "text": "In passato è stato vittima di una caccia sfrenata\nper le sue uova. Per questo motivo non sono\nrimasti molti esemplari di questo Pokémon."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Un Pokémon gentile e generoso, sempre pronto\na condividere le sue uova nutrienti con chi si\ntrova in difficoltà."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Un Pokémon gentile e generoso, sempre pronto\na condividere le sue uova nutrienti con chi si\ntrova in difficoltà."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Il suo uovo è molto nutriente ed estremamente\nsaporito, tanto che viene considerato un\ningrediente di lusso."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Sarebbe lento per natura, ma è diventato svelto\nnella fuga per difendersi da chi vuole rubare\nil suo uovo."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Chansey",
+    "genus": "Egg Pokémon",
+    "flavorText": [
+      {
+        "game": "rb-r",
+        "text": "A rare and elusive\nPOKéMON that is\nsaid to bring\fhappiness to those\nwho manage to get\nit."
+      },
+      {
+        "game": "rb-b",
+        "text": "A rare and elusive\nPOKéMON that is\nsaid to bring\fhappiness to those\nwho manage to get\nit."
+      },
+      {
+        "game": "y",
+        "text": "A gentle and kind­\nhearted POKéMON\nthat shares its\fnutritious eggs\nif it sees an\ninjured POKéMON."
+      },
+      {
+        "game": "gs-g",
+        "text": "It walks carefully\nto prevent its\negg from breaking.\fHowever, it is\nextremely fast at\nrunning away."
+      },
+      {
+        "game": "gs-s",
+        "text": "Few in number and\ndifficult to cap­\nture, it is said\fto bring happiness\nto the trainer who\ncatches it."
+      },
+      {
+        "game": "c",
+        "text": "People try to\ncatch it for its\nextremely\fnutritious eggs,\nbut it rarely can\nbe found."
+      },
+      {
+        "game": "rs-r",
+        "text": "CHANSEY lays nutritionally excellent\neggs on an everyday basis.\nThe eggs are so delicious, they are\feasily and eagerly devoured by even\nthose people who have lost their\nappetite."
+      },
+      {
+        "game": "rs-s",
+        "text": "CHANSEY lays nutritionally excellent\neggs on an everyday basis.\nThe eggs are so delicious, they are\feasily and eagerly devoured by even\nthose people who have lost their\nappetite."
+      },
+      {
+        "game": "e",
+        "text": "CHANSEY lay nutritionally excellent eggs\nevery day. The eggs are so delicious, they\nare eagerly devoured by even those people\nwho have lost their appetite."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "It lays several eggs a day. The eggs are\napparently rich in nutrients and extremely\ndelicious."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "A rare and elusive POKéMON that is said\nto bring happiness to those who manage to\ncatch one."
+      },
+      {
+        "game": "dp-d",
+        "text": "It is said to deliver happiness.\nBeing compassionate, it shares its\neggs with injured people."
+      },
+      {
+        "game": "dp-p",
+        "text": "It lays several eggs a day and\nwon’t share them with those\nwho have evil in their hearts."
+      },
+      {
+        "game": "pt",
+        "text": "A kindly Pokémon that lays highly\nnutritious eggs and shares them\nwith injured Pokémon or people."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "It walks carefully to prevent its\negg from breaking. However,\nit is extremely fast at running away."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "Being few in number and difficult to\ncapture, it is said to bring happiness\nto the Trainer who catches it."
+      },
+      {
+        "game": "bw-b",
+        "text": "A kindly Pokémon that lays highly\nnutritious eggs and shares them\nwith injured Pokémon or people."
+      },
+      {
+        "game": "bw-w",
+        "text": "A kindly Pokémon that lays highly\nnutritious eggs and shares them\nwith injured Pokémon or people."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "A kindly Pokémon that lays highly\nnutritious eggs and shares them\nwith injured Pokémon or people."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "A kindly Pokémon that lays highly\nnutritious eggs and shares them\nwith injured Pokémon or people."
+      },
+      {
+        "game": "xy-x",
+        "text": "It is said to deliver happiness.\nBeing compassionate, it shares its eggs\nwith injured people."
+      },
+      {
+        "game": "xy-y",
+        "text": "It lays several eggs a day. The eggs are apparently\nrich in nutrients and extremely delicious."
+      },
+      {
+        "game": "oras-or",
+        "text": "Chansey lays nutritionally excellent eggs on an everyday basis.\nThe eggs are so delicious, they are easily and eagerly\ndevoured by even those people who have lost their appetite."
+      },
+      {
+        "game": "oras-as",
+        "text": "Chansey lays nutritionally excellent eggs on an everyday basis.\nThe eggs are so delicious, they are easily and eagerly\ndevoured by even those people who have lost their appetite."
+      },
+      {
+        "game": "sm-s",
+        "text": "The eggs laid by Chansey are rich in nutrients\nand a favorite food of many Pokémon."
+      },
+      {
+        "game": "sm-m",
+        "text": "Not only are these Pokémon fast runners,\nthey’re also few in number, so anyone who finds\none must be lucky indeed."
+      },
+      {
+        "game": "usum-us",
+        "text": "It seems that other Pokémon’s efforts to take\nits delicious, nutritious egg away from it caused\nChansey to get faster at fleeing."
+      },
+      {
+        "game": "usum-um",
+        "text": "Because the eggs on their bellies have been\noverharvested by people in the past, the\nChansey population remains very small."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "A gentle and kindhearted Pokémon that shares\nits nutritious eggs if it sees an injured Pokémon."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "A gentle and kindhearted Pokémon that shares\nits nutritious eggs if it sees an injured Pokémon."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "The egg Chansey carries is not only delicious\nbut also packed with nutrition. It’s used as a\nhigh-class cooking ingredient."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "This species was once very slow. To protect their\neggs from other creatures, these Pokémon\nbecame able to flee quickly."
+      },
+      {
+        "game": "la",
+        "text": "This purehearted Pokémon shares its eggs with the injured."
+      }
+    ]
+  },
+  "chs": {
+    "name": "吉利蛋",
+    "genus": "蛋宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "吉利蛋生下的蛋饱含丰富的营养。\n是许多宝可梦非常爱吃的东西。"
+      },
+      {
+        "game": "sm-m",
+        "text": "因为是数量稀少\n而且逃跑很快的宝可梦，\n所以能找到它的人运气相当不错。"
+      },
+      {
+        "game": "usum-us",
+        "text": "其他宝可梦盯上了它那既美味\n又营养的蛋，在这追逐的过程中，\n它逃跑的速度好像变快了。"
+      },
+      {
+        "game": "usum-um",
+        "text": "经历了一段以夺取它腹部的\n蛋为目标的滥捕历史后，\n它的数量已经变得非常稀少。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "性格温柔的宝可梦，当它\n看到受伤的宝可梦时，会把\n营养丰富的蛋分给对方。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "性格温柔的宝可梦，当它\n看到受伤的宝可梦时，会把\n营养丰富的蛋分给对方。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "蛋不仅营养满分，\n还十分美味。\n被当做高级食材使用。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "原本动作迟缓。\n为了保护蛋不被抢走，\n逃跑的速度才变快了。"
+      }
+    ]
+  }
+}

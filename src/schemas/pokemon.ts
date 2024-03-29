@@ -14,6 +14,23 @@ export const pokemonIndexItemSchema = z
 
 export type PokemonIndexItem = z.infer<typeof pokemonIndexItemSchema>
 
+export const pokemonTextSchema = z.object({
+  name: z.string(),
+  genus: z.string(),
+  flavorText: z.array(
+    z.object({
+      game: slugSchema,
+      text: z.string(),
+    }),
+  ),
+})
+
+export type PokemonText = z.infer<typeof pokemonTextSchema>
+
+export const pokemonTextByLangSchema = z.record(pokemonTextSchema)
+
+export type PokemonTextByLang = z.infer<typeof pokemonTextByLangSchema>
+
 export const pokemonSchema = z
   .object({
     id: slugSchema,

@@ -1,0 +1,413 @@
+{
+  "jap": {
+    "name": "バニプッチ",
+    "genus": "しんせつポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "マイナス５０どの　いきを　はく。\nゆきの　けっしょうを　つくって\nあたりに　ゆきを　ふらせる。"
+      },
+      {
+        "game": "xy-y",
+        "text": "あさひの　エネルギーを　あびた\nつららが　ポケモンに　なった。\nゆきに　からだを　うめて　ねむる。"
+      },
+      {
+        "game": "oras-or",
+        "text": "マイナス５０どの　いきを　はく。\nゆきの　けっしょうを　つくって\nあたりに　ゆきを　ふらせる。"
+      },
+      {
+        "game": "oras-as",
+        "text": "あさひの　エネルギーを　あびた\nつららが　ポケモンに　なった。\nゆきに　からだを　うめて　ねむる。"
+      },
+      {
+        "game": "sm-s",
+        "text": "つららから　うまれた　ポケモン。\nつめたい　いきで　ゆきの　けっしょうを\nつくって　ゆきを　ふらせる。"
+      },
+      {
+        "game": "sm-m",
+        "text": "だきしめると　ひんやり　ここちよい。\nあつい　ちほうでは　いっかに　１ぴきと\nちょうほうされる　ポケモンだ。"
+      },
+      {
+        "game": "usum-us",
+        "text": "マイナス　５０どの　れいきを　はく。\nあたたかい　ばしょに　いると\nちょっとずつ　ちいさくなって　いく。"
+      },
+      {
+        "game": "usum-um",
+        "text": "あさひを　あびる　つららが　まだ\nとけたくないと　ねがい　うまれた。\nよるは　ゆきに　もぐって　ねむる。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "あつい　とちでは　くらせない。\nれいきを　はいて　ゆきを　ふらせ\nつもった　なかに　もぐって　ねむる。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "つららから　うまれたと　いわれる。\nマイナス５０どの　れいきを　はいて\nあたりを　こおらせ　すみやすくする。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Vanipeti",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "바닐프티",
+    "genus": "신설포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "마이너스 50도의 숨결을 내뱉는다.\n눈 결정을 만들어\n주변에 눈이 내리게 한다."
+      },
+      {
+        "game": "xy-y",
+        "text": "아침 해의 에너지를 받은\n고드름이 포켓몬이 되었다.\n눈에 몸을 묻고 잠든다."
+      },
+      {
+        "game": "oras-or",
+        "text": "마이너스 50도의 숨결을 내뱉는다.\n눈 결정을 만들어\n주변에 눈이 내리게 한다."
+      },
+      {
+        "game": "oras-as",
+        "text": "아침 해의 에너지를 받은\n고드름이 포켓몬이 되었다.\n눈에 몸을 묻고 잠든다."
+      },
+      {
+        "game": "sm-s",
+        "text": "고드름에서 태어난 포켓몬이다.\n차가운 숨으로 눈 결정을\n만들어 눈을 뿌린다."
+      },
+      {
+        "game": "sm-m",
+        "text": "껴안으면 차가워서 기분이 좋다.\n더운 지방에서는 한 집에 1마리씩 두고\n소중하게 여기는 포켓몬이다."
+      },
+      {
+        "game": "usum-us",
+        "text": "마이너스 50도 냉기를 내뱉는다.\n따듯한 장소에 있으면\n조금씩 작아진다."
+      },
+      {
+        "game": "usum-um",
+        "text": "아침 햇살을 받은 고드름이 아직\n녹고 싶지 않다고 소원하여 태어났다.\n밤에는 눈 속에 들어가 잠든다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "더운 곳에서는 살 수 없다.\n냉기를 뿜어 눈을 내리게 한 뒤\n쌓인 눈 속에 들어가 잠든다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "고드름에서 태어났다고 전해진다.\n마이너스 50도의 냉기를 뿜어\n주변을 얼려 살기 좋게 만든다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "迷你冰",
+    "genus": "新雪寶可夢",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "從冰柱中誕生的寶可夢。\n用冰冷的氣息製造雪的結晶，\n讓周圍降雪。"
+      },
+      {
+        "game": "sm-m",
+        "text": "抱緊牠就會感覺涼涼的\n非常舒服。在炎熱的地區，\n是每家必備１隻的便利寶可夢。"
+      },
+      {
+        "game": "usum-us",
+        "text": "會吐出零下５０度的寒氣。\n如果待在溫暖的地方，\n身體就會漸漸地變小。"
+      },
+      {
+        "game": "usum-um",
+        "text": "誕生自沐浴在朝陽下的\n冰柱還不願融化的心意。\n夜裡會潛進雪中睡覺。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "無法在炎熱的地方生存。\n會吐出冷氣來降雪，\n然後窩在積雪裡睡覺。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "據說牠是從冰柱中誕生的。\n為了能讓自己生活得更舒適，\n會吐出零下５０度的冷氣凍住四周。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Sorbébé",
+    "genus": "Pokémon Poudreuse",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Il exhale une haleine à -50 °C.\nIl fabrique des cristaux de neige\net fait neiger autour de lui."
+      },
+      {
+        "game": "bw-w",
+        "text": "Ce Pokémon est né d’un glaçon qui\na baigné dans la lumière du matin.\nIl se cache dans la neige pour dormir."
+      },
+      {
+        "game": "xy-x",
+        "text": "Il exhale une haleine à -50 °C. Il fabrique des cristaux\nde neige et fait neiger autour de lui."
+      },
+      {
+        "game": "xy-y",
+        "text": "Ce Pokémon est né d’un glaçon qui a baigné dans\nla lumière du matin. Il se cache dans la neige pour\ndormir."
+      },
+      {
+        "game": "oras-or",
+        "text": "Il exhale une haleine à -50 °C. Il fabrique des cristaux de neige\net fait neiger autour de lui."
+      },
+      {
+        "game": "oras-as",
+        "text": "Ce Pokémon est né d’un glaçon qui a baigné dans la lumière\ndu matin. Il se cache dans la neige pour dormir."
+      },
+      {
+        "game": "sm-s",
+        "text": "Né dans une colonne de glace, ce Pokémon\npeut créer des flocons de neige de son souffle\nglacé, voire même faire tomber la neige en été."
+      },
+      {
+        "game": "sm-m",
+        "text": "Serrer Sorbébé contre soi procure une délicieuse\nsensation de fraîcheur. Dans les régions\nchaudes, c’est le Pokémon à avoir à la maison."
+      },
+      {
+        "game": "usum-us",
+        "text": "Son souffle glacé descend jusqu’à -50 °C.\nIl fond peu à peu quand il se retrouve dans\nun endroit chaud."
+      },
+      {
+        "game": "usum-um",
+        "text": "Il est né d’une stalactite de glace qui, face au\nsoleil du matin, a fait le vœu de ne pas fondre.\nIl se terre dans la neige pour dormir la nuit."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Il ne peut pas vivre dans les contrées chaudes.\nIl souffle un air glacial pour faire tomber la neige,\npuis s’y plonge pour dormir."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "On raconte qu’il est né de stalactites.\nIl gèle les alentours en soufflant de l’air à - 50 °C\npour améliorer son confort."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Gelatini",
+    "genus": "Neuschnee-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Die Temperatur seines Odems liegt bei -50 °C.\nEs erzeugt Eiskristalle und lässt es in seiner\nUmgebung schneien."
+      },
+      {
+        "game": "xy-y",
+        "text": "Ein Eiszapfen, der durch die Energie der aufgehenden\nSonne zum Pokémon wurde. Nachts deckt es sich mit\nSchnee zu."
+      },
+      {
+        "game": "oras-or",
+        "text": "Die Temperatur seines Odems liegt bei -50 °C. Es erzeugt\nEiskristalle und lässt es in seiner Umgebung schneien."
+      },
+      {
+        "game": "oras-as",
+        "text": "Ein Eiszapfen, der durch die Energie der aufgehenden Sonne\nzum Pokémon wurde. Nachts deckt es sich mit Schnee zu."
+      },
+      {
+        "game": "sm-s",
+        "text": "Dieses Pokémon ist aus einem Eiszapfen\nentstanden. Mit seinem kalten Odem erzeugt\nes Eiskristalle und lässt es schneien."
+      },
+      {
+        "game": "sm-m",
+        "text": "Wenn man es umarmt, fühlt es sich angenehm\nund kühl an. In heißen Regionen hat man daher\ngern ein Exemplar im Haus."
+      },
+      {
+        "game": "usum-us",
+        "text": "Die Temperatur seines Atems liegt bei -50 °C.\nWenn es sich an warmen Orten aufhält, wird es\nnach und nach kleiner."
+      },
+      {
+        "game": "usum-um",
+        "text": "Es entstand aus dem Wunsch eines Eiszapfens,\nder in der Morgensonne nicht schmelzen wollte.\nNachts schläft es tief vergraben im Schnee."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Gelatini kann nicht an warmen Orten leben. Es\nerzeugt Schnee, indem es kalte Luft ausatmet,\nund vergräbt sich dann darin, um zu schlafen."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Es entstand angeblich aus einem Eiszapfen und\nspeit -50 ºC kalte Luft aus, um die Umgebung\nauf seine Wohlfühltemperatur abzukühlen."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Vanillite",
+    "genus": "Pokémon Nieve Fresca",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Lanza un aliento de -50 °C. Crea bloques de nieve y\nes capaz de lograr que nieve a su alrededor."
+      },
+      {
+        "game": "xy-y",
+        "text": "Nació de un carámbano que absorbió la energía del\nsol al alba. Duerme arropado por la nieve."
+      },
+      {
+        "game": "oras-or",
+        "text": "Lanza un aliento de -50 °C. Crea bloques de nieve y es capaz\nde lograr que nieve a su alrededor."
+      },
+      {
+        "game": "oras-as",
+        "text": "Nació de un carámbano que absorbió la energía del sol al\nalba. Duerme arropado por la nieve."
+      },
+      {
+        "game": "sm-s",
+        "text": "Pokémon nacido de un carámbano. Con su\naliento gélido es capaz de crear cristales de\nnieve y provocar una nevasca."
+      },
+      {
+        "game": "sm-m",
+        "text": "Al abrazarlo transmite una sensación agradable\ny refrescante. La gente que vive en las regiones\ncálidas aprecia mucho su presencia en casa."
+      },
+      {
+        "game": "usum-us",
+        "text": "Exhala vaho a una temperatura de -50 ºC. Su\ntamaño corporal se reduce poco a poco cuando\nse encuentra en un lugar cálido."
+      },
+      {
+        "game": "usum-um",
+        "text": "Nació a partir del deseo de una estalactita de\nno derretirse con los rayos del albor. Por la\nnoche se arropa bajo la nieve para dormir."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "No puede vivir en lugares muy cálidos. Provoca\nnevadas exhalando un vaho gélido y luego se\nacurruca en la nieve acumulada para dormir."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Este Pokémon nació a partir de un carámbano.\nExhala un vaho a -50 °C con el que congela el\nambiente para adaptarlo a sus necesidades."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Vanillite",
+    "genus": "Pokémon Nevefresca",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Il suo fiato è a -50 °C. Fa nevicare tutto intorno,\nformando dei cristalli di neve."
+      },
+      {
+        "game": "xy-y",
+        "text": "Pokémon nato da una stalattite che ha ricevuto\nl’energia del sole mattutino. Dorme sepolto sotto\nla neve."
+      },
+      {
+        "game": "oras-or",
+        "text": "Il suo fiato è a -50 °C. Fa nevicare tutto intorno, formando\ndei cristalli di neve."
+      },
+      {
+        "game": "oras-as",
+        "text": "Pokémon nato da una stalattite che ha ricevuto l’energia del\nsole mattutino. Dorme sepolto sotto la neve."
+      },
+      {
+        "game": "sm-s",
+        "text": "Pokémon nato da una stalattite di ghiaccio.\nCon il suo fiato gelido forma dei cristalli\ndi neve e fa nevicare."
+      },
+      {
+        "game": "sm-m",
+        "text": "Abbracciarlo dà una piacevole sensazione\ndi freschezza. Per chi vive in regioni calde, è\ndecisamente un Pokémon da tenere in casa."
+      },
+      {
+        "game": "usum-us",
+        "text": "Il suo fiato ha una temperatura di -50 °C.\nQuando si trova in un luogo caldo, il volume\ndel suo corpo si riduce a poco a poco."
+      },
+      {
+        "game": "usum-um",
+        "text": "È nato dal desiderio di una stalattite che non\nvoleva sciogliersi ai raggi del sole mattutino.\nLa notte dorme immerso nella neve."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Non può vivere nei luoghi caldi. Fa nevicare\nesalando un alito gelido e poi si addormenta\nimmerso nella neve che si è accumulata."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Si dice che sia nato da una stalattite di ghiaccio.\nPer crearsi un habitat adatto, congela l’ambiente\nintorno con il suo fiato a -50 ºC."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Vanillite",
+    "genus": "Fresh Snow Pokémon",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "The temperature of their breath\nis -58° F. They create snow crystals and\nmake snow fall in the areas around them."
+      },
+      {
+        "game": "bw-w",
+        "text": "This Pokémon formed from icicles\nbathed in energy from the morning sun.\nIt sleeps buried in snow."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "Theoretically, this Pokémon formed from\nicicles bathed in energy from the morning\nsun. Their breath is -58° F."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "Theoretically, this Pokémon formed from\nicicles bathed in energy from the morning\nsun. Their breath is -58° F."
+      },
+      {
+        "game": "xy-x",
+        "text": "The temperature of their breath is -58 degrees\nFahrenheit. They create snow crystals and make\nsnow fall in the areas around them."
+      },
+      {
+        "game": "xy-y",
+        "text": "This Pokémon formed from icicles bathed in energy\nfrom the morning sun. It sleeps buried in snow."
+      },
+      {
+        "game": "oras-or",
+        "text": "The temperature of their breath is -58 degrees\nFahrenheit. They create snow crystals and make\nsnow fall in the areas around them."
+      },
+      {
+        "game": "oras-as",
+        "text": "This Pokémon formed from icicles bathed in energy\nfrom the morning sun. It sleeps buried in snow."
+      },
+      {
+        "game": "sm-s",
+        "text": "Born of an icicle, this Pokémon uses its frosty\nbreath to make ice crystals, causing snow\nto fall."
+      },
+      {
+        "game": "sm-m",
+        "text": "It feels pleasantly cool when embraced. This\nPokémon is treasured by households in\nwarm regions."
+      },
+      {
+        "game": "usum-us",
+        "text": "It exhales cold air that is at –58 degrees\nFahrenheit. When it’s in a warm place, it shrinks\nlittle by little."
+      },
+      {
+        "game": "usum-um",
+        "text": "When the morning sun hit an icicle, it wished not\nto melt, and thus Vanillite was born. At night, it\nburies itself in snow to sleep."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Unable to survive in hot areas, it makes itself\ncomfortable by breathing out air cold enough to\ncause snow. It burrows into the snow to sleep."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Supposedly, this Pokémon was born from an\nicicle. It spews out freezing air at −58 degrees\nFahrenheit to make itself more comfortable."
+      }
+    ]
+  },
+  "chs": {
+    "name": "迷你冰",
+    "genus": "新雪宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "从冰柱中诞生的宝可梦。\n用冰冷的气息制造雪的结晶，\n让天上下雪。"
+      },
+      {
+        "game": "sm-m",
+        "text": "抱紧的话，就会感觉凉凉的\n非常舒服。在炎热地区，\n是每家必备１只的便利宝可梦。"
+      },
+      {
+        "game": "usum-us",
+        "text": "会吐出零下５０度的冷气。\n如果呆在温暖的场所，\n就会一点点地变小。"
+      },
+      {
+        "game": "usum-um",
+        "text": "是由沐浴在朝阳下但仍不愿\n融化的冰柱诞生而成。\n晚上会潜入雪中睡觉。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "无法在炎热的地方生存。\n会吐出冷气来降雪，\n然后窝在积雪里睡觉。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "据说它是从冰柱中诞生的。\n为了能让自己生活得更舒适，\n会吐出零下５０度的冷气冻住四周。"
+      }
+    ]
+  }
+}

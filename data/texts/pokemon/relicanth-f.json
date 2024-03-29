@@ -1,0 +1,453 @@
+{
+  "jap": {
+    "name": "ジーランス",
+    "genus": "ちょうじゅポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "１おくねん　まえから　すがたが\nかわらない　ポケモン。しんかいを\nちょうさちゅうに　はっけんされた。"
+      },
+      {
+        "game": "xy-y",
+        "text": "しんかいちょうさで　はっけんされた\nめずらしい　ポケモン。１おくねんの\nあいだ　すがたが　かわっていない。"
+      },
+      {
+        "game": "oras-or",
+        "text": "１おくねんの　ながい　あいだ　まったく　すがたが\nかわらずに　しんかいで　くらしていた　ポケモン。\nはの　ない　くちで　びせいぶつだけを　たべる。"
+      },
+      {
+        "game": "oras-as",
+        "text": "しんかい　ちょうさで　はっけんされた　ちんしゅ。\nごつごつした　いわの　ような　うろこで　おおわれ\nかいていの　すいあつに　たえる　からだを　もつ。"
+      },
+      {
+        "game": "sm-s",
+        "text": "１おくねんまえから　おなじ　すがた。\nたいないが　あぶらまみれ　なので\nしんかいの　すいあつに　たえられる。"
+      },
+      {
+        "game": "sm-m",
+        "text": "しんかいちょうさちゅう　ぐうぜんに\nはっけん　された。　はが　たいかし\nすうようにして　びせいぶつを　とる。"
+      },
+      {
+        "game": "usum-us",
+        "text": "ぜつめつしたと　かんがえられていた。\nジーランスの　なは　はっけんしゃの\nなまえを　もじって　つけられた。"
+      },
+      {
+        "game": "usum-um",
+        "text": "１おくねんかん　まったく　すがたが\nかわっていないのは　せいめい　として\nかんせい　されているから　らしい。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "いわのように　かたい　ウロコと\nあぶらの　つまった　うきぶくろで\nしんかいの　すいあつに　たえる。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "しんかいちょうさで　はっけんされた。\n１おくねんかん　すがたが　かわらず\nいきているかせき　と　よばれている。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Glanth",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "시라칸",
+    "genus": "장수포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "1억 년 전부터 모습이\n바뀌지 않은 포켓몬이다. 심해를\n조사하던 중 발견되었다."
+      },
+      {
+        "game": "xy-y",
+        "text": "심해 조사에서 발견된\n희귀한 포켓몬이다. 1억 년\n동안 모습이 바뀌지 않았다."
+      },
+      {
+        "game": "oras-or",
+        "text": "1억 년이란 긴 세월 동안 전혀 모습이\n바뀌지 않고 심해에서 살고 있던 포켓몬이다.\n이빨이 없는 입으로 미생물만을 먹는다."
+      },
+      {
+        "game": "oras-as",
+        "text": "심해 조사로 발견된 희귀종이다.\n울퉁불퉁한 바위 같은 비늘에 덮여\n해저의 수압을 견뎌내는 몸을 지녔다."
+      },
+      {
+        "game": "sm-s",
+        "text": "1억 년 전부터 같은 모습이다.\n체내가 기름투성이라서\n심해의 수압을 견딜 수 있다."
+      },
+      {
+        "game": "sm-m",
+        "text": "심해 조사 중 우연히\n발견되었다. 이빨이 퇴화하여\n빨아들이듯 미생물을 먹는다."
+      },
+      {
+        "game": "usum-us",
+        "text": "멸종되었고 여겨져 왔다.\n시라칸의 이름은 발견한\n사람의 이름을 따서 만들어졌다."
+      },
+      {
+        "game": "usum-um",
+        "text": "1억년 동안 전혀 모습이\n바뀌지 않은 것은 생명체로서\n완성되었기 때문이라고 한다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "바위처럼 단단한 비늘과\n기름으로 가득 찬 부레로\n심해의 수압을 견딘다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "심해 조사를 통해 발견되었다.\n1억 년 동안 모습이 변하지 않아\n살아 있는 화석이라고 불린다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "古空棘魚",
+    "genus": "長壽寶可夢",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "從１億年前就長這個樣子。\n因為體內積存著厚厚的脂肪，\n所以能承受深海的水壓。"
+      },
+      {
+        "game": "sm-m",
+        "text": "在深海調查中偶然被發現。\n牙齒退化，只能用吸食的方式\n攝取微生物。"
+      },
+      {
+        "game": "usum-us",
+        "text": "曾被認為已經絕種。\n古空棘魚名字的由來\n是取自發現者的名字。"
+      },
+      {
+        "game": "usum-um",
+        "text": "之所以在１億年之間完全沒有\n外觀上的變化，似乎是因為牠的\n生命形式已經達到了完美境界。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "如岩石般堅硬的鱗片\n以及裝滿了油脂的鰾囊，\n讓牠能承受深海的水壓。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "在深海調查中被發現的寶可夢。\n樣子在１億年之間都沒有變化，\n被人們稱為活化石。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Relicanth",
+    "genus": "Pokémon Longévité",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Un Pokémon rare aperçu lors d’une\nexploration sous-marine. Il n’a pas\névolué depuis 100 millions d’années."
+      },
+      {
+        "game": "bw-w",
+        "text": "Un Pokémon rare aperçu lors d’une\nexploration sous-marine. Il n’a pas\névolué depuis 100 millions d’années."
+      },
+      {
+        "game": "xy-x",
+        "text": "Relicanth n’a connu aucune évolution depuis 100\nmillions d’années. Il a été découvert pendant une\nexploration dans les profondeurs de la mer."
+      },
+      {
+        "game": "xy-y",
+        "text": "Un Pokémon rare aperçu lors d’une exploration\nsous-marine. Il n’a pas évolué depuis 100 millions\nd’années."
+      },
+      {
+        "game": "oras-or",
+        "text": "Les Relicanth sont une espèce de Pokémon qui a existé\npendant 100 millions d’années sans jamais changer de forme.\nCe Pokémon antique se nourrit d’organismes microscopiques\navec sa bouche édentée."
+      },
+      {
+        "game": "oras-as",
+        "text": "Relicanth est une espèce rare découverte pendant des\nexplorations sous-marines. Son corps peut supporter\nl’énorme pression des profondeurs océaniques. Il est\nrecouvert d’écailles semblables à des pierres."
+      },
+      {
+        "game": "sm-s",
+        "text": "Il n’a pas changé d’apparence en 100 millions\nd’années. La densité de sa couche graisseuse\nl’aide à supporter la pression des grands fonds."
+      },
+      {
+        "game": "sm-m",
+        "text": "Il a été découvert complètement par hasard au\nfin fond de l’océan. Sa dentition déplorable le\ncontraint à se nourrir de micro-organismes."
+      },
+      {
+        "game": "usum-us",
+        "text": "On a longtemps cru son espèce disparue.\nSon nom serait une déformation du patronyme\nde la personne qui l’a découvert."
+      },
+      {
+        "game": "usum-um",
+        "text": "On raconte que s’il n’a pas changé d’apparence\nen 100 millions d’années, c’est parce qu’il\na atteint le stade de forme de vie parfaite."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Il peut supporter la pression des profondeurs\ngrâce à ses écailles aussi solides que le roc et\nà ses vessies natatoires remplies de graisse."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Découvert lors d’une expédition dans les abysses,\nson apparence inchangée depuis 100 millions\nd’années lui a valu le surnom de « fossile vivant »."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Relicanth",
+    "genus": "Bestand-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "100 Millionen Jahre lang blieb es unverändert.\nEs wurde bei einer Tiefsee-Tauchexpedition entdeckt."
+      },
+      {
+        "game": "xy-y",
+        "text": "Tiefseeforscher fanden dieses seltene Pokémon,\ndas sich in 100 Millionen Jahren nicht verändert hat."
+      },
+      {
+        "game": "oras-or",
+        "text": "Relicanth ist eine Pokémon-Art, die seit 100 Millionen Jahren\nexistiert, ohne jemals ihre Form zu verändern. Dieses\nprähistorische Pokémon hat ein zahnloses Maul und ernährt\nsich von Mikroorganismen."
+      },
+      {
+        "game": "oras-as",
+        "text": "Relicanth ist eine seltene Art, die auf einer\nTiefsee-Expedition entdeckt wurde. Dieses Pokémon\nhält dem enormen Wasserdruck des Ozeans stand.\nSein Körper ist mit steinharten Schuppen bedeckt."
+      },
+      {
+        "game": "sm-s",
+        "text": "Relicanth existiert seit 100 Millionen Jahren in\nunveränderter Form. Dank seines Körperfetts\nhält es dem Wasserdruck der Tiefsee stand."
+      },
+      {
+        "game": "sm-m",
+        "text": "Es wurde zufällig auf einer Tiefsee-Expedition\nentdeckt. Es ernährt sich von Mikroorganismen,\ndie es mit seinem zahnlosen Maul einsaugt."
+      },
+      {
+        "game": "usum-us",
+        "text": "Es galt als ausgestorben. Der Name Relicanth\nist eine Abwandlung des Namens seines\nEntdeckers."
+      },
+      {
+        "game": "usum-um",
+        "text": "Seine seit 100 Millionen Jahren unveränderte\nGestalt wird als Zeichen dafür gesehen, dass\nes eine vollendete Lebensform ist."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Dank seiner steinharten Schuppen und mit\nFett gefüllten Schwimmblasen kann es dem\nWasserdruck der Tiefsee standhalten."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Es wurde auf einer Tiefsee-Expedition entdeckt.\nMan nennt es ein „lebendes Fossil“, da es sich\nseit 100 Millionen Jahren nicht verändert hat."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Relicanth",
+    "genus": "Pokémon Longevo",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "No ha sufrido ningún cambio desde hace 100 millones\nde años. Fue descubierto durante una expedición\nmarina."
+      },
+      {
+        "game": "xy-y",
+        "text": "Un Pokémon raro descubierto en una exploración\nmarina. No ha cambiado en más de 100 millones de\naños."
+      },
+      {
+        "game": "oras-or",
+        "text": "Relicanth pertenece a una especie de Pokémon que lleva\nmillones de años sin cambiar de forma. Este ancestral\nPokémon se alimenta de microorganismos por la boca\ndesdentada que tiene."
+      },
+      {
+        "game": "oras-as",
+        "text": "Relicanth pertenece a una rara especie descubierta al explorar\nel fondo marino. Es grande y está cubierto de toscas y duras\nescamas, con las que puede soportar la presión del fondo\noceánico."
+      },
+      {
+        "game": "sm-s",
+        "text": "No ha cambiado de aspecto en 100 millones de\naños. Su gruesa capa de grasa le permite\nsoportar la presión abisal."
+      },
+      {
+        "game": "sm-m",
+        "text": "Fue descubierto de forma accidental durante\nunas exploraciones marinas. No tiene dientes,\npor lo que se alimenta de microorganismos."
+      },
+      {
+        "game": "usum-us",
+        "text": "Se creía que esta especie se había extinguido.\nLe pusieron su nombre, Relicanth, en honor a\nsu descubridor."
+      },
+      {
+        "game": "usum-um",
+        "text": "La razón por la que su aspecto no ha cambiado\nun ápice durante 100 millones de años se debe,\nal parecer, a que es una forma de vida perfecta."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Es capaz de soportar la alta presión del fondo\nmarino gracias a sus escamas, duras como rocas,\ny a sus vejigas natatorias llenas de grasa."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Fue descubierto durante una expedición marina.\nSe lo considera un fósil viviente, pues no ha\ncambiado en cien millones de años."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Relicanth",
+    "genus": "Pokémon Longevità",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Immutato da 100 milioni di anni, è stato scoperto\ndurante un’esplorazione nelle profondità marine."
+      },
+      {
+        "game": "xy-y",
+        "text": "Un Pokémon raro scoperto durante un’esplorazione\ndel mare profondo. È immutato da 100 milioni di anni."
+      },
+      {
+        "game": "oras-or",
+        "text": "Relicanth è una specie esistente da 100 milioni di anni senza\nalcuna mutazione di forma. Questo antichissimo Pokémon\nsi nutre di microrganismi, come prova la sua bocca sdentata."
+      },
+      {
+        "game": "oras-as",
+        "text": "Relicanth è una specie rara scoperta durante le esplorazioni\nnelle profondità marine. Il suo corpo riesce a resistere\nall’incredibile pressione degli abissi oceanici ed è ricoperto\ndi squame dure come roccia viva."
+      },
+      {
+        "game": "sm-s",
+        "text": "Il suo aspetto è immutato da 100 milioni di anni.\nResiste all’enorme pressione degli abissi marini\ngrazie a uno spesso strato di grasso corporeo."
+      },
+      {
+        "game": "sm-m",
+        "text": "È stato scoperto per caso nelle profondità\nmarine durante una perlustrazione. Sprovvisto\ndi denti, si nutre risucchiando microrganismi."
+      },
+      {
+        "game": "usum-us",
+        "text": "Un tempo si credeva che si fosse estinto.\nPrende il nome dalla persona che lo ha\nscoperto."
+      },
+      {
+        "game": "usum-um",
+        "text": "La sua forma è immutata da 100 milioni di anni\ne ciò sembra indicare che abbia raggiunto\nla perfezione."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Riesce a sopportare la pressione degli abissi\nmarini grazie alle sue scaglie dure come la roccia\ne alle vesciche natatorie piene di grasso."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Scoperto durante una perlustrazione degli abissi\nmarini, viene chiamato “fossile vivente” per via\ndel suo aspetto, immutato da 100 milioni di anni."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Relicanth",
+    "genus": "Longevity Pokémon",
+    "flavorText": [
+      {
+        "game": "rs-r",
+        "text": "RELICANTH is a POKéMON species that\nexisted for a hundred million years\nwithout ever changing its form.\fThis ancient POKéMON feeds on\nmicroscopic organisms with its\ntoothless mouth."
+      },
+      {
+        "game": "rs-s",
+        "text": "RELICANTH is a rare species that was\ndiscovered in deep-sea explorations.\nThis POKéMON’s body withstands the\fenormous water pressure of the ocean\ndepths. Its body is covered in tough\nscales that are like craggy rocks."
+      },
+      {
+        "game": "e",
+        "text": "A POKéMON that was once believed to have\nbeen extinct. The species has not changed\nits form for 100 million years. It walks on\nthe seafloor using its pectoral fins."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "It has remained unchanged for 100\nmillion years. It was discovered\nduring a deep-sea exploration."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "It has remained unchanged for 100\nmillion years. It was discovered\nduring a deep-sea exploration."
+      },
+      {
+        "game": "dp-d",
+        "text": "A rare Pokémon discovered during\na deep-sea exploration. It has not\nchanged in over 100 million years."
+      },
+      {
+        "game": "dp-p",
+        "text": "A rare Pokémon discovered during\na deep-sea exploration. It has not\nchanged in over 100 million years."
+      },
+      {
+        "game": "pt",
+        "text": "A rare Pokémon discovered during\na deep-sea exploration. It has not\nchanged in over 100 million years."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "Discovered by chance during\ndeep-sea explorations, it has not\nchanged since ancient times."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "Discovered by chance during\ndeep-sea explorations, it has not\nchanged since ancient times."
+      },
+      {
+        "game": "bw-b",
+        "text": "A rare Pokémon discovered during\na deep-sea exploration. It has not\nchanged in over 100 million years."
+      },
+      {
+        "game": "bw-w",
+        "text": "A rare Pokémon discovered during\na deep-sea exploration. It has not\nchanged in over 100 million years."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "A rare Pokémon discovered during\na deep-sea exploration. It has not\nchanged in over 100 million years."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "A rare Pokémon discovered during\na deep-sea exploration. It has not\nchanged in over 100 million years."
+      },
+      {
+        "game": "xy-x",
+        "text": "It has remained unchanged for 100 million years.\nIt was discovered during a deep-sea exploration."
+      },
+      {
+        "game": "xy-y",
+        "text": "A rare Pokémon discovered during a deep-sea\nexploration. It has not changed in over\n100 million years."
+      },
+      {
+        "game": "oras-or",
+        "text": "Relicanth is a Pokémon species that existed for a hundred\nmillion years without ever changing its form. This ancient\nPokémon feeds on microscopic organisms with its\ntoothless mouth."
+      },
+      {
+        "game": "oras-as",
+        "text": "Relicanth is a rare species that was discovered in deep-sea\nexplorations. This Pokémon’s body withstands the enormous\nwater pressure of the ocean depths. Its body is covered in\ntough scales that are like craggy rocks."
+      },
+      {
+        "game": "sm-s",
+        "text": "Its form has remained the same for one hundred\nmillion years. Its body is filled with fat, so it can\nwithstand the water pressure of the deep sea."
+      },
+      {
+        "game": "sm-m",
+        "text": "It was fortuitously discovered during a deep sea\nexpedition. Its teeth have atrophied, so it now\nsurvives on microscopic organisms it sucks up."
+      },
+      {
+        "game": "usum-us",
+        "text": "Thought to have gone extinct, Relicanth was\ngiven a name that is a variation of the name of\nthe person who discovered it."
+      },
+      {
+        "game": "usum-um",
+        "text": "The reason it hasn’t changed at all in a hundred\nmillion years is that it’s apparently already a\nperfect life-form."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Rock-hard scales and oil-filled swim bladders\nallow this Pokémon to survive the intense water\npressure of the deep sea."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "This Pokémon was discovered during deep-sea\nexploration. Its appearance hasn’t changed in\n100,000,000 years, so it’s called a living fossil."
+      }
+    ]
+  },
+  "chs": {
+    "name": "古空棘鱼",
+    "genus": "长寿宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "从１亿年前起就是相同的样子。\n因为体内富含脂肪，\n所以可以承受深海的水压。"
+      },
+      {
+        "game": "sm-m",
+        "text": "在深海调查中被偶然发现。\n牙齿退化，靠吸食来摄取微生物。"
+      },
+      {
+        "game": "usum-us",
+        "text": "曾被认为已经灭绝。\n古空棘鱼的名字是\n模仿发现者的名字而起的。"
+      },
+      {
+        "game": "usum-um",
+        "text": "好像作为生命已是完成状态，\n所以在１亿年间，\n样子完全没有变化。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "如岩石般坚硬的鳞片\n和富含脂肪的浮囊使它\n能够耐得住深海的水压。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "在深海调查中被发现的宝可梦。\n样子在１亿年间都没有任何变化，\n被人们称为活化石。"
+      }
+    ]
+  }
+}

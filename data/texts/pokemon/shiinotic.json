@@ -1,0 +1,277 @@
+{
+  "jap": {
+    "name": "マシェード",
+    "genus": "はっこうポケモン",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "よなかに　マシェードのすむ　もりに\nいくのは　きけん。　あやしいひかりに\nまどわされ　にどと　かえれなくなる。"
+      },
+      {
+        "game": "sm-m",
+        "text": "てんめつする　ほうしを　ふきだし\nねむりに　いざなう。　ねむった\nえものの　せいきを　すいとる。"
+      },
+      {
+        "game": "usum-us",
+        "text": "えものを　ねむらせ　うでの　さきから\nせいきを　うばう。　なかまが　よわると\nせいきを　おくって　たすけてあげる。"
+      },
+      {
+        "game": "usum-um",
+        "text": "なわばりを　めぐり　パラセクトと\nあらそい　はじめると　あたりいちめん\nほうしまみれに　なってしまうぞ。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "てんめつする　ほうしの　ひかりで\nえものを　おびきよせて　ねむらせる。\nゆびさきから　せいきを　すいとる。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "まよなか　もりの　おくに　あかりを\nみつけても　ちかづいては　いけない。\nマシェードに　ねむらされてしまうぞ。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Mashade",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "마셰이드",
+    "genus": "발광포켓몬",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "한밤중에 마셰이드가 사는 숲에\n가는 것은 위험하다. 이상한빛에\n유인되어 다시는 돌아올 수 없게 된다."
+      },
+      {
+        "game": "sm-m",
+        "text": "깜빡이는 포자를 뿜어내어\n잠으로 유도한다. 잠든\n먹이의 정기를 빨아들인다."
+      },
+      {
+        "game": "usum-us",
+        "text": "먹이를 잠들게 하고 팔 끝으로\n생기를 빼앗는다. 동료가 약해지면\n생기를 보내 도와준다."
+      },
+      {
+        "game": "usum-um",
+        "text": "영역을 두고 파라섹트와\n싸움을 시작하면 부근 일대는\n포자투성이가 되어 버린다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "깜빡이는 포자의 빛으로\n먹이를 유인해서 잠들게 한다.\n손끝으로 생기를 흡수한다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "한밤중에 숲속에서 빛을\n발견하더라도 다가가면 안 된다.\n마셰이드가 잠들어 버리게 한다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "燈罩夜菇",
+    "genus": "發光寶可夢",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "深夜前往燈罩夜菇棲息的森林\n是很危險的。會被怪異的光線\n迷惑，從此再也回不來。"
+      },
+      {
+        "game": "sm-m",
+        "text": "會噴出閃爍的孢子讓獵物睡著，\n再從睡著的獵物身上吸取精氣。"
+      },
+      {
+        "game": "usum-us",
+        "text": "會讓獵物睡著，然後用手臂前端\n奪取獵物的精氣。在夥伴虛弱的時候，\n會輸送精氣過去拯救對方。"
+      },
+      {
+        "game": "usum-um",
+        "text": "一旦為了爭奪地盤而\n與派拉斯特展開鬥爭，\n周圍就會變得到處都是孢子。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "用孢子閃爍著的光\n吸引獵物，讓對方睡著。\n會從指尖吸收精氣。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "如果半夜裡在森林的深處\n看見光亮，記住千萬不要接近。\n燈罩夜菇會讓你睡著的。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Lampignon",
+    "genus": "Pokémon Luminescent",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "Il est risqué de s’aventurer la nuit dans un bois\npeuplé de Lampignon. Attirés par leur lumière\nenvoûtante, certains n’en sont jamais revenus."
+      },
+      {
+        "game": "sm-m",
+        "text": "Il projette des spores clignotantes qui\nhypnotisent et endorment ses proies,\navant de venir absorber leur énergie vitale."
+      },
+      {
+        "game": "usum-us",
+        "text": "Il endort ses victimes puis aspire leur énergie\nvitale avec ses doigts. Il aide ses congénères\naffaiblis en partageant cette énergie avec eux."
+      },
+      {
+        "game": "usum-um",
+        "text": "Quand un conflit territorial éclate entre Parasect\net lui, un brouillard de spores envahit toute\nla zone."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Il attire ses proies et les endort grâce\nau clignotement de ses spores. Il aspire ensuite\nleur énergie vitale du bout de ses doigts."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Il ne faut pas s’approcher des lumières qui luisent\nla nuit au fond des bois, sous peine de se faire\nendormir par un Lampignon."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Lamellux",
+    "genus": "Lumineszenz-Pokémon",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "Nachts sollte man Wälder meiden, in denen\nLamellux leben. Ihr unheimliches Licht raubt\njedem die Orientierung."
+      },
+      {
+        "game": "sm-m",
+        "text": "Speit blinkende Sporen, die eine einschläfernde\nWirkung haben. Schläft die Beute ein, wird ihr\ndie Lebenskraft ausgesaugt."
+      },
+      {
+        "game": "usum-us",
+        "text": "Es lullt seine Gegner in den Schlaf und raubt\nihnen über seine Fingerspitzen die Lebenskraft.\nDiese schickt es schwächelnden Kameraden."
+      },
+      {
+        "game": "usum-um",
+        "text": "Kommt es zwischen ihm und Parasek zu\nRevierkämpfen, ist hinterher die gesamte\nUmgebung mit Sporen bedeckt."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Mit blinkenden Sporen lullt es seine Beute in\nden Schlaf und saugt ihr dann über seine\nFingerspitzen die Lebenskraft aus."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Stößt man im nächtlichen Wald auf ein Leuchten,\nsollte man sich diesem nicht nähern. Sonst wird\nman nämlich von Lamellux in den Schlaf gelullt."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Shiinotic",
+    "genus": "Pokémon Luminiscente",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "Es peligroso adentrarse por la noche en un\nbosque habitado por Shiinotic. Su luz confunde\na los caminantes, que terminan perdiéndose."
+      },
+      {
+        "game": "sm-m",
+        "text": "Las esporas parpadeantes que despide tienen\nun efecto somnífero. Absorbe la vitalidad de su\npresa cuando esta se queda dormida."
+      },
+      {
+        "game": "usum-us",
+        "text": "Duerme a su presa y le arrebata la vitalidad con\nsus brazos. Si otro Shiinotic se encuentra en\napuros, le transmite sus fuerzas."
+      },
+      {
+        "game": "usum-um",
+        "text": "Al rondar por su territorio, si se encuentra con\nun Parasect, competirá con él y acabarán\ndejando el lugar cubierto de esporas."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Atrae y duerme a su presa con la luz parpadeante\nde sus esporas y luego le absorbe la energía vital\ncon la punta de los dedos."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Conviene no acercarse si se avistan luces en la\nespesura del bosque en plena noche, ya que\npodrían ser las esporas soporíferas de Shiinotic."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Shiinotic",
+    "genus": "Pokémon Luminescenza",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "Meglio non avventurarsi di notte in un bosco\nabitato da questi Pokémon, perché le loro luci\nfanno perdere il senso dell’orientamento."
+      },
+      {
+        "game": "sm-m",
+        "text": "Libera spore soporifere che emettono una luce\nintermittente di cui si serve per addormentare\nle sue prede, a cui poi succhia l’energia vitale."
+      },
+      {
+        "game": "usum-us",
+        "text": "Addormenta la preda e utilizza le estremità delle\nsue braccia per rubarle l’energia vitale, che può\nanche trasmettere ai compagni in difficoltà."
+      },
+      {
+        "game": "usum-um",
+        "text": "Quando Shiinotic e Parasect lottano per\nil dominio di un territorio, finiscono per\ncoprire ogni cosa con le loro spore."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Attira a sé la preda con la luce intermittente\ndelle sue spore e l’addormenta. Poi ne succhia\nl’energia vitale con le estremità delle dita."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Se di notte si scorge una luce nel cuore della\nforesta, meglio non avvicinarsi: si rischia di finire\nvittima delle spore soporifere di Shiinotic."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Shiinotic",
+    "genus": "Illuminating Pokémon",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "Forests where Shiinotic live are treacherous to\nenter at night. People confused by its strange\nlights can never find their way home again."
+      },
+      {
+        "game": "sm-m",
+        "text": "It emits flickering spores that cause drowsiness.\nWhen its prey succumb to sleep, this Pokémon\nfeeds on them by sucking in their energy."
+      },
+      {
+        "game": "usum-us",
+        "text": "It puts its prey to sleep and siphons off their\nvitality through the tip of its arms. If one of its\nkind is weakened, it helps by sending it vitality."
+      },
+      {
+        "game": "usum-um",
+        "text": "When it starts fighting for territory with\nParasect, the entire area gets completely\ncoated in spores!"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Its flickering spores lure in prey and put them to\nsleep. Once this Pokémon has its prey snoozing,\nit drains their vitality with its fingertips."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "If you see a light deep in a forest at night,\ndon’t go near. Shiinotic will make you fall\nfast asleep."
+      }
+    ]
+  },
+  "chs": {
+    "name": "灯罩夜菇",
+    "genus": "发光宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "深夜前往灯罩夜菇栖息的森林\n是很危险的。会被怪异的光线\n诱惑，再也回不来了。"
+      },
+      {
+        "game": "sm-m",
+        "text": "喷出闪烁的孢子诱使对方睡眠。\n会吸取睡着了的猎物的精气。"
+      },
+      {
+        "game": "usum-us",
+        "text": "让猎物睡着，然后从手腕处夺走\n对方的生命气息。伙伴虚弱的话，\n就会输送生命气息给予拯救。"
+      },
+      {
+        "game": "usum-um",
+        "text": "一旦围绕着领地问题\n与派拉斯特展开争斗，\n周围就会变得到处都是孢子。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "用孢子闪烁着的光\n吸引猎物，让对方睡着。\n会从指尖吸收精气。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "如果大半夜在森林的深处\n看见光亮，记住千万不要接近。\n灯罩夜菇会让你睡着的。"
+      }
+    ]
+  }
+}

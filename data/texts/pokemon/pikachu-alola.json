@@ -1,0 +1,553 @@
+{
+  "jap": {
+    "name": "ピカチュウ",
+    "genus": "ねずみポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "しっぽを　たてて　まわりの\nようすを　さぐっていると　ときどき\nかみなりが　しっぽに　おちてくる。"
+      },
+      {
+        "game": "xy-y",
+        "text": "ほっぺたの　りょうがわに\nちいさい　でんきぶくろを　もつ。\nピンチのときに　ほうでんする。"
+      },
+      {
+        "game": "oras-or",
+        "text": "はじめて　みる　ものには　でんげきを　あてる。\nくろこげの　きのみが　おちていたら　それは\nでんげきの　つよさを　まちがえた　しょうこだよ。"
+      },
+      {
+        "game": "oras-as",
+        "text": "ほっぺの　でんきぶくろの　でんきは　まよなか\nねている　あいだに　ためられている　らしいよ。\nねぼけて　ほうでんしてしまう　ことが　ある。"
+      },
+      {
+        "game": "sm-s",
+        "text": "たくさんの　ピカチュウを　あつめ\nはつでんしょを　つくる　けいかくが\nさいきん　はっぴょう　された。"
+      },
+      {
+        "game": "sm-m",
+        "text": "でんきを　ためる　せいしつ。\nときどき　おもいきり　ほうでん\nしないと　ストレスを　かんじる。"
+      },
+      {
+        "game": "usum-us",
+        "text": "でんきを　ためこむ　せいしつ。\nピカチュウが　むれて　くらす　もりは\nらくらいが　たえず　キケンだ。"
+      },
+      {
+        "game": "usum-um",
+        "text": "ねてる　あいだに　ほっぺの　ふくろで\nでんきを　つくる。　ねぶそく　だと\nよわい　でんきしか　だせなくなるぞ。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "もりに　すむ　ポケモン。　ほっぺの\nふくろは　でんきを　ためるので\nさわると　パチパチ　しびれるぞ。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "もりに　すむ　ポケモン。　ほっぺの\nふくろは　でんきを　ためるので\nさわると　パチパチ　しびれるぞ。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "つくる　でんきが　きょうりょくな\nピカチュウほど　ほっぺの　ふくろは\nやわらかく　よく　のびるぞ。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "おたがいの　しっぽを　くっつけて\nでんきを　ながしあうのが\nピカチュウ　どうしの　あいさつだ。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Pikachu",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "피카츄",
+    "genus": "쥐포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "꼬리를 세우고 주변의\n상황을 살피다 보면 가끔\n꼬리에 번개가 친다."
+      },
+      {
+        "game": "xy-y",
+        "text": "뺨의 양쪽에\n작은 전기 주머니가 있다.\n위기 상황일 때 방전한다."
+      },
+      {
+        "game": "oras-or",
+        "text": "처음 보는 것에게는 전격을 맞춘다.\n새까맣게 탄 나무열매가 떨어져 있다는 것은\n전격의 세기를 조절하지 못했다는 증거다."
+      },
+      {
+        "game": "oras-as",
+        "text": "뺨의 전기 주머니에 있는 전기는 한밤중\n자는 동안 축적되는 것 같다.\n잠이 덜 깨서 방전하기도 한다."
+      },
+      {
+        "game": "sm-s",
+        "text": "많은 피카츄를 모아서\n발전소를 만들 계획이\n최근 발표되었다."
+      },
+      {
+        "game": "sm-m",
+        "text": "전기를 모으는 성질을 가졌다.\n가끔 마음껏 방전하지\n않으면 스트레스를 받는다."
+      },
+      {
+        "game": "usum-us",
+        "text": "전기를 모으는 성질을 띠고 있다.\n피카츄가 무리 지어 사는 숲은\n낙뢰가 끊이지 않아 위험하다."
+      },
+      {
+        "game": "usum-um",
+        "text": "자는 동안 볼의 주머니에서\n전기를 만든다. 잠이 부족하면\n약한 전기밖에 낼 수 없게 된다."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "숲에 사는 포켓몬. 볼에 있는\n주머니에 전기를 모으고 있어\n만지면 저릿저릿 저리다."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "숲에 사는 포켓몬. 볼에 있는\n주머니에 전기를 모으고 있어\n만지면 저릿저릿 저리다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "만들어 내는 전기가 강력한\n피카츄일수록 볼의 주머니가\n부드럽고 잘 늘어난다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "서로의 꼬리를 붙여서\n전기를 흐르게 하는 게\n피카츄 사이의 인사법이다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "皮卡丘",
+    "genus": "鼠寶可夢",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "最近發表了聚集大量皮卡丘\n來建造發電廠的計畫。"
+      },
+      {
+        "game": "sm-m",
+        "text": "有積聚電力的特質。\n不時常盡情釋放電力的話，\n就會倍感壓力。"
+      },
+      {
+        "game": "usum-us",
+        "text": "擁有儲蓄電力的特性。\n皮卡丘群居的森林裡\n會不斷落雷，十分危險。"
+      },
+      {
+        "game": "usum-um",
+        "text": "會在睡覺時用臉頰上的囊\n製造電力。如果睡眠不足，\n就只能放出微弱的電力。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "棲息在森林裡的寶可夢。\n臉頰上的囊能夠儲存電力，\n用手去摸會被電得麻麻的。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "棲息在森林裡的寶可夢。\n臉頰上的囊能夠儲存電力，\n用手去摸會被電得麻麻的。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "越是能製造出強大電流的\n皮卡丘，臉頰上的囊就越\n柔軟，同時也越有伸展性。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "皮卡丘們把尾巴\n貼在一起交換電流，\n其實是在互相打招呼。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Pikachu",
+    "genus": "Pokémon Souris",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Il lui arrive de remettre d’aplomb\nun Pikachu allié en lui envoyant\nune décharge électrique."
+      },
+      {
+        "game": "bw-w",
+        "text": "Il lui arrive de remettre d’aplomb\nun Pikachu allié en lui envoyant\nune décharge électrique."
+      },
+      {
+        "game": "xy-x",
+        "text": "Il élève sa queue pour surveiller les environs.\nElle attire souvent la foudre dans cette position."
+      },
+      {
+        "game": "xy-y",
+        "text": "Pikachu a de petites poches pleines d’électricité sur\nses joues. S’il se sent menacé, il laisse s’échapper\ndes décharges électriques."
+      },
+      {
+        "game": "oras-or",
+        "text": "Chaque fois que Pikachu découvre quelque chose de\nnouveau, il envoie un arc électrique. Lorsqu’on tombe\nsur une Baie carbonisée, ça signifie sans doute qu’un\nde ces Pokémon a envoyé une charge trop forte."
+      },
+      {
+        "game": "oras-as",
+        "text": "Ce Pokémon dispose de petites poches dans les joues pour\nstocker de l’électricité. Elles semblent se charger pendant\nque Pikachu dort. Il libère parfois un peu d’électricité\nlorsqu’il n’est pas encore bien réveillé."
+      },
+      {
+        "game": "sm-s",
+        "text": "Un projet de centrale électrique fonctionnant\nen rassemblant une foule de Pikachu a été\nrécemment annoncé."
+      },
+      {
+        "game": "sm-m",
+        "text": "Un Pokémon capable de condenser l’électricité.\nIl doit décharger l’énergie accumulée de temps\nen temps au risque d’accroître son stress."
+      },
+      {
+        "game": "usum-us",
+        "text": "Son corps peut accumuler de l’électricité.\nLes forêts abritant des groupes de Pikachu\nsont d’ailleurs souvent frappées par la foudre."
+      },
+      {
+        "game": "usum-um",
+        "text": "Quand il dort, il génère de l’électricité dans les\npoches de ses joues. S’il manque de sommeil,\nil ne peut plus émettre qu’un faible courant."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Ce Pokémon des bois accumule de l’électricité\ndans les poches de ses joues. Il ne faut pas les\ntoucher sous peine de recevoir une décharge."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Ce Pokémon des bois accumule de l’électricité\ndans les poches de ses joues. Il ne faut pas les\ntoucher sous peine de recevoir une décharge."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Plus la puissance électrique de Pikachu est élevée,\nplus les poches de ses joues sont extensibles."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Les Pikachu se disent bonjour en se frottant\nla queue et en y faisant passer du courant\nélectrique."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Pikachu",
+    "genus": "Maus-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Es streckt seinen Schweif nach oben, um seine\nUmgebung zu prüfen. Häufig fährt ein Blitz hinein."
+      },
+      {
+        "game": "xy-y",
+        "text": "Es hat kleine Backentaschen, die mit Elektrizität\ngefüllt sind. Bei Gefahr entlädt es sie."
+      },
+      {
+        "game": "oras-or",
+        "text": "Immer wenn Pikachu auf etwas Neues stößt, jagt es\neinen Elektroschock hindurch. Wenn du eine verkohlte\nBeere findest, hat dieses Pokémon seine elektrische\nLadung falsch eingeschätzt."
+      },
+      {
+        "game": "oras-as",
+        "text": "Dieses Pokémon kann in seinen Backentaschen Elektrizität\nspeichern. Diese laden sich nachts auf, während Pikachu\nschläft. Es entlädt manchmal seine elektrische Ladung,\nwenn es gerade aufgewacht und noch schläfrig ist."
+      },
+      {
+        "game": "sm-s",
+        "text": "Vor Kurzem wurden Pläne verkündet,\nmithilfe einer großen Anzahl an Pikachu\nein ganzes Kraftwerk zu betreiben."
+      },
+      {
+        "game": "sm-m",
+        "text": "Es liegt in seiner Natur, konstant Elektrizität in\nsich anzustauen. Kann es diese nicht regelmäßig\nentladen, löst dies Stress aus."
+      },
+      {
+        "game": "usum-us",
+        "text": "Es liegt in seiner Natur, konstant Elektrizität zu\nspeichern. Die Wälder, in denen Pikachu leben,\nbergen stets die Gefahr eines Blitzgewitters."
+      },
+      {
+        "game": "usum-um",
+        "text": "Seine Backentaschen laden sich elektrisch auf,\nwährend es schläft. Bei Schlafmangel kann es\nnur Schwachstrom entladen."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Pikachu ist in Wäldern zu Hause. Da es in seinen\nBackentaschen Elektrizität speichert, bekommt\nman einen Schlag, wenn man diese berührt."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Pikachu ist in Wäldern zu Hause. Da es in seinen\nBackentaschen Elektrizität speichert, bekommt\nman einen Schlag, wenn man diese berührt."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Je stärker die Elektrizität ist, die Pikachu\nproduziert, desto weicher und elastischer\nsind seine Backentaschen."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Pikachu begrüßen einander, indem sie ihre\nSchweife aneinanderreiben und eine Ladung\nStrom durch diese gleiten lassen."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Pikachu",
+    "genus": "Pokémon Ratón",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Levanta su cola para vigilar los alrededores. A veces,\npuede ser alcanzado por un rayo en esa pose."
+      },
+      {
+        "game": "xy-y",
+        "text": "Las bolsas de las mejillas están llenas de electricidad,\nque libera cuando se siente amenazado."
+      },
+      {
+        "game": "oras-or",
+        "text": "Cada vez que un Pikachu se encuentra con algo nuevo, le\nlanza una descarga eléctrica. Cuando se ve alguna baya\nchamuscada, es muy probable que sea obra de un Pikachu,\nya que a veces no controlan la intensidad de la descarga."
+      },
+      {
+        "game": "oras-as",
+        "text": "Este Pokémon tiene unas bolsas en las mejillas donde\nalmacena electricidad. Parece ser que se recargan por la\nnoche, mientras Pikachu duerme. A veces, cuando se acaba\nde despertar y está aún medio dormido, descarga un poco."
+      },
+      {
+        "game": "sm-s",
+        "text": "Recientemente se ha presentado un proyecto\npara reunir numerosos Pikachu y crear con ellos\nuna central eléctrica."
+      },
+      {
+        "game": "sm-m",
+        "text": "Pikachu almacena electricidad en su cuerpo.\nSi no la libera de vez en cuando y se desfoga,\npuede sufrir estrés."
+      },
+      {
+        "game": "usum-us",
+        "text": "Acumulan electricidad de forma natural. Los\nbosques donde habitan en grupos están en\npeligro constante de ser alcanzados por rayos."
+      },
+      {
+        "game": "usum-um",
+        "text": "Mientras duerme, acumula electricidad en las\nbolsas de sus mejillas. Si no logra conciliar el\nsueño, solo puede emitir débiles descargas."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Los bosques son su hábitat natural. En las bolsas\nde las mejillas acumula electricidad, por lo que\nquien las toque puede recibir una descarga."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Los bosques son su hábitat natural. En las bolsas\nde las mejillas acumula electricidad, por lo que\nquien las toque puede recibir una descarga."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Cuanto más potente es la energía eléctrica que\ngenera este Pokémon, más suaves y elásticas se\nvuelven las bolsas de sus mejillas."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Los miembros de esta especie se saludan entre\nsí uniendo sus colas y transmitiéndose corriente\neléctrica."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Pikachu",
+    "genus": "Pokémon Topo",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Solleva la coda per esaminare l’ambiente circostante.\nA volte la coda è colpita da un fulmine quando è in\nquesta posizione."
+      },
+      {
+        "game": "xy-y",
+        "text": "Se spaventato, perde scariche elettriche dalle due\nsacche che ha sulle guance."
+      },
+      {
+        "game": "oras-or",
+        "text": "Quando Pikachu incontra qualcosa che non conosce, lo\ncolpisce con una scarica elettrica. Quando si vede una bacca\nannerita, è evidente che questo Pokémon ha emesso una\nscossa troppo forte."
+      },
+      {
+        "game": "oras-as",
+        "text": "Pikachu immagazzina l’elettricità nelle guance. Pare che\nqueste si ricarichino durante la notte quando dorme.\nTalvolta emette delle scariche elettriche al risveglio mentre\nè ancora assonnato."
+      },
+      {
+        "game": "sm-s",
+        "text": "Recentemente è stato presentato un progetto\nper riunire numerosi Pikachu e costruire\nuna centrale elettrica."
+      },
+      {
+        "game": "sm-m",
+        "text": "Accumula naturalmente elettricità. Se ogni tanto\nnon si sfoga emettendo scariche elettriche,\nrischia di essere sopraffatto dallo stress."
+      },
+      {
+        "game": "usum-us",
+        "text": "Accumula naturalmente elettricità. I boschi\npopolati da gruppi di Pikachu sono pericolosi\nperché continuamente colpiti dai fulmini."
+      },
+      {
+        "game": "usum-um",
+        "text": "Mentre dorme produce energia elettrica nelle\nsacche che ha sulle guance. Se non riposa\nabbastanza può emettere solo deboli scariche."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Vive nelle foreste. Accumula elettricità nelle\nsacche sulle guance, e chiunque le tocchi\nprende la scossa."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Vive nelle foreste. Accumula elettricità nelle\nsacche sulle guance, e chiunque le tocchi\nprende la scossa."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Più potente è l’energia elettrica prodotta dal\nPokémon, più le sacche sulle sue guance sono\nmorbide ed elastiche."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "I Pikachu si salutano fra loro unendo le code\ne facendovi passare elettricità attraverso."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Pikachu",
+    "genus": "Mouse Pokémon",
+    "flavorText": [
+      {
+        "game": "rb-r",
+        "text": "When several of\nthese POKéMON\ngather, their\felectricity could\nbuild and cause\nlightning storms."
+      },
+      {
+        "game": "rb-b",
+        "text": "When several of\nthese POKéMON\ngather, their\felectricity could\nbuild and cause\nlightning storms."
+      },
+      {
+        "game": "y",
+        "text": "It keeps its tail\nraised to monitor\nits surroundings.\fIf you yank its\ntail, it will try\nto bite you."
+      },
+      {
+        "game": "gs-g",
+        "text": "This intelligent\nPOKéMON roasts\nhard BERRIES with\felectricity to\nmake them tender\nenough to eat."
+      },
+      {
+        "game": "gs-s",
+        "text": "It raises its tail\nto check its sur­\nroundings. The\ftail is sometimes\nstruck by light­\nning in this pose."
+      },
+      {
+        "game": "c",
+        "text": "When it is anger­\ned, it immediately\ndischarges the\fenergy stored in\nthe pouches in its\ncheeks."
+      },
+      {
+        "game": "rs-r",
+        "text": "Whenever PIKACHU comes across\nsomething new, it blasts it with a jolt\nof electricity.\fIf you come across a blackened berry,\nit’s evidence that this POKéMON\nmistook the intensity of its charge."
+      },
+      {
+        "game": "rs-s",
+        "text": "This POKéMON has electricity-storing\npouches on its cheeks. These appear to\nbecome electrically charged during the\fnight while PIKACHU sleeps.\nIt occasionally discharges electricity\nwhen it is dozy after waking up."
+      },
+      {
+        "game": "e",
+        "text": "It stores electricity in the electric sacs\non its cheeks. When it releases pent-up\nenergy in a burst, the electric power is\nequal to a lightning bolt."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "It has small electric sacs on both its\ncheeks. If threatened, it looses electric\ncharges from the sacs."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "When several of these POKéMON gather,\ntheir electricity can build and cause\nlightning storms."
+      },
+      {
+        "game": "dp-d",
+        "text": "It lives in forests with others.\nIt stores electricity in the\npouches on its cheeks."
+      },
+      {
+        "game": "dp-p",
+        "text": "If it looses crackling power from\nthe electric pouches on its\ncheeks, it is being wary."
+      },
+      {
+        "game": "pt",
+        "text": "It occasionally uses an electric\nshock to recharge a fellow PIKACHU\nthat is in a weakened state."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "This intelligent Pokémon roasts\nhard berries with electricity to\nmake them tender enough to eat."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "It raises its tail to check its\nsurroundings. The tail is sometimes\nstruck by lightning in this pose."
+      },
+      {
+        "game": "bw-b",
+        "text": "It occasionally uses an electric\nshock to recharge a fellow Pikachu\nthat is in a weakened state."
+      },
+      {
+        "game": "bw-w",
+        "text": "It occasionally uses an electric\nshock to recharge a fellow Pikachu\nthat is in a weakened state."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "It occasionally uses an electric\nshock to recharge a fellow Pikachu\nthat is in a weakened state."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "It occasionally uses an electric\nshock to recharge a fellow Pikachu\nthat is in a weakened state."
+      },
+      {
+        "game": "xy-x",
+        "text": "It raises its tail to check its surroundings.\nThe tail is sometimes struck by lightning\nin this pose."
+      },
+      {
+        "game": "xy-y",
+        "text": "It has small electric sacs on both its cheeks.\nIf threatened, it looses electric charges from\nthe sacs."
+      },
+      {
+        "game": "oras-or",
+        "text": "Whenever Pikachu comes across something new,\nit blasts it with a jolt of electricity. If you come across a\nblackened berry, it’s evidence that this Pokémon mistook the\nintensity of its charge."
+      },
+      {
+        "game": "oras-as",
+        "text": "This Pokémon has electricity-storing pouches on its cheeks.\nThese appear to become electrically charged during the night\nwhile Pikachu sleeps. It occasionally discharges electricity\nwhen it is dozy after waking up."
+      },
+      {
+        "game": "sm-s",
+        "text": "A plan was recently announced to gather\nmany Pikachu and make an electric power plant."
+      },
+      {
+        "game": "sm-m",
+        "text": "It’s in its nature to store electricity. It feels\nstressed now and then if it’s unable to fully\ndischarge the electricity."
+      },
+      {
+        "game": "usum-us",
+        "text": "Its nature is to store up electricity. Forests\nwhere nests of Pikachu live are dangerous,\nsince the trees are so often struck by lightning."
+      },
+      {
+        "game": "usum-um",
+        "text": "While sleeping, it generates electricity in the\nsacs in its cheeks. If it’s not getting enough\nsleep, it will be able to use only weak electricity."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "This forest-dwelling Pokémon stores electricity\nin its cheeks, so you’ll feel a tingly shock\nif you touch it."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "This forest-dwelling Pokémon stores electricity\nin its cheeks, so you’ll feel a tingly shock\nif you touch it."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Pikachu that can generate powerful electricity\nhave cheek sacs that are extra soft and\nsuper stretchy."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "When Pikachu meet, they’ll touch their tails\ntogether and exchange electricity through them\nas a form of greeting."
+      },
+      {
+        "game": "la",
+        "text": "Possesses cheek sacs in which it stores electricity. This clever\nforest-dweller roasts tough berries with an electric shock before\nconsuming them."
+      }
+    ]
+  },
+  "chs": {
+    "name": "皮卡丘",
+    "genus": "鼠宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "最近发表了聚集大量皮卡丘，\n建造发电厂的计划。"
+      },
+      {
+        "game": "sm-m",
+        "text": "有积聚电力的特质。\n不时常尽情释放电力的话，\n就会倍感压力。"
+      },
+      {
+        "game": "usum-us",
+        "text": "有积存电力的特质。\n在皮卡丘群居的森林里\n会落雷不断，十分危险。"
+      },
+      {
+        "game": "usum-um",
+        "text": "会在睡着时用脸颊上的袋子\n制造电力。如果睡眠不足，\n就只能放出微弱的电力。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "栖息在森林中的宝可梦。由于\n它脸颊上的袋子中储存了电能，\n触摸了之后会觉得麻麻的。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "栖息在森林中的宝可梦。由于\n它脸颊上的袋子中储存了电能，\n触摸了之后会觉得麻麻的。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "越是能制造出强大电流的\n皮卡丘，脸颊上的囊就越\n柔软，同时也越有伸展性。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "皮卡丘们把尾巴\n贴在一起交换电流，\n其实是在互相打招呼。"
+      }
+    ]
+  }
+}

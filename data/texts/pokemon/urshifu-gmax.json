@@ -1,0 +1,133 @@
+{
+  "jap": {
+    "name": "ウーラオス",
+    "genus": "けんぽうポケモン",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "いちげきひっさつが　しんじょう。\nあいての　ふところに　とびこみ\nきたえられた　こぶしを　たたきこむ。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "とおい　ちほうの　さんがくちたいで\nくらす。　だんがいぜっぺきを　はしり\nあしこしを　きたえ　わざを　みがく。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Wulaosu",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "우라오스",
+    "genus": "권법포켓몬",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "일격필살이 신조다.\n상대의 품으로 파고들어\n단련된 주먹을 질러 넣는다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "먼 지방의 산악지대에 산다.\n낭떠러지 절벽을 달리며\n하체를 단련하고 기술을 연마한다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "武道熊師",
+    "genus": "拳法寶可夢",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "一擊必殺是牠的信念。\n會衝進對手的懷裡，不留情地\n用千錘百煉的拳頭給予一擊。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "棲息在遙遠地區的山岳地帶。\n會在斷崖絕壁上來回奔跑\n鍛鍊下盤，磨練招式。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Shifours",
+    "genus": "Pokémon Kung-fu",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Adepte des techniques pouvant mettre K.O.\nen un seul coup, il se jette sur son adversaire\net le frappe de son poing robuste."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Il vit dans une lointaine région montagneuse où\nil peaufine ses techniques et muscle ses jambes\nen courant le long des falaises abruptes."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Wulaosu",
+    "genus": "Kung-Fu-Pokémon",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Es ist darauf spezialisiert, Gegner mit nur einem\nTreffer zu bezwingen, indem es sie schlagartig\nanfällt und einen fokussierten Hieb austeilt."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Wulaosu lebt in den Bergen einer fernen Region.\nUm die Beine zu stählen und seine Kampftechnik\nzu verbessern, rennt es steile Klippen entlang."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Urshifu",
+    "genus": "Pokémon Kung-fu",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Su estilo de lucha se basa en abatir a sus rivales\nde un solo golpe. Se abalanza sobre ellos con su\npuño cincelado por el entrenamiento."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Vive en zonas montañosas en áreas recónditas,\ndonde entrena corriendo por escarpados riscos\npara fortalecer sus piernas y refinar su técnica."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Urshifu",
+    "genus": "Pokémon Kung Fu",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Il suo credo è sconfiggere l’avversario con un\ncolpo solo. Si lancia sul nemico e lo colpisce con\nun pugno potenziato al massimo dall’allenamento."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Vive nelle zone montuose di una regione lontana.\nCorre sulle pareti dei dirupi, allenando gli arti\ninferiori e perfezionando le sue mosse."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Urshifu",
+    "genus": "Wushu Pokémon",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "This form of Urshifu is a strong believer in the\none-hit KO. Its strategy is to leap in close to foes\nand land a devastating blow with a hardened fist."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Inhabiting the mountains of a distant region, this\nPokémon races across sheer cliffs, training its legs\nand refining its moves."
+      }
+    ]
+  },
+  "chs": {
+    "name": "武道熊师",
+    "genus": "拳法宝可梦",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "一击必杀是它的信条。\n飞冲到对方的怀中，用自己\n经过千锤百炼的拳头一拳击入。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "生活在遥远地区的山岳地带。\n通过在断崖绝壁上奔跑\n来锻炼腰腿，磨炼招式。"
+      }
+    ]
+  }
+}

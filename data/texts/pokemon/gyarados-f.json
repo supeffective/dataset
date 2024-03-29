@@ -1,0 +1,553 @@
+{
+  "jap": {
+    "name": "ギャラドス",
+    "genus": "きょうあくポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "あらそいの　おこった　むらを\nやきつくしたという　きろくが\nこもんじょに　のこされている。"
+      },
+      {
+        "game": "xy-y",
+        "text": "めったに　すがたを　あらわさないが\nひとたび　あばれだすと　おおきな\nとしが　かいめつする　ときもある。"
+      },
+      {
+        "game": "oras-or",
+        "text": "コイキングから　ギャラドスに　しんかする　とき\nのうさいぼうの　こうぞうが　くみかわる　ために\nせいかくが　きょうぼうに　なると　いわれている。"
+      },
+      {
+        "game": "oras-as",
+        "text": "いちど　あばれはじめると　すべてを　もやさないと\nきょうぼうな　ちが　おさまらなく　なってしまう。\nひとつき　あばれつづけた　きろくが　のこる。"
+      },
+      {
+        "game": "sm-s",
+        "text": "ギャラドスを　おこらせた　あるまちは\nひとばんの　うちに　やきつくされ\nあとかたも　なくなったと　いわれる。"
+      },
+      {
+        "game": "sm-m",
+        "text": "ギャラドスが　あらわれる　ばしょは\nはかいされる　さだめに　あると\nしんじている　ひとも　いる。"
+      },
+      {
+        "game": "usum-us",
+        "text": "はかいこうせんを　はきまくり\nあたり　いちめんを　やきつくす。\nはかいのかみと　よぶ　ちほうもある。"
+      },
+      {
+        "game": "usum-um",
+        "text": "しんか　エネルギーが　のうさいぼうを\nつよく　しげきした　けっか　とても\nきょうぼうな　せいかくに　へんかした。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "やばんで　はかいてきな　せいかく。\nおおむかし　まちを　やきつくした\nきろくがある　きょうふのポケモン。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "やばんで　はかいてきな　せいかく。\nおおむかし　まちを　やきつくした\nきろくがある　きょうふのポケモン。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "ひじょうに　きょうぼうな　せいかく。\nくちからだす　はかいこうせんは\nすべてのものを　やきつくす。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "いちど　あばれだした　ギャラドスは\nあらしが　ふきすさんでいようとも\nどんなものでも　やきつくしてしまう。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Gyarados",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "갸라도스",
+    "genus": "흉악포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "분쟁이 일어난 마을을\n다 태워버렸다는 기록이\n고문서에 남아 있다."
+      },
+      {
+        "game": "xy-y",
+        "text": "거의 모습을 드러내지 않지만\n한번 날뛰면 커다란 도시가\n괴멸하는 경우도 있다."
+      },
+      {
+        "game": "oras-or",
+        "text": "잉어킹에서 갸라도스로 진화할 때\n뇌세포의 구조가 재구성되기 때문에\n성격이 난폭해진다고 전해진다."
+      },
+      {
+        "game": "oras-as",
+        "text": "한 번 날뛰기 시작하면 모든 것을\n불태워야 난폭한 피가 가라앉는다.\n한 달간을 날뛴 기록이 남아 있다."
+      },
+      {
+        "game": "sm-s",
+        "text": "갸라도스를 화나게 한 어떤 마을은\n하룻밤 만에 다 타버려서\n흔적도 없어졌다고 전해진다."
+      },
+      {
+        "game": "sm-m",
+        "text": "갸라도스가 나타난 장소는\n파괴될 운명이라고\n믿고 있는 사람도 있다."
+      },
+      {
+        "game": "usum-us",
+        "text": "파괴광선을 무자비하게 쏘아\n주변 일대를 태워 버린다.\n파괴의 신이라고 부르는 지방도 있다."
+      },
+      {
+        "game": "usum-um",
+        "text": "진화 에너지가 뇌세포를\n강하게 자극한 결과 매우\n난폭한 성격으로 변화했다."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "야만스럽고 파괴적인 성격이다.\n먼 옛날 마을을 불태워버렸다는\n기록이 있는 공포의 포켓몬."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "야만스럽고 파괴적인 성격이다.\n먼 옛날 마을을 불태워버렸다는\n기록이 있는 공포의 포켓몬."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "성격이 매우 흉포하다.\n입에서 나오는 파괴광선은\n모든 것을 태워버린다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "한번 난동부리기 시작한 갸라도스는\n태풍이 사납게 휘몰아쳐도\n모든 것을 다 태워버린다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "暴鯉龍",
+    "genus": "凶惡寶可夢",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "據說，某個激怒了暴鯉龍的城鎮\n在一夜之間就被燃燒殆盡，\n連一點痕跡都沒有留下。"
+      },
+      {
+        "game": "sm-m",
+        "text": "暴鯉龍出現的地方肯定會遭到破壞，\n有些人相信這種說法。"
+      },
+      {
+        "game": "usum-us",
+        "text": "會不斷吐出破壞光線，\n把周圍一帶燃燒殆盡，\n有的地方把牠稱為破壞神。"
+      },
+      {
+        "game": "usum-um",
+        "text": "進化能量強烈刺激了\n腦細胞，結果使得\n牠的性格變得非常兇暴。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "性情野蠻喜歡破壞。在古代，\n這種恐怖的寶可夢曾經有過\n把整座城市燒成焦土的紀錄。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "性情野蠻喜歡破壞。在古代，\n這種恐怖的寶可夢曾經有過\n把整座城市燒成焦土的紀錄。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "性情非常凶暴。\n從嘴裡發出的破壞光線\n能夠將一切燃燒殆盡。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "就算是在狂風暴雨中，\n只要發狂的暴鯉龍出現，\n一切都會被牠燒毀殆盡。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Léviator",
+    "genus": "Pokémon Terrifiant",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Quand il se laisse emporter par la\nrage, il ne se calme qu’après avoir\ndétruit tout ce qui l’entoure."
+      },
+      {
+        "game": "bw-w",
+        "text": "Quand il se laisse emporter par la\nrage, il ne se calme qu’après avoir\ndétruit tout ce qui l’entoure."
+      },
+      {
+        "game": "xy-x",
+        "text": "La littérature ancienne fait état d’un Léviator qui\naurait rasé un village sous le coup de la colère."
+      },
+      {
+        "game": "xy-y",
+        "text": "Gigantesque et maléfique, il est capable de raser\nune ville entière dans un accès de rage."
+      },
+      {
+        "game": "oras-or",
+        "text": "Quand Magicarpe évolue et devient Léviator, la structure de\nses cellules cérébrales est modifiée. On pense que l’extrême\nviolence de ce Pokémon découle de cette modification."
+      },
+      {
+        "game": "oras-as",
+        "text": "Lorsque Léviator commence à s’énerver, sa nature violente\nne se calme qu’une fois qu’il a tout réduit en cendres.\nLa fureur de ce Pokémon peut durer pendant un mois."
+      },
+      {
+        "game": "sm-s",
+        "text": "Il existe une légende à propos d’une ville qui a\nmis un Léviator en colère et qui a été réduite\nen cendres en une nuit."
+      },
+      {
+        "game": "sm-m",
+        "text": "Certaines personnes croient que les endroits où\nun Léviator apparaît sont destinés à connaître\nla destruction."
+      },
+      {
+        "game": "usum-us",
+        "text": "Avec son Ultralaser, il anéantit d’immenses\nétendues. Dans ces régions dévastées, il est\nsurnommé « le dieu de la destruction »."
+      },
+      {
+        "game": "usum-um",
+        "text": "L’énergie libérée au moment de son évolution\na fortement stimulé ses cellules cérébrales\net causé son tempérament pour le moins violent."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Brutal et dangereux, il est connu pour avoir rasé\ndes villes entières par le passé."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Brutal et dangereux, il est connu pour avoir rasé\ndes villes entières par le passé."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Il est d’une nature très agressive.\nLes lasers qu’il tire de sa bouche sont capables\nde désintégrer n’importe quelle cible."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Quand il se laisse emporter par la rage,\nmême la plus violente des tempêtes ne peut\nl’empêcher de détruire tout ce qui l’entoure."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Garados",
+    "genus": "Grausam-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "In alten Schriften wird von einem Garados berichtet,\ndas in einem Wutanfall ein Dorf zerstörte."
+      },
+      {
+        "game": "xy-y",
+        "text": "Ein gigantisches, sehr kraftvolles Pokémon.\nEs ist fähig, ganze Städte zu zerstören."
+      },
+      {
+        "game": "oras-or",
+        "text": "Wenn sich Karpador zu Garados entwickelt, durchlaufen\nseine Gehirnzellen eine strukturelle Veränderung, was wohl\nder Grund für die zügellose, gewalttätige Natur dieses\nPokémon ist."
+      },
+      {
+        "game": "oras-as",
+        "text": "Wenn Garados in Rage gerät, ist sein wildes Blut kaum zu\nberuhigen, bis es alles niedergebrannt hat. Aufzeichnungen\nbelegen, dass die Zerstörungswut dieses Pokémon einen\nganzen Monat anhalten kann."
+      },
+      {
+        "game": "sm-s",
+        "text": "Es heißt, es habe eine ganze Stadt, deren\nBewohner es verärgert hatten, über Nacht\nvollständig in Schutt und Asche gelegt."
+      },
+      {
+        "game": "sm-m",
+        "text": "Manche Menschen sind fest davon überzeugt,\ndass Orte, an denen ein Garados erscheint,\ndem Untergang geweiht sind."
+      },
+      {
+        "game": "usum-us",
+        "text": "Mit seinem Hyperstrahl legt es die Umgebung\nin Schutt und Asche. Manchmal wird es auch\nals „Gottheit der Zerstörung“ bezeichnet."
+      },
+      {
+        "game": "usum-um",
+        "text": "Die bei der Entwicklung freigesetzte Energie\nstimuliert seine Gehirnzellen und verleiht ihm\neine sehr zügellose, gewalttätige Natur."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Garados ist brutal und zerstörungswütig. Es hat\nAufzeichnungen zufolge in alten Zeiten ganze\nStädte in Schutt und Asche gelegt."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Garados ist brutal und zerstörungswütig. Es hat\nAufzeichnungen zufolge in alten Zeiten ganze\nStädte in Schutt und Asche gelegt."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Es ist von Natur aus sehr aggressiv.\nDer Hyperstrahl, den es aus seinem Maul\nverschießt, äschert seine Gegner ein."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Wütet ein Garados, wird es alles niederbrennen.\nDies geschieht selbst während eines Sturms."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Gyarados",
+    "genus": "Pokémon Atrocidad",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "En la literatura antigua se dice que un Gyarados\nrebosante de violencia arrasó un poblado."
+      },
+      {
+        "game": "xy-y",
+        "text": "No es frecuente verlo en su medio. Es enorme y\nmalvado, y capaz de destruir ciudades enteras de\nun ataque."
+      },
+      {
+        "game": "oras-or",
+        "text": "Cuando Magikarp evoluciona y se convierte en Gyarados,\nsufre un cambio estructural en las células del cerebro. Dicen\nque esa transformación es la causa de la naturaleza violenta\ny salvaje de este Pokémon."
+      },
+      {
+        "game": "oras-as",
+        "text": "Una vez que Gyarados se desmanda, la presión incontrolable\ny enrabiada de la sangre no se le calmará hasta que no haya\nquemado todo lo que le rodea. Según parece, a este\nPokémon le duran los arranques de cólera hasta un mes."
+      },
+      {
+        "game": "sm-s",
+        "text": "Cuentan que un Gyarados se enfadó tanto que\narrasó un poblado en una sola noche y no dejó\nni rastro."
+      },
+      {
+        "game": "sm-m",
+        "text": "Alguna gente cree que aquellos lugares donde\naparece Gyarados están abocados a la\ndestrucción."
+      },
+      {
+        "game": "usum-us",
+        "text": "Allí donde alcanza su Hiperrayo la tierra queda\ncarbonizada por completo. En algunas regiones\nlo consideran una deidad destructiva."
+      },
+      {
+        "game": "usum-um",
+        "text": "La energía desprendida durante la evolución\nafecta de forma irreversible sus neuronas,\ndando origen a su agresividad manifiesta."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Este Pokémon tan salvaje como destructivo es\nconocido por haber reducido a escombros\nciudades enteras en el pasado."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Este Pokémon tan salvaje como destructivo es\nconocido por haber reducido a escombros\nciudades enteras en el pasado."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Es exageradamente agresivo. El Hiperrayo que\nlanza por la boca reduce a cenizas todo lo que\nencuentra."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Cuando monta en cólera, puede quemarlo todo,\nincluso en medio de la más violenta tormenta."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Gyarados",
+    "genus": "Pokémon Atroce",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Un antico documento riporta che Gyarados rase al\nsuolo un villaggio in cui dilagava la violenza."
+      },
+      {
+        "game": "xy-y",
+        "text": "Poco comune allo stato selvatico. Enorme e cattivo,\npuò distruggere intere città con un solo attacco."
+      },
+      {
+        "game": "oras-or",
+        "text": "Quando Magikarp si evolve in Gyarados, le cellule cerebrali\nsubiscono una trasformazione strutturale che presumibilmente\ndetermina la natura selvaggia e violenta di questo Pokémon."
+      },
+      {
+        "game": "oras-as",
+        "text": "Quando Gyarados s’infuria, la sua indole feroce e violenta\nnon si placa finché non ha incendiato ogni cosa. Ci sono\ntestimonianze di sfuriate di questo Pokémon durate anche\nun mese intero."
+      },
+      {
+        "game": "sm-s",
+        "text": "Si racconta che Gyarados, infuriato contro gli\nabitanti di una città, la incenerì nel giro di\nuna notte."
+      },
+      {
+        "game": "sm-m",
+        "text": "Secondo alcuni, i luoghi dove appare Gyarados\nsono destinati alla distruzione."
+      },
+      {
+        "game": "usum-us",
+        "text": "Incenerisce tutto ciò che lo circonda usando\nIper Raggio. In alcune regioni ci si riferiva\na lui con il nome di “dio della distruzione”."
+      },
+      {
+        "game": "usum-um",
+        "text": "La sua natura estremamente violenta è dovuta ai\nforti stimoli subiti dalle sue cellule cerebrali a\ncausa dell’energia sprigionatasi con l’evoluzione."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Pokémon brutale e feroce, è famoso per aver\nridotto in cenere intere città nel passato."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Pokémon brutale e feroce, è famoso per aver\nridotto in cenere intere città nel passato."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Pokémon estremamente aggressivo, incenerisce\nogni cosa con l’Iper Raggio che spara dalla\nbocca."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Quando va su tutte le furie, incenerisce ogni\ncosa, anche nel mezzo di un violento temporale."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Gyarados",
+    "genus": "Atrocious Pokémon",
+    "flavorText": [
+      {
+        "game": "pt",
+        "text": "Once it begins to rampage, a\nGYARADOS will burn everything\ndown, even in a harsh storm."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "They say that during past strife,\nGYARADOS would appear and leave\nblazing ruins in its wake."
+      },
+      {
+        "game": "rb-r",
+        "text": "Rarely seen in\nthe wild. Huge\nand vicious, it\fis capable of\ndestroying entire\ncities in a rage."
+      },
+      {
+        "game": "rb-b",
+        "text": "Rarely seen in\nthe wild. Huge\nand vicious, it\fis capable of\ndestroying entire\ncities in a rage."
+      },
+      {
+        "game": "y",
+        "text": "Brutally vicious\nand enormously\ndestructive.\fKnown for totally\ndestroying cities\nin ancient times."
+      },
+      {
+        "game": "gs-g",
+        "text": "They say that\nduring past wars,\nGYARADOS would\fappear and leave\nblazing ruins in\nits wake."
+      },
+      {
+        "game": "gs-s",
+        "text": "Once it appears,\nit goes on a ram­\npage. It remains\fenraged until it\ndemolishes every­\nthing around it."
+      },
+      {
+        "game": "c",
+        "text": "It appears when­\never there is\nworld conflict,\fburning down any\nplace it travels\nthrough."
+      },
+      {
+        "game": "rs-r",
+        "text": "When MAGIKARP evolves into GYARADOS,\nits brain cells undergo a structural\ntransformation. It is said that this\ftransformation is to blame for this\nPOKéMON’s wildly violent nature."
+      },
+      {
+        "game": "rs-s",
+        "text": "Once GYARADOS goes on a rampage, its\nferociously violent blood doesn’t calm\nuntil it has burned everything down.\fThere are records of this POKéMON’s\nrampages lasting a whole month."
+      },
+      {
+        "game": "e",
+        "text": "It is an extremely vicious and violent\nPOKéMON. When humans begin to fight,\nit will appear and burn everything to the\nground with intensely hot flames."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "It has an extremely aggressive nature.\nThe HYPER BEAM it shoots from its mouth\ntotally incinerates all targets."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "Rarely seen in the wild. Huge and vicious,\nit is capable of destroying entire cities\nin a rage."
+      },
+      {
+        "game": "dp-d",
+        "text": "Once it appears, its rage never\nsettles until it has razed the\nfields and mountains around it."
+      },
+      {
+        "game": "dp-p",
+        "text": "In ancient literature, there is a\nrecord of a GYARADOS that razed\na village when violence flared."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "Once it appears, it goes on a rampage.\nIt remains enraged until it\ndemolishes everything around it."
+      },
+      {
+        "game": "bw-b",
+        "text": "Once it begins to rampage, a\nGyarados will burn everything\ndown, even in a harsh storm."
+      },
+      {
+        "game": "bw-w",
+        "text": "Once it begins to rampage, a\nGyarados will burn everything\ndown, even in a harsh storm."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "Once it begins to rampage, a\nGyarados will burn everything\ndown, even in a harsh storm."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "Once it begins to rampage, a\nGyarados will burn everything\ndown, even in a harsh storm."
+      },
+      {
+        "game": "xy-x",
+        "text": "In ancient literature, there is a record of a Gyarados\nthat razed a village when violence flared."
+      },
+      {
+        "game": "xy-y",
+        "text": "Rarely seen in the wild. Huge and vicious, it is\ncapable of destroying entire cities in a rage."
+      },
+      {
+        "game": "oras-or",
+        "text": "When Magikarp evolves into Gyarados, its brain cells undergo a\nstructural transformation. It is said that this transformation is to\nblame for this Pokémon’s wildly violent nature."
+      },
+      {
+        "game": "oras-as",
+        "text": "Once Gyarados goes on a rampage, its ferociously violent\nblood doesn’t calm until it has burned everything down.\nThere are records of this Pokémon’s rampages lasting a\nwhole month."
+      },
+      {
+        "game": "sm-s",
+        "text": "A tale is told of a town that angered Gyarados.\nBefore the sun rose the next day, flames utterly\nconsumed the town, leaving not a trace behind."
+      },
+      {
+        "game": "sm-m",
+        "text": "There are people who swear that any place\nGyarados appears is fated for destruction."
+      },
+      {
+        "game": "usum-us",
+        "text": "It fires hyper beams in all directions, burning the\nsurrounding area to ash. There are some regions\nwhere it’s called “the deity of destruction.”"
+      },
+      {
+        "game": "usum-um",
+        "text": "The energy from evolution stimulated its brain\ncells strongly, causing it to become\nvery ferocious."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Brutally vicious and enormously destructive.\nKnown for totally destroying cities in\nancient times."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Brutally vicious and enormously destructive.\nKnown for totally destroying cities in\nancient times."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "It has an extremely aggressive nature.\nThe Hyper Beam it shoots from its mouth\ntotally incinerates all targets."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Once it begins to rampage, a Gyarados will burn\neverything down, even in a harsh storm."
+      },
+      {
+        "game": "la",
+        "text": "I suspect this Pokémon to be the true identity of a dragon\nwritten of in ancient texts, which claimed that it razed an entire\nvillage with white-hot beams from its maw."
+      }
+    ]
+  },
+  "chs": {
+    "name": "暴鲤龙",
+    "genus": "凶恶宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "据说，让暴鲤龙怒火中烧的\n某个街镇在一晚上就被燃烧殆尽，\n然后便消失无踪了。"
+      },
+      {
+        "game": "sm-m",
+        "text": "暴鲤龙出现的地方肯定会遭到破坏，\n相信这个说法的人也是有的。"
+      },
+      {
+        "game": "usum-us",
+        "text": "能不断地吐出破坏光线，\n将周围一带燃烧殆尽。\n也有一些地区称其为破坏神。"
+      },
+      {
+        "game": "usum-um",
+        "text": "进化能量猛烈刺激\n脑细胞的结果就是，\n它的性格变得非常的残暴。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "性格蛮横喜欢破坏。在古代，\n这个恐怖的宝可梦曾经有过\n把整座城市烧成焦土的记录。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "性格蛮横喜欢破坏。在古代，\n这个恐怖的宝可梦曾经有过\n把整座城市烧成焦土的记录。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "性格非常凶暴。\n从嘴里发出的破坏光线\n能够将一切燃烧殆尽。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "就算是在狂风暴雨中，\n只要发狂的暴鲤龙出现，\n一切都会被它烧毁殆尽。"
+      }
+    ]
+  }
+}

@@ -1,0 +1,437 @@
+{
+  "jap": {
+    "name": "ウソハチ",
+    "genus": "ぼんさいポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "かんそうした　ばしょを　このむ。\nめ　から　みずを　だして　からだの\nすいぶんを　ちょうせつする。"
+      },
+      {
+        "game": "xy-y",
+        "text": "かんそうした　くうきを　このむ。\nすいぶんを　ちょうせつ　するときに\nだす　みずが　なみだに　みえる。"
+      },
+      {
+        "game": "oras-or",
+        "text": "かんそうした　ばしょを　このむ。\nめ　から　みずを　だして　からだの\nすいぶんを　ちょうせつする。"
+      },
+      {
+        "game": "oras-as",
+        "text": "かんそうした　くうきを　このむ。\nすいぶんを　ちょうせつ　するときに\nだす　みずが　なみだに　みえる。"
+      },
+      {
+        "game": "sm-s",
+        "text": "みずが　にがてで　かわいた　ばしょに\nすんでいる。　まわりに　みどりが\nすくないので　よく　めだつ。"
+      },
+      {
+        "game": "sm-m",
+        "text": "からだの　よけいな　すいぶんを　めから\nそとに　だす。　その　せいぶんは\nにんげんの　あせに　にている。"
+      },
+      {
+        "game": "usum-us",
+        "text": "ひとみから　すいぶんを　ほうしゅつ。\nないているように　みえるので　てきを\nゆだんさせる　こうかも　あるらしい。"
+      },
+      {
+        "game": "usum-um",
+        "text": "あまり　からだが　しめりすぎると\nしんでしまうので　あせの　ように\nめから　すいぶんを　だしている。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "あせと　なみだを　めから　ながす。\nあせは　ちょっぴり　しょっぱくて\nなみだは　ほんのり　にがい　あじだ。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "かんそうした　いわばに　くらす。\nみどりの　たまは　かわくほど\nツヤツヤと　にぶく　かがやく。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Usohachi",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "꼬지지",
+    "genus": "분재포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "건조한 장소를 좋아한다.\n눈에서 물을 내어 몸의\n수분을 조절한다."
+      },
+      {
+        "game": "xy-y",
+        "text": "건조한 공기를 좋아한다.\n수분을 조절할 때에 내는 물이\n눈물처럼 보인다."
+      },
+      {
+        "game": "oras-or",
+        "text": "건조한 장소를 좋아한다.\n눈에서 물을 내어 몸의\n수분을 조절한다."
+      },
+      {
+        "game": "oras-as",
+        "text": "건조한 공기를 좋아한다.\n수분을 조절할 때에 내는 물이\n눈물처럼 보인다."
+      },
+      {
+        "game": "sm-s",
+        "text": "물을 싫어해 건조한 장소에\n살고 있다. 주변에는 녹색이\n적어 눈에 잘 띈다."
+      },
+      {
+        "game": "sm-m",
+        "text": "몸에 불필요한 수분은 눈을\n통해 밖으로 내보낸다. 그 성분은\n인간의 땀과 비슷하다."
+      },
+      {
+        "game": "usum-us",
+        "text": "눈동자에서 수분을 방출한다.\n울고 있는 것처럼 보이기 때문에\n적을 방심시키는 효과도 있는 듯하다."
+      },
+      {
+        "game": "usum-um",
+        "text": "너무 몸이 습해지면\n죽어 버리기 때문에 땀처럼\n눈에서 수분을 내보내고 있다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "땀과 눈물이 모두 눈에서 나온다.\n땀은 약간 짠맛이고\n눈물은 살짝 씁쓸한 맛이다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "건조한 바위 밭에 산다.\n초록색 구슬은 마를수록\n반들반들 희미하게 빛난다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "盆才怪",
+    "genus": "盆栽寶可夢",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "很怕水，所以生活在乾燥的地方。\n因為周圍綠色植物很少，所以相當顯眼。"
+      },
+      {
+        "game": "sm-m",
+        "text": "會從眼睛排出體內多餘的水分。\n該成分接近人類的汗液。"
+      },
+      {
+        "game": "usum-us",
+        "text": "會從眼睛排出水分。\n因為看起來就像是在哭，\n似乎也有讓敵人疏忽大意的效果。"
+      },
+      {
+        "game": "usum-um",
+        "text": "如果身體太過潮濕就會死掉，\n所以牠會像分泌汗水那樣\n從眼睛排出水分。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "會從眼睛裡排出汗水和淚水。\n牠的汗水有一點點鹹，\n淚水則略微帶著一些苦味。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "棲息在空氣乾燥岩石裸露的地方。\n空氣越是乾燥，牠身上的綠球\n就越是會泛出黯淡的光澤。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Manzaï",
+    "genus": "Pokémon Bonsaï",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Adepte des climats secs, il régule\nson humidité en laissant couler ce\nqui ressemble à des larmes."
+      },
+      {
+        "game": "bw-w",
+        "text": "Adepte des climats secs, il régule\nson humidité en laissant couler ce\nqui ressemble à des larmes."
+      },
+      {
+        "game": "xy-x",
+        "text": "Il préfère les sols arides. Il évacue l’eau par ses yeux\npour réguler ses fluides corporels."
+      },
+      {
+        "game": "xy-y",
+        "text": "Adepte des climats secs, il régule son humidité en\nlaissant couler ce qui ressemble à des larmes."
+      },
+      {
+        "game": "oras-or",
+        "text": "Il préfère les sols arides. Il évacue l’eau par ses yeux\npour réguler ses fluides corporels."
+      },
+      {
+        "game": "oras-as",
+        "text": "Adepte des climats secs, il régule son humidité en laissant\ncouler ce qui ressemble à des larmes."
+      },
+      {
+        "game": "sm-s",
+        "text": "Comme il a horreur de l’eau, on le trouve surtout\ndans les régions arides. Avec si peu de verdure\nalentour, on le repère tout de suite."
+      },
+      {
+        "game": "sm-m",
+        "text": "Il se débarrasse des liquides superflus par ses\nyeux. La composition chimique de ces liquides\nressemble à celle de la sueur humaine."
+      },
+      {
+        "game": "usum-us",
+        "text": "Il évacue tout surplus d’eau par les yeux.\nCela ressemble à une crise de larmes et\na parfois pour effet d’attendrir ses ennemis."
+      },
+      {
+        "game": "usum-um",
+        "text": "Absorber trop d’humidité peut mettre sa vie\nen danger, c’est pourquoi il « sue » tout excès\nde liquide par les yeux."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Il évacue sa sueur et ses larmes par les yeux.\nSa sueur a un goût légèrement salé, tandis que\nses larmes ont un soupçon d’amertume."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Il vit dans les zones rocheuses arides.\nQuand ses boules vertes sont sèches,\nelles se mettent à briller légèrement."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Mobai",
+    "genus": "Bonsai-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Es bevorzugt trockene Gebiete. Es gibt über die Augen\nWasser ab, um den Wasserhaushalt zu regulieren."
+      },
+      {
+        "game": "xy-y",
+        "text": "Mag es trocken. Gleicht es seinen Wasserhaushalt aus,\nentweicht ihm Wasser, das wie Tränen geformt ist."
+      },
+      {
+        "game": "oras-or",
+        "text": "Es bevorzugt trockene Gebiete. Es gibt über die Augen\nWasser ab, um den Wasserhaushalt zu regulieren."
+      },
+      {
+        "game": "oras-as",
+        "text": "Mag es trocken. Gleicht es seinen Wasserhaushalt aus,\nentweicht ihm Wasser, das wie Tränen geformt ist."
+      },
+      {
+        "game": "sm-s",
+        "text": "Es mag kein Wasser und lebt an trockenen\nOrten. Da es in seiner Umgebung nur wenig\ngrüne Pflanzen gibt, sticht es deutlich heraus."
+      },
+      {
+        "game": "sm-m",
+        "text": "Überschüssiges Wasser in seinem Körper\nscheidet es über die Augen aus. Dieses ist\nvergleichbar mit dem Schweiß des Menschen."
+      },
+      {
+        "game": "usum-us",
+        "text": "Es gibt über seine Pupillen Wasser ab, was den\nEindruck erweckt, es würde weinen. Bei seinen\nFeinden führt das offenbar zu Unachtsamkeit."
+      },
+      {
+        "game": "usum-um",
+        "text": "Da ein zu hoher Wasseranteil für seinen Körper\nlebensbedrohlich werden kann, scheidet es\nüber die Augen Wasser aus wie Schweiß."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Es sondert sowohl Schweiß als auch Tränen über\nseine Augen ab. Sein Schweiß schmeckt leicht\nsalzig, seine Tränen ein bisschen bitter."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Es lebt in trockenen Felsgebieten. Je trockener\nseine grünen Kugeln sind, desto matter ist ihr\nGlanz."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Bonsly",
+    "genus": "Pokémon Bonsái",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Prefiere entornos áridos. Sus ojos expulsan agua para\najustar los niveles de fluido corporal."
+      },
+      {
+        "game": "xy-y",
+        "text": "Prefiere entornos áridos. Sus ojos expulsan agua\npara ajustar sus niveles de hidratación corporal."
+      },
+      {
+        "game": "oras-or",
+        "text": "Prefiere entornos áridos. Sus ojos expulsan agua para ajustar\nlos niveles de fluido corporal."
+      },
+      {
+        "game": "oras-as",
+        "text": "Prefiere entornos áridos. Sus ojos expulsan agua para ajustar\nsus niveles de hidratación corporal."
+      },
+      {
+        "game": "sm-s",
+        "text": "No le gusta el agua, por lo que suele vivir en\nlugares secos. Como hay poco verdor a su\nalrededor, suele destacar mucho."
+      },
+      {
+        "game": "sm-m",
+        "text": "Expulsa por los ojos el líquido corporal que le\nsobra. La composición química de este líquido\nse parece a la del sudor de los seres humanos."
+      },
+      {
+        "game": "usum-us",
+        "text": "Expulsa agua por los ojos, lo que da la impresión\nde que está llorando. Esto puede sorprender a\nlos enemigos y hacer que bajen la guardia."
+      },
+      {
+        "game": "usum-um",
+        "text": "Debido a que un exceso de humedad en su\ncuerpo puede provocarle la muerte, expulsa\nlíquido por los ojos como si fuera sudor."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Expulsa sudor y lágrimas por los ojos. El sudor\nes ligeramente salado y las lágrimas tienen un\nleve regusto amargo."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Vive en entornos áridos y pedregosos. Cuanto\nmás se secan sus esferas verdes, más destaca\nsu sutil lustre."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Bonsly",
+    "genus": "Pokémon Bonsai",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Preferisce le terre aride. Rilascia acqua dagli occhi\nper regolare il livello dei suoi fluidi corporei."
+      },
+      {
+        "game": "xy-y",
+        "text": "Ama i luoghi aridi. Quando regola l’umidità del\ncorpo sembra che pianga."
+      },
+      {
+        "game": "oras-or",
+        "text": "Preferisce le terre aride. Rilascia acqua dagli occhi per\nregolare il livello dei suoi fluidi corporei."
+      },
+      {
+        "game": "oras-as",
+        "text": "Ama i luoghi aridi. Quando regola l’umidità del corpo sembra\nche pianga."
+      },
+      {
+        "game": "sm-s",
+        "text": "Non ama l’acqua e preferisce vivere in ambienti\naridi. Data la mancanza di vegetazione in questi\nluoghi, individuarlo è molto facile."
+      },
+      {
+        "game": "sm-m",
+        "text": "Espelle dagli occhi l’umidità corporea in eccesso.\nSi tratta di un fenomeno fisiologico simile alla\nsudorazione."
+      },
+      {
+        "game": "usum-us",
+        "text": "Espelle l’umidità dagli occhi dando l’impressione\nche stia piangendo. I nemici che assistono a\nquesto fenomeno abbassano la guardia."
+      },
+      {
+        "game": "usum-um",
+        "text": "Se il suo corpo è troppo umido, la sua vita è\nin pericolo. Per questo espelle dagli occhi\nl’umidità corporea come se fosse sudore."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Dagli occhi espelle sudore e lacrime.\nIl primo ha un gusto lievemente salato,\nle seconde sono leggermente amare."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Vive in ambienti aridi e pietrosi. Quando sono\nsecche, le sue sfere verdi emettono un fioco\nbagliore."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Bonsly",
+    "genus": "Bonsai Pokémon",
+    "flavorText": [
+      {
+        "game": "dp-d",
+        "text": "It looks as if it is always crying.\nIt is actually adjusting its body’s\nfluid levels by eliminating excess."
+      },
+      {
+        "game": "dp-p",
+        "text": "It prefers arid environments. It\nleaks water from its eyes to\nadjust its body’s fluid levels."
+      },
+      {
+        "game": "pt",
+        "text": "It prefers an arid atmosphere. It\nleaks water that looks like tears\nwhen adjusting its moisture level."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "In order to adjust the level of fluids in\nits body, it exudes water from its eyes.\nThis makes it appear to be crying."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "In order to adjust the level of fluids in\nits body, it exudes water from its eyes.\nThis makes it appear to be crying."
+      },
+      {
+        "game": "bw-b",
+        "text": "It prefers an arid atmosphere. It\nleaks water that looks like tears\nwhen adjusting its moisture level."
+      },
+      {
+        "game": "bw-w",
+        "text": "It prefers an arid atmosphere. It\nleaks water that looks like tears\nwhen adjusting its moisture level."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "It prefers an arid atmosphere. It\nleaks water that looks like tears\nwhen adjusting its moisture level."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "It prefers an arid atmosphere. It\nleaks water that looks like tears\nwhen adjusting its moisture level."
+      },
+      {
+        "game": "xy-x",
+        "text": "It prefers arid environments. It leaks water from its\neyes to adjust its body’s fluid levels."
+      },
+      {
+        "game": "xy-y",
+        "text": "It prefers an arid atmosphere. It leaks water that\nlooks like tears when adjusting its moisture level."
+      },
+      {
+        "game": "oras-or",
+        "text": "It prefers arid environments. It leaks water from its\neyes to adjust its body’s fluid levels."
+      },
+      {
+        "game": "oras-as",
+        "text": "It prefers an arid atmosphere. It leaks water that\nlooks like tears when adjusting its moisture level."
+      },
+      {
+        "game": "sm-s",
+        "text": "It does not deal well with water, so it lives in dry\nlocales. Since its surroundings tend to lack\ngreenery, it stands out noticeably."
+      },
+      {
+        "game": "sm-m",
+        "text": "From its eyes, it can expel excess moisture from\nits body. This liquid is similar in composition to\nhuman sweat."
+      },
+      {
+        "game": "usum-us",
+        "text": "It discharges moisture from its eyes, making it\nlook like it’s crying—apparently an effective way\nof getting enemies to let down their guard."
+      },
+      {
+        "game": "usum-um",
+        "text": "If its body gets too damp, it will die. So, in a\nprocess reminiscent of sweating, its eyes\nexpel moisture."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "It expels both sweat and tears from its eyes.\nThe sweat is a little salty, while the tears have\na slight bitterness."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "This Pokémon lives in dry, rocky areas. As its\ngreen spheres dry out, their dull luster increases."
+      },
+      {
+        "game": "la",
+        "text": "Its tears elicit sympathy from those who see them, but do\nnot be deceived! This expulsion of body water is merely a\nphysiological mechanism for keeping itself in good health."
+      }
+    ]
+  },
+  "chs": {
+    "name": "盆才怪",
+    "genus": "盆栽宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "很怕水，所以生活在干燥的地方。\n因为周围绿色很少，所以相当醒目。"
+      },
+      {
+        "game": "sm-m",
+        "text": "会从眼睛排出体内多余的水分。\n该成分接近人类的汗液。"
+      },
+      {
+        "game": "usum-us",
+        "text": "会从眼睛里排出水分。\n看起来就像是正在哭泣，\n所以似乎也有让敌人麻痹大意的效果。"
+      },
+      {
+        "game": "usum-um",
+        "text": "如果身体过于潮湿就会死掉，\n因此会像分泌汗液那样\n从眼睛里排出水分。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "会从眼睛里排出汗和泪水。\n它的汗水有一点点咸，\n泪水则略微带着一些苦味。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "栖息在空气干燥岩石裸露的地方。\n空气越是干燥，它身上的绿球\n就越是会泛出暗淡的光泽。"
+      }
+    ]
+  }
+}

@@ -1,0 +1,333 @@
+{
+  "jap": {
+    "name": "コンパン",
+    "genus": "こんちゅうポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "ちいさな　めが　たくさん　あつまって\nおおきな　めに　なっている。\nよるになると　あかりに　あつまる。"
+      },
+      {
+        "game": "xy-y",
+        "text": "おおきな　きのしたに　すんでいて\nむしなどを　たべて　いるらしい。\nよるは　あかりのそばに　やってくる。"
+      },
+      {
+        "game": "oras-or",
+        "text": "みを　まもるために　ほそく　かたい　たいもうが\nぜんしんを　おおうように　なったと　いわれる。\nちいさな　えものも　みのがさない　めを　もつ。"
+      },
+      {
+        "game": "oras-as",
+        "text": "みを　まもるために　ほそく　かたい　たいもうが\nぜんしんを　おおうように　なったと　いわれる。\nちいさな　えものも　みのがさない　めを　もつ。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "レーダーになる　おおきな　めは\nあかるいところでは　ちいさな　めが\nあつまって　できているのが　わかる。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "レーダーになる　おおきな　めは\nあかるいところでは　ちいさな　めが\nあつまって　できているのが　わかる。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Kongpang",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "콘팡",
+    "genus": "곤충포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "작은 눈이 많이 모여\n큰 눈을 이루고 있다.\n밤이 되면 불빛을 향해 모여든다."
+      },
+      {
+        "game": "xy-y",
+        "text": "커다란 나무 밑에서 살며\n벌레 따위를 먹고 지내는 듯하다.\n밤에는 빛 주위로 찾아온다."
+      },
+      {
+        "game": "oras-or",
+        "text": "몸을 지키기 위해 가늘고 딱딱한 털이\n전신을 둘러싸게 됐다고 전해진다.\n작은 먹잇감도 놓치지 않는 눈을 가졌다."
+      },
+      {
+        "game": "oras-as",
+        "text": "몸을 지키기 위해 가늘고 딱딱한 털이\n전신을 둘러싸게 됐다고 전해진다.\n작은 먹잇감도 놓치지 않는 눈을 가졌다."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "레이더 역할을 하는 큰 눈은\n밝은 곳에서 보면 작은 눈이 모여서\n이루어진 것임을 알 수 있다."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "레이더 역할을 하는 큰 눈은\n밝은 곳에서 보면 작은 눈이 모여서\n이루어진 것임을 알 수 있다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "毛球",
+    "genus": "昆蟲寶可夢",
+    "flavorText": [
+      {
+        "game": "lgpe-lgp",
+        "text": "在明亮的地方看就會發現\n那對有著雷達作用的大眼睛，\n是由許多小眼睛聚集而成的。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "在明亮的地方看就會發現\n那對有著雷達作用的大眼睛，\n是由許多小眼睛聚集而成的。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Mimitoss",
+    "genus": "Pokémon Vermine",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Ses grands yeux sont en fait des\namas d’yeux minuscules. La nuit,\nil est attiré par la lumière."
+      },
+      {
+        "game": "bw-w",
+        "text": "Ses grands yeux sont en fait des\namas d’yeux minuscules. La nuit,\nil est attiré par la lumière."
+      },
+      {
+        "game": "xy-x",
+        "text": "Ses grands yeux sont en fait des amas d’yeux\nminuscules. La nuit, il est attiré par la lumière."
+      },
+      {
+        "game": "xy-y",
+        "text": "Il vit à l’ombre des grands arbres où il se nourrit\nd’insectes. Il est attiré par la lumière."
+      },
+      {
+        "game": "oras-or",
+        "text": "On raconte que Mimitoss a évolué avec une fourrure de poils\nfins et drus qui protège son corps tout entier. Il est doté de\ngrands yeux capables de repérer ses proies, même minuscules."
+      },
+      {
+        "game": "oras-as",
+        "text": "On raconte que Mimitoss a évolué avec une fourrure de poils\nfins et drus qui protège son corps tout entier. Il est doté de\ngrands yeux capables de repérer ses proies, même minuscules."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Ses grands yeux lui servent de radar. En pleine\nlumière, on peut y distinguer des facettes."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Ses grands yeux lui servent de radar. En pleine\nlumière, on peut y distinguer des facettes."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Bluzuk",
+    "genus": "Insekt",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Seine großen Augen bestehen aus vielen kleinen\nAugen. Nachts wird es von Licht angezogen."
+      },
+      {
+        "game": "xy-y",
+        "text": "Dieses Pokémon lebt im Schatten großer Bäume.\nEs frisst Insekten und wird von Licht angezogen."
+      },
+      {
+        "game": "oras-or",
+        "text": "Bluzuk hat einen Pelz aus dünnen Borsten entwickelt, der dem\nSchutz seines Körpers dient. Es hat große Augen, denen auch\nwinzig kleine Beute nicht entgeht."
+      },
+      {
+        "game": "oras-as",
+        "text": "Bluzuk hat einen Pelz aus dünnen Borsten entwickelt, der dem\nSchutz seines Körpers dient. Es hat große Augen, denen auch\nwinzig kleine Beute nicht entgeht."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Seine großen Augen fungieren als Radar.\nIm Licht kann man erkennen, dass sie aus\nunzähligen, sehr kleinen Augen bestehen."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Seine großen Augen fungieren als Radar.\nIm Licht kann man erkennen, dass sie aus\nunzähligen, sehr kleinen Augen bestehen."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Venonat",
+    "genus": "Pokémon Insecto",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Sus grandes ojos son en realidad grupos de ojos\ndiminutos. Por la noche se siente atraído por la luz."
+      },
+      {
+        "game": "xy-y",
+        "text": "Vive entre las sombras de árboles altos, donde come\ninsectos. Por la noche, le atrae la luz."
+      },
+      {
+        "game": "oras-or",
+        "text": "Dicen que durante su evolución Venonat desarrolló una fina\ncapa de espeso pelo alrededor de todo el cuerpo para\nprotegerse. Tiene unos ojos tan grandes que no hay presa\nque le pase desapercibida."
+      },
+      {
+        "game": "oras-as",
+        "text": "Dicen que durante su evolución Venonat desarrolló una fina\ncapa de espeso pelo alrededor de todo el cuerpo para\nprotegerse. Tiene unos ojos tan grandes que no hay presa\nque le pase desapercibida."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Sus grandes ojos actúan como radares. A plena\nluz se percibe que son, en realidad, grupos de\nojos diminutos."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Sus grandes ojos actúan como radares. A plena\nluz se percibe que son, en realidad, grupos de\nojos diminutos."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Venonat",
+    "genus": "Pokémon Insetto",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "I suoi grandi occhi sono in realtà un insieme di tanti\npiccoli occhi. Di notte, è attirato dalla luce."
+      },
+      {
+        "game": "xy-y",
+        "text": "Vive all’ombra di alberi alti, dove si nutre di insetti.\nDi notte è attirato dalla luce."
+      },
+      {
+        "game": "oras-or",
+        "text": "Si dice che per proteggersi Venonat abbia sviluppato una\npelliccia sottile e irsuta che ricopre il suo corpo. Nemmeno\nla preda più piccola può sfuggire ai suoi occhi enormi."
+      },
+      {
+        "game": "oras-as",
+        "text": "Si dice che per proteggersi Venonat abbia sviluppato una\npelliccia sottile e irsuta che ricopre il suo corpo. Nemmeno\nla preda più piccola può sfuggire ai suoi occhi enormi."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Gli occhi enormi fungono da radar. Alla luce\nsi può notare che sono formati da molti occhi\npiù piccoli."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Gli occhi enormi fungono da radar. Alla luce\nsi può notare che sono formati da molti occhi\npiù piccoli."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Venonat",
+    "genus": "Insect Pokémon",
+    "flavorText": [
+      {
+        "game": "rb-r",
+        "text": "Lives in the\nshadows of tall\ntrees where it\feats insects. It\nis attracted by\nlight at night."
+      },
+      {
+        "game": "rb-b",
+        "text": "Lives in the\nshadows of tall\ntrees where it\feats insects. It\nis attracted by\nlight at night."
+      },
+      {
+        "game": "y",
+        "text": "Its large eyes act\nas radars. In a\nbright place, you\fcan see that they\nare clusters of\nmany tiny eyes."
+      },
+      {
+        "game": "gs-g",
+        "text": "Its eyes also\nfunction as radar\nunits. It catches\fand eats small\nbugs that hide in\ndarkness."
+      },
+      {
+        "game": "gs-s",
+        "text": "Poison oozes from\nall over its body.\nIt catches and\feats small bugs at\nnight that are at­\ntracted by light."
+      },
+      {
+        "game": "c",
+        "text": "The small bugs it\neats appear only\nat night, so it\fsleeps in a hole\nin a tree until\nnight falls."
+      },
+      {
+        "game": "rs-r",
+        "text": "VENONAT is said to have evolved with\na coat of thin, stiff hair that covers\nits entire body for protection.\fIt possesses large eyes that never fail\nto spot even miniscule prey."
+      },
+      {
+        "game": "rs-s",
+        "text": "VENONAT is said to have evolved with\na coat of thin, stiff hair that covers\nits entire body for protection.\fIt possesses large eyes that never fail\nto spot even miniscule prey."
+      },
+      {
+        "game": "e",
+        "text": "Its coat of thin, stiff hair that covers\nits entire body is said to have evolved\nfor protection. Its large eyes never fail\nto spot even miniscule prey."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "Its eyes act as radar, enabling it to be\nactive in darkness. The eyes can also\nshoot powerful beams."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "Lives in the shadows of tall trees where\nit eats bugs. It is attracted by light\nat night."
+      },
+      {
+        "game": "dp-d",
+        "text": "Its big eyes are actually clusters\nof tiny eyes. At night, its kind is\ndrawn by light."
+      },
+      {
+        "game": "dp-p",
+        "text": "Its big eyes are actually clusters\nof tiny eyes. At night, its kind is\ndrawn by light."
+      },
+      {
+        "game": "pt",
+        "text": "Its big eyes are actually clusters\nof tiny eyes. At night, its kind is\ndrawn by light."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "Its eyes also function as radar\nunits. It catches and eats small\nbugs that hide in darkness."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "Poison oozes from all over its body.\nIt catches and eats small bugs at\nnight that are attracted by light."
+      },
+      {
+        "game": "bw-b",
+        "text": "Its big eyes are actually clusters\nof tiny eyes. At night, its kind is\ndrawn by light."
+      },
+      {
+        "game": "bw-w",
+        "text": "Its big eyes are actually clusters\nof tiny eyes. At night, its kind is\ndrawn by light."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "Its big eyes are actually clusters\nof tiny eyes. At night, its kind is\ndrawn by light."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "Its big eyes are actually clusters\nof tiny eyes. At night, its kind is\ndrawn by light."
+      },
+      {
+        "game": "xy-x",
+        "text": "Its big eyes are actually clusters of tiny eyes.\nAt night, its kind is drawn by light."
+      },
+      {
+        "game": "xy-y",
+        "text": "Lives in the shadows of tall trees where it eats\nbugs. It is attracted by light at night."
+      },
+      {
+        "game": "oras-or",
+        "text": "Venonat is said to have evolved with a coat of thin,\nstiff hair that covers its entire body for protection.\nIt possesses large eyes that never fail to spot even\nminuscule prey."
+      },
+      {
+        "game": "oras-as",
+        "text": "Venonat is said to have evolved with a coat of thin, stiff hair\nthat covers its entire body for protection. It possesses large\neyes that never fail to spot even minuscule prey."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Its large eyes act as radar. In a bright place, you\ncan see that they are clusters of many tiny eyes."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Its large eyes act as radar. In a bright place, you\ncan see that they are clusters of many tiny eyes."
+      }
+    ]
+  },
+  "chs": {
+    "name": "毛球",
+    "genus": "昆虫宝可梦",
+    "flavorText": [
+      {
+        "game": "lgpe-lgp",
+        "text": "在明亮的地方你便能发现它\n具有雷达功能的大眼其实是\n由许多个小眼睛聚集而成的。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "在明亮的地方你便能发现它\n具有雷达功能的大眼其实是\n由许多个小眼睛聚集而成的。"
+      }
+    ]
+  }
+}

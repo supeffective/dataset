@@ -1,0 +1,269 @@
+{
+  "jap": {
+    "name": "ランプラー",
+    "genus": "ランプポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "たましいを　すいとり　ひをともす。\nひとが　しぬのを　まつため\nびょういんを　うろつくようになった。"
+      },
+      {
+        "game": "xy-y",
+        "text": "りんじゅうの　さいに　あらわれて\nたましいが　にくたいを　はなれると\nすかさず　すいとってしまうのだ。"
+      },
+      {
+        "game": "oras-or",
+        "text": "たましいを　すいとり　ひをともす。\nひとが　しぬのを　まつため\nびょういんを　うろつくようになった。"
+      },
+      {
+        "game": "oras-as",
+        "text": "りんじゅうの　さいに　あらわれて\nたましいが　にくたいを　はなれると\nすかさず　すいとってしまうのだ。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "だれかが　しぬ　ちょくぜんに\nあらわれる　ことから　しにがみの\nつかい　として　おそれられている。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "ランプの　ふりをして　まちなかに\nひそむ。　しきが　ちかい　ひとを\nみつけると　そっと　あとを　つける。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Lampler",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "램프라",
+    "genus": "램프포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "영혼을 빨아들여 불을 밝힌다.\n사람이 죽는 것을 기다리기 위해\n병원을 서성거리게 되었다."
+      },
+      {
+        "game": "xy-y",
+        "text": "임종 때 나타나서\n영혼이 육체를 떠나면\n재빨리 빨아들여 버린다."
+      },
+      {
+        "game": "oras-or",
+        "text": "영혼을 빨아들여 불을 밝힌다.\n사람이 죽는 것을 기다리기 위해\n병원을 서성거리게 되었다."
+      },
+      {
+        "game": "oras-as",
+        "text": "임종 때 나타나서\n영혼이 육체를 떠나면\n재빨리 빨아들여 버린다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "누군가가 죽기 직전에\n나타나기 때문에 사신의 사자로\n여겨져 두려움의 대상이 되었다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "램프인 척 마을 안으로\n숨어든다. 죽음이 다가온 사람을\n발견하면 조용히 뒤를 쫓는다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "燈火幽靈",
+    "genus": "油燈寶可夢",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "由於牠會在人類臨終時出現，\n人們因此認為牠是死神\n的使者，對牠畏懼不已。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "偽裝成燈的樣子藏身在城鎮裡。\n一旦發現了臨近死期的人，\n便會悄悄地跟在後面。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Mélancolux",
+    "genus": "Pokémon Lampe",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Un Pokémon craint pour être de mauvais\naugure. Il erre dans les villes à la\nrecherche d’âmes de défunts."
+      },
+      {
+        "game": "bw-w",
+        "text": "Il apparaît au moment du trépas\net aspire l’âme à l’instant même\noù elle quitte le corps."
+      },
+      {
+        "game": "xy-x",
+        "text": "Il aspire les âmes pour entretenir sa flamme.\nIl erre dans les hôpitaux dans l’attente d’un trépas."
+      },
+      {
+        "game": "xy-y",
+        "text": "Il apparaît au moment du trépas et aspire l’âme\nà l’instant même où elle quitte le corps."
+      },
+      {
+        "game": "oras-or",
+        "text": "Il aspire les âmes pour entretenir sa flamme.\nIl erre dans les hôpitaux dans l’attente d’un trépas."
+      },
+      {
+        "game": "oras-as",
+        "text": "Il apparaît au moment du trépas et aspire l’âme à l’instant\nmême où elle quitte le corps."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Comme il apparaît dès qu’une personne\nest sur le point de trépasser, les gens le craignent\net le prennent pour un messager de la mort."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Il se cache en ville en se faisant passer pour\nun lampadaire. Lorsqu’il repère une personne\ndont l’heure est proche, il la suit en catimini."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Laternecto",
+    "genus": "Lampen-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Es nährt seine Flamme mit den Seelen seiner Opfer.\nHeutzutage irrt es auf der Suche nach Seelen durch\nKrankenhäuser."
+      },
+      {
+        "game": "xy-y",
+        "text": "Es erscheint im Augenblick des Todes und verschlingt\ndie Seele des Verblichenen, sofort nachdem sie den\nKörper verlassen hat."
+      },
+      {
+        "game": "oras-or",
+        "text": "Es nährt seine Flamme mit den Seelen seiner Opfer.\nHeutzutage irrt es auf der Suche nach Seelen durch\nKrankenhäuser."
+      },
+      {
+        "game": "oras-as",
+        "text": "Es erscheint im Augenblick des Todes und verschlingt die\nSeele des Verblichenen, sofort nachdem sie den Körper\nverlassen hat."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Es wird als Todesbote gefürchtet, da es oft in der\nNähe von Menschen auftaucht, deren Ende kurz\nbevorsteht."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Es gibt sich als Lampe aus und lungert in Städten\nherum. Entdeckt es einen Menschen, dessen\nTodesstunde naht, folgt es ihm leise."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Lampent",
+    "genus": "Pokémon Farolillo",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Al absorber almas, su llama se enciende. Espera a que\nla gente fallezca, así que suele deambular por los\nhospitales."
+      },
+      {
+        "game": "xy-y",
+        "text": "Aparece hacia el final de la vida y absorbe el alma\nen cuanto esta se separa del cuerpo."
+      },
+      {
+        "game": "oras-or",
+        "text": "Al absorber almas, su llama se enciende. Espera a que la\ngente fallezca, así que suele deambular por los hospitales."
+      },
+      {
+        "game": "oras-as",
+        "text": "Aparece hacia el final de la vida y absorbe el alma en cuanto\nesta se separa del cuerpo."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Es considerado y temido como Pokémon de\nmal agüero, ya que aparece en los instantes\nprevios al fallecimiento de alguien."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Se oculta en entornos urbanos haciéndose pasar\npor una lámpara corriente. Si se topa con alguien\nmoribundo, lo sigue en silencio."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Lampent",
+    "genus": "Pokémon Lanterna",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "La sua fiamma si accende quando risucchia gli spettri.\nSi trova spesso nei pressi dei cimiteri, dove questi\nabbondano."
+      },
+      {
+        "game": "xy-y",
+        "text": "Appare sul finire della vita per risucchiare l’energia\ndelle anime vagabonde."
+      },
+      {
+        "game": "oras-or",
+        "text": "La sua fiamma si accende quando risucchia gli spettri. Si trova\nspesso nei pressi dei cimiteri, dove questi abbondano."
+      },
+      {
+        "game": "oras-as",
+        "text": "Appare sul finire della vita per risucchiare l’energia delle\nanime vagabonde."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Appare quando qualcuno sta per morire.\nPer questo motivo è considerato l’aiutante\ndella divinità della morte ed è molto temuto."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Si mimetizza nel paesaggio cittadino fingendosi\nuna lampada. Quando incontra una persona\nprossima alla morte, la segue silenzioso."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Lampent",
+    "genus": "Lamp Pokémon",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "This ominous Pokémon is feared.\nThrough cities it wanders, searching\nfor the spirits of the fallen."
+      },
+      {
+        "game": "bw-w",
+        "text": "It arrives near the moment of death\nand steals spirit from the body."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "The spirits it absorbs fuel its baleful\nfire. It hangs around hospitals waiting\nfor people to pass on."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "The spirits it absorbs fuel its baleful\nfire. It hangs around hospitals waiting\nfor people to pass on."
+      },
+      {
+        "game": "xy-x",
+        "text": "The spirits it absorbs fuel its baleful fire. It hangs\naround hospitals waiting for people to pass on."
+      },
+      {
+        "game": "xy-y",
+        "text": "It arrives near the moment of death and steals spirit\nfrom the body."
+      },
+      {
+        "game": "oras-or",
+        "text": "The spirits it absorbs fuel its baleful fire. It hangs\naround hospitals waiting for people to pass on."
+      },
+      {
+        "game": "oras-as",
+        "text": "It arrives near the moment of death and steals spirit\nfrom the body."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "This Pokémon appears just before someone\npasses away, so it’s feared as an emissary\nof death."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "It lurks in cities, pretending to be a lamp.\nOnce it finds someone whose death is near,\nit will trail quietly after them."
+      }
+    ]
+  },
+  "chs": {
+    "name": "灯火幽灵",
+    "genus": "油灯宝可梦",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "由于它会在人类临终时出现，\n人们认为它是死神的\n使者，对它畏惧不已。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "伪装成灯的样子藏身在城镇里。\n一旦发现了临近死期的人，\n便会悄悄地跟在后面。"
+      }
+    ]
+  }
+}

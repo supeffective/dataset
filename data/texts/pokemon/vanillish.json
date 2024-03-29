@@ -1,0 +1,413 @@
+{
+  "jap": {
+    "name": "バニリッチ",
+    "genus": "ひょうせつポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "あたりの　くうきを　ひやして\nこおりの　つぶを　はっせい　させて\nてきの　からだを　こおりつかせる。"
+      },
+      {
+        "game": "xy-y",
+        "text": "ゆきやまに　せいそくする　ポケモン。\nおおむかし　ひょうがきの　ときに\nみなみの　とちへ　いどうしてきた。"
+      },
+      {
+        "game": "oras-or",
+        "text": "あたりの　くうきを　ひやして\nこおりの　つぶを　はっせい　させて\nてきの　からだを　こおりつかせる。"
+      },
+      {
+        "game": "oras-as",
+        "text": "ゆきやまに　せいそくする　ポケモン。\nおおむかし　ひょうがきの　ときに\nみなみの　とちへ　いどうしてきた。"
+      },
+      {
+        "game": "sm-s",
+        "text": "あつい　ひには　からだが　とける。\nこおらせれば　もとに　もどるけど\nからだの　かたちは　すこし　ゆがむ。"
+      },
+      {
+        "game": "sm-m",
+        "text": "ひょうがきから　そんざい　している。\nこおりの　つぶを　あやつって　てきを\nこおらせたあと　ずつきで　くだく。"
+      },
+      {
+        "game": "usum-us",
+        "text": "こおりの　つぶを　ふきかけて　てきの\nからだを　こおらせる。　アローラの\nバニリッチは　ぜんたいてきに　こがら。"
+      },
+      {
+        "game": "usum-um",
+        "text": "ひょうがきを　いきぬいた　とても\nたくましい　ポケモン。　こと　あつい\nちほうでは　ばつぐんの　にんき。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "きれいな　みずを　のんで　こおりの\nからだを　おおきくする。　てんきの\nよい　ひは　あまり　みかけない。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "マイナス１００どの　れいきで\nてきを　こおらせるが　いのちまでは\nうばわない　やさしい　きしつ。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Vanirich",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "바닐리치",
+    "genus": "빙설포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "주변 공기를 차갑게 해서\n얼음 알갱이를 발생시켜서\n상대의 몸을 얼려버린다."
+      },
+      {
+        "game": "xy-y",
+        "text": "설산에 서식하는 포켓몬이다.\n먼 옛날 빙하기 때\n남쪽 땅으로 이동해 왔다."
+      },
+      {
+        "game": "oras-or",
+        "text": "주변 공기를 차갑게 해서\n얼음 알갱이를 발생시켜서\n상대의 몸을 얼려버린다."
+      },
+      {
+        "game": "oras-as",
+        "text": "설산에 서식하는 포켓몬이다.\n먼 옛날 빙하기 때\n남쪽 땅으로 이동해 왔다."
+      },
+      {
+        "game": "sm-s",
+        "text": "더운 날에는 몸이 녹는다.\n얼리면 다시 돌아오지만\n몸 형태는 조금 일그러진다."
+      },
+      {
+        "game": "sm-m",
+        "text": "빙하기 때부터 존재해왔다.\n얼음 결정을 조종하여 적을\n얼린 뒤 박치기로 부순다."
+      },
+      {
+        "game": "usum-us",
+        "text": "얼음 입자를 세게 내뿜어\n적의 몸을 얼린다. 알로라의\n바닐리치는 전체적으로 몸집이 작다."
+      },
+      {
+        "game": "usum-um",
+        "text": "빙하기에 꿋꿋하게 살아남은\n매우 강인한 포켓몬. 특히 더운\n지방에서는 뛰어난 인기를 자랑한다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "깨끗한 물을 마셔서 얼음으로 된\n몸을 크게 만든다. 날씨가 맑은\n날에는 잘 발견되지 않는다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "마이너스 100도의 냉기로\n적을 얼리지만 목숨은\n뺏지 않는 상냥한 기질을 가졌다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "多多冰",
+    "genus": "冰雪寶可夢",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "在炎熱的天氣裡身體會溶化。\n如果冰凍起來就會恢復原狀，\n但身體的形狀會稍稍歪掉。"
+      },
+      {
+        "game": "sm-m",
+        "text": "從冰河時期就已經存在。\n操縱冰粒讓敵人凍僵後，\n再用頭錘將對方打碎。"
+      },
+      {
+        "game": "usum-us",
+        "text": "會噴出冰粒凍住敵人的身體。\n棲息在阿羅拉的多多冰\n整體來說體型比較小。"
+      },
+      {
+        "game": "usum-um",
+        "text": "從冰河期生存下來，\n是非常強壯的寶可夢。\n在天氣炎熱的地方極受歡迎。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "透過喝下乾淨的水\n來讓自己的冰雪身軀成長。\n天氣好的時候很少看到牠。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "性情和善，雖然會用\n零下１００度的冷氣凍住敵人，\n但並不會傷及牠們的性命。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Sorboul",
+    "genus": "Pokémon Grêle",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Un Pokémon qui vit dans les montagnes\nenneigées. Il a émigré au sud durant\nl’ère glaciaire, il y a bien longtemps."
+      },
+      {
+        "game": "bw-w",
+        "text": "Il se cache de ses ennemis en\némettant une myriade de petites\nparticules de glace."
+      },
+      {
+        "game": "xy-x",
+        "text": "Il pétrifie ses ennemis en refroidissant l’air ambiant\net en le changeant en une myriade de petites\nparticules de glace."
+      },
+      {
+        "game": "xy-y",
+        "text": "Un Pokémon qui vit dans les montagnes enneigées.\nIl a émigré au sud durant l’ère glaciaire, il y a bien\nlongtemps."
+      },
+      {
+        "game": "oras-or",
+        "text": "Il pétrifie ses ennemis en refroidissant l’air ambiant et en le\nchangeant en une myriade de petites particules de glace."
+      },
+      {
+        "game": "oras-as",
+        "text": "Un Pokémon qui vit dans les montagnes enneigées.\nIl a émigré au sud durant l’ère glaciaire, il y a bien\nlongtemps."
+      },
+      {
+        "game": "sm-s",
+        "text": "Son corps fond les jours de canicule. Il suffit\nheureusement de le congeler pour qu’il reprenne\nforme, mais il restera un tantinet flagada."
+      },
+      {
+        "game": "sm-m",
+        "text": "Déjà présent à l’ère glaciaire, ce Pokémon peut\ncontrôler les particules de glace pour geler ses\nennemis, qu’il éclate ensuite d’un coup de boule."
+      },
+      {
+        "game": "usum-us",
+        "text": "Il souffle des particules de glace pour geler\nses ennemis. Les Sorboul d’Alola sont plus\npetits que la moyenne."
+      },
+      {
+        "game": "usum-um",
+        "text": "Ce robuste Pokémon a survécu à l’ère glaciaire.\nIl est extrêmement populaire dans les régions\nchaudes."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Il boit de l’eau pure pour gonfler son corps\nde glace. On le voit rarement les jours ensoleillés."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Bien qu’il gèle ses ennemis en soufflant de l’air\nà - 100 °C, sa gentillesse l’empêche de leur ôter\nla vie."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Gelatroppo",
+    "genus": "Firn-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Es produziert Eiskörner, indem es die Luft um sich\nherum abkühlt, und zieht mit ihnen eine Eisschicht\num seinen Gegner."
+      },
+      {
+        "game": "xy-y",
+        "text": "Es lebt auf schneebedeckten Bergen. Vor vielen\nJahren fand es während einer Eiszeit seinen Weg\nin den Süden."
+      },
+      {
+        "game": "oras-or",
+        "text": "Es produziert Eiskörner, indem es die Luft um sich herum\nabkühlt, und zieht mit ihnen eine Eisschicht um seinen Gegner."
+      },
+      {
+        "game": "oras-as",
+        "text": "Es lebt auf schneebedeckten Bergen. Vor vielen Jahren fand\nes während einer Eiszeit seinen Weg in den Süden."
+      },
+      {
+        "game": "sm-s",
+        "text": "An heißen Tagen schmilzt sein Körper. Friert\nman es ein, nimmt es seine alte Gestalt wieder\nan, aber sein Körper ist leicht verbogen."
+      },
+      {
+        "game": "sm-m",
+        "text": "Dieses Pokémon existiert seit der Eiszeit.\nEs friert seine Gegner mit Eiskörnern ein und\nzerschmettert sie dann mit einem Kopfstoß."
+      },
+      {
+        "game": "usum-us",
+        "text": "Es friert seine Gegner ein, indem es ihre Körper\nmit einem Atem aus Eiskörnern bedeckt. In Alola\nfindet man vergleichsweise kleine Exemplare."
+      },
+      {
+        "game": "usum-um",
+        "text": "Gelatroppo sind so widerstandsfähig, dass sie\nsogar eine Eiszeit überdauerten. In warmen\nRegionen erfreuen sie sich großer Beliebtheit."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Es vergrößert seinen Eiskörper, indem es klares\nWasser trinkt. Bei gutem Wetter ist es eher selten\nanzutreffen."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Dieses Pokémon ist gutmütig. Es friert zwar\nGegner mit kalter Luft von -100 ºC ein, raubt\nihnen aber nie das Leben."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Vanillish",
+    "genus": "Pokémon Nieve Helada",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Enfrían el aire a su alrededor y crean partículas de\nhielo mediante las cuales congelan a sus oponentes."
+      },
+      {
+        "game": "xy-y",
+        "text": "Vive en las cumbres nevadas. Migró hacia el sur\ndurante la era glaciar hace muchísimos años."
+      },
+      {
+        "game": "oras-or",
+        "text": "Enfrían el aire a su alrededor y crean partículas de hielo\nmediante las cuales congelan a sus oponentes."
+      },
+      {
+        "game": "oras-as",
+        "text": "Vive en las cumbres nevadas. Migró hacia el sur durante la era\nglaciar hace muchísimos años."
+      },
+      {
+        "game": "sm-s",
+        "text": "Su cuerpo se derrite en los días calurosos. Al\ncongelarse recobra su aspecto original, aunque\nligeramente deformado."
+      },
+      {
+        "game": "sm-m",
+        "text": "Sus orígenes se remontan a la era glacial. Usa\npartículas de hielo para congelar a su enemigo y\nhacerlo después añicos de un cabezazo."
+      },
+      {
+        "game": "usum-us",
+        "text": "Exhala partículas de hielo para congelar a sus\nrivales. Los Vanillish de la región de Alola son\nmás pequeños que el resto."
+      },
+      {
+        "game": "usum-um",
+        "text": "Un Pokémon muy resistente que logró sobrevivir\na la glaciación. En las regiones cálidas goza de\ngran popularidad."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Bebe agua pura para agrandar su cuerpo de\nhielo. Apenas se ven ejemplares durante los\ndías soleados."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Congela a sus enemigos con un vaho a -100 °C,\npero no llega a arrebatarles la vida debido a su\ncarácter benévolo."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Vanillish",
+    "genus": "Pokémon Geloneve",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Congela il corpo del nemico con granelli di ghiaccio\nche genera raffreddando l’aria circostante."
+      },
+      {
+        "game": "xy-y",
+        "text": "Vive sulle montagne innevate. Durante le antiche\nglaciazioni si è spostato nelle regioni del sud."
+      },
+      {
+        "game": "oras-or",
+        "text": "Congela il corpo del nemico con granelli di ghiaccio che\ngenera raffreddando l’aria circostante."
+      },
+      {
+        "game": "oras-as",
+        "text": "Vive sulle montagne innevate. Durante le antiche glaciazioni\nsi è spostato nelle regioni del sud."
+      },
+      {
+        "game": "sm-s",
+        "text": "Si scioglie nelle giornate calde. Riprende le\nproprie sembianze se viene congelato, pur\nrimanendo leggermente deformato."
+      },
+      {
+        "game": "sm-m",
+        "text": "Le sue origini risalgono all’era glaciale.\nUsa granelli di ghiaccio per congelare\ni nemici, che poi riduce in frantumi a testate."
+      },
+      {
+        "game": "usum-us",
+        "text": "Congela i nemici cospargendoli di granelli di\nghiaccio. I Vanillish che vivono ad Alola sono\npiù piccoli della media."
+      },
+      {
+        "game": "usum-um",
+        "text": "Un Pokémon incredibilmente robusto, rimasto\ninalterato fin dall’era glaciale. È popolarissimo\ntra gli abitanti delle regioni più calde."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Beve acqua pura per ingrandire il suo corpo\ndi ghiaccio. Non si fa vedere in giro nei giorni\ndi bel tempo."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Congela i nemici con il suo fiato a -100 ºC,\nma la sua indole gentile gli impedisce\ndi infliggere loro danni letali."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Vanillish",
+    "genus": "Icy Snow Pokémon",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Snowy mountains are this Pokémon’s\nhabitat. During an ancient ice age, they\nmoved to southern areas."
+      },
+      {
+        "game": "bw-w",
+        "text": "It conceals itself from enemy eyes\nby creating many small ice particles\nand hiding among them."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "They cool down the surrounding air\nand create ice particles, which\nthey use to freeze their foes."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "They cool down the surrounding air\nand create ice particles, which\nthey use to freeze their foes."
+      },
+      {
+        "game": "xy-x",
+        "text": "They cool down the surrounding air and create ice\nparticles, which they use to freeze their foes."
+      },
+      {
+        "game": "xy-y",
+        "text": "Snowy mountains are this Pokémon’s habitat.\nDuring an ancient ice age, they moved to\nsouthern areas."
+      },
+      {
+        "game": "oras-or",
+        "text": "They cool down the surrounding air and create ice\nparticles, which they use to freeze their foes."
+      },
+      {
+        "game": "oras-as",
+        "text": "Snowy mountains are this Pokémon’s habitat.\nDuring an ancient ice age, they moved to\nsouthern areas."
+      },
+      {
+        "game": "sm-s",
+        "text": "Hot days cause its body to melt. It can be\nrestored by refreezing it, but the process\nleaves its body slightly warped."
+      },
+      {
+        "game": "sm-m",
+        "text": "This Pokémon has existed since the Ice Age. It\ncontrols particles of ice, freezes its opponents,\nand then shatters them with a headbutt."
+      },
+      {
+        "game": "usum-us",
+        "text": "It sprays its enemies with grains of ice to freeze\nthem. Most Vanillish in Alola are smaller\nthan average."
+      },
+      {
+        "game": "usum-um",
+        "text": "This hearty Pokémon survived the Ice Age.\nIt’s incredibly popular in very hot regions."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "By drinking pure water, it grows its icy body.\nThis Pokémon can be hard to find on days with\nwarm, sunny weather."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "It blasts enemies with cold air reaching −148\ndegrees Fahrenheit, freezing them solid. But it\nspares their lives afterward—it’s a kind Pokémon."
+      }
+    ]
+  },
+  "chs": {
+    "name": "多多冰",
+    "genus": "冰雪宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "在炎热的天气里身体会融化。\n如果让它冻住就会恢复原状，\n但身体的形状会稍稍歪掉。"
+      },
+      {
+        "game": "sm-m",
+        "text": "从冰河时期就已经存在了。\n操纵冰粒让敌人冻住后，\n用头锤将对方打碎。"
+      },
+      {
+        "game": "usum-us",
+        "text": "喷出冰粒，冻住敌人的身体。\n阿罗拉的多多冰整体都是小型的。"
+      },
+      {
+        "game": "usum-um",
+        "text": "从冰河时期生存下来，\n非常魁梧的宝可梦。\n特别是在炎热的地方，极受欢迎。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "通过喝下干净的水\n来让自己的冰雪身躯成长。\n天气好的时候很少看到它。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "性格和善，虽然会用\n零下１００度的冷气冻住敌人，\n但并不会伤及它们的性命。"
+      }
+    ]
+  }
+}

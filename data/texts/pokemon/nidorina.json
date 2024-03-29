@@ -1,0 +1,405 @@
+{
+  "jap": {
+    "name": "ニドリーナ",
+    "genus": "どくばりポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "メスなので　せいかくは　おんこう。\nくちから　だす　ちょうおんぱは\nあいてを　まどわす　ちからがある。"
+      },
+      {
+        "game": "xy-y",
+        "text": "こどもに　エサを　わけあたえるとき\nおやが　かみくだき　やわらかくした\nエサを　はきもどして　あたえる。"
+      },
+      {
+        "game": "oras-or",
+        "text": "なかまや　かぞくと　いっしょの　ときは　おたがい\nきずつかないように　トゲが　ひっこんでいる。\nなかまから　はなれると　ふあんに　なるらしい。"
+      },
+      {
+        "game": "oras-as",
+        "text": "なかまや　かぞくと　いっしょの　ときは　おたがい\nきずつかないように　トゲが　ひっこんでいる。\nなかまから　はなれると　ふあんに　なるらしい。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "すあなの　おくに　いるときは\nかならず　トゲトゲが　ひっこむ。\nリラックスしている　しょうこだ。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "すあなの　おくに　いるときは\nかならず　トゲトゲが　ひっこむ。\nリラックスしている　しょうこだ。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "ひたいの　ツノは　こどもに　エサを\nあたえるときに　ささらないよう\nたいかしたと　かんがえられている。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "むれに　キケンが　せまると　なかまで\nけっそくして　ちょうおんぱの\nだいがっしょうを　おみまいするぞ。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Nidorina",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "니드리나",
+    "genus": "독침포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "암컷으로 성격은 온화하다.\n입에서 내보내는 초음파는\n상대를 혼란시키는 힘이 있다."
+      },
+      {
+        "game": "xy-y",
+        "text": "새끼에게 먹이를 나눠줄 때\n어미가 깨물어 부드럽게 한\n먹이를 토해서 준다."
+      },
+      {
+        "game": "oras-or",
+        "text": "동료나 가족과 함께일 때는 서로\n상처 입히지 않도록 가시를 세우지 않는다.\n동료와 떨어지면 불안해하는 것 같다."
+      },
+      {
+        "game": "oras-as",
+        "text": "동료나 가족과 함께일 때는 서로\n상처 입히지 않도록 가시를 세우지 않는다.\n동료와 떨어지면 불안해하는 것 같다."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "보금자리 안에 있을 때는\n언제나 가시가 들어가 있다.\n마음이 편안해졌다는 증거다."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "보금자리 안에 있을 때는\n언제나 가시가 들어가 있다.\n마음이 편안해졌다는 증거다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "이마의 뿔은 새끼에게 먹이를\n줄 때 찌르지 않도록\n퇴화했다고 추측되고 있다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "무리에 위험이 닥치면\n동료와 결속하여\n초음파로 크게 합창한다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "尼多娜",
+    "genus": "毒針寶可夢",
+    "flavorText": [
+      {
+        "game": "lgpe-lgp",
+        "text": "待在巢穴深處的時候，\n牠一定會把身上的刺收起來。\n這代表牠正處於放鬆狀態。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "待在巢穴深處的時候，\n牠一定會把身上的刺收起來。\n這代表牠正處於放鬆狀態。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "人們認為牠額頭上的角\n是為了避免在給孩子餵食時\n刺到孩子而退化的。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "有危險逼近群體時，\n會與夥伴們團結一致地\n用超音波的大合唱來攻擊。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Nidorina",
+    "genus": "Pokémon Vénépic",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Ce Pokémon dresse ses piquants\nen cas de danger. Ils poussent\nmoins vite que ceux de Nidorino."
+      },
+      {
+        "game": "bw-w",
+        "text": "Ce Pokémon dresse ses piquants\nen cas de danger. Ils poussent\nmoins vite que ceux de Nidorino."
+      },
+      {
+        "game": "xy-x",
+        "text": "La femelle a un tempérament doux. Elle émet des cris\nultrasoniques capables de déstabiliser ses ennemis."
+      },
+      {
+        "game": "xy-y",
+        "text": "Pour nourrir ses petits, il mâche les aliments pour les\nrendre tendres et il les recrache à ses bébés."
+      },
+      {
+        "game": "oras-or",
+        "text": "Lorsqu’un Nidorina est avec ses amis ou sa famille, il replie\nses pointes pour ne pas blesser ses proches. Ce Pokémon\ndevient vite nerveux lorsqu’il est séparé de son groupe."
+      },
+      {
+        "game": "oras-as",
+        "text": "Lorsqu’un Nidorina est avec ses amis ou sa famille, il replie\nses pointes pour ne pas blesser ses proches. Ce Pokémon\ndevient vite nerveux lorsqu’il est séparé de son groupe."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Quand ce Pokémon s’abrite au fond de son\nterrier, ses cornes se rétractent. C’est signe\nqu’il est détendu."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Quand ce Pokémon s’abrite au fond de son\nterrier, ses cornes se rétractent. C’est signe\nqu’il est détendu."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "On pense que sa corne frontale s’est atrophiée\npour lui permettre de nourrir ses petits sans\nles blesser."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Si un danger menace le groupe, ces Pokémon\nse réunissent et l’affrontent en émettant\ndes ultrasons en chœur."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Nidorina",
+    "genus": "Giftdorn-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Das Weibchen ist ausgeglichener. Es stößt Schreie\nim Ultraschallwellenbereich aus, die den Gegner\nverwirren können."
+      },
+      {
+        "game": "xy-y",
+        "text": "Ehe es seine Jungen füttert, zerkaut es das Futter\nund gibt es ihnen anschließend."
+      },
+      {
+        "game": "oras-or",
+        "text": "Wenn Nidorina mit seinen Freunden oder seiner Familie\nzusammen ist, zieht es seine Widerhaken ein, damit es\nniemanden verletzt. Dieses Pokémon wird nervös,\nwenn man es von seinen Artgenossen trennt."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Nähert sich Gefahr, schließen sie sich mit anderen\nArtgenossen zusammen und begegnen der\nBedrohung mit einem Chor aus Ultraschallwellen."
+      },
+      {
+        "game": "oras-as",
+        "text": "Wenn Nidorina mit seinen Freunden oder seiner Familie\nzusammen ist, zieht es seine Widerhaken ein, damit es\nniemanden verletzt. Dieses Pokémon wird nervös,\nwenn man es von seinen Artgenossen trennt."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Während es sich in seinem Bau aufhält, zieht es\nseine Stacheln stets ein. Damit signalisiert es,\ndass es entspannt ist."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Während es sich in seinem Bau aufhält, zieht es\nseine Stacheln stets ein. Damit signalisiert es,\ndass es entspannt ist."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Man geht davon aus, dass sich das Horn auf\nihrem Kopf zurückgebildet hat, damit sie ihre\nJungen nicht beim Füttern verletzen."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Nidorina",
+    "genus": "Pokémon Pin Veneno",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Tiene un carácter afable. Emite ondas ultrasónicas\npara confundir al enemigo."
+      },
+      {
+        "game": "xy-y",
+        "text": "Cuando alimenta a sus crías, primero mastica y ablanda\nla comida y luego la escupe para su prole."
+      },
+      {
+        "game": "oras-or",
+        "text": "Cuando están en familia o con sus amigos, esconden las púas\npara evitar accidentes. Según parece, se alteran bastante si se\nseparan del grupo."
+      },
+      {
+        "game": "oras-as",
+        "text": "Cuando están en familia o con sus amigos, esconden las púas\npara evitar accidentes. Según parece, se alteran bastante si se\nseparan del grupo."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Mientras se cobija en su madriguera, retrae las\npúas, señal inequívoca de que se siente a salvo."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Mientras se cobija en su madriguera, retrae las\npúas, señal inequívoca de que se siente a salvo."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Se cree que el cuerno de la frente se le ha\natrofiado para evitar herir a sus crías al\nalimentarlas."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Cuando el peligro se cierne sobre la manada,\nlos miembros unen fuerzas para defenderse\nemitiendo un coro de ondas ultrasónicas."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Nidorina",
+    "genus": "Pokémon Velenago",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "La femmina ha un temperamento mite. Lancia\nultrasuoni capaci di incantare i nemici."
+      },
+      {
+        "game": "xy-y",
+        "text": "Per nutrire i piccoli, prima intenerisce il cibo\nmasticandolo, poi lo sputa per i cuccioli."
+      },
+      {
+        "game": "oras-or",
+        "text": "Quando questi Pokémon si riuniscono con gli amici e la\nfamiglia, tengono i loro aculei a debita distanza per evitare\ndi ferirsi a vicenda. Se allontanati dal branco, diventano\nnervosi e irascibili."
+      },
+      {
+        "game": "oras-as",
+        "text": "Quando questi Pokémon si riuniscono con gli amici e la\nfamiglia, tengono i loro aculei a debita distanza per evitare\ndi ferirsi a vicenda. Se allontanati dal branco, diventano\nnervosi e irascibili."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Quando è nella sua tana i suoi aculei si ritirano.\nQuesto dimostra che è rilassato."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Quando è nella sua tana i suoi aculei si ritirano.\nQuesto dimostra che è rilassato."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Si pensa che il corno sulla fronte si sia atrofizzato\nper evitare che Nidorina punga i suoi cuccioli\nquando li nutre."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Quando il branco è minacciato da un pericolo,\ni suoi membri uniscono le forze e dispiegano\nun coro di ultrasuoni."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Nidorina",
+    "genus": "Poison Pin Pokémon",
+    "flavorText": [
+      {
+        "game": "rb-r",
+        "text": "The female's horn\ndevelops slowly.\nPrefers physical\fattacks such as\nclawing and\nbiting."
+      },
+      {
+        "game": "rb-b",
+        "text": "The female's horn\ndevelops slowly.\nPrefers physical\fattacks such as\nclawing and\nbiting."
+      },
+      {
+        "game": "y",
+        "text": "When resting deep\nin its burrow, its\nthorns always\fretract.\nThis is proof that\nit is relaxed."
+      },
+      {
+        "game": "gs-g",
+        "text": "When feeding its\nyoung, it first\nchews and tender­\fizes the food,\nthen spits it out\nfor the offspring."
+      },
+      {
+        "game": "gs-s",
+        "text": "It has a calm and\ncaring nature.\nBecause its horn\fgrows slowly, it\nprefers not to\nfight."
+      },
+      {
+        "game": "c",
+        "text": "It has a docile\nnature. If it is\nthreatened with\fattack, it raises\nthe barbs that are\nall over its body."
+      },
+      {
+        "game": "rs-r",
+        "text": "When NIDORINA are with their friends or\nfamily, they keep their barbs tucked\naway to prevent hurting each other.\fThis POKéMON appears to become\nnervous if separated from the others."
+      },
+      {
+        "game": "rs-s",
+        "text": "When NIDORINA are with their friends or\nfamily, they keep their barbs tucked\naway to prevent hurting each other.\fThis POKéMON appears to become\nnervous if separated from the others."
+      },
+      {
+        "game": "e",
+        "text": "When it is with its friends or\nfamily, its barbs are tucked away to\nprevent injury. It appears to become\nnervous if separated from the others."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "The female has a gentle temperament.\nIt emits ultrasonic cries that have the\npower to befuddle foes."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "The female’s horns develop slowly.\nPrefers physical attacks such as clawing\nand biting."
+      },
+      {
+        "game": "dp-d",
+        "text": "When it senses danger, it raises\nall the barbs on its body. These\nbarbs grow slower than NIDORINO’s."
+      },
+      {
+        "game": "dp-p",
+        "text": "When it senses danger, it raises\nall the barbs on its body. These\nbarbs grow slower than NIDORINO’s."
+      },
+      {
+        "game": "pt",
+        "text": "When it senses danger, it raises\nall the barbs on its body. These\nbarbs grow slower than NIDORINO’s."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "When feeding its young, it first\nchews the food into a paste, then\nspits it out for the offspring."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "It has a calm and caring nature.\nBecause its horn grows slowly, it\nprefers not to fight."
+      },
+      {
+        "game": "bw-b",
+        "text": "When it senses danger, it raises\nall the barbs on its body. These\nbarbs grow slower than Nidorino’s."
+      },
+      {
+        "game": "bw-w",
+        "text": "When it senses danger, it raises\nall the barbs on its body. These\nbarbs grow slower than Nidorino’s."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "When it senses danger, it raises\nall the barbs on its body. These\nbarbs grow slower than Nidorino’s."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "When it senses danger, it raises\nall the barbs on its body. These\nbarbs grow slower than Nidorino’s."
+      },
+      {
+        "game": "xy-x",
+        "text": "The female has a gentle temperament.\nIt emits ultrasonic cries that have the power\nto befuddle foes."
+      },
+      {
+        "game": "xy-y",
+        "text": "When feeding its young, it first chews the food into\na paste, then spits it out for the offspring."
+      },
+      {
+        "game": "oras-or",
+        "text": "When Nidorina are with their friends or family, they keep their\nbarbs tucked away to prevent hurting each other.\nThis Pokémon appears to become nervous if separated from\nthe others."
+      },
+      {
+        "game": "oras-as",
+        "text": "When Nidorina are with their friends or family, they keep\ntheir barbs tucked away to prevent hurting each other.\nThis Pokémon appears to become nervous if separated\nfrom the others."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "When resting deep in its burrow, its barbs always\nretract. This is proof that it is relaxed."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "When resting deep in its burrow, its barbs always\nretract. This is proof that it is relaxed."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "The horn on its head has atrophied. It’s thought\nthat this happens so Nidorina’s children won’t get\npoked while their mother is feeding them."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "If the group is threatened, these Pokémon will\nband together to assault enemies with a chorus\nof ultrasonic waves."
+      }
+    ]
+  },
+  "chs": {
+    "name": "尼多娜",
+    "genus": "毒针宝可梦",
+    "flavorText": [
+      {
+        "game": "lgpe-lgp",
+        "text": "待在巢穴深处的时候，\n它一定会把身上的刺收起来。\n这表明它正处于放松状态。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "待在巢穴深处的时候，\n它一定会把身上的刺收起来。\n这表明它正处于放松状态。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "人们认为它额头上的角\n是为了防止给孩子喂食时\n刺到它们而退化的。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "如果族群遇到了危险，\n会和伙伴们团结起来，\n施展出超音波大合唱。"
+      }
+    ]
+  }
+}

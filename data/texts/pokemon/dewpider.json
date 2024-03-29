@@ -1,0 +1,277 @@
+{
+  "jap": {
+    "name": "シズクモ",
+    "genus": "すいほうポケモン",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "エサを　もとめ　ちじょうに　あがる。\nすいほうを　かぶるのは　こきゅうと\nやわらかい　あたまを　まもるため。"
+      },
+      {
+        "game": "sm-m",
+        "text": "えものや　てきを　みつけると\nあたまに　かぶった　すいほうを\nはじいて　みずを　ぶつけるぞ。"
+      },
+      {
+        "game": "usum-us",
+        "text": "シズクモどうしが　であうと　あたまの\nすいほうを　じまんし　アピールする。\nちいさな　ほうが　みちを　ゆずる。"
+      },
+      {
+        "game": "usum-um",
+        "text": "みずの　なかに　とけた　さんそしか\nすえないので　すいほうを　かぶって\nりくちを　あるきまわるのだ。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "おしりで　すいほうを　ふくらませて\nあたまを　つつむ。　なかまどうしで\nすいほうの　おおきさを　くらべる。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "ふだんは　みずの　なかで　せいかつ\nしているが　エサを　さがしに　りくに\nあがるときは　すいほうを　かぶる。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Shizukumo",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "물거미",
+    "genus": "수포포켓몬",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "먹이를 찾아서 지상으로 올라온다.\n수포를 뒤집어쓴 것은 호흡과\n부드러운 머리를 보호하기 위해서다."
+      },
+      {
+        "game": "sm-m",
+        "text": "먹이나 적을 발견하면\n머리에 쓴 수포를\n튕겨서 물을 맞힌다."
+      },
+      {
+        "game": "usum-us",
+        "text": "물거미끼리 만나면 머리의\n수포를 자랑하며 어필한다.\n작은 쪽이 뒤로 물러난다."
+      },
+      {
+        "game": "usum-um",
+        "text": "물속에 녹아 있는 산소로만\n호흡할 수 있어서 수포를 쓰고\n육지를 돌아다닌다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "엉덩이로 수포를 부풀려서\n머리를 감싼다. 동료끼리\n수포의 크기를 비교한다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "평소에는 물속에서 생활하지만\n먹이를 찾으러 육지로\n올라올 때는 수포를 뒤집어쓴다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "滴蛛",
+    "genus": "水泡寶可夢",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "為了尋找食物而到地上來。\n戴著水泡是為了呼吸，\n以及保護柔軟的頭部。"
+      },
+      {
+        "game": "sm-m",
+        "text": "發現獵物或敵人後，\n會將頭上戴著的水泡彈出去，\n用水進行攻擊。"
+      },
+      {
+        "game": "usum-us",
+        "text": "滴蛛們在與同類相遇時，\n會互相炫耀自己頭上的水泡，\n水泡小的一方會乖乖讓路。"
+      },
+      {
+        "game": "usum-um",
+        "text": "因為只能吸收溶解在\n水中的氧氣，所以在陸地上\n走動時會戴著水泡。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "用臀部讓水泡膨脹，\n並包裹住自己的頭部。\n會和同類比拼水泡的大小。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "平時生活在水中，\n也會戴上水泡去\n陸地上尋找食物。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Araqua",
+    "genus": "Pokémon Aquabulle",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "Il lui arrive d’aller chercher sa nourriture sur\nla terre ferme. Sa bulle lui sert alors aussi bien\nà respirer qu’à protéger sa tête molle."
+      },
+      {
+        "game": "sm-m",
+        "text": "Dès qu’il tombe sur une proie ou un prédateur,\nil ouvre les hostilités en lui lançant de l’eau\nprovenant de la bulle qui entoure sa tête."
+      },
+      {
+        "game": "usum-us",
+        "text": "Quand deux Araqua se croisent, ils comparent\nla taille de leur bulle. Celui qui a la plus petite\ndoit céder le passage."
+      },
+      {
+        "game": "usum-um",
+        "text": "L’oxygène contenu dans l’eau étant le seul\nqu’il puisse respirer, il met toujours sa tête\ndans une bulle quand il est sur la terre ferme."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Il enveloppe sa tête dans une bulle d’eau qu’il\na gonflée avec son abdomen. Il aime en comparer\nla taille avec celles de ses congénères."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Il vit principalement dans l’eau, mais s’il a besoin\nde s’aventurer sur la terre ferme pour chasser\nses proies, il protège sa tête avec une bulle d’eau."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Araqua",
+    "genus": "Wasserblasen-Pokémon",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "Die Futtersuche treibt es an Land. Eine\nWasserblase versorgt es mit Atemluft und\nschützt zugleich seinen weichen Kopf."
+      },
+      {
+        "game": "sm-m",
+        "text": "Wenn es Beute oder Feinde erspäht hat, lässt\nes die Wasserblase auf seinem Kopf platzen\nund bespritzt sein Gegenüber mit Wasser."
+      },
+      {
+        "game": "usum-us",
+        "text": "Stehen sich zwei Araqua im Weg, vergleichen sie\ndie Wasserblasen auf ihrem Kopf. Das mit der\nkleineren Blase macht dann dem anderen Platz."
+      },
+      {
+        "game": "usum-um",
+        "text": "Es kann nur Sauerstoff einatmen, der in Wasser\ngelöst ist. Deshalb hüllt es seinen Kopf immer in\neine Wasserblase, wenn es an Land geht."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Mit dem Hinterleib füllt es eine Wasserblase auf\nund hüllt seinen Kopf darin ein. Trifft es andere\nAraqua, vergleichen sie ihre Wasserblasengröße."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Es verlässt das Wasser nur selten. Wenn es auf\nFuttersuche an Land kommt, hüllt es seinen Kopf\nin eine Wasserblase."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Dewpider",
+    "genus": "Pokémon Pompa",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "Emerge a la superficie para alimentarse.\nLa burbuja con la que se rodea le sirve para\nrespirar y proteger su delicada cabeza."
+      },
+      {
+        "game": "sm-m",
+        "text": "Si se topa con una presa o un enemigo, le lanza\nun chorro de agua desde la burbuja con la que\nse protege la cabeza."
+      },
+      {
+        "game": "usum-us",
+        "text": "Si se encuentran dos ejemplares de la especie,\ncomparan el tamaño de sus burbujas.\nEl perdedor ha de ceder el paso."
+      },
+      {
+        "game": "usum-um",
+        "text": "Solo puede respirar el oxígeno presente en el\nagua, por lo que utiliza una burbuja para\nrespirar en tierra firme."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Crea una burbuja de agua con el abdomen y se\ncubre la cabeza con ella. Si dos ejemplares se\nencuentran, comparan el tamaño de sus burbujas."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Vive bajo el agua y, cuando emerge a tierra firme\nen busca de presas, se recubre la cabeza con una\nburbuja."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Dewpider",
+    "genus": "Pokémon Bolladacqua",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "Sale sulla terraferma in cerca di prede.\nLa sua bolla d’acqua gli permette di respirare\ne protegge la sua testa molle."
+      },
+      {
+        "game": "sm-m",
+        "text": "Quando avvista delle prede o dei nemici,\nli attacca scagliando contro di loro l’acqua\ndella bolla che ha in testa."
+      },
+      {
+        "game": "usum-us",
+        "text": "Quando due Dewpider si incontrano, mettono\nin mostra con orgoglio la bolla sulla loro testa.\nChi ha quella più piccola cede il passo."
+      },
+      {
+        "game": "usum-um",
+        "text": "Può respirare solo l’ossigeno contenuto\nnell’acqua. Sulla terraferma, tiene sempre la\ntesta dentro la sua bolla."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Con l’addome gonfia una bolla d’acqua in cui\ntiene infilata la testa. Fa a gara con gli altri\nDewpider a chi ha la bolla più grande."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Vive principalmente in acqua. Quando sale\nsulla terraferma in cerca di cibo ricopre la sua\ntesta con una bolla d’acqua."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Dewpider",
+    "genus": "Water Bubble Pokémon",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "It crawls onto the land in search of food.\nIts water bubble allows it to breathe and\nprotects its soft head."
+      },
+      {
+        "game": "sm-m",
+        "text": "When it comes across enemies or potential prey,\nthis Pokémon smashes its\nwater-bubble-covered head into them."
+      },
+      {
+        "game": "usum-us",
+        "text": "When two Dewpider meet, they display their\nwater bubbles to each other. Then the one with\nthe smaller bubble gets out of the other’s way."
+      },
+      {
+        "game": "usum-um",
+        "text": "It can only breathe oxygen that has dissolved in\nwater, so it wears a water bubble on its head\nwhen it walks around on land."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "It forms a water bubble at the rear of its body\nand then covers its head with it. Meeting another\nDewpider means comparing water-bubble sizes."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Dewpider normally lives underwater. When it\ncomes onto land in search of food, it takes\nwater with it in the form of a bubble on its head."
+      }
+    ]
+  },
+  "chs": {
+    "name": "滴蛛",
+    "genus": "水泡宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "为了寻找食物而到地面上来。\n戴着水泡是为了呼吸，\n以及保护柔软的头部。"
+      },
+      {
+        "game": "sm-m",
+        "text": "发现猎物或敌人后，\n会将头上戴着的水泡弹出，\n将水砸出去。"
+      },
+      {
+        "game": "usum-us",
+        "text": "如果滴蛛同类之间相遇，\n它们会自豪地用头上的水泡炫耀。\n水泡小的一方就会让路。"
+      },
+      {
+        "game": "usum-um",
+        "text": "因为只吸收溶解在水中的氧气，\n所以会戴着水泡在陆地上到处走。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "用臀部让水泡膨胀，\n并包裹住自己的头部。\n会和同类比拼水泡的大小。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "平时生活在水中，\n也会戴上水泡去\n陆地上寻找食物。"
+      }
+    ]
+  }
+}

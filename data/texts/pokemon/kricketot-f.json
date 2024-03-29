@@ -1,0 +1,219 @@
+{
+  "jap": {
+    "name": "コロボーシ",
+    "genus": "こおろぎポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "しょっかくを　ぶつけあって　ならす\nおとで　なかまと　かいわをする。\nねいろは　あきの　よの　ふうぶつし。"
+      },
+      {
+        "game": "xy-y",
+        "text": "しょっかく　どうしが　ぶつかると\nコロン　コロンと　もっきんに　にた\nねいろを　かなでる。"
+      },
+      {
+        "game": "oras-or",
+        "text": "しょっかくを　ぶつけあって　ならす\nおとで　なかまと　かいわをする。\nねいろは　あきの　よの　ふうぶつし。"
+      },
+      {
+        "game": "oras-as",
+        "text": "しょっかく　どうしが　ぶつかると\nコロン　コロンと　もっきんに　にた\nねいろを　かなでる。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Korobohshi",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "귀뚤뚜기",
+    "genus": "귀뚜라미포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "더듬이를 서로 부딪쳐 내는\n소리로 동료와 대화한다. 음색은\n가을밤의 정취를 잘 나타낸다."
+      },
+      {
+        "game": "xy-y",
+        "text": "더듬이가 서로 부딪히면\n딩동딩동 실로폰 같은\n음색을 연주한다."
+      },
+      {
+        "game": "oras-or",
+        "text": "더듬이를 서로 부딪쳐 내는\n소리로 동료와 대화한다. 음색은\n가을밤의 정취를 잘 나타낸다."
+      },
+      {
+        "game": "oras-as",
+        "text": "더듬이가 서로 부딪히면\n딩동딩동 실로폰 같은\n음색을 연주한다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "圓法師",
+    "genus": "蟋蟀寶可夢",
+    "flavorText": []
+  },
+  "fra": {
+    "name": "Crikzik",
+    "genus": "Pokémon Criquet",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Quand il tombe du haut de ses\npetites pattes, ses antennes\nfont un bruit de xylophone."
+      },
+      {
+        "game": "bw-w",
+        "text": "Quand il tombe du haut de ses\npetites pattes, ses antennes\nfont un bruit de xylophone."
+      },
+      {
+        "game": "xy-x",
+        "text": "Il communique au son de ses antennes qui\ns’entrechoquent. Ce son marque l’arrivée de\nl’automne."
+      },
+      {
+        "game": "xy-y",
+        "text": "Quand ses antennes s’entrechoquent, elles laissent\néchapper un bruit de xylophone."
+      },
+      {
+        "game": "oras-or",
+        "text": "Il communique au son de ses antennes qui s’entrechoquent.\nCe son marque l’arrivée de l’automne."
+      },
+      {
+        "game": "oras-as",
+        "text": "Quand ses antennes s’entrechoquent, elles laissent échapper\nun bruit de xylophone."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Zirpurze",
+    "genus": "Zirper",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Diese Pokémon unterhalten sich, indem sie ihre\nAntennen aneinanderschlagen. Der Ton ist ihr\nKennzeichen."
+      },
+      {
+        "game": "xy-y",
+        "text": "Wenn seine zwei Antennen sich berühren,\nerklingt ein Ruf wie das Spiel eines Xylophons."
+      },
+      {
+        "game": "oras-or",
+        "text": "Diese Pokémon unterhalten sich, indem sie ihre Antennen\naneinanderschlagen. Der Ton ist ihr Kennzeichen."
+      },
+      {
+        "game": "oras-as",
+        "text": "Wenn seine zwei Antennen sich berühren, erklingt ein Ruf\nwie das Spiel eines Xylophons."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Kricketot",
+    "genus": "Pokémon Grillo",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Hablan entre sí chocando las antenas. Los sonidos\nproducidos son muy característicos."
+      },
+      {
+        "game": "xy-y",
+        "text": "Si choca sus antenas, emite un sonido similar al de\nun xilófono."
+      },
+      {
+        "game": "oras-or",
+        "text": "Hablan entre sí chocando las antenas. Los sonidos producidos\nson muy característicos."
+      },
+      {
+        "game": "oras-as",
+        "text": "Si choca sus antenas, emite un sonido similar al de un\nxilófono."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Kricketot",
+    "genus": "Pokémon Grillo",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Comunica con il suono prodotto dallo scontro delle\nsue antenne. Esso indica l’arrivo dell’autunno."
+      },
+      {
+        "game": "xy-y",
+        "text": "Le antenne, scontrandosi, producono un suono\nsimile allo xilofono: klon, klon!"
+      },
+      {
+        "game": "oras-or",
+        "text": "Comunica con il suono prodotto dallo scontro delle sue\nantenne. Esso indica l’arrivo dell’autunno."
+      },
+      {
+        "game": "oras-as",
+        "text": "Le antenne, scontrandosi, producono un suono simile allo\nxilofono: klon, klon!"
+      }
+    ]
+  },
+  "eng": {
+    "name": "Kricketot",
+    "genus": "Cricket Pokémon",
+    "flavorText": [
+      {
+        "game": "dp-d",
+        "text": "It shakes its head back to front,\ncausing its antennae to hit each\nother and sound like a xylophone."
+      },
+      {
+        "game": "dp-p",
+        "text": "It chats with others using the\nsounds of its colliding antennae.\nThese sounds are fall hallmarks."
+      },
+      {
+        "game": "pt",
+        "text": "Its legs are short. Whenever it\nstumbles, its stiff antennae clack\nwith a xylophone-like sound."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "When its antennae hit each other,\nit sounds like the music of\na xylophone."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "When its antennae hit each other,\nit sounds like the music of\na xylophone."
+      },
+      {
+        "game": "bw-b",
+        "text": "Its legs are short. Whenever it\nstumbles, its stiff antennae clack\nwith a xylophone-like sound."
+      },
+      {
+        "game": "bw-w",
+        "text": "Its legs are short. Whenever it\nstumbles, its stiff antennae clack\nwith a xylophone-like sound."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "Its legs are short. Whenever it\nstumbles, its stiff antennae clack\nwith a xylophone-like sound."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "Its legs are short. Whenever it\nstumbles, its stiff antennae clack\nwith a xylophone-like sound."
+      },
+      {
+        "game": "xy-x",
+        "text": "It chats with others using the sounds of its colliding\nantennae. These sounds are fall hallmarks."
+      },
+      {
+        "game": "xy-y",
+        "text": "When its antennae hit each other, it sounds like the\nmusic of a xylophone."
+      },
+      {
+        "game": "oras-or",
+        "text": "It chats with others using the sounds of its colliding\nantennae. These sounds are fall hallmarks."
+      },
+      {
+        "game": "oras-as",
+        "text": "When its antennae hit each other, it sounds like the\nmusic of a xylophone."
+      },
+      {
+        "game": "la",
+        "text": "When the trees take on new hues, more of these Pokémon\nappear. The tone they create by striking their antennae together\nresembles that of the marimba, an instrument of foreign lands."
+      }
+    ]
+  },
+  "chs": {
+    "name": "圆法师",
+    "genus": "蟋蟀宝可梦",
+    "flavorText": []
+  }
+}

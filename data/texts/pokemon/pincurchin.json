@@ -1,0 +1,133 @@
+{
+  "jap": {
+    "name": "バチンウニ",
+    "genus": "うにポケモン",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "トゲの　さきから　でんきを　はなつ。\nするどい　はで　いわに　ついた\nかいそうを　こそいで　たべる。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "トゲの　１ぽん　１ぽんに　でんきを\nたくわえる。　おれた　トゲでも\n３じかんは　ほうでんを　つづけるぞ。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Bachinuni",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "찌르성게",
+    "genus": "성게포켓몬",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "가시 끝에서 전기를 발산한다.\n날카로운 이빨로 바위에 붙은\n해초를 갉아 먹는다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "가시 하나하나에 전기를\n비축하고 있다. 부러진 가시도\n3시간 동안 방전을 계속한다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "啪嚓海膽",
+    "genus": "海膽寶可夢",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "能從刺的尖端放電。\n會用銳利的牙齒刮取\n附在岩石上的海藻來吃。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "每根刺裡都儲存著電力。\n即使是折斷的刺也至少\n能持續放電３小時。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Wattapik",
+    "genus": "Pokémon Oursin",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Il libère de l’électricité depuis la pointe de ses\népines, et se nourrit des algues accrochées aux\nrochers en les arrachant avec ses dents aiguisées."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Chacune de ses épines est chargée en électricité.\nS’il en perd une, celle-ci continue d’émettre\nun courant électrique pendant trois heures."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Britzigel",
+    "genus": "Seeigel-Pokémon",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Aus den Spitzen seiner Stacheln setzt es\nElektrizität frei. Mit seinen scharfen Zähnen\nschabt es Algen von Steinen ab und frisst sie."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "In jedem einzelnen seiner Stacheln speichert es\nElektrizität. Selbst abgebrochene Stacheln sind\nnoch drei Stunden lang geladen."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Pincurchin",
+    "genus": "Pokémon Erizo de Mar",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Libera electricidad por la punta de las púas.\nCon sus afilados dientes raspa las algas pegadas\na las rocas para ingerirlas."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Acumula electricidad en cada una de sus púas.\nAunque estas se rompan, son capaces de seguir\ndescargando energía durante 3 h."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Pincurchin",
+    "genus": "Pokémon Echino",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Sprigiona elettricità dalla punta dei suoi aculei.\nUsa i denti affilati per raschiare dalle rocce\nle alghe di cui si nutre."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Ogni singolo aculeo è carico di elettricità.\nQuando se ne rompe uno, continua a emettere\nscariche elettriche per tre ore."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Pincurchin",
+    "genus": "Sea Urchin Pokémon",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "It feeds on seaweed, using its teeth to scrape it\noff rocks. Electric current flows from the tips of\nits spines."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "It stores electricity in each spine. Even if one gets\nbroken off, it still continues to emit electricity for\nat least three hours."
+      }
+    ]
+  },
+  "chs": {
+    "name": "啪嚓海胆",
+    "genus": "海胆宝可梦",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "能从刺的尖端放电。\n会用锐利的牙齿刮取\n附在岩石上的海藻吃。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "每根刺里都储存着电力。\n即使是折断的刺也至少\n能连续放电３小时。"
+      }
+    ]
+  }
+}

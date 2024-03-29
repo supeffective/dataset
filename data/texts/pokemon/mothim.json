@@ -1,0 +1,219 @@
+{
+  "jap": {
+    "name": "ガーメイル",
+    "genus": "ミノガポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "はなの　ミツが　だいすき。\nミツハニーの　あつめた　ミツを\nよこどりして　たべてしまう。"
+      },
+      {
+        "game": "xy-y",
+        "text": "よなか　かっぱつに　とびまわり\nねむっている　ミツハニーの　す　から\nミツを　うばって　にげる。"
+      },
+      {
+        "game": "oras-or",
+        "text": "はなの　ミツが　だいすき。\nミツハニーの　あつめた　ミツを\nよこどりして　たべてしまう。"
+      },
+      {
+        "game": "oras-as",
+        "text": "よなか　かっぱつに　とびまわり\nねむっている　ミツハニーの　す　から\nミツを　うばって　にげる。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Garmeil",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "나메일",
+    "genus": "나방포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "꽃의 꿀을 매우 좋아한다.\n세꿀버리가 모아둔 꿀을\n가로채어 먹어 버린다."
+      },
+      {
+        "game": "xy-y",
+        "text": "한밤중에 활발하게 날아다니며\n잠든 세꿀버리의 둥지에서\n꿀을 훔쳐 달아난다."
+      },
+      {
+        "game": "oras-or",
+        "text": "꽃의 꿀을 매우 좋아한다.\n세꿀버리가 모아둔 꿀을\n가로채어 먹어 버린다."
+      },
+      {
+        "game": "oras-as",
+        "text": "한밤중에 활발하게 날아다니며\n잠든 세꿀버리의 둥지에서\n꿀을 훔쳐 달아난다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "紳士蛾",
+    "genus": "蓑衣蛾寶可夢",
+    "flavorText": []
+  },
+  "fra": {
+    "name": "Papilord",
+    "genus": "Pokémon Phalène",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Il adore le nectar des fleurs mais\nn’en récolte pas lui-même.\nIl préfère en voler à un Apitrini."
+      },
+      {
+        "game": "bw-w",
+        "text": "Il adore le nectar des fleurs mais\nn’en récolte pas lui-même.\nIl préfère en voler à un Apitrini."
+      },
+      {
+        "game": "xy-x",
+        "text": "Il aime le nectar des fleurs et n’hésite pas à voler\ncelui que récupère Apitrini."
+      },
+      {
+        "game": "xy-y",
+        "text": "Ce Pokémon s’active à la nuit tombée pour voler\nle miel des Apitrini pendant leur sommeil."
+      },
+      {
+        "game": "oras-or",
+        "text": "Il aime le nectar des fleurs et n’hésite pas à voler\ncelui que récupère Apitrini."
+      },
+      {
+        "game": "oras-as",
+        "text": "Ce Pokémon s’active à la nuit tombée pour voler le miel\ndes Apitrini pendant leur sommeil."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Moterpel",
+    "genus": "Motte",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Es liebt Honig und stiehlt den Honig,\nder von Wadribie gesammelt wurde."
+      },
+      {
+        "game": "xy-y",
+        "text": "Nachts fliegt es emsig umher und stiehlt,\nwährend Wadribie schläft, Honig aus dessen Nest."
+      },
+      {
+        "game": "oras-or",
+        "text": "Es liebt Honig und stiehlt den Honig, der von Wadribie\ngesammelt wurde."
+      },
+      {
+        "game": "oras-as",
+        "text": "Nachts fliegt es emsig umher und stiehlt, während Wadribie\nschläft, Honig aus dessen Nest."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Mothim",
+    "genus": "Pokémon Polilla",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Le encanta la miel de las flores y roba la que recoge\nCombee."
+      },
+      {
+        "game": "xy-y",
+        "text": "Hace vida nocturna. Revolotea y roba la miel de las\ncolmenas de Combee cuando duermen."
+      },
+      {
+        "game": "oras-or",
+        "text": "Le encanta la miel de las flores y roba la que recoge Combee."
+      },
+      {
+        "game": "oras-as",
+        "text": "Hace vida nocturna. Revolotea y roba la miel de las colmenas\nde Combee cuando duermen."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Mothim",
+    "genus": "Pokémon Falena",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Ama il nettare dei fiori. Ruba e mangia il nettare\nraccolto da Combee."
+      },
+      {
+        "game": "xy-y",
+        "text": "Vola qua e là di notte per derubare i Combee del\nloro nettare mentre dormono, e poi fuggire."
+      },
+      {
+        "game": "oras-or",
+        "text": "Ama il nettare dei fiori. Ruba e mangia il nettare raccolto\nda Combee."
+      },
+      {
+        "game": "oras-as",
+        "text": "Vola qua e là di notte per derubare i Combee del loro nettare\nmentre dormono, e poi fuggire."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Mothim",
+    "genus": "Moth Pokémon",
+    "flavorText": [
+      {
+        "game": "dp-d",
+        "text": "It loves the honey of flowers\nand steals honey collected by\nCOMBEE."
+      },
+      {
+        "game": "dp-p",
+        "text": "It does not keep a nest. It flies\nover fields and mountains in\nconstant search of floral honey."
+      },
+      {
+        "game": "pt",
+        "text": "While it loves floral honey, it won’t\ngather any itself. Instead, it\nplots to steal some from COMBEE."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "It flutters around at night and\nsteals honey from the COMBEE hive."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "It flutters around at night and\nsteals honey from the COMBEE hive."
+      },
+      {
+        "game": "bw-b",
+        "text": "While it loves floral honey, it won’t\ngather any itself. Instead, it\nplots to steal some from Combee."
+      },
+      {
+        "game": "bw-w",
+        "text": "While it loves floral honey, it won’t\ngather any itself. Instead, it\nplots to steal some from Combee."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "While it loves floral honey, it won’t\ngather any itself. Instead, it\nplots to steal some from Combee."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "While it loves floral honey, it won’t\ngather any itself. Instead, it\nplots to steal some from Combee."
+      },
+      {
+        "game": "xy-x",
+        "text": "It loves the honey of flowers and steals honey\ncollected by Combee."
+      },
+      {
+        "game": "xy-y",
+        "text": "It flutters around at night and steals honey from\nthe Combee hive."
+      },
+      {
+        "game": "oras-or",
+        "text": "It loves the honey of flowers and steals honey\ncollected by Combee."
+      },
+      {
+        "game": "oras-as",
+        "text": "It flutters around at night and steals honey from\nthe Combee hive."
+      },
+      {
+        "game": "la",
+        "text": "Scatters steel-colored scales as it flaps its wings. Despite\nbeing observed feeding primarily on the nectar of flowers,\nMothim is not often seen around flower gardens."
+      }
+    ]
+  },
+  "chs": {
+    "name": "绅士蛾",
+    "genus": "蓑衣蛾宝可梦",
+    "flavorText": []
+  }
+}

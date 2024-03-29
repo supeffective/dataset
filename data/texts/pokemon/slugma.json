@@ -1,0 +1,247 @@
+{
+  "jap": {
+    "name": "マグマッグ",
+    "genus": "ようがんポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "かざんちたいに　おおく　はっせい。\nあたたかい　ところを　さがして\nのろのろ　はいずりまわっている。"
+      },
+      {
+        "game": "xy-y",
+        "text": "ようがんで　できた　からだを　もつ。\nたえず　うごいていないと　からだが\nひえて　かたまってしまうのだ。"
+      },
+      {
+        "game": "oras-or",
+        "text": "からだの　なかでは　しゃくねつの　ようがんが\nうずまいているが　ひえると　かたまって　しまい\nくずれて　からだが　ちいさく　なっていく。"
+      },
+      {
+        "game": "oras-as",
+        "text": "からだの　なかでは　けつえきの　かわりに\nひつような　えいようと　さんそを　はこぶために\nしゃくねつの　マグマが　じゅんかんしている。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Magmag",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "마그마그",
+    "genus": "용암포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "화산 지대에 많이 나타난다.\n따뜻한 곳을 찾아서\n느릿느릿 기어 다니고 있다."
+      },
+      {
+        "game": "xy-y",
+        "text": "용암으로 된 몸을 가지고 있다.\n끊임없이 움직이지 않으면 몸이\n식어 굳어져 버린다."
+      },
+      {
+        "game": "oras-or",
+        "text": "몸 안에는 작열하는 용암이\n소용돌이치지만 식으면 굳어지고\n부서져서 몸이 작아진다."
+      },
+      {
+        "game": "oras-as",
+        "text": "몸 안에는 혈액 대신\n필요한 영양과 산소를 운반하기 위해\n작열하는 마그마가 순환되고 있다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "熔岩蟲",
+    "genus": "熔岩寶可夢",
+    "flavorText": []
+  },
+  "fra": {
+    "name": "Limagma",
+    "genus": "Pokémon Lave",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Son corps est fait de magma.\nS’il cesse de bouger, il refroidit\net durcit."
+      },
+      {
+        "game": "bw-w",
+        "text": "Son corps est fait de magma.\nS’il cesse de bouger, il refroidit\net durcit."
+      },
+      {
+        "game": "xy-x",
+        "text": "Commun dans les régions volcaniques, il se déplace\nsans cesse pour trouver des endroits chauds."
+      },
+      {
+        "game": "xy-y",
+        "text": "Son corps est fait de magma. S’il cesse de bouger,\nil refroidit et durcit."
+      },
+      {
+        "game": "oras-or",
+        "text": "Du magma en fusion coule dans les veines de Limagma.\nSi ce Pokémon est refroidi, le magma se solidifie. Son corps\ndevient alors cassant et des morceaux s’en détachent,\ndiminuant ainsi sa taille."
+      },
+      {
+        "game": "oras-as",
+        "text": "Les veines de Limagma ne contiennent pas de sang.\nAu lieu de ça, du magma en fusion circule dans le corps\nde ce Pokémon, apportant les nutriments et l’oxygène\nnécessaires à ses organes."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Schneckmag",
+    "genus": "Lava",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Es hält sich ständig bei Vulkanen auf und ist\nstets kriechend auf der Suche nach warmen\nAufenthaltsorten."
+      },
+      {
+        "game": "xy-y",
+        "text": "Sein Körper besteht aus Magma. Bleibt es nicht\nständig in Bewegung, kühlt es aus und verhärtet sich."
+      },
+      {
+        "game": "oras-or",
+        "text": "Durch Schneckmags Kreislaufsystem fließt Magma.\nWenn dieses Pokémon erkältet ist, kühlt das Magma\naus und erhärtet. Sein Körper wird spröde und es\nbrechen Stücke heraus, sodass es kleiner wird."
+      },
+      {
+        "game": "oras-as",
+        "text": "Schneckmag hat kein Blut in seinem Körper. Stattdessen fließt\nglühend heißes Magma in diesem Pokémon, das seine Organe\nmit lebenswichtigen Nährstoffen und Sauerstoff versorgt."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Slugma",
+    "genus": "Pokémon Lava",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Asiduo a las zonas volcánicas, se desliza lentamente\nen busca de lugares calientes."
+      },
+      {
+        "game": "xy-y",
+        "text": "Su cuerpo se compone de magma. Si deja de\nmoverse, se enfría y se endurece."
+      },
+      {
+        "game": "oras-or",
+        "text": "Por el sistema circulatorio de Slugma corre magma líquido. Si\neste Pokémon se enfriara, el magma perdería el calor y se\nsolidificaría, por lo que se resquebrajaría por completo,\nperdería algunos trozos y reduciría su tamaño."
+      },
+      {
+        "game": "oras-as",
+        "text": "Slugma no tiene sangre en su organismo, sino ardiente\nmagma que hace circular por todo el cuerpo los nutrientes\ny el oxígeno que necesitan sus órganos."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Slugma",
+    "genus": "Pokémon Lava",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Comune nelle aree vulcaniche, striscia in giro\nlentamente, sempre alla ricerca di luoghi caldi."
+      },
+      {
+        "game": "xy-y",
+        "text": "Nel suo corpo scorre magma. Se non si muove\ncontinuamente, il suo corpo si raffredda e s’indurisce."
+      },
+      {
+        "game": "oras-or",
+        "text": "Nel corpo di Slugma scorre magma liquido. In caso di\ncongelamento, il magma si raffredda e si solidifica. Il corpo\ndiventa fragile e cade a pezzi consumandosi progressivamente."
+      },
+      {
+        "game": "oras-as",
+        "text": "Nel corpo di Slugma non scorre nemmeno una goccia di\nsangue, bensì magma rovente, che garantisce l’apporto di\nossigeno e sostanze nutritive fondamentali per i suoi organi."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Slugma",
+    "genus": "Lava Pokémon",
+    "flavorText": [
+      {
+        "game": "gs-g",
+        "text": "It never sleeps.\nIt has to keep\nmoving because if\fit stopped, its\nmagma body would\ncool and harden."
+      },
+      {
+        "game": "gs-s",
+        "text": "A common sight in\nvolcanic areas, it\nslowly slithers\faround in a con­\nstant search for\nwarm places."
+      },
+      {
+        "game": "c",
+        "text": "These group to­\ngether in areas\nthat are hotter\fthan normal. If it\ncools off, its\nskin hardens."
+      },
+      {
+        "game": "rs-r",
+        "text": "Molten magma courses throughout\nSLUGMA’s circulatory system.\nIf this POKéMON is chilled, the magma\fcools and hardens. Its body turns\nbrittle and chunks fall off, reducing\nits size."
+      },
+      {
+        "game": "rs-s",
+        "text": "SLUGMA does not have any blood in its\nbody. Instead, intensely hot magma\ncirculates throughout this POKéMON’s\fbody, carrying essential nutrients and\noxygen to its organs."
+      },
+      {
+        "game": "e",
+        "text": "It is a species of POKéMON that lives in\nvolcanic areas. If its body cools, its skin\nhardens and immobilizes it. To avoid that,\nit sleeps near magma."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "A common sight in volcanic areas, it\nslowly slithers around in a constant\nsearch for warm places."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "It never sleeps. It has to keep moving\nbecause if it stopped, its magma body\nwould cool and harden."
+      },
+      {
+        "game": "dp-d",
+        "text": "Its body is made of magma.\nIf it doesn’t keep moving, its\nbody will cool and harden."
+      },
+      {
+        "game": "dp-p",
+        "text": "Its body is made of magma.\nIf it doesn’t keep moving, its\nbody will cool and harden."
+      },
+      {
+        "game": "pt",
+        "text": "Its body is made of magma.\nIf it doesn’t keep moving, its\nbody will cool and harden."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "It never sleeps. It has to keep\nmoving because if it stopped, its\nmagma body would cool and harden."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "A common sight in volcanic areas, it\nslowly slithers around in a\nconstant search for warm places."
+      },
+      {
+        "game": "bw-b",
+        "text": "Its body is made of magma.\nIf it doesn’t keep moving, its\nbody will cool and harden."
+      },
+      {
+        "game": "bw-w",
+        "text": "Its body is made of magma.\nIf it doesn’t keep moving, its\nbody will cool and harden."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "Its body is made of magma.\nIf it doesn’t keep moving, its\nbody will cool and harden."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "Its body is made of magma.\nIf it doesn’t keep moving, its\nbody will cool and harden."
+      },
+      {
+        "game": "xy-x",
+        "text": "A common sight in volcanic areas, it slowly slithers\naround in a constant search for warm places."
+      },
+      {
+        "game": "xy-y",
+        "text": "Its body is made of magma. If it doesn’t keep\nmoving, its body will cool and harden."
+      },
+      {
+        "game": "oras-or",
+        "text": "Molten magma courses throughout Slugma’s circulatory\nsystem. If this Pokémon is chilled, the magma cools and\nhardens. Its body turns brittle and chunks fall off, reducing\nits size."
+      },
+      {
+        "game": "oras-as",
+        "text": "Slugma does not have any blood in its body. Instead, intensely\nhot magma circulates throughout this Pokémon’s body,\ncarrying essential nutrients and oxygen to its organs."
+      }
+    ]
+  },
+  "chs": {
+    "name": "熔岩虫",
+    "genus": "熔岩宝可梦",
+    "flavorText": []
+  }
+}

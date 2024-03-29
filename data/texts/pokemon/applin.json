@@ -1,0 +1,133 @@
+{
+  "jap": {
+    "name": "カジッチュ",
+    "genus": "りんごぐらしポケモン",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "いっしょう　りんごの　なかで　くらし\nてんてきの　とりポケモンに　であうと\nりんごの　ふりをして　みをまもる。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "うまれると　りんごに　もぐりこむ。\nなかみを　たべながら　せいちょうし\nりんごの　あじが　しんかを　きめる。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Kajicchu",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "과사삭벌레",
+    "genus": "사과살이포켓몬",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "평생을 사과 속에서 지내며\n천적인 새포켓몬과 마주치면\n사과인 척을 해서 몸을 지킨다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "태어나면 사과 안으로 숨어든다.\n안을 파먹으면서 성장하고\n사과 맛이 진화를 결정한다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "啃果蟲",
+    "genus": "蘋果居寶可夢",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "終其一生都在蘋果裡度過。\n遇到天敵鳥寶可夢時，\n會裝成蘋果保護自己。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "一出生就躲進了蘋果中，\n一邊吃果肉一邊成長。\n進化方向依蘋果的味道而定。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Verpom",
+    "genus": "Pokémon Nid Pomme",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Il vit toujours dans sa pomme. S’il croise\nun Pokémon oiseau, son prédateur naturel, il se\nfait passer pour un simple fruit pour se protéger."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "À la naissance, il s’installe dans une pomme\net grandit en se nourrissant de sa chair.\nSon évolution dépend de la saveur du fruit."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Knapfel",
+    "genus": "Apfelhaus-Pokémon",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Es verbringt sein ganzes Leben im Inneren eines\nApfels. Um sich vor Vogel-Pokémon, seinen\nFressfeinden, zu schützen, imitiert es einen Apfel."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Nach der Geburt kriecht es sofort in einen Apfel\nund verspeist dessen Inneres, um zu wachsen.\nSeine Entwicklung hängt von dessen Aroma ab."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Applin",
+    "genus": "Pokémon Manzanido",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Habita durante toda su vida en el interior de una\nmanzana. Finge ser una fruta para protegerse de\nlos Pokémon pájaro, sus enemigos naturales."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Nada más nacer se refugia en una manzana, cuyo\ninterior va devorando a medida que crece. El\nsabor de la fruta determina la evolución."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Applin",
+    "genus": "Pokémon Pomicolo",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Passa la vita all’interno di un pomo. Quando si\nimbatte in Pokémon alati, suoi nemici naturali,\nsi protegge fingendosi un semplice frutto."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Quando nasce si intrufola in un pomo e cresce\nmangiandone la polpa. Si evolve in modo diverso\na seconda del gusto del frutto."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Applin",
+    "genus": "Apple Core Pokémon",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "It spends its entire life inside an apple. It hides\nfrom its natural enemies, bird Pokémon, by\npretending it’s just an apple and nothing more."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "As soon as it’s born, it burrows into an apple. Not\nonly does the apple serve as its food source, but\nthe flavor of the fruit determines its evolution."
+      }
+    ]
+  },
+  "chs": {
+    "name": "啃果虫",
+    "genus": "苹果居宝可梦",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "终其一生都在苹果里度过。\n遇到天敌鸟宝可梦时，\n会装成苹果保护自己。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "一出生就躲进了苹果中。\n一边吃果肉一边成长。\n进化方向因苹果的味道而定。"
+      }
+    ]
+  }
+}

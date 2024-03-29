@@ -1,0 +1,269 @@
+{
+  "jap": {
+    "name": "モノズ",
+    "genus": "そぼうポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "めが　みえないため　たいあたりしたり\nかみついて　まわりを　さぐる。\nからだじゅう　なまきずが　たえない。"
+      },
+      {
+        "game": "xy-y",
+        "text": "まわりの　ようすが　わからないので\nてあたりしだいに　ぶつかっては\nうごくものに　かみつき　たべまくる。"
+      },
+      {
+        "game": "oras-or",
+        "text": "めが　みえないため　たいあたりしたり\nかみついて　まわりを　さぐる。\nからだじゅう　なまきずが　たえない。"
+      },
+      {
+        "game": "oras-as",
+        "text": "まわりの　ようすが　わからないので\nてあたりしだいに　ぶつかっては\nうごくものに　かみつき　たべまくる。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "とりあえず　まず　かみついてみる\nしゅうせい。　おいしかった　ものは\nにおいを　ちゃんと　おぼえるという。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "めが　みえないので　てあたりしだい\nかみついて　じぶんの　まわりの\nじょうきょうを　はあく　している。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Monozu",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "모노두",
+    "genus": "폭거포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "눈이 보이지 않아서 몸통박치기나\n물기로 주변을 살핀다.\n몸에 상처가 끊이지 않는다."
+      },
+      {
+        "game": "xy-y",
+        "text": "주변의 모습을 모르기 때문에\n닥치는 대로 부딪쳐서는\n움직이는 것을 물어 먹어치운다."
+      },
+      {
+        "game": "oras-or",
+        "text": "눈이 보이지 않아서 몸통박치기나\n물기로 주변을 살핀다.\n몸에 상처가 끊이지 않는다."
+      },
+      {
+        "game": "oras-as",
+        "text": "주변의 모습을 모르기 때문에\n닥치는 대로 부딪쳐서는\n움직이는 것을 물어 먹어치운다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "무엇이든 일단 물고 보는\n습성을 가졌다. 맛있었던 것은\n냄새를 확실히 기억한다고 한다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "눈이 보이지 않아 닥치는 대로\n물면서 본인 주위의\n상황을 파악한다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "單首龍",
+    "genus": "粗魯寶可夢",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "不管遇到什麼都習慣先咬再說。\n據說如果咬起來味道不錯，\n牠就會牢牢記住那種氣味。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "因為眼睛看不見，\n所以會又撞又咬，\n來判斷四周的狀況。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Solochi",
+    "genus": "Pokémon Rude",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Il mord tout ce qui bouge, et mange tout\nce qu’il trouve. Il vaut mieux éviter\nde s’en approcher."
+      },
+      {
+        "game": "bw-w",
+        "text": "Comme il ne voit rien, il perçoit son\nenvironnement en mordant et en fonçant\nà tout va. Il est couvert de plaies."
+      },
+      {
+        "game": "xy-x",
+        "text": "Comme il ne voit rien, il perçoit son environnement\nen mordant et en fonçant à tout va. Il est couvert\nde plaies."
+      },
+      {
+        "game": "xy-y",
+        "text": "Comme il ne voit rien, il perçoit son environnement\nen mordant et en fonçant à tout va."
+      },
+      {
+        "game": "oras-or",
+        "text": "Comme il ne voit rien, il perçoit son environnement en mordant\net en fonçant à tout va. Il est couvert de plaies."
+      },
+      {
+        "game": "oras-as",
+        "text": "Comme il ne voit rien, il perçoit son environnement en mordant\net en fonçant à tout va."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Il mord d’abord et réfléchit ensuite.\nOn dit qu’il n’oublie jamais l’odeur\nde la nourriture qu’il aime."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Comme il ne voit rien, il se repère en mâchouillant\ntout ce qui se trouve autour de lui."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Kapuno",
+    "genus": "Haudrauf-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Da es nichts sehen kann, sucht es seine Umgebung\nmit Rempel- und Bissattacken ab und ist immer\nmit Wunden übersät."
+      },
+      {
+        "game": "xy-y",
+        "text": "Da es nichts sehen kann, rammt und frisst es alles,\nwas ihm auf dem Weg in die Quere kommt."
+      },
+      {
+        "game": "oras-or",
+        "text": "Da es nichts sehen kann, sucht es seine Umgebung mit\nRempel- und Bissattacken ab und ist immer mit Wunden\nübersät."
+      },
+      {
+        "game": "oras-as",
+        "text": "Da es nichts sehen kann, rammt und frisst es alles, was ihm\nauf dem Weg in die Quere kommt."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Es hat die Angewohnheit, in alles zu beißen,\nwas es findet. Stellt sich etwas als lecker heraus,\nprägt es sich den Geruch davon gut ein."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Da es nichts sehen kann, beißt es zur\nOrientierung in alles hinein, was sich in seiner\nUmgebung befindet."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Deino",
+    "genus": "Pokémon Tosco",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "No ve, por eso va haciendo placajes y dando\nmordiscos a diestro y siniestro. Su cuerpo está\nplagado de heridas."
+      },
+      {
+        "game": "xy-y",
+        "text": "No ve bien a su alrededor, por eso va chocándose a\ndiestro y siniestro, y mordiendo todo lo que se mueve."
+      },
+      {
+        "game": "oras-or",
+        "text": "No ve, por eso va haciendo placajes y dando mordiscos a\ndiestro y siniestro. Su cuerpo está plagado de heridas."
+      },
+      {
+        "game": "oras-as",
+        "text": "No ve bien a su alrededor, por eso va chocándose a diestro y\nsiniestro, y mordiendo todo lo que se mueve."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Muestra cierta tendencia a morder todo lo que\nencuentra. Se cree que recuerda perfectamente\nel olor de lo que encuentra delicioso."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Al no poder ver, su forma de orientarse y percibir\nel entorno consiste en chocarse a diestro y\nsiniestro, mordiendo todo lo que se encuentra."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Deino",
+    "genus": "Pokémon Impeto",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Dal momento che non ci vede, esamina ciò che lo\ncirconda mordendo o lanciandosi di peso. Ha\nammaccature su tutto il corpo."
+      },
+      {
+        "game": "xy-y",
+        "text": "Non vede bene ciò che lo circonda e sbatte qua e\nlà mordendo e mangiando tutto ciò che si muove."
+      },
+      {
+        "game": "oras-or",
+        "text": "Dal momento che non ci vede, esamina ciò che lo circonda\nmordendo o lanciandosi di peso. Ha ammaccature su tutto\nil corpo."
+      },
+      {
+        "game": "oras-as",
+        "text": "Non vede bene ciò che lo circonda e sbatte qua e là\nmordendo e mangiando tutto ciò che si muove."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Ha l’abitudine di mordere tutto quello che\ntrova. Si dice che ricordi con precisione\nil profumo di ciò che ha trovato delizioso."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "È cieco e si orienta mordicchiando\ntutto ciò che ha intorno."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Deino",
+    "genus": "Irate Pokémon",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "It tends to bite everything, and it\nis not a picky eater. Approaching it\ncarelessly is dangerous."
+      },
+      {
+        "game": "bw-w",
+        "text": "They cannot see, so they tackle and bite\nto learn about their surroundings.\nTheir bodies are covered in wounds."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "Lacking sight, it’s unaware of its\nsurroundings, so it bumps into things\nand eats anything that moves."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "Lacking sight, it’s unaware of its\nsurroundings, so it bumps into things\nand eats anything that moves."
+      },
+      {
+        "game": "xy-x",
+        "text": "They cannot see, so they tackle and bite to learn\nabout their surroundings. Their bodies are covered\nin wounds."
+      },
+      {
+        "game": "xy-y",
+        "text": "Lacking sight, it’s unaware of its surroundings,\nso it bumps into things and eats anything\nthat moves."
+      },
+      {
+        "game": "oras-or",
+        "text": "They cannot see, so they tackle and bite to learn\nabout their surroundings. Their bodies are covered\nin wounds."
+      },
+      {
+        "game": "oras-as",
+        "text": "Lacking sight, it’s unaware of its surroundings,\nso it bumps into things and eats anything\nthat moves."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "When it encounters something, its first urge is\nusually to bite it. If it likes what it tastes, it will\ncommit the associated scent to memory."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Because it can’t see, this Pokémon is constantly\nbiting at everything it touches, trying to keep\ntrack of its surroundings."
+      }
+    ]
+  },
+  "chs": {
+    "name": "单首龙",
+    "genus": "粗鲁宝可梦",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "不管遇到什么都习惯先咬再说。\n据说如果咬起来味道不错，\n它就会牢牢记住那种气味。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "因为眼睛看不见，\n所以会又撞又咬，\n来判断四周的状况。"
+      }
+    ]
+  }
+}

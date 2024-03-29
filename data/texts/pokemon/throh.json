@@ -1,0 +1,269 @@
+{
+  "jap": {
+    "name": "ナゲキ",
+    "genus": "じゅうどうポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "おびを　しめると　パワーアップする。\nやせいの　ナゲキは　つるくさを\nあんで　じぶんの　おびを　つくる。"
+      },
+      {
+        "game": "xy-y",
+        "text": "じぶんより　おおきな　あいてと\nであうと　むしょうに　なげたくなる。\nつよくなると　おびを　とりかえる。"
+      },
+      {
+        "game": "oras-or",
+        "text": "おびを　しめると　パワーアップする。\nやせいの　ナゲキは　つるくさを\nあんで　じぶんの　おびを　つくる。"
+      },
+      {
+        "game": "oras-as",
+        "text": "じぶんより　おおきな　あいてと\nであうと　むしょうに　なげたくなる。\nつよくなると　おびを　とりかえる。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "なげわざの　うでは　いちりゅう。\nたたかいで　かいた　あせが　しみ\nおびの　いろが　こく　そまっていく。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "５ひきの　むれで　けいこに　はげむ。\nけいこに　ついていけない　ものは\nおびを　すてて　むれを　さる。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Nageki",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "던지미",
+    "genus": "유도포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "끈을 매면 파워가 올라간다.\n야생 던지미는 덩굴풀을 엮어\n자신의 띠를 만든다."
+      },
+      {
+        "game": "xy-y",
+        "text": "자신보다 큰 상대와 만나면\n이유 없이 내던지고 싶어 한다.\n강해지면 띠를 바꾼다."
+      },
+      {
+        "game": "oras-or",
+        "text": "띠를 매면 파워가 올라간다.\n야생 던지미는 덩굴풀을 엮어\n자신의 띠를 만든다."
+      },
+      {
+        "game": "oras-as",
+        "text": "자신보다 큰 상대와 만나면\n이유 없이 내던지고 싶어 한다.\n강해지면 띠를 바꾼다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "메치는 기술의 실력은 일류다.\n싸움으로 흘린 땀이 배어\n띠의 색이 진해져 간다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "5마리의 무리가 수련한다.\n수련에 뒤떨어지면\n띠를 버리고 무리를 떠난다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "投摔鬼",
+    "genus": "柔道寶可夢",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "能使出一流的投摔招式。\n帶子被戰鬥時流下的汗水\n浸濕，顏色越變越深。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "５隻一組一起努力練習。\n在練習中掉隊的投摔鬼\n會扔掉帶子離開團隊。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Judokrak",
+    "genus": "Pokémon Judo",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Quand il noue sa ceinture, il devient\nplus puissant. Les Judokrak sauvages\ntressent leur ceinture avec des lianes."
+      },
+      {
+        "game": "bw-w",
+        "text": "Ils aiment projeter ceux qui sont plus\ngrands qu’eux. On les trouve toujours\npar groupes de cinq."
+      },
+      {
+        "game": "xy-x",
+        "text": "Quand il noue sa ceinture, il devient plus puissant.\nLes Judokrak sauvages tressent leur ceinture avec\ndes lianes."
+      },
+      {
+        "game": "xy-y",
+        "text": "Ils aiment projeter ceux qui sont plus grands qu’eux.\nIls changent de ceinture quand ils progressent."
+      },
+      {
+        "game": "oras-or",
+        "text": "Quand il noue sa ceinture, il devient plus puissant.\nLes Judokrak sauvages tressent leur ceinture avec des lianes."
+      },
+      {
+        "game": "oras-as",
+        "text": "Ils aiment projeter ceux qui sont plus grands qu’eux.\nIls changent de ceinture quand ils progressent."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Ses techniques de projection sont sans égal.\nQuand il se bat, sa sueur coule sur sa ceinture\net lui donne une teinte plus foncée."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Ils s’entraînent intensément par groupes de cinq.\nCeux qui ne peuvent pas suivre le rythme\nabandonnent leur ceinture et se retirent."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Jiutesto",
+    "genus": "Judo-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Zurrt es seinen Gürtel fest, gewinnt es an Kraft.\nWilde Exemplare flechten sich ihren Gürtel\nin Handarbeit aus Ranken."
+      },
+      {
+        "game": "xy-y",
+        "text": "Trifft es jemanden, der größer ist als es selbst,\nwill es ihn unbedingt werfen. Wird es stärker,\nwechselt es den Gürtel."
+      },
+      {
+        "game": "oras-or",
+        "text": "Zurrt es seinen Gürtel fest, gewinnt es an Kraft. Wilde\nExemplare flechten sich ihren Gürtel in Handarbeit aus Ranken."
+      },
+      {
+        "game": "oras-as",
+        "text": "Trifft es jemanden, der größer ist als es selbst, will es ihn\nunbedingt werfen. Wird es stärker, wechselt es den Gürtel."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Es verfügt über ein exzellentes Repertoire an\nWurftechniken. Sein Gürtel färbt sich dunkler,\nje mehr Schweiß er bei Kämpfen in sich aufsaugt."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Es trainiert stets in Fünferrudeln. Wer beim\nTraining nicht mithalten kann, entledigt sich\nseines Gürtels und verlässt das Rudel."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Throh",
+    "genus": "Pokémon Judo",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Aumenta su potencia si se aprieta el cinturón. Un\nThroh salvaje teje su propio cinturón usando lianas."
+      },
+      {
+        "game": "xy-y",
+        "text": "Si se topa con un rival más fuerte, ansía lanzarlo por\nlos aires. Al hacerse más fuerte, cambia su cinturón."
+      },
+      {
+        "game": "oras-or",
+        "text": "Aumenta su potencia si se aprieta el cinturón. Un Throh\nsalvaje teje su propio cinturón usando lianas."
+      },
+      {
+        "game": "oras-as",
+        "text": "Si se topa con un rival más fuerte, ansía lanzarlo por los aires.\nAl hacerse más fuerte, cambia su cinturón."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Su técnica de lanzamiento es formidable. El\nsudor que exhala durante el combate impregna\nsu cinturón, cuyo color se vuelve más intenso."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Entrenan en grupos de cinco individuos. Si alguno\nes incapaz de seguir el ritmo, arroja el cinturón y\nabandona la cuadrilla."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Throh",
+    "genus": "Pokémon Judo",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "La cintura da karate lo rende più forte. I Throh\nselvatici si costruiscono le cinture usando piante\nrampicanti."
+      },
+      {
+        "game": "xy-y",
+        "text": "Quando incontra un avversario più grande di lui, lo\nassale l’istinto di lanciarlo via. Cambia cintura quando\ndiventa più forte."
+      },
+      {
+        "game": "oras-or",
+        "text": "La cintura da karate lo rende più forte. I Throh selvatici\nsi costruiscono le cinture usando piante rampicanti."
+      },
+      {
+        "game": "oras-as",
+        "text": "Quando incontra un avversario più grande di lui, lo assale\nl’istinto di lanciarlo via. Cambia cintura quando diventa\npiù forte."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "È molto bravo nelle tecniche di lancio.\nIl sudore prodotto durante la lotta impregna\nla sua cintura da karate e la rende più scura."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Si allenano in gruppi di cinque. Se uno di loro\nnon riesce a stare al passo con l’allenamento,\ngetta via la cintura e abbandona il gruppo."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Throh",
+    "genus": "Judo Pokémon",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "When it tightens its belt, it becomes\nstronger. Wild Throh use vines to weave\ntheir own belts."
+      },
+      {
+        "game": "bw-w",
+        "text": "When they encounter foes bigger than\nthemselves, they try to throw them.\nThey always travel in packs of five."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "When it encounters a foe bigger than\nitself, it wants to throw it.\nIt changes belts as it gets stronger."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "When it encounters a foe bigger than\nitself, it wants to throw it.\nIt changes belts as it gets stronger."
+      },
+      {
+        "game": "xy-x",
+        "text": "When it tightens its belt, it becomes stronger. Wild\nThroh use vines to weave their own belts."
+      },
+      {
+        "game": "xy-y",
+        "text": "When it encounters a foe bigger than itself, it wants\nto throw it. It changes belts as it gets stronger."
+      },
+      {
+        "game": "oras-or",
+        "text": "When it tightens its belt, it becomes stronger. Wild\nThroh use vines to weave their own belts."
+      },
+      {
+        "game": "oras-as",
+        "text": "When it encounters a foe bigger than itself, it wants\nto throw it. It changes belts as it gets stronger."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "It performs throwing moves with first-rate skill.\nOver the course of many battles, Throh’s belt\ngrows darker as it absorbs its wearer’s sweat."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "They train in groups of five. Any member that\ncan’t keep up will discard its belt and leave\nthe group."
+      }
+    ]
+  },
+  "chs": {
+    "name": "投摔鬼",
+    "genus": "柔道宝可梦",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "能使出一流的投摔招式。\n带子被战斗时流下的汗水\n浸湿，颜色越变越深。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "５只一组一起努力练习。\n在练习中掉队的投摔鬼\n会扔掉带子离开团队。"
+      }
+    ]
+  }
+}

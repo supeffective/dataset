@@ -1,0 +1,133 @@
+{
+  "jap": {
+    "name": "カムカメ",
+    "genus": "くいつきポケモン",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "めのまえの　ものに　すぐに　かみつく\nしゅうせい。　はえかけの　まえばが\nかゆいので　かみついてしまうらしい。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "あたまの　ツノは　いわの　かたさ。\nツノで　たたかい　ひるんだ　すきに\nパクリと　かみつき　はなさない。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Kamukame",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "깨물부기",
+    "genus": "물고늘어지기포켓몬",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "눈앞에 있는 것은 바로 물어버리는\n습성을 가졌다. 나고 있는 앞니가\n근질거려서 물게 된다는 듯하다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "머리 뿔은 바위처럼 단단하다.\n뿔로 싸우다가 풀이 죽은 틈에\n덥석 물고 놓지 않는다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "咬咬龜",
+    "genus": "咬住寶可夢",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "有著不管看到什麼都會咬上去\n的習性。這似乎是因為長門牙\n的時候會癢的緣故。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "會用頭上硬如岩石的角攻擊敵人。\n趁其不備之時大口咬住對方，\n一旦咬住便再也不會鬆口。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Khélocrok",
+    "genus": "Pokémon Mordillage",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Il a pour habitude de mordre tout ce qui lui passe\nsous les yeux. On raconte qu’il fait cela parce que\nses incisives qui poussent le démangent."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "La corne sur sa tête est aussi dure que la roche.\nIl s’en sert pour se battre et lorsque l’ennemi\nflanche, il le mord et ne le lâche plus."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Kamehaps",
+    "genus": "Schnapp-Pokémon",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Es schnappt sofort nach allem, was ihm\nunterkommt. Der Grund dafür ist anscheinend,\ndass seine wachsenden Vorderzähne jucken."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Im Kampf greift es mit dem steinharten Horn auf\nseinem Kopf an. Schreckt der Gegner zurück,\nschnappt es zu und lässt nicht wieder los."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Chewtle",
+    "genus": "Pokémon Mordedura",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Muerde todo lo que se le ponga por delante.\nAl parecer, lo hace para aliviar el dolor que\nsiente cuando le crecen los incisivos."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "El cuerno que tiene en la cabeza es duro como\nuna roca. Lo usa para atacar al rival y, cuando\neste baja la guardia, lo muerde y no lo suelta."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Chewtle",
+    "genus": "Pokémon Mordace",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Addenta tutto ciò che gli capita davanti. Sembra\nche lo faccia d’istinto, a causa del prurito\nprovocato dagli incisivi che stanno crescendo."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Per attaccare usa il corno sulla testa, che è duro\ncome la pietra. Quando il nemico è indebolito,\nlo morde e non molla più la presa."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Chewtle",
+    "genus": "Snapping Pokémon",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Apparently the itch of its teething impels it to\nsnap its jaws at anything in front of it."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "It starts off battles by attacking with its rock-hard\nhorn, but as soon as the opponent flinches, this\nPokémon bites down and never lets go."
+      }
+    ]
+  },
+  "chs": {
+    "name": "咬咬龟",
+    "genus": "咬住宝可梦",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "有着不管看到什么都会咬上去\n的习性。这似乎是因为长门牙\n的时候会痒的缘故。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "会用头上硬如岩石的角攻击敌人。\n趁其不备之时大口咬住对方，\n一旦咬住便再也不会松口。"
+      }
+    ]
+  }
+}

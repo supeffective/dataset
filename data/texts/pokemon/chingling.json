@@ -1,0 +1,219 @@
+{
+  "jap": {
+    "name": "リーシャン",
+    "genus": "すずポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "はねるたび　リリンと　おとを　だす。\nたかい　しゅうはすうの　なきごえで\nあいての　みみを　きこえなくする。"
+      },
+      {
+        "game": "xy-y",
+        "text": "とびはねると　くちのなかにある\nたまが　あちこちに　はんしゃして\nすずのような　ねいろと　なる。"
+      },
+      {
+        "game": "oras-or",
+        "text": "はねるたび　リリンと　おとを　だす。\nたかい　しゅうはすうの　なきごえで\nあいての　みみを　きこえなくする。"
+      },
+      {
+        "game": "oras-as",
+        "text": "とびはねると　くちのなかにある\nたまが　あちこちに　はんしゃして\nすずのような　ねいろと　なる。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Lisyan",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "랑딸랑",
+    "genus": "방울포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "뛸 때마다 딸랑딸랑 소리를 낸다.\n높은 주파수의 울음소리로\n상대의 귀를 들리지 않게 한다."
+      },
+      {
+        "game": "xy-y",
+        "text": "뛰어오르면 입안에 있는\n구슬이 사방에 반사되어\n방울 같은 음색을 만들어 낸다."
+      },
+      {
+        "game": "oras-or",
+        "text": "뛸 때마다 딸랑딸랑 소리를 낸다.\n높은 주파수의 울음소리로\n상대의 귀를 들리지 않게 한다."
+      },
+      {
+        "game": "oras-as",
+        "text": "뛰어오르면 입안에 있는\n구슬이 사방에 반사되어\n방울 같은 음색을 만들어 낸다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "鈴鐺響",
+    "genus": "鈴鐺寶可夢",
+    "flavorText": []
+  },
+  "fra": {
+    "name": "Korillon",
+    "genus": "Pokémon Clochette",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Quand il sautille, l’orbe qu’il a\ndans la bouche s’agite et tinte\ncomme une cloche."
+      },
+      {
+        "game": "bw-w",
+        "text": "Quand il sautille, l’orbe qu’il a\ndans la bouche s’agite et tinte\ncomme une cloche."
+      },
+      {
+        "game": "xy-x",
+        "text": "Il produit un bruit de sonnerie à chaque bond.\nIl assourdit l’ennemi avec ses cris à haute fréquence."
+      },
+      {
+        "game": "xy-y",
+        "text": "Quand il sautille, l’orbe qu’il a dans la bouche s’agite\net tinte comme une cloche."
+      },
+      {
+        "game": "oras-or",
+        "text": "Il produit un bruit de sonnerie à chaque bond. Il assourdit\nl’ennemi avec ses cris à haute fréquence."
+      },
+      {
+        "game": "oras-as",
+        "text": "Quand il sautille, l’orbe qu’il a dans la bouche s’agite et tinte\ncomme une cloche."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Klingplim",
+    "genus": "Glöckchen",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Jedes Mal, wenn es hüpft, entsteht ein klingender\nLaut. Seine hohen Schreie machen die Gegner taub."
+      },
+      {
+        "game": "xy-y",
+        "text": "In seinem Maul befindet sich eine Kugel, die beim\nHopsen ein klingelndes Geräusch erzeugt."
+      },
+      {
+        "game": "oras-or",
+        "text": "Jedes Mal, wenn es hüpft, entsteht ein klingender Laut.\nSeine hohen Schreie machen die Gegner taub."
+      },
+      {
+        "game": "oras-as",
+        "text": "In seinem Maul befindet sich eine Kugel, die beim Hopsen\nein klingelndes Geräusch erzeugt."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Chingling",
+    "genus": "Pokémon Campana",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Emite un tintineo cada vez que salta. Ensordece a sus\nrivales con sonidos de alta frecuencia."
+      },
+      {
+        "game": "xy-y",
+        "text": "Tiene una esfera en la boca. Cuando salta, la esfera\nrebota y emite un tintineo."
+      },
+      {
+        "game": "oras-or",
+        "text": "Emite un tintineo cada vez que salta. Ensordece a sus rivales\ncon sonidos de alta frecuencia."
+      },
+      {
+        "game": "oras-as",
+        "text": "Tiene una esfera en la boca. Cuando salta, la esfera rebota y\nemite un tintineo."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Chingling",
+    "genus": "Pokémon Sonaglio",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "A ogni salto produce un suono che sembra uno\nsquillo. I suoi versi ad alta frequenza assordano\ni nemici."
+      },
+      {
+        "game": "xy-y",
+        "text": "Ha una sfera nella gola. Quando saltella, la sfera si\nmuove emettendo dei trilli."
+      },
+      {
+        "game": "oras-or",
+        "text": "A ogni salto produce un suono che sembra uno squillo.\nI suoi versi ad alta frequenza assordano i nemici."
+      },
+      {
+        "game": "oras-as",
+        "text": "Ha una sfera nella gola. Quando saltella, la sfera si muove\nemettendo dei trilli."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Chingling",
+    "genus": "Bell Pokémon",
+    "flavorText": [
+      {
+        "game": "dp-d",
+        "text": "It emits cries by agitating an orb\nat the back of its throat.\nIt moves with flouncing hops."
+      },
+      {
+        "game": "dp-p",
+        "text": "Each time it hops, it makes a\nringing sound. It deafens foes by\nemitting high-frequency cries."
+      },
+      {
+        "game": "pt",
+        "text": "There is an orb inside its mouth.\nWhen it hops, the orb bounces all\nover and makes a ringing sound."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "It emits high-frequency cries that \npeople can’t hear. Once it starts,\nit can cry for an awfully long time."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "It emits high-frequency cries that \npeople can’t hear. Once it starts,\nit can cry for an awfully long time."
+      },
+      {
+        "game": "bw-b",
+        "text": "There is an orb inside its mouth.\nWhen it hops, the orb bounces all\nover and makes a ringing sound."
+      },
+      {
+        "game": "bw-w",
+        "text": "There is an orb inside its mouth.\nWhen it hops, the orb bounces all\nover and makes a ringing sound."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "There is an orb inside its mouth.\nWhen it hops, the orb bounces all\nover and makes a ringing sound."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "There is an orb inside its mouth.\nWhen it hops, the orb bounces all\nover and makes a ringing sound."
+      },
+      {
+        "game": "xy-x",
+        "text": "Each time it hops, it makes a ringing sound.\nIt deafens foes by emitting high-frequency cries."
+      },
+      {
+        "game": "xy-y",
+        "text": "There is an orb inside its mouth. When it hops,\nthe orb bounces all over and makes a\nringing sound."
+      },
+      {
+        "game": "oras-or",
+        "text": "Each time it hops, it makes a ringing sound.\nIt deafens foes by emitting high-frequency cries."
+      },
+      {
+        "game": "oras-as",
+        "text": "There is an orb inside its mouth. When it hops,\nthe orb bounces all over and makes a\nringing sound."
+      },
+      {
+        "game": "la",
+        "text": "This Pokémon gave me an excruciating headache when it\nseemingly cried out without making a sound. Perhaps there are\nsome sounds that the human ear is simply incapable of hearing."
+      }
+    ]
+  },
+  "chs": {
+    "name": "铃铛响",
+    "genus": "铃铛宝可梦",
+    "flavorText": []
+  }
+}

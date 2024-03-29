@@ -1,0 +1,269 @@
+{
+  "jap": {
+    "name": "ムシャーナ",
+    "genus": "ゆめうつつポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "おでこから　でている　けむりの\nなかには　ひとや　ポケモンの　みた\nゆめが　たくさん　つまっているのだ。"
+      },
+      {
+        "game": "xy-y",
+        "text": "おでこから　でる　ゆめのけむりは\nたべた　ゆめの　ないようによって\nさまざまな　いろに　かわるのだ。"
+      },
+      {
+        "game": "oras-or",
+        "text": "おでこから　でている　けむりの\nなかには　ひとや　ポケモンの　みた\nゆめが　たくさん　つまっているのだ。"
+      },
+      {
+        "game": "oras-as",
+        "text": "おでこから　でる　ゆめのけむりは\nたべた　ゆめの　ないようによって\nさまざまな　いろに　かわるのだ。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "でてる　けむりが　くろっぽいときは\nちかづかないほうが　いいよ。\nあくむが　げんじつに　なるぞ。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "いつも　まどろみ　ゆめを　みている。\nねおきは　とっても　ふきげんに\nなるので　そっとして　おこう。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Musharna",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "몽얌나",
+    "genus": "꿈결포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "이마에서 나오는 연기 속에는\n사람이나 포켓몬이 꾼\n꿈이 많이 모여 있다."
+      },
+      {
+        "game": "xy-y",
+        "text": "이마에서 나오는 꿈연기는\n먹은 꿈의 내용에 따라\n여러 가지 색으로 변한다."
+      },
+      {
+        "game": "oras-or",
+        "text": "이마에서 나오는 연기 속에는\n사람이나 포켓몬이 꾼\n꿈이 많이 모여 있다."
+      },
+      {
+        "game": "oras-as",
+        "text": "이마에서 나오는 꿈연기는\n먹은 꿈의 내용에 따라\n여러 가지 색으로 변한다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "뿜어내는 연기가 거무스름할 때는\n가까이 가지 않는 것이 좋다.\n악몽이 현실이 되기 때문이다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "언제나 선잠을 자며 꿈을 꾼다.\n잠에서 깨면 매우 불쾌해하므로\n가만히 내버려 두자."
+      }
+    ]
+  },
+  "cht": {
+    "name": "夢夢蝕",
+    "genus": "半夢半醒寶可夢",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "在牠冒出黑黑的煙霧時，\n還是不要接近牠為妙，\n否則惡夢將會成真。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "總是在打瞌睡作夢。\n剛睡醒的時候會鬧脾氣，\n所以最好別去招惹牠。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Mushana",
+    "genus": "Pokémon Rêveur",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "La fumée qui sort de son front contient\nles rêves de nombreuses personnes et\nceux de nombreux Pokémon."
+      },
+      {
+        "game": "bw-w",
+        "text": "Il peut matérialiser les rêves qu’il a\nmangés. La fumée qui sort de son front\nprend la forme des objets vus en rêve."
+      },
+      {
+        "game": "xy-x",
+        "text": "La fumée qui sort de son front contient les rêves\nde nombreuses personnes et ceux de nombreux\nPokémon."
+      },
+      {
+        "game": "xy-y",
+        "text": "La fumée qui sort de son front change de couleur\nselon le contenu des rêves qu’il a mangés."
+      },
+      {
+        "game": "oras-or",
+        "text": "La fumée qui sort de son front contient les rêves de\nnombreuses personnes et ceux de nombreux Pokémon."
+      },
+      {
+        "game": "oras-as",
+        "text": "La fumée qui sort de son front change de couleur\nselon le contenu des rêves qu’il a mangés."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Il est recommandé de ne pas l’approcher quand\nla fumée qui sort de son front a une teinte noire,\nsinon son cauchemar risque de se matérialiser."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Il est sans cesse assoupi, plongé dans ses rêves.\nIl vaut mieux éviter de le déranger, car il est\ntoujours mal luné au réveil."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Somnivora",
+    "genus": "Halbschlaf-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Der Dunst, der aus seiner Stirn tritt, enthält die\nTräume unzähliger Menschen und Pokémon."
+      },
+      {
+        "game": "xy-y",
+        "text": "Je nach Inhalt der Träume, die es frisst, nimmt der\nDunst, der aus seiner Stirn austritt, unterschiedliche\nFarben an."
+      },
+      {
+        "game": "oras-or",
+        "text": "Der Dunst, der aus seiner Stirn tritt, enthält die Träume\nunzähliger Menschen und Pokémon."
+      },
+      {
+        "game": "oras-as",
+        "text": "Je nach Inhalt der Träume, die es frisst, nimmt der Dunst,\nder aus seiner Stirn austritt, unterschiedliche Farben an."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Wenn es schwärzlichen Dunst ausströmt, sollte\nman sich ihm nicht nähern, denn sonst werden\nAlpträume wahr."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Es schlummert und träumt immerzu. Wenn es\ngeweckt wird, bekommt es schlechte Laune.\nDeshalb sollte man es lieber in Ruhe lassen."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Musharna",
+    "genus": "Pokémon Duermevela",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Multitud de sueños de humanos y Pokémon se\nencuentran atrapados en el humo que despide por\nsu frente."
+      },
+      {
+        "game": "xy-y",
+        "text": "El color del humo que despide por su abultada frente\nvaría según el contenido de los sueños que haya\nengullido."
+      },
+      {
+        "game": "oras-or",
+        "text": "Multitud de sueños de humanos y Pokémon se encuentran\natrapados en el humo que despide por su frente."
+      },
+      {
+        "game": "oras-as",
+        "text": "El color del humo que despide por su abultada frente varía\nsegún el contenido de los sueños que haya engullido."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Cuando el humo que desprende es de un color\nnegruzco, conviene no acercarse, ya que puede\nhacer realidad las pesadillas."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Siempre está soñando o adormecido. Se pone de\nmuy mal humor al despertar, por lo que es mejor\nno perturbarlo."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Musharna",
+    "genus": "Pokémon Dormiveglia",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Nel fumo che gli esce dalla fronte sono racchiusi\nmolti sogni di esseri umani e di Pokémon."
+      },
+      {
+        "game": "xy-y",
+        "text": "Il fumo che esce dalla sua fronte cambia colore a\nseconda del contenuto del sogno che ha mangiato."
+      },
+      {
+        "game": "oras-or",
+        "text": "Nel fumo che gli esce dalla fronte sono racchiusi molti sogni\ndi esseri umani e di Pokémon."
+      },
+      {
+        "game": "oras-as",
+        "text": "Il fumo che esce dalla sua fronte cambia colore a seconda del\ncontenuto del sogno che ha mangiato."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Meglio non avvicinarsi quando emette\nun fumo di colore scuro, perché gli incubi\ndiventano realtà."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Sonnecchia costantemente, sognando.\nQuando si sveglia è di pessimo umore,\nquindi è meglio tenersi a debita distanza."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Musharna",
+    "genus": "Drowsing Pokémon",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "The mist emanating from their foreheads\nis packed with the dreams of people\nand Pokémon."
+      },
+      {
+        "game": "bw-w",
+        "text": "With the mist from its forehead,\nit can create shapes of things\nfrom dreams it has eaten."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "The dream mist coming from its forehead\nchanges into many different colors\ndepending on the dream that was eaten."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "The dream mist coming from its forehead\nchanges into many different colors\ndepending on the dream that was eaten."
+      },
+      {
+        "game": "xy-x",
+        "text": "The mist emanating from their foreheads is packed\nwith the dreams of people and Pokémon."
+      },
+      {
+        "game": "xy-y",
+        "text": "The dream mist coming from its forehead changes\ninto many different colors depending on the dream\nthat was eaten."
+      },
+      {
+        "game": "oras-or",
+        "text": "The mist emanating from their foreheads is packed\nwith the dreams of people and Pokémon."
+      },
+      {
+        "game": "oras-as",
+        "text": "The dream mist coming from its forehead changes\ninto many different colors depending on the dream\nthat was eaten."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "When dark mists emanate from its body, don’t\nget too near. If you do, your nightmares will\nbecome reality."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "It drowses and dreams all the time. It’s best to\nleave it be if it’s just woken up, as it’s a terrible\ngrump when freshly roused from sleep."
+      }
+    ]
+  },
+  "chs": {
+    "name": "梦梦蚀",
+    "genus": "半梦半醒宝可梦",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "在它冒出黑黑的烟雾时，\n还是不要接近它为妙，\n否则噩梦将会成真。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "总是在打瞌睡做梦。\n刚睡醒的时候会闹脾气，\n所以最好别去招惹它。"
+      }
+    ]
+  }
+}

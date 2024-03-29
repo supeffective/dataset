@@ -1,0 +1,195 @@
+{
+  "jap": {
+    "name": "クルミル",
+    "genus": "さいほうポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "はっぱを　かみきり　くちから　だす\nねんちゃくいとで　ぬいあわせて\nじぶんで　ふくを　つくる　ポケモン。"
+      },
+      {
+        "game": "xy-y",
+        "text": "はっぱから　ふくを　つくるので\nファッションデザイナーから\nマスコットとして　にんきがある。"
+      },
+      {
+        "game": "oras-or",
+        "text": "はっぱを　かみきり　くちから　だす\nねんちゃくいとで　ぬいあわせて\nじぶんで　ふくを　つくる　ポケモン。"
+      },
+      {
+        "game": "oras-as",
+        "text": "はっぱから　ふくを　つくるので\nファッションデザイナーから\nマスコットとして　にんきがある。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Kurumiru",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "두르보",
+    "genus": "재봉포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "잎사귀를 물어뜯어\n입에서 뱉어낸 점착실로 꿰맨다.\n스스로 옷을 만드는 포켓몬이다."
+      },
+      {
+        "game": "xy-y",
+        "text": "잎사귀로 옷을 만들기 때문에\n패션 디자이너에게\n마스코트로 인기가 있다."
+      },
+      {
+        "game": "oras-or",
+        "text": "잎사귀를 물어뜯어\n입에서 뱉어낸 점착실로 꿰맨다.\n스스로 옷을 만드는 포켓몬이다."
+      },
+      {
+        "game": "oras-as",
+        "text": "잎사귀로 옷을 만들기 때문에\n패션 디자이너에게\n마스코트로 인기가 있다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "蟲寶包",
+    "genus": "裁縫寶可夢",
+    "flavorText": []
+  },
+  "fra": {
+    "name": "Larveyette",
+    "genus": "Pokémon Couture",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Quand il éclot, Manternel lui coud son\nvêtement. Il dort en cachant son\nvisage sous sa capuche."
+      },
+      {
+        "game": "bw-w",
+        "text": "Il fait des vêtements en découpant des\nfeuilles et en les cousant avec le fil\nadhésif qu’il sécrète par la bouche."
+      },
+      {
+        "game": "xy-x",
+        "text": "Il fait des vêtements en découpant des feuilles et\nen les cousant avec le fil adhésif qu’il sécrète par\nla bouche."
+      },
+      {
+        "game": "xy-y",
+        "text": "La mascotte des créateurs de mode. Il découpe\nses vêtements dans les feuilles qu’il trouve."
+      },
+      {
+        "game": "oras-or",
+        "text": "Il fait des vêtements en découpant des feuilles et en les\ncousant avec le fil adhésif qu’il sécrète par la bouche."
+      },
+      {
+        "game": "oras-as",
+        "text": "La mascotte des créateurs de mode. Il découpe ses vêtements\ndans les feuilles qu’il trouve."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Strawickl",
+    "genus": "Schneider",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Schneidert sich ein Kleid, indem es sich Blätter\nzurechtbeißt und sie mit Klebefäden aus seinem\nMund zusammennäht."
+      },
+      {
+        "game": "xy-y",
+        "text": "Unter Modeschöpfern gilt es als beliebtes\nMaskottchen, da es sich aus Blättern\nKleidchen schneidert."
+      },
+      {
+        "game": "oras-or",
+        "text": "Schneidert sich ein Kleid, indem es sich Blätter zurechtbeißt\nund sie mit Klebefäden aus seinem Mund zusammennäht."
+      },
+      {
+        "game": "oras-as",
+        "text": "Unter Modeschöpfern gilt es als beliebtes Maskottchen,\nda es sich aus Blättern Kleidchen schneidert."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Sewaddle",
+    "genus": "Pokémon Sastre",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Recorta hojas y las teje con el líquido viscoso que\nsegrega por la boca para hacerse su propia ropa."
+      },
+      {
+        "game": "xy-y",
+        "text": "Usa hojas como material para fabricar su propia ropa,\npor lo que los diseñadores más famosos los tienen\ncomo mascota."
+      },
+      {
+        "game": "oras-or",
+        "text": "Recorta hojas y las teje con el líquido viscoso que segrega\npor la boca para hacerse su propia ropa."
+      },
+      {
+        "game": "oras-as",
+        "text": "Usa hojas como material para fabricar su propia ropa, por lo\nque los diseñadores más famosos los tienen como mascota."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Sewaddle",
+    "genus": "Pokémon Grancucito",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Si prepara da sé i vestiti, tagliando le foglie e usando\ni fili viscosi che secerne dalla bocca per cucirli."
+      },
+      {
+        "game": "xy-y",
+        "text": "Taglia le foglie per farne vestiti. Per questo motivo\nè la mascotte preferita di molti stilisti."
+      },
+      {
+        "game": "oras-or",
+        "text": "Si prepara da sé i vestiti, tagliando le foglie e usando i fili\nviscosi che secerne dalla bocca per cucirli."
+      },
+      {
+        "game": "oras-as",
+        "text": "Taglia le foglie per farne vestiti. Per questo motivo è la\nmascotte preferita di molti stilisti."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Sewaddle",
+    "genus": "Sewing Pokémon",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Leavanny dress it in clothes they made\nfor it when it hatched. It hides its head\nin its hood while it is sleeping."
+      },
+      {
+        "game": "bw-w",
+        "text": "This Pokémon makes clothes for itself.\nIt chews up leaves and sews them with\nsticky thread extruded from its mouth."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "Since this Pokémon makes its own\nclothes out of leaves, it is a popular\nmascot for fashion designers."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "Since this Pokémon makes its own\nclothes out of leaves, it is a popular\nmascot for fashion designers."
+      },
+      {
+        "game": "xy-x",
+        "text": "This Pokémon makes clothes for itself. It chews up\nleaves and sews them with sticky thread extruded\nfrom its mouth."
+      },
+      {
+        "game": "xy-y",
+        "text": "Since this Pokémon makes its own clothes out of\nleaves, it is a popular mascot for fashion designers."
+      },
+      {
+        "game": "oras-or",
+        "text": "This Pokémon makes clothes for itself. It chews up\nleaves and sews them with sticky thread extruded\nfrom its mouth."
+      },
+      {
+        "game": "oras-as",
+        "text": "Since this Pokémon makes its own clothes out of\nleaves, it is a popular mascot for fashion designers."
+      }
+    ]
+  },
+  "chs": {
+    "name": "虫宝包",
+    "genus": "裁缝宝可梦",
+    "flavorText": []
+  }
+}

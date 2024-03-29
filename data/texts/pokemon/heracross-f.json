@@ -1,0 +1,397 @@
+{
+  "jap": {
+    "name": "ヘラクロス",
+    "genus": "１ぽんヅノポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "じまんのツノを　あいての　おなかの\nしたに　ねじこみ　いっきに　もちあげ\nぶんなげてしまう　ちからもち。"
+      },
+      {
+        "game": "xy-y",
+        "text": "ものすごい　かいりきの　もちぬし。\nじぶんの　たいじゅうの　１００ばいの\nおもさでも　らくに　ぶんなげる。"
+      },
+      {
+        "game": "oras-or",
+        "text": "いっちょくせんに　てきの　ふところに　もぐりこみ\nたくましい　ツノで　すくいあげ　なげとばす。\nたいぼくも　ねこそぎ　たおす　ほどの　パワーだ。"
+      },
+      {
+        "game": "oras-as",
+        "text": "てあしの　するどい　ツメが　じめんや　じゅもくに\nふかく　くいこむので　じまんの　ツノで　あいてを\nなげとばす　とき　おもいっきり　ふんばれるのだ。"
+      },
+      {
+        "game": "usum-us",
+        "text": "ふといツノが　じまん。　アローラでは\nクワガノンが　さいだいの　ライバルで\nしょっちゅう　ケンカを　している。"
+      },
+      {
+        "game": "usum-um",
+        "text": "あまいミツを　もとめ　もりの　なかを\nさがしまわる。　かいりきは　じまんだが\nとぶのは　あまり　とくいでは　ない。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "あまい　じゅえきが　だいこうぶつ。\n２ほんの　しょっかくで　においを\nたよりに　もりを　さがしまわる。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "じぶんの　たいじゅうの　１００ばいの\nおもさでも　かるがる　もちあげる\nかいりき　じまんの　ポケモン。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Heracros",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "헤라크로스",
+    "genus": "외뿔포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "자랑스러운 뿔을 상대의 배\n밑에 틀어박고 단번에 들어 올려\n집어 던지는 천하장사다."
+      },
+      {
+        "game": "xy-y",
+        "text": "엄청난 괴력의 소유자.\n자신 체중의 100배나 되는\n무게도 가뿐히 내던진다."
+      },
+      {
+        "game": "oras-or",
+        "text": "똑바로 적에게 돌격하여\n강인한 뿔로 들어 올려 내던진다.\n큰 나무도 뿌리째 뽑아 쓰러트릴 만한 파워다."
+      },
+      {
+        "game": "oras-as",
+        "text": "손발의 날카로운 손발톱이 땅이나 나무에\n깊숙이 박히기 때문에 자랑스런 뿔로 상대를\n내던질 때 단단히 버틸 수 있다. "
+      },
+      {
+        "game": "usum-us",
+        "text": "두꺼운 뿔이 자랑거리다. \n알로라에서는 투구뿌논이\n최대 라이벌로 자주 싸움을 한다."
+      },
+      {
+        "game": "usum-um",
+        "text": "달콤한꿀을 찾아 숲속을\n돌아다닌다. 괴력을 자랑하지만\n나는 것은 그리 잘하지 못한다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "달콤한 수액을 매우 좋아한다.\n2개의 더듬이로 냄새를 따라\n숲을 찾아다닌다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "자신 몸무게의 100배에 달하는\n무게도 거뜬히 들어 올리는\n괴력을 자랑하는 포켓몬이다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "赫拉克羅斯",
+    "genus": "獨角寶可夢",
+    "flavorText": [
+      {
+        "game": "usum-us",
+        "text": "以擁有粗壯的角為傲。在阿羅拉，\n鍬農炮蟲是牠最大的競爭者，\n雙方經常大打出手。"
+      },
+      {
+        "game": "usum-um",
+        "text": "會在森林中四處尋找甜甜蜜。\n雖然以擁有一身怪力為傲，\n但卻不是很擅長飛行。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "非常喜歡甘甜的樹液。\n會用２隻觸角偵測氣味，\n在森林中四處覓食。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "能夠輕輕鬆鬆舉起比自己\n體重還要重１００倍的物體，\n是以一身怪力為傲的寶可夢。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Scarhino",
+    "genus": "Pokémon Unicorne",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Il défend vaillamment sa réserve de\nmiel personnelle à grand renfort\nde coups de corne."
+      },
+      {
+        "game": "bw-w",
+        "text": "Il défend vaillamment sa réserve de\nmiel personnelle à grand renfort\nde coups de corne."
+      },
+      {
+        "game": "xy-x",
+        "text": "Ce Pokémon est si puissant qu’il peut projeter ses\nennemis en l’air grâce à ses cornes."
+      },
+      {
+        "game": "xy-y",
+        "text": "Sa force herculéenne lui permet de soulever et de\njeter plus de 100 fois son poids."
+      },
+      {
+        "game": "oras-or",
+        "text": "Scarhino charge ses ennemis en ligne droite, se glisse\ndessous, les attrape et les projette violemment d’un coup\nde sa puissante corne. Ce Pokémon est tellement fort\nqu’il pourrait déraciner un arbre."
+      },
+      {
+        "game": "oras-as",
+        "text": "Scarhino est doté de griffes acérées sur ses pieds. Elles se\nplantent fermement dans le sol ou dans l’écorce d’un arbre,\nce qui permet à ce Pokémon d’être bien stable lorsqu’il veut\nprojeter ses ennemis d’un coup de corne."
+      },
+      {
+        "game": "usum-us",
+        "text": "Il est très fier de sa grosse corne. Il se chamaille\nsouvent avec Lucanon, son plus grand rival."
+      },
+      {
+        "game": "usum-um",
+        "text": "Il parcourt les forêts à la recherche de miel.\nIl est très fier de sa force colossale, mais sa\ncapacité à voler laisse quelque peu à désirer."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Il raffole de la sève sucrée dont il détecte\nle parfum à l’aide de ses deux antennes\nlorsqu’il parcourt la forêt."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Ce Pokémon est fier de sa force colossale\nqui lui permet de soulever cent fois son propre\npoids avec facilité."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Skaraborn",
+    "genus": "Einzelhorn-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Dieses kräftige Pokémon rammt sein stolzes Horn\nunter den Rumpf des Gegners und wirft ihn um."
+      },
+      {
+        "game": "xy-y",
+        "text": "Mit seiner herkulischen Kraft kann es Objekte,\ndie hundertmal sein Körpergewicht haben,\nmühelos umwerfen."
+      },
+      {
+        "game": "oras-or",
+        "text": "Skaraborn geht direkt auf seinen Gegner los, rutscht auf\nihn zu, um ihn auszuhebeln und mit seinem mächtigen Horn\nwegzuschleudern. Dieses Pokémon hat genug Kraft, um einen\nmassigen Baum umzustoßen."
+      },
+      {
+        "game": "oras-as",
+        "text": "Skaraborn hat scharfe Krallen an den Füßen. Diese bohren sich\nfest in den Boden oder in die Rinde eines Baumes und geben\ndiesem Pokémon einen sicheren Halt. So kann es seine Gegner\nmit seinem imposanten Horn wegschleudern."
+      },
+      {
+        "game": "usum-us",
+        "text": "Sein mächtiges Horn ist sein ganzer Stolz.\nEs streitet sich ständig mit Donarion, seinem\ngrößten Rivalen in Alola."
+      },
+      {
+        "game": "usum-um",
+        "text": "Auf der Suche nach süßem Honig durchstreift\nes die Wälder. Es ist stolz auf seine Stärke,\naber fliegen kann es nicht besonders gut."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Skaraborn verspeist am liebsten süßen Baumsaft.\nMit seinen zwei Antennen nimmt es die Witterung\nauf, während es den Wald danach absucht."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Dieses Pokémon ist stolz auf seine Stärke. Es kann\nmit Leichtigkeit das Hundertfache seines eigenen\nKörpergewichts stemmen."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Heracross",
+    "genus": "Pokémon Cuerno",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Este fuerte Pokémon clava su preciado cuerno en la\ntripa del enemigo, lo eleva y luego lo arroja."
+      },
+      {
+        "game": "xy-y",
+        "text": "Tiene una fuerza descomunal. Puede, sin gran\nesfuerzo, arrojar objetos que superen su peso en\ncien veces."
+      },
+      {
+        "game": "oras-or",
+        "text": "Heracross carga en línea recta contra el enemigo, se le queda\nencajado por debajo, lo agarra y lo lanza con ayuda del fuerte\ncuerno que tiene. Este Pokémon tiene fuerza hasta para echar\nabajo un árbol descomunal."
+      },
+      {
+        "game": "oras-as",
+        "text": "Heracross tiene unas afiladas garras en los pies que se\nclavan con firmeza en la tierra o la corteza de los árboles,\ndando al Pokémon gran estabilidad y seguridad a la hora de\nembestir y herir a su rival con el cuerno que tiene."
+      },
+      {
+        "game": "usum-us",
+        "text": "Luce con orgullo su gran cornamenta. Los\nVikavolt son sus mayores rivales en Alola y\ntienen enfrentamientos constantes."
+      },
+      {
+        "game": "usum-um",
+        "text": "Ronda los bosques en busca de miel. Se jacta\nde su fuerza, pero su capacidad de vuelo deja\nmucho que desear."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Adora la savia dulce de los árboles. Recorre\nel bosque en su busca y se sirve de las antenas\npara detectar su olor."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Este Pokémon muestra una fuerza hercúlea, que\nle permite levantar cien veces su propio peso sin\ninmutarse."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Heracross",
+    "genus": "Pokémon Monocorno",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Questo potente Pokémon infilza con il corno la pancia\ndel nemico, sollevandolo e lanciandolo lontano."
+      },
+      {
+        "game": "xy-y",
+        "text": "La forza erculea gli permette di lanciare oggetti\n100 volte più pesanti di lui."
+      },
+      {
+        "game": "oras-or",
+        "text": "Heracross si lancia all’attacco dritto contro il nemico,\nlo afferra con forza, lo solleva in aria e poi lo incorna\nviolentemente scagliandolo lontano.\nRiesce ad abbattere un grosso albero."
+      },
+      {
+        "game": "oras-as",
+        "text": "Heracross è dotato di artigli affilati sulle zampe inferiori,\nche conficca nel terreno o nella corteccia degli alberi per\nguadagnare stabilità mentre incorna violentemente i nemici\ne li scaglia lontano."
+      },
+      {
+        "game": "usum-us",
+        "text": "Il grosso corno è il suo punto di forza. Ad Alola\nha una forte rivalità con i Vikavolt, con i quali\nè costantemente in lotta."
+      },
+      {
+        "game": "usum-um",
+        "text": "Si aggira per le foreste in cerca di miele.\nPossiede una forza spaventosa di cui va fiero,\nma non è molto abile nel volo."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "È ghiotto della dolce linfa degli alberi.\nPerlustra la foresta alla sua ricerca, sfruttando\nle antenne per percepire gli odori."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Questo Pokémon va molto fiero della sua forza\nerculea, che gli permette di sollevare senza fatica\noggetti 100 volte più pesanti di lui."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Heracross",
+    "genus": "Single Horn Pokémon",
+    "flavorText": [
+      {
+        "game": "hgss-ss",
+        "text": "It is usually docile, but if it is\ndisturbed while sipping honey,\nit chases off the intruder with its horn."
+      },
+      {
+        "game": "gs-g",
+        "text": "This powerful\nPOKéMON thrusts\nits prized horn\funder its enemies’\nbellies then lifts\nand throws them."
+      },
+      {
+        "game": "gs-s",
+        "text": "Usually docile,\nbut if disturbed\nwhile sipping\fhoney, it chases\noff the intruder\nwith its horn."
+      },
+      {
+        "game": "c",
+        "text": "With its Herculean\npowers, it can\neasily throw arou­\fnd an object that\nis 100 times its\nown weight."
+      },
+      {
+        "game": "rs-r",
+        "text": "HERACROSS charges in a straight line at\nits foe, slips beneath the foe’s grasp,\nand then scoops up and hurls the\fopponent with its mighty horn.\nThis POKéMON even has enough power\nto topple a massive tree."
+      },
+      {
+        "game": "rs-s",
+        "text": "HERACROSS has sharp claws on its feet.\nThese are planted firmly into the\nground or the bark of a tree, giving the\fPOKéMON a secure and solid footing\nto forcefully fling away foes with\nits proud horn."
+      },
+      {
+        "game": "e",
+        "text": "They gather in forests seeking the sweet\nsap of trees. It is completely clad in a\nsteel-hard shell. It is proud of its horn,\nwhich it uses to fling foes."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "Usually docile, but if disturbed while\nsipping honey, it chases off the intruder\nwith its horn."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "This powerful POKéMON thrusts its prized\nhorn under its enemies’ bellies, then lifts\nand throws them."
+      },
+      {
+        "game": "dp-d",
+        "text": "It gathers in forests to search\nfor tree sap, its favorite food.\nIt’s strong enough to hurl foes."
+      },
+      {
+        "game": "dp-p",
+        "text": "With powerful legs and claws,\nit generates enough power to hurl\nfoes over great distances."
+      },
+      {
+        "game": "pt",
+        "text": "It loves sweet honey. To keep all\nthe honey to itself, it hurls rivals\naway with its prized horn."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "This powerful Pokémon thrusts\nits prized horn under its enemies’\nbellies, then lifts and throws them."
+      },
+      {
+        "game": "bw-b",
+        "text": "It loves sweet honey. To keep all\nthe honey to itself, it hurls rivals\naway with its prized horn."
+      },
+      {
+        "game": "bw-w",
+        "text": "It loves sweet honey. To keep all\nthe honey to itself, it hurls rivals\naway with its prized horn."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "No matter how heavy its opponents,\nit flings them far away\nwith its prized horn."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "No matter how heavy its opponents,\nit flings them far away\nwith its prized horn."
+      },
+      {
+        "game": "xy-x",
+        "text": "This powerful Pokémon thrusts its prized horn under\nits enemies’ bellies, then lifts and throws them."
+      },
+      {
+        "game": "xy-y",
+        "text": "With its Herculean powers, it can easily throw\naround an object that is 100 times its own weight."
+      },
+      {
+        "game": "oras-or",
+        "text": "Heracross charges in a straight line at its foe, slips beneath the\nfoe’s grasp, and then scoops up and hurls the opponent with\nits mighty horn. This Pokémon even has enough power to\ntopple a massive tree."
+      },
+      {
+        "game": "oras-as",
+        "text": "Heracross has sharp claws on its feet. These are planted\nfirmly into the ground or the bark of a tree, giving the\nPokémon a secure and solid footing to forcefully fling away\nfoes with its proud horn."
+      },
+      {
+        "game": "usum-us",
+        "text": "It’s proud of its thick horn. In Alola, its biggest\nrival is Vikavolt, which it’s always fighting with."
+      },
+      {
+        "game": "usum-um",
+        "text": "It roams through forests searching for sweet\nnectar. Although it boasts fantastic physical\nstrength, it’s not that good at flying."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Heracross loves sweet sap and will go looking\nthrough forests for it. The Pokémon uses its two\nantennae to pick up scents as it searches."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "This Pokémon takes pride in its strength, which\nallows it to lift things 100 times heavier than\nitself with no trouble at all."
+      },
+      {
+        "game": "la",
+        "text": "This Pokémon has an unparalleled horn. Heracross itself\ndemonstrates tremendous power—it's capable of throwing\nseveral people trained in the traditional arts of war at once."
+      }
+    ]
+  },
+  "chs": {
+    "name": "赫拉克罗斯",
+    "genus": "独角宝可梦",
+    "flavorText": [
+      {
+        "game": "usum-us",
+        "text": "粗粗的角是其骄傲。\n在阿罗拉，锹农炮虫是它最大的\n竞争者，双方经常大打出手。"
+      },
+      {
+        "game": "usum-um",
+        "text": "会在森林中四处寻找甜甜蜜。\n虽然对于自己的一身怪力\n很是自豪，但却不怎么擅长飞行。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "用２只触角来感知气味，\n以此在整片森林中寻找\n自己超爱的甘甜树汁。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "能轻轻松松地举起比自己\n体重还重１００倍的东西，\n是以一身怪力为傲的宝可梦。"
+      }
+    ]
+  }
+}

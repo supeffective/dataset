@@ -1,0 +1,205 @@
+{
+  "jap": {
+    "name": "テッカグヤ",
+    "genus": "うちあげポケモン",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "ウルトラホールから　あらわれた。\nこうそくで　そらを　とぶ　すがたが\nもくげき　された　ウルトラビースト。"
+      },
+      {
+        "game": "sm-m",
+        "text": "ＵＢの　いっしゅ。　２ほんの　うでから\nガスを　ふきだし　もりを　やきはらう\nすがたが　かくにん　されている。"
+      },
+      {
+        "game": "usum-us",
+        "text": "きけんな　ＵＢの　いっしゅ。\nきょだいな　りょううで　から　たかい\nエネルギーはんのうを　けんしゅつ。"
+      },
+      {
+        "game": "usum-um",
+        "text": "このせかいでは　いしつで　きけんだが\nほんらい　すんでいる　せかいでは\nふつうに　みかける　せいぶつらしい。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Tekkaguya",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "철화구야",
+    "genus": "쏴올리기포켓몬",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "울트라홀에서 나타났다.\n고속으로 하늘을 나는 모습이\n목격된 울트라비스트다."
+      },
+      {
+        "game": "sm-m",
+        "text": "UB의 일종. 2개의 팔에서\n가스를 뿜어내어 숲을 불태워버리는\n모습이 확인되었다."
+      },
+      {
+        "game": "usum-us",
+        "text": "위험한 UB의 일종이다.\n거대한 두 팔에서\n에너지 반응이 강하게 검출된다."
+      },
+      {
+        "game": "usum-um",
+        "text": "이 세계와는 성질이 다르고\n위험하지만 원래 살던 세계에서는\n흔히 볼 수 있는 생물인 듯하다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "鐵火輝夜",
+    "genus": "發射寶可夢",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "從究極之洞裡出現。\n被人目擊以高速在\n空中飛行的究極異獸。"
+      },
+      {
+        "game": "sm-m",
+        "text": "ＵＢ的一種。\n有人看見牠從２條手臂\n噴出氣體燒毀森林的樣子。"
+      },
+      {
+        "game": "usum-us",
+        "text": "是一種危險的究極異獸。\n從牠巨大的雙臂中檢測到了\n強大的能量反應。"
+      },
+      {
+        "game": "usum-um",
+        "text": "在這個世界是危險的異類，\n但牠在原本棲息的世界裡\n似乎是隨處可見的普通生物。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Bamboiselle",
+    "genus": "Pokémon Décollage",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "Une Ultra-Chimère qui a traversé l’Ultra-Brèche.\nOn l’aurait aperçue parcourir le ciel à grande\nvitesse."
+      },
+      {
+        "game": "sm-m",
+        "text": "Une espèce d’Ultra-Chimère. On l’aurait\naperçue expulsant du gaz par ses deux bras\net réduisant une forêt tout entière en cendres."
+      },
+      {
+        "game": "usum-us",
+        "text": "Cette dangereuse créature fait partie des\nUltra-Chimères. On peut détecter des pics\nd’énergie émis par ses bras gigantesques."
+      },
+      {
+        "game": "usum-um",
+        "text": "Cette créature venue d’ailleurs est dangereuse\ndans notre monde, mais il semblerait qu’elle soit\ntrès commune dans le sien."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Kaguron",
+    "genus": "Raketenstart-Pokémon",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "Eine Ultrabestie, die mit extremer\nGeschwindigkeit durch die Lüfte rast.\nSie ist durch die Ultrapforte gekommen."
+      },
+      {
+        "game": "sm-m",
+        "text": "Diese Ultrabestie wurde dabei gesichtet, wie sie\nmithilfe des Gases, das aus ihren beiden Armen\nströmt, große Waldflächen niederbrannte."
+      },
+      {
+        "game": "usum-us",
+        "text": "Eine der gefährlichen Ultrabestien. In ihren\nriesigen Armen wurden hohe Energiemengen\nnachgewiesen."
+      },
+      {
+        "game": "usum-um",
+        "text": "In dieser Welt wirkt sein Aussehen gefährlich\nund fremdartig, doch in seiner ursprünglichen\nWelt ist es ein ganz gewöhnliches Lebewesen."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Celesteela",
+    "genus": "Pokémon Lanzamiento",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "Este Ultraente surgió de un Ultraumbral. Parece\nhaber sido avistado surcando los cielos a\nvelocidades vertiginosas."
+      },
+      {
+        "game": "sm-m",
+        "text": "Varios testigos afirman haber visto como este\nUltraente carbonizaba un bosque entero con el\ngas expelido por sus extremidades."
+      },
+      {
+        "game": "usum-us",
+        "text": "Uno de los temibles Ultraentes. Las lecturas de\nlas reacciones energéticas procedentes de sus\nenormes brazos alcanzan picos desorbitados."
+      },
+      {
+        "game": "usum-um",
+        "text": "Para los seres de este mundo resulta extraño\ny peligroso, pero en el mundo del que procede\nes una criatura muy común."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Celesteela",
+    "genus": "Pokémon Decollo",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "Questa Ultracreatura è arrivata attraverso\nun Ultravarco ed è stata avvistata mentre\nsolcava il cielo ad altissima velocità."
+      },
+      {
+        "game": "sm-m",
+        "text": "È una delle Ultracreature. È stata vista\nincenerire un’intera foresta emettendo gas\ndalle sue due braccia."
+      },
+      {
+        "game": "usum-us",
+        "text": "Una delle temibili Ultracreature. Rilevamenti\neffettuati sulle sue gigantesche braccia hanno\nmostrato reazioni energetiche ad alta intensità."
+      },
+      {
+        "game": "usum-um",
+        "text": "Nel nostro mondo il suo aspetto appare strano\ne minaccioso, ma sembra che in quello da cui\nproviene sia una creatura molto comune."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Celesteela",
+    "genus": "Launch Pokémon",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "It appeared from the Ultra Wormhole. Witnesses\nobserved it flying across the sky at high speed."
+      },
+      {
+        "game": "sm-m",
+        "text": "One kind of Ultra Beast. Witnesses have seen it\nburn down a forest by expelling gas from its\ntwo arms."
+      },
+      {
+        "game": "usum-us",
+        "text": "One of the dangerous UBs, high energy readings\ncan be detected coming from both of its\nhuge arms."
+      },
+      {
+        "game": "usum-um",
+        "text": "Although it’s alien to this world and a danger\nhere, it’s apparently a common organism in the\nworld where it normally lives."
+      }
+    ]
+  },
+  "chs": {
+    "name": "铁火辉夜",
+    "genus": "发射宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "从究极之洞出现的究极异兽。\n被人目击到以高速在\n空中飞行的样子。"
+      },
+      {
+        "game": "sm-m",
+        "text": "究极异兽的一种。\n从２条手臂喷出气体烧毁\n森林的样子已被确认无疑。"
+      },
+      {
+        "game": "usum-us",
+        "text": "是危险的究极异兽中的一种。\n从它巨大的双臂中检测出来\n很高的能量反应。"
+      },
+      {
+        "game": "usum-um",
+        "text": "在这个世界是异类，很危险，\n但在它原本栖息的世界，\n好像只是寻常能见的生物。"
+      }
+    ]
+  }
+}

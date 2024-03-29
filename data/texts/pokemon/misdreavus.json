@@ -1,0 +1,397 @@
+{
+  "jap": {
+    "name": "ムウマ",
+    "genus": "よなきポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "こわがる　こころを　あかい　たまで\nきゅうしゅうして　えいようにする。\nひるまは　くらがりで　ねむっている。"
+      },
+      {
+        "game": "xy-y",
+        "text": "よなかに　ひとの　なきさけぶような\nなきごえを　だして　みんなを\nおどろかせる　いたずらずき。"
+      },
+      {
+        "game": "oras-or",
+        "text": "すすりなく　ような　なきごえで　こわがらせる。\nあいての　こわがる　こころを　あかい　たまで\nきゅうしゅうして　えいように　している　らしい。"
+      },
+      {
+        "game": "oras-as",
+        "text": "すすりなく　ような　なきごえで　こわがらせる。\nあいての　こわがる　こころを　あかい　たまで\nきゅうしゅうして　えいように　している　らしい。"
+      },
+      {
+        "game": "sm-s",
+        "text": "あのて　このてで　ひとを　おどろかし\nせいめいエネルギーを　すいとる。\nおどろかす　れんしゅうは　かかさない。"
+      },
+      {
+        "game": "sm-m",
+        "text": "だれもいない　へやから　すすりなく\nような　こえが　きこえたら　それは\nムウマの　イタズラに　ちがいない。"
+      },
+      {
+        "game": "usum-us",
+        "text": "おどろかせることが　いきがい。\nくびの　あかいたまに　みみを　あてると\nなかから　ひめいが　きこえてくるぞ。"
+      },
+      {
+        "game": "usum-um",
+        "text": "ひとが　なきさけぶ　こえを　まねて\nみんなを　おびえさせ　よろこぶ。\nきもが　すわった　あいては　にがて。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Muma",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "무우마",
+    "genus": "야명포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "무서워하는 마음을 빨간 구슬로\n흡수해 영양분으로 만든다. 낮에는\n어두운 곳에서 잠자고 있다."
+      },
+      {
+        "game": "xy-y",
+        "text": "밤중에 사람이 울부짖는\n울음소리를 내어 모두를\n놀라게 하는 장난꾸러기다."
+      },
+      {
+        "game": "oras-or",
+        "text": "흐느껴 우는 듯한 울음소리로 겁을 준다.\n상대의 두려워하는 마음을 빨간 구슬로\n흡수하여 영양분으로 삼는 것 같다."
+      },
+      {
+        "game": "oras-as",
+        "text": "흐느껴 우는 듯한 울음소리로 겁을 준다.\n상대의 두려워하는 마음을 빨간 구슬로\n흡수하여 영양분으로 삼는 것 같다."
+      },
+      {
+        "game": "sm-s",
+        "text": "온갖 방법으로 사람을 놀라게 해서\n생명 에너지를 빨아들인다.\n놀라게 하는 연습을 꾸준히 한다."
+      },
+      {
+        "game": "sm-m",
+        "text": "아무도 없는 방에서 흐느껴 우는\n듯한 소리가 들린다면 그것은\n무우마의 장난임에 틀림없다."
+      },
+      {
+        "game": "usum-us",
+        "text": "놀라게 하는 것이 삶의 낙이다.\n목의 빨간 구슬에 귀를 대면\n안에서 비명이 들려온다."
+      },
+      {
+        "game": "usum-um",
+        "text": "사람이 울부짖는 소리를 흉내 내\n모두를 겁주고 기뻐한다.\n담력이 강한 상대는 좋아하지 않는다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "夢妖",
+    "genus": "夜啼寶可夢",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "千方百計地驚嚇人類，\n吸取生命的能量。\n嚇人的練習從來不曾間斷。"
+      },
+      {
+        "game": "sm-m",
+        "text": "如果從四下無人的房間裡\n傳來抽泣般的聲音，\n那一定是夢妖的惡作劇。"
+      },
+      {
+        "game": "usum-us",
+        "text": "把嚇唬別人當成自己活著的意義。\n如果把耳朵貼近牠脖子上的紅珠子，\n就會聽見裡頭傳來哀嚎的聲音。"
+      },
+      {
+        "game": "usum-um",
+        "text": "會藉由模仿人哭叫的聲音\n嚇唬大家來取樂。\n不擅長應付膽大的對手。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Feuforêve",
+    "genus": "Pokémon Strident",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Il fait peur aux aventuriers en\npleine nuit et se nourrit de leur\nfrayeur."
+      },
+      {
+        "game": "bw-w",
+        "text": "Il fait peur aux aventuriers en\npleine nuit et se nourrit de leur\nfrayeur."
+      },
+      {
+        "game": "xy-x",
+        "text": "Il se nourrit de la peur absorbée par ses orbes rouges.\nIl somnole à l’ombre en journée."
+      },
+      {
+        "game": "xy-y",
+        "text": "Il pousse des hurlements la nuit pour effrayer\nles gens."
+      },
+      {
+        "game": "oras-or",
+        "text": "Feuforêve effraie les gens en poussant un cri à faire froid\ndans le dos, une sorte de lamentation. Ce Pokémon utilise\nses sphères rouges pour absorber les sentiments de terreur\nde ses ennemis et s’en nourrir."
+      },
+      {
+        "game": "oras-as",
+        "text": "Feuforêve effraie les gens en poussant un cri à faire froid\ndans le dos, une sorte de lamentation. Ce Pokémon utilise\nses sphères rouges pour absorber les sentiments de terreur\nde ses ennemis et s’en nourrir."
+      },
+      {
+        "game": "sm-s",
+        "text": "Il ne recule devant rien pour effrayer les\nhumains et leur voler leur énergie vitale.\nPour cela, il s’entraîne régulièrement à faire peur."
+      },
+      {
+        "game": "sm-m",
+        "text": "Si vous entendez des pleurs provenant d’une\npièce vide, c’est sûrement un Feuforêve\nqui vous fait une farce."
+      },
+      {
+        "game": "usum-us",
+        "text": "Effrayer les gens est sa raison d’être. Si l’on\npresse l’oreille contre les sphères rouges de\nson cou, on peut entendre des gémissements."
+      },
+      {
+        "game": "usum-um",
+        "text": "Il adore faire peur aux humains en imitant\nleurs pleurs, et n’apprécie guère ceux qui\nne se laissent pas intimider."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Traunfugil",
+    "genus": "Kreischer",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Es nährt sich von der Angst anderer Wesen und\nnimmt diese in roten Kugeln auf. Schläft am Tage."
+      },
+      {
+        "game": "xy-y",
+        "text": "Es liebt Streiche und erschreckt nachts Menschen,\nindem es heult oder ihnen im Dunkeln auflauert."
+      },
+      {
+        "game": "oras-or",
+        "text": "Traunfugil erschreckt Menschen mit einem markerschütternden\nSchrei. Dieses Pokémon verwendet seine roten Kraftfelder\ndazu, die Ängste seiner Feinde aufzunehmen und sie in\nNahrung umzuwandeln."
+      },
+      {
+        "game": "oras-as",
+        "text": "Traunfugil erschreckt Menschen mit einem markerschütternden\nSchrei. Dieses Pokémon verwendet seine roten Kraftfelder\ndazu, die Ängste seiner Feinde aufzunehmen und sie in\nNahrung umzuwandeln."
+      },
+      {
+        "game": "sm-s",
+        "text": "Es lässt nichts unversucht, um Menschen\nzu erschrecken und ihnen Lebensenergie\nabzusaugen. Dafür übt es regelmäßig."
+      },
+      {
+        "game": "sm-m",
+        "text": "Hört man ein Schluchzen in einem leeren Zimmer,\nhandelt es sich dabei eindeutig um einen Streich\nvon Traunfugil."
+      },
+      {
+        "game": "usum-us",
+        "text": "Andere zu erschrecken ist sein Lebenssinn.\nWenn man das Ohr auf die roten Kugeln an\nseinem Hals legt, kann man Hilfeschreie hören."
+      },
+      {
+        "game": "usum-um",
+        "text": "Es genießt es, das Schluchzen eines Menschen\nnachzuahmen und andere damit zu erschrecken.\nWen das kaltlässt, den kann es nicht leiden."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Misdreavus",
+    "genus": "Pokémon Chirrido",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Se deleita con el miedo, que absorbe con sus esferas\nrojas. Por el día, duerme en la oscuridad."
+      },
+      {
+        "game": "xy-y",
+        "text": "Le gusta hacer travesuras, como gritar y aullar por la\nnoche, para asustar a la gente."
+      },
+      {
+        "game": "oras-or",
+        "text": "Misdreavus asusta a la gente con un chillido escalofriante y\nsollozante. Y, al parecer, usa las esferas rojas para absorber\nlos sentimientos de miedo de los enemigos y usarlos como\nalimento."
+      },
+      {
+        "game": "oras-as",
+        "text": "Misdreavus asusta a la gente con un chillido escalofriante y\nsollozante. Y, al parecer, usa las esferas rojas para absorber\nlos sentimientos de miedo de los enemigos y usarlos como\nalimento."
+      },
+      {
+        "game": "sm-s",
+        "text": "Atemoriza a la gente de distintas formas y\nabsorbe su energía vital. Entrena todos los días\npara no perder su toque terrorífico."
+      },
+      {
+        "game": "sm-m",
+        "text": "Si se escucha un sollozo proveniente de una\nhabitación que en teoría está vacía, es probable\nque sea Misdreavus haciendo de las suyas."
+      },
+      {
+        "game": "usum-us",
+        "text": "Vive para asustar a la gente. Al acercar la oreja\na las perlas rojas de su cuello, pueden oírse\nsollozos de angustia en su interior."
+      },
+      {
+        "game": "usum-um",
+        "text": "Disfruta imitando llantos humanos para asustar\na la gente. Los valientes no le caen demasiado\nbien."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Misdreavus",
+    "genus": "Pokémon Strido",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Si nutre delle preoccupazioni che assorbe con le\nsue sfere rosse. Di giorno dorme nell’oscurità."
+      },
+      {
+        "game": "xy-y",
+        "text": "Si diverte a fare brutti scherzi, come gridare e\nlamentarsi in piena notte spaventando la gente."
+      },
+      {
+        "game": "oras-or",
+        "text": "Misdreavus terrorizza le persone con un singhiozzo\nraccapricciante. Pare usi le sue sfere rosse per assorbire\nla paura dei nemici e cibarsene."
+      },
+      {
+        "game": "oras-as",
+        "text": "Misdreavus terrorizza le persone con un singhiozzo\nraccapricciante. Pare usi le sue sfere rosse per assorbire\nla paura dei nemici e cibarsene."
+      },
+      {
+        "game": "sm-s",
+        "text": "Assorbe l’energia vitale degli esseri umani\nterrorizzandoli. Si allena per cercare di essere\nil più spaventoso possibile."
+      },
+      {
+        "game": "sm-m",
+        "text": "Se vi sembra di sentire qualcuno singhiozzare\nin una stanza apparentemente vuota, è\nsicuramente un Misdreavus in vena di scherzi."
+      },
+      {
+        "game": "usum-us",
+        "text": "Terrorizzare gli altri è la sua ragione d’essere.\nAvvicinando l’orecchio alle sfere rosse che ha\nal collo, si sentono grida e gemiti."
+      },
+      {
+        "game": "usum-um",
+        "text": "Si diverte a seminare il terrore imitando le grida\ne i lamenti degli esseri umani.\nNon ha vita facile con chi non si lascia intimidire."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Misdreavus",
+    "genus": "Screech Pokémon",
+    "flavorText": [
+      {
+        "game": "gs-g",
+        "text": "It likes playing\nmischievous tricks\nsuch as screaming\fand wailing to\nstartle people at\nnight."
+      },
+      {
+        "game": "gs-s",
+        "text": "It loves to bite\nand yank people's\nhair from behind\fwithout warning,\njust to see their\nshocked reactions."
+      },
+      {
+        "game": "c",
+        "text": "It loves to watch\npeople it's scar­\ned. It frightens\fthem by screaming\nloudly or appear­\ning suddenly."
+      },
+      {
+        "game": "rs-r",
+        "text": "MISDREAVUS frightens people with a\ncreepy, sobbing cry. The POKéMON\napparently uses its red spheres to\fabsorb the fearful feelings of foes and\nturn them into nutrition."
+      },
+      {
+        "game": "rs-s",
+        "text": "MISDREAVUS frightens people with a\ncreepy, sobbing cry. The POKéMON\napparently uses its red spheres to\fabsorb the fearful feelings of foes and\nturn them into nutrition."
+      },
+      {
+        "game": "e",
+        "text": "A MISDREAVUS frightens people with a\ncreepy, sobbing cry. It apparently uses\nits red spheres to absorb the fear of foes\nas its nutrition."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "It loves to bite and yank people’s hair\nfrom behind without warning, just to see\ntheir shocked reactions."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "It likes playing mischievous tricks such as\nscreaming and wailing to startle people at\nnight. "
+      },
+      {
+        "game": "dp-d",
+        "text": "It loves to sneak up on people\nlate at night, then startle them\nwith its shrieklike cry."
+      },
+      {
+        "game": "dp-p",
+        "text": "It gets nourishment from fear\nthat it absorbs into its red orbs.\nIn daytime, it sleeps in darkness."
+      },
+      {
+        "game": "pt",
+        "text": "A Pokémon that startles people in\nthe middle of the night. It gathers\nfear as its energy."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "It likes playing mischievous tricks,\nsuch as screaming and wailing to\nstartle people at night."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "It loves to bite and yank people’s\nhair from behind without warning,\njust to see their shocked reactions."
+      },
+      {
+        "game": "bw-b",
+        "text": "A Pokémon that startles people in\nthe middle of the night. It gathers\nfear as its energy."
+      },
+      {
+        "game": "bw-w",
+        "text": "A Pokémon that startles people in\nthe middle of the night. It gathers\nfear as its energy."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "A Pokémon that startles people in\nthe middle of the night. It gathers\nfear as its energy."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "A Pokémon that startles people in\nthe middle of the night. It gathers\nfear as its energy."
+      },
+      {
+        "game": "xy-x",
+        "text": "It gets nourishment from fear that it absorbs into its\nred orbs. In daytime, it sleeps in darkness."
+      },
+      {
+        "game": "xy-y",
+        "text": "It likes playing mischievous tricks, such as\nscreaming and wailing to startle people at night."
+      },
+      {
+        "game": "oras-or",
+        "text": "Misdreavus frightens people with a creepy, sobbing cry.\nThe Pokémon apparently uses its red spheres to absorb the\nfearful feelings of foes and turn them into nutrition."
+      },
+      {
+        "game": "oras-as",
+        "text": "Misdreavus frightens people with a creepy, sobbing cry.\nThe Pokémon apparently uses its red spheres to absorb the\nfearful feelings of foes and turn them into nutrition."
+      },
+      {
+        "game": "sm-s",
+        "text": "It will use any means necessary to frighten\npeople and absorb their life energy. It practices\nconstantly to hone its skill in causing fear."
+      },
+      {
+        "game": "sm-m",
+        "text": "If you hear a sobbing sound emanating from a\nvacant room, it’s undoubtedly a bit of mischief\nfrom Misdreavus."
+      },
+      {
+        "game": "usum-us",
+        "text": "What gives meaning to its life is surprising\nothers. If you set your ear against the red orbs\naround its neck, you can hear shrieking."
+      },
+      {
+        "game": "usum-um",
+        "text": "What makes it happy is imitating the voices of\nweeping people and scaring everyone. It doesn’t\ndeal well with folks who aren’t easily frightened."
+      },
+      {
+        "game": "la",
+        "text": "It conceals itself in darkness, sending chills up travelers' spines\nwith its childlike weeping. As it observes the frightened travelers\nwith glee, the red orbs upon its chest let off an eerie light."
+      }
+    ]
+  },
+  "chs": {
+    "name": "梦妖",
+    "genus": "夜啼宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "千方百计地吓唬人类，\n吸取生命的能量。\n吓人的练习一天也不落。"
+      },
+      {
+        "game": "sm-m",
+        "text": "如果从四下无人的房间里\n传来抽泣般的声音，\n那准是梦妖的恶作剧。"
+      },
+      {
+        "game": "usum-us",
+        "text": "吓唬别人是其活着的意义。\n如果把耳朵贴近它脖子上的红珠子，\n就能从中听到悲鸣声。"
+      },
+      {
+        "game": "usum-um",
+        "text": "会通过模仿人哭叫的声音\n来吓唬大家并以此为乐。\n不擅长对付胆大的对手。"
+      }
+    ]
+  }
+}

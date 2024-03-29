@@ -1,0 +1,245 @@
+{
+  "jap": {
+    "name": "ホルビー",
+    "genus": "あなほりポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "おおきな　みみで　じめんを　ほって\nすあなを　つくる。ひとばんじゅう\nやすまずに　ほりつづけられる。"
+      },
+      {
+        "game": "xy-y",
+        "text": "シャベルのような　みみを　もつ。\nあなほりで　きたえた　みみは　ふとい\nねっこを　たちきる　いりょくだ。"
+      },
+      {
+        "game": "oras-or",
+        "text": "おおきな　みみで　じめんを　ほって\nすあなを　つくる。ひとばんじゅう\nやすまずに　ほりつづけられる。"
+      },
+      {
+        "game": "oras-as",
+        "text": "シャベルのような　みみを　もつ。\nあなほりで　きたえた　みみは　ふとい\nねっこを　たちきる　いりょくだ。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "みみで　あなを　ほるのが　とくい。\nちか１０メートルに　とどく　すあなを\nひとばんで　つくってしまう。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "きけんに　びんかん。　アーマーガアの\nはおとを　ききとると　あっというまに\nあなを　ほって　じめんに　もぐる。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Horubee",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "파르빗",
+    "genus": "땅구멍파기포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "커다란 귀로 땅을 파고\n보금자리를 만든다. 하룻밤 동안\n쉬지 않고 계속 팔 수 있다."
+      },
+      {
+        "game": "xy-y",
+        "text": "삽과 같은 귀를 가졌다.\n구멍을 파는 데 단련된 귀는 두꺼운\n뿌리를 자를 정도의 위력이다."
+      },
+      {
+        "game": "oras-or",
+        "text": "커다란 귀로 땅을 파고\n보금자리를 만든다. 하룻밤 동안\n쉬지 않고 계속 팔 수 있다."
+      },
+      {
+        "game": "oras-as",
+        "text": "삽과 같은 귀를 가졌다.\n구멍을 파는 데 단련된 귀는 두꺼운\n뿌리를 자를 정도의 위력이다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "귀로 구멍을 파는 것이 특기다.\n지하 10m에 달하는 굴을\n하룻밤 만에 만들어버린다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "위험에 민감하다. 아머까오의\n날갯소리를 들으면 눈 깜짝할 사이에\n구멍을 파고 땅으로 숨어든다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "掘掘兔",
+    "genus": "挖洞寶可夢",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "擅長用耳朵挖洞。\n只需一個晚上就能挖出\n深至地下１０公尺的巢穴。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "對危險很敏感。只要聽到\n鋼鎧鴉拍打翅膀的聲音，\n就會馬上挖洞鑽進地下藏身。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Sapereau",
+    "genus": "Pokémon Fouisseur",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Ses larges oreilles lui permettent de creuser\ndes terriers. Il est capable de forer sans s’arrêter\npendant toute une nuit."
+      },
+      {
+        "game": "xy-y",
+        "text": "Il est doté d’oreilles ressemblant à des pelles.\nÀ force de creuser des galeries, leur puissance est\ntelle qu’elles peuvent trancher de grosses racines."
+      },
+      {
+        "game": "oras-or",
+        "text": "Ses larges oreilles lui permettent de creuser des terriers.\nIl est capable de forer sans s’arrêter pendant toute une nuit."
+      },
+      {
+        "game": "oras-as",
+        "text": "Il est doté d’oreilles ressemblant à des pelles. À force de\ncreuser des galeries, leur puissance est telle qu’elles peuvent\ntrancher de grosses racines."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Il est très doué pour creuser avec ses oreilles.\nIl peut forer un terrier atteignant dix mètres\nde profondeur en une nuit."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Il est sensible au danger. Lorsqu’il entend\nle battement d’ailes de Corvaillus, il creuse\nprestement un terrier et s’y cache."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Scoppel",
+    "genus": "Baugräber-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Mit seinen großen Ohren schaufelt es sich einen Bau.\nEs kann die ganze Nacht ohne Pause durchschaufeln."
+      },
+      {
+        "game": "xy-y",
+        "text": "Es besitzt schaufelähnliche Ohren, die durch ständiges\nGraben so kräftig werden, dass sie auch dicke Wurzeln\ndurchtrennen können."
+      },
+      {
+        "game": "oras-or",
+        "text": "Mit seinen großen Ohren schaufelt es sich einen Bau.\nEs kann die ganze Nacht ohne Pause durchschaufeln."
+      },
+      {
+        "game": "oras-as",
+        "text": "Es besitzt schaufelähnliche Ohren, die durch ständiges Graben\nso kräftig werden, dass sie auch dicke Wurzeln durchtrennen\nkönnen."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Mit den Ohren schaufelt es Löcher. Es braucht nur\neine Nacht, um einen 10 m tiefen Bau zu graben."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Es ist permanent in Alarmbereitschaft. Sobald es\ndie Flügel eines Krarmors rascheln hört, gräbt es\nein Loch und verschwindet im Boden."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Bunnelby",
+    "genus": "Pokémon Excavador",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Usa sus grandes orejas para excavar en la tierra y así\ncrear madrigueras. Puede pasarse una noche entera\ncavando sin parar."
+      },
+      {
+        "game": "xy-y",
+        "text": "Tiene unas orejas tan grandes que parecen palas.\nLas ha fortalecido tanto usándolas para excavar que\nson capaces de arrancar raíces bien gruesas."
+      },
+      {
+        "game": "oras-or",
+        "text": "Usa sus grandes orejas para excavar en la tierra y así crear\nmadrigueras. Puede pasarse una noche entera cavando sin\nparar."
+      },
+      {
+        "game": "oras-as",
+        "text": "Tiene unas orejas tan grandes que parecen palas.\nLas ha fortalecido tanto usándolas para excavar que son\ncapaces de arrancar raíces bien gruesas."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Usa hábilmente las orejas para hacer hoyos. Es\ncapaz de excavar una madriguera a 10 m bajo\ntierra en una sola noche."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Está en alerta permanente. En cuanto oye el batir\nde alas de un Corviknight, cava un agujero y se\noculta bajo tierra."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Bunnelby",
+    "genus": "Pokémon Scavabuche",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Scava tane nel terreno grazie alle grandi orecchie.\nPuò andare avanti senza fermarsi per tutta la notte."
+      },
+      {
+        "game": "xy-y",
+        "text": "Usa le orecchie come pale per scavare buche\nnel terreno. Queste propaggini sono talmente potenti\nda permettergli di strappare via enormi radici."
+      },
+      {
+        "game": "oras-or",
+        "text": "Scava tane nel terreno grazie alle grandi orecchie.\nPuò andare avanti senza fermarsi per tutta la notte."
+      },
+      {
+        "game": "oras-as",
+        "text": "Usa le orecchie come pale per scavare buche nel terreno.\nQueste propaggini sono talmente potenti da permettergli di\nstrappare via enormi radici."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Usa abilmente le orecchie per scavare buche\nnel terreno. Gli basta una notte per scavare\nuna tana profonda 10 m."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "È sempre all’erta contro i pericoli. Se percepisce\nil battito d’ali di Corviknight scava una buca\ne si nasconde sotto terra."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Bunnelby",
+    "genus": "Digging Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "They use their large ears to dig burrows.\nThey will dig the whole night through."
+      },
+      {
+        "game": "xy-y",
+        "text": "It has ears like shovels. Digging holes\nstrengthens its ears so much that they\ncan sever thick roots effortlessly."
+      },
+      {
+        "game": "oras-or",
+        "text": "They use their large ears to dig burrows.\nThey will dig the whole night through."
+      },
+      {
+        "game": "oras-as",
+        "text": "It has ears like shovels. Digging holes\nstrengthens its ears so much that they\ncan sever thick roots effortlessly."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "It excels at digging holes. Using its ears, it can\ndig a nest 33 feet deep in one night."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "It’s very sensitive to danger. The sound of\nCorviknight’s flapping will have Bunnelby\ndigging a hole to hide underground in moments."
+      }
+    ]
+  },
+  "chs": {
+    "name": "掘掘兔",
+    "genus": "挖洞宝可梦",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "擅长用耳朵挖洞。\n只需一个晚上就能挖出\n深至地下１０米的巢穴。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "对危险很敏感。只要听到\n钢铠鸦拍打翅膀的声音，\n就会马上挖洞钻进地下藏身。"
+      }
+    ]
+  }
+}

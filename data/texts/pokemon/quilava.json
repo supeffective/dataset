@@ -1,0 +1,251 @@
+{
+  "jap": {
+    "name": "マグマラシ",
+    "genus": "かざんポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "たたかいのまえ　せなかを　むけて\nじぶんの　ほのおが　どれくらい\nすごいかを　あいてに　みせつける。"
+      },
+      {
+        "game": "xy-y",
+        "text": "せんとうちゅう　せなかを　むけたら\nようちゅうい。せなかの　ほのおで\nこうげきしてくる　まえぶれだ。"
+      },
+      {
+        "game": "oras-or",
+        "text": "ほのおの　いきおいと　ねっぷうで　いかくする。\nすばやい　みのこなしで　あいての　こうげきを\nかわしながら　どうじに　ほのおで　もやす。"
+      },
+      {
+        "game": "oras-as",
+        "text": "ほのおの　いきおいと　ねっぷうで　いかくする。\nすばやい　みのこなしで　あいての　こうげきを\nかわしながら　どうじに　ほのおで　もやす。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Magmarashi",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "마그케인",
+    "genus": "화산포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "싸우기 전에 등을 보이며\n자신의 불꽃이 얼마나\n대단한지 상대에게 일부러 보여준다."
+      },
+      {
+        "game": "xy-y",
+        "text": "배틀 중에 등을 보이면\n주의가 필요하다. 등의 불꽃으로\n공격해올 것이라는 뜻이다."
+      },
+      {
+        "game": "oras-or",
+        "text": "불꽃의 기세와 열풍으로 위협한다.\n재빠른 몸동작으로 상대의 공격을\n피하면서 동시에 불꽃으로 태운다."
+      },
+      {
+        "game": "oras-as",
+        "text": "불꽃의 기세와 열풍으로 위협한다.\n재빠른 몸동작으로 상대의 공격을\n피하면서 동시에 불꽃으로 태운다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "火岩鼠",
+    "genus": "火山寶可夢",
+    "flavorText": []
+  },
+  "fra": {
+    "name": "Feurisson",
+    "genus": "Pokémon Volcan",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "La chaleur de ses flammes intimide\nl’ennemi. Elles s’intensifient\nlorsqu’il se prépare à combattre."
+      },
+      {
+        "game": "bw-w",
+        "text": "La chaleur de ses flammes intimide\nl’ennemi. Elles s’intensifient\nlorsqu’il se prépare à combattre."
+      },
+      {
+        "game": "xy-x",
+        "text": "Avant chaque combat, il tourne le dos et montre\nla puissance de ses flammes."
+      },
+      {
+        "game": "xy-y",
+        "text": "Attention ! Quand il tourne le dos dans un combat,\nc’est qu’il va attaquer avec ses flammes dorsales."
+      },
+      {
+        "game": "oras-or",
+        "text": "Feurisson garde ses ennemis à distance grâce à l’intensité\nde ses flammes et à des rafales d’air brûlant. Ce Pokémon\nutilise son incroyable agilité pour éviter les attaques,\ntout en enflammant ses ennemis."
+      },
+      {
+        "game": "oras-as",
+        "text": "Feurisson garde ses ennemis à distance grâce à l’intensité\nde ses flammes et à des rafales d’air brûlant. Ce Pokémon\nutilise son incroyable agilité pour éviter les attaques,\ntout en enflammant ses ennemis."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Igelavar",
+    "genus": "Vulkan",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Vor dem Kampf dreht es dem Feind den Rücken zu,\num ihm zu zeigen, wie Furcht erregend sein Feuer\nlodert."
+      },
+      {
+        "game": "xy-y",
+        "text": "Dreht es dir im Kampf den Rücken zu, wird es dich\nmit den Flammen seines Rückens angreifen."
+      },
+      {
+        "game": "oras-or",
+        "text": "Igelavar hält seine Gegner mit Flammen und Böen heißer Luft\nauf Distanz. Dieses Pokémon nutzt seine außergewöhnliche\nGewandtheit dazu, Angriffen auszuweichen und seinen Gegner\ngleichzeitig zu versengen."
+      },
+      {
+        "game": "oras-as",
+        "text": "Igelavar hält seine Gegner mit Flammen und Böen heißer Luft\nauf Distanz. Dieses Pokémon nutzt seine außergewöhnliche\nGewandtheit dazu, Angriffen auszuweichen und seinen Gegner\ngleichzeitig zu versengen."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Quilava",
+    "genus": "Pokémon Volcán",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Antes de empezar a luchar, se gira ante su rival para\nalardear del alcance y la fuerza de sus llamas."
+      },
+      {
+        "game": "xy-y",
+        "text": "Ten cuidado si te da la espalda en combate.\nSignifica que te va a atacar con su lomo de fuego."
+      },
+      {
+        "game": "oras-or",
+        "text": "Quilava mantiene a sus rivales a raya con la intensidad de\nsus llamas y las ráfagas de aire ígneo que producen. También\naprovecha su espectacular agilidad para esquivar ataques\na la vez que abrasa al rival con sus llamas."
+      },
+      {
+        "game": "oras-as",
+        "text": "Quilava mantiene a sus rivales a raya con la intensidad de\nsus llamas y las ráfagas de aire ígneo que producen. También\naprovecha su espectacular agilidad para esquivar ataques\na la vez que abrasa al rival con sus llamas."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Quilava",
+    "genus": "Pokémon Vulcano",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Prima di lottare mostra il dorso al nemico per\nimpressionarlo con la potenza delle sue fiamme."
+      },
+      {
+        "game": "xy-y",
+        "text": "Nella lotta, se s’incurva vuol dire che sta per\nattaccare con le fiamme che ha sul dorso."
+      },
+      {
+        "game": "oras-or",
+        "text": "Quilava tiene a bada il nemico grazie all’intensità delle sue\nfiamme e a getti di aria rovente. Questo Pokémon sfrutta\nla sua estrema destrezza per evitare gli attacchi anche\nmentre ustiona il nemico."
+      },
+      {
+        "game": "oras-as",
+        "text": "Quilava tiene a bada il nemico grazie all’intensità delle sue\nfiamme e a getti di aria rovente. Questo Pokémon sfrutta\nla sua estrema destrezza per evitare gli attacchi anche\nmentre ustiona il nemico."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Quilava",
+    "genus": "Volcano Pokémon",
+    "flavorText": [
+      {
+        "game": "gs-g",
+        "text": "Be careful if it\nturns its back\nduring battle. It\fmeans that it will\nattack with the\nfire on its back."
+      },
+      {
+        "game": "gs-s",
+        "text": "This POKéMON is\nfully covered by\nnonflammable fur.\fIt can withstand\nany kind of fire\nattack."
+      },
+      {
+        "game": "c",
+        "text": "Before battle, it\nturns its back on\nits opponent to\fdemonstrate how\nferociously its\nfire blazes."
+      },
+      {
+        "game": "rs-r",
+        "text": "QUILAVA keeps its foes at bay with the\nintensity of its flames and gusts of\nsuperheated air.\fThis POKéMON applies its outstanding\nnimbleness to dodge attacks even while\nscorching the foe with flames."
+      },
+      {
+        "game": "rs-s",
+        "text": "QUILAVA keeps its foes at bay with the\nintensity of its flames and gusts of\nsuperheated air.\fThis POKéMON applies its outstanding\nnimbleness to dodge attacks even while\nscorching the foe with flames."
+      },
+      {
+        "game": "e",
+        "text": "It intimidates foes with intense gusts of\nflames and superheated air. Its quick\nnimbleness lets it dodge attacks even\nwhile scorching an enemy."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "This POKéMON is fully covered by\nnonflammable fur. It can withstand any\nkind of fire attack."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "Be careful if it turns its back during\nbattle. It means that it will attack with\nthe fire on its back."
+      },
+      {
+        "game": "dp-d",
+        "text": "It intimidates foes with the heat\nof its flames. The fire burns more\nstrongly when it readies to fight."
+      },
+      {
+        "game": "dp-p",
+        "text": "It intimidates foes with the heat\nof its flames. The fire burns more\nstrongly when it readies to fight."
+      },
+      {
+        "game": "pt",
+        "text": "It intimidates foes with the heat\nof its flames. The fire burns more\nstrongly when it readies to fight."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "Be careful if it turns its back\nduring battle. It means that it will\nattack with the fire on its back."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "This Pokémon is fully covered by\nnonflammable fur. It can withstand\nany kind of fire attack."
+      },
+      {
+        "game": "bw-b",
+        "text": "It intimidates foes with the heat\nof its flames. The fire burns more\nstrongly when it readies to fight."
+      },
+      {
+        "game": "bw-w",
+        "text": "It intimidates foes with the heat\nof its flames. The fire burns more\nstrongly when it readies to fight."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "It intimidates foes with the heat\nof its flames. The fire burns more\nstrongly when it readies to fight."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "It intimidates foes with the heat\nof its flames. The fire burns more\nstrongly when it readies to fight."
+      },
+      {
+        "game": "xy-x",
+        "text": "Before battle, it turns its back on its opponent to\ndemonstrate how ferociously its fire blazes."
+      },
+      {
+        "game": "xy-y",
+        "text": "Be careful if it turns its back during battle. It means\nthat it will attack with the fire on its back."
+      },
+      {
+        "game": "oras-or",
+        "text": "Quilava keeps its foes at bay with the intensity of its flames and\ngusts of superheated air. This Pokémon applies its outstanding\nnimbleness to dodge attacks even while scorching the foe\nwith flames."
+      },
+      {
+        "game": "oras-as",
+        "text": "Quilava keeps its foes at bay with the intensity of its flames\nand gusts of superheated air. This Pokémon applies its\noutstanding nimbleness to dodge attacks even while scorching\nthe foe with flames."
+      },
+      {
+        "game": "la",
+        "text": "This creature's fur is most mysterious—it is wholly impervious to\nthe burning touch of flame. Should Quilava turn its back to you,\ntake heed! Such a posture indicates a forthcoming attack."
+      }
+    ]
+  },
+  "chs": {
+    "name": "火岩鼠",
+    "genus": "火山宝可梦",
+    "flavorText": []
+  }
+}

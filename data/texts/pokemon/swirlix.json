@@ -1,0 +1,245 @@
+{
+  "jap": {
+    "name": "ペロッパフ",
+    "genus": "わたあめポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "わたあめのような　あまくて　ベタつく\nしろい　いとを　だして　あいてを\nからめとり　うごきを　ふうじる。"
+      },
+      {
+        "game": "xy-y",
+        "text": "あまいもの　ばかりを　たべているので\nたいもうが　わたあめのように\nあまく　ベタベタしている。"
+      },
+      {
+        "game": "oras-or",
+        "text": "わたあめのような　あまくて　ベタつく\nしろい　いとを　だして　あいてを\nからめとり　うごきを　ふうじる。"
+      },
+      {
+        "game": "oras-as",
+        "text": "あまいもの　ばかりを　たべているので\nたいもうが　わたあめのように\nあまく　ベタベタしている。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "１にちに　たべる　さとうは　じぶんの\nたいじゅうと　おなじ。　とうぶんが\nたりないと　ひどく　ふきげんになる。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "ふわふわの　たいもうは　わたあめの\nように　あまい　におい。　べたつく\nいとを　だして　てきを　からめとる。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Peroppafu",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "나룸퍼프",
+    "genus": "솜사탕포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "솜사탕 같은 달고 끈적끈적한\n하얀 실을 내뿜어 상대를\n휘감고 움직이지 못하게 한다."
+      },
+      {
+        "game": "xy-y",
+        "text": "달콤한 것만 먹기 때문에\n몸의 털이 솜사탕처럼\n달고 끈적끈적하다."
+      },
+      {
+        "game": "oras-or",
+        "text": "솜사탕 같은 달고 끈적끈적한\n하얀 실을 내뿜어 상대를\n휘감고 움직이지 못하게 한다."
+      },
+      {
+        "game": "oras-as",
+        "text": "달콤한 것만 먹기 때문에\n몸의 털이 솜사탕처럼\n달고 끈적끈적하다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "하루에 자신의 체중만큼의\n설탕을 먹는다. 당분이\n부족하면 매우 기분이 나빠진다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "푹신푹신한 털은 솜사탕처럼\n달콤한 냄새가 난다.\n끈끈한 실을 내어 상대를 묶어버린다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "綿綿泡芙",
+    "genus": "棉花糖寶可夢",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "每天要吃掉與自己體重\n相同重量的砂糖，\n糖分不夠就會鬧脾氣。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "蓬鬆的體毛聞起來\n就像棉花糖一樣甜甜的。\n會放出黏答答的絲纏住敵人。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Sucroquin",
+    "genus": "Pokémon Confiserie",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Il immobilise son adversaire à l’aide de filaments\nblancs, sucrés et collants qui ressemblent à de la\nbarbe à papa."
+      },
+      {
+        "game": "xy-y",
+        "text": "Il se gave de sucreries à longueur de journée, à tel\npoint que sa fourrure finit par ressembler à de la barbe\nà papa, sucrée et poisseuse."
+      },
+      {
+        "game": "oras-or",
+        "text": "Il immobilise son adversaire à l’aide de filaments blancs,\nsucrés et collants qui ressemblent à de la barbe à papa."
+      },
+      {
+        "game": "oras-as",
+        "text": "Il se gave de sucreries à longueur de journée, à tel point\nque sa fourrure finit par ressembler à de la barbe à papa,\nsucrée et poisseuse."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Il mange son propre poids en sucre chaque jour.\nS’il n’a pas sa dose de sucreries, il devient\nhorriblement grognon."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Sa douce fourrure possède une odeur sucrée\ncomme la barbe à papa. Il produit des filaments\ngluants pour empêtrer ses adversaires."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Flauschling",
+    "genus": "Zuckerwatte-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Es stößt weiße Fäden aus, die so süß und klebrig wie\nZuckerwatte sind. Mit ihnen umwickelt es den Gegner\nund hindert ihn daran, sich zu bewegen."
+      },
+      {
+        "game": "xy-y",
+        "text": "Es frisst nur Süßigkeiten, weshalb sein Fell so süß\nund klebrig wie Zuckerwatte ist."
+      },
+      {
+        "game": "oras-or",
+        "text": "Es stößt weiße Fäden aus, die so süß und klebrig wie\nZuckerwatte sind. Mit ihnen umwickelt es den Gegner\nund hindert ihn daran, sich zu bewegen."
+      },
+      {
+        "game": "oras-as",
+        "text": "Es frisst nur Süßigkeiten, weshalb sein Fell so süß und klebrig\nwie Zuckerwatte ist."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Die Menge an Zucker, die es pro Tag verschlingt,\nentspricht seinem Körpergewicht. Bekommt es\nnicht genügend Zucker, wird es unausstehlich."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Sein flauschiges Fell duftet süß wie Zuckerwatte.\nEs stößt klebrige Fäden aus, mit denen es seine\nGegner umwickelt."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Swirlix",
+    "genus": "Pokémon Chuchería",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Escupe hebras pegajosas de color blanco y textura\nparecida a la del algodón de azúcar, con las que\nenvuelve al enemigo y le impide que se mueva."
+      },
+      {
+        "game": "xy-y",
+        "text": "Como se alimenta exclusivamente de dulces, su\npelaje es tan pegajoso y dulzón como el algodón\nde azúcar."
+      },
+      {
+        "game": "oras-or",
+        "text": "Escupe hebras pegajosas de color blanco y textura parecida a\nla del algodón de azúcar, con las que envuelve al enemigo y\nle impide que se mueva."
+      },
+      {
+        "game": "oras-as",
+        "text": "Como se alimenta exclusivamente de dulces, su pelaje es tan\npegajoso y dulzón como el algodón de azúcar."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Ingiere diariamente una cantidad de azúcar\nequivalente a su peso corporal. De lo contrario,\nse pone de muy mal humor."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Su esponjoso pelaje desprende un olor dulzón\ncomo el del algodón de azúcar. Escupe hebras\npegajosas con las que envuelve a sus enemigos."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Swirlix",
+    "genus": "Pokémon Zuccherino",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Immobilizza il nemico avvolgendolo in filamenti\nbianchi, dolci e appiccicosi, simili a zucchero filato."
+      },
+      {
+        "game": "xy-y",
+        "text": "Poiché mangia solo cose dolci, il suo pelo ha\nla consistenza e il sapore dello zucchero filato."
+      },
+      {
+        "game": "oras-or",
+        "text": "Immobilizza il nemico avvolgendolo in filamenti bianchi, dolci\ne appiccicosi, simili a zucchero filato."
+      },
+      {
+        "game": "oras-as",
+        "text": "Poiché mangia solo cose dolci, il suo pelo ha la consistenza\ne il sapore dello zucchero filato."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Mangia ogni giorno una quantità di zucchero pari\nal peso del suo corpo. Quando il suo livello di\nglucosio cala troppo, diventa di cattivo umore."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "La sua soffice pelliccia emette un dolce\nprofumo di zucchero filato. Avvolge il nemico\ncon filamenti appiccicosi."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Swirlix",
+    "genus": "Cotton Candy Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "To entangle its opponents in battle, it extrudes\nwhite threads as sweet and sticky as cotton candy."
+      },
+      {
+        "game": "xy-y",
+        "text": "Because it eats nothing but sweets,\nits fur is as sticky sweet as cotton candy."
+      },
+      {
+        "game": "oras-or",
+        "text": "To entangle its opponents in battle, it extrudes\nwhite threads as sweet and sticky as cotton candy."
+      },
+      {
+        "game": "oras-as",
+        "text": "Because it eats nothing but sweets,\nits fur is as sticky sweet as cotton candy."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "It eats its own weight in sugar every day.\nIf it doesn’t get enough sugar, it becomes\nincredibly grumpy."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "The sweet smell of cotton candy perfumes\nSwirlix’s fluffy fur. This Pokémon spits out\nsticky string to tangle up its enemies."
+      }
+    ]
+  },
+  "chs": {
+    "name": "绵绵泡芙",
+    "genus": "棉花糖宝可梦",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "每天要吃掉与自己体重\n相同重量的砂糖，\n糖分不够就会闹脾气。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "蓬松的体毛闻起来\n就像棉花糖一样甜甜的。\n会放出黏糊糊的丝缠住敌人。"
+      }
+    ]
+  }
+}

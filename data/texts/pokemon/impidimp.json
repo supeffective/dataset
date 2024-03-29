@@ -1,0 +1,133 @@
+{
+  "jap": {
+    "name": "ベロバー",
+    "genus": "いじわるポケモン",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "ひとや　ポケモンが　いやがる　ときに\nはっする　マイナスエネルギーを\nはなから　すいこみ　げんきになる。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "みんかに　しのびこみ　ぬすみを\nはたらき　さらに　くやしがる　ひとの\nマイナスエネルギーも　いただくのだ。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Beroba",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "메롱꿍",
+    "genus": "꾀부리기포켓몬",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "사람이나 포켓몬이 싫어하는 감정을\n가질 때 발생시키는 마이너스 에너지를\n코로 빨아들여서 건강해진다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "민가에 숨어들어 도둑질을\n하고 속상해하는 사람의\n마이너스 에너지도 얻는다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "搗蛋小妖",
+    "genus": "捉弄寶可夢",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "會用鼻子吸收人類或寶可夢\n情緒糟糕時產生的負能量，\n來為自己補充活力。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "不但會溜進民宅偷盜，\n還會吸收人們悔恨時\n的負面能量。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Grimalin",
+    "genus": "Pokémon Malin",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Pour se refaire une santé, il hume l’énergie\nnégative que les humains et les Pokémon\ndégagent quand ils sont irrités."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Il se glisse dans les foyers pour commettre\nun larcin et en profite pour se nourrir de l’énergie\nnégative des habitants contrariés."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Bähmon",
+    "genus": "Hinterlist-Pokémon",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Es wird kräftiger, indem es die von unzufriedenen\nMenschen und Pokémon ausgestoßene negative\nEnergie einatmet."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Es schleicht sich in Häuser ein und geht dort auf\nDiebeszug. Zudem verleibt es sich die negative\nEnergie der deshalb verärgerten Menschen ein."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Impidimp",
+    "genus": "Pokémon Astuto",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Con el fin de revitalizarse, inhala por la nariz la\nenergía negativa que desprenden tanto personas\ncomo Pokémon cuando están descontentos."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Se infiltra en las casas para hurtar a sus anchas y,\npor si fuera poco, nutrirse de la energía negativa\nque liberan sus contrariados habitantes."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Impidimp",
+    "genus": "Pokémon Scaltro",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Recupera le forze inalando dal naso l’energia\nnegativa emessa da persone e Pokémon quando\nsono irritati."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Si intrufola nelle case, ruba, e come se non\nbastasse si nutre anche dell’energia negativa\ndei padroni di casa rattristati per il furto."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Impidimp",
+    "genus": "Wily Pokémon",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Through its nose, it sucks in the emanations\nproduced by people and Pokémon when they\nfeel annoyed. It thrives off this negative energy."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "It sneaks into people’s homes, stealing things\nand feasting on the negative energy of the\nfrustrated occupants."
+      }
+    ]
+  },
+  "chs": {
+    "name": "捣蛋小妖",
+    "genus": "捉弄宝可梦",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "会用鼻子吸收人类或宝可梦\n情绪糟糕时产生的负能量，\n来为自己补充活力。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "不但会溜进民宅偷盗，\n还会吸收人们悔恨时\n的负面能量。"
+      }
+    ]
+  }
+}

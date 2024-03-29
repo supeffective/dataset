@@ -1,0 +1,321 @@
+{
+  "jap": {
+    "name": "セレビィ",
+    "genus": "ときわたりポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "じかんをこえて　あちこち　さまよう。\nセレビィが　すがたを　あらわした\nもりは　くさきが　おいしげるという。"
+      },
+      {
+        "game": "xy-y",
+        "text": "じかんを　こえる　ちからを　つかう。\nへいわな　じだいにだけ\nすがたを　みせると　いわれている。"
+      },
+      {
+        "game": "oras-or",
+        "text": "ときを　こえ　みらいから　やってきた　ポケモン。\nセレビィが　すがたを　あらわす　かぎり　あかるい\nみらいが　まっていると　かんがえられている。"
+      },
+      {
+        "game": "oras-as",
+        "text": "ときを　こえ　みらいから　やってきた　ポケモン。\nセレビィが　すがたを　あらわす　かぎり　あかるい\nみらいが　まっていると　かんがえられている。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "ときを　こえる　ちからを　もつ。\nもりの　かみさまとして　さまざまな\nじだいに　きろくが　のこされている。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "みらいから　ときを　わたって\nやってきた。　きずを　いやし\nくさきに　ちからを　わけあたえる。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Celebi",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "세레비",
+    "genus": "시간이동포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "시간을 넘어 여기저기를 방황한다.\n세레비가 모습을 나타낸\n숲은 초목이 무성해진다고 한다."
+      },
+      {
+        "game": "xy-y",
+        "text": "시간을 초월하는 힘을 사용한다.\n평화스러운 시대에만\n모습을 보인다고 한다."
+      },
+      {
+        "game": "oras-or",
+        "text": "시간을 넘어 미래에서 찾아온 포켓몬이다.\n세레비가 모습을 나타내는 한 밝은\n미래가 기다린다고 여겨지고 있다."
+      },
+      {
+        "game": "oras-as",
+        "text": "시간을 넘어 미래에서 찾아온 포켓몬이다.\n세레비가 모습을 나타내는 한 밝은\n미래가 기다린다고 여겨지고 있다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "시간을 이동하는 힘을 가졌다.\n숲의 신으로서 여러 시대에\n기록이 남겨져 있다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "미래에서 시간을 건너\n찾아왔다. 상처를 치료하고\n초목에 힘을 나누어준다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "時拉比",
+    "genus": "時空穿越寶可夢",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "擁有能夠穿越時光的力量。\n在許多時代都留下了\n將牠視為森林之神的紀錄。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "從未來穿越時光而來。\n能夠治癒傷痛，\n也會把自己的力量分給草木。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Celebi",
+    "genus": "Pokémon Temporel",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Il a le pouvoir de voyager dans le\ntemps. Cependant, on dit qu’il\nn’apparaît qu’en temps de paix."
+      },
+      {
+        "game": "bw-w",
+        "text": "Il a le pouvoir de voyager dans le\ntemps. Cependant, on dit qu’il\nn’apparaît qu’en temps de paix."
+      },
+      {
+        "game": "xy-x",
+        "text": "Ce Pokémon voyage dans le temps. Les forêts où\nil apparaît deviennent prodigieusement luxuriantes."
+      },
+      {
+        "game": "xy-y",
+        "text": "Il a le pouvoir de voyager dans le temps.\nCependant, on dit qu’il n’apparaît qu’en temps de\npaix."
+      },
+      {
+        "game": "oras-or",
+        "text": "Ce Pokémon est venu du futur en voyageant dans le temps.\nOn raconte que quand Celebi apparaît, cela signifie que\nle futur sera bon et agréable."
+      },
+      {
+        "game": "oras-as",
+        "text": "Ce Pokémon est venu du futur en voyageant dans le temps.\nOn raconte que quand Celebi apparaît, cela signifie que\nle futur sera bon et agréable."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Il possède le pouvoir de voyager dans le temps.\nIl a été considéré comme une divinité sylvestre\nà différentes époques."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Ce Pokémon venu du futur soigne les blessures\net donne de la force aux plantes."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Celebi",
+    "genus": "Zeitreise-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Dieses Pokémon reist durch Zeit und Raum.\nBäume und Wiesen wuchern, wenn es in der Nähe ist."
+      },
+      {
+        "game": "xy-y",
+        "text": "Es kann durch die Zeit reisen, aber es erscheint nur\nzu friedlichen Zeiten."
+      },
+      {
+        "game": "oras-or",
+        "text": "Dieses Pokémon kommt aus der Zukunft und ist durch die\nZeit gereist. Solange Celebi auftaucht, ist der Menschheit\nangeblich eine rosige Zukunft beschieden."
+      },
+      {
+        "game": "oras-as",
+        "text": "Dieses Pokémon kommt aus der Zukunft und ist durch die\nZeit gereist. Solange Celebi auftaucht, ist der Menschheit\nangeblich eine rosige Zukunft beschieden."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Es kann durch die Zeit reisen und findet in\nAufzeichnungen aus verschiedenen Zeitaltern\nals „Hüter des Waldes“ Erwähnung."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Dieses Pokémon kommt aus der Zukunft und ist\ndurch die Zeit gereist. Es heilt Wunden und\nspendet Pflanzen Kraft."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Celebi",
+    "genus": "Pokémon Viajetiempo",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Este Pokémon vaga por el tiempo. La hierba y los\nárboles crecen por los campos por donde pasa."
+      },
+      {
+        "game": "xy-y",
+        "text": "Puede viajar en el tiempo, pero se dice que solo\naparece en tiempos de paz."
+      },
+      {
+        "game": "oras-or",
+        "text": "Este Pokémon vino del futuro haciendo un viaje en el tiempo.\nHay quien piensa que, mientras Celebi siga apareciendo, hay\nun futuro brillante y esperanzador."
+      },
+      {
+        "game": "oras-as",
+        "text": "Este Pokémon vino del futuro haciendo un viaje en el tiempo.\nHay quien piensa que, mientras Celebi siga apareciendo, hay\nun futuro brillante y esperanzador."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Es capaz de viajar en el tiempo. Su condición de\nguardián del bosque ha quedado constatada en\ndocumentos conservados de diversas épocas."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Vino del futuro haciendo un viaje en el tiempo.\nAdemás de curar las heridas, posee la capacidad\nde revitalizar la hierba y los árboles."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Celebi",
+    "genus": "Pokémon Tempovia",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Questo Pokémon viaggia attraverso il tempo. Le\nforeste in cui appare prosperano rigogliose."
+      },
+      {
+        "game": "xy-y",
+        "text": "Ha il potere di viaggiare attraverso il tempo, ma si\ndice che appaia solo in periodi di pace."
+      },
+      {
+        "game": "oras-or",
+        "text": "Celebi è giunto a noi dal futuro, viaggiando attraverso\nil tempo. Si dice che ogni sua apparizione preannunci\nun futuro roseo e splendente."
+      },
+      {
+        "game": "oras-as",
+        "text": "Celebi è giunto a noi dal futuro, viaggiando attraverso\nil tempo. Si dice che ogni sua apparizione preannunci\nun futuro roseo e splendente."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Ha il potere di viaggiare nel tempo. Documenti\ndi epoche diverse lo descrivono come divinità\ndelle foreste."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "È giunto dal futuro, viaggiando nel tempo.\nCura le ferite e dona vigore alla vegetazione."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Celebi",
+    "genus": "Time Travel Pokémon",
+    "flavorText": [
+      {
+        "game": "gs-g",
+        "text": "This POKéMON wan­\nders across time.\nGrass and trees\fflourish in the\nforests in which\nit has appeared."
+      },
+      {
+        "game": "gs-s",
+        "text": "When CELEBI disap­\npears deep in a\nforest, it is said\fto leave behind an\negg it brought\nfrom the future."
+      },
+      {
+        "game": "c",
+        "text": "Revered as a\nguardian of the\nforest, CELEBI\fappears wherever\nbeautiful forests\nexist."
+      },
+      {
+        "game": "rs-r",
+        "text": "This POKéMON came from the future by\ncrossing over time.\nIt is thought that so long as CELEBI\fappears, a bright and shining future\nawaits us."
+      },
+      {
+        "game": "rs-s",
+        "text": "This POKéMON came from the future by\ncrossing over time.\nIt is thought that so long as CELEBI\fappears, a bright and shining future\nawaits us."
+      },
+      {
+        "game": "e",
+        "text": "This POKéMON came from the future by\ncrossing over time. It is thought that so\nlong as CELEBI appears, a bright and\nshining future awaits us."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "When CELEBI disappears deep in a forest,\nit is said to leave behind an egg it\nbrought from the future."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "This POKéMON wanders across time.\nGrass and trees flourish in the forests in\nwhich it has appeared."
+      },
+      {
+        "game": "dp-d",
+        "text": "It has the power to travel across\ntime, but it is said to appear only\nin peaceful times."
+      },
+      {
+        "game": "dp-p",
+        "text": "It has the power to travel across\ntime, but it is said to appear only\nin peaceful times."
+      },
+      {
+        "game": "pt",
+        "text": "It has the power to travel across\ntime, but it is said to appear only\nin peaceful times."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "This Pokémon wanders across time.\nGrass and trees flourish in the\nforests in which it has appeared."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "When CELEBI disappears deep in a\nforest, it is said to leave behind an\negg it brought from the future."
+      },
+      {
+        "game": "bw-b",
+        "text": "It has the power to travel across\ntime, but it is said to appear only\nin peaceful times."
+      },
+      {
+        "game": "bw-w",
+        "text": "It has the power to travel across\ntime, but it is said to appear only\nin peaceful times."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "It has the power to travel across\ntime, but it is said to appear only\nin peaceful times."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "It has the power to travel across\ntime, but it is said to appear only\nin peaceful times."
+      },
+      {
+        "game": "xy-x",
+        "text": "This Pokémon wanders across time. Grass and trees\nflourish in the forests in which it has appeared."
+      },
+      {
+        "game": "xy-y",
+        "text": "It has the power to travel across time, but it is said\nto appear only in peaceful times."
+      },
+      {
+        "game": "oras-or",
+        "text": "This Pokémon came from the future by crossing over time.\nIt is thought that so long as Celebi appears, a bright and\nshining future awaits us."
+      },
+      {
+        "game": "oras-as",
+        "text": "This Pokémon came from the future by crossing over time.\nIt is thought that so long as Celebi appears, a bright and\nshining future awaits us."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "This Pokémon has the ability to move through\ntime. Records describing it as a forest deity can\nbe found from many different eras."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "This Pokémon traveled through time to come\nfrom the future. It bolsters grass and trees with\nits own strength, and it can heal wounds, too."
+      }
+    ]
+  },
+  "chs": {
+    "name": "时拉比",
+    "genus": "时空穿越宝可梦",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "拥有能够穿越时光的力量。\n在许多时代都留下了\n将它视为森林之神的记录。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "从未来穿越时光而来。\n能够治愈伤痛，\n也会把自己的力量分给草木。"
+      }
+    ]
+  }
+}

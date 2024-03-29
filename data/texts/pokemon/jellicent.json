@@ -1,0 +1,341 @@
+{
+  "jap": {
+    "name": "ブルンゲル",
+    "genus": "ふゆうポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "からだの　ほとんどが　かいすい。\nかいていには　ブルンゲルが　しずめた\nふねで　できた　しろが　あるという。"
+      },
+      {
+        "game": "xy-y",
+        "text": "ブルンゲルの　すみかに　まよいこんだ\nふねは　しずめられて　のりくみいんの\nいのちは　すいとられて　しまうのだ。"
+      },
+      {
+        "game": "oras-or",
+        "text": "からだの　ほとんどが　かいすい。\nかいていには　ブルンゲルが　しずめた\nふねで　できた　しろが　あるという。"
+      },
+      {
+        "game": "oras-as",
+        "text": "ブルンゲルの　すみかに　まよいこんだ\nふねは　しずめられて　のりくみいんの\nいのちは　すいとられて　しまうのだ。"
+      },
+      {
+        "game": "usum-us",
+        "text": "ごうかきゃくせんや　タンカーの\nまわりに　つきまとい　えものを\nひきずりこもうと　ねらっている。"
+      },
+      {
+        "game": "usum-um",
+        "text": "りょうしが　おそれる　そんざい。\nうみに　ひきずりこみ　いのちを\nうばうと　ウワサ　されている。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "からだの　ほとんどが　かいすいと\nおなじ　せいぶんで　できている。\nちんぼつせんを　ねじろにする。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "まんげつに　なると　むれを　ひきつれ\nかいめんに　すがたを　みせる。\nえものが　くるのを　まっているのだ。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Burungel",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "탱탱겔",
+    "genus": "부유포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "몸 대부분이 해수다.\n해저에는 탱탱겔이 가라앉힌\n배로 만들어진 성이 있다고 한다."
+      },
+      {
+        "game": "xy-y",
+        "text": "탱탱겔의 거처로 길을 잃고\n들어간 배는 가라앉으며 승무원의\n생명이 흡수되어 버린다."
+      },
+      {
+        "game": "oras-or",
+        "text": "몸 대부분이 해수다.\n해저에는 탱탱겔이 가라앉힌\n배로 만들어진 성이 있다고 한다."
+      },
+      {
+        "game": "oras-as",
+        "text": "탱탱겔의 거처로 길을 잃고\n들어간 배는 가라앉으며 승무원의\n생명이 흡수되어 버린다."
+      },
+      {
+        "game": "usum-us",
+        "text": "여객선이나 유조선\n주위를 맴돌며 먹이를\n끌어들이기 위해 노리고 있다."
+      },
+      {
+        "game": "usum-um",
+        "text": "어부들이 두려워하는 존재다.\n바다로 끌고 들어가 목숨을\n빼앗아간다는 소문이 있다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "몸의 대부분이 바닷물과\n같은 성분으로 이루어져 있다.\n침몰선을 거처로 삼는다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "보름달이 뜨면 무리를 거느리고\n해수면에 모습을 드러낸다.\n먹이가 오기를 기다리는 것이다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "胖嘟嘟",
+    "genus": "漂浮寶可夢",
+    "flavorText": [
+      {
+        "game": "usum-us",
+        "text": "經常纏著豪華客輪\n或是油輪不放，\n目的是把獵物拖進海裡。"
+      },
+      {
+        "game": "usum-um",
+        "text": "漁夫們對牠十分恐懼。\n傳說中牠會把漁夫拖進海裡，\n奪走他們的性命。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "身體的絕大部分都由\n與海水相同的成分組成。\n會把沉船當成自己的城堡。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "每到滿月時，胖嘟嘟會\n成群結隊地來到海面上。\n這麼做是為了等待獵物上門。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Moyade",
+    "genus": "Pokémon Flottaison",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Les bateaux qui s’aventurent sur\nson territoire coulent, et Moyade\naspire l’énergie vitale des marins."
+      },
+      {
+        "game": "bw-w",
+        "text": "Il se déplace en projetant l’eau de mer\nqu’il accumule dans son corps. Son plat\npréféré est l’énergie vitale."
+      },
+      {
+        "game": "xy-x",
+        "text": "Il est presque entièrement fait d’eau de mer.\nOn dit qu’il vit dans un palais fait des épaves des\nbateaux qu’il a coulés."
+      },
+      {
+        "game": "xy-y",
+        "text": "Les bateaux qui s’aventurent sur son territoire\ncoulent, et Moyade aspire l’énergie vitale des marins."
+      },
+      {
+        "game": "oras-or",
+        "text": "Il est presque entièrement fait d’eau de mer. On dit qu’il vit\ndans un palais fait des épaves des bateaux qu’il a coulés."
+      },
+      {
+        "game": "oras-as",
+        "text": "Les bateaux qui s’aventurent sur son territoire coulent,\net Moyade aspire l’énergie vitale des marins."
+      },
+      {
+        "game": "usum-us",
+        "text": "On le trouve souvent près des bateaux de\ncroisière et des pétroliers, où il cherche\ndes proies à entraîner dans les abysses."
+      },
+      {
+        "game": "usum-um",
+        "text": "On raconte que ce Pokémon, redouté par\nles marins, ôte la vie de ses proies en les\nentraînant dans les abysses."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Son corps est composé presque entièrement\nd’une substance identique à l’eau de mer.\nLes épaves de navires sont ses bastions."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Les nuits de pleine lune, ils se réunissent\nà la surface de la mer pour attendre leurs proies."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Apoquallyp",
+    "genus": "Gleit-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Es heißt, am Meeresboden gebe es einen Palast\naus Schiffen, die es versenkt hat. Es besteht fast\nnur aus Meerwasser."
+      },
+      {
+        "game": "xy-y",
+        "text": "Dringt ein Schiff in sein Revier ein, bringt es dieses\nzum Kentern und saugt die Lebensenergie aus der\nBesatzung."
+      },
+      {
+        "game": "oras-or",
+        "text": "Es heißt, am Meeresboden gebe es einen Palast aus Schiffen,\ndie es versenkt hat. Es besteht fast nur aus Meerwasser."
+      },
+      {
+        "game": "oras-as",
+        "text": "Dringt ein Schiff in sein Revier ein, bringt es dieses zum\nKentern und saugt die Lebensenergie aus der Besatzung."
+      },
+      {
+        "game": "usum-us",
+        "text": "Dieses Pokémon schwimmt Kreuzfahrtschiffen\nund Tankern hinterher. Bei Gelegenheit zieht es\nBeute zu sich ins Meer."
+      },
+      {
+        "game": "usum-um",
+        "text": "Von Fischern wird es gefürchtet. Man sagt,\nes würde Menschen in die Tiefen des Meeres\nhinabzerren und ihnen das Leben rauben."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Sein Körper besteht zum größten Teil aus den\ngleichen Elementen wie Meerwasser. Es nutzt\nversunkene Schiffe als Basis."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Bei Vollmond treiben Apoquallyp in Schwärmen\nan die Meeresoberfläche und lauern dort ihrer\nBeute auf."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Jellicent",
+    "genus": "Pokémon Ingrávido",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Su cuerpo se compone de agua salada. Dicen que ha\nconstruido un palacio en el fondo del mar con restos\nde barcos."
+      },
+      {
+        "game": "xy-y",
+        "text": "Jellicent hunde los barcos que acaban perdidos en su\nterritorio y absorbe la energía vital de su tripulación."
+      },
+      {
+        "game": "oras-or",
+        "text": "Su cuerpo se compone de agua salada. Dicen que ha\nconstruido un palacio en el fondo del mar con restos de\nbarcos."
+      },
+      {
+        "game": "oras-as",
+        "text": "Jellicent hunde los barcos que acaban perdidos en su\nterritorio y absorbe la energía vital de su tripulación."
+      },
+      {
+        "game": "usum-us",
+        "text": "Se dedica a perseguir petroleros y cruceros, al\nacecho de presas que arrastrar al fondo del\nmar."
+      },
+      {
+        "game": "usum-um",
+        "text": "Corre el rumor de que este Pokémon, tan temido\npor los marineros, es capaz de arrastrar a su\npresa al fondo del mar."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Su cuerpo está compuesto en su mayor parte\nde agua salada. Crea su guarida con navíos\nhundidos."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Las noches de luna llena, bancos enteros de\nJellicent emergen a la superficie y aguardan la\nllegada de alguna presa incauta."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Jellicent",
+    "genus": "Pokémon Fluttuante",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "È composto per lo più d’acqua marina. Dicono che\nsi sia costruito un castello con i relitti delle navi che\nha affondato."
+      },
+      {
+        "game": "xy-y",
+        "text": "Affonda le sfortunate navi che si avventurano nel\nsuo territorio e consuma l’energia dell’equipaggio."
+      },
+      {
+        "game": "oras-or",
+        "text": "È composto per lo più d’acqua marina. Dicono che si sia\ncostruito un castello con i relitti delle navi che ha affondato."
+      },
+      {
+        "game": "oras-as",
+        "text": "Affonda le sfortunate navi che si avventurano nel suo territorio\ne consuma l’energia dell’equipaggio."
+      },
+      {
+        "game": "usum-us",
+        "text": "Lo si incontra spesso vicino a navi da crociera\ne petroliere in cerca di nuove prede da\ntrascinare via con sé."
+      },
+      {
+        "game": "usum-um",
+        "text": "È molto temuto dai pescatori.\nSi dice che trascini in mare le prede\nper rubarne l’energia vitale."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Il suo corpo è costituito per la maggior parte\ndagli stessi elementi che compongono l’acqua\nmarina. Si serve dei relitti delle navi come tana."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Nelle notti di luna piena emergono in massa,\nrendendosi visibili sulla superficie del mare,\nin attesa di prede."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Jellicent",
+    "genus": "Floating Pokémon",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "The fate of the ships and crew that\nwander into Jellicent’s habitat:\nall sunken, all lost, all vanished."
+      },
+      {
+        "game": "bw-w",
+        "text": "They propel themselves by expelling\nabsorbed seawater from their bodies.\nTheir favorite food is life energy."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "Its body is mostly seawater.\nIt’s said there’s a castle of ships\nJellicent have sunk on the seafloor."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "Its body is mostly seawater.\nIt’s said there’s a castle of ships\nJellicent have sunk on the seafloor."
+      },
+      {
+        "game": "xy-x",
+        "text": "Its body is mostly seawater. It’s said there’s a\ncastle of ships Jellicent have sunk on the seafloor."
+      },
+      {
+        "game": "xy-y",
+        "text": "The fate of the ships and crew that wander into\nJellicent’s habitat: all sunken, all lost, all vanished."
+      },
+      {
+        "game": "oras-or",
+        "text": "Its body is mostly seawater. It’s said there’s a\ncastle of ships Jellicent have sunk on the seafloor."
+      },
+      {
+        "game": "oras-as",
+        "text": "The fate of the ships and crew that wander into\nJellicent’s habitat: all sunken, all lost, all vanished."
+      },
+      {
+        "game": "usum-us",
+        "text": "Jellicent is always hanging around fancy cruise\nships and tankers, hoping to drag away its prey."
+      },
+      {
+        "game": "usum-um",
+        "text": "Fishermen are terrified of Jellicent.\nIt’s rumored to drag them into the sea\nand steal their lives away."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Most of this Pokémon’s body composition is\nidentical to sea water. It makes sunken ships\nits lair."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Whenever a full moon hangs in the night sky,\nschools of Jellicent gather near the surface of\nthe sea, waiting for their prey to appear."
+      }
+    ]
+  },
+  "chs": {
+    "name": "胖嘟嘟",
+    "genus": "漂浮宝可梦",
+    "flavorText": [
+      {
+        "game": "usum-us",
+        "text": "会缠着豪华客轮或是油轮周围，\n目的是将猎物拖进海里。"
+      },
+      {
+        "game": "usum-um",
+        "text": "它是令渔夫恐惧的存在。\n传说，它会将渔夫拖入海中，\n夺走对方的性命。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "身体的绝大部分都由\n与海水相同的成分组成。\n会把沉船当成自己的城堡。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "每到满月时，胖嘟嘟会\n成群结队地来到海面上。\n这么做是为了等待猎物上门。"
+      }
+    ]
+  }
+}

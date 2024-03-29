@@ -1,0 +1,549 @@
+{
+  "jap": {
+    "name": "アズマオウ",
+    "genus": "きんぎょポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "あきが　くると　さんらんの　ために\nながれに　さからって　ちからづよく\nかわを　およぐ　すがたが　みられる。"
+      },
+      {
+        "game": "xy-y",
+        "text": "あたまの　ツノで　かわぞこにある\nいわを　くりぬいて　すを　つくる。\nタマゴを　いのちがけで　まもる。"
+      },
+      {
+        "game": "oras-or",
+        "text": "あきに　なると　メスに　プロポーズする　ために\nかわぞこで　おどる　オスを　みることが　できる。\nからだの　いろが　もっとも　うつくしい　きせつ。"
+      },
+      {
+        "game": "oras-as",
+        "text": "タマゴを　まもるため　オスと　メスは　こうたいで\nすの　まわりを　およぎまわり　パトロールする。\nタマゴが　かえるまで　ひとつきいじょう　つづく。"
+      },
+      {
+        "game": "sm-s",
+        "text": "はだざむくなるころ　ぜんしんが\nくれないに　そまる。　そのすがたは\nあきを　かんじる　ふうぶつしだ。"
+      },
+      {
+        "game": "sm-m",
+        "text": "アズマオウマニアの　トレーナーは\nツノあいこうかと　ヒレあいこうかに\nわかれ　たがいの　なかは　わるい。"
+      },
+      {
+        "game": "usum-us",
+        "text": "ツノは　ドリルのように　かいてんして\nかたい　いわも　グングン　くりぬく。\nオスのほうが　あざやかな　いろあい。"
+      },
+      {
+        "game": "usum-um",
+        "text": "オスは　かわぞこで　おどって　メスに\nアピール。　１ばん　うつくしく\nまった　オスに　メスが　あつまる。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "あたまのツノで　かわぞこにある\nいわを　くりぬき　すを　つくるのは\nオスの　やくめ　だ。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "あたまのツノで　かわぞこにある\nいわを　くりぬき　すを　つくるのは\nオスの　やくめ　だ。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "あきになると　プロポーズのため\nからだに　あぶらが　のってきて\nとても　きれいないろに　へんかする。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "ツノで　かわぞこの　いわを　くりぬき\nすをつくるのは　うみつけた　タマゴが\nながされないように　するためだ。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Azumao",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "왕콘치",
+    "genus": "금붕어포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "가을이 오면 산란을 위해\n힘차게 강물을 거슬러 올라가며\n헤엄치는 모습을 볼 수 있다."
+      },
+      {
+        "game": "xy-y",
+        "text": "머리의 뿔로 강바닥에 있는\n돌을 파내어 둥지를 만든다.\n알을 목숨 걸고 지킨다."
+      },
+      {
+        "game": "oras-or",
+        "text": "가을이 되면 암컷에게 프러포즈하기 위해\n강바닥에서 춤추는 수컷을 볼 수 있다.\n몸의 색이 가장 아름다운 계절이다."
+      },
+      {
+        "game": "oras-as",
+        "text": "알을 지키기 위해서 수컷과 암컷은 교대로\n서식지 주변을 헤엄쳐 다니며 순찰한다.\n알이 부화할 때까지 한 달 이상 계속된다."
+      },
+      {
+        "game": "sm-s",
+        "text": "쌀쌀해질 무렵 전신이\n주홍색으로 물든다. 그 모습은\n가을을 느끼는 풍물시이다."
+      },
+      {
+        "game": "sm-m",
+        "text": "왕콘치 마니아인 트레이너는\n뿔 애호가와 지느러미 애호가로\n갈라져 서로 사이가 나쁘다."
+      },
+      {
+        "game": "usum-us",
+        "text": "뿔이 드릴처럼 회전하기 때문에\n단단한 바위도 쉽게 뚫는다.\n수컷이 선명한 색을 띤다."
+      },
+      {
+        "game": "usum-um",
+        "text": "수컷은 강바닥에서 춤을 추며\n암컷에게 어필한다. 가장 아름답게\n춤을 추는 수컷에게 암컷이 모여든다."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "머리의 뿔로 강바닥에 있는\n돌을 파내어 둥지를 만드는 것은\n수컷의 역할이다."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "머리의 뿔로 강바닥에 있는\n돌을 파내어 둥지를 만드는 것은\n수컷의 역할이다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "가을이 되면 짝짓기를 위해\n몸에 윤기가 돌게 되며\n매우 아름다운 색으로 변화한다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "뿔로 강바닥의 바위를 파헤쳐\n둥지를 만드는 이유는 낳은 알이\n떠내려가지 않도록 하기 위함이다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "金魚王",
+    "genus": "金魚寶可夢",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "天氣變涼的時候，全身就會\n暈染成鮮紅色。那樣子正如\n令人感覺到秋意的風景詩。"
+      },
+      {
+        "game": "sm-m",
+        "text": "狂熱愛好金魚王的訓練家\n分為角的愛好者和魚鰭的愛好者。\n兩者之間的關係很差。"
+      },
+      {
+        "game": "usum-us",
+        "text": "頭上的角會像鑽頭一樣旋轉，\n就連堅硬的岩石也能輕易貫穿。\n雄性的顏色比較鮮豔。"
+      },
+      {
+        "game": "usum-um",
+        "text": "雄性會在河底跳舞，藉此吸引\n雌性的目光。雌性會聚集到\n舞跳得最美的雄性身邊。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "雄性金魚王的職責是\n用頭上的角挖穿河底的\n石頭來建造巢穴。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "雄性金魚王的職責是\n用頭上的角挖穿河底的\n石頭來建造巢穴。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "到了秋天，體內的脂肪\n會因為要求偶而增加，\n體色也會變得非常漂亮。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "金魚王之所以會用角挖穿\n河底的岩石來築巢，是為了\n防止產下的卵被水流沖走。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Poissoroy",
+    "genus": "Pokémon Poisson",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "En automne, à la saison des amours,\nil fait des réserves de graisse et\narbore des couleurs chatoyantes."
+      },
+      {
+        "game": "bw-w",
+        "text": "En automne, à la saison des amours,\nil fait des réserves de graisse et\narbore des couleurs chatoyantes."
+      },
+      {
+        "game": "xy-x",
+        "text": "Pendant la saison des amours, on peut le voir nager\ndans les rivières et les lacs."
+      },
+      {
+        "game": "xy-y",
+        "text": "Il niche dans des rochers du ruisseau qu’il évide\navec sa corne. Il donnerait sa vie pour ses Œufs."
+      },
+      {
+        "game": "oras-or",
+        "text": "En automne, on peut voir les Poissoroy mâles effectuer des\ndanses nuptiales dans les rivières pour plaire aux femelles.\nC’est pendant cette saison que le corps de ce Pokémon\nprend ses plus belles couleurs."
+      },
+      {
+        "game": "oras-as",
+        "text": "Les Poissoroy font tout pour protéger leurs œufs.\nLes mâles et les femelles patrouillent pour surveiller le nid et\nles œufs. La garde de ces œufs dure un peu plus d’un mois."
+      },
+      {
+        "game": "sm-s",
+        "text": "Quand il commence à faire froid, son corps\ndevient rouge vif. Ce spectacle annonce\ntraditionnellement la venue de l’automne."
+      },
+      {
+        "game": "sm-m",
+        "text": "Il existe deux types de Dresseurs de Poissoroy :\nceux qui aiment sa corne et ceux qui préfèrent\nses nageoires. Les deux groupes se détestent."
+      },
+      {
+        "game": "usum-us",
+        "text": "Il peut forer des rocs en faisant tourner sa\ncorne comme une perceuse. Les mâles ont\ndes couleurs plus vives que les femelles."
+      },
+      {
+        "game": "usum-um",
+        "text": "Les mâles dansent devant les femelles pour\ns’attirer leurs faveurs ; les plus talentueux\ngagneront leur admiration."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Le mâle utilise la corne située sur son front\npour creuser un nid dans les rochers au fond\ndes rivières."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Le mâle utilise la corne située sur son front\npour creuser un nid dans les rochers au fond\ndes rivières."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "En automne, à la saison des amours, il fait\ndes réserves de graisse et arbore des couleurs\nchatoyantes."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "S’il fait des trous dans les rochers avec sa corne\npour bâtir son nid, c’est pour éviter que ses Œufs\nne soient emportés par les flots."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Golking",
+    "genus": "Goldfisch-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Im Herbst, zur Paarungszeit, sieht man diese\nPokémon kraftvoll Bäche und Flüsse hinaufschwimmen."
+      },
+      {
+        "game": "xy-y",
+        "text": "Es baut Nester, indem es Steine im Fluss mit seinem\nHorn aushöhlt. Es verteidigt seine Eier mit dem Leben."
+      },
+      {
+        "game": "oras-or",
+        "text": "Im Herbst kann man männliche Golking dabei beobachten,\nwie sie Balztänze in Flussbetten aufführen, um die weiblichen\nExemplare zu beeindrucken. Während dieser Zeit ist die Farbe\ndieser Pokémon am schönsten."
+      },
+      {
+        "game": "oras-as",
+        "text": "Golking gibt sehr viel acht auf seine Brut. Es patrouilliert um\nsein Nest und die Eier herum, wobei sich das männliche und\ndas weibliche Exemplar abwechseln. Das Bewachen der Eier\nbeschäftigt dieses Pokémon für über einen Monat."
+      },
+      {
+        "game": "sm-s",
+        "text": "Wenn es kälter wird, färbt sich sein ganzer\nKörper tiefrot. Dieser Anblick versetzt die\nLeute in Herbststimmung."
+      },
+      {
+        "game": "sm-m",
+        "text": "Golkings Fangemeinde spaltet sich in zwei\nLager, die sich gegenseitig nicht riechen können:\ndie Hornenthusiasten und die Flossenfans."
+      },
+      {
+        "game": "usum-us",
+        "text": "Sein Horn rotiert wie ein Bohrer und höhlt selbst\ndie härtesten Felsen aus. Männliche Golking\nerstrahlen in besonders prächtigen Farben."
+      },
+      {
+        "game": "usum-um",
+        "text": "Männliche Golking tanzen in Flussbetten, um die\nweiblichen Exemplare zu beeindrucken, die sich\ndann um den allerbesten Tänzer scharen."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Männliche Exemplare dieses Pokémon höhlen\nmit dem Horn an ihrem Kopf Steine im Flussbett\naus, um sich so ein Nest zu bauen."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Männliche Exemplare dieses Pokémon höhlen\nmit dem Horn an ihrem Kopf Steine im Flussbett\naus, um sich so ein Nest zu bauen."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Im Herbst legt es an Gewicht zu und erscheint\nin prächtigen Farben, um so einen Partner\nanzulocken."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Es laicht in Löchern, die es mit seinem Horn in\nFelsen des Flussbettes gebohrt hat, damit seine\nEier nicht vom Wasser fortgespült werden."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Seaking",
+    "genus": "Pokémon Pez Color",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "En otoño, cuando se reproducen, se les puede ver\nnadando con energía por ríos y arroyos."
+      },
+      {
+        "game": "xy-y",
+        "text": "Hace su nido en los agujeros que cava con el cuerno.\nDefiende sus huevos con su vida."
+      },
+      {
+        "game": "oras-or",
+        "text": "En otoño, se ven ejemplares de Seaking macho danzando en\nlas riberas de los ríos para cortejar a las hembras. En esta\népoca, la coloración de este Pokémon alcanza sus niveles\nmáximos de belleza."
+      },
+      {
+        "game": "oras-as",
+        "text": "Seaking protege sus huevos con uñas y dientes. Macho y\nhembra se turnan para vigilar el nido y los huevos. Este\nperíodo de protección dura más de un mes en el caso de\nestos Pokémon."
+      },
+      {
+        "game": "sm-s",
+        "text": "Cuando las temperaturas bajan mucho, su piel\nse torna de un color carmesí. Es una señal\ninequívoca de que se aproxima el otoño."
+      },
+      {
+        "game": "sm-m",
+        "text": "Los fanáticos de este Pokémon pueden dividirse\nen dos grupos: los que adoran sus aletas y los\nque adoran su cuerno. No se llevan nada bien."
+      },
+      {
+        "game": "usum-us",
+        "text": "Es capaz de pulverizar las rocas más duras\nhaciendo girar su cuerno a modo de taladro.\nLos machos presentan una coloración más viva."
+      },
+      {
+        "game": "usum-um",
+        "text": "Los machos ejecutan una coreografía en el\nlecho del río para ganarse la atención de las\nhembras, que acuden al mejor bailarín."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Los machos usan el cuerno de la cabeza para\nhoradar rocas en el lecho del río y construir allí\nsu nido."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Los machos usan el cuerno de la cabeza para\nhoradar rocas en el lecho del río y construir allí\nsu nido."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "En otoño gana algo de peso para atraer a\nposibles parejas y se cubre de llamativos colores."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Perfora las piedras del lecho del río con su\ncuerno para hacer un nido y que la corriente\nno arrastre sus huevos."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Seaking",
+    "genus": "Pokémon Pescerosso",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "In autunno, quando si riproduce, può essere visto\nrisalire impetuoso fiumi e torrenti."
+      },
+      {
+        "game": "xy-y",
+        "text": "Con il suo corno, perfora le rocce sul letto dei fiumi\nper farsi il nido. Difende le uova a costo della vita."
+      },
+      {
+        "game": "oras-or",
+        "text": "In autunno, i Seaking maschio sono soliti corteggiare le\nfemmine con particolari danze rituali. In questa stagione il\ncorpo di questi Pokémon assume una colorazione particolare."
+      },
+      {
+        "game": "oras-as",
+        "text": "Seaking protegge gelosamente le sue uova. Il maschio e\nla femmina si danno il cambio attorno alla tana e alle uova.\nLe uova vengono sorvegliate per oltre un mese."
+      },
+      {
+        "game": "sm-s",
+        "text": "Quando le giornate cominciano a rinfrescarsi,\nil suo corpo si tinge di rosso vivo, annunciando\ncosì l’inizio dell’autunno."
+      },
+      {
+        "game": "sm-m",
+        "text": "Gli appassionati di Seaking si dividono in due\ngruppi: gli estimatori del corno e gli amanti\ndelle pinne. Tra di loro non corre buon sangue."
+      },
+      {
+        "game": "usum-us",
+        "text": "Facendo girare il corno come la punta\ndi un trapano perfora anche la roccia.\nI maschi hanno colori più sgargianti."
+      },
+      {
+        "game": "usum-um",
+        "text": "I maschi danzano sul letto dei fiumi cercando\ndi attirare l’attenzione delle femmine, che si\nradunano attorno al miglior danzatore."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Il maschio di Seaking usa il corno che ha\nsulla testa per scavare il nido nelle rocce\nche si trovano sul letto dei fiumi."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Il maschio di Seaking usa il corno che ha\nsulla testa per scavare il nido nelle rocce\nche si trovano sul letto dei fiumi."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "In autunno ingrassa in previsione della stagione\ndegli amori e assume colori sgargianti."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Perfora con il suo corno le rocce sul letto dei\nfiumi, costruendo tane che proteggono le Uova\ndalla corrente."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Seaking",
+    "genus": "Goldfish Pokémon",
+    "flavorText": [
+      {
+        "game": "frlg-lg",
+        "text": "In the autumn spawning season, they can\nbe seen swimming powerfully up rivers and\ncreeks."
+      },
+      {
+        "game": "rb-r",
+        "text": "In the autumn\nspawning season,\nthey can be seen\fswimming power­\nfully up rivers\nand creeks."
+      },
+      {
+        "game": "rb-b",
+        "text": "In the autumn\nspawning season,\nthey can be seen\fswimming power­\nfully up rivers\nand creeks."
+      },
+      {
+        "game": "y",
+        "text": "It is the male's\njob to make a\nnest by carving\fout boulders in a\nstream using the\nhorn on its head."
+      },
+      {
+        "game": "gs-g",
+        "text": "During spawning\nseason, SEAKING\ngather from all\fover, coloring\nthe rivers a\nbrilliant red."
+      },
+      {
+        "game": "gs-s",
+        "text": "Using its horn, it\nbores holes in\nriverbed boulders,\fmaking nests to\nprevent its eggs\nfrom washing away."
+      },
+      {
+        "game": "c",
+        "text": "When autumn comes,\nthe males patrol\nthe area around\ftheir nests in\norder to protect\ntheir offspring."
+      },
+      {
+        "game": "rs-r",
+        "text": "In the autumn, SEAKING males can be\nseen performing courtship dances in\nriverbeds to woo females.\fDuring this season, this POKéMON’s body\ncoloration is at its most beautiful."
+      },
+      {
+        "game": "rs-s",
+        "text": "SEAKING is very protective of its eggs.\nThe male and female will take turns\npatrolling around their nest and eggs.\fThe guarding of eggs by these POKéMON\ngoes on for over a month."
+      },
+      {
+        "game": "e",
+        "text": "It punches holes in boulders on stream­\nbeds. This is a clever innovation that\nprevents its eggs from being attacked or\nwashed away by the current."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "The horn on its head is sharp like a\ndrill. It bores a hole in a boulder to\nmake its nest."
+      },
+      {
+        "game": "dp-d",
+        "text": "It makes its nest by hollowing out\nboulders in streams with its horn.\nIt defends its eggs with its life."
+      },
+      {
+        "game": "dp-p",
+        "text": "To protect its family, it will fight\nwith its drill-sharp horn. It lives\nin hollowed rocks in streams."
+      },
+      {
+        "game": "pt",
+        "text": "In autumn, its body becomes more\nfatty in preparing to propose to a\nmate. It takes on beautiful colors."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "During spawning season, SEAKING\ngather from all over, causing rivers to\nappear a brilliant red."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "Using its horn, it bores holes in\nriverbed boulders, making nests to\nprevent its eggs from washing away."
+      },
+      {
+        "game": "bw-b",
+        "text": "In autumn, its body becomes more\nfatty in preparing to propose to a\nmate. It takes on beautiful colors."
+      },
+      {
+        "game": "bw-w",
+        "text": "In autumn, its body becomes more\nfatty in preparing to propose to a\nmate. It takes on beautiful colors."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "In autumn, its body becomes more\nfatty in preparing to propose to a\nmate. It takes on beautiful colors."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "In autumn, its body becomes more\nfatty in preparing to propose to a\nmate. It takes on beautiful colors."
+      },
+      {
+        "game": "xy-x",
+        "text": "In the autumn spawning season, they can be seen\nswimming powerfully up rivers and creeks."
+      },
+      {
+        "game": "xy-y",
+        "text": "It makes its nest by hollowing out boulders in\nstreams with its horn. It defends its eggs with\nits life."
+      },
+      {
+        "game": "oras-or",
+        "text": "In the autumn, Seaking males can be seen performing\ncourtship dances in riverbeds to woo females. During this\nseason, this Pokémon’s body coloration is at its most beautiful."
+      },
+      {
+        "game": "oras-as",
+        "text": "Seaking is very protective of its eggs. The male and female\nwill take turns patrolling around their nest and eggs. The\nguarding of eggs by these Pokémon goes on for over a month."
+      },
+      {
+        "game": "sm-s",
+        "text": "When the weather grows cold, its whole body\nflushes a deep red. This sight serves as a\npoetic reminder that autumn has arrived."
+      },
+      {
+        "game": "sm-m",
+        "text": "Trainers who are crazy for Seaking are divided\ninto horn enthusiasts and fin enthusiasts.\nThe two groups do not get along well."
+      },
+      {
+        "game": "usum-us",
+        "text": "Its horn spins like a drill to steadily hollow out\nrocks—even harder ones. The coloration of the\nmale is more vivid."
+      },
+      {
+        "game": "usum-um",
+        "text": "To attract females, males dance on the river’s\nfloor. The females gather around the male that\ndances most gracefully."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "It is the male’s job to make a nest by carving out\nboulders in a stream using the horn on its head."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "It is the male’s job to make a nest by carving out\nboulders in a stream using the horn on its head."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "In autumn, its body becomes more fatty in\npreparing to propose to a mate. It takes on\nbeautiful colors."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Using its horn, it bores holes in riverbed\nboulders, making nests to prevent its eggs from\nwashing away."
+      }
+    ]
+  },
+  "chs": {
+    "name": "金鱼王",
+    "genus": "金鱼宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "凉飕飕的时候，全身就会\n晕染成鲜红色。那样子正如\n令人感觉到秋意的风景诗。"
+      },
+      {
+        "game": "sm-m",
+        "text": "狂热爱好金鱼王的训练家\n分为角的爱好者和鱼鳍的爱好者。\n相互之间的关系很差。"
+      },
+      {
+        "game": "usum-us",
+        "text": "头上的角会像钻头一样旋转，\n即便是坚硬的岩石也能一下子贯穿。\n雄性有着鲜艳的颜色。"
+      },
+      {
+        "game": "usum-um",
+        "text": "雄性会在河底跳舞并以此来吸引雌性。\n雌性会聚集到跳得最美的雄性身边。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "雄性的职责是\n用头上的角打穿\n河里的石头筑巢。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "雄性的职责是\n用头上的角打穿\n河里的石头筑巢。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "到了秋天，体内的脂肪\n会因为要去求偶而增加，\n颜色也会变得非常漂亮。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "金鱼王之所以会用角挖穿\n河底的岩石来筑巢，是为了\n防止产下的卵被水流冲走。"
+      }
+    ]
+  }
+}

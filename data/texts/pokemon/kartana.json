@@ -1,0 +1,205 @@
+{
+  "jap": {
+    "name": "カミツルギ",
+    "genus": "ばっとうポケモン",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "ウルトラホールから　あらわれた　ＵＢ。\nみずから　てきを　おそわないようだが\nするどい　ぜんしんは　きょうきだ。"
+      },
+      {
+        "game": "sm-m",
+        "text": "きょだいな　てっとうを　いっとうの\nもとに　きりすてる　すがたが\nもくげきされた　ビーストの　いっしゅ。"
+      },
+      {
+        "game": "usum-us",
+        "text": "かみの　ように　うすい　からだ　から\nとがれた　かたなに　にた　するどさを\nかんじる　ウルトラビーストだ。"
+      },
+      {
+        "game": "usum-um",
+        "text": "このせかいでは　いしつで　きけんだが\nほんらい　すんでいる　せかいでは\nふつうに　みかける　せいぶつらしい。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Kamiturugi",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "종이신도",
+    "genus": "발도포켓몬",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "울트라홀에서 나타난 UB이다.\n스스로 적을 덮치진 않지만\n온몸이 날카로운 흉기다."
+      },
+      {
+        "game": "sm-m",
+        "text": "거대한 철탑을 단번에\n베어 버리는 모습이\n목격된 비스트의 일종."
+      },
+      {
+        "game": "usum-us",
+        "text": "종이와 같은 얇은 몸에서\n연마한 칼 같은 예리함이\n느껴지는 울트라비스트다."
+      },
+      {
+        "game": "usum-um",
+        "text": "이 세계와는 성질이 다르고\n위험하지만 원래 살던 세계에서는\n흔히 볼 수 있는 생물인 듯하다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "紙御劍",
+    "genus": "拔刀寶可夢",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "來自究極之洞的ＵＢ。\n本身不會主動襲擊敵人，\n但是銳利的全身就是兇器。"
+      },
+      {
+        "game": "sm-m",
+        "text": "被目擊到了一刀\n將巨大鐵塔切斷的樣子。\n是究極異獸的一種。"
+      },
+      {
+        "game": "usum-us",
+        "text": "從這種究極異獸像紙一樣\n薄的身體上，可以感受到\n如同研磨過的刀刃般的鋒利度。"
+      },
+      {
+        "game": "usum-um",
+        "text": "在這個世界是危險的異類，\n但牠在原本棲息的世界裡\n似乎是隨處可見的普通生物。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Katagami",
+    "genus": "Pokémon Battô",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "Une Ultra-Chimère venue de l’Ultra-Brèche.\nElle ne semble pas agressive, bien que son\ncorps tout entier soit une arme tranchante."
+      },
+      {
+        "game": "sm-m",
+        "text": "Une espèce d’Ultra-Chimère. On l’aurait aperçue\ncoupant un pylône métallique en deux d’un seul\ntranchant."
+      },
+      {
+        "game": "usum-us",
+        "text": "Le corps de cette Ultra-Chimère semble fin\ncomme du papier, mais il est aussi tranchant\nqu’un sabre affûté."
+      },
+      {
+        "game": "usum-um",
+        "text": "Cette créature venue d’ailleurs est dangereuse\ndans notre monde, mais il semblerait qu’elle soit\ntrès commune dans le sien."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Katagami",
+    "genus": "Schwertkunst-Pokémon",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "Eine Ultrabestie, die zwar nicht von sich aus\nanzugreifen scheint, deren rasiermesserscharfer\nKörper aber eine gefährliche Waffe darstellt."
+      },
+      {
+        "game": "sm-m",
+        "text": "Diese Ultrabestie wurde dabei beobachtet,\nwie sie einen riesigen stählernen Turm mit nur\neinem Hieb ihrer Klingen zerteilte."
+      },
+      {
+        "game": "usum-us",
+        "text": "Der Körper dieser Ultrabestie ist dünn wie\nPapier und so scharfkantig wie eine\ngeschliffene Klinge."
+      },
+      {
+        "game": "usum-um",
+        "text": "In dieser Welt wirkt sein Aussehen gefährlich\nund fremdartig, doch in seiner ursprünglichen\nWelt ist es ein ganz gewöhnliches Lebewesen."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Kartana",
+    "genus": "Pokémon Desenvaine",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "Este Ultraente surgió de un Ultraumbral. Se dice\nque no es muy agresivo, pero su afilado cuerpo\nes un arma realmente peligrosa."
+      },
+      {
+        "game": "sm-m",
+        "text": "Varios testigos han observado como este\nUltraente cortaba en dos una enorme torre de\nacero como si fuera mantequilla."
+      },
+      {
+        "game": "usum-us",
+        "text": "El cuerpo de este Ultraente es fino como el\npapel y tan cortante como una espada recién\nafilada."
+      },
+      {
+        "game": "usum-um",
+        "text": "Para los seres de este mundo resulta extraño\ny peligroso, pero en el mundo del que procede\nes una criatura muy común."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Kartana",
+    "genus": "Pokémon Spadatratta",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "Un’Ultracreatura arrivata attraverso un\nUltravarco. Non attacca di propria iniziativa,\nma il suo corpo affilato è un’arma letale."
+      },
+      {
+        "game": "sm-m",
+        "text": "Questa Ultracreatura è stata vista tagliare\nin due un traliccio dell’alta tensione con un\nsolo colpo."
+      },
+      {
+        "game": "usum-us",
+        "text": "Ultracreatura dal corpo sottile come un foglio\ndi carta e affilato come la lama di una spada."
+      },
+      {
+        "game": "usum-um",
+        "text": "Nel nostro mondo il suo aspetto appare strano\ne minaccioso, ma sembra che in quello da cui\nproviene sia una creatura molto comune."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Kartana",
+    "genus": "Drawn Sword Pokémon",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "This Ultra Beast came from the Ultra Wormhole.\nIt seems not to attack enemies on its own, but\nits sharp body is a dangerous weapon in itself."
+      },
+      {
+        "game": "sm-m",
+        "text": "One of the Ultra Beast life-forms, it was\nobserved cutting down a gigantic steel tower\nwith one stroke of its blade."
+      },
+      {
+        "game": "usum-us",
+        "text": "This Ultra Beast’s body, which is as thin as\npaper, is like a sharpened sword."
+      },
+      {
+        "game": "usum-um",
+        "text": "Although it’s alien to this world and a danger\nhere, it’s apparently a common organism in the\nworld where it normally lives."
+      }
+    ]
+  },
+  "chs": {
+    "name": "纸御剑",
+    "genus": "拔刀宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "从究极之洞出现的究极异兽。\n本身并不打算恐吓敌人，\n但是锐利的全身就是凶器。"
+      },
+      {
+        "game": "sm-m",
+        "text": "有人目击到了它\n一刀将巨大的铁搭切掉的样子。\n是究极异兽的一种。"
+      },
+      {
+        "game": "usum-us",
+        "text": "从纸一样薄的身体上能感觉到\n像磨过的刀刃一般的锋利度。\n是一种究极异兽。"
+      },
+      {
+        "game": "usum-um",
+        "text": "在这个世界是异类，很危险，\n但在它原本栖息的世界，\n好像只是寻常能见的生物。"
+      }
+    ]
+  }
+}

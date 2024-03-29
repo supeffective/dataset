@@ -1,0 +1,453 @@
+{
+  "jap": {
+    "name": "ホエルコ",
+    "genus": "たまくじらポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "ボールの　ように　はずんで　あそぶ。\nたくさん　かいすいを　のみこむ　ほど\nたかく　はずむ　ように　なるのだ。"
+      },
+      {
+        "game": "xy-y",
+        "text": "まいにち　１トンの　エサをたべる。\nはなから　ためこんだ　かいすいを\nいきおいよく　ふきだして　あそぶ。"
+      },
+      {
+        "game": "oras-or",
+        "text": "めの　うえに　ついている　はなの　あなから\nからだに　ためた　かいすいを　ふきだし\nひとを　おどろかすのが　だいすきな　ポケモンだ。"
+      },
+      {
+        "game": "oras-as",
+        "text": "からだに　かいすいを　ためると　ボールの　ように\nじめんで　とびはねることが　できるように　なる。\nたくさん　ためると　たかく　ジャンプできる。"
+      },
+      {
+        "game": "sm-s",
+        "text": "ひとを　おどろかせるのが　すき。\nかいすいを　のみこんで　ボールの\nように　ふくらみ　はずんで　あそぶ。"
+      },
+      {
+        "game": "sm-m",
+        "text": "のみこんだ　かいすいを　めの　うえの\nはなの　あなから　ふきだし　アピール。\nまいにち　１トンの　ヨワシを　くう。"
+      },
+      {
+        "game": "usum-us",
+        "text": "くちを　ひらいたまま　およいで\nかいすいごと　エサをくう。　いらない\nみずは　はなから　ふきだし　すてる。"
+      },
+      {
+        "game": "usum-um",
+        "text": "ごくごく　まれに　むれが　すなはまに\nうちあがるのは　おおむかし　りくに\nすんでいた　なごりと　いわれている。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "のみこんだ　かいすいを　めの　うえの\nはなの　あなから　ふきだし　アピール。\nまいにち　１トンの　ヨワシを　くう。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "かいすいを　たくさん　のみこむと\nからだが　ボールの　ように　はずむ。\nまいにち　１トンの　エサを　たべる。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Whalko",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "고래왕자",
+    "genus": "둥근고래포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "공처럼 튀면서 논다.\n해수를 많이 마실수록\n높이 튀게 된다."
+      },
+      {
+        "game": "xy-y",
+        "text": "매일 1톤의 먹이를 먹는다.\n코에서 모은 해수를\n기세 좋게 내뿜으며 논다."
+      },
+      {
+        "game": "oras-or",
+        "text": "눈 위에 있는 콧구멍을 통해\n몸에 모아둔 바닷물을 뿜어내서\n사람을 놀라게 하는 것을 좋아하는 포켓몬이다."
+      },
+      {
+        "game": "oras-as",
+        "text": "몸에 바닷물을 저장하면 공처럼\n땅에서 튀어 오를 수 있게 된다.\n많이 저장하면 더 높이 점프할 수 있다."
+      },
+      {
+        "game": "sm-s",
+        "text": "사람을 놀라게 하는 것을 좋아한다.\n해수를 삼켜서 공처럼\n몸을 부풀려 튀면서 논다."
+      },
+      {
+        "game": "sm-m",
+        "text": "들이마신 바닷물을 눈 위의\n콧구멍으로 뿜어내어 어필한다.\n매일 1톤의 약어리를 먹는다."
+      },
+      {
+        "game": "usum-us",
+        "text": "입을 열고 헤엄쳐서\n해수와 함께 먹이를 먹는다.\n필요없는 물은 코로 내뿜는다."
+      },
+      {
+        "game": "usum-um",
+        "text": "매우 드물게 무리가 모래 해변에\n올라오는 것은 먼 옛날 육지에\n살았던 기억 때문이라고 전해진다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "들이마신 바닷물을 눈 위의\n콧구멍으로 뿜어내어 어필한다.\n매일 1톤의 약어리를 먹는다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "바닷물을 많이 마시면\n몸이 공처럼 튄다.\n매일 1톤의 먹이를 먹는다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "吼吼鯨",
+    "genus": "球鯨寶可夢",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "很喜歡嚇人。\n會喝海水把肚子撐得\n跟球一樣來玩彈跳遊戲。"
+      },
+      {
+        "game": "sm-m",
+        "text": "把喝入的海水從眼睛上方的\n鼻孔中噴出來吸引他人。\n每天要吃１噸弱丁魚。"
+      },
+      {
+        "game": "usum-us",
+        "text": "會張著嘴巴游泳，\n把食物連同海水一起吃下去。\n不要的水會從鼻子噴出去捨棄掉。"
+      },
+      {
+        "game": "usum-um",
+        "text": "在極少數情況下，吼吼鯨的群體\n會衝上沙灘。據說這是源自牠們在\n遠古時代棲息於陸地上的習性。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "把喝入的海水從眼睛上方的\n鼻孔中噴出來吸引他人。\n每天要吃１噸弱丁魚。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "喝入大量的海水之後，\n身體會鼓成像球一樣。\n每天要吃掉１噸的食物。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Wailmer",
+    "genus": "Pokémon Baleinboule",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Par beau temps, il se pose sur les\nplages pour jouer et rebondir. Il\nexpulse de l’eau par son évent."
+      },
+      {
+        "game": "bw-w",
+        "text": "Par beau temps, il se pose sur les\nplages pour jouer et rebondir. Il\nexpulse de l’eau par son évent."
+      },
+      {
+        "game": "xy-x",
+        "text": "Il rebondit comme un ballon pour s’amuser.\nPlus il boit d’eau, plus il va haut."
+      },
+      {
+        "game": "xy-y",
+        "text": "Il mange près d’une tonne de nourriture par jour.\nJouer avec son jet d’eau est son passe-temps favori."
+      },
+      {
+        "game": "oras-or",
+        "text": "Les narines de Wailmer sont situées au-dessus de ses yeux.\nCe joyeux Pokémon adore effrayer les gens en expulsant\nde l’eau de mer par les narines."
+      },
+      {
+        "game": "oras-as",
+        "text": "Wailmer peut stocker de l’eau dans son corps pour se\ntransformer en balle et rebondir sur le sol. Plus ce Pokémon\nse remplit d’eau, plus il peut rebondir haut."
+      },
+      {
+        "game": "sm-s",
+        "text": "Très joueur, il adore faire des blagues.\nIl engloutit des litres d’eau de mer et enfle\ncomme une baudruche, pour mieux rebondir."
+      },
+      {
+        "game": "sm-m",
+        "text": "Il recrache l’eau avalée par son évent, c’est\nce qui le rend si charmant. Il gobe une tonne\nde Froussardine par jour."
+      },
+      {
+        "game": "usum-us",
+        "text": "Pour se nourrir, il nage en gardant la bouche\ngrande ouverte, et recrache l’eau dont il n’a\npas besoin par son évent."
+      },
+      {
+        "game": "usum-um",
+        "text": "On raconte que ce Pokémon habitait jadis\nsur terre. En de rares occasions, on peut en\nvoir se regrouper sur les plages."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Il aime faire le beau en recrachant par son évent\nl’eau qu’il a avalée.\nIl gobe une tonne de Froussardine chaque jour."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Il ressemble à un énorme ballon quand il avale\nde très grandes quantités d’eau de mer.\nIl dévore une tonne de nourriture par jour."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Wailmer",
+    "genus": "Kugelwal-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Es hüpft gerne wie ein Ball herum. Je mehr\nMeerwasser es trinkt, desto höher kann es springen."
+      },
+      {
+        "game": "xy-y",
+        "text": "Es nimmt täglich 1 t an Nahrung auf und lässt verspielt\nWasserfontänen aus seinem Atemloch aufschießen."
+      },
+      {
+        "game": "oras-or",
+        "text": "Wailmers Nasenlöcher liegen über seinen Augen. Dieses\nverspielte Pokémon erschreckt gern Menschen, indem\nes das Meerwasser, das es in seinem Körper speichert,\nmit aller Kraft herausprustet."
+      },
+      {
+        "game": "oras-as",
+        "text": "Wailmer kann Wasser in seinem Körper speichern,\num sich in einen Ball zu verwandeln und herumzuhüpfen.\nWenn es die Wassermenge steigert, kann dieses Pokémon\nnoch höher hüpfen."
+      },
+      {
+        "game": "sm-s",
+        "text": "Wailmer liebt es, Menschen zu erschrecken.\nEs trinkt so viel Meerwasser, dass es sich in\neinen Ball verwandeln und herumhüpfen kann."
+      },
+      {
+        "game": "sm-m",
+        "text": "Es prustet Meerwasser aus den über seinen\nAugen liegenden Nasenlöchern hinaus.\nAußerdem frisst es täglich eine Tonne Lusardin."
+      },
+      {
+        "game": "usum-us",
+        "text": "Es schwimmt mit offenem Maul und nimmt mit\ndem Wasser sein Futter auf. Überschüssiges\nWasser stößt es durch seine Nasenlöcher aus."
+      },
+      {
+        "game": "usum-um",
+        "text": "Als Überbleibsel ihres einstigen Lebens an Land\ndeutet man den Umstand, dass Wailmer ab und\nan auch heute noch Strände aufsuchen."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Es prustet Meerwasser aus den Nasenlöchern,\ndie über seinen Augen liegen. Außerdem frisst\nes täglich eine Tonne Lusardin."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Verschluckt es eine große Menge Meerwasser,\nwird sein Körper elastisch wie ein Ball. Es frisst\ntäglich eine Tonne Nahrung."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Wailmer",
+    "genus": "Pokémon Ballenabola",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Le gusta botar como una pelota de playa. Cuanta más\nagua de mar traga, más alto puede llegar."
+      },
+      {
+        "game": "xy-y",
+        "text": "Engulle una tonelada de comida al día. Le gusta\njugar expulsando con energía el agua marina por\nsus espiráculos."
+      },
+      {
+        "game": "oras-or",
+        "text": "Wailmer tiene los espiráculos encima de la cabeza. A este\njuguetón Pokémon le encanta asustar a la gente expulsando\nel agua que acumula a través de estos orificios."
+      },
+      {
+        "game": "oras-as",
+        "text": "Wailmer puede almacenar agua dentro de su organismo para\nconvertirse en una pelota y botar por tierra firme. Cuanta más\nagua trague, mayor altura alcanzará al saltar."
+      },
+      {
+        "game": "sm-s",
+        "text": "A este Pokémon le gusta dar sustos a la gente.\nSe divierte tragando mucha agua de mar para\nhincharse como una bola y dar grandes saltos."
+      },
+      {
+        "game": "sm-m",
+        "text": "Wailmer se come una tonelada de Wishiwashi\ncada día. Le gusta llamar la atención expulsando\nchorros de agua marina por su espiráculo."
+      },
+      {
+        "game": "usum-us",
+        "text": "Nada con la boca abierta para engullir alimento\ny cantidades ingentes de agua de mar, cuyo\nexceso expulsa luego por el espiráculo."
+      },
+      {
+        "game": "usum-um",
+        "text": "En raras ocasiones, bancos enteros quedan\nvarados en la playa, tal vez debido a que en un\npasado vivía en tierra firme."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Wailmer se come una tonelada de Wishiwashi\ncada día. Le gusta llamar la atención expulsando\nchorros de agua marina por su espiráculo."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Cuando traga una gran cantidad de agua marina,\nse hincha hasta parecer una pelota. Necesita una\ntonelada de alimento al día."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Wailmer",
+    "genus": "Pokémon Balenottero",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Si diverte a rimbalzare come una palla. Più acqua di\nmare ingolla, più in alto riesce a rimbalzare."
+      },
+      {
+        "game": "xy-y",
+        "text": "Mangia una tonnellata di cibo al giorno. Si diverte a\nspruzzare con forza l’acqua marina attraverso il suo\nsfiatatoio."
+      },
+      {
+        "game": "oras-or",
+        "text": "Le narici di Wailmer sono posizionate sopra gli occhi.\nÈ un giocherellone e ama spaventare le persone sparando\ndalle narici l’acqua del mare, che accumula all’interno\ndel proprio corpo."
+      },
+      {
+        "game": "oras-as",
+        "text": "Wailmer accumula acqua all’interno del proprio corpo per\ntrasformarsi in un pallone e rimbalzare al suolo. Questo\nPokémon aumenta l’altezza del balzo incrementando\nla quantità d’acqua con cui si gonfia."
+      },
+      {
+        "game": "sm-s",
+        "text": "Si diverte a spaventare la gente.\nAma gonfiarsi riempiendosi d’acqua e rimbalzare\nqua e là."
+      },
+      {
+        "game": "sm-m",
+        "text": "Gioca spruzzando l’acqua di mare dalle narici\nsituate sopra gli occhi.\nMangia una tonnellata di Wishiwashi al giorno."
+      },
+      {
+        "game": "usum-us",
+        "text": "Nuota con la bocca aperta, ingoiando cibo e\nacqua marina, poi espelle l’acqua in eccesso\nspruzzandola dallo sfiatatoio."
+      },
+      {
+        "game": "usum-um",
+        "text": "Molto raramente si possono vedere gruppi\ndi questi Pokémon adagiati a riva, segno che\nin tempi antichi vivevano sulla terraferma."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Gioca spruzzando l’acqua di mare dalle narici\nsituate sopra gli occhi. Mangia una tonnellata\ndi Wishiwashi al giorno."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Se inghiotte molta acqua diventa una specie\ndi palla rimbalzante. Ha bisogno di una\ntonnellata di cibo al giorno."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Wailmer",
+    "genus": "Ball Whale Pokémon",
+    "flavorText": [
+      {
+        "game": "rs-r",
+        "text": "WAILMER’s nostrils are located above\nits eyes. This playful POKéMON loves\nto startle people by forcefully snorting\fout seawater it stores inside its body\nout of its nostrils."
+      },
+      {
+        "game": "rs-s",
+        "text": "WAILMER can store water inside its body\nto transform itself into a ball for\nbouncing around on the ground.\fBy filling itself up with more water, this\nPOKéMON can elevate the height of its\nbounces."
+      },
+      {
+        "game": "e",
+        "text": "While this POKéMON usually lives in the sea,\nit can survive on land, although not too\nlong. It loses vitality if its body becomes\ndried out."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "When it sucks in a large volume of\nseawater, it becomes like a big, bouncy\nball. It eats a ton of food daily."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "When it sucks in a large volume of\nseawater, it becomes like a big, bouncy\nball. It eats a ton of food daily."
+      },
+      {
+        "game": "dp-d",
+        "text": "On sunny days, it lands on beaches\nto bounce like a ball and play.\nIt spouts water from its nose."
+      },
+      {
+        "game": "dp-p",
+        "text": "On sunny days, it lands on beaches\nto bounce like a ball and play.\nIt spouts water from its nose."
+      },
+      {
+        "game": "pt",
+        "text": "On sunny days, it lands on beaches\nto bounce like a ball and play.\nIt spouts water from its nose."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "It bounces playfully like a ball.\nThe more seawater it swallows,\nthe higher it bounces."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "It bounces playfully like a ball.\nThe more seawater it swallows,\nthe higher it bounces."
+      },
+      {
+        "game": "bw-b",
+        "text": "On sunny days, it lands on beaches\nto bounce like a ball and play.\nIt spouts water from its nose."
+      },
+      {
+        "game": "bw-w",
+        "text": "On sunny days, it lands on beaches\nto bounce like a ball and play.\nIt spouts water from its nose."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "It eats one ton of food every day.\nIt plays by shooting stored seawater\nout its blowholes with great force."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "It eats one ton of food every day.\nIt plays by shooting stored seawater\nout its blowholes with great force."
+      },
+      {
+        "game": "xy-x",
+        "text": "It bounces playfully like a ball. The more seawater\nit swallows, the higher it bounces."
+      },
+      {
+        "game": "xy-y",
+        "text": "It eats one ton of food every day. It plays by\nshooting stored seawater out its blowholes with\ngreat force."
+      },
+      {
+        "game": "oras-or",
+        "text": "Wailmer’s nostrils are located above its eyes. This playful\nPokémon loves to startle people by forcefully snorting out\nseawater it stores inside its body out of its nostrils."
+      },
+      {
+        "game": "oras-as",
+        "text": "Wailmer can store water inside its body to transform itself\ninto a ball for bouncing around on the ground. By filling itself\nup with more water, this Pokémon can elevate the height of\nits bounces."
+      },
+      {
+        "game": "sm-s",
+        "text": "It loves to startle people. It fills itself up with\nseawater and plays by bouncing around like\na ball."
+      },
+      {
+        "game": "sm-m",
+        "text": "It shows off by spraying jets of seawater from\nthe nostrils above its eyes. It eats a solid ton of\nWishiwashi every day."
+      },
+      {
+        "game": "usum-us",
+        "text": "It swims along with its mouth open and\nswallows down seawater along with its food.\nIt sprays excess water out of its nostrils."
+      },
+      {
+        "game": "usum-um",
+        "text": "Due to their memories of when they once lived\non land, pods of them will, very rarely, wash up\non shore."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "It shows off by spraying jets of seawater from\nthe nostrils above its eyes. It eats a solid ton of\nWishiwashi every day."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "When it sucks in a large volume of seawater,\nit becomes like a big, bouncy ball. It eats a ton\nof food daily."
+      }
+    ]
+  },
+  "chs": {
+    "name": "吼吼鲸",
+    "genus": "球鲸宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "喜欢吓人。\n喝入海水鼓成球一样，\n弹跳着玩。"
+      },
+      {
+        "game": "sm-m",
+        "text": "把喝入的海水从眼睛上方的\n鼻孔中喷出来吸引他人。\n每天要吃１吨弱丁鱼。"
+      },
+      {
+        "game": "usum-us",
+        "text": "会张着嘴游泳，\n将食物连同海水一起吃下去。\n不要的水会从鼻子里喷出来舍弃。"
+      },
+      {
+        "game": "usum-um",
+        "text": "在极其偶然的情况下它们会群体\n冲上沙滩，据说这是源自它们\n远古时代居住在陆地时的习性。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "把喝入的海水从眼睛上方的\n鼻孔中喷出来吸引他人。\n每天要吃１吨弱丁鱼。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "喝入大量的海水之后，\n身体会鼓成像球一样。\n每天要吃掉１吨的食物。"
+      }
+    ]
+  }
+}

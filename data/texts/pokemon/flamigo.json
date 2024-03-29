@@ -1,0 +1,61 @@
+{
+  "jap": {
+    "name": "カラミンゴ",
+    "genus": "シンクロポケモン",
+    "flavorText": []
+  },
+  "jap_ro": {
+    "name": "Karamingo",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "꼬이밍고",
+    "genus": "",
+    "flavorText": []
+  },
+  "cht": {
+    "name": "纏紅鶴",
+    "genus": "同步寶可夢",
+    "flavorText": []
+  },
+  "fra": {
+    "name": "Flamenroule",
+    "genus": "",
+    "flavorText": []
+  },
+  "deu": {
+    "name": "Flaminkno",
+    "genus": "Synchron",
+    "flavorText": []
+  },
+  "esp": {
+    "name": "Flamigo",
+    "genus": "",
+    "flavorText": []
+  },
+  "ita": {
+    "name": "Flamigo",
+    "genus": "",
+    "flavorText": []
+  },
+  "eng": {
+    "name": "Flamigo",
+    "genus": "Synchronize Pokémon",
+    "flavorText": [
+      {
+        "game": "sv-s",
+        "text": "This Pokémon apparently ties the base of its neck into a knot so that energy stored in its belly does not escape from its beak."
+      },
+      {
+        "game": "sv-v",
+        "text": "Thanks to a behavior of theirs known as “synchronizing,” an entire flock of these Pokémon can attack simultaneously in perfect harmony."
+      }
+    ]
+  },
+  "chs": {
+    "name": "纏红鹤",
+    "genus": "同步宝可梦",
+    "flavorText": []
+  }
+}

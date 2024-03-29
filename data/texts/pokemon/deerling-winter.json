@@ -1,0 +1,195 @@
+{
+  "jap": {
+    "name": "シキジカ",
+    "genus": "きせつポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "きせつが　かわったとき　だけでなく\nきおんや　しつどに　よっても\nからだのいろは　すこし　へんかする。"
+      },
+      {
+        "game": "xy-y",
+        "text": "きせつの　かわりめに　なると\nたいもうと　においが　へんかする。\nきせつを　つげる　ポケモン。"
+      },
+      {
+        "game": "oras-or",
+        "text": "きせつが　かわったとき　だけでなく\nきおんや　しつどに　よっても\nからだのいろは　すこし　へんかする。"
+      },
+      {
+        "game": "oras-as",
+        "text": "きせつの　かわりめに　なると\nたいもうと　においが　へんかする。\nきせつを　つげる　ポケモン。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Shikijika",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "사철록",
+    "genus": "계절포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "계절이 바뀌었을 때뿐 아니라\n기온이나 습도에 따라서도\n몸의 색깔은 조금 변한다."
+      },
+      {
+        "game": "xy-y",
+        "text": "계절이 바뀌는 시기가 되면\n털과 냄새가 변화한다.\n계절을 알리는 포켓몬이다."
+      },
+      {
+        "game": "oras-or",
+        "text": "계절이 바뀌었을 때뿐 아니라\n기온이나 습도에 따라서도\n몸의 색깔은 조금 변한다."
+      },
+      {
+        "game": "oras-as",
+        "text": "계절이 바뀌는 시기가 되면\n털과 냄새가 변화한다.\n계절을 알리는 포켓몬이다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "四季鹿",
+    "genus": "季節寶可夢",
+    "flavorText": []
+  },
+  "fra": {
+    "name": "Vivaldaim",
+    "genus": "Pokémon Saison",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Son pelage prend la même couleur et la\nmême odeur que les hautes herbes. S’il\nsent un ennemi, il court s’y réfugier."
+      },
+      {
+        "game": "bw-w",
+        "text": "Quand la saison change, il change de\npelage et d’odeur. Un Pokémon qui\nannonce le passage des saisons."
+      },
+      {
+        "game": "xy-x",
+        "text": "Son pelage change selon la saison, et dans une\nmoindre mesure en fonction de l’humidité et de la\ntempérature."
+      },
+      {
+        "game": "xy-y",
+        "text": "Quand la saison change, il change de pelage et\nd’odeur. Un Pokémon qui annonce le passage des\nsaisons."
+      },
+      {
+        "game": "oras-or",
+        "text": "Son pelage change selon la saison, et dans une moindre\nmesure en fonction de l’humidité et de la température."
+      },
+      {
+        "game": "oras-as",
+        "text": "Quand la saison change, il change de pelage et d’odeur.\nUn Pokémon qui annonce le passage des saisons."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Sesokitz",
+    "genus": "Jahreszeit",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Unabhängig von der Jahreszeit ändert sich\nseine Farbe auch bei wechselnder Temperatur\noder Luftfeuchtigkeit leicht."
+      },
+      {
+        "game": "xy-y",
+        "text": "Sein Fell und sein Geruch ändern sich mit dem\nWechsel der Jahreszeiten. Es ist der Bote des\nSaisonwechsels."
+      },
+      {
+        "game": "oras-or",
+        "text": "Unabhängig von der Jahreszeit ändert sich seine Farbe auch\nbei wechselnder Temperatur oder Luftfeuchtigkeit leicht."
+      },
+      {
+        "game": "oras-as",
+        "text": "Sein Fell und sein Geruch ändern sich mit dem Wechsel\nder Jahreszeiten. Es ist der Bote des Saisonwechsels."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Deerling",
+    "genus": "Pokémon Estacional",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "El color de su cuerpo cambia no solo con las\nestaciones, sino también con los cambios de humedad\ny temperatura."
+      },
+      {
+        "game": "xy-y",
+        "text": "Durante los cambios de estación, su pelaje y olor\ncambian. Esto anuncia el comienzo de una estación."
+      },
+      {
+        "game": "oras-or",
+        "text": "El color de su cuerpo cambia no solo con las estaciones, sino\ntambién con los cambios de humedad y temperatura."
+      },
+      {
+        "game": "oras-as",
+        "text": "Durante los cambios de estación, su pelaje y olor cambian.\nEsto anuncia el comienzo de una estación."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Deerling",
+    "genus": "Pokémon Stagione",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Il suo corpo muta non solo a seconda della stagione\nma in misura minore anche al cambiare di temperatura\ne umidità."
+      },
+      {
+        "game": "xy-y",
+        "text": "Al cambio di stagione, muta la pelliccia e l’odore. È un\nPokémon che annuncia il passaggio delle stagioni."
+      },
+      {
+        "game": "oras-or",
+        "text": "Il suo corpo muta non solo a seconda della stagione ma in\nmisura minore anche al cambiare di temperatura e umidità."
+      },
+      {
+        "game": "oras-as",
+        "text": "Al cambio di stagione, muta la pelliccia e l’odore. È un\nPokémon che annuncia il passaggio delle stagioni."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Deerling",
+    "genus": "Season Pokémon",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "The color and scent of their fur changes\nto match the mountain grass. When they\nsense hostility, they hide in the grass."
+      },
+      {
+        "game": "bw-w",
+        "text": "The turning of the seasons changes the\ncolor and scent of this Pokémon’s fur.\nPeople use it to mark the seasons."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "Their coloring changes according to the\nseasons and can be slightly affected by\nthe temperature and humidity as well."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "Their coloring changes according to the\nseasons and can be slightly affected by\nthe temperature and humidity as well."
+      },
+      {
+        "game": "xy-x",
+        "text": "Their coloring changes according to the seasons\nand can be slightly affected by the temperature and\nhumidity as well."
+      },
+      {
+        "game": "xy-y",
+        "text": "The turning of the seasons changes the color and\nscent of this Pokémon’s fur. People use it to mark\nthe seasons."
+      },
+      {
+        "game": "oras-or",
+        "text": "Their coloring changes according to the seasons\nand can be slightly affected by the temperature and\nhumidity as well."
+      },
+      {
+        "game": "oras-as",
+        "text": "The turning of the seasons changes the color and\nscent of this Pokémon’s fur. People use it to mark\nthe seasons."
+      }
+    ]
+  },
+  "chs": {
+    "name": "四季鹿",
+    "genus": "季节宝可梦",
+    "flavorText": []
+  }
+}

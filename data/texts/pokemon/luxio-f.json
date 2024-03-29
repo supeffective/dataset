@@ -1,0 +1,293 @@
+{
+  "jap": {
+    "name": "ルクシオ",
+    "genus": "でんこうポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "いっぱつで　きぜつさせるほどの\nでんりゅうを　ツメから　ながす。\nすうひきの　グループで　くらす。"
+      },
+      {
+        "game": "xy-y",
+        "text": "するどい　ツメの　さきには　つよい\nでんきが　ながれており　ほんのすこし\nかするだけで　あいてをきぜつさせる。"
+      },
+      {
+        "game": "oras-or",
+        "text": "いっぱつで　きぜつさせるほどの\nでんりゅうを　ツメから　ながす。\nすうひきの　グループで　くらす。"
+      },
+      {
+        "game": "oras-as",
+        "text": "するどい　ツメの　さきには　つよい\nでんきが　ながれており　ほんのすこし\nかするだけで　あいてをきぜつさせる。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "しっぽを　つなげて　なかまから\nでんきエネルギーを　わけてもらうと\nより　つよい　でんげきを　はなてる。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "てきに　であうと　１００まんボルトの\nいりょくを　もつ　ツメを　あしから\nだして　たたかいに　そなえる。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Luxio",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "럭시오",
+    "genus": "전광포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "발톱에서는 한 방에 적을 기절시킬\n정도로 강한 전류가 흐른다.\n여러 마리가 그룹을 이루어 산다."
+      },
+      {
+        "game": "xy-y",
+        "text": "날카로운 발톱의 끝에는 강한\n전기가 흐르고 있어서 살짝 스치는\n것만으로 상대를 기절시킨다."
+      },
+      {
+        "game": "oras-or",
+        "text": "발톱에서는 한 방에 적을 기절시킬\n정도로 강한 전류가 흐른다.\n여러 마리가 그룹을 이루어 산다."
+      },
+      {
+        "game": "oras-as",
+        "text": "날카로운 발톱의 끝에는 강한\n전기가 흐르고 있어서 살짝 스치는\n것만으로 상대를 기절시킨다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "꼬리를 이어서 동료로부터\n전기 에너지를 나눠 받으면\n보다 강한 전격을 내보낼 수 있다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "적을 만나면 100만 볼트의\n위력을 가진 발톱을\n드러내어 싸움에 대비한다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "勒克貓",
+    "genus": "電光寶可夢",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "如果與夥伴尾巴牽尾巴，\n就能借用對方的電能，\n然後發出更強的電擊。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "遇見敵人時會從腳伸出\n有百萬伏特威力的爪子，\n為對戰做好準備。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Luxio",
+    "genus": "Pokémon Étincelle",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Le courant qui circule à la pointe\nde ses griffes est capable de faire\nperdre connaissance à ses proies."
+      },
+      {
+        "game": "bw-w",
+        "text": "Le courant qui circule à la pointe\nde ses griffes est capable de faire\nperdre connaissance à ses proies."
+      },
+      {
+        "game": "xy-x",
+        "text": "L’électricité libérée par ses griffes peut assommer\nl’ennemi. Il vit en petits groupes."
+      },
+      {
+        "game": "xy-y",
+        "text": "Le courant qui circule à la pointe de ses griffes est\ncapable de faire perdre connaissance à ses proies."
+      },
+      {
+        "game": "oras-or",
+        "text": "L’électricité libérée par ses griffes peut assommer l’ennemi.\nIl vit en petits groupes."
+      },
+      {
+        "game": "oras-as",
+        "text": "Le courant qui circule à la pointe de ses griffes est capable\nde faire perdre connaissance à ses proies."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "En reliant sa queue à celles de ses congénères,\nil peut recevoir leur énergie électrique et lancer\ndes décharges encore plus puissantes."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Quand il croise un ennemi, il se prépare\nau combat en sortant ses griffes dont les coups\nont une puissance qui atteint un million de volts."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Luxio",
+    "genus": "Funken-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Seine Krallen geben Elektrizität ab, die stark\ngenug ist, jemanden bewusstlos zu machen."
+      },
+      {
+        "game": "xy-y",
+        "text": "Durch die Spitzen seiner scharfen Krallen strömt\nElektrizität. Selbst kleine Kratzer verursachen\nOhnmacht."
+      },
+      {
+        "game": "oras-or",
+        "text": "Seine Krallen geben Elektrizität ab, die stark genug ist,\njemanden bewusstlos zu machen."
+      },
+      {
+        "game": "oras-as",
+        "text": "Durch die Spitzen seiner scharfen Krallen strömt Elektrizität.\nSelbst kleine Kratzer verursachen Ohnmacht."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Verbindet es seinen Schweif mit dem eines\nArtgenossen, absorbiert es einen Teil von dessen\nElektrizität und teilt stärkere Stromschläge aus."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Sieht es Gegner, macht es sich kampfbereit,\nindem es die Krallen an den Pfoten ausfährt,\nwelche eine Million Volt austeilen können."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Luxio",
+    "genus": "Pokémon Chispa",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Sus garras emiten electricidad que puede debilitar a\nsus rivales. Viven en grupos pequeños."
+      },
+      {
+        "game": "xy-y",
+        "text": "Por las puntas de sus garras pasa una fuerte corriente\neléctrica. El mínimo roce debilita al enemigo."
+      },
+      {
+        "game": "oras-or",
+        "text": "Sus garras emiten electricidad que puede debilitar a sus\nrivales. Viven en grupos pequeños."
+      },
+      {
+        "game": "oras-as",
+        "text": "Por las puntas de sus garras pasa una fuerte corriente\neléctrica. El mínimo roce debilita al enemigo."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Al unir la cola con otro congénere, este le\ntransmite electricidad, lo que aumenta la\npotencia de sus descargas eléctricas."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Cuando encuentra a un adversario, se prepara\npara combatir sacando las garras, que emiten\nuna corriente eléctrica de un millón de voltios."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Luxio",
+    "genus": "Pokémon Favilla",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Dagli artigli rilascia un’elettricità talmente intensa\nda mandare KO il nemico. Vive in piccoli gruppi."
+      },
+      {
+        "game": "xy-y",
+        "text": "I suoi artigli rilasciano una forte corrente elettrica e\ncon un solo graffio manda KO i nemici."
+      },
+      {
+        "game": "oras-or",
+        "text": "Dagli artigli rilascia un’elettricità talmente intensa da mandare\nKO il nemico. Vive in piccoli gruppi."
+      },
+      {
+        "game": "oras-as",
+        "text": "I suoi artigli rilasciano una forte corrente elettrica e con\nun solo graffio manda KO i nemici."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Se collega la coda con quella dei suoi simili per\nricevere energia elettrica, può emettere scariche\nelettriche ancora più potenti."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Se incontra un nemico, si prepara alla lotta\nestraendo gli artigli dotati di una potenza pari\na 1 milione di volt."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Luxio",
+    "genus": "Spark Pokémon",
+    "flavorText": [
+      {
+        "game": "dp-d",
+        "text": "Its claws loose electricity with\nenough amperage to cause fainting.\nThey live in small groups."
+      },
+      {
+        "game": "dp-p",
+        "text": "It rests its forelegs on others to\ncommunicate with rhythmic electric\npulses from its claws."
+      },
+      {
+        "game": "pt",
+        "text": "Strong electricity courses through\nthe tips of its sharp claws. A light\nscratch causes fainting in foes."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "By gathering their tails together,\nthey collectively generate powerful\nelectricity from their claws."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "By gathering their tails together,\nthey collectively generate powerful\nelectricity from their claws."
+      },
+      {
+        "game": "bw-b",
+        "text": "Strong electricity courses through\nthe tips of its sharp claws. A light\nscratch causes fainting in foes."
+      },
+      {
+        "game": "bw-w",
+        "text": "Strong electricity courses through\nthe tips of its sharp claws. A light\nscratch causes fainting in foes."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "Strong electricity courses through\nthe tips of its sharp claws. A light\nscratch causes fainting in foes."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "Strong electricity courses through\nthe tips of its sharp claws. A light\nscratch causes fainting in foes."
+      },
+      {
+        "game": "xy-x",
+        "text": "Its claws loose electricity with enough amperage\nto cause fainting. They live in small groups."
+      },
+      {
+        "game": "xy-y",
+        "text": "Strong electricity courses through the tips of its\nsharp claws. A light scratch causes fainting in foes."
+      },
+      {
+        "game": "oras-or",
+        "text": "Its claws loose electricity with enough amperage\nto cause fainting. They live in small groups."
+      },
+      {
+        "game": "oras-as",
+        "text": "Strong electricity courses through the tips of its\nsharp claws. A light scratch causes fainting in foes."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "By joining its tail with that of another Luxio, this\nPokémon can receive some of the other Luxio’s\nelectricity and power up its own electric blasts."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Upon encountering an opponent, this Pokémon\nprepares for battle by extending its claws, which\ncan put out 1,000,000 volts of electricity."
+      },
+      {
+        "game": "la",
+        "text": "Proudly uses its electrified claws as weapons. It seems to be a\ngracious Pokémon, evenly sharing the spoils of the hunt with\nothers of its kind."
+      }
+    ]
+  },
+  "chs": {
+    "name": "勒克猫",
+    "genus": "电光宝可梦",
+    "flavorText": [
+      {
+        "game": "swsh-sh",
+        "text": "遇到敌人时会从脚\n伸出有着百万伏特\n威力的爪子来迎战。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "当把尾巴和伙伴连接在一起时，\n可以分享到对方的电能，\n从而释放出更加强力的电击。"
+      }
+    ]
+  }
+}

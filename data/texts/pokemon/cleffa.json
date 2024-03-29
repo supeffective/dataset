@@ -1,0 +1,469 @@
+{
+  "jap": {
+    "name": "ピィ",
+    "genus": "ほしがたポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "おほしさまのような　シルエット。\nそのすがたから　ながれぼしにのって\nやってくると　しんじられている。"
+      },
+      {
+        "game": "xy-y",
+        "text": "ながれぼしの　おおい　よるは\nピィが　たくさん　すがたを　みせる。\nあさひが　のぼると　いなくなる。"
+      },
+      {
+        "game": "oras-or",
+        "text": "ながれぼしの　おおい　よるは　わ　に　なって\nおどる　ピィの　すがたを　みることが　できる。\nひのでまで　おどり　よつゆで　のどを　うるおす。"
+      },
+      {
+        "game": "oras-as",
+        "text": "ながれぼしの　おおい　よるは　わ　に　なって\nおどる　ピィの　すがたを　みることが　できる。\nひのでまで　おどり　よつゆで　のどを　うるおす。"
+      },
+      {
+        "game": "sm-s",
+        "text": "りゅうせいの　きらめく　しんやに\nじっと　そらを　ながめる　すがたは\nこきょうに　おもいを　はせているよう。"
+      },
+      {
+        "game": "sm-m",
+        "text": "そのシルエットから　おほしさまの\nうまれかわりと　しんじられている。\nなぜか　メテノが　だいすき。"
+      },
+      {
+        "game": "usum-us",
+        "text": "ながれぼしの　おおい　よるに　むれ\nわになって　ダンス。　その　すがたを\nみると　ちょっと　いいことが　あるよ。"
+      },
+      {
+        "game": "usum-um",
+        "text": "ながれぼしに　のってきたと　いわれる。\nピィが　あらわれるのは　むかし\nいんせきが　おちた　ばしょ　らしい。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "ピィを　よく　みかける　ばしょは\nながれぼしが　おちた　ばしょと\nじもとでは　うわさ　されている。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "おほしさまのような　シルエット。\nそのすがたから　ながれぼしにのって\nやってくると　しんじられている。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Py",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "삐",
+    "genus": "별포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "별님 같은 실루엣이다.\n그 모습 때문에 별똥별을 타고\n온다고 여겨진다."
+      },
+      {
+        "game": "xy-y",
+        "text": "별똥별이 많은 밤에는\n삐가 많이 모습을 드러낸다.\n아침 해가 떠오르면 사라지게 된다."
+      },
+      {
+        "game": "oras-or",
+        "text": "별똥별이 많은 밤에는 둥글게 모여\n춤추는 삐의 모습을 볼 수 있다.\n일출 때까지 춤추며 밤이슬로 목을 축인다."
+      },
+      {
+        "game": "oras-as",
+        "text": "별똥별이 많은 밤에는 둥글게 모여\n춤추는 삐의 모습을 볼 수 있다.\n일출 때까지 춤추며 밤이슬로 목을 축인다."
+      },
+      {
+        "game": "sm-s",
+        "text": "유성이 반짝거리는 심야에\n지그시 하늘을 바라보는 모습은\n고향의 기억을 떠올리는 것 같다."
+      },
+      {
+        "game": "sm-m",
+        "text": "실루엣 때문에 별님이\n다시 태어난 것이라고 여겨지고 있다.\n왜인지 메테노를 매우 좋아한다."
+      },
+      {
+        "game": "usum-us",
+        "text": "별똥별이 많은 밤에 둥글게\n무리 지어 춤을 춘다. 그 모습을\n보면 조금 좋은 일이 생긴다."
+      },
+      {
+        "game": "usum-um",
+        "text": "별똥별을 타고 왔다고 전해진다.\n삐가 나타나는 곳은 옛날에\n운석이 떨어졌던 장소라는 듯하다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "삐가 자주 보이는 장소는\n별똥별이 떨어진 장소라고\n그 고장에서 소문이 돈다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "실루엣이 별 모양이다.\n그 때문에 별똥별을 타고\n온다고 여겨진다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "皮寶寶",
+    "genus": "星形寶可夢",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "在流星閃耀的深夜裡\n凝望著天空的樣子，\n似乎是在緬懷故鄉。"
+      },
+      {
+        "game": "sm-m",
+        "text": "因為外表輪廓的關係，\n被認為是星星的轉世。\n不知為何很喜歡小隕星。"
+      },
+      {
+        "game": "usum-us",
+        "text": "會在流星多的夜裡聚集起來，\n圍成一圈跳舞。如果能看見牠們\n跳舞的樣子，就會遇上好事。"
+      },
+      {
+        "game": "usum-um",
+        "text": "據說是乘著流星而來。\n皮寶寶似乎會出現在\n過去有過隕石墜落的地方。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "根據當地的傳說，\n皮寶寶經常出沒的地方\n就是流星隕落之處。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "有著如同星星一般的輪廓。\n因為這樣的外型，人們相信\n牠是乘著流星而來的。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Mélo",
+    "genus": "Pokémon Étoile",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "On dit qu’il se déplace à dos\nd’étoile filante. Il se montre\nsouvent quand on en voit."
+      },
+      {
+        "game": "bw-w",
+        "text": "On dit qu’il se déplace à dos\nd’étoile filante. Il se montre\nsouvent quand on en voit."
+      },
+      {
+        "game": "xy-x",
+        "text": "Il ressemble un peu à une étoile. On suppose qu’il est\nvenu sur terre accroché à une météorite."
+      },
+      {
+        "game": "xy-y",
+        "text": "On en voit beaucoup lorsque le ciel se remplit\nd’étoiles filantes. Ils s’éclipsent au lever du soleil."
+      },
+      {
+        "game": "oras-or",
+        "text": "Les nuits où il y a des étoiles filantes, on peut voir des Mélo\ndanser en cercle. Ils dansent toute la nuit et ne s’arrêtent\nqu’à l’aube. Ces Pokémon se désaltèrent alors avec la rosée\ndu matin."
+      },
+      {
+        "game": "oras-as",
+        "text": "Les nuits où il y a des étoiles filantes, on peut voir des Mélo\ndanser en cercle. Ils dansent toute la nuit et ne s’arrêtent\nqu’à l’aube. Ces Pokémon se désaltèrent alors avec la rosée\ndu matin."
+      },
+      {
+        "game": "sm-s",
+        "text": "On dit que s’il contemple fixement le ciel\nlorsque des étoiles filantes passent, c’est\nparce que cela lui rappelle son bercail."
+      },
+      {
+        "game": "sm-m",
+        "text": "Selon certaines croyances, sa forme prouve\nqu’il s’agit de la réincarnation d’une étoile.\nÉtrangement, il aime beaucoup les Météno."
+      },
+      {
+        "game": "usum-us",
+        "text": "Les nuits où les étoiles filantes inondent le\nciel, il danse en cercle avec ses congénères.\nOn dit qu’admirer ce spectacle porte bonheur."
+      },
+      {
+        "game": "usum-um",
+        "text": "Il serait parvenu jusqu’à nous en chevauchant\nune étoile filante. On le trouve dans les endroits\noù des météorites sont tombées."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "On dit qu’il apparaît souvent là où se sont\nécrasées des météorites."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Il ressemble un peu à une étoile. On suppose\nqu’il est venu sur terre accroché à une météorite."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Pii",
+    "genus": "Sternform-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Aufgrund seiner ungewöhnlichen Sternform sagt\nman, es sei auf einem Meteor hierhergereist."
+      },
+      {
+        "game": "xy-y",
+        "text": "In Nächten mit vielen Sternschnuppen sieht man diese\nPokémon. Am Morgen sind sie verschwunden."
+      },
+      {
+        "game": "oras-or",
+        "text": "In Nächten mit vielen Sternschnuppen kann man Pii im Kreis\ntanzen sehen. Es tanzt die ganze Nacht hindurch und hört\nerst bei Sonnenaufgang auf, um seinen Durst mit Morgentau\nzu stillen."
+      },
+      {
+        "game": "oras-as",
+        "text": "In Nächten mit vielen Sternschnuppen kann man Pii im Kreis\ntanzen sehen. Es tanzt die ganze Nacht hindurch und hört\nerst bei Sonnenaufgang auf, um seinen Durst mit Morgentau\nzu stillen."
+      },
+      {
+        "game": "sm-s",
+        "text": "Sieht man es tief in der Nacht gebannt das\nFunkeln von Sternschnuppen beobachten,\nschwelgt es wohl in Gedanken an seine Heimat."
+      },
+      {
+        "game": "sm-m",
+        "text": "Aufgrund seines Aussehens wird es oft für\neinen Stern gehalten. Aus unbekannten Gründen\nliebt es Meteno über alles."
+      },
+      {
+        "game": "usum-us",
+        "text": "In Nächten mit vielen Sternschnuppen bilden\nPii einen Kreis und tanzen. Der Anblick dieses\nSpektakels soll Glück bringen."
+      },
+      {
+        "game": "usum-um",
+        "text": "Es heißt, Pii sei auf einem Meteor hierhergereist.\nAn Orten, wo diese Pokémon anzutreffen sind,\nsoll früher mal ein Meteorit eingeschlagen sein."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Man erzählt sich, dass überall dort besonders\nhäufig Pii anzutreffen seien, wo einst eine\nSternschnuppe eingeschlagen ist."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Aufgrund seiner ungewöhnlichen Sternform sagt\nman, es sei auf einem Meteor hierhergereist."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Cleffa",
+    "genus": "Pokémon Estrella",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Por su inusual forma estrellada, la gente cree que\nprocede de un meteorito que cayó a la tierra."
+      },
+      {
+        "game": "xy-y",
+        "text": "Muchos aparecen cuando hay estrellas fugaces en el\ncielo nocturno. Se esfuman al amanecer."
+      },
+      {
+        "game": "oras-or",
+        "text": "Cuando hay lluvia de estrellas, a los Cleffa se les puede\nver danzando en círculos durante toda la noche. Solo paran\ncuando rompe el día; entonces, dejan de bailar y calman su\nsed con el rocío de la mañana."
+      },
+      {
+        "game": "oras-as",
+        "text": "Cuando hay lluvia de estrellas, a los Cleffa se les puede\nver danzando en círculos durante toda la noche. Solo paran\ncuando rompe el día; entonces, dejan de bailar y calman su\nsed con el rocío de la mañana."
+      },
+      {
+        "game": "sm-s",
+        "text": "Se dice que este Pokémon se acuerda de su\nhogar cuando observa el cielo durante una lluvia\nde estrellas."
+      },
+      {
+        "game": "sm-m",
+        "text": "Algunos creen que su forma es un indicio de que\nCleffa es, en realidad, la reencarnación de una\nestrella. Por algún motivo, adora a los Minior."
+      },
+      {
+        "game": "usum-us",
+        "text": "Las noches de lluvia de estrellas, se congregan\ny bailan en círculo. Se cree que presenciar este\nespectáculo trae buena suerte."
+      },
+      {
+        "game": "usum-um",
+        "text": "Se dice que llegó en una estrella fugaz. Este\nPokémon suele encontrarse en lugares donde\nhan caído meteoritos."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Los lugareños rumorean que suele encontrarse\nen lugares donde han caído estrellas fugaces."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Por su inusual forma estrellada, la gente cree que\nprocede de un meteorito que cayó a la tierra."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Cleffa",
+    "genus": "Pokémon Stella",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Per il suo aspetto bizzarro, a forma di stella, c’è chi\ncrede che provenga da una meteora."
+      },
+      {
+        "game": "xy-y",
+        "text": "Se ne vedono molti nelle notti in cui il cielo è pieno\ndi stelle cadenti. Spariscono all’alba."
+      },
+      {
+        "game": "oras-or",
+        "text": "In notti con molte stelle cadenti, è facile vedere molti Cleffa\ndanzare in cerchio. Ballano per tutta la notte fermandosi\nsoltanto alle prime luci dell’alba per dissetarsi bevendo\nle gocce di rugiada."
+      },
+      {
+        "game": "oras-as",
+        "text": "In notti con molte stelle cadenti, è facile vedere molti Cleffa\ndanzare in cerchio. Ballano per tutta la notte fermandosi\nsoltanto alle prime luci dell’alba per dissetarsi bevendo\nle gocce di rugiada."
+      },
+      {
+        "game": "sm-s",
+        "text": "Nel cuore della notte rimane a guardare le stelle\ncadenti pensando alla sua terra natale."
+      },
+      {
+        "game": "sm-m",
+        "text": "Il suo strano aspetto fa pensare che sia la\nreincarnazione di una stella. Per qualche motivo\nsconosciuto, gli piacciono molto i Minior."
+      },
+      {
+        "game": "usum-us",
+        "text": "Nelle notti con molte stelle cadenti, i Cleffa si\nriuniscono per danzare in cerchio. Si dice che\nassistere alla loro danza sia di buon augurio."
+      },
+      {
+        "game": "usum-um",
+        "text": "Si dice che sia arrivato in groppa a una stella\ncadente. Sembra che appaia principalmente in\nluoghi in cui in passato è caduto un meteorite."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Si dice che sia facile incontrarlo dove sono\nprecipitate delle stelle cadenti."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Per il suo aspetto bizzarro, che ricorda una stella,\nc’è chi crede che provenga da una stella cadente."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Cleffa",
+    "genus": "Star Shape Pokémon",
+    "flavorText": [
+      {
+        "game": "gs-g",
+        "text": "Because of its\nunusual, star-like\nsilhouette, people\fbelieve that it\ncame here on\na meteor."
+      },
+      {
+        "game": "gs-s",
+        "text": "When numerous me­\nteors illuminate\nthe night sky,\fsightings of\nCLEFFA strangely\nincrease."
+      },
+      {
+        "game": "c",
+        "text": "If the impact site\nof a meteorite is\nfound, this\fPOKéMON is certain\nto be within the\nimmediate area."
+      },
+      {
+        "game": "rs-r",
+        "text": "On nights with many shooting stars,\nCLEFFA can be seen dancing in a ring.\nThey dance through the night and stop\fonly at the break of day, when these\nPOKéMON quench their thirst with the\nmorning dew."
+      },
+      {
+        "game": "rs-s",
+        "text": "On nights with many shooting stars,\nCLEFFA can be seen dancing in a ring.\nThey dance through the night and stop\fonly at the break of day, when these\nPOKéMON quench their thirst with the\nmorning dew."
+      },
+      {
+        "game": "e",
+        "text": "On nights with many shooting stars,\nCLEFFA can be seen dancing in a ring.\nThey dance until daybreak, when they\nquench their thirst with the morning dew."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "When numerous meteors illuminate the\nnight sky, sightings of CLEFFA strangely\nincrease."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "Because of its unusual, starlike\nsilhouette, people believe that it came\nhere on a meteor."
+      },
+      {
+        "game": "dp-d",
+        "text": "Its silhouette is like a star.\nIt is believed to arrive riding on\nshooting stars."
+      },
+      {
+        "game": "dp-p",
+        "text": "Many appear when the night skies\nare filled with shooting stars.\nThey disappear with sunrise."
+      },
+      {
+        "game": "pt",
+        "text": "It is often seen when shooting\nstars fill the night skies. It’s said\nto arrive riding on a shooting star."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "Because of its unusual, starlike\nsilhouette, people believe that\nit came here on a meteor."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "When numerous meteors illuminate\nthe night sky, sightings of\nCLEFFA strangely increase."
+      },
+      {
+        "game": "bw-b",
+        "text": "It is often seen when shooting\nstars fill the night skies. It’s said\nto arrive riding on a shooting star."
+      },
+      {
+        "game": "bw-w",
+        "text": "It is often seen when shooting\nstars fill the night skies. It’s said\nto arrive riding on a shooting star."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "According to local rumors, Cleffa\nare often seen in places where\nshooting stars have fallen."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "According to local rumors, Cleffa\nare often seen in places where\nshooting stars have fallen."
+      },
+      {
+        "game": "xy-x",
+        "text": "Because of its unusual, starlike silhouette, people\nbelieve that it came here on a meteor."
+      },
+      {
+        "game": "xy-y",
+        "text": "Many appear when the night skies are filled with\nshooting stars. They disappear with sunrise."
+      },
+      {
+        "game": "usum-us",
+        "text": "On nights with many shooting stars,\nthey gather in packs and dance in circles. If you\nshould see them, something good will happen!"
+      },
+      {
+        "game": "oras-or",
+        "text": "On nights with many shooting stars, Cleffa can be seen\ndancing in a ring. They dance through the night and stop only\nat the break of day, when these Pokémon quench their thirst\nwith the morning dew."
+      },
+      {
+        "game": "oras-as",
+        "text": "On nights with many shooting stars, Cleffa can be seen\ndancing in a ring. They dance through the night and stop only\nat the break of day, when these Pokémon quench their thirst\nwith the morning dew."
+      },
+      {
+        "game": "sm-s",
+        "text": "On late nights illuminated by shooting stars,\nit gazes intently skyward, as if thinking of\nits home."
+      },
+      {
+        "game": "sm-m",
+        "text": "Because of its silhouette, it’s believed to be a\nstar reborn. For some reason, it loves Minior."
+      },
+      {
+        "game": "usum-um",
+        "text": "Said to have ridden here on a shooting star,\nCleffa seem to appear in places where\nmeteorites have struck in the past."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "According to local rumors, Cleffa are often seen\nin places where shooting stars have fallen."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Because of its unusual, starlike silhouette, people\nbelieve that it came here on a meteor."
+      },
+      {
+        "game": "la",
+        "text": "In silhouette, they resemble twinkling starlight. When shooting\nstars rain from the night sky, Cleffa gather in numbers and dance\nas though they are indeed incarnations of the stars."
+      }
+    ]
+  },
+  "chs": {
+    "name": "皮宝宝",
+    "genus": "星形宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "在流星闪耀的深夜里\n凝望着天空的样子，\n似乎是在怀念故乡。"
+      },
+      {
+        "game": "sm-m",
+        "text": "从它的轮廓判断，\n被认为是星星的转世。\n不知为何很喜欢小陨星。"
+      },
+      {
+        "game": "usum-us",
+        "text": "在流星众多的晚上，它们会聚集起来\n并围成一圈跳舞．如果能在那时\n看到它们，就会遇到一些好事情哦。"
+      },
+      {
+        "game": "usum-um",
+        "text": "据说是乘着流星而来。\n皮宝宝好像会出现在\n以前有陨石坠落过的地方。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "根据当地的传说，\n皮宝宝经常出没的地方\n就是流星陨落之处。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "有着星星一样的轮廓。\n由于那外形，人们相信\n它是乘着流星而来的。"
+      }
+    ]
+  }
+}

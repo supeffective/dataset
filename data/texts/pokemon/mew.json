@@ -1,0 +1,333 @@
+{
+  "jap": {
+    "name": "ミュウ",
+    "genus": "しんしゅポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "あらゆる　わざを　つかうため\nポケモンの　せんぞと　かんがえる\nがくしゃが　たくさん　いる。"
+      },
+      {
+        "game": "xy-y",
+        "text": "いでんしには　すべての　ポケモンの\nじょうほうが　ふくまれているので\nあらゆる　わざが　つかえるという。"
+      },
+      {
+        "game": "oras-or",
+        "text": "すべての　ポケモンの　いでんしを　もつと　いう。\nじゆうじざいに　すがたを　けすことが　できるので\nひとに　ちかづいても　まったく　きづかれない。"
+      },
+      {
+        "game": "oras-as",
+        "text": "すべての　ポケモンの　いでんしを　もつと　いう。\nじゆうじざいに　すがたを　けすことが　できるので\nひとに　ちかづいても　まったく　きづかれない。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "けんびきょうで　のぞいてみたら\nひじょうに　みじかくて　ほそい\nこまやかな　たいもうが　はえていた。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "けんびきょうで　のぞいてみたら\nひじょうに　みじかくて　ほそい\nこまやかな　たいもうが　はえていた。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Mew",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "뮤",
+    "genus": "신종포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "모든 기술을 사용하기 때문에\n포켓몬의 조상이라고 생각하는\n학자가 많다."
+      },
+      {
+        "game": "xy-y",
+        "text": "유전자에는 모든 포켓몬의\n정보가 담겨 있기 때문에\n모든 기술을 쓸 수 있다고 전해진다."
+      },
+      {
+        "game": "oras-or",
+        "text": "모든 포켓몬의 유전자를 가졌다고 한다.\n자유자재로 모습을 숨길 수 있어서\n사람에게 가까이 다가가도 절대 들키지 않는다."
+      },
+      {
+        "game": "oras-as",
+        "text": "모든 포켓몬의 유전자를 가졌다고 한다.\n자유자재로 모습을 숨길 수 있어서\n사람에게 가까이 다가가도 절대 들키지 않는다."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "현미경으로 관찰하면\n매우 짧고 가는 털이\n촘촘하게 나 있다."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "현미경으로 관찰하면\n매우 짧고 가는 털이\n촘촘하게 나 있다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "夢幻",
+    "genus": "新種寶可夢",
+    "flavorText": [
+      {
+        "game": "lgpe-lgp",
+        "text": "用顯微鏡觀察就會發現，\n牠的身上長著又細又短，\n十分細緻的體毛。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "用顯微鏡觀察就會發現，\n牠的身上長著又細又短，\n十分細緻的體毛。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Mew",
+    "genus": "Pokémon Nouveau",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Nombre de scientifiques voient en\nlui l’ancêtre des Pokémon car il\nmaîtrise toutes leurs capacités."
+      },
+      {
+        "game": "bw-w",
+        "text": "Nombre de scientifiques voient en\nlui l’ancêtre des Pokémon car il\nmaîtrise toutes leurs capacités."
+      },
+      {
+        "game": "xy-x",
+        "text": "Nombre de scientifiques voient en lui l’ancêtre\ndes Pokémon car il maîtrise toutes leurs capacités."
+      },
+      {
+        "game": "xy-y",
+        "text": "Son ADN contient les codes génétiques de tous\nles Pokémon. Il peut utiliser nombre de techniques."
+      },
+      {
+        "game": "oras-or",
+        "text": "On dit que Mew possède le code génétique de tous les autres\nPokémon. Il peut se rendre invisible à sa guise, ce qui lui\npermet de ne pas se faire remarquer quand il s’approche\ndes gens."
+      },
+      {
+        "game": "oras-as",
+        "text": "On dit que Mew possède le code génétique de tous les autres\nPokémon. Il peut se rendre invisible à sa guise, ce qui lui\npermet de ne pas se faire remarquer quand il s’approche\ndes gens."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "À l’aide d’un microscope, on peut distinguer\nle pelage extrêmement court, fin et délicat\nde ce Pokémon."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "À l’aide d’un microscope, on peut distinguer\nle pelage extrêmement court, fin et délicat\nde ce Pokémon."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Mew",
+    "genus": "Neue Art-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Es beherrscht alle möglichen Attacken, daher sieht\nman in ihm den Vorfahren aller Pokémon."
+      },
+      {
+        "game": "xy-y",
+        "text": "Seine DNS soll den genetischen Code aller Pokémon\nbeinhalten. Dadurch kann es alle Attacken erlernen."
+      },
+      {
+        "game": "oras-or",
+        "text": "Mew soll die genetische Zusammensetzung aller Pokémon\nbesitzen. Es kann sich unsichtbar machen, sodass es sich\nauch Menschen nähern kann, ohne bemerkt zu werden."
+      },
+      {
+        "game": "oras-as",
+        "text": "Mew soll die genetische Zusammensetzung aller Pokémon\nbesitzen. Es kann sich unsichtbar machen, sodass es sich\nauch Menschen nähern kann, ohne bemerkt zu werden."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Wenn man Mews Haut mithilfe eines Mikroskops\nbetrachtet, so erkennt man ein Fell aus vielen\nfeinen und kurzen Härchen."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Wenn man Mews Haut mithilfe eines Mikroskops\nbetrachtet, so erkennt man ein Fell aus vielen\nfeinen und kurzen Härchen."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Mew",
+    "genus": "Pokémon Nueva Especie",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Varios científicos lo consideran el antecesor de los\nPokémon porque usa todo tipo de movimientos."
+      },
+      {
+        "game": "xy-y",
+        "text": "Dicen que su ADN contiene el código genético de\ntodos los Pokémon, por lo que conoce cualquier\ntécnica."
+      },
+      {
+        "game": "oras-or",
+        "text": "Dicen que Mew posee el mapa genético de todos los\nPokémon. Puede hacerse invisible cuando quiere, así que\npasa desapercibido cada vez que se le acerca alguien."
+      },
+      {
+        "game": "oras-as",
+        "text": "Dicen que Mew posee el mapa genético de todos los\nPokémon. Puede hacerse invisible cuando quiere, así que\npasa desapercibido cada vez que se le acerca alguien."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Si se observa a través de un microscopio, puede\ndistinguirse cuán corto, fino y delicado es el\npelaje de este Pokémon."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Si se observa a través de un microscopio, puede\ndistinguirse cuán corto, fino y delicado es el\npelaje de este Pokémon."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Mew",
+    "genus": "Pokémon Novaspecie",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Poiché sa usare qualsiasi mossa, molti scienziati\nritengono che Mew sia l’antenato di tutti i Pokémon."
+      },
+      {
+        "game": "xy-y",
+        "text": "Pare che il suo DNA contenga i codici genetici di tutti\ni Pokémon; per questo può usare qualsiasi tecnica."
+      },
+      {
+        "game": "oras-or",
+        "text": "Si dice che Mew possegga il patrimonio genetico di tutti\ni Pokémon. È in grado di rendersi invisibile, quando vuole,\nin modo da non farsi notare nemmeno da vicino."
+      },
+      {
+        "game": "oras-as",
+        "text": "Si dice che Mew possegga il patrimonio genetico di tutti\ni Pokémon. È in grado di rendersi invisibile, quando vuole,\nin modo da non farsi notare nemmeno da vicino."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Osservando al microscopio la pelle di Mew\nsi può constatare che è ricoperta da una fitta\npeluria, corta e fine."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Osservando al microscopio la pelle di Mew\nsi può constatare che è ricoperta da una fitta\npeluria, corta e fine."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Mew",
+    "genus": "New Species Pokémon",
+    "flavorText": [
+      {
+        "game": "rb-r",
+        "text": "So rare that it\nis still said to\nbe a mirage by\fmany experts. Only\na few people have\nseen it worldwide."
+      },
+      {
+        "game": "rb-b",
+        "text": "So rare that it\nis still said to\nbe a mirage by\fmany experts. Only\na few people have\nseen it worldwide."
+      },
+      {
+        "game": "y",
+        "text": "When viewed\nthrough a micro­\nscope, this\fPOKéMON's short,\nfine, delicate\nhair can be seen."
+      },
+      {
+        "game": "gs-g",
+        "text": "Apparently, it\nappears only to\nthose people who\fare pure of heart\nand have a strong\ndesire to see it."
+      },
+      {
+        "game": "gs-s",
+        "text": "Its DNA is said to\ncontain the genet­\nic codes of all\fPOKéMON, so it can\nuse all kinds of\ntechniques."
+      },
+      {
+        "game": "c",
+        "text": "Because it can\nlearn any move,\nsome people began\fresearch to see if\nit is the ancestor\nof all POKéMON."
+      },
+      {
+        "game": "rs-r",
+        "text": "MEW is said to possess the genetic\ncomposition of all POKéMON.\nIt is capable of making itself invisible\fat will, so it entirely avoids notice even\nif it approaches people."
+      },
+      {
+        "game": "rs-s",
+        "text": "MEW is said to possess the genetic\ncomposition of all POKéMON.\nIt is capable of making itself invisible\fat will, so it entirely avoids notice even\nif it approaches people."
+      },
+      {
+        "game": "e",
+        "text": "A MEW is said to possess the genes of all\nPOKéMON. It is capable of making itself\ninvisible at will, so it entirely avoids\nnotice even if it approaches people."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "A POKéMON of South America that was\nthought to have been extinct. It is very\nintelligent and learns any move."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "So rare that it is still said to be a\nmirage by many experts. Only a few people\nhave seen it worldwide."
+      },
+      {
+        "game": "dp-d",
+        "text": "Because it can use all kinds of\nmoves, many scientists believe MEW\nto be the ancestor of Pokémon."
+      },
+      {
+        "game": "dp-p",
+        "text": "Because it can use all kinds of\nmoves, many scientists believe MEW\nto be the ancestor of Pokémon."
+      },
+      {
+        "game": "pt",
+        "text": "Because it can use all kinds of\nmoves, many scientists believe MEW\nto be the ancestor of Pokémon."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "Apparently, it appears only to\nthose people who are pure of heart\nand have a strong desire to see it."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "Its DNA is said to contain the genetic\ncodes of all Pokémon, so it can\nuse all kinds of techniques."
+      },
+      {
+        "game": "bw-b",
+        "text": "Because it can use all kinds of\nmoves, many scientists believe Mew\nto be the ancestor of Pokémon."
+      },
+      {
+        "game": "bw-w",
+        "text": "Because it can use all kinds of\nmoves, many scientists believe Mew\nto be the ancestor of Pokémon."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "Because it can use all kinds of\nmoves, many scientists believe Mew\nto be the ancestor of Pokémon."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "Because it can use all kinds of\nmoves, many scientists believe Mew\nto be the ancestor of Pokémon."
+      },
+      {
+        "game": "xy-x",
+        "text": "Because it can use all kinds of moves, many\nscientists believe Mew to be the ancestor\nof Pokémon."
+      },
+      {
+        "game": "xy-y",
+        "text": "Its DNA is said to contain the genetic codes of all\nPokémon, so it can use all kinds of techniques."
+      },
+      {
+        "game": "oras-or",
+        "text": "Mew is said to possess the genetic composition of all\nPokémon. It is capable of making itself invisible at will,\nso it entirely avoids notice even if it approaches people."
+      },
+      {
+        "game": "oras-as",
+        "text": "Mew is said to possess the genetic composition of all\nPokémon. It is capable of making itself invisible at will,\nso it entirely avoids notice even if it approaches people."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "When viewed through a microscope, this\nPokémon’s short, fine, delicate hair can be seen."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "When viewed through a microscope, this\nPokémon’s short, fine, delicate hair can be seen."
+      }
+    ]
+  },
+  "chs": {
+    "name": "梦幻",
+    "genus": "新种宝可梦",
+    "flavorText": [
+      {
+        "game": "lgpe-lgp",
+        "text": "用显微镜可以看到\n它身上极短极细\n且密集的体毛。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "用显微镜可以看到\n它身上极短极细\n且密集的体毛。"
+      }
+    ]
+  }
+}

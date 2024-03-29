@@ -1,0 +1,133 @@
+{
+  "jap": {
+    "name": "ホシガリス",
+    "genus": "ほおばりポケモン",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "ガラルの　いたるところに　いる。\nさゆうの　ほっぺに　きのみを\nたくわえていないと　ふあん。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "つねに　きのみを　くっているので\nみかけいじょうに　タフ。　きのみを\nねらって　はたけに　あらわれる。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Hoshigarisu",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "탐리스",
+    "genus": "볼가득포켓몬",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "가라르의 여기저기에 있다.\n양쪽 볼에 나무열매를\n비축해두지 않으면 불안해한다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "항상 나무열매를 먹고 있어\n보기보다 튼튼하다. 나무열매를\n노리고 밭에 출몰한다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "貪心栗鼠",
+    "genus": "貪吃寶可夢",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "在伽勒爾隨處可見。\n如果不往兩邊的頰囊裡\n塞滿樹果，就會感到不安。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "由於牠無論何時都在吃樹果，\n使得牠比外表看起來還要頑強。\n會出現在田地裡尋找樹果。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Rongourmand",
+    "genus": "Pokémon Joufflu",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "On le trouve partout à Galar. S’il n’a pas de Baies\nen réserve dans ses deux joues, il devient anxieux."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Comme il mange tout le temps des Baies, il est\nplus costaud qu’il n’en a l’air. Il parcourt les\nchamps à la recherche de sa précieuse denrée."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Raffel",
+    "genus": "Raffbacken-Pokémon",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Es ist überall in der Galar-Region anzutreffen.\nHat es keine Beeren, die es in seinen beiden\nBacken horten kann, wird es unruhig."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Da es unentwegt Beeren futtert, ist es zäher als\nes aussieht. Man sieht es oft auf Feldern, wo es\nnach Beeren sucht."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Skwovet",
+    "genus": "Pokémon Abazón",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Este Pokémon se encuentra por todo Galar.\nNo se queda tranquilo hasta que tiene ambos\ncarrillos atiborrados de bayas."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Siempre están comiendo bayas, por lo que son\nmás robustos de lo que aparentan. Frecuentan\nlos huertos en busca de su preciado manjar."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Skwovet",
+    "genus": "Pokémon Guancepiene",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Si trova ovunque a Galar. Se non ha una scorta\ndi bacche dentro le guance, si fa prendere\ndall’ansia."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Per via dell’abitudine di mangiare senza sosta,\nè più forte di quanto possa sembrare. Fa incetta\ndi bacche nei campi coltivati."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Skwovet",
+    "genus": "Cheeky Pokémon",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Found throughout the Galar region, this Pokémon\nbecomes uneasy if its cheeks are ever completely\nempty of berries."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "It eats berries nonstop—a habit that has made\nit more resilient than it looks. It’ll show up on\nfarms, searching for yet more berries."
+      }
+    ]
+  },
+  "chs": {
+    "name": "贪心栗鼠",
+    "genus": "贪吃宝可梦",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "在伽勒尔随处可见。\n如果不往两边的颊囊里\n塞满树果，就会感到不安。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "由于它无论何时都在吃树果，\n使得它比外表看起来还要顽强。\n会出现在田地里寻找树果。"
+      }
+    ]
+  }
+}

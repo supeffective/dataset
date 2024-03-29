@@ -1,0 +1,469 @@
+{
+  "jap": {
+    "name": "ポリゴン２",
+    "genus": "バーチャルポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "さらに　けんきゅうが　すすめられ\nのうりょくが　たかまった。ときどき\nプログラムにない　しぐさを　みせる。"
+      },
+      {
+        "game": "xy-y",
+        "text": "わくせいかいはつようの　プログラムが\nインストールされている。しんくうの\nうちゅうでも　かつどうできるのだ。"
+      },
+      {
+        "game": "oras-or",
+        "text": "にんげんが　かがくの　ちからで　つくりだした。\nじんこう　ちのうを　もたせたので　あたらしい\nしぐさや　かんじょうを　ひとりで　おぼえていく。"
+      },
+      {
+        "game": "oras-as",
+        "text": "にんげんが　かがくの　ちからで　つくりだした。\nじんこう　ちのうを　もたせたので　あたらしい\nしぐさや　かんじょうを　ひとりで　おぼえていく。"
+      },
+      {
+        "game": "sm-s",
+        "text": "わくせい　かいはつを　しやに　いれ\nとうじの　さいしん　ぎじゅつで\nポリゴンを　アップデートしたのだ。"
+      },
+      {
+        "game": "sm-m",
+        "text": "わくせい　かいはつを　もくひょうに\nポリゴンを　バージョンアップしたが\nまだまだ　ゆめには　とどかない。"
+      },
+      {
+        "game": "usum-us",
+        "text": "ＡＩを　とうさい。　じりきで\nさまざまなことを　まなんでいくが\nよけいなことまで　おぼえだす。"
+      },
+      {
+        "game": "usum-um",
+        "text": "うちゅうくうかん　でも　しなないが\nむじゅうりょく　では　うまく\nみうごきを　とることが　できない。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "ポリゴンを　とくべつな　データで\nアップデート。　さまざまな　ことを\nじぶんで　まなび　せいちょうする。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "ＡＩきのうを　とうさいした　けっか\nポリゴン２　どうしにしか　わからない\nなぞの　げんごを　はなし　はじめた。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Porygon2",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "폴리곤2",
+    "genus": "가상포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "더욱 연구가 진행되어\n능력이 올라갔다. 가끔\n프로그램에 없는 행동을 보인다."
+      },
+      {
+        "game": "xy-y",
+        "text": "행성 개발용 프로그램이\n인스톨되어 있다. 우주와 같은\n진공 공간에서도 활동할 수 있다."
+      },
+      {
+        "game": "oras-or",
+        "text": "인간이 과학의 힘으로 만들어냈다.\n인공 지능을 지니고 있어서 새로운\n동작이나 감정을 혼자서 익혀간다."
+      },
+      {
+        "game": "oras-as",
+        "text": "인간이 과학의 힘으로 만들어냈다.\n인공 지능을 지니고 있어서 새로운\n동작이나 감정을 혼자서 익혀간다."
+      },
+      {
+        "game": "sm-s",
+        "text": "행성 개발을 시야에 넣어\n당시의 최신 기술로\n폴리곤을 업데이트했다."
+      },
+      {
+        "game": "sm-m",
+        "text": "행성 개발을 목표로\n폴리곤을 버전 업 했지만\n아직 꿈에 도달하지 못했다."
+      },
+      {
+        "game": "usum-us",
+        "text": "AI를 탑재했다. 자력으로\n다양한 것을 습득하지만\n필요 없는 것까지 배운다."
+      },
+      {
+        "game": "usum-um",
+        "text": "우주 공간에서도 죽지 않지만\n무중력 상태에서는\n제대로 몸을 가누지 못한다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "폴리곤을 특별한 데이터로\n업데이트했다. 다양한 것을\n스스로 배우고 성장한다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "AI 기능을 탑재한 결과\n폴리곤2끼리만 통하는 수수께끼의\n언어로 말하기 시작했다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "多邊獸Ⅱ",
+    "genus": "虛擬寶可夢",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "將行星的開發納入視野，\n以當時的最新技術升級了多邊獸。"
+      },
+      {
+        "game": "sm-m",
+        "text": "以行星的開發為目標\n升級了多邊獸，\n但距離夢想實現還有很長的距離。"
+      },
+      {
+        "game": "usum-us",
+        "text": "內建ＡＩ。\n會自己學習各式各樣的事物，\n但也會記住一些多餘的東西。"
+      },
+      {
+        "game": "usum-um",
+        "text": "雖然在宇宙空間裡也不會死亡，\n但在無重力的環境下，\n牠根本無法順利活動身體。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "利用特別的數據升級了\n的多邊獸。會自己學習\n各式各樣的事物來成長。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "搭載了ＡＩ功能後，開始\n說起了只有多邊獸Ⅱ彼此\n之間才能了解的神秘語言。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Porygon2",
+    "genus": "Pokémon Virtuel",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Il a subi une mise à jour censée lui\npermettre d’explorer d’autres\nplanètes... C’est un échec."
+      },
+      {
+        "game": "bw-w",
+        "text": "Il a subi une mise à jour censée lui\npermettre d’explorer d’autres\nplanètes... C’est un échec."
+      },
+      {
+        "game": "xy-x",
+        "text": "Des recherches poussées ont amélioré ses capacités.\nIl a appris de nouveaux mouvements."
+      },
+      {
+        "game": "xy-y",
+        "text": "On lui a installé un logiciel de terraformation pour\nlui permettre de travailler dans l’espace."
+      },
+      {
+        "game": "oras-or",
+        "text": "Porygon2 fut créé par des humains grâce aux progrès\nde la science. Ce Pokémon a été doté d’une intelligence\nartificielle qui lui permet d’apprendre de nouveaux\nmouvements et des émotions par lui-même."
+      },
+      {
+        "game": "oras-as",
+        "text": "Porygon2 fut créé par des humains grâce aux progrès\nde la science. Ce Pokémon a été doté d’une intelligence\nartificielle qui lui permet d’apprendre de nouveaux\nmouvements et des émotions par lui-même."
+      },
+      {
+        "game": "sm-s",
+        "text": "Cette mise à jour de Porygon a été conçue\ndans le cadre d’un projet de terraformation,\ngrâce aux avancées scientifiques de l’époque."
+      },
+      {
+        "game": "sm-m",
+        "text": "Version évoluée de Porygon, créée dans l’espoir\nde pouvoir un jour terraformer des planètes,\nun rêve loin d’être concrétisé pour l’instant."
+      },
+      {
+        "game": "usum-us",
+        "text": "Grâce à son intelligence artificielle, il peut\napprendre beaucoup de choses par lui-même,\nqu’elles soient utiles... ou un peu superflues."
+      },
+      {
+        "game": "usum-um",
+        "text": "Bien qu’il puisse survivre dans l’espace, il peine\nmalheureusement à se mouvoir en apesanteur."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Fruit de la mise à jour d’un Porygon avec\ndes données spéciales, il peut apprendre\net se développer de manière autonome."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Depuis qu’on l’a doté d’une intelligence\nartificielle, il parle un langage mystérieux\nque seuls ses congénères comprennent."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Porygon2",
+    "genus": "Virtuell-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Seine Fähigkeiten wurden verbessert. Es zeigt\nmanchmal sogar Handlungen, die nicht\neinprogrammiert sind."
+      },
+      {
+        "game": "xy-y",
+        "text": "Interstellare Software wurde installiert, sodass\ndieses Pokémon sich auch im All bewegen kann."
+      },
+      {
+        "game": "oras-or",
+        "text": "Porygon2 wurde in einem wissenschaftlichen Experiment\nvon Menschen erzeugt. Es verfügt über künstliche Intelligenz,\nwodurch es selbstständig neue Gesten und Gefühle erlernen\nkann."
+      },
+      {
+        "game": "oras-as",
+        "text": "Porygon2 wurde in einem wissenschaftlichen Experiment\nvon Menschen erzeugt. Es verfügt über künstliche Intelligenz,\nwodurch es selbstständig neue Gesten und Gefühle erlernen\nkann."
+      },
+      {
+        "game": "sm-s",
+        "text": "In der Absicht, andere Planeten zu erforschen,\nverpasste man Porygon ein Upgrade auf dem\nhöchsten Stand der damaligen Technologie."
+      },
+      {
+        "game": "sm-m",
+        "text": "Porygon erfuhr ein Upgrade auf diese Version\nmit dem Ziel, andere Planeten zu erschließen.\nBislang bleibt diese Vision unverwirklicht."
+      },
+      {
+        "game": "usum-us",
+        "text": "Es ist mit künstlicher Intelligenz ausgestattet\nund kann selbstständig verschiedene Dinge\nlernen. Darunter ist jedoch auch viel Unnützes."
+      },
+      {
+        "game": "usum-um",
+        "text": "Es ist zwar imstande, auch im All zu überleben,\naber in der Schwerelosigkeit kann es sich nicht\ngut fortbewegen."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Durch ein Update mit besonderen Daten wurde\nPorygon zu Porygon2. Es erweitert sein Wissen,\nindem es selbstständig verschiedene Dinge lernt."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Als es mit künstlicher Intelligenz ausgestattet\nwurde, begann es, eine rätselhafte Sprache zu\nsprechen, die nur andere Porygon2 verstehen."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Porygon2",
+    "genus": "Pokémon Virtual",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "La investigación mejoró sus habilidades. A veces,\npuede actuar de forma no programada."
+      },
+      {
+        "game": "xy-y",
+        "text": "Tiene instalado un avanzado software astrofísico que\nle permite trabajar en el espacio."
+      },
+      {
+        "game": "oras-or",
+        "text": "Porygon2 fue creado por el hombre gracias a los avances de\nla ciencia. Esta obra humana ha sido provista de inteligencia\nartificial que le permite aprender gestos y sensaciones nuevas\npor su cuenta."
+      },
+      {
+        "game": "oras-as",
+        "text": "Porygon2 fue creado por el hombre gracias a los avances de\nla ciencia. Esta obra humana ha sido provista de inteligencia\nartificial que le permite aprender gestos y sensaciones nuevas\npor su cuenta."
+      },
+      {
+        "game": "sm-s",
+        "text": "Esta versión actualizada de Porygon ha sido\ndotada de la más avanzada tecnología, lo que,\nen teoría, le permite explorar otros planetas."
+      },
+      {
+        "game": "sm-m",
+        "text": "Esta versión de Porygon mejorada se creó para\nposibilitar la exploración de otros planetas. Por\ndesgracia, este sueño sigue siendo inalcanzable."
+      },
+      {
+        "game": "usum-us",
+        "text": "Un Pokémon dotado de inteligencia artificial y\ncapacidad de aprendizaje autónomo, aunque a\nveces aprende cosas que no debería."
+      },
+      {
+        "game": "usum-um",
+        "text": "Puede sobrevivir en el espacio, aunque la\nausencia de gravedad entorpece sus\nmovimientos."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Se trata de una versión mejorada de Porygon\nmediante un software especial. Tiene capacidad\nde aprendizaje autónomo."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Al dotarlo de inteligencia artificial, desarrolló un\nmisterioso lenguaje que solo los miembros de su\nespecie son capaces de comprender."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Porygon2",
+    "genus": "Pokémon Virtuale",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Ricerche avanzate hanno potenziato le sue capacità.\nOra può fare movimenti che non erano programmati."
+      },
+      {
+        "game": "xy-y",
+        "text": "Gli è stato installato un programma di sviluppo\nplanetario che lo rende capace di lavorare nello\nspazio."
+      },
+      {
+        "game": "oras-or",
+        "text": "Porygon2 è una creatura artificiale frutto del sapere scientifico.\nQuesto Pokémon è dotato di un’intelligenza artificiale che\ngli consente d’imparare autonomamente nuovi comportamenti\ned emozioni."
+      },
+      {
+        "game": "oras-as",
+        "text": "Porygon2 è una creatura artificiale frutto del sapere scientifico.\nQuesto Pokémon è dotato di un’intelligenza artificiale che\ngli consente d’imparare autonomamente nuovi comportamenti\ned emozioni."
+      },
+      {
+        "game": "sm-s",
+        "text": "È stato creato aggiornando Porygon con la\ntecnologia più avanzata per l’epoca, in vista\ndi un progetto di sviluppo planetario."
+      },
+      {
+        "game": "sm-m",
+        "text": "È nato da un potenziamento di Porygon per un\nprogetto di esplorazione di altri pianeti che\nperò non ha avuto successo."
+      },
+      {
+        "game": "usum-us",
+        "text": "Dotato di intelligenza artificiale, è in grado di\nimparare autonomamente molte cose... anche\nquelle che non dovrebbe!"
+      },
+      {
+        "game": "usum-um",
+        "text": "Sopravvive anche nello spazio, ma non è in\ngrado di muoversi agevolmente a causa\ndell’assenza di gravità."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "È un Porygon aggiornato con dei dati particolari.\nCresce imparando autonomamente svariate cose."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Dopo essere stati dotati d’intelligenza artificiale,\ni Porygon2 hanno cominciato a parlare fra di loro\nutilizzando una lingua misteriosa."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Porygon2",
+    "genus": "Virtual Pokémon",
+    "flavorText": [
+      {
+        "game": "gs-g",
+        "text": "This upgraded\nversion of PORYGON\nis designed for\fspace exploration.\nIt can't fly,\nthough."
+      },
+      {
+        "game": "gs-s",
+        "text": "Further research\nenhanced its abil­\nities. Sometimes,\fit may exhibit\nmotions that were\nnot programmed."
+      },
+      {
+        "game": "c",
+        "text": "This manmade\nPOKéMON evolved\nfrom the latest\ftechnology. It\nmay have unprog­\nrammed reactions."
+      },
+      {
+        "game": "rs-r",
+        "text": "PORYGON2 was created by humans using\nthe power of science. The man-made\nPOKéMON has been endowed with\fartificial intelligence that enables it\nto learn new gestures and emotions\non its own."
+      },
+      {
+        "game": "rs-s",
+        "text": "PORYGON2 was created by humans using\nthe power of science. The man-made\nPOKéMON has been endowed with\fartificial intelligence that enables it\nto learn new gestures and emotions\non its own."
+      },
+      {
+        "game": "e",
+        "text": "It was created by humans using the power\nof science. It has been given artificial\nintelligence that enables it to learn new\ngestures and emotions on its own."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "Further research enhanced its abilities.\nSometimes, it may exhibit motions that\nwere not programmed."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "This upgraded version of PORYGON is\ndesigned for space exploration. However,\nit can’t even fly."
+      },
+      {
+        "game": "dp-d",
+        "text": "With planetary development\nsoftware installed, it became\ncapable of working in space."
+      },
+      {
+        "game": "dp-p",
+        "text": "With planetary development\nsoftware installed, it became\ncapable of working in space."
+      },
+      {
+        "game": "pt",
+        "text": "It was upgraded to enable the\nexploration of other planets.\nHowever, it failed to measure up."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "This upgraded version of PORYGON\nis designed for space exploration.\nIt can’t fly, however."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "Further research enhanced its \nabilities. Sometimes, it may exhibit\nmotions that were not programmed."
+      },
+      {
+        "game": "bw-b",
+        "text": "It was upgraded to enable the\nexploration of other planets.\nHowever, it failed to measure up."
+      },
+      {
+        "game": "bw-w",
+        "text": "It was upgraded to enable the\nexploration of other planets.\nHowever, it failed to measure up."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "It was upgraded to enable the\nexploration of other planets.\nHowever, it failed to measure up."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "It was upgraded to enable the\nexploration of other planets.\nHowever, it failed to measure up."
+      },
+      {
+        "game": "xy-x",
+        "text": "Further research enhanced its abilities. Sometimes,\nit may exhibit motions that were not programmed."
+      },
+      {
+        "game": "xy-y",
+        "text": "With planetary development software installed,\nit became capable of working in space."
+      },
+      {
+        "game": "oras-or",
+        "text": "Porygon2 was created by humans using the power of science.\nThe man-made Pokémon has been endowed with artificial\nintelligence that enables it to learn new gestures and emotions\non its own."
+      },
+      {
+        "game": "oras-as",
+        "text": "Porygon2 was created by humans using the power of science.\nThe man-made Pokémon has been endowed with artificial\nintelligence that enables it to learn new gestures and emotions\non its own."
+      },
+      {
+        "game": "sm-s",
+        "text": "For the purposes of planetary development,\nPorygon was updated with the most\ncutting-edge technology available."
+      },
+      {
+        "game": "sm-m",
+        "text": "Porygon was updated to a new version in\nreadiness for planetary development. But that\ndream remains unrealized as yet."
+      },
+      {
+        "game": "usum-us",
+        "text": "AI has been installed in it. It learns various\nthings all on its own, but it even remembers\nthings it doesn’t need to know."
+      },
+      {
+        "game": "usum-um",
+        "text": "Even though it doesn’t die in the vacuum of\nspace, it can’t move around very well in\nzero gravity."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "This is a Porygon that was updated with special\ndata. Porygon2 develops itself by learning about\nmany different subjects all on its own."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "After artificial intelligence was implemented in\nPorygon2, the Pokémon began using a strange\nlanguage that only other Porygon2 understand."
+      },
+      {
+        "game": "la",
+        "text": "A bizarre item caused this Pokémon to evolve. While it now\nexhibits many new gestures and expressions, its biology\nremains inscrutable."
+      }
+    ]
+  },
+  "chs": {
+    "name": "多边兽２型",
+    "genus": "虚拟宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "将行星的开发纳入视野，\n以当时的最新技术升级了多边兽。"
+      },
+      {
+        "game": "sm-m",
+        "text": "以行星的开发为目标\n将多边兽升级而成，\n但离实现梦想还有很长距离。"
+      },
+      {
+        "game": "usum-us",
+        "text": "搭载有ＡＩ。\n会自己学习各种各样的事情，\n但也会记住一些多余的东西。"
+      },
+      {
+        "game": "usum-um",
+        "text": "虽然在宇宙空间里也不会死亡，\n但在无重力的环境下，\n它无法顺利地转动身体。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "通过特别的数据使多边兽\n得以升级。能自己学会\n各种各样的事情实现成长。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "在装载了ＡＩ功能后，\n多边兽２型便开始用只有彼此\n能懂的神秘语言互相交流了。"
+      }
+    ]
+  }
+}

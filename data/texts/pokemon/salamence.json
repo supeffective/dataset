@@ -1,0 +1,453 @@
+{
+  "jap": {
+    "name": "ボーマンダ",
+    "genus": "ドラゴンポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "おこらせると　てが　つけられない。\nすべての　ものを　ツメで　きりさき\nほのおで　もやして　はかいする。"
+      },
+      {
+        "game": "xy-y",
+        "text": "ひとたび　おこると　おおあばれ。\nそらを　とびながら　ちじょうの\nのやまを　ほのおで　やきはらう。"
+      },
+      {
+        "game": "oras-or",
+        "text": "つばさが　ほしいと　つよく　おもい　つづけてきた\nけっか　からだの　さいぼうが　とつぜんへんいを\nおこし　みごとな　つばさが　はえてきたと　いう。"
+      },
+      {
+        "game": "oras-as",
+        "text": "ゆめにまで　みた　つばさが　やっと　はえてきた。\nうれしい　きもちを　あらわすため　おおぞらを\nとびまわり　ほのおを　はいて　よろこんでいる。"
+      },
+      {
+        "game": "sm-s",
+        "text": "おこると　われを　わすれ　あたりを\nこわしまわる。　ボーマンダが\nつかれはてるまで　はかいは　つづく。"
+      },
+      {
+        "game": "sm-m",
+        "text": "ついに　はえた　つばさで　おおぞらを\nかけめぐる。　うれしくて　かえんを\nはいて　いちめんを　やけのはらにする。"
+      },
+      {
+        "game": "usum-us",
+        "text": "ついに　とべたよろこびで　おおぞらを\nかけめぐる。　つかれはて　ねむるまで\nちじょうに　ほとんど　おりてこない。"
+      },
+      {
+        "game": "usum-um",
+        "text": "つよく　ねがいつづけて　きた　けっか\nからだの　さいぼうが　とつぜんへんい。\nねんがんの　つばさを　てにいれた。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "そらを　とぶことを　ねがいつづけた\nけっか　つばさを　もつ　からだに\nしんかできた　めずらしい　ポケモン。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "おおぞらを　とぶ　よろこびに　ひたり\nじょうきげんだが　おこらせると\nてが　つけられない　らんぼうもの。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Bohmander",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "보만다",
+    "genus": "드래곤포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "화나게 하면 어쩔 도리가 없다.\n모든 것을 발톱으로 갈기갈기 찢고\n불꽃으로 태워서 파괴한다."
+      },
+      {
+        "game": "xy-y",
+        "text": "한번 화내면 크게 난동을 부린다.\n하늘을 날며 지상의\n산과 들을 불꽃으로 모조리 태운다."
+      },
+      {
+        "game": "oras-or",
+        "text": "날개가 갖고 싶다는 굳건한 바람이 계속된\n결과 몸의 세포가 돌연변이를\n일으켜서 멋진 날개가 돋아났다고 한다."
+      },
+      {
+        "game": "oras-as",
+        "text": "꿈에 그리던 날개가 드디어 생겨났다.\n기쁜 마음을 표현하기 위해 넓은 하늘을\n날아다니며 불꽃을 내뿜으며 기뻐한다."
+      },
+      {
+        "game": "sm-s",
+        "text": "화가 나면 이성을 잃고 주변을\n부수며 돌아다닌다. 보만다가\n녹초가 될 때까지 파괴는 계속된다."
+      },
+      {
+        "game": "sm-m",
+        "text": "드디어 자라난 날개로 넓은 하늘을\n날아다닌다. 기쁜 마음에 화염을\n뿜어 일대를 불태워 버린다."
+      },
+      {
+        "game": "usum-us",
+        "text": "드디어 날 수 있다는 기쁨에 넓은 하늘을\n날아다닌다. 지쳐서 잠들기 전까지\n지상으로 거의 내려오지 않는다."
+      },
+      {
+        "game": "usum-um",
+        "text": "강하게 바라고 바란 결과\n몸의 세포가 돌연변이를 일으켜서\n염원하던 날개를 손에 넣었다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "하늘을 나는 것을 꿈꿔온 결과\n날개를 가진 몸으로 진화하는 데\n성공한 희귀한 포켓몬."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "넓은 하늘을 나는 기쁨에\n크게 들떠 있지만 화나게 하면\n손 쓸 수 없을 정도로 난폭하다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "暴飛龍",
+    "genus": "龍寶可夢",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "一生氣就會忘記自我，把周圍\n都破壞掉。破壞會持續不斷，\n直到暴飛龍精疲力盡。"
+      },
+      {
+        "game": "sm-m",
+        "text": "用終於長出來的翅膀在浩瀚的\n天空翱翔。高興地噴出火焰，\n將大地變成一片火海。"
+      },
+      {
+        "game": "usum-us",
+        "text": "因為終於能飛的喜悅而不斷\n在天空四處翱翔。在耗盡體力\n而入睡之前，幾乎不會降落。"
+      },
+      {
+        "game": "usum-um",
+        "text": "在不斷地強烈祈求之下，\n身體的細胞發生了突變，\n讓牠得到了夢寐以求的翅膀。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "長久夢想著要飛上天，\n進化後身上終於長出了\n翅膀的稀奇寶可夢。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "沉浸在翱翔天空的喜悅時，\n心情會非常好。但性情粗暴，\n一旦被激怒就會一發不可收拾。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Drattak",
+    "genus": "Pokémon Dragon",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "À force de rêver de pouvoir voler,\nsa structure cellulaire a évolué\net il s’est vu pousser des ailes."
+      },
+      {
+        "game": "bw-w",
+        "text": "À force de rêver de pouvoir voler,\nsa structure cellulaire a évolué\net il s’est vu pousser des ailes."
+      },
+      {
+        "game": "xy-x",
+        "text": "Une fois enragé, plus rien ne peut arrêter Drattak.\nIl détruit tout ce qu’il voit en utilisant ses griffes ou\nen crachant des flammes."
+      },
+      {
+        "game": "xy-y",
+        "text": "Ses colères sont dévastatrices. Il s’envole et brûle\ntout sur son passage."
+      },
+      {
+        "game": "oras-or",
+        "text": "Drattak a ce physique grâce à son désir de pouvoir s’envoler.\nOn dit que cette puissante envie a déclenché une soudaine\nmutation moléculaire de ce Pokémon, faisant surgir de\nsplendides ailes."
+      },
+      {
+        "game": "oras-as",
+        "text": "En évoluant en Drattak, ce Pokémon réalise un rêve\nd’enfance, celui d’avoir des ailes. Pour exprimer sa joie,\nil vole et plane dans les cieux en crachant des flammes."
+      },
+      {
+        "game": "sm-s",
+        "text": "Quand il est pris de colère, il perd toute mesure\net détruit ce qui l’entoure. Tant qu’il lui reste une\nonce d’énergie, il continue de tout dévaster."
+      },
+      {
+        "game": "sm-m",
+        "text": "Il fend l’air et virevolte dans le ciel grâce à ses\nailes fraîchement formées. De bonheur, il crache\ndu feu et dévaste toutes les cultures au sol."
+      },
+      {
+        "game": "usum-us",
+        "text": "Maintenant qu’il peut enfin voler, il passe tout\nson temps à parcourir le ciel et ne redescend\nque quand il tombe d’épuisement."
+      },
+      {
+        "game": "usum-um",
+        "text": "Après avoir prié jour et nuit de tout son cœur,\nson souhait a enfin été exaucé : ses cellules\nont muté pour donner naissance à des ailes !"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Ce Pokémon rare a tellement souhaité\nvoler qu’il s’est vu pousser des ailes\npendant son évolution."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Heureux de pouvoir voler dans le ciel, il est\nsouvent de bonne humeur, mais il devient\nincontrôlable lorsqu’on le met en colère."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Brutalanda",
+    "genus": "Drachen-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Wenn es wütend ist, gerät es außer Kontrolle.\nEs zerstört alles mit seinen Klauen und mit Feuer."
+      },
+      {
+        "game": "xy-y",
+        "text": "Ist es einmal wütend, flippt es aus. Es fliegt über\ndas Land und spuckt Feuer, das alles verbrennt."
+      },
+      {
+        "game": "oras-or",
+        "text": "Es träumte sehr lange davon, dass ihm Flügel wachsen\nmögen. Dieser sehnliche Wunsch hat wohl eine plötzliche\nMutation in den Zellen dieses Pokémon hervorgerufen,\nsodass ihm plötzlich prächtige Flügel wuchsen."
+      },
+      {
+        "game": "oras-as",
+        "text": "Indem es sich zu Brutalanda entwickelt, setzt dieses\nPokémon seinen lang gehegten Traum von Flügeln um.\nUm seine Freude zu zeigen, fliegt es durch die Luft und\ndreht sich. Dabei spuckt es Flammen aus seinem Mund."
+      },
+      {
+        "game": "sm-s",
+        "text": "Wenn es wütend ist, kann es nicht mehr klar\ndenken und zerstört alles um sich herum.\nDas tut es bis zur völligen Erschöpfung."
+      },
+      {
+        "game": "sm-m",
+        "text": "Nun, da ihm Flügel gewachsen sind, zieht es\nseine Kreise am Himmel. Vor Freude spuckt\nes Flammen und hinterlässt eine Brandwüste."
+      },
+      {
+        "game": "usum-us",
+        "text": "Voller Freude darüber, endlich fliegen zu können,\nkreist es am Himmel. Es kommt erst wieder zu\nBoden, wenn es am Rande der Erschöpfung ist."
+      },
+      {
+        "game": "usum-um",
+        "text": "Als Ergebnis seines lang gehegten Wunsches\nhaben seine Zellen eine plötzliche Mutation\nvollzogen und ihm sind Flügel gewachsen."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Diesem ungewöhnlichen Pokémon sind im Zuge\nseiner Entwicklung Flügel gewachsen, nur weil es\nden sehnlichen Wunsch hatte, fliegen zu können."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Brutalanda freut sich ungemein darüber, endlich\nfliegen zu können, doch wenn es wütend wird,\ngerät es außer Kontrolle."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Salamence",
+    "genus": "Pokémon Dragón",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Si se enfada, no hay forma de calmarlo; lo destruye\ntodo lanzando arañazos y llamas."
+      },
+      {
+        "game": "xy-y",
+        "text": "Si se enfada, no hay forma de que se calme. Echa a\nvolar e incendia campos y montañas desde el cielo."
+      },
+      {
+        "game": "oras-or",
+        "text": "Salamence surgió del profundo deseo de tener alas. Dicen\nque este fuerte deseo fue lo que causó la repentina mutación\nde las células y el crecimiento de las alas."
+      },
+      {
+        "game": "oras-as",
+        "text": "Al evolucionar Shelgon y convertirse por fin en Salamence, ve\ncumplido el sueño de su vida de tener alas. Para expresar su\nalegría, Salamence vuela y revolotea por el cielo al tiempo\nque lanza llamas por la boca."
+      },
+      {
+        "game": "sm-s",
+        "text": "Cuando se enfada, pierde el control y destruye\ntodo lo que está a su alcance. Solo se calma\ncuando se queda sin fuerzas."
+      },
+      {
+        "game": "sm-m",
+        "text": "Feliz de haber desarrollado al fin sus alas y de\npoder volar por el cielo, calcina con sus llamas\ntodos los campos que sobrevuela."
+      },
+      {
+        "game": "usum-us",
+        "text": "Ahora que por fin puede volar, surca los cielos\ncon una sonrisa en el rostro. No pisa tierra firme\na no ser que tenga que dormir o esté exhausto."
+      },
+      {
+        "game": "usum-um",
+        "text": "Su fuerte y firme deseo de volar provocó una\nmutación repentina de su estructura celular que\nle permitió obtener las alas que tanto ansiaba."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Un Pokémon poco común que, tras desear\ncon todas sus fuerzas poder volar, consiguió\nun cuerpo alado al evolucionar."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Feliz de ver cumplido su deseo, surca los cielos\ncon buen ánimo, pero, si se enfada, se vuelve\nviolento e incontrolable."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Salamence",
+    "genus": "Pokémon Drago",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Quando è adirato diventa una furia. Con i suoi artigli\nlaceranti e le fiammate che lancia può distruggere\nqualsiasi cosa."
+      },
+      {
+        "game": "xy-y",
+        "text": "Quando è adirato diventa una furia. Volteggia nel cielo\nsputando fiamme che bruciano le campagne intorno."
+      },
+      {
+        "game": "oras-or",
+        "text": "Salamence rappresenta la realizzazione del sogno atavico\ne irrinunciabile di volare. Si dice che questo forte desiderio\nabbia scatenato l’improvvisa mutazione delle sue cellule,\nportando infine alla crescita di ali meravigliose."
+      },
+      {
+        "game": "oras-as",
+        "text": "Evolvendosi in Salamence, questo Pokémon realizza finalmente\nil suo antico sogno di volare. Per esprimere la sua gioia,\nvolteggia e turbina nel cielo sputando fiamme dalla bocca."
+      },
+      {
+        "game": "sm-s",
+        "text": "Se si infuria, perde completamente il controllo.\nDevasta tutto ciò che ha intorno e non si ferma\nfinché non è sfinito."
+      },
+      {
+        "game": "sm-m",
+        "text": "Volteggia nel cielo con le grandi ali cresciutegli\ncon l’evoluzione. Esprime la sua gioia sputando\nfiamme e bruciando le campagne che sorvola."
+      },
+      {
+        "game": "usum-us",
+        "text": "Esprime la sua gioia di essere finalmente in\ngrado di volare scorrazzando nel cielo e scende\na terra solo quando è sfinito e assonnato."
+      },
+      {
+        "game": "usum-um",
+        "text": "Il suo intenso desiderio di volare ha provocato\nuna mutazione cellulare che ha fatto nascere le\ntanto agognate ali."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Questo insolito Pokémon è riuscito a evolversi\nin una creatura dotata di ali in seguito al suo\nintenso desiderio di librarsi nel cielo."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "È generalmente di buon umore e traboccante\ndi gioia per essere riuscito a volare, ma se si\narrabbia diventa una furia incontrollabile."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Salamence",
+    "genus": "Dragon Pokémon",
+    "flavorText": [
+      {
+        "game": "rs-r",
+        "text": "SALAMENCE came about as a result of a\nstrong, long-held dream of growing\nwings. It is said that this powerful\fdesire triggered a sudden mutation in\nthis POKéMON’s cells, causing it to\nsprout its magnificent wings."
+      },
+      {
+        "game": "rs-s",
+        "text": "By evolving into SALAMENCE, this\nPOKéMON finally realizes its long-held\ndream of growing wings.\fTo express its joy, it flies and wheels\nall over the sky while spouting flames\nfrom its mouth."
+      },
+      {
+        "game": "e",
+        "text": "After many long years, its cellular\nstructure underwent a sudden mutation to\ngrow wings. When angered, it loses all\nthought and rampages out of control."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "It becomes uncontrollable if it is\nenraged. It destroys everything with\nshredding claws and fire."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "It becomes uncontrollable if it is\nenraged. It destroys everything with\nshredding claws and fire."
+      },
+      {
+        "game": "dp-d",
+        "text": "As a result of its long-held dream\nof flying, its cellular structure\nchanged, and wings grew out."
+      },
+      {
+        "game": "dp-p",
+        "text": "As a result of its long-held dream\nof flying, its cellular structure\nchanged, and wings grew out."
+      },
+      {
+        "game": "pt",
+        "text": "As a result of its long-held dream\nof flying, its cellular structure\nchanged, and wings grew out."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "It’s uncontrollable if enraged.\nIt flies around spouting flames and\nscorching fields and mountains."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "It’s uncontrollable if enraged.\nIt flies around spouting flames and\nscorching fields and mountains."
+      },
+      {
+        "game": "bw-b",
+        "text": "As a result of its long-held dream\nof flying, its cellular structure\nchanged, and wings grew out."
+      },
+      {
+        "game": "bw-w",
+        "text": "As a result of its long-held dream\nof flying, its cellular structure\nchanged, and wings grew out."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "As a result of its long-held dream\nof flying, its cellular structure\nchanged, and wings grew out."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "As a result of its long-held dream\nof flying, its cellular structure\nchanged, and wings grew out."
+      },
+      {
+        "game": "xy-x",
+        "text": "It becomes uncontrollable if it is enraged. It\ndestroys everything with shredding claws and fire."
+      },
+      {
+        "game": "xy-y",
+        "text": "It’s uncontrollable if enraged. It flies around\nspouting flames and scorching fields\nand mountains."
+      },
+      {
+        "game": "oras-or",
+        "text": "Salamence came about as a result of a strong, long-held\ndream of growing wings. It is said that this powerful desire\ntriggered a sudden mutation in this Pokémon’s cells,\ncausing it to sprout its magnificent wings."
+      },
+      {
+        "game": "oras-as",
+        "text": "By evolving into Salamence, this Pokémon finally\nrealizes its long-held dream of growing wings. To express\nits joy, it flies and wheels all over the sky while spouting\nflames from its mouth."
+      },
+      {
+        "game": "sm-s",
+        "text": "When angered, it loses all sense of itself and\ndestroys everything around it. The destruction\nwill continue until Salamence has tired itself out."
+      },
+      {
+        "game": "sm-m",
+        "text": "It flies around on its wings, which have grown in\nat last. In its happiness, it gushes hot flames,\nburning up the fields it passes over."
+      },
+      {
+        "game": "usum-us",
+        "text": "Overjoyed at finally being able to fly, it flies all\nover the place and usually doesn’t land until it’s\ncompletely exhausted and needs to sleep."
+      },
+      {
+        "game": "usum-um",
+        "text": "Thanks to its fervent wishes, the cells in its\nbody finally mutated, and at last it has its\nheart’s desire—wings."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Salamence is an unusual Pokémon in that it\nwas able to evolve a body with wings just by\nconstantly wishing to be able to fly."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "While basking in the joy of flight generally keeps\nthis Pokémon in high spirits, Salamence turns into\nan uncontrollable menace if something angers it."
+      }
+    ]
+  },
+  "chs": {
+    "name": "暴飞龙",
+    "genus": "龙宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "一生气就会忘记自我，把周围\n都破坏掉。破坏会持续不断，\n直到暴飞龙精疲力尽。"
+      },
+      {
+        "game": "sm-m",
+        "text": "用最后终于长出来的翅膀在浩瀚的\n天空翱翔。兴奋地喷出火焰，\n将大地变成一片燃烧的原野。"
+      },
+      {
+        "game": "usum-us",
+        "text": "因为终于能飞的喜悦，\n而在天空四处疾飞。\n不到精疲力竭要睡觉就几乎不落地。"
+      },
+      {
+        "game": "usum-um",
+        "text": "因为不断强烈地祈求着，\n结果身体的细胞发生了突然变异。\n终于得到了心心念念的翅膀。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "一直渴望能飞上天空，\n进化后身体上终于长出了\n翅膀的珍奇宝可梦。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "虽然在空中翱翔能够让它\n乐在其中，但是一旦被惹怒，\n就会大闹一番，不可收拾。"
+      }
+    ]
+  }
+}

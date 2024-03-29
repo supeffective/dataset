@@ -1,0 +1,133 @@
+{
+  "jap": {
+    "name": "イオルブ",
+    "genus": "ななほしポケモン",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "かしこい　ポケモンとして　ゆうめい。\nおおきな　のうみそは　きょうりょくな\nサイコパワーを　もつ　あかし。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "サイコパワーを　はなち　しゅういを\nしらべている。　かんそくはんいは\nしゅうい　１０キロにも　たっするぞ。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Eolb",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "이올브",
+    "genus": "칠성포켓몬",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "똑똑한 포켓몬으로 유명하다.\n커다란 두뇌는 강력한\n사이코 파워를 가졌다는 증거다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "사이코 파워를 발산해 주위를\n조사한다. 관측 범위는\n주변 10km에 달한다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "以歐路普",
+    "genus": "七星寶可夢",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "以頭腦聰慧而聞名。\n大大的腦子是牠擁有\n出眾精神力量的證明。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "釋放出精神力量來調查\n周圍的情況。牠的偵測範圍\n甚至可以達到方圓１０公里。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Astronelle",
+    "genus": "Pokémon Sept Points",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Il est renommé pour son intelligence.\nSon gros cerveau est un indicateur de la puissance\nde ses pouvoirs psychiques."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Il déploie ses pouvoirs psychiques pour sonder\nles alentours, sur un rayon pouvant atteindre\n10 km."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Maritellit",
+    "genus": "Siebensterne-Pokémon",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Es ist allseits als sehr schlaues Pokémon bekannt.\nSein großes Gehirn ist ein Indiz dafür, dass es\nüber mächtige Psycho-Kräfte verfügt."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Indem es Psycho-Kräfte ausstrahlt, erfasst es die\nUmgebung. Seine Observation umfasst dabei\neinen beeindruckenden Umkreis von 10 km."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Orbeetle",
+    "genus": "Pokémon Siete Puntos",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Este Pokémon es conocido por su inteligencia.\nEl gran tamaño de su cerebro es un indicio de\nla magnitud de sus poderes psíquicos."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Se sirve de sus poderes psíquicos, con los que\nes capaz de percibir lo que ocurre en un radio\nde 10 km, para examinar sus alrededores."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Orbeetle",
+    "genus": "Pokémon Settepunti",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Questo Pokémon è famoso per la sua\nintelligenza. Il cervello molto sviluppato è\nuna spia dei suoi fenomenali poteri psichici."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Grazie ai suoi poteri psichici è in grado di tenere\nsotto controllo la situazione in un’area di ben\n10 km attorno a lui."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Orbeetle",
+    "genus": "Seven Spot Pokémon",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "It’s famous for its high level of intelligence, and\nthe large size of its brain is proof that it also\npossesses immense psychic power."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "It emits psychic energy to observe and study\nwhat’s around it—and what’s around it can\ninclude things over six miles away."
+      }
+    ]
+  },
+  "chs": {
+    "name": "以欧路普",
+    "genus": "七星宝可梦",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "以头脑聪慧而闻名。\n大大的脑子是它拥有\n出众精神力量的证明。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "释放出精神力量来调查\n周围的情况。它的侦测范围\n甚至可以达到方圆１０公里。"
+      }
+    ]
+  }
+}

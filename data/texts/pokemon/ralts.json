@@ -1,0 +1,313 @@
+{
+  "jap": {
+    "name": "ラルトス",
+    "genus": "きもちポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "あかいツノで　ひとや　ポケモンの\nあたたかな　きもちを　キャッチすると\nぜんしんが　ほのかに　あつくなる。"
+      },
+      {
+        "game": "xy-y",
+        "text": "ひとや　ポケモンの　かんじょうを\nびんかんに　キャッチ。てきいを\nかんじると　ものかげに　かくれる。"
+      },
+      {
+        "game": "oras-or",
+        "text": "あたまの　ツノで　ひとの　きもちを　かんじとる。\nひとまえには　めったに　すがたを　あらわさないが\nまえむきな　きもちを　キャッチすると　ちかよる。"
+      },
+      {
+        "game": "oras-as",
+        "text": "ひとの　かんじょうを　さっちする　ちからを　もち\nトレーナーが　あかるい　きぶんの　ときには\nいっしょに　なって　よろこぶ　ポケモンだ。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "ひとや　ポケモンの　かんじょうを\nびんかんに　キャッチ。　てきいを\nかんじると　ものかげに　かくれる。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "あかいツノで　ひとや　ポケモンの\nあたたかな　きもちを　キャッチすると\nぜんしんが　ほのかに　あつくなる。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Ralts",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "랄토스",
+    "genus": "느낌포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "빨간 뿔로 사람이나 포켓몬의\n따뜻한 마음을 캐치하면\n전신이 미약하게 뜨거워진다."
+      },
+      {
+        "game": "xy-y",
+        "text": "사람이나 포켓몬의 감정을\n민감하게 캐치한다. 적의를\n느끼면 그늘로 숨는다."
+      },
+      {
+        "game": "oras-or",
+        "text": "머리의 뿔로 사람의 기분을 감지한다.\n사람 앞에는 좀처럼 모습을 나타내지 않지만\n긍정적인 기분을 캐치하면 다가온다."
+      },
+      {
+        "game": "oras-as",
+        "text": "사람의 감정을 감지하는 힘을 지녀서\n트레이너가 밝은 감정일 때는\n함께하며 기뻐하는 포켓몬이다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "사람이나 포켓몬의 감정을\n민감하게 캐치한다.\n적의가 느껴지면 그늘로 숨는다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "빨간 뿔로 사람이나 포켓몬의\n따뜻한 마음을 캐치하면\n전신이 미약하게 뜨거워진다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "拉魯拉絲",
+    "genus": "心情寶可夢",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "能敏銳地感知人和寶可夢\n的感情。一旦感受到敵意\n就會躲進暗處。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "用紅色的角感知到\n人和寶可夢的溫情後，\n全身也會變得有點暖暖的。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Tarsal",
+    "genus": "Pokémon Sentiment",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Quand ses cornes captent les ondes\npositives d’un Pokémon ou d’un\nhumain, son corps se réchauffe."
+      },
+      {
+        "game": "bw-w",
+        "text": "Quand ses cornes captent les ondes\npositives d’un Pokémon ou d’un\nhumain, son corps se réchauffe."
+      },
+      {
+        "game": "xy-x",
+        "text": "Quand ses cornes captent les ondes positives d’un\nPokémon ou d’un humain, son corps se réchauffe."
+      },
+      {
+        "game": "xy-y",
+        "text": "Il est très sensible aux émotions des gens et\ndes Pokémon. Il se cache au moindre signe\nd’hostilité."
+      },
+      {
+        "game": "oras-or",
+        "text": "Tarsal ressent les émotions des gens grâce à ses cornes.\nCe Pokémon se montre rarement, mais il arrive qu’il s’approche\nd’une personne s’il la sent dans un état d’esprit positif."
+      },
+      {
+        "game": "oras-as",
+        "text": "Tarsal a le pouvoir de ressentir les émotions des gens.\nSi son Dresseur est d’humeur joyeuse, ce Pokémon devient\nlui aussi gai et enjoué."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Il est très sensible aux émotions des gens\net des Pokémon. Il se cache au moindre\nsigne d’hostilité."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Quand ses cornes rouges captent les ondes\npositives d’un Pokémon ou d’un humain,\ntout son corps se réchauffe."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Trasla",
+    "genus": "Gefühls-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Es erfasst warme Gefühle von Menschen\nund Pokémon mit seinen Hörnern und wärmt\nsich daran auf."
+      },
+      {
+        "game": "xy-y",
+        "text": "Es nimmt die Gefühle der Menschen und Pokémon\nmit großer Sorgfalt wahr. Spürt es Feindseligkeit,\nversteckt es sich."
+      },
+      {
+        "game": "oras-or",
+        "text": "Trasla nimmt mit den Hörnern an seinem Kopf die Gefühle\nvon Menschen wahr. Menschen bekommen dieses Pokémon\nnur selten zu Gesicht. Wenn es bemerkt, dass eine Person\ngut gelaunt ist, traut es sich näher an sie heran."
+      },
+      {
+        "game": "oras-as",
+        "text": "Trasla hat die Fähigkeit, die Emotionen von Menschen\nwahrzunehmen. Wenn sein Trainer gute Laune hat,\nist dieses Pokémon ebenfalls fröhlich."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Es hat ein feines Gespür für die Gefühle der\nMenschen und Pokémon. Wenn es Feindseligkeit\nwahrnimmt, versteckt es sich."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Wenn es mit seinen roten Hörnern freundliche\nGefühle von Menschen oder Pokémon erfasst,\nerwärmt sich sein ganzer Körper ein bisschen."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Ralts",
+    "genus": "Pokémon Sensible",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Si sus cuernos perciben emociones positivas de\npersonas o Pokémon, su cuerpo se calienta un poco."
+      },
+      {
+        "game": "xy-y",
+        "text": "Capta muy bien lo que sienten las personas y los\nPokémon. Cuando nota cierta hostilidad, se esconde."
+      },
+      {
+        "game": "oras-or",
+        "text": "Ralts percibe las sensaciones de la gente por los cuernos que\ntiene encima y detrás de la cabeza. No es común que este\nPokémon aparezca en público, pero cuando lo hace, se acerca\nsi ve buena disposición en la gente."
+      },
+      {
+        "game": "oras-as",
+        "text": "Ralts tiene la habilidad de percibir las sensaciones que tiene\nla gente. Si su Entrenador está alegre, este Pokémon se\npondrá igualmente contento."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Capta muy bien lo que sienten las personas y\nlos Pokémon. Cuando nota cierta hostilidad, se\nesconde."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Si sus cuernos perciben emociones positivas de\npersonas o Pokémon, su cuerpo se calienta un\npoco."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Ralts",
+    "genus": "Pokémon Sensazione",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Se con le corna avverte emozioni positive di persone\no Pokémon, il suo corpo si scalda leggermente."
+      },
+      {
+        "game": "xy-y",
+        "text": "È molto sensibile agli umori delle persone e degli altri\nPokémon. Se avverte ostilità, va a nascondersi."
+      },
+      {
+        "game": "oras-or",
+        "text": "Ralts percepisce le emozioni delle persone usando le corna\nposte sul capo. Raramente si fa vedere dagli esseri umani,\nma se percepisce un’energia positiva provenire da qualcuno\nè possibile che si avvicini."
+      },
+      {
+        "game": "oras-as",
+        "text": "Ralts ha la capacità di percepire le emozioni delle persone.\nSe il suo Allenatore è di buon umore, questo influisce\npositivamente sul carattere di Ralts, che crescerà così\nallegro e gioioso."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "È molto sensibile agli umori delle persone e\ndegli altri Pokémon. Se avverte ostilità, va a\nnascondersi."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Se con le sue corna rosse avverte emozioni\npositive di persone o Pokémon, il suo corpo\nsi scalda leggermente."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Ralts",
+    "genus": "Feeling Pokémon",
+    "flavorText": [
+      {
+        "game": "rs-r",
+        "text": "RALTS senses the emotions of\npeople using the horns on its head.\nThis POKéMON rarely appears before\fpeople. But when it does, it draws\ncloser if it senses that the person has\na positive disposition."
+      },
+      {
+        "game": "rs-s",
+        "text": "RALTS has the ability to sense the\nemotions of people.\nIf its TRAINER is in a cheerful mood,\fthis POKéMON grows cheerful and joyous\nin the same way."
+      },
+      {
+        "game": "e",
+        "text": "A RALTS has the power to sense the\nemotions of people and POKéMON with the\nhorns on its head. It takes cover if it\nsenses any hostility."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "It is highly attuned to the emotions of\npeople and POKéMON. It hides if it senses\nhostility."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "It is highly attuned to the emotions of\npeople and POKéMON. It hides if it senses\nhostility."
+      },
+      {
+        "game": "dp-d",
+        "text": "It uses the horns on its head to\nsense human emotions. It is said to\nappear in front of cheerful people."
+      },
+      {
+        "game": "dp-p",
+        "text": "It uses the horns on its head to\nsense human emotions. It is said to\nappear in front of cheerful people."
+      },
+      {
+        "game": "pt",
+        "text": "If its horns capture the warm\nfeelings of people or Pokémon,\nits body warms up slightly."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "The horns on its head provide a\nstrong power that enables\nit to sense people’s emotions."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "The horns on its head provide\na strong power that enables\nit to sense people’s emotions."
+      },
+      {
+        "game": "bw-b",
+        "text": "If its horns capture the warm\nfeelings of people or Pokémon,\nits body warms up slightly."
+      },
+      {
+        "game": "bw-w",
+        "text": "If its horns capture the warm\nfeelings of people or Pokémon,\nits body warms up slightly."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "If its horns capture the warm\nfeelings of people or Pokémon,\nits body warms up slightly."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "If its horns capture the warm\nfeelings of people or Pokémon,\nits body warms up slightly."
+      },
+      {
+        "game": "xy-x",
+        "text": "If its horns capture the warm feelings of people or\nPokémon, its body warms up slightly."
+      },
+      {
+        "game": "xy-y",
+        "text": "It is highly attuned to the emotions of people and\nPokémon. It hides if it senses hostility."
+      },
+      {
+        "game": "oras-or",
+        "text": "Ralts senses the emotions of people using the horns on\nits head. This Pokémon rarely appears before people.\nBut when it does, it draws closer if it senses that the person\nhas a positive disposition."
+      },
+      {
+        "game": "oras-as",
+        "text": "Ralts has the ability to sense the emotions of people. If its\nTrainer is in a cheerful mood, this Pokémon grows cheerful\nand joyous in the same way."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "It is highly attuned to the emotions of people\nand Pokémon. It hides if it senses hostility."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "If its horns capture the warm feelings of people\nor Pokémon, its body warms up slightly."
+      },
+      {
+        "game": "la",
+        "text": "Tends to prefer people with a chipper disposition to those who\nare gloomy, but it has shown no discrimination with regard to\nage or gender. Needs more research."
+      }
+    ]
+  },
+  "chs": {
+    "name": "拉鲁拉丝",
+    "genus": "心情宝可梦",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "能敏锐地捕捉人和宝可梦的感情。\n感受到敌意后就会躲进暗处。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "用红色的角捕捉到\n人和宝可梦的温情后，\n全身也会稍稍变暖起来。"
+      }
+    ]
+  }
+}

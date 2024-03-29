@@ -1,0 +1,465 @@
+{
+  "kor": {
+    "name": "초라기",
+    "genus": "아귀포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "어두운 해저에서는 항상\n깜빡거리고 있는 촉수의\n빛만이 통신수단이다."
+      },
+      {
+        "game": "xy-y",
+        "text": "2개의 촉수 끝에서\n플러스와 마이너스의 전기를\n흘려보내 상대를 마비시킨다."
+      },
+      {
+        "game": "oras-or",
+        "text": "2개의 촉수로 플러스와 마이너스\n전기를 흘려 먹이를 기절시킨다.\n전기의 빛은 동료와의 신호다."
+      },
+      {
+        "game": "oras-as",
+        "text": "강한 전기를 발생시키는 세포가\n2개의 촉수 안에 채워져 있다.\n자신도 조금은 찌릿하고 마비된다고 한다."
+      },
+      {
+        "game": "sm-s",
+        "text": "2개의 촉수는 원래는 지느러미이다.\n전기를 발산해서 먹이를\n마비시킨 다음 덮친다."
+      },
+      {
+        "game": "sm-m",
+        "text": "빛이 닿지 않는 해저에 산다.\n촉수를 빛내 동료들과\n커뮤니케이션을 한다."
+      },
+      {
+        "game": "usum-us",
+        "text": "2개의 촉수가 어렴풋이 빛나\n먹이를 불러들인다.\n밤낚시에 편리한 포켓몬이다."
+      },
+      {
+        "game": "usum-um",
+        "text": "빛나는 촉수를 깜빡여서\n초라기끼리 서로의\n영역을 주장한다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "지느러미가 변해서 만들어진\n촉수는 각각 플러스와\n마이너스의 전기가 흐르고 있다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "어두운 해저에서는 항상\n깜빡거리는 촉수의 빛이\n유일한 통신 수단이다."
+      }
+    ]
+  },
+  "jap": {
+    "name": "チョンチー",
+    "genus": "あんこうポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "くらい　かいていでは　いつも\nてんめつ　している　しょくしゅの\nあかり　だけが　つうしんしゅだん。"
+      },
+      {
+        "game": "xy-y",
+        "text": "２つの　しょくしゅの　さきから\nプラスと　マイナスの　でんきを\nながして　あいてを　しびれさせる。"
+      },
+      {
+        "game": "oras-or",
+        "text": "２ほんの　しょくしゅから　プラスと　マイナスの\nでんきを　ながして　えものを　きぜつ　させる。\nでんきの　あかりは　なかまとの　サインだ。"
+      },
+      {
+        "game": "oras-as",
+        "text": "つよい　でんきを　はっせいさせる　さいぼうが\n２ほんの　しょくしゅの　なかに　つまっている。\nじぶんも　ちょっと　ピリピリ　しびれるらしい。"
+      },
+      {
+        "game": "sm-s",
+        "text": "２ほんの　しょくしゅは　もとは　ヒレ。\nでんきを　はなって　えものを\nしびれさせてから　おそう。"
+      },
+      {
+        "game": "sm-m",
+        "text": "ひかりの　とどかない　かいていに\nくらす。　しょくしゅを　ひからせ\nなかまと　コミュニケーション。"
+      },
+      {
+        "game": "usum-us",
+        "text": "２ほんの　しょくしゅが　ほのかに\nひかって　えものを　よびよせる。\nよづりに　べんりな　ポケモンだ。"
+      },
+      {
+        "game": "usum-um",
+        "text": "ひかる　しょくしゅの　てんめつで\nチョンチーどうしは　たがいの\nなわばりを　しゅちょう　しあう。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "ひれが　へんかして　できた\nしょくしゅは　それぞれ　プラスと\nマイナスの　でんきが　ながれている。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "くらい　かいていでは　いつも\nてんめつ　している　しょくしゅの\nあかり　だけが　つうしんしゅだん。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Chonchie",
+    "genus": "",
+    "flavorText": []
+  },
+  "cht": {
+    "name": "燈籠魚",
+    "genus": "琵琶魚寶可夢",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "２根觸手原本是鰭。\n會釋放電力讓獵物麻痺後進行襲擊。"
+      },
+      {
+        "game": "sm-m",
+        "text": "在光線無法觸及的海底生活。\n讓觸手發光來與夥伴們交流。"
+      },
+      {
+        "game": "usum-us",
+        "text": "會讓２根觸手微微發光，\n藉此引誘獵物靠近。\n是種在夜釣時很好用的寶可夢。"
+      },
+      {
+        "game": "usum-um",
+        "text": "燈籠魚們會透過\n發光觸手的閃爍\n來宣示彼此的地盤。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "從鰭變化而來的觸手\n之中，分別流通著\n正電以及負電。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "在黑暗的海底，\n觸手上不斷閃爍的亮光\n是牠唯一的通訊手段。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Loupio",
+    "genus": "Pokémon Poisson",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Il envoie des décharges électriques\npositives et négatives du bout des\nantennes pour paralyser sa proie."
+      },
+      {
+        "game": "bw-w",
+        "text": "Il envoie des décharges électriques\npositives et négatives du bout des\nantennes pour paralyser sa proie."
+      },
+      {
+        "game": "xy-x",
+        "text": "Au plus profond de l’océan, son seul moyen de\ncommunication est sa lumière qui clignote\nconstamment."
+      },
+      {
+        "game": "xy-y",
+        "text": "Il émet avec ses antennes des impulsions positives\net négatives qui peuvent électrocuter ses ennemis."
+      },
+      {
+        "game": "oras-or",
+        "text": "Loupio relâche des charges électriques positives et négatives\nde ses deux antennes pour mettre sa proie K.O. Ce Pokémon\nillumine ses ampoules électriques pour communiquer avec\nses congénères."
+      },
+      {
+        "game": "oras-as",
+        "text": "Les deux antennes de Loupio sont chargées de cellules\nqui génèrent un courant de forte intensité. Ces cellules\nlibèrent tellement d’électricité qu’elles vibrent légèrement."
+      },
+      {
+        "game": "sm-s",
+        "text": "Ses deux antennes étaient à l’origine des\nailerons. Il libère de l’électricité pour étourdir\nses proies avant de passer à l’attaque."
+      },
+      {
+        "game": "sm-m",
+        "text": "Il vit dans les profondeurs marines que le soleil\nn’atteint pas. Il utilise ses antennes lumineuses\npour communiquer avec ses congénères."
+      },
+      {
+        "game": "usum-us",
+        "text": "Ses deux antennes luisent légèrement pour\nattirer ses proies. C’est un Pokémon très\npratique pour pêcher la nuit."
+      },
+      {
+        "game": "usum-um",
+        "text": "Les Loupio marquent les limites de leur territoire\nen faisant clignoter leurs antennes."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Ses antennes proviennent d’anciennes nageoires\net sont chargées d’énergies positive et négative."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Au plus profond de l’océan, son seul moyen\nde communication est la lumière de ses antennes,\nqui clignotent constamment."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Lampi",
+    "genus": "Angler-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Am Meeresgrund kann es sich nur durch ständiges\nFlackern seiner Lichter der Umgebung kundtun."
+      },
+      {
+        "game": "xy-y",
+        "text": "Es verschießt negative und positive Elektronen\nzwischen seinen Antennen, um seine Feinde\nzu erlegen."
+      },
+      {
+        "game": "oras-or",
+        "text": "Lampi gibt positive und negative elektrische Ladungen\ndurch seine Antennen ab, um seine Beute zu lähmen.\nDieses Pokémon lässt seine Lichter aufflackern und\ntauscht Signale mit seinen Artgenossen aus."
+      },
+      {
+        "game": "oras-as",
+        "text": "Lampis zwei Antennen sind mit Zellen gefüllt, die Elektrizität\nerzeugen. Die elektrische Ladung ist so stark, dass es sogar\nein leichtes Kribbeln verspürt."
+      },
+      {
+        "game": "sm-s",
+        "text": "Seine zwei Antennen waren ursprünglich\nFlossen. Es greift seine Beute an, indem es\nsie mit Strom lähmt."
+      },
+      {
+        "game": "sm-m",
+        "text": "Es lebt in den Tiefen des Meeres, zu denen kein\nLicht durchdringt. Es kommuniziert mit anderen\nLampi, indem es seine Antennen aufblitzen lässt."
+      },
+      {
+        "game": "usum-us",
+        "text": "Das schwache Licht seiner zwei Antennen\nzieht andere Pokémon an. Es ist somit ein\nidealer Begleiter beim Nachtangeln."
+      },
+      {
+        "game": "usum-um",
+        "text": "Es lässt seine leuchtenden Antennen aufblitzen,\num vor anderen Lampi sein Revier geltend zu\nmachen."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Seine Antennen haben sich aus Flossen entwickelt\nund sind sowohl positiv als auch negativ geladen."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Am dunklen Meeresgrund sind die ständig\nflackernden Lichter seiner Antennen sein\neinziges Kommunikationsmittel."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Chinchou",
+    "genus": "Pokémon Rape",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "En el oscuro fondo del océano, su único modo de\ncomunicarse es emitiendo luces parpadeantes."
+      },
+      {
+        "game": "xy-y",
+        "text": "Descarga electricidad positiva y negativa entre las\npuntas de sus dos antenas y electrocuta al enemigo."
+      },
+      {
+        "game": "oras-or",
+        "text": "Chinchou libera cargas eléctricas positivas y negativas a través\nde las dos antenas que tiene para que su rival pierda el\nconocimiento. Asimismo, usa los destellos de electricidad para\ncomunicarse con otros."
+      },
+      {
+        "game": "oras-as",
+        "text": "Las dos antenas de Chinchou están llenas de células que\ngeneran potente electricidad. Crean tal cantidad que hasta\nel propio Pokémon siente cierto hormigueo."
+      },
+      {
+        "game": "sm-s",
+        "text": "Sus dos antenas antes eran aletas. Ataca a sus\npresas después de haberlas paralizado de una\ndescarga eléctrica."
+      },
+      {
+        "game": "sm-m",
+        "text": "Vive en lo más profundo del océano, donde ya\nno alcanza la luz. Se comunica con los de su\nespecie emitiendo luces con sus antenas."
+      },
+      {
+        "game": "usum-us",
+        "text": "Sus dos antenas emiten una tenue luz con la que\natrae a sus presas. Resulta un compañero ideal\npara una partida de pesca nocturna."
+      },
+      {
+        "game": "usum-um",
+        "text": "Hace parpadear las luces de sus antenas para\ncomunicarse con sus congéneres y así marcar\nsu territorio."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Sus otrora dos aletas han evolucionado a las\nactuales antenas y ambas tienen carga positiva\ny negativa."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "En el oscuro fondo del océano, su único modo\nde comunicarse son las luces parpadeantes que\nemite por las antenas."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Chinchou",
+    "genus": "Pokémon Pescatore",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Negli oscuri fondali oceanici il suo unico mezzo di\ncomunicazione sono le luci sempre lampeggianti."
+      },
+      {
+        "game": "xy-y",
+        "text": "Spara elettricità positiva e negativa tra le punte delle\ndue antenne per colpire i nemici."
+      },
+      {
+        "game": "oras-or",
+        "text": "Chinchou libera una carica elettrica positiva e negativa\ndalle due antenne per intontire la preda. Il Pokémon usa\nle sue luci elettriche per scambiare segnali coi suoi simili."
+      },
+      {
+        "game": "oras-as",
+        "text": "Le due antenne di Chinchou contengono cellule che generano\nun’elettricità incredibile, tanto forte da farlo vibrare tutto."
+      },
+      {
+        "game": "sm-s",
+        "text": "Le sue due antenne sono l’evoluzione di pinne\nprimitive da cui emette scariche elettriche per\ntramortire la preda prima di attaccarla."
+      },
+      {
+        "game": "sm-m",
+        "text": "Vive in profondità marine al riparo dalla luce\ndel sole. Usa le antenne luminose per\ncomunicare con i suoi simili."
+      },
+      {
+        "game": "usum-us",
+        "text": "Dalle antenne emette una debole luce che usa\nper attirare a sé le prede. È un compagno\nperfetto per la pesca notturna."
+      },
+      {
+        "game": "usum-um",
+        "text": "Vive nelle profondità marine, al riparo dalla luce\ndel sole. Usa le antenne luminose per\ncomunicare con i suoi simili."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Le sue antenne, evoluzione di pinne primitive,\nsono attraversate da energia elettrica, positiva\nin una e negativa nell’altra."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Il suo unico mezzo di comunicazione negli oscuri\nfondali oceanici sono le luci delle sue antenne,\nche lampeggiano costantemente."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Chinchou",
+    "genus": "Angler Pokémon",
+    "flavorText": [
+      {
+        "game": "usum-um",
+        "text": "Chinchou blink their shining antennae at one\nanother to claim their respective turf."
+      },
+      {
+        "game": "gs-g",
+        "text": "It shoots positive\nand negative elec­\ntricity between\fthe tips of its\ntwo antennae and\nzaps its enemies."
+      },
+      {
+        "game": "gs-s",
+        "text": "On the dark ocean\nfloor, its only\nmeans of communi­\fcation is its\nconstantly flash­\ning lights."
+      },
+      {
+        "game": "c",
+        "text": "Its antennae, whi­\nch evolved from a\nfin, have both po­\fsitive and neg­\native charges flo­\nwing through them."
+      },
+      {
+        "game": "rs-r",
+        "text": "CHINCHOU lets loose positive and\nnegative electrical charges from its\ntwo antennas to make its prey faint.\fThis POKéMON flashes its electric\nlights to exchange signals with others."
+      },
+      {
+        "game": "rs-s",
+        "text": "CHINCHOU’s two antennas are filled with\ncells that generate strong electricity.\nThis POKéMON’s cells create so much\felectrical power, it even makes itself\ntingle slightly."
+      },
+      {
+        "game": "e",
+        "text": "When it senses danger, it discharges\npositive and negative electricity from its\ntwo antennae. It lives in depths beyond\nsunlight’s reach."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "On the dark ocean floor, its only means\nof communication is its constantly\nflashing lights."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "It shoots positive and negative\nelectricity between the tips of its two\nantennae and zaps its enemies."
+      },
+      {
+        "game": "dp-d",
+        "text": "It discharges positive and\nnegative electricity from its\nantenna tips to shock its foes."
+      },
+      {
+        "game": "dp-p",
+        "text": "It discharges positive and\nnegative electricity from its\nantenna tips to shock its foes."
+      },
+      {
+        "game": "pt",
+        "text": "It discharges positive and\nnegative electricity from its\nantenna tips to shock its foes."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "It shoots positive and negative\nelectricity between the tips of its\ntwo antennae and zaps its enemies."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "On the dark ocean floor, its only\nmeans of communication is its\nconstantly flashing lights."
+      },
+      {
+        "game": "bw-b",
+        "text": "It discharges positive and\nnegative electricity from its\nantenna tips to shock its foes."
+      },
+      {
+        "game": "bw-w",
+        "text": "It discharges positive and\nnegative electricity from its\nantenna tips to shock its foes."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "It discharges positive and\nnegative electricity from its\nantenna tips to shock its foes."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "It discharges positive and\nnegative electricity from its\nantenna tips to shock its foes."
+      },
+      {
+        "game": "xy-x",
+        "text": "On the dark ocean floor, its only means of\ncommunication is its constantly flashing lights."
+      },
+      {
+        "game": "xy-y",
+        "text": "It shoots positive and negative electricity between\nthe tips of its two antennae and zaps its enemies."
+      },
+      {
+        "game": "oras-or",
+        "text": "Chinchou lets loose positive and negative electrical charges\nfrom its two antennas to make its prey faint. This Pokémon\nflashes its electric lights to exchange signals with others."
+      },
+      {
+        "game": "oras-as",
+        "text": "Chinchou’s two antennas are filled with cells that generate\nstrong electricity. This Pokémon’s cells create so much\nelectrical power, it even makes itself tingle slightly."
+      },
+      {
+        "game": "sm-s",
+        "text": "Its two antennae were originally fins.\nIt discharges electricity to stun its prey\nbefore attacking."
+      },
+      {
+        "game": "sm-m",
+        "text": "It lives in the depths beyond the reach of\nsunlight. It flashes lights on its antennae\nto communicate with others of its kind."
+      },
+      {
+        "game": "usum-us",
+        "text": "Its two antennae glow softly to lure in prey,\nmaking it a useful Pokémon for night fishing."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Its antennae, which evolved from a fin, have both\npositive and negative charges flowing through them."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "On the dark ocean floor, its only means of\ncommunication is its constantly flashing lights."
+      }
+    ]
+  },
+  "chs": {
+    "name": "灯笼鱼",
+    "genus": "琵琶鱼宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "２根触手原本是鳍。\n释放电力让猎物麻痹后进行袭击。"
+      },
+      {
+        "game": "sm-m",
+        "text": "在光线都无法到达的海底生活。\n让触手发光来与伙伴们交流。"
+      },
+      {
+        "game": "usum-us",
+        "text": "会通过２根触手发出\n微光来吸引猎物。\n是一种在夜钓时很有用的宝可梦。"
+      },
+      {
+        "game": "usum-um",
+        "text": "灯笼鱼之间会通过发光触手上\n发出的闪光来宣示各自的领地。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "从鳍变化而来的触手\n之中，分别流通着\n正电以及负电。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "在黑暗的海底，\n触手上不断闪烁着的光\n是它们唯一的通信手段。"
+      }
+    ]
+  }
+}

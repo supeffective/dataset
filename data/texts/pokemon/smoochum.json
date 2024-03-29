@@ -1,0 +1,393 @@
+{
+  "jap": {
+    "name": "ムチュール",
+    "genus": "くちづけポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "くちびるが　いちばん　びんかん。\nなんでも　まず　くちびるで　ふれて\nどんなものか　かくにんする。"
+      },
+      {
+        "game": "xy-y",
+        "text": "なんでも　くちびるで　ふれてみて\nたしかめる。すきな　ものも　きらいな\nものも　くちびるが　おぼえている。"
+      },
+      {
+        "game": "oras-or",
+        "text": "げんき　いっぱい　うごきまわるが　よく　ころぶ。\nむっくり　おきあがると　みずうみの　すいめんに\nかおを　うつして　よごれていないか　しらべる。"
+      },
+      {
+        "game": "oras-as",
+        "text": "げんき　いっぱい　うごきまわるが　よく　ころぶ。\nむっくり　おきあがると　みずうみの　すいめんに\nかおを　うつして　よごれていないか　しらべる。"
+      },
+      {
+        "game": "usum-us",
+        "text": "なにかを　たしかめるときは　て　より\nさきに　くちびるで　ふれてみる。\nこまめに　なめて　よごれを　おとす。"
+      },
+      {
+        "game": "usum-um",
+        "text": "くちびるは　びんかんな　センサー。\nあれないように　きの　じゅえきを\nまいにち　ぬって　ほしつしているよ。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "ちょっとでも　かおが　よごれると\nみずあび。　からだの　よごれは\nあまり　きに　していないみたい。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "こうきしんおうせいな　ポケモン。\nなんでも　くちびるで　ふれてみて\nすきか　きらいかを　きめている。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Muchul",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "뽀뽀라",
+    "genus": "뽀뽀포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "입술이 제일 민감하다.\n뭐든지 먼저 입술로 건드려서\n어떤 것인지 확인한다."
+      },
+      {
+        "game": "xy-y",
+        "text": "무엇이든 입술로 건드려보고\n확인한다. 좋아하는 것도 싫어하는\n것도 입술이 기억하고 있다."
+      },
+      {
+        "game": "oras-or",
+        "text": "기운차게 돌아다니지만 자주 넘어진다.\n벌떡 일어나서는 호수의 수면에 얼굴을\n비추고 더러워지지 않았는지 살핀다."
+      },
+      {
+        "game": "oras-as",
+        "text": "기운차게 돌아다니지만 자주 넘어진다.\n벌떡 일어나서는 호수의 수면에 얼굴을\n비추고 더러워지지 않았는지 살핀다."
+      },
+      {
+        "game": "usum-us",
+        "text": "무언가를 확인할 때는\n손보다 입술을 먼저 갖다 댄다.\n바지런히 핥아 더러운 것을 닦는다."
+      },
+      {
+        "game": "usum-um",
+        "text": "입술은 민감한 센서다.\n트지 않게 나무 수액을 매일 발라서\n촉촉하게 유지하고 있다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "조금이라도 얼굴이 지저분해지면\n물로 씻는다. 몸은 지저분해져도\n별로 신경 쓰지 않는 듯하다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "호기심이 왕성한 포켓몬이다.\n뭐든지 입술에 대보고\n좋은지 싫은지 판단한다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "迷唇娃",
+    "genus": "親吻寶可夢",
+    "flavorText": [
+      {
+        "game": "usum-us",
+        "text": "在確認某樣東西時不是用手，\n而是會先用嘴唇去觸碰。\n會經常用舌頭舔去髒污。"
+      },
+      {
+        "game": "usum-um",
+        "text": "嘴唇是敏感的感應器。\n為了不讓嘴唇乾裂，牠每天\n都會用樹液塗抹嘴唇來保濕。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "只要稍微弄髒了臉，就會\n馬上去用水沖乾淨。但對於\n身體的髒污似乎就不太在意。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "好奇心旺盛的寶可夢。對於\n任何東西都會先用嘴唇去觸碰，\n再決定是喜歡還是討厭這東西。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Lippouti",
+    "genus": "Pokémon Bisou",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Il goûte à tout du bout des lèvres.\nElles gardent en mémoire ses\ngoûts et ses dégoûts."
+      },
+      {
+        "game": "bw-w",
+        "text": "Il goûte à tout du bout des lèvres.\nElles gardent en mémoire ses\ngoûts et ses dégoûts."
+      },
+      {
+        "game": "xy-x",
+        "text": "Ses lèvres sont la partie la plus sensible de son corps.\nIl les utilise pour examiner les objets."
+      },
+      {
+        "game": "xy-y",
+        "text": "Il goûte à tout du bout des lèvres. Elles gardent\nen mémoire ses goûts et ses dégoûts."
+      },
+      {
+        "game": "oras-or",
+        "text": "Lippouti court dans tous les sens et tombe assez souvent.\nQuand il en a l’occasion, il regarde son reflet dans l’eau\npour vérifier si son visage n’a pas été sali par ses chutes."
+      },
+      {
+        "game": "oras-as",
+        "text": "Lippouti court dans tous les sens et tombe assez souvent.\nQuand il en a l’occasion, il regarde son reflet dans l’eau\npour vérifier si son visage n’a pas été sali par ses chutes."
+      },
+      {
+        "game": "usum-us",
+        "text": "Avant même de toucher de ses mains un objet\nqui l’intéresse, il le tâte de ses lèvres. S’il est\nsale, il le lèche au passage pour le nettoyer."
+      },
+      {
+        "game": "usum-um",
+        "text": "Ses lèvres sont des détecteurs hypersensibles.\nIl les enduit de sève tous les jours pour les\ngarder hydratées et éviter les gerçures."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Quand il s’aperçoit que son visage est sale,\nil le lave à l’eau, mais la propreté du reste\nde son corps ne semble pas le préoccuper."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Ce Pokémon très curieux touche tout et n’importe\nquoi avec ses lèvres pour déterminer ce qu’il aime\net ce qu’il déteste."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Kussilla",
+    "genus": "Kuss-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Die Lippen sind sein empfindlichster Körperteil.\nNeue Dinge untersucht es zuerst damit."
+      },
+      {
+        "game": "xy-y",
+        "text": "Dieses Pokémon berührt alles mit den Lippen.\nDiese merken sich, was es mag und nicht mag."
+      },
+      {
+        "game": "oras-or",
+        "text": "Kussilla läuft hektisch umher, fällt aber auch ziemlich oft hin.\nEs lässt keine Möglichkeit aus, sein Spiegelbild zu betrachten,\num sicherzustellen, dass sein Gesicht nicht schmutzig\ngeworden ist."
+      },
+      {
+        "game": "oras-as",
+        "text": "Kussilla läuft hektisch umher, fällt aber auch ziemlich oft hin.\nEs lässt keine Möglichkeit aus, sein Spiegelbild zu betrachten,\num sicherzustellen, dass sein Gesicht nicht schmutzig\ngeworden ist."
+      },
+      {
+        "game": "usum-us",
+        "text": "Bevor es Dinge in die Hände nimmt, die es\ninteressieren, untersucht es diese mit den\nLippen. Dabei leckt es sie sorgfältig sauber."
+      },
+      {
+        "game": "usum-um",
+        "text": "Die Lippen sind sein empfindlichster Körperteil.\nEs schmiert sie täglich mit Baumsaft ein, damit\nsie nicht austrocknen und rissig werden."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Wird Kussillas Gesicht auch nur ein bisschen\nschmutzig, wäscht es sich sofort. Schmutz am\nRest seines Körpers scheint es nicht zu stören."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Ein äußerst neugieriges Pokémon, das alles mit\nseinen Lippen berührt, um herauszufinden, ob es\netwas mag oder nicht."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Smoochum",
+    "genus": "Pokémon Beso",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Sus labios son la parte más sensible de su cuerpo.\nSiempre los usa para examinar las cosas."
+      },
+      {
+        "game": "xy-y",
+        "text": "Analiza todo tocándolo con los labios. Así puede\nrecordar las cosas que le gustan y disgustan."
+      },
+      {
+        "game": "oras-or",
+        "text": "Smoochum va corriendo por todos lados, pero se cae también\ncon frecuencia. Y, en cuanto tiene ocasión, se mira en algún\nsitio para ver si se ha manchado la cara."
+      },
+      {
+        "game": "oras-as",
+        "text": "Smoochum va corriendo por todos lados, pero se cae también\ncon frecuencia. Y, en cuanto tiene ocasión, se mira en algún\nsitio para ver si se ha manchado la cara."
+      },
+      {
+        "game": "usum-us",
+        "text": "Cuando quiere examinar algo, lo toca con los\nlabios antes que con las manos. Si está sucio,\nlimpia la mugre lamiendo repetidamente."
+      },
+      {
+        "game": "usum-um",
+        "text": "Los labios son la parte más sensible de su\ncuerpo. Para que no se le cuarteen, los mantiene\nhidratados a diario con savia de los árboles."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "En cuanto se le ensucia la cara, aunque sea un\npoco, se la lava con agua. En el resto del cuerpo,\nla suciedad no parece importarle mucho."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Este Pokémon rebosante de curiosidad lo toca\ntodo con los labios para determinar qué cosas\nle gustan y cuáles no."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Smoochum",
+    "genus": "Pokémon Bacio",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Le labbra sono la parte più sensibile del corpo,\nil primo organo con cui analizza nuovi oggetti."
+      },
+      {
+        "game": "xy-y",
+        "text": "Analizza tutto con le labbra e con esse riesce a\nmemorizzare ciò che gli piace e ciò che non gli piace."
+      },
+      {
+        "game": "oras-or",
+        "text": "Smoochum scorrazza vivacemente, ma spesso inciampa\ne cade. Così, appena può, cerca di specchiarsi da qualche\nparte per assicurarsi di non essersi imbrattato il volto."
+      },
+      {
+        "game": "oras-as",
+        "text": "Smoochum scorrazza vivacemente, ma spesso inciampa\ne cade. Così, appena può, cerca di specchiarsi da qualche\nparte per assicurarsi di non essersi imbrattato il volto."
+      },
+      {
+        "game": "usum-us",
+        "text": "Tocca gli oggetti con le labbra prima ancora\nche con le mani per analizzarli. Se sono sporchi,\nli lecca accuratamente per pulirli."
+      },
+      {
+        "game": "usum-um",
+        "text": "Le sue labbra sono recettori molto sensibili.\nPer evitare che si rovinino, le mantiene idratate\napplicandovi ogni giorno la linfa degli alberi."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Si sciacqua il volto alla minima traccia\ndi sporcizia. Pare non presti la stessa\nattenzione al resto del corpo."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "È un Pokémon traboccante di curiosità.\nStabilisce cosa gli piace e cosa no\nappoggiandovi le labbra."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Smoochum",
+    "genus": "Kiss Pokémon",
+    "flavorText": [
+      {
+        "game": "gs-g",
+        "text": "Its lips are the\nmost sensitive\nparts on its body.\fIt always uses its\nlips first to\nexamine things."
+      },
+      {
+        "game": "gs-s",
+        "text": "It always rocks\nits head slowly\nbackwards and for­\fwards as if it is\ntrying to kiss\nsomeone."
+      },
+      {
+        "game": "c",
+        "text": "The sensitivity of\nits lips develops\nmost quickly.\fIt uses them to\ntry to identify\nunknown objects."
+      },
+      {
+        "game": "rs-r",
+        "text": "SMOOCHUM actively runs about, but\nalso falls quite often.\nWhenever the chance arrives, it will\flook for its reflection to make sure its\nface hasn’t become dirty."
+      },
+      {
+        "game": "rs-s",
+        "text": "SMOOCHUM actively runs about, but\nalso falls quite often.\nWhenever the chance arrives, it will\flook for its reflection to make sure its\nface hasn’t become dirty."
+      },
+      {
+        "game": "e",
+        "text": "It actively runs about, but also falls\noften. Whenever it falls, it will check its\nreflection on a lake’s surface to make\nsure its face hasn’t become dirty."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "It always rocks its head slowly backwards\nand forwards as if it is trying to kiss\nsomeone."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "Its lips are the most sensitive parts on\nits body. It always uses its lips first to\nexamine things."
+      },
+      {
+        "game": "dp-d",
+        "text": "It tests everything by touching\nwith its lips, which remember\nwhat it likes and dislikes."
+      },
+      {
+        "game": "dp-p",
+        "text": "It tests everything by touching\nwith its lips, which remember\nwhat it likes and dislikes."
+      },
+      {
+        "game": "pt",
+        "text": "It tests everything by touching\nwith its lips, which remember\nwhat it likes and dislikes."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "Its lips are the most sensitive\npart of its body. It always uses\nits lips first to examine things."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "It always rocks its head slowly\nbackwards and forwards as if it is\ntrying to kiss someone."
+      },
+      {
+        "game": "bw-b",
+        "text": "It tests everything by touching\nwith its lips, which remember\nwhat it likes and dislikes."
+      },
+      {
+        "game": "bw-w",
+        "text": "It tests everything by touching\nwith its lips, which remember\nwhat it likes and dislikes."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "It tests everything by touching\nwith its lips, which remember\nwhat it likes and dislikes."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "It tests everything by touching\nwith its lips, which remember\nwhat it likes and dislikes."
+      },
+      {
+        "game": "xy-x",
+        "text": "Its lips are the most sensitive part of its body.\nIt always uses its lips first to examine things."
+      },
+      {
+        "game": "xy-y",
+        "text": "It tests everything by touching with its lips,\nwhich remember what it likes and dislikes."
+      },
+      {
+        "game": "oras-or",
+        "text": "Smoochum actively runs about, but also falls quite often.\nWhenever the chance arrives, it will look for its reflection to\nmake sure its face hasn’t become dirty."
+      },
+      {
+        "game": "oras-as",
+        "text": "Smoochum actively runs about, but also falls quite often.\nWhenever the chance arrives, it will look for its reflection to\nmake sure its face hasn’t become dirty."
+      },
+      {
+        "game": "usum-us",
+        "text": "When it examines things, before touching them\nwith its hands, it makes lip contact and then\ndiligently licks all the dirt off its lips."
+      },
+      {
+        "game": "usum-um",
+        "text": "Highly perceptive sensors, Smoochum’s lips are\nkept moist by its daily application of tree sap."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "If its face gets even slightly dirty, Smoochum will\nbathe immediately. But if its body gets dirty,\nSmoochum doesn’t really seem to care."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "This is a very curious Pokémon. Smoochum\ndecides what it likes and dislikes by touching\nthings with its lips."
+      }
+    ]
+  },
+  "chs": {
+    "name": "迷唇娃",
+    "genus": "亲吻宝可梦",
+    "flavorText": [
+      {
+        "game": "usum-us",
+        "text": "在确认某样东西时，\n会先用嘴唇而不是手去触碰试试。\n会经常用舌头舔去污渍。"
+      },
+      {
+        "game": "usum-um",
+        "text": "嘴唇是敏感的感应器。\n为了不让嘴唇干裂，它每天\n都会用树汁涂抹嘴唇来保湿哦。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "只要稍微弄脏了脸\n就会立刻去洗干净。\n身上脏了倒是不太在意。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "好奇心旺盛的宝可梦。\n不管是什么都会试着用\n嘴唇去触碰，确认是否喜欢。"
+      }
+    ]
+  }
+}

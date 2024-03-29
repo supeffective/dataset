@@ -1,0 +1,293 @@
+{
+  "jap": {
+    "name": "エルレイド",
+    "genus": "やいばポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "あいての　かんがえを　びんかんに\nキャッチする　のうりょくを　もつため\nさきに　こうげきが　できるのだ。"
+      },
+      {
+        "game": "xy-y",
+        "text": "のびちぢみする　ひじの　かたなで\nたたかう。いあいの　めいしゅ。\nれいぎ　ただしい　ポケモン。"
+      },
+      {
+        "game": "oras-or",
+        "text": "あいての　かんがえを　びんかんに\nキャッチする　のうりょくを　もつため\nさきに　こうげきが　できるのだ。"
+      },
+      {
+        "game": "oras-as",
+        "text": "のびちぢみする　ひじの　かたなで\nたたかう。いあいの　めいしゅ。\nれいぎ　ただしい　ポケモン。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "ぶじんと　よばれる　ポケモン。\nなにかを　まもるためで　なければ\nひじの　かたなは　つかわない。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "たすけを　もとめる　かんじょうを\nびんかんに　キャッチ。　あいての\nもとへ　はせさんじ　かせいするぞ。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Erlade",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "엘레이드",
+    "genus": "검포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "상대의 생각을 민감하게\n포착하는 능력을 가졌기 때문에\n먼저 공격할 수 있다."
+      },
+      {
+        "game": "xy-y",
+        "text": "늘었다 줄었다 하는 팔꿈치의\n칼날로 싸운다. 칼 뽑기의 명수\n이며 예의가 바른 포켓몬이다."
+      },
+      {
+        "game": "oras-or",
+        "text": "상대의 생각을 민감하게\n포착하는 능력을 가졌기 때문에\n먼저 공격할 수 있다."
+      },
+      {
+        "game": "oras-as",
+        "text": "늘었다 줄었다 하는 팔꿈치의\n칼날로 싸운다. 칼 뽑기의 명수\n이며 예의가 바른 포켓몬이다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "무사라 불리는 포켓몬.\n무언가를 지킬 때가 아니면\n팔꿈치의 칼날을 사용하지 않는다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "도움을 구하는 감정을 민감하게\n캐치해서 상대가 있는 곳으로\n급히 달려가 가세한다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "艾路雷朵",
+    "genus": "利刃寶可夢",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "被稱為武神的寶可夢。\n只有在為了保護什麼的時候，\n才會去使用自己的肘刀。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "能夠敏銳地感知到\n尋求幫助的感情，\n並且火速趕去援助對方。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Gallame",
+    "genus": "Pokémon Lame",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Comme il peut lire les pensées de ses adversaires,\nil frappe toujours en premier."
+      },
+      {
+        "game": "bw-b",
+        "text": "Toujours prêt à protéger son prochain,\nil se bat férocement avec ses coudes\nen forme d’épées."
+      },
+      {
+        "game": "bw-w",
+        "text": "Toujours prêt à protéger son prochain,\nil se bat férocement avec ses coudes\nen forme d’épées."
+      },
+      {
+        "game": "xy-y",
+        "text": "Il frappe avec les grandes lames à ses coudes.\nSon talent d’escrimeur n’a d’égal que sa courtoisie."
+      },
+      {
+        "game": "oras-or",
+        "text": "Comme il peut lire les pensées de ses adversaires, il frappe\ntoujours en premier."
+      },
+      {
+        "game": "oras-as",
+        "text": "Il frappe avec les grandes lames à ses coudes. Son talent\nd’escrimeur n’a d’égal que sa courtoisie."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Ce Pokémon, que l’on surnomme « l’escrimeur »,\nne se sert de ses coudes en forme de lames\nque s’il doit défendre quelque chose."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Ses sens aiguisés lui indiquent lorsque quelqu’un\nest en danger. Il accourt alors à la rescousse."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Galagladi",
+    "genus": "Klingen-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Da es selbst die leisesten Gedanken seines\nGegners lesen kann, kann es immer zuerst angreifen."
+      },
+      {
+        "game": "xy-y",
+        "text": "Es kämpft, indem es die Schwerter an seinen Ellbogen\nverlängert. Es ist ein Meister des Kampfes."
+      },
+      {
+        "game": "oras-or",
+        "text": "Da es selbst die leisesten Gedanken seines Gegners lesen\nkann, kann es immer zuerst angreifen."
+      },
+      {
+        "game": "oras-as",
+        "text": "Es kämpft, indem es die Schwerter an seinen Ellbogen\nverlängert. Es ist ein Meister des Kampfes."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Dieses Pokémon wird als Krieger angesehen.\nDie Klingen an seinen Ellbogen benutzt es nur,\num etwas zu beschützen."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Es spürt sofort, wenn jemand in Not ist, und eilt\nihm unverzüglich zu Hilfe."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Gallade",
+    "genus": "Pokémon Cuchilla",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Puede presentir los movimientos de sus rivales y por\neso ataca siempre antes que ellos."
+      },
+      {
+        "game": "xy-y",
+        "text": "Lucha con las espadas que salen de sus codos.\nEs un maestro de la cortesía y la esgrima."
+      },
+      {
+        "game": "oras-or",
+        "text": "Puede presentir los movimientos de sus rivales y por eso\nataca siempre antes que ellos."
+      },
+      {
+        "game": "oras-as",
+        "text": "Lucha con las espadas que salen de sus codos. Es un\nmaestro de la cortesía y la esgrima."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Este Pokémon es considerado todo un justiciero.\nSolo utiliza las espadas que le salen de los codos\nsi tiene una causa que defender."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Es capaz de percibir al instante cuando alguien\nestá en un aprieto y corre raudo a su lado para\nprestarle ayuda."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Gallade",
+    "genus": "Pokémon Lama",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Il suo intuito gli consente di capire cosa pensa il\nnemico: può così attaccare per primo."
+      },
+      {
+        "game": "xy-y",
+        "text": "Pokémon elegante e ottimo spadaccino, combatte\nallungando le lame che ha sui gomiti."
+      },
+      {
+        "game": "oras-or",
+        "text": "Il suo intuito gli consente di capire cosa pensa il nemico:\npuò così attaccare per primo."
+      },
+      {
+        "game": "oras-as",
+        "text": "Pokémon elegante e ottimo spadaccino, combatte allungando\nle lame che ha sui gomiti."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Viene soprannominato “il guerriero”. Si serve\ndelle lame sui gomiti solo a scopo difensivo."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "È in grado di captare con estrema sensibilità\nlo stato d’animo di chi si trova nei guai e può\ncosì accorrere subito in suo aiuto."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Gallade",
+    "genus": "Blade Pokémon",
+    "flavorText": [
+      {
+        "game": "dp-d",
+        "text": "A master of courtesy and\nswordsmanship, it fights using\nextending swords on its elbows."
+      },
+      {
+        "game": "dp-p",
+        "text": "A master of courtesy and\nswordsmanship, it fights using\nextending swords on its elbows."
+      },
+      {
+        "game": "pt",
+        "text": "When trying to protect someone,\nit extends its elbows as if they\nwere swords and fights savagely."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "Because it can sense what its foe\nis thinking, its attacks burst out\nfirst, fast, and fierce."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "Because it can sense what its foe\nis thinking, its attacks burst out\nfirst, fast, and fierce."
+      },
+      {
+        "game": "bw-b",
+        "text": "When trying to protect someone,\nit extends its elbows as if they\nwere swords and fights savagely."
+      },
+      {
+        "game": "bw-w",
+        "text": "When trying to protect someone,\nit extends its elbows as if they\nwere swords and fights savagely."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "When trying to protect someone,\nit extends its elbows as if they\nwere swords and fights savagely."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "When trying to protect someone,\nit extends its elbows as if they\nwere swords and fights savagely."
+      },
+      {
+        "game": "xy-x",
+        "text": "Because it can sense what its foe is thinking,\nits attacks burst out first, fast, and fierce."
+      },
+      {
+        "game": "xy-y",
+        "text": "A master of courtesy and swordsmanship, it fights\nusing extending swords on its elbows."
+      },
+      {
+        "game": "oras-or",
+        "text": "Because it can sense what its foe is thinking,\nits attacks burst out first, fast, and fierce."
+      },
+      {
+        "game": "oras-as",
+        "text": "A master of courtesy and swordsmanship, it fights\nusing extending swords on its elbows."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "True to its honorable-warrior image, it uses\nthe blades on its elbows only in defense of\nsomething or someone."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Sharply attuned to others’ wishes for help, this\nPokémon seeks out those in need and aids them\nin battle."
+      },
+      {
+        "game": "la",
+        "text": "The blades extending from its elbows are sharper than the\nfinest swords. Its swordsmanship, albeit self-taught, is\nastonishingly impressive."
+      }
+    ]
+  },
+  "chs": {
+    "name": "艾路雷朵",
+    "genus": "利刃宝可梦",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "被称为武神的宝可梦。\n只有在为了保护什么的时候\n才会去使用自己的肘刀。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "能够敏锐地感知到\n寻求帮助的感情，\n并且火速赶去援助对方。"
+      }
+    ]
+  }
+}

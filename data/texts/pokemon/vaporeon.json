@@ -1,0 +1,553 @@
+{
+  "jap": {
+    "name": "シャワーズ",
+    "genus": "あわはきポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "きれいな　みずべを　このんでいる。\nさいぼうが　みずのぶんしに　にており\nみずに　とけることもできる。"
+      },
+      {
+        "game": "xy-y",
+        "text": "すいちゅうでの　せいかつに　てきした\nからだに　しんかした。\nみずに　とけると　みえなくなる。"
+      },
+      {
+        "game": "oras-or",
+        "text": "とつぜんへんいに　より　すいちゅうで　せいかつ\nできる　ように　ヒレと　エラが　はえてきた。\nみずを　じざいに　あやつる　ちからを　もつ。"
+      },
+      {
+        "game": "oras-as",
+        "text": "とつぜんへんいに　より　すいちゅうで　せいかつ\nできる　ように　ヒレと　エラが　はえてきた。\nみずを　じざいに　あやつる　ちからを　もつ。"
+      },
+      {
+        "game": "sm-s",
+        "text": "さいぼうこうぞうが　みずの　ぶんしに\nよく　にている。　みずべに　すむので\nにんぎょに　まちがわれることも。"
+      },
+      {
+        "game": "sm-m",
+        "text": "みずのなかに　とけこんで　けはいを\nかくし　えものの　さかなポケモンが\nくるのを　じっと　まちかまえている。"
+      },
+      {
+        "game": "usum-us",
+        "text": "きれいな　みずべが　おもな　すみか。\nがいてきに　おそわれそうに　なると\nみずに　とびこみ　すがたを　かくす。"
+      },
+      {
+        "game": "usum-um",
+        "text": "ヒレで　まわりの　すいぶんを　かんち\nしている。　こきざみに　ふるえだすと\nすうじかんご　には　あめが　ふる。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "さいぼうそしきが　みずの　ぶんしに\nにているため　みずに　とけると\nすがたが　みえなく　なってしまう。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "さいぼうそしきが　みずの　ぶんしに\nにているため　みずに　とけると\nすがたが　みえなく　なってしまう。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "シャワーズの　ぜんしんの　ひれが\nこきざみに　ふるえはじめるのは\nすうじかんごに　あめがふる　しるし。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "からだの　さいぼうの　つくりが\nみずの　ぶんしと　にている。\nみずに　とけると　みえなくなる。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Showers",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "샤미드",
+    "genus": "거품뿜기포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "아름다운 물가를 좋아한다.\n세포가 물의 분자구조와 닮아서\n물에 녹는 것도 가능하다."
+      },
+      {
+        "game": "xy-y",
+        "text": "수중에서의 생활에 적합한\n몸으로 진화했다.\n물에 녹으면 보이지 않게 된다."
+      },
+      {
+        "game": "oras-or",
+        "text": "돌연변이로 인해 물속에서 생활할 수\n있도록 지느러미와 아가미가 생겨났다.\n물을 자유로이 조종하는 힘을 지녔다."
+      },
+      {
+        "game": "oras-as",
+        "text": "돌연변이로 인해 물속에서 생활할 수\n있도록 지느러미와 아가미가 생겨났다.\n물을 자유로이 조종하는 힘을 지녔다."
+      },
+      {
+        "game": "sm-s",
+        "text": "세포구조가 물 분자와\n아주 닮았다. 물가에 살아서\n인어로 착각하기도 한다."
+      },
+      {
+        "game": "sm-m",
+        "text": "물속에 녹아들어 기척을\n숨기고 먹이인 물고기포켓몬이\n오는 것을 가만히 기다리고 있다."
+      },
+      {
+        "game": "usum-us",
+        "text": "아름다운 물가가 주요 서식지다.\n외적에게 습격당할 상황이 되면\n물로 뛰어들어 모습을 감춘다."
+      },
+      {
+        "game": "usum-um",
+        "text": "지느러미로 주변의 수분을\n감지한다. 조금씩 떨기 시작하면\n수 시간 후에는 비가 내린다."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "세포 조직이 물 분자와\n비슷하기 때문에 물에 녹아들면\n모습이 보이지 않게 된다."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "세포 조직이 물 분자와\n비슷하기 때문에 물에 녹아들면\n모습이 보이지 않게 된다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "샤미드의 모든 지느러미가\n조금씩 떨리기 시작했다면\n몇 시간 뒤에 비가 내린다는 표시다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "몸의 세포 구조가\n물 분자와 닮았다.\n물에 녹으면 보이지 않는다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "水伊布",
+    "genus": "吐泡寶可夢",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "細胞構造與水分子非常相似。\n由於在水邊棲息，有時候\n會被誤認為是人魚。"
+      },
+      {
+        "game": "sm-m",
+        "text": "與水融為一體，隱藏自己的氣息，\n一動不動地埋伏著等待獵物\n──魚寶可夢的到來。"
+      },
+      {
+        "game": "usum-us",
+        "text": "主要的棲息地是乾淨的水邊。\n一旦有遭到外敵侵襲的危險，\n就會跳進水中躲起來。"
+      },
+      {
+        "game": "usum-um",
+        "text": "會用鰭感知周圍的水分。\n如果牠開始微微顫抖，\n幾個小時之後就會下雨。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "細胞組織與水分子相似，\n因此當牠溶入水中後，\n就完全看不見牠的樣子了。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "細胞組織與水分子相似，\n因此當牠溶入水中後，\n就完全看不見牠的樣子了。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "當水伊布開始微微顫動\n牠全身上下的鰭，就表示\n幾個小時之後要下雨了。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "身體細胞的結構與水分子相似。\n牠能和水融為一體，\n讓別人無法看見牠。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Aquali",
+    "genus": "Pokémon Bulleur",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Sa composition moléculaire est\nproche de celle de l’eau, ce qui\nlui permet de se liquéfier."
+      },
+      {
+        "game": "bw-w",
+        "text": "Sa composition moléculaire est\nproche de celle de l’eau, ce qui\nlui permet de se liquéfier."
+      },
+      {
+        "game": "xy-x",
+        "text": "Il préfère les belles plages. Il peut se dissoudre à\nvolonté grâce à ses cellules proches de l’eau."
+      },
+      {
+        "game": "xy-y",
+        "text": "Il a évolué pour s’adapter au milieu aquatique.\nIl peut se fondre et disparaître dans l’élément liquide."
+      },
+      {
+        "game": "oras-or",
+        "text": "Aquali a subi une mutation spontanée. Des nageoires et\ndes branchies sont apparues sur son corps, ce qui lui permet\nde vivre dans les fonds marins. Ce Pokémon peut contrôler\nl’eau à volonté."
+      },
+      {
+        "game": "oras-as",
+        "text": "Aquali a subi une mutation spontanée. Des nageoires et\ndes branchies sont apparues sur son corps, ce qui lui permet\nde vivre dans les fonds marins. Ce Pokémon peut contrôler\nl’eau à volonté."
+      },
+      {
+        "game": "sm-s",
+        "text": "La structure de ses cellules ressemble à celle\ndes molécules d’eau. Il vit sur les rives, et il\narrive qu’il soit pris pour une sirène."
+      },
+      {
+        "game": "sm-m",
+        "text": "Ce Pokémon plonge dans l’eau et y reste caché\njusqu’à ce qu’un Pokémon poisson passe à\nsa portée."
+      },
+      {
+        "game": "usum-us",
+        "text": "On le trouve principalement dans les sources\nlimpides. Lorsqu’un ennemi est sur le point\nde l’attaquer, il plonge se réfugier dans l’eau."
+      },
+      {
+        "game": "usum-um",
+        "text": "Il perçoit l’humidité ambiante grâce aux ailerons\nde sa tête. S’ils frémissent, c’est qu’il pleuvra\nd’ici quelques heures."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Sa structure moléculaire est semblable à celle\nde l’eau. Il est invisible en milieu aquatique."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Sa structure moléculaire est semblable à celle\nde l’eau. Il est invisible en milieu aquatique."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Quand ses nageoires se mettent à vibrer,\nc’est le signe qu’il va pleuvoir dans les heures\nqui suivent."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Sa structure cellulaire est similaire à la composition\nmoléculaire de l’eau. Une fois dans cet élément,\nil devient indétectable à l’œil nu."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Aquana",
+    "genus": "Blubbblasen-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Es liebt schöne Ufer. Da seine Zellstruktur\nWassermolekülen ähnlich ist, kann es mit\nWasser verschmelzen."
+      },
+      {
+        "game": "xy-y",
+        "text": "Es hat sich so entwickelt, dass es im Wasser\nleben kann. Im Wasser selbst wird es unsichtbar."
+      },
+      {
+        "game": "oras-or",
+        "text": "Aquana hat eine spontane Mutation durchgemacht und ihm\nsind Flossen und Kiemen gewachsen. Dadurch kann es unter\nWasser leben. Dieses Pokémon kann Wasser nach Belieben\nmanipulieren."
+      },
+      {
+        "game": "oras-as",
+        "text": "Aquana hat eine spontane Mutation durchlaufen. Ihm sind\nFlossen und Kiemen gewachsen. Dadurch kann es unter\nWasser leben. Dieses Pokémon kann Wasser nach Belieben\nmanipulieren."
+      },
+      {
+        "game": "sm-s",
+        "text": "Seine Zellstruktur ist der von Wassermolekülen\nähnlich. Es lebt in der Nähe von Ufern, daher\nwird es oft mit einer Meerjungfrau verwechselt."
+      },
+      {
+        "game": "sm-m",
+        "text": "Es wird eins mit dem Wasser und somit\nunsichtbar. So wartet es heimlich, still und leise\nauf Fisch-Pokémon, die es sich als Beute fängt."
+      },
+      {
+        "game": "usum-us",
+        "text": "Es lebt meist an klaren Gewässern. Wittert es\neinen feindlichen Angriff, verschwindet es ins\nWasser und macht sich unsichtbar."
+      },
+      {
+        "game": "usum-um",
+        "text": "Mit seinen Flossen nimmt es die Feuchtigkeit in\nseiner Umgebung wahr. Vibrieren diese, beginnt\nes in den nächsten Stunden zu regnen."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Seine Zellstruktur ähnelt der molekularen\nZusammensetzung von Wasser. Daher wird es\nim Wasser unsichtbar."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Seine Zellstruktur ähnelt der molekularen\nZusammensetzung von Wasser. Daher wird es\nim Wasser unsichtbar."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Wenn seine Flossen beginnen zu vibrieren,\nist das ein sicheres Zeichen dafür, dass in den\nnächsten Stunden Regen aufziehen wird."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Seine Zellstruktur ähnelt der molekularen\nZusammensetzung von Wasser, weshalb es sich\nin Gewässern unsichtbar machen kann."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Vaporeon",
+    "genus": "Pokémon Burbuja",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Prefiere las bellas costas. Con células parecidas al\nagua, podría fundirse en la misma."
+      },
+      {
+        "game": "xy-y",
+        "text": "Ha evolucionado para adaptarse a la vida acuática.\nSe mimetiza a la perfección con el agua."
+      },
+      {
+        "game": "oras-or",
+        "text": "Vaporeon sufrió una mutación repentina y desarrolló aletas y\nbranquias que le permiten vivir bajo el agua. Asimismo, este\nPokémon tiene la habilidad de controlar las aguas."
+      },
+      {
+        "game": "oras-as",
+        "text": "Vaporeon sufrió una mutación repentina y desarrolló aletas y\nbranquias que le permiten vivir bajo el agua. Asimismo, este\nPokémon tiene la habilidad de controlar las aguas."
+      },
+      {
+        "game": "sm-s",
+        "text": "Su composición celular es muy parecida a la\nestructura molecular del agua. Vive cerca de\nríos y mares y a veces lo toman por una sirena."
+      },
+      {
+        "game": "sm-m",
+        "text": "Se funde con el agua y se oculta por completo.\nEntonces espera pacientemente a que aparezca\nalgún Pokémon pez para atraparlo."
+      },
+      {
+        "game": "usum-us",
+        "text": "Suele habitar en cuerpos de agua cristalina. Si\nadvierte un posible ataque enemigo, se sumerge\nbajo el agua para ocultarse."
+      },
+      {
+        "game": "usum-um",
+        "text": "Sus aletas detectan la humedad del ambiente.\nSi comienzan a vibrar, es señal de que lloverá\nen las próximas horas."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Su estructura celular se parece a las moléculas\nde agua, por eso es invisible cuando está en\neste elemento."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Su estructura celular se parece a las moléculas\nde agua, por eso es invisible cuando está en\neste elemento."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Cuando las aletas de Vaporeon comienzan a\nvibrar, significa que lloverá en las próximas\nhoras."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "La composición celular de su cuerpo es tan\nsimilar a la estructura molecular del agua que\nse vuelve invisible al fundirse en ella."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Vaporeon",
+    "genus": "Pokémon Bollajet",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Preferisce stare sulla costa. In acqua le sue cellule\nsimili a molecole acquee si possono scomporre."
+      },
+      {
+        "game": "xy-y",
+        "text": "Si è evoluto per adattarsi alla vita acquatica. Si può\nsciogliere nell’acqua diventando invisibile."
+      },
+      {
+        "game": "oras-or",
+        "text": "Vaporeon, frutto di una mutazione naturale, ha sviluppato\npinne e branchie per poter vivere sott’acqua. Questo\nPokémon ha la capacità di sfruttare l’acqua a suo vantaggio."
+      },
+      {
+        "game": "oras-as",
+        "text": "Vaporeon, frutto di una mutazione naturale, ha sviluppato\npinne e branchie per poter vivere sott’acqua. Questo\nPokémon ha la capacità di sfruttare l’acqua a suo vantaggio."
+      },
+      {
+        "game": "sm-s",
+        "text": "La sua struttura cellulare è simile a quella delle\nmolecole d’acqua. Vive sulle rive dei mari e dei\nlaghi e a volte viene scambiato per una sirena."
+      },
+      {
+        "game": "sm-m",
+        "text": "Si nasconde alle prede dissolvendosi nell’acqua\ne aspetta paziente che arrivi un Pokémon\nacquatico per catturarlo."
+      },
+      {
+        "game": "usum-us",
+        "text": "Vive principalmente sulle rive più belle.\nQuando percepisce la presenza di un predatore\nsi tuffa rapidamente nell’acqua per nascondersi."
+      },
+      {
+        "game": "usum-um",
+        "text": "Riesce a percepire l’umidità circostante con\nle pinne. Se cominciano a vibrare vuol dire\nche pioverà nel giro di poche ore."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "La sua struttura cellulare è simile a quella\ndelle molecole dell’acqua. Quando si immerge\ndiventa invisibile."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "La sua struttura cellulare è simile a quella\ndelle molecole dell’acqua. Quando si immerge\ndiventa invisibile."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Se le pinne di Vaporeon iniziano a vibrare,\nvuol dire che pioverà nel giro di poche ore."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "La sua composizione cellulare è simile\na quella delle molecole d’acqua, in cui\nsi può dissolvere diventando invisibile."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Vaporeon",
+    "genus": "Bubble Jet Pokémon",
+    "flavorText": [
+      {
+        "game": "rb-r",
+        "text": "Lives close to\nwater. Its long\ntail is ridged\fwith a fin which\nis often mistaken\nfor a mermaid's."
+      },
+      {
+        "game": "rb-b",
+        "text": "Lives close to\nwater. Its long\ntail is ridged\fwith a fin which\nis often mistaken\nfor a mermaid's."
+      },
+      {
+        "game": "y",
+        "text": "Its cell structure\nis similar to\nwater molecules.\fIt will melt away\nand become invis­\nible in water."
+      },
+      {
+        "game": "gs-g",
+        "text": "When VAPOREON's\nfins begin to vi­\nbrate, it is a\fsign that rain\nwill come within a\nfew hours."
+      },
+      {
+        "game": "gs-s",
+        "text": "It prefers beauti­\nful shores. With\ncells similar to\fwater molecules,\nit could melt in\nwater."
+      },
+      {
+        "game": "c",
+        "text": "As it uses the\nfins on the tip\nof its tail to\fswim, it blends\nwith the water\nperfectly."
+      },
+      {
+        "game": "rs-r",
+        "text": "VAPOREON underwent a spontaneous\nmutation and grew fins and gills that\nallow it to live underwater.\fThis POKéMON has the ability to freely\ncontrol water."
+      },
+      {
+        "game": "rs-s",
+        "text": "VAPOREON underwent a spontaneous\nmutation and grew fins and gills that\nallow it to live underwater.\fThis POKéMON has the ability to freely\ncontrol water."
+      },
+      {
+        "game": "e",
+        "text": "VAPOREON underwent a spontaneous\nmutation and grew fins and gills that\nallow them to live underwater. They have\nthe ability to freely control water."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "Its body’s cellular structure is similar to\nthe molecular composition of water.\nIt can melt invisibly in water."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "Lives close to water. Its long tail is\nridged with a fin which is often mistaken\nfor a mermaid’s."
+      },
+      {
+        "game": "dp-d",
+        "text": "It has evolved to be suitable for\nan aquatic life. It can invisibly\nmelt away into water."
+      },
+      {
+        "game": "dp-p",
+        "text": "It has evolved to be suitable for\nan aquatic life. It can invisibly\nmelt away into water."
+      },
+      {
+        "game": "pt",
+        "text": "Its cell composition is similar\nto water molecules. As a result,\nit can melt away into water."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "When VAPOREON’s fins begin to\nvibrate, it is a sign that rain\nwill come within a few hours."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "It prefers beautiful shores. With\ncells similar to water molecules,\nit could melt in water."
+      },
+      {
+        "game": "bw-b",
+        "text": "Its cell composition is similar\nto water molecules. As a result,\nit can melt away into water."
+      },
+      {
+        "game": "bw-w",
+        "text": "Its cell composition is similar\nto water molecules. As a result,\nit can melt away into water."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "Its cell composition is similar to water\nmolecules. As a result, it can’t be seen\nwhen it melts away into water."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "Its cell composition is similar to water\nmolecules. As a result, it can’t be seen\nwhen it melts away into water."
+      },
+      {
+        "game": "xy-x",
+        "text": "It prefers beautiful shores. With cells similar to\nwater molecules, it could melt in water."
+      },
+      {
+        "game": "xy-y",
+        "text": "It has evolved to be suitable for an aquatic life.\nIt can invisibly melt away into water."
+      },
+      {
+        "game": "oras-or",
+        "text": "Vaporeon underwent a spontaneous mutation and grew fins\nand gills that allow it to live underwater. This Pokémon has the\nability to freely control water."
+      },
+      {
+        "game": "oras-as",
+        "text": "Vaporeon underwent a spontaneous mutation and grew fins\nand gills that allow it to live underwater. This Pokémon has\nthe ability to freely control water."
+      },
+      {
+        "game": "sm-s",
+        "text": "Its cells are composed of units much like water\nmolecules. It lives close to water and is often\nmistaken for a mermaid."
+      },
+      {
+        "game": "sm-m",
+        "text": "Blending in with the water and erasing all signs\nof its presence, it patiently waits for its prey,\nfish Pokémon."
+      },
+      {
+        "game": "usum-us",
+        "text": "Clean, clear waters are its usual habitat. When\nit’s about to be attacked by an invading enemy,\nit dives into the water to hide."
+      },
+      {
+        "game": "usum-um",
+        "text": "It detects nearby moisture with its fin. When its\nfin begins trembling rapidly, that means rain will\nfall in a few hours."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Its cell structure is similar to water molecules.\nIt melts into the water and becomes invisible."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Its cell structure is similar to water molecules.\nIt melts into the water and becomes invisible."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "When Vaporeon’s fins begin to vibrate, it is a\nsign that rain will come within a few hours."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Its body’s cellular structure is similar to the\nmolecular composition of water. It can melt\ninvisibly in water."
+      },
+      {
+        "game": "la",
+        "text": "Tests show that its cells closely resemble water molecules, which\nperhaps explains its ability to conceal its form while submerged.\nI believe the origins of mermaid folklore lie with this Pokémon."
+      }
+    ]
+  },
+  "chs": {
+    "name": "水伊布",
+    "genus": "吐泡宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "细胞构造与水分子非常相似。\n在水边栖息，所以有时候\n会被错认为是人鱼。"
+      },
+      {
+        "game": "sm-m",
+        "text": "与水融为一体，隐藏自己的气息，\n一动不动地埋伏着等待猎物\n——鱼宝可梦的到来。"
+      },
+      {
+        "game": "usum-us",
+        "text": "美丽的水边是其主要的栖息地。\n如果感觉有外敌来袭，\n它就会跳入水中躲起来。"
+      },
+      {
+        "game": "usum-um",
+        "text": "会通过鳍来感知周围的水分。\n如果它开始微微颤抖，\n那么数小时后就会下雨。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "它的细胞与水分子\n相似，在它溶入于水后，\n你就完全看不见它了。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "它的细胞与水分子\n相似，在它溶入于水后，\n你就完全看不见它了。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "当水伊布开始微微颤动\n它全身上下的鳍，就表示\n几个小时之后要下雨了。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "身体细胞的结构与水分子相似。\n它能和水融为一体，\n让别人无法看见它。"
+      }
+    ]
+  }
+}

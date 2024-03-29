@@ -1,0 +1,437 @@
+{
+  "jap": {
+    "name": "ゴンベ",
+    "genus": "おおぐいポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "ながい　からだの　けの　したに\nたべものを　かくす　しゅうせい。\nかくしたことを　わすれてしまう。"
+      },
+      {
+        "game": "xy-y",
+        "text": "ボサボサの　たいもうの　なかに\nたべものを　かくして　もちあるく。\nたべる　ときは　ゴクリと　まるのみ。"
+      },
+      {
+        "game": "oras-or",
+        "text": "ながい　からだの　けの　したに\nたべものを　かくす　しゅうせい。\nかくしたことを　わすれてしまう。"
+      },
+      {
+        "game": "oras-as",
+        "text": "ボサボサの　たいもうの　なかに\nたべものを　かくして　もちあるく。\nたべる　ときは　ゴクリと　まるのみ。"
+      },
+      {
+        "game": "sm-s",
+        "text": "まいにち　じぶんの　たいじゅうと\nおなじ　りょうの　エサが　ひつよう。\nあじに　ついては　きに　しない。"
+      },
+      {
+        "game": "sm-m",
+        "text": "くえそうな　ものを　みつけたら\nとりあえず　ひろって　まるのみ。\nだから　ひにひに　ふとっていく。"
+      },
+      {
+        "game": "usum-us",
+        "text": "ながい　けの　したに　たべものを\nかくすが　かくしたことを　わすれて\nいしゅう　さわぎに　なることも。"
+      },
+      {
+        "game": "usum-um",
+        "text": "くえそうなもの　だったら　とりあえず\nひろって　まるのみ。　くさったエサでも\nへいきな　がんじょうな　いを　もつ。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "とにかく　たくさん　たべることに\nむちゅう。　あじも　きにしないし\nくさっていても　へいき　なのだ。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "たいもうのしたに　エサを　ためる。\nしんらいした　あいてには\nひとくちだけ　わけてくれることも。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Gonbe",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "먹고자",
+    "genus": "대식가포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "몸의 긴 털 안쪽에\n먹이를 숨기는 습성이 있다.\n숨긴 것을 잊어버린다."
+      },
+      {
+        "game": "xy-y",
+        "text": "부스스한 털 안에\n먹이를 숨겨서 갖고 다닌다.\n먹을 때는 꿀꺽 통째로 삼킨다."
+      },
+      {
+        "game": "oras-or",
+        "text": "몸의 긴 털 안쪽에\n먹이를 숨기는 습성이 있다.\n숨긴 것을 잊어버린다."
+      },
+      {
+        "game": "oras-as",
+        "text": "부스스한 털 안에\n먹이를 숨겨서 갖고 다닌다.\n먹을 때는 꿀꺽 통째로 삼킨다."
+      },
+      {
+        "game": "sm-s",
+        "text": "매일 자신의 체중과\n같은 양의 먹이가 필요하다.\n맛에 대해서는 신경 쓰지 않는다."
+      },
+      {
+        "game": "sm-m",
+        "text": "먹을 수 있을 것 같은 것을 발견하면\n일단 주워서 통째로 삼킨다.\n그래서 나날이 살이 찌고 있다."
+      },
+      {
+        "game": "usum-us",
+        "text": "긴 털 아래에 음식을 숨기지만\n숨긴 것을 잊어 고약한 냄새가\n난다며 소동이 날 때도 있다."
+      },
+      {
+        "game": "usum-um",
+        "text": "먹을 만해 보이면 일단 주워서\n통째로 삼킨다. 썩은 먹이라도\n소화시키는 튼튼한 위를 가졌다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "일단 많이 먹고 보는 것에\n푹 빠져 있다. 맛은 상관하지 않으며\n상했어도 신경 쓰지 않는다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "털 안에 먹이를 모은다.\n신뢰하는 상대에게는\n한 입 나눠주기도 한다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "小卡比獸",
+    "genus": "大胃王寶可夢",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "每天必須要吃和自身體重\n同等份量的食物。\n並不在意味道的好壞。"
+      },
+      {
+        "game": "sm-m",
+        "text": "一旦找到看起來能吃的東西，\n就不管三七二十一先撿起來吞了。\n所以就這麼一天天地變胖起來。"
+      },
+      {
+        "game": "usum-us",
+        "text": "牠會把食物藏在長長的毛裡面，\n但有時會忘了自己藏著東西的事，\n造成惡臭四散的問題。"
+      },
+      {
+        "game": "usum-um",
+        "text": "只要是看起來能吃的東西，\n就會撿起來吞下去。有著強韌的胃，\n就算是腐爛的食物也不怕。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "總是全神專注地大吃大喝，\n完全不去講究食物的味道，\n就算是腐爛的東西也照吃不誤。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "在體毛下儲存食物。\n如果是自己信賴的對象，\n也會把食物分給對方一口。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Goinfrex",
+    "genus": "Pokémon Goinfre",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Obnubilé par sa quête incessante\nde nourriture, il oublie parfois\nqu’il en a caché dans sa fourrure."
+      },
+      {
+        "game": "bw-w",
+        "text": "Obnubilé par sa quête incessante\nde nourriture, il oublie parfois\nqu’il en a caché dans sa fourrure."
+      },
+      {
+        "game": "xy-x",
+        "text": "Il cache de la nourriture sous les grands poils de son\ncorps, mais il finit souvent par l’oublier."
+      },
+      {
+        "game": "xy-y",
+        "text": "Goinfrex cache de la nourriture dans sa fourrure\nen pagaille. Il avale tout en une bouchée."
+      },
+      {
+        "game": "oras-or",
+        "text": "Il cache de la nourriture sous les grands poils de son corps,\nmais il finit souvent par l’oublier."
+      },
+      {
+        "game": "oras-as",
+        "text": "Goinfrex cache de la nourriture dans sa fourrure en pagaille.\nIl avale tout en une bouchée."
+      },
+      {
+        "game": "sm-s",
+        "text": "Il mange chaque jour l’équivalent de son propre\npoids. Il consomme sa nourriture en quantité,\nmais il se moque bien du goût qu’elle a."
+      },
+      {
+        "game": "sm-m",
+        "text": "Dès qu’il voit un mets alléchant, il le ramasse\naussitôt et l’avale tout de go. C’est pour cela\nqu’il grossit à vue d’œil, ce petit glouton."
+      },
+      {
+        "game": "usum-us",
+        "text": "Il a tendance à cacher des aliments dans son\népaisse fourrure... et à les oublier là. L’odeur\nputride qui s’en dégage alors est plutôt gênante."
+      },
+      {
+        "game": "usum-um",
+        "text": "Dès qu’il voit quelque chose de comestible,\nil le ramasse et l’avale tout de go. Son estomac\nlui permet de digérer même la nourriture avariée."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Il ne pense qu’à manger énormément.\nIl n’a que faire du goût et n’hésite d’ailleurs\npas à engloutir de la nourriture avariée."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Il conserve sa nourriture sous son épaisse fourrure.\nIl lui arrive d’en offrir un peu à ceux en qui\nil a confiance."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Mampfaxo",
+    "genus": "Nimmersatt-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Unter seinem langen Fell versteckt es Nahrung.\nAber es vergisst, dass es sie dort versteckt hat."
+      },
+      {
+        "game": "xy-y",
+        "text": "Unter seinem struppigen Fell trägt es Nahrung mit sich\nherum. Dann verschlingt es sie in einem Happs."
+      },
+      {
+        "game": "oras-or",
+        "text": "Unter seinem langen Fell versteckt es Nahrung. Aber es\nvergisst, dass es sie dort versteckt hat."
+      },
+      {
+        "game": "oras-as",
+        "text": "Unter seinem struppigen Fell trägt es Nahrung mit sich herum.\nDann verschlingt es sie in einem Happs."
+      },
+      {
+        "game": "sm-s",
+        "text": "Es braucht eine tägliche Nahrungsmenge,\ndie seinem Körpergewicht entspricht.\nDer Geschmack ist ihm dabei egal."
+      },
+      {
+        "game": "sm-m",
+        "text": "Findet es essbar aussehende Dinge, liest es\ndiese auf und verschlingt sie mit einem Happs.\nDeswegen steigt sein Gewicht von Tag zu Tag."
+      },
+      {
+        "game": "usum-us",
+        "text": "Unter seinem langen Fell versteckt es Nahrung.\nAber es vergisst, dass es sie dort versteckt\nhat und regt sich dann über den Gestank auf."
+      },
+      {
+        "game": "usum-um",
+        "text": "Alles, was essbar aussieht, verschlingt es mit\neinem Happs. Sogar Verdorbenes kann seinem\nstarken Magen nichts anhaben."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Es ist völlig darauf fixiert, so viel wie möglich zu\nfressen. Der Geschmack spielt dabei keine Rolle.\nAuch verdorbene Nahrung macht ihm nichts aus."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Es hortet Nahrung unter seinem Fell. Vertraut es\njemandem, gibt es ihm manchmal einen kleinen\nHappen ab, aber nicht mehr."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Munchlax",
+    "genus": "Pokémon Comilón",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Esconde comida bajo el largo pelo de su cuerpo, pero\nmás tarde lo olvida."
+      },
+      {
+        "game": "xy-y",
+        "text": "En el interior de su pelaje revuelto esconde la comida\nque luego engullirá de una vez."
+      },
+      {
+        "game": "oras-or",
+        "text": "Esconde comida bajo el largo pelo de su cuerpo, pero más\ntarde lo olvida."
+      },
+      {
+        "game": "oras-as",
+        "text": "En el interior de su pelaje revuelto esconde la comida que\nluego engullirá de una vez."
+      },
+      {
+        "game": "sm-s",
+        "text": "Necesita ingerir cada día el equivalente a su\npeso corporal en comida. Le importa poco el\nsabor que pueda tener."
+      },
+      {
+        "game": "sm-m",
+        "text": "En cuanto encuentra algo comestible, lo recoge\ny lo engulle de un bocado, por lo que cada día\nestá más y más gordo."
+      },
+      {
+        "game": "usum-us",
+        "text": "Aprovecha su largo pelaje para ocultar comida,\npero se le suele olvidar y acaba generando un\nolor a putrefacción muy molesto para los demás."
+      },
+      {
+        "game": "usum-um",
+        "text": "En cuanto encuentra algo comestible, lo recoge y\nlo engulle de un bocado. Su robusto estómago le\npermite ingerir alimentos podridos sin inmutarse."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Atiborrarse de comida es su fijación. Como no\nle hace ascos a nada, puede ingerir alimentos\npodridos sin inmutarse."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Guarda alimentos bajo el pelaje. Compartirá un\npequeño bocado de vez en cuando con quien\nlogre ganarse su confianza."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Munchlax",
+    "genus": "Pokémon Ghiottone",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Nasconde il cibo sotto i lunghi peli del suo corpo.\nTuttavia, finisce spesso per dimenticarlo."
+      },
+      {
+        "game": "xy-y",
+        "text": "Nasconde il cibo sotto il pelo arruffato. Lo inghiotte\nsenza masticarlo: glop!"
+      },
+      {
+        "game": "oras-or",
+        "text": "Nasconde il cibo sotto i lunghi peli del suo corpo. Tuttavia,\nfinisce spesso per dimenticarlo."
+      },
+      {
+        "game": "oras-as",
+        "text": "Nasconde il cibo sotto il pelo arruffato. Lo inghiotte senza\nmasticarlo: glop!"
+      },
+      {
+        "game": "sm-s",
+        "text": "Deve divorare ogni giorno una quantità di cibo\npari al suo peso corporeo. Mangia qualunque\ncosa, senza badare troppo al sapore."
+      },
+      {
+        "game": "sm-m",
+        "text": "Appena trova qualcosa di commestibile, lo\ninghiotte senza masticarlo. Per questo il suo\npeso aumenta a vista d’occhio."
+      },
+      {
+        "game": "usum-us",
+        "text": "Nasconde il cibo sotto il lungo pelo, ma spesso\nse ne dimentica finché non inizia a esalare\nodori molesti a causa della putrefazione."
+      },
+      {
+        "game": "usum-um",
+        "text": "Inghiotte qualunque cosa sia commestibile senza\nmasticare. Ha uno stomaco robusto che gli\npermette di digerire anche il cibo andato a male."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Mangiare in quantità è la sua preoccupazione\nprincipale. Non bada al gusto e non si fa\nproblemi se il cibo è andato a male."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Conserva il cibo sotto la pelliccia e talvolta ne\ncondivide un boccone con chi si è guadagnato\nla sua piena fiducia."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Munchlax",
+    "genus": "Big Eater Pokémon",
+    "flavorText": [
+      {
+        "game": "dp-d",
+        "text": "It wolfs down its weight in food\nonce a day, swallowing food whole\nwith almost no chewing."
+      },
+      {
+        "game": "dp-p",
+        "text": "It hides food under its long body\nhair. However, it forgets it has\nhidden the food."
+      },
+      {
+        "game": "pt",
+        "text": "In its desperation to gulp down\nfood, it forgets about the food it\nhas hidden under its fur."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "It conceals food under the long fur on\nits body. It carts around this food\nstash and swallows it without chewing."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "It conceals food under the long fur on\nits body. It carts around this food\nstash and swallows it without chewing."
+      },
+      {
+        "game": "bw-b",
+        "text": "In its desperation to gulp down\nfood, it forgets about the food it\nhas hidden under its fur."
+      },
+      {
+        "game": "bw-w",
+        "text": "In its desperation to gulp down\nfood, it forgets about the food it\nhas hidden under its fur."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "In its desperation to gulp down\nfood, it forgets about the food it\nhas hidden under its fur."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "In its desperation to gulp down\nfood, it forgets about the food it\nhas hidden under its fur."
+      },
+      {
+        "game": "xy-x",
+        "text": "It hides food under its long body hair. However,\nit forgets it has hidden the food."
+      },
+      {
+        "game": "xy-y",
+        "text": "It conceals food under the long fur on its body.\nIt carts around this food stash and swallows it\nwithout chewing."
+      },
+      {
+        "game": "oras-or",
+        "text": "It hides food under its long body hair. However,\nit forgets it has hidden the food."
+      },
+      {
+        "game": "oras-as",
+        "text": "It conceals food under the long fur on its body.\nIt carts around this food stash and swallows it\nwithout chewing."
+      },
+      {
+        "game": "sm-s",
+        "text": "It needs to consume its own weight in food\nevery day. As far as flavor is concerned,\nit’s indifferent."
+      },
+      {
+        "game": "sm-m",
+        "text": "When it finds something that looks like it might\nbe edible, it goes right ahead and swallows it\nwhole. That’s why it gets fatter day by day."
+      },
+      {
+        "game": "usum-us",
+        "text": "It hides food under its long fur, but it\nsometimes forgets about it and causes\na stinky disturbance."
+      },
+      {
+        "game": "usum-um",
+        "text": "Anything that looks edible, Munchlax will go on\nand swallow whole. Its stomach is tough enough\nto handle it even if the food has gone rotten."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Stuffing itself with vast amounts of food is its\nonly concern. Whether the food is rotten or\nfresh, yummy or tasteless—it does not care."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "It stores food beneath its fur. It might share\njust one bite, but only if it really trusts you."
+      },
+      {
+        "game": "la",
+        "text": "Its robust stomach allows it to nonchalantly devour even rotted\nmatter. It pays frequent visits to villages, seeking out food\nscraps intended for compost."
+      }
+    ]
+  },
+  "chs": {
+    "name": "小卡比兽",
+    "genus": "大胃王宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "每天必须要吃和自重\n同等分量的食物。\n味道的好坏并不在意。"
+      },
+      {
+        "game": "sm-m",
+        "text": "一旦找到看起来能吃的东西，\n就不管三七二十一先捡起来吞了。\n所以就这么一天天地变胖起来。"
+      },
+      {
+        "game": "usum-us",
+        "text": "长长的毛发下面藏着食物，\n但有时也会忘记藏了东西\n而发生异臭的问题。"
+      },
+      {
+        "game": "usum-um",
+        "text": "只要是看着能吃的东西，就先捡起来\n一口吞下。拥有强韧的胃，\n即便是腐烂的食物也不要紧。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "总之全神贯注地大吃大喝，\n完全不去讲究食物的味道，\n就算是腐烂的东西也照吃不误。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "在体毛下面储存食物。\n如果是自己信赖的对象，\n也会把食物分给对方一口。"
+      }
+    ]
+  }
+}

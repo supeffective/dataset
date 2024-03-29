@@ -1,0 +1,133 @@
+{
+  "jap": {
+    "name": "ココガラ",
+    "genus": "ことりポケモン",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "どんな　きょうてきにも　いどみかかる\nゆうかんな　せいしつ。　かえりうちに\nあいながらも　きたえられていく。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "ちいさい　からだで　きびんに　とんで\nすきを　つく　せんぽうで　からだの\nおおきな　あいてを　てだまにとる。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Kokogara",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "파라꼬",
+    "genus": "아기새포켓몬",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "아무리 강한 상대라도 덤벼드는\n용감한 성격을 가졌다. 도리어\n당하면서도 점점 단련되어 간다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "작은 몸을 기민하게 날려\n틈을 노리는 전법으로\n몸집이 큰 상대를 농락한다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "稚山雀",
+    "genus": "小鳥寶可夢",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "性情勇敢，無論多強的敵人\n都勇於挑戰。即使在敵人的反擊中\n被打敗，也能從中得到鍛鍊。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "嬌小的體型讓牠能敏捷地飛翔。\n攻其不備的戰法將體型巨大\n的對手玩弄於股掌之間。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Minisange",
+    "genus": "Pokémon Minoiseau",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Ce Pokémon brave affronte même les adversaires\nles plus redoutables. Il devient plus fort à mesure\nqu’il subit les contre-attaques."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Son petit corps lui permet de se jouer d’ennemis\nbien plus grands que lui en volant à toute vitesse\npour les piquer où ils sont vulnérables."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Meikro",
+    "genus": "Kleinvogel-Pokémon",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Es ist von Natur aus sehr mutig und fordert daher\njeden noch so starken Feind heraus. Selbst wenn\nes den Kürzeren zieht, dient dies seinem Training."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Mit seinem kleinen Körper kann es flink fliegen\nund so mithilfe von trickreichen Taktiken größere\nGegner überlisten."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Rookidee",
+    "genus": "Pokémon Pajarito",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "De naturaleza valiente, planta cara a cualquier\nrival, por muy fuerte que sea. Los contraataques\nque recibe le sirven para fortalecerse."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Su pequeño cuerpo le permite volar a gran\nvelocidad para golpear los puntos débiles de\nrivales mucho más grandes que él."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Rookidee",
+    "genus": "Pokémon Uccellino",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Ha un’indole temeraria che lo porta ad attaccare\nbriga anche con nemici molto forti. Diventa più\nforte a forza di subire contrattacchi."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Sconfigge i nemici più grossi sfruttando le sue\npiccole dimensioni per volare con agilità attorno\na loro e colpirli nei punti deboli."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Rookidee",
+    "genus": "Tiny Bird Pokémon",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "It will bravely challenge any opponent, no matter\nhow powerful. This Pokémon benefits from every\nbattle—even a defeat increases its strength a bit."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Jumping nimbly about, this small-bodied\nPokémon takes advantage of even the slightest\nopportunity to disorient larger opponents."
+      }
+    ]
+  },
+  "chs": {
+    "name": "稚山雀",
+    "genus": "小鸟宝可梦",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "性格勇敢，无论多强的敌人\n都勇于挑战。即使在敌人的反击中\n被打败，也能从中得到锻炼。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "娇小的体型让它能敏捷地飞翔。\n利用攻其不备的战法将体型\n巨大的对手玩弄于股掌之间。"
+      }
+    ]
+  }
+}

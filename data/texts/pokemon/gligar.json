@@ -1,0 +1,251 @@
+{
+  "jap": {
+    "name": "グライガー",
+    "genus": "とびさそりポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "いつもは　がけに　はりついている。\nえものをみつけると　はねをひろげ\nかぜにのり　おそいかかってくる。"
+      },
+      {
+        "game": "xy-y",
+        "text": "がんめん　めがけて　とんでくる。\nはりつかれた　えものが　おどろく\nあいだに　どくばりを　さしこむ。"
+      },
+      {
+        "game": "oras-or",
+        "text": "おとを　たてず　すべる　ように　かっくうする。\nりょううでの　おおきな　ツメと　あしの　ツメで\nえものの　かおに　しがみつき　どくばりを　さす。"
+      },
+      {
+        "game": "oras-as",
+        "text": "おとを　たてず　すべる　ように　かっくうする。\nりょううでの　おおきな　ツメと　あしの　ツメで\nえものの　かおに　しがみつき　どくばりを　さす。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Gliger",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "글라이거",
+    "genus": "날전갈포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "보통은 벼랑에 붙어 있다.\n먹이를 발견하면 날개를 펼쳐\n바람을 타고 날아 덮친다."
+      },
+      {
+        "game": "xy-y",
+        "text": "얼굴을 겨냥하고 날아와\n들러붙어 먹이가 놀라는\n사이에 독침을 찌른다."
+      },
+      {
+        "game": "oras-or",
+        "text": "소리 내지 않고 미끄러지듯 활공한다.\n양손의 커다란 손톱과 발의 발톱으로\n먹이의 얼굴에 달라붙어 독침을 찌른다."
+      },
+      {
+        "game": "oras-as",
+        "text": "소리 내지 않고 미끄러지듯 활공한다.\n양손의 커다란 손톱과 발의 발톱으로\n먹이의 얼굴에 달라붙어 독침을 찌른다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "天蠍",
+    "genus": "飛蠍寶可夢",
+    "flavorText": []
+  },
+  "fra": {
+    "name": "Scorplane",
+    "genus": "Pokémon Scorpivol",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Il fend l’air et fond sur sa proie\npour s’agripper à son visage et\nla frapper avec son dard."
+      },
+      {
+        "game": "bw-w",
+        "text": "Il fend l’air et fond sur sa proie\npour s’agripper à son visage et\nla frapper avec son dard."
+      },
+      {
+        "game": "xy-x",
+        "text": "Il s’accroche souvent aux falaises. Sa proie repérée,\nil plane vers elle pour l’attaquer."
+      },
+      {
+        "game": "xy-y",
+        "text": "Il vole droit vers le visage de sa cible effrayée et s’y\naccroche pour lui injecter son poison."
+      },
+      {
+        "game": "oras-or",
+        "text": "Scorplane plane dans les airs sans un bruit, comme s’il glissait.\nCe Pokémon s’accroche au visage de son ennemi grâce aux\nserres de ses pattes arrière et aux pinces de ses pattes avant,\net pique avec son dard empoisonné."
+      },
+      {
+        "game": "oras-as",
+        "text": "Scorplane plane dans les airs sans un bruit, comme s’il glissait.\nCe Pokémon s’accroche au visage de son ennemi grâce aux\nserres de ses pattes arrière et aux pinces de ses pattes avant,\net pique avec son dard empoisonné."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Skorgla",
+    "genus": "Flugskorpi",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Es hängt meist an Klippen. Erspäht es Beute,\nspreizt es seine Flügel und greift diese sofort an."
+      },
+      {
+        "game": "xy-y",
+        "text": "Es fliegt direkt auf das Gesicht seiner Feinde zu\nund injiziert ihnen eine Überdosis Gift."
+      },
+      {
+        "game": "oras-or",
+        "text": "Skorgla segelt lautlos durch die Lüfte. Es verankert sich\nmithilfe der Krallen an seinen Hinterbeinen und der riesigen\nScheren an seinen Vorderbeinen am Gesicht eines Feindes\nund vergiftet ihn mit seinem Giftstachel."
+      },
+      {
+        "game": "oras-as",
+        "text": "Skorgla segelt lautlos durch die Lüfte. Es verankert sich\nmithilfe der Krallen an seinen Hinterbeinen und der riesigen\nScheren an seinen Vorderbeinen am Gesicht eines Feindes\nund vergiftet ihn mit seinem Giftstachel."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Gligar",
+    "genus": "Pokémon Escorpiala",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "A veces se sujeta a los precipicios. Cuando divisa una\npresa, despliega sus alas y planea para atacar."
+      },
+      {
+        "game": "xy-y",
+        "text": "Vuela directo a la cara del objetivo y acaba con su\naterrada víctima inyectándole veneno."
+      },
+      {
+        "game": "oras-or",
+        "text": "Gligar planea por el aire sin hacer ningún ruido, como si fuera\npatinando. Este Pokémon se agarra a la cara de su rival con\nlas patas traseras, con forma de garra, y las pinzas de las\ndelanteras y le inyecta veneno por el aguijón."
+      },
+      {
+        "game": "oras-as",
+        "text": "Gligar planea por el aire sin hacer ningún ruido, como si fuera\npatinando. Este Pokémon se agarra a la cara de su rival con\nlas patas traseras, con forma de garra, y las pinzas de las\ndelanteras y le inyecta veneno por el aguijón."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Gligar",
+    "genus": "Pokémon Aliscorpio",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Di solito sta attaccato agli scogli. Attacca la preda\nspalancando le ali e planando."
+      },
+      {
+        "game": "xy-y",
+        "text": "Vola in picchiata sulla testa del nemico, lo atterra e\ngli inietta il suo veleno."
+      },
+      {
+        "game": "oras-or",
+        "text": "Gligar fende l’aria impercettibilmente come se stesse\nscivolando. Questo Pokémon si aggrappa al viso del nemico\nusando le zampe posteriori artigliate e le possenti chele\nsulle zampe anteriori, poi avvelena la preda con il suo aculeo."
+      },
+      {
+        "game": "oras-as",
+        "text": "Gligar fende l’aria impercettibilmente come se stesse\nscivolando. Questo Pokémon si aggrappa al viso del nemico\nusando le zampe posteriori artigliate e le possenti chele\nsulle zampe anteriori, poi avvelena la preda con il suo aculeo."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Gligar",
+    "genus": "Fly Scorpion Pokémon",
+    "flavorText": [
+      {
+        "game": "gs-g",
+        "text": "It flies straight\nat its target's\nface then clamps\fdown on the star­\ntled victim to\ninject poison."
+      },
+      {
+        "game": "gs-s",
+        "text": "It usually clings\nto cliffs. When it\nspots its prey, it\fspreads its wings\nand glides down to\nattack."
+      },
+      {
+        "game": "c",
+        "text": "It builds its nest\non a steep cliff.\nWhen it is done\fgliding, it hops\nalong the ground\nback to its nest."
+      },
+      {
+        "game": "rs-r",
+        "text": "GLIGAR glides through the air without\na sound as if it were sliding.\nThis POKéMON hangs on to the face of\fits foe using its clawed hind legs and\nthe large pincers on its forelegs, then\ninjects the prey with its poison barb."
+      },
+      {
+        "game": "rs-s",
+        "text": "GLIGAR glides through the air without\na sound as if it were sliding.\nThis POKéMON hangs on to the face of\fits foe using its clawed hind legs and\nthe large pincers on its forelegs, then\ninjects the prey with its poison barb."
+      },
+      {
+        "game": "e",
+        "text": "It glides without making a single sound.\nIt grasps the face of its foe using its\nhind and large front claws, then stabs\nwith its poison barb."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "It usually clings to cliffs. When it spots\nits prey, it spreads its wings and glides\ndown to attack."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "It flies straight at its target’s face,\nthen clamps down on the startled\nvictim to inject poison."
+      },
+      {
+        "game": "dp-d",
+        "text": "It sails on the winds with its\nlimbs extended to strike from the\nsky. It aims for the prey’s face."
+      },
+      {
+        "game": "dp-p",
+        "text": "It sails on the winds with its\nlimbs extended to strike from the\nsky. It aims for the prey’s face."
+      },
+      {
+        "game": "pt",
+        "text": "It glides as if sliding. It startles\nfoes by clamping on to their faces,\nthen jabs with its poison stinger."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "It flies straight at its target’s\nface, then clamps down on the\nstartled victim to inject poison."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "It usually clings to cliffs. When it\nspots its prey, it spreads its wings\nand glides down to attack."
+      },
+      {
+        "game": "bw-b",
+        "text": "It glides as if sliding. It startles\nfoes by clamping on to their faces,\nthen jabs with its poison stinger."
+      },
+      {
+        "game": "bw-w",
+        "text": "It glides as if sliding. It startles\nfoes by clamping on to their faces,\nthen jabs with its poison stinger."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "It clamps on to its chosen prey then\njabs the stinger on its tail into the\nprey while it’s stunned with surprise."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "It clamps on to its chosen prey then\njabs the stinger on its tail into the\nprey while it’s stunned with surprise."
+      },
+      {
+        "game": "xy-x",
+        "text": "It usually clings to cliffs. When it spots its prey,\nit spreads its wings and glides down to attack."
+      },
+      {
+        "game": "xy-y",
+        "text": "It flies straight at its target’s face, then clamps\ndown on the startled victim to inject poison."
+      },
+      {
+        "game": "oras-or",
+        "text": "Gligar glides through the air without a sound as if it were\nsliding. This Pokémon hangs on to the face of its foe using\nits clawed hind legs and the large pincers on its forelegs, then\ninjects the prey with its poison barb."
+      },
+      {
+        "game": "oras-as",
+        "text": "Gligar glides through the air without a sound as if it were\nsliding. This Pokémon hangs on to the face of its foe using\nits clawed hind legs and the large pincers on its forelegs, then\ninjects the prey with its poison barb."
+      },
+      {
+        "game": "la",
+        "text": "Its tail is tipped by a thick, horrible stinger. To bring down prey,\nit will first obscure their vision by covering their faces with its\nbody, and then it will use the stinger to inject them with venom."
+      }
+    ]
+  },
+  "chs": {
+    "name": "天蝎",
+    "genus": "飞蝎宝可梦",
+    "flavorText": []
+  }
+}

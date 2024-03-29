@@ -1,0 +1,393 @@
+{
+  "jap": {
+    "name": "バンギラス",
+    "genus": "よろいポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "かたうでを　うごかしただけで\nやまをくずし　じひびきを　おこす\nとてつもない　パワーを　ひめる。"
+      },
+      {
+        "game": "xy-y",
+        "text": "バンギラスが　あばれると\nやまが　くずれ　かわが　うまるため\nちずを　かきかえる　ことになる。"
+      },
+      {
+        "game": "oras-or",
+        "text": "じぶんの　すみかを　つくる　ために　やま　ひとつ\nくずしてしまう　ほどの　つよい　パワーを　もつ。\nたたかう　あいてを　もとめて　やまを　さまよう。"
+      },
+      {
+        "game": "oras-as",
+        "text": "じぶんの　すみかを　つくる　ために　やま　ひとつ\nくずしてしまう　ほどの　つよい　パワーを　もつ。\nたたかう　あいてを　もとめて　やまを　さまよう。"
+      },
+      {
+        "game": "usum-us",
+        "text": "たたかう　あいてを　もとめて　やまを\nさまよう。　であっても　かくしたが\nあいてだと　むしして　さっていく。"
+      },
+      {
+        "game": "usum-um",
+        "text": "すすむ　みちの　まえに　やまが\nあれば　くずし　いえが　あれば\nはかいする　うごく　さいがいポケモン。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "どんな　こうげきにも　びくともしない\nからだを　もっているため\nどんどん　しょうぶを　しかけてくる。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "じひびきを　ならしながら　あるくと\nおおきな　やまでさえ　くずれ\nまわりの　ちけいは　かわってしまう。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Bangiras",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "마기라스",
+    "genus": "갑옷포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "한쪽 팔을 움직이는 것만으로도\n산을 무너뜨리고 땅을 울리게 하는\n엄청난 힘을 감추고 있다."
+      },
+      {
+        "game": "xy-y",
+        "text": "마기라스가 난동을 부리면\n산이 무너지고 강이 메워지므로\n지도를 다시 그려야 한다."
+      },
+      {
+        "game": "oras-or",
+        "text": "자신의 거처를 만들기 위해 산 하나를\n부숴버릴 정도로 강한 파워를 지녔다.\n싸울 상대를 찾아 산을 떠돈다."
+      },
+      {
+        "game": "oras-as",
+        "text": "자신의 거처를 만들기 위해 산 하나를\n부숴버릴 정도로 강한 파워를 지녔다.\n싸울 상대를 찾아 산을 떠돈다."
+      },
+      {
+        "game": "usum-us",
+        "text": "싸울 상대를 찾아 산을 떠돈다.\n만나도 격이 떨어지는\n상대라고 무시하고 떠나간다."
+      },
+      {
+        "game": "usum-um",
+        "text": "앞길에 산이 있으면 무너뜨리고\n집이 있으면 파괴하는\n걸어다니는 재해 포켓몬이다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "어떤 공격에도 꿈쩍도 하지 않는\n몸을 가졌기 때문에\n자꾸 승부를 걸어온다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "지축을 울리면서 걸으면\n큰 산조차 무너지며\n주변의 지형은 변해버린다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "班基拉斯",
+    "genus": "鎧甲寶可夢",
+    "flavorText": [
+      {
+        "game": "usum-us",
+        "text": "會在山中徘徊尋找對手來戰鬥，\n但如果遇到的是比自己弱小的對手，\n牠就會視若無睹地離開。"
+      },
+      {
+        "game": "usum-um",
+        "text": "這種寶可夢是會移動的災害。\n在牠前進的道路上，不管是\n山還是房屋都會被破壞殆盡。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "擁有無論遭受任何攻擊\n都能毫髮無傷的身體，\n因此會不斷向對手挑戰。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "當牠帶著巨大轟鳴聲邁開腳步，\n就連大山都會為之崩裂，\n周遭的地形也會因而改變。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Tyranocif",
+    "genus": "Pokémon Armure",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Lorsqu’il est en colère, il abat des\nmontagnes et enterre des fleuves.\nOn doit alors modifier les cartes."
+      },
+      {
+        "game": "bw-w",
+        "text": "Lorsqu’il est en colère, il abat des\nmontagnes et enterre des fleuves.\nOn doit alors modifier les cartes."
+      },
+      {
+        "game": "xy-x",
+        "text": "D’une main seulement il a assez de force pour faire\ntrembler la terre et s’écrouler une montagne."
+      },
+      {
+        "game": "xy-y",
+        "text": "Lorsqu’il est en colère, il abat des montagnes et\nenterre des fleuves. On doit alors modifier les cartes."
+      },
+      {
+        "game": "oras-or",
+        "text": "Tyranocif est si incroyablement puissant qu’il peut abattre\nune montagne pour y faire son nid. Ce Pokémon se promène\ndans les montagnes pour y trouver de nouveaux adversaires."
+      },
+      {
+        "game": "oras-as",
+        "text": "Tyranocif est si incroyablement puissant qu’il peut abattre\nune montagne pour y faire son nid. Ce Pokémon se promène\ndans les montagnes pour y trouver de nouveaux adversaires."
+      },
+      {
+        "game": "usum-us",
+        "text": "Il parcourt les montagnes à la recherche d’un\nadversaire. Si ce dernier n’est pas à la hauteur,\nil préfère l’ignorer et s’en aller."
+      },
+      {
+        "game": "usum-um",
+        "text": "Aucun obstacle n’arrête ce Pokémon lorsqu’il\nse déplace : les montagnes, il les démolit ;\nles maisons, il les anéantit."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Son corps est invulnérable à toutes les attaques,\nc’est pourquoi il aime tant mettre ses forces\nà l’épreuve."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Son pas est si lourd qu’il fait trembler le sol\net s’écrouler même les plus grandes montagnes,\nce qui altère la topographie de la zone."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Despotar",
+    "genus": "Panzer-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Es besitzt so viel Kraft, dass es mit nur einer Hand\ndie Erde beben lassen und Berge zerbröckeln kann."
+      },
+      {
+        "game": "xy-y",
+        "text": "Bei einem Tobsuchtsanfall zerstört es ganze Gebirge\nund legt Flüsse trocken."
+      },
+      {
+        "game": "oras-or",
+        "text": "Despotar ist erstaunlich stark. Es kann einen ganzen Berg\nvernichten, um sein Nest zu bauen. Dieses Pokémon wandert\nin den Bergen umher und sucht nach Gegnern für einen Kampf."
+      },
+      {
+        "game": "oras-as",
+        "text": "Despotar ist erstaunlich stark. Es kann einen ganzen Berg\nvernichten, um sein Nest zu bauen. Dieses Pokémon wandert\nin den Bergen umher und sucht nach Gegnern für einen Kampf."
+      },
+      {
+        "game": "usum-us",
+        "text": "Es durchstreift die Berge auf der Suche nach\nGegnern. Begegnet es einem, der ihm nicht\nebenbürtig ist, ignoriert es ihn und zieht weiter."
+      },
+      {
+        "game": "usum-um",
+        "text": "Dieses Pokémon ist ein wandelndes Desaster.\nBerge, die ihm im Weg stehen, reißt es ein und\nHäuser macht es dem Erdboden gleich."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Dank seines starken Körpers fürchtet es sich vor\nkeiner Form von Angriff. Deshalb zettelt es\nununterbrochen Kämpfe an."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Seine Schritte erzeugen Erdbeben, die selbst\ngroße Berge plätten und die Form ganzer\nLandstriche verändern."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Tyranitar",
+    "genus": "Pokémon Coraza",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "En una de sus poderosas garras tiene el poder de\nhacer temblar la tierra y las montañas."
+      },
+      {
+        "game": "xy-y",
+        "text": "Puede alterar el paisaje derribando montañas y\nenterrando ríos. Da mucho trabajo a los cartógrafos."
+      },
+      {
+        "game": "oras-or",
+        "text": "Tyranitar tiene una fuerza imponente; es capaz de echar abajo\nuna montaña para hacer su nido. Este Pokémon suele\nmerodear por las zonas de montaña en busca de nuevos\nrivales contra los que luchar."
+      },
+      {
+        "game": "oras-as",
+        "text": "Tyranitar tiene una fuerza imponente; es capaz de echar abajo\nuna montaña para hacer su nido. Este Pokémon suele\nmerodear por las zonas de montaña en busca de nuevos\nrivales contra los que luchar."
+      },
+      {
+        "game": "usum-us",
+        "text": "Recorre las montañas en busca de rivales para\ncombatir. Si juzga que no están a su altura, los\nignora y pasa de largo."
+      },
+      {
+        "game": "usum-um",
+        "text": "Nada puede parar a este Pokémon cuando se\nmueve: derriba montañas, arrasa edificios y\ndestroza todo lo que se le ponga por delante."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Casi ningún ataque hace mella en su cuerpo, por\nlo que le encanta desafiar a sus enemigos."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Sus estrepitosos pasos derrumban montañas\ny hacen que el terreno a su alrededor cambie\ndrásticamente."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Tyranitar",
+    "genus": "Pokémon Armatura",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Anche una sola delle sue mani può far tremare\nla terra e sbriciolare le montagne."
+      },
+      {
+        "game": "xy-y",
+        "text": "Se s’infuria, abbatte le montagne e seppellisce i\nfiumi. In seguito, le mappe devono essere riscritte."
+      },
+      {
+        "game": "oras-or",
+        "text": "Tyranitar ha una potenza tale da abbattere anche un’intera\nmontagna per crearsi la tana. Vaga tra i monti alla ricerca\ndi nuovi avversari con cui lottare."
+      },
+      {
+        "game": "oras-as",
+        "text": "Tyranitar ha una potenza tale da abbattere anche un’intera\nmontagna per crearsi la tana. Vaga tra i monti alla ricerca\ndi nuovi avversari con cui lottare."
+      },
+      {
+        "game": "usum-us",
+        "text": "Vaga tra i monti alla ricerca di avversari con\ncui lottare. Se però non li ritiene alla sua altezza,\nli ignora e se ne va."
+      },
+      {
+        "game": "usum-um",
+        "text": "Provoca disastri non appena si muove.\nSe sul suo cammino incontra una montagna,\nla spiana, e se trova una casa la distrugge."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Il suo corpo non è scalfito da alcun attacco,\nperciò sfida un avversario dietro l’altro senza\nesitazione."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Può camminare a passi così pesanti da far\ncrollare perfino le montagne più grosse,\ntrasformando così il paesaggio circostante."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Tyranitar",
+    "genus": "Armor Pokémon",
+    "flavorText": [
+      {
+        "game": "gs-g",
+        "text": "Its body can't be\nharmed by any sort\nof attack, so it\fis very eager to\nmake challenges\nagainst enemies."
+      },
+      {
+        "game": "gs-s",
+        "text": "Extremely strong,\nit can change the\nlandscape. It has\fan insolent nature\nthat makes it not\ncare about others."
+      },
+      {
+        "game": "c",
+        "text": "In just one of its\nmighty hands, it\nhas the power to\fmake the ground\nshake and moun­\ntains crumble."
+      },
+      {
+        "game": "rs-r",
+        "text": "TYRANITAR is so overwhelmingly\npowerful, it can bring down a whole\nmountain to make its nest.\fThis POKéMON wanders about in\nmountains seeking new opponents to\nfight."
+      },
+      {
+        "game": "rs-s",
+        "text": "TYRANITAR is so overwhelmingly\npowerful, it can bring down a whole\nmountain to make its nest.\fThis POKéMON wanders about in\nmountains seeking new opponents to\nfight."
+      },
+      {
+        "game": "e",
+        "text": "A TYRANITAR is so overwhelmingly powerful,\nit can bring down a whole mountain to make\nits nest. It roams in mountains seeking\nnew opponents to fight."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "Its body can’t be harmed by any sort of\nattack, so it is very eager to make\nchallenges against enemies."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "Its body can’t be harmed by any sort of\nattack, so it is very eager to make\nchallenges against enemies."
+      },
+      {
+        "game": "dp-d",
+        "text": "If it rampages, it knocks down\nmountains and buries rivers. Maps\nmust be redrawn afterward."
+      },
+      {
+        "game": "dp-p",
+        "text": "If it rampages, it knocks down\nmountains and buries rivers. Maps\nmust be redrawn afterward."
+      },
+      {
+        "game": "pt",
+        "text": "If it rampages, it knocks down\nmountains and buries rivers. Maps\nmust be redrawn afterward."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "Its body can’t be harmed by any\nsort of attack, so it is very eager\nto make challenges against enemies."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "Extremely strong, it can change the\nlandscape. It has an insolent nature\nthat makes it not care about others."
+      },
+      {
+        "game": "bw-b",
+        "text": "If it rampages, it knocks down\nmountains and buries rivers. Maps\nmust be redrawn afterward."
+      },
+      {
+        "game": "bw-w",
+        "text": "If it rampages, it knocks down\nmountains and buries rivers. Maps\nmust be redrawn afterward."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "The quakes caused when it walks\nmake even great mountains crumble\nand change the surrounding terrain."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "The quakes caused when it walks\nmake even great mountains crumble\nand change the surrounding terrain."
+      },
+      {
+        "game": "xy-x",
+        "text": "In just one of its mighty hands, it has the power to\nmake the ground shake and mountains crumble."
+      },
+      {
+        "game": "xy-y",
+        "text": "If it rampages, it knocks down mountains and buries\nrivers. Maps must be redrawn afterward."
+      },
+      {
+        "game": "oras-or",
+        "text": "Tyranitar is so overwhelmingly powerful, it can bring down a\nwhole mountain to make its nest. This Pokémon wanders about\nin mountains seeking new opponents to fight."
+      },
+      {
+        "game": "oras-as",
+        "text": "Tyranitar is so overwhelmingly powerful, it can bring down a\nwhole mountain to make its nest. This Pokémon wanders about\nin mountains seeking new opponents to fight."
+      },
+      {
+        "game": "usum-us",
+        "text": "It wanders through the mountains seeking\nopponents to fight. If it finds an opponent that’s\nnot worthy, Tyranitar ignores it and wanders on."
+      },
+      {
+        "game": "usum-um",
+        "text": "This Pokémon is a mobile disaster, leaving\nmountains crumbled and houses destroyed in\nits wake."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Its body can’t be harmed by any sort of attack,\nso it is very eager to make challenges\nagainst enemies."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "The quakes caused when it walks make even\ngreat mountains crumble and change\nthe surrounding terrain."
+      }
+    ]
+  },
+  "chs": {
+    "name": "班基拉斯",
+    "genus": "铠甲宝可梦",
+    "flavorText": [
+      {
+        "game": "usum-us",
+        "text": "会在山中徘徊以寻求战斗对手。\n但如果遇到的是比自己弱小的对手，\n它就会视若无睹地离开。"
+      },
+      {
+        "game": "usum-um",
+        "text": "在前进的道路上，\n它会遇山毁山，遇楼拆楼，\n是一种会移动的灾害型宝可梦。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "拥有无论遭到任何攻击\n都能毫发无伤的身体，\n因此会不断向对手挑战。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "当它带着巨大轰鸣声迈开脚步，\n就连大山都会为之崩裂，\n周围的地形也会因此改变。"
+      }
+    ]
+  }
+}

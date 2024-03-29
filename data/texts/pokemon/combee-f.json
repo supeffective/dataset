@@ -1,0 +1,293 @@
+{
+  "jap": {
+    "name": "ミツハニー",
+    "genus": "はちのこポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "うまれたときから　３びき　いっしょ。\nビークインに　よろこんでもらうため\nいつも　はなのミツを　あつめている。"
+      },
+      {
+        "game": "xy-y",
+        "text": "あつめた　ミツを　すみかに　はこぶ。\nよるには　たくさんの　ミツハニーが\nかさなって　はちのすになり　ねむる。"
+      },
+      {
+        "game": "oras-or",
+        "text": "うまれたときから　３びき　いっしょ。\nビークインに　よろこんでもらうため\nいつも　はなのミツを　あつめている。"
+      },
+      {
+        "game": "oras-as",
+        "text": "あつめた　ミツを　すみかに　はこぶ。\nよるには　たくさんの　ミツハニーが\nかさなって　はちのすになり　ねむる。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "いつも　いっしょの　３びきだけど\nそれぞれの　はなのミツの\nこのみは　びみょうに　ちがう。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "よあけから　ひぐれまで　ミツを\nあつめつづける。　すべては\nむれと　ビークインの　ためだ。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Mitsuhoney",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "세꿀버리",
+    "genus": "꼬마벌포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "태어났을 때부터 3마리가 함께한다.\n비퀸을 기쁘게 하기 위해\n항상 꽃의 꿀을 모으고 있다."
+      },
+      {
+        "game": "xy-y",
+        "text": "모은 꿀을 거처로 운반한다.\n밤에는 많은 세꿀버리가\n겹쳐져 벌집이 되어 잠잔다."
+      },
+      {
+        "game": "oras-or",
+        "text": "태어났을 때부터 3마리가 함께한다.\n비퀸을 기쁘게 하기 위해\n항상 꽃의 꿀을 모으고 있다."
+      },
+      {
+        "game": "oras-as",
+        "text": "모은 꿀을 거처로 운반한다.\n밤에는 많은 세꿀버리가\n겹쳐져 벌집이 되어 잠잔다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "언제나 3마리가 같이 있지만\n좋아하는 꽃의 꿀은\n저마다 미묘하게 다르다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "새벽부터 저녁때까지 꿀을\n계속 모은다. 모든 것은\n무리와 비퀸을 위해서다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "三蜜蜂",
+    "genus": "幼蜂寶可夢",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "３隻一直都在一起，\n但每一隻對花蜜的\n喜好卻略有不同。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "從早到晚都在採集花蜜。\n這一切都是為了\n自己的族群和蜂女王。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Apitrini",
+    "genus": "Pokémon Miniabeille",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Ce trio inséparable depuis la\nnaissance récolte du miel\npour satisfaire Apireine."
+      },
+      {
+        "game": "bw-w",
+        "text": "Ce trio inséparable depuis la\nnaissance récolte du miel\npour satisfaire Apireine."
+      },
+      {
+        "game": "xy-x",
+        "text": "Ce trio inséparable depuis la naissance récolte du miel\npour satisfaire Apireine."
+      },
+      {
+        "game": "xy-y",
+        "text": "Il récolte le nectar et l’amène à la colonie.\nLa nuit, les Pokémon de cette espèce s’assemblent\npour bâtir une ruche et s’endormir."
+      },
+      {
+        "game": "oras-or",
+        "text": "Ce trio inséparable depuis la naissance récolte du miel\npour satisfaire Apireine."
+      },
+      {
+        "game": "oras-as",
+        "text": "Il récolte le nectar et l’amène à la colonie. La nuit,\nles Pokémon de cette espèce s’assemblent pour bâtir\nune ruche et s’endormir."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Ce trio est inséparable et pourtant, leur goût\npour le nectar diffère légèrement."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Du lever du soleil à la tombée de la nuit,\nil récolte du nectar pour Apireine et sa colonie."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Wadribie",
+    "genus": "Kleinbienen-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Dieses Trio ist von Geburt an zusammen.\nFleißig bringt es Blütenhonig zu Honweisel."
+      },
+      {
+        "game": "xy-y",
+        "text": "Es sammelt Honig und bringt ihn in seine Kolonie.\nNachts bilden sie einen Bienenstock und schlafen."
+      },
+      {
+        "game": "oras-or",
+        "text": "Dieses Trio ist von Geburt an zusammen. Fleißig bringt es\nBlütenhonig zu Honweisel."
+      },
+      {
+        "game": "oras-as",
+        "text": "Es sammelt Honig und bringt ihn in seine Kolonie.\nNachts bilden sie einen Bienenstock und schlafen."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Dieses Trio ist immer zusammen, aber jedes\nvon ihnen hat leicht andere Vorlieben, was\nBlütenhonig angeht."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Sie sammeln von der Morgendämmerung bis zum\nSonnenuntergang unentwegt Blütenhonig für\nHonweisel und die Kolonie."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Combee",
+    "genus": "Pokémon Abejita",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "El trío se forma al nacer y se pasa la vida recogiendo\nmiel de las flores para satisfacer a Vespiquen."
+      },
+      {
+        "game": "xy-y",
+        "text": "Almacenan miel en su colonia. Por la noche, se apiñan\npara formar una colmena y dormir."
+      },
+      {
+        "game": "oras-or",
+        "text": "El trío se forma al nacer y se pasa la vida recogiendo miel de\nlas flores para satisfacer a Vespiquen."
+      },
+      {
+        "game": "oras-as",
+        "text": "Almacenan miel en su colonia. Por la noche, se apiñan para\nformar una colmena y dormir."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Este trío no se separa jamás, pero cada uno tiene\nsus propios gustos en cuanto a néctar se refiere."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Recolecta néctar de sol a sol para entregarlo a la\ncolonia y a Vespiquen."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Combee",
+    "genus": "Pokémon Apetta",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Il trio è insieme dalla nascita. È sempre impegnato\na portare il nettare dei fiori a Vespiquen."
+      },
+      {
+        "game": "xy-y",
+        "text": "Porta il nettare raccolto dai suoi simili. Di notte si\nriuniscono per formare un alveare e dormire."
+      },
+      {
+        "game": "oras-or",
+        "text": "Il trio è insieme dalla nascita. È sempre impegnato a portare\nil nettare dei fiori a Vespiquen."
+      },
+      {
+        "game": "oras-as",
+        "text": "Porta il nettare raccolto dai suoi simili. Di notte si riuniscono\nper formare un alveare e dormire."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "I tre componenti non si separano mai.\nIn fatto di nettare, ognuno ha gusti\nleggermente diversi."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Raccoglie nettare dal tramonto all’alba\nper il bene del gruppo e di Vespiquen."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Combee",
+    "genus": "Tiny Bee Pokémon",
+    "flavorText": [
+      {
+        "game": "dp-d",
+        "text": "A Pokémon formed by three others.\nIt busily carries sweet floral\nhoney to VESPIQUEN."
+      },
+      {
+        "game": "dp-p",
+        "text": "It collects and delivers honey to\nits colony. At night, they cluster\nto form a beehive and sleep."
+      },
+      {
+        "game": "pt",
+        "text": "The trio is together from birth.\nIt constantly gathers honey from\nflowers to please VESPIQUEN."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "At night, COMBEE sleep in a group of\nabout a thousand, packed closely\ntogether in a lump."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "At night, COMBEE sleep in a group of\nabout a thousand, packed closely\ntogether in a lump."
+      },
+      {
+        "game": "bw-b",
+        "text": "The trio is together from birth.\nIt constantly gathers honey from\nflowers to please Vespiquen."
+      },
+      {
+        "game": "bw-w",
+        "text": "The trio is together from birth.\nIt constantly gathers honey from\nflowers to please Vespiquen."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "This Pokémon is a set of three.\nWhen they sleep, they gather up\nand form a giant hive of 100 Combee."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "This Pokémon is a set of three.\nWhen they sleep, they gather up\nand form a giant hive of 100 Combee."
+      },
+      {
+        "game": "xy-x",
+        "text": "The trio is together from birth. It constantly gathers\nhoney from flowers to please Vespiquen."
+      },
+      {
+        "game": "xy-y",
+        "text": "It collects and delivers honey to its colony.\nAt night, they cluster to form a beehive and sleep."
+      },
+      {
+        "game": "oras-or",
+        "text": "The trio is together from birth. It constantly gathers\nhoney from flowers to please Vespiquen."
+      },
+      {
+        "game": "oras-as",
+        "text": "It collects and delivers honey to its colony.\nAt night, they cluster to form a beehive and sleep."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "The members of the trio spend all their time\ntogether. Each one has a slightly different taste\nin nectar."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "It ceaselessly gathers nectar from sunrise to\nsundown, all for the sake of Vespiquen and\nthe swarm."
+      },
+      {
+        "game": "la",
+        "text": "They swear fealty to a queen Pokémon and work diligently to\ngather nectar. Each swarm produces a different flavor of honey."
+      }
+    ]
+  },
+  "chs": {
+    "name": "三蜜蜂",
+    "genus": "幼蜂宝可梦",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "３只一直都在一起，\n但每一只对花蜜的\n喜好却略有不同。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "从早到晚都在采集花蜜。\n这一切都是为了\n自己的族群和蜂女王。"
+      }
+    ]
+  }
+}

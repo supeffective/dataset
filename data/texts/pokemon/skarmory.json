@@ -1,0 +1,465 @@
+{
+  "jap": {
+    "name": "エアームド",
+    "genus": "よろいどりポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "いばらの　なかに　すをつくる。\nトゲで　きずつきながら　そだてられた\nヒナの　ハネは　かたくなる。"
+      },
+      {
+        "game": "xy-y",
+        "text": "てつのような　かたい　よろいに\nおおわれている。じそく３００キロの\nスピードで　おおぞらを　とびまわる。"
+      },
+      {
+        "game": "oras-or",
+        "text": "ぜんしんが　かたい　ヨロイに　おおわれている。\nじそく　３００キロの　スピードで　そらを　とび\nかたなの　きれあじを　もつ　ハネで　きりさく。"
+      },
+      {
+        "game": "oras-as",
+        "text": "たたかいを　くりかえして　ボロボロに　なった\nはがねの　ハネは　１ねんに　１かい　はえかわり\nもとどおりの　きれあじを　とりもどすのだ。"
+      },
+      {
+        "game": "sm-s",
+        "text": "せいちょうのたび　ぬけおちる　ハネは\nうすく　するどい。　むかしの　せんしは\nかたな　として　りようした。"
+      },
+      {
+        "game": "sm-m",
+        "text": "てつの　からだは　がんじょうだが\nさびやすいので　あめの　ひは\nすあなで　じっと　しているよ。"
+      },
+      {
+        "game": "usum-us",
+        "text": "ぬけおちた　つばさを　かこうして\nつくる　ほうちょうは　いちりゅうの\nりょうりにんも　なっとくのきれあじ。"
+      },
+      {
+        "game": "usum-um",
+        "text": "はがねの　よろいを　みに　まとう。\nおもそうに　みえるが　さいだい\n３００キロの　そくどで　とべるぞ。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "するどい　ハネは　つるぎに　まさる\nきれあじ。　ナワバリを　めぐって\nアーマーガアと　はげしく　あらそう。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "ぬけおちた　ハネから　つるぎが\nつくられることから　もんしょうの\nずあんとして　にんきが　たかい。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Airmd",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "무장조",
+    "genus": "갑옷새포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "가시나무 안에 둥지를 만든다.\n가시에 상처를 입어가며 자라난\n새끼들의 날개는 단단해진다."
+      },
+      {
+        "game": "xy-y",
+        "text": "철 같은 단단한 갑옷으로\n덮여 있다. 시속 300km의\n스피드로 넓은 하늘을 날아다닌다."
+      },
+      {
+        "game": "oras-or",
+        "text": "전신이 단단한 갑옷으로 둘러싸여 있다.\n시속 300km의 스피드로 하늘을 날아\n칼날 같은 날카로운 날개로 베어낸다."
+      },
+      {
+        "game": "oras-as",
+        "text": "싸움을 반복하여 너덜너덜해진\n강철의 날개는 1년에 1회 다시 돋아나\n원래의 날카로움을 되찾는다."
+      },
+      {
+        "game": "sm-s",
+        "text": "성장할 때마다 빠지는 날개는\n얇고 날카롭다. 옛 전사들은\n칼로 이용했다."
+      },
+      {
+        "game": "sm-m",
+        "text": "철로 된 몸은 튼튼하지만\n녹슬기 쉬워서 비가 내리는 날엔\n둥지에서 가만히 있다."
+      },
+      {
+        "game": "usum-us",
+        "text": "빠진 날개를 가공해서\n만드는 식칼은 일류 요리사도\n인정할 정도로 날카롭다."
+      },
+      {
+        "game": "usum-um",
+        "text": "강철의 갑옷을 몸에 걸친다.\n무거워 보이지만 최고\n300km의 속도로 날 수 있다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "날카로운 날개는 검보다\n예리하다. 영역을 두고\n아머까오와 격렬하게 싸운다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "빠진 깃털로 검을\n만들 수 있어서 문장\n도안으로 인기가 많다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "盔甲鳥",
+    "genus": "鋼甲鳥寶可夢",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "每次成長都會脫落的羽毛\n又薄又銳利。古時的戰士\n將之當作刀來使用。"
+      },
+      {
+        "game": "sm-m",
+        "text": "鐵的身體十分結實，\n但很容易生銹，\n所以下雨天會一直留在巢穴哦。"
+      },
+      {
+        "game": "usum-us",
+        "text": "將牠脫落下來的翅膀\n加工製成的菜刀，鋒利程度\n足以讓一流廚師也點頭認可。"
+      },
+      {
+        "game": "usum-um",
+        "text": "全身披著鋼鐵鎧甲。\n看起來很重，但牠能以\n最高３００公里的時速飛行。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "尖銳的羽毛比劍還要\n更鋒利。會和鋼鎧鴉\n為了爭地盤而激烈爭鬥。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "由於牠脫落下來的羽毛\n能夠製成劍，因此作為\n家徽的圖案也很有人氣。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Airmure",
+    "genus": "Pokémon Armoiseau",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Son corps est prisonnier d’une armure\ndure comme l’acier, mais il vole à plus\nde 300 km/h."
+      },
+      {
+        "game": "bw-w",
+        "text": "Son corps est prisonnier d’une armure\ndure comme l’acier, mais il vole à plus\nde 300 km/h."
+      },
+      {
+        "game": "xy-x",
+        "text": "Comme il fait son nid dans les ronces, ses petits\ns’endurcissent à force d’être sans cesse éraflés."
+      },
+      {
+        "game": "xy-y",
+        "text": "Son corps est prisonnier d’une armure dure comme\nl’acier, mais il vole à plus de 300 km/h."
+      },
+      {
+        "game": "oras-or",
+        "text": "Airmure est entièrement recouvert d’une armure très dure.\nCe Pokémon peut voler à plus de 300 km/h. Il peut mettre\nses ennemis en pièces grâce à ses ailes tranchantes comme\ndes sabres."
+      },
+      {
+        "game": "oras-as",
+        "text": "Les ailes d’acier d’Airmure s’abîment et se cabossent à force\nde se battre. Une fois par an, les ailes endommagées\nrepoussent complètement, rendant à leurs bords tranchants\nleur état d’origine."
+      },
+      {
+        "game": "sm-s",
+        "text": "Ce Pokémon perd ses plumes fines et acérées\ndurant sa croissance. Jadis, les guerriers s’en\nservaient pour fabriquer des lames."
+      },
+      {
+        "game": "sm-m",
+        "text": "Son plumage d’acier, bien que très résistant,\nest sujet à la rouille. C’est pourquoi ce Pokémon\npréférera rester au nid les jours de pluie."
+      },
+      {
+        "game": "usum-us",
+        "text": "Les couteaux fabriqués à partir des plumes\nde ce Pokémon sont appréciés des plus grands\nchefs cuisiniers pour leur tranchant acéré."
+      },
+      {
+        "game": "usum-um",
+        "text": "Il peut paraître lourd, avec son armure d’acier,\nmais il est en fait capable de voler à une vitesse\nde 300 km/h."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Ses plumes sont plus tranchantes que des lames.\nIl se dispute violemment son territoire avec\nles Corvaillus."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Ce Pokémon orne souvent les blasons,\ncar les plumes qu’il perd sont utilisées\npour forger des épées."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Panzaeron",
+    "genus": "Flugstahl-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Die dornigen Zweige seines Nests bewirken,\ndass die Flügel seiner Jungen fest und hart werden."
+      },
+      {
+        "game": "xy-y",
+        "text": "Es wird komplett von einer eisenharten Rüstung\ngeschützt. Wenn es fliegt, erreicht es bis zu 300 km/h."
+      },
+      {
+        "game": "oras-or",
+        "text": "Panzaeron ist komplett in einen harten, schützenden Panzer\neingehüllt. Dieses Pokémon fliegt bis zu 300 km/h schnell.\nEs greift seine Feinde mit seinen messerscharfen Flügeln an."
+      },
+      {
+        "game": "oras-as",
+        "text": "Panzaerons Stahlflügel bekommen in den vielen Kämpfen,\ndie es austrägt, Risse und Beulen. Einmal im Jahr wachsen\nseine Flügel komplett nach und werden wiederhergestellt."
+      },
+      {
+        "game": "sm-s",
+        "text": "Die im Zuge seines Wachstums abgefallenen\nFedern sind sehr scharf. Krieger verwendeten\nsie früher als Schwerter."
+      },
+      {
+        "game": "sm-m",
+        "text": "Sein stählerner Körper ist robust, aber anfällig\nfür Rost. Regnerische Tage verbringt es daher\ngeduldig in seinem Nest."
+      },
+      {
+        "game": "usum-us",
+        "text": "Die Federn, die ihm ausfallen, werden zu\nKüchenmessern verarbeitet, mit deren Schärfe\nauch erstklassige Köche zufrieden sind."
+      },
+      {
+        "game": "usum-um",
+        "text": "Durch seinen stählernen Panzer sieht es zwar\nschwer aus, aber dennoch kann es bis zu\n300 km/h schnell fliegen."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Seine spitzen Federn sind schärfer als jedes\nSchwert. Es liefert sich erbitterte Revierkämpfe\nmit Krarmor."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Es wird gern als Vorlage für Wappenmotive\ngenutzt, da aus den Federn, die ihm ausfallen,\nSchwerter hergestellt werden."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Skarmory",
+    "genus": "Pokémon Coraza Ave",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Después de anidar en zarzas, las alas de sus polluelos\ncrecen fortalecidas por los rasguños."
+      },
+      {
+        "game": "xy-y",
+        "text": "Una armadura de hierro cubre por completo su cuerpo.\nVuela a más de 300 km/h."
+      },
+      {
+        "game": "oras-or",
+        "text": "Skarmory está totalmente encerrado en el interior de una\nfuerte coraza protectora. En vuelo, puede llegar a alcanzar los\n300 km/h y usa las afiladas alas que tiene para azotar al rival."
+      },
+      {
+        "game": "oras-as",
+        "text": "A Skarmory se le quedan las alas abolladas y desgarradas\ntras varios combates. Una vez al año, le vuelven a crecer\ncompletamente con los bordes cortantes que tenían en un\nprincipio restaurados."
+      },
+      {
+        "game": "sm-s",
+        "text": "Las plumas que se le caen cuando lucha son\ndelgadas y afiladas. Guerreros de antaño las\nusaban a modo de espada."
+      },
+      {
+        "game": "sm-m",
+        "text": "Su cuerpo metálico es muy robusto, pero se\noxida con facilidad, por lo que suele quedarse\ndescansando en su nido cuando llueve."
+      },
+      {
+        "game": "usum-us",
+        "text": "Los cuchillos fabricados con las plumas que se\nle caen son reconocidos entre los cocineros más\nprestigiosos por la gran calidad de sus filos."
+      },
+      {
+        "game": "usum-um",
+        "text": "Su cuerpo está recubierto de una coraza\nmetálica que, por pesada que parezca, no le\nimpide volar a 300 km/h."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Sus afiladas plumas son más cortantes que el filo\nde una espada. Tiene disputas territoriales muy\nagresivas con Corviknight."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Aparece a menudo en escudos heráldicos, pues\nse pueden forjar espadas a partir de las plumas\nque pierde."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Skarmory",
+    "genus": "Pokémon Armuccello",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Facendo il nido tra i rovi, le ali dei suoi piccoli si\nrinforzano per i graffi causati dalle spine."
+      },
+      {
+        "game": "xy-y",
+        "text": "È interamente rivestito da un’armatura dura come\nl’acciaio. Vola alla velocità di 300 km/h."
+      },
+      {
+        "game": "oras-or",
+        "text": "Skarmory è interamente corazzato all’interno di una dura\narmatura di protezione. Vola alla velocità di 300 km/h.\nLacera il nemico con le sue ali taglienti come la lama\ndi una spada."
+      },
+      {
+        "game": "oras-as",
+        "text": "Le ali d’acciaio di Skarmory portano i segni e le ammaccature\ndelle lotte. Una volta l’anno le ali ricrescono completamente,\nripristinando il filo tagliente delle lame."
+      },
+      {
+        "game": "sm-s",
+        "text": "Le piume che perde nella crescita sono sottili\ne taglienti. In passato, i guerrieri le usavano\nper fabbricare le spade."
+      },
+      {
+        "game": "sm-m",
+        "text": "Il suo corpo d’acciaio è molto robusto, ma si\narrugginisce facilmente, quindi quando piove\ndeve starsene rintanato."
+      },
+      {
+        "game": "usum-us",
+        "text": "Le piume che perde vengono usate per\nfabbricare coltelli affilatissimi, particolarmente\napprezzati dai migliori cuochi."
+      },
+      {
+        "game": "usum-um",
+        "text": "L’armatura d’acciaio di cui è rivestito lo fa\nsembrare pesante, ma nonostante questa può\nvolare a una velocità di 300 km/h."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Le sue piume affilate sono più taglienti di una\nspada. Ha violenti scontri con Corviknight per\nil controllo del territorio."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Le piume perse da Skarmory sono utilizzate per\nprodurre spade. Per questo è molto apprezzato\ncome motivo degli stemmi nobiliari."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Skarmory",
+    "genus": "Armor Bird Pokémon",
+    "flavorText": [
+      {
+        "game": "gs-g",
+        "text": "Its sturdy wings\nlook heavy, but\nthey are actually\fhollow and light,\nallowing it to fly\nfreely in the sky."
+      },
+      {
+        "game": "gs-s",
+        "text": "After nesting in\nbramble bushes,\nthe wings of its\fchicks grow hard\nfrom scratches by\nthorns."
+      },
+      {
+        "game": "c",
+        "text": "The feathers that\nit sheds are very\nsharp. It is said\fthat people once\nused the feathers\nas swords."
+      },
+      {
+        "game": "rs-r",
+        "text": "SKARMORY is entirely encased in hard,\nprotective armor. This POKéMON flies at\nclose to 190 mph.\fIt slashes foes with its wings that\npossess swordlike cutting edges."
+      },
+      {
+        "game": "rs-s",
+        "text": "SKARMORY’s steel wings become tattered\nand bashed in from repeated battles.\nOnce a year, the battered wings grow\fback completely, restoring the cutting\nedges to their pristine state."
+      },
+      {
+        "game": "e",
+        "text": "A POKéMON that has a body and wings of\nsteel. People in the past used feathers\nfallen from SKARMORY to make swords and\nknives."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "After nesting in bramble bushes, the wings\nof its chicks grow hard from scratches by\nthorns."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "Its sturdy wings look heavy, but its bones\nare hollow and light, allowing it to fly\nfreely in the sky."
+      },
+      {
+        "game": "dp-d",
+        "text": "Despite being clad entirely in\niron-hard armor, it flies at\nspeeds over 180 mph."
+      },
+      {
+        "game": "dp-p",
+        "text": "Despite being clad entirely in\niron-hard armor, it flies at\nspeeds over 180 mph."
+      },
+      {
+        "game": "pt",
+        "text": "Despite being clad entirely in\niron-hard armor, it flies at\nspeeds over 180 mph."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "Its sturdy wings look heavy, but\nthey are actually hollow and light,\nallowing it to fly freely in the sky."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "After nesting in bramble bushes,\nthe wings of its chicks grow hard\nfrom scratches by thorns."
+      },
+      {
+        "game": "bw-b",
+        "text": "Despite being clad entirely in\niron-hard armor, it flies at\nspeeds over 180 mph."
+      },
+      {
+        "game": "bw-w",
+        "text": "Despite being clad entirely in\niron-hard armor, it flies at\nspeeds over 180 mph."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "Its heavy-looking iron body is\nactually thin and light, so it can\nfly at speeds over 180 mph."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "Its heavy-looking iron body is\nactually thin and light, so it can\nfly at speeds over 180 mph."
+      },
+      {
+        "game": "xy-x",
+        "text": "After nesting in bramble bushes, the wings of its\nchicks grow hard from scratches by thorns."
+      },
+      {
+        "game": "xy-y",
+        "text": "Despite being clad entirely in iron-hard armor,\nit flies at speeds over 180 mph."
+      },
+      {
+        "game": "oras-or",
+        "text": "Skarmory is entirely encased in hard, protective armor.\nThis Pokémon flies at close to 190 mph. It slashes foes with\nits wings that possess swordlike cutting edges."
+      },
+      {
+        "game": "oras-as",
+        "text": "Skarmory’s steel wings become tattered and bashed in from\nrepeated battles. Once a year, the battered wings grow back\ncompletely, restoring the cutting edges to their pristine state."
+      },
+      {
+        "game": "sm-s",
+        "text": "Its feathers, which fall off as it grows, are thin\nand sharp. In times long past, warriors used\nthem as swords."
+      },
+      {
+        "game": "sm-m",
+        "text": "Its metal body is sturdy, but it does rust rather\neasily. So on rainy days, this Pokémon prefers\nto stay put in its nest."
+      },
+      {
+        "game": "usum-us",
+        "text": "The wing feathers it sheds can be processed\nand made into knives whose sharpness is\nrecognized by the finest chefs."
+      },
+      {
+        "game": "usum-um",
+        "text": "Its body is draped in steel armor. It looks heavy,\nbut it can fly at speeds of up to 185 miles\nan hour!"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "The pointed feathers of these Pokémon are\nsharper than swords. Skarmory and Corviknight\nfight viciously over territory."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "People fashion swords from Skarmory’s shed\nfeathers, so this Pokémon is a popular element\nin heraldic designs."
+      }
+    ]
+  },
+  "chs": {
+    "name": "盔甲鸟",
+    "genus": "钢甲鸟宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "每次成长都会脱落的羽毛\n又薄又锐利。过去的战士\n将之当做刀来使用。"
+      },
+      {
+        "game": "sm-m",
+        "text": "铁的身体十分结实，\n但很容易生锈，\n所以下雨天会一直呆在巢穴哦。"
+      },
+      {
+        "game": "usum-us",
+        "text": "用其脱落的翅膀加工制成的菜刀，\n锋利得足以让一流厨师都点头认可。"
+      },
+      {
+        "game": "usum-um",
+        "text": "全身披着钢甲。\n虽然看上去很重，但最快能以\n每小时３００公里的速度飞行。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "锐利的羽毛比剑还要锋利。\n与钢铠鸦为领地\n展开激烈的争斗。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "由于它身上掉落下来的羽毛\n可以用来制剑，因此作为纹章\n的图案也很有人气。"
+      }
+    ]
+  }
+}

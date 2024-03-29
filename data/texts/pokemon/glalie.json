@@ -1,0 +1,457 @@
+{
+  "jap": {
+    "name": "オニゴーリ",
+    "genus": "がんめんポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "くうきちゅうの　すいぶんを　こおらせ\nこおりの　そうこうで　からだを\nつつみこみ　みを　まもっている。"
+      },
+      {
+        "game": "xy-y",
+        "text": "くうきちゅうの　すいぶんを\nいっしゅんで　こおらせる　ちからで\nえものを　れいとうして　しまう。"
+      },
+      {
+        "game": "oras-or",
+        "text": "いわの　からだを　こおりの　よろいで　かためた。\nくうきちゅうの　すいぶんを　こおらせて　じゆうな\nかたちに　かえる　のうりょくを　もつ　ポケモン。"
+      },
+      {
+        "game": "oras-as",
+        "text": "こおりを　じざいに　あつかう　ちからを　もつ。\nえものを　いっしゅんで　こおらせて　うごけなく\nなった　ところを　おいしく　いただくのだ。"
+      },
+      {
+        "game": "sm-s",
+        "text": "とうちょう　まぢかに　ゆきやまで\nそうなんした　とざんかの　むねんが\nいわに　とりつき　うまれたと　いう。"
+      },
+      {
+        "game": "sm-m",
+        "text": "おおきな　くちから　はく　れいきで\nえものは　いっしゅんで　カチコチ。\nそのまま　バリバリ　いただくのだ。"
+      },
+      {
+        "game": "usum-us",
+        "text": "えものを　こおらせ　まるかじり。\nだけど　こうぶつは　バニプッチなどの\nもともと　こおっている　ポケモンだ。"
+      },
+      {
+        "game": "usum-um",
+        "text": "さほど　かたくない　いわがほんたい。\nくうきちゅうの　すいぶんを　こおらせ\nこおりの　そうこうを　みにまとう。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "ほのおでも　とけない　こおりの\nからだ。　くうきちゅうの　すいぶんを\nいっしゅんで　こおらせてしまう。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "くうきちゅうの　すいぶんを\nいっしゅんで　こおらせる　ちからで\nえものを　れいとうして　しまう。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Onigohri",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "얼음귀신",
+    "genus": "얼굴포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "공기 중의 수분을 얼려서\n얼음 갑옷으로 몸을\n둘러싸 몸을 보호한다."
+      },
+      {
+        "game": "xy-y",
+        "text": "공기 중의 수분을\n단숨에 얼게 하는 힘으로\n먹이를 냉동시켜 버린다."
+      },
+      {
+        "game": "oras-or",
+        "text": "바위로 된 몸을 얼음 갑옷으로 단단히 했다.\n공기 중의 수분을 얼려서 자유로운\n형태로 바꾸는 능력을 지닌 포켓몬이다."
+      },
+      {
+        "game": "oras-as",
+        "text": "얼음을 자유롭게 사용하는 힘을 지녔다.\n먹이를 한순간에 얼려 움직이지\n못하게 하고 맛있게 먹는다."
+      },
+      {
+        "game": "sm-s",
+        "text": "등정을 코앞에 둔 설산에서\n조난당한 등산가의 원통함이\n바위에 씌어서 태어났다고 한다."
+      },
+      {
+        "game": "sm-m",
+        "text": "커다란 입에서 뿜는 냉기로\n먹이는 한순간에 꽁꽁.\n그대로 아드득아드득 잡아먹는다."
+      },
+      {
+        "game": "usum-us",
+        "text": "먹이를 얼려 통째로 갉아먹는다.\n하지만 바닐프티처럼 처음부터\n얼어 있는 포켓몬을 더 좋아한다."
+      },
+      {
+        "game": "usum-um",
+        "text": "그다지 단단하지 않은 바위가 본체다.\n공기 중의 수분을 얼려\n얼음의 장갑을 몸에 두른다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "불꽃에도 녹지 않는 얼음으로 된 몸.\n공기 중의 수분을\n순식간에 얼려버린다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "공기 중의 수분을\n단숨에 얼게 하는 힘으로\n먹이를 냉동시켜 버린다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "冰鬼護",
+    "genus": "臉面寶可夢",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "據說是在即將登頂時\n在雪山上罹難的登山家心中的\n遺憾附在岩石上而形成的。"
+      },
+      {
+        "game": "sm-m",
+        "text": "從大大的嘴巴裡噴出寒氣，\n把獵物瞬間凍得硬梆梆的，\n然後大口咬碎享用。"
+      },
+      {
+        "game": "usum-us",
+        "text": "會把獵物凍住後整個拿來啃，\n但最愛吃的還是迷你冰之類\n原本就已經結凍的寶可夢。"
+      },
+      {
+        "game": "usum-um",
+        "text": "本體是不怎麼堅硬的岩石。\n會讓空氣中的水分凍結，\n為自己裹上一層冰之裝甲。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "擁有火焰也無法融化的\n冰之軀體。能讓空氣中的\n水分在一瞬間凍結。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "會用可讓空氣中的水分\n瞬間凍結的力量，\n將獵物冰凍起來。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Oniglali",
+    "genus": "Pokémon Face",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Il empêche ses proies de prendre\nla fuite en gelant instantanément\nl’humidité de l’air."
+      },
+      {
+        "game": "bw-w",
+        "text": "Il empêche ses proies de prendre\nla fuite en gelant instantanément\nl’humidité de l’air."
+      },
+      {
+        "game": "xy-x",
+        "text": "Il gèle l’humidité de l’air pour former une armure\nde glace protectrice autour de son corps."
+      },
+      {
+        "game": "xy-y",
+        "text": "Il a le pouvoir de geler l’humidité ambiante en un\ninstant et peut ainsi pétrifier ses proies."
+      },
+      {
+        "game": "oras-or",
+        "text": "Le corps de Oniglali est fait de rochers qu’il endurcit grâce\nà une couche de glace. Ce Pokémon a le pouvoir de geler\nl’humidité ambiante et de lui donner n’importe quelle forme."
+      },
+      {
+        "game": "oras-as",
+        "text": "Oniglali a le pouvoir de contrôler la glace à volonté.\nPar exemple, il peut geler sa proie sur place.\nUne fois la proie immobilisée, ce Pokémon la mange\nsans se presser."
+      },
+      {
+        "game": "sm-s",
+        "text": "La légende veut qu’il naisse de la détresse\net de la rancœur des alpinistes égarés dans\nles cimes enneigées."
+      },
+      {
+        "game": "sm-m",
+        "text": "Le souffle glacé qui sort de sa large gueule lui\npermet de congeler instantanément ses proies.\nIl les croque ensuite comme des glaçons."
+      },
+      {
+        "game": "usum-us",
+        "text": "Il gèle ses proies avant de les croquer\ngoulûment, même s’il préfère largement les\nPokémon déjà glacés, comme les Sorbébé."
+      },
+      {
+        "game": "usum-um",
+        "text": "Il gèle les particules d’eau présentes dans l’air\npour se couvrir d’une carapace de glace et ainsi\npallier la fragilité de son corps."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Son corps constitué de glace ne peut pas fondre,\nmême s’il est exposé au feu. Il peut geler\nl’humidité contenue dans l’air instantanément."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Il a le pouvoir de geler l’humidité ambiante\nen un instant et peut ainsi immobiliser ses proies."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Firnontor",
+    "genus": "Antlitz-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Um sich zu schützen, umgibt es seinen Körper\nmit einer Rüstung aus Eis."
+      },
+      {
+        "game": "xy-y",
+        "text": "Es kann Feuchtigkeit in der Atmosphäre gefrieren.\nAuf diese Weise macht es auch seine Beute haltbar."
+      },
+      {
+        "game": "oras-or",
+        "text": "Firnontor hat einen Körper aus Stein, den es mit einem\nPanzer aus Eis noch verstärkt. Dieses Pokémon kann die\nLuftfeuchtigkeit der Atmosphäre einfrieren und in jegliche\nForm verwandeln."
+      },
+      {
+        "game": "oras-as",
+        "text": "Firnontor hat die Fähigkeit, Eis zu kontrollieren. Es kann\nbeispielsweise seine Beute augenblicklich einfrieren.\nNachdem es sie im Eis bewegungsunfähig gemacht hat,\nverspeist es sie genüsslich."
+      },
+      {
+        "game": "sm-s",
+        "text": "Man sagt, Firnontor sei aus dem Unmut\nverunglückter Bergsteiger geboren, der\nvon einem Felsen Besitz ergriff."
+      },
+      {
+        "game": "sm-m",
+        "text": "Mit dem Eiseshauch aus seinem riesigen Mund\nfriert es seine Beute augenblicklich ein, um sie\ndann genüsslich zu verspeisen."
+      },
+      {
+        "game": "usum-us",
+        "text": "Es friert seine Beute ein und verschlingt sie im\nGanzen. Am liebsten frisst es von vornherein\ngefrorene Pokémon wie Gelatini."
+      },
+      {
+        "game": "usum-um",
+        "text": "Dieses Pokémon besteht aus einem nicht allzu\nharten Felsen. Es lässt die Feuchtigkeit in der\nLuft gefrieren und hüllt sich in einen Eispanzer."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Seinen Eiskörper bringt nichts zum Schmelzen,\nauch Feuer nicht. Es kann Feuchtigkeit in der\nLuft sofort in Eis verwandeln."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Es kann Feuchtigkeit in der Luft augenblicklich\nzum Gefrieren bringen und nutzt dies, um seine\nBeute zu Eis erstarren zu lassen."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Glalie",
+    "genus": "Pokémon Cara",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Se protege con una armadura de hielo creada por\ncongelación de la humedad del aire."
+      },
+      {
+        "game": "xy-y",
+        "text": "Congela a sus presas enfriando en un momento la\nhumedad contenida en el aire que lo rodea."
+      },
+      {
+        "game": "oras-or",
+        "text": "Glalie endurece el cuerpo rocoso que tiene con una coraza\nde hielo. Este Pokémon tiene la habilidad de congelar la\nhumedad del ambiente y formar la figura que se le antoje."
+      },
+      {
+        "game": "oras-as",
+        "text": "Glalie tiene la habilidad de controlar el hielo con total libertad.\nPor ejemplo, puede dejar a su presa totalmente congelada en\nun instante. Y, una vez helada, la devora lentamente."
+      },
+      {
+        "game": "sm-s",
+        "text": "Se cree que estos Pokémon surgen de la\ndesazón de los montañeros perdidos en las\ncumbres nevadas."
+      },
+      {
+        "game": "sm-m",
+        "text": "Congela a sus presas instantáneamente con el\naire frío que expulsa por la boca y acto seguido\nlas devora."
+      },
+      {
+        "game": "usum-us",
+        "text": "Congela a sus presas antes de hincarles el\ndiente, pero su presa favorita son los Pokémon\nque ya están congelados, como los Vanillite."
+      },
+      {
+        "game": "usum-um",
+        "text": "Su cuerpo rocoso no es excesivamente duro.\nCongela la humedad del ambiente para cubrirse\ncon una armadura de hielo protectora."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Ni siquiera el fuego puede derretir su cuerpo\nde hielo. Es capaz de congelar en un instante\nla humedad del ambiente."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Congela a sus presas helando en un momento la\nhumedad contenida en el aire que lo rodea."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Glalie",
+    "genus": "Pokémon Tuttomuso",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Per difendersi, riveste il suo corpo con un’armatura\ndi ghiaccio, fatta congelando l’umidità dell’aria."
+      },
+      {
+        "game": "xy-y",
+        "text": "Capace di congelare istantaneamente l’umidità\ndell’atmosfera, finisce per surgelare la preda."
+      },
+      {
+        "game": "oras-or",
+        "text": "Il corpo di Glalie è fatto di pietra rivestita da un’armatura\ndi ghiaccio. Questo Pokémon ha la capacità di congelare\nl’umidità nell’atmosfera e darle le forme più svariate."
+      },
+      {
+        "game": "oras-as",
+        "text": "Glalie ha la capacità di sfruttare il ghiaccio a suo vantaggio.\nAd esempio riesce a congelare la preda all’istante. Dopo\naverla immobilizzata nel ghiaccio, se la mangia con gusto\ne in tutta calma."
+      },
+      {
+        "game": "sm-s",
+        "text": "Lo sconforto degli scalatori smarritisi a un passo\ndalla vetta ha animato certe rocce di montagna\ne dato vita a questo Pokémon."
+      },
+      {
+        "game": "sm-m",
+        "text": "Congela le prede in un istante soffiando\naria gelida dalla grande bocca e poi\nle sgranocchia ancora ghiacciate."
+      },
+      {
+        "game": "usum-us",
+        "text": "Congela la preda prima di affondarvi i denti.\nTuttavia, preferisce cibarsi di Pokémon già\nghiacciati come Vanillite."
+      },
+      {
+        "game": "usum-um",
+        "text": "Poiché il suo corpo è fatto di una pietra non\nparticolarmente dura, congela l’umidità intorno\na lui per rivestirsi di un’armatura di ghiaccio."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Neppure il fuoco riesce a sciogliere il suo corpo\ndi ghiaccio. Può congelare istantaneamente\nl’umidità dell’atmosfera."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "È capace di ghiacciare istantaneamente\nl’umidità dell’atmosfera. Sfrutta questo\npotere per congelare la preda."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Glalie",
+    "genus": "Face Pokémon",
+    "flavorText": [
+      {
+        "game": "rs-r",
+        "text": "GLALIE has a body made of rock, which it\nhardens with an armor of ice.\nThis POKéMON has the ability to freeze\fmoisture in the atmosphere into any\nshape it desires."
+      },
+      {
+        "game": "rs-s",
+        "text": "GLALIE has the ability to freely\ncontrol ice. For example, it can\ninstantly freeze its foe solid.\fAfter immobilizing its foe in ice, this\nPOKéMON enjoys eating it in leisurely\nfashion."
+      },
+      {
+        "game": "e",
+        "text": "A GLALIE has the power to instantaneously\nfreeze moisture in the atmosphere.\nA dazzling cloud of diamondlike ice\ncrystals forms around its body."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "It has a body of ice that won’t melt,\neven with fire. It can instantly freeze\nmoisture in the atmosphere."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "It has a body of ice that won’t melt,\neven with fire. It can instantly freeze\nmoisture in the atmosphere."
+      },
+      {
+        "game": "dp-d",
+        "text": "To protect itself, it clads its\nbody in an armor of ice, made\nby freezing moisture in the air."
+      },
+      {
+        "game": "dp-p",
+        "text": "To protect itself, it clads its\nbody in an armor of ice, made\nby freezing moisture in the air."
+      },
+      {
+        "game": "pt",
+        "text": "It prevents prey from escaping by\ninstantaneously freezing moisture\nin the air."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "It can instantly freeze moisture in\nthe atmosphere. It uses this power\nto freeze its foes."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "It can instantly freeze moisture in\nthe atmosphere. It uses this power\nto freeze its foes."
+      },
+      {
+        "game": "bw-b",
+        "text": "It prevents prey from escaping by\ninstantaneously freezing moisture\nin the air."
+      },
+      {
+        "game": "bw-w",
+        "text": "It prevents prey from escaping by\ninstantaneously freezing moisture\nin the air."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "It prevents prey from escaping by\ninstantaneously freezing moisture\nin the air."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "It prevents prey from escaping by\ninstantaneously freezing moisture\nin the air."
+      },
+      {
+        "game": "xy-x",
+        "text": "To protect itself, it clad its body in an armor of ice,\nmade by freezing moisture in the air."
+      },
+      {
+        "game": "xy-y",
+        "text": "It can instantly freeze moisture in the atmosphere.\nIt uses this power to freeze its foes."
+      },
+      {
+        "game": "oras-or",
+        "text": "Glalie has a body made of rock, which it hardens with an armor\nof ice. This Pokémon has the ability to freeze moisture in the\natmosphere into any shape it desires."
+      },
+      {
+        "game": "oras-as",
+        "text": "Glalie has the ability to freely control ice. For example, it can\ninstantly freeze its prey solid. After immobilizing its prey in ice,\nthis Pokémon enjoys eating it in leisurely fashion."
+      },
+      {
+        "game": "sm-s",
+        "text": "Legend says a boulder on an icy mountain\nabsorbed the distress and regrets of a\nstranded mountaineer, giving rise to Glalie."
+      },
+      {
+        "game": "sm-m",
+        "text": "Its prey is instantaneously frozen stiff by the\ncold air it exhales from its huge mouth. While\nthey’re in that frozen state, it gobbles them up."
+      },
+      {
+        "game": "usum-us",
+        "text": "It freezes its prey and chews them whole.\nHowever, it prefers to eat Pokémon like Vanillite\nthat are already frozen."
+      },
+      {
+        "game": "usum-um",
+        "text": "Its actual body is a rock that isn’t particularly\nhard. Glalie absorbs moisture from the air and\ndrapes itself in an armor of ice."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "It has a body of ice that won’t melt, even with\nfire. It can instantly freeze moisture in\nthe atmosphere."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "It can instantly freeze moisture in the\natmosphere. It uses this power to freeze its foes."
+      },
+      {
+        "game": "la",
+        "text": "It covers its body with an armor of ice harder than steel. Uses its\nbreath to freeze prey, which it then devours as if they were\nfrozen desserts."
+      }
+    ]
+  },
+  "chs": {
+    "name": "冰鬼护",
+    "genus": "脸面宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "据说是即将登顶雪山，\n却罹难的登山家的遗憾，\n附在岩石上诞生而成。"
+      },
+      {
+        "game": "sm-m",
+        "text": "从大大的嘴巴里喷出冷气，\n把猎物瞬间冻得硬邦邦的。\n就这么嘎嘣嘎嘣地享用食物。"
+      },
+      {
+        "game": "usum-us",
+        "text": "将猎物冻住，整个咬住。\n但喜欢吃的是迷你冰等\n原本就冻着的宝可梦。"
+      },
+      {
+        "game": "usum-um",
+        "text": "不那么坚硬的岩石是它的本体。\n能够冻住空气中的水分，\n将冰之装甲裹在身上。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "拥有火焰也无法融化的\n冰之躯体。能让空气中的\n水分在一瞬间冻结。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "用令空气中的水分\n瞬间冻结的力量，\n将猎物冰冻起来。"
+      }
+    ]
+  }
+}

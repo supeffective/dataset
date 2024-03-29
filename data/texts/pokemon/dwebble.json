@@ -1,0 +1,269 @@
+{
+  "jap": {
+    "name": "イシズマイ",
+    "genus": "いしやどポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "てごろな　いしに　あなを　あけて\nすみかにする。こわされると　かわりの\nいしが　みつかるまで　おちつかない。"
+      },
+      {
+        "game": "xy-y",
+        "text": "てごろな　サイズの　いしが　あると\nくちから　えきたいを　ぶんぴつして\nなかに　はいるための　あなをあける。"
+      },
+      {
+        "game": "oras-or",
+        "text": "てごろな　いしに　あなを　あけて\nすみかにする。こわされると　かわりの\nいしが　みつかるまで　おちつかない。"
+      },
+      {
+        "game": "oras-as",
+        "text": "てごろな　サイズの　いしが　あると\nくちから　えきたいを　ぶんぴつして\nなかに　はいるための　あなをあける。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "このみの　こいしに　あなを　あけて\nすみかに　する。　ダンゴロや\nタンドンに　とっては　てんてき。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "いえに　ちょうどいい　こいしが\nみつからないと　カバルドンの\nあなに　すんでしまうことも。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Ishizumai",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "돌살이",
+    "genus": "돌집포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "적당한 돌을 찾아 구멍을 뚫어\n살 곳을 만든다. 부서지면 대신할\n돌을 찾을 때까지 불안해한다."
+      },
+      {
+        "game": "xy-y",
+        "text": "적당한 사이즈의 돌이 있으면\n입에서 액체를 분비해서\n안에 들어가기 위한 구멍을 판다."
+      },
+      {
+        "game": "oras-or",
+        "text": "적당한 돌을 찾아 구멍을 뚫어\n살 곳을 만든다. 부서지면 대신할\n돌을 찾을 때까지 불안해한다."
+      },
+      {
+        "game": "oras-as",
+        "text": "적당한 사이즈의 돌이 있으면\n입에서 액체를 분비해서\n안에 들어가기 위한 구멍을 판다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "마음에 드는 돌멩이에 구멍을 파서\n보금자리로 삼는다. 단굴이나\n탄동에게는 천적이다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "집으로 삼기 딱 좋은 돌멩이를\n발견하지 못하면 하마돈의\n구멍에 살기도 한다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "石居蟹",
+    "genus": "石居寶可夢",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "會在自己喜歡的石頭上開洞\n當成住所。對石丸子還有\n小炭仔來說是天敵。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "如果找不到大小合適\n的石頭來當成自己的家，\n牠也會住到河馬獸的洞裡。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Crabicoque",
+    "genus": "Pokémon Lithicole",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Il peut facilement creuser son trou\ndans les pierres les plus dures grâce\nau liquide sécrété par sa bouche."
+      },
+      {
+        "game": "bw-w",
+        "text": "Il perce un caillou et s’en sert comme\nmaison. Quand on lui casse, il est anxieux\njusqu’à ce qu’il en trouve un autre."
+      },
+      {
+        "game": "xy-x",
+        "text": "Il perce un caillou et s’en sert comme maison.\nQuand on lui casse, il est anxieux jusqu’à ce qu’il en\ntrouve un autre."
+      },
+      {
+        "game": "xy-y",
+        "text": "Lorsqu’il trouve un caillou à sa taille, il y creuse\nun trou avec le fluide qui sort de sa bouche et s’en\nsert comme maison."
+      },
+      {
+        "game": "oras-or",
+        "text": "Il perce un caillou et s’en sert comme maison. Quand on lui\ncasse, il est anxieux jusqu’à ce qu’il en trouve un autre."
+      },
+      {
+        "game": "oras-as",
+        "text": "Lorsqu’il trouve un caillou à sa taille, il y creuse un trou avec\nle fluide qui sort de sa bouche et s’en sert comme maison."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Quand il trouve un caillou qui lui plaît, il y creuse\nun trou et s’en sert comme d’une maison.\nC’est l’ennemi juré des Nodulithe et des Charbi."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "S’il ne trouve pas de bon caillou à creuser\npour s’y loger, il élit domicile dans un des trous\ndu corps d’Hippodocus."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Lithomith",
+    "genus": "Steinhaus-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Höhlt sich einen brauchbaren Stein aus, um darin\nzu wohnen. Geht er zu Bruch, ruht es nicht, bis es\neinen neuen findet."
+      },
+      {
+        "game": "xy-y",
+        "text": "Sobald es einen angemessen großen Stein findet,\nhöhlt es ihn mit einem ätzenden Sekret aus und\nkriecht hinein."
+      },
+      {
+        "game": "oras-or",
+        "text": "Höhlt sich einen brauchbaren Stein aus, um darin zu wohnen.\nGeht er zu Bruch, ruht es nicht, bis es einen neuen findet."
+      },
+      {
+        "game": "oras-as",
+        "text": "Sobald es einen angemessen großen Stein findet, höhlt es ihn\nmit einem ätzenden Sekret aus und kriecht hinein."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Lithomith sucht sich einen Stein, der ihm gefällt,\nund höhlt ihn aus, um darin zu wohnen. Es ist ein\nnatürlicher Feind von Kiesling und Klonkett."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Wenn es keinen Stein findet, der sich als Haus\neignet, lässt es sich manchmal in den Öffnungen\nim Körper eines Hippoterus’ nieder."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Dwebble",
+    "genus": "Pokémon Casapiedra",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Abre un agujero en la roca y vive en él. Si la roca se\nresquebraja, no se queda tranquilo hasta que no\nencuentra otra."
+      },
+      {
+        "game": "xy-y",
+        "text": "Si encuentran una piedra de tamaño ideal, segregan\nun líquido por la boca para crear un agujero y\ndeslizarse dentro."
+      },
+      {
+        "game": "oras-or",
+        "text": "Abre un agujero en la roca y vive en él. Si la roca se\nresquebraja, no se queda tranquilo hasta que no encuentra\notra."
+      },
+      {
+        "game": "oras-as",
+        "text": "Si encuentran una piedra de tamaño ideal, segregan un líquido\npor la boca para crear un agujero y deslizarse dentro."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Cuando halla una piedra de su agrado, la horada\ny establece su morada. Es enemigo natural de los\nRoggenrola y los Rolycoly."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Si no encuentra una piedra que sea idónea como\nmorada, se instala en los orificios de algún\nHippowdon."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Dwebble",
+    "genus": "Pokémon Pietracasa",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Scava un buco in una pietra adatta per farne la sua\ndimora. Se si rompe, non si dà pace finché non ne\ntrova un’altra."
+      },
+      {
+        "game": "xy-y",
+        "text": "Quando trova una pietra della sua misura crea un\nbuco con il liquido che secerne dalla bocca e ci si\ninfila dentro."
+      },
+      {
+        "game": "oras-or",
+        "text": "Scava un buco in una pietra adatta per farne la sua dimora.\nSe si rompe, non si dà pace finché non ne trova un’altra."
+      },
+      {
+        "game": "oras-as",
+        "text": "Quando trova una pietra della sua misura crea un buco con il\nliquido che secerne dalla bocca e ci si infila dentro."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Scava un buco in una piccola pietra di suo\ngradimento per farne la sua dimora. È il nemico\nnaturale di Roggenrola e di Rolycoly."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "A volte, quando non riesce a trovare una pietra\nadatta, usa come sua dimora i pori\ndi Hippowdon."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Dwebble",
+    "genus": "Rock Inn Pokémon",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "This Pokémon can easily melt holes in\nhard rocks with a liquid secreted from\nits mouth."
+      },
+      {
+        "game": "bw-w",
+        "text": "It makes a hole in a suitable rock. If\nthat rock breaks, the Pokémon remains\nagitated until it locates a replacement."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "When it finds a stone of a suitable\nsize, it secretes a liquid from its\nmouth to open up a hole to crawl into."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "When it finds a stone of a suitable\nsize, it secretes a liquid from its\nmouth to open up a hole to crawl into."
+      },
+      {
+        "game": "xy-x",
+        "text": "It makes a hole in a suitable rock. If that rock\nbreaks, the Pokémon remains agitated until it\nlocates a replacement."
+      },
+      {
+        "game": "xy-y",
+        "text": "When it finds a stone of a suitable size, it secretes\na liquid from its mouth to open up a hole to\ncrawl into."
+      },
+      {
+        "game": "oras-or",
+        "text": "It makes a hole in a suitable rock. If that rock\nbreaks, the Pokémon remains agitated until it\nlocates a replacement."
+      },
+      {
+        "game": "oras-as",
+        "text": "When it finds a stone of a suitable size, it secretes\na liquid from its mouth to open up a hole to\ncrawl into."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "When it finds a stone appealing, it creates a hole\ninside it and uses it as its home. This Pokémon is\nthe natural enemy of Roggenrola and Rolycoly."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "It first tries to find a rock to live in, but if there\nare no suitable rocks to be found, Dwebble may\nmove in to the ports of a Hippowdon."
+      }
+    ]
+  },
+  "chs": {
+    "name": "石居蟹",
+    "genus": "石居宝可梦",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "会在自己喜欢的石头上开洞\n当成住所。对石丸子还有\n小炭仔来说是天敌。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "如果找不到大小合适\n的石头来当成自己的家，\n它也会住到河马兽的洞里。"
+      }
+    ]
+  }
+}

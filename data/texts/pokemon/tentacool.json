@@ -1,0 +1,553 @@
+{
+  "jap": {
+    "name": "メノクラゲ",
+    "genus": "くらげポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "からだの　ほとんどが　すいぶん。\nすいしょうのような　めだまから\nふしぎな　ビームを　はっしゃする。"
+      },
+      {
+        "game": "xy-y",
+        "text": "うみの　あさい　ところを　ただよう。\nつりびとが　まちがって　つりあげ\nさされる　ことが　おおいと　きく。"
+      },
+      {
+        "game": "oras-or",
+        "text": "からだの　ほとんどが　みずで　できているので\nうみから　でると　からからに　ひからびてしまう。\nひからびた　ときは　うみに　もどしてあげよう。"
+      },
+      {
+        "game": "oras-as",
+        "text": "たいようこうせんを　からだの　なかの　すいぶんで\nくっせつさせて　ビームの　エネルギーに　かえる。\nすいしょうの　ような　めだまから　はっしゃする。"
+      },
+      {
+        "game": "sm-s",
+        "text": "ビーチなどで　ひからびているが\nまだ　いきていることも　おおい。\nみずに　ひたせば　ふやけて　ふっかつ。"
+      },
+      {
+        "game": "sm-m",
+        "text": "すなはま　などの　あさせを　ただよう。\nどくの　しょくしゅに　さされたり\nかまれたら　びょういんに　いそげ。"
+      },
+      {
+        "game": "usum-us",
+        "text": "うみべを　ただよい　えものを　さがす。\nどくの　しょくしゅは　ちぎれることも\nあるが　じかんが　たてば　はえてくる。"
+      },
+      {
+        "game": "usum-um",
+        "text": "からだの　９９パーセントが　すいぶん。\nのこりの　１パーセントに　どくそを\nつくる　きかんが　あるのだ。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "なみうちぎわに　ひからびた　すがたを\nはっけん　することも　あるが　みずに\nつけてやれば　ふっかつする。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "なみうちぎわに　ひからびた　すがたを\nはっけん　することも　あるが　みずに\nつけてやれば　ふっかつする。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "およぐ　ちからは　つよくは　ない。\nあさい　うみの　みなもを\nただよいながら　エモノを　さがす。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "ほとんどが　すいぶんで　できている\nからだは　うみの　なかでは　みずと\nどうかして　とても　みえづらいのだ。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Menokurage",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "왕눈해",
+    "genus": "해파리포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "몸 대부분이 수분이다.\n수정 같은 눈에서\n이상한 빔을 발사한다."
+      },
+      {
+        "game": "xy-y",
+        "text": "바다 얕은 곳을 떠다닌다.\n낚시꾼이 실수로 낚아 올려\n찔리는 일이 많다고 한다."
+      },
+      {
+        "game": "oras-or",
+        "text": "몸 대부분이 물로 되어 있어\n바다에서 나오면 바싹 말라버린다.\n말라버렸을 때는 바다로 돌려보내 주자."
+      },
+      {
+        "game": "oras-as",
+        "text": "태양 광선을 몸 안의 수분으로\n굴절시켜서 빔 에너지로 바꾼다.\n수정 같은 눈알에서 발사된다."
+      },
+      {
+        "game": "sm-s",
+        "text": "해변 등에서 말라버렸지만\n아직 살아 있는 경우도 많다.\n물에 적시면 불면서 부활한다."
+      },
+      {
+        "game": "sm-m",
+        "text": "모래 해변 등의 얕은 물가를 떠돈다.\n독 촉수에 쏘이거나\n물리면 서둘러 병원에 가자."
+      },
+      {
+        "game": "usum-us",
+        "text": "해변을 떠다니며 먹이를 찾는다.\n독이 있는 촉수는 끊어지기도 하지만\n시간이 흐르면 다시 자란다."
+      },
+      {
+        "game": "usum-um",
+        "text": "몸의 99퍼센트가 수분이다.\n남은 1퍼센트에 독소를\n만드는 기관이 있다."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "물가에 바싹 마른 상태로\n발견될 때도 있지만\n물에 담가주면 부활한다."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "물가에 바싹 마른 상태로\n발견될 때도 있지만\n물에 담가주면 부활한다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "헤엄치는 힘은 강하지 않다.\n얕은 바다 수면을 떠다니면서\n먹이를 찾는다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "몸의 대부분이 수분이어서\n바닷속에서는 물과\n동화되어 매우 구분하기 힘들다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "瑪瑙水母",
+    "genus": "水母寶可夢",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "就算在沙灘等地方曬得乾乾的，\n在很多情況下依然可以存活。\n泡在水裡就會回復濕潤而復活了。"
+      },
+      {
+        "game": "sm-m",
+        "text": "漂浮在沙灘等淺灘地區。\n要是被牠有毒的觸手刺到或是被咬到，\n就趕快去醫院吧。"
+      },
+      {
+        "game": "usum-us",
+        "text": "會漂浮在海邊尋找獵物。\n有毒的觸手有時也會斷掉，\n但過了一段時間就會重新長出來。"
+      },
+      {
+        "game": "usum-um",
+        "text": "身體的９９％是水分。\n剩下的１％之中包含了\n用來製造毒素的器官。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "有時可以在海邊看見牠\n被曬乾的樣子，但只要把牠\n放進水裡就能讓牠復活。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "有時可以在海邊看見牠\n被曬乾的樣子，但只要把牠\n放進水裡就能讓牠復活。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "游泳的力道並不強。\n會漂浮在淺海的水面上\n尋找獵物。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "絕大部分都是由水組成的身體\n在海中會與海水同化，\n令其他生物很難看見牠。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Tentacool",
+    "genus": "Pokémon Mollusque",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Presque entièrement composé d’eau,\nson corps a tendance à se dessécher\nsur la terre ferme."
+      },
+      {
+        "game": "bw-w",
+        "text": "Presque entièrement composé d’eau,\nson corps a tendance à se dessécher\nsur la terre ferme."
+      },
+      {
+        "game": "xy-x",
+        "text": "Son corps est principalement composé d’eau.\nSes yeux cristallins projettent d’étranges rayons."
+      },
+      {
+        "game": "xy-y",
+        "text": "Il vit en bord de mer. Les pêcheurs se font souvent\narroser d’acide quand ils en accrochent un."
+      },
+      {
+        "game": "oras-or",
+        "text": "Le corps de Tentacool est principalement aqueux. Si on le\nretire de l’eau, il se déshydrate complètement. Si cela arrive,\nil suffit de le replonger dans un liquide pour qu’il reprenne\nsa forme normale."
+      },
+      {
+        "game": "oras-as",
+        "text": "Grâce à l’eau de son corps, Tentacool convertit la lumière\ndu soleil absorbée et la renvoie sous forme de rayon\nd’énergie. Ce Pokémon lance ces rayons par le petit\norgane rond situé au-dessus de ses yeux."
+      },
+      {
+        "game": "sm-s",
+        "text": "On en trouve parfois échoués sur le sable et\ndesséchés, mais certains sont encore en vie. Il\nsuffit de les mettre à l’eau pour les ranimer."
+      },
+      {
+        "game": "sm-m",
+        "text": "Il flotte dans les chenaux sablonneux. En cas de\npiqûre par l’un de ses tentacules empoisonnés,\nil faut aller à l’hôpital de toute urgence."
+      },
+      {
+        "game": "usum-us",
+        "text": "Il flotte près des côtes à la recherche de proies.\nIl lui arrive de perdre ses tentacules toxiques,\nmais ceux-ci repoussent avec le temps."
+      },
+      {
+        "game": "usum-um",
+        "text": "Son corps est composé à 99 % d’eau. Le 1 %\nrestant est occupé par l’organe qui sécrète\nles toxines."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Certains échouent sur la plage et sèchent sur\nle sable. Poussez-les dans l’eau pour les ranimer."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Certains échouent sur la plage et sèchent sur\nle sable. Poussez-les dans l’eau pour les ranimer."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Peu doué pour la natation, ce Pokémon\nse contente de flotter à la surface des eaux\npeu profondes pour chasser ses proies."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Il est presque totalement composé d’eau.\nLorsqu’il s’immerge dans les flots, son corps se\nfond dans l’eau, ce qui le rend presque invisible."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Tentacha",
+    "genus": "Quallen-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Sein Körper besteht aus Wasser. Aus seinen\nkristallartigen Augen verschießt es eigenartige\nStrahlen."
+      },
+      {
+        "game": "xy-y",
+        "text": "Dieses Pokémon findet man in flachen Gewässern.\nUnachtsame Gegner empfängt es mit brennendem Gift."
+      },
+      {
+        "game": "oras-or",
+        "text": "Tentachas Körper setzt sich zum größten Teil aus Wasser\nzusammen. Wenn es das Meer verlässt, vertrocknet es.\nWenn dieses Pokémon auszutrocknen beginnt, sollte man\nes schnell wieder ins Wasser zurückbringen."
+      },
+      {
+        "game": "oras-as",
+        "text": "Tentacha nimmt Sonnenlicht auf und bricht es in seinem Körper\nmithilfe von Wasser, um es in Strahlenenergie umzuwandeln.\nDieses Pokémon verschießt Strahlen aus dem kleinen, runden\nOrgan über seinen Augen."
+      },
+      {
+        "game": "sm-s",
+        "text": "Am Strand kann man oft stark ausgetrocknete\nExemplare finden, die aber noch leben. Taucht\nman sie in Wasser, werden sie wieder topfit."
+      },
+      {
+        "game": "sm-m",
+        "text": "Es treibt durch seichte Gewässer in der Nähe\nvon Stränden. Durch seine Tentakel verursachte\nVerletzungen müssen sofort untersucht werden."
+      },
+      {
+        "game": "usum-us",
+        "text": "Es treibt in Küstennähe im Wasser und sucht\nnach Beute. Seine giftigen Tentakel fallen ab und\nzu ab, wachsen aber mit der Zeit wieder nach."
+      },
+      {
+        "game": "usum-um",
+        "text": "Es besteht zu 99 % aus Wasser. Das restliche\n1 % wird von einem Organ für die Giftproduktion\neingenommen."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Findet man ein schwaches, ausgetrocknetes\nTentacha am Strand und bringt es ins Wasser\nzurück, so wird es wieder topfit."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Findet man ein schwaches, ausgetrocknetes\nTentacha am Strand und bringt es ins Wasser\nzurück, so wird es wieder topfit."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Da Tentacha kein besonders guter Schwimmer ist,\ntreibt es in seichten Gewässern an der\nWasseroberfläche und sucht nach Beute."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Tentacha besteht fast vollständig aus Wasser,\nwodurch man es im Meer nur sehr schwer\nerkennen kann."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Tentacool",
+    "genus": "Pokémon Medusa",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Su cuerpo se compone casi en exclusiva de agua.\nLanza extraños rayos con sus ojos cristalinos."
+      },
+      {
+        "game": "xy-y",
+        "text": "Va a la deriva a poca profundidad. Si es pescado por\naccidente, el castigo será su punzante ácido."
+      },
+      {
+        "game": "oras-or",
+        "text": "Tentacool está compuesto en su mayor parte por agua. Si se\nle saca del mar, se secará y se quedará acartonado. Si este\nPokémon se deshidrata, hay que echarlo inmediatamente de\nvuelta al mar."
+      },
+      {
+        "game": "oras-as",
+        "text": "Tentacool absorbe luz solar, la refracta a través del agua que\ntiene en su interior y la convierte en un rayo de energía. Este\nPokémon tiene un órgano que parece de cristal sobre los ojos\npor el cual dispara los rayos."
+      },
+      {
+        "game": "sm-s",
+        "text": "A veces es posible encontrarlos deshidratados\nen la playa, pero, si se los pone en remojo,\nvolverán a henchirse de vida."
+      },
+      {
+        "game": "sm-m",
+        "text": "Suele rondar las aguas poco profundas de la\norilla. Sus tentáculos son muy venenosos y, en\ncaso de picadura, hay que correr al hospital."
+      },
+      {
+        "game": "usum-us",
+        "text": "Ronda las costas en busca de presas. Si pierde\nalguno de sus tentáculos venenosos, le volverá\na crecer al cabo del tiempo."
+      },
+      {
+        "game": "usum-um",
+        "text": "Su cuerpo está compuesto de agua en un 99%.\nEl 1% restante es el órgano que segrega sus\ntoxinas."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "A veces pueden encontrarse deshidratados en\nlas playas, pero reviven al sumergirlos de nuevo\nen el agua."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "A veces pueden encontrarse deshidratados en\nlas playas, pero reviven al sumergirlos de nuevo\nen el agua."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Sus facultades natatorias son más bien escasas,\npor lo que se limita a flotar a la deriva en aguas\npoco profundas en busca de alimento."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Su cuerpo está compuesto casi por completo de\nagua, por lo que resulta muy difícil distinguirlo\ncuando está sumergido en el mar."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Tentacool",
+    "genus": "Pokémon Medusa",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Il suo corpo è quasi interamente composto d’acqua.\nEmette dei raggi misteriosi dagli occhi cristallini."
+      },
+      {
+        "game": "xy-y",
+        "text": "Va alla deriva in acque poco profonde. Se pescato\nper sbaglio, colpisce con gli aculei pungenti."
+      },
+      {
+        "game": "oras-or",
+        "text": "Il corpo di Tentacool è costituito quasi solo d’acqua.\nSe pescato ed esposto all’aria, si secca totalmente.\nIn caso di disidratazione, dunque, si consiglia di rimetterlo\nin mare."
+      },
+      {
+        "game": "oras-as",
+        "text": "Tentacool assorbe la luce solare e la rifrange usando l’acqua\nche ha nel corpo per convertirla in raggi energetici.\nSuccessivamente emette questi raggi dalla piccola sfera rossa\nche ha sulla testa."
+      },
+      {
+        "game": "sm-s",
+        "text": "Se ne trovano spesso esemplari disidratati\nsulla spiaggia. Se rigettati in acqua, di solito\nsi riprendono immediatamente."
+      },
+      {
+        "game": "sm-m",
+        "text": "Si aggira nelle secche vicino alle spiagge.\nSe si viene punti dai suoi tentacoli velenosi,\nè meglio correre subito all’ospedale."
+      },
+      {
+        "game": "usum-us",
+        "text": "Fluttua in acqua lungo la costa in cerca di prede.\nI tentacoli velenosi a volte si staccano, ma col\ntempo ricrescono."
+      },
+      {
+        "game": "usum-um",
+        "text": "Il 99% del suo corpo è composto d’acqua.\nIl restante 1% è costituito da un organo\nche produce una sostanza velenosa."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "A volte lo si può trovare tutto rinsecchito\nsulla spiaggia, ma basta gettarlo in mare\ne si riprende all’istante."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "A volte lo si può trovare tutto rinsecchito\nsulla spiaggia, ma basta gettarlo in mare\ne si riprende all’istante."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Non essendo molto abile a nuotare, va in cerca\ndi prede fluttuando in acque poco profonde."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Il suo corpo composto quasi interamente\nd’acqua rende molto difficile individuarlo\nquando è in mare."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Tentacool",
+    "genus": "Jellyfish Pokémon",
+    "flavorText": [
+      {
+        "game": "rb-r",
+        "text": "Drifts in shallow\nseas. Anglers who\nhook them by\faccident are\noften punished by\nits stinging acid."
+      },
+      {
+        "game": "rb-b",
+        "text": "Drifts in shallow\nseas. Anglers who\nhook them by\faccident are\noften punished by\nits stinging acid."
+      },
+      {
+        "game": "y",
+        "text": "It can sometimes\nbe found all dry\nand shriveled up\fon a beach. Toss\nit back into the\nsea to revive it."
+      },
+      {
+        "game": "gs-g",
+        "text": "When the tide goes\nout, dehydrated\nTENTACOOL remains\fcan be found\nwashed up on the\nshore."
+      },
+      {
+        "game": "gs-s",
+        "text": "It drifts aimless­\nly in waves. Very\ndifficult to see\fin water, it may\nnot be noticed\nuntil it stings."
+      },
+      {
+        "game": "c",
+        "text": "As it floats along\non the waves, it\nuses its toxic\ffeelers to stab\nanything it\ntouches."
+      },
+      {
+        "game": "rs-r",
+        "text": "TENTACOOL’s body is largely composed\nof water. If it is removed from the\nsea, it dries up like parchment.\fIf this POKéMON happens to become\ndehydrated, put it back into the sea."
+      },
+      {
+        "game": "rs-s",
+        "text": "TENTACOOL absorbs sunlight and\nrefracts it using water inside its body\nto convert it into beam energy.\fThis POKéMON shoots beams from its\ncrystal-like eyes."
+      },
+      {
+        "game": "e",
+        "text": "Its body is almost entirely composed of\nwater. It ensnares its foe with its two\nlong tentacles, then stabs with the poison\nstingers at their tips."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "Its eyes are as transparent as crystals.\nFrom them, it shoots mysterious\nbeams of light."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "Drifts in shallow seas. Anglers who hook\nthem by accident are often punished by\ntheir stingers."
+      },
+      {
+        "game": "dp-d",
+        "text": "Its body is virtually composed of\nwater. It shoots strange beams\nfrom its crystal-like eyes."
+      },
+      {
+        "game": "dp-p",
+        "text": "It drifts in sea currents.\nCountless fishermen are\nhurt by its poison stingers."
+      },
+      {
+        "game": "pt",
+        "text": "Because its body is almost entirely\ncomposed of water, it shrivels up if\nit is washed ashore."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "When the tide goes out, dehydrated\nTENTACOOL remains can be found\nwashed up on the shore."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "It drifts aimlessly in waves. Very\ndifficult to see in water, it may\nnot be noticed until it stings."
+      },
+      {
+        "game": "bw-b",
+        "text": "Because its body is almost entirely\ncomposed of water, it shrivels up if\nit is washed ashore."
+      },
+      {
+        "game": "bw-w",
+        "text": "Because its body is almost entirely\ncomposed of water, it shrivels up if\nit is washed ashore."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "Because its body is almost entirely\ncomposed of water, it shrivels up if\nit is washed ashore."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "Because its body is almost entirely\ncomposed of water, it shrivels up if\nit is washed ashore."
+      },
+      {
+        "game": "xy-x",
+        "text": "Its body is virtually composed of water. It shoots\nstrange beams from its crystal-like eyes."
+      },
+      {
+        "game": "xy-y",
+        "text": "Drifts in shallow seas. Anglers who hook them by\naccident are often punished by their stingers."
+      },
+      {
+        "game": "oras-or",
+        "text": "Tentacool’s body is largely composed of water. If it is removed\nfrom the sea, it dries up like parchment. If this Pokémon\nhappens to become dehydrated, put it back into the sea."
+      },
+      {
+        "game": "oras-as",
+        "text": "Tentacool absorbs sunlight and refracts it using water inside\nits body to convert it into beam energy. This Pokémon shoots\nbeams from the small round organ above its eyes."
+      },
+      {
+        "game": "sm-s",
+        "text": "They can be found lying dehydrated on\nbeaches, but they are often still alive.\nWhen soaked in water, they will revive."
+      },
+      {
+        "game": "sm-m",
+        "text": "It drifts in shallow seas, such as the areas near\nbeaches. If you get bitten or stabbed by its\ntoxic tentacles, rush to the hospital."
+      },
+      {
+        "game": "usum-us",
+        "text": "It drifts through the sea searching for prey.\nIts poisonous tentacles break off sometimes,\nbut after a while, they grow back."
+      },
+      {
+        "game": "usum-um",
+        "text": "Its body is 99% water. The remaining 1%\ncontains the organ that makes its poison."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "It can sometimes be found all dry and\nshriveled up on a beach. Toss it back\ninto the sea to revive it."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "It can sometimes be found all dry and\nshriveled up on a beach. Toss it back\ninto the sea to revive it."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Tentacool is not a particularly strong swimmer.\nIt drifts across the surface of shallow seas as it\nsearches for prey."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "This Pokémon is mostly made of water.\nA Tentacool out in the ocean is very hard to\nspot, because its body blends in with the sea."
+      },
+      {
+        "game": "la",
+        "text": "They fire beams from the glassy, magenta orbs that resemble\neyes atop their heads, and they drift in shallow seas. During low\ntide, they can sometimes be found on beaches, desiccated."
+      }
+    ]
+  },
+  "chs": {
+    "name": "玛瑙水母",
+    "genus": "水母宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "在沙滩等地方晒干后，\n依然能存活的情况也有很多。\n泡在水里的话就会湿润复活。"
+      },
+      {
+        "game": "sm-m",
+        "text": "漂浮在沙滩等浅滩地区。\n一旦被有毒的触手刺到或是被咬到，\n就要立刻去医院。"
+      },
+      {
+        "game": "usum-us",
+        "text": "会漂浮在海边寻找猎物。\n虽然有毒的触手也会断掉，\n但过一段时间就会重新长出来。"
+      },
+      {
+        "game": "usum-um",
+        "text": "身体的９９％是水分。\n剩下的１％中包含了\n用来制造毒素的器官。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "有时能在沙滩上发现它\n干巴巴的身体，但是\n它只要沾到水就能复活。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "有时能在沙滩上发现它\n干巴巴的身体，但是\n它只要沾到水就能复活。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "游泳能力并不强。\n会漂浮在浅海的水面上\n寻找猎物。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "身体的大部分由水组成。\n在海中，会和海水混为一体，\n非常难以发现。"
+      }
+    ]
+  }
+}

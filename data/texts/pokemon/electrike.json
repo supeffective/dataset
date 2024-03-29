@@ -1,0 +1,381 @@
+{
+  "jap": {
+    "name": "ラクライ",
+    "genus": "いなずまポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "たいもうに　ためた　でんきを　つかい\nきんにくを　しげきすることで\nしゅんぱつりょくを　たかめる。"
+      },
+      {
+        "game": "xy-y",
+        "text": "せいでんきを　たいもうに　たくわえて\nほうでんする。あらしが　ちかづくと\nぜんしんから　ひばなを　ちらす。"
+      },
+      {
+        "game": "oras-or",
+        "text": "ながい　たいもうに　でんきを　ためている。\nでんりゅうで　あしの　きんにくを　しげきして\nばくはつてきな　しゅんぱつりょくを　うみだす。"
+      },
+      {
+        "game": "oras-as",
+        "text": "めにも　とまらぬ　スピードで　はしる　ポケモン。\nくうきの　まさつで　でんきを　はっせいさせて\nぜんしんの　たいもうに　たくわえている。"
+      },
+      {
+        "game": "usum-us",
+        "text": "くうきと　たいもうの　まさつで\nせいでんきが　はっせい。　ラクライが\nはしると　バチバチと　おとが　なる。"
+      },
+      {
+        "game": "usum-um",
+        "text": "ながい　たいもうが　こすれあうことで\nぜんしんに　せいでんきが　たまる。\nスピードが　じまんの　ポケモン。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "せいでんきを　たいもうに　たくわえて\nほうでんする。　あらしが　ちかづくと\nぜんしんから　ひばなを　ちらす。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "せいでんきを　たいもうに　ためる。\nくうきの　かんそうした　きせつには\nぜんしんから　ひばなを　ちらす。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Rakurai",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "썬더라이",
+    "genus": "천둥번개포켓몬",
+    "flavorText": [
+      {
+        "game": "usum-um",
+        "text": "긴 털이 마찰하는 과정에서\n전신에 정전기가 모인다.\n스피드가 특기인 포켓몬이다."
+      },
+      {
+        "game": "xy-x",
+        "text": "털에 모은 전기를 써서\n근육을 자극함으로써\n순발력을 높인다."
+      },
+      {
+        "game": "xy-y",
+        "text": "정전기를 털에 비축하여\n방전한다. 폭풍이 가까이 오면\n온몸에서 불꽃을 튀긴다."
+      },
+      {
+        "game": "oras-or",
+        "text": "긴 털에 전기를 모으고 있다.\n전류로 다리 근육을 자극하여\n폭발적인 순발력을 낸다."
+      },
+      {
+        "game": "oras-as",
+        "text": "눈에 안 보이는 스피드로 달리는 포켓몬이다.\n공기의 마찰로 전기를 발생시켜\n전신의 털에 비축하고 있다."
+      },
+      {
+        "game": "usum-us",
+        "text": "공기와 털의 마찰로\n정전기가 발생한다. 썬더라이가\n달리면 탁탁 소리가 난다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "정전기를 털에 비축하여\n방전한다. 폭풍이 가까이 오면\n온몸에서 불꽃을 튀긴다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "정전기를 털에 모은다.\n공기가 건조한 계절에는\n전신에서 스파크를 뿌린다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "落雷獸",
+    "genus": "閃電寶可夢",
+    "flavorText": [
+      {
+        "game": "usum-us",
+        "text": "會透過空氣和體毛的摩擦\n來產生靜電。落雷獸奔跑時\n會發出劈哩啪啦的聲音。"
+      },
+      {
+        "game": "usum-um",
+        "text": "會讓長長的體毛互相摩擦，\n藉此在全身儲存靜電。\n是種以速度為傲的寶可夢。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "會將靜電積蓄在體毛中後放電。\n當暴風雨來臨前，\n會從全身冒出火花。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "會在體毛中儲存靜電。\n在空氣乾燥的季節\n會從全身散發出火花。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Dynavolt",
+    "genus": "Pokémon Orage",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Il améliore ses réflexes en\nstimulant ses muscles grâce à \nl’électricité dans sa fourrure."
+      },
+      {
+        "game": "bw-w",
+        "text": "Il améliore ses réflexes en\nstimulant ses muscles grâce à \nl’électricité dans sa fourrure."
+      },
+      {
+        "game": "xy-x",
+        "text": "Il améliore ses réflexes en stimulant ses muscles\ngrâce à l’électricité dans sa fourrure."
+      },
+      {
+        "game": "xy-y",
+        "text": "Dynavolt stocke de l’électricité statique dans sa\nfourrure. Il produit des étincelles lorsque le temps\ndevient orageux."
+      },
+      {
+        "game": "oras-or",
+        "text": "Dynavolt stocke de l’électricité dans les poils de son corps\nallongé. Ce Pokémon stimule les muscles de ses jambes\navec des charges électriques, ce qui le rend capable\nd’accélérations fulgurantes."
+      },
+      {
+        "game": "oras-as",
+        "text": "Dynavolt court tellement vite que l’œil humain ne peut pas\nle suivre. La friction générée par sa course est convertie en\nélectricité, puis stockée dans la fourrure de ce Pokémon."
+      },
+      {
+        "game": "usum-us",
+        "text": "La friction de ses poils avec l’air génère de\nl’électricité statique quand il court et produit\nun son qui s’apparente à des crépitements."
+      },
+      {
+        "game": "usum-um",
+        "text": "Il est très fier de sa vitesse et peut envelopper\nson corps d’électricité statique en frottant\nses longs poils."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Il émet des décharges à partir de l’électricité\nstatique accumulée dans sa fourrure. Il produit\ndes étincelles lorsque le temps devient orageux."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "L’électricité statique s’accumule dans sa fourrure.\nPar temps sec, elle dégage des étincelles."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Frizelbliz",
+    "genus": "Gewitter-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Die Elektrizität, die es im Fell speichert, nutzt es,\num seine Muskeln zu stimulieren."
+      },
+      {
+        "game": "xy-y",
+        "text": "In seinem Fell speichert es statische Elektrizität für\nspätere Entladungen. Braut sich ein Sturm zusammen,\nentlädt es Funken."
+      },
+      {
+        "game": "oras-or",
+        "text": "Frizelbliz speichert Elektrizität in seiner langen\nKörperbehaarung. Dieses Pokémon stimuliert seine\nBeinmuskulatur durch Stromstöße. Dadurch ist es\nin der Lage, explosiv zu beschleunigen."
+      },
+      {
+        "game": "oras-as",
+        "text": "Frizelbliz rennt so schnell, dass das menschliche Auge es nicht\nwahrnehmen kann. Die Reibung, die dabei entsteht, wandelt es\nin Elektrizität um, die es in seinem Fell speichert."
+      },
+      {
+        "game": "usum-us",
+        "text": "Durch die Reibung zwischen seinem Fell und\nder Luft entsteht Elektrizität. Wenn es rennt,\nverursacht es ein knisterndes Geräusch."
+      },
+      {
+        "game": "usum-um",
+        "text": "Durch das Aneinanderreiben seiner langen\nHaare speichert sein ganzer Körper Elektrizität.\nEs ist besonders stolz auf seine Schnelligkeit."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "In seinem Fell speichert es statische Elektrizität\nfür spätere Entladungen. Braut sich ein Sturm\nzusammen, entlädt es Funken."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Es speichert statische Elektrizität in seinem Fell.\nIn Jahreszeiten mit trockener Luft sprüht sein\nganzer Körper Funken."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Electrike",
+    "genus": "Pokémon Calambre",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Estimula sus músculos y aumenta sus reflejos con la\nelectricidad que almacena su pelaje."
+      },
+      {
+        "game": "xy-y",
+        "text": "Acumula electricidad estática en el pelaje para lanzar\ndescargas. Cuando va a haber tormenta, suelta\nchispas."
+      },
+      {
+        "game": "oras-or",
+        "text": "Electrike acumula electricidad en el largo pelaje que tiene.\nEste Pokémon estimula los músculos de las patas mediante\ndescargas eléctricas. Estas explosiones de energía le permiten\nacelerar de forma increíble."
+      },
+      {
+        "game": "oras-as",
+        "text": "Electrike corre tan rápido que escapa hasta al ojo humano.\nLa fricción que se origina en la carrera se transforma en\nelectricidad que almacena en el pelaje."
+      },
+      {
+        "game": "usum-us",
+        "text": "La fricción con el aire carga su pelaje de\nelectricidad estática, por lo que pueden oírse\ncrepitantes chispazos cuando corre."
+      },
+      {
+        "game": "usum-um",
+        "text": "Este Pokémon genera electricidad estática\nfrotando su largo pelaje. También destaca por\nsu velocidad."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Acumula electricidad estática en el pelaje para\nlanzar descargas. Cuando va a haber tormenta,\nsuelta chispas por todo el cuerpo."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Almacena electricidad estática en su pelaje.\nEn estaciones secas, suelta chispas por todo\nel cuerpo."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Electrike",
+    "genus": "Pokémon Lampo",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "L’elettricità immagazzinata nella pelliccia gli stimola\ni muscoli e aumenta la sua velocità di reazione."
+      },
+      {
+        "game": "xy-y",
+        "text": "Accumula elettricità statica nella pelliccia, che poi\nscarica. Se si avvicina una tempesta, lo si vede\nscintillare."
+      },
+      {
+        "game": "oras-or",
+        "text": "Electrike accumula l’elettricità nella sua folta pelliccia.\nStimola i muscoli degli arti inferiori con cariche elettriche,\ngrazie alle quali ottiene prestazioni e accelerazioni esplosive."
+      },
+      {
+        "game": "oras-as",
+        "text": "Electrike corre più velocemente di quanto l’occhio umano\npossa percepire. L’attrito dovuto alla corsa viene trasformato\nin elettricità, accumulata poi nella pelliccia del Pokémon."
+      },
+      {
+        "game": "usum-us",
+        "text": "L’attrito fra l’atmosfera e la sua pelliccia genera\nelettricità statica e quando corre si avverte\nun crepitio."
+      },
+      {
+        "game": "usum-um",
+        "text": "Accumula elettricità statica in tutto il corpo\nsfregando la folta pelliccia. Il suo punto di forza\nè la velocità."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Accumula elettricità statica nella pelliccia e poi\nla rilascia. Se si avvicina una tempesta, emette\nscintille."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Accumula elettricità statica nella pelliccia. Nella\nstagione secca, il suo corpo sprizza scintille."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Electrike",
+    "genus": "Lightning Pokémon",
+    "flavorText": [
+      {
+        "game": "rs-r",
+        "text": "ELECTRIKE stores electricity in its\nlong body hair. This POKéMON stimulates\nits leg muscles with electric charges.\fThese jolts of power give its legs\nexplosive acceleration performance."
+      },
+      {
+        "game": "rs-s",
+        "text": "ELECTRIKE runs faster than the human\neye can follow. The friction from\nrunning is converted into electricity,\fwhich is then stored in this POKéMON’s\nfur."
+      },
+      {
+        "game": "e",
+        "text": "It generates electricity using friction\nfrom the atmosphere. In seasons with\nespecially arid air, its entire body blazes\nwith violent showers of sparks."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "It stores static electricity in its fur\nfor discharging. It gives off sparks if a\nstorm approaches."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "It stores static electricity in its fur\nfor discharging. It gives off sparks if a\nstorm approaches."
+      },
+      {
+        "game": "dp-d",
+        "text": "Using electricity stored in its fur,\nit stimulates its muscles to\nheighten its reaction speed."
+      },
+      {
+        "game": "dp-p",
+        "text": "Using electricity stored in its fur,\nit stimulates its muscles to\nheighten its reaction speed."
+      },
+      {
+        "game": "pt",
+        "text": "Using electricity stored in its fur,\nit stimulates its muscles to\nheighten its reaction speed."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "It stores electricity in its fur. It\ngives off sparks from all over its\nbody in seasons when the air is dry."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "It stores electricity in its fur. It\ngives off sparks from all over its\nbody in seasons when the air is dry."
+      },
+      {
+        "game": "bw-b",
+        "text": "Using electricity stored in its fur,\nit stimulates its muscles to\nheighten its reaction speed."
+      },
+      {
+        "game": "bw-w",
+        "text": "Using electricity stored in its fur,\nit stimulates its muscles to\nheighten its reaction speed."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "Using electricity stored in its fur,\nit stimulates its muscles to\nheighten its reaction speed."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "Using electricity stored in its fur,\nit stimulates its muscles to\nheighten its reaction speed."
+      },
+      {
+        "game": "xy-x",
+        "text": "Using electricity stored in its fur, it stimulates its\nmuscles to heighten its reaction speed."
+      },
+      {
+        "game": "xy-y",
+        "text": "It stores static electricity in its fur for discharging.\nIt gives off sparks if a storm approaches."
+      },
+      {
+        "game": "oras-or",
+        "text": "Electrike stores electricity in its long body hair. This Pokémon\nstimulates its leg muscles with electric charges. These jolts of\npower give its legs explosive acceleration performance."
+      },
+      {
+        "game": "oras-as",
+        "text": "Electrike runs faster than the human eye can follow.\nThe friction from running is converted into electricity,\nwhich is then stored in this Pokémon’s fur."
+      },
+      {
+        "game": "usum-us",
+        "text": "Friction between the air and its fur produces\nstatic electricity. When Electrike runs, it makes\na crackling sound."
+      },
+      {
+        "game": "usum-um",
+        "text": "Static electricity builds up all over its body\nas strands of its long fur rub together. This\nPokémon boasts incredible speed."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "It stores static electricity in its fur for discharging.\nIt gives off sparks if a storm approaches."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "It stores electricity in its fur. It gives off sparks\nfrom all over its body in seasons when the air is dry."
+      }
+    ]
+  },
+  "chs": {
+    "name": "落雷兽",
+    "genus": "闪电宝可梦",
+    "flavorText": [
+      {
+        "game": "usum-us",
+        "text": "通过空气与体毛的摩擦产生静电。\n落雷兽如果奔跑，\n会发出噼里啪啦的声音。"
+      },
+      {
+        "game": "usum-um",
+        "text": "长长的体毛，\n通过摩擦在全身储存静电。\n是以速度为傲的宝可梦。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "会将静电储存在体毛中进行放电。\n暴风雨临近时，会从全身散发出火花。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "会在体毛中储存静电。\n在空气干燥的季节\n会从全身散发出火花。"
+      }
+    ]
+  }
+}

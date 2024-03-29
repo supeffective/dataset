@@ -1,0 +1,61 @@
+{
+  "jap": {
+    "name": "ミミズズ",
+    "genus": "ミミズポケモン",
+    "flavorText": []
+  },
+  "jap_ro": {
+    "name": "Mimizuzu",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "꿈트렁",
+    "genus": "",
+    "flavorText": []
+  },
+  "cht": {
+    "name": "拖拖蚓",
+    "genus": "蚯蚓寶可夢",
+    "flavorText": []
+  },
+  "fra": {
+    "name": "Ferdeter",
+    "genus": "",
+    "flavorText": []
+  },
+  "deu": {
+    "name": "Schlurm",
+    "genus": "Regenwurm",
+    "flavorText": []
+  },
+  "esp": {
+    "name": "Orthworm",
+    "genus": "",
+    "flavorText": []
+  },
+  "ita": {
+    "name": "Orthworm",
+    "genus": "",
+    "flavorText": []
+  },
+  "eng": {
+    "name": "Orthworm",
+    "genus": "Earthworm Pokémon",
+    "flavorText": [
+      {
+        "game": "sv-s",
+        "text": "When attacked, this Pokémon will wield the tendrils on its body like fists and pelt the opponent with a storm of punches."
+      },
+      {
+        "game": "sv-v",
+        "text": "This Pokémon lives in arid deserts. It maintains its metal body by consuming iron from the soil."
+      }
+    ]
+  },
+  "chs": {
+    "name": "拖拖蚓",
+    "genus": "蚯蚓宝可梦",
+    "flavorText": []
+  }
+}

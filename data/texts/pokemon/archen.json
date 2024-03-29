@@ -1,0 +1,413 @@
+{
+  "jap": {
+    "name": "アーケン",
+    "genus": "さいこどりポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "かせきから　ふっかつした　ポケモン。\nあらゆる　とりポケモンの　そせんと\nかんがえられている。"
+      },
+      {
+        "game": "xy-y",
+        "text": "とりポケモンの　そせんと　いわれる。\nとぶことは　できず　えだから　えだへ\nとびうつり　せいかつしていたらしい。"
+      },
+      {
+        "game": "oras-or",
+        "text": "かせきから　ふっかつした　ポケモン。\nあらゆる　とりポケモンの　そせんと\nかんがえられている。"
+      },
+      {
+        "game": "oras-as",
+        "text": "とりポケモンの　そせんと　いわれる。\nとぶことは　できず　えだから　えだへ\nとびうつり　せいかつしていたらしい。"
+      },
+      {
+        "game": "sm-s",
+        "text": "あらゆる　とりポケモンの　そせん。\nアーケンじたいは　まだ　とべず\nきのうえを　ジャンプして　いどうした。"
+      },
+      {
+        "game": "sm-m",
+        "text": "とぶことは　できなかった　ようだが\nたかい　きのうえ　から　かっくうし\nえものを　とっていたらしい。"
+      },
+      {
+        "game": "usum-us",
+        "text": "あらゆる　とりポケモンの　そせんと\nかんがえられてきたが　さいきんの\nけんきゅうでは　ちがうというせつも。"
+      },
+      {
+        "game": "usum-um",
+        "text": "かせきから　ふくげんされた。\nハネは　あるが　まだ　とぶことは\nできない　こだいの　とりポケモン。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "かせきから　ふくげんに　せいこう。\nけんきゅうの　とおり　とべないが\nジャンプは　とくいな　ポケモンだ。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "とりポケモンの　そせんと　いわれる。\nきのうえで　くらし　きのみや\nむしポケモンを　くっていた。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Archen",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "아켄",
+    "genus": "최초새포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "화석에서 부활한 포켓몬이다.\n모든 새포켓몬의 조상이라\n여겨지고 있다."
+      },
+      {
+        "game": "xy-y",
+        "text": "새포켓몬의 조상이라고 전해진다.\n날 수 없어서 가지에서 가지로\n뛰어다니며 생활했다고 한다."
+      },
+      {
+        "game": "oras-or",
+        "text": "화석에서 부활한 포켓몬이다.\n모든 새포켓몬의 조상이라\n여겨지고 있다."
+      },
+      {
+        "game": "oras-as",
+        "text": "새포켓몬의 조상이라고 전해진다.\n날 수 없어서 가지에서 가지로\n뛰어다니며 생활했다고 한다."
+      },
+      {
+        "game": "sm-s",
+        "text": "모든 새포켓몬의 조상이다.\n아켄 자체는 아직 날지 못해\n나무 위를 점프해서 이동했다."
+      },
+      {
+        "game": "sm-m",
+        "text": "날 수는 없었던 것 같으나\n나무 위에서부터 활공하여\n먹이를 잡았다고 한다."
+      },
+      {
+        "game": "usum-us",
+        "text": "모든 새포켓몬의 선조라고\n여겨져 왔지만 최근 연구에서는\n아니라는 설도 대두되었다."
+      },
+      {
+        "game": "usum-um",
+        "text": "화석에서 복원되었다.\n날개는 있지만 아직 나는 것은\n불가능한 고대의 새포켓몬."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "화석으로부터 복원에 성공했다.\n연구한 것처럼 날지는 못하지만\n점프는 특기인 포켓몬이다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "새포켓몬의 선조로 불린다.\n나무 위에서 살며 나무열매나\n벌레포켓몬을 먹는다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "始祖小鳥",
+    "genus": "遠古鳥寶可夢",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "是所有鳥寶可夢的祖先。\n始祖小鳥本身還不會飛，\n而是在樹上跳著移動。"
+      },
+      {
+        "game": "sm-m",
+        "text": "似乎不會飛行，\n但聽說會從高高的樹上\n滑翔捕捉獵物。"
+      },
+      {
+        "game": "usum-us",
+        "text": "一直以來被認為是所有\n鳥寶可夢的祖先，但最近也有\n研究指出事實並非如此。"
+      },
+      {
+        "game": "usum-um",
+        "text": "從化石復原而來。\n有翅膀，但還不會飛。\n是古代的鳥寶可夢。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "從化石成功復原的寶可夢。\n正如研究所指出的，雖然\n牠不會飛，但卻擅於跳躍。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "被稱作是鳥寶可夢的祖先。\n棲息在樹上，以樹果和\n蟲寶可夢為食。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Arkéapti",
+    "genus": "Pokémon Oisancien",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "On dit qu’il serait l’ancêtre de tous les\nPokémon Oiseaux. Il ne sait pas voler et\nse déplace en sautant d’arbre en arbre."
+      },
+      {
+        "game": "bw-w",
+        "text": "Un Pokémon recréé à partir d’un fossile.\nOn pense qu’il est l’ancêtre de tous\nles Pokémon Oiseaux."
+      },
+      {
+        "game": "xy-x",
+        "text": "Un Pokémon recréé à partir d’un fossile. On pense\nqu’il est l’ancêtre de tous les Pokémon Oiseaux."
+      },
+      {
+        "game": "xy-y",
+        "text": "On dit qu’il serait l’ancêtre de tous les Pokémon\nOiseaux. Il ne sait pas voler et se déplace en sautant\nd’arbre en arbre."
+      },
+      {
+        "game": "oras-or",
+        "text": "Un Pokémon recréé à partir d’un fossile. On pense qu’il est\nl’ancêtre de tous les Pokémon Oiseaux."
+      },
+      {
+        "game": "oras-as",
+        "text": "On dit qu’il serait l’ancêtre de tous les Pokémon Oiseaux.\nIl ne sait pas voler et se déplace en sautant d’arbre en arbre."
+      },
+      {
+        "game": "sm-s",
+        "text": "Il est l’ancêtre commun de tous les Pokémon\noiseaux. Incapable de voler, il se déplaçait\nen planant depuis la cime des arbres."
+      },
+      {
+        "game": "sm-m",
+        "text": "Ce Pokémon était apparemment incapable\nde voler. Il savait néanmoins planer depuis\nla cime des arbres pour fondre sur ses proies."
+      },
+      {
+        "game": "usum-us",
+        "text": "Il a longtemps été considéré comme l’ancêtre\ncommun de tous les Pokémon oiseaux, mais\ndes études récentes réfutent cette théorie."
+      },
+      {
+        "game": "usum-um",
+        "text": "Bien qu’il ait des ailes, ce Pokémon antique\nrecréé à partir d’un fossile est incapable\nde voler."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Les recherches ont montré que ce Pokémon\nrestauré à partir d’un fossile ne pouvait pas\nvoler, mais qu’il était très doué en saut."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "On dit que c’est l’ancêtre des Pokémon oiseaux.\nIl vivait à la cime des arbres et se nourrissait de\nBaies et de Pokémon Insecte."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Flapteryx",
+    "genus": "Urzeitvogel-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Es wurde aus einem Fossil reanimiert. Man geht davon\naus, dass es der Urahn aller Vogel-Pokémon ist."
+      },
+      {
+        "game": "xy-y",
+        "text": "Man nennt es den Urvater der Vogel-Pokémon.\nDa es nicht fliegen kann, bewegt es sich hüpfend\nvon Ast zu Ast."
+      },
+      {
+        "game": "oras-or",
+        "text": "Es wurde aus einem Fossil reanimiert. Man geht davon aus,\ndass es der Urahn aller Vogel-Pokémon ist."
+      },
+      {
+        "game": "oras-as",
+        "text": "Man nennt es den Urvater der Vogel-Pokémon. Da es nicht\nfliegen kann, bewegt es sich hüpfend von Ast zu Ast."
+      },
+      {
+        "game": "sm-s",
+        "text": "Es ist der Urahn aller Vogel-Pokémon. Da es\nnicht fliegen kann, bewegt es sich fort, indem\nes von Baum zu Baum springt."
+      },
+      {
+        "game": "sm-m",
+        "text": "Es kann nicht fliegen. Seine Beute fängt es,\nindem es von hohen Bäumen gleitet."
+      },
+      {
+        "game": "usum-us",
+        "text": "Es wurde lange Zeit für den Urahn aller Vogel-\nPokémon gehalten, doch jüngste Forschungen\nführen zu unterschiedlichen Theorien."
+      },
+      {
+        "game": "usum-um",
+        "text": "Es wurde aus einem Fossil zurückverwandelt.\nTrotz seiner Flügel kann dieses Urzeitvogel-\nPokémon noch nicht fliegen."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Es wurde aus einem Fossil zurückverwandelt.\nWie von Forschern vermutet, kann Flapteryx zwar\nnicht fliegen, dafür aber umso besser springen."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Flapteryx wird oft als Urahn der Vogel-Pokémon\nbezeichnet. Es lebte in Baumwipfeln und ernährte\nsich von Beeren und Käfer-Pokémon."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Archen",
+    "genus": "Pokémon Protopájaro",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Pokémon que renació de un fósil. Dicen que es el\nantepasado de todos los Pokémon pájaro."
+      },
+      {
+        "game": "xy-y",
+        "text": "Dicen que es el Pokémon pájaro primigenio. No puede\nvolar, así que solo salta de rama en rama."
+      },
+      {
+        "game": "oras-or",
+        "text": "Pokémon que renació de un fósil. Dicen que es el antepasado\nde todos los Pokémon pájaro."
+      },
+      {
+        "game": "oras-as",
+        "text": "Dicen que es el Pokémon pájaro primigenio. No puede volar,\nasí que solo salta de rama en rama."
+      },
+      {
+        "game": "sm-s",
+        "text": "El antecesor de todo Pokémon pájaro. Como era\nincapaz de volar, se desplazaba saltando de\nárbol en árbol."
+      },
+      {
+        "game": "sm-m",
+        "text": "Al parecer no podía volar, por lo que se lanzaba\ndesde las copas de árboles altos para planear\ny atrapar así a su presa."
+      },
+      {
+        "game": "usum-us",
+        "text": "Siempre se ha creído que era el antecesor de\nlos Pokémon pájaro, aunque investigaciones\nrecientes lo ponen en duda."
+      },
+      {
+        "game": "usum-um",
+        "text": "Este Pokémon pájaro ancestral, regenerado a\npartir de un fósil, es incapaz de volar pese a\ntener alas."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Fue regenerado a partir de un fósil. Tal y como\napuntaban las investigaciones, no puede volar,\npero los saltos son su punto fuerte."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Se dice que es el antepasado de los Pokémon\npájaro. Vivía en las copas de los árboles y se\nalimentaba de bayas y Pokémon insecto."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Archen",
+    "genus": "Pokémon Paleouccello",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Pokémon risvegliatosi da un fossile. Si ritiene che\nsia l’antenato di tutti i Pokémon uccello."
+      },
+      {
+        "game": "xy-y",
+        "text": "Si dice sia antenato dei Pokémon uccello. Siccome\nnon sa volare, si sposta di ramo in ramo saltando."
+      },
+      {
+        "game": "oras-or",
+        "text": "Pokémon risvegliatosi da un fossile. Si ritiene che sia\nl’antenato di tutti i Pokémon uccello."
+      },
+      {
+        "game": "oras-as",
+        "text": "Si dice sia antenato dei Pokémon uccello. Siccome non sa\nvolare, si sposta di ramo in ramo saltando."
+      },
+      {
+        "game": "sm-s",
+        "text": "È l’antenato di tutti i Pokémon alati.\nPoiché non sapeva volare, si spostava tra gli\nalberi saltando."
+      },
+      {
+        "game": "sm-m",
+        "text": "Sembra che, non essendo in grado di volare,\ncatturasse le prede planando da alti rami."
+      },
+      {
+        "game": "usum-us",
+        "text": "Si è sempre pensato che fosse l’antenato di\ntutti i Pokémon alati, ma studi recenti hanno\nmesso in dubbio questa tesi."
+      },
+      {
+        "game": "usum-um",
+        "text": "Pokémon molto antico rigenerato da un fossile.\nNonostante abbia le ali, non è in grado di volare."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "È stato rigenerato da un fossile.\nCome mostrato dalle ricerche, non può volare,\nma è molto abile nei salti."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Si dice sia l’antenato dei Pokémon alati. Viveva\nsugli alberi, nutrendosi di bacche e Pokémon\ndi tipo Coleottero."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Archen",
+    "genus": "First Bird Pokémon",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Said to be an ancestor of bird Pokémon,\nthey were unable to fly and moved about\nby hopping from one branch to another."
+      },
+      {
+        "game": "bw-w",
+        "text": "Revived from a fossil, this Pokémon\nis thought to be the ancestor of all\nbird Pokémon."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "It was revived from an ancient fossil.\nNot able to fly, it lived in treetops and\nhopped from one branch to another."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "It was revived from an ancient fossil.\nNot able to fly, it lived in treetops and\nhopped from one branch to another."
+      },
+      {
+        "game": "xy-x",
+        "text": "Revived from a fossil, this Pokémon is thought to\nbe the ancestor of all bird Pokémon."
+      },
+      {
+        "game": "xy-y",
+        "text": "Said to be an ancestor of bird Pokémon, they were\nunable to fly and moved about by hopping from one\nbranch to another."
+      },
+      {
+        "game": "oras-or",
+        "text": "Revived from a fossil, this Pokémon is thought to\nbe the ancestor of all bird Pokémon."
+      },
+      {
+        "game": "oras-as",
+        "text": "Said to be an ancestor of bird Pokémon, they were\nunable to fly and moved about by hopping from one\nbranch to another."
+      },
+      {
+        "game": "sm-s",
+        "text": "It is the ancestor of all bird Pokémon. Archen\nitself could not actually fly but moved by\nhopping from treetop to treetop."
+      },
+      {
+        "game": "sm-m",
+        "text": "To all appearances flightless, it was able to\nglide down from tall treetops to snag its prey."
+      },
+      {
+        "game": "usum-us",
+        "text": "Once thought to be the ancestor of all bird\nPokémon, some of the latest research suggests\nthat may not be the case."
+      },
+      {
+        "game": "usum-um",
+        "text": "Restored from a fossil, this ancient bird\nPokémon has wings but can’t yet fly."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "This Pokémon was successfully restored from a\nfossil. As research suggested, Archen is unable\nto fly. But it’s very good at jumping."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Archen is said to be the ancestor of bird\nPokémon. It lived in treetops, eating berries\nand bug Pokémon."
+      }
+    ]
+  },
+  "chs": {
+    "name": "始祖小鸟",
+    "genus": "远古鸟宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "是所有鸟宝可梦的祖先。\n始祖小鸟本身还不会飞，\n在树上跳着移动。"
+      },
+      {
+        "game": "sm-m",
+        "text": "似乎不会飞行，\n但听说会从高高的树上\n滑翔捕捉猎物。"
+      },
+      {
+        "game": "usum-us",
+        "text": "被认为是所有鸟宝可梦的祖先，\n但最近的研究里也有说法\n认为这个是错误的。"
+      },
+      {
+        "game": "usum-um",
+        "text": "从化石复原而来。\n有翅膀，但还不会飞。\n是古代的鸟宝可梦。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "从化石中成功复原。\n正如研究所说，它虽然不会飞，\n但却是擅长跳跃的宝可梦。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "被称为鸟宝可梦的祖先。\n栖息在树上，以树果和\n虫宝可梦为食。"
+      }
+    ]
+  }
+}

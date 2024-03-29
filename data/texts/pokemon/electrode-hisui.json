@@ -1,0 +1,337 @@
+{
+  "jap": {
+    "name": "マルマイン",
+    "genus": "ボールポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "すこしの　しげきに　はんのうして\nばくはつする。バクダンボールという\nあだなで　こわがられて　いる。"
+      },
+      {
+        "game": "xy-y",
+        "text": "あふれるほどの　でんきエネルギーを\nたいないに　ためこんでいるので\nすこしの　しげきで　ばくはつする。"
+      },
+      {
+        "game": "oras-or",
+        "text": "くうきちゅうの　でんきエネルギーを　たべる。\nカミナリの　おちる　ひは　でんきを　たべすぎた\nマルマインが　あちらこちらで　だいばくはつする。"
+      },
+      {
+        "game": "oras-as",
+        "text": "でんきに　ひきよせられる　せいしつを　もつ。\nおもに　はつでんしょに　あつまってきて　つくった\nばかりの　でんきを　たべてしまう　こまりものだ。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "すこしでも　しょうげきを　あたえると\nたいないの　エレクトンエネルギーが\nあふれて　ばくはつ　してしまう。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "すこしでも　しょうげきを　あたえると\nたいないの　エレクトンエネルギーが\nあふれて　ばくはつ　してしまう。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Marumine",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "붐볼",
+    "genus": "볼포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "작은 자극에도 반응해서\n폭발한다. 폭탄볼이라 불리며\n두려움의 대상이 되고 있다."
+      },
+      {
+        "game": "xy-y",
+        "text": "넘칠 정도의 전기 에너지를\n체내에 모으고 있기 때문에\n약간의 자극만으로도 폭발한다."
+      },
+      {
+        "game": "oras-or",
+        "text": "공기 중의 전기 에너지를 먹는다.\n번개가 치는 날에는 전기를 너무 먹은\n붐볼이 이곳저곳에서 대폭발한다."
+      },
+      {
+        "game": "oras-as",
+        "text": "전기에 끌리는 성질을 지녔다.\n주로 발전소에 모여서 막 만들어진\n전기를 먹어버리는 말썽꾼이다."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "조금이라도 충격을 주면\n체내에 있는 전기 에너지가\n넘쳐서 폭발해버린다."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "조금이라도 충격을 주면\n체내에 있는 전기 에너지가\n넘쳐서 폭발해버린다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "頑皮雷彈",
+    "genus": "球寶可夢",
+    "flavorText": [
+      {
+        "game": "lgpe-lgp",
+        "text": "只要受到任何一點衝擊，\n體內的電能就會迅速膨脹\n然後爆炸。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "只要受到任何一點衝擊，\n體內的電能就會迅速膨脹\n然後爆炸。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Électrode",
+    "genus": "Pokémon Balle",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Il se laisse porter par les vents\nlorsque son corps est gonflé\nd’électricité à en éclater."
+      },
+      {
+        "game": "bw-w",
+        "text": "Il se laisse porter par les vents\nlorsque son corps est gonflé\nd’électricité à en éclater."
+      },
+      {
+        "game": "xy-x",
+        "text": "Il explose au moindre choc. Son seul surnom de\n« Bomb Ball » suffit à effrayer ses adversaires."
+      },
+      {
+        "game": "xy-y",
+        "text": "Il stocke tellement d’énergie dans son corps\nqu’une simple secousse peut le faire exploser."
+      },
+      {
+        "game": "oras-or",
+        "text": "Électrode mange l’électricité qui se trouve dans l’atmosphère.\nLes jours d’orage, on peut voir ce Pokémon exploser\nsans arrêt parce qu’il a avalé trop d’électricité."
+      },
+      {
+        "game": "oras-as",
+        "text": "L’une des caractéristiques d’Électrode est son attirance\npour l’électricité. Ces Pokémon posent problème lorsqu’ils\nse rassemblent dans les centrales électriques pour se nourrir\nde courant fraîchement généré."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Il stocke de l’énergie électrique dans son corps,\nce qui le rend instable et explosif."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Il stocke de l’énergie électrique dans son corps,\nce qui le rend instable et explosif."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Lektrobal",
+    "genus": "Ball",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Es explodiert schon bei kleinsten Reizen.\nSein Spitzname „Die Bombenkugel“ spiegelt\ndie Furcht der Menschen wider."
+      },
+      {
+        "game": "xy-y",
+        "text": "Es speichert eine riesige Menge Elektrizität in\nseinem Körper. Es explodiert beim kleinsten Ruck."
+      },
+      {
+        "game": "oras-or",
+        "text": "Lektrobal ernährt sich von Elektrizität aus der Atmosphäre.\nAn Tagen, an denen es blitzt, explodiert dieses Pokémon\ndauernd, da es zu viel Elektrizität zu sich nimmt."
+      },
+      {
+        "game": "oras-as",
+        "text": "Typisch für Lektrobal ist seine große Faszination für Elektrizität.\nEs ist ein problematisches Pokémon, das sich meistens in\nKraftwerken niederlässt, wo es sich von frisch erzeugtem Strom\nernähren kann."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Es speichert elektrische Energie in seinem\nKörper. Schon die geringste Erschütterung\nlässt es explodieren."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Es speichert elektrische Energie in seinem\nKörper. Schon die geringste Erschütterung\nlässt es explodieren."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Electrode",
+    "genus": "Pokémon Bola",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Explotan a la mínima. Por eso se les tiene mucho\nmiedo. Estos Pokémon reciben el mote de Bomba Ball."
+      },
+      {
+        "game": "xy-y",
+        "text": "Almacena una enorme cantidad de electricidad en su\ncuerpo. Una pequeña sacudida le hará explotar."
+      },
+      {
+        "game": "oras-or",
+        "text": "Los Electrode se alimentan de la electricidad de la atmósfera.\nEn días de tormenta con rayos, es fácil verlos explotando por\ntodos lados tras haber consumido demasiada electricidad."
+      },
+      {
+        "game": "oras-as",
+        "text": "Una de las características de Electrode es la atracción que\nsiente hacia la electricidad. Son Pokémon problemáticos que\nsuelen agruparse cerca de centrales eléctricas para nutrirse\nde la energía recién generada."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Almacena tal cantidad de energía eléctrica en\nsu cuerpo que el más leve impacto puede\nprovocar una gran explosión."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Almacena tal cantidad de energía eléctrica en\nsu cuerpo que el más leve impacto puede\nprovocar una gran explosión."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Electrode",
+    "genus": "Pokémon Ball",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Può esplodere anche alla minima provocazione.\nLo chiamano “Bomba Ball”."
+      },
+      {
+        "game": "xy-y",
+        "text": "Dato che accumula nel proprio corpo un’incredibile\nquantità di elettricità, esplode alla minima\nprovocazione."
+      },
+      {
+        "game": "oras-or",
+        "text": "Electrode si nutre dell’elettricità presente nell’atmosfera.\nQuando i fulmini solcano il cielo, è possibile scorgere molti\ndi questi Pokémon esplodere per aver ingerito un’eccessiva\ndose di elettricità."
+      },
+      {
+        "game": "oras-as",
+        "text": "Una delle caratteristiche di Electrode è la sua affinità con\nl’elettricità. Si tratta di un Pokémon problematico che spesso\nsi raduna attorno alle centrali elettriche per trarre nutrimento\ndall’elettricità appena generata."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "L’energia elettrica accumulata nel suo corpo\npuò provocare un’esplosione al minimo urto."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "L’energia elettrica accumulata nel suo corpo\npuò provocare un’esplosione al minimo urto."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Electrode",
+    "genus": "Ball Pokémon",
+    "flavorText": [
+      {
+        "game": "rb-r",
+        "text": "It stores electric\nenergy under very\nhigh pressure.\fIt often explodes\nwith little or no\nprovocation."
+      },
+      {
+        "game": "rb-b",
+        "text": "It stores electric\nenergy under very\nhigh pressure.\fIt often explodes\nwith little or no\nprovocation."
+      },
+      {
+        "game": "y",
+        "text": "Stores electrical\nenergy inside its\nbody. Even the\fslightest shock\ncould trigger a\nhuge explosion."
+      },
+      {
+        "game": "gs-g",
+        "text": "It is dangerous.\nIf it has too much\nelectricity and\fhas nothing to do,\nit amuses itself\nby exploding."
+      },
+      {
+        "game": "gs-s",
+        "text": "It stores an over­\nflowing amount of\nelectric energy\finside its body.\nEven a small shock\nmakes it explode."
+      },
+      {
+        "game": "c",
+        "text": "The more energy it\ncharges up, the\nfaster it gets.\fBut this also\nmakes it more\nlikely to explode."
+      },
+      {
+        "game": "rs-r",
+        "text": "ELECTRODE eats electricity in the\natmosphere. On days when lightning\nstrikes, you can see this POKéMON\fexploding all over the place from\neating too much electricity."
+      },
+      {
+        "game": "rs-s",
+        "text": "One of ELECTRODE’s characteristics is\nits attraction to electricity.\nIt is a problematical POKéMON that\fcongregates mostly at electrical\npower plants to feed on electricity\nthat has just been generated."
+      },
+      {
+        "game": "e",
+        "text": "They appear in great numbers at electric\npower plants. Because they feed on\nelectricity, they cause massive and\nchaotic blackouts in nearby cities."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "It explodes in response to even minor\nstimuli. It is feared, with the nickname\nof “The Bomb Ball.”"
+      },
+      {
+        "game": "frlg-lg",
+        "text": "It stores electric energy under very high\npressure. It often explodes with little or\nno provocation."
+      },
+      {
+        "game": "dp-d",
+        "text": "It is known to drift on winds if it\nis bloated to bursting with stored\nelectricity."
+      },
+      {
+        "game": "dp-p",
+        "text": "It is known to drift on winds if it\nis bloated to bursting with stored\nelectricity."
+      },
+      {
+        "game": "pt",
+        "text": "It is known to drift on winds if it\nis bloated to bursting with stored\nelectricity."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "It is dangerous. If it has too much\nelectricity and has nothing to do,\nit amuses itself by exploding."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "It stores an overflowing amount of\nelectric energy inside its body.\nEven a small shock makes it explode."
+      },
+      {
+        "game": "bw-b",
+        "text": "It is known to drift on winds if it\nis bloated to bursting with stored\nelectricity."
+      },
+      {
+        "game": "bw-w",
+        "text": "It is known to drift on winds if it\nis bloated to bursting with stored\nelectricity."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "It is known to drift on winds if it\nis bloated to bursting with stored\nelectricity."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "It is known to drift on winds if it\nis bloated to bursting with stored\nelectricity."
+      },
+      {
+        "game": "xy-x",
+        "text": "It explodes in response to even minor stimuli. It is\nfeared, with the nickname of “The Bomb Ball.”"
+      },
+      {
+        "game": "xy-y",
+        "text": "It stores an overflowing amount of electric energy\ninside its body. Even a small shock makes\nit explode."
+      },
+      {
+        "game": "oras-or",
+        "text": "Electrode eats electricity in the atmosphere. On days when\nlightning strikes, you can see this Pokémon exploding all over\nthe place from eating too much electricity."
+      },
+      {
+        "game": "oras-as",
+        "text": "One of Electrode’s characteristics is its attraction to electricity.\nIt is a problematical Pokémon that congregates mostly at\nelectrical power plants to feed on electricity that has just\nbeen generated."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Stores electrical energy inside its body. Even the\nslightest shock could trigger a huge explosion."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Stores electrical energy inside its body. Even the\nslightest shock could trigger a huge explosion."
+      },
+      {
+        "game": "la",
+        "text": "The tissue on the surface of its body is curiously similar in\ncomposition to an Apricorn. When irritated, this Pokémon lets\nloose an electric current equal to 20 lightning bolts."
+      }
+    ]
+  },
+  "chs": {
+    "name": "顽皮雷弹",
+    "genus": "球宝可梦",
+    "flavorText": [
+      {
+        "game": "lgpe-lgp",
+        "text": "只要受到一点撞击，\n就会由于体内的\n电能溢出导致爆炸。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "只要受到一点撞击，\n就会由于体内的\n电能溢出导致爆炸。"
+      }
+    ]
+  }
+}

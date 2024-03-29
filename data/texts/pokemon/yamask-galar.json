@@ -1,0 +1,269 @@
+{
+  "jap": {
+    "name": "デスマス",
+    "genus": "たましいポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "おはかに　まいそうされた　ひとの\nたましいが　ポケモンに　へんかした。\nしぬまえの　きおくが　のこっている。"
+      },
+      {
+        "game": "xy-y",
+        "text": "もっている　マスクは　デスマスが\nにんげんだった　ときの　かお。\nたまに　みつめては　ないている。"
+      },
+      {
+        "game": "oras-or",
+        "text": "おはかに　まいそうされた　ひとの\nたましいが　ポケモンに　へんかした。\nしぬまえの　きおくが　のこっている。"
+      },
+      {
+        "game": "oras-as",
+        "text": "もっている　マスクは　デスマスが\nにんげんだった　ときの　かお。\nたまに　みつめては　ないている。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "よなよな　いせきを　さまよう。\nもっている　マスクは　ひと　だった\nころの　じぶんの　かお　だという。　"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "こだいじんの　たましいが　ポケモンに\nなった。　じぶんの　かおを　しる\nひとを　さがし　いせきを　さまよう。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Desumasu",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "데스마스",
+    "genus": "영혼포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "무덤에 매장된 사람의\n영혼이 포켓몬으로 변했다.\n죽기 전 기억이 남아 있다."
+      },
+      {
+        "game": "xy-y",
+        "text": "가지고 있는 마스크는 데스마스가\n사람이었을 때의 얼굴이다.\n가끔 마스크를 쳐다보며 운다."
+      },
+      {
+        "game": "oras-or",
+        "text": "무덤에 매장된 사람의\n영혼이 포켓몬으로 변했다.\n죽기 전 기억이 남아 있다."
+      },
+      {
+        "game": "oras-as",
+        "text": "가지고 있는 마스크는 데스마스가\n사람이었을 때의 얼굴이다.\n가끔 마스크를 쳐다보며 운다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "밤마다 유적을 떠돈다.\n가지고 있는 마스크는 자신이\n인간이던 시절의 얼굴이라고 한다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "고대인의 영혼이 포켓몬이 되어\n태어났다. 자신의 얼굴을 아는\n사람을 찾아 유적을 떠돈다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "哭哭面具",
+    "genus": "魂寶可夢",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "每天夜裡都在遺跡中徘徊。\n據說牠拿著的面具\n是牠還是人類時的臉。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "古代人的靈魂變成了寶可夢。\n為了尋找認得自己長相的人\n而在遺跡裡徘徊。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Tutafeh",
+    "genus": "Pokémon Âme",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Le motif de son masque est son visage\nquand il était humain. Parfois, il le\nregarde et se met à pleurer."
+      },
+      {
+        "game": "bw-w",
+        "text": "Il est né de l’âme d’un défunt inhumé\ndans une tombe antique. Il a conservé\nses anciens souvenirs."
+      },
+      {
+        "game": "xy-x",
+        "text": "Il est né de l’âme d’un défunt inhumé dans une tombe\nantique. Il a conservé ses anciens souvenirs."
+      },
+      {
+        "game": "xy-y",
+        "text": "Le motif de son masque est son visage quand il était\nhumain. Parfois, il le regarde et se met à pleurer."
+      },
+      {
+        "game": "oras-or",
+        "text": "Il est né de l’âme d’un défunt inhumé dans une tombe antique.\nIl a conservé ses anciens souvenirs."
+      },
+      {
+        "game": "oras-as",
+        "text": "Le motif de son masque est son visage quand il était humain.\nParfois, il le regarde et se met à pleurer."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Il passe ses nuits à errer dans les ruines.\nOn raconte que le masque qu’il porte représente\nson visage quand il était humain."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Il est né de l’âme d’un être humain d’un peuple\nantique. Il erre dans les ruines à la recherche\nde quiconque reconnaîtra son visage."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Makabaja",
+    "genus": "Seelen-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Es entsteht aus den Seelen von längst begrabenen\nMenschen und kann sich immer noch an deren\nVergangenheit erinnern."
+      },
+      {
+        "game": "xy-y",
+        "text": "Seine Maske ist ein Abbild des Gesichts, das es\nals Mensch hatte. Manchmal weint es, wenn man\nihm in die Augen sieht."
+      },
+      {
+        "game": "oras-or",
+        "text": "Es entsteht aus den Seelen von längst begrabenen Menschen\nund kann sich immer noch an deren Vergangenheit erinnern."
+      },
+      {
+        "game": "oras-as",
+        "text": "Seine Maske ist ein Abbild des Gesichts, das es als Mensch\nhatte. Manchmal weint es, wenn man ihm in die Augen sieht."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Makabaja irren Nacht für Nacht durch Ruinen.\nDie Masken, die sie umhertragen, sind angeblich\nihre ehemaligen Menschengesichter."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Makabaja sind Seelen von Menschen aus uralten\nZeiten, die zu Pokémon wurden. Sie suchen in\nRuinen nach Leuten, die ihr Gesicht kennen."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Yamask",
+    "genus": "Pokémon Espíritu",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Almas de humanos sepultados en tumbas que han\nadquirido forma de Pokémon. Recuerdan su vida antes\nde la muerte."
+      },
+      {
+        "game": "xy-y",
+        "text": "Su máscara representa la cara que poseía cuando\nera humano. A veces se le saltan las lágrimas al\ncontemplarla."
+      },
+      {
+        "game": "oras-or",
+        "text": "Almas de humanos sepultados en tumbas que han adquirido\nforma de Pokémon. Recuerdan su vida antes de la muerte."
+      },
+      {
+        "game": "oras-as",
+        "text": "Su máscara representa la cara que poseía cuando era humano.\nA veces se le saltan las lágrimas al contemplarla."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Merodea todas las noches entre ruinas. Se dice\nque la máscara que lleva replica su antiguo rostro\nhumano."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Surgió del alma de una persona que vivió en\ntiempos remotos. Merodea por las ruinas en\nbusca de alguien que reconozca su rostro."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Yamask",
+    "genus": "Pokémon Fatuanima",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Erano un tempo spettri che riposavano in antiche\ntombe. Conservano la memoria della loro vita mortale."
+      },
+      {
+        "game": "xy-y",
+        "text": "La maschera che indossa è il volto che aveva quando\nera un umano. A volte si mette a piangere mentre\nla guarda."
+      },
+      {
+        "game": "oras-or",
+        "text": "Erano un tempo spettri che riposavano in antiche tombe.\nConservano la memoria della loro vita mortale."
+      },
+      {
+        "game": "oras-as",
+        "text": "La maschera che indossa è il volto che aveva quando era un\numano. A volte si mette a piangere mentre la guarda."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Si aggira tra i ruderi ogni notte. Si dice che\nla maschera che indossa sia il volto che\naveva quando era umano."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Spirito di un uomo dell’antichità divenuto\nPokémon. Vaga tra le rovine in cerca di qualcuno\nche riconosca il suo volto."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Yamask",
+    "genus": "Spirit Pokémon",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Each of them carries a mask that used\nto be its face when it was human.\nSometimes they look at it and cry."
+      },
+      {
+        "game": "bw-w",
+        "text": "These Pokémon arose from the spirits of\npeople interred in graves in past ages.\nEach retains memories of its former life."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "These Pokémon arose from the spirits of\npeople interred in graves. Each retains\nmemories of its former life."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "These Pokémon arose from the spirits of\npeople interred in graves. Each retains\nmemories of its former life."
+      },
+      {
+        "game": "xy-x",
+        "text": "These Pokémon arose from the spirits of people\ninterred in graves. Each retains memories of its\nformer life."
+      },
+      {
+        "game": "xy-y",
+        "text": "Each of them carries a mask that used to be its face\nwhen it was human. Sometimes they look at it\nand cry."
+      },
+      {
+        "game": "oras-or",
+        "text": "These Pokémon arose from the spirits of people\ninterred in graves. Each retains memories of its\nformer life."
+      },
+      {
+        "game": "oras-as",
+        "text": "Each of them carries a mask that used to be its face\nwhen it was human. Sometimes they look at it\nand cry."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "It wanders through ruins by night, carrying a mask\nthat’s said to have been the face it had when it\nwas still human."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "The spirit of a person from a bygone age became\nthis Pokémon. It rambles through ruins, searching\nfor someone who knows its face."
+      }
+    ]
+  },
+  "chs": {
+    "name": "哭哭面具",
+    "genus": "魂宝可梦",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "每天夜里都在遗迹中徘徊。\n据说它拿着的面具\n是它还是人类时的脸。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "古代人的灵魂变成了宝可梦。\n为了寻找认得自己长相的人\n而在遗迹里徘徊。"
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "jap": {
+    "name": "シビルドン",
+    "genus": "でんきうおポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "きゅうばんの　くちで　えものに\nすいつき　くいこませた　キバから\nでんきを　ながして　かんでんさせる。"
+      },
+      {
+        "game": "xy-y",
+        "text": "うでの　ちからで　うみから　はいだし\nみずべの　えものに　おそいかかる。\nいっしゅんで　うみへ　ひきずりこむ。"
+      },
+      {
+        "game": "oras-or",
+        "text": "きゅうばんの　くちで　えものに\nすいつき　くいこませた　キバから\nでんきを　ながして　かんでんさせる。"
+      },
+      {
+        "game": "oras-as",
+        "text": "うでの　ちからで　うみから　はいだし\nみずべの　えものに　おそいかかる。\nいっしゅんで　うみへ　ひきずりこむ。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Shibirudon",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "저리더프",
+    "genus": "전기물고기포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "흡반 같은 입으로 먹이에\n달라붙은 후 박아 넣은 이빨을\n통해 전기를 흘려 감전시킨다."
+      },
+      {
+        "game": "xy-y",
+        "text": "팔 힘으로 바다에서 기어 나와\n물가에 있는 먹이를 덮친다.\n한순간에 바다로 끌고 들어간다."
+      },
+      {
+        "game": "oras-or",
+        "text": "흡반 같은 입으로 먹이에\n달라붙은 후 박아 넣은 이빨을\n통해 전기를 흘려 감전시킨다."
+      },
+      {
+        "game": "oras-as",
+        "text": "팔 힘으로 바다에서 기어 나와\n물가에 있는 먹이를 덮친다.\n한순간에 바다로 끌고 들어간다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "麻麻鰻魚王",
+    "genus": "電魚寶可夢",
+    "flavorText": []
+  },
+  "fra": {
+    "name": "Ohmassacre",
+    "genus": "Pokémon Électrophore",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Il peut sortir de l’eau à la force de ses\nbras pour attraper des proies sur la\nrive. Il retourne à l’eau en un instant."
+      },
+      {
+        "game": "bw-w",
+        "text": "Il s’attache à ses proies avec sa\nbouche-ventouse et les électrocute\navec ses crocs."
+      },
+      {
+        "game": "xy-x",
+        "text": "Il s’attache à ses proies avec sa bouche-ventouse et\nles électrocute avec ses crocs."
+      },
+      {
+        "game": "xy-y",
+        "text": "Il peut sortir de l’eau à la force de ses bras pour\nattraper des proies sur la rive. Il retourne à l’eau\nen un instant."
+      },
+      {
+        "game": "oras-or",
+        "text": "Il s’attache à ses proies avec sa bouche-ventouse et\nles électrocute avec ses crocs."
+      },
+      {
+        "game": "oras-as",
+        "text": "Il peut sortir de l’eau à la force de ses bras pour attraper\ndes proies sur la rive. Il retourne à l’eau en un instant."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Zapplarang",
+    "genus": "Stromfisch",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Mit dem Saugnapf an seinem Maul hakt es sich\nan seiner Beute fest und versetzt ihr über seine\nFangzähne Stromschläge."
+      },
+      {
+        "game": "xy-y",
+        "text": "Es schleppt sich mithilfe seiner Arme an Land,\nschnappt nach seiner Beute und zerrt sie\naugenblicklich ins Meer."
+      },
+      {
+        "game": "oras-or",
+        "text": "Mit dem Saugnapf an seinem Maul hakt es sich an seiner Beute\nfest und versetzt ihr über seine Fangzähne Stromschläge."
+      },
+      {
+        "game": "oras-as",
+        "text": "Es schleppt sich mithilfe seiner Arme an Land, schnappt nach\nseiner Beute und zerrt sie augenblicklich ins Meer."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Eelektross",
+    "genus": "Pokémon Electropez",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Pega la ventosa de su boca en su presa y la\nelectrocuta con sus colmillos."
+      },
+      {
+        "game": "xy-y",
+        "text": "Sale del mar con la fuerza de sus brazos y ataca a sus\npresas en la costa. Luego se las lleva de vuelta al mar."
+      },
+      {
+        "game": "oras-or",
+        "text": "Pega la ventosa de su boca en su presa y la electrocuta con\nsus colmillos."
+      },
+      {
+        "game": "oras-as",
+        "text": "Sale del mar con la fuerza de sus brazos y ataca a sus presas\nen la costa. Luego se las lleva de vuelta al mar."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Eelektross",
+    "genus": "Pokémon Elettropesce",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Si attacca alla preda con la bocca a ventosa e la\nfulmina attraverso i denti conficcati."
+      },
+      {
+        "game": "xy-y",
+        "text": "Striscia fuori dal mare con la sola forza dei propri\narti. Poi attacca la preda a riva e con un guizzo la\ntrascina con sé."
+      },
+      {
+        "game": "oras-or",
+        "text": "Si attacca alla preda con la bocca a ventosa e la fulmina\nattraverso i denti conficcati."
+      },
+      {
+        "game": "oras-as",
+        "text": "Striscia fuori dal mare con la sola forza dei propri arti. Poi\nattacca la preda a riva e con un guizzo la trascina con sé."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Eelektross",
+    "genus": "EleFish Pokémon",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "They crawl out of the ocean using their\narms. They will attack prey on shore and\nimmediately drag it into the ocean."
+      },
+      {
+        "game": "bw-w",
+        "text": "With their sucker mouths, they\nsuck in prey. Then they use their fangs\nto shock the prey with electricity."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "It latches on to prey with its sucker\nmouth, sinking in its fangs and shocking\nthe prey with powerful electricity."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "It latches on to prey with its sucker\nmouth, sinking in its fangs and shocking\nthe prey with powerful electricity."
+      },
+      {
+        "game": "xy-x",
+        "text": "With their sucker mouths, they suck in prey.\nThen they use their fangs to shock the prey\nwith electricity."
+      },
+      {
+        "game": "xy-y",
+        "text": "They crawl out of the ocean using their arms.\nThey will attack prey on shore and immediately drag\nit into the ocean."
+      },
+      {
+        "game": "oras-or",
+        "text": "With their sucker mouths, they suck in prey.\nThen they use their fangs to shock the prey\nwith electricity."
+      },
+      {
+        "game": "oras-as",
+        "text": "They crawl out of the ocean using their arms.\nThey will attack prey on shore and immediately drag\nit into the ocean."
+      }
+    ]
+  },
+  "chs": {
+    "name": "麻麻鳗鱼王",
+    "genus": "电鱼宝可梦",
+    "flavorText": []
+  }
+}

@@ -1,0 +1,437 @@
+{
+  "jap": {
+    "name": "グレイシア",
+    "genus": "しんせつポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "たいおんを　コントロールすることで\nしゅういの　くうきを　こおらせて\nダイヤモンドダストを　ふらせる。"
+      },
+      {
+        "game": "xy-y",
+        "text": "たいおんを　さげることで　ぜんしんの\nたいもうを　こおらせて　するどく\nとがった　ハリのようにして　とばす。"
+      },
+      {
+        "game": "oras-or",
+        "text": "たいおんを　コントロールすることで\nしゅういの　くうきを　こおらせて\nダイヤモンドダストを　ふらせる。"
+      },
+      {
+        "game": "oras-as",
+        "text": "たいおんを　さげることで　ぜんしんの\nたいもうを　こおらせて　するどく\nとがった　ハリのようにして　とばす。"
+      },
+      {
+        "game": "sm-s",
+        "text": "たいおんを　じざいに　コントロールし\nたいきの　すいぶんを　こおらせて\nダイヤモンドダストを　まきおこす。"
+      },
+      {
+        "game": "sm-m",
+        "text": "たいもうを　こおらせ　するどい\nつららの　ように　とがらせてから\nえものを　めがけ　タックルする。"
+      },
+      {
+        "game": "usum-us",
+        "text": "たいもうを　こおらせ　するどい　ハリに\nかえて　みを　まもる。　たいおんは\nマイナス６０どまで　さげられるのだ。"
+      },
+      {
+        "game": "usum-um",
+        "text": "いっしゅんで　しゅういの　すいぶんを\nこおらせ　こおりの　つぶを　つくり\nえもの　めがけて　うちだすのだ。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "ダイヤモンドダストを　ふらせる。\nうつくしさに　みとれた　えものは\nきづかぬうちに　こおりついている。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "グレイシアが　はなつ　れいきは\nパウダースノーを　つくりだす。\nスキーじょうに　ひっぱりだこ。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Glacia",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "글레이시아",
+    "genus": "신설포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "체온을 컨트롤하는 것으로\n주위의 공기를 얼려서\n다이아몬드 더스트를 날린다."
+      },
+      {
+        "game": "xy-y",
+        "text": "체온을 내리는 것으로 전신의\n털을 얼려서 날카롭고\n뾰족한 바늘처럼 만들어 날린다."
+      },
+      {
+        "game": "oras-or",
+        "text": "체온을 컨트롤하는 것으로\n주위의 공기를 얼려서\n다이아몬드더스트를 날린다."
+      },
+      {
+        "game": "oras-as",
+        "text": "체온을 내리는 것으로 전신의\n털을 얼려서 날카롭고\n뾰족한 바늘처럼 만들어 날린다."
+      },
+      {
+        "game": "sm-s",
+        "text": "체온을 자유자재로 컨트롤해\n대기의 수분을 얼려서\n다이아몬드더스트를 일으킨다."
+      },
+      {
+        "game": "sm-m",
+        "text": "털을 얼려서 날카로운\n고드름처럼 뾰족하게 한 뒤\n먹이를 향해 태클을 건다."
+      },
+      {
+        "game": "usum-us",
+        "text": "몸의 털을 얼려 예리한 바늘로\n만들어 몸을 지킨다. 체온은\n마이너스 60도까지 내릴 수 있다."
+      },
+      {
+        "game": "usum-um",
+        "text": "순식간에 주위의 수분을\n얼려서 얼음 결정을 만든 후\n먹이를 향해 날린다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "다이아몬드더스트를 내리게 한다.\n그 아름다움에 현혹된 먹이는\n눈치채기도 전에 얼어붙어 버린다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "글레이시아가 발산하는 냉기는\n가루눈을 만들어 내기 때문에\n스키장에서 인기가 높다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "冰伊布",
+    "genus": "新雪寶可夢",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "能自由地控制體溫，\n讓大氣中的水分凍結，\n捲起冰晶。"
+      },
+      {
+        "game": "sm-m",
+        "text": "冰凍體毛，讓其像\n銳利的冰柱那樣變尖之後，\n向著獵物衝撞。"
+      },
+      {
+        "game": "usum-us",
+        "text": "會把體毛凍住，\n變成銳利的針來保護自己。\n體溫最低可下降到零下６０度。"
+      },
+      {
+        "game": "usum-um",
+        "text": "能夠在一瞬間將周圍的\n水分凍結起來形成冰粒，\n然後朝獵物發射出去。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "能夠降下冰晶。\n被牠的美貌迷住的獵物\n會在不知不覺間被凍住。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "冰伊布釋放出的冷氣能\n製造出粉狀的雪。這使牠受到\n各個滑雪場的熱烈歡迎。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Givrali",
+    "genus": "Pokémon Poudreuse",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Il ajuste la température de son\ncorps pour créer un vent de glace\nen gelant l’air qui l’entoure."
+      },
+      {
+        "game": "bw-w",
+        "text": "Il ajuste la température de son\ncorps pour créer un vent de glace\nen gelant l’air qui l’entoure."
+      },
+      {
+        "game": "xy-x",
+        "text": "Il ajuste la température de son corps pour créer\nun vent de glace en gelant l’air qui l’entoure."
+      },
+      {
+        "game": "xy-y",
+        "text": "Il abaisse la température de son corps pour changer\nses poils en aiguilles de glace qu’il projette sur\nl’ennemi."
+      },
+      {
+        "game": "oras-or",
+        "text": "Il ajuste la température de son corps pour créer un vent\nde glace en gelant l’air qui l’entoure."
+      },
+      {
+        "game": "oras-as",
+        "text": "Il abaisse la température de son corps pour changer ses poils\nen aiguilles de glace qu’il projette sur l’ennemi."
+      },
+      {
+        "game": "sm-s",
+        "text": "Il peut contrôler la température de son corps\nà volonté et générer des cristaux de glace en\ngelant l’humidité de l’air."
+      },
+      {
+        "game": "sm-m",
+        "text": "Il gèle ses poils pour les transformer en pics\nde glace, qu’il utilise ensuite pour terrasser\nses proies."
+      },
+      {
+        "game": "usum-us",
+        "text": "Pour se protéger, il gèle ses poils jusqu’à les\ntransformer en picots de glace. Sa température\ncorporelle peut descendre jusqu’à -60 °C."
+      },
+      {
+        "game": "usum-um",
+        "text": "Il gèle les particules d’eau qui l’entourent\npour former de petits cristaux de glace,\nqu’il utilise ensuite pour lapider ses proies."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Totalement subjuguées par la beauté des cristaux\nde glace qu’il fait tomber, ses proies ne réalisent\nque trop tard qu’elles sont en train de geler."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Ce Pokémon exhale un vent glacial qui crée\nune neige poudreuse. Sa présence est très\nappréciée dans les stations de ski."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Glaziola",
+    "genus": "Neuschnee-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Erzeugt ein Diamantstaubgestöber durch\ndas Einfrieren der Luft um sich herum."
+      },
+      {
+        "game": "xy-y",
+        "text": "Wenn es seine Körpertemperatur senkt,\nerstarren die Haare seines Fells zu Eis\nund dienen ihm als nadelartige Geschosse."
+      },
+      {
+        "game": "oras-or",
+        "text": "Erzeugt ein Diamantstaubgestöber durch das Einfrieren der\nLuft um sich herum."
+      },
+      {
+        "game": "oras-as",
+        "text": "Wenn es seine Körpertemperatur senkt, erstarren die Haare\nseines Fells zu Eis und dienen ihm als nadelartige Geschosse."
+      },
+      {
+        "game": "sm-s",
+        "text": "Es kann seine Körpertemperatur frei regulieren.\nIndem es die Wasserbestandteile der Luft\ngefrieren lässt, wirbelt es Diamantstaub auf."
+      },
+      {
+        "game": "sm-m",
+        "text": "Es lässt sein Fell gefrieren und macht es\ndadurch so spitz wie Eiszapfen, mit denen\nes dann seine Beute attackiert."
+      },
+      {
+        "game": "usum-us",
+        "text": "Es lässt sein Fell gefrieren und macht es somit\nso spitz wie Eiszapfen. Seine Körpertemperatur\nkann es auf -60 °C senken."
+      },
+      {
+        "game": "usum-um",
+        "text": "Es lässt die Wasserbestandteile in der Luft in\nSekundenschnelle zu Diamantstaub gefrieren\nund greift damit seine Beute an."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Glaziola erzeugt ein Diamantstaubgestöber, um\nBeute mit seiner Schönheit so zu verzaubern,\ndass es sie unbemerkt einfrieren kann."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Die kalte Luft, die Glaziola abgibt, erzeugt\nPulverschnee. In Skigebieten erfreut es sich\ndaher großer Beliebtheit."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Glaceon",
+    "genus": "Pokémon Nieve Fresca",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Controla su temperatura corporal para congelar el\nambiente y causar ráfagas de nieve en polvo."
+      },
+      {
+        "game": "xy-y",
+        "text": "Al reducir su temperatura corporal, su pelaje se\ncongela y se convierte en afilados pinchos que puede\ndisparar."
+      },
+      {
+        "game": "oras-or",
+        "text": "Controla su temperatura corporal para congelar el ambiente y\ncausar ráfagas de nieve en polvo."
+      },
+      {
+        "game": "oras-as",
+        "text": "Al reducir su temperatura corporal, su pelaje se congela y\nse convierte en afilados pinchos que puede disparar."
+      },
+      {
+        "game": "sm-s",
+        "text": "Controla a su antojo la temperatura corporal y\ncongela las partículas de agua que flotan en el\naire para provocar ráfagas de nieve en polvo."
+      },
+      {
+        "game": "sm-m",
+        "text": "Al congelar su pelaje, este se eriza formando\ncarámbanos con los que ataca a su presa en\ncuanto la avista."
+      },
+      {
+        "game": "usum-us",
+        "text": "Congela su pelaje y lo convierte en afilados\npinchos para defenderse. Es capaz de reducir\nsu temperatura corporal hasta -60 ºC."
+      },
+      {
+        "game": "usum-um",
+        "text": "En un solo instante congela las partículas de\nagua a su alrededor y crea cristales de hielo\ncon los que ataca a su presa."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Desprende cristales de hielo. Sus presas\nse quedan congeladas sin darse cuenta,\nencandiladas por su belleza."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "El aire gélido que exhala crea una suerte de\ncristales de hielo que lo hace muy demandado\nen las estaciones de esquí."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Glaceon",
+    "genus": "Pokémon Nevefresca",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Modificando la temperatura del corpo, congela\nl’aria e crea folate di cristalli di ghiaccio."
+      },
+      {
+        "game": "xy-y",
+        "text": "Abbassa la temperatura del corpo per ghiacciare i\npropri peli e lanciarli come micidiali aghi sottilissimi."
+      },
+      {
+        "game": "oras-or",
+        "text": "Modificando la temperatura del corpo, congela l’aria e crea\nfolate di cristalli di ghiaccio."
+      },
+      {
+        "game": "oras-as",
+        "text": "Abbassa la temperatura del corpo per ghiacciare i propri peli\ne lanciarli come micidiali aghi sottilissimi."
+      },
+      {
+        "game": "sm-s",
+        "text": "Può congelare l’umidità dell’aria modificando la\nsua temperatura corporea e creare cristalli\ndi ghiaccio intorno a sé."
+      },
+      {
+        "game": "sm-m",
+        "text": "Congela la sua pelliccia creando tanti piccoli\nghiaccioli appuntiti, con cui poi attacca\nle sue prede."
+      },
+      {
+        "game": "usum-us",
+        "text": "Congela la sua pelliccia creando degli aghi\nacuminati per difendersi. La sua temperatura\ncorporea può scendere fino a -60 °C."
+      },
+      {
+        "game": "usum-um",
+        "text": "In un istante congela l’umidità circostante e crea\ngranelli di ghiaccio che scaglia sulla preda."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Crea dei meravigliosi cristalli di ghiaccio per\nammaliare le prede, che si ritrovano congelate\nsenza neanche rendersene conto."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "L’aria gelida emessa da Glaceon genera una\nneve molto sottile, perfetta per le piste da sci."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Glaceon",
+    "genus": "Fresh Snow Pokémon",
+    "flavorText": [
+      {
+        "game": "dp-d",
+        "text": "As a protective technique, it can\ncompletely freeze its fur to make\nits hairs stand like needles."
+      },
+      {
+        "game": "dp-p",
+        "text": "As a protective technique, it can\ncompletely freeze its fur to make\nits hairs stand like needles."
+      },
+      {
+        "game": "pt",
+        "text": "By controlling its body heat, it can\nfreeze the atmosphere around it\nto make a diamond-dust flurry."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "It causes small ice crystals to form by\nlowering the temperature of the\nsurrounding atmosphere."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "It causes small ice crystals to form by\nlowering the temperature of the\nsurrounding atmosphere."
+      },
+      {
+        "game": "bw-b",
+        "text": "By controlling its body heat, it can\nfreeze the atmosphere around it\nto make a diamond-dust flurry."
+      },
+      {
+        "game": "bw-w",
+        "text": "By controlling its body heat, it can\nfreeze the atmosphere around it\nto make a diamond-dust flurry."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "It lowers its body heat to freeze its\nfur. The hairs then become like needles\nit can fire."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "It lowers its body heat to freeze its\nfur. The hairs then become like needles\nit can fire."
+      },
+      {
+        "game": "xy-x",
+        "text": "By controlling its body heat, it can freeze the\natmosphere around it to make a\ndiamond-dust flurry."
+      },
+      {
+        "game": "xy-y",
+        "text": "It lowers its body heat to freeze its fur. The hairs\nthen become like needles it can fire."
+      },
+      {
+        "game": "oras-or",
+        "text": "By controlling its body heat, it can freeze the\natmosphere around it to make a\ndiamond-dust flurry."
+      },
+      {
+        "game": "oras-as",
+        "text": "It lowers its body heat to freeze its fur. The hairs\nthen become like needles it can fire."
+      },
+      {
+        "game": "sm-s",
+        "text": "It can control its body temperature at will.\nThis enables it to freeze the moisture in the\natmosphere, creating flurries of diamond dust."
+      },
+      {
+        "game": "sm-m",
+        "text": "It freezes its fur into icicles, spiky and sharp,\nand tackles its prey."
+      },
+      {
+        "game": "usum-us",
+        "text": "It protects itself by freezing its fur into sharp\nneedles. It can drop its body temperature below\n–75 degrees Fahrenheit."
+      },
+      {
+        "game": "usum-um",
+        "text": "It can instantaneously freeze any moisture\nthat’s around it, creating ice pellets to shoot at\nits prey."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Any who become captivated by the beauty of\nthe snowfall that Glaceon creates will be frozen\nbefore they know it."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "The coldness emanating from Glaceon causes\npowdery snow to form, making it quite a popular\nPokémon at ski resorts."
+      },
+      {
+        "game": "la",
+        "text": "Glaceon is able to lower its body temperature very quickly.\nIt freezes the atmosphere, creating diamond dust that glitters\nlike gems while it flutters and dances around."
+      }
+    ]
+  },
+  "chs": {
+    "name": "冰伊布",
+    "genus": "新雪宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "自由地控制体温，\n让大气中的水分冻结，\n卷起冰晶。"
+      },
+      {
+        "game": "sm-m",
+        "text": "把体毛冻得像锐利的冰柱\n那样尖之后，朝猎物冲撞过去。"
+      },
+      {
+        "game": "usum-us",
+        "text": "把体毛冻住，\n变成锐利的针来保护身体。\n体温最低可下降到零下６０度。"
+      },
+      {
+        "game": "usum-um",
+        "text": "能瞬间将周围的水分冻住，\n做成冰粒，朝着猎物发射出去。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "能够降下冰晶。\n被它的美貌迷住的猎物\n会在不知不觉间被冻住。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "冰伊布释放出的冷气能\n制造出粉状的雪。这使它受到\n各个滑雪场的热烈欢迎。"
+      }
+    ]
+  }
+}

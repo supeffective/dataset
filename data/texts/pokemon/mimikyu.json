@@ -1,0 +1,277 @@
+{
+  "jap": {
+    "name": "ミミッキュ",
+    "genus": "ばけのかわポケモン",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "しょうたいふめい。　ボロきれの\nなかみを　みた　とある　がくしゃは\nきょうふの　あまり　ショックしした。"
+      },
+      {
+        "game": "sm-m",
+        "text": "おそろしい　すがたを　ボロぬので\nかくし　ひとや　ほかの　ポケモンに\nちかづく　さみしがりや。"
+      },
+      {
+        "game": "usum-us",
+        "text": "おとなしい　さみしがりや　だけど\nボロきれの　なかみを　みようとすると\nはげしく　いやがり　ていこうする。"
+      },
+      {
+        "game": "usum-um",
+        "text": "かぜが　まって　ぐうぜん　なかみを\nみてしまった　トレーナーは　そのひの\nばんに　くるしみ　もがいて　しんだ。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "こわがられないように　ピカチュウに\nにせた　ボロぬのを　かぶっているが\nよけい　ぶきみに　なってしまった。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "けんきゅうのため　ボロぬのの　なかを\nみてしまった　がくしゃが　なぞの\nびょうきで　いのちを　おとした。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Mimikkyu",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "따라큐",
+    "genus": "탈포켓몬",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "정체불명. 누더기 속을 본\n어떤 학자는 공포에서\n헤어나오지 못하고 쇼크사했다."
+      },
+      {
+        "game": "sm-m",
+        "text": "무시무시한 모습을 누더기로 가리고\n사람이나 다른 포켓몬에게 다가가는\n외로움이 많은 포켓몬이다."
+      },
+      {
+        "game": "usum-us",
+        "text": "얌전하고 외로움을 잘 타지만,\n넝마 조각의 속을 보려고 하면\n격렬하게 싫어하며 저항한다."
+      },
+      {
+        "game": "usum-um",
+        "text": "바람이 불어서 우연히 속을\n봐 버린 트레이너는 그날 밤\n고통에 몸부림치다 죽었다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "겁을 주지 않기 위해 피카츄와\n닮은 누더기를 쓰고 있지만\n오히려 더 으스스해졌다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "연구를 위해 누더기 속을\n들여다본 학자가 알 수 없는\n병으로 목숨을 잃었다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "謎擬Ｑ",
+    "genus": "畫皮寶可夢",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "真面目是個謎。\n某個看過破布裡面的學者\n因為太可怕而被活活嚇死了。"
+      },
+      {
+        "game": "sm-m",
+        "text": "用破破爛爛的布隱藏起可怕的模樣，\n接近人類和其他寶可夢的寂寞傢伙。"
+      },
+      {
+        "game": "usum-us",
+        "text": "性情溫和且害怕寂寞，\n但如果有人試圖窺看破布裡面的樣子，\n牠就會非常厭惡地激烈反抗。"
+      },
+      {
+        "game": "usum-um",
+        "text": "因為風把布吹起來而偶然\n見到牠裡面模樣的訓練家，\n當天晚上會在痛苦掙扎中死去。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "為了讓別人不要害怕自己，\n特意穿上了看似皮卡丘的破布，\n結果卻變得更加令人毛骨悚然。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "有一位學者為了研究\n而看了牠的破布裡面，\n結果患上怪病而離開人世。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Mimiqui",
+    "genus": "Pokémon Fantômasque",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "Sa véritable apparence est inconnue. Les\nchercheurs qui ont vu sous son déguisement\nsont littéralement morts de peur."
+      },
+      {
+        "game": "sm-m",
+        "text": "Son apparence est si effrayante qu’il doit se\ndéguiser pour oser s’approcher des gens et\ndes autres Pokémon."
+      },
+      {
+        "game": "usum-us",
+        "text": "Ce Pokémon docile déteste la solitude, mais\nil oppose une résistance acharnée si l’on essaie\nde jeter un coup d’œil sous son déguisement."
+      },
+      {
+        "game": "usum-um",
+        "text": "Une bourrasque a un jour permis à un Dresseur\nde voir sous le déguisement de Mimiqui. Il est\nmort le soir même dans d’atroces souffrances."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Il se cache sous des guenilles en forme de Pikachu\npour avoir l’air moins effrayant, mais cela le rend\nencore plus inquiétant."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Les malheureux chercheurs qui ont regardé\nsous son déguisement en lambeaux ont succombé\nà une mystérieuse maladie."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Mimigma",
+    "genus": "Kostümspuk-Pokémon",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "Niemand weiß, wie es wirklich aussieht. Ein\nForscher, der unter seinen Lumpen blickte, soll\nsich buchstäblich zu Tode erschreckt haben."
+      },
+      {
+        "game": "sm-m",
+        "text": "Es versteckt seine schreckliche Gestalt unter\neinem Lumpen, um sich Menschen und anderen\nPokémon zu nähern. Oft fühlt es sich einsam."
+      },
+      {
+        "game": "usum-us",
+        "text": "Eigentlich ist es friedlich und sehnt sich nur\nnach Gesellschaft, doch versucht man, unter\nseinen Lumpen zu linsen, wehrt es sich heftig."
+      },
+      {
+        "game": "usum-um",
+        "text": "Ein Trainer, der durch einen Windstoß Mimigmas\nwahre Gestalt unter seinem Lumpen erblickte,\nstarb am selben Abend einen qualvollen Tod."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Es verbirgt sich unter einem Lumpen, der wie ein\nPikachu aussieht, damit niemand Angst vor ihm\nbekommt. Leider wird es dadurch noch gruseliger."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Alle Wissenschaftler, die zu Forschungszwecken\neinen Blick unter seinen Lumpen gewagt haben,\nsind an einer rätselhaften Krankheit gestorben."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Mimikyu",
+    "genus": "Pokémon Disfraz",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "Su verdadero aspecto es un misterio total. Un\ninvestigador que intentó mirar dentro del saco\nrecibió, literalmente, un susto de muerte."
+      },
+      {
+        "game": "sm-m",
+        "text": "El saco andrajoso le permite ocultar su aspecto\naterrador para acercarse a otros Pokémon o a la\ngente y vencer así la soledad que lo atenaza."
+      },
+      {
+        "game": "usum-us",
+        "text": "Es de carácter tranquilo y propenso a sentirse\nsolo. Odia que intenten mirar bajo su saco, y se\nresiste con todas sus fuerzas."
+      },
+      {
+        "game": "usum-um",
+        "text": "Al levantarse su saco a causa de un golpe de\nviento, un Entrenador vio su verdadera forma y\nmurió dolorosamente esa misma noche."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Se cubre con un saco andrajoso con aspecto de\nPikachu para no resultar tan aterrador, aunque\neste le confiere un aspecto aún más terrorífico."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Un investigador que miró dentro del saco para\nestudiar a este Pokémon perdió la vida a causa\nde una misteriosa enfermedad."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Mimikyu",
+    "genus": "Pokémon Fantasmanto",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "Nessuno conosce il suo vero aspetto.\nPare che uno studioso sia morto di paura dopo\naver guardato sotto il panno che lo nasconde."
+      },
+      {
+        "game": "sm-m",
+        "text": "Soffre molto la solitudine e per poter avvicinare\ngli esseri umani e gli altri Pokémon, cela il suo\ntremendo aspetto sotto a un panno."
+      },
+      {
+        "game": "usum-us",
+        "text": "È un Pokémon tranquillo che soffre di solitudine.\nSe qualcuno cerca di sbirciare sotto il panno che\nlo nasconde, si oppone con forza."
+      },
+      {
+        "game": "usum-um",
+        "text": "Un Allenatore che ha visto cosa si cela sotto\nil suo panno per una folata di vento è andato\nincontro a una morte dolorosa la sera stessa."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Per non spaventare gli altri, cela il suo aspetto\nsotto a un panno che imita le fattezze di Pikachu,\nma questo lo rende ancor più inquietante."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Uno scienziato che studiava questo Pokémon\nmorì di una misteriosa malattia dopo aver\nguardato sotto il suo panno."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Mimikyu",
+    "genus": "Disguise Pokémon",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "Its actual appearance is unknown. A scholar\nwho saw what was under its rag was\noverwhelmed by terror and died from the shock."
+      },
+      {
+        "game": "sm-m",
+        "text": "A lonely Pokémon, it conceals its terrifying\nappearance beneath an old rag so it can get\ncloser to people and other Pokémon."
+      },
+      {
+        "game": "usum-us",
+        "text": "Although it’s a quiet, lonely Pokémon, if you try\nto look at what’s under its rag, it will become\nagitated and resist violently."
+      },
+      {
+        "game": "usum-um",
+        "text": "A gust of wind revealed what hides under this\nPokémon’s rag to a passing Trainer, who went\nhome and died painfully that very night."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "It wears a rag fashioned into a Pikachu costume\nin an effort to look less scary. Unfortunately,\nthe costume only makes it creepier."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "There was a scientist who peeked under\nMimikyu’s old rag in the name of research.\nThe scientist died of a mysterious disease."
+      }
+    ]
+  },
+  "chs": {
+    "name": "谜拟丘",
+    "genus": "画皮宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "正身不明。\n某位学者看过破布里面后，\n因为太过恐惧而被惊吓致死。"
+      },
+      {
+        "game": "sm-m",
+        "text": "这个怕寂寞的家伙，\n会用破布隐藏自己可怕的样子\n来接近人和其他宝可梦。"
+      },
+      {
+        "game": "usum-us",
+        "text": "稳重又怕寂寞，\n但如果想要看它的破布里面，\n就会非常厌恶，激烈反抗。"
+      },
+      {
+        "game": "usum-um",
+        "text": "因为风吹起而偶然见到\n它里面的训练家，\n会在当天晚上痛苦地挣扎着死去。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "为了让别人不要害怕自己，\n特意穿上了看似皮卡丘的破布，\n结果却变得更加令人毛骨悚然。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "有一位学者为了研究\n而看了它的破布里面，\n结果患上怪病而离开人世。"
+      }
+    ]
+  }
+}

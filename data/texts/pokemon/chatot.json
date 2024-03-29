@@ -1,0 +1,219 @@
+{
+  "jap": {
+    "name": "ペラップ",
+    "genus": "おんぷポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "あいてと　おなじ　なきごえを　だす\nことで　なかまと　おもいこませて\nおそわれない　ように　しているのだ。"
+      },
+      {
+        "game": "xy-y",
+        "text": "ひとの　ことばを　おぼえて　なく。\nなかまが　いっかしょに　あつまると\nみんな　おなじ　ことばを　おぼえる。"
+      },
+      {
+        "game": "oras-or",
+        "text": "あいてと　おなじ　なきごえを　だす\nことで　なかまと　おもいこませて\nおそわれない　ように　しているのだ。"
+      },
+      {
+        "game": "oras-as",
+        "text": "ひとの　ことばを　おぼえて　なく。\nなかまが　いっかしょに　あつまると\nみんな　おなじ　ことばを　おぼえる。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Perap",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "페라페",
+    "genus": "음표포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "상대와 같은 울음소리를 내서\n동료라고 굳게 믿게 하여\n습격당하지 않도록 하고 있다."
+      },
+      {
+        "game": "xy-y",
+        "text": "사람의 말을 기억해서 운다.\n동료가 한 장소에 모이면\n모두 똑같은 말을 기억한다."
+      },
+      {
+        "game": "oras-or",
+        "text": "상대와 같은 울음소리를 내서\n동료라고 굳게 믿게 하여\n습격당하지 않도록 하고 있다."
+      },
+      {
+        "game": "oras-as",
+        "text": "사람의 말을 기억해서 운다.\n동료가 한 장소에 모이면\n모두 똑같은 말을 기억한다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "聒噪鳥",
+    "genus": "音符寶可夢",
+    "flavorText": []
+  },
+  "fra": {
+    "name": "Pijako",
+    "genus": "Pokémon Note Musique",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Sa langue comparable à celle\nde l’homme lui permet d’imiter\nhabilement le langage humain."
+      },
+      {
+        "game": "bw-w",
+        "text": "Sa langue comparable à celle\nde l’homme lui permet d’imiter\nhabilement le langage humain."
+      },
+      {
+        "game": "xy-x",
+        "text": "Il reproduit le cri de ses ennemis pour faire croire\nqu’il est des leurs et éviter d’être attaqué."
+      },
+      {
+        "game": "xy-y",
+        "text": "On peut lui enseigner quelques mots. S’il s’agit\nd’un groupe, ils retiendront les mêmes phrases."
+      },
+      {
+        "game": "oras-or",
+        "text": "Il reproduit le cri de ses ennemis pour faire croire qu’il est\ndes leurs et éviter d’être attaqué."
+      },
+      {
+        "game": "oras-as",
+        "text": "On peut lui enseigner quelques mots. S’il s’agit d’un groupe,\nils retiendront les mêmes phrases."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Plaudagei",
+    "genus": "Musiknote",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Es versucht Attacken zu entgehen, indem es den Ruf\ndes Gegners nachahmt und einen Artgenossen mimt."
+      },
+      {
+        "game": "xy-y",
+        "text": "Es kann die menschliche Sprache nachahmen.\nVersammeln sie sich, bringen sich alle dasselbe bei."
+      },
+      {
+        "game": "oras-or",
+        "text": "Es versucht Attacken zu entgehen, indem es den Ruf des\nGegners nachahmt und einen Artgenossen mimt."
+      },
+      {
+        "game": "oras-as",
+        "text": "Es kann die menschliche Sprache nachahmen.\nVersammeln sie sich, bringen sich alle dasselbe bei."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Chatot",
+    "genus": "Pokémon Corchea",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Imita los sonidos de sus rivales, haciéndoles creer que\nson amigos e impidiendo que le ataquen."
+      },
+      {
+        "game": "xy-y",
+        "text": "Puede imitar el lenguaje humano. Si se juntan\nvarios, todos aprenden las mismas palabras."
+      },
+      {
+        "game": "oras-or",
+        "text": "Imita los sonidos de sus rivales, haciéndoles creer que son\namigos e impidiendo que le ataquen."
+      },
+      {
+        "game": "oras-as",
+        "text": "Puede imitar el lenguaje humano. Si se juntan varios, todos\naprenden las mismas palabras."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Chatot",
+    "genus": "Pokémon Musicale",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Imita la voce dei nemici per far credere che è dei\nloro, evitando così di essere assalito."
+      },
+      {
+        "game": "xy-y",
+        "text": "Può imparare il linguaggio umano. Se un gruppo si\nraduna, tutti imparano le stesse parole."
+      },
+      {
+        "game": "oras-or",
+        "text": "Imita la voce dei nemici per far credere che è dei loro,\nevitando così di essere assalito."
+      },
+      {
+        "game": "oras-as",
+        "text": "Può imparare il linguaggio umano. Se un gruppo si raduna,\ntutti imparano le stesse parole."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Chatot",
+    "genus": "Music Note Pokémon",
+    "flavorText": [
+      {
+        "game": "dp-d",
+        "text": "It can learn and speak human\nwords. If they gather, they all\nlearn the same saying."
+      },
+      {
+        "game": "dp-p",
+        "text": "It keeps rhythm by flicking its\ntail feathers like a metronome.\nIt imitates human speech."
+      },
+      {
+        "game": "pt",
+        "text": "Its tongue is just like a human’s.\nAs a result, it can cleverly mimic\nhuman speech."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "It mimics the cries of other Pokémon to\ntrick them into thinking it’s one of them.\nThis way they won’t attack it."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "It mimics the cries of other Pokémon to\ntrick them into thinking it’s one of them.\nThis way they won’t attack it."
+      },
+      {
+        "game": "bw-b",
+        "text": "Its tongue is just like a human’s.\nAs a result, it can cleverly mimic\nhuman speech."
+      },
+      {
+        "game": "bw-w",
+        "text": "Its tongue is just like a human’s.\nAs a result, it can cleverly mimic\nhuman speech."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "Its tongue is just like a human’s.\nAs a result, it can cleverly mimic\nhuman speech."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "Its tongue is just like a human’s.\nAs a result, it can cleverly mimic\nhuman speech."
+      },
+      {
+        "game": "xy-x",
+        "text": "It mimics the cries of other Pokémon to trick them\ninto thinking it’s one of them. This way they won’t\nattack it."
+      },
+      {
+        "game": "xy-y",
+        "text": "It can learn and speak human words. If they gather,\nthey all learn the same saying."
+      },
+      {
+        "game": "oras-or",
+        "text": "It mimics the cries of other Pokémon to trick them\ninto thinking it’s one of them. This way they won’t\nattack it."
+      },
+      {
+        "game": "oras-as",
+        "text": "It can learn and speak human words. If they gather,\nthey all learn the same saying."
+      },
+      {
+        "game": "la",
+        "text": "A versatile performer skilled in the imitation of human speech.\nIt is said that older, more experienced Chatot can even\nunderstand the meaning of the words they mimic."
+      }
+    ]
+  },
+  "chs": {
+    "name": "聒噪鸟",
+    "genus": "音符宝可梦",
+    "flavorText": []
+  }
+}

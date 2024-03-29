@@ -1,0 +1,309 @@
+{
+  "jap": {
+    "name": "カクレオン",
+    "genus": "いろへんげポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "からだの　いろを　じゆうに　かえる\nのうりょくを　もつ。おなかにある\nギザギザもよう　だけは　かわらない。"
+      },
+      {
+        "game": "xy-y",
+        "text": "からだの　いろを　かえて　けしきに\nとけこみ　えものに　しのびよる。\nおなかの　もようは　けせないのだ。"
+      },
+      {
+        "game": "oras-or",
+        "text": "からだの　いろを　じざいに　かえる　ことで\nまわりの　けしきに　とけこむ　ことが　できる。\nおなかの　ギザギザもよう　だけは　かえられない。"
+      },
+      {
+        "game": "oras-as",
+        "text": "からだを　けしきと　おなじ　いろに　かえて\nえものに　きづかれない　ように　しのびよる。\nながく　のびる　ベロで　すばやく　つかまえる。"
+      },
+      {
+        "game": "usum-us",
+        "text": "からだの　いろを　かえて　けしきに\nとけこむ。　ながく　かまわないでいると\nスネて　すがたを　みせなくなる。"
+      },
+      {
+        "game": "usum-um",
+        "text": "かくれるとき　いがいにも　きぶんや\nちょうしで　からだのいろが　かわる。\nいろが　こいときほど　げんきだぞ。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Kakureon",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "켈리몬",
+    "genus": "색변화포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "몸의 색을 자유롭게 바꾸는\n능력을 가지고 있다. 배에 있는\n톱니무늬만은 바뀌지 않는다."
+      },
+      {
+        "game": "xy-y",
+        "text": "몸의 색을 바꿔 풍경에\n녹아들어 먹이에게 다가간다.\n배의 모양은 지울 수 없다."
+      },
+      {
+        "game": "oras-or",
+        "text": "몸의 색을 자유로이 바꿔서\n주변의 경치에 녹아들 수 있다.\n배의 삐쭉삐쭉한 무늬만은 바꿀 수 없다."
+      },
+      {
+        "game": "oras-as",
+        "text": "몸을 경치와 같은 색으로 바꿔\n먹이에게 들키지 않고 살며시 다가간다.\n길게 늘어나는 혓바닥으로 빠르게 잡는다."
+      },
+      {
+        "game": "usum-us",
+        "text": "몸의 색을 바꿔 경치에 녹아든다.\n오랫동안 방치하면 토라져서\n모습을 볼 수 없게 된다."
+      },
+      {
+        "game": "usum-um",
+        "text": "숨을 때 말고도 기분이나\n컨디션에 따라 몸의 색이 바뀐다.\n색이 진할수록 건강하다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "變隱龍",
+    "genus": "變色寶可夢",
+    "flavorText": [
+      {
+        "game": "usum-us",
+        "text": "能改變體色，融入周圍的景色中。\n如果長時間不去理會牠，\n牠就會鬧彆扭而不肯現身。"
+      },
+      {
+        "game": "usum-um",
+        "text": "就算是在不需要隱身的時候，\n體色也會隨心情和身體狀態而改變。\n顏色越濃代表牠越有活力。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Kecleon",
+    "genus": "Pokémon Multicolor",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Il change de couleur à volonté,\nmais le motif en zigzag qui orne\nson ventre reste le même."
+      },
+      {
+        "game": "bw-w",
+        "text": "Il change de couleur à volonté,\nmais le motif en zigzag qui orne\nson ventre reste le même."
+      },
+      {
+        "game": "xy-x",
+        "text": "Il change de couleur à volonté, mais le motif en\nzigzag qui orne son ventre reste le même."
+      },
+      {
+        "game": "xy-y",
+        "text": "Il se fond dans son environnement en changeant de\ncouleur, mais le motif sur son ventre reste le même."
+      },
+      {
+        "game": "oras-or",
+        "text": "Kecleon est capable de modifier les couleurs de son corps\npour se fondre dans son environnement. Il y a cependant\nune exception : ce Pokémon ne peut pas modifier la figure\ngéométrique en zigzag sur son ventre."
+      },
+      {
+        "game": "oras-as",
+        "text": "Kecleon change la couleur de son corps pour se fondre\ndans son environnement, ce qui lui permet de s’approcher\nde sa proie sans être repéré. Il envoie ensuite sa grande\nlangue élastique pour piéger sa proie qui ne se doute de rien."
+      },
+      {
+        "game": "usum-us",
+        "text": "Il change de couleur pour se camoufler, mais si\non cesse de lui prêter attention pendant trop\nlongtemps, il se vexe et ne se montre plus..."
+      },
+      {
+        "game": "usum-um",
+        "text": "Sa couleur change quand il se cache, mais varie\naussi selon son humeur et son état de santé :\nplus il est en forme, plus sa couleur est vive."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Kecleon",
+    "genus": "Farbenspiel",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Es kann nach Belieben seine Farbe ändern. Nur das\ngezackte Muster auf seinem Bauch bleibt gleich."
+      },
+      {
+        "game": "xy-y",
+        "text": "Beim Beutefang passt es seine Farbe der Umgebung\nan. Nur das Muster auf seinem Bauch bleibt gleich."
+      },
+      {
+        "game": "oras-or",
+        "text": "Kecleon kann die Farbe seines Körpers bei Bedarf verändern,\num sich seiner Umgebung anzupassen. Es gibt allerdings eine\nAusnahme: Das Zickzackmuster auf seinem Bauch kann es\nnicht verändern."
+      },
+      {
+        "game": "oras-as",
+        "text": "Kecleon verändert seine Körperfärbung, um sich seiner\nUmgebung anzupassen. Dadurch kann es sich prima an\nseine ahnungslose Beute anschleichen. Es schlägt mit\nseiner dehnbaren, langen Zunge aus und fängt sie."
+      },
+      {
+        "game": "usum-us",
+        "text": "Es kann mit der Umgebung verschmelzen, indem\nes seine Farbe ändert. Wenn man es längere Zeit\nignoriert, macht es sich schmollend unsichtbar."
+      },
+      {
+        "game": "usum-um",
+        "text": "Seine Färbung ändert sich nicht nur zur Tarnung,\nsondern auch je nach Laune und Verfassung. Je\nkräftiger seine Farben sind, desto vitaler ist es."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Kecleon",
+    "genus": "Pokémon Camaleónico",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Puede mudar el color de su cuerpo a voluntad, pero el\ndibujo en zigzag de su panza nunca desaparece."
+      },
+      {
+        "game": "xy-y",
+        "text": "Acecha a sus presas adaptando sus colores a los del\npaisaje, pero los dibujos de su panza nunca cambian."
+      },
+      {
+        "game": "oras-or",
+        "text": "Kecleon puede alterar la pigmentación de la piel para\nmezclarse con su entorno. Lo único que no es capaz de\ncambiar es el trazado en zigzag que tiene en la panza."
+      },
+      {
+        "game": "oras-as",
+        "text": "Kecleon modifica la coloración de la piel para camuflarse en el\nmedio en el que esté. Así, puede acercarse a hurtadillas a su\nenemigo sin que se dé cuenta y lanzarle la larga y elástica\nlengua que tiene para atraparlo por sorpresa."
+      },
+      {
+        "game": "usum-us",
+        "text": "Cambia de color para fundirse con el paisaje,\npero, si pasa desapercibido demasiado tiempo,\nse enfurruña y no vuelve a hacerse visible."
+      },
+      {
+        "game": "usum-um",
+        "text": "Incluso cuando no se está mimetizando, el color\nde su cuerpo cambia según cómo se encuentre.\nUn color más intenso indica mayor vitalidad."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Kecleon",
+    "genus": "Pokémon Mutacolore",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Può mutare il colore del corpo a piacimento.\nTuttavia, il motivo a zigzag sul ventre non cambia."
+      },
+      {
+        "game": "xy-y",
+        "text": "Cambia colore per mimetizzarsi e sorprendere la\npreda. Il disegno sulla pancia rimane sempre visibile."
+      },
+      {
+        "game": "oras-or",
+        "text": "Kecleon è in grado di mutare il colore del proprio corpo per\nmimetizzarsi con l’ambiente circostante.\nTuttavia, fa eccezione il motivo zigzagato sulla pancia,\nche rimane sempre visibile."
+      },
+      {
+        "game": "oras-as",
+        "text": "Kecleon varia la colorazione del proprio corpo per mimetizzarsi\ncon l’ambiente circostante, consentendogli di tendere un\nagguato alla preda senza farsi notare. Poi l’attacca con la sua\nlingua elastica sopraffacendola."
+      },
+      {
+        "game": "usum-us",
+        "text": "Si mimetizza con l’ambiente mutando il colore\ndel proprio corpo. Se lo si ignora, si imbroncia\ne non si fa più vedere."
+      },
+      {
+        "game": "usum-um",
+        "text": "Cambia colore non solo per mimetizzarsi ma\nanche in base all’umore e allo stato di salute.\nPiù il suo colore è intenso, più è in forze."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Kecleon",
+    "genus": "Color Swap Pokémon",
+    "flavorText": [
+      {
+        "game": "frlg-lg",
+        "text": "It changes body color to blend in with\nits surroundings. It also changes color if\nit is happy or sad."
+      },
+      {
+        "game": "rs-r",
+        "text": "KECLEON is capable of changing its body\ncolors at will to blend in with its\nsurroundings.\fThere is one exception - this POKéMON\ncan’t change the zigzag pattern on its\nbelly."
+      },
+      {
+        "game": "rs-s",
+        "text": "KECLEON alters its body coloration to\nblend in with its surroundings, allowing\nit to sneak up on its prey unnoticed.\fThen it lashes out with its long,\nstretchy tongue to instantly ensnare\nthe unsuspecting target."
+      },
+      {
+        "game": "e",
+        "text": "A POKéMON that has the ability to alter its\nbody colors to match its surroundings.\nA KECLEON reverts to its original colors if\nit is startled."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "It changes body color to blend in with\nits surroundings. It also changes color if\nit is happy or sad."
+      },
+      {
+        "game": "dp-d",
+        "text": "It can freely change its body’s\ncolor. The zigzag pattern on its\nbelly doesn’t change, however."
+      },
+      {
+        "game": "dp-p",
+        "text": "It can freely change its body’s\ncolor. The zigzag pattern on its\nbelly doesn’t change, however."
+      },
+      {
+        "game": "pt",
+        "text": "It can freely change its body’s\ncolor. The zigzag pattern on its\nbelly doesn’t change, however."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "It changes its shading to match its\nsurroundings so it can sneak up on prey.\nOnly its belly patterns stay fixed."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "It changes its shading to match its\nsurroundings so it can sneak up on prey.\nOnly its belly patterns stay fixed."
+      },
+      {
+        "game": "bw-b",
+        "text": "It can freely change its body’s\ncolor. The zigzag pattern on its\nbelly doesn’t change, however."
+      },
+      {
+        "game": "bw-w",
+        "text": "It can freely change its body’s\ncolor. The zigzag pattern on its\nbelly doesn’t change, however."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "It can freely change its body’s\ncolor. The zigzag pattern on its\nbelly doesn’t change, however."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "It can freely change its body’s\ncolor. The zigzag pattern on its\nbelly doesn’t change, however."
+      },
+      {
+        "game": "xy-x",
+        "text": "It can freely change its body’s color. The zigzag\npattern on its belly doesn’t change, however."
+      },
+      {
+        "game": "xy-y",
+        "text": "It changes its shading to match its surroundings\nso it can sneak up on prey. Only its belly patterns\nstay fixed."
+      },
+      {
+        "game": "oras-or",
+        "text": "Kecleon is capable of changing its body colors at will to blend\nin with its surroundings. There is one exception—this Pokémon\ncan’t change the zigzag pattern on its belly."
+      },
+      {
+        "game": "oras-as",
+        "text": "Kecleon alters its body coloration to blend in with its\nsurroundings, allowing it to sneak up on its prey unnoticed.\nThen it lashes out with its long, stretchy tongue to instantly\nensnare the unsuspecting target."
+      },
+      {
+        "game": "usum-us",
+        "text": "It changes its hue to blend into its surroundings.\nIf no one takes notice of it for too long, it will\npout and never reveal itself."
+      },
+      {
+        "game": "usum-um",
+        "text": "Its color changes for concealment and also\nwhen its mood or health changes. The darker\nthe color, the healthier it is."
+      }
+    ]
+  },
+  "chs": {
+    "name": "变隐龙",
+    "genus": "变色宝可梦",
+    "flavorText": [
+      {
+        "game": "usum-us",
+        "text": "能改变身体的颜色，融入周围景色中。\n如果长时间不管它，就会闹别扭不现身。"
+      },
+      {
+        "game": "usum-um",
+        "text": "在不隐身的时候，身体的颜色\n也会随着心情和状态改变。\n颜色越浓的时候越有精神。"
+      }
+    ]
+  }
+}

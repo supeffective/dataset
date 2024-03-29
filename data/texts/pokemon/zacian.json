@@ -1,0 +1,133 @@
+{
+  "jap": {
+    "name": "ザシアン",
+    "genus": "つわものポケモン",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "でんせつの　えいゆうと　よばれる\nポケモン。　きんぞくを　とりこみ\nぶぐに　へんかさせ　たたかう。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "ながい　ねむりに　ついていた\nザマゼンタの　あね　とも\nライバルとも　いわれる　ポケモン。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Zacian",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "자시안",
+    "genus": "강자포켓몬",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "전설의 영웅이라고 불리는\n포켓몬. 금속을 흡수한 뒤\n무기로 변화시켜서 싸운다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "오랜 세월 잠들어 있던\n자마젠타의 형제자매 또는\n라이벌로 불리는 포켓몬이다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "蒼響",
+    "genus": "強者寶可夢",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "被稱為傳說中的英雄。\n能夠吸收金屬，將之\n轉化為武器來戰鬥。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "這隻寶可夢被認為是沉睡已久的\n藏瑪然特的姐姐，也有人\n認為牠們之間是勁敵關係。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Zacian",
+    "genus": "Pokémon Valeureux",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Également surnommé « héros légendaire »,\nce Pokémon absorbe du métal et se change\nen arme pour se battre."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "On dit qu’il s’agit de la figure fraternelle\net du rival de Zamazenta, un Pokémon plongé\ndans un long sommeil."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Zacian",
+    "genus": "Krieger-Pokémon",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Dieses Pokémon gilt als legendärer Held.\nEs nimmt Metall auf, wandelt dies in eine Waffe\num und kämpft damit."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Man sagt, es sei wie ein älteres Geschwisterteil,\naber auch wie ein Rivale zu Zamazenta, welches\nin einen langen Schlaf gefallen war."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Zacian",
+    "genus": "Pokémon Guerrero",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Este Pokémon está considerado como un héroe\nde leyenda. Absorbe el metal para transformarlo\ny emplearlo como armamento."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Hay quien lo considera una suerte de figura\nfraterna a la par que rival de Zamazenta,\nun Pokémon sumido en un profundo letargo."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Zacian",
+    "genus": "Pokémon Guerriero",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "È conosciuto come “l’eroe della leggenda”.\nAssorbe il metallo e lo trasforma per armarsi\ndurante la lotta."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Viene considerato una figura fraterna e allo\nstesso tempo un rivale per Zamazenta,\nun Pokémon rimasto a lungo addormentato."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Zacian",
+    "genus": "Warrior Pokémon",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Known as a legendary hero, this Pokémon\nabsorbs metal particles, transforming them\ninto a weapon it uses to battle."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "This Pokémon has slumbered for many years.\nSome say it’s Zamazenta’s elder sister—others\nsay the two Pokémon are rivals."
+      }
+    ]
+  },
+  "chs": {
+    "name": "苍响",
+    "genus": "强者宝可梦",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "被称为传说中的英雄。\n能够吸收金属，将之\n转化为武器来战斗。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "这只宝可梦被认为是沉睡已久的\n藏玛然特的姐姐，也有人\n认为它们之间是劲敌关系。"
+      }
+    ]
+  }
+}

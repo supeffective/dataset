@@ -1,0 +1,133 @@
+{
+  "jap": {
+    "name": "カジリガメ",
+    "genus": "かみつきポケモン",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "きょうぼうな　せいしつ。　てつぼうを\nかみちぎる　ほどの　アゴの　ちからで\nえものに　ばくりと　かみつく。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "くびが　のびちぢみする。　はなれた\nところから　くびを　いっきに　のばし\nするどい　キバで　てきを　しとめる。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Kajirigame",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "갈가부기",
+    "genus": "물어뜯기포켓몬",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "흉포한 성질을 가졌다. 철봉을\n물어뜯어 버릴 정도의 턱 힘으로\n먹이를 덥석 물어버린다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "목을 자유자재로 늘이고 줄인다.\n떨어져 있는 곳에서 목을 단번에 늘여\n날카로운 이빨로 적의 숨통을 끊는다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "暴噬龜",
+    "genus": "緊咬寶可夢",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "性情凶暴的寶可夢。\n會用能咬斷鐵棍的顎部\n大口咬住獵物。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "頸部可以伸縮。\n能從遠處迅速伸長頸部，\n用銳利的牙齒解決對手。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Torgamord",
+    "genus": "Pokémon Morsure",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "De nature très violente, il mord fermement\nses proies avec sa mâchoire, assez puissante\npour broyer une barre de fer."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Son cou extensible lui permet d’atteindre\ndes ennemis éloignés en un instant pour leur\nporter un coup décisif avec ses crocs aiguisés."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Kamalm",
+    "genus": "Biss-Pokémon",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Dieses von Natur aus aggressive Pokémon beißt\nseine Beute mit seinem kräftigen Kiefer, der\nselbst Eisenstangen zermalmen kann."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Sein streckbarer Hals ermöglicht es ihm, auch\nentfernte Gegner zu erreichen, die es dann mit\nseinen scharfen Zähnen ausschaltet."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Drednaw",
+    "genus": "Pokémon Mordisco",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Un Pokémon de temperamento feroz que\natenaza a su presa con sus fuertes mandíbulas,\ncapaces de destrozar una barra de hierro."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Su cuello extensible le permite alcanzar a los\nrivales a distancia. Hundiendo sus afilados\ndientes, les da el golpe de gracia."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Drednaw",
+    "genus": "Pokémon Morso",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Ha una natura estremamente feroce e addenta\nle prede con la sua mascella, così potente da\npoter sbriciolare sbarre di ferro."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Ha un collo retrattile. Tenendosi a distanza dal\nnemico, lo estende all’improvviso per dare\nil colpo di grazia con i denti aguzzi."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Drednaw",
+    "genus": "Bite Pokémon",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "With jaws that can shear through steel rods,\nthis highly aggressive Pokémon chomps down\non its unfortunate prey."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "This Pokémon rapidly extends its retractable neck\nto sink its sharp fangs into distant enemies and\ntake them down."
+      }
+    ]
+  },
+  "chs": {
+    "name": "暴噬龟",
+    "genus": "紧咬宝可梦",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "性格凶暴的宝可梦。\n会用能咬断铁棍的颚部\n大口咬住猎物。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "颈部可以伸缩。\n能从远处迅速伸长颈部，\n用锐利的牙齿解决对手。"
+      }
+    ]
+  }
+}

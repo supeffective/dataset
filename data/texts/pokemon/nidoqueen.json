@@ -1,0 +1,405 @@
+{
+  "jap": {
+    "name": "ニドクイン",
+    "genus": "ドリルポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "ウロコで　おおわれた　がんじょうな\nからだで　すあなの　いりぐちをふさぎ\nてきから　こどもたちを　まもる。"
+      },
+      {
+        "game": "xy-y",
+        "text": "かたくて　はりのような　ウロコが\nからだを　おおっている。\nこうふんすると　はりが　さかだつ。"
+      },
+      {
+        "game": "oras-or",
+        "text": "かたい　ウロコで　おおわれた　からだを　ぶつけて\nあいてを　はじきとばす　こうげきが　とくいだ。\nこどもを　まもる　ときが　いちばん　つよい。"
+      },
+      {
+        "game": "oras-as",
+        "text": "かたい　ウロコで　おおわれた　からだを　ぶつけて\nあいてを　はじきとばす　こうげきが　とくいだ。\nこどもを　まもる　ときが　いちばん　つよい。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "かたい　ウロコに　おおわれた\nがんじょうな　からだの　もちぬし。\nウロコは　はえかわるらしい。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "かたい　ウロコに　おおわれた\nがんじょうな　からだの　もちぬし。\nウロコは　はえかわるらしい。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "せめるよりも　まもるほうが　とくい。\nよろいのような　ウロコで　いかなる\nこうげきからも　こどもを　まもる。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "せなかの　トゲの　すきまに　こどもを\nのせて　あやす。　そのときに　どくが\nでることは　けっして　ないのだ。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Nidoqueen",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "니드퀸",
+    "genus": "드릴포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "비늘로 뒤덮인 튼튼한\n몸으로 둥지의 입구를 막아\n상대로부터 새끼들을 지킨다."
+      },
+      {
+        "game": "xy-y",
+        "text": "단단하고 바늘 같은 비늘이\n몸을 뒤덮고 있다.\n흥분하면 바늘이 곤두선다."
+      },
+      {
+        "game": "oras-or",
+        "text": "단단한 비늘로 뒤덮인 몸을 부딪쳐서\n상대를 튕겨내는 공격이 특기다.\n자식을 지킬 때 가장 강하다."
+      },
+      {
+        "game": "oras-as",
+        "text": "단단한 비늘로 뒤덮인 몸을 부딪쳐서\n상대를 튕겨내는 공격이 특기다.\n자식을 지킬 때 가장 강하다."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "단단한 비늘에 뒤덮인\n튼튼한 몸의 소유자.\n비늘은 다시 자라는 것 같다."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "단단한 비늘에 뒤덮인\n튼튼한 몸의 소유자.\n비늘은 다시 자라는 것 같다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "공격보다는 방어가 특기다.\n갑옷 같은 비늘로 어떠한\n공격에도 새끼를 지킨다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "등의 가시 틈에 새끼를\n태우고 달랜다. 이때는 독이\n절대 나오지 않는다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "尼多后",
+    "genus": "鑽錐寶可夢",
+    "flavorText": [
+      {
+        "game": "lgpe-lgp",
+        "text": "堅硬的鱗片包裹著牠\n強壯的身體。這些鱗片\n似乎會不斷生長替換。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "堅硬的鱗片包裹著牠\n強壯的身體。這些鱗片\n似乎會不斷生長替換。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "比起攻擊更擅於防守。\n會用像鎧甲般的堅硬鱗片\n保護孩子不被任何攻擊傷害。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "會把孩子放在背上的\n刺與刺之間來哄牠們。\n這時候絕對不會釋放毒素。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Nidoqueen",
+    "genus": "Pokémon Perceur",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Son corps est recouvert d’écailles\nsolides. Il donnera sa vie pour\nsecourir les petits de son terrier."
+      },
+      {
+        "game": "bw-w",
+        "text": "Son corps est recouvert d’écailles\nsolides. Il donnera sa vie pour\nsecourir les petits de son terrier."
+      },
+      {
+        "game": "xy-x",
+        "text": "Il se sert de son corps lourdement protégé pour\nempêcher les prédateurs d’accéder à son nid."
+      },
+      {
+        "game": "xy-y",
+        "text": "Son corps est recouvert d’écailles en forme de\npointes. Quand ce Pokémon s’énerve, ses pointes\nse dressent de façon menaçante."
+      },
+      {
+        "game": "oras-or",
+        "text": "Le corps de Nidoqueen est protégé par des écailles\nextrêmement dures. Il aime envoyer ses ennemis voler en leur\nfonçant dessus. Ce Pokémon utilise toute sa puissance\nlorsqu’il protège ses petits."
+      },
+      {
+        "game": "oras-as",
+        "text": "Le corps de Nidoqueen est protégé par des écailles\nextrêmement dures. Il aime envoyer ses ennemis voler en leur\nfonçant dessus. Ce Pokémon utilise toute sa puissance\nlorsqu’il protège ses petits."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Son corps musclé est recouvert de dures écailles.\nOn dit qu’elles peuvent repousser."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Son corps musclé est recouvert de dures écailles.\nOn dit qu’elles peuvent repousser."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Il est plus doué pour se défendre que pour\nattaquer. Grâce à son blindage d’écailles,\nil protège ses petits de toute agression."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Ce Pokémon calme les petits de son espèce\nen les plaçant entre ses épines dorsales.\nDans ce cas, elles ne libèrent pas de poison."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Nidoqueen",
+    "genus": "Bohrer-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Es benutzt seinen schuppigen Körper, um den\nHöhleneingang als Schutz für seine Jungen zu sperren."
+      },
+      {
+        "game": "xy-y",
+        "text": "Sein Körper ist mit massiven, nadelartigen\nSchuppen überzogen. Wenn es erregt ist,\nschießen die Nadeln hervor."
+      },
+      {
+        "game": "oras-or",
+        "text": "Nidoqueens Körper ist mit sehr harten Schuppen bedeckt.\nEs ist sehr geschickt darin, Gegner mit starken Attacken\nwegzuschleudern. Dieses Pokémon entwickelt am meisten\nKraft, wenn es seine Jungen verteidigt."
+      },
+      {
+        "game": "oras-as",
+        "text": "Nidoqueens Körper ist mit sehr harten Schuppen bedeckt.\nEs ist sehr geschickt darin, Gegner mit harten Attacken\nwegzuschleudern. Dieses Pokémon entwickelt die größte Kraft,\nwenn es seine Jungen verteidigt."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Nidoqueen besitzt einen robusten Körper,\nder von harten Schuppen bedeckt ist. Diese\nscheinen immer wieder nachzuwachsen."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Nidoqueen besitzt einen robusten Körper,\nder von harten Schuppen bedeckt ist. Diese\nscheinen immer wieder nachzuwachsen."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Sie sind eher defensiv als offensiv veranlagt.\nMit ihren panzerartigen Schuppen schützen sie\nihre Jungen vor jeglichen Angriffen."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Es beruhigt seine Jungen, indem es diese\nzwischen den Stacheln auf seinem Rücken reiten\nlässt. Die Stacheln sondern derweil kein Gift ab."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Nidoqueen",
+    "genus": "Pokémon Taladro",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Usa su cuerpo duro y escamoso para sellar la entrada\na su madriguera y protegerse de los depredadores."
+      },
+      {
+        "game": "xy-y",
+        "text": "Tiene el cuerpo recubierto de escamas duras y\ncortantes. Cuando se inquieta, las usa para\ndefenderse."
+      },
+      {
+        "game": "oras-or",
+        "text": "Nidoqueen tiene el cuerpo totalmente recubierto de escamas\ndurísimas. Suele lanzar por los aires a sus rivales de los\nviolentos golpes que les propina. Cuando se trata de\ndefender a sus crías, alcanza su nivel máximo de fuerza."
+      },
+      {
+        "game": "oras-as",
+        "text": "Nidoqueen tiene el cuerpo totalmente recubierto de escamas\ndurísimas. Suele lanzar por los aires a sus rivales de los\nviolentos golpes que les propina. Cuando se trata de\ndefender a sus crías, alcanza su nivel máximo de fuerza."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Su robusto cuerpo está recubierto de escamas\ndurísimas que se renuevan constantemente."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Su robusto cuerpo está recubierto de escamas\ndurísimas que se renuevan constantemente."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Su defensa destaca sobre la capacidad ofensiva.\nUsa las escamas del cuerpo como una coraza\npara proteger a su prole de cualquier ataque."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Para mecer a sus crías, las coloca en los huecos\nque tiene entre las púas dorsales, momento\ndurante el cual no secretan veneno."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Nidoqueen",
+    "genus": "Pokémon Trapano",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Con il suo corpo robusto e squamoso sbarra\nl’accesso alla tana e protegge i piccoli dai predatori."
+      },
+      {
+        "game": "xy-y",
+        "text": "Il corpo è ricoperto di dure squame appuntite che\ngli si rizzano quando si inquieta."
+      },
+      {
+        "game": "oras-or",
+        "text": "Il corpo di Nidoqueen è racchiuso in una corazza durissima.\nRiesce a scagliare i nemici lontano con un colpo secco.\nQuesto Pokémon dà il massimo di sé quando difende\ni propri cuccioli."
+      },
+      {
+        "game": "oras-as",
+        "text": "Il corpo di Nidoqueen è racchiuso in una corazza durissima.\nRiesce a scagliare i nemici lontano con un colpo secco.\nQuesto Pokémon dà il massimo di sé quando difende\ni propri cuccioli."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Sembra che le dure squame che ricoprono\nil suo corpo robusto cadano ciclicamente\nper poi ricrescere."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Sembra che le dure squame che ricoprono\nil suo corpo robusto cadano ciclicamente\nper poi ricrescere."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Più abile nella difesa che nell’attacco,\nprotegge i cuccioli da qualunque attacco\ngrazie alla corazza di squame."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Coccola i cuccioli mettendoseli sulla schiena\nnegli spazi fra gli aculei, che in quei momenti\nsmettono di secernere veleno."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Nidoqueen",
+    "genus": "Drill Pokémon",
+    "flavorText": [
+      {
+        "game": "rb-r",
+        "text": "Its hard scales\nprovide strong\nprotection. It\fuses its hefty\nbulk to execute\npowerful moves."
+      },
+      {
+        "game": "rb-b",
+        "text": "Its hard scales\nprovide strong\nprotection. It\fuses its hefty\nbulk to execute\npowerful moves."
+      },
+      {
+        "game": "y",
+        "text": "Tough scales cover\nthe sturdy body\nof this POKéMON.\fIt appears that\nthe scales grow\nin cycles."
+      },
+      {
+        "game": "gs-g",
+        "text": "Its body is cover­\ned with needle-\nlike scales. It\fnever shows signs\nof shrinking from\nany attack."
+      },
+      {
+        "game": "gs-s",
+        "text": "It uses its scaly,\nrugged body to\nseal the entrance\fof its nest and\nprotect its young\nfrom predators."
+      },
+      {
+        "game": "c",
+        "text": "The hard scales\nthat cover its\nstrong body serve\fas excellent\nprotection from\nany attack."
+      },
+      {
+        "game": "rs-r",
+        "text": "NIDOQUEEN’s body is encased in\nextremely hard scales. It is adept at\nsending foes flying with harsh tackles.\fThis POKéMON is at its strongest when\nit is defending its young."
+      },
+      {
+        "game": "rs-s",
+        "text": "NIDOQUEEN’s body is encased in\nextremely hard scales. It is adept at\nsending foes flying with harsh tackles.\fThis POKéMON is at its strongest when\nit is defending its young."
+      },
+      {
+        "game": "e",
+        "text": "It is adept at sending foes flying with\nharsh tackles using its tough, scaly body.\nThis POKéMON is at its strongest when\nit is defending its young."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "The body is covered by stiff, needle-\nlike scales. If it becomes excited,\nthe needles bristle outwards."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "Its hard scales provide strong protection.\nIt uses its hefty bulk to execute\npowerful moves."
+      },
+      {
+        "game": "dp-d",
+        "text": "Its entire body is armored with\nhard scales. It will protect the\nyoung in its burrow with its life."
+      },
+      {
+        "game": "dp-p",
+        "text": "Its entire body is armored with\nhard scales. It will protect the\nyoung in its burrow with its life."
+      },
+      {
+        "game": "pt",
+        "text": "Its entire body is armored with\nhard scales. It will protect the\nyoung in its burrow with its life."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "Its body is covered with needle-like\nscales. It never shows signs\nof shrinking from any attack."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "It uses its scaly, rugged body to\nseal the entrance of its nest and\nprotect its young from predators."
+      },
+      {
+        "game": "bw-b",
+        "text": "Its entire body is armored with\nhard scales. It will protect the\nyoung in its burrow with its life."
+      },
+      {
+        "game": "bw-w",
+        "text": "Its entire body is armored with\nhard scales. It will protect the\nyoung in its burrow with its life."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "Its entire body is armored with\nhard scales. It will protect the\nyoung in its burrow with its life."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "Its entire body is armored with\nhard scales. It will protect the\nyoung in its burrow with its life."
+      },
+      {
+        "game": "xy-x",
+        "text": "It uses its scaly, rugged body to seal the entrance\nof its nest and protect its young from predators."
+      },
+      {
+        "game": "xy-y",
+        "text": "The body is covered by stiff, needlelike scales.\nIf it becomes excited, the needles bristle outwards."
+      },
+      {
+        "game": "oras-or",
+        "text": "Nidoqueen’s body is encased in extremely hard scales.\nIt is adept at sending foes flying with harsh tackles.\nThis Pokémon is at its strongest when it is defending its young."
+      },
+      {
+        "game": "oras-as",
+        "text": "Nidoqueen’s body is encased in extremely hard scales.\nIt is adept at sending foes flying with harsh tackles. This\nPokémon is at its strongest when it is defending its young."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Tough scales cover the sturdy body of\nthis Pokémon. It appears that the scales\ngrow in cycles."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Tough scales cover the sturdy body of\nthis Pokémon. It appears that the scales\ngrow in cycles."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Nidoqueen is better at defense than offense.\nWith scales like armor, this Pokémon will shield\nits children from any kind of attack."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "It pacifies offspring by placing them in the gaps\nbetween the spines on its back. The spines will\nnever secrete poison while young are present."
+      }
+    ]
+  },
+  "chs": {
+    "name": "尼多后",
+    "genus": "钻锥宝可梦",
+    "flavorText": [
+      {
+        "game": "lgpe-lgp",
+        "text": "坚硬的鳞片覆盖着\n强壮的身体。据说它的\n鳞片会自己长出新的。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "坚硬的鳞片覆盖着\n强壮的身体。据说它的\n鳞片会自己长出新的。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "比起进攻更擅长防守。\n会用铠甲般的鳞片保护\n孩子免受任何攻击的伤害。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "把孩子放在背上刺与刺的\n空隙里来哄它们。在这时\n绝对不会释放毒素。"
+      }
+    ]
+  }
+}

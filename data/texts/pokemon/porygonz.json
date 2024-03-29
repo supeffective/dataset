@@ -1,0 +1,437 @@
+{
+  "jap": {
+    "name": "ポリゴンＺ",
+    "genus": "バーチャルポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "より　すぐれた　ポケモンに　するため\nプログラムを　ついかしたが　なぜか\nおかしな　こうどうを　はじめた。"
+      },
+      {
+        "game": "xy-y",
+        "text": "いじげん　くうかんを　じゆうに\nいどうできるように　プログラムを\nしゅうせいしたが　ミスした　らしい。"
+      },
+      {
+        "game": "oras-or",
+        "text": "より　すぐれた　ポケモンに　するため\nプログラムを　ついかしたが　なぜか\nおかしな　こうどうを　はじめた。"
+      },
+      {
+        "game": "oras-as",
+        "text": "いじげん　くうかんを　じゆうに\nいどうできるように　プログラムを\nしゅうせいしたが　ミスした　らしい。"
+      },
+      {
+        "game": "sm-s",
+        "text": "さらに　すぐれた　ポケモンを　めざし\nついかした　プログラムに　ふぐあいが\nあったらしく　うごきが　おかしい。"
+      },
+      {
+        "game": "sm-m",
+        "text": "いじげんくうかんでの　かつどうを\nめざし　プログラムを　こうしんしたが\nおかしな　きょどうが　めだつ。"
+      },
+      {
+        "game": "usum-us",
+        "text": "ふあんていな　きょどうが　めだつ。\nプログラムを　アップデートした\nぎじゅつしゃの　うでの　せいらしい。"
+      },
+      {
+        "game": "usum-um",
+        "text": "ついかした　プログラムが　まずかった。\nおかしな　きょどうが　めだつので\nじっけんしっぱい　なのかも　しれない。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "いじげん　くうかんに　ではいりできる\nプログラムを　ついかしたところ\nきょどうが　ふあんていになった。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "ついか　プログラムで　しんかしたと\nいわれるが　ほんとうに　しんかなのか\nがっかいでも　いけんが　わかれる。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "PorygonZ",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "폴리곤Z",
+    "genus": "가상포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "더욱 우수한 포켓몬으로 만들고자\n프로그램을 추가했지만 어쩐지\n괴상하게 행동하기 시작했다."
+      },
+      {
+        "game": "xy-y",
+        "text": "다른 차원의 공간을 자유롭게\n이동할 수 있도록 프로그램을\n수정했지만 실수한 것 같다."
+      },
+      {
+        "game": "oras-or",
+        "text": "더욱 우수한 포켓몬으로 만들고자\n프로그램을 추가했지만 어쩐지\n괴상하게 행동하기 시작했다."
+      },
+      {
+        "game": "oras-as",
+        "text": "다른 차원의 공간을 자유롭게\n이동할 수 있도록 프로그램을\n수정했지만 실수한 것 같다."
+      },
+      {
+        "game": "sm-s",
+        "text": "더 우월한 포켓몬을 목표로\n추가한 프로그램에 문제가\n있었는지 움직임이 이상하다."
+      },
+      {
+        "game": "sm-m",
+        "text": "다른 차원의 공간에서의 활동을\n목표로 프로그램을 갱신했으나\n괴상한 동작이 눈에 띈다."
+      },
+      {
+        "game": "usum-us",
+        "text": "불안정한 거동이 눈에 띈다.\n프로그램을 업데이트한\n기술자의 실력이 문제인 듯하다."
+      },
+      {
+        "game": "usum-um",
+        "text": "추가한 프로그램이 좋지 않았다.\n괴상한 동작이 눈에 띄는 걸 보니\n실험에 실패한 것일지도 모른다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "다른 공간에 드나들 수 있는\n프로그램을 추가한 결과\n움직임이 불안정해졌다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "추가 프로그램으로 진화했다고\n전해지지만 정말 진화인 건지\n학회에서도 의견이 나뉜다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "多邊獸Ｚ",
+    "genus": "虛擬寶可夢",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "以成為更優秀的寶可夢為目標\n所新追加的程式好像狀況不佳，\n使得動作變得很奇怪。"
+      },
+      {
+        "game": "sm-m",
+        "text": "以能夠在異次元空間活動為目標\n更新了程式，但是怪異的動作\n非常惹人注目。"
+      },
+      {
+        "game": "usum-us",
+        "text": "動作明顯地不穩定。\n這個問題似乎要歸咎於\n負責升級程式的技術人員。"
+      },
+      {
+        "game": "usum-um",
+        "text": "新追加的程式大有問題，\n做出的動作明顯地有些怪異。\n實驗或許可說是失敗了。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "在追加了能夠自由進出\n異次元空間的程式後，\n動作就變得不穩定了。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "據說是在追加程式後進化了，\n但牠的改變是否真的是進化，\n在學術界也是意見分歧。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Porygon-Z",
+    "genus": "Pokémon Virtuel",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Il a été modifié pour être capable\nde travailler dans des dimensions\nparallèles, mais c’est un échec."
+      },
+      {
+        "game": "bw-w",
+        "text": "Il a été modifié pour être capable\nde travailler dans des dimensions\nparallèles, mais c’est un échec."
+      },
+      {
+        "game": "xy-x",
+        "text": "Un logiciel supplémentaire fut installé pour l’améliorer.\nMais depuis, il se comporte bizarrement."
+      },
+      {
+        "game": "xy-y",
+        "text": "On a modifié son programme pour qu’il puisse\nparcourir les dimensions, mais ce fut un échec."
+      },
+      {
+        "game": "oras-or",
+        "text": "Un logiciel supplémentaire fut installé pour l’améliorer.\nMais depuis, il se comporte bizarrement."
+      },
+      {
+        "game": "oras-as",
+        "text": "On a modifié son programme pour qu’il puisse parcourir\nles dimensions, mais ce fut un échec."
+      },
+      {
+        "game": "sm-s",
+        "text": "Il a été modifié pour devenir encore plus\nefficace, mais cela a entraîné plusieurs bugs.\nMaintenant, il se conduit très bizarrement."
+      },
+      {
+        "game": "sm-m",
+        "text": "Un nouveau logiciel était censé lui permettre\nde voyager entre les dimensions, mais tout ne\nse passe pas comme prévu et il y a des bugs."
+      },
+      {
+        "game": "usum-us",
+        "text": "Son comportement, manifestement étrange,\ns’expliquerait par l’incompétence du technicien\nqui a mis à jour son système d’exploitation."
+      },
+      {
+        "game": "usum-um",
+        "text": "Le logiciel qu’on lui a implanté était de toute\névidence défaillant. Il s’agit sans doute d’une\nexpérience ratée, vu son étrange comportement."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Depuis qu’on lui a ajouté un programme\npermettant de voyager entre les dimensions,\nson comportement est devenu instable."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "On dit qu’un nouveau programme l’a fait évoluer,\nmais les avis des scientifiques divergent quant à\nsavoir s’il s’agit réellement d’une évolution."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Porygon-Z",
+    "genus": "Virtuell-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Zusätzliche Software wurde installiert, um das\nPokémon zu verbessern. Seitdem benimmt es\nsich seltsam."
+      },
+      {
+        "game": "xy-y",
+        "text": "Eine neue Software sollte es zu interdimensionalen\nReisen befähigen, doch anscheinend ging etwas\nschief."
+      },
+      {
+        "game": "oras-or",
+        "text": "Zusätzliche Software wurde installiert, um das Pokémon zu\nverbessern. Seitdem benimmt es sich seltsam."
+      },
+      {
+        "game": "oras-as",
+        "text": "Eine neue Software sollte es zu interdimensionalen Reisen\nbefähigen, doch anscheinend ging etwas schief."
+      },
+      {
+        "game": "sm-s",
+        "text": "Zusätzliche Software wurde installiert, um das\nPokémon zu verbessern. Etwas ging jedoch\nschief und seitdem benimmt es sich seltsam."
+      },
+      {
+        "game": "sm-m",
+        "text": "Eine neue Software sollte es zu\ninterdimensionalen Reisen befähigen,\ndoch seitdem verhält es sich seltsam."
+      },
+      {
+        "game": "usum-us",
+        "text": "Sein seltsames Verhalten verdankt es offenbar\nder Unfähigkeit des Wissenschaftlers, der seine\nSoftware aktualisiert hat."
+      },
+      {
+        "game": "usum-um",
+        "text": "Eine fehlerhafte neue Software führte zu seinem\nauffällig seltsamen Verhalten. Vermutlich\nhandelt es sich um ein verkorkstes Experiment."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Seit eine neue Software installiert wurde, die es\nzu interdimensionalen Reisen befähigen sollte,\nwurde sein Verhalten instabil."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Es heißt, es habe sich durch eine neue Software\nentwickelt, doch Wissenschaftler sind sich nicht\neinig, ob Porygon-Z wirklich eine Entwicklung ist."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Porygon-Z",
+    "genus": "Pokémon Virtual",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Se le instaló un software para mejorarlo. Sin embargo,\ncomenzó a comportarse de manera extraña."
+      },
+      {
+        "game": "xy-y",
+        "text": "Aunque le instalaron un software para desplazarse por\notras dimensiones, algo no funcionó bien."
+      },
+      {
+        "game": "oras-or",
+        "text": "Se le instaló un software para mejorarlo. Sin embargo,\ncomenzó a comportarse de manera extraña."
+      },
+      {
+        "game": "oras-as",
+        "text": "Aunque le instalaron un software para desplazarse por otras\ndimensiones, algo no funcionó bien."
+      },
+      {
+        "game": "sm-s",
+        "text": "Se le instaló un software para mejorarlo. Sin\nembargo, algo salió mal y a raíz de ello comenzó\na comportarse de manera extraña."
+      },
+      {
+        "game": "sm-m",
+        "text": "La actualización de software que recibió para\nviajar a otras dimensiones ha causado cambios\nextraños y llamativos en su comportamiento."
+      },
+      {
+        "game": "usum-us",
+        "text": "Llama la atención por su errática conducta, la\ncual se debe a la torpeza de quien realizara la\nactualización de su sistema operativo."
+      },
+      {
+        "game": "usum-um",
+        "text": "El software que se le instaló era defectuoso. Tal\nvez se trate de un experimento fallido, a tenor\nde su extraño comportamiento."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Se le instaló un software que le permite entrar\ny salir de otras dimensiones, pero que provocó\nque su comportamiento se volviese inestable."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Se dice que evolucionó con la instalación de un\nnuevo software, pero la comunidad científica\nestá dividida respecto a si es o no una evolución."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Porygon-Z",
+    "genus": "Pokémon Virtuale",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "È stato aggiunto un software per migliorare le\nprestazioni di questo Pokémon. Agisce in modo\nstrano."
+      },
+      {
+        "game": "xy-y",
+        "text": "Non sembra funzionare correttamente dopo essere\nstato riprogrammato per muoversi in dimensioni\nsconosciute."
+      },
+      {
+        "game": "oras-or",
+        "text": "È stato aggiunto un software per migliorare le prestazioni\ndi questo Pokémon. Agisce in modo strano."
+      },
+      {
+        "game": "oras-as",
+        "text": "Non sembra funzionare correttamente dopo essere stato\nriprogrammato per muoversi in dimensioni sconosciute."
+      },
+      {
+        "game": "sm-s",
+        "text": "A volte mostra strani comportamenti a causa\ndi un errore nel software aggiuntivo usato\nper migliorare le sue prestazioni."
+      },
+      {
+        "game": "sm-m",
+        "text": "Da quando è stato riprogrammato per lavorare\nin dimensioni sconosciute ha assunto\ncomportamenti visibilmente strani."
+      },
+      {
+        "game": "usum-us",
+        "text": "Mostra un comportamento instabile, da attribuire\nprobabilmente alla scarsa competenza di chi ha\naggiornato il suo software."
+      },
+      {
+        "game": "usum-um",
+        "text": "Il software aggiuntivo che gli è stato installato\naveva dei bug. I suoi comportamenti strani fanno\npensare che si tratti di un esperimento fallito."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Da quando gli è stato installato un programma\nche gli permette di viaggiare in altre dimensioni,\nmostra un comportamento instabile."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Pare che si sia evoluto in seguito all’installazione\ndi un programma, ma la comunità scientifica non\nè concorde nel definire ciò un’evoluzione."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Porygon-Z",
+    "genus": "Virtual Pokémon",
+    "flavorText": [
+      {
+        "game": "dp-d",
+        "text": "Additional software was installed\nto make it a better Pokémon.\nIt began acting oddly, however."
+      },
+      {
+        "game": "dp-p",
+        "text": "Additional software was installed\nto make it a better Pokémon.\nIt began acting oddly, however."
+      },
+      {
+        "game": "pt",
+        "text": "Its programming was modified to\nenable work in alien dimensions.\nIt did not work as planned."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "Its programming was modified to enable\nit to travel through alien dimensions.\nSeems there might have been an error..."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "Its programming was modified to enable\nit to travel through alien dimensions.\nSeems there might have been an error..."
+      },
+      {
+        "game": "bw-b",
+        "text": "Its programming was modified to\nenable work in alien dimensions.\nIt did not work as planned."
+      },
+      {
+        "game": "bw-w",
+        "text": "Its programming was modified to\nenable work in alien dimensions.\nIt did not work as planned."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "Its programming was modified to\nenable work in alien dimensions.\nIt did not work as planned."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "Its programming was modified to\nenable work in alien dimensions.\nIt did not work as planned."
+      },
+      {
+        "game": "xy-x",
+        "text": "Additional software was installed to make it a better\nPokémon. It began acting oddly, however."
+      },
+      {
+        "game": "xy-y",
+        "text": "Its programming was modified to enable it to travel\nthrough alien dimensions. Seems there might have\nbeen an error..."
+      },
+      {
+        "game": "oras-or",
+        "text": "Additional software was installed to make it a better\nPokémon. It began acting oddly, however."
+      },
+      {
+        "game": "oras-as",
+        "text": "Its programming was modified to enable it to travel\nthrough alien dimensions. Seems there might have\nbeen an error..."
+      },
+      {
+        "game": "sm-s",
+        "text": "In order to create a more advanced Pokémon, an\nadditional program was installed, but apparently\nit contained a defect that makes it move oddly."
+      },
+      {
+        "game": "sm-m",
+        "text": "Its program was modified to facilitate\nextra-dimensional activities, but that led to\nnoticeably strange behavior."
+      },
+      {
+        "game": "usum-us",
+        "text": "Its behavior is noticeably unstable, which is\napparently due to the incompetence of the\nengineer who updated its programming."
+      },
+      {
+        "game": "usum-um",
+        "text": "A faulty update was added to its programming.\nIts behavior is noticeably strange, so the\nexperiment may have been a failure."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Porygon-Z had a program installed to allow it to\nmove between dimensions, but the program also\ncaused instability in Porygon-Z’s behavior."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Some say an additional program made this\nPokémon evolve, but even academics can’t agree\non whether Porygon-Z is really an evolution."
+      },
+      {
+        "game": "la",
+        "text": "A curious item induced this evolution. The Pokémon's offensive\ncapabilities have greatly increased, but the strangeness of its\nbehavior has magnified in equal measure. This worries me."
+      }
+    ]
+  },
+  "chs": {
+    "name": "多边兽乙型",
+    "genus": "虚拟宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "以更优秀的宝可梦为目标，\n好像新追加的程序状况不佳，\n动作很奇怪。"
+      },
+      {
+        "game": "sm-m",
+        "text": "为了在异次元空间行动而\n更新了程序，但是其怪异的\n举动却很惹人注目。"
+      },
+      {
+        "game": "usum-us",
+        "text": "不稳定的举动很惹人注目。\n这问题好像要归咎于负责\n升级程序的技术人员的水平。"
+      },
+      {
+        "game": "usum-um",
+        "text": "追加的程序不太好。\n因为其怪异的举动很惹人注目，\n所以或许是实验失败了。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "在追加了能够进出\n异次元空间的程序之后，\n运行状况就不稳定了。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "有人说它是通过追加程序进化的，\n但关于它的改变是否真是进化，\n在学会中也存在着意见分歧。"
+      }
+    ]
+  }
+}

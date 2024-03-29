@@ -1,0 +1,553 @@
+{
+  "jap": {
+    "name": "ガーディ",
+    "genus": "こいぬポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "ひとなつこく　せいじつな　せいかく。\nてきには　ほえて　かみつき\nおいはらおう　とする。"
+      },
+      {
+        "game": "xy-y",
+        "text": "じぶんより　つよくて　おおきな\nあいてにも　おそれずに　たちむかう\nゆうかんで　たのもしい　せいかく。"
+      },
+      {
+        "game": "oras-or",
+        "text": "きゅうかくに　すぐれ　いちど　かいだ　においは\nなにが　あっても　ぜったいに　わすれない。\nあいての　きもちを　においで　さっちする。"
+      },
+      {
+        "game": "oras-as",
+        "text": "きゅうかくに　すぐれ　いちど　かいだ　においは\nなにが　あっても　ぜったいに　わすれない。\nあいての　きもちを　においで　さっちする。"
+      },
+      {
+        "game": "sm-s",
+        "text": "りこうで　ちゅうじつ。　ただし\nみしらぬものや　なわばりを　おかす\nものには　ほえたてて　いかく　するぞ。"
+      },
+      {
+        "game": "sm-m",
+        "text": "かわいいからと　いって　しらない\nトレーナーの　ガーディに　ちかづくと\nほえかかられて　かみつかれるぞ。"
+      },
+      {
+        "game": "usum-us",
+        "text": "なれれば　ひとなつっこいのだが\nやせいでは　イワンコと　なわばりを\nめぐって　はげしく　あらそっている。"
+      },
+      {
+        "game": "usum-um",
+        "text": "おおむかしから　にんげんと　ともに\nせいかつ　してきた。　せっきじだいの\nいせきから　ホネが　しゅつどされた。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "ひとなつっこい　せいかくだが\nなわばりに　はいってきた　てきに\nたいしては　はげしく　ほえる。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "ひとなつっこい　せいかくだが\nなわばりに　はいってきた　てきに\nたいしては　はげしく　ほえる。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "じぶんより　つよくて　おおきな\nあいてにも　おそれずに　たちむかう\nゆうかんで　たのもしい　せいかく。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "ちゅうじつな　せいかくで　おやの\nトレーナーを　まもるため　ひっしに\nあいてに　ほえかかる。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Gardie",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "가디",
+    "genus": "강아지포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "사람을 잘 따르는 충실한 성격이다.\n적에게는 짖거나 물며\n쫓아내려고 한다."
+      },
+      {
+        "game": "xy-y",
+        "text": "자신보다 강하고 큰\n상대라도 겁 없이 맞서는\n용감하고 믿음직한 성격이다."
+      },
+      {
+        "game": "oras-or",
+        "text": "후각이 뛰어나서 한 번 맡은 냄새는\n무슨 일이 있어도 절대 잊지 않는다.\n상대의 기분을 냄새로 감지한다."
+      },
+      {
+        "game": "oras-as",
+        "text": "후각이 뛰어나서 한 번 맡은 냄새는\n무슨 일이 있어도 절대 잊지 않는다.\n상대의 기분을 냄새로 감지한다."
+      },
+      {
+        "game": "sm-s",
+        "text": "똑똑하고 충실하다. 다만\n모르는 자나 영역을 침범하는\n자에게는 짖어대서 위협한다."
+      },
+      {
+        "game": "sm-m",
+        "text": "귀엽다고 해서 모르는\n트레이너의 가디에게 다가가면\n짖거나 물리기도 한다."
+      },
+      {
+        "game": "usum-us",
+        "text": "익숙해지면 사람을 잘 따르지만,\n야생에서는 암멍이와\n영역을 두고 격렬히 다툰다."
+      },
+      {
+        "game": "usum-um",
+        "text": "먼 옛날부터 인간과 함께\n생활해 왔다. 석기 시대\n유적에서 뼈가 출토되었다."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "사람을 잘 따르는 성격이지만\n영역에 들어온 상대에게는\n격렬하게 짖는다."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "사람을 잘 따르는 성격이지만\n영역에 들어온 상대에게는\n격렬하게 짖는다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "자신보다 강하고 큰\n상대라도 겁 없이 맞서는\n용감하고 믿음직스런 성격이다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "충직한 성격으로\n자신의 트레이너를 지키기 위해\n필사적으로 상대방에게 짖어댄다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "卡蒂狗",
+    "genus": "小狗寶可夢",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "聰明而忠誠。但是遇到\n不認識或是侵犯領地的對手，\n會不停狂吠來威嚇。"
+      },
+      {
+        "game": "sm-m",
+        "text": "雖說很可愛，但如果靠近\n不認識的訓練家的卡蒂狗，\n是會被狂吠撕咬的。"
+      },
+      {
+        "game": "usum-us",
+        "text": "與人熟悉之後會表現得很親近，\n但野生的卡蒂狗會為了爭奪地盤，\n與岩狗狗展開激烈的鬥爭。"
+      },
+      {
+        "game": "usum-um",
+        "text": "很久以前開始就和人類\n一起生活。從石器時代的\n遺跡中出土過牠的骨頭。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "雖然性情友善容易親近，\n但當敵人侵入自己的地盤時，\n會朝著敵人放聲大吼。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "雖然性情友善容易親近，\n但當敵人侵入自己的地盤時，\n會朝著敵人放聲大吼。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "能毫不畏懼地去對抗\n比自己更強更大的對手。\n性格非常勇敢可靠。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "性格忠誠。\n為了保護自己的訓練家，\n會拼命地朝對手狂吠。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Caninos",
+    "genus": "Pokémon Chiot",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Un Pokémon très loyal. Il restera\nimmobile jusqu’à ce que son\nDresseur lui donne un ordre."
+      },
+      {
+        "game": "bw-w",
+        "text": "Un Pokémon très loyal. Il restera\nimmobile jusqu’à ce que son\nDresseur lui donne un ordre."
+      },
+      {
+        "game": "xy-x",
+        "text": "Ce Pokémon est particulièrement affectueux et loyal.\nIl aboie et il mord pour se débarrasser de ses\nadversaires."
+      },
+      {
+        "game": "xy-y",
+        "text": "Il est courageux et fier. Il se dresse vaillamment\ndevant ses ennemis même s’ils sont plus puissants."
+      },
+      {
+        "game": "oras-or",
+        "text": "Caninos a un odorat très développé. Ce Pokémon n’oublie\njamais un parfum, quel qu’il soit. Il utilise son puissant sens\nolfactif pour deviner les émotions des autres créatures\nvivantes."
+      },
+      {
+        "game": "oras-as",
+        "text": "Caninos a un odorat très développé. Ce Pokémon n’oublie\njamais un parfum, quel qu’il soit. Il utilise son puissant sens\nolfactif pour deviner les émotions des autres créatures\nvivantes."
+      },
+      {
+        "game": "sm-s",
+        "text": "Un Pokémon très intelligent et affectueux.\nIl aboie pour intimider les inconnus et ceux qui\npénètrent sur son territoire."
+      },
+      {
+        "game": "sm-m",
+        "text": "Même s’il a l’air adorable, mieux vaut ne pas\ns’approcher du Caninos d’un Dresseur inconnu.\nOn risque de se faire mordre."
+      },
+      {
+        "game": "usum-us",
+        "text": "Il est très facile à apprivoiser, mais à l’état\nsauvage, il combat férocement les Rocabot\npour le contrôle de son territoire."
+      },
+      {
+        "game": "usum-um",
+        "text": "Cela fait des siècles qu’il vit avec les humains.\nDes ossements de Caninos ont été retrouvés\nsur des sites datant de l’âge de pierre."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Ce Pokémon est de nature amicale,\nmais il devient hargneux quand son territoire\nest menacé."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Ce Pokémon est de nature amicale,\nmais il devient hargneux quand son territoire\nest menacé."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Il est courageux et fiable. Il se dresse vaillamment\ndevant ses ennemis même s’ils sont plus puissants."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Très fidèle, il aboie de toutes ses forces pour\nprotéger son Dresseur d’Origine quand un danger\nle guette."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Fukano",
+    "genus": "Welpen-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Es ist sehr freundlich und bleibt den Menschen\ntreu. Durch Bellen und Beißen versucht es,\nGegner zu verscheuchen."
+      },
+      {
+        "game": "xy-y",
+        "text": "Es ist von Natur aus tapfer und vertrauenswürdig.\nEs scheut nicht vor starken Gegnern zurück."
+      },
+      {
+        "game": "oras-or",
+        "text": "Fukano hat einen ausgezeichneten Geruchssinn. Wenn\ndieses Pokémon einmal einen Geruch wahrgenommen hat,\nvergisst es ihn nicht mehr. Es benutzt diese Fähigkeit dazu,\ndie Gefühlslage von Lebewesen auszuloten."
+      },
+      {
+        "game": "oras-as",
+        "text": "Fukano hat einen ausgezeichneten Geruchssinn. Wenn\ndieses Pokémon einmal einen Geruch wahrgenommen hat,\nvergisst es ihn nicht mehr. Es benutzt diese Fähigkeit dazu,\ndie Gefühlslage von Lebewesen zu erkennen."
+      },
+      {
+        "game": "sm-s",
+        "text": "Es ist klug und loyal. Sein Revier verteidigt es\njedoch mit lautem Bellen gegen Fremde und\nEindringlinge."
+      },
+      {
+        "game": "sm-m",
+        "text": "Es mag zwar niedlich aussehen, doch nähert\nman sich dem Fukano eines fremden Trainers,\nbellt es laut und schnappt nach einem."
+      },
+      {
+        "game": "usum-us",
+        "text": "Hat es sich erst einmal an Menschen gewöhnt,\nwird es sehr zutraulich. In der Wildnis liefert es\nsich jedoch heftige Revierkämpfe mit Wuffels."
+      },
+      {
+        "game": "usum-um",
+        "text": "Von alters her lebt es Seite an Seite mit den\nMenschen. In Ausgrabungsstätten steinzeitlicher\nRuinen wurden Überreste von Fukano gefunden."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Es ist von Natur aus sehr zutraulich. Doch wenn\njemand in sein Revier eindringt, wird dieser wild\nangebellt."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Es ist von Natur aus sehr zutraulich. Doch wenn\njemand in sein Revier eindringt, wird dieser wild\nangebellt."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Es ist von Natur aus tapfer und vertrauenswürdig\nund scheut auch vor Gegnern nicht zurück, die\ngrößer und stärker sind als es selbst."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Es ist sehr loyal und bellt jeden Gegner furchtlos\nan, um seinen Trainer vor Schaden zu bewahren."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Growlithe",
+    "genus": "Pokémon Perrito",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Es muy agradable y leal. Para ahuyentar al enemigo,\nse pone a ladrar y a dar bocados."
+      },
+      {
+        "game": "xy-y",
+        "text": "De naturaleza valiente y honrada, se enfrenta sin\nmiedo a enemigos más grandes y fuertes."
+      },
+      {
+        "game": "oras-or",
+        "text": "Growlithe tiene un sentido del olfato excepcional y una\nmemoria sensitiva tremenda, nunca olvida una esencia. Este\nPokémon saca provecho de este don para identificar las\nsensaciones que tienen otros seres vivos."
+      },
+      {
+        "game": "oras-as",
+        "text": "Growlithe tiene un sentido del olfato excepcional y una\nmemoria sensitiva tremenda, nunca olvida una esencia. Este\nPokémon saca provecho de este don para identificar las\nsensaciones que tienen otros seres vivos."
+      },
+      {
+        "game": "sm-s",
+        "text": "Es muy leal e inteligente por naturaleza. No\nobstante, si un extraño invade su territorio,\nle ladrará a modo de amenaza."
+      },
+      {
+        "game": "sm-m",
+        "text": "Por muy adorable que parezca, si te acercas al\nGrowlithe de otro Entrenador, lo más probable\nes que te ladre e intente morderte."
+      },
+      {
+        "game": "usum-us",
+        "text": "Es muy afable con las personas una vez que ha\ncogido confianza, pero, en estado salvaje, libra\nviolentas disputas territoriales con los Rockruff."
+      },
+      {
+        "game": "usum-um",
+        "text": "Restos óseos hallados en yacimientos fósiles\nmuestran que su convivencia con los humanos\nse remonta a la Edad de Piedra."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Este Pokémon es muy amistoso. Aun así, ladra\ncon fiereza a cualquiera que invada su territorio."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Este Pokémon es muy amistoso. Aun así, ladra\ncon fiereza a cualquiera que invada su territorio."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "De naturaleza valiente y honrada, se enfrenta sin\nmiedo a enemigos más grandes y fuertes."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Extremadamente fiel, ladrará furioso a cualquiera\nque suponga una amenaza para su Entrenador\ncon tal de defenderlo."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Growlithe",
+    "genus": "Pokémon Cagnolino",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Molto amichevole e fedele verso le persone.\nAllontana i nemici abbaiando e mordendoli."
+      },
+      {
+        "game": "xy-y",
+        "text": "Coraggioso e fedele, si oppone senza timore anche\na nemici più grandi e forti di lui."
+      },
+      {
+        "game": "oras-or",
+        "text": "Growlithe ha un senso dell’olfatto molto sviluppato:\nuna volta annusato qualcosa non scorda più quell’odore.\nSfrutta questa dote per determinare le emozioni delle\naltre creature."
+      },
+      {
+        "game": "oras-as",
+        "text": "Growlithe ha un senso dell’olfatto molto sviluppato:\nuna volta annusato qualcosa non scorda più quell’odore.\nSfrutta questa dote per determinare le emozioni delle\naltre creature."
+      },
+      {
+        "game": "sm-s",
+        "text": "È intelligente e fedele, ma abbaia minaccioso\ncontro gli sconosciuti e contro chiunque invada\nil suo territorio."
+      },
+      {
+        "game": "sm-m",
+        "text": "Sembra tanto carino, ma se qualcuno si avvicina\nal suo Allenatore, reagisce abbaiando\ne mordendo."
+      },
+      {
+        "game": "usum-us",
+        "text": "È molto docile con gli esseri umani a cui\nsi affeziona, ma in natura lotta furiosamente\ncon i Rockruff per il controllo del territorio."
+      },
+      {
+        "game": "usum-um",
+        "text": "Vive con gli esseri umani da tempi antichissimi.\nSono state ritrovate ossa di questo Pokémon\nin siti archeologici risalenti all’età della pietra."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "È un Pokémon molto affettuoso, ma si mette\nad abbaiare impetuosamente contro chiunque\ninvada il suo habitat."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "È un Pokémon molto affettuoso, ma si mette\nad abbaiare impetuosamente contro chiunque\ninvada il suo habitat."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Coraggioso e fedele, si oppone senza paura\nanche a nemici più grandi e forti di lui."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Di indole molto leale, abbaia furiosamente\ncontro chiunque minacci di attaccare il suo\nAllenatore."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Growlithe",
+    "genus": "Puppy Pokémon",
+    "flavorText": [
+      {
+        "game": "rb-r",
+        "text": "Very protective\nof its territory.\nIt will bark and\fbite to repel\nintruders from\nits space."
+      },
+      {
+        "game": "rb-b",
+        "text": "Very protective\nof its territory.\nIt will bark and\fbite to repel\nintruders from\nits space."
+      },
+      {
+        "game": "y",
+        "text": "A POKéMON with a\nfriendly nature.\nHowever, it will\fbark fiercely at\nanything invading\nits territory."
+      },
+      {
+        "game": "gs-g",
+        "text": "It has a brave and\ntrustworthy na­\nture. It fear­\flessly stands up\nto bigger and\nstronger foes."
+      },
+      {
+        "game": "gs-s",
+        "text": "Extremely loyal,\nit will fearlessly\nbark at any oppo­\fnent to protect\nits own trainer\nfrom harm."
+      },
+      {
+        "game": "c",
+        "text": "It controls a big\nterritory. If it\ndetects an unknown\fsmell, it roars\nloudly to force\nout the intruder."
+      },
+      {
+        "game": "rs-r",
+        "text": "GROWLITHE has a superb sense of smell.\nOnce it smells anything, this POKéMON\nwon’t forget the scent, no matter what.\fIt uses its advanced olfactory sense\nto determine the emotions of other\nliving things."
+      },
+      {
+        "game": "rs-s",
+        "text": "GROWLITHE has a superb sense of smell.\nOnce it smells anything, this POKéMON\nwon’t forget the scent, no matter what.\fIt uses its advanced olfactory sense\nto determine the emotions of other\nliving things."
+      },
+      {
+        "game": "e",
+        "text": "Its superb sense of smell ensures that\nthis POKéMON won’t forget any scent,\nno matter what. It uses its sense of smell\nto detect the emotions of others."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "Very friendly and faithful to people.\nIt will try to repel enemies by barking\nand biting."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "It is very protective of its territory.\nIt will bark and bite to repel intruders\nfrom its space."
+      },
+      {
+        "game": "dp-d",
+        "text": "A Pokémon with a loyal nature.\nIt will remain motionless until it is\ngiven an order by its Trainer."
+      },
+      {
+        "game": "dp-p",
+        "text": "A Pokémon with a loyal nature.\nIt will remain motionless until it is\ngiven an order by its Trainer."
+      },
+      {
+        "game": "pt",
+        "text": "A Pokémon with a loyal nature.\nIt will remain motionless until it is\ngiven an order by its Trainer."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "It has a brave and trustworthy\nnature. It fearlessly stands up\nto bigger and stronger foes."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "Extremely loyal, it will fearlessly\nbark at any opponent to protect\nits own Trainer from harm."
+      },
+      {
+        "game": "bw-b",
+        "text": "A Pokémon with a loyal nature.\nIt will remain motionless until it is\ngiven an order by its Trainer."
+      },
+      {
+        "game": "bw-w",
+        "text": "A Pokémon with a loyal nature.\nIt will remain motionless until it is\ngiven an order by its Trainer."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "Extremely loyal to its Trainer, it will\nbark at those who approach the Trainer\nunexpectedly and run them out of town."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "Extremely loyal to its Trainer, it will\nbark at those who approach the Trainer\nunexpectedly and run them out of town."
+      },
+      {
+        "game": "xy-x",
+        "text": "Very friendly and faithful to people. It will try to\nrepel enemies by barking and biting."
+      },
+      {
+        "game": "xy-y",
+        "text": "It has a brave and trustworthy nature. It fearlessly\nstands up to bigger and stronger foes."
+      },
+      {
+        "game": "oras-or",
+        "text": "Growlithe has a superb sense of smell. Once it smells anything,\nthis Pokémon won’t forget the scent, no matter what. It uses\nits advanced olfactory sense to determine the emotions of\nother living things."
+      },
+      {
+        "game": "oras-as",
+        "text": "Growlithe has a superb sense of smell. Once it smells anything,\nthis Pokémon won’t forget the scent, no matter what. It uses\nits advanced olfactory sense to determine the emotions of\nother living things."
+      },
+      {
+        "game": "sm-s",
+        "text": "It’s both clever and loyal, but if a stranger tries\nto invade its territory, it barks threateningly."
+      },
+      {
+        "game": "sm-m",
+        "text": "It looks cute, but when you approach another\nTrainer’s Growlithe, it will bark at you and bite."
+      },
+      {
+        "game": "usum-us",
+        "text": "While it’s quite friendly toward humans once it’s\ngrown used to them, in the wild it must be quite\nfierce to defend its territory from Rockruff."
+      },
+      {
+        "game": "usum-um",
+        "text": "It has lived alongside humans since ages ago.\nIts bones have been found in excavations of\nruins from the Stone Age."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "A Pokémon with a friendly nature.\nHowever, it will bark fiercely at\nanything invading its territory."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "A Pokémon with a friendly nature.\nHowever, it will bark fiercely at\nanything invading its territory."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "It has a brave and trustworthy nature. It fearlessly\nstands up to bigger and stronger foes."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Extremely loyal, it will fearlessly bark at any\nopponent to protect its own Trainer from harm."
+      },
+      {
+        "game": "la",
+        "text": "They patrol their territory in pairs. I believe the igneous\nrock components in the fur of this species are the result of\nvolcanic activity in its habitat."
+      }
+    ]
+  },
+  "chs": {
+    "name": "卡蒂狗",
+    "genus": "小狗宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "机灵而忠诚。但是对于\n不认识的或是侵犯领地的，\n会狂吠不停并作出威吓。"
+      },
+      {
+        "game": "sm-m",
+        "text": "虽说很可爱，但如果靠近\n不认识的训练家的卡蒂狗，\n是会被狂吠撕咬的。"
+      },
+      {
+        "game": "usum-us",
+        "text": "熟悉后便会与人亲近，\n但野生的卡蒂狗会和岩狗狗\n就领地而展开激烈的争夺。"
+      },
+      {
+        "game": "usum-um",
+        "text": "很久很久以前就和人类一起生活。\n从石器时代的遗迹中\n出土过它的骨头。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "性格很容易和人亲近，\n但是会对进入自己\n领地的敌人狂吠。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "性格很容易和人亲近，\n但是会对进入自己\n领地的敌人狂吠。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "能毫无畏惧地去对抗\n比自己更强更大的对手。\n性格勇敢非常可靠。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "性格忠诚。\n为了保护自己的训练家，\n会拼命地朝对手狂吠。"
+      }
+    ]
+  }
+}

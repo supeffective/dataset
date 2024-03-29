@@ -1,0 +1,481 @@
+{
+  "jap": {
+    "name": "バリヤード",
+    "genus": "バリアーポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "ゆびさきから　だす　はどうが\nくうきを　かためて　カベを　つくる。\nはげしい　こうげきも　はねかえす。"
+      },
+      {
+        "game": "xy-y",
+        "text": "ひとを　しんじこませるのが　うまい。\nパントマイムで　つくったカベが\nほんとうに　あらわれるという。"
+      },
+      {
+        "game": "oras-or",
+        "text": "めに　みえない　ものを　みぶりで　そこに　あると\nしんじこませる　パントマイムの　たつじん。\nしんじさせた　ものは　ほんとうに　あらわれる。"
+      },
+      {
+        "game": "oras-as",
+        "text": "めに　みえない　ものを　みぶりで　そこに　あると\nしんじこませる　パントマイムの　たつじん。\nしんじさせた　ものは　ほんとうに　あらわれる。"
+      },
+      {
+        "game": "usum-us",
+        "text": "すばらしい　パントマイムの　うでまえ。\nみとれている　あいだに　いつのまにか\nほんとうに　かべが　できているのだ。"
+      },
+      {
+        "game": "usum-um",
+        "text": "パントマイムで　みえない　かべを\nうみだす。　かんしんして　あげないと\nおうふくビンタで　おそってくるぞ。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "パントマイムが　とくいで　いつでも\nれんしゅう　している。ないものでも\nそこに　あると　しんじこませる。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "パントマイムが　とくいで　いつでも\nれんしゅう　している。ないものでも\nそこに　あると　しんじこませる。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "おおきな　てのひらは　パントマイムを\nするために　はったつ　したと\nかんがえる　がくしゃも　おおい。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "パントマイムが　とくい。　ゆびから\nだした　はどうで　かべを　つくり\nあまたの　こうげきから　みをまもる。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Barrierd",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "마임맨",
+    "genus": "배리어포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "손가락 끝에서 내는 파동이\n공기를 굳혀서 벽을 만든다.\n격렬한 공격도 튕겨 낸다."
+      },
+      {
+        "game": "xy-y",
+        "text": "사람 속이기를 잘한다.\n팬터마임으로 만든 벽이\n정말로 나타난다고 한다."
+      },
+      {
+        "game": "oras-or",
+        "text": "몸짓으로 눈에 보이지 않는 것이 그곳에\n있다고 믿게 만드는 팬터마임의 달인이다.\n있다고 믿게 만든 것은 정말로 나타난다."
+      },
+      {
+        "game": "oras-as",
+        "text": "몸짓으로 눈에 보이지 않는 것이 그곳에\n있다고 믿게 만드는 팬터마임의 달인이다.\n있다고 믿게 만든 것은 정말로 나타난다."
+      },
+      {
+        "game": "usum-us",
+        "text": "팬터마임 실력이 굉장하다.\n넋을 놓고 보다 보면\n어느새 진짜 벽이 나타난다."
+      },
+      {
+        "game": "usum-um",
+        "text": "팬터마임으로 보이지 않는 벽을\n만들어 낸다. 감탄하지 않으면\n연속뺨치기로 공격해 온다."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "팬터마임이 특기로 언제나\n연습을 하고 있다. 없는 것도\n그곳에 있다고 믿게 만든다."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "팬터마임이 특기로 언제나\n연습을 하고 있다. 없는 것도\n그곳에 있다고 믿게 만든다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "커다란 손바닥은 팬터마임을\n하기 위해 발달했다고\n생각하는 학자도 많다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "팬터마임이 특기다. 손가락에서\n내보내는 파동으로 벽을 만들어\n갖은 공격으로부터 몸을 지킨다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "魔牆人偶",
+    "genus": "屏障寶可夢",
+    "flavorText": [
+      {
+        "game": "usum-us",
+        "text": "實力出神入化的默劇高手。\n當人們看牠的表演看到入神時，\n不知不覺間眼前會出現真正的牆壁。"
+      },
+      {
+        "game": "usum-um",
+        "text": "會用默劇製造出看不見的牆壁。\n如果不讚美牠的話，\n連環巴掌就會向你襲來。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "擅長演默劇，隨時都在練習。\n即使眼前空無一物，也能讓人\n相信有東西在那裡。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "擅長演默劇，隨時都在練習。\n即使眼前空無一物，也能讓人\n相信有東西在那裡。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "有很多學者認為\n牠大大的手掌是因為要\n表演默劇而發達起來的。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "擅長表演默劇。\n用手指放出的波動製造牆壁，\n保護自己免於大多數的攻擊。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "M. Mime",
+    "genus": "Pokémon Bloqueur",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "En modifiant les molécules de l’air\ndu bout de ses doigts, il parvient\nà créer un mur invisible devant lui."
+      },
+      {
+        "game": "bw-w",
+        "text": "En modifiant les molécules de l’air\ndu bout de ses doigts, il parvient\nà créer un mur invisible devant lui."
+      },
+      {
+        "game": "xy-x",
+        "text": "Les murs invisibles qu’il matérialise du bout des doigts\nrepoussent les attaques les plus puissantes."
+      },
+      {
+        "game": "xy-y",
+        "text": "Il adore imiter les gens. On le dit capable de créer\nde véritables murs juste en les mimant."
+      },
+      {
+        "game": "oras-or",
+        "text": "M. Mime est un pantomime hors pair. Ses gestes et ses\nmouvements parviennent à faire croire que quelque chose\nd’invisible existe réellement. Lorsqu’on y croit, ces choses\ndeviennent palpables."
+      },
+      {
+        "game": "oras-as",
+        "text": "M. Mime est un pantomime hors pair. Ses gestes et ses\nmouvements parviennent à faire croire que quelque chose\nd’invisible existe réellement. Lorsqu’on y croit, ces choses\ndeviennent palpables."
+      },
+      {
+        "game": "usum-us",
+        "text": "Il est tellement doué pour l’art du mime qu’il est\ncapable de faire apparaître un vrai mur sous\nle regard médusé de son public."
+      },
+      {
+        "game": "usum-um",
+        "text": "Grâce à ses talents de mime, il est capable de\nfaire apparaître de vrais murs. Applaudissez-le,\nau risque de recevoir une ou deux Torgnoles !"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Ce Pokémon très doué pour le mime s’entraîne\nsans cesse. Il arrive à faire croire que quelque\nchose d’inexistant est réel."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Ce Pokémon très doué pour le mime s’entraîne\nsans cesse. Il arrive à faire croire que quelque\nchose d’inexistant est réel."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "De nombreux savants pensent que ses mains\nse sont développées pour faire de la pantomime."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Son talent pour le mime est indéniable.\nIl émet des ondes du bout des doigts pour créer\nun mur qui le protège de nombreuses attaques."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Pantimos",
+    "genus": "Sperren-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Seine Fingerspitzen sondern etwas ab, das die Luft\nzu einer schützenden Wand werden lässt."
+      },
+      {
+        "game": "xy-y",
+        "text": "Es ist geschickt darin, Menschen zu beeinflussen.\nMan sagt, es könne dünne Wände aus Luft nur durch\nMimen entstehen lassen."
+      },
+      {
+        "game": "oras-or",
+        "text": "Pantimos ist ein Meister der Pantomime. Seine Gesten und\nBewegungen machen den Zuschauer glauben, dass etwas\nUnsichtbares tatsächlich existiert. Wenn ein Objekt für real\ngehalten wird, beginnt es, wirklich zu existieren."
+      },
+      {
+        "game": "oras-as",
+        "text": "Pantimos ist ein Meister der Pantomime. Seine Gesten und\nBewegungen machen den Zuschauer glauben, dass etwas\nUnsichtbares tatsächlich existiert. Wenn ein Objekt für real\ngehalten wird, beginnt es, wirklich zu existieren."
+      },
+      {
+        "game": "usum-us",
+        "text": "Sein Können als Pantomime ist verblüffend. Vor\nlauter Bewunderung merkt man gar nicht, wie\nplötzlich eine echte Wand vor einem erscheint."
+      },
+      {
+        "game": "usum-um",
+        "text": "Durch Pantomime lässt es unsichtbare Wände\nentstehen. Wer davon nicht beeindruckt ist,\nwird mit einem Duplexhieb bestraft."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Pantimos ist begabt im Mienenspiel und trainiert\ndieses jederzeit. Es kann andere dazu verleiten,\nDinge zu sehen, die gar nicht existieren."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Pantimos ist begabt im Mienenspiel und trainiert\ndieses jederzeit. Es kann andere dazu verleiten,\nDinge zu sehen, die gar nicht existieren."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Viele Forscher glauben, seine Hände hätten nur\ndeshalb so eine beachtliche Größe angenommen,\ndamit es Pantomime praktizieren kann."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Es ist für die Pantomime geboren. Zur Abwehr\nunterschiedlichster Angriffe erzeugt es mit einem\nKraftfeld aus seinen Fingerspitzen Schutzwände."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Mr. Mime",
+    "genus": "Pokémon Barrera",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Para repeler ataques, solidifica el aire y crea muros\ninvisibles con emanaciones de sus dedos."
+      },
+      {
+        "game": "xy-y",
+        "text": "Dicen que puede hacer un muro a partir del aire\nmediante la pantomima. Es experto en crear ilusiones\nópticas."
+      },
+      {
+        "game": "oras-or",
+        "text": "Mr. Mime es un experto en pantomima. Con sus gestos y\nmovimientos es capaz de convencer a sus espectadores de\nque algo existe, cuando en realidad no es así. Pero, cuando\nel público se lo cree, las ilusiones se hacen realidad."
+      },
+      {
+        "game": "oras-as",
+        "text": "Mr. Mime es un experto en pantomima. Con sus gestos y\nmovimientos es capaz de convencer a sus espectadores de\nque algo existe, cuando en realidad no es así. Pero, cuando\nel público se lo cree, las ilusiones se hacen realidad."
+      },
+      {
+        "game": "usum-us",
+        "text": "Su talento para el mimo es tal que resulta\ncautivador, y llega a crear muros de verdad sin\nque quien lo observa se dé cuenta."
+      },
+      {
+        "game": "usum-um",
+        "text": "Crea muros invisibles con sus grandes dotes de\nmimo. Quien no se muestre impresionado recibirá\nun sonoro Doble Bofetón."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Practica constantemente la pantomima. Tal es\nsu maestría que puede convencer a quien lo\nobserve de la existencia de algo que no es real."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Practica constantemente la pantomima. Tal es\nsu maestría que puede convencer a quien lo\nobserve de la existencia de algo que no es real."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Muchos estudiosos sostienen que el desarrollo\nde sus enormes manos se debe a su afán por\npracticar la pantomima."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Domina con maestría la pantomima. La barrera\ngenerada con las ondas que emite por los dedos\nle permite protegerse de numerosos ataques."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Mr. Mime",
+    "genus": "Pokémon Barriera",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Con le dita solidifica l’aria e crea pareti invisibili\nche respingono gli attacchi più violenti."
+      },
+      {
+        "game": "xy-y",
+        "text": "Si diletta a imbrogliare la gente. Si dice che sia in\ngrado di creare pareti d’aria servendosi della mimica."
+      },
+      {
+        "game": "oras-or",
+        "text": "Mr. Mime è un esperto di mimica. La sua gestualità e i suoi\nmovimenti convincono l’osservatore dell’esistenza di oggetti\ninvisibili, che saranno percepiti come concreti e reali."
+      },
+      {
+        "game": "oras-as",
+        "text": "Mr. Mime è un esperto di mimica. La sua gestualità e i suoi\nmovimenti convincono l’osservatore dell’esistenza di oggetti\ninvisibili, che saranno percepiti come concreti e reali."
+      },
+      {
+        "game": "usum-us",
+        "text": "Con le sue eccezionali abilità di mimo incanta\ngli spettatori e, prima che se ne accorgano,\ncrea dei muri in tutto e per tutto reali."
+      },
+      {
+        "game": "usum-um",
+        "text": "Crea pareti invisibili grazie alle sue doti da mimo.\nAttacca chiunque non mostri ammirazione\ncon una sonora Doppiasberla."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "È molto abile nella mimica e si esercita\nin continuazione. Chi lo osserva crede\ndi vedere cose che in realtà non esistono."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "È molto abile nella mimica e si esercita\nin continuazione. Chi lo osserva crede\ndi vedere cose che in realtà non esistono."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Molti studiosi ritengono che abbia sviluppato\nmani così grandi perché gli sono utili per\nla mimica."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "È un ottimo mimo. Con le onde che emette\ndalle dita può creare una barriera che lo\nprotegge da molti attacchi."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Mr. Mime",
+    "genus": "Barrier Pokémon",
+    "flavorText": [
+      {
+        "game": "rb-r",
+        "text": "If interrupted\nwhile it is\nmiming, it will\fslap around the\noffender with its\nbroad hands."
+      },
+      {
+        "game": "rb-b",
+        "text": "If interrupted\nwhile it is\nmiming, it will\fslap around the\noffender with its\nbroad hands."
+      },
+      {
+        "game": "y",
+        "text": "Always practices\nits pantomime act.\nIt makes enemies\fbelieve something\nexists that\nreally doesn't."
+      },
+      {
+        "game": "gs-g",
+        "text": "A skilled mime\nfrom birth, it\ngains the ability\fto create invisi­\nble objects as it\nmatures."
+      },
+      {
+        "game": "gs-s",
+        "text": "Its fingertips\nemit a peculiar\nforce field that\fhardens air to\ncreate an actual\nwall."
+      },
+      {
+        "game": "c",
+        "text": "It uses the\nmysterious\npower it has in\fits fingers to\nsolidify air into\nan invisible wall."
+      },
+      {
+        "game": "rs-r",
+        "text": "MR. MIME is a master of pantomime.\nIts gestures and motions convince\nwatchers that something unseeable\factually exists. Once it is believed,\nit will exist as if it were a real thing."
+      },
+      {
+        "game": "rs-s",
+        "text": "MR. MIME is a master of pantomime.\nIts gestures and motions convince\nwatchers that something unseeable\factually exists. Once it is believed,\nit will exist as if it were a real thing."
+      },
+      {
+        "game": "e",
+        "text": "A MR. MIME is a master of pantomime. It can\nconvince others that something unseeable\nactually exists. Once believed, the\nimaginary object does become real."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "It is adept at conning people. It is said\nto be able to create walls out of thin\nair by miming."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "If interrupted while it is miming, it will\nsuddenly DOUBLESLAP the offender with its\nbroad hands."
+      },
+      {
+        "game": "dp-d",
+        "text": "It is a pantomime expert that can\ncreate invisible but solid walls\nusing miming gestures."
+      },
+      {
+        "game": "dp-p",
+        "text": "Emanations from its fingertips\nsolidify the air into invisible walls\nthat repel even harsh attacks."
+      },
+      {
+        "game": "pt",
+        "text": "It shapes an invisible wall in midair\nby minutely vibrating its fingertips\nto stop molecules in the air."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "A skilled mime from birth,\nit gains the ability to create\ninvisible objects as it matures."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "Its fingertips emit a peculiar\nforce field that hardens air to\ncreate an actual wall."
+      },
+      {
+        "game": "bw-b",
+        "text": "It shapes an invisible wall in midair\nby minutely vibrating its fingertips\nto stop molecules in the air."
+      },
+      {
+        "game": "bw-w",
+        "text": "It shapes an invisible wall in midair\nby minutely vibrating its fingertips\nto stop molecules in the air."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "It shapes an invisible wall in midair\nby minutely vibrating its fingertips\nto stop molecules in the air."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "It shapes an invisible wall in midair\nby minutely vibrating its fingertips\nto stop molecules in the air."
+      },
+      {
+        "game": "xy-x",
+        "text": "Emanations from its fingertips solidify the air into\ninvisible walls that repel even harsh attacks."
+      },
+      {
+        "game": "xy-y",
+        "text": "It is adept at conning people. It is said to be able\nto create walls out of thin air by miming."
+      },
+      {
+        "game": "oras-or",
+        "text": "Mr. Mime is a master of pantomime. Its gestures and motions\nconvince watchers that something unseeable actually exists.\nOnce the watchers are convinced, the unseeable thing exists\nas if it were real."
+      },
+      {
+        "game": "oras-as",
+        "text": "Mr. Mime is a master of pantomime. Its gestures and motions\nconvince watchers that something unseeable actually exists.\nOnce the watchers are convinced, the unseeable thing exists\nas if it were real."
+      },
+      {
+        "game": "usum-us",
+        "text": "Its pantomime skills are wonderful. You may\nbecome enraptured while watching it, but next\nthing you know, Mr. Mime has made a real wall."
+      },
+      {
+        "game": "usum-um",
+        "text": "It creates invisible walls with its pantomiming.\nIf you don’t act impressed, it will attack you\nwith a double slap!"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Always practicing its pantomime act.\nIt makes enemies believe something exists\nthat really doesn’t."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Always practicing its pantomime act.\nIt makes enemies believe something exists\nthat really doesn’t."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "The broadness of its hands may be no\ncoincidence—many scientists believe its palms\nbecame enlarged specifically for pantomiming."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "It’s known for its top-notch pantomime skills.\nIt protects itself from all sorts of attacks by\nemitting auras from its fingers to create walls."
+      },
+      {
+        "game": "la",
+        "text": "The behavior of this clown-like Pokémon reminds one of\npantomime. It creates invisible walls using a force emitted\nfrom its fingertips."
+      }
+    ]
+  },
+  "chs": {
+    "name": "魔墙人偶",
+    "genus": "屏障宝可梦",
+    "flavorText": [
+      {
+        "game": "usum-us",
+        "text": "有着非凡的默剧表演实力。\n在你看入迷的时候，不知不觉间\n就会出现一面真正的墙壁。"
+      },
+      {
+        "game": "usum-um",
+        "text": "能通过默剧生成一道看不见的墙壁。\n如果不赞美它的话，\n连环巴掌就会向你袭来。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "擅长表演哑剧，一直都在练习。\n即使空无一物，也能让人\n觉得那里真的有东西存在。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "擅长表演哑剧，一直都在练习。\n即使空无一物，也能让人\n觉得那里真的有东西存在。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "有很多学者认为，\n它大大的手掌是因为要\n表演默剧而发达起来的。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "擅长表演默剧。\n用手指放出的波动制造墙壁，\n保护自己免于大多数攻击。"
+      }
+    ]
+  }
+}

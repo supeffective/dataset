@@ -1,0 +1,549 @@
+{
+  "jap": {
+    "name": "ガラガラ",
+    "genus": "ほねずきポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "からだも　ちいさく　もともと\nよわかった。ホネを　つかうようになり\nせいかくが　きょうぼうか　した。"
+      },
+      {
+        "game": "xy-y",
+        "text": "ほねは　だいじな　ぶき　である。\nブーメランの　ように　なげて\nえものに　ぶつけ　きぜつ　させる。"
+      },
+      {
+        "game": "oras-or",
+        "text": "ははおやに　あえない　かなしみを　のりこえた\nカラカラが　たくましく　しんかした　すがた。\nきたえられた　こころは　かんたんに　くじけない。"
+      },
+      {
+        "game": "oras-as",
+        "text": "ははおやに　あえない　かなしみを　のりこえた\nカラカラが　たくましく　しんかした　すがた。\nきたえられた　こころは　かんたんに　くじけない。"
+      },
+      {
+        "game": "sm-s",
+        "text": "もともとは　ひよわで　おくびょう。\nしんかで　ホネを　ふりまわす\nきょうぼうな　せいしつに　なる。"
+      },
+      {
+        "game": "sm-m",
+        "text": "ホネを　ブーメランのように　なげつけ\nてんてきだった　バルジーナを\nうちおとし　ふくしゅう　するのだ。"
+      },
+      {
+        "game": "usum-us",
+        "text": "ホネを　なげつけ　バルジーナを\nうちおとす。　おやの　かたきを\nうっていると　かんがえられている。"
+      },
+      {
+        "game": "usum-um",
+        "text": "リズミカルに　ホネを　うちならし\nなかまと　れんらくを　とりあっている。\nそのパターンは　５０ちかく　あるのだ。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "からだは　ちいさく　よわかったが\nホネを　うまく　つかって　たたかう\nきょうぼうな　せいかくに　なった。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "からだは　ちいさく　よわかったが\nホネを　うまく　つかって　たたかう\nきょうぼうな　せいかくに　なった。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "かなしみを　のりこえて　たくましく\nしんかした。　ホネを　ぶきにして\nゆうかんに　てきと　わたりあう。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "しんかして　かぶっていた　ははおやの\nホネが　いったいかして　そのうえ\nきょうぼうな　せいかくに　かわった。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Garagara",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "텅구리",
+    "genus": "뼈다귀포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "몸집도 작으며 원래는\n약했다. 뼈를 쓰기 시작하면서\n성격이 흉포해졌다."
+      },
+      {
+        "game": "xy-y",
+        "text": "뼈는 중요한 무기이다.\n부메랑처럼 던져서\n사냥감을 맞춰 기절시킨다."
+      },
+      {
+        "game": "oras-or",
+        "text": "어미를 만날 수 없는 슬픔을 극복한\n탕구리가 늠름하게 진화한 모습이다.\n단련된 마음은 간단히 꺾이지 않는다."
+      },
+      {
+        "game": "oras-as",
+        "text": "어미를 만날 수 없는 슬픔을 극복한\n탕구리가 늠름하게 진화한 모습이다.\n단련된 마음은 간단히 꺾이지 않는다."
+      },
+      {
+        "game": "sm-s",
+        "text": "원래는 약하고 겁이 많다.\n진화로 뼈다귀를 휘두르는\n난폭한 성질이 된다."
+      },
+      {
+        "game": "sm-m",
+        "text": "뼈다귀를 부메랑처럼 내던져서\n천적이었던 버랜지나를\n떨어뜨려 복수한다."
+      },
+      {
+        "game": "usum-us",
+        "text": "뼈를 던져 버랜지나를\n떨어뜨린다. 부모의 원한을\n갚기 위한 것으로 추측된다."
+      },
+      {
+        "game": "usum-um",
+        "text": "리드미컬하게 뼈다귀를 두들겨서\n동료와 연락을 주고받는다.\n그 패턴은 50개 가까이 존재한다."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "몸집은 작고 약했지만\n뼈를 능숙하게 사용해서 싸우는\n흉포한 성격이 되었다."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "몸집은 작고 약했지만\n뼈를 능숙하게 사용해서 싸우는\n흉포한 성격이 되었다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "슬픔을 극복하고 늠름하게\n진화했다. 뼈를 무기 삼아\n용감하게 적과 맞서 싸운다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "진화로 인해 쓰고 있던\n어미의 뼈는 일체화되었고\n성격은 더욱 난폭해졌다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "嘎啦嘎啦",
+    "genus": "愛骨寶可夢",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "原本因體弱而很膽小。\n進化後變成了揮舞著骨頭的粗暴性格。"
+      },
+      {
+        "game": "sm-m",
+        "text": "將骨頭像回力鏢一樣扔出去，\n擊落天敵禿鷹娜來復仇。"
+      },
+      {
+        "game": "usum-us",
+        "text": "會投擲骨頭擊落禿鷹娜。\n人們認為牠這麼做是\n為了幫母親報仇。"
+      },
+      {
+        "game": "usum-um",
+        "text": "會節奏性地敲響骨頭，\n藉此與夥伴進行聯絡。\n節奏有著將近５０種不同變化。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "原本身體十分弱小，但如今\n已能靈活運用骨頭來戰鬥，\n性格也變得很兇暴。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "原本身體十分弱小，但如今\n已能靈活運用骨頭來戰鬥，\n性格也變得很兇暴。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "克服了傷痛後進化得\n更強更壯。會把骨頭當作\n武器，勇敢地與敵人交鋒。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "進化時，原本戴在頭上的母親\n頭骨化為了牠身體的一部份。\n不但如此，性格也變得很凶暴。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Ossatueur",
+    "genus": "Pokémon Gard’Os",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Ce Pokémon sauvage possède des os\ndepuis sa naissance. Il s’en sert\npour combattre avec dextérité."
+      },
+      {
+        "game": "bw-w",
+        "text": "Ce Pokémon sauvage possède des os\ndepuis sa naissance. Il s’en sert\npour combattre avec dextérité."
+      },
+      {
+        "game": "xy-x",
+        "text": "Ce petit Pokémon était à l’origine très faible. Il est\ndevenu redoutable le jour où il a appris à se servir\nde ses os."
+      },
+      {
+        "game": "xy-y",
+        "text": "L’os qu’il tient dans la main est son arme la plus\nefficace. Il s’en sert comme d’un boomerang pour\nassommer sa proie."
+      },
+      {
+        "game": "oras-or",
+        "text": "Ossatueur est la forme évoluée d’Osselait. Il a surmonté\nle chagrin causé par la perte de sa maman et s’est endurci.\nLe tempérament décidé et entier de ce Pokémon le rend\ntrès difficile à amadouer."
+      },
+      {
+        "game": "oras-as",
+        "text": "Ossatueur est la forme évoluée d’Osselait. Il a surmonté\nle chagrin causé par la perte de sa maman et s’est endurci.\nLe tempérament décidé et entier de ce Pokémon le rend\ntrès difficile à amadouer."
+      },
+      {
+        "game": "sm-s",
+        "text": "Il était faible et peureux, mais après avoir\névolué, il a appris à manier son os avec férocité\net est devenu plus violent et agressif."
+      },
+      {
+        "game": "sm-m",
+        "text": "Il lance le grand os comme un boomerang pour\nabattre son ancien prédateur, les Vaututrice,\npour se venger."
+      },
+      {
+        "game": "usum-us",
+        "text": "Il lance son os pour abattre les Vaututrice.\nOn pense qu’il agit ainsi pour venger sa mère."
+      },
+      {
+        "game": "usum-um",
+        "text": "Il joue des percussions avec son os afin de\ncommuniquer avec ses congénères. Il existe\nune cinquantaine de mélodies différentes."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Ce Pokémon, autrefois si petit et si faible,\nest devenu très féroce. Il se bat habilement,\narmé de son os."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Ce Pokémon, autrefois si petit et si faible,\nest devenu très féroce. Il se bat habilement,\narmé de son os."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Il s’est endurci et a évolué depuis qu’il a réussi\nà surmonter sa peine. Il utilise son os en guise\nd’arme et affronte ses ennemis avec bravoure."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "En évoluant, il est devenu violent, et le crâne\nde sa mère qu’il portait a fusionné avec sa tête."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Knogga",
+    "genus": "Knochenfan-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Es ist klein und war ursprünglich sehr schwach.\nErst als es anfing Knochen einzusetzen, wurde es wild."
+      },
+      {
+        "game": "xy-y",
+        "text": "Der Knochen, den dieses Pokémon hält, ist seine\nPrimärwaffe. Es wirft ihn wie einen Bumerang."
+      },
+      {
+        "game": "oras-or",
+        "text": "Knogga ist eine entwickelte Form von Tragosso, die den\nVerlust der Mutter überwunden hat und stärker geworden ist.\nDie gestählte, abgehärtete Seele dieses Pokémon ist nur\nschwer zu brechen."
+      },
+      {
+        "game": "oras-as",
+        "text": "Knogga ist eine entwickelte Form von Tragosso, die den\nVerlust der Mutter überwunden hat und stärker geworden ist.\nDie gestählte, abgehärtete Seele dieses Pokémon ist nur\nschwer zu brechen."
+      },
+      {
+        "game": "sm-s",
+        "text": "Vor der Entwicklung war es schwach und\nängstlich. Jetzt ist es hitzköpfig und schlägt\nwild mit einem Knochen um sich."
+      },
+      {
+        "game": "sm-m",
+        "text": "Es wirft seinen Knochen bumeranggleich nach\nGrypheldis, dem Erzfeind seiner Vorstufe, um es\nvom Himmel zu holen und sich an ihm zu rächen."
+      },
+      {
+        "game": "usum-us",
+        "text": "Es wirft seinen Knochen nach Grypheldis, um es\nvom Himmel zu holen. Man nimmt an, dass es\nsich für seine Mutter an ihm rächen will."
+      },
+      {
+        "game": "usum-um",
+        "text": "Es kommuniziert mit seinen Kameraden durch\nrhythmisches Knochenklappern. Fast 50 Muster\nsind bisher bekannt."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Einst war es klein und schwach, doch jetzt ist es\ngeschickt im Umgang mit seinem Knochen und\nverhält sich äußerst brutal."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Einst war es klein und schwach, doch jetzt ist es\ngeschickt im Umgang mit seinem Knochen und\nverhält sich äußerst brutal."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Als es seine Trauer überwand, entwickelte es sich\nund wurde stärker. Mit seinem Knochen als Waffe\nstellt sich Knogga mutig seinen Feinden."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Durch die Entwicklung wurde der Schädel seiner\nMutter, den es stets trug, zu einem Teil von ihm\nund es bekam einen aggressiven Charakter."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Marowak",
+    "genus": "Pokémon Apilahueso",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Es pequeño y siempre ha sido muy débil. Cuando\nempezó a usar huesos, se volvió más violento."
+      },
+      {
+        "game": "xy-y",
+        "text": "El hueso que lleva es su gran arma. Lo lanza\nhábilmente como un bumerán y deja a todos fuera\nde combate."
+      },
+      {
+        "game": "oras-or",
+        "text": "Marowak es la forma evolucionada de Cubone. Es más fuerte\nporque ha superado la pena por la pérdida de su madre.\nEl ánimo de este Pokémon, ya curtido y fortalecido, no es\nmuy fácil de alterar."
+      },
+      {
+        "game": "oras-as",
+        "text": "Marowak es la forma evolucionada de Cubone. Es más fuerte\nporque ha superado la pena por la pérdida de su madre.\nEl ánimo de este Pokémon, ya curtido y fortalecido, no es\nmuy fácil de alterar."
+      },
+      {
+        "game": "sm-s",
+        "text": "Cuando Cubone evoluciona a Marowak, deja de\nser débil y cobarde, se vuelve más agresivo y\nusa el hueso como arma."
+      },
+      {
+        "game": "sm-m",
+        "text": "Utiliza su hueso como si fuese un bumerán para\nderribar a Mandibuzz, su enemigo natural, a\nmodo de venganza."
+      },
+      {
+        "game": "usum-us",
+        "text": "Lanza su hueso para abatir a los Mandibuzz.\nSegún cuentan, es su forma de vengar a su\nmadre."
+      },
+      {
+        "game": "usum-um",
+        "text": "Se comunica con los suyos golpeando su hueso\nrítmicamente. Se han llegado a contabilizar\nhasta cincuenta patrones distintos."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Este Pokémon ha dejado atrás su debilidad y\nse ha vuelto más feroz con el paso del tiempo.\nBlande su hueso con destreza."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Este Pokémon ha dejado atrás su debilidad y\nse ha vuelto más feroz con el paso del tiempo.\nBlande su hueso con destreza."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Ha evolucionado tras fortalecerse y superar\nsu pena. Ahora lucha con arrojo blandiendo\nsu hueso a modo de arma."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Al evolucionar, se ha fusionado con el cráneo de\nsu madre y, además, ha adquirido un carácter\nagresivo."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Marowak",
+    "genus": "Pokémon Guardaossi",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Di piccole dimensioni, un tempo era del tutto innocuo.\nÈ diventato più aggressivo brandendo un osso\ncome arma."
+      },
+      {
+        "game": "xy-y",
+        "text": "L’osso che impugna è la sua arma. Lo scaglia come\nun boomerang per mettere KO i suoi avversari."
+      },
+      {
+        "game": "oras-or",
+        "text": "Marowak si evolve da Cubone dopo aver superato il lutto\nper la perdita della madre ed essersi fatto forte. Questo\nPokémon dall’animo forgiato e temprato non si fa prendere\nfacilmente dallo sconforto."
+      },
+      {
+        "game": "oras-as",
+        "text": "Marowak si evolve da Cubone dopo aver superato il lutto\nper la perdita della madre ed essersi fatto forte. Questo\nPokémon dall’animo forgiato e temprato non si fa prendere\nfacilmente dallo sconforto."
+      },
+      {
+        "game": "sm-s",
+        "text": "Prima era timido e pauroso, ma dopo\nl’evoluzione è diventato aggressivo, come\ndimostra l’osso che brandisce."
+      },
+      {
+        "game": "sm-m",
+        "text": "Scaglia il suo osso come un boomerang per\nabbattere i Mandibuzz, suoi antichi predatori,\ne vendicarsi."
+      },
+      {
+        "game": "usum-us",
+        "text": "Scaglia il suo osso per abbattere i Mandibuzz.\nSi dice che in questo modo voglia vendicare\nla morte di sua madre."
+      },
+      {
+        "game": "usum-um",
+        "text": "Comunica con i propri simili sbattendo\nritmicamente il suo osso. Sono stati contati\ncirca 50 ritmi diversi."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Questo Pokémon era piccolo e debole, ma\nsi è fatto aggressivo e ha imparato a usare\nabilmente il suo osso nella lotta."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Questo Pokémon era piccolo e debole, ma\nsi è fatto aggressivo e ha imparato a usare\nabilmente il suo osso nella lotta."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Si è evoluto dopo essersi temprato e aver\nsuperato il lutto. Usa l’osso come un’arma\ne lotta valorosamente contro i nemici."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Evolvendosi è diventato tutt’uno con il teschio\ndella madre che prima indossava e ha acquisito\nun temperamento violento."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Marowak",
+    "genus": "Bone Keeper Pokémon",
+    "flavorText": [
+      {
+        "game": "rb-r",
+        "text": "The bone it holds\nis its key weapon.\nIt throws the\fbone skillfully\nlike a boomerang\nto KO targets."
+      },
+      {
+        "game": "rb-b",
+        "text": "The bone it holds\nis its key weapon.\nIt throws the\fbone skillfully\nlike a boomerang\nto KO targets."
+      },
+      {
+        "game": "y",
+        "text": "Small and weak,\nthis POKéMON is\nadept with its\fbone club. It has\ngrown more vicious\nover the ages."
+      },
+      {
+        "game": "gs-g",
+        "text": "It has been seen\npounding boulders\nwith the bone it\fcarries in order\nto tap out mes­\nsages to others."
+      },
+      {
+        "game": "gs-s",
+        "text": "It collects bones\nfrom an unknown\nplace. A MAROWAK\fgraveyard exists\nsomewhere in the\nworld, rumors say."
+      },
+      {
+        "game": "c",
+        "text": "Somewhere in the\nworld is a ceme­\ntery just for\fMAROWAK. It gets\nits bones from\nthose graves."
+      },
+      {
+        "game": "rs-r",
+        "text": "MAROWAK is the evolved form of a CUBONE\nthat has overcome its sadness at the\nloss of its mother and grown tough.\fThis POKéMON’s tempered and hardened\nspirit is not easily broken."
+      },
+      {
+        "game": "rs-s",
+        "text": "MAROWAK is the evolved form of a CUBONE\nthat has overcome its sadness at the\nloss of its mother and grown tough.\fThis POKéMON’s tempered and hardened\nspirit is not easily broken."
+      },
+      {
+        "game": "e",
+        "text": "A MAROWAK is the evolved form of a CUBONE\nthat has grown tough by overcoming the\ngrief of losing its mother. Its tempered\nand hardened spirit is not easily broken."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "It is small and was originally very weak.\nIts temperament turned ferocious when it\nbegan using bones."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "The bone it holds is its key weapon.\nIt throws the bone skillfully like a\nboomerang to KO targets."
+      },
+      {
+        "game": "dp-d",
+        "text": "From its birth, this savage Pokémon\nconstantly holds bones. It is\nskilled in using them as weapons."
+      },
+      {
+        "game": "dp-p",
+        "text": "From its birth, this savage Pokémon\nconstantly holds bones. It is\nskilled in using them as weapons."
+      },
+      {
+        "game": "pt",
+        "text": "From its birth, this savage Pokémon\nconstantly holds bones. It is\nskilled in using them as weapons."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "It has been seen pounding boulders\nwith the bone it carries in order\nto tap out messages to others."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "It collects bones from an unknown place.\nSome whisper that a MAROWAK graveyard\nexists somewhere in the world."
+      },
+      {
+        "game": "bw-b",
+        "text": "From its birth, this savage Pokémon\nconstantly holds bones. It is\nskilled in using them as weapons."
+      },
+      {
+        "game": "bw-w",
+        "text": "From its birth, this savage Pokémon\nconstantly holds bones. It is\nskilled in using them as weapons."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "From its birth, this savage Pokémon\nconstantly holds bones. It is\nskilled in using them as weapons."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "From its birth, this savage Pokémon\nconstantly holds bones. It is\nskilled in using them as weapons."
+      },
+      {
+        "game": "xy-x",
+        "text": "It is small and was originally very weak.\nIts temperament turned ferocious when it began\nusing bones."
+      },
+      {
+        "game": "xy-y",
+        "text": "The bone it holds is its key weapon. It throws the\nbone skillfully like a boomerang to KO targets."
+      },
+      {
+        "game": "oras-or",
+        "text": "Marowak is the evolved form of a Cubone that has overcome\nits sadness at the loss of its mother and grown tough.\nThis Pokémon’s tempered and hardened spirit is not\neasily broken."
+      },
+      {
+        "game": "oras-as",
+        "text": "Marowak is the evolved form of a Cubone that has overcome\nits sadness at the loss of its mother and grown tough. This\nPokémon’s tempered and hardened spirit is not easily broken."
+      },
+      {
+        "game": "sm-s",
+        "text": "Originally, it was weak and timid. After evolution,\nits temperament becomes violent, and it begins\nto wield bones as weapons."
+      },
+      {
+        "game": "sm-m",
+        "text": "This Pokémon is out for vengeance on its natural\nenemy, Mandibuzz. It throws bones like\nboomerangs to try to take it down."
+      },
+      {
+        "game": "usum-us",
+        "text": "It throws bones at Mandibuzz to knock it down.\nIt’s thought that Marowak is trying to avenge\nits parent."
+      },
+      {
+        "game": "usum-um",
+        "text": "They thump their bones rhythmically to\ncommunicate among themselves. There are\nnearly 50 different rhythmic patterns."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Small and weak, this Pokémon is adept\nwith its bone club. It has grown more vicious\nover the ages."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Small and weak, this Pokémon is adept\nwith its bone club. It has grown more vicious\nover the ages."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "This Pokémon overcame its sorrow to evolve a\nsturdy new body. Marowak faces its opponents\nbravely, using a bone as a weapon."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "When this Pokémon evolved, the skull of its\nmother fused to it. Marowak’s temperament also\nturned vicious at the same time."
+      }
+    ]
+  },
+  "chs": {
+    "name": "嘎啦嘎啦",
+    "genus": "爱骨宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-m",
+        "text": "将骨头像回力镖一样扔出去，\n击落天敌秃鹰娜来复仇。"
+      },
+      {
+        "game": "sm-s",
+        "text": "原本因体弱而很胆小。\n进化后变成了挥舞着骨头的粗暴性格。"
+      },
+      {
+        "game": "usum-us",
+        "text": "会用力扔骨头击落秃鹰娜。\n人们认为它这是在给亲人报仇。"
+      },
+      {
+        "game": "usum-um",
+        "text": "会有节奏地敲响骨头，\n并以此和伙伴进行联络。\n节奏有着近５０种变化。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "身体曾经又小又弱，在\n习惯了使用骨头战斗后\n才变成了粗暴的性格。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "身体曾经又小又弱，在\n习惯了使用骨头战斗后\n才变成了粗暴的性格。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "摆脱悲伤后，进化得\n更加强壮。以骨头为武器，\n勇敢地与敌人进行交锋。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "进化后，与原本戴在头上的\n母亲头骨完全融为一体，\n而且性格也变得十分凶暴。"
+      }
+    ]
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "jap": {
+    "name": "ジュラルドン",
+    "genus": "ごうきんポケモン",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "みがきあげた　きんぞくの　ような\nからだは　かるいうえに　かたいが\nさびやすいのが　けってんなのだ。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "とくしゅな　きんぞくの　からだは\nかるく　みのこなしは　ばつぐん。\nあめが　にがてで　どうくつに　すむ。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Duraludon",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "두랄루돈",
+    "genus": "합금포켓몬",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "윤이 나는 금속과도 같은\n몸은 가벼우면서도 튼튼하지만\n녹슬기 쉽다는 것이 흠이다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "금속으로 된 특수한 몸은\n가벼워서 몸놀림이 뛰어나다.\n비를 싫어해 동굴에 산다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "鋁鋼龍",
+    "genus": "合金寶可夢",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "身體猶如打磨過的金屬，\n雖然輕而堅硬，卻有著\n容易生鏽的弱點。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "由特殊金屬構成的身體\n十分輕盈，能夠靈活地活動。\n不喜歡下雨，所以住在洞窟裡。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Duralugon",
+    "genus": "Pokémon Alliage",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Son corps, semblable à du métal poli,\nallie légèreté et solidité.\nMalheureusement, il rouille facilement."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Son corps, composé d’un métal spécial, est léger\net lui offre une excellente mobilité. Il est toutefois\nsensible à la pluie et vit donc dans les grottes."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Duraludon",
+    "genus": "Legierungs-Pokémon",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Sein an aufpoliertes Metall erinnernder Körper ist\nnicht nur leicht, sondern auch robust. Er hat\njedoch den Nachteil, schnell zu rosten."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Es ist sehr beweglich, weil sein Körper aus einem\nspeziellen, leichten Metall besteht. Da es Regen\nnicht mag, lebt es in Höhlen."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Duraludon",
+    "genus": "Pokémon Aleación",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Su cuerpo, similar a un metal pulido, es tan ligero\ncomo robusto. Sin embargo, tiene el defecto de\nque se oxida con facilidad."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Hace gala de una agilidad extraordinaria, ya que\nsu cuerpo está compuesto de un metal especial.\nDetesta la lluvia, por lo que habita en cuevas."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Duraludon",
+    "genus": "Pokémon Metallolega",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Il suo corpo simile a metallo lucidato è leggero\ne resistente, ma ha il difetto di arrugginire\nfacilmente."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Il suo corpo fatto di un metallo speciale è\nleggero e gli conferisce un’andatura impeccabile.\nVive nelle grotte perché odia la pioggia."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Duraludon",
+    "genus": "Alloy Pokémon",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Its body resembles polished metal, and it’s both\nlightweight and strong. The only drawback is that\nit rusts easily."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "The special metal that composes its body is very\nlight, so this Pokémon has considerable agility.\nIt lives in caves because it dislikes the rain."
+      }
+    ]
+  },
+  "chs": {
+    "name": "铝钢龙",
+    "genus": "合金宝可梦",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "身体犹如打磨过的金属，\n虽然轻而坚硬，却有着\n容易生锈的弱点。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "由特殊金属构成的身体\n十分轻盈，能够灵活地活动。\n不喜欢下雨，所以住在洞窟里。"
+      }
+    ]
+  }
+}

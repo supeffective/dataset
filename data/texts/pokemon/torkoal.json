@@ -1,0 +1,453 @@
+{
+  "jap": {
+    "name": "コータス",
+    "genus": "せきたんポケモン",
+    "flavorText": [
+      {
+        "game": "usum-us",
+        "text": "こうらから　ふきだす　けむりで\nたいちょうが　わかる。　いきおいが\nはげしいときは　げんきな　しょうこ。"
+      },
+      {
+        "game": "xy-x",
+        "text": "つかわれなくなった　たんこうには\nたくさんの　コータスが　すみついて\nせきたんを　せっせと　ほっている。"
+      },
+      {
+        "game": "xy-y",
+        "text": "こうらの　なかで　せきたんを　もやし\nエネルギーに　している。ピンチの\nときは　くろい　ススを　ふきだす。"
+      },
+      {
+        "game": "oras-or",
+        "text": "やまを　ほって　せきたんを　みつけては　せっせと\nこうらの　くうどうに　いれて　もやす　ポケモン。\nおそわれると　くろい　けむりを　だして　にげる。"
+      },
+      {
+        "game": "oras-as",
+        "text": "せきたんを　もやして　エネルギーを　つくりだす。\nひの　いきおいが　よわまると　げんきが　なくなり\nたたかう　ときは　せきたんを　たくさん　もやす。"
+      },
+      {
+        "game": "sm-s",
+        "text": "せきたんが　エネルギーの　みなもと。\nコータスの　すんでいる　やまには\nおおくの　せきたんが　ねむっている。"
+      },
+      {
+        "game": "sm-m",
+        "text": "こうらのなかの　ほのおが　きえると\nしんでしまう。　いえで　そだてるには\nつねに　もやすものが　いるぞ。"
+      },
+      {
+        "game": "usum-um",
+        "text": "せきたんを　もやして　エネルギーを\nつくる。　せきたんが　もえつきると\nみうごきが　とれなくなってしまう。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "こうらの　なかで　せきたんを　もやし\nエネルギーに　している。　ピンチの\nときは　くろい　ススを　ふきだす。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "つかわれなくなった　たんこうには\nたくさんの　コータスが　すみついて\nせきたんを　せっせと　ほっている。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Cotoise",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "코터스",
+    "genus": "석탄포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "사용할 수 없게 된 탄광에는\n많은 코터스가 살며\n석탄을 부지런히 캐고 있다."
+      },
+      {
+        "game": "xy-y",
+        "text": "등껍질 속에 석탄을 태워서\n에너지로 사용한다. 위급할\n때는 까만 그을음을 뿜어낸다."
+      },
+      {
+        "game": "oras-or",
+        "text": "산을 파서 석탄을 발견하면 부지런히\n등껍질의 빈 곳에 넣고 태우는 포켓몬이다.\n습격당하면 검은 연기를 내고 도망간다."
+      },
+      {
+        "game": "oras-as",
+        "text": "석탄을 태워서 에너지를 만들어낸다.\n불의 기세가 약해지면 기운이 없어져\n싸울 때는 석탄을 많이 태운다."
+      },
+      {
+        "game": "sm-s",
+        "text": "석탄이 에너지의 근원이다.\n코터스가 사는 산에는\n많은 석탄이 잠들어 있다."
+      },
+      {
+        "game": "sm-m",
+        "text": "등껍질 안의 불꽃이 꺼지면\n죽어버린다. 집에서 키우기 위해서는\n항상 태울 것이 필요하다."
+      },
+      {
+        "game": "usum-us",
+        "text": "등껍질에서 내뿜는 연기로\n몸 상태를 알 수 있다. 기세가\n격렬할 때는 건강하다는 증거다."
+      },
+      {
+        "game": "usum-um",
+        "text": "석탄을 태워서 에너지를\n만든다. 석탄이 다 타 버리면\n움직이지 못하게 된다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "등껍질 속에 석탄을 태워서\n에너지로 사용한다. 위급할\n때는 까만 매연을 뿜어낸다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "사용할 수 없게 된 탄광에는\n많은 코터스가 살며\n석탄을 부지런히 캐고 있다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "煤炭龜",
+    "genus": "煤炭寶可夢",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "煤炭是牠的能量來源。\n在煤炭龜棲息著的山裡，\n沉睡著大量的煤炭。"
+      },
+      {
+        "game": "sm-m",
+        "text": "如果甲殼中的火焰熄滅就會死亡。\n要在家裡培育的話，必須常備燃料。"
+      },
+      {
+        "game": "usum-us",
+        "text": "從甲殼噴出的煙可以看出牠的\n身體狀況。煙噴得很激烈時，\n代表牠很有精神。"
+      },
+      {
+        "game": "usum-um",
+        "text": "會燃燒煤炭來製造能量。\n如果煤炭燒光了，\n身體就會變得無法動彈。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "會在甲殼中燃燒煤炭\n產生能量。遇到危機時\n會噴出黑色的煤煙。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "在廢棄不用的煤礦坑中\n住著許多的煤炭龜。\n牠們會不停地挖掘煤炭。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Chartor",
+    "genus": "Pokémon Charbon",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Il tire son énergie du charbon qu’il\nbrûle dans sa carapace et crache\nde la suie noire en cas de danger."
+      },
+      {
+        "game": "bw-w",
+        "text": "Il tire son énergie du charbon qu’il\nbrûle dans sa carapace et crache\nde la suie noire en cas de danger."
+      },
+      {
+        "game": "xy-x",
+        "text": "Les Chartor vivent dans les mines abandonnées,\noù ils extraient le charbon avec ardeur."
+      },
+      {
+        "game": "xy-y",
+        "text": "Il tire son énergie du charbon qu’il brûle dans sa\ncarapace et crache de la suie noire en cas de danger."
+      },
+      {
+        "game": "oras-or",
+        "text": "Chartor fore les montagnes à la recherche de charbon.\nLorsqu’il en trouve, il le met dans les emplacements creux\nde sa carapace pour le brûler. Quand il est attaqué,\nce Pokémon crache une épaisse fumée noire pour s’enfuir."
+      },
+      {
+        "game": "oras-as",
+        "text": "Chartor génère de l’énergie en brûlant du charbon.\nIl s’affaiblit lorsque le feu s’éteint. Lorsqu’il se prépare\nau combat, ce Pokémon brûle plus de charbon."
+      },
+      {
+        "game": "sm-s",
+        "text": "Les Chartor peuplent les montagnes abritant\nde grands gisements de charbon, dont ils se\nservent comme source d’énergie."
+      },
+      {
+        "game": "sm-m",
+        "text": "Si le feu brûlant sous sa carapace s’éteint,\nil meurt. Si vous le gardez à la maison, il y a\ntoujours quelque chose qui flambe."
+      },
+      {
+        "game": "usum-us",
+        "text": "Un bon indicateur de sa santé est le débit\nde la fumée qui s’échappe de sa carapace :\ns’il est important, c’est qu’il est en pleine forme."
+      },
+      {
+        "game": "usum-um",
+        "text": "Il tire son énergie du charbon qu’il fait brûler.\nUne fois qu’il a tout consommé, il ne peut plus\nbouger."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Il tire son énergie du charbon qu’il brûle\ndans sa carapace, et crache de la suie noire\nen cas de danger."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Les Chartor vivent en grand nombre dans\nles mines abandonnées, où ils extraient\nle charbon avec ardeur."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Qurtel",
+    "genus": "Kohle-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Große Gruppen Qurtel siedeln sich in stillgelegten\nBergwerken an und graben dort emsig nach Kohle."
+      },
+      {
+        "game": "xy-y",
+        "text": "In seinem Panzer verbrennt es Kohle und gewinnt\ndaraus Energie. Bei Gefahr sondert es Ruß ab."
+      },
+      {
+        "game": "oras-or",
+        "text": "Qurtel schaufelt sich auf der Suche nach Kohle durch\ndie Berge. Wenn es welche findet, füllt es die Hohlräume\nseines Panzers mit Kohle und verbrennt diese. Wenn es\nangegriffen wird, stößt es dicken schwarzen Rauch aus."
+      },
+      {
+        "game": "oras-as",
+        "text": "Qurtel erzeugt Energie, indem es Kohle verbrennt. Wenn das\nFeuer nachlässt, wird es schwächer. In der Vorbereitung auf\neinen Kampf verbrennt dieses Pokémon mehr Kohle."
+      },
+      {
+        "game": "sm-s",
+        "text": "Kohle ist die Quelle seiner Energie. Ein Glück,\ndass in den von Qurtel bewohnten Bergen\ngroße Kohlevorkommen schlummern."
+      },
+      {
+        "game": "sm-m",
+        "text": "Erlöschen die Flammen in seinem Panzer,\nstirbt es. Will man es bei sich zu Hause halten,\nbraucht man daher stets brennbares Material."
+      },
+      {
+        "game": "usum-us",
+        "text": "Am Rauch, den es aus seinem Panzer ausstößt,\nerkennt man seine Verfassung. Stößt es diesen\nkraftvoll aus, geht es ihm gut."
+      },
+      {
+        "game": "usum-um",
+        "text": "Es erzeugt Energie, indem es Kohle verbrennt.\nWenn diese vollständig verbrannt ist, kann es\nsich nicht mehr bewegen."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "In seinem Panzer verbrennt es Kohle und gewinnt\ndaraus Energie. Bei Gefahr sondert es Ruß ab."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Große Gruppen von Qurtel siedeln sich in\nstillgelegten Bergwerken an und graben dort\nemsig nach Kohle."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Torkoal",
+    "genus": "Pokémon Carbón",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Trabaja sin descanso en minas en desuso localizando\ny extrayendo carbón."
+      },
+      {
+        "game": "xy-y",
+        "text": "Quema carbón en su caparazón para obtener energía.\nSi le atacan, echa un denso humo negro."
+      },
+      {
+        "game": "oras-or",
+        "text": "Torkoal va cavando por las montañas en busca de carbón.\nCuando lo encuentra, rellena los huecos que tiene dentro del\ncaparazón y lo quema. Si le atacan, este Pokémon echa un\nhumo negro que le permite la retirada."
+      },
+      {
+        "game": "oras-as",
+        "text": "Torkoal genera energía quemando carbón. A medida que se\nextingue el fuego, se va debilitando. Antes de entrar en\ncombate, quema más carbón de lo habitual."
+      },
+      {
+        "game": "sm-s",
+        "text": "La fuente de su energía es el carbón. Torkoal\nsuele vivir en montañas donde yacen grandes\ncantidades de esta roca mineral."
+      },
+      {
+        "game": "sm-m",
+        "text": "Si se extingue el fuego que arde en el interior de\nsu caparazón, puede perecer. Si se cría en casa,\nno hay día que no queme algo accidentalmente."
+      },
+      {
+        "game": "usum-us",
+        "text": "El humo que expulsa por el dorso es indicativo\nde su estado de salud. Si las fumarolas brotan\ncon fuerza, significa que está en plena forma."
+      },
+      {
+        "game": "usum-um",
+        "text": "Genera su energía quemando carbón y, una vez\nque lo ha consumido por completo, ya no puede\nmoverse."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Quema carbón en su caparazón para obtener\nenergía. Si se ve amenazado, despide un hollín\nnegro."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Se junta con numerosos congéneres para\nestablecer su morada en minas abandonadas,\ndonde se afanan en localizar y extraer carbón."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Torkoal",
+    "genus": "Pokémon Carbone",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "I Torkoal eleggono a propria dimora miniere di carbone\nabbandonate e vi scavano carbone con ardore."
+      },
+      {
+        "game": "xy-y",
+        "text": "Genera energia bruciando carbone all’interno della\ncorazza. Se è in pericolo, emette fuliggine scura."
+      },
+      {
+        "game": "oras-or",
+        "text": "Torkoal scava in montagna in cerca di carbone. Quando\nlo trova, lo usa per riempire la cavità della propria corazza\ne poi lo brucia. In caso di aggressione, emette nubi di\nfumo nero per poi battere in ritirata."
+      },
+      {
+        "game": "oras-as",
+        "text": "Torkoal genera energia bruciando il carbone. Si indebolisce\ncon l’affievolirsi del fuoco. In preparazione alle lotte\nil Pokémon brucia maggiori quantità di carbone."
+      },
+      {
+        "game": "sm-s",
+        "text": "Genera energia bruciando carbone all’interno\ndella corazza. Le montagne in cui vive sono\nricche di questo materiale."
+      },
+      {
+        "game": "sm-m",
+        "text": "Se il fuoco che brucia dentro la sua corazza si\nestingue, le sue energie vitali si esauriscono.\nSe tenuto in casa, dà spesso fuoco agli oggetti."
+      },
+      {
+        "game": "usum-us",
+        "text": "Il fumo che fuoriesce dalla sua corazza permette\ndi capire il suo stato di salute. Quando i getti\nsono vigorosi, significa che sta bene."
+      },
+      {
+        "game": "usum-um",
+        "text": "Genera energia bruciando carbone e quando lo\nesaurisce non riesce più a muoversi."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Genera energia bruciando carbone all’interno\ndella corazza. Se è in pericolo, emette fuliggine\nscura."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Elegge a propria dimora miniere abbandonate,\ndove cerca carbone scavando con ardore."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Torkoal",
+    "genus": "Coal Pokémon",
+    "flavorText": [
+      {
+        "game": "usum-us",
+        "text": "You can tell how it’s feeling by the smoke\nspouting from its shell. Tremendous velocity\nis a sign of good health."
+      },
+      {
+        "game": "rs-r",
+        "text": "TORKOAL digs through mountains in\nsearch of coal. If it finds some, it fills\nhollow spaces on its shell with the coal\fand burns it.\nIf it is attacked, this POKéMON spouts\nthick black smoke to beat a retreat."
+      },
+      {
+        "game": "rs-s",
+        "text": "TORKOAL generates energy by burning\ncoal. It grows weaker as the fire\ndies down.\fWhen it is preparing for battle, this\nPOKéMON burns more coal."
+      },
+      {
+        "game": "e",
+        "text": "It battles using energy it gets from\nburning coal. When loosing smoke from its\nnostrils, it lets off a sound that is\nsimilar to a locomotive’s horn."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "It burns coal inside its shell. If it is\nattacked, it belches thick, black smoke\nand flees."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "It burns coal inside its shell. If it is\nattacked, it belches thick, black smoke\nand flees."
+      },
+      {
+        "game": "dp-d",
+        "text": "It burns coal inside its shell for\nenergy. It blows out black soot if\nit is endangered."
+      },
+      {
+        "game": "dp-p",
+        "text": "It burns coal inside its shell for\nenergy. It blows out black soot if\nit is endangered."
+      },
+      {
+        "game": "pt",
+        "text": "It burns coal inside its shell for\nenergy. It blows out black soot if\nit is endangered."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "You find abandoned coal mines full\nof them. They dig tirelessly in\nsearch of coal."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "You find abandoned coal mines full\nof them. They dig tirelessly in\nsearch of coal."
+      },
+      {
+        "game": "bw-b",
+        "text": "It burns coal inside its shell for\nenergy. It blows out black soot if\nit is endangered."
+      },
+      {
+        "game": "bw-w",
+        "text": "It burns coal inside its shell for\nenergy. It blows out black soot if\nit is endangered."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "It burns coal inside its shell for\nenergy. It blows out black soot if\nit is endangered."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "It burns coal inside its shell for\nenergy. It blows out black soot if\nit is endangered."
+      },
+      {
+        "game": "xy-x",
+        "text": "You find abandoned coal mines full of them.\nThey dig tirelessly in search of coal."
+      },
+      {
+        "game": "xy-y",
+        "text": "It burns coal inside its shell for energy. It blows out\nblack soot if it is endangered."
+      },
+      {
+        "game": "oras-or",
+        "text": "Torkoal digs through mountains in search of coal. If it finds\nsome, it fills hollow spaces on its shell with the coal and burns\nit. If it is attacked, this Pokémon spouts thick black smoke to\nbeat a retreat."
+      },
+      {
+        "game": "oras-as",
+        "text": "Torkoal generates energy by burning coal. It grows weaker\nas the fire dies down. When it is preparing for battle, this\nPokémon burns more coal."
+      },
+      {
+        "game": "sm-s",
+        "text": "Coal is the source of Torkoal’s energy. Large\namounts of coal can be found in the mountains\nwhere they live."
+      },
+      {
+        "game": "sm-m",
+        "text": "If the fire burning within its shell goes out, it will\ndie. Those who wish to raise one in their home\nmust always keep something flammable at hand."
+      },
+      {
+        "game": "usum-um",
+        "text": "It burns coal to produce energy. When it has\nburned through all of its coal, it becomes unable\nto move."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "It burns coal inside its shell for energy. It blows\nout black soot if it is endangered."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "You find abandoned coal mines full of them.\nThey dig tirelessly in search of coal."
+      }
+    ]
+  },
+  "chs": {
+    "name": "煤炭龟",
+    "genus": "煤炭宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "煤炭是其能量的来源。\n在煤炭龟栖息着的山里，\n沉睡着大量的煤炭。"
+      },
+      {
+        "game": "sm-m",
+        "text": "如果甲壳中的火焰消失就会死亡。\n要在家里培育的话，必须常备燃料。"
+      },
+      {
+        "game": "usum-us",
+        "text": "通过甲壳里喷出的烟\n就能了解它的身体状况。\n势头很旺时，说明很有精神。"
+      },
+      {
+        "game": "usum-um",
+        "text": "燃烧煤炭，制作能量。\n如果煤炭烧尽，\n身体就会变得无法动弹。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "会在甲壳中燃烧煤炭产生能量。\n危急关头会喷出黑色的煤烟。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "在弃用的煤矿中\n住着很多煤炭龟，\n它们会不停地挖掘煤炭。"
+      }
+    ]
+  }
+}

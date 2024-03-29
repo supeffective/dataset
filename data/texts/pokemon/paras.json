@@ -1,0 +1,481 @@
+{
+  "jap": {
+    "name": "パラス",
+    "genus": "きのこポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "むしの　せなかに　はえているのは\nとうちゅうかそう　という　キノコ。\nそだつと　キノコも　おおきくなる。"
+      },
+      {
+        "game": "xy-y",
+        "text": "あなをほり　きのねっこ　から\nえいようを　とるが　ほとんどは\nせなかの　キノコに　うばわれる。"
+      },
+      {
+        "game": "oras-or",
+        "text": "パラスから　ようぶんを　すいとって　おおきくなる\nキノコは　とうちゅうかそう　と　よばれている。\nちょうじゅの　くすりになる　きちょうな　キノコ。"
+      },
+      {
+        "game": "oras-as",
+        "text": "パラスから　ようぶんを　すいとって　おおきくなる\nキノコは　とうちゅうかそう　と　よばれている。\nちょうじゅの　くすりになる　きちょうな　キノコ。"
+      },
+      {
+        "game": "sm-s",
+        "text": "くっても　くっても　せなかに\nはえている　キノコが　ほとんど\nえいようを　うばっていくのだ。"
+      },
+      {
+        "game": "sm-m",
+        "text": "とうちゅうかそうと　いう　せなかの\nキノコは　ちょうじゅの　くすり。\nかわかし　ふんまつにして　つかう。"
+      },
+      {
+        "game": "usum-us",
+        "text": "しっけが　たりないのか　えいようが\nたりないのか　アローラの　パラスの\nキノコは　そだちが　いまいち。"
+      },
+      {
+        "game": "usum-um",
+        "text": "とうちゅうかそう　という　キノコが\nムシを　あやつっているのだ。\nムシの　いしは　むしされる。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "あなをほり　きのねっこ　から\nえいようを　とるが　ほとんどは\nせなかの　キノコに　うばわれる。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "あなをほり　きのねっこ　から\nえいようを　とるが　ほとんどは\nせなかの　キノコに　うばわれる。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Paras",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "파라스",
+    "genus": "버섯포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "벌레의 등에 돋아나 있는 것은\n동충하초라는 버섯이다.\n성장하면 버섯도 커진다."
+      },
+      {
+        "game": "xy-y",
+        "text": "구멍을 파서 나무뿌리로부터\n영양을 섭취하지만 대부분은\n등에 있는 버섯에게 빼앗긴다."
+      },
+      {
+        "game": "oras-or",
+        "text": "파라스로부터 양분을 빨아들여 자란\n버섯은 동충하초라고 불리고 있다.\n장수의 약이 되는 귀중한 버섯이다."
+      },
+      {
+        "game": "oras-as",
+        "text": "파라스로부터 양분을 빨아들여 자란\n버섯은 동충하초라고 불리고 있다.\n장수의 약이 되는 귀중한 버섯이다."
+      },
+      {
+        "game": "sm-s",
+        "text": "먹어도 먹어도 등에\n돋아나 있는 버섯이 대부분의\n영양을 빼앗아간다."
+      },
+      {
+        "game": "sm-m",
+        "text": "동충하초라고 불리는 등의\n버섯은 장수의 약이다.\n말려서 가루로 만들어 사용한다."
+      },
+      {
+        "game": "usum-us",
+        "text": "습도가 낮아서인지 영양이\n부족해서인지 알로라 파라스의\n버섯은 성장이 그저 그렇다."
+      },
+      {
+        "game": "usum-um",
+        "text": "동충하초라고 불리는 버섯이\n벌레를 조종하고 있다.\n벌레의 의사는 무시된다."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "구멍을 파서 나무뿌리로부터\n영양을 섭취하지만 대부분은\n등에 있는 버섯에게 빼앗긴다."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "구멍을 파서 나무뿌리로부터\n영양을 섭취하지만 대부분은\n등에 있는 버섯에게 빼앗긴다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "派拉斯",
+    "genus": "蘑菇寶可夢",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "即使不停地吃，不停地吃，\n大部分攝取的營養都會被\n生長在背上的蘑菇奪走。"
+      },
+      {
+        "game": "sm-m",
+        "text": "背上生長蘑菇被稱為冬蟲夏草，\n是一種能延年益壽的藥。\n乾燥後磨成粉末使用。"
+      },
+      {
+        "game": "usum-us",
+        "text": "不知是因為濕氣不夠還是營養不足，\n阿羅拉的派拉斯背上的\n蘑菇長得都不怎麼樣。"
+      },
+      {
+        "game": "usum-um",
+        "text": "控制蟲子的是一種\n叫做冬蟲夏草的蕈類。\n蟲子的意志會被忽視。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "會挖掘洞穴，從樹木的根部\n獲取營養，但幾乎所有的營養\n都會被背上的蘑菇奪走。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "會挖掘洞穴，從樹木的根部\n獲取營養，但幾乎所有的營養\n都會被背上的蘑菇奪走。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Paras",
+    "genus": "Pokémon Champignon",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Des champignons appelés “tochukaso”\npoussent sur son dos. Ils évoluent\navec le Paras hôte."
+      },
+      {
+        "game": "bw-w",
+        "text": "Des champignons appelés “tochukaso”\npoussent sur son dos. Ils évoluent\navec le Paras hôte."
+      },
+      {
+        "game": "xy-x",
+        "text": "Sur le dos de ce Pokémon se trouvent des\nchampignons appelés tochukaso. Ils se développent\nau même rythme que leur hôte."
+      },
+      {
+        "game": "xy-y",
+        "text": "Il s’enfouit sous terre pour ronger des racines afin de\nnourrir les champignons sur son dos."
+      },
+      {
+        "game": "oras-or",
+        "text": "Paras accueille des champignons parasites appelés tochukaso\nqui poussent sur son dos. Ils grandissent grâce aux nutriments\ntrouvés sur le dos de ce Pokémon Insecte.\nIls peuvent rallonger l’espérance de vie."
+      },
+      {
+        "game": "oras-as",
+        "text": "Paras accueille des champignons parasites appelés tochukaso\nqui poussent sur son dos. Ils grandissent grâce aux nutriments\ntrouvés sur le dos de ce Pokémon Insecte.\nIls peuvent rallonger l’espérance de vie."
+      },
+      {
+        "game": "sm-s",
+        "text": "Il a beau manger autant qu’il peut,\nles champignons qui poussent sur son dos\nlui volent la plupart de ses nutriments."
+      },
+      {
+        "game": "sm-m",
+        "text": "Les champignons qui poussent sur son dos,\nappelés tochukaso, peuvent être séchés puis\nbroyés pour obtenir un élixir de longue vie."
+      },
+      {
+        "game": "usum-us",
+        "text": "C’est probablement par manque de nutriments\net d’humidité que les champignons sur son dos\npeinent à se développer à Alola."
+      },
+      {
+        "game": "usum-um",
+        "text": "Les champignons, appelés tochukaso,\ncontrôlent l’insecte contre sa volonté."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Il s’enfouit pour ronger des racines, mais ce sont\nles champignons sur son dos qui absorbent\npresque tous les nutriments."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Il s’enfouit pour ronger des racines, mais ce sont\nles champignons sur son dos qui absorbent\npresque tous les nutriments."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Paras",
+    "genus": "Pilz",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Auf seinem Rücken wachsen Pilze, die man\nTochukaso nennt. Die Pilze wachsen mit ihrem Wirt."
+      },
+      {
+        "game": "xy-y",
+        "text": "Dieses Pokémon gräbt sich in den Boden und frisst\nWurzeln. Die Pilze auf seinem Rücken sind Parasiten."
+      },
+      {
+        "game": "oras-or",
+        "text": "Auf Paras’ Rücken wachsen parasitäre Pilze,\ndie Tochukaso genannt werden. Sie wachsen,\nindem sie dem Käfer-Pokémon Nährstoffe entziehen.\nSie sind sehr wertvoll als lebensverlängernde Medizin."
+      },
+      {
+        "game": "oras-as",
+        "text": "Auf Paras’ Rücken wachsen parasitäre Pilze,\ndie Tochukaso genannt werden. Sie wachsen,\nindem sie dem Käfer-Pokémon Nährstoffe entziehen.\nSie sind sehr wertvoll als lebensverlängernde Medizin."
+      },
+      {
+        "game": "sm-s",
+        "text": "Egal, wie viel Nahrung es auch zu sich nimmt,\ndie Pilze, die auf seinem Rücken wachsen,\nentziehen ihm so gut wie alle Nährstoffe."
+      },
+      {
+        "game": "sm-m",
+        "text": "Die Pilze auf seinem Rücken heißen Tochukaso.\nSie lassen sich als lebensverlängernde Medizin\nverwerten, wenn man sie trocknet und zermahlt."
+      },
+      {
+        "game": "usum-us",
+        "text": "In Alola sind Paras’ Pilze etwas unterentwickelt.\nVielleicht mangelt es ihm hier an Feuchtigkeit\noder Nährstoffen."
+      },
+      {
+        "game": "usum-um",
+        "text": "Paras’ Körper kann nicht nach seinem eigenen\nWillen handeln, da er von Tochukaso, den Pilzen\nauf seinem Rücken, kontrolliert wird."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Es gräbt sich in den Boden, um Baumwurzeln\nNährstoffe zu entziehen. Den Großteil davon\nabsorbieren jedoch die Pilze auf seinem Rücken."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Es gräbt sich in den Boden, um Baumwurzeln\nNährstoffe zu entziehen. Den Großteil davon\nabsorbieren jedoch die Pilze auf seinem Rücken."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Paras",
+    "genus": "Pokémon Hongo",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Lleva en el lomo dos setas parásitas llamadas\ntochukaso, que crecen con él."
+      },
+      {
+        "game": "xy-y",
+        "text": "Escarba bajo el suelo para roer las raíces de los\nárboles. Sus setas absorben los nutrientes."
+      },
+      {
+        "game": "oras-or",
+        "text": "Paras lleva dos setas parásitas a cuestas llamadas tochukaso.\nEstas crecen alimentándose de los nutrientes de este\nPokémon de tipo Bicho y Planta que les sirve de huésped.\nLas setas se usan como elixir de vida."
+      },
+      {
+        "game": "oras-as",
+        "text": "Paras lleva dos setas parásitas a cuestas llamadas tochukaso.\nEstas crecen alimentándose de los nutrientes de este\nPokémon de tipo Bicho y Planta que les sirve de huésped.\nLas setas se usan como elixir de vida."
+      },
+      {
+        "game": "sm-s",
+        "text": "Por mucho que coma, las setas parásitas que\ntiene en el lomo le roban la mayor parte de los\nnutrientes."
+      },
+      {
+        "game": "sm-m",
+        "text": "Las setas que lleva en su lomo, llamadas\ntochukaso, se pueden deshidratar y pulverizar\npara crear un elixir que alarga la vida."
+      },
+      {
+        "game": "usum-us",
+        "text": "Ya sea por la falta de humedad o de nutrientes,\nlas setas parásitas de los Paras en Alola suelen\nser más pequeñas que en otras regiones."
+      },
+      {
+        "game": "usum-um",
+        "text": "Las setas que tiene en el dorso, llamadas\ntochukaso, controlan al insecto contra su\nvoluntad."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Escarba en el suelo para extraer nutrientes de\nlas raíces de los árboles, que las setas del lomo\nabsorben después casi por completo."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Escarba en el suelo para extraer nutrientes de\nlas raíces de los árboles, que las setas del lomo\nabsorben después casi por completo."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Paras",
+    "genus": "Pokémon Fungo",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Sul dorso di questo Pokémon nascono funghi\nchiamati tochukaso, che crescono insieme a lui."
+      },
+      {
+        "game": "xy-y",
+        "text": "Si nasconde sottoterra dove si ciba di radici.\nI funghi che ha sulla schiena sono parassiti."
+      },
+      {
+        "game": "oras-or",
+        "text": "Paras ha sulla schiena dei funghi parassiti chiamati tochukaso,\nche crescono traendo nutrimento dal Paras ospite. Sono molto\napprezzati come farmaco di longevità."
+      },
+      {
+        "game": "oras-as",
+        "text": "Paras ha sulla schiena dei funghi parassiti chiamati tochukaso,\nche crescono traendo nutrimento dal Paras ospite. Sono molto\napprezzati come farmaco di longevità."
+      },
+      {
+        "game": "sm-s",
+        "text": "Mangia a più non posso, ma i funghi che\ncrescono sul suo dorso gli rubano quasi\ntutto il nutrimento."
+      },
+      {
+        "game": "sm-m",
+        "text": "I funghi che ha sul dorso, chiamati tochukaso,\nsono considerati un farmaco di longevità.\nPrima dell’uso, vanno essiccati e polverizzati."
+      },
+      {
+        "game": "usum-us",
+        "text": "I funghi sul dorso di Paras crescono con\ndifficoltà ad Alola, forse per mancanza\ndi umidità o di nutrimento."
+      },
+      {
+        "game": "usum-um",
+        "text": "I funghi che crescono sul dorso di questo\nPokémon, chiamati tochukaso, controllano le sue\nazioni contro la sua volontà."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Scava nella terra per cibarsi delle radici degli\nalberi, ma i funghi che ha sul dorso assorbono\nquasi tutte le sostanze nutritive."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Scava nella terra per cibarsi delle radici degli\nalberi, ma i funghi che ha sul dorso assorbono\nquasi tutte le sostanze nutritive."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Paras",
+    "genus": "Mushroom Pokémon",
+    "flavorText": [
+      {
+        "game": "rb-r",
+        "text": "Burrows to suck\ntree roots. The\nmushrooms on its\fback grow by draw­\ning nutrients from\nthe bug host."
+      },
+      {
+        "game": "rb-b",
+        "text": "Burrows to suck\ntree roots. The\nmushrooms on its\fback grow by draw­\ning nutrients from\nthe bug host."
+      },
+      {
+        "game": "y",
+        "text": "Burrows under the\nground to gnaw on\ntree roots. The\fmushrooms on its\nback absorb most\nof the nutrition."
+      },
+      {
+        "game": "gs-g",
+        "text": "It is doused with\nmushroom spores\nwhen it is born.\fAs its body grows,\nmushrooms sprout\nfrom its back."
+      },
+      {
+        "game": "gs-s",
+        "text": "As its body grows\nlarge, oriental\nmushrooms named\ftochukaso start\nsprouting out of\nits back."
+      },
+      {
+        "game": "c",
+        "text": "The tochukaso\ngrowing on this\nPOKéMON's back\forders it to\nextract juice from\ntree trunks."
+      },
+      {
+        "game": "rs-r",
+        "text": "PARAS has parasitic mushrooms growing\non its back called tochukaso. They grow\nlarge by drawing nutrients from the BUG\fPOKéMON host. They are highly valued as\na medicine for extending life."
+      },
+      {
+        "game": "rs-s",
+        "text": "PARAS has parasitic mushrooms growing\non its back called tochukaso. They grow\nlarge by drawing nutrients from this\fBUG POKéMON host. They are highly\nvalued as a medicine for extending life."
+      },
+      {
+        "game": "e",
+        "text": "A PARAS has parasitic tochukaso\nmushrooms growing on its back. They grow\nby drawing nutrients from the host. They\nare valued as a medicine for long life."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "Growing out of the bug’s back are\nmushrooms called tochukaso. The mushrooms\ngrow with the bug host."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "Burrows to suck tree roots. The mushrooms\non its back grow by drawing nutrients from\nthe bug host."
+      },
+      {
+        "game": "dp-d",
+        "text": "Mushrooms named tochukaso grow\non its back. They grow along\nwith the host PARAS."
+      },
+      {
+        "game": "dp-p",
+        "text": "Mushrooms named tochukaso grow\non its back. They grow along\nwith the host PARAS."
+      },
+      {
+        "game": "pt",
+        "text": "Mushrooms named tochukaso grow\non its back. They grow along\nwith the host PARAS."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "It is doused with mushroom spores\nwhen it is born. As its body grows,\nmushrooms sprout from its back."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "As its body grows, large mushrooms\nnamed tochukaso start sprouting\nout of its back."
+      },
+      {
+        "game": "bw-b",
+        "text": "Mushrooms named tochukaso grow\non its back. They grow along\nwith the host Paras."
+      },
+      {
+        "game": "bw-w",
+        "text": "Mushrooms named tochukaso grow\non its back. They grow along\nwith the host Paras."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "Mushrooms named tochukaso grow\non its back. They grow along\nwith the host Paras."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "Mushrooms named tochukaso grow\non its back. They grow along\nwith the host Paras."
+      },
+      {
+        "game": "xy-x",
+        "text": "Growing out of the bug’s back are mushrooms\ncalled tochukaso. The mushrooms grow\nwith the bug host."
+      },
+      {
+        "game": "xy-y",
+        "text": "Burrows under the ground to gnaw on tree roots.\nThe mushrooms on its back absorb most of\nthe nutrition."
+      },
+      {
+        "game": "oras-or",
+        "text": "Paras has parasitic mushrooms growing on its back called\ntochukaso. They grow large by drawing nutrients from this\nBug Pokémon host. They are highly valued as a medicine\nfor extending life."
+      },
+      {
+        "game": "oras-as",
+        "text": "Paras has parasitic mushrooms growing on its back called\ntochukaso. They grow large by drawing nutrients from this\nBug Pokémon host. They are highly valued as a medicine\nfor extending life."
+      },
+      {
+        "game": "sm-s",
+        "text": "No matter how much it eats, the mushrooms\ngrowing on its back steal away most of\nthe nutrients it consumes."
+      },
+      {
+        "game": "sm-m",
+        "text": "Mushrooms called tochukaso sprout from its\nback. They can be dried and powdered to make\na medicine used to extend life."
+      },
+      {
+        "game": "usum-us",
+        "text": "Whether it’s due to a lack of moisture or a lack\nof nutrients, in Alola the mushrooms on Paras\ndon’t grow up quite right."
+      },
+      {
+        "game": "usum-um",
+        "text": "The mushrooms, known as tochukaso, are\ncontrolling the bug. Even if the bug bugs the\nmushrooms, they tell it to bug off."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Burrows under the ground to gnaw on\ntree roots. The mushrooms on its back\nabsorb most of the nutrition."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Burrows under the ground to gnaw on\ntree roots. The mushrooms on its back\nabsorb most of the nutrition."
+      },
+      {
+        "game": "la",
+        "text": "Sometimes seen at the foot of trees in humid forests.\nThe mushrooms on its back—called tochukaso—are not present\non infant specimens and instead emerge as Paras matures."
+      }
+    ]
+  },
+  "chs": {
+    "name": "派拉斯",
+    "genus": "蘑菇宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "即使不停地吃，\n获取的营养也几乎都会被\n背上生长的蘑菇夺走。"
+      },
+      {
+        "game": "sm-m",
+        "text": "背上生长的被称为冬虫夏草的\n蘑菇是长寿之药。\n干燥后磨成粉末使用。"
+      },
+      {
+        "game": "usum-us",
+        "text": "可能是湿气不够，也可能是营养不足，\n反正阿罗拉的派拉斯背上的\n蘑菇都长得不怎么样。"
+      },
+      {
+        "game": "usum-um",
+        "text": "是一种叫做冬虫夏草的\n蘑菇在控制着虫子。\n虫子的意志会被它忽视。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "它会通过挖洞来从树根里\n吸取营养，但大部分营养\n都会被背上的蘑菇抢走。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "它会通过挖洞来从树根里\n吸取营养，但大部分营养\n都会被背上的蘑菇抢走。"
+      }
+    ]
+  }
+}

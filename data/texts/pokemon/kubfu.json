@@ -1,0 +1,133 @@
+{
+  "jap": {
+    "name": "ダクマ",
+    "genus": "けんぽうポケモン",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "きびしい　たんれんを　つみ　わざを\nみがく。　たいとくした　わざによって\nしんかしたときに　すがたが　かわる。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "あたまの　しろく　ながい　たいもうを\nひっぱると　きあいが　たかまり\nたんでんから　パワーが　わきあがる。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Dakuma",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "치고마",
+    "genus": "권법포켓몬",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "혹독한 수련을 거듭하며 기술을\n갈고닦는다. 체득한 기술에 따라\n진화했을 때의 모습이 달라진다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "머리의 하얗고 긴 털을\n잡아당기면 기세가 고조되어\n단전에서 파워가 끓어오른다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "熊徒弟",
+    "genus": "拳法寶可夢",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "藉由累積嚴苛的鍛鍊來\n磨練招式。進化後的樣子\n會根據牠領會的招式而不同。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "拉緊頭上又白又長的體毛\n就會變得氣勢高昂，\n並且由丹田湧出力量。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Wushours",
+    "genus": "Pokémon Kung-fu",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Il suit un entraînement rigoureux pour parfaire\nses techniques. La forme de son évolution\ndépend des capacités qu’il a assimilées."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Lorsqu’il tire sur les longs poils blancs\nsur sa tête, il devient plus combatif et\nde l’énergie jaillit de sous son nombril."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Dakuma",
+    "genus": "Kung-Fu-Pokémon",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Durch rigoroses Training perfektioniert es seine\nKampftechnik. Diese bestimmt, welche Form\nDakuma nach der Entwicklung annimmt."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Zieht es an dem langen weißen Fell an seinem\nHinterkopf, steigert das seinen Kampfgeist und\naus seiner Körpermitte steigt Kraft empor."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Kubfu",
+    "genus": "Pokémon Kung-fu",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Perfecciona su técnica mediante una estricta\ndisciplina. Según la corriente marcial que siga,\nadoptará una forma u otra al evolucionar."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Al tirar de los mechones blancos de la cabeza,\nacrecienta su espíritu luchador y empieza a\nacumular fuerza en el órgano de su bajo vientre."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Kubfu",
+    "genus": "Pokémon Kung Fu",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Affina le sue mosse sottoponendosi a duri\nallenamenti. La forma assunta dopo l’evoluzione\ncambia a seconda delle mosse padroneggiate."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Tira i lunghi ciuffi di pelo bianco che ha sulla\ntesta per incrementare il suo spirito combattivo,\nfacendo sgorgare energia dal ventre."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Kubfu",
+    "genus": "Wushu Pokémon",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Kubfu trains hard to perfect its moves. The moves\nit masters will determine which form it takes when\nit evolves."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "If Kubfu pulls the long white hair on its head,\nits fighting spirit heightens and power wells up\nfrom the depths of its belly."
+      }
+    ]
+  },
+  "chs": {
+    "name": "熊徒弟",
+    "genus": "拳法宝可梦",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "日积月累地进行艰苦锻炼，\n认真钻研招式。进化后的样子\n会根据所习得的招式不同而改变。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "拉紧头上又白又长的体毛，\n就会变得斗气势高昂，\n并从丹田涌出力量。"
+      }
+    ]
+  }
+}

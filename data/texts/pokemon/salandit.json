@@ -1,0 +1,277 @@
+{
+  "jap": {
+    "name": "ヤトウモリ",
+    "genus": "どくトカゲポケモン",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "たいえきを　もやし　どくガスを　たく。\nガスを　すった　てきが　フラフラに\nなったあと　おそいかかるのだ。"
+      },
+      {
+        "game": "sm-m",
+        "text": "かざんや　かわいた　いわばに　すむ。\nあまい　かおりの　どくガスを　はなち\nむしポケモンを　おびきよせ　おそう。"
+      },
+      {
+        "game": "usum-us",
+        "text": "オスは　メスの　ほぼ　いいなり。\nとった　エサも　ほとんど　みつぐので\nえいようぶそくで　しんか　できない。"
+      },
+      {
+        "game": "usum-um",
+        "text": "どくガスで　あいてを　フラフラに\nよわらせてから　おそう。　いつも\nフラフラしてる　パッチールは　にがて。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "どくぶくろで　つくった　たいえきを\nしっぽの　ほのおで　ねっして\nどくガスを　はっせいさせる　しくみ。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "えものの　はいごに　しのびより\nきづかれる　まえに　どくガスを\nあびせて　うごけなくしてしまう。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Yatoumori",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "야도뇽",
+    "genus": "독도마뱀포켓몬",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "체액을 태워 독가스를 피운다.\n가스를 들이마신 적이\n휘청거리면 덮친다."
+      },
+      {
+        "game": "sm-m",
+        "text": "화산이나 건조한 바위에 산다.\n달콤한 향기의 독가스를 발산해\n벌레포켓몬을 유인하여 덮친다."
+      },
+      {
+        "game": "usum-us",
+        "text": "수컷은 거의 암컷의 지시에 따른다.\n잡아 온 먹이도 거의 바치기 때문에\n영양 부족으로 진화할 수 없다."
+      },
+      {
+        "game": "usum-um",
+        "text": "독가스로 상대를 비틀비틀\n약하게 만든 뒤 덮친다. 언제나\n비틀거리는 얼루기에게 약하다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "독주머니에서 만든 체액을\n꼬리의 불꽃으로 가열해서\n독가스를 발생시키는 구조로 되어 있다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "먹이의 뒤로 숨어들어서\n눈치채기 전에 독가스를\n퍼부어 움직이지 못하게 한다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "夜盜火蜥",
+    "genus": "毒蜥寶可夢",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "燃燒體液製造毒瓦斯。\n在吸了毒瓦斯的敵人變得\n頭暈目眩之後發動襲擊。"
+      },
+      {
+        "game": "sm-m",
+        "text": "棲息在火山和乾燥的岩石地帶。\n放出帶有甜甜香味的毒瓦斯，\n吸引蟲寶可夢過來後進行襲擊。"
+      },
+      {
+        "game": "usum-us",
+        "text": "雄性對雌性幾乎是唯命是從。\n因為獲得的食物幾乎都獻給了雌性，\n所以雄性因為營養不足而無法進化。"
+      },
+      {
+        "game": "usum-um",
+        "text": "會先用毒氣讓對手衰弱到站都站不穩，\n然後再發動襲擊。不擅長應付\n總是一副站不穩樣子的晃晃斑。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "用尾巴上的火焰燃燒\n毒囊裡製造出的體液，\n生成出毒氣。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "悄悄地從背後靠近獵物，\n在對方察覺之前釋放毒氣，\n讓對方動彈不得。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Tritox",
+    "genus": "Pokémon Toxilézard",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "Il consume ses fluides corporels pour générer\nun gaz toxique qui étourdit ses ennemis.\nIl ne lui reste alors qu’à les achever."
+      },
+      {
+        "game": "sm-m",
+        "text": "Habitant des volcans et des régions rocheuses\narides, il exhale un gaz toxique au parfum doux\npour attirer et piéger les Pokémon Insecte."
+      },
+      {
+        "game": "usum-us",
+        "text": "La femelle domine le mâle, qui ne peut évoluer\nen raison de carences nutritionnelles. Il lui offre\nen effet presque toutes ses proies en tribut."
+      },
+      {
+        "game": "usum-um",
+        "text": "Il attaque après avoir fait chanceler ses ennemis\navec son gaz toxique. Cela ne fonctionne pas\ntrès bien sur les Spinda, chancelants de base."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Il fait chauffer le liquide qu’il sécrète\ndans ses poches à venin avec la flamme\nde sa queue pour créer un gaz toxique."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Il s’approche de ses proies par-derrière\net les asperge d’un gaz empoisonné avant qu’elles\nn’aient le temps de réagir, les clouant sur place."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Molunk",
+    "genus": "Giftechsen-Pokémon",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "Durch Verbrennung von Körperflüssigkeit\nerzeugt es ein Gas, das Feinde schwindelig\nund so zu leichten Zielen macht."
+      },
+      {
+        "game": "sm-m",
+        "text": "Lebt in Vulkanen und trockenen Felsgebieten.\nMit seinem süßlich duftenden Giftgas lockt es\nKäfer-Pokémon an, um sie anzugreifen."
+      },
+      {
+        "game": "usum-us",
+        "text": "Das Männchen ist dem Weibchen hörig. Da es\ndiesem fast seine gesamte Beute gibt, leidet es\nan Unterernährung und entwickelt sich nicht."
+      },
+      {
+        "game": "usum-um",
+        "text": "Es bringt Gegner mit Giftgas ins Taumeln und\nschlägt dann zu. Mit Pandir, die von Natur aus\ntaumeln, kommt es deshalb gar nicht klar."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Es erhitzt die Körperflüssigkeit, die es in seinen\nGiftsäcken produziert, mit Flammen aus seiner\nRute. Dadurch wird Giftgas freigesetzt."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Es schleicht sich von hinten an seine Beute heran.\nNoch bevor diese auf es aufmerksam wird, setzt\nes sie mit seinem Giftgas außer Gefecht."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Salandit",
+    "genus": "Pokémon Lagartoxina",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "Aturde a sus oponentes con un gas venenoso\nque produce al quemar sus fluidos corporales\ny luego se abalanza sobre ellos."
+      },
+      {
+        "game": "sm-m",
+        "text": "Vive en volcanes y desolados pedregales. El gas\nvenenoso que libera despide un aroma dulce con\nel que atrae a Pokémon insecto para atacarlos."
+      },
+      {
+        "game": "usum-us",
+        "text": "Los machos están a merced de las hembras.\nLes ceden la mayoría de presas que capturan,\ny la falta de nutrientes les impide evolucionar."
+      },
+      {
+        "game": "usum-um",
+        "text": "Debilita a sus presas con gas venenoso y ataca\ncuando ve que se tambalean. Spinda, que de por\nsí camina oscilando, suele darle problemas."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Produce un gas venenoso al quemar con las\nllamas de la cola el líquido secretado en sus\nbolsas de veneno."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Se aproxima a su presa por la espalda y, antes\nde que pueda advertirlo, la inmoviliza con un\ngas venenoso."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Salandit",
+    "genus": "Pokémon Lucertossina",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "Dalla combustione di fluidi corporei crea un gas\nvelenoso che usa per stordire gli avversari.\nNe approfitta poi per attaccarli."
+      },
+      {
+        "game": "sm-m",
+        "text": "Vive nei vulcani e in territori pietrosi e aridi.\nSprigiona un gas tossico dall’odore dolciastro\ncon cui attira Pokémon Coleottero per attaccarli."
+      },
+      {
+        "game": "usum-us",
+        "text": "I maschi di Salandit sono del tutto in balia delle\nfemmine, a cui offrono ogni preda catturata.\nNon si evolvono a causa della malnutrizione."
+      },
+      {
+        "game": "usum-um",
+        "text": "Fa barcollare il nemico con un gas velenoso per\npoi attaccarlo. Spinda, che barcolla già di suo,\nlo mette molto in difficoltà."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Con la fiamma della coda brucia i fluidi corporei\ngenerati dalle sue sacche di veleno, producendo\nun gas velenoso."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Si avvicina alla preda da dietro senza farsi vedere\ne prima che possa rendersene conto le spruzza\naddosso un gas velenoso paralizzante."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Salandit",
+    "genus": "Toxic Lizard Pokémon",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "It burns its bodily fluids to create a poisonous\ngas. When its enemies become disoriented from\ninhaling the gas, it attacks them."
+      },
+      {
+        "game": "sm-m",
+        "text": "Volcanoes or dry, craggy places are its home.\nIt emanates a sweet-smelling poisonous gas\nthat attracts bug Pokémon, then attacks them."
+      },
+      {
+        "game": "usum-us",
+        "text": "The males will do whatever the females tell\nthem. They give the females most of their food.\nDue to malnutrition, the males can’t evolve."
+      },
+      {
+        "game": "usum-um",
+        "text": "It weakens opponents and sends them\nreeling with its poisonous gas. Salandit doesn’t\ndeal well with Spinda, since it’s always reeling."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Its venom sacs produce a fluid that this\nPokémon then heats up with the flame in its tail.\nThis process creates Salandit’s poisonous gas."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "This sneaky Pokémon will slink behind its prey\nand immobilize it with poisonous gas before the\nprey even realizes Salandit is there."
+      }
+    ]
+  },
+  "chs": {
+    "name": "夜盗火蜥",
+    "genus": "毒蜥宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "燃烧体液，释放毒瓦斯。\n等吸了毒气的敌人变得\n晕晕乎乎后就发动袭击。"
+      },
+      {
+        "game": "sm-m",
+        "text": "栖息在火山和干燥的岩石地带。\n放出有甜甜香味的毒瓦斯，\n把虫宝可梦吸引过来再袭击。"
+      },
+      {
+        "game": "usum-us",
+        "text": "雄性基本对雌性唯命是从。\n获得的食物也基本都会上缴，\n所以因营养不足而无法进化。"
+      },
+      {
+        "game": "usum-um",
+        "text": "先用毒瓦斯让对手变得晕乎乎，\n对方变虚弱后，再发动袭击。\n不擅长对付总是晕乎乎的晃晃斑。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "用尾巴上的火焰燃烧\n毒囊里制出的体液，\n生成出毒气。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "悄悄地从背后靠近猎物，\n在对方察觉之前释放毒气，\n让对方动弹不得。"
+      }
+    ]
+  }
+}

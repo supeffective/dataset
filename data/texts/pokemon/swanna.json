@@ -1,0 +1,195 @@
+{
+  "jap": {
+    "name": "スワンナ",
+    "genus": "しらとりポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "ゆうがな　みかけに　よらず\nつばさで　ちからづよく　はばたき\nすうせんキロ　とびつづけられる。"
+      },
+      {
+        "game": "xy-y",
+        "text": "よあけと　ともに　スワンナたちは\nおどりはじめる。まんなかで　おどる\nスワンナが　むれの　リーダー。"
+      },
+      {
+        "game": "oras-or",
+        "text": "ゆうがな　みかけに　よらず\nつばさで　ちからづよく　はばたき\nすうせんキロ　とびつづけられる。"
+      },
+      {
+        "game": "oras-as",
+        "text": "よあけと　ともに　スワンナたちは\nおどりはじめる。まんなかで　おどる\nスワンナが　むれの　リーダー。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Swanna",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "스완나",
+    "genus": "백조포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "우아한 외모와 다르게\n날개로 힘차게 날개 치며\n수천 km를 계속 날 수 있다."
+      },
+      {
+        "game": "xy-y",
+        "text": "새벽이 오면 스완나들이\n춤추기 시작한다. 한가운데에서 춤추는\n스완나가 무리의 우두머리다."
+      },
+      {
+        "game": "oras-or",
+        "text": "우아한 외모와 다르게\n힘찬 날갯짓으로\n수천 km를 계속 날 수 있다."
+      },
+      {
+        "game": "oras-as",
+        "text": "새벽이 오면 스완나들이\n춤추기 시작한다. 한가운데에서 춤추는\n스완나가 무리의 우두머리다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "舞天鵝",
+    "genus": "白鳥寶可夢",
+    "flavorText": []
+  },
+  "fra": {
+    "name": "Lakmécygne",
+    "genus": "Pokémon Cygne",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Ils se mettent à danser à la tombée\nde la nuit. Le Lakmécygne qui danse\nau centre est le chef de la troupe."
+      },
+      {
+        "game": "bw-w",
+        "text": "Ses coups de bec sont très efficaces.\nIl plie son long cou et en inflige un\ndouloureux enchaînement."
+      },
+      {
+        "game": "xy-x",
+        "text": "Un Pokémon gracieux, mais aussi robuste. Il peut\nvoler des milliers de kilomètres grâce à ses ailes\npuissantes."
+      },
+      {
+        "game": "xy-y",
+        "text": "Ils se mettent à danser à la tombée de la nuit.\nLe Lakmécygne qui danse au centre est le chef de\nla troupe."
+      },
+      {
+        "game": "oras-or",
+        "text": "Un Pokémon gracieux, mais aussi robuste. Il peut voler\ndes milliers de kilomètres grâce à ses ailes puissantes."
+      },
+      {
+        "game": "oras-as",
+        "text": "Ils se mettent à danser à la tombée de la nuit. Le Lakmécygne\nqui danse au centre est le chef de la troupe."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Swaroness",
+    "genus": "Schwan",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Sie wirken zerbrechlich, aber ihre starken Schwingen\ntragen sie in einem Stück bis zu 1 000 km weit."
+      },
+      {
+        "game": "xy-y",
+        "text": "Wenn der Morgen dämmert, fangen sie an zu tanzen.\nDas Swaroness in der Mitte führt die Gruppe an."
+      },
+      {
+        "game": "oras-or",
+        "text": "Sie wirken zerbrechlich, aber ihre starken Schwingen tragen\nsie in einem Stück bis zu 1 000 km weit."
+      },
+      {
+        "game": "oras-as",
+        "text": "Wenn der Morgen dämmert, fangen sie an zu tanzen.\nDas Swaroness in der Mitte führt die Gruppe an."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Swanna",
+    "genus": "Pokémon Cisne",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Aunque no lo parezca por su grácil elegancia, puede\nbatir con fuerza las alas y volar durante miles de\nkilómetros."
+      },
+      {
+        "game": "xy-y",
+        "text": "Comienzan a danzar al amanecer. El líder de la\nbandada se sitúa en el centro."
+      },
+      {
+        "game": "oras-or",
+        "text": "Aunque no lo parezca por su grácil elegancia, puede batir con\nfuerza las alas y volar durante miles de kilómetros."
+      },
+      {
+        "game": "oras-as",
+        "text": "Comienzan a danzar al amanecer. El líder de la bandada se\nsitúa en el centro."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Swanna",
+    "genus": "Pokémon Biancuccello",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Non è solo elegante. Con il poderoso battito d’ali\nriesce a volare per migliaia di chilometri senza fermarsi."
+      },
+      {
+        "game": "xy-y",
+        "text": "Gli Swanna iniziano a ballare quando sorge il sole.\nIl capo del gruppo balla sempre al centro."
+      },
+      {
+        "game": "oras-or",
+        "text": "Non è solo elegante. Con il poderoso battito d’ali riesce\na volare per migliaia di chilometri senza fermarsi."
+      },
+      {
+        "game": "oras-as",
+        "text": "Gli Swanna iniziano a ballare quando sorge il sole. Il capo\ndel gruppo balla sempre al centro."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Swanna",
+    "genus": "White Bird Pokémon",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Swanna start to dance at dusk.\nThe one dancing in the middle is\nthe leader of the flock."
+      },
+      {
+        "game": "bw-w",
+        "text": "It administers sharp, powerful pecks\nwith its bill. It whips its long neck to\ndeliver forceful repeated strikes."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "Despite their elegant appearance,\nthey can flap their wings strongly\nand fly for thousands of miles."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "Despite their elegant appearance,\nthey can flap their wings strongly\nand fly for thousands of miles."
+      },
+      {
+        "game": "xy-x",
+        "text": "Despite their elegant appearance, they can flap\ntheir wings strongly and fly for thousands of miles."
+      },
+      {
+        "game": "xy-y",
+        "text": "Swanna start to dance at dusk. The one dancing in\nthe middle is the leader of the flock."
+      },
+      {
+        "game": "oras-or",
+        "text": "Despite their elegant appearance, they can flap\ntheir wings strongly and fly for thousands of miles."
+      },
+      {
+        "game": "oras-as",
+        "text": "Swanna start to dance at dusk. The one dancing in\nthe middle is the leader of the flock."
+      }
+    ]
+  },
+  "chs": {
+    "name": "舞天鹅",
+    "genus": "白鸟宝可梦",
+    "flavorText": []
+  }
+}

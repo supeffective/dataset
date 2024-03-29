@@ -1,0 +1,437 @@
+{
+  "jap": {
+    "name": "ブーバーン",
+    "genus": "ばくえんポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "うでの　さきから　せっし２０００どの\nひのたまを　はっしゃする。\nかざんの　かこうを　すみかにする。"
+      },
+      {
+        "game": "xy-y",
+        "text": "せっし　２０００どの　ひのたまを\nうでの　さきから　うちだす。\nくちから　はく　いきも　もえている。"
+      },
+      {
+        "game": "oras-or",
+        "text": "うでの　さきから　せっし２０００どの\nひのたまを　はっしゃする。\nかざんの　かこうを　すみかにする。"
+      },
+      {
+        "game": "oras-as",
+        "text": "せっし　２０００どの　ひのたまを\nうでの　さきから　うちだす。\nくちから　はく　いきも　もえている。"
+      },
+      {
+        "game": "sm-s",
+        "text": "かざんの　かこうに　すむ。\n１つの　かざんには　ひとつがいの\nブーバーンしかいないと　いわれる。"
+      },
+      {
+        "game": "sm-m",
+        "text": "うでさきから　せっし　２０００どの\nひのたまを　はっしゃ。　れんしゃを\nすると　うでさきが　すこし　とける。"
+      },
+      {
+        "game": "usum-us",
+        "text": "いまでも　きんぞくを　かこうするのに\nブーバーンの　ほのおに　たよっている\nこうじょうも　すくなくないのだ。"
+      },
+      {
+        "game": "usum-um",
+        "text": "ひのたまを　うちだして　てきを\nしとめる。　まっくろコゲに　なるので\nえものを　とるときには　つかわない。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "おおきく　いきを　すいこむと　はらの\nなかの　ほのおが　いきおいを　まして\nせっし２０００どに　たっする。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "かざんの　かこうで　くらすうちに\nマグマだまりに　にた　きかんを　もつ\nかざんのような　からだに　なった。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Booburn",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "마그마번",
+    "genus": "폭염포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "팔 끝에서 섭씨 2000도의\n불구슬을 발사한다.\n화산의 분화구를 거처로 삼는다."
+      },
+      {
+        "game": "xy-y",
+        "text": "섭씨 2000도의 불구슬을\n팔 끝에서 내보낸다.\n입에서 뿜는 숨도 타오르고 있다."
+      },
+      {
+        "game": "oras-or",
+        "text": "팔 끝에서 섭씨 2000도의\n불구슬을 발사한다.\n화산의 분화구를 거처로 삼는다."
+      },
+      {
+        "game": "oras-as",
+        "text": "섭씨 2000도의 불구슬을\n팔 끝에서 내보낸다.\n입에서 뿜는 숨도 타오르고 있다."
+      },
+      {
+        "game": "sm-s",
+        "text": "화산의 화구에 산다.\n1개의 화산에는 암수 한 쌍의\n마그마번 밖에 없다고 한다."
+      },
+      {
+        "game": "sm-m",
+        "text": "팔 끝에서 섭씨 2000도의\n불구슬을 발사한다. 연사하면\n팔 끝이 조금 녹는다."
+      },
+      {
+        "game": "usum-us",
+        "text": "지금도 금속을 가공할 때\n마그마번의 불꽃에 의존하는\n공장이 적지 않다."
+      },
+      {
+        "game": "usum-um",
+        "text": "불구슬을 발사해서 적을\n처리한다. 새까만 재가 되어서\n먹이를 잡는 데는 사용하지 않는다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "크게 숨을 들이쉬면 배 안의\n불꽃이 더욱 거세어져서\n섭씨 200도에 달하게 된다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "화산의 화구에서 사는 동안\n마그마 덩어리 모양의 기관을 가진\n화산 같은 몸이 되었다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "鴨嘴炎獸",
+    "genus": "爆炎寶可夢",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "棲息在火山口。\n據說１座火山只有一對鴨嘴炎獸。"
+      },
+      {
+        "game": "sm-m",
+        "text": "從手部前端發射出\n攝氏２０００度的火球。\n連發時手會稍稍熔化。"
+      },
+      {
+        "game": "usum-us",
+        "text": "至今仍有不少的工廠\n是依靠鴨嘴炎獸的火焰\n來對金屬進行加工。"
+      },
+      {
+        "game": "usum-um",
+        "text": "會發射火球解決敵人。\n因為火球會把對手燒成焦炭，\n所以在捕捉獵物時不會使用。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "大口吸氣時，肚子裡的\n火焰就會燃燒得更旺盛，\n達到攝氏２０００度。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "長久棲息在火山口，使得\n牠的身體變得像是一座火山，\n甚至擁有類似岩漿庫的器官。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Maganon",
+    "genus": "Pokémon Explosion",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Quand il lance des boules de feu\nà plus de 2 000 °C, son corps\nest comme chauffé à blanc."
+      },
+      {
+        "game": "bw-w",
+        "text": "Quand il lance des boules de feu\nà plus de 2 000 °C, son corps\nest comme chauffé à blanc."
+      },
+      {
+        "game": "xy-x",
+        "text": "Il projette des boules de feu à 2 000 °C à bout de\nbras. Il vit dans les cratères volcaniques."
+      },
+      {
+        "game": "xy-y",
+        "text": "Il projette des boules de feu à 2 000 °C du bout de\nses bras. Même son souffle est brûlant."
+      },
+      {
+        "game": "oras-or",
+        "text": "Il projette des boules de feu à 2 000 °C à bout de bras.\nIl vit dans les cratères volcaniques."
+      },
+      {
+        "game": "oras-as",
+        "text": "Il projette des boules de feu à 2 000 °C du bout de ses bras.\nMême son souffle est brûlant."
+      },
+      {
+        "game": "sm-s",
+        "text": "Il vit dans les cratères de volcans. On dit que\nchaque volcan ne peut abriter qu’un seul couple\nde Maganon."
+      },
+      {
+        "game": "sm-m",
+        "text": "Son bras peut expulser des boules enflammées\nd’une température de 2 000 °C. S’il en tire trop\nd’un coup, son bras commence à fondre."
+      },
+      {
+        "game": "usum-us",
+        "text": "Il existe encore de nombreuses usines qui\nutilisent les flammes de Maganon pour faire\nfondre les métaux."
+      },
+      {
+        "game": "usum-um",
+        "text": "Il peut terrasser ses ennemis d’une seule boule\nde feu. Il évite toutefois de s’en servir pour\nchasser, car sa proie finirait carbonisée."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Quand il inspire profondément, les flammes\ndans son ventre gagnent en intensité et\natteignent les 2 000 °C."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Au fil du temps, son corps est devenu similaire\nà un volcan, et un de ses organes ressemble\ndésormais à une chambre magmatique."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Magbrant",
+    "genus": "Detonations-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Aus den Enden seiner Arme schießen Feuerbälle\nmit 2 000 °C. Es lebt in Vulkankratern."
+      },
+      {
+        "game": "xy-y",
+        "text": "Es schießt 2 000 °C heiße Feuerbälle aus den Enden\nseiner Arme. Selbst sein Atem steht in Flammen."
+      },
+      {
+        "game": "oras-or",
+        "text": "Aus den Enden seiner Arme schießen Feuerbälle mit 2 000 °C.\nEs lebt in Vulkankratern."
+      },
+      {
+        "game": "oras-as",
+        "text": "Es schießt 2 000 °C heiße Feuerbälle aus den Enden\nseiner Arme. Selbst sein Atem steht in Flammen."
+      },
+      {
+        "game": "sm-s",
+        "text": "Es lebt in Vulkankratern. Angeblich gibt es\npro Vulkan immer nur ein Magbrant-Paar."
+      },
+      {
+        "game": "sm-m",
+        "text": "Aus den Enden seiner Arme feuert es 2 000 °C\nheiße Feuerbälle ab. Dadurch verkohlen sie nach\nmehrmaligem Einsatz leicht."
+      },
+      {
+        "game": "usum-us",
+        "text": "Auch heute gibt es noch einige Fabriken,\nin denen die Flammen von Magbrant zur\nVerarbeitung von Metall verwendet werden."
+      },
+      {
+        "game": "usum-um",
+        "text": "Es schießt Feuerbälle auf seine Gegner. Da alles,\nwas es damit trifft, verkohlt wird, sieht es auf\nder Jagd nach Beute von dieser Methode ab."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Holt es tief Luft, werden die Flammen in seinem\nBauch stärker und erreichen eine Temperatur von\n2 000 ºC."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Durch das Leben in Vulkankratern ähnelt\nMagbrants Körper seinem Umfeld. Es besitzt\nein Organ, das einer Magmakammer gleicht."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Magmortar",
+    "genus": "Pokémon Explosión",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Sus brazos disparan bolas de fuego de más de\n2000 °C. Vive en cráteres volcánicos."
+      },
+      {
+        "game": "xy-y",
+        "text": "Sus brazos disparan bolas de fuego de más de\n2000 °C. El aliento que desprende es abrasador."
+      },
+      {
+        "game": "oras-or",
+        "text": "Sus brazos disparan bolas de fuego de más de 2000 °C. Vive\nen cráteres volcánicos."
+      },
+      {
+        "game": "oras-as",
+        "text": "Sus brazos disparan bolas de fuego de más de 2000 °C.\nEl aliento que desprende es abrasador."
+      },
+      {
+        "game": "sm-s",
+        "text": "Vive en cráteres volcánicos. Al parecer, en cada\nvolcán solo habita una pareja de Magmortar."
+      },
+      {
+        "game": "sm-m",
+        "text": "Expulsa bolas de fuego por los brazos que\nalcanzan los 2000 °C. Si lanza ráfagas, sus\nbazos pueden llegar a fundirse un poco."
+      },
+      {
+        "game": "usum-us",
+        "text": "En la actualidad son aún muchas las empresas\nmetalúrgicas que dependen de las llamas de\nMagmortar para trabajar el metal."
+      },
+      {
+        "game": "usum-um",
+        "text": "Expulsa bolas de fuego con las que arrolla a su\nenemigo y lo deja completamente chamuscado,\nrazón por la que evita este método al cazar."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Al respirar profundamente, el fuego del interior\nde su vientre gana intensidad y puede alcanzar\nlos 2000 ºC."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Al vivir en un cráter, su cuerpo ha adquirido un\naspecto similar al de un volcán y ha desarrollado\nun órgano parecido a una cámara magmática."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Magmortar",
+    "genus": "Pokémon Esplosivo",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Spara palle di fuoco di oltre 2000 °C dagli arti\nsuperiori. Vive nei crateri dei vulcani."
+      },
+      {
+        "game": "xy-y",
+        "text": "Spara palle di fuoco di oltre 2000 °C dagli arti\nsuperiori. L’aria che espira è incandescente."
+      },
+      {
+        "game": "oras-or",
+        "text": "Spara palle di fuoco di oltre 2000 °C dagli arti superiori.\nVive nei crateri dei vulcani."
+      },
+      {
+        "game": "oras-as",
+        "text": "Spara palle di fuoco di oltre 2000 °C dagli arti superiori.\nL’aria che espira è incandescente."
+      },
+      {
+        "game": "sm-s",
+        "text": "Vive nei crateri vulcanici. Sembra che in ogni\nvulcano possa abitare solo una coppia\ndi Magmortar."
+      },
+      {
+        "game": "sm-m",
+        "text": "Lancia palle di fuoco a 2.000 °C dagli arti\nsuperiori. Se spara colpi a raffica, i suoi arti\ncominciano a fondere alle estremità."
+      },
+      {
+        "game": "usum-us",
+        "text": "Ancora oggi molte fabbriche dipendono dal\nfuoco dei Magmortar nella lavorazione\ndei metalli."
+      },
+      {
+        "game": "usum-um",
+        "text": "Spara palle di fuoco per abbattere i nemici, ma\nnon per catturare le prede, perché altrimenti le\ncarbonizzerebbe."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Quando respira profondamente, le fiamme\nall’interno del suo ventre aumentano d’intensità,\nraggiungendo i 2.000 ºC."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Vivendo nei crateri il suo corpo è diventato\nsimile a un vulcano, sviluppando un organo\nanalogo a una camera magmatica."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Magmortar",
+    "genus": "Blast Pokémon",
+    "flavorText": [
+      {
+        "game": "dp-d",
+        "text": "It blasts fireballs of over 3,600\ndegrees F from the ends of its\narms. It lives in volcanic craters."
+      },
+      {
+        "game": "dp-p",
+        "text": "It blasts fireballs of over 3,600\ndegrees F from the ends of its\narms. It lives in volcanic craters."
+      },
+      {
+        "game": "pt",
+        "text": "When launching 3,600 degrees F\nfireballs, its body takes on a\nwhitish hue from the intense heat."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "It blasts fireballs of over\n3,600 degrees Fahrenheit out of its\narms. Its breath also sears and sizzles."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "It blasts fireballs of over\n3,600 degrees Fahrenheit out of its\narms. Its breath also sears and sizzles."
+      },
+      {
+        "game": "bw-b",
+        "text": "When launching 3,600 degrees F\nfireballs, its body takes on a\nwhitish hue from the intense heat."
+      },
+      {
+        "game": "bw-w",
+        "text": "When launching 3,600 degrees F\nfireballs, its body takes on a\nwhitish hue from the intense heat."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "When shooting 3,600 degree F fireballs\nfrom its arms, its body takes on a\nwhitish hue from the intense heat."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "When shooting 3,600 degree F fireballs\nfrom its arms, its body takes on a\nwhitish hue from the intense heat."
+      },
+      {
+        "game": "xy-x",
+        "text": "It blasts fireballs of over 3,600 degrees Fahrenheit\nfrom the ends of its arms. It lives in\nvolcanic craters."
+      },
+      {
+        "game": "xy-y",
+        "text": "It blasts fireballs of over 3,600 degrees Fahrenheit\nout of its arms. Its breath also sears and sizzles."
+      },
+      {
+        "game": "oras-or",
+        "text": "It blasts fireballs of over 3,600 degrees Fahrenheit\nfrom the ends of its arms. It lives in\nvolcanic craters."
+      },
+      {
+        "game": "oras-as",
+        "text": "It blasts fireballs of over 3,600 degrees Fahrenheit\nout of its arms. Its breath also sears and sizzles."
+      },
+      {
+        "game": "sm-s",
+        "text": "They dwell in volcanic craters. According to\nwhat is known, a single pair of male and female\nMagmortar lives in one volcano."
+      },
+      {
+        "game": "sm-m",
+        "text": "From its arm, it launches fireballs hotter than\n3,500 degrees Fahrenheit. Its arm starts to\nmelt when it fires a whole barrage."
+      },
+      {
+        "game": "usum-us",
+        "text": "There are still quite a few factories that rely on\nthe flames provided by Magmortar to\nprocess metals."
+      },
+      {
+        "game": "usum-um",
+        "text": "Magmortar takes down its enemies by shooting\nfireballs, which burn them to a blackened crisp.\nIt avoids this method when hunting prey."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "When Magmortar inhales deeply, the fire burning\nin its belly intensifies, rising in temperature to\nover 3,600 degrees Fahrenheit."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Living in the crater of a volcano has caused this\nPokémon’s body to resemble its environment—\nit has an organ similar to a magma chamber."
+      },
+      {
+        "game": "la",
+        "text": "Use of a strange item caused this Pokémon to evolve. Fireballs\nlaunched from the ends of its tubelike arms are hot enough to\nmelt an iron pot in an instant."
+      }
+    ]
+  },
+  "chs": {
+    "name": "鸭嘴炎兽",
+    "genus": "爆炎宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "栖息在火山口。\n据说一座火山只有一对鸭嘴炎兽。"
+      },
+      {
+        "game": "sm-m",
+        "text": "从手腕处发射出\n摄氏２０００度的火球。\n连射时手腕会稍稍熔化。"
+      },
+      {
+        "game": "usum-us",
+        "text": "至今仍依靠鸭嘴炎兽的火焰\n来加工金属的工厂也不少。"
+      },
+      {
+        "game": "usum-um",
+        "text": "发射出火球，一招制敌。\n因为会把对方弄得焦黑，\n所以在捕捉猎物时不会使用。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "大口吸气之后腹中的\n火焰就会烧得更旺，\n达到摄氏２０００度。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "由于栖息在火山口，因此\n身体逐渐变得像火山一样，\n还长着类似岩浆库的器官。"
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "jap": {
+    "name": "ギラティナ",
+    "genus": "はんこつポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "じょうしきの　つうようしない\nこのよの　うらがわにあると　いわれる\nやぶれたせかいに　せいそくする。"
+      },
+      {
+        "game": "xy-y",
+        "text": "あばれもの　ゆえ　おいだされたが\nやぶれたせかいと　いわれる　ばしょで\nしずかに　もとのせかいを　みていた。"
+      },
+      {
+        "game": "oras-or",
+        "text": "じょうしきの　つうようしない\nこのよの　うらがわにあると　いわれる\nやぶれたせかいに　せいそくする。"
+      },
+      {
+        "game": "oras-as",
+        "text": "あばれもの　ゆえ　おいだされたが\nやぶれたせかいと　いわれる　ばしょで\nしずかに　もとのせかいを　みていた。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Giratina",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "기라티나",
+    "genus": "반골포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "상식이 통하지 않는\n이 세상의 이면에 있다고 불리는\n깨어진 세계에 서식한다."
+      },
+      {
+        "game": "xy-y",
+        "text": "난폭하다는 이유로 쫓겨났지만\n깨어진 세계라고 전해지는 장소에서\n조용히 원래 세계를 보고 있었다."
+      },
+      {
+        "game": "oras-or",
+        "text": "상식이 통하지 않는\n이 세상의 이면에 있다고 전해지는\n깨어진 세계에 서식한다."
+      },
+      {
+        "game": "oras-as",
+        "text": "난폭하다는 이유로 쫓겨났지만\n깨어진 세계라고 전해지는 장소에서\n조용히 원래 세계를 보고 있었다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "騎拉帝納",
+    "genus": "反抗寶可夢",
+    "flavorText": []
+  },
+  "fra": {
+    "name": "Giratina",
+    "genus": "Pokémon Renégat",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Sa grande violence lui a valu d’être\nbanni. Il observe les hommes en\nsilence depuis le Monde Distorsion."
+      },
+      {
+        "game": "bw-w",
+        "text": "Sa grande violence lui a valu d’être\nbanni. Il observe les hommes en\nsilence depuis le Monde Distorsion."
+      },
+      {
+        "game": "xy-x",
+        "text": "Il vit dans le Monde Distorsion, un monde à l’opposé\ndu nôtre qui échappe au sens commun."
+      },
+      {
+        "game": "xy-y",
+        "text": "Sa grande violence lui a valu d’être banni.\nIl observe les hommes en silence depuis le Monde\nDistorsion."
+      },
+      {
+        "game": "oras-or",
+        "text": "Il vit dans le Monde Distorsion, un monde à l’opposé du nôtre\nqui échappe au sens commun."
+      },
+      {
+        "game": "oras-as",
+        "text": "Sa grande violence lui a valu d’être banni. Il observe\nles hommes en silence depuis le Monde Distorsion."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Giratina",
+    "genus": "Rebellen-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Es lebt in einer Zerrwelt, die auf der Kehrseite\nder unseren liegt und die sich aller Logik entzieht."
+      },
+      {
+        "game": "xy-y",
+        "text": "Es wurde aufgrund seines Verhaltens verbannt.\nAus der Zerrwelt schaut es auf die alte Welt."
+      },
+      {
+        "game": "oras-or",
+        "text": "Es lebt in einer Zerrwelt, die auf der Kehrseite der unseren\nliegt und die sich aller Logik entzieht."
+      },
+      {
+        "game": "oras-as",
+        "text": "Es wurde aufgrund seines Verhaltens verbannt.\nAus der Zerrwelt schaut es auf die alte Welt."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Giratina",
+    "genus": "Pokémon Renegado",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Vive en el Mundo Distorsión, un mundo opuesto al\nnuestro y cuyas leyes desafían el sentido común."
+      },
+      {
+        "game": "xy-y",
+        "text": "Fue desterrado por su violencia. Observa el mundo\nen silencio desde el Mundo Distorsión."
+      },
+      {
+        "game": "oras-or",
+        "text": "Vive en el Mundo Distorsión, un mundo opuesto al nuestro y\ncuyas leyes desafían el sentido común."
+      },
+      {
+        "game": "oras-as",
+        "text": "Fue desterrado por su violencia. Observa el mundo en silencio\ndesde el Mundo Distorsión."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Giratina",
+    "genus": "Pokémon Ribelle",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Vive nel Mondo Distorto che, sfidando l’ordine\ncosmico, si trova sul lato opposto al nostro."
+      },
+      {
+        "game": "xy-y",
+        "text": "È stato bandito per la sua violenza. Osserva il\nvecchio mondo in silenzio dal Mondo Distorto."
+      },
+      {
+        "game": "oras-or",
+        "text": "Vive nel Mondo Distorto che, sfidando l’ordine cosmico,\nsi trova sul lato opposto al nostro."
+      },
+      {
+        "game": "oras-as",
+        "text": "È stato bandito per la sua violenza. Osserva il vecchio mondo\nin silenzio dal Mondo Distorto."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Giratina",
+    "genus": "Renegade Pokémon",
+    "flavorText": [
+      {
+        "game": "dp-d",
+        "text": "A Pokémon that is said to live in a\nworld on the reverse side of ours.\nIt appears in an ancient cemetery."
+      },
+      {
+        "game": "dp-p",
+        "text": "A Pokémon that is said to live in a\nworld on the reverse side of ours.\nIt appears in an ancient cemetery."
+      },
+      {
+        "game": "pt",
+        "text": "It was banished for its violence.\nIt silently gazed upon the old\nworld from the Distortion World."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "This Pokémon is said to live in a world on\nthe reverse side of ours, where common\nknowledge is distorted and strange."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "This Pokémon is said to live in a world on\nthe reverse side of ours, where common\nknowledge is distorted and strange."
+      },
+      {
+        "game": "bw-b",
+        "text": "It was banished for its violence.\nIt silently gazed upon the old\nworld from the Distortion World."
+      },
+      {
+        "game": "bw-w",
+        "text": "It was banished for its violence.\nIt silently gazed upon the old\nworld from the Distortion World."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "It was banished for its violence.\nIt silently gazed upon the old\nworld from the Distortion World."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "It was banished for its violence.\nIt silently gazed upon the old\nworld from the Distortion World."
+      },
+      {
+        "game": "xy-x",
+        "text": "This Pokémon is said to live in a world on the\nreverse side of ours, where common knowledge is\ndistorted and strange."
+      },
+      {
+        "game": "xy-y",
+        "text": "It was banished for its violence. It silently gazed\nupon the old world from the Distortion World."
+      },
+      {
+        "game": "oras-or",
+        "text": "This Pokémon is said to live in a world on the\nreverse side of ours, where common knowledge is\ndistorted and strange."
+      },
+      {
+        "game": "oras-as",
+        "text": "It was banished for its violence. It silently gazed\nupon the old world from the Distortion World."
+      },
+      {
+        "game": "la",
+        "text": "There is one Hisuian verse that tells of a powerful light creating\na deep shadow. I imagine that this deep shadow is Giratina."
+      }
+    ]
+  },
+  "chs": {
+    "name": "骑拉帝纳",
+    "genus": "反抗宝可梦",
+    "flavorText": []
+  }
+}

@@ -1,0 +1,405 @@
+{
+  "jap": {
+    "name": "カモネギ",
+    "genus": "かるがもポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "もっている　クキは　たいせつな\nぶきでもあり　かたなを　ふるように\nいろんなものを　きることが　できる。"
+      },
+      {
+        "game": "xy-y",
+        "text": "じぶんの　すを　つくるための\nしょくぶつの　クキを　いっぽん\nいつも　もって　あるいている。"
+      },
+      {
+        "game": "oras-or",
+        "text": "もっている　しょくぶつの　クキにも　よいものと\nそうでない　ものが　あるらしく　カモネギどうしが\nクキを　めぐって　たたかう　ことが　ある。"
+      },
+      {
+        "game": "oras-as",
+        "text": "もっている　しょくぶつの　クキにも　よいものと\nそうでない　ものが　あるらしく　カモネギどうしが\nクキを　めぐって　たたかう　ことが　ある。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "クキが　はえている　ところに　すむ。\nめずらしく　かずも　すくないので\nカモネギも　へってきた　らしい。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "クキが　はえている　ところに　すむ。\nめずらしく　かずも　すくないので\nカモネギも　へってきた　らしい。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "はねで　もつ　クキを　かたなのように\nあやつり　てきを　きりすてる。\nいざと　いうときは　エサに　する。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "しょくぶつの　クキで　たたかう。\nクキの　ふりかたには　いくつかの\nりゅうはの　ようなものが　ある。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Kamonegi",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "파오리",
+    "genus": "청둥오리포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "가지고 있는 파 줄기는 소중한\n무기이기도 하며 칼을 휘두르듯\n다양한 것을 자를 수 있다."
+      },
+      {
+        "game": "xy-y",
+        "text": "자신의 둥지를 만들기 위해서\n식물의 줄기 하나를\n항상 들고 걷는다."
+      },
+      {
+        "game": "oras-or",
+        "text": "가지고 있는 식물의 줄기에도 좋은 것과\n그렇지 않은 것이 있는 듯하여 파오리들이\n줄기를 둘러싸고 싸우는 일도 있다."
+      },
+      {
+        "game": "oras-as",
+        "text": "가지고 있는 식물의 줄기에도 좋은 것과\n그렇지 않은 것이 있는 듯하여 파오리들이\n줄기를 둘러싸고 싸우는 일도 있다."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "줄기가 자라는 곳에 산다.\n이상하게 수도 적어서\n파오리의 수도 줄고 있는 듯하다."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "줄기가 자라는 곳에 산다.\n이상하게 수도 적어서\n파오리의 수도 줄고 있는 듯하다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "날개로 쥐고 있는 파 줄기를\n칼처럼 휘둘러 상대를 베어버린다.\n몹시 허기질 때는 먹기도 한다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "식물의 줄기로 싸운다.\n줄기를 휘두르는 방식에 따라\n몇 종류의 유파가 있는 듯하다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "大蔥鴨",
+    "genus": "黃嘴鴨寶可夢",
+    "flavorText": [
+      {
+        "game": "lgpe-lgp",
+        "text": "棲息在莖狀植物生長的地方。\n由於這種植物十分稀少而罕見，\n大蔥鴨的數量似乎也越來越少了。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "棲息在莖狀植物生長的地方。\n由於這種植物十分稀少而罕見，\n大蔥鴨的數量似乎也越來越少了。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "會將翅膀所拿的莖狀植物\n當成劍一般去劈砍對手。\n在非常時期會拿它當作食物。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "用植物的莖來戰鬥。\n莖的揮舞方式存在著\n好幾種不同的流派。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Canarticho",
+    "genus": "Pokémon Canard Fou",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Il ne peut pas vivre sans son\nlégume, c’est pourquoi il le\nprotégera au péril de sa vie."
+      },
+      {
+        "game": "bw-w",
+        "text": "Il ne peut pas vivre sans son\nlégume, c’est pourquoi il le\nprotégera au péril de sa vie."
+      },
+      {
+        "game": "xy-x",
+        "text": "Il utilise le légume qu’il tient comme s’il\ns’agissait d’une épée."
+      },
+      {
+        "game": "xy-y",
+        "text": "Ce Pokémon se promène toujours en tenant un\nlégume. Il l’utilise pour faire son nid."
+      },
+      {
+        "game": "oras-or",
+        "text": "On voit souvent des Canarticho avec une tige, récupérée sur\nune plante quelconque. Apparemment, ils peuvent distinguer\nles bonnes des mauvaises. On a vu ces Pokémon se battre\npour des histoires de tiges."
+      },
+      {
+        "game": "oras-as",
+        "text": "On voit souvent des Canarticho avec une tige, récupérée sur\nune plante quelconque. Apparemment, ils peuvent distinguer\nles bonnes des mauvaises. On a vu ces Pokémon se battre\npour des histoires de tiges."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Il vit là où poussent des tiges. Ces endroits sont\nrares, ce qui pourrait faire penser que cette\nespèce de Pokémon est en voie d’extinction."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Il vit là où poussent des tiges. Ces endroits sont\nrares, ce qui pourrait faire penser que cette\nespèce de Pokémon est en voie d’extinction."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Il tranche ses adversaires avec sa tige, qu’il manie\ncomme une épée. Quand la situation l’exige,\nil s’en nourrit."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Il se bat à l’aide de sa tige. Il existe plusieurs\nécoles quant à son maniement."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Porenta",
+    "genus": "Wildenten-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Dieses Pokémon nutzt eine Lauchstange als Waffe.\nEs setzt sie wie ein Schwert ein."
+      },
+      {
+        "game": "xy-y",
+        "text": "Es läuft stets mit einer Lauchstange umher.\nDamit baut es sein Nest."
+      },
+      {
+        "game": "oras-or",
+        "text": "Porenta trifft man immer mit einer Lauchstange an. Es gibt\ngute und schlechte Stangen. Dieses Pokémon kämpft mit\nHilfe seiner Stange gegen seine Gegner."
+      },
+      {
+        "game": "oras-as",
+        "text": "Porenta trifft man immer mit einem Pflanzenstängel an,\ndessen Qualität unterschiedlich ausfallen kann.\nVon diesem Pokémon wird behauptet, es kämpfe gegen\ndie eigenen Artgenossen um die besten Stängel."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Sie leben in Gebieten, in denen stangenförmige\nGewächse gedeihen. Da diese seltener werden,\nscheint es auch weniger Porenta zu geben."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Sie leben in Gebieten, in denen stangenförmige\nGewächse gedeihen. Da diese seltener werden,\nscheint es auch weniger Porenta zu geben."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Unter seinem Flügel trägt es eine Lauchstange,\ndie es wie ein Schwert gegen Feinde einsetzt und\nwelche ihm im Bedarfsfall auch als Nahrung dient."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Im Kampf verwendet es eine Lauchstange als\nWaffe. Es gibt verschiedene Meinungen dazu,\nwie diese korrekt zu schwingen sei."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Farfetch’d",
+    "genus": "Pokémon Pato Salvaje",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "El puerro que lleva es su mejor arma. Suele usarlo\ncomo espada para cortar cosas."
+      },
+      {
+        "game": "xy-y",
+        "text": "Siempre lleva un puerro consigo, con el que\nconstruye su nido."
+      },
+      {
+        "game": "oras-or",
+        "text": "Al parecer, entre los puerros que suelen llevar los Farfetch’d,\nlos hay mejores y peores. A estos Pokémon se les ha visto\nluchar entre ellos por los mejores puerros."
+      },
+      {
+        "game": "oras-as",
+        "text": "Al parecer, entre los puerros que suelen llevar los Farfetch’d,\nlos hay mejores y peores. A estos Pokémon se les ha visto\nluchar entre ellos por los mejores puerros."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Vive cerca de cultivos de puerros. Como estos\nson cada vez más escasos, se cree que el\nnúmero de Farfetch’d también ha disminuido."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Vive cerca de cultivos de puerros. Como estos\nson cada vez más escasos, se cree que el\nnúmero de Farfetch’d también ha disminuido."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Blande el puerro que sujeta con un ala como si se\ntratase de una espada para rebanar a su rival. En\ncaso de necesidad, se lo come para nutrirse."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Combate empuñando un puerro como arma. La\nforma de blandirlo es tan variada que ha llegado\na generar sus propias escuelas."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Farfetch’d",
+    "genus": "Pokémon Selvanatra",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Il verde gambo di porro che brandisce è la sua\narma, che usa come spada."
+      },
+      {
+        "game": "xy-y",
+        "text": "Si sposta sempre tenendo un gambo con il becco.\nGli serve per costruire il nido."
+      },
+      {
+        "game": "oras-or",
+        "text": "Farfetch’d ha sempre con sé il gambo di qualche pianta.\nPare che alcuni gambi siano migliori di altri. Spesso lotta\ncon altri Pokémon per avere i gambi migliori."
+      },
+      {
+        "game": "oras-as",
+        "text": "Farfetch’d ha sempre con sé il gambo di qualche pianta.\nPare che alcuni gambi siano migliori di altri. Spesso lotta\ncon altri Pokémon per avere i gambi migliori."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Vivono nei canneti, un tipo di habitat che sta\ndiventando sempre più raro. Per questo si pensa\nche anche il numero di Farfetch’d sia diminuito."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Vivono nei canneti, un tipo di habitat che sta\ndiventando sempre più raro. Per questo si pensa\nche anche il numero di Farfetch’d sia diminuito."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Colpisce gli avversari con un gambo, che\nbrandisce con l’ala come se fosse una spada.\nIn caso di necessità, può anche mangiarselo."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Affronta i nemici usando il gambo di una\npianta, brandendolo secondo stili diversi\nin base alla scuola di lotta che segue."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Farfetch’d",
+    "genus": "Wild Duck Pokémon",
+    "flavorText": [
+      {
+        "game": "rb-r",
+        "text": "The sprig of\ngreen onions it\nholds is its\fweapon. It is\nused much like a\nmetal sword."
+      },
+      {
+        "game": "rb-b",
+        "text": "The sprig of\ngreen onions it\nholds is its\fweapon. It is\nused much like a\nmetal sword."
+      },
+      {
+        "game": "y",
+        "text": "Lives where reedy\nplants grow. They\nare rarely seen,\fso it's thought\ntheir numbers are\ndecreasing."
+      },
+      {
+        "game": "gs-g",
+        "text": "If anyone tries to\ndisturb where the\nessential plant\fsticks grow, it\nuses its own stick\nto thwart them."
+      },
+      {
+        "game": "gs-s",
+        "text": "If it eats the\nplant stick it\ncarries as emer­\fgency rations, it\nruns off in search\nof a new stick."
+      },
+      {
+        "game": "c",
+        "text": "In order to pre­\nvent their\nextinction, more\fpeople have made\nan effort to breed\nthese POKéMON."
+      },
+      {
+        "game": "rs-r",
+        "text": "FARFETCH’D is always seen with a stick\nfrom a plant of some sort. Apparently,\nthere are good sticks and bad sticks.\fThis POKéMON has been known to fight\nwith others over sticks."
+      },
+      {
+        "game": "rs-s",
+        "text": "FARFETCH’D is always seen with a stick\nfrom a plant of some sort. Apparently,\nthere are good sticks and bad sticks.\fThis POKéMON has been known to fight\nwith others over sticks."
+      },
+      {
+        "game": "e",
+        "text": "It is always seen with a stick from a plant.\nApparently, there are good sticks and bad\nsticks. This POKéMON occasionally fights\nwith others over choice sticks."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "It always walks about with a plant stalk\nclamped in its beak. The stalk is used for\nbuilding its nest."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "The plant stalk it holds is its weapon.\nThe stalk is used like a sword to cut all\nsorts of things."
+      },
+      {
+        "game": "dp-d",
+        "text": "It can’t live without the stalk it\nholds. That’s why it defends the\nstalk from attackers with its life."
+      },
+      {
+        "game": "dp-p",
+        "text": "It can’t live without the stalk it\nholds. That’s why it defends the\nstalk from attackers with its life."
+      },
+      {
+        "game": "pt",
+        "text": "It can’t live without the stalk it\nholds. That’s why it defends the\nstalk from attackers with its life."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "If anyone tries to disturb where the\nessential plant stalks grow, it uses its\nown stalk to thwart them."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "If it eats the plant stalk it carries\nas emergency rations, it runs off\nin search of a new stalk."
+      },
+      {
+        "game": "bw-b",
+        "text": "It can’t live without the stalk it\nholds. That’s why it defends the\nstalk from attackers with its life."
+      },
+      {
+        "game": "bw-w",
+        "text": "It can’t live without the stalk it\nholds. That’s why it defends the\nstalk from attackers with its life."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "It can’t live without the stalk it\nholds. That’s why it defends the\nstalk from attackers with its life."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "It can’t live without the stalk it\nholds. That’s why it defends the\nstalk from attackers with its life."
+      },
+      {
+        "game": "xy-x",
+        "text": "The plant stalk it holds is its weapon. The stalk is\nused like a sword to cut all sorts of things."
+      },
+      {
+        "game": "xy-y",
+        "text": "It always walks about with a plant stalk clamped in\nits beak. The stalk is used for building its nest."
+      },
+      {
+        "game": "oras-or",
+        "text": "Farfetch’d is always seen with a stalk from a plant of some\nsort. Apparently, there are good stalks and bad stalks. This\nPokémon has been known to fight with others over stalks."
+      },
+      {
+        "game": "oras-as",
+        "text": "Farfetch’d is always seen with a stalk from a plant of some\nsort. Apparently, there are good stalks and bad stalks. This\nPokémon has been known to fight with others over stalks."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "They live where reedy plants grow.\nFarfetch’d are rarely seen, so it’s thought\ntheir numbers are decreasing."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "They live where reedy plants grow.\nFarfetch’d are rarely seen, so it’s thought\ntheir numbers are decreasing."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "The stalk this Pokémon carries in its wings serves\nas a sword to cut down opponents. In a dire\nsituation, the stalk can also serve as food."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "They use a plant stalk as a weapon, but not all\nof them use it in the same way. Several distinct\nstyles of stalk fighting have been observed."
+      }
+    ]
+  },
+  "chs": {
+    "name": "大葱鸭",
+    "genus": "黄嘴鸭宝可梦",
+    "flavorText": [
+      {
+        "game": "swsh-sh",
+        "text": "用植物的茎来战斗。\n茎的挥舞方式存在着\n好几种不同的流派。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "居住在茎状植物生长的地方。\n由于这种植物极为稀少而罕见，\n大葱鸭的数量似乎也在减少。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "居住在茎状植物生长的地方。\n由于这种植物极为稀少而罕见，\n大葱鸭的数量似乎也在减少。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "会将翅膀拿着的茎状植物\n当成剑一般去劈砍对手。\n在非常时期会拿它当作食物。"
+      }
+    ]
+  }
+}

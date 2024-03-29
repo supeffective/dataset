@@ -1,0 +1,133 @@
+{
+  "jap": {
+    "name": "ヨクバリス",
+    "genus": "よくばりポケモン",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "しっぽに　きのみを　ためこむ。\nためこみすぎて　ポロポロ　こぼすが\nにぶいので　きがつかない。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "どんなに　かたい　きのみの　からも\nじまんの　はで　ボリボリ　かじる。\nガラルでは　よく　みる　ポケモン。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Yokubarisu",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "요씽리스",
+    "genus": "욕심쟁이포켓몬",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "꼬리에 나무열매를 모아둔다.\n너무 많이 모아둬서 툭툭 흘리지만\n둔감해서 눈치채지 못한다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "아무리 단단한 나무열매 껍질도\n이빨로 아작아작 갉아 먹는다.\n가라르에서 쉽게 볼 수 있는 포켓몬이다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "藏飽栗鼠",
+    "genus": "貪慾寶可夢",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "在尾巴裡囤積樹果。\n雖然囤過頭了就會掉出來，\n但遲鈍的牠不會發現。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "無論多麼堅硬的樹果殼\n都能用引以為傲的大牙咬碎。\n在伽勒爾是很常見的寶可夢。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Rongrigou",
+    "genus": "Pokémon Goulu",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Il amasse tellement de Baies dans sa queue\nqu’elles tombent les unes après les autres, mais\nil est si étourdi qu’il ne s’en rend pas compte."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "On rencontre souvent ce Pokémon à Galar.\nAucune coquille de Baie ne résiste à ses incisives,\ndont il est très fier."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Schlaraffel",
+    "genus": "Gierschlund-Pokémon",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Es hortet in seinem Schweif Beeren. Versucht es,\nzu viele unterzubringen, fallen sie heraus. Da es\njedoch nicht allzu clever ist, bemerkt es das nicht."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Diesem Pokémon begegnet man häufig in Galar.\nEs ist sehr stolz auf seine Zähne, mit denen es\njede noch so harte Beerenschale knacken kann."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Greedent",
+    "genus": "Pokémon Avaricia",
+    "flavorText": [
+      {
+        "game": "swsh-sh",
+        "text": "Sus incisivos, de fuerza y dureza extraordinarias,\nle permiten mordisquear incluso las bayas más\nduras. Es un Pokémon muy común en Galar."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Se obceca tanto en acumular bayas en la cola\nque no se da ni cuenta de cuando tiene\ndemasiadas y se le acaban cayendo."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Greedent",
+    "genus": "Pokémon Ingordigia",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Conserva talmente tante bacche nella coda\nche le perde una dopo l’altra, ma non essendo\nmolto perspicace non se ne rende conto."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Un Pokémon che si incontra spesso a Galar.\nHa denti eccezionali, con i quali rosicchia anche\nle bacche più dure."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Greedent",
+    "genus": "Greedy Pokémon",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "It stashes berries in its tail—so many berries that\nthey fall out constantly. But this Pokémon is a bit\nslow-witted, so it doesn’t notice the loss."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Common throughout the Galar region, this\nPokémon has strong teeth and can chew\nthrough the toughest of berry shells."
+      }
+    ]
+  },
+  "chs": {
+    "name": "藏饱栗鼠",
+    "genus": "贪欲宝可梦",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "在尾巴里囤积树果。\n虽然囤过头了就会掉出来，\n但是迟钝的它不会发现。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "无论多么坚硬的树果壳\n都能用引以为傲的大牙咬碎。\n在伽勒尔是很常见的宝可梦。"
+      }
+    ]
+  }
+}

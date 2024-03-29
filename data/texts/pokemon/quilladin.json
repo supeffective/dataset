@@ -1,0 +1,171 @@
+{
+  "jap": {
+    "name": "ハリボーグ",
+    "genus": "とげよろいポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "からだを　おおう　がんじょうな　カラが\nてきの　こうげきを　はじきかえし\nするどい　トゲで　はんげきする。"
+      },
+      {
+        "game": "xy-y",
+        "text": "なかまどうしで　からだを　ぶつけあい\nあしこしを　きたえる。じぶんからは\nたたかわない　やさしい　せいかく。"
+      },
+      {
+        "game": "oras-or",
+        "text": "からだを　おおう　がんじょうな　カラが\nてきの　こうげきを　はじきかえし\nするどい　トゲで　はんげきする。"
+      },
+      {
+        "game": "oras-as",
+        "text": "なかまどうしで　からだを　ぶつけあい\nあしこしを　きたえる。じぶんからは\nたたかわない　やさしい　せいかく。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Hariborg",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "도치보구",
+    "genus": "가시갑옷포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "몸을 둘러싼 단단한 껍질이\n적의 공격을 튕겨내고\n날카로운 가시로 반격한다."
+      },
+      {
+        "game": "xy-y",
+        "text": "동료끼리 몸을 서로 부딪쳐\n하반신을 단련한다. 자신이 먼저\n싸움을 걸지 않는 온순한 성격이다."
+      },
+      {
+        "game": "oras-or",
+        "text": "몸을 둘러싼 단단한 껍질이\n적의 공격을 튕겨내고\n날카로운 가시로 반격한다."
+      },
+      {
+        "game": "oras-as",
+        "text": "동료끼리 몸을 서로 부딪쳐\n하반신을 단련한다. 자신이 먼저\n싸움을 걸지 않는 온순한 성격이다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "胖胖哈力",
+    "genus": "刺鎧寶可夢",
+    "flavorText": []
+  },
+  "fra": {
+    "name": "Boguérisse",
+    "genus": "Pokémon Épinarmure",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "La carapace qui recouvre son corps le protège\ndes attaques adverses, et ses piquants lui permettent\nde contre-attaquer."
+      },
+      {
+        "game": "xy-y",
+        "text": "Il renforce ses membres inférieurs en se ruant\nviolemment sur ses congénères. Naturellement\npaisible, il ne provoque jamais un combat."
+      },
+      {
+        "game": "oras-or",
+        "text": "La carapace qui recouvre son corps le protège des attaques\nadverses, et ses piquants lui permettent de contre-attaquer."
+      },
+      {
+        "game": "oras-as",
+        "text": "Il renforce ses membres inférieurs en se ruant violemment\nsur ses congénères. Naturellement paisible, il ne provoque\njamais un combat."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Igastarnish",
+    "genus": "Spitzpanzer",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Der Panzer, der seinen Körper umgibt, bietet ihm\nSchutz vor Angreifern und straft direkte Angriffe\npostwendend mit spitzen Stacheln ab."
+      },
+      {
+        "game": "xy-y",
+        "text": "Sie stärken ihre Beinmuskeln, indem sie sich\ngegenseitig anrempeln. Sie sind sehr freundlich\nund würden niemals einen Streit anfangen."
+      },
+      {
+        "game": "oras-or",
+        "text": "Der Panzer, der seinen Körper umgibt, bietet ihm Schutz vor\nAngreifern und straft direkte Angriffe postwendend mit spitzen\nStacheln ab."
+      },
+      {
+        "game": "oras-as",
+        "text": "Sie stärken ihre Beinmuskeln, indem sie sich gegenseitig\nanrempeln. Sie sind sehr freundlich und würden niemals\neinen Streit anfangen."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Quilladin",
+    "genus": "Pokémon Corazaespín",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Desvía los ataques de los enemigos con la robusta\ncoraza que cubre su cuerpo y contraataca con sus\ndos afilados cuernos."
+      },
+      {
+        "game": "xy-y",
+        "text": "Chocan contra sus congéneres para fortalecer sus\npiernas. Debido a su carácter afable, nunca son los\nque provocan un combate."
+      },
+      {
+        "game": "oras-or",
+        "text": "Desvía los ataques de los enemigos con la robusta coraza que\ncubre su cuerpo y contraataca con sus dos afilados cuernos."
+      },
+      {
+        "game": "oras-as",
+        "text": "Chocan contra sus congéneres para fortalecer sus piernas.\nDebido a su carácter afable, nunca son los que provocan un\ncombate."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Quilladin",
+    "genus": "Pokémon Spincorazza",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Respinge gli attacchi dei nemici grazie al guscio che\ngli ricopre il corpo e contrattacca con gli aculei affilati."
+      },
+      {
+        "game": "xy-y",
+        "text": "Allena la parte inferiore del corpo scontrandosi con i\nsuoi simili. Ha una natura mite e non inizia mai\nuna lotta per primo."
+      },
+      {
+        "game": "oras-or",
+        "text": "Respinge gli attacchi dei nemici grazie al guscio che gli ricopre\nil corpo e contrattacca con gli aculei affilati."
+      },
+      {
+        "game": "oras-as",
+        "text": "Allena la parte inferiore del corpo scontrandosi con i suoi\nsimili. Ha una natura mite e non inizia mai una lotta per primo."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Quilladin",
+    "genus": "Spiny Armor Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "It relies on its sturdy shell to deflect predators’\nattacks. It counterattacks with its sharp quills."
+      },
+      {
+        "game": "xy-y",
+        "text": "They strengthen their lower bodies by\nrunning into one another. They are very\nkind and won’t start fights."
+      },
+      {
+        "game": "oras-or",
+        "text": "It relies on its sturdy shell to deflect predators’\nattacks. It counterattacks with its sharp quills."
+      },
+      {
+        "game": "oras-as",
+        "text": "They strengthen their lower bodies by\nrunning into one another. They are very\nkind and won’t start fights."
+      }
+    ]
+  },
+  "chs": {
+    "name": "胖胖哈力",
+    "genus": "刺铠宝可梦",
+    "flavorText": []
+  }
+}

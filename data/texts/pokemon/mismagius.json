@@ -1,0 +1,365 @@
+{
+  "jap": {
+    "name": "ムウマージ",
+    "genus": "マジカルポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "じゅもんを　となえる　ポケモン。\nあいてを　くるしめるもの　だけでなく\nしあわせにする　じゅもんも　ある。"
+      },
+      {
+        "game": "xy-y",
+        "text": "じゅもんの　ような　あやしい\nなきごえで　あいてを　くるしめる。\nしんしゅつきぼつの　ポケモン。"
+      },
+      {
+        "game": "oras-or",
+        "text": "じゅもんを　となえる　ポケモン。\nあいてを　くるしめるもの　だけでなく\nしあわせにする　じゅもんも　ある。"
+      },
+      {
+        "game": "oras-as",
+        "text": "じゅもんの　ような　あやしい\nなきごえで　あいてを　くるしめる。\nしんしゅつきぼつの　ポケモン。"
+      },
+      {
+        "game": "sm-s",
+        "text": "どこからともなく　あらわれ　じゅもんを\nつぶやき　のろいを　かけたり\nおそろしい　まぼろしを　みせる。"
+      },
+      {
+        "game": "sm-m",
+        "text": "こいの　ねがいが　かなう　のろいを\nかけることも　あるので　いのちがけで\nムウマージを　さがすものも　いる。"
+      },
+      {
+        "game": "usum-us",
+        "text": "たたりや　のろいを　ふりまくとして\nおそれられて　きた。　きまぐれに\nひとをたすける　じゅもんも　つかう。"
+      },
+      {
+        "game": "usum-um",
+        "text": "のろいの　ことばを　つぶやいて\nひどい　ずつうや　おそろしい\nまぼろしを　みせて　くるしめる。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Mumage",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "무우마직",
+    "genus": "매지컬포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "주문을 외는 포켓몬이다.\n상대를 고통스럽게 하는 것뿐만\n아니라 행복하게 하는 주문도 있다."
+      },
+      {
+        "game": "xy-y",
+        "text": "주문 같은 수상한\n울음소리로 상대를 괴롭힌다.\n신출귀몰하는 포켓몬이다."
+      },
+      {
+        "game": "oras-or",
+        "text": "주문을 외는 포켓몬이다.\n상대를 고통스럽게 하는 것뿐만\n아니라 행복하게 하는 주문도 있다."
+      },
+      {
+        "game": "oras-as",
+        "text": "주문 같은 수상한\n울음소리로 상대를 괴롭힌다.\n신출귀몰하는 포켓몬이다."
+      },
+      {
+        "game": "sm-s",
+        "text": "예고 없이 나타나\n주문을 외워 저주를 걸거나\n무서운 환상을 보여준다."
+      },
+      {
+        "game": "sm-m",
+        "text": "사랑의 소원을 이뤄주는 저주를\n하는 일도 있어서 목숨을 걸고\n무우마직을 찾는 자도 있다."
+      },
+      {
+        "game": "usum-us",
+        "text": "닥치는 대로 재앙과 저주를 내려\n두려움의 대상이었다. 변덕을 부려\n사람을 돕는 주문도 사용하기도 한다."
+      },
+      {
+        "game": "usum-um",
+        "text": "저주의 말을 중얼거리며\n심한 두통이나 무서운\n환상을 보여 줘서 괴롭힌다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "夢妖魔",
+    "genus": "魔法寶可夢",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "不知從何處出現，\n碎碎念著咒文，施加詛咒，\n製造恐怖的幻象。"
+      },
+      {
+        "game": "sm-m",
+        "text": "因為也會施加實現戀愛願望的咒語，\n所以也有不惜性命尋找夢妖魔的人。"
+      },
+      {
+        "game": "usum-us",
+        "text": "因為會四處作祟並散播詛咒\n而被人們畏懼。有時也會\n隨性地使用幫助人的咒語。"
+      },
+      {
+        "game": "usum-um",
+        "text": "會喃喃唸誦詛咒的話語，\n使對手激烈頭痛，或是看見\n恐怖的幻覺，藉此折磨對手。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Magirêve",
+    "genus": "Pokémon Magique",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Pareil à une incantation magique,\nson cri n’est que très rarement\nsource de joie."
+      },
+      {
+        "game": "bw-w",
+        "text": "Pareil à une incantation magique,\nson cri n’est que très rarement\nsource de joie."
+      },
+      {
+        "game": "xy-x",
+        "text": "Il psalmodie des incantations. Ce sont souvent\ndes malédictions, mais certaines apportent la joie."
+      },
+      {
+        "game": "xy-y",
+        "text": "Un Pokémon insaisissable qui tourmente ses ennemis\navec son cri semblable à une incantation."
+      },
+      {
+        "game": "oras-or",
+        "text": "Il psalmodie des incantations. Ce sont souvent\ndes malédictions, mais certaines apportent la joie."
+      },
+      {
+        "game": "oras-as",
+        "text": "Un Pokémon insaisissable qui tourmente ses ennemis avec\nson cri semblable à une incantation."
+      },
+      {
+        "game": "sm-s",
+        "text": "Un Pokémon aux pouvoirs terrifiants : il sort de\nnulle part en maugréant des incantations et en\nlançant des malédictions."
+      },
+      {
+        "game": "sm-m",
+        "text": "Comme Magirêve aurait le pouvoir de réaliser\nles souhaits des amoureux, certaines personnes\nse lancent désespérément à sa poursuite."
+      },
+      {
+        "game": "usum-us",
+        "text": "Redouté pour ses sortilèges et ses malédictions,\nce Pokémon peut néanmoins faire preuve de\nbienveillance, si l’envie lui en prend."
+      },
+      {
+        "game": "usum-um",
+        "text": "Il susurre des malédictions pour tourmenter\nses ennemis et leur infliger de terribles\nmigraines ou des hallucinations terrifiantes."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Traunmagil",
+    "genus": "Magisch",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Es spricht Beschwörungen. Viele lösen Schmerzen\naus, manche aber bringen Glück."
+      },
+      {
+        "game": "xy-y",
+        "text": "Sein bizarrer, bannfluchartiger Ruf quält seine Gegner.\nEs verschwindet so plötzlich, wie es auftaucht."
+      },
+      {
+        "game": "oras-or",
+        "text": "Es spricht Beschwörungen. Viele lösen Schmerzen aus,\nmanche aber bringen Glück."
+      },
+      {
+        "game": "oras-as",
+        "text": "Sein bizarrer, bannfluchartiger Ruf quält seine Gegner.\nEs verschwindet so plötzlich, wie es auftaucht."
+      },
+      {
+        "game": "sm-s",
+        "text": "Es erscheint aus dem Nichts, flüstert\nBeschwörungen, spricht Flüche aus und\nerzeugt furchteinflößende Trugbilder."
+      },
+      {
+        "game": "sm-m",
+        "text": "Manche Leute suchen verzweifelt nach einem\nTraunmagil, weil es mit seinen Beschwörungen\nLiebeswünsche in Erfüllung gehen lassen kann."
+      },
+      {
+        "game": "usum-us",
+        "text": "Es wird für seine Flüche und Beschwörungen\ngefürchtet. Wenn ihm danach ist, spricht es\nauch mal Bannsprüche, die Menschen helfen."
+      },
+      {
+        "game": "usum-um",
+        "text": "Es verursacht schreckliche Qualen, indem es\nFlüche flüstert, die schlimme Kopfschmerzen\nund fürchterliche Halluzinationen auslösen."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Mismagius",
+    "genus": "Pokémon Mágico",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Recita cánticos. Algunos de ellos atormentan a sus\nrivales, mientras que otros producen felicidad."
+      },
+      {
+        "game": "xy-y",
+        "text": "Atormenta a sus rivales con gritos que parecen\nconjuros. Aparece en ocasiones y lugares imprevistos."
+      },
+      {
+        "game": "oras-or",
+        "text": "Recita cánticos. Algunos de ellos atormentan a sus rivales,\nmientras que otros producen felicidad."
+      },
+      {
+        "game": "oras-as",
+        "text": "Atormenta a sus rivales con gritos que parecen conjuros.\nAparece en ocasiones y lugares imprevistos."
+      },
+      {
+        "game": "sm-s",
+        "text": "Aparece de la nada sin previo aviso y lanza\nconjuros por medio de cánticos. Quienes los\nescuchan pueden sufrir terroríficas visiones."
+      },
+      {
+        "game": "sm-m",
+        "text": "Es capaz de lanzar hechizos y conjuros de\namor, por lo que hay gente totalmente\nobsesionada con encontrar a un Mismagius."
+      },
+      {
+        "game": "usum-us",
+        "text": "Es temido por su afición a lanzar maldiciones y\nconjuros a diestro y siniestro, pero a veces le\nda por usar la magia para ayudar a alguien."
+      },
+      {
+        "game": "usum-um",
+        "text": "Murmura conjuros para atormentar al enemigo y\nprovocarle dolores de cabeza insoportables o\nvisiones terroríficas."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Mismagius",
+    "genus": "Pokémon Stregone",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Recita incantesimi che tormentano il nemico.\nTuttavia, alcune formule portano felicità."
+      },
+      {
+        "game": "xy-y",
+        "text": "Tormenta i malcapitati con un verso simile a formule\nmagiche. Appare dovunque in qualsiasi momento."
+      },
+      {
+        "game": "oras-or",
+        "text": "Recita incantesimi che tormentano il nemico. Tuttavia, alcune\nformule portano felicità."
+      },
+      {
+        "game": "oras-as",
+        "text": "Tormenta i malcapitati con un verso simile a formule magiche.\nAppare dovunque in qualsiasi momento."
+      },
+      {
+        "game": "sm-s",
+        "text": "Appare dal nulla recitando formule magiche\nche causano sventura o provocano spaventose\nvisioni."
+      },
+      {
+        "game": "sm-m",
+        "text": "Conosce formule magiche e incantesimi\nd’amore. Molti fanno della sua ricerca la loro\nragione di vita."
+      },
+      {
+        "game": "usum-us",
+        "text": "È temuto perché lancia maledizioni e causa\nsventure, ma a volte decide di usare i suoi\nincantesimi per aiutare le persone."
+      },
+      {
+        "game": "usum-um",
+        "text": "Infligge tormenti al nemico recitando formule\nmalefiche che causano terribili emicranie o\nprovocano spaventose visioni."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Mismagius",
+    "genus": "Magical Pokémon",
+    "flavorText": [
+      {
+        "game": "dp-d",
+        "text": "Its cries sound like incantations.\nThose hearing it are tormented\nby headaches and hallucinations."
+      },
+      {
+        "game": "dp-p",
+        "text": "It chants incantations. While they\nusually torment targets, some\nchants bring happiness."
+      },
+      {
+        "game": "pt",
+        "text": "Its cry sounds like an incantation.\nIt is said the cry may rarely be\nimbued with happiness-giving power."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "Its cries sound like incantations\nto torment the foe. It appears\nwhere you least expect it."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "Its cries sound like incantations\nto torment the foe. It appears\nwhere you least expect it."
+      },
+      {
+        "game": "bw-b",
+        "text": "Its cry sounds like an incantation.\nIt is said the cry may rarely be\nimbued with happiness-giving power."
+      },
+      {
+        "game": "bw-w",
+        "text": "Its cry sounds like an incantation.\nIt is said the cry may rarely be\nimbued with happiness-giving power."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "Its cry sounds like an incantation.\nIt is said the cry may rarely be\nimbued with happiness-giving power."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "Its cry sounds like an incantation.\nIt is said the cry may rarely be\nimbued with happiness-giving power."
+      },
+      {
+        "game": "xy-x",
+        "text": "It chants incantations. While they usually torment\ntargets, some chants bring happiness."
+      },
+      {
+        "game": "xy-y",
+        "text": "Its cries sound like incantations to torment the foe.\nIt appears where you least expect it."
+      },
+      {
+        "game": "oras-or",
+        "text": "It chants incantations. While they usually torment\ntargets, some chants bring happiness."
+      },
+      {
+        "game": "oras-as",
+        "text": "Its cries sound like incantations to torment the foe.\nIt appears where you least expect it."
+      },
+      {
+        "game": "sm-s",
+        "text": "It appears as if from nowhere—muttering\nincantations, placing curses, and giving\npeople terrifying visions."
+      },
+      {
+        "game": "sm-m",
+        "text": "Mismagius have been known to cast spells to\nmake people fall in love, so some people search\nfor this Pokémon as if their life depended on it."
+      },
+      {
+        "game": "usum-us",
+        "text": "Feared for its wrath and the curses it spreads,\nthis Pokémon will also, on a whim, cast spells\nthat help people."
+      },
+      {
+        "game": "usum-um",
+        "text": "Its muttered curses can cause awful headaches\nor terrifying visions that torment others."
+      },
+      {
+        "game": "la",
+        "text": "The incantations Mismagius chants can ward against misfortune,\nso a custom exists of inviting it into one's home. Incur the\nPokémon's displeasure, however, and disaster will surely ensue."
+      }
+    ]
+  },
+  "chs": {
+    "name": "梦妖魔",
+    "genus": "魔法宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "不知从何处出现，\n碎碎念着咒文，施加诅咒，\n制造恐怖的幻象。"
+      },
+      {
+        "game": "sm-m",
+        "text": "因为也会施加实现恋爱愿望的咒语，\n所以也有拼命寻找梦妖魔的人。"
+      },
+      {
+        "game": "usum-us",
+        "text": "因为四处作祟，播撒诅咒\n而被人们所恐惧。\n也会随性地使用帮助人类的咒文。"
+      },
+      {
+        "game": "usum-um",
+        "text": "会吟诵诅咒的语言，\n让对方极度头疼，或是看到\n恐怖的幻觉，深受折磨。"
+      }
+    ]
+  }
+}

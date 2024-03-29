@@ -1,0 +1,269 @@
+{
+  "jap": {
+    "name": "クイタラン",
+    "genus": "アリクイポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "こうおんで　もえる　ほのおの　したで\nアイアントの　はがねの　からだを\nとかして　なかみを　いただくのだ。"
+      },
+      {
+        "game": "xy-y",
+        "text": "しっぽから　とりこんだ　くうきを\nほのおにかえて　ベロのように　つかい\nアイアントを　とかして　たべるぞ。"
+      },
+      {
+        "game": "oras-or",
+        "text": "こうおんで　もえる　ほのおの　したで\nアイアントの　はがねの　からだを\nとかして　なかみを　いただくのだ。"
+      },
+      {
+        "game": "oras-as",
+        "text": "しっぽから　とりこんだ　くうきを\nほのおにかえて　ベロのように　つかい\nアイアントを　とかして　たべるぞ。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "しっぽの　あなから　くうきを\nとりこみ　ほのおを　もやす。　あなを\nふさがれると　ぐあいが　わるくなる。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "ほのおを　ベロの　ように　つかう。\nアイアントの　かたい　がいこっかくを\nじわじわと　とかし　いただくのだ。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Kuitaran",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "앤티골",
+    "genus": "개미핥기포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "뜨겁게 타오르는 불꽃의 혀로\n아이앤트의 강철 몸을\n녹여서 알맹이를 먹어치운다."
+      },
+      {
+        "game": "xy-y",
+        "text": "꼬리에서 빨아들인 공기를\n불꽃으로 바꿔 혀처럼 사용해\n아이앤트를 녹여서 먹는다."
+      },
+      {
+        "game": "oras-or",
+        "text": "뜨겁게 타오르는 불꽃의 혀로\n아이앤트의 강철 몸을\n녹여서 알맹이를 먹어치운다."
+      },
+      {
+        "game": "oras-as",
+        "text": "꼬리에서 빨아들인 공기를\n불꽃으로 바꿔 혀처럼 사용해\n아이앤트를 녹여서 먹는다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "꼬리의 구멍을 통해 공기를\n빨아들여 불꽃을 태운다.\n구멍이 막히면 상태가 나빠진다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "불꽃을 혀처럼 사용한다.\n아이앤트의 단단한 외골격을\n조금씩 녹여 먹어 치운다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "熔蟻獸",
+    "genus": "食蟻獸寶可夢",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "從尾部的孔洞吸入空氣，\n燃起火焰。如果孔洞被\n堵住了，身體就會不舒服。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "將火焰當成舌頭來使用。\n會一點一點地熔化鐵蟻\n堅硬的外骨骼，然後把牠吃掉。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Aflamanoir",
+    "genus": "Pokémon Tamanoir",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Il aspire de l’air par la queue et\nentretient un brasier dans son corps.\nC’est le prédateur des Fermite."
+      },
+      {
+        "game": "bw-w",
+        "text": "Avec sa langue de feu à haute\ntempérature, il fait fondre le corps\nd’acier des Fermite pour les dévorer."
+      },
+      {
+        "game": "xy-x",
+        "text": "Avec sa langue de feu à haute température, il fait\nfondre le corps d’acier des Fermite pour les dévorer."
+      },
+      {
+        "game": "xy-y",
+        "text": "Il aspire de l’air par la queue et le transforme en\nune langue de feu qui fait fondre les Fermite dont\nil se régale."
+      },
+      {
+        "game": "oras-or",
+        "text": "Avec sa langue de feu à haute température, il fait fondre\nle corps d’acier des Fermite pour les dévorer."
+      },
+      {
+        "game": "oras-as",
+        "text": "Il aspire de l’air par la queue et le transforme en une langue\nde feu qui fait fondre les Fermite dont il se régale."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Il aspire de l’air par le bout de sa queue\net produit ainsi sa fameuse langue de feu.\nSi on lui bouche la queue, il se sent mal."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Il se sert de sa flamme comme d’une langue.\nIl fait fondre peu à peu l’exosquelette des Fermite\npour se délecter de leur chair."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Furnifraß",
+    "genus": "Ameisenbären-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Mit seiner brandheißen Zunge bringt es Fermicula\nzum Schmelzen, um so an sein weiches Inneres\nzu gelangen."
+      },
+      {
+        "game": "xy-y",
+        "text": "Über den Schweif aufgesaugte Luft wird in eine\nFeuerzunge verwandelt, um damit Fermicula\nzu schmelzen und zu fressen."
+      },
+      {
+        "game": "oras-or",
+        "text": "Mit seiner brandheißen Zunge bringt es Fermicula zum\nSchmelzen, um so an sein weiches Inneres zu gelangen."
+      },
+      {
+        "game": "oras-as",
+        "text": "Über den Schweif aufgesaugte Luft wird in eine Feuerzunge\nverwandelt, um damit Fermicula zu schmelzen und zu fressen."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Es saugt über das Loch in seinem Schweif Luft für\nseine Flammen ein. Eine Verstopfung des Lochs\nschlägt Furnifraß sofort auf die Gesundheit."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Es nutzt eine Flamme als Zunge. Damit bringt es\ndie Panzer von Fermicula zum Schmelzen und\nverspeist im Anschluss ihr Inneres."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Heatmor",
+    "genus": "Pokémon Hormiguero",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Usa su lengua de fuego para derretir la armadura de\nacero de los Durant y llegar así hasta su interior."
+      },
+      {
+        "game": "xy-y",
+        "text": "Absorbe aire por el orificio de su cola para prender\nuna lengua de llamas con la que derrite a los Durant\npara comerlos."
+      },
+      {
+        "game": "oras-or",
+        "text": "Usa su lengua de fuego para derretir la armadura de acero de\nlos Durant y llegar así hasta su interior."
+      },
+      {
+        "game": "oras-as",
+        "text": "Absorbe aire por el orificio de su cola para prender una lengua\nde llamas con la que derrite a los Durant para comerlos."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Absorbe aire por el orificio de la cola para\nprender las llamas que expulsa. Si la abertura\nse obstruye, enferma."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Usa llamas a modo de lengua para derretir\nel duro exoesqueleto de los Durant antes de\ndevorarlos."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Heatmor",
+    "genus": "Pokémon Formichiere",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Con la sua lingua infuocata scioglie la corazza\nd’acciaio di Durant e ne consuma l’interno."
+      },
+      {
+        "game": "xy-y",
+        "text": "Converte l’aria che aspira dalla coda in una lingua\ndi fiamme che usa per sciogliere i Durant prima di\nconsumarli."
+      },
+      {
+        "game": "oras-or",
+        "text": "Con la sua lingua infuocata scioglie la corazza d’acciaio\ndi Durant e ne consuma l’interno."
+      },
+      {
+        "game": "oras-as",
+        "text": "Converte l’aria che aspira dalla coda in una lingua di fiamme\nche usa per sciogliere i Durant prima di consumarli."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Aspira aria dal foro nella coda per produrre\ndelle fiamme. Se il foro viene tappato, inizia\na sentirsi male."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Usa la fiamma a mo’ di lingua. Liquefà il duro\nesoscheletro dei Durant e poi ne fa un sol\nboccone."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Heatmor",
+    "genus": "Anteater Pokémon",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "It breathes through a hole in its tail\nwhile it burns with an internal fire.\nDurant is its prey."
+      },
+      {
+        "game": "bw-w",
+        "text": "Using their very hot, flame-covered\ntongues, they burn through Durant’s\nsteel bodies and consume their insides."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "It draws in air through its tail,\ntransforms it into fire, and uses it like\na tongue. It melts Durant and eats them."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "It draws in air through its tail,\ntransforms it into fire, and uses it like\na tongue. It melts Durant and eats them."
+      },
+      {
+        "game": "xy-x",
+        "text": "Using their very hot, flame-covered tongues,\nthey burn through Durant’s steel bodies and\nconsume their insides."
+      },
+      {
+        "game": "xy-y",
+        "text": "It draws in air through its tail, transforms it into fire,\nand uses it like a tongue. It melts Durant and\neats them."
+      },
+      {
+        "game": "oras-or",
+        "text": "Using their very hot, flame-covered tongues,\nthey burn through Durant’s steel bodies and\nconsume their insides."
+      },
+      {
+        "game": "oras-as",
+        "text": "It draws in air through its tail, transforms it into fire,\nand uses it like a tongue. It melts Durant and\neats them."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "There’s a hole in its tail that allows it to draw in\nthe air it needs to keep its fire burning. If the\nhole gets blocked, this Pokémon will fall ill."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "A flame serves as its tongue, melting through the\nhard shell of Durant so that Heatmor can devour\ntheir insides."
+      }
+    ]
+  },
+  "chs": {
+    "name": "熔蚁兽",
+    "genus": "食蚁兽宝可梦",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "从尾部的孔洞吸入空气，\n燃起火焰。如果孔洞被\n堵住了，身体就会不舒服。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "将火焰当成舌头来使用。\n会一点一点地熔化铁蚁\n坚硬的外骨骼，然后把它吃掉。"
+      }
+    ]
+  }
+}

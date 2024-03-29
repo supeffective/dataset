@@ -1,0 +1,171 @@
+{
+  "jap": {
+    "name": "ビビヨン",
+    "genus": "りんぷんポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "せかいには　さまざまな　はねもようの\nビビヨンがいる。すんでいる　とちの\nきこうが　えいきょうしているようだ。"
+      },
+      {
+        "game": "xy-y",
+        "text": "すんでいる　きこうや　ふうどによって\nはねの　もようが　ちがう　ポケモン。\nいろあざやかな　りんぷんを　まく。"
+      },
+      {
+        "game": "oras-or",
+        "text": "せかいには　さまざまな　はねもようの\nビビヨンがいる。すんでいる　とちの\nきこうが　えいきょうしているようだ。"
+      },
+      {
+        "game": "oras-as",
+        "text": "すんでいる　きこうや　ふうどによって\nはねの　もようが　ちがう　ポケモン。\nいろあざやかな　りんぷんを　まく。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Viviyon",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "비비용",
+    "genus": "인분포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "세계에는 다양한 무늬의 날개를 가진\n비비용이 있다. 살고 있는 곳의\n기후에 영향을 받는 것 같다."
+      },
+      {
+        "game": "xy-y",
+        "text": "살고 있는 장소의 기후나 풍토에 따라\n날개의 모양이 다른 포켓몬이다.\n화려한 색의 날개 가루를 뿌린다."
+      },
+      {
+        "game": "oras-or",
+        "text": "세계에는 다양한 무늬의 날개를 가진\n비비용이 있다. 살고 있는 곳의\n기후에 영향을 받는 것 같다."
+      },
+      {
+        "game": "oras-as",
+        "text": "살고 있는 장소의 기후나 풍토에 따라\n날개의 모양이 다른 포켓몬이다.\n화려한 색의 날개 가루를 뿌린다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "彩粉蝶",
+    "genus": "鱗粉寶可夢",
+    "flavorText": []
+  },
+  "fra": {
+    "name": "Prismillon",
+    "genus": "Pokémon Lépidécaille",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Les ailes des Prismillon arborent différents motifs\nen fonction de leur aire d’origine. Il est possible que\nle climat y soit pour quelque chose."
+      },
+      {
+        "game": "xy-y",
+        "text": "Selon le climat de sa région d’origine, les motifs\nde ses ailes sont différents. Il sème des écailles\naux couleurs vives."
+      },
+      {
+        "game": "oras-or",
+        "text": "Les ailes des Prismillon arborent différents motifs en fonction\nde leur aire d’origine. Il est possible que le climat y soit\npour quelque chose."
+      },
+      {
+        "game": "oras-as",
+        "text": "Selon le climat de sa région d’origine, les motifs de ses ailes\nsont différents. Il sème des écailles aux couleurs vives."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Vivillon",
+    "genus": "Flügelstaub",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Vivillon kommen weltweit mit den unterschiedlichsten\nMusterungen vor. Das Klima ihres Habitats hat Einfluss\nauf ihre Flügelmusterung."
+      },
+      {
+        "game": "xy-y",
+        "text": "Je nach Klima und geographischer Beschaffenheit\nseines Habitats ändert sich die Musterung seiner\nFlügel. Es verstreut bunten Flügelstaub."
+      },
+      {
+        "game": "oras-or",
+        "text": "Vivillon kommen weltweit mit den unterschiedlichsten\nMusterungen vor. Das Klima ihres Habitats hat Einfluss\nauf ihre Flügelmusterung."
+      },
+      {
+        "game": "oras-as",
+        "text": "Je nach Klima und geographischer Beschaffenheit seines\nHabitats ändert sich die Musterung seiner Flügel. Es verstreut\nbunten Flügelstaub."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Vivillon",
+    "genus": "Pokémon Escamaposa",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "En el mundo existen Vivillon con diferentes motivos en\nsus alas. El clima de cada región influye en sus rasgos."
+      },
+      {
+        "game": "xy-y",
+        "text": "Las alas cambian de motivo según el clima y las\ncaracterísticas naturales del terreno que habite.\nEsparce escamas de lo más coloridas."
+      },
+      {
+        "game": "oras-or",
+        "text": "En el mundo existen Vivillon con diferentes motivos en sus\nalas. El clima de cada región influye en sus rasgos."
+      },
+      {
+        "game": "oras-as",
+        "text": "Las alas cambian de motivo según el clima y las características\nnaturales del terreno que habite. Esparce escamas de lo más\ncoloridas."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Vivillon",
+    "genus": "Pokémon Farfascaglia",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Nel mondo ne esistono diverse varietà che si\ndifferenziano per i motivi sulle ali. Sembra che\nquesti dipendano dal clima del loro habitat."
+      },
+      {
+        "game": "xy-y",
+        "text": "I motivi sulle sue ali cambiano a seconda della zona\ne del clima in cui vive. Dal suo corpo si staccano\nscaglie dai colori vivaci."
+      },
+      {
+        "game": "oras-or",
+        "text": "Nel mondo ne esistono diverse varietà che si differenziano\nper i motivi sulle ali. Sembra che questi dipendano dal clima\ndel loro habitat."
+      },
+      {
+        "game": "oras-as",
+        "text": "I motivi sulle sue ali cambiano a seconda della zona e del\nclima in cui vive. Dal suo corpo si staccano scaglie dai\ncolori vivaci."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Vivillon",
+    "genus": "Scale Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Vivillon with many different patterns are\nfound all over the world. These patterns\nare affected by the climate of their habitat."
+      },
+      {
+        "game": "xy-y",
+        "text": "The patterns on this Pokémon’s wings\ndepend on the climate and topography\nof its habitat. It scatters colorful scales."
+      },
+      {
+        "game": "oras-or",
+        "text": "Vivillon with many different patterns are\nfound all over the world. These patterns\nare affected by the climate of their habitat."
+      },
+      {
+        "game": "oras-as",
+        "text": "The patterns on this Pokémon’s wings\ndepend on the climate and topography\nof its habitat. It scatters colorful scales."
+      }
+    ]
+  },
+  "chs": {
+    "name": "彩粉蝶",
+    "genus": "鳞粉宝可梦",
+    "flavorText": []
+  }
+}

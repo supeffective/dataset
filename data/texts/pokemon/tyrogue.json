@@ -1,0 +1,321 @@
+{
+  "jap": {
+    "name": "バルキー",
+    "genus": "けんかポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "いつでも　げんきいっぱい。\nつよくなるため　まけても　まけても\nあいてに　たちむかっていく。"
+      },
+      {
+        "game": "xy-y",
+        "text": "かくとうセンスを　みがくため\nあらゆる　あいてに　たちむかう。\nまけんきが　ものすごく　つよい。"
+      },
+      {
+        "game": "oras-or",
+        "text": "まいにち　トレーニング　しないと　ストレスが\nたまってしまうので　トレーナーは　そだてる　とき\nスケジュールかんりに　くふうが　ひつようだ。"
+      },
+      {
+        "game": "oras-as",
+        "text": "まいにち　トレーニング　しないと　ストレスが\nたまってしまうので　トレーナーは　そだてる　とき\nスケジュールかんりに　くふうが　ひつようだ。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "いつでも　げんきいっぱい。\nつよくなるため　まけても　まけても\nあいてに　たちむかっていく。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "てごろな　あいてを　みつけると\nすぐに　なぐりかかってくるので\nちいさくても　ゆだんならない。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Balkie",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "배루키",
+    "genus": "싸움포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "항상 기운이 넘친다.\n강해지기 위해 계속 져도\n상대에게 맞선다."
+      },
+      {
+        "game": "xy-y",
+        "text": "격투 감각을 닦기 위해\n모든 상대에게 맞선다.\n오기가 굉장히 세다."
+      },
+      {
+        "game": "oras-or",
+        "text": "매일 트레이닝하지 않으면 스트레스가\n쌓이기 때문에 트레이너는 키울 때\n스케줄 관리에 여러모로 고민해야 한다."
+      },
+      {
+        "game": "oras-as",
+        "text": "매일 트레이닝하지 않으면 스트레스가\n쌓이기 때문에 트레이너는 키울 때\n스케줄 관리에 여러모로 고민해야 한다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "항상 기운이 넘친다.\n강해지기 위해 지고 또 져도\n계속 상대에게 맞선다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "만만한 상대를 발견하면\n바로 공격해오기 때문에\n몸집이 작아도 방심은 할 수 없다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "無畏小子",
+    "genus": "打鬥寶可夢",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "無論何時都充滿活力。\n為了變強，就算輸了一次又一次，\n也會不斷重新站起來迎戰對手。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "體型雖小卻不可輕視，\n因為牠只要發現合適的對手，\n就會馬上撲上去大打出手。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Debugant",
+    "genus": "Pokémon Bagarreur",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Il est réputé pour sa combativité.\nIl se blesse toujours en défiant\ndes ennemis plus grands."
+      },
+      {
+        "game": "bw-w",
+        "text": "Il est réputé pour sa combativité.\nIl se blesse toujours en défiant\ndes ennemis plus grands."
+      },
+      {
+        "game": "xy-x",
+        "text": "Il est plein d’énergie. Il se bat tout le temps pour\nêtre plus fort, quitte à perdre un combat."
+      },
+      {
+        "game": "xy-y",
+        "text": "Pour augmenter ses capacités, il cherche à se battre\ncontre n’importe qui. Il est très courageux."
+      },
+      {
+        "game": "oras-or",
+        "text": "Debugant devient nerveux s’il ne s’entraîne pas tous les jours.\nLorsqu’un Dresseur élève ce Pokémon, il doit établir et\nappliquer un programme d’entraînement très complet."
+      },
+      {
+        "game": "oras-as",
+        "text": "Debugant devient nerveux s’il ne s’entraîne pas tous les jours.\nLorsqu’un Dresseur élève ce Pokémon, il doit établir et\nappliquer un programme d’entraînement très complet."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Ce Pokémon est débordant d’énergie.\nMême s’il perd encore et encore, il se relève\ntoujours pour devenir plus fort."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Même s’il est petit, il vaut mieux ne pas l’ignorer :\nquand il trouve un adversaire à sa hauteur,\nil frappe fort et souvent sans prévenir."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Rabauz",
+    "genus": "Racker-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Es strotzt vor Energie. Um noch stärker zu werden,\nkämpft es weiter, auch wenn es verloren hat."
+      },
+      {
+        "game": "xy-y",
+        "text": "Um seine Kampffähigkeiten zu verbessern, tritt es\ngegen jeden an. Es besitzt großen Kampfgeist."
+      },
+      {
+        "game": "oras-or",
+        "text": "Rabauz muss jeden Tag trainieren, sonst ist es nicht\nausgelastet und reagiert gestresst. Wenn man dieses\nPokémon trainiert, muss man zahlreiche Trainingsmethoden\neinsetzen und sie ständig ausbauen."
+      },
+      {
+        "game": "oras-as",
+        "text": "Rabauz muss jeden Tag trainieren, sonst ist es nicht\nausgelastet und reagiert gestresst. Wenn man dieses\nPokémon trainiert, muss man zahlreiche Trainingsmethoden\neinsetzen und ausbauen."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Es strotzt vor Energie. Um stärker zu werden,\nfordert es seine Gegner immer wieder heraus,\nauch wenn es schon mehrmals verloren hat."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Es ist zwar nicht groß, geht aber entschlossen\nzum Angriff über, sobald es einen angemessenen\nGegner sichtet. Vorsicht ist also geboten."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Tyrogue",
+    "genus": "Pokémon Peleón",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Ataca siempre con mucha energía. Para fortalecerse a\nsí mismo, sigue luchando aunque pierda."
+      },
+      {
+        "game": "xy-y",
+        "text": "Para mejorar sus técnicas de lucha, desafiará a\ncualquiera. Tiene un espíritu muy competitivo."
+      },
+      {
+        "game": "oras-or",
+        "text": "Tyrogue se pone demasiado nervioso si no lo sacan a\nentrenarse cada día. Su Entrenador debe establecer y\nmantener ciertos métodos de entrenamiento durante la cría."
+      },
+      {
+        "game": "oras-as",
+        "text": "Tyrogue se pone demasiado nervioso si no lo sacan a\nentrenarse cada día. Su Entrenador debe establecer y\nmantener ciertos métodos de entrenamiento durante la cría."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Siempre está rebosante de energía. Por muchas\nderrotas que acumule, no deja de plantar cara a\nsus rivales con tal de fortalecerse."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Su pequeño tamaño no debe ser motivo para\nsubestimarlo, ya que se liará de inmediato a\ngolpes con cualquier rival que estime oportuno."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Tyrogue",
+    "genus": "Pokémon Baruffa",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Sempre traboccante di energia. Per rinforzarsi\ncontinua a combattere anche dopo aver perso."
+      },
+      {
+        "game": "xy-y",
+        "text": "Sfida chiunque per mettere alla prova le sua abilità\nnella lotta. Ha un forte spirito agonistico."
+      },
+      {
+        "game": "oras-or",
+        "text": "Tyrogue ha bisogno di allenarsi ogni giorno per scaricare\nla sua energia. Gli Allenatori che lo allevano devono stabilire\ne praticare diverse metodologie di allenamento."
+      },
+      {
+        "game": "oras-as",
+        "text": "Tyrogue ha bisogno di allenarsi ogni giorno per scaricare\nla sua energia. Gli Allenatori che lo allevano devono stabilire\ne praticare diverse metodologie di allenamento."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Sempre traboccante di energia. Per rinforzarsi\ncontinua a sfidare il suo avversario anche dopo\nessere stato ripetutamente sconfitto."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Anche se è piccolo, non bisogna abbassare\nla guardia: quando trova un avversario che fa\nal caso suo, inizia subito a tempestarlo di colpi."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Tyrogue",
+    "genus": "Scuffle Pokémon",
+    "flavorText": [
+      {
+        "game": "gs-g",
+        "text": "It is always\nbursting with en­\nergy. To make it­\fself stronger, it\nkeeps on fighting\neven if it loses."
+      },
+      {
+        "game": "gs-s",
+        "text": "Even though it is\nsmall, it can't be\nignored because\fit will slug any\nhandy target with­\nout warning."
+      },
+      {
+        "game": "c",
+        "text": "To brush up on its\nfighting skills,\nit will challenge\fanyone. It has a\nvery strong com­\npetitive spirit."
+      },
+      {
+        "game": "rs-r",
+        "text": "TYROGUE becomes stressed out if it\ndoes not get to train every day.\nWhen raising this POKéMON, the TRAINER\fmust establish and uphold various\ntraining methods."
+      },
+      {
+        "game": "rs-s",
+        "text": "TYROGUE becomes stressed out if it\ndoes not get to train every day.\nWhen raising this POKéMON, the TRAINER\fmust establish and uphold various\ntraining methods."
+      },
+      {
+        "game": "e",
+        "text": "TYROGUE become stressed out if they do\nnot get to train every day. When raising\nthis POKéMON, the TRAINER must establish\na regular training schedule."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "Even though it is small, it can’t be\nignored because it will slug any handy\ntarget without warning."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "It is always bursting with energy. To make\nitself stronger, it keeps on fighting even\nif it loses."
+      },
+      {
+        "game": "dp-d",
+        "text": "It is famous for its eagerness to\nfight and always nurses injuries\nfrom challenging larger foes."
+      },
+      {
+        "game": "dp-p",
+        "text": "It is famous for its eagerness to\nfight and always nurses injuries\nfrom challenging larger foes."
+      },
+      {
+        "game": "pt",
+        "text": "It is famous for its eagerness to\nfight and always nurses injuries\nfrom challenging larger foes."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "It is always bursting with energy.\nTo make itself stronger, it\nkeeps on fighting even if it loses."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "Even though it is small, it can’t be\nignored because it will slug any\nhandy target without warning."
+      },
+      {
+        "game": "bw-b",
+        "text": "It is famous for its eagerness to\nfight and always nurses injuries\nfrom challenging larger foes."
+      },
+      {
+        "game": "bw-w",
+        "text": "It is famous for its eagerness to\nfight and always nurses injuries\nfrom challenging larger foes."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "It is famous for its eagerness to\nfight and always nurses injuries\nfrom challenging larger foes."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "It is famous for its eagerness to\nfight and always nurses injuries\nfrom challenging larger foes."
+      },
+      {
+        "game": "xy-x",
+        "text": "It is always bursting with energy. To make itself\nstronger, it keeps on fighting even if it loses."
+      },
+      {
+        "game": "xy-y",
+        "text": "To brush up on its fighting skills, it will challenge\nanyone. It has a very strong competitive spirit."
+      },
+      {
+        "game": "oras-or",
+        "text": "Tyrogue becomes stressed out if it does not get to train every\nday. When raising this Pokémon, the Trainer must establish\nand uphold various training methods."
+      },
+      {
+        "game": "oras-as",
+        "text": "Tyrogue becomes stressed out if it does not get to train every\nday. When raising this Pokémon, the Trainer must establish\nand uphold various training methods."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "It is always bursting with energy. To make itself\nstronger, it keeps on fighting even if it loses."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Even though it is small, it can’t be ignored because\nit will slug any handy target without warning."
+      }
+    ]
+  },
+  "chs": {
+    "name": "无畏小子",
+    "genus": "打斗宝可梦",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "永远都是精力充沛的样子。\n为了变强，就算输了一次又一次，\n也会不断地站起来迎战对手。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "体型偏小却不可轻视，\n因为它只要发现合适的对手\n便会马上扑上去大打出手。"
+      }
+    ]
+  }
+}

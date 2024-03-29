@@ -1,0 +1,195 @@
+{
+  "jap": {
+    "name": "ジャローダ",
+    "genus": "ロイヤルポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "ジャローダの　けだかい　ひとみで\nいすくめられても　へいきな　つよい\nあいてにだけ　ほんきを　だす。"
+      },
+      {
+        "game": "xy-y",
+        "text": "にらむだけで　あいての　うごきを\nとめてしまう。たいようエネルギーを\nたいないで　ぞうふくさせる。"
+      },
+      {
+        "game": "oras-or",
+        "text": "ジャローダの　けだかい　ひとみで\nいすくめられても　へいきな　つよい\nあいてにだけ　ほんきを　だす。"
+      },
+      {
+        "game": "oras-as",
+        "text": "にらむだけで　あいての　うごきを\nとめてしまう。たいようエネルギーを\nたいないで　ぞうふくさせる。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Jalorda",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "샤로다",
+    "genus": "로열포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "샤로다의 고상한 눈동자로\n쏘아보아도 태연할 정도로 강한\n상대에게만 진정한 실력을 발휘한다."
+      },
+      {
+        "game": "xy-y",
+        "text": "째려보기만 해도 상대의 움직임을\n멈추게 한다. 태양에너지를\n체내에서 증폭시킨다."
+      },
+      {
+        "game": "oras-or",
+        "text": "샤로다의 고상한 눈동자로\n쏘아보아도 태연할 정도로 강한\n상대에게만 진정한 실력을 발휘한다."
+      },
+      {
+        "game": "oras-as",
+        "text": "째려보기만 해도 상대의 움직임을\n멈추게 한다. 태양에너지를\n체내에서 증폭시킨다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "君主蛇",
+    "genus": "皇家寶可夢",
+    "flavorText": []
+  },
+  "fra": {
+    "name": "Majaspic",
+    "genus": "Pokémon Majestueux",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Il peut paralyser l’ennemi d’un regard.\nIl amplifie l’énergie du soleil dans\nson corps."
+      },
+      {
+        "game": "bw-w",
+        "text": "Il garde la tête haute pour intimider\nl’ennemi, et ne combat sérieusement\nque les ennemis les plus puissants."
+      },
+      {
+        "game": "xy-x",
+        "text": "Il ne donnera tout son potentiel que contre un\nennemi puissant indifférent à son regard écrasant\nde noblesse."
+      },
+      {
+        "game": "xy-y",
+        "text": "Il peut paralyser l’ennemi d’un regard. Il amplifie\nl’énergie du soleil dans son corps."
+      },
+      {
+        "game": "oras-or",
+        "text": "Il ne donnera tout son potentiel que contre un ennemi puissant\nindifférent à son regard écrasant de noblesse."
+      },
+      {
+        "game": "oras-as",
+        "text": "Il peut paralyser l’ennemi d’un regard. Il amplifie l’énergie\ndu soleil dans son corps."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Serpiroyal",
+    "genus": "Hoheit",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Im Kampf zeigt es nur Gegnern, die seinem\nedlen Blick standhalten, seine wahre Kraft."
+      },
+      {
+        "game": "xy-y",
+        "text": "Bringt Gegner mit einem einzigen kühlen Blick\nzum Erstarren. In seinem Inneren verstärkt es\ndie Energie der Sonne."
+      },
+      {
+        "game": "oras-or",
+        "text": "Im Kampf zeigt es nur Gegnern, die seinem edlen Blick\nstandhalten, seine wahre Kraft."
+      },
+      {
+        "game": "oras-as",
+        "text": "Bringt Gegner mit einem einzigen kühlen Blick zum Erstarren.\nIn seinem Inneren verstärkt es die Energie der Sonne."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Serperior",
+    "genus": "Pokémon Realeza",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Tan solo muestra su verdadero poder a quienes no se\namedrentan ante su noble pero inquisitoria mirada."
+      },
+      {
+        "game": "xy-y",
+        "text": "Detiene los movimientos del rival con una sola mirada.\nExpande la energía solar dentro de su cuerpo."
+      },
+      {
+        "game": "oras-or",
+        "text": "Tan solo muestra su verdadero poder a quienes no se\namedrentan ante su noble pero inquisitoria mirada."
+      },
+      {
+        "game": "oras-as",
+        "text": "Detiene los movimientos del rival con una sola mirada.\nExpande la energía solar dentro de su cuerpo."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Serperior",
+    "genus": "Pokémon Regale",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Dà il meglio di sé solo contro chi non resta\nintimidito dal suo nobile sguardo."
+      },
+      {
+        "game": "xy-y",
+        "text": "Può bloccare i movimenti dell’avversario con il solo\nsguardo. Amplifica l’energia solare all’interno del\nsuo corpo."
+      },
+      {
+        "game": "oras-or",
+        "text": "Dà il meglio di sé solo contro chi non resta intimidito dal suo\nnobile sguardo."
+      },
+      {
+        "game": "oras-as",
+        "text": "Può bloccare i movimenti dell’avversario con il solo sguardo.\nAmplifica l’energia solare all’interno del suo corpo."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Serperior",
+    "genus": "Regal Pokémon",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "It can stop its opponents’\nmovements with just a glare. It takes\nin solar energy and boosts it internally."
+      },
+      {
+        "game": "bw-w",
+        "text": "They raise their heads to intimidate\nopponents but only give it their all\nwhen fighting a powerful opponent."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "It only gives its all against strong\nopponents who are not fazed by the\nglare from Serperior’s noble eyes."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "It only gives its all against strong\nopponents who are not fazed by the\nglare from Serperior’s noble eyes."
+      },
+      {
+        "game": "xy-x",
+        "text": "It only gives its all against strong opponents who\nare not fazed by the glare from Serperior’s\nnoble eyes."
+      },
+      {
+        "game": "xy-y",
+        "text": "It can stop its opponents’ movements with just a\nglare. It takes in solar energy and boosts\nit internally."
+      },
+      {
+        "game": "oras-or",
+        "text": "It only gives its all against strong opponents who\nare not fazed by the glare from Serperior’s\nnoble eyes."
+      },
+      {
+        "game": "oras-as",
+        "text": "It can stop its opponents’ movements with just a\nglare. It takes in solar energy and boosts\nit internally."
+      }
+    ]
+  },
+  "chs": {
+    "name": "君主蛇",
+    "genus": "皇家宝可梦",
+    "flavorText": []
+  }
+}

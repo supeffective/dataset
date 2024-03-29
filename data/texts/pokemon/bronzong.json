@@ -1,0 +1,293 @@
+{
+  "jap": {
+    "name": "ドータクン",
+    "genus": "どうたくポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "あまぐもを　よべる　ポケモンとして\nおおむかしから　まつられていた。\nときどき　じめんに　うめられている。"
+      },
+      {
+        "game": "xy-y",
+        "text": "ドータクンに　いのりを　ささげると\nあめが　ふり　さくもつを　そだてると\nこだいの　ひとびとは　しんじていた。"
+      },
+      {
+        "game": "oras-or",
+        "text": "あまぐもを　よべる　ポケモンとして\nおおむかしから　まつられていた。\nときどき　じめんに　うめられている。"
+      },
+      {
+        "game": "oras-as",
+        "text": "ドータクンに　いのりを　ささげると\nあめが　ふり　さくもつを　そだてると\nこだいの　ひとびとは　しんじていた。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "あまぐもをよぶ　かみと　いわれる。\nおこらせると　かねのねの　ような\nぶきみな　こえで　いかくする。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "からだのもよう　から　ほんらい\nガラルには　いない　ポケモンと\nかんがえる　がくしゃも　おおい。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Dotakun",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "동탁군",
+    "genus": "동탁포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "비구름을 부르는 포켓몬으로\n아주 옛날부터 떠받들어졌다.\n가끔 땅에 묻혀 있다."
+      },
+      {
+        "game": "xy-y",
+        "text": "동탁군에게 소원을 빌면\n비가 내려 농작물을 자라게 한다고\n고대의 사람들은 믿고 있었다."
+      },
+      {
+        "game": "oras-or",
+        "text": "비구름을 부르는 포켓몬으로\n아주 옛날부터 떠받들어졌다.\n가끔 땅에 묻혀 있다."
+      },
+      {
+        "game": "oras-as",
+        "text": "동탁군에게 소원을 빌면\n비가 내려 농작물을 자라게 한다고\n고대의 사람들은 믿고 있었다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "비구름을 부르는 신이라 불린다.\n화나게 하면 종소리를 닮은\n불길한 소리로 위협한다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "몸의 무늬 때문에 본래\n가라르에는 없던 포켓몬이라고\n생각하는 학자도 많다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "青銅鐘",
+    "genus": "銅鐘寶可夢",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "被稱為能召喚雨雲的神明。\n生氣時會用像鐘聲一般令人\n毛骨悚然的聲音來威嚇對手。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "牠身上的紋路讓\n許多學者認為牠\n原本並不存在於伽勒爾。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Archéodong",
+    "genus": "Pokémon Clochebronze",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Il apportait la pluie en créant un\nportail vers une autre dimension.\nIl était synonyme de bonne récolte."
+      },
+      {
+        "game": "bw-w",
+        "text": "Il apportait la pluie en créant un\nportail vers une autre dimension.\nIl était synonyme de bonne récolte."
+      },
+      {
+        "game": "xy-x",
+        "text": "Il a longtemps été célébré pour avoir apporté la pluie.\nOn le trouve parfois enterré dans le sol."
+      },
+      {
+        "game": "xy-y",
+        "text": "On croyait autrefois que lui adresser des prières\nfaisait pleuvoir et assurait les récoltes."
+      },
+      {
+        "game": "oras-or",
+        "text": "Il a longtemps été célébré pour avoir apporté la pluie.\nOn le trouve parfois enterré dans le sol."
+      },
+      {
+        "game": "oras-as",
+        "text": "On croyait autrefois que lui adresser des prières faisait pleuvoir\net assurait les récoltes."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "On dit qu’il appelle la pluie. Si on attise sa colère,\nil se met à gronder en émettant un son lugubre\nsemblable à celui d’une cloche."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "De nombreux savants pensent que ce Pokémon\nn’est pas originaire de Galar à cause des motifs\nqui ornent son corps."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Bronzong",
+    "genus": "Bronzeglocken-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Man verehrt sie schon seit Urzeiten als Regenmacher.\nManchmal findet man eines von ihnen\nim Boden vergraben."
+      },
+      {
+        "game": "xy-y",
+        "text": "Früher verehrten die Menschen die Bronzong,\nweil sie sich davon Regen oder gute Ernten erhofften."
+      },
+      {
+        "game": "oras-or",
+        "text": "Man verehrt sie schon seit Urzeiten als Regenmacher.\nManchmal findet man eines von ihnen im Boden vergraben."
+      },
+      {
+        "game": "oras-as",
+        "text": "Früher verehrten die Menschen die Bronzong, weil sie sich\ndavon Regen oder gute Ernten erhofften."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Man verehrt es als Regenmacher. Wird es wütend,\ndroht es mit einer unheimlichen Stimme, die wie\nder Ton einer Glocke klingt."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Wegen seinem Muster denken viele Forscher,\ndass dieses Pokémon ursprünglich nicht aus Galar\nstammt."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Bronzong",
+    "genus": "Pokémon Campana Bronce",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Desde antaño se adora a este Pokémon para que\npropicie lluvias abundantes. A veces se esconde bajo\ntierra."
+      },
+      {
+        "game": "xy-y",
+        "text": "Antaño se creía que rezándole se conjuraba la lluvia\ny se propiciaban las buenas cosechas."
+      },
+      {
+        "game": "oras-or",
+        "text": "Desde antaño se adora a este Pokémon para que propicie\nlluvias abundantes. A veces se esconde bajo tierra."
+      },
+      {
+        "game": "oras-as",
+        "text": "Antaño se creía que rezándole se conjuraba la lluvia y se\npropiciaban las buenas cosechas."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Antaño se lo consideraba una deidad que traía\nlas lluvias. Cuando se enfada, emite un sonido\nlúgubre que recuerda al tañido de una campana."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Basándose en los motivos de su cuerpo, muchos\neruditos creen que este Pokémon no es originario\nde Galar."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Bronzong",
+    "genus": "Pokémon Squibronzo",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "È stato venerato per secoli come Pokémon che porta\nla pioggia. A volte lo si trova sepolto nel terreno."
+      },
+      {
+        "game": "xy-y",
+        "text": "Anticamente si credeva Bronzong potesse essere\ninvocato per ottenere pioggia e buoni raccolti."
+      },
+      {
+        "game": "oras-or",
+        "text": "È stato venerato per secoli come Pokémon che porta\nla pioggia. A volte lo si trova sepolto nel terreno."
+      },
+      {
+        "game": "oras-as",
+        "text": "Anticamente si credeva Bronzong potesse essere invocato\nper ottenere pioggia e buoni raccolti."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Si dice che sia una divinità portatrice di pioggia.\nSe si arrabbia, emette un suono inquietante\ne minaccioso simile a quello di una campana."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Per via dei disegni sul corpo, molti studiosi\nritengono che non sia un Pokémon originario\ndi Galar."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Bronzong",
+    "genus": "Bronze Bell Pokémon",
+    "flavorText": [
+      {
+        "game": "dp-d",
+        "text": "One caused a news sensation when\nit was dug up at a construction\nsite after a 2,000-year sleep."
+      },
+      {
+        "game": "dp-p",
+        "text": "It can summon rain clouds.\nPeople long ago revered it as the\nbringer of plentiful harvests."
+      },
+      {
+        "game": "pt",
+        "text": "It brought rains by opening portals\nto another world. It was revered\nas a bringer of plentiful harvests."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "Ancient people believed that\npetitioning BRONZONG for rain\nwas the way to make crops grow."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "Ancient people believed that\npetitioning BRONZONG for rain\nwas the way to make crops grow."
+      },
+      {
+        "game": "bw-b",
+        "text": "It brought rains by opening portals\nto another world. It was revered\nas a bringer of plentiful harvests."
+      },
+      {
+        "game": "bw-w",
+        "text": "It brought rains by opening portals\nto another world. It was revered\nas a bringer of plentiful harvests."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "In ages past, this Pokémon\nwas revered as a bringer of rain.\nIt was found buried in the ground."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "In ages past, this Pokémon\nwas revered as a bringer of rain.\nIt was found buried in the ground."
+      },
+      {
+        "game": "xy-x",
+        "text": "In ages past, this Pokémon was revered as a\nbringer of rain. It was found buried in the ground."
+      },
+      {
+        "game": "xy-y",
+        "text": "Ancient people believed that petitioning Bronzong\nfor rain was the way to make crops grow."
+      },
+      {
+        "game": "oras-or",
+        "text": "In ages past, this Pokémon was revered as a\nbringer of rain. It was found buried in the ground."
+      },
+      {
+        "game": "oras-as",
+        "text": "Ancient people believed that petitioning Bronzong\nfor rain was the way to make crops grow."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Some believe it to be a deity that summons rain\nclouds. When angered, it lets out a warning cry\nthat rings out like the tolling of a bell."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Many scientists suspect that this Pokémon\noriginated outside the Galar region, based on\nthe patterns on its body."
+      },
+      {
+        "game": "la",
+        "text": "Some believe that its bell-like cry opens holes to another world.\nIt has been revered as a deity since ancient times."
+      }
+    ]
+  },
+  "chs": {
+    "name": "青铜钟",
+    "genus": "铜钟宝可梦",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "被称为能召唤雨云的神明。\n生气时会用像钟声一般令人\n毛骨悚然的声音来威吓对手。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "它身上的纹路让\n许多学者都认为它\n原本并不存在于伽勒尔。"
+      }
+    ]
+  }
+}

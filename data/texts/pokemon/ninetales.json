@@ -1,0 +1,553 @@
+{
+  "jap": {
+    "name": "キュウコン",
+    "genus": "きつねポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "おうごんに　かがやく　たいもうと\n９ほんの　ながい　しっぽを　もつ。\n１０００ねんは　いきると　いわれる。"
+      },
+      {
+        "game": "xy-y",
+        "text": "あたまがよくて　しゅうねんぶかい。\nふざけて　しっぽを　つかむと\n１０００ねん　たたられるという。"
+      },
+      {
+        "game": "oras-or",
+        "text": "まっかな　ひとみは　あやしい　ひかりを　はなち\nあいての　こころを　じざいに　あやつる。\n１０００ねんかん　いきると　いわれている。"
+      },
+      {
+        "game": "oras-as",
+        "text": "９にんの　せいなる　ちからを　もった　せんにんが\nがったいして　うまれたという　でんせつが　ある。\nちのうが　たかく　ひとの　ことばを　りかいする。"
+      },
+      {
+        "game": "sm-s",
+        "text": "９にんの　せいじゃが　がったいし\nキュウコンに　なったという　でんせつも\nのこるほど　しんぴにみちた　ポケモン。"
+      },
+      {
+        "game": "sm-m",
+        "text": "１０００ねん　いきると　いわれている。\nじんつうりきで　かえんを　じざいに\nあやつり　えものを　やきこがす。"
+      },
+      {
+        "game": "usum-us",
+        "text": "しつこく　しゅうねんぶかい　せいしつ。\n１ど　うらむと　しそんを　ふくめ\n１０００ねんかん　たたりつづける。"
+      },
+      {
+        "game": "usum-um",
+        "text": "くちから　ふいた　ゆらめく　ほのおで\nさいみん　じょうたいにして　えものを\nおそう　ひじょうに　かしこいポケモン。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "９にんの　せいじゃが　がったいして\nこのポケモンに　うまれかわったと\nいいつたえに　のこっている。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "９にんの　せいじゃが　がったいして\nこのポケモンに　うまれかわったと\nいいつたえに　のこっている。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "しっぽの　いっぽん　いっぽんに\nじんつうりきが　こめられている。\n１０００ねん　いきると　いわれる。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "あたまがよくて　しゅうねんぶかい。\nふざけて　しっぽを　つかむと\n１０００ねん　たたられるという。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Kyukon",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "나인테일",
+    "genus": "여우포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "황금빛으로 빛나는 털과\n9개의 긴 꼬리를 지녔다.\n1000년을 산다고 한다."
+      },
+      {
+        "game": "xy-y",
+        "text": "머리가 좋고 집념이 강하다.\n장난으로 꼬리를 잡으면\n1000년 동안 화를 입는다고 한다."
+      },
+      {
+        "game": "oras-or",
+        "text": "새빨간 눈은 괴상한 빛을 발산하여\n상대의 마음을 자유로이 조종한다.\n1000년을 산다고 전해진다."
+      },
+      {
+        "game": "oras-as",
+        "text": "성스러운 힘을 지닌 9명의 신선이\n합체하여 태어났다는 전설이 있다.\n지능이 높아서 사람의 말을 이해한다."
+      },
+      {
+        "game": "sm-s",
+        "text": "9명의 성자가 합체하여\n나인테일이 되었다는 전설이\n남을 정도로 신비함이 가득한 포켓몬."
+      },
+      {
+        "game": "sm-m",
+        "text": "1000년을 산다고 전해진다.\n신통력으로 화염을 자유자재로\n조종해서 먹이를 불태워버린다."
+      },
+      {
+        "game": "usum-us",
+        "text": "끈질기고 집념이 강한 성질을 가졌다.\n한 번 원한을 사면 자손을 포함해\n1000년간 해를 입는다."
+      },
+      {
+        "game": "usum-um",
+        "text": "입에서 흔들리는 불꽃을 뿜어서\n최면 상태로 만든 후에 먹이를\n덮치는 매우 똑똑한 포켓몬이다."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "9명의 성자가 합체하여\n이 포켓몬으로 다시 태어났다는\n전설이 남아 있다."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "9명의 성자가 합체하여\n이 포켓몬으로 다시 태어났다는\n전설이 남아 있다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "꼬리 하나하나에\n신통력이 담겨 있다.\n1000년을 산다고 한다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "머리가 좋고 집념이 강하다.\n장난으로 꼬리를 잡으면\n1000년 동안 화를 입는다고 한다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "九尾",
+    "genus": "狐狸寶可夢",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "至今還流傳著９位聖者\n合體變成九尾的傳說，\n是充滿神秘色彩的寶可夢。"
+      },
+      {
+        "game": "sm-m",
+        "text": "據說生存了１０００年。\n利用神通力自由地操縱火焰，\n將獵物燒焦。"
+      },
+      {
+        "game": "usum-us",
+        "text": "性情執拗，一旦遭到牠的怨恨，\n牠會在１０００年間不斷作祟，\n連對方的子孫都不放過。"
+      },
+      {
+        "game": "usum-um",
+        "text": "會從口中吐出搖曳的火焰，\n讓獵物陷入催眠狀態後再發動襲擊。\n是一種非常聰明的寶可夢。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "傳說中這隻寶可夢\n是由９位聖人\n合而為一所誕生的。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "傳說中這隻寶可夢\n是由９位聖人\n合而為一所誕生的。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "每一根尾巴裡都蘊含著\n神通力。據說牠的壽命\n長達１０００年。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "聰明伶俐但很會記仇。\n據說如果敢亂抓牠的尾巴，\n牠就會纏著你作祟１０００年。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Feunard",
+    "genus": "Pokémon Renard",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "On raconte que ses neuf queues\ndétiennent un pouvoir mystique.\nIl peut vivre pendant mille ans."
+      },
+      {
+        "game": "bw-w",
+        "text": "On raconte que ses neuf queues\ndétiennent un pouvoir mystique.\nIl peut vivre pendant mille ans."
+      },
+      {
+        "game": "xy-x",
+        "text": "Il a neuf longues queues et une fourrure qui brille\ncomme de l’or. On dit qu’il peut vivre 1 000 ans."
+      },
+      {
+        "game": "xy-y",
+        "text": "Il est très intelligent et rancunier. Attrapez une de\nses queues et il vous maudira pour 1 000 ans."
+      },
+      {
+        "game": "oras-or",
+        "text": "Feunard peut envoyer un inquiétant rayon avec ses yeux\nrouge vif pour prendre le contrôle de l’esprit de son ennemi.\nOn raconte que ce Pokémon peut vivre 1 000 ans."
+      },
+      {
+        "game": "oras-as",
+        "text": "La légende raconte que Feunard est apparu lorsque\nneuf sorciers aux pouvoirs sacrés décidèrent de fusionner.\nCe Pokémon est très intelligent. Il comprend la langue\ndes hommes."
+      },
+      {
+        "game": "sm-s",
+        "text": "L’aura mystique de ce Pokémon est telle qu’une\nlégende raconte que neuf grands sages ont\nun jour fusionné pour devenir un Feunard."
+      },
+      {
+        "game": "sm-m",
+        "text": "On raconte que ce Pokémon vit 1 000 ans.\nSes pouvoirs lui permettent de contrôler les\nflammes à volonté pour griller ses proies."
+      },
+      {
+        "game": "usum-us",
+        "text": "Un Pokémon très rancunier. S’il est offensé,\nson ressentiment peut poursuivre le coupable\net sa descendance pendant un millénaire."
+      },
+      {
+        "game": "usum-um",
+        "text": "Un Pokémon extrêmement intelligent qui crache\ndes flammes vacillantes pour hypnotiser\net capturer ses proies."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Selon la légende, neuf sages se sont unis\net incarnés dans ce Pokémon mystique."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Selon la légende, neuf sages se sont unis\net incarnés dans ce Pokémon mystique."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "On dit qu’il vit 1 000 ans et que chacune\nde ses queues a un pouvoir magique."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Il est très intelligent et rancunier.\nQuiconque attrape une de ses queues se fera\nmaudire pour 1 000 ans."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Vulnona",
+    "genus": "Fuchs-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Es hat neun lange Schweife und sein Fell glänzt\ngülden. Man sagt, es soll 1 000 Jahre alt werden."
+      },
+      {
+        "game": "xy-y",
+        "text": "Dieses Pokémon ist intelligent, aber rachsüchtig.\nSein Schweif kann einen schweren Fluch übertragen."
+      },
+      {
+        "game": "oras-or",
+        "text": "Vulnona sendet einen unheimlichen Lichtstrahl aus seinen\nhellroten Augen aus, um totale Kontrolle über die Gedanken\nseines Gegners zu erlangen. Man sagt, dieses Pokémon\nkönne 1 000 Jahre leben."
+      },
+      {
+        "game": "oras-as",
+        "text": "Eine Legende besagt, dass Vulnona zu existieren begann,\nals neun Zauberer mit heiligen Kräften zu einem verschmolzen.\nDieses Pokémon ist hochintelligent und versteht die\nmenschliche Sprache."
+      },
+      {
+        "game": "sm-s",
+        "text": "Einer Legende nach entstand dieses mystische\nPokémon, als einst neun Zauberer mit heiligen\nKräften zu einem verschmolzen."
+      },
+      {
+        "game": "sm-m",
+        "text": "Man sagt, es könne bis zu 1 000 Jahre alt\nwerden. Mit mystischen Kräften kontrolliert es\ndas Feuer und brät sich damit seine Beute."
+      },
+      {
+        "game": "usum-us",
+        "text": "Dieses Pokémon ist sehr rachsüchtig. Wer\nseinen Groll provoziert, den verfolgt bis in seine\nNachkommenschaft ein tausendjähriger Fluch."
+      },
+      {
+        "game": "usum-um",
+        "text": "Ein höchst intelligentes Pokémon. Es speit\nzuckende Flammen aus dem Mund, um seine\nBeute vor dem Angriff zu hypnotisieren."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Einer Sage nach ist Vulnona die Wiedergeburt\nder Seelen von neun edlen Zauberern, die\nmiteinander verschmolzen sind."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Einer Sage nach ist Vulnona die Wiedergeburt\nder Seelen von neun edlen Zauberern, die\nmiteinander verschmolzen sind."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Man sagt, es lebe 1 000 Jahre und jedem seiner\nSchweife wohnen übernatürliche Kräfte inne."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Dieses Pokémon ist intelligent, aber rachsüchtig.\nWer zum Spaß einen seiner Schweife ergreift,\nkann sich einen tausendjährigen Fluch einhandeln."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Ninetales",
+    "genus": "Pokémon Zorro",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Tiene nueve colas y un pelaje de color dorado.\nDicen que este Pokémon llega a vivir 1000 años."
+      },
+      {
+        "game": "xy-y",
+        "text": "Muy inteligente y vengativo. Agarrar una de sus colas\npodría traer 1000 años de mala suerte."
+      },
+      {
+        "game": "oras-or",
+        "text": "Ninetales emite una siniestra luz a través de los brillantes ojos\nrojos que tiene, para conseguir controlar del todo la mente de\nsu rival. Dicen que este Pokémon llega a vivir mil años."
+      },
+      {
+        "game": "oras-as",
+        "text": "Cuenta la leyenda que Ninetales nació de la fusión de nueve\nhechiceros que tenían poderes sagrados. Este Pokémon es\nrealmente inteligente. Entiende el lenguaje humano."
+      },
+      {
+        "game": "sm-s",
+        "text": "Siempre se le ha considerado un Pokémon\nmístico. Una leyenda asegura que se originó\na partir de la unión de nueve deidades."
+      },
+      {
+        "game": "sm-m",
+        "text": "Se dice que este Pokémon llega a vivir mil años.\nCon sus poderes, es capaz de controlar el fuego\na voluntad y calcinar a sus presas."
+      },
+      {
+        "game": "usum-us",
+        "text": "Un Pokémon extraordinariamente vengativo.\nSi recibe una afrenta, su rencor puede perdurar\ndurante un milenio y trascender generaciones."
+      },
+      {
+        "game": "usum-um",
+        "text": "Este Pokémon es sumamente inteligente.\nControla las llamas que expele por la boca para\nhipnotizar y capturar a sus presas."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "De acuerdo con una antigua leyenda, este\nPokémon es la reencarnación de nueve\ndeidades que se unieron en un solo ser."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "De acuerdo con una antigua leyenda, este\nPokémon es la reencarnación de nueve\ndeidades que se unieron en un solo ser."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Cuentan que llega a vivir hasta mil años y que\ncada una de las colas posee poderes\nsobrenaturales."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Muy inteligente y vengativo. Agarrar una de sus\ncolas podría traer 1000 años de mala suerte."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Ninetales",
+    "genus": "Pokémon Volpe",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Dotato di nove code e di una pelliccia dorata,\nsi dice che viva 1000 anni."
+      },
+      {
+        "game": "xy-y",
+        "text": "Molto elegante e vendicativo. Chi gli afferra una\ncoda rischia una maledizione millenaria."
+      },
+      {
+        "game": "oras-or",
+        "text": "Ninetales emana sinistri bagliori dai luminosi occhi rossi\nper acquisire il controllo totale della mente del suo nemico.\nSi dice che possa vivere anche per mille anni."
+      },
+      {
+        "game": "oras-as",
+        "text": "Narra la leggenda che Ninetales sia nato dalla fusione di\nnove maghi dai sacri poteri in un’unica creatura. Questo\nPokémon estremamente intelligente riesce a capire\nil linguaggio umano."
+      },
+      {
+        "game": "sm-s",
+        "text": "Questo Pokémon è avvolto nel mistero.\nLa leggenda narra che sia nato dalla fusione\ndi nove saggi."
+      },
+      {
+        "game": "sm-m",
+        "text": "Si dice che possa vivere mille anni.\nGrazie ai suoi poteri magici, è in grado di\ncontrollare le fiamme e incenerire le sue prede."
+      },
+      {
+        "game": "usum-us",
+        "text": "È molto ostinato e vendicativo. Chi si attira il\nsuo rancore cade vittima di una maledizione\nmillenaria che si trasmette anche ai discendenti."
+      },
+      {
+        "game": "usum-um",
+        "text": "È un Pokémon estremamente intelligente.\nDalla bocca sputa fiammelle con cui\nipnotizza le prede prima di attaccarle."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Narra la leggenda che le anime di nove saggi\nsi siano unite e reincarnate in questo Pokémon."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Narra la leggenda che le anime di nove saggi\nsi siano unite e reincarnate in questo Pokémon."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Dicono che viva un millennio. Ognuna delle sue\ncode è dotata di un potere magico."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Molto intelligente e vendicativo. Chi gli afferra\nuna coda rischia una maledizione millenaria."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Ninetales",
+    "genus": "Fox Pokémon",
+    "flavorText": [
+      {
+        "game": "rb-r",
+        "text": "Very smart and\nvery vengeful.\nGrabbing one of\fits many tails\ncould result in a\n1000-year curse."
+      },
+      {
+        "game": "rb-b",
+        "text": "Very smart and\nvery vengeful.\nGrabbing one of\fits many tails\ncould result in a\n1000-year curse."
+      },
+      {
+        "game": "y",
+        "text": "According to an\nenduring legend,\n9 noble saints\fwere united and\nreincarnated as\nthis POKéMON."
+      },
+      {
+        "game": "gs-g",
+        "text": "Some legends claim\nthat each of its\nnine tails has its\fown unique type\nof special\nmystical power."
+      },
+      {
+        "game": "gs-s",
+        "text": "Its nine beautiful\ntails are filled\nwith a wondrous\fenergy that could\nkeep it alive for\n1,000 years."
+      },
+      {
+        "game": "c",
+        "text": "It is said to live\na thousand years,\nand each of its\ftails is loaded\nwith supernatural\npowers."
+      },
+      {
+        "game": "rs-r",
+        "text": "NINETALES casts a sinister light from\nits bright red eyes to gain total\ncontrol over its foe’s mind.\fThis POKéMON is said to live for a\nthousand years."
+      },
+      {
+        "game": "rs-s",
+        "text": "Legend has it that NINETALES came into\nbeing when nine wizards possessing\nsacred powers merged into one.\fThis POKéMON is highly intelligent - it\ncan understand human speech."
+      },
+      {
+        "game": "e",
+        "text": "It has long been said that each of the\nnine tails embody an enchanted power.\nA long-lived NINETALES will have fur that\nshines like gold."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "It has nine long tails and fur that \ngleams gold. It is said to live for \n1,000 years."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "Very smart and very vengeful. Grabbing\none of its many tails could result in a\n1,000-year curse."
+      },
+      {
+        "game": "dp-d",
+        "text": "Its nine tails are said to be\nimbued with a mystic power.\nIt can live for a thousand years."
+      },
+      {
+        "game": "dp-p",
+        "text": "Its nine tails are said to be\nimbued with a mystic power.\nIt can live for a thousand years."
+      },
+      {
+        "game": "pt",
+        "text": "Its nine tails are said to be\nimbued with a mystic power.\nIt can live for a thousand years."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "Some legends claim that each of its\nnine tails has its own unique type\nof special mystical power."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "Its nine beautiful tails are filled\nwith a wondrous energy that could\nkeep it alive for 1,000 years."
+      },
+      {
+        "game": "bw-b",
+        "text": "Its nine tails are said to be\nimbued with a mystic power.\nIt can live for a thousand years."
+      },
+      {
+        "game": "bw-w",
+        "text": "Its nine tails are said to be\nimbued with a mystic power.\nIt can live for a thousand years."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "Each of its nine tails is imbued\nwith supernatural power, and it\ncan live for a thousand years."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "Each of its nine tails is imbued\nwith supernatural power, and it\ncan live for a thousand years."
+      },
+      {
+        "game": "xy-x",
+        "text": "It has nine long tails and fur that gleams gold.\nIt is said to live for 1,000 years."
+      },
+      {
+        "game": "xy-y",
+        "text": "Very smart and very vengeful. Grabbing one of its\nmany tails could result in a 1,000-year curse."
+      },
+      {
+        "game": "oras-or",
+        "text": "Ninetales casts a sinister light from its bright red eyes to gain\ntotal control over its foe’s mind. This Pokémon is said to live\nfor a thousand years."
+      },
+      {
+        "game": "oras-as",
+        "text": "Legend has it that Ninetales came into being when\nnine wizards possessing sacred powers merged into one.\nThis Pokémon is highly intelligent—it can understand\nhuman speech."
+      },
+      {
+        "game": "sm-s",
+        "text": "Legend has it that this mystical Pokémon was\nformed when nine saints coalesced into one."
+      },
+      {
+        "game": "sm-m",
+        "text": "Said to live for a thousand years, this Pokémon\nuses its supernatural abilities to manipulate fire.\nIt can burn its prey to a crisp as it pleases."
+      },
+      {
+        "game": "usum-us",
+        "text": "It is vindictive and relentless by nature.\nThose who cross it even once will be cursed for\na thousand years, along with their descendants."
+      },
+      {
+        "game": "usum-um",
+        "text": "The flickering flames it spews from its mouth\nleave its opponents hypnotized. Then, this\nextremely intelligent Pokémon attacks."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "According to an enduring legend, nine noble\nsaints were united and reincarnated\nas this Pokémon."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "According to an enduring legend, nine noble\nsaints were united and reincarnated\nas this Pokémon."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "It is said to live 1,000 years, and each of its tails\nis loaded with supernatural powers."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Very smart and very vengeful. Grabbing one of\nits many tails could result in a 1,000-year curse."
+      },
+      {
+        "game": "la",
+        "text": "The coat of gleaming golden fur is quite magnificent.\nThis species is said to store sacred power in its nine long tails\nand to live for a millennium."
+      }
+    ]
+  },
+  "chs": {
+    "name": "九尾",
+    "genus": "狐狸宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "至今还流传着９位圣者\n合体变成九尾的传说，\n是充满神秘色彩的宝可梦。"
+      },
+      {
+        "game": "sm-m",
+        "text": "据说生存了１０００年。\n利用神通力自由地操纵火焰，\n将猎物烧焦。"
+      },
+      {
+        "game": "usum-us",
+        "text": "性格执拗，爱记仇。一旦遭到它的怨恨，\n它便会在１０００年间不断作祟，\n连对方的子孙都不放过。"
+      },
+      {
+        "game": "usum-um",
+        "text": "非常聪明的宝可梦。\n能从口中吐出摇曳的火焰来使猎物\n进入催眠状态，继而展开袭击。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "传说这种宝可梦\n是由９位圣者\n合体之后而诞生的。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "传说这种宝可梦\n是由９位圣者\n合体之后而诞生的。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "每一根尾巴里都蕴含着\n神通力。据说它的寿命\n长达１０００年。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "聪明伶俐，但爱记仇。\n据说如果敢乱抓它的尾巴，\n它就会缠着你作祟１０００年。"
+      }
+    ]
+  }
+}

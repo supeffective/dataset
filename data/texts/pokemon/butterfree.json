@@ -1,0 +1,549 @@
+{
+  "jap": {
+    "name": "バタフリー",
+    "genus": "ちょうちょポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "はなの　ミツが　だいこうぶつ。\nわずかな　かふんで　はなばたけの\nばしょを　さがしだすことが　できる。"
+      },
+      {
+        "game": "xy-y",
+        "text": "ハネは　みずを　はじく　りんぷんに\nまもられている。あめの　ひでも\nそらを　とぶことが　できる。"
+      },
+      {
+        "game": "oras-or",
+        "text": "おいしい　はなの　ミツを　さがす　のうりょくに\nすぐれ　すみかから　１０キロはなれた　ばしょに\nさく　はなから　ミツを　あつめて　はこんでいる。"
+      },
+      {
+        "game": "oras-as",
+        "text": "おいしい　はなの　ミツを　さがす　のうりょくに\nすぐれ　すみかから　１０キロはなれた　ばしょに\nさく　はなから　ミツを　あつめて　はこんでいる。"
+      },
+      {
+        "game": "sm-s",
+        "text": "おおきな　めを　よく　かんさつすると\nじつは　ちいさな　めが　むすうに\nあつまって　できているのが　わかる。"
+      },
+      {
+        "game": "sm-m",
+        "text": "ほかの　ポケモンに　おそわれると\nどくの　りんぷんを　まきちらしながら\nはばたいて　ていこう　するのだ。"
+      },
+      {
+        "game": "usum-us",
+        "text": "ハネを　つつむ　りんぷんは　もうどく。\nキャタピーを　ねらう　とりポケモンを\nみつけると　ふりかけて　おいはらうぞ。"
+      },
+      {
+        "game": "usum-um",
+        "text": "きれいな　はなの　ミツが　こうぶつ。\nはなばたけで　アブリーとの　しれつな\nなわばりあらそいを　くりひろげる。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "ハネの　もうどくの　りんぷんには\nみずをはじく　せいしつが　あるので\nあめのひ　でも　とびまわれる。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "ハネの　もうどくの　りんぷんには\nみずをはじく　せいしつが　あるので\nあめのひ　でも　とびまわれる。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "こまかく　はやく　はばたいたら\nもうどくの　りんぷんが\nかぜに　のって　とんでくるぞ。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "まいにち　ミツを　あつめまわる。\nあしの　うぶげに　ミツを　ぬりこんで\nすに　もちかえる　しゅうせいをもつ。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Butterfree",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "버터플",
+    "genus": "나비포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "꽃의 꿀을 매우 좋아한다.\n약간의 꽃가루만으로 꽃밭이\n있는 장소를 찾아낼 수 있다."
+      },
+      {
+        "game": "xy-y",
+        "text": "물을 튕겨내는 가루가\n날개를 보호하고 있다. 비가 오는 날에도\n하늘을 날 수 있다."
+      },
+      {
+        "game": "oras-or",
+        "text": "맛있는 꽃의 꿀을 찾는 능력이\n뛰어나서 사는 곳에서 10km 떨어진 장소에\n핀 꽃에서 꿀을 모아 옮긴다."
+      },
+      {
+        "game": "oras-as",
+        "text": "맛있는 꽃의 꿀을 찾는 능력이\n뛰어나서 사는 곳에서 10km 떨어진 장소에\n핀 꽃에서 꿀을 모아 옮긴다."
+      },
+      {
+        "game": "sm-s",
+        "text": "커다란 눈을 잘 관찰하면\n사실 작은 눈이 무수히 모여\n만들어진 것을 알 수 있다."
+      },
+      {
+        "game": "sm-m",
+        "text": "다른 포켓몬에게 습격당하면\n독 인분을 흩뿌리며\n날갯짓하여 저항한다."
+      },
+      {
+        "game": "usum-us",
+        "text": "날개를 감싼 인분은 맹독이다.\n캐터피를 노리는 새포켓몬을\n발견하면 흩뿌려 내쫓는다."
+      },
+      {
+        "game": "usum-um",
+        "text": "예쁜 꽃의 꿀을 좋아한다.\n꽃밭에서 에블리와 치열한\n영역 싸움을 벌인다."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "날개에 있는 맹독을 가진 인분에는\n물을 튕겨내는 성질이 있어\n비가 오는 날에도 날아다닐 수 있다."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "날개에 있는 맹독을 가진 인분에는\n물을 튕겨내는 성질이 있어\n비가 오는 날에도 날아다닐 수 있다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "매우 빠르게 날갯짓하면\n맹독성의 인분이\n바람을 타고 날아간다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "매일 꿀을 모으러 다닌다.\n다리의 솜털에 꿀을 발라\n둥지로 가지고 가는 습성이 있다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "巴大蝶",
+    "genus": "蝴蝶寶可夢",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "仔細觀察那雙大眼睛的話，\n會發現那其實是由無數小眼睛\n聚集在一起而形成的。"
+      },
+      {
+        "game": "sm-m",
+        "text": "如果被其他寶可夢襲擊，\n就會一邊散布有毒的鱗粉，\n一邊拍動翅膀抵抗。"
+      },
+      {
+        "game": "usum-us",
+        "text": "附著在翅膀上的鱗粉帶有劇毒，\n一旦發現有鳥寶可夢要襲擊綠毛蟲，\n就會撒出鱗粉來趕跑對方。"
+      },
+      {
+        "game": "usum-um",
+        "text": "愛吃美麗花朵的花蜜，\n總是在花圃和萌虻\n展開激烈的地盤爭奪戰。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "翅膀上的劇毒鱗粉\n有著能夠防水的特性，\n即使在雨天也能自在飛翔。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "翅膀上的劇毒鱗粉\n有著能夠防水的特性，\n即使在雨天也能自在飛翔。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "當牠飛快地拍動翅膀，\n帶有劇毒的鱗粉就會\n隨著風向這裡飄過來。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "每天都忙著採集花蜜。\n習慣在腿部的細毛上塗滿花蜜，\n然後帶回巢穴裡。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Papilusion",
+    "genus": "Pokémon Papillon",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Il raffole du nectar des fleurs. Il\nest capable de repérer la plus\npetite quantité de pollen."
+      },
+      {
+        "game": "bw-w",
+        "text": "Il raffole du nectar des fleurs. Il\nest capable de repérer la plus\npetite quantité de pollen."
+      },
+      {
+        "game": "xy-x",
+        "text": "Il raffole du nectar des fleurs. Il est capable de\nrepérer la plus petite quantité de pollen."
+      },
+      {
+        "game": "xy-y",
+        "text": "Ses ailes sont recouvertes d’une poudre les\nprotégeant de la pluie. Ce Pokémon peut donc voler\npendant de grosses averses."
+      },
+      {
+        "game": "oras-or",
+        "text": "Papilusion est très doué pour repérer le délicieux nectar qu’il\nbutine dans les fleurs. Il peut détecter, extraire et transporter\nle nectar de fleurs situées à plus de 10 km de son nid."
+      },
+      {
+        "game": "oras-as",
+        "text": "Papilusion est très doué pour repérer le délicieux nectar qu’il\nbutine dans les fleurs. Il peut détecter, extraire et transporter\nle nectar de fleurs situées à plus de 10 km de son nid."
+      },
+      {
+        "game": "sm-s",
+        "text": "Si l’on regarde ses grands yeux de plus près,\non remarque qu’il s’agit en réalité d’une\nmultitude de petits yeux réunis."
+      },
+      {
+        "game": "sm-m",
+        "text": "Pour se défendre contre les agressions d’autres\nPokémon, il bat des ailes en éparpillant autour\nde lui un nuage de poussière toxique."
+      },
+      {
+        "game": "usum-us",
+        "text": "Lorsqu’il surprend un Pokémon oiseau attaquant\nun Chenipan, il répand les écailles très toxiques\nqui recouvrent ses ailes sur l’assaillant."
+      },
+      {
+        "game": "usum-um",
+        "text": "Il raffole du nectar des plus jolies fleurs.\nDans les prairies, les luttes territoriales\nl’opposant à Bombydou sont impitoyables."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Ses ailes sont enduites d’une poudre toxique\nimperméable lui permettant de voler sous\nla pluie."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Ses ailes sont enduites d’une poudre toxique\nimperméable lui permettant de voler sous\nla pluie."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "En combat, il bat des ailes très rapidement pour\nprojeter de la poudre toxique sur ses ennemis."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Il ramasse du nectar chaque jour et l’agglutine\nsur les poils de ses pattes pour le transporter\njusqu’à son nid."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Smettbo",
+    "genus": "Falter-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Es liebt Blütenhonig. Es findet selbst Blumen,\ndie sehr wenig Pollen haben."
+      },
+      {
+        "game": "xy-y",
+        "text": "Seine Flügel sind mit Wasser abweisendem Staub\nüberzogen. Daher kann dieses Pokémon auch bei\nRegen fliegen."
+      },
+      {
+        "game": "oras-or",
+        "text": "Smettbos größte Fähigkeit ist das Aufspüren köstlichen\nBlütenhonigs. Es findet sogar Honig in Blumen, die fast\n10 km von seinem Nest entfernt blühen."
+      },
+      {
+        "game": "oras-as",
+        "text": "Smettbos größte Fähigkeit ist das Aufspüren köstlichen\nBlütenhonigs. Es findet sogar Honig in Blumen, die fast\n10 km von seinem Nest entfernt blühen."
+      },
+      {
+        "game": "sm-s",
+        "text": "Bei genauerer Betrachtung zeigt sich, dass\nseine zwei großen Augen jeweils aus einer\nVielzahl an kleineren Augen bestehen."
+      },
+      {
+        "game": "sm-m",
+        "text": "Wird es von einem anderen Pokémon angegriffen,\nwehrt es sich, indem es mit den Flügeln schlägt\nund giftigen Flügelstaub verstreut."
+      },
+      {
+        "game": "usum-us",
+        "text": "Sieht es ein Raupy, das von Vogel-Pokémon\nangegriffen wird, schlägt es diese mit seinem\nhochgiftigen Flügelstaub in die Flucht."
+      },
+      {
+        "game": "usum-um",
+        "text": "Es liebt den Blütenhonig schöner Blumen.\nAuf Blumenfeldern liefert es sich erbitterte\nRevierkämpfe mit Wommel."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Da die hochgiftige Staubschicht auf seinen\nFlügeln wasserabweisend ist, kann es auch\nbei Regen umherfliegen."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Da die hochgiftige Staubschicht auf seinen\nFlügeln wasserabweisend ist, kann es auch\nbei Regen umherfliegen."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Wenn es sehr schnell mit den Flügeln schlägt,\nsetzt es hochgiftigen Flügelstaub frei."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Es sammelt täglich Honig. Es reibt ihn in seine\nBeinhaare, um ihn in sein Nest zu transportieren."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Butterfree",
+    "genus": "Pokémon Mariposa",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Adora el néctar de las flores. Puede localizar hasta las\nmás pequeñas cantidades de polen."
+      },
+      {
+        "game": "xy-y",
+        "text": "Tiene las alas protegidas con una capa impermeable,\nde ahí que pueda volar también cuando llueve."
+      },
+      {
+        "game": "oras-or",
+        "text": "Butterfree tiene una habilidad especial para encontrar\ndelicioso polen en las flores. Puede localizar, extraer y\ntransportar polen de flores que estén floreciendo a 10 km\nde distancia de su nido."
+      },
+      {
+        "game": "oras-as",
+        "text": "Butterfree tiene una habilidad especial para encontrar\ndelicioso polen en las flores. Puede localizar, extraer y\ntransportar polen de flores que estén floreciendo a 10 km\nde distancia de su nido."
+      },
+      {
+        "game": "sm-s",
+        "text": "Al mirar sus grandes ojos desde cerca, puede\nobservarse como en realidad están compuestos\nde incontables ojos diminutos."
+      },
+      {
+        "game": "sm-m",
+        "text": "Cuando lo atacan, Butterfree aletea con fuerza\ny esparce escamas venenosas con las que hace\nfrente a su adversario."
+      },
+      {
+        "game": "usum-us",
+        "text": "Si un Pokémon pájaro acecha a un Caterpie,\nButterfree esparcirá las escamas venenosas\nque recubren sus alas para ahuyentarlo."
+      },
+      {
+        "game": "usum-um",
+        "text": "Adora el néctar de las flores más bellas. Libra\nferoces disputas territoriales en los prados con\nlos Cutiefly."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Sus alas están recubiertas de escamas venenosas\nimpermeables que le permiten volar bajo la\nlluvia."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Sus alas están recubiertas de escamas venenosas\nimpermeables que le permiten volar bajo la\nlluvia."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Aletea a gran velocidad para lanzar al aire sus\nescamas extremadamente tóxicas."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Recoge néctar a diario y se lo adhiere al pelo de\nlas patas para llevarlo a su nido."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Butterfree",
+    "genus": "Pokémon Farfalla",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Adora il nettare dei fiori e riesce a localizzare i campi\nin cui si trova anche una minima quantità di polline."
+      },
+      {
+        "game": "xy-y",
+        "text": "Una polvere idrorepellente gli ricopre le ali,\npermettendogli di volare anche sotto la pioggia."
+      },
+      {
+        "game": "oras-or",
+        "text": "Butterfree è dotato di abilità molto raffinate per individuare\nil delizioso nettare dei fiori. Riesce a trovare, estrarre\ne trasportare il nettare dai fiori in boccio al nido anche\nper 10 km."
+      },
+      {
+        "game": "oras-as",
+        "text": "Butterfree è dotato di abilità molto raffinate per individuare\nil delizioso nettare dei fiori. Riesce a trovare, estrarre\ne trasportare il nettare dai fiori in boccio al nido anche\nper 10 km."
+      },
+      {
+        "game": "sm-s",
+        "text": "Osservando da vicino i suoi grandi occhi\nsi nota che in realtà sono composti da una\nmiriade di minuscoli occhietti."
+      },
+      {
+        "game": "sm-m",
+        "text": "Quando viene attaccato da altri Pokémon,\nsi difende sbattendo le ali e spargendo intorno\na sé polveri velenose."
+      },
+      {
+        "game": "usum-us",
+        "text": "Se vede dei Pokémon alati attaccare Caterpie,\nli scaccia cospargendoli con la velenosissima \npolvere che ricopre le sue ali."
+      },
+      {
+        "game": "usum-um",
+        "text": "È ghiotto del nettare dei fiori più belli.\nSi contende i prati in fiore con Cutiefly in furiose\nlotte per il territorio."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Possiede ali idrorepellenti ricoperte da una\npolvere velenosa. Può volare anche quando\npiove."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Possiede ali idrorepellenti ricoperte da una\npolvere velenosa. Può volare anche quando\npiove."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Sbatte le ali a gran velocità per liberare\nle sue polveri tossiche nell’aria."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Raccoglie nettare tutti i giorni e lo spalma sulla\npeluria che ricopre le sue zampe per trasportarlo\nal nido."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Butterfree",
+    "genus": "Butterfly Pokémon",
+    "flavorText": [
+      {
+        "game": "rb-r",
+        "text": "In battle, it\nflaps its wings\nat high speed to\frelease highly\ntoxic dust into\nthe air."
+      },
+      {
+        "game": "rb-b",
+        "text": "In battle, it\nflaps its wings\nat high speed to\frelease highly\ntoxic dust into\nthe air."
+      },
+      {
+        "game": "y",
+        "text": "Its wings, covered\nwith poisonous\npowders, repel\fwater. This\nallows it to fly\nin the rain."
+      },
+      {
+        "game": "gs-g",
+        "text": "It collects honey\nevery day. It rubs\nhoney onto the\fhairs on its legs\nto carry it back\nto its nest."
+      },
+      {
+        "game": "gs-s",
+        "text": "Water-repellent\npowder on its\nwings enables it\fto collect honey,\neven in the heav­\niest of rains."
+      },
+      {
+        "game": "c",
+        "text": "It flits from\nflower to flower,\ncollecting honey.\fIt can even\nidentify distant\nflowers in bloom."
+      },
+      {
+        "game": "rs-r",
+        "text": "BUTTERFREE has a superior ability to\nsearch for delicious honey from\nflowers.\fIt can even search out, extract, and\ncarry honey from flowers that are\nblooming over six miles from its nest."
+      },
+      {
+        "game": "rs-s",
+        "text": "BUTTERFREE has a superior ability to\nsearch for delicious honey from\nflowers.\fIt can even search out, extract, and\ncarry honey from flowers that are\nblooming over six miles from its nest."
+      },
+      {
+        "game": "e",
+        "text": "It has a superior ability to search for\ndelicious honey from flowers. It can seek,\nextract, and carry honey from flowers\nblooming over six miles away."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "The wings are protected by rain-repellent\ndust. As a result, this POKéMON can fly\nabout even in rain."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "In battle, it flaps its wings at great\nspeed to release highly toxic dust into\nthe air."
+      },
+      {
+        "game": "dp-d",
+        "text": "It loves the honey of flowers and\ncan locate flower patches that\nhave even tiny amounts of pollen."
+      },
+      {
+        "game": "dp-p",
+        "text": "It loves the honey of flowers and\ncan locate flower patches that\nhave even tiny amounts of pollen."
+      },
+      {
+        "game": "pt",
+        "text": "It loves the honey of flowers and\ncan locate flower patches that\nhave even tiny amounts of pollen."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "It collects honey every day. It rubs\nhoney onto the hairs on its legs\nto carry it back to its nest."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "Water-repellent powder on its\nwings enables it to collect honey,\neven in the heaviest of rains."
+      },
+      {
+        "game": "bw-b",
+        "text": "It loves the honey of flowers and\ncan locate flower patches that\nhave even tiny amounts of pollen."
+      },
+      {
+        "game": "bw-w",
+        "text": "It loves the honey of flowers and\ncan locate flower patches that\nhave even tiny amounts of pollen."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "It loves the honey of flowers and\ncan locate flower patches that\nhave even tiny amounts of pollen."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "It loves the honey of flowers and\ncan locate flower patches that\nhave even tiny amounts of pollen."
+      },
+      {
+        "game": "xy-x",
+        "text": "It loves the honey of flowers and can locate\nflower patches that have even tiny amounts\nof pollen."
+      },
+      {
+        "game": "xy-y",
+        "text": "The wings are protected by rain-repellent dust.\nAs a result, this Pokémon can fly about even\nin rain."
+      },
+      {
+        "game": "oras-or",
+        "text": "Butterfree has a superior ability to search for delicious honey\nfrom flowers. It can even search out, extract, and carry honey\nfrom flowers that are blooming over six miles from its nest."
+      },
+      {
+        "game": "oras-as",
+        "text": "Butterfree has a superior ability to search for delicious honey\nfrom flowers. It can even search out, extract, and carry honey\nfrom flowers that are blooming over six miles from its nest."
+      },
+      {
+        "game": "sm-s",
+        "text": "Close examination of its large eyes reveals that\neach eye is composed of a myriad of tiny eyes."
+      },
+      {
+        "game": "sm-m",
+        "text": "When attacked by other Pokémon, it defends\nitself by scattering its poisonous scales and\nfluttering its wings."
+      },
+      {
+        "game": "usum-us",
+        "text": "Its wings are covered in toxic scales. If it finds\nbird Pokémon going after Caterpie, Butterfree\nsprinkles its scales on them to drive them off."
+      },
+      {
+        "game": "usum-um",
+        "text": "Nectar from pretty flowers is its favorite food.\nIn fields of flowers, it has heated battles with\nCutiefly for territory."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Its wings, covered with poisonous powder, repel\nwater. This allows it to fly in the rain."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Its wings, covered with poisonous powder, repel\nwater. This allows it to fly in the rain."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "In battle, it flaps its wings at great speed to\nrelease highly toxic dust into the air."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "It collects honey every day. It rubs honey onto\nthe hairs on its legs to carry it back to its nest."
+      }
+    ]
+  },
+  "chs": {
+    "name": "巴大蝶",
+    "genus": "蝴蝶宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "仔细观察那对大眼睛的话，\n会发现其实是许许多多小眼睛\n聚集在一起形成的。"
+      },
+      {
+        "game": "sm-m",
+        "text": "如果被其他宝可梦袭击，\n就会一边挥洒有毒的鳞粉，\n一边拍动翅膀抵抗。"
+      },
+      {
+        "game": "usum-us",
+        "text": "翅膀上覆盖着的鳞粉有剧毒。\n如果发现有鸟宝可梦要袭击绿毛虫，\n就会撒出鳞粉将它赶跑。"
+      },
+      {
+        "game": "usum-um",
+        "text": "喜食美丽花儿的花蜜。\n会在花圃里和萌虻\n展开激烈的领地之争。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "它翅膀上的剧毒鳞粉\n能够防水，因此即使是\n雨天也可以飞来飞去。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "它翅膀上的剧毒鳞粉\n能够防水，因此即使是\n雨天也可以飞来飞去。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "当它飞快地扑打翅膀，\n带有剧毒的鳞粉就会\n随着风向这里飘过来。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "每天都忙着采集花蜜。\n习惯往腿部的细毛上涂满花蜜，\n然后带回巢穴里。"
+      }
+    ]
+  }
+}

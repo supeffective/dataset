@@ -1,0 +1,133 @@
+{
+  "jap": {
+    "name": "タチフサグマ",
+    "genus": "ていしポケモン",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "すさまじい　せいりょうを　もつ。\nシャウトとともに　いかくするさまは\nブロッキングと　よばれている。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "ケンカを　くりかえし　しんか。\nうでをクロスし　さけぶ　おたけびは\nどんな　あいても　ひるませるぞ。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Tachifusaguma",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "가로막구리",
+    "genus": "정지포켓몬",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "엄청난 성량을 가졌다.\n샤우팅하며 위협하는 모습은\n블로킹이라 불린다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "싸움을 반복하면서 진화한다.\n팔을 크로스하고 우렁차게 외치면\n어떤 상대라도 풀죽게 된다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "堵攔熊",
+    "genus": "停止寶可夢",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "能夠發出驚人的音量。\n牠在大叫的同時威嚇對手\n的樣子被稱為「攔堵」。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "在不斷的鬥爭中得到了進化。\n牠交叉著雙臂發出的怒吼\n能讓一切對手都為之膽怯。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Ixon",
+    "genus": "Pokémon Barrage",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Il possède une puissance vocale remarquable.\nOn appelle Blocage sa technique qui consiste\nà intimider l’ennemi avec son cri guttural."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Il a évolué après avoir enchaîné de nombreux\ncombats. Le cri qu’il pousse lorsqu’il fait un « X »\navec ses bras ébranle n’importe quel ennemi."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Barrikadax",
+    "genus": "Barrikaden-Pokémon",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Es verfügt über eine beeindruckende Stimmkraft.\nSein von Schreien begleitetes Drohverhalten\nnennt man auch „Abblocker“."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Durch das Austragen unzähliger Kämpfe hat es\nsich entwickelt. Formt es mit den Armen ein „X“\nund stößt einen Schrei aus, verschreckt das jeden."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Obstagoon",
+    "genus": "Pokémon Bloqueador",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "La potencia de su voz es realmente pasmosa. La\ntécnica que usa para intimidar al rival mientras\ngrita recibe el nombre de Obstrucción."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Evoluciona tras haber librado numerosas peleas.\nEl grito de guerra que profiere mientras pone los\nbrazos en cruz atemoriza a cualquier rival."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Obstagoon",
+    "genus": "Pokémon Bloccaggio",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Ha una potenza vocale impressionante. Quando\nassume la tipica posa intimidatoria e si mette a\nurlare, si dice che sta facendo “sbarramento”."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Si è evoluto a forza di lottare. L’urlo di guerra\nche lancia mentre mette le braccia a X è in\ngrado di terrorizzare qualsiasi avversario."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Obstagoon",
+    "genus": "Blocking Pokémon",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Its voice is staggering in volume. Obstagoon\nhas a tendency to take on a threatening posture\nand shout—this move is known as Obstruct."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "It evolved after experiencing numerous fights.\nWhile crossing its arms, it lets out a shout that\nwould make any opponent flinch."
+      }
+    ]
+  },
+  "chs": {
+    "name": "堵拦熊",
+    "genus": "停止宝可梦",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "能够发出惊人的音量。\n它在大叫的同时威吓对手\n的样子被称为“拦堵”。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "在不断的斗争中得到了进化。\n它交叉着双臂发出的怒吼\n能让一切对手都为之胆怯。"
+      }
+    ]
+  }
+}

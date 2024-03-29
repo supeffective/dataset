@@ -1,0 +1,477 @@
+{
+  "jap": {
+    "name": "マンキー",
+    "genus": "ぶたざるポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "いみもなく　おこって　あばれだすと\nなかまの　くべつも　つかなくなるので\nちかよるのは　ひじょうに　きけんだ。"
+      },
+      {
+        "game": "xy-y",
+        "text": "きのうえで　せいかつしている。\nむれの　１ぴきが　おこりはじめると\nぜんいんが　いみもなく　あばれだす。"
+      },
+      {
+        "game": "oras-or",
+        "text": "からだが　ふるえ　はないきが　あらくなれば\nおこりだす　まえぶれ　なのだが　あっというまに\nはげしく　おこるので　にげだす　ひまは　ない。"
+      },
+      {
+        "game": "oras-as",
+        "text": "からだが　ふるえ　はないきが　あらくなれば\nおこりだす　まえぶれ　なのだが　あっというまに\nはげしく　おこるので　にげだす　ひまは　ない。"
+      },
+      {
+        "game": "sm-s",
+        "text": "まえぶれもなく　とつぜん　おこる。\nあばれまくって　だれも　いなくなると\nこどくに　たえられなくて　またおこる。"
+      },
+      {
+        "game": "sm-m",
+        "text": "いかりちらして　つかれて　ねむるが\nゆめの　なかで　はらをたて　いかりで\nめざめ　めざめたことに　またいかる。"
+      },
+      {
+        "game": "usum-us",
+        "text": "ちょっとしたことで　すぐ　おこる。\nストレスを　ためこまないので\nかなり　ながいきする　ポケモンだ。"
+      },
+      {
+        "game": "usum-um",
+        "text": "１ぴきが　おこりだすと　まわりも\nおこりだすので　マンキーの　むれに\nせいじゃくが　おとずれることは　ない。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "みがるで　きのうえで　せいかつする。\nふとしたことで　きげんが　わるくなり\nまわりに　いるものに　とびかかる。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "みがるで　きのうえで　せいかつする。\nふとしたことで　きげんが　わるくなり\nまわりに　いるものに　とびかかる。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Mankey",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "망키",
+    "genus": "돈숭이포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "이유 없이 화내고 날뛰기 시작하면\n동료도 구별하지 못하기 때문에\n가까이 가는 것은 매우 위험하다."
+      },
+      {
+        "game": "xy-y",
+        "text": "나무 위에서 생활하고 있다.\n무리 중 1마리가 화내기 시작하면\n모두 아무 의미도 없이 난동을 부린다."
+      },
+      {
+        "game": "oras-or",
+        "text": "몸이 떨리며 콧김이 거칠어지면\n화를 낼 조짐이지만 순식간에 격렬하게\n화를 내기 때문에 도망갈 틈이 없다."
+      },
+      {
+        "game": "oras-as",
+        "text": "몸이 떨리며 콧김이 거칠어지면\n화를 낼 조짐이지만 순식간에 격렬하게\n화를 내기 때문에 도망갈 틈이 없다."
+      },
+      {
+        "game": "sm-s",
+        "text": "예고 없이 갑자기 화낸다. 마구\n난동을 부려 모두가 곁을 떠나면\n고독을 참지 못하고 또 화낸다."
+      },
+      {
+        "game": "sm-m",
+        "text": "마구 화를 내다 지쳐서 잠이 들지만\n꿈속에서 화를 내서 분노로 일어나고\n일어났다는 사실에 또 화를 낸다."
+      },
+      {
+        "game": "usum-us",
+        "text": "작은 일에도 금방 화를 낸다.\n스트레스를 쌓아 두지 않아서\n꽤 오래 사는 포켓몬이다."
+      },
+      {
+        "game": "usum-um",
+        "text": "1마리가 화를 내면 주변에서도\n화를 내기 때문에 망키 무리가\n조용해지는 일은 없다."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "몸이 가벼워 나무 위에서 생활한다.\n사소한 일로 기분이 나빠져\n주변에 있는 것에 덤벼든다."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "몸이 가벼워 나무 위에서 생활한다.\n사소한 일로 기분이 나빠져\n주변에 있는 것에 덤벼든다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "猴怪",
+    "genus": "豬猴寶可夢",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "會沒有任何徵兆突然發怒。\n大肆胡鬧把周圍的一切都趕走之後，\n又會因受不了孤獨而再次發怒。"
+      },
+      {
+        "game": "sm-m",
+        "text": "發洩完怒氣後累得睡著了，\n但卻在夢裡生氣而醒來，\n然後又因為醒來而再次發怒了。"
+      },
+      {
+        "game": "usum-us",
+        "text": "遇到一點小事就會發怒。\n因為從不累積壓力，\n因此這種寶可夢相當長壽。"
+      },
+      {
+        "game": "usum-um",
+        "text": "只要有１隻發怒，周圍的\n猴怪也會跟著開始發起怒來，\n所以猴怪群從沒有一刻是安靜的。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "體態輕盈的牠居住在樹上。\n常因為一些小事而生氣，\n往身邊的東西飛撲過去。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "體態輕盈的牠居住在樹上。\n常因為一些小事而生氣，\n往身邊的東西飛撲過去。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Férosinge",
+    "genus": "Pokémon Porsinge",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Ils vivent en colonies sylvestres.\nQuand un Férosinge s’énerve, toute\nla colonie suit son exemple."
+      },
+      {
+        "game": "bw-w",
+        "text": "Ils vivent en colonies sylvestres.\nQuand un Férosinge s’énerve, toute\nla colonie suit son exemple."
+      },
+      {
+        "game": "xy-x",
+        "text": "Il ne peut dissocier ses amis de ses ennemis et a\ntendance à enrager lorsqu’on l’approche."
+      },
+      {
+        "game": "xy-y",
+        "text": "Ils vivent en colonies sylvestres. Quand un Férosinge\ns’énerve, toute la colonie suit son exemple."
+      },
+      {
+        "game": "oras-or",
+        "text": "Lorsque Férosinge commence à trembler et que sa respiration\ndevient haletante, cela signifie qu’il est en colère. En outre,\nla moutarde lui monte au nez tellement vite qu’il est presque\nimpossible d’échapper à sa colère."
+      },
+      {
+        "game": "oras-as",
+        "text": "Lorsque Férosinge commence à trembler et que sa respiration\ndevient haletante, cela signifie qu’il est en colère. En outre,\nla moutarde lui monte au nez tellement vite qu’il est presque\nimpossible d’échapper à sa colère."
+      },
+      {
+        "game": "sm-s",
+        "text": "Quand il pique soudain une terrible colère, tout\nle monde autour de lui s’enfuit. Mais il supporte\nmal la solitude, et ça l’énerve encore davantage."
+      },
+      {
+        "game": "sm-m",
+        "text": "Fatigué de sa colère permanente, il lui arrive\nde dormir, mais il rêve de ses frustrations, se\nréveille, et se met en colère d’avoir été réveillé."
+      },
+      {
+        "game": "usum-us",
+        "text": "La moindre contrariété le rend furieux. Comme\nrien ne l’atteint durablement, il n’accumule\npas de stress et peut vivre très vieux."
+      },
+      {
+        "game": "usum-um",
+        "text": "Il suffit qu’un Férosinge s’énerve pour que\nses congénères en fassent de même, aussi\nleurs groupes ne connaissent-ils jamais la paix."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Agile et rapide, ce Pokémon vit dans les arbres.\nIl s’énerve facilement et s’attaque à tout ce qui\nbouge quand il est en colère."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Agile et rapide, ce Pokémon vit dans les arbres.\nIl s’énerve facilement et s’attaque à tout ce qui\nbouge quand il est en colère."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Menki",
+    "genus": "Schwein/Affe",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Da es grundlos angreift und nicht zwischen Freund\noder Feind unterscheidet, ist es sehr gefährlich."
+      },
+      {
+        "game": "xy-y",
+        "text": "Es lebt mit anderen in Baumkronen. Wird eines von\nihnen wütend, werden alle anderen auch wütend."
+      },
+      {
+        "game": "oras-or",
+        "text": "Wenn Menki sich schüttelt und schwer durch die Nase atmet,\ndann ist es wütend. Da es blitzartig in Raserei gerät, ist es\nunmöglich, seinem Zorn zu entkommen."
+      },
+      {
+        "game": "oras-as",
+        "text": "Wenn Menki sich schüttelt und schwer durch die Nase atmet,\ndann ist es wütend. Da es blitzartig in Raserei gerät, ist es\nunmöglich, seinem Zorn zu entkommen."
+      },
+      {
+        "game": "sm-s",
+        "text": "Es rastet häufig völlig unvermittelt aus. Danach\nfindet es sich oft mutterseelenallein wieder.\nDas macht es schließlich noch wütender."
+      },
+      {
+        "game": "sm-m",
+        "text": "Es ärgert sich, bis es vor Erschöpfung eindöst.\nDoch selbst im Traum findet es keine Ruhe, also\nwacht es wieder auf und wird noch wütender."
+      },
+      {
+        "game": "usum-us",
+        "text": "Selbst Kleinigkeiten regen es sofort auf. Da es\nStress aber nicht in sich hineinfrisst, erfreut es\nsich eines langen Lebens."
+      },
+      {
+        "game": "usum-um",
+        "text": "Wird es wütend, färbt das auch auf seine\nKameraden ab. In einer Schar von Menki kehrt\ndaher niemals Ruhe ein."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Es ist sehr agil und lebt auf Bäumen. Aufgrund\nseiner hitzköpfigen Natur wird es schnell wütend,\nwas dazu führt, dass es alles und jeden angreift."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Es ist sehr agil und lebt auf Bäumen. Aufgrund\nseiner hitzköpfigen Natur wird es schnell wütend,\nwas dazu führt, dass es alles und jeden angreift."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Mankey",
+    "genus": "Pokémon Mono Cerdo",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Es peligroso acercarse si se enfada sin razón aparente,\nya que no distingue entre amigos y enemigos."
+      },
+      {
+        "game": "xy-y",
+        "text": "Vive en colonias en los árboles. Si uno se enfada, el\nresto de la manada ataca sin motivo."
+      },
+      {
+        "game": "oras-or",
+        "text": "Cuando Mankey empieza a temblar y a respirar con más\nintensidad, seguro que va a enfadarse. Aunque prever su\nenfado no sirve de nada porque alcanza un estado de rabia\ntan rápido que no hay escapatoria."
+      },
+      {
+        "game": "oras-as",
+        "text": "Cuando Mankey empieza a temblar y a respirar con más\nintensidad, seguro que va a enfadarse. Aunque prever su\nenfado no sirve de nada porque alcanza un estado de rabia\ntan rápido que no hay escapatoria."
+      },
+      {
+        "game": "sm-s",
+        "text": "Se enfada sin razón aparente. Cuando todos lo\ndejan solo para no tener que lidiar con su ira,\nMankey se enoja más aún."
+      },
+      {
+        "game": "sm-m",
+        "text": "Tras desatar su ira, le entra sueño y se duerme.\nSin embargo, sus pesadillas lo atormentan aún\nmás, por lo que se despierta de muy mal humor."
+      },
+      {
+        "game": "usum-us",
+        "text": "Se encoleriza enseguida por cualquier minucia.\nPor otro lado, al no acumular estrés, suele gozar\nde una vida longeva."
+      },
+      {
+        "game": "usum-um",
+        "text": "Cuando un ejemplar se enfada, contagia su ira\nal resto, por lo que los grupos de Mankey\ndesconocen el concepto de vida reposada."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Este ágil Pokémon vive en los árboles. Se enfada\ncon facilidad y, cuando lo hace, se abalanza\ncontra todo lo que se encuentre a su alrededor."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Este ágil Pokémon vive en los árboles. Se enfada\ncon facilidad y, cuando lo hace, se abalanza\ncontra todo lo que se encuentre a su alrededor."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Mankey",
+    "genus": "Pokémon Suinpanzé",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Se è tanto arrabbiato da non riuscire più a distinguere\ngli amici dai nemici, è pericoloso avvicinarsi."
+      },
+      {
+        "game": "xy-y",
+        "text": "Vive in colonie sugli alberi. Se uno si adira, l’intera\ncolonia comincia ad agire violentemente senza motivo."
+      },
+      {
+        "game": "oras-or",
+        "text": "Quando Mankey inizia a tremare e la sua respirazione\nnasale diventa pesante significa che si sta infuriando.\nTuttavia, a causa dei suoi repentini attacchi d’ira,\nè impossibile per chiunque sfuggire alla sua furia."
+      },
+      {
+        "game": "oras-as",
+        "text": "Quando Mankey inizia a tremare e la sua respirazione\nnasale diventa pesante significa che si sta infuriando.\nTuttavia, a causa dei suoi repentini attacchi d’ira,\nè impossibile per chiunque sfuggire alla sua furia."
+      },
+      {
+        "game": "sm-s",
+        "text": "È soggetto ad attacchi di rabbia improvvisi e se\ntutti attorno a lui si dileguano, si arrabbia ancora\ndi più per la stizza di essere rimasto solo."
+      },
+      {
+        "game": "sm-m",
+        "text": "Quando si infuria si stanca così tanto che si\naddormenta, ma si arrabbia anche in sogno,\ne si risveglia ancora più arrabbiato."
+      },
+      {
+        "game": "usum-us",
+        "text": "Basta un nonnulla per farlo andare su tutte\nle furie. Tuttavia, non accumula stress e vive\nmolto a lungo."
+      },
+      {
+        "game": "usum-um",
+        "text": "Se uno di loro si arrabbia, si infuriano anche\ni Mankey che gli stanno intorno. Per questo\nnelle loro colonie non regna mai il silenzio."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Un Pokémon agile che vive sugli alberi.\nÈ molto irascibile e non esita ad attaccare\nchiunque gli capiti a tiro."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Un Pokémon agile che vive sugli alberi.\nÈ molto irascibile e non esita ad attaccare\nchiunque gli capiti a tiro."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Mankey",
+    "genus": "Pig Monkey Pokémon",
+    "flavorText": [
+      {
+        "game": "rb-r",
+        "text": "Extremely quick to\nanger. It could\nbe docile one\fmoment then\nthrashing away\nthe next instant."
+      },
+      {
+        "game": "rb-b",
+        "text": "Extremely quick to\nanger. It could\nbe docile one\fmoment then\nthrashing away\nthe next instant."
+      },
+      {
+        "game": "y",
+        "text": "An agile POKéMON\nthat lives in\ntrees. It angers\feasily and will\nnot hesitate to\nattack anything."
+      },
+      {
+        "game": "gs-g",
+        "text": "It is extremely\nill-tempered.\nGroups of them\fwill attack any\nhandy target for\nno reason."
+      },
+      {
+        "game": "gs-s",
+        "text": "It's unsafe to ap­\nproach if it gets\nviolently enraged\ffor no reason and\ncan't distinguish\nfriends from foes."
+      },
+      {
+        "game": "c",
+        "text": "It lives in groups\nin the treetops.\nIf it loses sight\fof its group, it\nbecomes infuriated\nby its loneliness."
+      },
+      {
+        "game": "rs-r",
+        "text": "When MANKEY starts shaking and its\nnasal breathing turns rough, it’s a sure\nsign that it is becoming angry.\fHowever, because it goes into a\ntowering rage almost instantly, it is\nimpossible for anyone to flee its wrath."
+      },
+      {
+        "game": "rs-s",
+        "text": "When MANKEY starts shaking and its\nnasal breathing turns rough, it’s a sure\nsign that it is becoming angry.\fHowever, because it goes into a\ntowering rage almost instantly, it is\nimpossible for anyone to flee its wrath."
+      },
+      {
+        "game": "e",
+        "text": "When it starts shaking and its nasal\nbreathing turns rough, it’s a sure sign\nof anger. However, since this happens\ninstantly, there is no time to flee."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "Light and agile on its feet, and ferocious\nin temperament. When angered, it flies into\nan uncontrollable frenzy."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "Extremely quick to anger. It could be\ndocile one moment, then thrashing away \nthe next instant."
+      },
+      {
+        "game": "dp-d",
+        "text": "It lives in treetop colonies.\nIf one becomes enraged, the whole\ncolony rampages for no reason."
+      },
+      {
+        "game": "dp-p",
+        "text": "It lives in treetop colonies.\nIf one becomes enraged, the whole\ncolony rampages for no reason."
+      },
+      {
+        "game": "pt",
+        "text": "It lives in treetop colonies.\nIf one becomes enraged, the whole\ncolony rampages for no reason."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "It is extremely ill-tempered.\nGroups of them will attack any\nhandy target for no reason."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "It’s unsafe to approach if it gets\nviolently enraged for no reason and\ncan’t distinguish friends from foes."
+      },
+      {
+        "game": "bw-b",
+        "text": "It lives in treetop colonies.\nIf one becomes enraged, the whole\ncolony rampages for no reason."
+      },
+      {
+        "game": "bw-w",
+        "text": "It lives in treetop colonies.\nIf one becomes enraged, the whole\ncolony rampages for no reason."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "It lives in treetop colonies.\nIf one becomes enraged, the whole\ncolony rampages for no reason."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "It lives in treetop colonies.\nIf one becomes enraged, the whole\ncolony rampages for no reason."
+      },
+      {
+        "game": "xy-x",
+        "text": "It’s unsafe to approach if it gets violently enraged\nfor no reason and can’t distinguish friends\nfrom foes."
+      },
+      {
+        "game": "xy-y",
+        "text": "It lives in treetop colonies. If one becomes\nenraged, the whole colony rampages for no reason."
+      },
+      {
+        "game": "oras-or",
+        "text": "When Mankey starts shaking and its nasal breathing turns\nrough, it’s a sure sign that it is becoming angry. However,\nbecause it goes into a towering rage almost instantly,\nit is impossible for anyone to flee its wrath."
+      },
+      {
+        "game": "oras-as",
+        "text": "When Mankey starts shaking and its nasal breathing turns\nrough, it’s a sure sign that it is becoming angry. However,\nbecause it goes into a towering rage almost instantly,\nit is impossible for anyone to flee its wrath."
+      },
+      {
+        "game": "sm-s",
+        "text": "It can spontaneously become enraged. Everyone\nnear it clears out as it rampages, and the\nresulting loneliness makes it angrier still."
+      },
+      {
+        "game": "sm-m",
+        "text": "Its raging tires it out and causes it to fall asleep,\nbut the anger resonating in its dreams causes it\nto wake up—which infuriates it all over again."
+      },
+      {
+        "game": "usum-us",
+        "text": "The smallest of things could cause it to lose its\ntemper. Because it doesn’t hold in its stress,\nthis Pokémon can live a long time."
+      },
+      {
+        "game": "usum-um",
+        "text": "If one gets angry, all the others around it will\nget angry, so silence is a rare visitor in a troop\nof Mankey."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "An agile Pokémon that lives in trees. It angers\neasily and will not hesitate to attack anything."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "An agile Pokémon that lives in trees. It angers\neasily and will not hesitate to attack anything."
+      }
+    ]
+  },
+  "chs": {
+    "name": "猴怪",
+    "genus": "猪猴宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "会没有任何征兆突然发怒。\n如果大肆胡闹后谁都不在了的话，\n又会因无法忍受孤独而再次发怒。"
+      },
+      {
+        "game": "sm-m",
+        "text": "发泄完怒气后累得睡着了，\n却在梦里发怒而醒来，\n于是又因为醒来而再次发怒了。"
+      },
+      {
+        "game": "usum-us",
+        "text": "该宝可梦会因一点小事而立刻动怒。\n由于不会积累压力，\n所以能活相当长的时间。"
+      },
+      {
+        "game": "usum-um",
+        "text": "只要有１只发怒，\n周围的猴怪也会跟着发怒，\n所以猴怪群里没有一刻是安静的。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "身体轻盈，在树上生活。\n常因鸡毛蒜皮的小事发火\n而飞扑到周围的东西上。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "身体轻盈，在树上生活。\n常因鸡毛蒜皮的小事发火\n而飞扑到周围的东西上。"
+      }
+    ]
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "jap": {
+    "name": "タタッコ",
+    "genus": "だだっこポケモン",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "えさを　もとめ　ちじょうに　あがる。\nこうきしんおうせいで　めにしたものは\nとりあえず　しょくしゅで　なぐる。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "３さいじ　くらいの　かしこさ。\nしょくしゅは　よくちぎれるが\nさいせいするので　きにしない。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Tatakko",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "때때무노",
+    "genus": "떼쟁이포켓몬",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "먹이를 찾아 지상으로 올라온다.\n호기심이 왕성해서 눈에 들어오는 것은\n일단 촉수로 때리고 본다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "세 살 아이 정도의 지능을 가졌다.\n촉수는 잘 끊어지지만\n재생되기 때문에 신경 쓰지 않는다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "拳拳蛸",
+    "genus": "纏人寶可夢",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "會為了尋找食物而登上陸地。\n擁有旺盛的好奇心，不管看到什麼，\n都會先用觸手打一打再說。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "智商大致相當於３歲的兒童。\n雖然觸手經常斷掉，但因為\n能再生，所以牠並不在意。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Poulpaf",
+    "genus": "Pokémon Caprice",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Il se rend sur la terre ferme pour se nourrir.\nTrès curieux, son premier réflexe est de frapper\ntout ce qu’il voit avec ses tentacules."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Il a l’intelligence d’un enfant de trois ans.\nIl perd souvent ses tentacules, mais comme\nils repoussent, il ne s’en soucie guère."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Klopptopus",
+    "genus": "Balg-Pokémon",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Zur Futtersuche kommt es an Land. Es ist sehr\nneugierig, weshalb es alles, was es sieht,\nzunächst einmal mit seinen Tentakeln haut."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Sein Verstand ist ungefähr auf dem Level eines\ndreijährigen Kindes. Es macht ihm nichts aus, dass\nseine Tentakel oft abreißen, da sie nachwachsen."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Clobbopus",
+    "genus": "Pokémon Malcriado",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Emerge a tierra firme en busca de alimento. Su\nextrema curiosidad lo induce a golpear con los\ntentáculos todo lo que entra en su campo visual."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Su inteligencia es similar a la de un niño de tres\naños. Sus tentáculos se desprenden a menudo,\npero ni se inmuta, ya que se regeneran solos."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Clobbopus",
+    "genus": "Pokémon Bizze",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Si spinge sulla terraferma in cerca di cibo.\nÈ molto curioso e colpisce con i tentacoli tutto\nquello che entra nel suo campo visivo."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Ha l’intelligenza di un bambino di 3 anni. Gli\nsi staccano spesso i tentacoli, ma poiché gli\nricrescono naturalmente non se ne preoccupa."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Clobbopus",
+    "genus": "Tantrum Pokémon",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "It’s very curious, but its means of investigating\nthings is to try to punch them with its tentacles.\nThe search for food is what brings it onto land."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Its tentacles tear off easily, but it isn’t alarmed\nwhen that happens—it knows they’ll grow back.\nIt’s about as smart as a three-year-old."
+      }
+    ]
+  },
+  "chs": {
+    "name": "拳拳蛸",
+    "genus": "缠人宝可梦",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "会为了寻找食物而登上陆地。\n拥有旺盛的好奇心，不管看到什么，\n都会先用触手打一打再说。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "智商大致相当于３岁的儿童。\n虽然触手经常断掉，但因为\n能再生，所以它并不在意。"
+      }
+    ]
+  }
+}

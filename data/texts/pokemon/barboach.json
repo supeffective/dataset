@@ -1,0 +1,457 @@
+{
+  "jap": {
+    "name": "ドジョッチ",
+    "genus": "ひげうおポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "ぜんしんが　ヌルヌルの　たいえきで\nおおわれているため　つかまっても\nぬるりと　ぬけだすことが　できる。"
+      },
+      {
+        "game": "xy-y",
+        "text": "ヒゲは　ゆうしゅうな　レーダー。\nにごった　みずの　なかでも　ヒゲを\nつかって　エサを　みつけだす。"
+      },
+      {
+        "game": "oras-or",
+        "text": "びんかんな　ヒゲは　すぐれた　レーダーだ。\nドロの　なかから　２ほんの　ヒゲだけを　だして\nえものが　ちかよってくるのを　まちかまえている。"
+      },
+      {
+        "game": "oras-as",
+        "text": "からだが　ヌルヌルの　まくで　おおわれているので\nてきに　つかまれても　ヌルリと　にげだせるのだ。\nヌルヌルが　かわくと　からだが　よわってしまう。"
+      },
+      {
+        "game": "sm-s",
+        "text": "２ほんのヒゲは　びんかんなレーダー。\nどろで　にごった　みずの　なかでも\nえものの　いちを　さっちするぞ。"
+      },
+      {
+        "game": "sm-m",
+        "text": "ヌメる　からだは　つかみにくい。\nすでで　つかまえる　かずを\nきそう　おまつりが　あるほど。"
+      },
+      {
+        "game": "usum-us",
+        "text": "ぜんしん　ヌメヌメ。　とりポケモンに\nついばまれても　ぬるりと　すべって\nにげだすことが　できるのだ。"
+      },
+      {
+        "game": "usum-um",
+        "text": "ヒゲに　しんけいが　あつまっている。\nにんげんの　はなや　ベロの　ように\nにおいや　あじを　かんじとるぞ。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "ぬるぬるの　からだは　つかみにくい。\nある　ちほうでは　どろが　かたまって\nドジョッチが　うまれたと　いわれる。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "２ほんの　ながい　ヒゲで　にごった\nかわぞこを　さぐる。　ヌルヌルした\nねんまくが　からだを　まもっている。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Dojoach",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "미꾸리",
+    "genus": "수염물고기포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "전신이 미끈미끈한 체액으로\n덮여있기 때문에 잡아도\n미끈하게 빠져나갈 수 있다."
+      },
+      {
+        "game": "xy-y",
+        "text": "수염은 우수한 레이더다.\n탁해진 물속에서도 수염을\n써서 먹이를 찾아낸다."
+      },
+      {
+        "game": "oras-or",
+        "text": "민감한 수염은 우수한 레이더다.\n진흙 속에서 2개의 수염만을 내놓고\n먹이가 가까이 오는 것을 기다리고 있다."
+      },
+      {
+        "game": "oras-as",
+        "text": "몸이 미끈미끈한 막으로 덮여 있어서\n적에게 붙잡혀도 매끄럽게 도망칠 수 있다.\n미끈미끈한 막이 마르면 몸이 약해진다."
+      },
+      {
+        "game": "sm-s",
+        "text": "2개의 수염은 민감한 레이더이다.\n진흙으로 탁해진 물속에서도\n먹이의 위치를 감지한다."
+      },
+      {
+        "game": "sm-m",
+        "text": "미끄러운 몸은 잡기 힘들다.\n맨손으로 잡은 수를\n겨루는 축제가 있을 정도다."
+      },
+      {
+        "game": "usum-us",
+        "text": "전신이 미끈미끈하다. \n새포켓몬이 쪼아도 미끄덩\n미끄러져 도망칠 수 있다."
+      },
+      {
+        "game": "usum-um",
+        "text": "수염에 신경이 모여 있다.\n인간의 코나 혀와 같이\n냄새나 맛을 감지해 낸다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "미끈미끈한 몸은 잡기 어렵다.\n어떤 지방에서는 진흙이 굳어져서\n미꾸리가 생겨났다고 전해진다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "2개의 긴 수염으로 탁한\n강바닥을 더듬는다. 미끈미끈한\n점막으로 몸을 보호한다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "泥泥鰍",
+    "genus": "鬚魚寶可夢",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "２根鬍子是靈敏的雷達。\n即使在因為泥濘而渾濁的水中，\n也能偵查到獵物的位置。"
+      },
+      {
+        "game": "sm-m",
+        "text": "滑溜溜的身體很難抓住。\n有的祭典甚至會舉辦\n看能徒手捉住多少隻的比賽。"
+      },
+      {
+        "game": "usum-us",
+        "text": "全身黏黏滑滑的，\n就算被鳥寶可夢啄到，\n也可以馬上滑開溜走。"
+      },
+      {
+        "game": "usum-um",
+        "text": "鬍鬚上滿是神經，\n能像人類的鼻子和舌頭\n那樣感知氣味和味道。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "身體滑溜溜的很難抓住。\n某個地區流傳著泥泥鰍\n是由泥土凝結而成的說法。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "會用２根長長的鬍鬚\n探索渾濁的河底。\n用濕滑的黏膜保護著身體。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Barloche",
+    "genus": "Pokémon Barbillon",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Son corps glissant est difficile à\nattraper. On dit qu’il a été créé\ndans de la boue solidifiée."
+      },
+      {
+        "game": "bw-w",
+        "text": "Son corps glissant est difficile à\nattraper. On dit qu’il a été créé\ndans de la boue solidifiée."
+      },
+      {
+        "game": "xy-x",
+        "text": "Il enduit son corps d’une substance visqueuse pour\nglisser et se libérer quand on l’agrippe."
+      },
+      {
+        "game": "xy-y",
+        "text": "Ses barbillons font un excellent radar qui lui permet\nde repérer ses proies, même en eau trouble."
+      },
+      {
+        "game": "oras-or",
+        "text": "Les vibrisses sensibles de Barloche agissent comme\nun système radar sophistiqué. Ce Pokémon se cache\ndans la boue, laissant dépasser ses vibrisses, et attend\nque sa proie passe à proximité."
+      },
+      {
+        "game": "oras-as",
+        "text": "Le corps de Barloche est couvert d’un voile visqueux.\nLorsqu’un ennemi l’attrape, ce Pokémon peut se glisser\nhors de son étreinte. Il s’affaiblit quand la pellicule\nvisqueuse de son corps s’assèche."
+      },
+      {
+        "game": "sm-s",
+        "text": "Il se sert de ses barbillons comme d’un radar\nultra-sophistiqué. Ils lui permettent de détecter\nses proies même dans l’eau boueuse."
+      },
+      {
+        "game": "sm-m",
+        "text": "Son corps tout visqueux le rend impossible à\nattraper. Il existe des concours d’adresse dont\nle but est d’attraper des Barloche à mains nues."
+      },
+      {
+        "game": "usum-us",
+        "text": "Son corps est tout visqueux, ce qui lui permet\nde glisser entre les serres des Pokémon oiseaux\nafin de s’échapper."
+      },
+      {
+        "game": "usum-um",
+        "text": "Ses barbillons sont des organes sensoriels :\nils peuvent détecter le goût et les odeurs,\ncomme le font la langue et le nez des humains."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Son corps glissant est difficile à attraper.\nDans une certaine région, on raconte qu’il est né\nà partir de boue solidifiée."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Il sonde les bords boueux des rivières\navec ses barbillons.\nUn film fin et visqueux protège tout son corps."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Schmerbe",
+    "genus": "Barthaar-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Es bedeckt seinen Körper mit einer schleimigen\nSubstanz und kann sich so aus Umklammerungen\nwinden."
+      },
+      {
+        "game": "xy-y",
+        "text": "Seine Barthaare sind ein hervorragendes Radar.\nMit ihnen spürt es selbst in Dreckwasser Beute auf."
+      },
+      {
+        "game": "oras-or",
+        "text": "Schmerbes empfindliche Barthaare dienen ihm als\nhervorragendes Radarsystem. Dieses Pokémon versteckt sich\nim Schlamm, sodass nur noch seine Barthaare herausgucken,\nund wartet auf Beute."
+      },
+      {
+        "game": "oras-as",
+        "text": "Schmerbes Körper ist mit einem schleimigen Film bedeckt.\nWenn ein Gegner es packen will, entgeht es seinem Griff.\nDieses Pokémon wird geschwächt, wenn sein schleimiger\nÜberzug austrocknet."
+      },
+      {
+        "game": "sm-s",
+        "text": "Seine zwei Barthaare dienen als empfindliches\nRadarsystem. Selbst in schlammigem Wasser\nkennt es so die Position seiner Beute."
+      },
+      {
+        "game": "sm-m",
+        "text": "Sein schleimiger Körper ist schwer zu greifen.\nAuf Volksfesten wetteifert man gar, wer mit\nbloßen Händen die meisten fangen kann."
+      },
+      {
+        "game": "usum-us",
+        "text": "Sein glitschiger Körper ermöglicht es ihm, dem\nSchnabel von Vogel-Pokémon zu entkommen."
+      },
+      {
+        "game": "usum-um",
+        "text": "In seinen Barthaaren laufen Nervenstränge\nzusammen. Damit riecht und schmeckt es wie\nMenschen mit ihrer Nase und Zunge."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Sein schleimiger Körper ist schwer zu greifen.\nIn einer Region sagt man, es sei aus gehärtetem\nSchlamm entstanden."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Es untersucht schlammige Flussbetten mit seinen\nbeiden langen Schnurrhaaren. Sein Körper wird\nvon einem Schleimfilm geschützt."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Barboach",
+    "genus": "Pokémon Bigotudo",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Recubre su cuerpo de una película viscosa que le\npermite escapar si alguien lo agarra."
+      },
+      {
+        "game": "xy-y",
+        "text": "Sus bigotes le sirven de radar para localizar a sus\npresas, incluso en las aguas más turbias."
+      },
+      {
+        "game": "oras-or",
+        "text": "Barboach tiene unos bigotes sensibles que le sirven de\ninfalible radar. Este Pokémon se sumerge en lodo y solo deja\nlos bigotes por fuera de la superficie, al acecho, mientras\nespera a que llegue su presa."
+      },
+      {
+        "game": "oras-as",
+        "text": "Barboach está completamente recubierto por una película\nviscosa. Si lo atrapan, puede escurrirse fácilmente. Si se le\nseca la capa viscosa, este Pokémon se debilitará."
+      },
+      {
+        "game": "sm-s",
+        "text": "Sus bigotes son muy sensibles y le sirven de\nradar. Puede detectar la posición de su presa\nincluso en el agua turbia de los lodazales."
+      },
+      {
+        "game": "sm-m",
+        "text": "Su cuerpo es tan escurridizo que incluso hay\ncompeticiones para ver cuántas veces puede\nser agarrado con las manos desnudas."
+      },
+      {
+        "game": "usum-us",
+        "text": "Su cuerpo viscoso y resbaladizo le permite\nescapar indemne de las garras de los Pokémon\npájaro que intentan atraparlo."
+      },
+      {
+        "game": "usum-um",
+        "text": "Sus bigotes contienen terminaciones nerviosas.\nEso les permite captar olores y sabores, como\nsi fueran la nariz o la lengua de un ser humano."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Su escurridizo cuerpo es difícil de agarrar. En\ncierta región se dice que ha nacido de barro\nendurecido."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Examina los lechos lodosos de los ríos con los\nlargos bigotes que tiene. Está protegido por una\ncapa viscosa."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Barboach",
+    "genus": "Pokémon Baffetti",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Il suo corpo è ricoperto da una pellicola viscida,\nche gli permette di sgusciare via, se afferrato."
+      },
+      {
+        "game": "xy-y",
+        "text": "I suoi baffi sono un eccellente radar. Possono\nlocalizzare le prede persino nelle acque più torbide."
+      },
+      {
+        "game": "oras-or",
+        "text": "I sensibili baffi di Barboach fungono da sistema radar\nprecisissimo. Il Pokémon vive nel fango, lasciando\nesposti soltanto i due baffi mentre attende pazientemente\nche si avvicini la preda."
+      },
+      {
+        "game": "oras-as",
+        "text": "Il corpo di Barboach è coperto da una pellicola viscida.\nSe un nemico cerca di afferrarlo, il Pokémon gli scivola\nvia dalle grinfie. Se la pellicola viscida si secca, Barboach\nsi indebolisce."
+      },
+      {
+        "game": "sm-s",
+        "text": "I suoi baffi sono un radar sensibilissimo, in grado\ndi individuare la preda persino nelle acque\npiù torbide."
+      },
+      {
+        "game": "sm-m",
+        "text": "Il suo corpo viscido è così difficile da afferrare\nche nelle feste popolari si fa a gara a chi riesce\na prenderne di più a mani nude."
+      },
+      {
+        "game": "usum-us",
+        "text": "Grazie al corpo viscido, riesce a sgusciare via\ndalla presa dei Pokémon alati e fuggire."
+      },
+      {
+        "game": "usum-um",
+        "text": "I suoi baffi sono ricchi di terminazioni nervose e\npercepiscono odori e sapori come il naso e la\nlingua nell’essere umano."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Ha un corpo viscido e difficile da afferrare.\nIn una regione si dice che sia nato da fango\nindurito."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Si serve dei lunghi baffi per saggiare i letti\nfangosi dei fiumi. Ha il corpo protetto da\nuna membrana viscida."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Barboach",
+    "genus": "Whiskers Pokémon",
+    "flavorText": [
+      {
+        "game": "rs-r",
+        "text": "BARBOACH’s sensitive whiskers serve\nas a superb radar system.\nThis POKéMON hides in mud, leaving only\fits two whiskers exposed while it waits\nfor prey to come along."
+      },
+      {
+        "game": "rs-s",
+        "text": "BARBOACH’s body is covered with a\nslimy film. If a foe grabs it, this\nPOKéMON just slips out of the enemy’s\fgrip.\nThis POKéMON grows weak if the slimy\ncoating dries up."
+      },
+      {
+        "game": "e",
+        "text": "Its body is covered with a slimy film.\nThe film acts as a barrier to prevent germs\nin muddy water from entering the\nBARBOACH’s body."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "It probes muddy riverbeds with its two\nlong whiskers. A slimy film protects its\nbody."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "It probes muddy riverbeds with its two\nlong whiskers. A slimy film protects its\nbody."
+      },
+      {
+        "game": "dp-d",
+        "text": "It coats its entire body with a\nslimy fluid so it can squirm and\nslip away if grabbed."
+      },
+      {
+        "game": "dp-p",
+        "text": "Its whiskers make a superb radar.\nThey are used to locate prey,\neven in the murkiest of water."
+      },
+      {
+        "game": "pt",
+        "text": "Its slimy body is hard to grasp. In\none region, it is said to have been\nborn from hardened mud."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "BARBOACH uses its whiskers to\ntaste things just as a person uses\nhis or her tongue to taste things."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "BARBOACH uses its whiskers to\ntaste things just as a person uses\nhis or her tongue to taste things."
+      },
+      {
+        "game": "bw-b",
+        "text": "Its slimy body is hard to grasp. In\none region, it is said to have been\nborn from hardened mud."
+      },
+      {
+        "game": "bw-w",
+        "text": "Its slimy body is hard to grasp. In\none region, it is said to have been\nborn from hardened mud."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "Its slimy body is hard to grasp. In\none region, it is said to have been\nborn from hardened mud."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "Its slimy body is hard to grasp. In\none region, it is said to have been\nborn from hardened mud."
+      },
+      {
+        "game": "xy-x",
+        "text": "It coats its entire body with a slimy fluid so it can\nsquirm and slip away if grabbed."
+      },
+      {
+        "game": "xy-y",
+        "text": "Its whiskers make a superb radar. They are used to\nlocate prey, even in the murkiest of water."
+      },
+      {
+        "game": "oras-or",
+        "text": "Barboach’s sensitive whiskers serve as a superb radar system.\nThis Pokémon hides in mud, leaving only its two whiskers\nexposed while it waits for prey to come along."
+      },
+      {
+        "game": "oras-as",
+        "text": "Barboach’s body is covered with a slimy film. If a foe grabs it,\nthis Pokémon just slips out of the enemy’s grip. This Pokémon\ngrows weak if the slimy coating dries up."
+      },
+      {
+        "game": "sm-s",
+        "text": "Its two whiskers provide a sensitive radar.\nEven in muddy waters, it can detect its\nprey’s location."
+      },
+      {
+        "game": "sm-m",
+        "text": "Its slippery body is hard to grasp, so much so\nthat there are festivals where people compete\nto see how many they can catch barehanded."
+      },
+      {
+        "game": "usum-us",
+        "text": "Its entire body is gooey. When pecked at by\nbird Pokémon, it slips and slides its way\nto freedom."
+      },
+      {
+        "game": "usum-um",
+        "text": "Its whiskers are filled with nerves. They can\nsense smells and flavors just as a person’s nose\nor tongue would."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Its slimy body is hard to grasp. In one region, it is\nsaid to have been born from hardened mud."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "It probes muddy riverbeds with its two long\nwhiskers. A slimy film protects its body."
+      },
+      {
+        "game": "la",
+        "text": "Makes its home in swamps with murky water. The poor visibility\nhides this Pokémon from predators, and the slime on its body\nmakes grasping it difficult."
+      }
+    ]
+  },
+  "chs": {
+    "name": "泥泥鳅",
+    "genus": "须鱼宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "２根胡子是灵敏的雷达。\n即使在泥泞浑浊的水中，\n也能侦查到猎物的位置。"
+      },
+      {
+        "game": "sm-m",
+        "text": "滑溜溜的身体很难抓牢。\n甚至因此诞生了比试\n徒手捕捉量的节日。"
+      },
+      {
+        "game": "usum-us",
+        "text": "全身滑腻腻的。\n即使被鸟宝可梦啄到，\n也能哧溜一下滑着逃走。"
+      },
+      {
+        "game": "usum-um",
+        "text": "胡子上布满神经。\n能像人类的鼻子和舌头那样\n感知气味和味道。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "身体滑溜溜的很难抓住。\n某个地区流传着泥泥鳅\n是由泥土凝结而成的说法。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "会用２根长长的胡须\n探索浑浊的河底。\n用湿滑的粘膜保护着身体。"
+      }
+    ]
+  }
+}

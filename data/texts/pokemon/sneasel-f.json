@@ -1,0 +1,469 @@
+{
+  "jap": {
+    "name": "ニューラ",
+    "genus": "かぎづめポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "すみかから　タマゴを　かすめとり\nたべてしまう。するどい　カギヅメが\nあいての　きゅうしょを　きりさく。"
+      },
+      {
+        "game": "xy-y",
+        "text": "するどいツメを　ゆびの　なかに\nかくしている。いきなり　のばして\nおそってきた　あいてを　ひるませる。"
+      },
+      {
+        "game": "oras-or",
+        "text": "てあしの　カギヅメを　つきたてて　きを　のぼる。\nおやの　いない　すきを　ねらって　きの　うえに\nある　す　から　タマゴを　ぬすんで　たべる。"
+      },
+      {
+        "game": "oras-as",
+        "text": "てあしの　カギヅメを　つきたてて　きを　のぼる。\nおやの　いない　すきを　ねらって　きの　うえに\nある　す　から　タマゴを　ぬすんで　たべる。"
+      },
+      {
+        "game": "sm-s",
+        "text": "ずるがしこく　どうもうな　せいしつ。\nおやが　いない　スキに　すあなに\nしんにゅう。　タマゴを　ぬすみだす。"
+      },
+      {
+        "game": "sm-m",
+        "text": "ツメで　タマゴに　あなを　あけて\nなかみを　すする。　ブリーダーに\nにくまれ　くじょ　されることもある。"
+      },
+      {
+        "game": "usum-us",
+        "text": "チームプレイで　とりポケモンの\nすあなから　タマゴを　ぬすみだすが\nだれが　くうかで　ケンカになるのだ。"
+      },
+      {
+        "game": "usum-um",
+        "text": "やみよに　まぎれ　えものを　ねらう。\nサンドを　ねらい　ツメを　たてるが\nひふが　かたく　おれてしまうことも。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "するどいツメを　ゆびの　なかに\nかくしている。　いきなり　のばして\nおそってきた　あいてを　ひるませる。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "ずるがしこく　どうもうな　せいしつ。\nおやが　いない　スキに　すあなに\nしんにゅう。　タマゴを　ぬすみだす。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Nyula",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "포푸니",
+    "genus": "갈고리손톱포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "거처에서 알을 가로채어 먹어\n버린다. 날카로운 갈고리 손톱이\n상대의 급소를 베어 가른다."
+      },
+      {
+        "game": "xy-y",
+        "text": "예리한 손톱을 손가락 안에\n감추고 있다. 갑자기 뻗어서\n습격해온 상대를 풀죽게 만든다."
+      },
+      {
+        "game": "oras-or",
+        "text": "손발의 갈고리 손발톱을 꽂아 나무를 오른다.\n부모가 없는 틈을 노려 나무 위에\n있는 둥지에서 알을 훔쳐 먹는다."
+      },
+      {
+        "game": "oras-as",
+        "text": "손발의 갈고리 손발톱을 꽂아 나무를 오른다.\n부모가 없는 틈을 노려 나무 위에\n있는 둥지에서 알을 훔쳐 먹는다."
+      },
+      {
+        "game": "sm-s",
+        "text": "교활하고 사나운 성질을 가졌다.\n부모가 없는 틈에 둥지에\n침입해서 알을 훔쳐낸다."
+      },
+      {
+        "game": "sm-m",
+        "text": "손톱으로 알에 구멍을 뚫어서\n내용물을 마신다. 브리더에게\n미움을 받아 제거될 때도 있다."
+      },
+      {
+        "game": "usum-us",
+        "text": "팀플레이로 새포켓몬의\n둥지에서 알을 훔쳐 내지만,\n누가 먹을까로 싸움이 난다."
+      },
+      {
+        "game": "usum-um",
+        "text": "어둠 속에 숨어 먹이를 노린다.\n모래두지를 노리고 손톱을 세우지만\n피부가 단단해서 부러지는 경우도 있다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "예리한 손톱을 손가락 안에\n감추고 있다. 갑자기 뻗어서\n습격해온 상대를 풀죽게 만든다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "교활하고 사나운 성질을 가졌다.\n부모가 없는 틈에\n둥지로 침입해서 알을 훔친다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "狃拉",
+    "genus": "鉤爪寶可夢",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "性格狡猾且兇猛。\n會趁著雙親不在時\n侵入巢穴把蛋盜走。"
+      },
+      {
+        "game": "sm-m",
+        "text": "用爪子在蛋上開個孔，\n吸食中間的美味。\n有時會被培育家憎惡而遭到驅逐。"
+      },
+      {
+        "game": "usum-us",
+        "text": "靠著團隊合作從鳥寶可夢的\n巢穴中把蛋偷出來之後，\n卻會為了由誰來吃而爭吵。"
+      },
+      {
+        "game": "usum-um",
+        "text": "會趁著黑夜襲擊獵物。\n遇上穿山鼠時會伸出爪子來獵捕，\n但對方堅硬的皮膚有時會讓爪子折斷。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "手指中藏有鋒利的爪子。\n會突然伸出利爪，\n讓襲擊自己的對手心生怯意。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "性格狡猾且凶猛。\n會趁著雙親不在時\n侵入巢穴把蛋盜走。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Farfuret",
+    "genus": "Pokémon Grifacérée",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Ce Pokémon rusé agit parfois en\néquipe pour voler des œufs, l’un\nd’entre eux faisant diversion."
+      },
+      {
+        "game": "bw-w",
+        "text": "Ce Pokémon rusé agit parfois en\néquipe pour voler des œufs, l’un\nd’entre eux faisant diversion."
+      },
+      {
+        "game": "xy-x",
+        "text": "Il se nourrit d’œufs volés dans des nids. Ses griffes\ncrochues percent les défenses de l’ennemi."
+      },
+      {
+        "game": "xy-y",
+        "text": "Ses griffes sont cachées dans ses pattes. S’il est\nattaqué, il les sort pour frapper ses ennemis."
+      },
+      {
+        "game": "oras-or",
+        "text": "Farfuret grimpe aux arbres en enfonçant ses griffes crochues\ndans l’écorce. Ce Pokémon cherche les nids qui ne sont pas\nsurveillés et vole les œufs pour les manger pendant que\nles parents sont partis."
+      },
+      {
+        "game": "oras-as",
+        "text": "Farfuret grimpe aux arbres en enfonçant ses griffes crochues\ndans l’écorce. Ce Pokémon cherche les nids qui ne sont pas\nsurveillés et vole les œufs pour les manger pendant que\nles parents sont partis."
+      },
+      {
+        "game": "sm-s",
+        "text": "Un Pokémon aussi roublard que fourbe.\nIl se glisse dans le nid des autres Pokémon\nen leur absence pour leur dérober leurs œufs."
+      },
+      {
+        "game": "sm-m",
+        "text": "Avec ses griffes, il perce un trou dans les œufs\nqu’il trouve pour en sucer le contenu. Bête noire\ndes Éleveurs qui le traquent parfois."
+      },
+      {
+        "game": "usum-us",
+        "text": "Il fait équipe avec ses congénères pour voler\nles œufs des Pokémon oiseaux, mais ils se font\nla guerre pour décider de qui les mangera."
+      },
+      {
+        "game": "usum-um",
+        "text": "Ce chasseur nocturne profite de l’obscurité\npour s’attaquer aux Sabelette, mais il se casse\nparfois les griffes sur leur peau très dure."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Ses griffes acérées sont cachées dans ses doigts.\nS’il se fait attaquer, il les sort pour effrayer\nson agresseur."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Un Pokémon aussi cruel que fourbe.\nIl se glisse dans le nid des autres Pokémon\nen leur absence pour dérober leurs Œufs."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Sniebel",
+    "genus": "Stichklauen-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Es ernährt sich von Eiern, die es aus Nestern stiehlt.\nBeute greift es mit seinen scharfen Krallen an."
+      },
+      {
+        "game": "xy-y",
+        "text": "In seinen Pfoten stecken scharfe Krallen. Es fährt sie\nblitzschnell aus, um die Gegner zu überraschen."
+      },
+      {
+        "game": "oras-or",
+        "text": "Sniebel klettert an Bäumen hoch, indem es seine\nhakenförmigen Krallen in die Rinde schlägt. Dieses\nPokémon sucht nach unbewachten Nestern und\nstiehlt die Eier. Davon ernährt es sich."
+      },
+      {
+        "game": "oras-as",
+        "text": "Sniebel klettert an Bäumen hoch, indem es seine\nhakenförmigen Krallen in die Rinde schlägt. Dieses\nPokémon sucht nach unbewachten Nestern und\nstiehlt die Eier. Davon ernährt es sich."
+      },
+      {
+        "game": "sm-s",
+        "text": "Dieses Pokémon hat ein durchtriebenes,\ngrausames Wesen. Es sucht nach unbewachten\nNestern und stiehlt die Eier."
+      },
+      {
+        "game": "sm-m",
+        "text": "Es rammt seine Krallen in Eier und schlürft\nihren Inhalt aus. Pokémon-Züchter können es\naus diesem Grund nicht ausstehen."
+      },
+      {
+        "game": "usum-us",
+        "text": "Sie bilden ein Team, um gemeinsam Eier aus den\nNestern von Vogel-Pokémon zu klauen. Dann\nstreiten sie sich darüber, wer sie fressen darf."
+      },
+      {
+        "game": "usum-um",
+        "text": "Es lauert seiner Beute im Dunkeln auf. Wenn es\nSandan mit seinen Krallen angreift, brechen\ndiese manchmal an dessen robuster Haut ab."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "In seinen Pfoten stecken scharfe Krallen. Es fährt\nsie blitzschnell aus, um Gegner zu überraschen."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Dieses durchtriebene und gewissenlose Pokémon\nbeobachtet Nester, bis die Eltern ausgeflogen\nsind, und stiehlt dann deren Eier."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Sneasel",
+    "genus": "Pokémon Garra Filo",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Se alimenta de huevos robados en nidos. Clava sus\nafiladas garras en los puntos débiles de sus rivales."
+      },
+      {
+        "game": "xy-y",
+        "text": "Sus ocultas garras son muy afiladas. Si le atacan,\nextiende sus garras y asusta al enemigo."
+      },
+      {
+        "game": "oras-or",
+        "text": "Sneasel trepa por los árboles agarrándose a la corteza con las\ngarras curvas que tiene. Este Pokémon busca nidos\ndesprovistos de vigilancia paterna para robar los huevos y\ncomérselos."
+      },
+      {
+        "game": "oras-as",
+        "text": "Sneasel trepa por los árboles agarrándose a la corteza con las\ngarras curvas que tiene. Este Pokémon busca nidos\ndesprovistos de vigilancia paterna para robar los huevos y\ncomérselos."
+      },
+      {
+        "game": "sm-s",
+        "text": "Es un Pokémon de naturaleza astuta y fiera.\nSe cuela en los nidos de otros Pokémon cuando\nno están y roba sus huevos."
+      },
+      {
+        "game": "sm-m",
+        "text": "Abre un pequeño agujero en los huevos con sus\ngarras y sorbe el interior. Los Criapokémon lo\ndetestan e intentan tomar medidas contra él."
+      },
+      {
+        "game": "usum-us",
+        "text": "Colabora con los suyos para saquear nidos de\nPokémon pájaro, aunque luego se disputan\nfieramente quién se come los huevos."
+      },
+      {
+        "game": "usum-um",
+        "text": "Acecha a sus presas en la oscuridad nocturna.\nEn ocasiones, ataca a algún Sandshrew y acaba\npartiéndose las garras contra su dura piel."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Sus patas ocultan garras sumamente afiladas,\nque extiende de repente para intimidar al\nenemigo en caso de amenaza."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Es un Pokémon de naturaleza astuta y fiera. Se\ncuela en los nidos de otros Pokémon cuando no\nestán y roba sus huevos."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Sneasel",
+    "genus": "Pokémon Lamartigli",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Mangia uova rubate dai nidi. Attacca i nemici nei\npunti deboli con i suoi artigli uncinati."
+      },
+      {
+        "game": "xy-y",
+        "text": "Le zampe nascondono artigli affilati. Se è attaccato,\nallunga gli artigli spaventando i nemici."
+      },
+      {
+        "game": "oras-or",
+        "text": "Sneasel si arrampica sugli alberi conficcando i suoi artigli\nuncinati nella corteccia. È sempre alla ricerca di nidi incustoditi\nper rubare le uova e cibarsene mentre i genitori sono assenti."
+      },
+      {
+        "game": "oras-as",
+        "text": "Sneasel si arrampica sugli alberi conficcando i suoi artigli\nuncinati nella corteccia. È sempre alla ricerca di nidi incustoditi\nper rubare le uova e cibarsene mentre i genitori sono assenti."
+      },
+      {
+        "game": "sm-s",
+        "text": "È furbo e subdolo. Si intrufola nei nidi\nincustoditi per rubare le uova mentre i genitori\nsono assenti."
+      },
+      {
+        "game": "sm-m",
+        "text": "Buca le uova con gli artigli per succhiarne\nil contenuto. Gli Allevapokémon lo considerano\nun flagello e cercano di tenerlo alla larga."
+      },
+      {
+        "game": "usum-us",
+        "text": "Questi Pokémon agiscono in squadra per rubare\nle Uova dai nidi dei Pokémon alati, ma poi\nlitigano per stabilire chi le mangerà."
+      },
+      {
+        "game": "usum-um",
+        "text": "Si nasconde nell’oscurità puntando la preda.\nQuando attacca i Sandshrew, che hanno la pelle\nmolto dura, a volte i suoi artigli si spezzano."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Intimidisce l’avversario sfoderando all’improvviso\ngli affilati artigli nascosti nelle sue zampe."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "È furbo e feroce. Si intrufola nei nidi incustoditi\nper rubare le Uova mentre i genitori sono assenti."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Sneasel",
+    "genus": "Sharp Claw Pokémon",
+    "flavorText": [
+      {
+        "game": "gs-g",
+        "text": "Its paws conceal\nsharp claws. If\nattacked, it sud­\fdenly extends the\nclaws and startles\nits enemy."
+      },
+      {
+        "game": "gs-s",
+        "text": "Vicious in nature,\nit drives PIDGEY\nfrom their nests\fand feasts on the\neggs that are left\nbehind."
+      },
+      {
+        "game": "c",
+        "text": "This cunning\nPOKéMON hides\nunder the cover\fof darkness,\nwaiting to attack\nits prey."
+      },
+      {
+        "game": "rs-r",
+        "text": "SNEASEL scales trees by punching its\nhooked claws into the bark.\nThis POKéMON seeks out unguarded\fnests and steals eggs for food while\nthe parents are away."
+      },
+      {
+        "game": "rs-s",
+        "text": "SNEASEL scales trees by punching its\nhooked claws into the bark.\nThis POKéMON seeks out unguarded\fnests and steals eggs for food while\nthe parents are away."
+      },
+      {
+        "game": "e",
+        "text": "A SNEASEL scales trees by punching its\nhooked claws into the bark. It seeks out\nunguarded nests and steals eggs for food\nwhile the parents are away."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "Vicious in nature, it drives PIDGEY from\ntheir nests and feasts on the eggs that\nare left behind."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "Its paws conceal sharp claws.\nIf attacked, it suddenly extends the\nclaws and startles its enemy."
+      },
+      {
+        "game": "dp-d",
+        "text": "It feeds on eggs stolen from\nnests. Its sharply hooked claws\nrip vulnerable spots on prey."
+      },
+      {
+        "game": "dp-p",
+        "text": "It is extremely vicious and will not\nstop attacking until its foe is\nincapable of moving."
+      },
+      {
+        "game": "pt",
+        "text": "A smart and sneaky Pokémon. A pair\nmay work together to steal eggs by\nhaving one lure the parents away."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "Its paws conceal sharp claws. If\nattacked, it suddenly extends the\nclaws and startles its enemy."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "Vicious in nature, it drives PIDGEY\nfrom their nests and scavenges any\nleftovers it can find."
+      },
+      {
+        "game": "bw-b",
+        "text": "A smart and sneaky Pokémon. A pair\nmay work together to steal eggs by\nhaving one lure the parents away."
+      },
+      {
+        "game": "bw-w",
+        "text": "A smart and sneaky Pokémon. A pair\nmay work together to steal eggs by\nhaving one lure the parents away."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "A smart and sneaky Pokémon,\nit makes its opponents flinch by suddenly\nshowing the claws hidden in its paws."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "A smart and sneaky Pokémon,\nit makes its opponents flinch by suddenly\nshowing the claws hidden in its paws."
+      },
+      {
+        "game": "xy-x",
+        "text": "It feeds on eggs stolen from nests. Its sharply\nhooked claws rip vulnerable spots on prey."
+      },
+      {
+        "game": "xy-y",
+        "text": "Its paws conceal sharp claws. If attacked,\nit suddenly extends the claws and startles\nits enemy."
+      },
+      {
+        "game": "oras-or",
+        "text": "Sneasel scales trees by punching its hooked claws into the\nbark. This Pokémon seeks out unguarded nests and steals\neggs for food while the parents are away."
+      },
+      {
+        "game": "oras-as",
+        "text": "Sneasel scales trees by punching its hooked claws into the\nbark. This Pokémon seeks out unguarded nests and steals\neggs for food while the parents are away."
+      },
+      {
+        "game": "sm-s",
+        "text": "It has a cunning yet savage disposition.\nIt waits for parents to leave their nests,\nand then it sneaks in to steal their eggs."
+      },
+      {
+        "game": "sm-m",
+        "text": "It uses its claws to poke holes in eggs so it can\nslurp out the insides. Breeders consider it a\nscourge and will drive it away or eradicate it."
+      },
+      {
+        "game": "usum-us",
+        "text": "They will cooperate to steal eggs from the nests\nof bird Pokémon, but fights break out to\ndetermine which one gets to eat the eggs."
+      },
+      {
+        "game": "usum-um",
+        "text": "It blends into the dark of night to ambush its\nprey. Sneasel will attack Sandshrew, but its\nhard skin can cause Sneasel’s claws to snap off."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Its paws conceal sharp claws. If attacked, it\nsuddenly extends the claws and startles\nits enemy."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "It has a cunning yet savage disposition.\nIt waits for parents to leave their nests,\nand then it sneaks in to steal their eggs."
+      },
+      {
+        "game": "la",
+        "text": "Its sturdy, curved claws are ideal for traversing precipitous cliffs.\nFrom the tips of these claws drips a venom that infiltrates the\nnerves of any prey caught in Sneasel's grasp."
+      }
+    ]
+  },
+  "chs": {
+    "name": "狃拉",
+    "genus": "钩爪宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "狡黠凶恶的性格。\n趁着双亲不在就侵入巢穴，\n将蛋盗出。"
+      },
+      {
+        "game": "sm-m",
+        "text": "用爪子在蛋上开个孔，\n吸食里面的美味。\n也会被培育家憎恶而遭到驱逐。"
+      },
+      {
+        "game": "usum-us",
+        "text": "依靠团队合作从鸟宝可梦的\n巢穴里将蛋偷出来后，\n却会为了由谁来吃而争吵不休。"
+      },
+      {
+        "game": "usum-um",
+        "text": "会趁着夜色袭击猎物。\n伸出爪子袭击穿山鼠时，有时会因\n对方坚硬的皮肤而导致爪子折断。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "手指中藏有锋利的爪子。\n会突然伸出那利爪，\n让袭击过来的对手心生怯意。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "狡黠凶恶的性格。\n趁着双亲不在就侵入巢穴，\n将蛋盗出。"
+      }
+    ]
+  }
+}

@@ -1,0 +1,453 @@
+{
+  "jap": {
+    "name": "フライゴン",
+    "genus": "せいれいポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "ハネの　はばたきで　さばくの　すなを\nまきあげて　すがたを　かくす。あかい\nカバーが　すなから　めを　まもる。"
+      },
+      {
+        "game": "xy-y",
+        "text": "さばくのせいれい　と　よばれる。\nはばたくことで　まきおこした\nすなあらしの　なかに　かくれている。"
+      },
+      {
+        "game": "oras-or",
+        "text": "さばくの　せいれいと　よばれる　ポケモン。\nハネの　はばたきで　すなを　まいあげるため\nとんでいる　ときは　いつも　すなあらしの　なか。"
+      },
+      {
+        "game": "oras-as",
+        "text": "はばたきで　おこす　すなあらしの　なかから\nうたごえの　ような　はおと　だけが　きこえるため\nフライゴンは　さばくの　せいれいと　いわれた。"
+      },
+      {
+        "game": "sm-s",
+        "text": "はばたく　はおとは　まるで　うたごえ。\nおとに　みせられたものは　すなあらしに\nまきこまれ　フライゴンの　えじきに。"
+      },
+      {
+        "game": "sm-m",
+        "text": "みずからが　まきおこす　すなあらしの\nちゅうしんに　いるので　めったに\nひとまえに　あらわれない　ポケモン。"
+      },
+      {
+        "game": "usum-us",
+        "text": "はばたきで　すなあらしを　まきおこし\nそこに　ワルビアルを　ひそませる。\nつかまえた　えものは　わけあうぞ。"
+      },
+      {
+        "game": "usum-um",
+        "text": "うつくしい　うたの　ような　はおとに\nこころを　うばわれて　さばくで\nそうなんする　ひとが　ぞくしゅつ。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "みずからが　まきおこす　すなあらしの\nちゅうしんに　いるので　めったに\nひとまえに　あらわれない　ポケモン。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "はばたく　おとが　おんなのひとの\nうつくしい　うたごえに　にているため\nさばくのせいれい　と　よばれている。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Frygon",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "플라이곤",
+    "genus": "정령포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "날갯짓으로 모래 폭풍을\n일으켜 모습을 감춘다. 빨간\n덮개가 모래로부터 눈을 보호한다."
+      },
+      {
+        "game": "xy-y",
+        "text": "사막의 정령이라고 불린다.\n날개를 쳐서 일으킨\n모래바람 속에 숨어 있다."
+      },
+      {
+        "game": "oras-or",
+        "text": "사막의 정령이라 불리는 포켓몬이다.\n날갯짓이 모래를 흩날리기 때문에\n언제나 모래바람 속에서 날고 있다."
+      },
+      {
+        "game": "oras-as",
+        "text": "날갯짓으로 일으키는 모래바람 속에서\n노랫소리 같은 날갯소리만이 들리기 때문에\n플라이곤은 사막의 정령이라고 전해졌다."
+      },
+      {
+        "game": "sm-s",
+        "text": "날개 치는 날갯소리는 마치 노랫소리 같다.\n소리에 매혹된 자는 모래 폭풍에\n휩쓸려 플라이곤의 먹이가 된다."
+      },
+      {
+        "game": "sm-m",
+        "text": "스스로 일으키는 모래바람의\n중심에 있어 좀처럼\n사람들 앞에 나타나지 않는 포켓몬이다."
+      },
+      {
+        "game": "usum-us",
+        "text": "날갯짓으로 모래바람을 일으켜\n그곳에 악비아르를 숨긴다.\n잡은 먹이는 나누어 갖는다."
+      },
+      {
+        "game": "usum-um",
+        "text": "아름다운 노랫소리 같은 날갯소리에\n마음을 빼앗겨 사막에서\n조난당하는 사람이 속출한다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "스스로 일으키는 모래바람의\n중심에 있어 좀처럼\n사람들 앞에 나타나지 않는 포켓몬이다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "날갯짓하는 소리가 여성의\n아름다운 노랫소리와 닮아서\n사막의 정령이라고 불린다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "沙漠蜻蜓",
+    "genus": "神秘寶可夢",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "揮動翅膀的振翅聲簡直有如歌聲。\n凡是被這聲音迷惑的，\n最終會被捲入沙暴成為沙漠蜻蜓的食物。"
+      },
+      {
+        "game": "sm-m",
+        "text": "因為總是位於自己引發的沙暴中心，\n所以是極少現身於人前的寶可夢。"
+      },
+      {
+        "game": "usum-us",
+        "text": "會拍動翅膀捲起沙暴，\n讓流氓鱷潛伏在裡面。\n捉到的獵物會一起分享。"
+      },
+      {
+        "game": "usum-um",
+        "text": "不斷有人被牠如同\n美麗歌聲般的振翅聲迷住，\n因而在沙漠中遇難。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "因為總是位於自己引發\n的沙暴中心，所以是極少\n現身於人前的寶可夢。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "由於牠揮動翅膀的聲音\n好似女性優美的歌聲，\n因此被稱為沙漠精靈。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Libégon",
+    "genus": "Pokémon Mystique",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Son puissant battement d’ailes\nprovoque des tempêtes de sable.\nOn l’appelle “esprit du désert”."
+      },
+      {
+        "game": "bw-w",
+        "text": "Son puissant battement d’ailes\nprovoque des tempêtes de sable.\nOn l’appelle “esprit du désert”."
+      },
+      {
+        "game": "xy-x",
+        "text": "Il se cache du regard des autres en soulevant le sable\ndu désert avec ses ailes. Une fine peau rouge protège\nses yeux du sable."
+      },
+      {
+        "game": "xy-y",
+        "text": "On l’appelle « esprit du désert ». Son puissant\nbattement d’ailes provoque des tempêtes de sable\nqui le dissimulent."
+      },
+      {
+        "game": "oras-or",
+        "text": "Libégon est surnommé « l’esprit élémentaire du désert ».\nLe battement de ses ailes soulève des nuages de sable.\nC’est pourquoi ce Pokémon est toujours entouré\nd’une tempête de sable quand il vole."
+      },
+      {
+        "game": "oras-as",
+        "text": "Libégon peut déclencher une tempête de sable en battant\ndes ailes. Les ailes créent une suite de notes ressemblant\nà une mélodie. Comme cette « mélodie » est le seul son\naudible, on appelle ce Pokémon l’esprit du désert."
+      },
+      {
+        "game": "sm-s",
+        "text": "Le bruissement de ses ailes est très mélodieux.\nLes malheureux envoûtés par ce chant se\nretrouvent prisonniers de sa tempête de sable."
+      },
+      {
+        "game": "sm-m",
+        "text": "Comme il est souvent caché au cœur des\ntempêtes de sable qu’il déclenche, ce Pokémon\nn’est que rarement aperçu par l’homme."
+      },
+      {
+        "game": "usum-us",
+        "text": "D’un battement d’ailes, il provoque des\ntempêtes qui engloutissent les Crocorible.\nIl partage ses proies avec ses congénères."
+      },
+      {
+        "game": "usum-um",
+        "text": "Il n’est pas rare que des gens se perdent dans\nle désert après avoir succombé au charme\ndu son mélodieux qu’il émet avec ses ailes."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Comme il est souvent caché au cœur des\ntempêtes de sable qu’il déclenche, ce Pokémon\nn’est que rarement aperçu par l’Homme."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "On l’appelle « l’esprit du désert », car ses\nbattements d’ailes résonnent comme une mélodie\nentonnée par une voix douce."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Libelldra",
+    "genus": "Mystik-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Es versteckt sich, indem es mit seinen Flügeln\nWüstensand aufwirbelt. Rote Augenlider schützen\nes vor dem Sand."
+      },
+      {
+        "game": "xy-y",
+        "text": "Auch bekannt als „Geist der Wüste“. Es versteckt sich\nin Sandstürmen, die es durch seinen Flügelschlag\nerzeugt."
+      },
+      {
+        "game": "oras-or",
+        "text": "Libelldra wird auch „Geist der Wüste“ genannt. Da seine\nflatternden Flügel eine Sandwolke aufwirbeln, ist dieses\nPokémon beim Fliegen immer von einem Sandsturm umgeben."
+      },
+      {
+        "game": "oras-as",
+        "text": "Libelldra wirbelt einen Sandsturm auf, wenn es mit den\nFlügeln schlägt. Seine Flügel erzeugen dabei Töne, die wie\nGesang klingen. Da dieser „Gesang“ das Einzige ist, was man\nin einem Sandsturm hört, wird es auch Wüstengeist genannt."
+      },
+      {
+        "game": "sm-s",
+        "text": "Erzeugt mit seinem Flügelschlag Töne, die wie\nGesang klingen. Der so bezirzte Gegner wird von\neinem Sandsturm umgeben und zu seiner Beute."
+      },
+      {
+        "game": "sm-m",
+        "text": "Da es sich stets im Zentrum des von ihm\nentfachten Sandsturms aufhält, bekommen\nMenschen es so gut wie nie zu Gesicht."
+      },
+      {
+        "game": "usum-us",
+        "text": "Durch das Schlagen ihrer Flügel erzeugen sie\nSandstürme, von denen Rabigator erfasst\nwerden. Gefangene Beute teilen sie auf."
+      },
+      {
+        "game": "usum-um",
+        "text": "Sein wie wunderschöner Gesang klingender\nFlügelschlag verzaubert Menschen und sorgt\nständig dafür, dass diese in der Wüste stranden."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Da es sich stets im Zentrum des von ihm\nentfachten Sandsturms aufhält, bekommen\nMenschen es so gut wie nie zu Gesicht."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Sein Flügelschlag klingt wie wunderschöner\nFrauengesang. Daher nennt man es auch\n„Geist der Wüste“."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Flygon",
+    "genus": "Pokémon Místico",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Su medio es el desierto. Para esconderse, levanta\narena con las patas. Tiene los ojos protegidos con\nmallas rojas."
+      },
+      {
+        "game": "xy-y",
+        "text": "Se le conoce como el Alma del Desierto. Levanta\ntormentas de arena al batir sus alas y se refugia en\nsu interior."
+      },
+      {
+        "game": "oras-or",
+        "text": "A Flygon se le conoce como el Espíritu del Desierto. Al volar,\ncomo levanta una nube de arena al batir las alas, está siempre\nenvuelto en una tormenta de arena."
+      },
+      {
+        "game": "oras-as",
+        "text": "Flygon puede provocar una tormenta de arena batiendo las\nalas. Estas, al ser agitadas, crean una melodía. Y, como las\n“melodías” pueden oírse cuando hay tormenta, dicen que es\nel espíritu del desierto."
+      },
+      {
+        "game": "sm-s",
+        "text": "Al batir las alas, crea una melodía que atrae a\nsus presas. Cuando estas se acercan, quedan\natrapadas en una tormenta de arena."
+      },
+      {
+        "game": "sm-m",
+        "text": "Al batir las alas, provoca tormentas de arena\nque lo ocultan por completo, por lo que rara vez\nse ha visto a este Pokémon."
+      },
+      {
+        "game": "usum-us",
+        "text": "Al batir las alas levanta tormentas de arena en\nlas que se esconden los Krookodile, para luego\ncompartir las presas que cacen entre ambos."
+      },
+      {
+        "game": "usum-um",
+        "text": "Muchas personas se han perdido en el desierto\ntras quedar cautivadas por el sonido que emite\nal batir las alas, semejante a una bella melodía."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Al batir las alas, provoca tormentas de arena que\nlo ocultan por completo, por lo que rara vez se\nha visto a este Pokémon."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "El batir de sus alas suena como un bello canto de\nmujer. Se lo conoce como el Alma del Desierto."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Flygon",
+    "genus": "Pokémon Magico",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Solleva sabbia con le ali per nascondersi. Un\nrivestimento rosso protegge gli occhi dalla sabbia\nstessa."
+      },
+      {
+        "game": "xy-y",
+        "text": "Viene chiamato “Spirito primordiale del deserto”.\nSi nasconde nelle tempeste di sabbia che genera\nbattendo le ali."
+      },
+      {
+        "game": "oras-or",
+        "text": "Flygon è detto anche “Spirito primordiale del deserto”.\nPoiché le sue ali sollevano nubi di sabbia, è sempre\naccompagnato da una tempesta di sabbia quando vola."
+      },
+      {
+        "game": "oras-as",
+        "text": "Flygon crea tempeste di sabbia agitando le ali, che emettono\nnote musicali creando una sorta di canto. Poiché questo\n“canto” è l’unica cosa udibile durante la tempesta, Flygon\nè considerato lo spirito del deserto."
+      },
+      {
+        "game": "sm-s",
+        "text": "Agitando le ali, emette un suono simile a un\ncanto. Le prede ammaliate si ritrovano\nintrappolate in una tempesta di sabbia."
+      },
+      {
+        "game": "sm-m",
+        "text": "Si nasconde nelle tempeste di sabbia che\ngenera sbattendo le ali. Raramente gli esseri\numani riescono a vederlo."
+      },
+      {
+        "game": "usum-us",
+        "text": "Sbattendo le ali, genera tempeste di sabbia in\ncui fa nascondere Krookodile, poi spartisce\ncon lui le prede catturate."
+      },
+      {
+        "game": "usum-um",
+        "text": "Genera un suono simile a un canto melodioso\ncon le ali. Molti, incantati da questa melodia,\nfiniscono per smarrirsi nel deserto."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Si nasconde nelle tempeste di sabbia che\ngenera sbattendo le ali. Raramente gli esseri\numani riescono a vederlo."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Viene chiamato anche “spirito del deserto”,\npoiché il suono del suo battito d’ali ricorda\nun bellissimo canto di donna."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Flygon",
+    "genus": "Mystic Pokémon",
+    "flavorText": [
+      {
+        "game": "rs-r",
+        "text": "FLYGON is nicknamed “the elemental \nspirit of the desert.” Because its\nflapping wings whip up a cloud of sand,\fthis POKéMON is always enveloped in a\nsandstorm while flying."
+      },
+      {
+        "game": "rs-s",
+        "text": "FLYGON whips up a sandstorm by\nflapping its wings. The wings create a\nseries of notes that sound like singing.\fBecause the “singing” is the only thing\nthat can be heard in a sandstorm, this\nPOKéMON is said to be the desert spirit."
+      },
+      {
+        "game": "e",
+        "text": "The flapping of its wings sounds like\nsinging. To prevent detection by enemies,\nit hides itself by flapping up a cloud of\ndesert sand."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "It hides itself by kicking up desert sand\nwith its wings. Red covers shield its eyes\nfrom sand."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "It hides itself by kicking up desert sand\nwith its wings. Red covers shield its eyes\nfrom sand."
+      },
+      {
+        "game": "dp-d",
+        "text": "It whips up sandstorms with\npowerful flaps of its wings. It is\nknown as “The Desert Spirit.”"
+      },
+      {
+        "game": "dp-p",
+        "text": "It whips up sandstorms with\npowerful flaps of its wings. It is\nknown as “The Desert Spirit.”"
+      },
+      {
+        "game": "pt",
+        "text": "It whips up sandstorms with\npowerful flaps of its wings. It is\nknown as “The Desert Spirit.”"
+      },
+      {
+        "game": "hgss-hg",
+        "text": "It is nicknamed “The Desert\nSpirit” because the flapping of its\nwings sounds like a woman singing."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "It is nicknamed “The Desert\nSpirit” because the flapping of its\nwings sounds like a woman singing."
+      },
+      {
+        "game": "bw-b",
+        "text": "It whips up sandstorms with\npowerful flaps of its wings. It is\nknown as “The Desert Spirit.”"
+      },
+      {
+        "game": "bw-w",
+        "text": "It whips up sandstorms with\npowerful flaps of its wings. It is\nknown as “The Desert Spirit.”"
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "Known as “The Desert Spirit,”\nthis Pokémon hides in the sandstorms\nit causes by beating its wings."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "Known as “The Desert Spirit,”\nthis Pokémon hides in the sandstorms\nit causes by beating its wings."
+      },
+      {
+        "game": "xy-x",
+        "text": "It hides itself by kicking up desert sand with its\nwings. Red covers shield its eyes from sand."
+      },
+      {
+        "game": "xy-y",
+        "text": "Known as “The Desert Spirit,” this Pokémon hides in\nthe sandstorms it causes by beating its wings."
+      },
+      {
+        "game": "oras-or",
+        "text": "Flygon is nicknamed “the elemental spirit of the desert.”\nBecause its flapping wings whip up a cloud of sand, this\nPokémon is always enveloped in a sandstorm while flying."
+      },
+      {
+        "game": "oras-as",
+        "text": "Flygon whips up a sandstorm by flapping its wings. The wings\ncreate a series of notes that sound like singing. Because the\n“singing” is the only thing that can be heard in a sandstorm,\nthis Pokémon is said to be the desert spirit."
+      },
+      {
+        "game": "sm-s",
+        "text": "The flapping of its wings sounds something like\nsinging. Those lured by the sound are enveloped\nin a sandstorm, becoming Flygon’s prey."
+      },
+      {
+        "game": "sm-m",
+        "text": "This Pokémon hides in the heart of sandstorms\nit creates and seldom appears where people\ncan see it."
+      },
+      {
+        "game": "usum-us",
+        "text": "By flapping their wings, Flygon cause\nsandstorms that conceal Krookodile.\nThe team then splits the prey they catch."
+      },
+      {
+        "game": "usum-um",
+        "text": "People continue to have their hearts stolen by\nits enchanting songs and find themselves\nstranded in the desert."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "This Pokémon hides in the heart of sandstorms\nit creates and seldom appears where people\ncan see it."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "It is nicknamed the Desert Spirit because the\nflapping of its wings sounds like a woman singing."
+      }
+    ]
+  },
+  "chs": {
+    "name": "沙漠蜻蜓",
+    "genus": "神秘宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "挥动翅膀的声音简直就是歌声。\n凡是被这声音迷惑的，\n最终会被卷入沙暴成为沙漠蜻蜓的食物。"
+      },
+      {
+        "game": "sm-m",
+        "text": "因为位于自己卷起的沙暴中心，\n所以是很少现身于人前的宝可梦。"
+      },
+      {
+        "game": "usum-us",
+        "text": "挥动翅膀卷起沙暴，\n让流氓鳄潜伏在那里。\n捉到的猎物会一起分享。"
+      },
+      {
+        "game": "usum-um",
+        "text": "由于会被美丽歌声般的\n振翅声夺走心神，\n因此沙漠中不断有人遇难。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "因为位于自己卷起的沙暴中心，\n所以是很少现身于人前的宝可梦。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "由于它挥动翅膀的声音\n好似女性优美的歌声，\n因此被称为沙漠精灵。"
+      }
+    ]
+  }
+}

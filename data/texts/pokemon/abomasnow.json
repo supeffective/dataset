@@ -1,0 +1,293 @@
+{
+  "jap": {
+    "name": "ユキノオー",
+    "genus": "じゅひょうポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "ブリザードを　はっせいさせて　あたり\nいちめんを　まっしろに　してしまう。\nべつめい　アイスモンスター。"
+      },
+      {
+        "game": "xy-y",
+        "text": "まんねんゆきが　つもる　さんみゃくで\nしずかに　くらす。ブリザードを\nはっせいさせて　すがたを　かくす。"
+      },
+      {
+        "game": "oras-or",
+        "text": "ブリザードを　はっせいさせて　あたり\nいちめんを　まっしろに　してしまう。\nべつめい　アイスモンスター。"
+      },
+      {
+        "game": "oras-as",
+        "text": "まんねんゆきが　つもる　さんみゃくで\nしずかに　くらす。ブリザードを\nはっせいさせて　すがたを　かくす。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "おおきな　うでを　ハンマーの　ように\nふりおろし　ユキカブリを　ねらう\nダルマッカの　むれを　おいはらう。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "ブリザードを　まきおこす　ポケモン。\nおおきな　からだを　ゆすれば\nあたりいちめん　すぐに　まっしろだ。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Yukinooh",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "눈설왕",
+    "genus": "얼음나무포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "블리자드를 발생시켜 주변\n일대를 새하얗게 만든다.\n별명은 아이스 몬스터다."
+      },
+      {
+        "game": "xy-y",
+        "text": "만년설이 쌓인 산맥에서\n조용히 지낸다. 블리자드를\n발생시켜 모습을 감춘다."
+      },
+      {
+        "game": "oras-or",
+        "text": "블리자드를 발생시켜 주변\n일대를 새하얗게 만든다.\n별명은 아이스 몬스터다."
+      },
+      {
+        "game": "oras-as",
+        "text": "만년설이 쌓인 산맥에서\n조용히 지낸다. 블리자드를\n발생시켜 모습을 감춘다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "거대한 팔을 해머처럼\n내리쳐서 눈쓰개를 노리는\n달막화 무리를 내쫓는다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "블리자드를 일으키는 포켓몬이다.\n커다란 몸을 흔들면\n부근 일대는 금세 새하얗게 된다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "暴雪王",
+    "genus": "樹冰寶可夢",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "會像揮動鎚子般揮下自己\n大大的手臂，趕走要襲擊\n雪笠怪的火紅不倒翁群體。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "會引發暴風雪的寶可夢。\n只要牠搖動巨大的身體，\n周圍立刻會變得一片雪白。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Blizzaroi",
+    "genus": "Pokémon Arbregelé",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Il apparaît quand les fleurs des\nterres enneigées fleurissent et\nse retire quand elles se fanent."
+      },
+      {
+        "game": "bw-w",
+        "text": "Il apparaît quand les fleurs des\nterres enneigées fleurissent et\nse retire quand elles se fanent."
+      },
+      {
+        "game": "xy-x",
+        "text": "De larges zones sont recouvertes par la neige de ses\nblizzards. On l’appelle « monstre des glaces »."
+      },
+      {
+        "game": "xy-y",
+        "text": "Il hante les sommets aux neiges éternelles, et se\ncache en déclenchant des blizzards."
+      },
+      {
+        "game": "oras-or",
+        "text": "De larges zones sont recouvertes par la neige de\nses blizzards. On l’appelle « monstre des glaces »."
+      },
+      {
+        "game": "oras-as",
+        "text": "Il hante les sommets aux neiges éternelles, et se cache en\ndéclenchant des blizzards."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Il fait fuir les hordes de Darumarond qui s’en\nprennent aux Blizzi en se servant de ses grands\nbras comme de marteaux."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Ce grand Pokémon déclenche des blizzards.\nLorsqu’il agite son corps, tout ce qui l’entoure\nse retrouve couvert de neige."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Rexblisar",
+    "genus": "Frostbaum-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Es bedeckt weite Gebiete mit Schnee, indem es\nBlizzards auslöst. Man nennt es „Das Eismonster“."
+      },
+      {
+        "game": "xy-y",
+        "text": "Es haust im Gebirge, wo ewiger Schnee liegt,\nund löst Blizzards aus, um sich zu verstecken."
+      },
+      {
+        "game": "oras-or",
+        "text": "Es bedeckt weite Gebiete mit Schnee, indem es Blizzards\nauslöst. Man nennt es „Das Eismonster“."
+      },
+      {
+        "game": "oras-as",
+        "text": "Es haust im Gebirge, wo ewiger Schnee liegt, und löst\nBlizzards aus, um sich zu verstecken."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Es schwingt seine großen Arme wie Hämmer und\nvertreibt damit Gruppen von Flampion, die es\nauf Shnebedeck abgesehen haben."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Dieses Pokémon löst Blizzards aus. Wenn es\nseinen großen Körper schüttelt, wird in seiner\nUmgebung alles sofort schneeweiß."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Abomasnow",
+    "genus": "Pokémon Árbol Nieve",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Genera ventiscas con las que cubre de nieve grandes\náreas. Se le llama el Monstruo de Hielo."
+      },
+      {
+        "game": "xy-y",
+        "text": "Vive en paz en cordilleras de nieves eternas.\nGenera ventiscas para ocultarse."
+      },
+      {
+        "game": "oras-or",
+        "text": "Genera ventiscas con las que cubre de nieve grandes áreas.\nSe le llama el Monstruo de Hielo."
+      },
+      {
+        "game": "oras-as",
+        "text": "Vive en paz en cordilleras de nieves eternas. Genera ventiscas\npara ocultarse."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Usa sus enormes brazos como si fueran martillos\npara ahuyentar a los grupos de Darumaka que\nacechan a los Snover."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Posee la capacidad de generar ventiscas. Si agita\nsu enorme cuerpo, el terreno circundante queda\ninmediatamente cubierto de nieve."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Abomasnow",
+    "genus": "Pokémon Albergelo",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Crea bufere che ricoprono di neve ampissime aree.\nÈ noto anche come “Mostro dei ghiacci”."
+      },
+      {
+        "game": "xy-y",
+        "text": "Vive nella pace delle cime montuose tra le nevi eterne:\nscatena bufere di neve e poi si nasconde."
+      },
+      {
+        "game": "oras-or",
+        "text": "Crea bufere che ricoprono di neve ampissime aree.\nÈ noto anche come “Mostro dei ghiacci”."
+      },
+      {
+        "game": "oras-as",
+        "text": "Vive nella pace delle cime montuose tra le nevi eterne:\nscatena bufere di neve e poi si nasconde."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Agitando le grosse braccia come dei martelli\nscaccia i gruppi di Darumaka che prendono\ndi mira gli Snover."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Scatena bufere di neve. Se scuote il suo grosso\ncorpo, imbianca il terreno circostante in un\nattimo."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Abomasnow",
+    "genus": "Frost Tree Pokémon",
+    "flavorText": [
+      {
+        "game": "dp-d",
+        "text": "It whips up blizzards in mountains\nthat are always buried in snow.\nIt is the abominable snowman."
+      },
+      {
+        "game": "dp-p",
+        "text": "It blankets wide areas in snow by\nwhipping up blizzards. It is also\nknown as “The Ice Monster.”"
+      },
+      {
+        "game": "pt",
+        "text": "They appear when the snow flowers\nbloom. When the petals fall, they\nretreat to places unknown again."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "It lives a quiet life on mountains that\nare perpetually covered in snow.\nIt hides itself by whipping up blizzards."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "It lives a quiet life on mountains that\nare perpetually covered in snow.\nIt hides itself by whipping up blizzards."
+      },
+      {
+        "game": "bw-b",
+        "text": "They appear when the snow flowers\nbloom. When the petals fall, they\nretreat to places unknown again."
+      },
+      {
+        "game": "bw-w",
+        "text": "They appear when the snow flowers\nbloom. When the petals fall, they\nretreat to places unknown again."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "They appear when the snow flowers\nbloom. When the petals fall, they\nretreat to places unknown again."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "They appear when the snow flowers\nbloom. When the petals fall, they\nretreat to places unknown again."
+      },
+      {
+        "game": "xy-x",
+        "text": "It blankets wide areas in snow by whipping up\nblizzards. It is also known as “The Ice Monster.”"
+      },
+      {
+        "game": "xy-y",
+        "text": "It lives a quiet life on mountains that are perpetually\ncovered in snow. It hides itself by whipping\nup blizzards."
+      },
+      {
+        "game": "oras-or",
+        "text": "It blankets wide areas in snow by whipping up\nblizzards. It is also known as “The Ice Monster.”"
+      },
+      {
+        "game": "oras-as",
+        "text": "It lives a quiet life on mountains that are perpetually\ncovered in snow. It hides itself by whipping\nup blizzards."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "If it sees any packs of Darumaka going after\nSnover, it chases them off, swinging its sizable\narms like hammers."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "This Pokémon is known to bring blizzards.\nA shake of its massive body is enough to\ncause whiteout conditions."
+      },
+      {
+        "game": "la",
+        "text": "A powerful Pokémon that can split huge boulders with ease.\nDislikes associating with others and chooses to live quietly deep\nwithin the mountains, playing with the snow."
+      }
+    ]
+  },
+  "chs": {
+    "name": "暴雪王",
+    "genus": "树冰宝可梦",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "会像挥动锤子一样挥下自己\n大大的手臂，赶走要袭击\n雪笠怪的火红不倒翁群体。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "会引发暴风雪的宝可梦。\n只要它摇动巨大的身体，\n周围立刻会变得一片雪白。"
+      }
+    ]
+  }
+}

@@ -1,0 +1,247 @@
+{
+  "jap": {
+    "name": "オーダイル",
+    "genus": "おおあごポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "ふだんは　ゆっくりとした　うごきだが\nえものに　かみつくときは\nめにも　とまらない　スピードだ。"
+      },
+      {
+        "game": "xy-y",
+        "text": "おおきく　ちからづよい　あごで\nかみつくと　そのまま　くびをふって\nあいてを　ずたずたに　ひきちぎる。"
+      },
+      {
+        "game": "oras-or",
+        "text": "おおきな　くちを　あけて　あいてを　いかくする。\nきょうじんな　うしろあしで　じめんを　けって\nものすごい　スピードで　とっしん　してくるぞ。"
+      },
+      {
+        "game": "oras-as",
+        "text": "おおきな　くちを　あけて　あいてを　いかくする。\nきょうじんな　うしろあしで　じめんを　けって\nものすごい　スピードで　とっしん　してくるぞ。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Ordile",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "장크로다일",
+    "genus": "큰턱포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "평소에는 느긋하게 움직이지만\n먹이를 물 때에는 눈에 보이지\n않는 엄청난 스피드를 낸다."
+      },
+      {
+        "game": "xy-y",
+        "text": "크고 힘센 턱으로\n한번 물면 그대로 목을 흔들어\n상대를 갈기갈기 찢는다."
+      },
+      {
+        "game": "oras-or",
+        "text": "큰 입을 열고 상대를 위협한다.\n강인한 뒷다리로 땅을 차고\n굉장한 스피드로 돌진해온다."
+      },
+      {
+        "game": "oras-as",
+        "text": "큰 입을 열고 상대를 위협한다.\n강인한 뒷다리로 땅을 차고\n굉장한 스피드로 돌진해온다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "大力鱷",
+    "genus": "大顎寶可夢",
+    "flavorText": []
+  },
+  "fra": {
+    "name": "Aligatueur",
+    "genus": "Pokémon Mâchoire",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Ce Pokémon à l’air pataud est\ncapable d’attaquer à la vitesse\nde l’éclair pour mordre sa proie."
+      },
+      {
+        "game": "bw-w",
+        "text": "Ce Pokémon à l’air pataud est\ncapable d’attaquer à la vitesse\nde l’éclair pour mordre sa proie."
+      },
+      {
+        "game": "xy-x",
+        "text": "Ce Pokémon à l’air pataud est capable d’attaquer\nà la vitesse de l’éclair pour mordre sa proie."
+      },
+      {
+        "game": "xy-y",
+        "text": "Quand il mord avec sa puissante mâchoire, il secoue\nsa tête pour déchiqueter sa pauvre victime."
+      },
+      {
+        "game": "oras-or",
+        "text": "Aligatueur impressionne ses ennemis en ouvrant son\nénorme gueule. Pendant les combats, il piétine le sol\nde ses puissantes pattes arrière avant de charger ses\nadversaires à pleine vitesse."
+      },
+      {
+        "game": "oras-as",
+        "text": "Aligatueur impressionne ses ennemis en ouvrant son\nénorme gueule. Pendant les combats, il piétine le sol\nde ses puissantes pattes arrière avant de charger ses\nadversaires à pleine vitesse."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Impergator",
+    "genus": "Großmaul",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Eigentlich bewegt es sich langsam, doch seine\nBeute greift es blitzschnell an."
+      },
+      {
+        "game": "xy-y",
+        "text": "Wenn es mit seinem kräftigen Kiefer zubeißt, schüttelt\nes seinen Kopf und reißt seine Opfer in Stücke."
+      },
+      {
+        "game": "oras-or",
+        "text": "Impergator schüchtert seine Feinde dadurch ein, dass es sein\nriesiges Maul aufreißt. Im Kampf erschüttert es den Boden mit\nseinen kräftigen Hinterbeinen, wenn es mit unglaublicher\nGeschwindigkeit auf seinen Gegner losrennt."
+      },
+      {
+        "game": "oras-as",
+        "text": "Impergator schüchtert seine Feinde dadurch ein, dass es sein\nriesiges Maul aufreißt. Im Kampf erschüttert es den Boden mit\nseinen kräftigen Hinterbeinen, wenn es mit unglaublicher\nGeschwindigkeit auf seinen Gegner losrennt."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Feraligatr",
+    "genus": "Pokémon Fauces",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Se suele mover lento, pero alcanza velocidades de\nvértigo al atacar y morder a sus enemigos."
+      },
+      {
+        "game": "xy-y",
+        "text": "Al morder con sus feroces fauces, mueve su cabeza\ndespedazando salvajemente a su víctima."
+      },
+      {
+        "game": "oras-or",
+        "text": "Feraligatr intimida a sus oponentes abriendo las grandes\nfauces que tiene. En combate, golpea el suelo bruscamente\ncon las gruesas y fuertes patas traseras que tiene para cargar\ncontra su rival a una velocidad de vértigo."
+      },
+      {
+        "game": "oras-as",
+        "text": "Feraligatr intimida a sus oponentes abriendo las grandes\nfauces que tiene. En combate, golpea el suelo bruscamente\ncon las gruesas y fuertes patas traseras que tiene para cargar\ncontra su rival a una velocidad de vértigo."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Feraligatr",
+    "genus": "Pokémon Mascellone",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Di solito si muove lentamente, ma quando attacca e\nmorde la preda si muove a una velocità incredibile."
+      },
+      {
+        "game": "xy-y",
+        "text": "Mordendo con le grandi e potenti mandibole, agita\nil capo riducendo la vittima in brandelli."
+      },
+      {
+        "game": "oras-or",
+        "text": "Feraligatr spaventa il nemico spalancando la sua bocca\nenorme. Nella lotta pesta pesantemente il terreno con le\nsue possenti zampe posteriori per scagliarsi contro il nemico\na un’incredibile velocità."
+      },
+      {
+        "game": "oras-as",
+        "text": "Feraligatr spaventa il nemico spalancando la sua bocca\nenorme. Nella lotta pesta pesantemente il terreno con le\nsue possenti zampe posteriori per scagliarsi contro il nemico\na un’incredibile velocità."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Feraligatr",
+    "genus": "Big Jaw Pokémon",
+    "flavorText": [
+      {
+        "game": "gs-g",
+        "text": "When it bites with\nits massive and\npowerful jaws, it\fshakes its head\nand savagely tears\nits victim up."
+      },
+      {
+        "game": "gs-s",
+        "text": "It is hard for it\nto support its own\nweight out of\fwater, so it gets\ndown on all fours.\nBut it moves fast."
+      },
+      {
+        "game": "c",
+        "text": "Although it has a\nmassive body, its\npowerful hind legs\fenable it to move\nquickly, even on\nthe ground."
+      },
+      {
+        "game": "rs-r",
+        "text": "FERALIGATR intimidates its foes by\nopening its huge mouth.\nIn battle, it will kick the ground hard\fwith its thick and powerful hind legs to\ncharge at the foe at an incredible\nspeed."
+      },
+      {
+        "game": "rs-s",
+        "text": "FERALIGATR intimidates its foes by\nopening its huge mouth.\nIn battle, it will kick the ground hard\fwith its thick and powerful hind legs to\ncharge at the foe at an incredible\nspeed."
+      },
+      {
+        "game": "e",
+        "text": "It opens its huge mouth to intimidate\nenemies. In battle, it runs using its thick\nand powerful hind legs to charge the\nfoe with incredible speed."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "It is hard for it to support its own\nweight out of water, so it gets down on\nall fours. But it moves fast."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "When it bites with its massive and\npowerful jaws, it shakes its head and\nsavagely tears up its victim."
+      },
+      {
+        "game": "dp-d",
+        "text": "It usually moves slowly, but it\ngoes at blinding speed when it\nattacks and bites prey."
+      },
+      {
+        "game": "dp-p",
+        "text": "It usually moves slowly, but it\ngoes at blinding speed when it\nattacks and bites prey."
+      },
+      {
+        "game": "pt",
+        "text": "It usually moves slowly, but it\ngoes at blinding speed when it\nattacks and bites prey."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "When it bites with its massive and\npowerful jaws, it shakes its head\nand savagely tears its victim up."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "It is hard for it to support its weight\nout of water, so it sometimes gets\ndown on all fours. But it moves fast."
+      },
+      {
+        "game": "bw-b",
+        "text": "It usually moves slowly, but it\ngoes at blinding speed when it\nattacks and bites prey."
+      },
+      {
+        "game": "bw-w",
+        "text": "It usually moves slowly, but it\ngoes at blinding speed when it\nattacks and bites prey."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "It usually moves slowly, but it\ngoes at blinding speed when it\nattacks and bites prey."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "It usually moves slowly, but it\ngoes at blinding speed when it\nattacks and bites prey."
+      },
+      {
+        "game": "xy-x",
+        "text": "It usually moves slowly, but it goes at blinding\nspeed when it attacks and bites prey."
+      },
+      {
+        "game": "xy-y",
+        "text": "When it bites with its massive and powerful jaws,\nit shakes its head and savagely tears its victim up."
+      },
+      {
+        "game": "oras-or",
+        "text": "Feraligatr intimidates its foes by opening its huge mouth.\nIn battle, it will kick the ground hard with its thick and powerful\nhind legs to charge at the foe at an incredible speed."
+      },
+      {
+        "game": "oras-as",
+        "text": "Feraligatr intimidates its foes by opening its huge mouth.\nIn battle, it will kick the ground hard with its thick and powerful\nhind legs to charge at the foe at an incredible speed."
+      }
+    ]
+  },
+  "chs": {
+    "name": "大力鳄",
+    "genus": "大颚宝可梦",
+    "flavorText": []
+  }
+}

@@ -1,0 +1,477 @@
+{
+  "jap": {
+    "name": "カブト",
+    "genus": "こうらポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "３おくねんまえの　すなはまで\nくらしていたと　かんがえられている。\nかたい　カラが　みを　まもる。"
+      },
+      {
+        "game": "xy-y",
+        "text": "こだい　せいぶつの　かせきから\nさいせいしたポケモン。\nかたい　カラで　みを　まもっている。"
+      },
+      {
+        "game": "oras-or",
+        "text": "かせきから　ふっかつした　ポケモンだが　まれに\nいきつづけている　カブトを　はっけん　できる。\nその　すがたは　３おくねん　かわっていない。"
+      },
+      {
+        "game": "oras-as",
+        "text": "かせきから　ふっかつした　ポケモンだが　まれに\nいきつづけている　カブトを　はっけん　できる。\nその　すがたは　３おくねん　かわっていない。"
+      },
+      {
+        "game": "usum-us",
+        "text": "３おくねんまえに　さかえた　ポケモン。\nとある　ちほうでは　いまでも　まれに\nいきた　すがたが　みられると　いう。"
+      },
+      {
+        "game": "usum-um",
+        "text": "ごく　いちぶの　ちいきを　のぞいて\nぜつめつ　してしまった　ポケモン。\nかたい　カラで　みを　まもる。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "カセキから　さいせいした　ポケモン。\nかいていに　かくれては　せなかの\nめで　あたりを　みていたようだ。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "カセキから　さいせいした　ポケモン。\nかいていに　かくれては　せなかの\nめで　あたりを　みていたようだ。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "ほぼ　ぜつめつした　ポケモン。\nみっかに　いちど　だっぴして\nカラを　どんどん　かたくする。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "ぜつめつしたとも　いわれるが\nいちぶの　ちいきでは　けっこう\nふつうに　みかける　らしい。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Kabuto",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "투구",
+    "genus": "껍질포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "3억 년 전에 모래 해변에서\n살고 있었던 것으로 추측된다.\n단단한 껍질이 몸을 보호한다."
+      },
+      {
+        "game": "xy-y",
+        "text": "고대 생물의 화석에서\n재생된 포켓몬.\n단단한 껍데기로 몸을 지키고 있다."
+      },
+      {
+        "game": "oras-or",
+        "text": "화석에서 부활한 포켓몬이지만 드물게\n살아 있는 투구를 발견할 수 있다.\n그 모습은 3억 년 동안 변치 않았다."
+      },
+      {
+        "game": "oras-as",
+        "text": "화석에서 부활한 포켓몬이지만 드물게\n살아 있는 투구를 발견할 수 있다.\n그 모습은 3억 년 동안 변치 않았다."
+      },
+      {
+        "game": "usum-us",
+        "text": "3억 년 전에 번성했던 포켓몬.\n어느 지방에서는 지금도 드물게\n살아 있는 모습을 볼 수 있다고 한다."
+      },
+      {
+        "game": "usum-um",
+        "text": "극히 일부 지역을 제외하고\n멸종해 버린 포켓몬이다.\n단단한 껍질로 몸을 지킨다."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "화석에서 재생된 포켓몬.\n해저에 숨어서 등에 달린\n눈으로 주변을 살폈던 것 같다."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "화석에서 재생된 포켓몬.\n해저에 숨어서 등에 달린\n눈으로 주변을 살폈던 것 같다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "거의 멸종된 포켓몬이다.\n3일에 1번 탈피하여\n껍질을 점점 단단하게 만든다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "멸종되었다는 이야기가 있지만\n일부 지역에서는 제법\n많이 목격되는 듯하다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "化石盔",
+    "genus": "甲殼寶可夢",
+    "flavorText": [
+      {
+        "game": "usum-us",
+        "text": "３億年前十分常見的寶可夢。\n據說在某個地區至今仍\n偶爾能看見活著的化石盔。"
+      },
+      {
+        "game": "usum-um",
+        "text": "除了極少數的區域之外，\n這種寶可夢幾乎已經絕種。\n會用堅硬的外殼保護身體。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "從化石復活而來的寶可夢。\n似乎會躲在海底，用背上的\n眼睛來觀察四周。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "從化石復活而來的寶可夢。\n似乎會躲在海底，用背上的\n眼睛來觀察四周。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "幾乎滅絕的寶可夢。\n每３天就會脫一次皮，\n讓殼變得越來越堅硬。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "雖然有人說這種寶可夢\n已經滅絕，但牠在一部分\n地區似乎是相當常見的。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Kabuto",
+    "genus": "Pokémon Carapace",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "On pense qu’il peuplait les plages\nil y a 300 millions d’années. Il est\nprotégé par une coquille robuste."
+      },
+      {
+        "game": "bw-w",
+        "text": "On pense qu’il peuplait les plages\nil y a 300 millions d’années. Il est\nprotégé par une coquille robuste."
+      },
+      {
+        "game": "xy-x",
+        "text": "On pense qu’il peuplait les plages il y a 300 millions\nd’années. Il est protégé par une coquille robuste."
+      },
+      {
+        "game": "xy-y",
+        "text": "Ce Pokémon a été reconstitué à partir du fossile\nd’une ancienne créature. Il se protège à l’aide de\nsa carapace."
+      },
+      {
+        "game": "oras-or",
+        "text": "Kabuto est un Pokémon ressuscité à partir d’un fossile.\nCependant, on a découvert des spécimens vivants.\nCe Pokémon n’a pas changé depuis 300 millions d’années."
+      },
+      {
+        "game": "oras-as",
+        "text": "Kabuto est un Pokémon ressuscité à partir d’un fossile.\nCependant, on a découvert des spécimens vivants.\nCe Pokémon n’a pas changé depuis 300 millions d’années."
+      },
+      {
+        "game": "usum-us",
+        "text": "Un Pokémon qui prospérait il y a 300 millions\nd’années. On raconte que de rares survivants\nsubsistent dans une certaine région."
+      },
+      {
+        "game": "usum-um",
+        "text": "Ce Pokémon, doté d’une solide carapace\nprotectrice, a totalement disparu de la surface\nde la terre, sauf dans une région particulière."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Un Pokémon reconstitué à partir d’un fossile.\nIl utilise les yeux situés sur son dos pour regarder\nalentour quand il se cache au fond de l’eau."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Un Pokémon reconstitué à partir d’un fossile.\nIl utilise les yeux situés sur son dos pour regarder\nalentour quand il se cache au fond de l’eau."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Ce Pokémon au bord de l’extinction\nmue tous les trois jours et renforce\nainsi davantage sa carapace."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "On raconte qu’ils se seraient éteints,\nmais apparemment, on peut souvent\nen croiser dans une zone particulière."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Kabuto",
+    "genus": "Schaltier-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Man geht davon aus, dass dieses Pokémon vor\n300 Millionen Jahren die Strände bevölkerte."
+      },
+      {
+        "game": "xy-y",
+        "text": "Dieses Pokémon wurde aus dem Fossil einer\naltertümlichen Kreatur geschaffen. Es schützt sich\nmittels eines harten Panzers."
+      },
+      {
+        "game": "oras-or",
+        "text": "Kabuto ist ein Pokémon, das aus einem Fossil reproduziert\nwurde. Höchst selten wurden lebende Exemplare dieser Art\nentdeckt. Dieses Pokémon hat sich seit 300 Millionen Jahren\nüberhaupt nicht verändert."
+      },
+      {
+        "game": "oras-as",
+        "text": "Kabuto ist ein Pokémon, das aus einem Fossil reproduziert\nwurde. Höchst selten wurden lebende Exemplare dieser Art\nentdeckt. Dieses Pokémon hat sich seit 300 Millionen Jahren\nüberhaupt nicht verändert."
+      },
+      {
+        "game": "usum-us",
+        "text": "Kabuto erlebte seine Blütezeit vor 300 Millionen\nJahren. Doch in einer bestimmten Region gibt es\nangeblich noch einige lebende Exemplare."
+      },
+      {
+        "game": "usum-um",
+        "text": "Dieses Pokémon ist überall ausgestorben, mit\nAusnahme einer bestimmten Region. Es schützt\nsich mit einem harten Panzer."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Es wurde aus einem Fossil zurückverwandelt.\nAus Verstecken am Meeresboden spähte es mit\nden Augen auf seinem Rücken die Gegend aus."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Es wurde aus einem Fossil zurückverwandelt.\nAus Verstecken am Meeresboden spähte es mit\nden Augen auf seinem Rücken die Gegend aus."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Dieses Pokémon ist so gut wie ausgestorben.\nSein Panzer wird immer härter, indem es sich\nalle drei Tage häutet."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Es heißt zwar, dass Kabuto ausgestorben sei,\ndoch in einer bestimmten Gegend trifft man es\nnoch relativ häufig an."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Kabuto",
+    "genus": "Pokémon Armazón",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Se cree que habitó las playas hace 300 millones de\naños. Se protege con una dura concha."
+      },
+      {
+        "game": "xy-y",
+        "text": "Es un Pokémon regenerado a partir de un fósil de una\ncriatura ancestral. Está protegido por un duro\ncaparazón."
+      },
+      {
+        "game": "oras-or",
+        "text": "Kabuto es un Pokémon regenerado a partir de un fósil,\naunque, en raras ocasiones, se han encontrado casos de\nejemplares vivos en estado salvaje. En 300 millones de\naños, este Pokémon no ha cambiado en nada."
+      },
+      {
+        "game": "oras-as",
+        "text": "Kabuto es un Pokémon regenerado a partir de un fósil,\naunque, en raras ocasiones, se han encontrado casos de\nejemplares vivos en estado salvaje. En 300 millones de\naños, este Pokémon no ha cambiado en nada."
+      },
+      {
+        "game": "usum-us",
+        "text": "Este Pokémon vivió hace 300 millones de años,\npero en cierta región se dice que han llegado a\nverse ejemplares vivos hoy en día."
+      },
+      {
+        "game": "usum-um",
+        "text": "Posee una dura coraza que lo protege. Este\nPokémon se ha extinguido en todo el mundo\nsalvo en una región determinada."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Este Pokémon se regeneró a partir de un fósil.\nUsaba los ojos de la espalda para explorar su\nentorno al ocultarse en el lecho marino."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Este Pokémon se regeneró a partir de un fósil.\nUsaba los ojos de la espalda para explorar su\nentorno al ocultarse en el lecho marino."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Un Pokémon casi extinto. Cada tres días, muda\nel caparazón, que se va endureciendo de forma\nprogresiva."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Se consideraba extinto, pero, al parecer, existen\ndeterminadas zonas en las que es posible hallar\nejemplares con facilidad."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Kabuto",
+    "genus": "Pokémon Crostaceo",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Si ritiene che vivesse sulle spiagge 300 milioni di\nanni fa. È protetto da una conchiglia robusta."
+      },
+      {
+        "game": "xy-y",
+        "text": "Questo Pokémon è stato rigenerato dal fossile di\nun’antica creatura. È protetto da un guscio coriaceo."
+      },
+      {
+        "game": "oras-or",
+        "text": "Kabuto è stato rigenerato da un fossile, sebbene in rarissimi\ncasi siano stati scoperti esemplari viventi. Il Pokémon non ha\nsubito alcuna mutazione nell’arco di oltre 300 milioni di anni."
+      },
+      {
+        "game": "oras-as",
+        "text": "Kabuto è stato rigenerato da un fossile, sebbene in rarissimi\ncasi siano stati scoperti esemplari viventi. Il Pokémon non ha\nsubito alcuna mutazione nell’arco di oltre 300 milioni di anni."
+      },
+      {
+        "game": "usum-us",
+        "text": "Pokémon vissuto 300 milioni di anni fa.\nSi dice che in una certa regione si possano\nancora trovare rarissimi esemplari viventi."
+      },
+      {
+        "game": "usum-um",
+        "text": "Questo Pokémon si è ormai estinto in tutte le\nregioni tranne una. È protetto da una conchiglia\nrobusta."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Pokémon rigenerato da un fossile. Quando\nsi nasconde sul fondo del mare usa gli occhi\nche ha sul dorso per guardarsi intorno."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Pokémon rigenerato da un fossile. Quando\nsi nasconde sul fondo del mare usa gli occhi\nche ha sul dorso per guardarsi intorno."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "È un Pokémon sull’orlo dell’estinzione. Fa la\nmuta ogni tre giorni indurendo gradualmente\nil carapace."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Si dice che si sia estinto, ma pare che in certe\nzone si possa avvistare con una certa facilità."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Kabuto",
+    "genus": "Shellfish Pokémon",
+    "flavorText": [
+      {
+        "game": "rb-r",
+        "text": "A POKéMON that\nwas resurrected\nfrom a fossil\ffound in what was\nonce the ocean\nfloor eons ago."
+      },
+      {
+        "game": "rb-b",
+        "text": "A POKéMON that\nwas resurrected\nfrom a fossil\ffound in what was\nonce the ocean\nfloor eons ago."
+      },
+      {
+        "game": "y",
+        "text": "A POKéMON that was\nrecovered from a\nfossil. It uses\fthe eyes on its\nback while hiding\non the sea floor."
+      },
+      {
+        "game": "gs-g",
+        "text": "On rare occasions,\nsome have been\nfound as fossils\fwhich they became\nwhile hiding on\nthe ocean floor."
+      },
+      {
+        "game": "gs-s",
+        "text": "This POKéMON lived\nin ancient times.\nOn rare occasions,\fit has been\ndiscovered as a\nliving fossil."
+      },
+      {
+        "game": "c",
+        "text": "Three hundred\nmillion years ago,\nit hid on the sea\ffloor. It also has\neyes on its back\nthat glow."
+      },
+      {
+        "game": "rs-r",
+        "text": "KABUTO is a POKéMON that has been\nregenerated from a fossil. However, in\nextremely rare cases, living examples\fhave been discovered.\nThe POKéMON has not changed at all for\n300 million years."
+      },
+      {
+        "game": "rs-s",
+        "text": "KABUTO is a POKéMON that has been\nregenerated from a fossil. However, in\nextremely rare cases, living examples\fhave been discovered.\nThe POKéMON has not changed at all for\n300 million years."
+      },
+      {
+        "game": "e",
+        "text": "It is a POKéMON that has been regenerated\nfrom a fossil. However, in rare cases, living\nexamples have been discovered. KABUTO\nhave not changed for 300 million years."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "This POKéMON was regenerated from the\nfossil of an ancient creature. It protects\nitself with a hard shell."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "A POKéMON that was regenerated from a\nfossil found in what was once the ocean\nfloor long ago."
+      },
+      {
+        "game": "dp-d",
+        "text": "It is thought to have inhabited\nbeaches 300 million years ago.\nIt is protected by a stiff shell."
+      },
+      {
+        "game": "dp-p",
+        "text": "It is thought to have inhabited\nbeaches 300 million years ago.\nIt is protected by a stiff shell."
+      },
+      {
+        "game": "pt",
+        "text": "It is thought to have inhabited\nbeaches 300 million years ago.\nIt is protected by a stiff shell."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "On rare occasions, some have been\nfound as fossils which they became\nwhile hiding on the ocean floor."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "This Pokémon lived in ancient times.\nOn rare occasions, it has been\ndiscovered as a living fossil."
+      },
+      {
+        "game": "bw-b",
+        "text": "It is thought to have inhabited\nbeaches 300 million years ago.\nIt is protected by a stiff shell."
+      },
+      {
+        "game": "bw-w",
+        "text": "It is thought to have inhabited\nbeaches 300 million years ago.\nIt is protected by a stiff shell."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "It is thought to have inhabited\nbeaches 300 million years ago.\nIt is protected by a stiff shell."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "It is thought to have inhabited\nbeaches 300 million years ago.\nIt is protected by a stiff shell."
+      },
+      {
+        "game": "xy-x",
+        "text": "It is thought to have inhabited beaches 300 million\nyears ago. It is protected by a stiff shell."
+      },
+      {
+        "game": "xy-y",
+        "text": "This Pokémon was regenerated from the fossil of an\nancient creature. It protects itself with a hard shell."
+      },
+      {
+        "game": "oras-or",
+        "text": "Kabuto is a Pokémon that has been regenerated from a fossil.\nHowever, in extremely rare cases, living examples have been\ndiscovered. The Pokémon has not changed at all for\n300 million years."
+      },
+      {
+        "game": "oras-as",
+        "text": "Kabuto is a Pokémon that has been regenerated from a fossil.\nHowever, in extremely rare cases, living examples have\nbeen discovered. The Pokémon has not changed at all for\n300 million years."
+      },
+      {
+        "game": "usum-us",
+        "text": "This Pokémon thrived 300 million years ago. It’s\nsaid that living specimens can still be seen\nin a certain region—a rare sight."
+      },
+      {
+        "game": "usum-um",
+        "text": "This Pokémon became extinct everywhere,\nexcept in a few areas. It protects itself with its\nhard shell."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "A Pokémon that was recovered from a fossil.\nIt used the eyes on its back while hiding\non the seafloor."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "A Pokémon that was recovered from a fossil.\nIt used the eyes on its back while hiding\non the seafloor."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "This species is almost entirely extinct. Kabuto\nmolt every three days, making their shells harder\nand harder."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "While some say this species has gone extinct,\nKabuto sightings are apparently fairly common\nin some places."
+      }
+    ]
+  },
+  "chs": {
+    "name": "化石盔",
+    "genus": "甲壳宝可梦",
+    "flavorText": [
+      {
+        "game": "usum-us",
+        "text": "３亿年前繁衍兴旺的宝可梦。\n据说在某些地区，至今仍能\n偶尔看见活着的化石盔。"
+      },
+      {
+        "game": "usum-um",
+        "text": "除某些极少数地方外，\n该宝可梦已基本灭绝。\n会用坚硬的外壳保护身体。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "由化石复活而成的宝可梦。\n在藏匿于海底时似乎会用\n背上的眼睛观察周围的情况。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "由化石复活而成的宝可梦。\n在藏匿于海底时似乎会用\n背上的眼睛观察周围的情况。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "几乎已灭绝的宝可梦。\n每３天会脱一次皮，使自己\n的壳变得越来越坚硬。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "虽然存在已经灭绝的说法，\n但据说在一部分地区\n还是经常能见到它的身影。"
+      }
+    ]
+  }
+}

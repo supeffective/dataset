@@ -1,0 +1,61 @@
+{
+  "jap": {
+    "name": "ワッカネズミ",
+    "genus": "カップルポケモン",
+    "flavorText": []
+  },
+  "jap_ro": {
+    "name": "Wakkanezumi",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "두리쥐",
+    "genus": "",
+    "flavorText": []
+  },
+  "cht": {
+    "name": "一對鼠",
+    "genus": "成對寶可夢",
+    "flavorText": []
+  },
+  "fra": {
+    "name": "Compagnol",
+    "genus": "",
+    "flavorText": []
+  },
+  "deu": {
+    "name": "Zwieps",
+    "genus": "Paar",
+    "flavorText": []
+  },
+  "esp": {
+    "name": "Tandemaus",
+    "genus": "",
+    "flavorText": []
+  },
+  "ita": {
+    "name": "Tandemaus",
+    "genus": "",
+    "flavorText": []
+  },
+  "eng": {
+    "name": "Tandemaus",
+    "genus": "Couple Pokémon",
+    "flavorText": [
+      {
+        "game": "sv-s",
+        "text": "Exhibiting great teamwork, they use their incisors to cut pieces out of any material that might be useful for a nest, then make off with them."
+      },
+      {
+        "game": "sv-v",
+        "text": "The pair sticks together no matter what. They split any food they find exactly in half and then eat it together."
+      }
+    ]
+  },
+  "chs": {
+    "name": "一对鼠",
+    "genus": "成对宝可梦",
+    "flavorText": []
+  }
+}

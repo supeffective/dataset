@@ -1,0 +1,269 @@
+{
+  "jap": {
+    "name": "サザンドラ",
+    "genus": "きょうぼうポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "りょううでの　あたまは　のうみそを\nもたない。３つの　あたまで　すべてを\nたべつくし　はかいしてしまう。"
+      },
+      {
+        "game": "xy-y",
+        "text": "うごく　ものに　はんのうして\nおそいかかり　３つの　あたまで\nくらいつくす　おそろしい　ポケモン。"
+      },
+      {
+        "game": "oras-or",
+        "text": "りょううでの　あたまは　のうみそを\nもたない。３つの　あたまで　すべてを\nたべつくし　はかいしてしまう。"
+      },
+      {
+        "game": "oras-as",
+        "text": "うごく　ものに　はんのうして\nおそいかかり　３つの　あたまで\nくらいつくす　おそろしい　ポケモン。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "うごくもの　すべてに　くらいつく。\nサザンドラに　むらを　ほろぼされた\nという　いいつたえは　おおい。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "３つの　あたまで　かわるがわる\nかみつく。　あいてが　たおれるまで\nこうげきの　てを　やすめない。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Sazandora",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "삼삼드래",
+    "genus": "난폭포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "양팔에 있는 머리에는 뇌가\n없다. 3개의 머리로 모든 것을\n먹어치워 파괴해 버린다."
+      },
+      {
+        "game": "xy-y",
+        "text": "움직이는 것에 반응하여\n덮쳐서 3개의 머리로\n먹어치우는 무시무시한 포켓몬."
+      },
+      {
+        "game": "oras-or",
+        "text": "양팔에 있는 머리에는 뇌가\n없다. 3개의 머리로 모든 것을\n먹어치워 파괴해 버린다."
+      },
+      {
+        "game": "oras-as",
+        "text": "움직이는 것에 반응하여\n덮쳐서 3개의 머리로\n먹어치우는 무시무시한 포켓몬."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "움직이는 모든 것을 먹어 치운다.\n삼삼드래에게 마을이 파괴되었다는\n이야기는 많이 전해 내려온다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "3개의 머리로 번갈아 가며\n물어뜯는다. 상대가 쓰러질 때까지\n공격을 멈추지 않는다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "三首惡龍",
+    "genus": "凶暴寶可夢",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "會咬住一切會動的物體。\n有不少傳說裡都提到了\n三首惡龍毀滅村莊的故事。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "３個頭會輪流去咬敵人。\n在對方倒下之前，\n絕對不會停止攻擊。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Trioxhydre",
+    "genus": "Pokémon Brutal",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Un Pokémon violent qui patrouille le ciel\navec ses six ailes et se jette sur tout\nce qui bouge, pensant voir un ennemi."
+      },
+      {
+        "game": "bw-w",
+        "text": "Les têtes sur ses bras n’ont pas\nde cerveau. Avec ses trois têtes,\nil dévore et détruit tout."
+      },
+      {
+        "game": "xy-x",
+        "text": "Les têtes sur ses bras n’ont pas de cerveau.\nAvec ses trois têtes, il dévore et détruit tout."
+      },
+      {
+        "game": "xy-y",
+        "text": "Un Pokémon effrayant. Ses trois têtes dévorent tout\nce qui bouge jusqu’à satiété."
+      },
+      {
+        "game": "oras-or",
+        "text": "Les têtes sur ses bras n’ont pas de cerveau. Avec ses trois\ntêtes, il dévore et détruit tout."
+      },
+      {
+        "game": "oras-as",
+        "text": "Un Pokémon effrayant. Ses trois têtes dévorent tout ce qui\nbouge jusqu’à satiété."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Il dévore tout ce qui bouge. Bon nombre\nde légendes mentionnent des villages entiers\nrasés par un Trioxhydre."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Chacune de ses trois têtes mord à tour de rôle.\nIl attaque ses adversaires sans relâche,\njusqu’à ce qu’ils s’écroulent."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Trikephalo",
+    "genus": "Brutal-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Die Köpfe an seinen beiden Armen haben kein\neigenes Gehirn. Seine drei Mäuler kauen alles\nradikal kurz und klein."
+      },
+      {
+        "game": "xy-y",
+        "text": "Ein kaltblütiges Pokémon, das auf alles reagiert,\nwas sich bewegt, indem es mit seinen drei Köpfen\ndanach schnappt."
+      },
+      {
+        "game": "oras-or",
+        "text": "Die Köpfe an seinen beiden Armen haben kein eigenes Gehirn.\nSeine drei Mäuler kauen alles radikal kurz und klein."
+      },
+      {
+        "game": "oras-as",
+        "text": "Ein kaltblütiges Pokémon, das auf alles reagiert, was sich\nbewegt, indem es mit seinen drei Köpfen danach schnappt."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Es beißt alles, was sich bewegt. In zahlreichen\nalten Sagen wird von Trikephalo berichtet, die\nganze Dörfer in Schutt und Asche gelegt haben."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Im Kampf beißen die drei Köpfe abwechselnd zu\nund lassen nicht ab, bis ihr Opfer am Boden liegt."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Hydreigon",
+    "genus": "Pokémon Voraz",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Las cabezas de sus dos brazos no tienen cerebro. Con\nsus tres cabezas destruye y devora todo a su paso."
+      },
+      {
+        "game": "xy-y",
+        "text": "Un Pokémon temible que ataca todo lo que se mueve\ny devora con sus tres cabezas cuanto halla a su paso."
+      },
+      {
+        "game": "oras-or",
+        "text": "Las cabezas de sus dos brazos no tienen cerebro. Con sus\ntres cabezas destruye y devora todo a su paso."
+      },
+      {
+        "game": "oras-as",
+        "text": "Un Pokémon temible que ataca todo lo que se mueve y\ndevora con sus tres cabezas cuanto halla a su paso."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Ataca y devora todo lo que se mueve. Existen\nnumerosos relatos de pueblos enteros que fueron\narrasados por este Pokémon."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Sus tres cabezas se alternan para dar mordiscos\ny no cejarán en su ataque hasta que el rival haya\ncaído redondo."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Hydreigon",
+    "genus": "Pokémon Brutale",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Le teste che ha sugli arti non hanno cervello.\nDistrugge e divora qualsiasi cosa usando tutte\ne tre le teste."
+      },
+      {
+        "game": "xy-y",
+        "text": "È davvero terrificante. Reagisce a ogni cosa che\nsi muove, attaccandola e sbranandola con le sue\ntre teste."
+      },
+      {
+        "game": "oras-or",
+        "text": "Le teste che ha sugli arti non hanno cervello. Distrugge\ne divora qualsiasi cosa usando tutte e tre le teste."
+      },
+      {
+        "game": "oras-as",
+        "text": "È davvero terrificante. Reagisce a ogni cosa che si muove,\nattaccandola e sbranandola con le sue tre teste."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Azzanna tutto ciò che si muove. Sono molte\nle storie che narrano di villaggi rasi al suolo\nda questo Pokémon."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Le sue tre teste si alternano nel mordere e\nnon cessa i suoi attacchi fino a quando\nl’avversario non ha più energie."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Hydreigon",
+    "genus": "Brutal Pokémon",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "This brutal Pokémon travels the skies on\nits six wings. Anything that moves seems\nlike a foe to it, triggering its attack."
+      },
+      {
+        "game": "bw-w",
+        "text": "The heads on their arms do not have\nbrains. They use all three heads to\nconsume and destroy everything."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "It responds to movement by attacking.\nThis scary, three-headed Pokémon\ndevours everything in its path!"
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "It responds to movement by attacking.\nThis scary, three-headed Pokémon\ndevours everything in its path!"
+      },
+      {
+        "game": "xy-x",
+        "text": "The heads on their arms do not have brains.\nThey use all three heads to consume and\ndestroy everything."
+      },
+      {
+        "game": "xy-y",
+        "text": "It responds to movement by attacking. This scary,\nthree-headed Pokémon devours everything in\nits path!"
+      },
+      {
+        "game": "oras-or",
+        "text": "The heads on their arms do not have brains.\nThey use all three heads to consume and\ndestroy everything."
+      },
+      {
+        "game": "oras-as",
+        "text": "It responds to movement by attacking. This scary,\nthree-headed Pokémon devours everything in\nits path!"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "There are a slew of stories about villages that\nwere destroyed by Hydreigon. It bites anything\nthat moves."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "The three heads take turns sinking their teeth into\nthe opponent. Their attacks won’t slow until their\ntarget goes down."
+      }
+    ]
+  },
+  "chs": {
+    "name": "三首恶龙",
+    "genus": "凶暴宝可梦",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "会咬住一切会动的物体。\n有不少传说里都提到了\n三首恶龙毁灭村庄的故事。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "３个头会轮流去咬敌人。\n在对方倒下之前，\n绝对不会停止攻击。"
+      }
+    ]
+  }
+}

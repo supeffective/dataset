@@ -1,0 +1,553 @@
+{
+  "jap": {
+    "name": "ポリゴン",
+    "genus": "バーチャルポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "けんきゅうのすえ　うみだされた\nじんこうの　ポケモン。きほんてきな\nどうさしか　プログラムされていない。"
+      },
+      {
+        "game": "xy-y",
+        "text": "からだが　プログラムで　できている。\nでんしくうかんを　じゆうじざいに\nいどうできる　のうりょくをもつ。"
+      },
+      {
+        "game": "oras-or",
+        "text": "ぜんしんを　プログラム　データに　もどして\nでんし　くうかんに　はいる　ことが　できる。\nコピーガードされて　いるので　コピー　できない。"
+      },
+      {
+        "game": "oras-as",
+        "text": "ぜんしんを　プログラム　データに　もどして\nでんし　くうかんに　はいる　ことが　できる。\nコピーガードされて　いるので　コピー　できない。"
+      },
+      {
+        "game": "sm-s",
+        "text": "およそ　２０ねんまえに　とうじの\nかがくりょくを　けっしゅうし\nうみだされた　じんこうの　ポケモン。"
+      },
+      {
+        "game": "sm-m",
+        "text": "からだを　デジタルデータか　することが\nできるので　でんのう　くうかんに\nはいりこむことが　できるのだ。"
+      },
+      {
+        "game": "usum-us",
+        "text": "やく２０ねんまえの　かがくりょくで\nうみだされた　ポケモンなので　いまや\nじだいおくれな　ぶぶんも　おおい。"
+      },
+      {
+        "game": "usum-um",
+        "text": "２０ねんまえ　うちゅうを　ゆめみた\nかがくしゃたちに　よって　つくられた。\nいまだ　そのゆめは　かなっていない。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "ゆいいつ　うちゅうまで　とんでいける\nポケモンと　きたい　されているが\nいまだに　せいこうれいは　ない。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "ゆいいつ　うちゅうまで　とんでいける\nポケモンと　きたい　されているが\nいまだに　せいこうれいは　ない。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "さいこうの　かがくりょくを　つかい\nせかいで　はじめて　プログラムにより\nつくられた　じんこうの　ポケモン。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "きんねんは　でんのう　くうかんで\nだいかつやく。　あやしい　データが　\nないか　チェックして　まわっている。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Porygon",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "폴리곤",
+    "genus": "가상포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "연구 끝에 태어난\n인공 포켓몬이다. 기본적인\n동작만 프로그램되어 있다."
+      },
+      {
+        "game": "xy-y",
+        "text": "몸이 프로그램으로 만들어져 있다.\n전자 공간을 자유자재로\n이동할 수 있는 능력을 가졌다."
+      },
+      {
+        "game": "oras-or",
+        "text": "전신을 프로그램 데이터로 되돌려\n전자 공간에 들어갈 수 있다.\n복사 방지가 되어 있어 복사할 수 없다."
+      },
+      {
+        "game": "oras-as",
+        "text": "전신을 프로그램 데이터로 되돌려\n전자 공간에 들어갈 수 있다.\n복사 방지가 되어 있어 복사할 수 없다."
+      },
+      {
+        "game": "sm-s",
+        "text": "약 20년 전에 당시의\n과학력을 결집해서\n태어난 인공 포켓몬이다."
+      },
+      {
+        "game": "sm-m",
+        "text": "몸을 디지털 데이터화 하는 것이\n가능해서 컴퓨터 공간에\n파고들어 갈 수 있다."
+      },
+      {
+        "game": "usum-us",
+        "text": "약 20년 전의 과학 기술로 태어난\n포켓몬이기 때문에 지금은\n시대에 뒤떨어진 부분도 많다."
+      },
+      {
+        "game": "usum-um",
+        "text": "20년 전 우주를 꿈꾸는\n과학자들에 의해 만들어졌다.\n아직 그 꿈은 이루지 못했다."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "유일하게 우주까지 날아갈 수 있는\n포켓몬으로 기대를 모으고 있지만\n아직 성공한 사례는 없다."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "유일하게 우주까지 날아갈 수 있는\n포켓몬으로 기대를 모으고 있지만\n아직 성공한 사례는 없다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "최고의 과학 기술을 사용해\n세계에서 처음으로 프로그래밍되어\n만들어진 인공 포켓몬이다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "근래에는 컴퓨터 공간에서\n대활약한다. 수상한 데이터가\n없는지 체크하며 돌아다닌다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "多邊獸",
+    "genus": "虛擬寶可夢",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "大約２０年前，\n集結了當時的科學力量\n創造出來的人工寶可夢。"
+      },
+      {
+        "game": "sm-m",
+        "text": "可將身體化為數位資料，\n所以可進入電腦空間。"
+      },
+      {
+        "game": "usum-us",
+        "text": "由於是大約２０年前的\n科學技術創造出的寶可夢，\n如今許多部分已經過時了。"
+      },
+      {
+        "game": "usum-um",
+        "text": "在２０年前被夢想著能探索\n宇宙的科學家們創造出來。\n這個夢想至今仍未實現。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "人們期待牠會是唯一\n能夠飛上宇宙的寶可夢，\n但至今還沒有成功的案例。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "人們期待牠會是唯一\n能夠飛上宇宙的寶可夢，\n但至今還沒有成功的案例。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "牠是以最尖端的科學力量，\n首度在世上利用程式創造\n出來的人工寶可夢。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "近年在電腦空間大展身手。\n會四處巡邏查看\n有沒有可疑的資料。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Porygon",
+    "genus": "Pokémon Virtuel",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Ce Pokémon créé par des\nscientifiques peut arpenter\nlibrement le cyberespace."
+      },
+      {
+        "game": "bw-w",
+        "text": "Ce Pokémon créé par des\nscientifiques peut arpenter\nlibrement le cyberespace."
+      },
+      {
+        "game": "xy-x",
+        "text": "Un Pokémon créé par l’homme après de longues\nrecherches. Il ne connaît que peu de mouvements."
+      },
+      {
+        "game": "xy-y",
+        "text": "Ce Pokémon est fait de programmes et d’algorithmes.\nIl peut survivre en milieu virtuel."
+      },
+      {
+        "game": "oras-or",
+        "text": "Porygon est capable de se décompiler et de retourner à l’état\nde programme informatique pour entrer dans le cyberespace.\nCe Pokémon est protégé contre le piratage, il est donc\nimpossible de le copier."
+      },
+      {
+        "game": "oras-as",
+        "text": "Porygon est capable de se décompiler et de retourner à l’état\nde programme informatique pour entrer dans le cyberespace.\nCe Pokémon est protégé contre le piratage, il est donc\nimpossible de le copier."
+      },
+      {
+        "game": "sm-s",
+        "text": "Un Pokémon artificiel créé il y a vingt ans\nen utilisant des méthodes à la pointe de\nla technologie de l’époque."
+      },
+      {
+        "game": "sm-m",
+        "text": "Il peut transformer son corps en données\nnumériques pour pénétrer dans le cyberespace."
+      },
+      {
+        "game": "usum-us",
+        "text": "Un Pokémon artificiel créé il y a vingt ans,\net qui est donc complètement dépassé sur\nbien des points."
+      },
+      {
+        "game": "usum-um",
+        "text": "Il a été conçu il y a vingt ans par des\nchercheurs qui rêvaient de conquérir l’espace.\nCe rêve n’est toujours pas devenu réalité."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Ce Pokémon est censé être le seul à pouvoir\nvoler jusque dans l’espace, mais pour l’instant,\naucun Porygon n’y est jamais parvenu."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Ce Pokémon est censé être le seul à pouvoir\nvoler jusque dans l’espace, mais pour l’instant,\naucun Porygon n’y est jamais parvenu."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "C’est le premier Pokémon au monde à avoir\nété créé à partir de programmes informatiques,\ngrâce à une technologie de pointe."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Ces dernières années, il s’est rendu très utile\ndans le cyberespace, qu’il arpente pour s’assurer\nqu’il n’y a aucune donnée suspecte."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Porygon",
+    "genus": "Virtuell-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Ein künstlich produziertes Pokémon, welches das\nErgebnis von Forschungen ist. Es ist simpel aufgebaut."
+      },
+      {
+        "game": "xy-y",
+        "text": "Porygon besteht komplett aus Computerdaten.\nEs kann sich frei in virtuellen Welten bewegen."
+      },
+      {
+        "game": "oras-or",
+        "text": "Porygon ist in der Lage, sich in Daten zurückzuverwandeln\nund in den Cyberspace zu gelangen. Dieses Pokémon ist\nkopiergeschützt, sodass es durch Kopieren nicht vervielfältigt\nwerden kann."
+      },
+      {
+        "game": "oras-as",
+        "text": "Porygon ist in der Lage, sich in Daten zurückzuverwandeln\nund in den Cyberspace zu gelangen. Dieses Pokémon ist\nkopiergeschützt, sodass es durch Kopieren nicht vervielfältigt\nwerden kann."
+      },
+      {
+        "game": "sm-s",
+        "text": "Dieses Pokémon wurde vor 20 Jahren künstlich\nerschaffen. Damals stellte es das Nonplusultra\nder technischen Möglichkeiten dar."
+      },
+      {
+        "game": "sm-m",
+        "text": "Es kann seinen Körper in Daten umwandeln\nund somit nach Belieben den virtuellen Raum\nbetreten und verlassen."
+      },
+      {
+        "game": "usum-us",
+        "text": "Dieses Pokémon wurde vor etwa 20 Jahren\nkünstlich erschaffen. Ein Großteil der damals\nverwendeten Technik ist heute längst überholt."
+      },
+      {
+        "game": "usum-um",
+        "text": "Es wurde vor 20 Jahren von Wissenschaftlern\nerschaffen, die vom Erforschen des Weltraums\nträumten. Ihr Traum hat sich bisher nicht erfüllt."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Porygon ist das einzige Pokémon, von dem man\nsich erhofft, dass es ins Weltall fliegen kann.\nBislang ist dies aber keinem Exemplar gelungen."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Porygon ist das einzige Pokémon, von dem man\nsich erhofft, dass es ins Weltall fliegen kann.\nBislang ist dies aber keinem Exemplar gelungen."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Es ist weltweit das erste künstliche Pokémon,\ndas dank neuester Technologien mittels\nComputerprogrammen erschaffen wurde."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "In den letzten Jahren nahm es im Cyberspace\nbei der Suche nach verdächtigen Daten eine\naktive Rolle ein."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Porygon",
+    "genus": "Pokémon Virtual",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Pokémon creado por el hombre tras muchas\ninvestigaciones. Sus habilidades son básicas."
+      },
+      {
+        "game": "xy-y",
+        "text": "Un Pokémon formado por códigos de programación.\nSe mueve libre por el ciberespacio."
+      },
+      {
+        "game": "oras-or",
+        "text": "Porygon es capaz de convertirse otra vez en datos\ninformáticos y de entrar en el ciberespacio. Tiene protección\nanticopia, así que es imposible duplicarlo."
+      },
+      {
+        "game": "oras-as",
+        "text": "Porygon es capaz de convertirse otra vez en datos\ninformáticos y de entrar en el ciberespacio. Tiene protección\nanticopia, así que es imposible duplicarlo."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Se creía que sería el único Pokémon capaz de\nvolar por el espacio, pero aún no se ha visto a\nninguno que lo haya conseguido."
+      },
+      {
+        "game": "sm-s",
+        "text": "Un Pokémon que fue creado por el hombre hace\nunos 20 años con los medios tecnológicos que\nhabía disponibles en aquel momento."
+      },
+      {
+        "game": "sm-m",
+        "text": "Porygon es capaz de convertirse en datos\ninformáticos y de entrar en el ciberespacio."
+      },
+      {
+        "game": "usum-us",
+        "text": "Fue creado por el hombre unos 20 años atrás\ncon los medios del momento, por lo que ahora\nestá desfasado en muchos aspectos."
+      },
+      {
+        "game": "usum-um",
+        "text": "Fue creado hace 20 años por un grupo de\ncientíficos que soñaba con explorar el espacio.\nDicho sueño aún no se ha cumplido."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Se creía que sería el único Pokémon capaz de\nvolar por el espacio, pero aún no se ha visto a\nninguno que lo haya conseguido."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Se trata del primer Pokémon del mundo creado\na partir de códigos de programación gracias al\nuso de tecnología de vanguardia."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Durante los últimos años, ha estado muy activo\nen el ciberespacio comprobando que no haya\ndatos sospechosos."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Porygon",
+    "genus": "Pokémon Virtuale",
+    "flavorText": [
+      {
+        "game": "lgpe-lgp",
+        "text": "Si ritiene che sia l’unico Pokémon in grado\ndi volare fino allo spazio, ma ad oggi non è\nancora successo."
+      },
+      {
+        "game": "xy-x",
+        "text": "Questo Pokémon è il risultato di una ricerca umana.\nEsegue solo i movimenti più elementari."
+      },
+      {
+        "game": "xy-y",
+        "text": "Formato per intero da codici programmatici, può\nmuoversi liberamente nel ciberspazio."
+      },
+      {
+        "game": "oras-or",
+        "text": "Porygon è in grado di regredire ai suoi codici di\nprogrammazione originari ed entrare nel cyberspazio.\nQuesto Pokémon è dotato di un sistema antipirateria\nper evitarne la duplicazione illecita."
+      },
+      {
+        "game": "oras-as",
+        "text": "Porygon è in grado di regredire ai suoi codici di\nprogrammazione originari ed entrare nel cyberspazio.\nQuesto Pokémon è dotato di un sistema antipirateria\nper evitarne la duplicazione illecita."
+      },
+      {
+        "game": "sm-s",
+        "text": "Un Pokémon artificiale creato circa 20 anni fa\nsfruttando le conoscenze scientifiche più\navanzate dell’epoca."
+      },
+      {
+        "game": "sm-m",
+        "text": "Il suo corpo può essere digitalizzato, rendendolo\nin grado di entrare nel cyberspazio."
+      },
+      {
+        "game": "usum-us",
+        "text": "Un Pokémon creato circa 20 anni fa grazie alle\nconoscenze scientifiche dell’epoca. Molte sue\nparti sono ormai obsolete."
+      },
+      {
+        "game": "usum-um",
+        "text": "Un Pokémon creato 20 anni fa da alcuni\nscienziati che sognavano di esplorare lo spazio.\nIl loro sogno non è stato ancora realizzato."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Si ritiene che sia l’unico Pokémon in grado\ndi volare fino allo spazio, ma ad oggi non è\nancora successo."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "È il primo Pokémon della storia a essere stato\ncreato tramite programmi, grazie all’impiego\ndi tecnologie all’avanguardia."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Negli ultimi anni ha assunto un ruolo di rilevanza\nnel cyberspazio, in cui si aggira per assicurarsi\nche non ci siano dati sospetti."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Porygon",
+    "genus": "Virtual Pokémon",
+    "flavorText": [
+      {
+        "game": "rb-r",
+        "text": "A POKéMON that\nconsists entirely\nof programming\fcode. Capable of\nmoving freely in\ncyberspace."
+      },
+      {
+        "game": "rb-b",
+        "text": "A POKéMON that\nconsists entirely\nof programming\fcode. Capable of\nmoving freely in\ncyberspace."
+      },
+      {
+        "game": "y",
+        "text": "The only POKéMON\npeople anticipate\ncan fly into\fspace. None has\nmanaged the feat\nyet, however."
+      },
+      {
+        "game": "gs-g",
+        "text": "It is a manmade\nPOKéMON. Since it\ndoesn't breathe,\fpeople are eager\nto try it in any\nenvironment."
+      },
+      {
+        "game": "gs-s",
+        "text": "A manmade POKéMON\nthat came about as\na result of re­\fsearch. It is pro­\ngrammed with only\nbasic motions."
+      },
+      {
+        "game": "c",
+        "text": "An artificial\nPOKéMON created\ndue to extensive\fresearch, it can\nperform only what\nis in its program."
+      },
+      {
+        "game": "rs-r",
+        "text": "PORYGON is capable of reverting itself\nentirely back to program data and\nentering cyberspace.\fThis POKéMON is copy-protected so it\ncannot be duplicated by copying."
+      },
+      {
+        "game": "rs-s",
+        "text": "PORYGON is capable of reverting itself\nentirely back to program data and\nentering cyberspace.\fThis POKéMON is copy-protected so it\ncannot be duplicated by copying."
+      },
+      {
+        "game": "e",
+        "text": "It is capable of reverting itself entirely\nback to program data in order to enter\ncyberspace. A PORYGON is copy-\nprotected so it cannot be duplicated."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "Using the most advanced technologies,\nscientists finally succeeded in making the\nfirst artificial POKéMON."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "A POKéMON that consists entirely of\nprogramming code. It is capable of moving\nfreely in cyberspace."
+      },
+      {
+        "game": "dp-d",
+        "text": "The world’s first artificially\ncreated Pokémon. It can travel\nthrough electronic space."
+      },
+      {
+        "game": "dp-p",
+        "text": "The world’s first artificially\ncreated Pokémon. It can travel\nthrough electronic space."
+      },
+      {
+        "game": "pt",
+        "text": "A man-made Pokémon created using\nadvanced scientific means. It can\nmove freely in cyberspace."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "It is a manmade Pokémon. Since it\ndoesn’t breathe, people are eager\nto try it in any environment."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "A manmade Pokémon that came about as\na result of research. It is programmed\nwith only basic motions."
+      },
+      {
+        "game": "bw-b",
+        "text": "A man-made Pokémon created using\nadvanced scientific means. It can\nmove freely in cyberspace."
+      },
+      {
+        "game": "bw-w",
+        "text": "A man-made Pokémon created using\nadvanced scientific means. It can\nmove freely in cyberspace."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "A man-made Pokémon created using\nadvanced scientific means. It can\nmove freely in cyberspace."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "A man-made Pokémon created using\nadvanced scientific means. It can\nmove freely in cyberspace."
+      },
+      {
+        "game": "xy-x",
+        "text": "A man-made Pokémon that came about\nas a result of research. It is programmed\nwith only basic motions."
+      },
+      {
+        "game": "xy-y",
+        "text": "A Pokémon that consists entirely of programming\ncode. It is capable of moving freely in cyberspace."
+      },
+      {
+        "game": "oras-or",
+        "text": "Porygon is capable of reverting itself entirely back to program\ndata and entering cyberspace. This Pokémon is copy protected\nso it cannot be duplicated by copying."
+      },
+      {
+        "game": "oras-as",
+        "text": "Porygon is capable of reverting itself entirely back to program\ndata and entering cyberspace. This Pokémon is copy protected\nso it cannot be duplicated by copying."
+      },
+      {
+        "game": "sm-s",
+        "text": "Roughly 20 years ago, it was artificially created,\nutilizing the latest technology of the time."
+      },
+      {
+        "game": "sm-m",
+        "text": "It can convert its body into digital data,\nwhich enables it to enter cyberspace."
+      },
+      {
+        "game": "usum-us",
+        "text": "This Pokémon was created using the\ncutting-edge science of 20 years ago, so\nmany parts of it have since become obsolete."
+      },
+      {
+        "game": "usum-um",
+        "text": "It was built 20 years ago by scientists who\ndreamed of exploring space. Their dreams have\nyet to come true."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "The only Pokémon that people anticipate\ncan fly into space. None has managed\nthe feat yet, however."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "The only Pokémon that people anticipate\ncan fly into space. None has managed\nthe feat yet, however."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "State-of-the-art technology was used to create\nPorygon. It was the first artificial Pokémon to be\ncreated via computer programming."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "In recent years, this species has been very helpful\nin cyberspace. These Pokémon will go around\nchecking to make sure no suspicious data exists."
+      },
+      {
+        "game": "la",
+        "text": "It has no discernible heartbeat and does not seem to draw\nbreath, and yet it appears to function without issue. I cannot\neven begin to explain this utterly bizarre anomaly."
+      }
+    ]
+  },
+  "chs": {
+    "name": "多边兽",
+    "genus": "虚拟宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "大约２０年前，\n集当时的科学力量于一身，\n创造出来的人工宝可梦。"
+      },
+      {
+        "game": "sm-m",
+        "text": "因为能将身体化为数字数据，\n所以可以进入电脑空间。"
+      },
+      {
+        "game": "usum-us",
+        "text": "由大约２０年前的科学力量\n创造出来的宝可梦，\n所以现在很多部分已经过时了。"
+      },
+      {
+        "game": "usum-um",
+        "text": "由２０年前梦想着宇宙的\n科学家们创造而成。\n那梦想至今仍未实现。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "人们期待它能成为唯一\n能够飞到宇宙的宝可梦，\n然而至今也努力未果。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "人们期待它能成为唯一\n能够飞到宇宙的宝可梦，\n然而至今也努力未果。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "它是世界上第一个\n由程序编成的人工宝可梦。\n运用最先进的科技制成。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "近年来十分活跃于\n电脑空间。到处检查\n有没有可疑的数据。"
+      }
+    ]
+  }
+}

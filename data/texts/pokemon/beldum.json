@@ -1,0 +1,453 @@
+{
+  "jap": {
+    "name": "ダンバル",
+    "genus": "てっきゅうポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "からだから　でている　じりょくと\nちじょうの　じりょくを\nはんぱつさせて　そらに　うかぶのだ。"
+      },
+      {
+        "game": "xy-y",
+        "text": "じりょくの　はちょうで　なかまと\nかいわする。むれになった　ダンバルは\nいっしみだれぬ　うごきを　する。"
+      },
+      {
+        "game": "oras-or",
+        "text": "からだの　なかでは　けつえきの　かわりに\nきょうりょくな　じりょくが　めぐっている。\nじりょくの　はどうで　なかまと　かいわする。"
+      },
+      {
+        "game": "oras-as",
+        "text": "からだから　でている　じりょくと　ちきゅうの\nじりょくを　はんぱつさせて　ちゅうに　うかぶ。\nおしりの　ツメを　がけに　くいこませて　ねむる。"
+      },
+      {
+        "game": "sm-s",
+        "text": "さいぼう　すべてが　じしゃく。\nじりょくを　つかって　なかまと\nコミュニケーションを　とる。"
+      },
+      {
+        "game": "sm-m",
+        "text": "じりょくを　はなって　あいてを\nひきよせた　ところで　おしりの\nツメで　きりさくのだ。"
+      },
+      {
+        "game": "usum-us",
+        "text": "たいないでは　けつえきの　かわりに\nじりょくが　めぐっている。　ちょうしが\nわるいときは　じしゃくを　あげよう。"
+      },
+      {
+        "game": "usum-um",
+        "text": "おこらせると　あばれるだけでなく\nつよい　じりょくを　はなつので\nきかいの　たぐいは　こわれてしまう。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "じりょくを　おしりから　はっせいさせ\nてきを　いきおいよく　すいよせて\nするどい　ツメで　くしざしにする。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "からだの　さいぼうは　じしゃくで\nできている。　けつえきの　かわりに\nじりょくが　ぜんしんを　めぐる。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Dumbber",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "메탕",
+    "genus": "철공포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "몸에서 나오는 자력과\n지상의 자력을\n충돌시켜 하늘에 떠오른다."
+      },
+      {
+        "game": "xy-y",
+        "text": "자력의 파장으로 동료와\n대화한다. 무리가 된 메탕은\n한 치의 흐트러짐 없이 움직인다."
+      },
+      {
+        "game": "oras-or",
+        "text": "몸 안에는 혈액 대신에\n강력한 자력이 돌고 있다.\n자력의 파동으로 동료와 대화한다."
+      },
+      {
+        "game": "oras-as",
+        "text": "몸에서 나오는 자력과 지구의\n자력을 반발시켜 공중에 뜬다.\n엉덩이의 발톱을 절벽에 박고 잔다."
+      },
+      {
+        "game": "sm-s",
+        "text": "모든 세포가 자석이다.\n자력을 사용해 동료와\n커뮤니케이션을 한다."
+      },
+      {
+        "game": "sm-m",
+        "text": "자력을 발산해 상대를\n끌어들이고 엉덩이의\n발톱으로 베어 가른다."
+      },
+      {
+        "game": "usum-us",
+        "text": "체내에는 혈액을 대신하여\n자력이 돌고 있다. 몸 상태가\n좋지 않을 때는 자석을 주자."
+      },
+      {
+        "game": "usum-um",
+        "text": "화가 나면 날뛸 뿐만 아니라\n강한 자력도 발산하기 때문에\n기계 종류는 고장 나 버린다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "엉덩이에서 자력을 발생시켜서\n상대를 기세 좋게 끌어들인 뒤\n날카로운 발톱으로 찔러버린다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "몸의 세포가 자석으로\n되어 있다. 혈액 대신에\n자력이 온몸에 흐른다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "鐵啞鈴",
+    "genus": "鐵球寶可夢",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "細胞全部是磁鐵。\n會使用磁力和夥伴之間進行交流。"
+      },
+      {
+        "game": "sm-m",
+        "text": "放出磁力將對手吸到身邊，\n然後用臀部的爪子將對方割開。"
+      },
+      {
+        "game": "usum-us",
+        "text": "在體內循環的不是血液而是磁力。\n當牠身體狀況不好的時候\n就拿磁鐵給牠吧。"
+      },
+      {
+        "game": "usum-um",
+        "text": "如果惹牠生氣，牠不但會大鬧，\n還會放出強大的磁力，\n讓機械類的東西壞掉。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "會從臀部放出磁力\n將敵人迅猛地吸到身邊，\n再以銳利的爪子刺穿對方。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "身體的細胞都由磁鐵\n構成。在全身循環的\n不是血液，而是磁力。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Terhal",
+    "genus": "Pokémon Boulefer",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Il dégage un champ magnétique opposé à celui\nde la terre, ce qui lui permet de léviter."
+      },
+      {
+        "game": "bw-b",
+        "text": "Il dialogue avec les siens par \nimpulsions magnétiques. En bande,\nils se déplacent à l’unisson."
+      },
+      {
+        "game": "bw-w",
+        "text": "Il dialogue avec les siens par \nimpulsions magnétiques. En bande,\nils se déplacent à l’unisson."
+      },
+      {
+        "game": "xy-y",
+        "text": "Il dialogue avec les siens par impulsions magnétiques.\nEn bande, ils se déplacent à l’unisson."
+      },
+      {
+        "game": "oras-or",
+        "text": "Au lieu du sang, une force magnétique très puissante coule\ndans les veines de Terhal. Ce Pokémon communique avec\nles autres en envoyant des pulsations magnétiques."
+      },
+      {
+        "game": "oras-as",
+        "text": "Terhal peut léviter en générant un champ magnétique qui\nrepousse le magnétisme naturel de la terre. Lorsqu’il dort, ce\nPokémon s’ancre à une falaise grâce à ses crochets dorsaux."
+      },
+      {
+        "game": "sm-s",
+        "text": "Toutes ses cellules sont en fait des aimants.\nIl utilise la force magnétique pour communiquer\navec ses congénères."
+      },
+      {
+        "game": "sm-m",
+        "text": "Il attire ses ennemis avec des ondes\nmagnétiques et les pourfend avec ses griffes\ncaudales dès qu’ils sont à portée."
+      },
+      {
+        "game": "usum-us",
+        "text": "Son corps n’est pas traversé par du sang, mais\npar des champs magnétiques. S’il est fatigué,\nil suffit de lui donner un aimant à grignoter."
+      },
+      {
+        "game": "usum-um",
+        "text": "Quand on l’énerve, il entre dans une colère noire\net déchaîne un puissant champ magnétique\nqui peut endommager les machines alentour."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Ce Pokémon peut créer un champ magnétique\nderrière lui qui attire ses ennemis avec force.\nIl les embroche alors de ses griffes acérées."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Les cellules de son corps sont composées\nd’aimants. Une force magnétique coule\ndans ses veines à la place du sang."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Tanhel",
+    "genus": "Eisenkugel-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Es fliegt, indem es eine magnetische Kraft erzeugt,\ndurch die es der natürlichen Anziehungskraft der\nErde trotzt."
+      },
+      {
+        "game": "xy-y",
+        "text": "Es kommuniziert mit anderen durch magnetische\nImpulse. Im Schwarm bilden sie eine perfekte Einheit."
+      },
+      {
+        "game": "oras-or",
+        "text": "Anstelle von Blut fließt eine starke magnetische Energie durch\nTanhels Körper. Dieses Pokémon kommuniziert mit anderen,\nindem es kontrollierte magnetische Impulse aussendet."
+      },
+      {
+        "game": "oras-as",
+        "text": "Tanhel hält sich am Schweben, indem es eine magnetische\nKraft erzeugt, die dem Erdmagnetfeld entgegenwirkt.\nWenn es schläft, verankert sich dieses Pokémon mit den\nHaken an seinem Hinterteil an einem Felsen."
+      },
+      {
+        "game": "sm-s",
+        "text": "Seine Zellen sind magnetisch geladen.\nEs kommuniziert mit anderen, indem es\nmagnetische Impulse aussendet."
+      },
+      {
+        "game": "sm-m",
+        "text": "Es sendet magnetische Impulse aus, um Gegner\nzu sich heranzuziehen und sie dann mit den\nKrallen an seinem Hinterteil aufzuschlitzen."
+      },
+      {
+        "game": "usum-us",
+        "text": "Statt Blut fließt in seinem Körper magnetische\nEnergie. Wenn es sich nicht gut fühlt, kann man\nihm einen Magnet geben."
+      },
+      {
+        "game": "usum-um",
+        "text": "Wenn man es wütend macht, tobt es nicht nur,\nsondern sendet auch eine starke magnetische\nKraft aus, die manche Maschinen kaputtmacht."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Mit der Magnetkraft, die es an seinem Hinterteil\nerzeugt, zieht es Gegner ruckartig zu sich heran,\num sie mit seinen scharfen Krallen aufzuspießen."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Die Zellen seines Körpers bestehen aus\nMagneten. Anstelle von Blut fließt magnetische\nEnergie durch Tanhel."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Beldum",
+    "genus": "Pokémon Bola Hierro",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Los pulsos magnéticos de su cuerpo repelen la\ngravedad, lo que le permite flotar en el aire."
+      },
+      {
+        "game": "xy-y",
+        "text": "Se comunican mediante pulsos magnéticos.\nCuando van en grupos, se mueven al unísono."
+      },
+      {
+        "game": "oras-or",
+        "text": "En lugar de sangre, Beldum tiene una poderosa fuerza\nmagnética corriéndole por las venas. Este Pokémon se\ncomunica enviando controlados impulsos magnéticos."
+      },
+      {
+        "game": "oras-as",
+        "text": "Beldum se mantiene flotando en el aire gracias a la fuerza\nmagnética que genera y que repele la gravedad. Para dormir,\neste Pokémon se ancla a los riscos usando los ganchos que\ntiene."
+      },
+      {
+        "game": "sm-s",
+        "text": "Todas las células de su cuerpo son imanes. Se\ncomunica con los suyos mediante magnetismo."
+      },
+      {
+        "game": "sm-m",
+        "text": "Atrae a sus rivales con el magnetismo que emite,\ny, cuando están cerca, los despedaza con las\ngarras que tiene en la parte trasera."
+      },
+      {
+        "game": "usum-us",
+        "text": "En vez de torrente sanguíneo, el cuerpo de este\nPokémon cuenta con corrientes magnéticas. Es\nrecomendable darle un imán si se encuentra mal."
+      },
+      {
+        "game": "usum-um",
+        "text": "Cuando se le provoca, no solo monta en cólera,\nsino que emite también un potente magnetismo\nque inutiliza ciertos tipos de máquinas."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Atrae con fuerza a sus enemigos debido al\nmagnetismo que emite por la parte trasera\ny les clava sus afilados ganchos."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Las células de su cuerpo están hechas de imanes.\nEn lugar de sangre, una fuerza magnética recorre\nsu cuerpo."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Beldum",
+    "genus": "Pokémon Ferrosfera",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Riesce a fluttuare in aria grazie alla repulsione tra\nle proprie onde magnetiche e quelle della terra."
+      },
+      {
+        "game": "xy-y",
+        "text": "Comunica con i suoi simili mediante onde magnetiche.\nI gruppi di Beldum si muovono in perfetta sintonia."
+      },
+      {
+        "game": "oras-or",
+        "text": "Al posto del sangue, il corpo di Beldum è attraversato da\nuna potente forza magnetica. Il Pokémon comunica con\ngli altri inviando impulsi magnetici controllati."
+      },
+      {
+        "game": "oras-as",
+        "text": "Beldum fluttua nell’aria generando una forza magnetica\ncontraria alla naturale forza di gravità terrestre.\nQuando dorme, si ancora alle scogliere usando i suoi\nganci posteriori."
+      },
+      {
+        "game": "sm-s",
+        "text": "Tutte le sue cellule sono calamite.\nIl suo corpo emette onde magnetiche, tramite\nle quali comunica con i suoi simili."
+      },
+      {
+        "game": "sm-m",
+        "text": "Attira a sé i nemici grazie alla propria forza\nmagnetica per poi farli a pezzi con gli artigli\nposteriori."
+      },
+      {
+        "game": "usum-us",
+        "text": "Nel corpo di Beldum invece del sangue scorre\nuna forza magnetica. Quando non si sente bene,\nbasta dargli una calamita."
+      },
+      {
+        "game": "usum-um",
+        "text": "Quando si arrabbia diventa violento ed emette\nuna potente forza magnetica che danneggia\nle macchine."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Attira vigorosamente i nemici grazie alla potente\nforza magnetica generata dal didietro e li\ntrafigge con gli artigli affilati."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Nel suo corpo, le cui cellule sono composte\nda calamite, scorre forza magnetica al posto\ndel sangue."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Beldum",
+    "genus": "Iron Ball Pokémon",
+    "flavorText": [
+      {
+        "game": "rs-r",
+        "text": "Instead of blood, a powerful magnetic\nforce courses throughout BELDUM’s\nbody. This POKéMON communicates with\fothers by sending controlled pulses of\nmagnetism."
+      },
+      {
+        "game": "rs-s",
+        "text": "BELDUM keeps itself floating by\ngenerating a magnetic force that\nrepels earth’s natural magnetism.\fWhen it sleeps, this POKéMON anchors\nitself to a cliff using the hooks on\nits rear."
+      },
+      {
+        "game": "e",
+        "text": "When BELDUM gather in a swarm, they move\nin perfect unison as if they were but one\nPOKéMON. They communicate with each other\nusing brain waves."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "It uses magnetic waves to converse with\nits kind. All the cells in its body are\nmagnetic."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "It uses magnetic waves to converse with\nits kind. All the cells in its body are\nmagnetic."
+      },
+      {
+        "game": "dp-d",
+        "text": "It converses with others by using\nmagnetic pulses. In a swarm, they\nmove in perfect unison."
+      },
+      {
+        "game": "dp-p",
+        "text": "It converses with others by using\nmagnetic pulses. In a swarm, they\nmove in perfect unison."
+      },
+      {
+        "game": "pt",
+        "text": "It converses with others by using\nmagnetic pulses. In a swarm, they\nmove in perfect unison."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "The magnetic force generated by\nits body repels the ground’s\nnatural magnetism, letting it float."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "The magnetic force generated by\nits body repels the ground’s\nnatural magnetism, letting it float."
+      },
+      {
+        "game": "bw-b",
+        "text": "It converses with others by using\nmagnetic pulses. In a swarm, they\nmove in perfect unison."
+      },
+      {
+        "game": "bw-w",
+        "text": "It converses with others by using\nmagnetic pulses. In a swarm, they\nmove in perfect unison."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "Its cells are all magnetic,\nand it communicates with others\nby using magnetic pulses."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "Its cells are all magnetic,\nand it communicates with others\nby using magnetic pulses."
+      },
+      {
+        "game": "xy-x",
+        "text": "The magnetic force generated by its body repels\nthe ground’s natural magnetism, letting it float."
+      },
+      {
+        "game": "xy-y",
+        "text": "It converses with others by using magnetic pulses.\nIn a swarm, they move in perfect unison."
+      },
+      {
+        "game": "oras-or",
+        "text": "Instead of blood, a powerful magnetic force courses\nthroughout Beldum’s body. This Pokémon communicates\nwith others by sending controlled pulses of magnetism."
+      },
+      {
+        "game": "oras-as",
+        "text": "Beldum keeps itself floating by generating a magnetic force\nthat repels earth’s natural magnetism. When it sleeps, this\nPokémon anchors itself to a cliff using the hooks on its rear."
+      },
+      {
+        "game": "sm-s",
+        "text": "Its cells are all magnets. It uses magnetism\nto communicate with others of its kind."
+      },
+      {
+        "game": "sm-m",
+        "text": "With magnetic traction, it pulls its opponents in\nclose. When they’re in range, it slashes them\nwith its rear claws."
+      },
+      {
+        "game": "usum-us",
+        "text": "Instead of blood, magnetism flows through its\nbody. When it’s feeling bad, try giving it\na magnet."
+      },
+      {
+        "game": "usum-um",
+        "text": "If you anger it, it will do more than rampage. It\nwill also burst out strong magnetism, causing\nnearby machines to break."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "From its rear, Beldum emits a magnetic force that\nrapidly pulls opponents in. They get skewered on\nBeldum’s sharp claws."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "The cells in this Pokémon’s body are composed\nof magnetic material. Instead of blood, magnetic\nforces flow through Beldum’s body."
+      }
+    ]
+  },
+  "chs": {
+    "name": "铁哑铃",
+    "genus": "铁球宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "细胞全部是磁铁。\n使用磁力和伙伴之间进行交流。"
+      },
+      {
+        "game": "sm-m",
+        "text": "放出磁力将对手吸到身边的时候，\n用臀部的爪子将对方劈开。"
+      },
+      {
+        "game": "usum-us",
+        "text": "体内循环着的不是血液而是磁力。\n身体状况不好时，就给它磁铁吧。"
+      },
+      {
+        "game": "usum-um",
+        "text": "如果把它惹恼，不仅会大闹一番，\n还会放出强大的磁力，\n所以会把机械类的东西都破坏掉。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "从臀部发出磁力，猛地\n将敌人吸过来，然后用\n锐利的爪子把对方刺穿。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "身体的细胞由磁铁构成。\n循环于全身的不是血液，\n而是磁力。"
+      }
+    ]
+  }
+}

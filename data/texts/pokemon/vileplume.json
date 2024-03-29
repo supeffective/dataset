@@ -1,0 +1,413 @@
+{
+  "jap": {
+    "name": "ラフレシア",
+    "genus": "フラワーポケモン",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "せかいいち　おおきな　はなびらは\nあるくたびに　ゆれて　たいりょうの\nどくかふんを　ばらまいてしまう。"
+      },
+      {
+        "game": "xy-x",
+        "text": "はなびらが　おおきいほど　たくさん\nかふんを　だすが　あたまが\nおもたくて　つかれてしまうという。"
+      },
+      {
+        "game": "xy-y",
+        "text": "せかいいち　おおきな　はなびらは\nあるくたびに　ゆれて　たいりょうの\nどくかふんを　ばらまいてしまう。"
+      },
+      {
+        "game": "oras-or",
+        "text": "どくかふんは　ひどい　アレルギーを　おこす。\nジャングルで　うつくしい　はなを　みつけても\nうかつに　ちかよらない　ほうが　いいよ。"
+      },
+      {
+        "game": "oras-as",
+        "text": "せかいいち　おおきな　はなびらで　えものを\nおびきよせ　どくの　かふんを　あびせかける。\nうごけなくなった　えものを　つかまえて　たべる。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "どくの　かふんを　ふりまくために\nおおきな　はなびらを　ゆらすと\nものすごい　おとも　ひびきわたる。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "どくの　かふんを　ふりまくために\nおおきな　はなびらを　ゆらすと\nものすごい　おとも　ひびきわたる。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "はなびらが　おおきいほど　たくさん\nかふんを　だすが　あたまが\nおもたくて　つかれてしまうという。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Ruffresia",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "라플레시아",
+    "genus": "꽃포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "꽃잎이 클수록 많은\n꽃가루를 만들어 내지만 머리가\n무거워서 지쳐버린다고 한다."
+      },
+      {
+        "game": "xy-y",
+        "text": "세계에서 제일 큰 꽃잎은\n걸을 때마다 흔들려 대량의\n독 꽃가루를 흩뿌린다."
+      },
+      {
+        "game": "oras-or",
+        "text": "독 꽃가루는 심한 알레르기를 일으킨다.\n정글에서 아름다운 꽃을 발견해도\n섣불리 다가가지 않는 것이 좋다."
+      },
+      {
+        "game": "oras-as",
+        "text": "세계에서 제일 큰 꽃잎으로 먹이를\n유인하여 독 꽃가루를 끼얹는다.\n움직이지 못하게 된 먹이를 잡아먹는다."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "독성분의 꽃가루를 퍼뜨리기 위해\n커다란 꽃잎을 흔들면\n굉장한 소리도 함께 울려 퍼진다."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "독성분의 꽃가루를 퍼뜨리기 위해\n커다란 꽃잎을 흔들면\n굉장한 소리도 함께 울려 퍼진다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "세계에서 제일 큰 꽃잎은\n걸을 때마다 흔들려 대량의\n독 꽃가루를 흩뿌린다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "꽃잎이 클수록 많은 꽃가루를\n만들어 내지만 머리가\n무거워서 지쳐버린다고 한다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "霸王花",
+    "genus": "花寶可夢",
+    "flavorText": [
+      {
+        "game": "lgpe-lgp",
+        "text": "當牠為了散佈有毒的花粉\n而搖晃大大的花瓣時，\n會發出震耳欲聾的聲響。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "當牠為了散佈有毒的花粉\n而搖晃大大的花瓣時，\n會發出震耳欲聾的聲響。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "身上那些全世界最大的花瓣\n會隨著牠的每個步伐搖動，\n散播大量的毒花粉。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "雖然花瓣越大就能放出\n越多的花粉，但頭部也會\n隨之變重而容易疲倦。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Rafflesia",
+    "genus": "Pokémon Fleur",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Ses pétales sont les plus grands\ndu monde. Il marche en répandant\nun pollen extrêmement allergène."
+      },
+      {
+        "game": "bw-w",
+        "text": "Ses pétales sont les plus grands\ndu monde. Il marche en répandant\nun pollen extrêmement allergène."
+      },
+      {
+        "game": "xy-x",
+        "text": "Plus ses pétales sont grands, plus ils contiennent de\npollen toxique."
+      },
+      {
+        "game": "xy-y",
+        "text": "Il possède des pétales énormes. À chaque pas,\nils sèment d’épais nuages de pollen toxique."
+      },
+      {
+        "game": "oras-or",
+        "text": "Le pollen toxique de Rafflesia déclenche d’affreuses réactions\nallergiques. C’est pourquoi il est conseillé de ne jamais\ns’approcher des jolies fleurs trouvées dans la jungle,\nmême lorsqu’elles sont magnifiques."
+      },
+      {
+        "game": "oras-as",
+        "text": "Rafflesia dispose des plus grands pétales du monde.\nIl s’en sert pour attirer ses proies avant de les endormir\navec ses spores toxiques. Ce Pokémon n’a plus alors\nqu’à attraper sa proie et à la manger."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Il fait un bruit terrible quand il secoue ses\npétales pour disperser son pollen empoisonné."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Il fait un bruit terrible quand il secoue ses\npétales pour disperser son pollen empoisonné."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Il possède les plus gros pétales au monde,\nqui sèment d’épais nuages de pollen toxique\nà chacun de ses pas."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Plus ses pétales sont grands, plus il produit\nde pollen toxique. Toutefois, le poids de sa tête\nle fatigue."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Giflor",
+    "genus": "Blumen-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Je größer die Blütenblätter, desto mehr giftige\nPollen sind in der Blüte enthalten."
+      },
+      {
+        "game": "xy-y",
+        "text": "Es besitzt die größten Blätter der Welt.\nBei jedem Schritt streut es Giftpollen zu Boden."
+      },
+      {
+        "game": "oras-or",
+        "text": "Giflors giftige Pollen rufen böse allergische Anfälle hervor.\nDeshalb ist es ratsam, sich keiner schönen Blume im\nDschungel zu nähern, so anziehend sie auch sein mag."
+      },
+      {
+        "game": "oras-as",
+        "text": "Giflor hat die größten Blätter der Welt. Sie ziehen Beute an\nund bestäuben sie mit giftigen Sporen. Wenn die Beute sich\nnicht mehr rührt, fängt dieses Pokémon sie und frisst sie auf."
+      },
+      {
+        "game": "usum-us",
+        "text": "Es verstreut hochgiftige Pollen. Man erkennt\nGiflors Spur am leicht gelblichen Nebel,\nden es hinterlässt."
+      },
+      {
+        "game": "usum-um",
+        "text": "Giflors Pollen sind hochgiftig. Auf so manch\neigentümliches Käfer-Pokémon scheinen sie\naber eine anziehende Wirkung zu haben."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Wenn es seine großen Blütenblätter schüttelt,\num giftige Pollen zu verteilen, entsteht dabei\nein unglaublich großer Lärm."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Wenn es seine großen Blütenblätter schüttelt,\num giftige Pollen zu verteilen, entsteht dabei\nein unglaublich großer Lärm."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Es besitzt die größten Blütenblätter der Welt.\nBei jedem Schritt streut es große Mengen an\nGiftpollen zu Boden."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Je größer die Blütenblätter, desto mehr giftige\nPollen enthält die Blüte. Aber es ist auch umso\nerschöpfter, da sein Kopf so schwer wird."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Vileplume",
+    "genus": "Pokémon Flor",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Cuanto mayores son sus pétalos, más tóxico es su\npolen. Le pesa la cabeza y le cuesta mantenerla\nerguida."
+      },
+      {
+        "game": "xy-y",
+        "text": "Tiene los pétalos más grandes del mundo. Estos\nexpulsan densas nubes de polen tóxico al caminar."
+      },
+      {
+        "game": "oras-or",
+        "text": "El polen que contienen las esporas tóxicas de Vileplume causa\nunos ataques de alergia muy agudos. Por eso, no es\naconsejable acercarse a ninguna flor selvática, por muy bonita\nque sea."
+      },
+      {
+        "game": "oras-as",
+        "text": "Vileplume tiene los mayores pétalos del mundo. Los usa para\natraer a sus presas y llenarlas de esporas tóxicas. Una vez\nque ha inmovilizado a las víctimas, las atrapa y las devora."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Sacude sus enormes pétalos para propagar\npolen venenoso, lo cual provoca un verdadero\nestruendo."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Sacude sus enormes pétalos para propagar\npolen venenoso, lo cual provoca un verdadero\nestruendo."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Tiene los pétalos más grandes del mundo. Al\ncaminar, de ellos se desprenden densas nubes\nde polen tóxico."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Cuanto mayores son sus pétalos, más tóxico es su\npolen. Le pesa la cabeza y le cuesta mantenerla\nerguida."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Vileplume",
+    "genus": "Pokémon Fiore",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Più grandi sono i petali, maggiore è la quantità di\npolline tossico che contengono. La testa è\nmolto pesante."
+      },
+      {
+        "game": "xy-y",
+        "text": "Ha i petali più grandi del mondo. Ad ogni suo passo,\ni petali liberano fitte nubi di polline tossico."
+      },
+      {
+        "game": "oras-or",
+        "text": "Il polline velenoso di Vileplume scatena paurose reazioni\nallergiche. Per questo motivo si consiglia di non avvicinarsi\nmai a nessun fiore di bosco, per quanto bello possa essere."
+      },
+      {
+        "game": "oras-as",
+        "text": "Vileplume ha i petali più grandi al mondo. Li usa per attirare\nla preda per poi ricoprirla di spore velenose. Una volta\nimmobilizzata la preda, il Pokémon la cattura e la divora."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Scuote gli enormi petali per liberare polline\nvelenoso, producendo un gran frastuono."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Scuote gli enormi petali per liberare polline\nvelenoso, producendo un gran frastuono."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Ha i petali più grandi del mondo. Ad ogni\nsuo passo, liberano fitte nubi di polline tossico."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Più grandi sono i petali, maggiore è la quantità\ndi polline tossico che contengono. La testa, però,\ndiventa molto pesante e fa fatica a sostenerla."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Vileplume",
+    "genus": "Flower Pokémon",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "It has the world’s largest petals. With every step,\nthe petals shake out heavy clouds of toxic pollen."
+      },
+      {
+        "game": "rb-r",
+        "text": "The larger its\npetals, the more\ntoxic pollen it\fcontains. Its big\nhead is heavy and\nhard to hold up."
+      },
+      {
+        "game": "rb-b",
+        "text": "The larger its\npetals, the more\ntoxic pollen it\fcontains. Its big\nhead is heavy and\nhard to hold up."
+      },
+      {
+        "game": "y",
+        "text": "Flaps its broad\nflower petals to\nscatter its\fpoisonous pollen.\nThe flapping sound\nis very loud."
+      },
+      {
+        "game": "gs-g",
+        "text": "It has the world's\nlargest petals.\nWith every step,\fthe petals shake\nout heavy clouds\nof toxic pollen."
+      },
+      {
+        "game": "gs-s",
+        "text": "The bud bursts\ninto bloom with a\nbang. It then\fstarts scattering\nallergenic, poi­\nsonous pollen."
+      },
+      {
+        "game": "c",
+        "text": "By shaking its big\npetals, it scat­\nters toxic pollen\finto the air,\nturning the air\nyellow."
+      },
+      {
+        "game": "rs-r",
+        "text": "VILEPLUME’s toxic pollen triggers\natrocious allergy attacks. That’s why\nit is advisable never to approach any\fattractive flowers in a jungle, however\npretty they may be."
+      },
+      {
+        "game": "rs-s",
+        "text": "VILEPLUME has the world’s largest\npetals. They are used to attract prey\nthat are then doused with toxic spores.\fOnce the prey are immobilized, this\nPOKéMON catches and devours them."
+      },
+      {
+        "game": "e",
+        "text": "In seasons when it produces more pollen,\nthe air around a VILEPLUME turns yellow\nwith the powder as it walks. The pollen is\nhighly toxic and causes paralysis."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "Its petals are the largest in the world.\nIt fiendishly scatters allergy-causing\npollen from its petals."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "The larger its petals, the more toxic\npollen it contains. Its big head is heavy\nand hard to hold up."
+      },
+      {
+        "game": "dp-d",
+        "text": "Its petals are the largest in the\nworld. As it walks, it scatters\nextremely allergenic pollen."
+      },
+      {
+        "game": "dp-p",
+        "text": "Its petals are the largest in the\nworld. As it walks, it scatters\nextremely allergenic pollen."
+      },
+      {
+        "game": "pt",
+        "text": "Its petals are the largest in the\nworld. As it walks, it scatters\nextremely allergenic pollen."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "It has the world’s largest petals.\nWith every step, the petals shake\nout heavy clouds of toxic pollen."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "The bud bursts into bloom with a\nbang. It then starts scattering\nallergenic, poisonous pollen."
+      },
+      {
+        "game": "bw-b",
+        "text": "Its petals are the largest in the\nworld. As it walks, it scatters\nextremely allergenic pollen."
+      },
+      {
+        "game": "bw-w",
+        "text": "Its petals are the largest in the\nworld. As it walks, it scatters\nextremely allergenic pollen."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "Its petals are the largest in the\nworld. As it walks, it scatters\nextremely allergenic pollen."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "Its petals are the largest in the\nworld. As it walks, it scatters\nextremely allergenic pollen."
+      },
+      {
+        "game": "xy-x",
+        "text": "The larger its petals, the more toxic pollen it\ncontains. Its big head is heavy and hard to hold up."
+      },
+      {
+        "game": "xy-y",
+        "text": "It has the world’s largest petals. With every step,\nthe petals shake out heavy clouds of toxic pollen."
+      },
+      {
+        "game": "oras-or",
+        "text": "Vileplume’s toxic pollen triggers atrocious allergy attacks.\nThat’s why it is advisable never to approach any attractive\nflowers in a jungle, however pretty they may be."
+      },
+      {
+        "game": "oras-as",
+        "text": "Vileplume has the world’s largest petals. They are used to\nattract prey that are then doused with toxic spores. Once the\nprey are immobilized, this Pokémon catches and devours them."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Flaps its broad flower petals to scatter\nits poisonous pollen. The flapping sound\nis very loud."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Flaps its broad flower petals to scatter\nits poisonous pollen. The flapping sound\nis very loud."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "The larger its petals, the more toxic pollen it\ncontains. Its big head is heavy and hard to hold up."
+      }
+    ]
+  },
+  "chs": {
+    "name": "霸王花",
+    "genus": "花宝可梦",
+    "flavorText": [
+      {
+        "game": "lgpe-lgp",
+        "text": "为了散布有毒的花粉\n而摇动其巨大的花瓣，\n同时发出震耳的响声。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "为了散布有毒的花粉\n而摇动其巨大的花瓣，\n同时发出震耳的响声。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "它有着世界上最大的花瓣。\n每走一步，花瓣都会跟着摇动，\n同时撒出大量的毒花粉。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "虽然花瓣越大，\n就能放出越多的花粉，\n但这样脑袋会变沉，容易疲倦。"
+      }
+    ]
+  }
+}

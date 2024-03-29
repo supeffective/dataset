@@ -1,0 +1,549 @@
+{
+  "jap": {
+    "name": "ニャース",
+    "genus": "ばけねこポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "よなかに　こうどうする　しゅうせい。\nきらきら　ひかるものを　みつけると\nまけないくらい　ひとみが　かがやく。"
+      },
+      {
+        "game": "xy-y",
+        "text": "まるいものが　だいすき。よなよな\nでかけては　おちている　コインを\nひろい　あつめて　かえってくる。"
+      },
+      {
+        "game": "oras-or",
+        "text": "するどい　ツメを　ひっこめて　ぬきあし　さしあし\nあしおとを　たてずに　あるくことが　できる。\nキラキラ　ひかる　コインが　なぜか　だいすきだ。"
+      },
+      {
+        "game": "oras-as",
+        "text": "するどい　ツメを　ひっこめて　ぬきあし　さしあし\nあしおとを　たてずに　あるくことが　できる。\nキラキラ　ひかる　コインが　なぜか　だいすきだ。"
+      },
+      {
+        "game": "sm-s",
+        "text": "ひるまは　だらだら　ねてすごし\nひが　くれるころに　かつどうかいし。\nよるのまちで　コインを　さがす。"
+      },
+      {
+        "game": "sm-m",
+        "text": "キラキラした　ものが　だいすき。\nよく　ヤミカラスと　えものを\nうばいあって　ケンカを　している。"
+      },
+      {
+        "game": "usum-us",
+        "text": "ゴミすてばに　いくと　ひかりものを\nめぐって　ヤミカラスと　はげしく\nケンカする　こうけいが　みられる。"
+      },
+      {
+        "game": "usum-um",
+        "text": "コインが　だいすき。　あげれば\nかんたんに　なつくが　きまぐれなので\nあんまり　あてには　ならないよ。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "よるのほうが　げんきがあるようだ。\nまるくて　ひかるものが　すきで\nみつけると　ひろわずに　いられない。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "よるのほうが　げんきがあるようだ。\nまるくて　ひかるものが　すきで\nみつけると　ひろわずに　いられない。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "ひかりものを　あつめるのが　すき。\nきげんが　いいときは　トレーナーにも\nコレクションを　みせてくれるぞ。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "ひたいの　こばんが　よごれないよう\nまめに　かおを　あらう。　ガラルの\nニャースとは　なかが　わるい。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Nyarth",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "나옹",
+    "genus": "요괴고양이포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "한밤중에 움직이는 습성이 있다.\n반짝반짝 빛나는 것을 발견하면\n그에 못지않게 눈동자가 반짝인다."
+      },
+      {
+        "game": "xy-y",
+        "text": "둥근 물건을 정말 좋아한다.\n밤마다 나가서는 떨어진 동전을\n주워 모아서 돌아온다."
+      },
+      {
+        "game": "oras-or",
+        "text": "날카로운 발톱을 집어넣고 살금살금\n발소리를 내지 않고 걸을 수 있다.\n반짝반짝 빛나는 동전을 왠지 모르지만 매우 좋아한다."
+      },
+      {
+        "game": "oras-as",
+        "text": "날카로운 발톱을 집어넣고 살금살금\n발소리를 내지 않고 걸을 수 있다.\n반짝반짝 빛나는 동전을 왠지 모르지만 매우 좋아한다."
+      },
+      {
+        "game": "sm-s",
+        "text": "낮에는 느긋하게 자면서 지내고\n해가 떨어지면 활동을 시작한다.\n밤이 되면 거리에서 동전을 찾는다."
+      },
+      {
+        "game": "sm-m",
+        "text": "반짝이는 물건을 매우 좋아한다.\n자주 니로우와 먹이를\n서로 빼앗으며 싸우고 있다."
+      },
+      {
+        "game": "usum-us",
+        "text": "쓰레기장에 가면 빛이 나는 물건을\n두고 니로우와 격렬하게\n싸우는 광경을 볼 수 있다."
+      },
+      {
+        "game": "usum-um",
+        "text": "동전을 매우 좋아한다. 동전을 주면\n쉽게 친해지지만 변덕스럽기 때문에\n그다지 믿을 게 못 된다."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "밤에 더 기운이 넘치는 것 같다.\n둥글고 빛나는 것을 좋아해서\n발견하면 줍지 않고는 못 배긴다."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "밤에 더 기운이 넘치는 것 같다.\n둥글고 빛나는 것을 좋아해서\n발견하면 줍지 않고는 못 배긴다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "빛나는 물건을 모으는 것을 좋아한다.\n기분이 좋을 때는 트레이너에게도\n컬렉션을 보여준다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "이마의 금화가 더러워지지 않도록\n바지런히 얼굴을 씻는다.\n가라르의 나옹과는 사이가 나쁘다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "喵喵",
+    "genus": "妖怪貓寶可夢",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "總是懶懶地睡著度過白天，\n太陽下山時才開始活動。\n會在夜晚的街道上搜尋硬幣。"
+      },
+      {
+        "game": "sm-m",
+        "text": "非常喜歡亮晶晶的東西。\n經常和黑暗鴉為了爭奪獵物而打架。"
+      },
+      {
+        "game": "usum-us",
+        "text": "只要去垃圾場就能看見\n牠和黑暗鴉為了爭奪發亮的東西\n而激烈互鬥的景象。"
+      },
+      {
+        "game": "usum-um",
+        "text": "非常喜歡硬幣，只要給牠硬幣就能\n輕易和牠親近。但因為牠性情善變，\n所以這招也不是一定有效。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "夜裡比白天更有活力。\n喜歡圓滾滾又會發亮的東西，\n一看到就會忍不住去撿起來。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "夜裡比白天更有活力。\n喜歡圓滾滾又會發亮的東西，\n一看到就會忍不住去撿起來。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "喜歡收集亮晶晶的東西。\n當牠心情好的時候，會讓\n訓練家一起欣賞自己的收藏。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "為了不弄髒額頭上的\n金幣，會常常洗臉。\n和伽勒爾的喵喵關係不好。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Miaouss",
+    "genus": "Pokémon Chadégout",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Son regard s’anime à la vue\nd’un objet brillant. C’est un\nPokémon nocturne."
+      },
+      {
+        "game": "bw-w",
+        "text": "Son regard s’anime à la vue\nd’un objet brillant. C’est un\nPokémon nocturne."
+      },
+      {
+        "game": "xy-x",
+        "text": "Son regard s’anime à la vue d’un objet brillant.\nC’est un Pokémon nocturne."
+      },
+      {
+        "game": "xy-y",
+        "text": "Il adore les pièces de monnaie. Il hante les rues à\nla recherche de pièces oubliées par les passants."
+      },
+      {
+        "game": "oras-or",
+        "text": "Miaouss peut rentrer ses griffes dans ses pattes pour rôder\ngracieusement sans laisser de traces. Étrangement,\nce Pokémon raffole des pièces d’or qui brillent à la lumière."
+      },
+      {
+        "game": "oras-as",
+        "text": "Miaouss peut rentrer ses griffes dans ses pattes pour rôder\ngracieusement sans laisser de traces. Étrangement,\nce Pokémon raffole des pièces d’or qui brillent à la lumière."
+      },
+      {
+        "game": "sm-s",
+        "text": "Il fait la sieste pendant la journée et devient\nactif quand le soir tombe. Il passe sa nuit à\nchercher des pièces perdues dans les rues."
+      },
+      {
+        "game": "sm-m",
+        "text": "Il adore tout ce qui brille et doit souvent\naffronter des Cornèbre qui convoitent\nle même trophée que lui."
+      },
+      {
+        "game": "usum-us",
+        "text": "Il n’est pas rare de l’apercevoir dans les\ndécharges, où il se dispute souvent quelque\nobjet brillant avec un Cornèbre."
+      },
+      {
+        "game": "usum-um",
+        "text": "Il raffole des pièces de monnaie. Il suffit de lui\nen donner une pour acheter son affection, mais\nvu son caractère, cela ne dure jamais longtemps."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Il est surtout actif la nuit. Il aime ramasser\nles objets ronds et brillants."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Il est surtout actif la nuit. Il aime ramasser\nles objets ronds et brillants."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Il aime rassembler des objets brillants.\nS’il est de bonne humeur, il montre sa collection\nà son Dresseur."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Tatillon sur la propreté de la pièce sur son front,\nil se lave la figure avec grand soin. Il ne s’entend\npas avec les Miaouss de Galar."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Mauzi",
+    "genus": "Katzen-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Ein nachtaktives Pokémon. Sieht es etwas\nSchimmerndes, fangen seine Augen an zu glänzen."
+      },
+      {
+        "game": "xy-y",
+        "text": "Dieses Pokémon bewundert runde Objekte. Es sucht\nnachts auf den Straßen nach verlorenen Münzen."
+      },
+      {
+        "game": "oras-or",
+        "text": "Mauzi zieht seine scharfen Krallen ein, um umherschleichen\nzu können, ohne verräterische Spuren zu hinterlassen.\nDieses Pokémon hat eine Vorliebe für Münzen, die im\nLicht glitzern."
+      },
+      {
+        "game": "oras-as",
+        "text": "Mauzi zieht seine scharfen Krallen ein, um umherschleichen\nzu können, ohne verräterische Spuren zu hinterlassen.\nDieses Pokémon hat eine Vorliebe für Münzen, die das Licht\nreflektieren."
+      },
+      {
+        "game": "sm-s",
+        "text": "Tagsüber ist es faul und schläft ständig.\nErst nach Sonnenuntergang wird es aktiv\nund durchstöbert die Stadt nach Münzen."
+      },
+      {
+        "game": "sm-m",
+        "text": "Es liebt glänzende Objekte. Mauzi und Kramurx\nnehmen sich oft gegenseitig die Beute weg,\nwas regelmäßig zu heftigem Streit führt."
+      },
+      {
+        "game": "usum-us",
+        "text": "Auf Müllhalden wird man oft Zeuge davon, wie\nes sich einen heftigen Streit mit Kramurx um\nglänzende Gegenstände liefert."
+      },
+      {
+        "game": "usum-um",
+        "text": "Es hat eine Vorliebe für Münzen. Gibt man ihm\neine, gewinnt man leicht sein Zutrauen, doch das\nwährt dank des launischen Wesens nicht lange."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Dieses Pokémon ist offenbar nachtaktiv. Es liebt\nglitzernde, runde Gegenstände und stiehlt diese\nbei jeder Gelegenheit."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Dieses Pokémon ist offenbar nachtaktiv. Es liebt\nglitzernde, runde Gegenstände und stiehlt diese\nbei jeder Gelegenheit."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Es sammelt mit Vorliebe glänzende Gegenstände.\nIst es gut gelaunt, lässt es seinen Trainer einen\nBlick auf seine Sammlung werfen."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Es wäscht sich regelmäßig das Gesicht, um die\nMünze auf seiner Stirn sauber zu halten. Es hat\nkein gutes Verhältnis zu den Mauzi aus Galar."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Meowth",
+    "genus": "Pokémon Gato Araña",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Es de naturaleza nocturna. Le atraen los objetos\nbrillantes."
+      },
+      {
+        "game": "xy-y",
+        "text": "Adora los objetos redondos. De noche, camina por las\ncalles en busca de monedas perdidas."
+      },
+      {
+        "game": "oras-or",
+        "text": "Meowth retrae las afiladas uñas de sus zarpas para caminar a\nhurtadillas, dando sigilosos pasos para pasar inadvertido.\nNo se sabe muy bien por qué, pero este Pokémon adora las\nmonedas brillantes que resplandecen con la luz."
+      },
+      {
+        "game": "oras-as",
+        "text": "Meowth retrae las afiladas uñas de sus zarpas para caminar a\nhurtadillas, dando sigilosos pasos para pasar inadvertido.\nNo se sabe muy bien por qué, pero este Pokémon adora las\nmonedas brillantes que resplandecen con la luz."
+      },
+      {
+        "game": "sm-s",
+        "text": "Se pasa casi todo el día durmiendo y se vuelve\nmás activo al caer el sol. Por la noche merodea\npor la ciudad buscando monedas."
+      },
+      {
+        "game": "sm-m",
+        "text": "Le fascinan los objetos brillantes, por lo que a\nmenudo se disputa el botín con algún Murkrow."
+      },
+      {
+        "game": "usum-us",
+        "text": "No es extraño encontrarlos en los vertederos,\ndonde suelen pelearse con los Murkrow por\ncualquier objeto reluciente."
+      },
+      {
+        "game": "usum-um",
+        "text": "Adora las monedas y basta con darle una para\nganarse su afecto, que no suele durar mucho\ndebido a su carácter caprichoso."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Al parecer, es más activo por la noche. Adora de\ntal manera los objetos redondos y brillantes que\nno puede evitar recogerlos si se los encuentra."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Al parecer, es más activo por la noche. Adora de\ntal manera los objetos redondos y brillantes que\nno puede evitar recogerlos si se los encuentra."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Le encanta reunir objetos brillantes. Cuando está\nde buen humor, hasta le muestra la colección a\nsu Entrenador."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Se lava cuidadosamente la cara para que no se le\nensucie la moneda de oro que tiene en la frente.\nNo se lleva nada bien con los Meowth de Galar."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Meowth",
+    "genus": "Pokémon Graffimiao",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "È un Pokémon attivo di notte. Se nota qualcosa\ndi luccicante, i suoi occhi cominciano a brillare."
+      },
+      {
+        "game": "xy-y",
+        "text": "Ama gli oggetti rotondi. Di notte vaga per le vie\nin cerca di monetine perdute."
+      },
+      {
+        "game": "oras-or",
+        "text": "Meowth ritira i suoi artigli affilati all’interno delle zampe\nper poter aggirarsi furtivo camuffando le tracce.\nPer qualche oscura ragione questo Pokémon è attratto\ndalle monetine che splendono alla luce."
+      },
+      {
+        "game": "oras-as",
+        "text": "Meowth ritira i suoi artigli affilati all’interno delle zampe\nper poter aggirarsi furtivo camuffando le tracce.\nPer qualche oscura ragione questo Pokémon è attratto\ndalle monetine che splendono alla luce."
+      },
+      {
+        "game": "sm-s",
+        "text": "Dorme tutto il giorno e si attiva verso\nil tramonto. Durante la notte gira per la città\nin cerca di monetine."
+      },
+      {
+        "game": "sm-m",
+        "text": "Ama gli oggetti luccicanti.\nSpesso se li contende con Murkrow."
+      },
+      {
+        "game": "usum-us",
+        "text": "Nelle discariche capita di vederlo lottare\nfuriosamente con Murkrow per gli oggetti\nluccicanti."
+      },
+      {
+        "game": "usum-um",
+        "text": "Adora le monetine. Basta dargliene un po’\nperché si affezioni, ma a causa del suo\ncarattere volubile non è affidabile."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Pare che sia più attivo durante la notte. Ama\ngli oggetti lucenti e rotondi, e quando ne vede\nnon può fare a meno di raccoglierli."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Pare che sia più attivo durante la notte. Ama\ngli oggetti lucenti e rotondi, e quando ne vede\nnon può fare a meno di raccoglierli."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Ama raccogliere oggetti luccicanti.\nQuando è di buon umore mostra la sua\ncollezione anche al suo Allenatore."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Si lava regolarmente il muso per tenere pulita\nla moneta sulla fronte. Non va d’accordo con\nil Meowth di Galar."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Meowth",
+    "genus": "Scratch Cat Pokémon",
+    "flavorText": [
+      {
+        "game": "swsh-sh",
+        "text": "It washes its face regularly to keep the coin on\nits forehead spotless. It doesn’t get along with\nGalarian Meowth."
+      },
+      {
+        "game": "rb-r",
+        "text": "Adores circular\nobjects. Wanders\nthe streets on a\fnightly basis to\nlook for dropped\nloose change."
+      },
+      {
+        "game": "rb-b",
+        "text": "Adores circular\nobjects. Wanders\nthe streets on a\fnightly basis to\nlook for dropped\nloose change."
+      },
+      {
+        "game": "y",
+        "text": "Appears to be more\nactive at night.\nIt loves round\fand shiny things.\nIt can't stop from\npicking them up."
+      },
+      {
+        "game": "gs-g",
+        "text": "It is fascinated\nby round objects.\nIt can't stop\fplaying with them\nuntil it tires and\nfalls asleep."
+      },
+      {
+        "game": "gs-s",
+        "text": "It loves anything\nthat shines. It\nespecially adores\fcoins that it\npicks up and se­\ncretly hoards."
+      },
+      {
+        "game": "c",
+        "text": "It loves things\nthat sparkle. When\nit sees a shiny\fobject, the gold\ncoin on its head\nshines too."
+      },
+      {
+        "game": "rs-r",
+        "text": "MEOWTH withdraws its sharp claws into\nits paws to slinkily sneak about without\nmaking any incriminating footsteps.\fFor some reason, this POKéMON loves\nshiny coins that glitter with light."
+      },
+      {
+        "game": "rs-s",
+        "text": "MEOWTH withdraws its sharp claws into\nits paws to slinkily sneak about without\nmaking any incriminating footsteps.\fFor some reason, this POKéMON loves\nshiny coins that glitter with light."
+      },
+      {
+        "game": "e",
+        "text": "MEOWTH withdraw their sharp claws into\ntheir paws to silently sneak about.\nFor some reason, this POKéMON loves\nshiny coins that glitter with light."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "All it does is sleep during the daytime.\nAt night, it patrols its territory with its\neyes aglow."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "Adores round objects. It wanders the\nstreets on a nightly basis to look for\ndropped loose change."
+      },
+      {
+        "game": "dp-d",
+        "text": "It is nocturnal in nature. If it\nspots something shiny, its eyes\nglitter brightly."
+      },
+      {
+        "game": "dp-p",
+        "text": "It is nocturnal in nature. If it\nspots something shiny, its eyes\nglitter brightly."
+      },
+      {
+        "game": "pt",
+        "text": "It is nocturnal in nature. If it\nspots something shiny, its eyes\nglitter brightly."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "It is fascinated by round objects.\nIt can’t stop playing with them\nuntil it tires and falls asleep."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "It loves anything that shines. It\nespecially adores coins that it\npicks up and secretly hoards."
+      },
+      {
+        "game": "bw-b",
+        "text": "It is nocturnal in nature. If it\nspots something shiny, its eyes\nglitter brightly."
+      },
+      {
+        "game": "bw-w",
+        "text": "It is nocturnal in nature. If it\nspots something shiny, its eyes\nglitter brightly."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "It is nocturnal in nature. If it\nspots something shiny, its eyes\nglitter brightly."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "It is nocturnal in nature. If it\nspots something shiny, its eyes\nglitter brightly."
+      },
+      {
+        "game": "xy-x",
+        "text": "It is nocturnal in nature. If it spots something shiny,\nits eyes glitter brightly."
+      },
+      {
+        "game": "xy-y",
+        "text": "Adores round objects. It wanders the streets on a\nnightly basis to look for dropped loose change."
+      },
+      {
+        "game": "oras-or",
+        "text": "Meowth withdraws its sharp claws into its paws to slinkily sneak\nabout without making any incriminating footsteps.\nFor some reason, this Pokémon loves shiny coins that\nglitter with light."
+      },
+      {
+        "game": "oras-as",
+        "text": "Meowth withdraws its sharp claws into its paws to slinkily sneak\nabout without making any incriminating footsteps. For some\nreason, this Pokémon loves shiny coins that glitter with light."
+      },
+      {
+        "game": "sm-s",
+        "text": "It lies around all day, becoming active near dusk.\nAt night, it wanders the city in search of\nloose change."
+      },
+      {
+        "game": "sm-m",
+        "text": "It loves shiny things. It often fights with\nMurkrow over prey they’re both trying to catch."
+      },
+      {
+        "game": "usum-us",
+        "text": "When visiting a junkyard, you may catch sight\nof it having an intense fight with Murkrow over\nshiny objects."
+      },
+      {
+        "game": "usum-um",
+        "text": "It loves coins, so if you give it one, you can\nmake friends with Meowth easily. But it’s fickle,\nso you can’t count on that friendship lasting."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Appears to be more active at night. It loves\nround and shiny things. It can’t stop itself from\npicking them up."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Appears to be more active at night. It loves\nround and shiny things. It can’t stop itself from\npicking them up."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "It loves to collect shiny things. If it’s in a good\nmood, it might even let its Trainer have a look\nat its hoard of treasures."
+      }
+    ]
+  },
+  "chs": {
+    "name": "喵喵",
+    "genus": "妖怪猫宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "白天就一直睡啊睡地度过，\n太阳落山时才开始活动。\n在夜晚的街道上搜寻硬币。"
+      },
+      {
+        "game": "sm-m",
+        "text": "非常喜欢闪闪亮亮的东西。\n经常和黑暗鸦为了争夺猎物而打架。"
+      },
+      {
+        "game": "usum-us",
+        "text": "如果去垃圾场的话，\n就能看到它和黑暗鸦为争夺\n发光的东西而激烈打斗的景象。"
+      },
+      {
+        "game": "usum-um",
+        "text": "非常喜欢硬币。只要给它硬币就能\n轻易和它亲近，但因为它性情多变，\n所以不怎么靠得住哦。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "貌似一到晚上就精力充沛。\n喜欢又圆又亮的东西，\n发现了就一定要捡走。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "貌似一到晚上就精力充沛。\n喜欢又圆又亮的东西，\n发现了就一定要捡走。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "喜欢收集亮晶晶的东西。\n当它心情好的时候，会让\n训练家一起欣赏自己的收藏。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "为了不弄脏额头上的\n金币，会常常洗脸。\n和伽勒尔的喵喵关系不好。"
+      }
+    ]
+  }
+}

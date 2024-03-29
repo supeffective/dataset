@@ -1,0 +1,269 @@
+{
+  "jap": {
+    "name": "ゼクロム",
+    "genus": "こくいんポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "いなずまで　せかいを　やきつくせる\nでんせつの　ポケモン。りそうの\nせかいを　つくる　ひとを　ほさする。"
+      },
+      {
+        "game": "xy-y",
+        "text": "しっぽで　でんきを　つくりだす。\nぜんしんを　かみなりぐもに　かくして\nイッシュちほうの　そらを　とぶ。"
+      },
+      {
+        "game": "oras-or",
+        "text": "いなずまで　せかいを　やきつくせる\nでんせつの　ポケモン。りそうの\nせかいを　つくる　ひとを　ほさする。"
+      },
+      {
+        "game": "oras-as",
+        "text": "しっぽで　でんきを　つくりだす。\nぜんしんを　かみなりぐもに　かくして\nイッシュちほうの　そらを　とぶ。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "しっぽの　ないぶが　モーターのように\nまわると　なんぼんもの　イナズマが\nはっせいして　しゅういを　つらぬく。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "ひとが　ただしい　こころを　なくすと\nはげしい　いかずちを　おとし　くにを\nほろぼすと　しんわに　えがかれた。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Zekrom",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "제크로무",
+    "genus": "흑음포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "번개로 세상을 태워버릴 수 있는\n전설의 포켓몬. 이상의 세계를\n구축하는 사람을 보좌한다."
+      },
+      {
+        "game": "xy-y",
+        "text": "꼬리로 전기를 만들어 낸다.\n전신을 번개 구름에 숨기고\n하나지방의 하늘을 난다."
+      },
+      {
+        "game": "oras-or",
+        "text": "번개로 세상을 태워버릴 수 있는\n전설의 포켓몬. 이상의 세계를\n구축하는 사람을 보좌한다."
+      },
+      {
+        "game": "oras-as",
+        "text": "꼬리로 전기를 만들어 낸다.\n전신을 번개 구름에 숨기고\n하나지방의 하늘을 난다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "꼬리 내부가 모터처럼\n회전하면 여러 갈래의 번개가\n발생하여 주위를 관통한다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "사람이 올바른 마음을 잃으면\n격렬한 천둥으로 나라를\n멸망시킨다는 신화가 있다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "捷克羅姆",
+    "genus": "黑陰寶可夢",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "當尾巴的內部像馬達那樣\n旋轉起來，就能製造出\n好幾道閃電，穿透周圍的一切。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "在神話的敘述裡，如果人類\n失去了正義之心，牠就會用\n狂暴的雷電毀滅他們的王國。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Zekrom",
+    "genus": "Pokémon Noir Idéal",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Sa queue produit de l’électricité.\nIl dissimule son corps dans un nuage\nélectrique et plane dans le ciel d’Unys."
+      },
+      {
+        "game": "bw-w",
+        "text": "Un Pokémon mythique.\nIl possède dans sa queue un énorme\ngénérateur qui produit de l’électricité."
+      },
+      {
+        "game": "xy-x",
+        "text": "Un Pokémon légendaire assez puissant pour foudroyer\nle monde entier. Il soutient ceux qui suivent leur Idéal."
+      },
+      {
+        "game": "xy-y",
+        "text": "Sa queue produit de l’électricité. Il dissimule son\ncorps dans un nuage électrique et plane dans le ciel\nd’Unys."
+      },
+      {
+        "game": "oras-or",
+        "text": "Un Pokémon légendaire assez puissant pour foudroyer\nle monde entier. Il soutient ceux qui suivent leur Idéal."
+      },
+      {
+        "game": "oras-as",
+        "text": "Sa queue produit de l’électricité. Il dissimule son corps\ndans un nuage électrique et plane dans le ciel d’Unys."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Lorsque sa queue se met à tourner comme\nun réacteur, il produit des éclairs qui transpercent\ntout autour de lui."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Selon la légende, lorsque les gens perdent tout\nsens de ce qui est juste, Zekrom réduit le pays\nentier en cendres avec de terribles éclairs."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Zekrom",
+    "genus": "Reines Schwarz-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Ein Legendäres Pokémon mit der Macht, die Welt\ndurch Donner einzuäschern. Hilft allen, die einer\nWelt der Wünsche harren."
+      },
+      {
+        "game": "xy-y",
+        "text": "Sein Schweif erzeugt Strom. Es verbirgt sich hinter\ndichten Gewitterwolken und fliegt durch den Luftraum\nüber Einall."
+      },
+      {
+        "game": "oras-or",
+        "text": "Ein Legendäres Pokémon mit der Macht, die Welt durch\nDonner einzuäschern. Hilft allen, die einer Welt der Wünsche\nharren."
+      },
+      {
+        "game": "oras-as",
+        "text": "Sein Schweif erzeugt Strom. Es verbirgt sich hinter dichten\nGewitterwolken und fliegt durch den Luftraum über Einall."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Rotiert das Innere seines Schweifs wie eine\nTurbine, werden dadurch unzählige Blitze\nerzeugt, welche die Umgebung durchzucken."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Viele Mythen besingen den Donner, mit dem es\ndie Welt vernichten wird, wenn die Menschen\nden Sinn für die Gerechtigkeit verlieren."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Zekrom",
+    "genus": "Pokémon Negro Puro",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Pokémon legendario capaz de chamuscar el mundo\ncon sus rayos. Ayuda a quienes persiguen un mundo\nde ideales."
+      },
+      {
+        "game": "xy-y",
+        "text": "Genera electricidad con su cola y, para ocultarse,\nsobrevuela Teselia envuelto en nubes de rayos."
+      },
+      {
+        "game": "oras-or",
+        "text": "Pokémon legendario capaz de chamuscar el mundo con sus\nrayos. Ayuda a quienes persiguen un mundo de ideales."
+      },
+      {
+        "game": "oras-as",
+        "text": "Genera electricidad con su cola y, para ocultarse, sobrevuela\nTeselia envuelto en nubes de rayos."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Cuando el interior de su cola comienza a girar\ncomo una turbina, es capaz de descargar rayos\nque lo destruyen todo a su alrededor."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Según las leyendas, la furia de sus rayos\nfulminará todo país cuyas gentes hayan perdido\nel sentido de la justicia."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Zekrom",
+    "genus": "Pokémon Nero Ideale",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Questo Pokémon leggendario può riempire il mondo\ndi fulmini e saette. Aiuta chi vuole costruire un mondo\nideale."
+      },
+      {
+        "game": "xy-y",
+        "text": "Produce elettricità con la coda. Vola nei cieli di\nUnima nascosto fra lampi e saette."
+      },
+      {
+        "game": "oras-or",
+        "text": "Questo Pokémon leggendario può riempire il mondo di fulmini\ne saette. Aiuta chi vuole costruire un mondo ideale."
+      },
+      {
+        "game": "oras-as",
+        "text": "Produce elettricità con la coda. Vola nei cieli di Unima\nnascosto fra lampi e saette."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Quando l’interno della sua coda inizia a girare\ncome una turbina, emette lampi e saette che\nsquarciano l’aria tutta intorno."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Secondo le leggende, può radere al suolo\nun intero paese con fulmini terribili se i suoi\nabitanti hanno perso il senso della giustizia."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Zekrom",
+    "genus": "Deep Black Pokémon",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Concealing itself in lightning clouds,\nit flies throughout the Unova region.\nIt creates electricity in its tail."
+      },
+      {
+        "game": "bw-w",
+        "text": "This Pokémon appears in legends.\nIn its tail, it has a giant generator\nthat creates electricity."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "This legendary Pokémon can scorch\nthe world with lightning. It assists\nthose who want to build an ideal world."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "This legendary Pokémon can scorch\nthe world with lightning. It assists\nthose who want to build an ideal world."
+      },
+      {
+        "game": "xy-x",
+        "text": "This legendary Pokémon can scorch the world with\nlightning. It assists those who want to build an\nideal world."
+      },
+      {
+        "game": "xy-y",
+        "text": "Concealing itself in lightning clouds, it flies\nthroughout the Unova region. It creates electricity\nin its tail."
+      },
+      {
+        "game": "oras-or",
+        "text": "This legendary Pokémon can scorch the world with\nlightning. It assists those who want to build an\nideal world."
+      },
+      {
+        "game": "oras-as",
+        "text": "Concealing itself in lightning clouds, it flies\nthroughout the Unova region. It creates electricity\nin its tail."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "When the interior part of its tail spins like a\nmotor, Zekrom can generate many bolts of\nlightning to blast its surroundings."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Mythology tells us that if people lose the\nrighteousness in their hearts, their kingdoms\nwill be razed by Zekrom’s lightning."
+      }
+    ]
+  },
+  "chs": {
+    "name": "捷克罗姆",
+    "genus": "黑阴宝可梦",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "当尾巴的内部像马达那样\n旋转起来，就能制造出\n好几道闪电，穿透周围的一切。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "在神话的描述里，如果人类\n失去了正义之心，它就会用\n狂暴的雷电毁灭他们的王国。"
+      }
+    ]
+  }
+}

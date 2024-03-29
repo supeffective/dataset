@@ -1,0 +1,413 @@
+{
+  "jap": {
+    "name": "バルジーナ",
+    "genus": "ほねわしポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "おおぞらで　えんをえがきつつ　とび\nえものを　みつけると　おそいかかって\nすまで　かるがると　はこんでいく。"
+      },
+      {
+        "game": "xy-y",
+        "text": "そらから　ちじょうを　かんさつして\nよわった　えものに　おそいかかる。\nほねで　きかざる　しゅうせい。"
+      },
+      {
+        "game": "oras-or",
+        "text": "おおぞらで　えんをえがきつつ　とび\nえものを　みつけると　おそいかかって\nすまで　かるがると　はこんでいく。"
+      },
+      {
+        "game": "oras-as",
+        "text": "そらから　ちじょうを　かんさつして\nよわった　えものに　おそいかかる。\nほねで　きかざる　しゅうせい。"
+      },
+      {
+        "game": "sm-s",
+        "text": "ホネで　きれいに　きかざるのは　♂に\nアピールするためと　いわれるが\nバルジーナの　♂は　みつかっていない。"
+      },
+      {
+        "game": "sm-m",
+        "text": "おおぞらを　せんかい　しながら\nよわった　ポケモンを　ねらっている。\nだいこうぶつは　カラカラ。"
+      },
+      {
+        "game": "usum-us",
+        "text": "くった　えものの　ホネを　つかって\nきように　すを　つくる。　おおくの\nホネは　カラカラの　ものだ。"
+      },
+      {
+        "game": "usum-um",
+        "text": "バルチャイの　ために　いつも　エサを\nさがしている。　よわった　ポケモンを\nみつけしだい　すまで　つれさるぞ。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "あらっぽい　せいしつだが　まいごの\nバルチャイを　みかけると　すだつまで\nたいせつに　めんどうを　みる。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "ひろった　ホネで　みを　かざる。\nまとう　ホネの　かたちには\nりゅうこうが　あるらしい。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Vulgina",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "버랜지나",
+    "genus": "뼈독수리포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "넓은 하늘에서 원을 그리며 날고\n먹이를 발견하면 덮쳐서\n둥지까지 가뿐히 나른다."
+      },
+      {
+        "game": "xy-y",
+        "text": "하늘에서 지상을 관찰하다\n쇠약해진 먹이를 덮친다.\n뼈로 몸치장하는 습성이 있다."
+      },
+      {
+        "game": "oras-or",
+        "text": "넓은 하늘에서 원을 그리며 날고\n먹이를 발견하면 덮쳐서\n둥지까지 가뿐히 나른다."
+      },
+      {
+        "game": "oras-as",
+        "text": "하늘에서 지상을 관찰하다\n쇠약해진 먹이를 덮친다.\n뼈로 몸치장하는 습성이 있다."
+      },
+      {
+        "game": "sm-s",
+        "text": "뼈로 예쁘게 치장하는 것은 수컷에게\n어필하기 위한 것이라고 전해지지만\n버랜지나의 수컷은 발견되지 않았다."
+      },
+      {
+        "game": "sm-m",
+        "text": "넓은 하늘을 선회하며\n약해진 포켓몬을 노리고 있다.\n가장 좋아하는 것은 탕구리."
+      },
+      {
+        "game": "usum-us",
+        "text": "먹은 먹이의 뼈를 사용해\n솜씨 좋게 둥지를 만든다.\n대부분의 뼈는 탕구리의 것이다."
+      },
+      {
+        "game": "usum-um",
+        "text": "벌차이를 위해 언제나 먹이를\n찾고 있다. 약해진 포켓몬을\n발견하는 대로 둥지로 데려간다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "성질이 난폭하지만 미아가 된\n벌차이를 발견하면 둥지를\n떠날 때까지 정성껏 돌봐준다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "주운 뼈로 몸을 장식한다.\n몸에 두르는 뼈의 모양은\n유행이 있는 듯하다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "禿鷹娜",
+    "genus": "骨鷹寶可夢",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "據說，用骨頭華麗地裝飾是為了吸引♂，\n但還沒有發現過♂的禿鷹娜。"
+      },
+      {
+        "game": "sm-m",
+        "text": "一邊在天空盤旋，\n一邊瞄準弱小的寶可夢。\n最喜歡吃的是卡拉卡拉。"
+      },
+      {
+        "game": "usum-us",
+        "text": "會利用吃掉獵物後剩下的骨頭\n靈巧地做成自己的巢穴。\n大部分的骨頭是來自卡拉卡拉。"
+      },
+      {
+        "game": "usum-um",
+        "text": "為了禿鷹丫頭不斷尋找食物。\n只要發現衰弱的寶可夢，\n就會捉起來帶回巢穴去。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "雖然性情粗暴，如果遇到了\n迷路的禿鷹丫頭，便會細心\n照顧牠，直到牠長大離巢。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "把撿來的骨頭裝飾在身上。\n在骨頭形狀這方面\n似乎也是有流行趨勢的。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Vaututrice",
+    "genus": "Pokémon Vostour",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Il construit des nids en os. Il attrape\nles proies affaiblies avec ses serres\net les transporte allègrement au nid."
+      },
+      {
+        "game": "bw-w",
+        "text": "Il guette le sol depuis les airs et\nfond sur les proies affaiblies.\nIl aime s’apprêter avec des ossements."
+      },
+      {
+        "game": "xy-x",
+        "text": "Il tournoie dans les airs en quête d’une proie sur\nlaquelle il fondra avant de l’emporter avec aisance\nà son nid."
+      },
+      {
+        "game": "xy-y",
+        "text": "Il guette le sol depuis les airs et fond sur les proies\naffaiblies. Il aime s’apprêter avec des ossements."
+      },
+      {
+        "game": "oras-or",
+        "text": "Il tournoie dans les airs en quête d’une proie sur laquelle\nil fondra avant de l’emporter avec aisance à son nid."
+      },
+      {
+        "game": "oras-as",
+        "text": "Il guette le sol depuis les airs et fond sur les proies affaiblies.\nIl aime s’apprêter avec des ossements."
+      },
+      {
+        "game": "sm-s",
+        "text": "Les Vaututrice femelles se parent d’ossements\npour leur parade nuptiale. On attend toujours\nde découvrir si les mâles existent ou pas."
+      },
+      {
+        "game": "sm-m",
+        "text": "Il tournoie, haut dans le ciel, à la recherche\nd’un Pokémon affaibli. Sa proie favorite est\nle petit Osselait."
+      },
+      {
+        "game": "usum-us",
+        "text": "Il utilise avec dextérité les ossements de\nses proies pour construire son nid. La plupart\nde ces os appartenaient à des Osselait."
+      },
+      {
+        "game": "usum-um",
+        "text": "Il est toujours à la recherche de nourriture pour\nVostourno. Quand il trouve un Pokémon affaibli,\nil fond sur la proie et l’emporte dans son nid."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Malgré son naturel brutal, il recueille volontiers\nles Vostourno égarés et prend soin d’eux\njusqu’à ce qu’ils soient en âge de quitter le nid."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Il se pare d’ossements qu’il a ramassés.\nIl semblerait qu’il choisisse la forme des os\nqu’il porte selon les dernières tendances."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Grypheldis",
+    "genus": "Knochenadler-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Es kreist am Himmel, bis es seine Beute findet.\nNach erfolgtem Angriff trägt es sie mühelos zu\nseinem Nest."
+      },
+      {
+        "game": "xy-y",
+        "text": "Es überblickt das Areal aus der Luft und stürzt sich auf\nein geschwächtes Opfer. Trägt gern Knochenschmuck."
+      },
+      {
+        "game": "oras-or",
+        "text": "Es kreist am Himmel, bis es seine Beute findet. Nach erfolgtem\nAngriff trägt es sie mühelos zu seinem Nest."
+      },
+      {
+        "game": "oras-as",
+        "text": "Es überblickt das Areal aus der Luft und stürzt sich auf ein\ngeschwächtes Opfer. Trägt gern Knochenschmuck."
+      },
+      {
+        "game": "sm-s",
+        "text": "Trägt gern Knochenschmuck, um Männchen zu\ngefallen. Niemand hat bisher aber jemals ein\nmännliches Grypheldis gesehen."
+      },
+      {
+        "game": "sm-m",
+        "text": "Es überblickt das Areal aus der Luft und stürzt\nsich auf geschwächte Pokémon. Tragosso ist\nseine bevorzugte Beute."
+      },
+      {
+        "game": "usum-us",
+        "text": "Nachdem es seine Beute verspeist hat, baut es\naus deren Knochen mit viel Geschick sein Nest.\nDie meisten davon stammen von Tragosso."
+      },
+      {
+        "game": "usum-um",
+        "text": "Für Skallyk geht es pausenlos auf Futtersuche.\nTrifft es auf ein geschwächtes Pokémon, bringt\nes dieses sogar bis zu seinem Nest."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Grypheldis sind ziemliche Grobiane. Begegnet\nihnen ein verirrtes Skallyk, kümmern sie sich aber\nliebevoll um es, bis es das Nest verlassen kann."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Es schmückt sich mit Knochen. Man kann wohl\nTrends beobachten, was für Knochenformen bei\nihnen gerade besonders angesagt sind."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Mandibuzz",
+    "genus": "Pokémon Buitre Hueso",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Vuela en círculos. Cuando avista una presa, la ataca y\nla transporta a su nido con suma facilidad."
+      },
+      {
+        "game": "xy-y",
+        "text": "Otea la superficie desde el cielo y ataca a Pokémon\ndebilitados. Tiene por costumbre hacerse adornos\ncon huesos."
+      },
+      {
+        "game": "oras-or",
+        "text": "Vuela en círculos. Cuando avista una presa, la ataca y la\ntransporta a su nido con suma facilidad."
+      },
+      {
+        "game": "oras-as",
+        "text": "Otea la superficie desde el cielo y ataca a Pokémon\ndebilitados. Tiene por costumbre hacerse adornos con\nhuesos."
+      },
+      {
+        "game": "sm-s",
+        "text": "Se dice que los huesos con los que se engalana\nle sirven para cortejar al otro sexo, aunque\nnunca se ha avistado ningún Mandibuzz macho."
+      },
+      {
+        "game": "sm-m",
+        "text": "Revolotea por el cielo en busca de un Pokémon\ndébil al que convertir en su presa. Tiene una\nparticular debilidad por los Cubone."
+      },
+      {
+        "game": "usum-us",
+        "text": "Utiliza con pericia los huesos de las presas que\ndevora para así construir un nido. La mayoría de\nlos huesos pertenecen a los Cubone."
+      },
+      {
+        "game": "usum-um",
+        "text": "Busca sin cesar comida para alimentar a\nVullaby. Atrapa al instante a cualquier Pokémon\ndebilitado que aviste y lo lleva al nido."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "A pesar de su carácter violento, si avista un\nVullaby perdido, lo acoge en su nido y lo cuida\ncon esmero hasta que está listo para partir."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Se engalana con los huesos que va recogiendo.\nAl parecer, la elección no es casual, sino que\nobedece a los dictados de la moda."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Mandibuzz",
+    "genus": "Pokémon Ossaquila",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Vola in cerchio nel cielo e quando scorge una preda\nle si lancia contro in picchiata per trasportarla al suo\nnido."
+      },
+      {
+        "game": "xy-y",
+        "text": "Osserva la terra dal cielo e si lancia sulle prede in\ndifficoltà. Ha l’abitudine di farsi delle decorazioni\ncon le ossa."
+      },
+      {
+        "game": "oras-or",
+        "text": "Vola in cerchio nel cielo e quando scorge una preda le si\nlancia contro in picchiata per trasportarla al suo nido."
+      },
+      {
+        "game": "oras-as",
+        "text": "Osserva la terra dal cielo e si lancia sulle prede in difficoltà.\nHa l’abitudine di farsi delle decorazioni con le ossa."
+      },
+      {
+        "game": "sm-s",
+        "text": "Si dice che si adorni di ossa per attirare\nesemplari di sesso opposto. Tuttavia non\nsono mai stati avvistati Mandibuzz maschi."
+      },
+      {
+        "game": "sm-m",
+        "text": "Volteggia nel cielo alla ricerca di Pokémon\nindeboliti. È ghiotto di Cubone."
+      },
+      {
+        "game": "usum-us",
+        "text": "Costruisce abilmente il nido usando le ossa\ndelle sue prede, soprattutto quelle di Cubone."
+      },
+      {
+        "game": "usum-um",
+        "text": "È sempre in cerca di cibo per Vullaby. Appena\ntrova un Pokémon indebolito, lo trasporta subito\nal suo nido."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Ha un’indole violenta, ma se trova un Vullaby\nche si è smarrito lo accudisce con amore fino\na quando non è pronto a lasciare il nido."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Raccoglie ossa con cui adorna il suo corpo.\nSembra che la forma di queste decorazioni\ncambi a seconda della moda del momento."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Mandibuzz",
+    "genus": "Bone Vulture Pokémon",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "It makes a nest out of bones it finds.\nIt grabs weakened prey in its talons\nand hauls it to its nest of bones."
+      },
+      {
+        "game": "bw-w",
+        "text": "Watching from the sky, they swoop to\nstrike weakened Pokémon on the ground.\nThey decorate themselves with bones."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "They fly in circles around the sky.\nWhen they spot prey, they attack and\ncarry it back to their nest with ease."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "They fly in circles around the sky.\nWhen they spot prey, they attack and\ncarry it back to their nest with ease."
+      },
+      {
+        "game": "xy-x",
+        "text": "They fly in circles around the sky. When they spot\nprey, they attack and carry it back to their nest\nwith ease."
+      },
+      {
+        "game": "xy-y",
+        "text": "Watching from the sky, they swoop to strike\nweakened Pokémon on the ground. They decorate\nthemselves with bones."
+      },
+      {
+        "game": "oras-or",
+        "text": "They fly in circles around the sky. When they spot\nprey, they attack and carry it back to their nest\nwith ease."
+      },
+      {
+        "game": "oras-as",
+        "text": "Watching from the sky, they swoop to strike\nweakened Pokémon on the ground. They decorate\nthemselves with bones."
+      },
+      {
+        "game": "sm-s",
+        "text": "They adorn themselves beautifully with bones.\nThis is supposedly an effort to attract males,\nbut no male Mandibuzz have ever been found."
+      },
+      {
+        "game": "sm-m",
+        "text": "It circles in the sky, keeping a keen eye out for\nPokémon in a weakened state. Its choicest food\nis Cubone."
+      },
+      {
+        "game": "usum-us",
+        "text": "It skillfully arranges the bones of its prey to\nconstruct its nest. Most of the bones\nare Cubone."
+      },
+      {
+        "game": "usum-um",
+        "text": "It’s always searching for food for Vullaby. When\nit finds a weak Pokémon, Mandibuzz swoops it\nright off to its nest."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Although it’s a bit of a ruffian, this Pokémon will\ntake lost Vullaby under its wing and care for them\ntill they’re ready to leave the nest."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "They adorn themselves with bones. There seem\nto be fashion trends among them, as different\nbones come into and fall out of popularity."
+      }
+    ]
+  },
+  "chs": {
+    "name": "秃鹰娜",
+    "genus": "骨鹰宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "据说，用骨头华丽地装饰是为了吸引♂，\n但还没有发现过♂的秃鹰娜。"
+      },
+      {
+        "game": "sm-m",
+        "text": "一边在天空盘旋，\n一边瞄准弱小的宝可梦。\n最喜欢吃的是卡拉卡拉。"
+      },
+      {
+        "game": "usum-us",
+        "text": "会使用所吃猎物的骨头\n灵巧地做成自己的巢穴。\n大多数骨头都是卡拉卡拉的。"
+      },
+      {
+        "game": "usum-um",
+        "text": "为了秃鹰丫头而一直寻找着食物。\n一旦找到体弱的宝可梦\n就会掳去自己的巢穴。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "虽然性情粗暴，如果遇到了\n迷路的秃鹰丫头，便会精心\n照顾它，直到它长大离巢。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "把捡来的骨头装饰在身上。\n在骨头形状这方面\n似乎也是有流行趋势的。"
+      }
+    ]
+  }
+}

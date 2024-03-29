@@ -1,0 +1,469 @@
+{
+  "jap": {
+    "name": "クロバット",
+    "genus": "こうもりポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "４まいに　ふえた　つばさで\nくらやみを　しずかに　とんでいく。\nとなりを　とおられても　きづかない。"
+      },
+      {
+        "game": "xy-y",
+        "text": "４まいに　ふえた　はねを　つかい\nさらに　はやく　しずかに　とんで\nえものに　きづかれず　しのびよる。"
+      },
+      {
+        "game": "oras-or",
+        "text": "うでか　あしの　どちらかだけで　はばたいている\nときは　ながい　きょりを　とんでいる　しょうこ。\nつかれると　はばたく　ハネを　かえるのだ。"
+      },
+      {
+        "game": "oras-as",
+        "text": "みみを　すまさないと　きこえないほど　ちいさな\nはおとで　ねらった　えものに　しのびよるぞ。\nうしろあしの　ハネで　えだに　つかまり　やすむ。"
+      },
+      {
+        "game": "sm-s",
+        "text": "りょうあしも　はねになった　けっか\nちじょうでの　うごきは　にがて。\nはいずりまわることしか　できない。"
+      },
+      {
+        "game": "sm-m",
+        "text": "４まいのハネで　はやくしずかに　とぶ。\nきづかれるまえに　えものを　ガブリ。\nあっというまに　ちを　ぬきさるぞ。"
+      },
+      {
+        "game": "usum-us",
+        "text": "キバが　するどいので　くらやみで\nかまれ　ちを　すわれても　いたみが\nなくて　すぐに　きが　つかない。"
+      },
+      {
+        "game": "usum-um",
+        "text": "ひとや　ポケモンの　いきちが　エサ。\nすこし　すわないで　いるだけで\nよわって　とべなくなって　しまう。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "りょうあしが　ハネに　へんか。\nおとを　たてずに　こうそくで　とび\nエモノの　うなじに　キバを　たてる。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "４まいの　ハネを　じざいに　あやつり\nはばたく。　せまい　どうくつでも\nスピードを　おとさず　とびまわれる。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Crobat",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "크로뱃",
+    "genus": "박쥐포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "4장으로 수가 늘어난 날개로\n어둠 속을 조용히 날아간다.\n주위를 지나쳐도 눈치채지 못한다."
+      },
+      {
+        "game": "xy-y",
+        "text": "4장으로 늘어난 날개를 사용하여\n더욱 빠르고 조용하게 날아\n먹이가 눈치채지 않게 살며시 다가간다."
+      },
+      {
+        "game": "oras-or",
+        "text": "팔이나 다리 어느 한쪽만으로 날갯짓할\n때는 긴 거리를 날고 있다는 증거다.\n지치면 날갯짓하는 날개를 바꾼다."
+      },
+      {
+        "game": "oras-as",
+        "text": "귀를 기울이지 않으면 들리지 않을 정도로 작은\n날갯소리로 노린 먹이에게 살며시 다가간다.\n뒷다리의 날개로 가지를 붙잡고 쉰다."
+      },
+      {
+        "game": "sm-s",
+        "text": "양발이 날개가 된 결과\n지상에서 움직이는 것이 서툴다.\n기어 돌아다니는 것밖에 못 한다."
+      },
+      {
+        "game": "sm-m",
+        "text": "4장의 날개로 빠르고 조용하게 난다.\n눈치채기 전에 먹이를 덥석 문다.\n순식간에 피를 뽑아낸다."
+      },
+      {
+        "game": "usum-us",
+        "text": "이빨이 예리해서 어둠 속에서 물려\n피를 빨려도 통증이 없기 때문에\n금세 알아차리지 못한다."
+      },
+      {
+        "game": "usum-um",
+        "text": "사람이나 포켓몬의 피가 먹이다.\n잠시만 피를 빨지 않아도\n약해져서 날지 못하게 되어 버린다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "양발이 날개로 변화했다.\n소리를 내지 않고 고속으로 날아\n먹이의 목덜미에 이빨을 꽂는다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "4장의 날개를 자유자재로 움직이며\n날갯짓한다. 좁은 동굴에서도\n속도를 늦추지 않고 날아다닐 수 있다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "叉字蝠",
+    "genus": "蝙蝠寶可夢",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "因為連雙腳也變成翅膀，\n所以不擅長在地上行動，\n只能到處爬行。"
+      },
+      {
+        "game": "sm-m",
+        "text": "用４隻翅膀快速而安靜地飛行。\n在被發現之前一口咬住獵物，\n一瞬間把血吸得乾乾淨淨。"
+      },
+      {
+        "game": "usum-us",
+        "text": "牙齒很銳利，就算在黑暗中被牠\n咬住吸血，也會因感覺不到疼痛\n而無法立刻發現。"
+      },
+      {
+        "game": "usum-um",
+        "text": "主食是人和寶可夢的鮮血。\n只要一小段時間沒吸血，\n就會衰弱到無法飛行。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "雙腳變成了翅膀。\n能夠無聲無息地高速飛行，\n用獠牙咬住獵物的後頸。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "能夠自在地控制４隻翅膀\n振翅飛翔。即使是在狹窄的\n洞窟裡也能毫不減速地飛舞。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Nostenfer",
+    "genus": "Pokémon Chovsouris",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "La transformation de ses pattes en\nailes a certes amélioré sa capacité\nà voler, mais pas à marcher."
+      },
+      {
+        "game": "bw-w",
+        "text": "La transformation de ses pattes en\nailes a certes amélioré sa capacité\nà voler, mais pas à marcher."
+      },
+      {
+        "game": "xy-x",
+        "text": "Il vole en silence dans l’obscurité à l’aide de ses\nquatre ailes. On ne l’entend pas, même s’il est très\nproche."
+      },
+      {
+        "game": "xy-y",
+        "text": "Ses quatre ailes lui permettent de voler furtivement\npour approcher ses proies sans les effrayer."
+      },
+      {
+        "game": "oras-or",
+        "text": "Lorsque Nostenfer vole depuis longtemps, il utilise ses ailes\nantérieures ou postérieures en alternance. Il peut aisément\nchanger de paire d’ailes lorsqu’il est fatigué."
+      },
+      {
+        "game": "oras-as",
+        "text": "Nostenfer s’approche discrètement de sa proie grâce à\nses ailes silencieuses. Ce Pokémon se repose en s’accrochant\nà une branche avec ses pattes arrière, qui peuvent aussi lui\nservir d’ailes."
+      },
+      {
+        "game": "sm-s",
+        "text": "Comme ses pattes sont devenues des ailes,\nil a du mal à se mouvoir sur terre. Il ne peut\nque se traîner péniblement au sol."
+      },
+      {
+        "game": "sm-m",
+        "text": "Il vole vite et sans bruit grâce à ses quatre\nailes, mord sa proie sans se faire remarquer,\net disparaît aussi vite, la laissant exsangue."
+      },
+      {
+        "game": "usum-us",
+        "text": "Ses crocs sont si acérés qu’il peut sucer\nle sang de ses proies dans l’obscurité sans\nmême qu’elles s’en rendent compte."
+      },
+      {
+        "game": "usum-um",
+        "text": "Il se nourrit du sang frais d’humains et de\nPokémon. S’il en manque ne serait-ce qu’un\ninstant, il s’affaiblit et ne peut plus voler."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Ses pattes sont devenues des ailes.\nIl fond sur sa proie furtivement puis\nplante ses crocs dans sa nuque."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Il vole en contrôlant librement ses quatre ailes\net peut se déplacer sans avoir besoin de ralentir,\nmême dans les grottes étroites."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Iksbat",
+    "genus": "Fledermaus-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Mit seinen vier Flügeln fliegt es so geräuschlos\ndurch die Nacht, dass man es nicht bemerkt."
+      },
+      {
+        "game": "xy-y",
+        "text": "Dank seiner vier Flügel kann es sich seiner Beute\nnoch schneller und leiser nähern, ohne dabei\nbemerkt zu werden."
+      },
+      {
+        "game": "oras-or",
+        "text": "Wenn Iksbat fliegt, indem es entweder das vordere oder\ndas hintere Paar Flügel bewegt, ist dies ein Anzeichen dafür,\ndass dieses Pokémon bereits eine lange Strecke hinter sich\nhat. Dann wechselt es die Flügel häufig."
+      },
+      {
+        "game": "oras-as",
+        "text": "Iksbats Flügelschlag ist so leise, dass die Beute lautlos\nüberrascht wird. Dieses Pokémon ruht sich aus, indem es\nsich mit seinen Hinterbeinen an einen Ast hängt."
+      },
+      {
+        "game": "sm-s",
+        "text": "Es kann sich nur schwer am Boden fortbewegen,\nda aus seinen zwei Beinen Flügel geworden sind.\nDaher ist es nur zu Kriechbewegungen fähig."
+      },
+      {
+        "game": "sm-m",
+        "text": "Mit seinen vier Flügeln kann es schnell und leise\nfliegen. Ehe seine Beute sich versieht, hat es sie\nschon gebissen und ihr alles Blut ausgesaugt."
+      },
+      {
+        "game": "usum-us",
+        "text": "Iksbat hat sehr scharfe Zähne, sodass seine\nBeute oft nichts davon merkt, wenn es in der\nDunkelheit zubeißt und ihr Blut aussaugt."
+      },
+      {
+        "game": "usum-um",
+        "text": "Frisches Blut von Menschen und Pokémon ist\nseine Nahrung. Ohne konstanten Nachschub\nwird es schwach und kann nicht mehr fliegen."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Seine zwei Beine wurden zu Flügeln. Es fliegt\nschnell und lautlos zu seiner Beute, um ihr dann\ndie Zähne in den Nacken zu bohren."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Seine vier Flügel können unabhängig voneinander\nschlagen. So vermag es auch in engen Höhlen\nohne Geschwindigkeitsverlust umherzufliegen."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Crobat",
+    "genus": "Pokémon Murciélago",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Es tan silencioso cuando vuela en la oscuridad con sus\ncuatro alas, que cuesta percibirlo cuando se acerca."
+      },
+      {
+        "game": "xy-y",
+        "text": "Al contar con cuatro alas, puede acechar de manera\nmás rápida y sigilosa a sus presas sin que estas lo\nperciban."
+      },
+      {
+        "game": "oras-or",
+        "text": "Cuando este Pokémon vuela batiendo solo las alas delanteras\no traseras, es porque lleva volando bastante tiempo. Cuando\nse cansa, Crobat alterna las alas."
+      },
+      {
+        "game": "oras-as",
+        "text": "Crobat se acerca hasta su posible presa usando las alas casi\nsin hacer ruido. La forma de descansar que tiene es colgarse\nde la rama de un árbol por las patas traseras."
+      },
+      {
+        "game": "sm-s",
+        "text": "Tiene una movilidad muy reducida en el suelo, ya\nque sus patas se transformaron en alas. La\núnica opción que le queda es arrastrarse."
+      },
+      {
+        "game": "sm-m",
+        "text": "Puede volar rápida y sigilosamente gracias a sus\ncuatro alas. Se abalanza sobre sus presas y les\nchupa toda la sangre antes de que se percaten."
+      },
+      {
+        "game": "usum-us",
+        "text": "Sus colmillos son tan afilados que su mordedura\nresulta indolora y puede chupar la sangre a sus\npresas en la oscuridad sin que se percaten."
+      },
+      {
+        "game": "usum-um",
+        "text": "Se alimenta de sangre fresca de humanos y\nPokémon. Debe alimentarse constantemente o,\nde lo contrario, se vuelve débil y no puede volar."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Sus patas se han convertido en alas. Se lanza\nsobre su presa en un vuelo silencioso a alta\nvelocidad y le clava los colmillos en la nuca."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Controla de forma independiente cada una de\nsus cuatro alas. Puede revolotear por cuevas\nestrechas sin aminorar la velocidad."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Crobat",
+    "genus": "Pokémon Pipistrello",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Vola nel buio con le sue quattro ali in modo talmente\nsilenzioso che è difficile notarlo anche se è vicino."
+      },
+      {
+        "game": "xy-y",
+        "text": "Con il secondo paio d’ali ottenuto dall’evoluzione,\nvola verso le prede in modo ancora più veloce e\nsilenzioso."
+      },
+      {
+        "game": "oras-or",
+        "text": "Quando Crobat vola agitando soltanto un paio d’ali, quelle\nanteriori o quelle posteriori, significa che ha affrontato\nun volo molto lungo. Infatti, se è stanco cambia le ali\nche sta usando."
+      },
+      {
+        "game": "oras-as",
+        "text": "Crobat si avvicina furtivo alla preda con le sue ali\nsilenziosissime. Questo Pokémon si riposa aggrappato ai rami\ndegli alberi con le zampe posteriori, che servono anche da ali."
+      },
+      {
+        "game": "sm-s",
+        "text": "Le sue zampe si sono trasformate in ali,\nrendendolo molto goffo negli spostamenti a\nterra, dove ormai può avanzare solo strisciando."
+      },
+      {
+        "game": "sm-m",
+        "text": "Vola rapido e silenzioso grazie alle sue quattro\nali. Azzanna l’ignara preda e fugge via in un\nbaleno lasciandola esangue."
+      },
+      {
+        "game": "usum-us",
+        "text": "Succhia il sangue alle sue vittime nell’oscurità.\nLe sue zanne sono così affilate che i suoi morsi\nsono indolori e le vittime non se ne accorgono."
+      },
+      {
+        "game": "usum-um",
+        "text": "Si nutre del sangue di persone e Pokémon.\nSe rimane senza anche solo per poco, si\nindebolisce al punto di non riuscire più a volare."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Le due zampe si sono mutate in ali. Vola verso la\npreda ad alta velocità senza fare alcun rumore\ne le affonda le zanne nella nuca."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Vola controllando indipendentemente le sue\nquattro ali. Non riduce la velocità nemmeno\nnelle caverne più anguste."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Crobat",
+    "genus": "Bat Pokémon",
+    "flavorText": [
+      {
+        "game": "gs-g",
+        "text": "It flies so si­\nlently through the\ndark on its four\fwings that it may\nnot be noticed\neven when nearby."
+      },
+      {
+        "game": "gs-s",
+        "text": "The development of\nwings on its legs\nenables it to fly\ffast but also\nmakes it tough to\nstop and rest."
+      },
+      {
+        "game": "c",
+        "text": "As a result of its\npursuit of faster,\nyet more silent\fflight, a new set\nof wings grew on\nits hind legs."
+      },
+      {
+        "game": "rs-r",
+        "text": "If this POKéMON is flying by fluttering\nonly a pair of wings on either the\nforelegs or hind legs, it’s proof that\fCROBAT has been flying a long distance.\nIt switches the wings it uses if it is\ntired."
+      },
+      {
+        "game": "rs-s",
+        "text": "CROBAT sneaks up on its intended prey\nusing wings that barely make a sound.\nThis POKéMON rests by hanging on a\ftree branch with its rear legs that\nserve as wings."
+      },
+      {
+        "game": "e",
+        "text": "Over the course of evolution, its hind legs\nturned into wings. By alternately resting\nits front and rear wings, it can fly all day\nwithout having to stop."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "The development of wings on its legs\nenables it to fly fast but also makes it\ntough to stop and rest."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "It flies so silently through the dark on\nits four wings that it may not be noticed\neven when nearby."
+      },
+      {
+        "game": "dp-d",
+        "text": "Having four wings enables it to fly\nfaster and more quietly. It turns\nactive when the night comes."
+      },
+      {
+        "game": "dp-p",
+        "text": "A Pokémon that gained vastly\nenhanced flying performance by\nhaving its legs turn into wings."
+      },
+      {
+        "game": "pt",
+        "text": "The transformation of its legs into\nwings made it better at flying, but\nmore clumsy at walking."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "It flies so silently through the\ndark on its four wings that it may\nnot be noticed even when nearby."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "The development of wings on its legs\nenables it to fly fast but also\nmakes it tough to stop and rest."
+      },
+      {
+        "game": "bw-b",
+        "text": "The transformation of its legs into\nwings made it better at flying, but\nmore clumsy at walking."
+      },
+      {
+        "game": "bw-w",
+        "text": "The transformation of its legs into\nwings made it better at flying, but\nmore clumsy at walking."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "Having four wings allows it to fly more\nquickly and quietly so it can sneak up\non prey without its noticing."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "Having four wings allows it to fly more\nquickly and quietly so it can sneak up\non prey without its noticing."
+      },
+      {
+        "game": "xy-x",
+        "text": "It flies so silently through the dark on its four wings\nthat it may not be noticed even when nearby."
+      },
+      {
+        "game": "xy-y",
+        "text": "Having four wings allows it to fly more quickly and\nquietly so it can sneak up on prey without\nits noticing."
+      },
+      {
+        "game": "oras-or",
+        "text": "If this Pokémon is flying by fluttering only a pair of wings on\neither the forelegs or hind legs, it’s proof that Crobat has been\nflying a long distance. It switches the wings it uses if it is tired."
+      },
+      {
+        "game": "oras-as",
+        "text": "Crobat sneaks up on its intended prey using wings that barely\nmake a sound. This Pokémon rests by hanging on a tree\nbranch with its rear legs that serve as wings."
+      },
+      {
+        "game": "sm-s",
+        "text": "Both its legs became wings, and as a result,\nit can’t move well on the ground. All it can do\nis crawl around."
+      },
+      {
+        "game": "sm-m",
+        "text": "Silent and swift in its four-winged flight, it bites\ndown on its prey before they realize what’s\nhappening. In a heartbeat, it drains their blood."
+      },
+      {
+        "game": "usum-us",
+        "text": "Its fangs are so sharp, if it bites you in the dark\nand sucks your blood, you won’t notice any pain\nor realize you’ve been bitten."
+      },
+      {
+        "game": "usum-um",
+        "text": "It feeds on the blood of living people and\nPokémon. If it can’t drink any blood for even a\nshort while, it becomes weak and unable to fly."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Both of its legs have turned into wings. Without a\nsound, Crobat flies swiftly toward its prey and\nsinks its fangs into the nape of its target’s neck."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "This Pokémon flaps its four wings skillfully.\nCrobat can fly through cramped caves without\nneeding to slow down."
+      },
+      {
+        "game": "la",
+        "text": "Its hind limbs have become another set of wings. Crobat\nexpertly maneuvers its four wings to dart in exquisite fashion\nthrough even the most confined caves without losing any speed."
+      }
+    ]
+  },
+  "chs": {
+    "name": "叉字蝠",
+    "genus": "蝙蝠宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "连双脚也变成翅膀的结果\n就是不擅长在地上行动。\n只能爬着到处活动。"
+      },
+      {
+        "game": "sm-m",
+        "text": "用４根翅膀又快又静地飞行。\n在被发现之前一口咬住猎物。\n一瞬间就把血都吸掉。"
+      },
+      {
+        "game": "usum-us",
+        "text": "牙齿锋利，就算在黑暗中被它\n咬住吸血也不会感到疼痛，\n所以无法立刻发觉。"
+      },
+      {
+        "game": "usum-um",
+        "text": "人和宝可梦的鲜血是其食物。\n只要不吸上一口，\n就会衰弱得无法飞行。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "双脚变成了翅膀。\n可以悄无声息地高速飞行，\n亮出牙齿咬向猎物的后颈。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "可以自由地控制４根翅膀\n振翅而飞。即使在狭窄的\n洞窟内也能保持速度飞来飞去。"
+      }
+    ]
+  }
+}

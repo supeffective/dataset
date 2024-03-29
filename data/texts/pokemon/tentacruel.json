@@ -1,0 +1,553 @@
+{
+  "jap": {
+    "name": "ドククラゲ",
+    "genus": "くらげポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "しょくしゅは　ふだん　みじかくて\nえものを　さすときに　ながく\nのびて　からみつくのだ。"
+      },
+      {
+        "game": "xy-y",
+        "text": "８０ぽん　の　しょくしゅが　じゆうに\nうごく。さされると　どくに　おかされ\nするどい　いたみが　はしる。"
+      },
+      {
+        "game": "oras-or",
+        "text": "あたまの　あかい　たまが　ひかるとき　はげしい\nちょうおんぱが　あたりに　はっしゃ　される。\nそのとき　かいめんが　はげしく　なみうつという。"
+      },
+      {
+        "game": "oras-as",
+        "text": "じゆうに　のびちぢみする　しょくしゅで　えものを\nからめとり　もうどくを　あたえて　よわらせる。\nいっぺんに　８０ぴきの　えものを　つかまえるぞ。"
+      },
+      {
+        "game": "sm-s",
+        "text": "どくのしょくしゅは　ふつう　８０ぽん。\nながく　いきているもの　ほど\nその　ほんすうは　へっていく。"
+      },
+      {
+        "game": "sm-m",
+        "text": "まれに　たいりょうはっせい　すると\nあたりの　うみから　さかなポケモンが\nいっさい　いなくなってしまう。"
+      },
+      {
+        "game": "usum-us",
+        "text": "あかい　たまから　ちょうおんぱを\nはっせいさせ　えものを　よわらせると\n８０ぽんの　しょくしゅを　まきつける。"
+      },
+      {
+        "game": "usum-um",
+        "text": "あかい　たまを　ひからせて　なかまと\nこうしん　している。　てんめつは\nけいかいを　しらせる　あいずなのだ。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "８０ぽんの　しょくしゅを　じゆうに\nのびちぢみさせ　えものに　まきつき\nどくを　あたえて　よわらせる。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "８０ぽんの　しょくしゅを　じゆうに\nのびちぢみさせ　えものに　まきつき\nどくを　あたえて　よわらせる。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "あたまの　あかい　たまの　ひかりが\nつよくなったら　ようちゅうい。\nちょうおんぱを　はなつ　まえぶれだ。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "８０ぽんの　しょくしゅは　のびちぢみ\nじゆう。　あみの　ように　ひろげて\nエモノを　とらえ　どくバリを　さす。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Dokukurage",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "독파리",
+    "genus": "해파리포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "촉수는 평소에는 짧고\n먹이를 찌를 때\n길게 늘어나 휘감는다."
+      },
+      {
+        "game": "xy-y",
+        "text": "80개의 촉수를 자유롭게\n움직인다. 찔리면 독이 퍼져\n극심한 고통을 겪게 된다."
+      },
+      {
+        "game": "oras-or",
+        "text": "머리의 붉은 구슬이 반짝일 때 격렬한\n초음파가 주변에 발사된다.\n그때 바다가 격렬히 파도친다고 한다."
+      },
+      {
+        "game": "oras-as",
+        "text": "자유롭게 늘었다 줄었다 하는 촉수로 먹이를\n휘감아 맹독을 주입해 약하게 만든다.\n한 번에 80마리의 먹이를 잡는다."
+      },
+      {
+        "game": "sm-s",
+        "text": "독 촉수는 보통 80개다.\n오래 산 포켓몬일수록\n그 개수는 줄어든다."
+      },
+      {
+        "game": "sm-m",
+        "text": "드물게 대량 발생하면\n주변 바다에서 물고기포켓몬이\n모두 사라져 버리고 만다."
+      },
+      {
+        "game": "usum-us",
+        "text": "붉은 구슬로 초음파를 발생시켜\n먹이가 약해지면\n80개의 촉수로 휘감는다."
+      },
+      {
+        "game": "usum-um",
+        "text": "붉은 구슬을 빛내서 동료와\n교신하고 있다. 깜빡이는 것은\n경계를 알리는 신호다."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "80개의 촉수를 자유자재로\n늘이고 줄여 먹이를 휘감은 뒤\n독을 주입해서 약하게 만든다."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "80개의 촉수를 자유자재로\n늘이고 줄여 먹이를 휘감은 뒤\n독을 주입해서 약하게 만든다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "머리의 빨간 구슬이\n밝게 빛나면 주의가 필요하다.\n초음파를 발산하려는 전조다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "80개의 촉수는 자유롭게 늘어났다가\n줄어든다. 그물처럼 펼쳐서\n먹이를 잡고 독바늘로 찌른다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "毒刺水母",
+    "genus": "水母寶可夢",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "有毒的觸手通常有８０根。\n活得越久，觸手的數量就越少。"
+      },
+      {
+        "game": "sm-m",
+        "text": "罕見地大量出現時，\n周圍海域的魚寶可夢\n會一隻不剩地全部消失。"
+      },
+      {
+        "game": "usum-us",
+        "text": "會從紅色珠子中發出超音波，\n使獵物變得虛弱，\n然後用８０根觸手纏住獵物。"
+      },
+      {
+        "game": "usum-um",
+        "text": "透過讓紅色珠子發光來與\n夥伴交流。閃爍的光芒是\n用來通知警戒狀況的信號。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "能夠自由伸縮身上的80根觸手，\n纏住獵物並讓獵物中毒，\n使對手失去抵抗力。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "能夠自由伸縮身上的80根觸手，\n纏住獵物並讓獵物中毒，\n使對手失去抵抗力。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "當牠頭上紅色珠子的光芒\n變強時，就得提高警覺了。\n那是牠發射超音波的前兆。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "能夠自由伸縮身上的８０根觸手。\n會像撒網般張開觸手捕捉獵物，\n並用毒針注入劇毒。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Tentacruel",
+    "genus": "Pokémon Mollusque",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Ses 80 tentacules lui permettent\nd’emprisonner ses adversaires\ndans un redoutable filet venimeux."
+      },
+      {
+        "game": "bw-w",
+        "text": "Ses 80 tentacules lui permettent\nd’emprisonner ses adversaires\ndans un redoutable filet venimeux."
+      },
+      {
+        "game": "xy-x",
+        "text": "Ses tentacules sont rétractés au repos. En situation\nde chasse, ils s’allongent pour prendre ses proies\nau piège."
+      },
+      {
+        "game": "xy-y",
+        "text": "Les 80 tentacules que Tentacruel laisse s’agiter\nlui permettent d’injecter du poison dans le corps\nde ses ennemis mais aussi de les trancher."
+      },
+      {
+        "game": "oras-or",
+        "text": "Tentacruel a deux gros globes sur la tête. Les globes\ns’illuminent lorsqu’il va envoyer un violent rayon d’ultrasons.\nLorsque ce Pokémon se déchaîne, il crée d’énormes vagues\nautour de lui."
+      },
+      {
+        "game": "oras-as",
+        "text": "Les tentacules de Tentacruel peuvent s’allonger et se rétracter\nà volonté. Il serre sa proie dans ses tentacules et l’affaiblit\nen lui injectant une toxine. Il peut attraper jusqu’à 80 proies\nen même temps."
+      },
+      {
+        "game": "sm-s",
+        "text": "Ce Pokémon a en moyenne 80 tentacules\nvenimeux. Plus un spécimen vit longtemps,\nmoins il lui en reste."
+      },
+      {
+        "game": "sm-m",
+        "text": "Il arrive qu’une foule de Tentacruel se regroupe\nen masse dans la mer. Lorsque cela arrive, tous\nles Pokémon poissons alentour disparaissent."
+      },
+      {
+        "game": "usum-us",
+        "text": "Il émet des ultrasons par ses globes rouges afin\nd’affaiblir ses proies, puis les enserre de ses\n80 tentacules."
+      },
+      {
+        "game": "usum-um",
+        "text": "Il communique avec ses congénères en faisant\nbriller ses globes rouges. Il les fait clignoter\ns’il veut leur envoyer un avertissement."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Ses 80 tentacules peuvent s’allonger et se\nrétracter à volonté. Il les utilise pour enserrer\nsa proie et l’affaiblir avec une toxine."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Ses 80 tentacules peuvent s’allonger et se\nrétracter à volonté. Il les utilise pour enserrer\nsa proie et l’affaiblir avec une toxine."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Il faut faire attention lorsque les globes rouges\nsur sa tête se mettent à briller intensément,\ncar c’est qu’il s’apprête à émettre des ultrasons."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Il peut allonger ses 80 tentacules à volonté et\nles utiliser comme un filet pour attraper sa proie\net la transpercer de ses pics empoisonnés."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Tentoxa",
+    "genus": "Quallen-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Dieses Pokémon kann die Tentakel bei der Jagd\nausfahren, um die Beute leichter zu fangen."
+      },
+      {
+        "game": "xy-y",
+        "text": "Es verfügt über 80 Tentakel, die es frei bewegen kann.\nDamit kann es zustechen und so Vergiftung und starke\nSchmerzen verursachen."
+      },
+      {
+        "game": "oras-or",
+        "text": "Tentoxa hat große, rote Kugeln auf seinem Kopf.\nSie glühen auf, bevor sie seine Gegner mit Ultraschall\nerschüttern. Ein Ausbruch dieses Pokémon erzeugt\nstarke Wellen in seiner Umgebung."
+      },
+      {
+        "game": "oras-as",
+        "text": "Tentoxa besitzt Tentakel, die es jederzeit ausfahren und\neinziehen kann. Es fängt damit Beute und schwächt diese,\nindem es ihr ein starkes Gift verabreicht. Es kann bis zu\n80 Opfer gleichzeitig fangen."
+      },
+      {
+        "game": "sm-s",
+        "text": "Es hat für gewöhnlich 80 giftige Tentakel.\nMit dem Alter verliert es diese jedoch nach\nund nach."
+      },
+      {
+        "game": "sm-m",
+        "text": "In äußerst seltenen Fällen bilden sie einen\nSchwarm und rotten alle Fisch-Pokémon\nin der näheren Umgebung aus."
+      },
+      {
+        "game": "usum-us",
+        "text": "Mit Ultraschallwellen aus seinen roten Kugeln\nschwächt es zunächst seine Beute, um sie dann\nmit seinen 80 Tentakeln fest zu umwickeln."
+      },
+      {
+        "game": "usum-um",
+        "text": "Wenn Tentoxa untereinander kommunizieren,\nglühen ihre roten Kugeln. Ein wiederholtes\nAufleuchten steht für ein Warnsignal."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Beute umwickelt es mit seinen 80 Tentakeln, die\nes nach Belieben ausfahren oder einziehen kann.\nDanach schwächt es sie mit Gift."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Beute umwickelt es mit seinen 80 Tentakeln, die\nes nach Belieben ausfahren oder einziehen kann.\nDanach schwächt es sie mit Gift."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Leuchten die roten Kugeln auf seinem Kopf stark\nauf, ist Vorsicht geboten, da es kurz danach\nUltraschallwellen ausstoßen wird."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Tentoxa kann seine 80 Tentakel beliebig\nausfahren und einziehen. Es breitet sie netzartig\naus, um Beute zu fangen und dann zu vergiften."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Tentacruel",
+    "genus": "Pokémon Medusa",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Cuando caza, extiende los cortos tentáculos que tiene\npara atrapar e inmovilizar a su presa."
+      },
+      {
+        "game": "xy-y",
+        "text": "Tiene 80 tentáculos que se mueven a su aire. Con\nellos, pica, envenena y causa un dolor agudo e\nintenso."
+      },
+      {
+        "game": "oras-or",
+        "text": "Tentacruel tiene unas enormes esferas rojas en la cabeza, que\nbrillan antes de lanzar una descarga ultrasónica a lo que le\nrodea. Este estallido crea unas olas tremendas a su alrededor."
+      },
+      {
+        "game": "oras-as",
+        "text": "Tentacruel tiene unos tentáculos que puede alargar o acortar.\nLos usa para atrapar a su presa y debilitarla mediante una\nsustancia muy tóxica. Puede llegar a atrapar hasta a 80 presas\na la vez."
+      },
+      {
+        "game": "sm-s",
+        "text": "Lo normal es que tenga 80 tentáculos\nvenenosos. Conforme se hace viejo, va\nperdiendo extremidades."
+      },
+      {
+        "game": "sm-m",
+        "text": "En ocasiones, los Tentacruel se concentran en\ngrandes bancos. Si eso ocurre, los Pokémon pez\nde su alrededor desaparecen sin dejar rastro."
+      },
+      {
+        "game": "usum-us",
+        "text": "Emite ondas ultrasónicas por sus esferas rojas\nque inmovilizan a su presa para luego proceder\na rodearla con sus 80 tentáculos."
+      },
+      {
+        "game": "usum-um",
+        "text": "Se comunica con los suyos mediante el brillo de\nsus esferas rojas. Un parpadeo, por ejemplo, es\nseñal de advertencia."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Puede estirar y contraer con total libertad sus\n80 tentáculos, con los que atrapa a su presa y\nle inyecta un veneno debilitante."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Puede estirar y contraer con total libertad sus\n80 tentáculos, con los que atrapa a su presa y\nle inyecta un veneno debilitante."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Si las esferas rojas que tiene a ambos lados de la\ncabeza brillan con intensidad, indica que está a\npunto de lanzar ondas ultrasónicas."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Puede estirar y contraer con total libertad sus\n80 tentáculos. Con ellos atrapa a sus presas y\nles inyecta un veneno debilitante."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Tentacruel",
+    "genus": "Pokémon Medusa",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "I corti tentacoli si estendono durante la caccia\nper catturare e immobilizzare la preda."
+      },
+      {
+        "game": "xy-y",
+        "text": "Il contatto con i suoi 80 tentacoli, che si muovono\nliberamente, avvelena la vittima e causa un dolore\nlancinante."
+      },
+      {
+        "game": "oras-or",
+        "text": "Tentacruel ha due grandi sfere rosse sulla testa.\nLe sfere brillano prima di emettere potenti ultrasuoni.\nGli attacchi di questo Pokémon creano onde impetuose\nnei dintorni."
+      },
+      {
+        "game": "oras-as",
+        "text": "Tentacruel è dotato di tentacoli che si allungano e accorciano\nin base alle sue esigenze. Intrappola la preda con i tentacoli\ne la indebolisce con un potente veleno. Riesce a catturare\nfino a 80 prede contemporaneamente."
+      },
+      {
+        "game": "sm-s",
+        "text": "Ha circa 80 tentacoli velenosi, il cui numero\nsi riduce quando vive molto a lungo."
+      },
+      {
+        "game": "sm-m",
+        "text": "Accade di rado, ma una comparsa massiccia\ndi Tentacruel può far piazza pulita di tutti\ni Pokémon acquatici nel mare circostante."
+      },
+      {
+        "game": "usum-us",
+        "text": "Indebolisce la preda emettendo ultrasuoni\ndalle sfere rosse per poi avvolgerla con i suoi\n80 tentacoli."
+      },
+      {
+        "game": "usum-um",
+        "text": "Comunica con i suoi simili facendo brillare\nle sfere rosse. Le fa lampeggiare per segnalare\nagli altri di fare attenzione."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Usa gli 80 tentacoli, che può allungare\ne ritrarre a piacimento, per avvolgere la\npreda e indebolirla con il veleno."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Usa gli 80 tentacoli, che può allungare\ne ritrarre a piacimento, per avvolgere la\npreda e indebolirla con il veleno."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Meglio fare attenzione quando le sfere rosse\nche ha sulla testa brillano intensamente, perché\nvuol dire che sta per emettere ultrasuoni."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Può allungare e accorciare a piacere i suoi 80\ntentacoli. Li estende a mo’ di rete per catturare\nle prede, che trafigge con aculei velenosi."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Tentacruel",
+    "genus": "Jellyfish Pokémon",
+    "flavorText": [
+      {
+        "game": "rb-r",
+        "text": "The tentacles are\nnormally kept\nshort. On hunts,\fthey are extended\nto ensnare and\nimmobilize prey."
+      },
+      {
+        "game": "rb-b",
+        "text": "The tentacles are\nnormally kept\nshort. On hunts,\fthey are extended\nto ensnare and\nimmobilize prey."
+      },
+      {
+        "game": "y",
+        "text": "Its 80 tentacles\ncan stretch and\ncontract freely.\fThey wrap around\nprey and weaken\nit with poison."
+      },
+      {
+        "game": "gs-g",
+        "text": "Its 80 tentacles\nabsorb water and\nstretch almost\fendlessly to CON­\nSTRICT its prey\nand enemies."
+      },
+      {
+        "game": "gs-s",
+        "text": "In battle, it\nextends all 80 of\nits tentacles to\fentrap its oppo­\nnent inside a\npoisonous net."
+      },
+      {
+        "game": "c",
+        "text": "When its 80 feel­\ners absorb water,\nit stretches to\fbecome like a net\nto entangle its\nprey."
+      },
+      {
+        "game": "rs-r",
+        "text": "TENTACRUEL has large red orbs on its\nhead. The orbs glow before lashing the\nvicinity with a harsh ultrasonic blast.\fThis POKéMON’s outburst creates rough\nwaves around it."
+      },
+      {
+        "game": "rs-s",
+        "text": "TENTACRUEL has tentacles that can be\nfreely elongated and shortened at will.\nIt ensnares prey with its tentacles and\fweakens the prey by dosing it with a\nharsh toxin. It can catch up to 80\nprey at the same time."
+      },
+      {
+        "game": "e",
+        "text": "It lives in complex rock formations on\nthe ocean floor and traps prey using its\n80 tentacles. Its red orbs glow when it\ngrows excited or agitated."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "It has 80 tentacles that move about\nfreely. They can sting, causing poisoning\nand sharp, stabbing pain."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "The tentacles are normally kept short.\nOn hunts, they are extended to ensnare\nand immobilize prey."
+      },
+      {
+        "game": "dp-d",
+        "text": "With 80 tentacles for ensnaring\nvictims, it prevents escape until\nthe prey is weakened by poison."
+      },
+      {
+        "game": "dp-p",
+        "text": "It alerts others to danger by\nstridently flashing the red orbs\non its head."
+      },
+      {
+        "game": "pt",
+        "text": "It extends its 80 tentacles to\nform an encircling poisonous net\nthat is difficult to escape."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "Its 80 tentacles absorb water and\nstretch almost endlessly to\nconstrict its prey and enemies."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "In battle, it extends all 80 of\nits tentacles to entrap its opponent\ninside a poisonous net."
+      },
+      {
+        "game": "bw-b",
+        "text": "It extends its 80 tentacles to\nform an encircling poisonous net\nthat is difficult to escape."
+      },
+      {
+        "game": "bw-w",
+        "text": "It extends its 80 tentacles to\nform an encircling poisonous net\nthat is difficult to escape."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "It extends its 80 tentacles to\nform an encircling poisonous net\nthat is difficult to escape."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "It extends its 80 tentacles to\nform an encircling poisonous net\nthat is difficult to escape."
+      },
+      {
+        "game": "xy-x",
+        "text": "The tentacles are normally kept short. On hunts,\nthey are extended to ensnare and immobilize prey."
+      },
+      {
+        "game": "xy-y",
+        "text": "It has 80 tentacles that move about freely.\nThey can sting, causing poisoning and sharp,\nstabbing pain."
+      },
+      {
+        "game": "oras-or",
+        "text": "Tentacruel has large red orbs on its head. The orbs glow\nbefore lashing the vicinity with a harsh ultrasonic blast.\nThis Pokémon’s outburst creates rough waves around it."
+      },
+      {
+        "game": "oras-as",
+        "text": "Tentacruel has tentacles that can be freely elongated\nand shortened at will. It ensnares prey with its tentacles\nand weakens the prey by dosing it with a harsh toxin.\nIt can catch up to 80 prey at the same time."
+      },
+      {
+        "game": "sm-s",
+        "text": "Normally, it has 80 poisonous tentacles.\nThe longer one has been alive, the fewer\ntentacles it will have."
+      },
+      {
+        "game": "sm-m",
+        "text": "Although these Pokémon are rare, when a large\noutbreak of them occurs, all fish Pokémon\ndisappear from the surrounding sea."
+      },
+      {
+        "game": "usum-us",
+        "text": "It fires off ultrasonic waves from its red orbs\nto weaken its prey, and then it wraps them up\nin its 80 tentacles."
+      },
+      {
+        "game": "usum-um",
+        "text": "It communicates with others of its kind by\nlighting up the red orbs on its head. When\nthe orbs are blinking, it’s a warning sign."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Its 80 tentacles can stretch and contract freely.\nThey wrap around prey and weaken it\nwith poison."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Its 80 tentacles can stretch and contract freely.\nThey wrap around prey and weaken it\nwith poison."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "When the red orbs on Tentacruel’s head glow\nbrightly, watch out. The Pokémon is about to\nfire off a burst of ultrasonic waves."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Its 80 tentacles can stretch and shrink freely.\nTentacruel ensnares prey in a net of spread-out\ntentacles, delivering venomous stings to its catch."
+      },
+      {
+        "game": "la",
+        "text": "It has 80 tentacles, each with a venomous tip. These tentacles\nare also extendible, lengthening when Tentacruel attempts to\ncatch prey. Use caution."
+      }
+    ]
+  },
+  "chs": {
+    "name": "毒刺水母",
+    "genus": "水母宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "有毒的触手通常是８０根。\n活得越久，触手的数量就越会减少。"
+      },
+      {
+        "game": "sm-m",
+        "text": "很罕见地大量出现时，\n周围海域的鱼宝可梦\n会变得一只都不剩。"
+      },
+      {
+        "game": "usum-us",
+        "text": "从红色珠子中发出超音波\n使猎物变得虚弱后，\n就会用８０根触手缠住对手。"
+      },
+      {
+        "game": "usum-um",
+        "text": "能让红色珠子发光来与伙伴交流。\n忽明忽暗的闪光是用来\n告知要保持警惕的信号。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "它能让80条触手自由\n伸缩，靠缠住猎物后\n注入毒素来让其变弱。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "它能让80条触手自由\n伸缩，靠缠住猎物后\n注入毒素来让其变弱。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "如果看到它头上红色珠子\n发出的光变强了，就需要提高警惕。\n那是它即将释放超音波的前兆。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "８０根触手伸缩自如。\n会像撒网那样伸开触手\n抓住猎物并刺入毒针。"
+      }
+    ]
+  }
+}

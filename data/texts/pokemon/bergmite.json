@@ -1,0 +1,249 @@
+{
+  "jap": {
+    "name": "カチコール",
+    "genus": "ひょうかいポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "からだを　おおう　こおりが　てきの\nこうげきを　ふせぐ。わられても\nれいきで　すぐに　こおりを　はる。"
+      },
+      {
+        "game": "xy-y",
+        "text": "マイナス１００どの　れいきで　てきを\nこおりづけにする。まんねんゆきに\nおおわれた　やまで　むれを　つくる。"
+      },
+      {
+        "game": "oras-or",
+        "text": "からだを　おおう　こおりが　てきの\nこうげきを　ふせぐ。わられても\nれいきで　すぐに　こおりを　はる。"
+      },
+      {
+        "game": "oras-as",
+        "text": "マイナス１００どの　れいきで　てきを\nこおりづけにする。まんねんゆきに\nおおわれた　やまで　むれを　つくる。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "ひょうてんか　１００どの　れいきで\nくうきちゅうの　すいぶんを　こおらせ\nこおりの　そうこうで　みを　まもる。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "ごっかんの　ちいきに　せいそくする。\nクレベースの　せなかと　じぶんの\nあしを　こおりつかせて　こていする。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Kachikohru",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "꽁어름",
+    "genus": "얼음덩이포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "몸을 둘러싼 얼음이 적의\n공격을 막는다. 깨져도\n냉기로 재빨리 얼음을 얼린다."
+      },
+      {
+        "game": "xy-y",
+        "text": "마이너스 100도의 냉기로 적을\n얼려버린다. 만년설로\n덮인 산에서 무리를 짓는다."
+      },
+      {
+        "game": "oras-or",
+        "text": "몸을 둘러싼 얼음이 적의\n공격을 막는다. 깨져도\n냉기로 재빨리 얼음을 얼린다."
+      },
+      {
+        "game": "oras-as",
+        "text": "마이너스 100도의 냉기로 적을\n얼려버린다. 만년설로\n덮인 산에서 무리를 짓는다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "영하 100도의 냉기로\n공기 중의 수분을 얼려서\n얼음 갑옷으로 몸을 지킨다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "혹한의 지역에 서식한다.\n크레베이스의 등에 자신의\n발을 얼어붙게 해 고정한다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "冰寶",
+    "genus": "冰塊寶可夢",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "用零下１００度的冷氣\n凍住空氣中的水分，\n用冰之裝甲保護自身。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "棲息在極其寒冷的地域。\n會把自己的腳凍在\n冰岩怪的背上固定起來。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Grelaçon",
+    "genus": "Pokémon Glaçon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "La glace qui couvre son corps bloque les attaques\nennemies. Si elle se fissure, il la reconstitue\nimmédiatement en soufflant de l’air glacé."
+      },
+      {
+        "game": "xy-y",
+        "text": "Il gèle ses ennemis d’une bourrasque à -100 °C.\nIl vit en troupeau avec ses congénères, dans\nles neiges éternelles des hautes montagnes."
+      },
+      {
+        "game": "oras-or",
+        "text": "La glace qui couvre son corps bloque les attaques ennemies.\nSi elle se fissure, il la reconstitue immédiatement en soufflant\nde l’air glacé."
+      },
+      {
+        "game": "oras-as",
+        "text": "Il gèle ses ennemis d’une bourrasque à -100 °C.\nIl vit en troupeau avec ses congénères, dans les neiges\néternelles des hautes montagnes."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Grâce à son souffle glacé à - 100 °C, il peut\ngeler l’humidité dans l’air et se façonner\nune carapace de glace."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Il vit dans les régions les plus froides, agrippé\naux Séracrawl. Il gèle ses pattes sur leur dos\npour se maintenir en place."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Arktip",
+    "genus": "Eisklumpen-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Es wehrt gegnerische Angriffe mit seinem in Eis\ngehüllten Körper ab. Bruchstellen bessert es mit\naus kalter Luft gewonnenem neuen Eis aus."
+      },
+      {
+        "game": "xy-y",
+        "text": "Es friert seine Gegner mittels eines -100 °C kalten\nLuftstromes ein. Mit seinen Artgenossen lebt es\nherdenweise auf Bergen inmitten des ewigen Eises."
+      },
+      {
+        "game": "oras-or",
+        "text": "Es wehrt gegnerische Angriffe mit seinem in Eis gehüllten\nKörper ab. Bruchstellen bessert es mit aus kalter Luft\ngewonnenem neuen Eis aus."
+      },
+      {
+        "game": "oras-as",
+        "text": "Es friert seine Gegner mittels eines -100 °C kalten Luftstromes\nein. Mit seinen Artgenossen lebt es herdenweise auf Bergen\ninmitten des ewigen Eises."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Mit -100 ºC kalter Luft lässt es Wassermoleküle\num sich herum gefrieren und erschafft sich so\neinen schützenden Eispanzer."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Es lebt in extrem kalten Gebieten. Um sich an\nArktilas zu befestigen, lässt es seine Beine an\ndessen Rücken festfrieren."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Bergmite",
+    "genus": "Pokémon Témpano",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Envuelve su cuerpo en una capa de hielo que le\npermite evitar los ataques del enemigo. Si se\nresquebraja, la recompone con aire gélido."
+      },
+      {
+        "game": "xy-y",
+        "text": "Congela a sus enemigos sometiéndolos a un aire\ngélido de -100 °C. Forman grupos para habitar\nmontañas cubiertas de una nieve sempiterna."
+      },
+      {
+        "game": "oras-or",
+        "text": "Envuelve su cuerpo en una capa de hielo que le permite evitar\nlos ataques del enemigo. Si se resquebraja, la recompone con\naire gélido."
+      },
+      {
+        "game": "oras-as",
+        "text": "Congela a sus enemigos sometiéndolos a un aire gélido de\n-100 °C. Forman grupos para habitar montañas cubiertas de\nuna nieve sempiterna."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Congela la humedad del ambiente exhalando\nvaho a -100 °C para crear una coraza de hielo\ncon la que protege su cuerpo."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Vive en regiones sumamente frías. Se aferra al\nlomo de los Avalugg congelando sus propias\nextremidades."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Bergmite",
+    "genus": "Pokémon Ghiacciolo",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Si difende dagli attacchi nemici grazie al ghiaccio\nche ricopre il suo corpo. Se viene danneggiato,\nrigenera lo strato protettivo, riparandolo."
+      },
+      {
+        "game": "xy-y",
+        "text": "Congela i nemici soffiando aria a -100 °C. Vive in\ngruppo nelle montagne ricoperte da nevi perenni."
+      },
+      {
+        "game": "oras-or",
+        "text": "Si difende dagli attacchi nemici grazie al ghiaccio che ricopre\nil suo corpo. Se viene danneggiato, rigenera lo strato\nprotettivo, riparandolo."
+      },
+      {
+        "game": "oras-as",
+        "text": "Congela i nemici soffiando aria a -100 °C. Vive in gruppo\nnelle montagne ricoperte da nevi perenni."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Cristallizza l’umidità presente nell’aria con un\nsoffio ghiacciato a -100 ºC, creando una\ncorazza con cui protegge il proprio corpo."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Abita le regioni più fredde. Si ancora alla schiena\ndi Avalugg congelando la base delle sue zampe."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Bergmite",
+    "genus": "Ice Chunk Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "It blocks opponents’ attacks with the\nice that shields its body. It uses cold air\nto repair any cracks with new ice."
+      },
+      {
+        "game": "xy-y",
+        "text": "Using air of -150 degrees Fahrenheit, they\nfreeze opponents solid. They live in herds\nabove the snow line on mountains."
+      },
+      {
+        "game": "oras-or",
+        "text": "It blocks opponents’ attacks with the\nice that shields its body. It uses cold air\nto repair any cracks with new ice."
+      },
+      {
+        "game": "oras-as",
+        "text": "Using air of -150 degrees Fahrenheit, they\nfreeze opponents solid. They live in herds\nabove the snow line on mountains."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "They chill the air around them to −150 degrees\nFahrenheit, freezing the water in the air into ice\nthat they use as armor."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "This Pokémon lives in areas of frigid cold.\nIt secures itself to the back of an Avalugg\nby freezing its feet in place."
+      },
+      {
+        "game": "la",
+        "text": "Lives on mountains blanketed in perennial snow. It freezes water\nvapor in the air to make the ice helmet that it dons for defense."
+      }
+    ]
+  },
+  "chs": {
+    "name": "冰宝",
+    "genus": "冰块宝可梦",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "用零下１００度的冷气\n冻住空气中的水分，\n用冰之装甲保护自身。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "栖息在极其寒冷的地域。\n会把自己的脚冻在\n冰岩怪的背上固定起来。"
+      }
+    ]
+  }
+}

@@ -1,0 +1,393 @@
+{
+  "jap": {
+    "name": "ニンフィア",
+    "genus": "むすびつきポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "リボンのような　しょっかくから\nきもちを　やわらげる　はどうを\nおくりこみ　たたかいを　やめさせる。"
+      },
+      {
+        "game": "xy-y",
+        "text": "だいすきな　トレーナーの　うでに\nリボンのような　しょっかくを\nまきつけて　いっしょに　あるく。"
+      },
+      {
+        "game": "oras-or",
+        "text": "リボンのような　しょっかくから\nきもちを　やわらげる　はどうを\nおくりこみ　たたかいを　やめさせる。"
+      },
+      {
+        "game": "oras-as",
+        "text": "だいすきな　トレーナーの　うでに\nリボンのような　しょっかくを\nまきつけて　いっしょに　あるく。"
+      },
+      {
+        "game": "sm-s",
+        "text": "リボンの　ような　しょっかく　から\nてきいを　そぐ　はどうを　はなち\nえものを　ゆだんさせ　おそう。"
+      },
+      {
+        "game": "sm-m",
+        "text": "えものを　みつけると　リボンじょうの\nしょっかくを　ゆらし　ゆだん　させ\nスキが　できると　とびかかる。"
+      },
+      {
+        "game": "usum-us",
+        "text": "ひとたび　たたかいとなれば　じぶんの\nなんばいもある　ドラゴンポケモンにも\nいっさいひるまず　とびかかっていく。"
+      },
+      {
+        "game": "usum-um",
+        "text": "トレーナーの　うでに　リボンじょうの\nしょっかくを　まきつけてくる。\nふれると　きもちが　わかる　からだ。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "リボンのような　しょっかくから\nてきいを　けす　はどうを　はっして\nあらそいを　やめさせる。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "おそろしい　ドラゴンポケモンを\nうつくしい　ニンフィアが　たいじする\nどうわが　ガラルちほうに　のこる。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Nymphia",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "님피아",
+    "genus": "연결포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "리본 모양의 더듬이에서\n마음을 온화하게 하는 파동을\n보내 싸움을 그만두게 한다."
+      },
+      {
+        "game": "xy-y",
+        "text": "좋아하는 트레이너의 팔에\n리본 모양의 더듬이를\n감고 함께 걷는다."
+      },
+      {
+        "game": "oras-or",
+        "text": "리본 모양의 더듬이에서\n마음을 온화하게 하는 파동을\n보내 싸움을 그만두게 한다."
+      },
+      {
+        "game": "oras-as",
+        "text": "좋아하는 트레이너의 팔에\n리본 모양의 더듬이를\n감고 함께 걷는다."
+      },
+      {
+        "game": "sm-s",
+        "text": "리본 같은 더듬이로부터\n적의를 없애는 파동을 내보내\n먹이를 방심하게 하고 덮친다."
+      },
+      {
+        "game": "sm-m",
+        "text": "먹이를 발견하면 리본 모양의\n더듬이를 흔들어 방심하게 하고\n틈이 만들어지면 덤벼든다."
+      },
+      {
+        "game": "usum-us",
+        "text": "한번 싸움이 나면 자신보다\n몇 배나 큰 드래곤포켓몬에게도\n전혀 기죽지 않고 덤벼든다."
+      },
+      {
+        "game": "usum-um",
+        "text": "트레이너의 팔에 리본 모양의\n더듬이를 휘감는다.\n닿으면 기분을 알 수 있기 때문이다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "리본 모양의 더듬이로부터\n적의를 없애는 파동을 내보내\n싸움을 그만두게 한다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "무서운 드래곤포켓몬을\n아름다운 님피아가 퇴치하는\n동화가 가라르지방에 남아 있다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "仙子伊布",
+    "genus": "連結寶可夢",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "從有如蝴蝶結的觸角裡\n釋放出削弱敵意的波動，\n令獵物大意後襲擊對方。"
+      },
+      {
+        "game": "sm-m",
+        "text": "發現獵物後，就會搖晃\n蝴蝶結形狀的觸角讓對方大意，\n一旦有機可乘就會猛撲過去。"
+      },
+      {
+        "game": "usum-us",
+        "text": "一旦進入戰鬥狀態，\n即便對手是比自己大幾倍的龍寶可夢，\n也會毫不畏懼地飛撲過去。"
+      },
+      {
+        "game": "usum-um",
+        "text": "會用緞帶般的觸角纏住\n訓練家的手臂，因為牠可以\n透過觸碰來得知對方的心情。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "會從蝴蝶結般的觸角裡\n釋放能夠消除敵意的波動，\n藉此平息紛爭。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "伽勒爾地區的童話中有著\n美麗的仙子伊布擊退了\n可怕的龍寶可夢的故事。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Nymphali",
+    "genus": "Pokémon Attachant",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Pour arrêter le combat, il émet des ondes apaisantes\navec ses rubans."
+      },
+      {
+        "game": "xy-y",
+        "text": "Il enroule ses rubans sensoriels autour du bras de\nson Dresseur adoré et chemine paisiblement à\nses côtés."
+      },
+      {
+        "game": "oras-or",
+        "text": "Pour arrêter le combat, il émet des ondes apaisantes\navec ses rubans."
+      },
+      {
+        "game": "oras-as",
+        "text": "Il enroule ses rubans sensoriels autour du bras de son\nDresseur adoré et chemine paisiblement à ses côtés."
+      },
+      {
+        "game": "sm-s",
+        "text": "Grâce à ses antennes semblables à des rubans,\nil peut émettre des ondes neutralisant l’hostilité\net ainsi endormir la méfiance de ses proies."
+      },
+      {
+        "game": "sm-m",
+        "text": "Lorsqu’il trouve une proie, il agite ses antennes\nen forme de rubans pour la distraire. Ensuite,\nil passe à l’attaque."
+      },
+      {
+        "game": "usum-us",
+        "text": "Une fois le combat entamé, il n’hésite pas\nune seconde, même contre un Pokémon\nde type Dragon dix fois plus gros que lui."
+      },
+      {
+        "game": "usum-um",
+        "text": "Enrouler l’une de ses antennes en forme\nde ruban autour du bras de son Dresseur\nlui permet de connaître ses sentiments."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Grâce à ses antennes semblables à des rubans,\nil peut émettre des ondes neutralisant l’hostilité\net ainsi mettre fin aux querelles."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Un conte de Galar relate la victoire d’un beau\nNymphali sur un terrible Pokémon Dragon."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Feelinara",
+    "genus": "Bindungs-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Seinen bandförmigen Fühlern lässt\nes beruhigende Wellen entströmen,\ndie das Ende von Kämpfen herbeiführen."
+      },
+      {
+        "game": "xy-y",
+        "text": "Es umwickelt den Arm seines geliebten Trainers mit\nseinen bandförmigen Fühlern und geht so mit ihm\nspazieren."
+      },
+      {
+        "game": "oras-or",
+        "text": "Seinen bandförmigen Fühlern lässt es beruhigende Wellen\nentströmen, die das Ende von Kämpfen herbeiführen."
+      },
+      {
+        "game": "oras-as",
+        "text": "Es umwickelt den Arm seines geliebten Trainers mit seinen\nbandförmigen Fühlern und geht so mit ihm spazieren."
+      },
+      {
+        "game": "sm-s",
+        "text": "Seinen bandförmigen Fühlern lässt es\nberuhigende Wellen entströmen, um\nseine Beute in Sicherheit zu wiegen."
+      },
+      {
+        "game": "sm-m",
+        "text": "Hat es Beute entdeckt, wedelt es mit seinen\nbandförmigen Fühlern, um diese abzulenken.\nBei Erfolg stürzt es sich auf sie."
+      },
+      {
+        "game": "usum-us",
+        "text": "Kommt es zum Kampf, stürzt es sich furchtlos\nins Gefecht, selbst wenn sein Gegner ein\nvielfach größeres Drachen-Pokémon ist."
+      },
+      {
+        "game": "usum-um",
+        "text": "Feelinara umwickelt den Arm seines Trainers mit\nseinen bandförmigen Fühlern, da es so spüren\nkann, wie es ihm geht."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Mit seinen bandförmigen Fühlern sendet es\nWellen aus, die feindselige Gefühle verklingen\nlassen. So legt es Streitereien bei."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Ein in der Galar-Region überliefertes Märchen\nerzählt von einem bildhübschen Feelinara, das\nein grässliches Drachen-Pokémon bezwingt."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Sylveon",
+    "genus": "Pokémon Vínculo",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "A través de sus apéndices sensitivos con forma de\ncinta, emite unas ondas tranquilizadoras mediante las\ncuales detiene los combates."
+      },
+      {
+        "game": "xy-y",
+        "text": "Enrolla sus apéndices sensoriales con forma de cinta\nen los brazos de su querido Entrenador cuando\ncaminan juntos."
+      },
+      {
+        "game": "oras-or",
+        "text": "A través de sus apéndices sensitivos con forma de cinta,\nemite unas ondas tranquilizadoras mediante las cuales\ndetiene los combates."
+      },
+      {
+        "game": "oras-as",
+        "text": "Enrolla sus apéndices sensoriales con forma de cinta en los\nbrazos de su querido Entrenador cuando caminan juntos."
+      },
+      {
+        "game": "sm-s",
+        "text": "Con sus apéndices sensoriales con forma de\ncinta, puede emitir ondas que neutralizan la\nhostilidad y hacen bajar la guardia a su presa."
+      },
+      {
+        "game": "sm-m",
+        "text": "Al detectar a una presa, agita sus apéndices\nsensoriales con forma de cinta para distraerla y,\ncuando lo consigue, se abalanza sobre ella."
+      },
+      {
+        "game": "usum-us",
+        "text": "Cuando se enfrasca en un combate lo da todo\nsin titubear un segundo, aunque se enfrente a\nun Pokémon de tipo Dragón más grande que él."
+      },
+      {
+        "game": "usum-um",
+        "text": "Al rodear el brazo de su Entrenador con los\napéndices sensoriales en forma de cintas, es\ncapaz de comprender sus sentimientos."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Con sus apéndices sensoriales en forma de cinta,\npuede emitir ondas que neutralizan la hostilidad\ny detener así cualquier contienda."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "En un cuento infantil de Galar se narra la victoria\nde un Sylveon de extraordinaria belleza sobre un\ntemible Pokémon de tipo Dragón."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Sylveon",
+    "genus": "Pokémon Legame",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Le sue antenne simili a fiocchetti emettono onde dagli\neffetti rilassanti, grazie alle quali fa cessare le lotte."
+      },
+      {
+        "game": "xy-y",
+        "text": "Se si affeziona particolarmente al suo Allenatore, lo\naccompagna circondandogli amorevolmente il braccio\ncon le sue antenne a forma di fiocchetto."
+      },
+      {
+        "game": "oras-or",
+        "text": "Le sue antenne simili a fiocchetti emettono onde dagli effetti\nrilassanti, grazie alle quali fa cessare le lotte."
+      },
+      {
+        "game": "oras-as",
+        "text": "Se si affeziona particolarmente al suo Allenatore, lo\naccompagna circondandogli amorevolmente il braccio\ncon le sue antenne a forma di fiocchetto."
+      },
+      {
+        "game": "sm-s",
+        "text": "Le sue antenne simili a fiocchetti emettono onde\nche neutralizzano l’aggressività, riuscendo così\na far abbassare la guardia alle sue prede."
+      },
+      {
+        "game": "sm-m",
+        "text": "Individuata una preda, agita le sue antenne\nsimili a fiocchetti per deconcentrarla e poi\nattacca approfittando della sua distrazione."
+      },
+      {
+        "game": "usum-us",
+        "text": "Nella lotta, parte all’attacco senza esitare\nun istante, anche quando si trova di fronte\nimponenti Pokémon di tipo Drago."
+      },
+      {
+        "game": "usum-um",
+        "text": "Avvolge le sue antenne simili a fiocchetti intorno\nal braccio dell’Allenatore per comprendere i suoi\nsentimenti."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Fa cessare le lotte grazie alle antenne simili\na fiocchetti, che emettono onde in grado di\nplacare le ostilità."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Una favola di Galar narra di un Sylveon di rara\nbellezza che sconfisse uno spaventoso Pokémon\ndi tipo Drago."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Sylveon",
+    "genus": "Intertwining Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "It sends a soothing aura from its\nribbonlike feelers to calm fights."
+      },
+      {
+        "game": "xy-y",
+        "text": "It wraps its ribbonlike feelers around\nthe arm of its beloved Trainer\nand walks with him or her."
+      },
+      {
+        "game": "oras-or",
+        "text": "It sends a soothing aura from its\nribbonlike feelers to calm fights."
+      },
+      {
+        "game": "oras-as",
+        "text": "It wraps its ribbonlike feelers around\nthe arm of its beloved Trainer\nand walks with him or her."
+      },
+      {
+        "game": "sm-s",
+        "text": "Its ribbonlike feelers give off an aura that\nweakens hostility in its prey, causing them\nto let down their guard. Then it attacks."
+      },
+      {
+        "game": "sm-m",
+        "text": "When this Pokémon sights its prey, it swirls its\nribbonlike feelers as a distraction. A moment\nlater, it pounces."
+      },
+      {
+        "game": "usum-us",
+        "text": "Once a fight breaks out, it will unflinchingly\ncharge at dragon Pokémon that are many times\nlarger than itself."
+      },
+      {
+        "game": "usum-um",
+        "text": "Sylveon wraps its ribbonlike feelers around its\nTrainer’s arm because this touch enables it to\nread its Trainer’s feelings."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "By releasing enmity-erasing waves from its\nribbonlike feelers, Sylveon stops any conflict."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "There’s a Galarian fairy tale that describes\na beautiful Sylveon vanquishing a dreadful\ndragon Pokémon."
+      },
+      {
+        "game": "la",
+        "text": "It emits a soothing aura from its ribbon-shaped organs. It wraps\nthese appendages around quarrelers to instantly restore calm to\nthe situation."
+      }
+    ]
+  },
+  "chs": {
+    "name": "仙子伊布",
+    "genus": "连结宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "从蝴蝶结那样的触角里\n释放出削弱敌意的波动，\n令猎物大意后袭击对方。"
+      },
+      {
+        "game": "sm-m",
+        "text": "发现猎物后，就会摇晃\n蝴蝶结状的触角让对方大意，\n一旦出现可趁之机就会猛扑过去。"
+      },
+      {
+        "game": "usum-us",
+        "text": "一旦进入战斗状态，\n即使面对比自己大几倍的龙宝可梦，\n也会毫不畏惧地飞扑过去。"
+      },
+      {
+        "game": "usum-um",
+        "text": "会用缎带般的触角缠住训练家的手臂。\n因为只要触碰后就能知道对方的心情。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "会从蝴蝶结般的触角里\n释放能够消除敌意的波动，\n借此平息纷争。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "伽勒尔地区的童话中有着\n美丽的仙子伊布击退了\n可怕的龙宝可梦的故事。"
+      }
+    ]
+  }
+}

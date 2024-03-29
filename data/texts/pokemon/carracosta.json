@@ -1,0 +1,413 @@
+{
+  "jap": {
+    "name": "アバゴーラ",
+    "genus": "こだいがめポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "うみと　りくちで　せいかつする。\nはりてで　タンカーの　ふなぞこに\nあなを　あける　パワーの　もちぬし。"
+      },
+      {
+        "game": "xy-y",
+        "text": "はったつした　まえあしで　あいてを\nひっぱたき　きぜつさせると　カラや\nホネまで　まるごと　かみくだいた。"
+      },
+      {
+        "game": "oras-or",
+        "text": "うみと　りくちで　せいかつする。\nはりてで　タンカーの　ふなぞこに\nあなを　あける　パワーの　もちぬし。"
+      },
+      {
+        "game": "oras-as",
+        "text": "はったつした　まえあしで　あいてを\nひっぱたき　きぜつさせると　カラや\nホネまで　まるごと　かみくだいた。"
+      },
+      {
+        "game": "sm-s",
+        "text": "じょうぶな　こうらを　つくるため\nえものの　かたいカラや　ホネも\nまるごと　かみくだいて　くっていた。"
+      },
+      {
+        "game": "sm-m",
+        "text": "うみと　りくちの　りょうほうで\nかつどうする。　りくの　えものは\nうみに　ひきずりこんで　しとめる。"
+      },
+      {
+        "game": "usum-us",
+        "text": "アゴの　ちからが　すさまじい。\nオムスターや　オムナイトの　カラも\nきにせず　まるごと　くっていた。"
+      },
+      {
+        "game": "usum-um",
+        "text": "かたい　こうらを　さらに　じょうぶに\nするために　とらえた　えものは\nカラやホネまで　のこさず　くうのだ。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "えものの　カラやホネも　のこさず\nきれいに　たいらげるので　こうらは\nぶあつく　かたく　せいちょうする。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "みずのなかと　くらべて　うごきは\nにぶいが　えものを　さがしもとめ\nりくじょうでも　かつどうするぞ。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Abagoura",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "늑골라",
+    "genus": "옛날거북포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "바다와 육지에서 생활한다.\n손바닥으로 쳐서 배 밑바닥에\n구멍을 내는 파워의 소유자다."
+      },
+      {
+        "game": "xy-y",
+        "text": "발달한 앞다리로 상대를\n세게 쳐서 기절시켜 껍데기나\n뼈까지 통째로 깨물어 부쉈다."
+      },
+      {
+        "game": "oras-or",
+        "text": "바다와 육지에서 생활한다.\n손바닥으로 쳐서 배 밑바닥에\n구멍을 내는 파워의 소유자다."
+      },
+      {
+        "game": "oras-as",
+        "text": "발달한 앞다리로 상대를\n세게 쳐서 기절시켜 껍데기나\n뼈까지 통째로 깨물어 부쉈다."
+      },
+      {
+        "game": "sm-s",
+        "text": "단단한 등껍질을 만들기 위해\n먹이의 딱딱한 껍데기나 뼈도\n통째로 깨물어 먹었다."
+      },
+      {
+        "game": "sm-m",
+        "text": "바다와 육지 양쪽에서\n활동한다. 육지의 먹이는\n바다로 끌고 들어가 처리한다."
+      },
+      {
+        "game": "usum-us",
+        "text": "턱의 힘이 무시무시하다.\n암스타나 암나이트의 껍질도\n아무렇지 않게 통째로 먹었다."
+      },
+      {
+        "game": "usum-um",
+        "text": "단단한 등껍질을 더욱 튼튼하게\n만들기 위해 잡은 먹이는\n껍질이나 뼈까지 남기지 않고 먹는다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "먹이의 껍질과 뼈까지 남김없이\n깨끗하게 먹어 치워서 등껍질은\n두껍고 단단하게 성장한다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "물속과 비교하면 움직임이\n둔하지만 먹이를 찾아\n육지에서도 활동한다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "肋骨海龜",
+    "genus": "古代龜寶可夢",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "為了形成結實的甲殼，\n會把獵物的硬殼和骨頭\n整個嚼碎後吃下去。"
+      },
+      {
+        "game": "sm-m",
+        "text": "在大海和陸地兩個地方活動。\n會將陸地的獵物拖入海中後殺死。"
+      },
+      {
+        "game": "usum-us",
+        "text": "下巴的力量非常驚人，\n連多刺菊石獸和菊石獸的殼\n也能輕而易舉地整個吃掉。"
+      },
+      {
+        "game": "usum-um",
+        "text": "為了讓堅硬的甲殼變得\n更加結實，會把捉到的獵物\n吃到連殼和骨頭都不剩。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "由於會將獵物的硬殼和骨頭\n也都吃得乾乾淨淨一點不剩，\n所以牠的甲殼長得又厚又堅硬。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "雖然和水中相比動作會變得\n比較遲緩，但為了尋找獵物\n牠還是會在陸地上活動。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Mégapagos",
+    "genus": "Pokémon Tortantique",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Il vit sur terre et en mer.\nSes bras surpuissants peuvent percer\ndes trous dans la coque des paquebots."
+      },
+      {
+        "game": "bw-w",
+        "text": "Ses mâchoires sont très puissantes.\nIl dévore sans distinction ses proies,\nl’acier et les rochers."
+      },
+      {
+        "game": "xy-x",
+        "text": "Il vit sur terre et en mer. Ses bras surpuissants\npeuvent percer des trous dans la coque des\npaquebots."
+      },
+      {
+        "game": "xy-y",
+        "text": "Ses bras puissants serrent ses proies jusqu’à\nl’évanouissement. Il les dévore ensuite, carapace et\nos compris."
+      },
+      {
+        "game": "oras-or",
+        "text": "Il vit sur terre et en mer. Ses bras surpuissants peuvent percer\ndes trous dans la coque des paquebots."
+      },
+      {
+        "game": "oras-as",
+        "text": "Ses bras puissants serrent ses proies jusqu’à\nl’évanouissement. Il les dévore ensuite, carapace et\nos compris."
+      },
+      {
+        "game": "sm-s",
+        "text": "Pour se constituer une carapace solide, il devait\nréduire en miettes les os et coquilles riches en\nminéraux de ses proies avant de les avaler."
+      },
+      {
+        "game": "sm-m",
+        "text": "Aussi à l’aise sur terre que dans l’eau,\nce Pokémon chasse ses proies à la surface\npuis les entraîne sous la mer pour les noyer."
+      },
+      {
+        "game": "usum-us",
+        "text": "L’incroyable puissance de sa mâchoire lui\npermettait de broyer facilement les coquilles\nd’Amonistar ou d’Amonita pour les manger."
+      },
+      {
+        "game": "usum-um",
+        "text": "Afin de renforcer sa carapace, ce Pokémon\nva même jusqu’à manger la coquille et les os\nde ses proies."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Il dévore les os et la coquille de ses proies,\nce qui épaissit et renforce sa propre carapace."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Bien qu’il soit moins à l’aise sur terre que dans\nl’eau, il s’aventure sur le rivage pour se nourrir."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Karippas",
+    "genus": "Urzeitkröten-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Es lebt im Meer und an Land. Es ist so stark,\ndass es mit einem einzigen Hieb ein Loch in\nein Schiff reißen kann."
+      },
+      {
+        "game": "xy-y",
+        "text": "Ein Schlag mit seinen ausgeprägten Vorderflossen\nbrachte Gegner zu Fall und brach ihre Knochen\noder Schale."
+      },
+      {
+        "game": "oras-or",
+        "text": "Es lebt im Meer und an Land. Es ist so stark, dass es mit\neinem einzigen Hieb ein Loch in ein Schiff reißen kann."
+      },
+      {
+        "game": "oras-as",
+        "text": "Ein Schlag mit seinen ausgeprägten Vorderflossen brachte\nGegner zu Fall und brach ihre Knochen oder Schale."
+      },
+      {
+        "game": "sm-s",
+        "text": "Um seinen harten Panzer zu erlangen, fraß es\nseine Beute im Ganzen und zerkaute deren harte\nSchale und Knochen."
+      },
+      {
+        "game": "sm-m",
+        "text": "Es ist sowohl im Meer als auch an Land\nunterwegs. Landlebende Beute schleift\nes ins Meer und erlegt sie dort."
+      },
+      {
+        "game": "usum-us",
+        "text": "Sein Kiefer wurde wegen dessen großer Kraft\ngefürchtet. Sogar Amoroso und Amonitas konnte\nes trotz ihrer Schalen problemlos verschlingen."
+      },
+      {
+        "game": "usum-um",
+        "text": "Um seinen harten Panzer noch weiter zu\nverstärken, fraß es seine Beute samt Schale\nund Knochen restlos auf."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Karippas verschlingt seine Beute mitsamt Schale\nund Knochen, wodurch sein Panzer besonders\ndick und widerstandsfähig wird."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Obwohl es sich außerhalb des Wassers langsamer\nfortbewegt, kommt es an Land, um nach Beute\nzu suchen."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Carracosta",
+    "genus": "Pokémon Pretortuga",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Vive en el mar y en la superficie. Sus garras pueden\nabrir un agujero en el fondo de un petrolero."
+      },
+      {
+        "game": "xy-y",
+        "text": "Un golpe con sus desarrolladas aletas delanteras\npuede hacer perder a un rival el conocimiento o\nromperle los huesos."
+      },
+      {
+        "game": "oras-or",
+        "text": "Vive en el mar y en la superficie. Sus garras pueden abrir un\nagujero en el fondo de un petrolero."
+      },
+      {
+        "game": "oras-as",
+        "text": "Un golpe con sus desarrolladas aletas delanteras puede hacer\nperder a un rival el conocimiento o romperle los huesos."
+      },
+      {
+        "game": "sm-s",
+        "text": "Trituraba los huesos y las duras conchas de\nsus presas para aprovechar bien los nutrientes\ny reforzar así su propio caparazón."
+      },
+      {
+        "game": "sm-m",
+        "text": "Vive tanto en el mar como en la superficie.\nEn tierra firme, caza a sus presas y las arrastra\nhacia el mar, donde les da el golpe de gracia."
+      },
+      {
+        "game": "usum-us",
+        "text": "La brutal presión que ejerce con su mandíbula\nes tal que las conchas de Omastar y Omanyte\nno son ninguna molestia cuando los devora."
+      },
+      {
+        "game": "usum-um",
+        "text": "Para reforzar aún más su robusto caparazón,\nengulle incluso las conchas y los huesos de las\npresas que captura."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Devora incluso los huesos y caparazones de sus\npresas, por lo que el suyo propio se vuelve duro\ny grueso."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Aunque se mueva con mayor lentitud sobre la\nsuperficie terrestre que en el agua, emerge a\ntierra en busca de presas."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Carracosta",
+    "genus": "Pokémon Ancestruga",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Vive nel mare e sulla terraferma. Ha una forza tale\nda sfondare con un solo colpo il fondo di una nave\ncisterna."
+      },
+      {
+        "game": "xy-y",
+        "text": "Un singolo colpo dei suoi arti anteriori può bastare\na far perdere i sensi alla preda e romperne ossa e\ncorazza."
+      },
+      {
+        "game": "oras-or",
+        "text": "Vive nel mare e sulla terraferma. Ha una forza tale da sfondare\ncon un solo colpo il fondo di una nave cisterna."
+      },
+      {
+        "game": "oras-as",
+        "text": "Un singolo colpo dei suoi arti anteriori può bastare a far\nperdere i sensi alla preda e romperne ossa e corazza."
+      },
+      {
+        "game": "sm-s",
+        "text": "Per rafforzare il proprio carapace, mangiava le\nprede intere, frantumandone corazza e ossa."
+      },
+      {
+        "game": "sm-m",
+        "text": "Questo Pokémon è a suo agio sia in mare che\nsulla terraferma. Cattura le prede a terra e\nle trascina in mare per finirle."
+      },
+      {
+        "game": "usum-us",
+        "text": "Con le sue mascelle terribilmente potenti poteva\nfrantumare le dure corazze degli Omastar e\ndegli Omanyte per mangiarseli senza problemi."
+      },
+      {
+        "game": "usum-um",
+        "text": "Per rafforzare il suo carapace mangiava le\nprede intere senza scartare nulla, nemmeno\nle ossa e i gusci."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Consuma le sue prede senza lasciare nemmeno\nossa e gusci, favorendo così la formazione di\nun carapace duro e spesso."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Quando va in cerca di prede sale anche sulla\nterraferma, nonostante i suoi movimenti siano\npiù impacciati rispetto a quando è in acqua."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Carracosta",
+    "genus": "Prototurtle Pokémon",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "They can live both in the ocean and on\nland. A slap from one of them is enough\nto open a hole in the bottom of a tanker."
+      },
+      {
+        "game": "bw-w",
+        "text": "Incredible jaw strength enables them\nto chew up steel beams and rocks\nalong with their prey."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "It could knock out a foe with a slap from\none of its developed front appendages\nand chew it up, shell or bones and all."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "It could knock out a foe with a slap from\none of its developed front appendages\nand chew it up, shell or bones and all."
+      },
+      {
+        "game": "xy-x",
+        "text": "They can live both in the ocean and on land. A slap\nfrom one of them is enough to open a hole in the\nbottom of a tanker."
+      },
+      {
+        "game": "xy-y",
+        "text": "It could knock out a foe with a slap from one of its\ndeveloped front appendages and chew it up, shell\nor bones and all."
+      },
+      {
+        "game": "oras-or",
+        "text": "They can live both in the ocean and on land. A slap\nfrom one of them is enough to open a hole in the\nbottom of a tanker."
+      },
+      {
+        "game": "oras-as",
+        "text": "It could knock out a foe with a slap from one of its\ndeveloped front appendages and chew it up, shell\nor bones and all."
+      },
+      {
+        "game": "sm-s",
+        "text": "It constructed its sturdy shell by crunching and\nswallowing the hard shells or bones of its prey."
+      },
+      {
+        "game": "sm-m",
+        "text": "Active both on land and in the sea, this\nPokémon drags its land-based prey into the\nwater to finish it off."
+      },
+      {
+        "game": "usum-us",
+        "text": "Its jaws are terrifyingly powerful. It could eat\nOmastar and Omanyte whole and not be\nbothered in the slightest by their shells."
+      },
+      {
+        "game": "usum-um",
+        "text": "Carracosta eats every last bit of the prey it\ncatches, even the shells and bones, to further\nstrengthen its sturdy shell."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Carracosta completely devours its prey—bones,\nshells, and all. Because of this, Carracosta’s own\nshell grows thick and sturdy."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "This Pokémon emerges from the water in search\nof prey despite the fact that it moves more\nslowly on land."
+      }
+    ]
+  },
+  "chs": {
+    "name": "肋骨海龟",
+    "genus": "古代龟宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "为了形成结实的甲壳，\n会把猎物的硬壳和骨头\n都整个嚼碎了吃下去。"
+      },
+      {
+        "game": "sm-m",
+        "text": "在大海和陆地两个地方活动。\n将陆地的猎物拖入海中后杀死。"
+      },
+      {
+        "game": "usum-us",
+        "text": "颚部的力量非常惊人。\n连多刺菊石兽和菊石兽的壳\n也能轻轻松松地整个吃掉。"
+      },
+      {
+        "game": "usum-um",
+        "text": "为了让坚硬的甲壳更为结实，\n会把捕捉到的猎物吃到\n连壳和骨头都不剩。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "连猎物的壳和骨头也都会\n干干净净地吃得一丝不剩，\n所以甲壳成长得又厚又坚硬。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "虽然和在水中相比动作\n会变得迟缓，但是为了寻找\n猎物也会登上陆地活动。"
+      }
+    ]
+  }
+}

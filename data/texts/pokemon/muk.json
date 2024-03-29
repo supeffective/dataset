@@ -1,0 +1,477 @@
+{
+  "jap": {
+    "name": "ベトベトン",
+    "genus": "ヘドロポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "ヘドロが　たまる　くさい　ばしょを\nこのんで　あつまってくるので\nあたりは　いっそう　くさくなる。"
+      },
+      {
+        "game": "xy-y",
+        "text": "からだから　もうどくの　たいえきが\nしみでている。その　えきに　ふれた\nくさきは　あっというまに　かれる。"
+      },
+      {
+        "game": "oras-or",
+        "text": "からだから　しみだしている　たいえきは　はなが\nまがるほど　きょうれつな　においを　はなつ。\n１てきで　プールのみずが　にごり　においだす。"
+      },
+      {
+        "game": "oras-as",
+        "text": "きたない　ものが　だいこうぶつなので　ゴミを\nみちばたに　すてる　ような　ひとが　すんでいる\nまちには　ベトベトンが　あつまってくるぞ。"
+      },
+      {
+        "game": "sm-s",
+        "text": "とにかく　はなが　まがるほど　くさい。\nだが　いちぶには　それがいいと　いう\nベトベトンマニアも　そんざいする。"
+      },
+      {
+        "game": "sm-m",
+        "text": "かんきょうが　せいびされた　さいきんは\nめっきり　すがたを　みなくなった。\nいずれ　ぜつめつすると　いわれている。"
+      },
+      {
+        "game": "usum-us",
+        "text": "エサが　へって　かずも　げきげん。\nぜつめつを　ふせぐため　じんこうの\nヘドロいけが　つくられはじめた。"
+      },
+      {
+        "game": "usum-um",
+        "text": "びょうげんきんを　まきちらすので\nくじょ　しつづけた　けっか\nかずが　げきげんして　しまった。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "とっても　くさい！　きぜつするほど\nきょうれつだが　ベトベトンは　はなが\nたいかして　においを　かんじない。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "とっても　くさい！　きぜつするほど\nきょうれつだが　ベトベトンは　はなが\nたいかして　においを　かんじない。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Betbeton",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "질뻐기",
+    "genus": "진흙포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "진흙이 쌓여 악취가 나는 장소를\n좋아해서 모여들기 때문에\n주변은 더욱 악취가 난다."
+      },
+      {
+        "game": "xy-y",
+        "text": "몸에서 맹독의 체액이\n배어 나오고 있다. 그 액에 스친\n초목은 순식간에 시든다."
+      },
+      {
+        "game": "oras-or",
+        "text": "몸에서 배어 나오는 체액은 코를\n찌를 정도로 강렬한 냄새를 뿜는다.\n한 방울로 수영장의 물이 탁해지고 냄새가 난다."
+      },
+      {
+        "game": "oras-as",
+        "text": "더러운 것을 매우 좋아해서 쓰레기를\n길가에 버릴 것 같은 사람이 사는\n마을에는 질뻐기가 모여든다."
+      },
+      {
+        "game": "sm-s",
+        "text": "코를 찌를 정도로 지독한 냄새가 난다.\n하지만 오히려 그 냄새가 좋다는\n질뻐기 마니아도 일부 존재한다."
+      },
+      {
+        "game": "sm-m",
+        "text": "환경이 정비된 최근에는\n좀처럼 모습을 볼 수 없게 되었다.\n언젠가는 멸종될 것이라고 전해진다."
+      },
+      {
+        "game": "usum-us",
+        "text": "먹이가 줄어들어 개체 수가 격감했다.\n멸종을 방지하기 위해 \n인공 진흙 연못을 만들기 시작했다."
+      },
+      {
+        "game": "usum-um",
+        "text": "병원균을 흩뿌리기 때문에\n제거를 거듭한 결과\n수가 급격히 줄어들었다."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "악취가 심하다! 기절할 정도로\n강렬하지만 질뻐기는 코가\n퇴화해서 냄새를 맡지 못한다."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "악취가 심하다! 기절할 정도로\n강렬하지만 질뻐기는 코가\n퇴화해서 냄새를 맡지 못한다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "臭臭泥",
+    "genus": "污泥寶可夢",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "總之就是臭得讓人不敢用鼻子呼吸。\n但是也存在著少數覺得這味道\n很不錯的臭臭泥愛好者。"
+      },
+      {
+        "game": "sm-m",
+        "text": "經過環境整治後，\n最近已經很難看到牠的身影了。\n據說早晚會滅絕。"
+      },
+      {
+        "game": "usum-us",
+        "text": "因為食物減少而導致數量驟減。\n為了防止牠絕種，人們開始\n建造人工的污泥池。"
+      },
+      {
+        "game": "usum-um",
+        "text": "由於牠會散播病原菌，\n因此不斷遭到驅逐，\n結果導致牠的數量急遽減少。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "奇臭無比！雖然臭到令人昏倒，\n但臭臭泥的鼻子已經退化，\n所以牠自己聞不到味道。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "奇臭無比！雖然臭到令人昏倒，\n但臭臭泥的鼻子已經退化，\n所以牠自己聞不到味道。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Grotadmorv",
+    "genus": "Pokémon Dégueu",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Son corps exsude un fluide toxique\nqui tue instantanément les plantes\net les arbres au contact."
+      },
+      {
+        "game": "bw-w",
+        "text": "Son corps exsude un fluide toxique\nqui tue instantanément les plantes\net les arbres au contact."
+      },
+      {
+        "game": "xy-x",
+        "text": "Il recherche les endroits sales où il y a des ordures\npour y établir son habitat puant et infect."
+      },
+      {
+        "game": "xy-y",
+        "text": "Son corps exsude un fluide toxique qui tue\ninstantanément les plantes et les arbres au contact."
+      },
+      {
+        "game": "oras-or",
+        "text": "Un fluide nauséabond suinte du corps de Grotadmorv,\nagressant les narines de ses ennemis. Une seule goutte\nde ce fluide suffit à faire croupir un bassin d’eau propre."
+      },
+      {
+        "game": "oras-as",
+        "text": "Ce Pokémon ne mange que ce qui est répugnant et abject.\nLes Grotadmorv se rassemblent dans les villes où les gens\njettent tout par terre, dans la rue."
+      },
+      {
+        "game": "sm-s",
+        "text": "La puanteur qu’il dégage est presque\ninsoutenable. Mais certains aficionados trouvent\nque c’est ce qui fait son charme."
+      },
+      {
+        "game": "sm-m",
+        "text": "La qualité de l’environnement s’étant améliorée\nrécemment, ce Pokémon est devenu plus rare.\nOn dit qu’il est en voie d’extinction."
+      },
+      {
+        "game": "usum-us",
+        "text": "Faute de nourriture, la population de Grotadmorv\ndiminue rapidement. Pour éviter son extinction,\ndes étangs de fange artificiels ont été creusés."
+      },
+      {
+        "game": "usum-um",
+        "text": "Comme il répand des microbes, on lui a\nbeaucoup fait la chasse. La population de\nGrotadmorv a diminué de manière drastique."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Son odeur immonde provoque des\névanouissements. Son odorat s’est atrophié\nà cause de sa propre puanteur."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Son odeur immonde provoque des\névanouissements. Son odorat s’est atrophié\nà cause de sa propre puanteur."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Sleimok",
+    "genus": "Schlamm",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Sie treffen sich an stinkenden Orten, an denen der\nSchleim sich türmt. Dies merkt man am Gestank."
+      },
+      {
+        "game": "xy-y",
+        "text": "Sein Körper sondert eine giftige Substanz ab,\ndie bei Kontakt Pflanzen und Bäume vernichtet."
+      },
+      {
+        "game": "oras-or",
+        "text": "Sleimok scheidet eine widerlich stinkende Substanz aus.\nEin einziger Tropfen dieser Substanz reicht aus, um ein\nGewässer zu verseuchen."
+      },
+      {
+        "game": "oras-as",
+        "text": "Sleimoks Lieblingsspeise ist alles, was widerlich\nverschmutzt ist. In dreckigen Städten, in denen\nsich Menschen nichts dabei denken, wenn sie Müll\nauf die Straße werfen, lassen sich diese Pokémon\nmit Vorliebe in Scharen nieder."
+      },
+      {
+        "game": "sm-s",
+        "text": "Es sondert einen widerlichen Gestank ab.\nIn Fankreisen wird jedoch ausgerechnet\ndiese Eigenschaft besonders geschätzt."
+      },
+      {
+        "game": "sm-m",
+        "text": "Es wird immer seltener gesehen, da zunehmend\nmehr Wert auf Umweltschutz gelegt wird. Man\nvermutet, dass es irgendwann ganz ausstirbt."
+      },
+      {
+        "game": "usum-us",
+        "text": "Aufgrund von Futtermangel sieht man es immer\nseltener. Um es vom Aussterben zu bewahren,\nwerden nun künstliche Schlammteiche angelegt."
+      },
+      {
+        "game": "usum-um",
+        "text": "Da es Krankheitskeime verbreitet, hat man lange\nversucht, es auszurotten. Heute sieht man es\ndaher nur noch selten."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Sein fürchterlicher Gestank kann zur Ohnmacht\nführen. Da seine Nase so verkümmert ist, kann\nes selbst nichts mehr riechen."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Sein fürchterlicher Gestank kann zur Ohnmacht\nführen. Da seine Nase so verkümmert ist, kann\nes selbst nichts mehr riechen."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Muk",
+    "genus": "Pokémon Lodo",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Les encanta reunirse en zonas apestosas donde se\nacumula el lodo, haciendo su olor más insoportable."
+      },
+      {
+        "game": "xy-y",
+        "text": "Su cuerpo segrega un fluido tóxico que elimina la vida\nvegetal cuando la toca."
+      },
+      {
+        "game": "oras-or",
+        "text": "Muk emana por todo el cuerpo un fluido maloliente que obliga\na taparse la nariz. Con solo una gota de la sustancia que\nexuda este Pokémon, se podría contaminar un estanque."
+      },
+      {
+        "game": "oras-as",
+        "text": "A este Pokémon le encanta comer cosas repulsivas. En\nciudades sucias en las que la gente tira la basura por la calle,\nlos Muk tienen, sin duda, su punto de encuentro."
+      },
+      {
+        "game": "sm-s",
+        "text": "Desprende un hedor insoportable que invita a\ntaparse la nariz. A algunos fanáticos de este\nPokémon, este hecho les parece encantador."
+      },
+      {
+        "game": "sm-m",
+        "text": "Con la reciente preocupación por el medio\nambiente, este Pokémon escasea cada vez más.\nPodría considerarse en peligro de extinción."
+      },
+      {
+        "game": "usum-us",
+        "text": "Su número ha disminuido por falta de sustento,\npor lo que se han creado estanques de lodo\nartificiales para salvarlo de la extinción."
+      },
+      {
+        "game": "usum-um",
+        "text": "Al ser un portador de toda clase de gérmenes,\nha sido perseguido a lo largo de la historia\nhasta verse abocado casi a la extinción."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Huele tan mal que puede provocar desmayos.\nSu nariz se ha atrofiado de tal manera que\nha perdido por completo el sentido del olfato."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Huele tan mal que puede provocar desmayos.\nSu nariz se ha atrofiado de tal manera que\nha perdido por completo el sentido del olfato."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Muk",
+    "genus": "Pokémon Melma",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Amano riunirsi vicino a puzzolenti liquami di scolo,\nrendendo il fetore ancora più intenso."
+      },
+      {
+        "game": "xy-y",
+        "text": "Dal suo corpo filtra un fluido tossico che uccide\nall’istante piante e alberi con cui viene a contatto."
+      },
+      {
+        "game": "oras-or",
+        "text": "Il corpo di questo Pokémon emana un liquido marcio\ndall’odore nauseabondo. Una sola goccia di questo liquido\nè in grado di rendere l’acqua di una piscina putrida\ne stagnante."
+      },
+      {
+        "game": "oras-as",
+        "text": "Questo Pokémon si ciba di qualunque cosa sia sudicia\ne ripugnante. Le città più inquinate, dove la popolazione\ngetta i rifiuti in strada, sono un luogo di ritrovo frequente\nper i Muk."
+      },
+      {
+        "game": "sm-s",
+        "text": "Emana un fetore insopportabile, ma i fanatici\ndi questo Pokémon lo considerano un pregio."
+      },
+      {
+        "game": "sm-m",
+        "text": "Ultimamente, l’accresciuta sensibilità ambientale\nha portato a una diminuzione degli esemplari\ndi questo Pokémon, che rischia l’estinzione."
+      },
+      {
+        "game": "usum-us",
+        "text": "Il loro numero è calato drasticamente a causa\ndella mancanza di cibo. Per evitarne l’estinzione,\nsono state create pozze di liquami artificiali."
+      },
+      {
+        "game": "usum-um",
+        "text": "Essendo portatore di germi, è stato sempre\ncacciato senza pietà. Per questo il numero di\nesemplari si è ridotto drasticamente."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Emette un tanfo così terribile da far svenire,\nma non sente alcun odore perché ormai\nil suo naso si è atrofizzato."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Emette un tanfo così terribile da far svenire,\nma non sente alcun odore perché ormai\nil suo naso si è atrofizzato."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Muk",
+    "genus": "Sludge Pokémon",
+    "flavorText": [
+      {
+        "game": "rb-r",
+        "text": "Thickly covered\nwith a filthy,\nvile sludge. It\fis so toxic, even\nits footprints\ncontain poison."
+      },
+      {
+        "game": "rb-b",
+        "text": "Thickly covered\nwith a filthy,\nvile sludge. It\fis so toxic, even\nits footprints\ncontain poison."
+      },
+      {
+        "game": "y",
+        "text": "Smells so awful,\nit can cause\nfainting. Through\fdegeneration, it\nlost its sense of\nsmell."
+      },
+      {
+        "game": "gs-g",
+        "text": "They love to gath­\ner in smelly areas\nwhere sludge ac­\fcumulates, making\nthe stench around\nthem worse."
+      },
+      {
+        "game": "gs-s",
+        "text": "Its body is made\nof a powerful poi­\nson. Touching it\faccidentally will\ncause a fever that\nrequires bed rest."
+      },
+      {
+        "game": "c",
+        "text": "As it moves, a\nvery strong poison\nleaks from it,\fmaking the ground\nthere barren for\nthree years."
+      },
+      {
+        "game": "rs-r",
+        "text": "From MUK’s body seeps a foul fluid that\ngives off a nose-bendingly horrible\nstench.\fJust one drop of this POKéMON’s body\nfluid can turn a pool stagnant and\nrancid."
+      },
+      {
+        "game": "rs-s",
+        "text": "This POKéMON’s favorite food is\nanything that is repugnantly filthy.\nIn dirty towns where people think\fnothing of throwing away litter on the\nstreets, MUK are certain to gather."
+      },
+      {
+        "game": "e",
+        "text": "It prefers warm and humid habitats.\nIn the summertime, the toxic substances\nin its body intensify, making MUK reek like\nputrid kitchen garbage."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "It is usually undetectable because it\nblends in with the ground. Touching it can\ncause terrible poisoning."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "Thickly covered with a filthy, vile\nsludge. It is so toxic, even its footprints\ncontain poison."
+      },
+      {
+        "game": "dp-d",
+        "text": "A toxic fluid seeps from its body.\nThe fluid instantly kills plants and\ntrees on contact."
+      },
+      {
+        "game": "dp-p",
+        "text": "A toxic fluid seeps from its body.\nThe fluid instantly kills plants and\ntrees on contact."
+      },
+      {
+        "game": "pt",
+        "text": "A toxic fluid seeps from its body.\nThe fluid instantly kills plants and\ntrees on contact."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "They love to gather in smelly areas\nwhere sludge accumulates, making\nthe stench around them worse."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "Its body is made of a powerful poison.\nTouching it accidentally will\ncause a fever that requires bed rest."
+      },
+      {
+        "game": "bw-b",
+        "text": "A toxic fluid seeps from its body.\nThe fluid instantly kills plants and\ntrees on contact."
+      },
+      {
+        "game": "bw-w",
+        "text": "A toxic fluid seeps from its body.\nThe fluid instantly kills plants and\ntrees on contact."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "It’s so stinky! Muk’s body contains\ntoxic elements, and any plant will\nwilt when it passes by."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "It’s so stinky! Muk’s body contains\ntoxic elements, and any plant will\nwilt when it passes by."
+      },
+      {
+        "game": "xy-x",
+        "text": "They love to gather in smelly areas where sludge\naccumulates, making the stench around\nthem worse."
+      },
+      {
+        "game": "xy-y",
+        "text": "A toxic fluid seeps from its body. The fluid instantly\nkills plants and trees on contact."
+      },
+      {
+        "game": "oras-or",
+        "text": "From Muk’s body seeps a foul fluid that gives off a\nnose-bendingly horrible stench. Just one drop of this\nPokémon’s body fluid can turn a pool stagnant and rancid."
+      },
+      {
+        "game": "oras-as",
+        "text": "This Pokémon’s favorite food is anything that is repugnantly\nfilthy. In dirty towns where people think nothing of throwing\naway litter on the streets, Muk are certain to gather."
+      },
+      {
+        "game": "sm-s",
+        "text": "The stench it gives off will make your nose\nscrunch up. Still, there are Muk fans who think\nthat’s a good thing."
+      },
+      {
+        "game": "sm-m",
+        "text": "After recent environmental improvements, this\nPokémon is now hardly seen at all. People\nspeculate that it may go extinct at some point."
+      },
+      {
+        "game": "usum-us",
+        "text": "Their food sources have decreased, and their\nnumbers have declined sharply. Sludge ponds\nare being built to prevent their extinction."
+      },
+      {
+        "game": "usum-um",
+        "text": "Because they scatter germs everywhere,\nthey’ve long been targeted for extermination,\nleading to a steep decline in their population."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Smells so awful, it can cause fainting.\nThrough degeneration of its nose,\nit lost its sense of smell."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Smells so awful, it can cause fainting.\nThrough degeneration of its nose,\nit lost its sense of smell."
+      }
+    ]
+  },
+  "chs": {
+    "name": "臭臭泥",
+    "genus": "污泥宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "总之就是臭得鼻子都不敢呼吸。\n但是也存在着部分觉得这味道\n很不错的臭臭泥爱好者。"
+      },
+      {
+        "game": "sm-m",
+        "text": "在环境治理后的现在，\n明显已经看不到它们的身影了。\n据说早晚会灭绝。"
+      },
+      {
+        "game": "usum-us",
+        "text": "食物变少数量也会急剧减少。\n为了防止它灭绝，\n人们开始了制造人工污泥池。"
+      },
+      {
+        "game": "usum-um",
+        "text": "因为它会播撒病原菌，\n所以一直遭到人们的驱逐，\n结果它的数量也急剧减少了。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "非常难闻！气味臭到让人\n窒息，但由于鼻子的退化，\n它自己完全闻不到味道。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "非常难闻！气味臭到让人\n窒息，但由于鼻子的退化，\n它自己完全闻不到味道。"
+      }
+    ]
+  }
+}

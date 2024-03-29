@@ -1,0 +1,219 @@
+{
+  "jap": {
+    "name": "ナエトル",
+    "genus": "わかばポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "たいようの　ひかりを　あびて\nぜんしんで　こうごうせいを　する。\nこうらは　つちが　かたくなったもの。"
+      },
+      {
+        "game": "xy-y",
+        "text": "ぜんしんで　こうごうせいを　して\nさんそを　つくる。のどが　かわくと\nあたまの　はっぱが　しおれてしまう。"
+      },
+      {
+        "game": "oras-or",
+        "text": "たいようの　ひかりを　あびて\nぜんしんで　こうごうせいを　する。\nこうらは　つちが　かたくなったもの。"
+      },
+      {
+        "game": "oras-as",
+        "text": "ぜんしんで　こうごうせいを　して\nさんそを　つくる。のどが　かわくと\nあたまの　はっぱが　しおれてしまう。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Naetle",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "모부기",
+    "genus": "어린잎포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "태양의 빛을 쬐어\n전신으로 광합성을 한다.\n등껍질은 흙이 딱딱해진 것이다."
+      },
+      {
+        "game": "xy-y",
+        "text": "전신으로 광합성을 하여\n산소를 만든다. 목이 마르면\n머리의 잎사귀가 시들어 버린다."
+      },
+      {
+        "game": "oras-or",
+        "text": "태양의 빛을 쬐어\n전신으로 광합성을 한다.\n등껍질은 흙이 딱딱해진 것이다."
+      },
+      {
+        "game": "oras-as",
+        "text": "전신으로 광합성을 하여\n산소를 만든다. 목이 마르면\n머리의 잎사귀가 시들어 버린다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "草苗龜",
+    "genus": "嫩葉寶可夢",
+    "flavorText": []
+  },
+  "fra": {
+    "name": "Tortipouss",
+    "genus": "Pokémon Minifeuille",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "La coquille sur son dos est faite de\nterre. Plus il est en bonne santé,\nplus elle est humide."
+      },
+      {
+        "game": "bw-w",
+        "text": "La coquille sur son dos est faite de\nterre. Plus il est en bonne santé,\nplus elle est humide."
+      },
+      {
+        "game": "xy-x",
+        "text": "Son corps assimile la lumière du soleil par\nphotosynthèse. Sa carapace est faite de terre durcie."
+      },
+      {
+        "game": "xy-y",
+        "text": "Son corps produit de l’oxygène par photosynthèse.\nLa feuille sur sa tête flétrit quand il a soif."
+      },
+      {
+        "game": "oras-or",
+        "text": "Son corps assimile la lumière du soleil par photosynthèse.\nSa carapace est faite de terre durcie."
+      },
+      {
+        "game": "oras-as",
+        "text": "Son corps produit de l’oxygène par photosynthèse.\nLa feuille sur sa tête flétrit quand il a soif."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Chelast",
+    "genus": "Winziglaub",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Im Sonnenlicht betreibt sein ganzer Körper\nPhotosynthese. Sein Panzer besteht aus hartem Lehm."
+      },
+      {
+        "game": "xy-y",
+        "text": "Sein Körper lebt von der Photosynthese,\ndie Sauerstoff freisetzt. Ist es durstig, welkt sein Blatt."
+      },
+      {
+        "game": "oras-or",
+        "text": "Im Sonnenlicht betreibt sein ganzer Körper Photosynthese.\nSein Panzer besteht aus hartem Lehm."
+      },
+      {
+        "game": "oras-as",
+        "text": "Sein Körper lebt von der Photosynthese, die Sauerstoff\nfreisetzt. Ist es durstig, welkt sein Blatt."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Turtwig",
+    "genus": "Pokémon Hojita",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Realiza la fotosíntesis al bañarle los rayos de sol.\nSu concha está formada por tierra endurecida."
+      },
+      {
+        "game": "xy-y",
+        "text": "Realiza la fotosíntesis para obtener oxígeno. Si tiene\nsed, las hojas de la cabeza se marchitan."
+      },
+      {
+        "game": "oras-or",
+        "text": "Realiza la fotosíntesis al bañarle los rayos de sol. Su concha\nestá formada por tierra endurecida."
+      },
+      {
+        "game": "oras-as",
+        "text": "Realiza la fotosíntesis para obtener oxígeno. Si tiene sed,\nlas hojas de la cabeza se marchitan."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Turtwig",
+    "genus": "Pokémon Fogliolina",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Fa la fotosintesi su tutto il corpo esponendosi ai\nraggi solari. La sua corazza è fatta di terra compatta."
+      },
+      {
+        "game": "xy-y",
+        "text": "È in grado di svolgere la fotosintesi e di produrre\nossigeno. La sua foglia appassisce se ha sete."
+      },
+      {
+        "game": "oras-or",
+        "text": "Fa la fotosintesi su tutto il corpo esponendosi ai raggi solari.\nLa sua corazza è fatta di terra compatta."
+      },
+      {
+        "game": "oras-as",
+        "text": "È in grado di svolgere la fotosintesi e di produrre ossigeno.\nLa sua foglia appassisce se ha sete."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Turtwig",
+    "genus": "Tiny Leaf Pokémon",
+    "flavorText": [
+      {
+        "game": "dp-d",
+        "text": "Made from soil, the shell on its\nback hardens when it drinks water.\nIt lives along lakes."
+      },
+      {
+        "game": "dp-p",
+        "text": "It undertakes photosynthesis with\nits body, making oxygen. The leaf\non its head wilts if it is thirsty."
+      },
+      {
+        "game": "pt",
+        "text": "The shell on its back is made of\nsoil. On a very healthy TURTWIG,\nthe shell should feel moist."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "Photosynthesis occurs across its\nbody under the sun. The shell on\nits back is actually hardened soil."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "Photosynthesis occurs across its\nbody under the sun. The shell on\nits back is actually hardened soil."
+      },
+      {
+        "game": "bw-b",
+        "text": "The shell on its back is made of\nsoil. On a very healthy Turtwig,\nthe shell should feel moist."
+      },
+      {
+        "game": "bw-w",
+        "text": "The shell on its back is made of\nsoil. On a very healthy Turtwig,\nthe shell should feel moist."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "The shell on its back is made of\nsoil. On a very healthy Turtwig,\nthe shell should feel moist."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "The shell on its back is made of\nsoil. On a very healthy Turtwig,\nthe shell should feel moist."
+      },
+      {
+        "game": "xy-x",
+        "text": "Photosynthesis occurs across its body under the\nsun. The shell on its back is actually hardened soil."
+      },
+      {
+        "game": "xy-y",
+        "text": "It undertakes photosynthesis with its body, making\noxygen. The leaf on its head wilts if it is thirsty."
+      },
+      {
+        "game": "oras-or",
+        "text": "Photosynthesis occurs across its body under the\nsun. The shell on its back is actually hardened soil."
+      },
+      {
+        "game": "oras-as",
+        "text": "It undertakes photosynthesis with its body, making\noxygen. The leaf on its head wilts if it is thirsty."
+      },
+      {
+        "game": "la",
+        "text": "This Pokémon becomes more energetic the more sunlight there\nis. The part resembling a shell is similar to silt and is slightly\ndamp and warm to the touch."
+      }
+    ]
+  },
+  "chs": {
+    "name": "草苗龟",
+    "genus": "嫩叶宝可梦",
+    "flavorText": []
+  }
+}

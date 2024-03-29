@@ -1,0 +1,405 @@
+{
+  "jap": {
+    "name": "シードラ",
+    "genus": "ドラゴンポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "うかつに　さわろうとすると\nからだじゅうに　はえる　トゲに\nさされて　きぜつすることも　ある。"
+      },
+      {
+        "game": "xy-y",
+        "text": "ハネと　しっぽを　すばやく　うごかし\nまえを　むいたまま　うしろへ\nおよぐことも　できる　ポケモン。"
+      },
+      {
+        "game": "oras-or",
+        "text": "サンゴの　えだの　すきまに　もぐって　ねむる。\nシードラに　きづかず　サンゴを　とろうとして\nどくの　トゲに　さされてしまう　ことが　ある。"
+      },
+      {
+        "game": "oras-as",
+        "text": "からだを　かいてんさせて　うずまきを　つくる。\nぎょせんも　のみこまれる　ほどの　げきりゅうで\nえものを　よわらせてから　まるごと　のみこむ。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "せびれに　さわると　しびれてしまう。\nねむるときは　ながされないように\nシッポを　さんごに　まきつける。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "せびれに　さわると　しびれてしまう。\nねむるときは　ながされないように\nシッポを　さんごに　まきつける。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "オスが　こどもを　そだてる。\nこそだてちゅうは　せなかの　トゲの\nどくそが　つよく　こくなるのだ。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "ほそい　くちだが　きゅういんりょくは\nつよい。　くちより　おおきな　エサも\nいっしゅんで　すいこみ　たべるぞ。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Seadra",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "시드라",
+    "genus": "드래곤포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "섣불리 만지려고 하면\n몸 전체에서 돋아나는 가시에\n찔려 기절할 수도 있다."
+      },
+      {
+        "game": "xy-y",
+        "text": "날개와 꼬리를 재빠르게 움직여\n앞을 향한 채 뒤로\n헤엄칠 수 있는 포켓몬이다."
+      },
+      {
+        "game": "oras-or",
+        "text": "산호 가지 사이로 들어가 잠잔다.\n시드라가 있는 줄 모르고 산호를\n잡으려다 독가시에 찔리곤 한다."
+      },
+      {
+        "game": "oras-as",
+        "text": "몸을 회전시켜 소용돌이를 만든다.\n어선도 집어삼킬 만한 격류로\n먹이를 약하게 만들고 통째로 삼킨다."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "등지느러미를 건드리면 마비된다.\n잘 때는 물살에 떠내려가지 않도록\n꼬리를 산호에 휘감는다."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "등지느러미를 건드리면 마비된다.\n잘 때는 물살에 떠내려가지 않도록\n꼬리를 산호에 휘감는다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "수컷이 새끼를 기른다.\n새끼를 기르는 동안 등에 난\n가시의 독소는 강해지고 짙어진다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "입은 가늘지만 흡인력은 강하다.\n입보다 큰 먹이도\n순식간에 빨아들여 먹는다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "海刺龍",
+    "genus": "龍寶可夢",
+    "flavorText": [
+      {
+        "game": "lgpe-lgp",
+        "text": "碰到牠的背鰭會導致麻痺。\n睡覺時會用尾巴纏住珊瑚，\n以免被水流沖走。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "碰到牠的背鰭會導致麻痺。\n睡覺時會用尾巴纏住珊瑚，\n以免被水流沖走。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "是由雄性來養育孩子。\n在育兒時，背上刺的\n毒素會變得更強更濃。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "嘴部雖然細，但吸力卻很強。\n就算是比嘴還要大的食物，\n也都能瞬間吸進口裡吃掉。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Hypocéan",
+    "genus": "Pokémon Dragon",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Son épine dorsale le protège.\nSes os et ses nageoires sont très\nprisés en médecine traditionnelle."
+      },
+      {
+        "game": "bw-w",
+        "text": "Son épine dorsale le protège.\nSes os et ses nageoires sont très\nprisés en médecine traditionnelle."
+      },
+      {
+        "game": "xy-x",
+        "text": "Son corps est recouvert de pointes tranchantes.\nIl faut la plus grande attention pour le saisir, sous\npeine de se faire piquer."
+      },
+      {
+        "game": "xy-y",
+        "text": "Il peut nager à l’envers en agitant ses petites\nnageoires pectorales."
+      },
+      {
+        "game": "oras-or",
+        "text": "Hypocéan s’accroche aux récifs de corail avant de s’endormir.\nLes pêcheurs de coraux se font parfois piquer par les aiguillons\nde ce Pokémon lorsqu’ils ne font pas attention."
+      },
+      {
+        "game": "oras-as",
+        "text": "Hypocéan déclenche des tourbillons en faisant tournoyer\nson corps. Ces tourbillons sont assez puissants pour engloutir\ndes bateaux de pêche. Ce Pokémon affaiblit sa proie grâce à\nces courants, puis l’avale en une bouchée."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Le contact de ses nageoires dorsales engourdit.\nIl ancre sa queue au corail quand il dort pour\néviter que le courant ne l’emporte."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Le contact de ses nageoires dorsales engourdit.\nIl ancre sa queue au corail quand il dort pour\néviter que le courant ne l’emporte."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Les mâles s’occupent des petits, et tant qu’ils en\nont à élever, le venin contenu dans leurs épines\ndorsales devient beaucoup plus fort."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Sa puissance de succion est si forte qu’il peut\naspirer en un instant ses proies pour les manger,\nmême si elles sont plus grosses que sa bouche."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Seemon",
+    "genus": "Drachen-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Sein Körper ist mit scharfen Stacheln gespickt.\nWenn man sorglos ist und es berührt, kann man\ndurch die Stacheln bewusstlos werden."
+      },
+      {
+        "game": "xy-y",
+        "text": "Dieses Pokémon kann rückwärts schwimmen,\nindem es Flügel und Schwanz als Flossen einsetzt."
+      },
+      {
+        "game": "oras-or",
+        "text": "Sobald sich Seemon um eine Koralle gewickelt hat, schläft es.\nVon Zeit zu Zeit werden Menschen durch die Widerhaken\ndieses Pokémon verletzt, wenn sie versuchen, Korallen zu\nernten und es dabei nicht bemerken."
+      },
+      {
+        "game": "oras-as",
+        "text": "Seemon erzeugt Strudel, indem es sich schnell um die eigene\nAchse dreht. Diese Strudel können sogar Fischerboote in die\nTiefe reißen. Damit schwächt es Beute, bevor es sie im Ganzen\nverschlingt."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Eine Berührung seiner Rückenflossen betäubt. Es\nklammert sich mit dem Schwanz an Korallen fest,\num sich im Schlaf vor der Strömung zu schützen."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Eine Berührung seiner Rückenflossen betäubt. Es\nklammert sich mit dem Schwanz an Korallen fest,\num sich im Schlaf vor der Strömung zu schützen."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Männlichen Seemon obliegt es, den Nachwuchs\ngroßzuziehen. In diesem Zeitraum ist das Gift in\nihren Rückenstacheln stärker und dickflüssiger."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Selbst Beute, die größer als sein kleiner Mund ist,\nkann es dank dessen starker Saugkraft im Nu\neinsaugen und verspeisen."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Seadra",
+    "genus": "Pokémon Dragón",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Las afiladas púas que le recubren el cuerpo se le\nerizan y pueden causar el debilitamiento con solo\ntocarlo."
+      },
+      {
+        "game": "xy-y",
+        "text": "Puede nadar hacia atrás moviendo rápidamente las\naletas pectorales y la robusta cola que tiene."
+      },
+      {
+        "game": "oras-or",
+        "text": "Seadra se echa a dormir tras abrirse un hueco entre las ramas\nde los corales. Los pescadores de coral suelen pincharse con\nlas púas venenosas de estos Pokémon si no los ven."
+      },
+      {
+        "game": "oras-as",
+        "text": "Seadra gira sobre sí mismo y crea unos remolinos lo\nsuficientemente fuertes como para engullir barcos de pesca.\nEste Pokémon aprovecha las corrientes que crea para debilitar\na su presa y tragársela de una vez."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Tocar sus aletas dorsales causa entumecimiento.\nMientras duerme se agarra al coral con la cola\npara que no se lo lleve la corriente."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Tocar sus aletas dorsales causa entumecimiento.\nMientras duerme se agarra al coral con la cola\npara que no se lo lleve la corriente."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "En esta especie, es el macho quien se ocupa de\nla prole. Durante la época de cría, el veneno de\nlas púas de su espalda se vuelve más potente."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Su estrecho morro posee tal fuerza de succión\nque es capaz de aspirar presas de mayor tamaño\ny engullirlas enteras."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Seadra",
+    "genus": "Pokémon Drago",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Ha il corpo ispido di aculei pungenti. Un contatto\nfortuito può causare uno svenimento."
+      },
+      {
+        "game": "xy-y",
+        "text": "È capace di nuotare all’indietro agitando rapidamente\nle pinne pettorali e la robusta coda."
+      },
+      {
+        "game": "oras-or",
+        "text": "Seadra dorme dopo essersi sistemato tra i rami di un corallo.\nI cercatori di corallo spesso rischiano di essere punti dai suoi\naculei velenosi se non si accorgono della sua presenza."
+      },
+      {
+        "game": "oras-as",
+        "text": "Roteando turbinosamente, Seadra genera vortici così forti da\nriuscire a inghiottire persino un peschereccio. In questo modo\nil Pokémon indebolisce le prede e poi le inghiotte intere."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Il contatto con la sua pinna dorsale causa\nstordimento. Dorme con la coda avvolta intorno\nal corallo per non farsi portare via dalla corrente."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Il contatto con la sua pinna dorsale causa\nstordimento. Dorme con la coda avvolta intorno\nal corallo per non farsi portare via dalla corrente."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Il maschio si occupa dei piccoli. Quando li alleva,\nil veleno degli aculei dorsali diventa denso e\npotente."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Nonostante la misura ridotta, la sua bocca\nha un potere aspirante tale da permettergli di\nrisucchiare e inghiottire grosse prede all’istante."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Seadra",
+    "genus": "Dragon Pokémon",
+    "flavorText": [
+      {
+        "game": "rb-r",
+        "text": "Capable of swim­\nming backwards by\nrapidly flapping\fits wing-like\npectoral fins and\nstout tail."
+      },
+      {
+        "game": "rb-b",
+        "text": "Capable of swim­\nming backwards by\nrapidly flapping\fits wing-like\npectoral fins and\nstout tail."
+      },
+      {
+        "game": "y",
+        "text": "Touching the back\nfin causes numb­\nness. It hooks\fits tail to coral\nto stay in place\nwhile sleeping."
+      },
+      {
+        "game": "gs-g",
+        "text": "An examination of\nits cells revealed\nthe presence of a\fgene not found in\nHORSEA. It became\na hot topic."
+      },
+      {
+        "game": "gs-s",
+        "text": "Its fin-tips leak\npoison. Its fins\nand bones are\fhighly valued as\ningredients in\nherbal medicine."
+      },
+      {
+        "game": "c",
+        "text": "The male raises\nthe young. If it\nis approached, it\fuses its toxic\nspikes to fend off\nthe intruder."
+      },
+      {
+        "game": "rs-r",
+        "text": "SEADRA sleeps after wriggling itself\nbetween the branches of coral.\nThose trying to harvest coral are\foccasionally stung by this POKéMON’s\npoison barbs if they fail to notice it."
+      },
+      {
+        "game": "rs-s",
+        "text": "SEADRA generates whirlpools by spinning\nits body. The whirlpools are strong\nenough to swallow even fishing boats.\fThis POKéMON weakens prey with these\ncurrents, then swallows it whole."
+      },
+      {
+        "game": "e",
+        "text": "The poisonous barbs all over its body are\nhighly valued as ingredients for making\ntraditional herbal medicine. It shows no\nmercy to anything approaching its nest."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "Its body bristles with sharp spikes.\nCarelessly trying to touch it could cause\nfainting from the spikes."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "It is capable of swimming backwards by\nrapidly flapping its winglike pectoral fins\nand stout tail."
+      },
+      {
+        "game": "dp-d",
+        "text": "Its spines provide protection.\nIts fins and bones are prized as\ntraditional medicine ingredients."
+      },
+      {
+        "game": "dp-p",
+        "text": "Its spines provide protection.\nIts fins and bones are prized as\ntraditional medicine ingredients."
+      },
+      {
+        "game": "pt",
+        "text": "Its spines provide protection.\nIts fins and bones are prized as\ntraditional medicine ingredients."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "An examination of its cells revealed\nthe presence of a gene not found in\nHORSEA. It became a hot topic."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "Its fin-tips leak poison. Its fins\nand bones are highly valued as\ningredients in herbal medicine."
+      },
+      {
+        "game": "bw-b",
+        "text": "Its spines provide protection.\nIts fins and bones are prized as\ntraditional medicine ingredients."
+      },
+      {
+        "game": "bw-w",
+        "text": "Its spines provide protection.\nIts fins and bones are prized as\ntraditional medicine ingredients."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "Its spines provide protection.\nIts fins and bones are prized as\ntraditional-medicine ingredients."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "Its spines provide protection.\nIts fins and bones are prized as\ntraditional-medicine ingredients."
+      },
+      {
+        "game": "xy-x",
+        "text": "Its body bristles with sharp spikes. Carelessly trying\nto touch it could cause fainting from the spikes."
+      },
+      {
+        "game": "xy-y",
+        "text": "It is capable of swimming backwards by rapidly\nflapping its winglike pectoral fins and stout tail."
+      },
+      {
+        "game": "oras-or",
+        "text": "Seadra sleeps after wriggling itself between the branches of\ncoral. Those trying to harvest coral are occasionally stung by\nthis Pokémon’s poison barbs if they fail to notice it."
+      },
+      {
+        "game": "oras-as",
+        "text": "Seadra generates whirlpools by spinning its body.\nThe whirlpools are strong enough to swallow even\nfishing boats. This Pokémon weakens prey with\nthese currents, then swallows it whole."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Touching the back fin causes numbness. It hooks\nits tail to coral to stay in place while sleeping."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Touching the back fin causes numbness. It hooks\nits tail to coral to stay in place while sleeping."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "It’s the males that raise the offspring. While\nSeadra are raising young, the spines on their\nbacks secrete thicker and stronger poison."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Seadra’s mouth is slender, but its suction power\nis strong. In an instant, Seadra can suck in food\nthat’s larger than the opening of its mouth."
+      }
+    ]
+  },
+  "chs": {
+    "name": "海刺龙",
+    "genus": "龙宝可梦",
+    "flavorText": [
+      {
+        "game": "lgpe-lgp",
+        "text": "摸它的背鳍会导致麻痹。\n为了避免在睡觉时被水冲走，\n它会用尾巴缠住珊瑚。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "摸它的背鳍会导致麻痹。\n为了避免在睡觉时被水冲走，\n它会用尾巴缠住珊瑚。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "由雄性来抚育孩子。\n育儿时，背上刺的毒素\n浓度会增加，变得更烈。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "嘴巴虽然细，吸引力却很强。\n就算是比嘴巴还大的猎物，\n也能一瞬间吸进嘴里吃掉。"
+      }
+    ]
+  }
+}

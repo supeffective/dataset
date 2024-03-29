@@ -1,0 +1,453 @@
+{
+  "jap": {
+    "name": "ヤミラミ",
+    "genus": "くらやみポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "どうくつの　くらやみに　ひそむ。\nほうせきを　たべているうちに\nめが　ほうせきに　なってしまった。"
+      },
+      {
+        "game": "xy-y",
+        "text": "くらい　どうくつに　すみかを　つくり\nするどい　ツメを　つかって\nほうせきを　ほりだしては　たべる。"
+      },
+      {
+        "game": "oras-or",
+        "text": "どうくつの　おくで　ひっそりと　せいかつする。\nくらやみで　ひとみが　あやしく　かがやく　とき\nひとの　たましいを　うばうと　おそれられている。"
+      },
+      {
+        "game": "oras-as",
+        "text": "するどい　ツメで　つちを　ほり　いしを　たべる。\nいしに　ふくまれた　せいぶんは　けっしょうとなり\nからだの　ひょうめんに　うかびあがってくる。"
+      },
+      {
+        "game": "sm-s",
+        "text": "ほうせきが　こうぶつで　メレシーを\nねらって　つけまわしているが\nガバイトに　よこどり　されてしまう。"
+      },
+      {
+        "game": "sm-m",
+        "text": "ほうせきの　ひとみが　あやしく\nかがやくとき　ひとの　たましいを\nうばうと　おそれられる　ポケモン。"
+      },
+      {
+        "game": "usum-us",
+        "text": "かたいツメで　つちを　ほり　ふとい\nキバで　ほうせきを　バリバリかじる。\nメレシーが　だいこうぶつだ。"
+      },
+      {
+        "game": "usum-um",
+        "text": "からだの　ひょうめんに　くった\nほうせきの　せいぶんが　うきだす。\nその　パターンは　むげんだいだ。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "ほうせきの　ひとみが　あやしく\nかがやくとき　ひとの　たましいを\nうばうと　おそれられる　ポケモン。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "ほうせきの　けっしょうを　たべる。\nくらやみの　なかでは　りょうめが\nほうせきの　かがやきを　はなつ。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Yamirami",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "깜까미",
+    "genus": "어둠포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "동굴의 어둠에 숨는다.\n보석을 먹는 사이에\n눈이 보석이 되어 버렸다."
+      },
+      {
+        "game": "xy-y",
+        "text": "어두운 동굴에 거처를 만들어\n예리한 손톱을 써서\n보석을 파내어 먹는다."
+      },
+      {
+        "game": "oras-or",
+        "text": "동굴 깊은 곳에서 은밀히 생활한다.\n어둠 속에서 눈동자가 수상하게 빛날 때 사람의\n영혼을 빼앗는다며 두려움의 대상이 되고 있다."
+      },
+      {
+        "game": "oras-as",
+        "text": "날카로운 발톱으로 땅을 파고 돌을 먹는다.\n돌에 포함된 성분은 결정이 되어\n몸의 표면에 나타난다."
+      },
+      {
+        "game": "sm-s",
+        "text": "보석을 좋아해서 멜리시를\n노리고 끈질기게 따라다니지만\n한바이트가 가로채 버린다."
+      },
+      {
+        "game": "sm-m",
+        "text": "보석 눈동자가 수상하게 빛날 때\n사람의 영혼을 빼앗는다며\n두려움의 대상이 된 포켓몬이다."
+      },
+      {
+        "game": "usum-us",
+        "text": "딱딱한 발톱으로 땅에 구멍을 파고\n굵은 이빨로 보석을 북북 갉는다.\n멜리시를 매우 좋아한다."
+      },
+      {
+        "game": "usum-um",
+        "text": "신체의 표면에 먹은\n보석의 성분이 떠오른다.\n그 패턴은 무한대다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "보석 눈동자가 수상하게 빛날 때\n사람의 영혼을 빼앗는다며\n두려움의 대상이 된 포켓몬이다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "보석의 결정을 먹는다.\n어둠 속에서는 두 눈이 \n보석의 빛을 낸다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "勾魂眼",
+    "genus": "黑暗寶可夢",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "非常喜歡寶石，\n因此到處追著小碎鑽跑，\n但卻被尖牙陸鯊半路奪走。"
+      },
+      {
+        "game": "sm-m",
+        "text": "寶石的眼睛發出詭異光芒時，\n就會攝取人的魂魄。\n是令人恐懼的寶可夢。"
+      },
+      {
+        "game": "usum-us",
+        "text": "會用堅硬的爪子挖土，\n並用粗壯的獠牙啃食寶石。\n最喜歡吃小碎鑽。"
+      },
+      {
+        "game": "usum-um",
+        "text": "吃下的寶石成分會在身體\n表面浮現出來。所形成的\n花紋有無限多種變化。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "寶石的眼睛發出詭異光芒時，\n就會攝取人的魂魄。\n是令人恐懼的寶可夢。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "會去吃寶石的結晶。\n雙眼在漆黑一片的地方\n會發出寶石的光芒。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Ténéfix",
+    "genus": "Pokémon Obscurité",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "À force de manger des gemmes, les\nyeux de ce Pokémon des grottes\nobscures sont devenus des joyaux."
+      },
+      {
+        "game": "bw-w",
+        "text": "À force de manger des gemmes, les\nyeux de ce Pokémon des grottes\nobscures sont devenus des joyaux."
+      },
+      {
+        "game": "xy-x",
+        "text": "À force de manger des gemmes, les yeux de ce\nPokémon des grottes obscures sont devenus des\njoyaux."
+      },
+      {
+        "game": "xy-y",
+        "text": "Ce Pokémon vit dans les grottes obscures et mange\ndes gemmes qu’il déterre avec ses griffes acérées."
+      },
+      {
+        "game": "oras-or",
+        "text": "Les Ténéfix mènent une vie tranquille dans les cavernes.\nPourtant, ils sont craints, car on raconte que ces Pokémon\nvolent l’esprit des gens quand leurs yeux brillent\ndans l’obscurité."
+      },
+      {
+        "game": "oras-as",
+        "text": "Ténéfix creuse le sol avec ses griffes acérées pour trouver\ndes rochers à manger. Les substances des rochers avalés\nse cristallisent et remontent sur la peau de ce Pokémon."
+      },
+      {
+        "game": "sm-s",
+        "text": "Comme il adore tout ce qui brille, il traque\nsouvent les Strassie. Malheureusement, il se fait\ntout aussi souvent devancer par Carmache."
+      },
+      {
+        "game": "sm-m",
+        "text": "Pokémon redouté de beaucoup, car l’éclat\nde ses yeux précieux donne l’impression qu’il\ns’apprête à dérober l’âme de ceux qu’il regarde."
+      },
+      {
+        "game": "usum-us",
+        "text": "Il creuse le sol de ses griffes acérées pour\ntrouver des gemmes, qu’il croque comme\ns’il s’agissait de chips. Il raffole des Strassie."
+      },
+      {
+        "game": "usum-um",
+        "text": "Les éléments présents dans les gemmes qu’il\nmange remontent à la surface de son corps,\nformant des motifs d’une infinie variété."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Beaucoup de gens le craignent, car l’éclat\nde ses yeux précieux donne l’impression qu’il\ns’apprête à dérober l’âme de ceux qu’il regarde."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Ce Pokémon se nourrit de pierres précieuses.\nDans les ténèbres, ses yeux brillent du reflet\ndes joyaux."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Zobiris",
+    "genus": "Finsternis-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Es versteckt sich im Dunkeln von Höhlen.\nSeine Augen sind Edelsteine."
+      },
+      {
+        "game": "xy-y",
+        "text": "Es haust in düsteren Höhlen, wo es mit seinen\nspitzen Klauen Edelsteine ausgräbt und verspeist."
+      },
+      {
+        "game": "oras-or",
+        "text": "Zobiris führt ein ruhiges, zurückgezogenes Leben tief im Innern\neiner Höhle. Es ist aber trotzdem sehr gefürchtet, da man sagt,\nes stehle die Seelen der Menschen, wenn seine Augen im\nDunkeln furchterregend funkeln."
+      },
+      {
+        "game": "oras-as",
+        "text": "Zobiris durchwühlt mit seinen scharfen Krallen den Erdboden\nauf der Suche nach Steinen, von denen es sich ernährt.\nDie Substanzen in den Steinen nehmen schließlich eine\nfeste Form an und gelangen auf seine Körperoberfläche."
+      },
+      {
+        "game": "sm-s",
+        "text": "Seine Liebe zu Edelsteinen treibt es dazu,\nRocara nachzustellen. Knarksel kommt ihm\nallerdings immer zuvor."
+      },
+      {
+        "game": "sm-m",
+        "text": "Es ist gefürchtet, da man sagt, es stehle\ndie Seelen der Menschen, wenn seine\nEdelsteinaugen furchterregend funkeln."
+      },
+      {
+        "game": "usum-us",
+        "text": "Mit seinen scharfen Krallen gräbt es nach\nEdelsteinen, die es mit seinen dicken Fängen\nzerbeißt. Besonders gern frisst es Rocara."
+      },
+      {
+        "game": "usum-um",
+        "text": "Die Substanzen der Edelsteine, die es frisst,\nverfestigen sich an seiner Körperoberfläche,\nwobei unendlich viele Musterungen entstehen."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Man sagt, es stehle die Seelen der Menschen,\nwenn seine Edelsteinaugen furchterregend\nfunkeln. Viele fürchten es deswegen."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Es ernährt sich von Edelsteinen. Im Dunkeln\nfunkeln seine beiden Augen wie Juwelen."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Sableye",
+    "genus": "Pokémon Oscuridad",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Se oculta en cavernas oscuras. De tanto comer gemas,\nsus ojos son piedras preciosas."
+      },
+      {
+        "game": "xy-y",
+        "text": "Hace su guarida en cuevas oscuras. Usa sus afiladas\ngarras para desenterrar las gemas que se come."
+      },
+      {
+        "game": "oras-or",
+        "text": "Los Sableye hacen una vida muy tranquila en cavernas, pero\nson muy temidos. Se dice que, cuando los ojos les brillan de\nmanera siniestra, están robándole el alma a alguien."
+      },
+      {
+        "game": "oras-as",
+        "text": "Sableye cava en el suelo para buscar con las afiladas garras\nque tiene rocas para comer. Las sustancias que hay en las\nrocas que ingiere se solidifican y se le quedan en la piel."
+      },
+      {
+        "game": "sm-s",
+        "text": "Le gustan mucho las joyas, por lo que suele\nmerodear cerca de los Carbink. Sin embargo, los\nGabite siempre se le suelen adelantar."
+      },
+      {
+        "game": "sm-m",
+        "text": "Se dice que, cuando las gemas de los ojos\nde estos Pokémon brillan de manera siniestra,\nestán robándole el alma a alguien."
+      },
+      {
+        "game": "usum-us",
+        "text": "Horada la tierra con sus duras garras y extrae\ngemas que luego desmenuza con sus gruesos\ncolmillos. Los Carbink son su manjar predilecto."
+      },
+      {
+        "game": "usum-um",
+        "text": "Algunos de los elementos de las gemas con las\nque se alimenta emergen en su piel creando\npatrones variopintos."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Se dice que, cuando las gemas de los ojos de\nestos Pokémon tan temidos brillan de manera\nsiniestra, están robándole el alma a alguien."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Se alimenta de gemas. En la oscuridad, los ojos\nle brillan con el destello de las piedras preciosas."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Sableye",
+    "genus": "Pokémon Oscurità",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Si cela nell’oscurità delle caverne. Si nutre di gemme\ne per questo i suoi occhi sono pietre preziose."
+      },
+      {
+        "game": "xy-y",
+        "text": "Si costruisce la tana in grotte oscure dove con le\naffilate unghie scava gemme per poi nutrirsene."
+      },
+      {
+        "game": "oras-or",
+        "text": "Sableye conduce una vita tranquilla nel profondo delle grotte.\nTuttavia, è molto temuto perché si dice che rubi lo spirito\ndegli umani con lo sguardo sinistro dei suoi occhi opalescenti\nche fendono le tenebre."
+      },
+      {
+        "game": "oras-as",
+        "text": "Sableye scava il terreno con i suoi artigli affilati per trovare\nle pietre di cui si nutre. Le sostanze ingerite si cristallizzano\ned emergono a livello epidermico."
+      },
+      {
+        "game": "sm-s",
+        "text": "È ghiotto di gemme e va sempre a caccia di\nCarbink, ma è spesso preceduto dai Gabite."
+      },
+      {
+        "game": "sm-m",
+        "text": "È molto temuto perché si dice che rubi lo spirito\ndegli esseri umani con lo sguardo sinistro\ndei suoi occhi opalescenti."
+      },
+      {
+        "game": "usum-us",
+        "text": "Scava il terreno con gli artigli robusti e frantuma\nle gemme con le grosse zanne.\nÈ molto ghiotto di Carbink."
+      },
+      {
+        "game": "usum-um",
+        "text": "Le sostanze contenute nelle gemme che\ningerisce emergono a livello epidermico e\nformano i motivi più disparati."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "È molto temuto perché si dice che rubi lo spirito\ndegli esseri umani con lo sguardo sinistro dei suoi\nocchi opalescenti."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Si nutre di gemme. Nell’oscurità i suoi occhi\nbrillano come gioielli."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Sableye",
+    "genus": "Darkness Pokémon",
+    "flavorText": [
+      {
+        "game": "rs-r",
+        "text": "SABLEYE lead quiet lives deep inside\ncaverns. They are feared, however,\nbecause these POKéMON are thought to\fsteal the spirits of people when their\neyes burn with a sinister glow in the\ndarkness."
+      },
+      {
+        "game": "rs-s",
+        "text": "SABLEYE digs the ground with sharpened\nclaws to find rocks that it eats.\nSubstances in the eaten rocks\fcrystallize and rise up to the POKéMON’s\nbody surface."
+      },
+      {
+        "game": "e",
+        "text": "It digs branching holes in caves using its\nsharp claws in search of food--raw gems.\nA SABLEYE lurks in darkness and is seen\nonly rarely."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "It feeds on gemstone crystals.\nIn darkness, its eyes sparkle with the\nglitter of jewels."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "It feeds on gemstone crystals.\nIn darkness, its eyes sparkle with the\nglitter of jewels."
+      },
+      {
+        "game": "dp-d",
+        "text": "It hides in the darkness of caves.\nIts diet of gems has transformed\nits eyes into gemstones."
+      },
+      {
+        "game": "dp-p",
+        "text": "It hides in the darkness of caves.\nIts diet of gems has transformed\nits eyes into gemstones."
+      },
+      {
+        "game": "pt",
+        "text": "It hides in the darkness of caves.\nIts diet of gems has transformed\nits eyes into gemstones."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "It dwells in the darkness of caves.\nIt uses its sharp claws to dig up\ngems to nourish itself."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "It dwells in the darkness of caves.\nIt uses its sharp claws to dig up\ngems to nourish itself."
+      },
+      {
+        "game": "bw-b",
+        "text": "It hides in the darkness of caves.\nIts diet of gems has transformed\nits eyes into gemstones."
+      },
+      {
+        "game": "bw-w",
+        "text": "It hides in the darkness of caves.\nIts diet of gems has transformed\nits eyes into gemstones."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "It hides in the darkness of caves.\nIts diet of gems has transformed\nits eyes into gemstones."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "It hides in the darkness of caves.\nIts diet of gems has transformed\nits eyes into gemstones."
+      },
+      {
+        "game": "xy-x",
+        "text": "It hides in the darkness of caves. Its diet of gems\nhas transformed its eyes into gemstones."
+      },
+      {
+        "game": "xy-y",
+        "text": "It dwells in the darkness of caves. It uses its sharp\nclaws to dig up gems to nourish itself."
+      },
+      {
+        "game": "oras-or",
+        "text": "Sableye lead quiet lives deep inside caverns.\nThey are feared, however, because these Pokémon are\nthought to steal the spirits of people when their eyes burn\nwith a sinister glow in the darkness."
+      },
+      {
+        "game": "oras-as",
+        "text": "Sableye digs the ground with sharpened claws to find rocks\nthat it eats. Substances in the eaten rocks crystallize and rise\nup to the Pokémon’s body surface."
+      },
+      {
+        "game": "sm-s",
+        "text": "It’s a fiend for gemstones, so it stalks Carbink.\nUnfortunately, Gabite almost always grabs\nthem first."
+      },
+      {
+        "game": "sm-m",
+        "text": "This Pokémon is feared. When its gemstone eyes\nbegin to glow with a sinister shine, it’s believed\nthat Sableye will steal people’s spirits away."
+      },
+      {
+        "game": "usum-us",
+        "text": "It digs through the ground with its hard claws\nand crunches down gems with its thick pointy\nteeth. Carbink is its favorite food."
+      },
+      {
+        "game": "usum-um",
+        "text": "Materials from gems it has eaten float to the\nsurface of its body and can form an infinite\nnumber of patterns among individuals."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "This Pokémon is feared. When its gemstone eyes\nbegin to glow with a sinister shine, it’s believed\nthat Sableye will steal people’s spirits away."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "It feeds on gemstone crystals. In darkness, its\neyes sparkle with the glitter of jewels."
+      }
+    ]
+  },
+  "chs": {
+    "name": "勾魂眼",
+    "genus": "黑暗宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "非常喜欢宝石，\n因此到处追着小碎钻。\n但却被尖牙陆鲨半路夺走。"
+      },
+      {
+        "game": "sm-m",
+        "text": "宝石的眼睛发出诡异光芒时，\n就会摄取人的魂魄。\n是令人恐惧的宝可梦。"
+      },
+      {
+        "game": "usum-us",
+        "text": "用坚硬的爪子掘土，\n用粗粗的牙齿嘎嘣嘎嘣地嚼宝石。\n非常喜欢吃小碎钻。"
+      },
+      {
+        "game": "usum-um",
+        "text": "所吃宝石的成分会在\n身体表面浮现出来。\n所形成的花纹变化无限。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "宝石的眼睛发出诡异光芒时，\n就会摄取人的魂魄。\n是令人恐惧的宝可梦。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "会去吃宝石的结晶。\n双眼在漆黑一片的地方\n会发出宝石的光芒。"
+      }
+    ]
+  }
+}

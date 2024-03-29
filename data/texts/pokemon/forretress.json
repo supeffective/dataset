@@ -1,0 +1,321 @@
+{
+  "jap": {
+    "name": "フォレトス",
+    "genus": "みのむしポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "こうてつの　カラで　まもられている。\nすきまから　めだまが　のぞいているが\nなかみの　しょうたいは　なぞのまま。"
+      },
+      {
+        "game": "xy-y",
+        "text": "きに　くっついたまま　うごかない。\nかたいカラの　はへんを　ばらまいて\nちかづくものを　おいはらう。"
+      },
+      {
+        "game": "oras-or",
+        "text": "こうてつの　カラの　なかに　ほんたいが　いる。\nえものを　つかまえる　ときに　カラが　ひらくが\nあまりの　はやさに　なかみは　みえないのだ。"
+      },
+      {
+        "game": "oras-as",
+        "text": "こうてつの　カラの　なかに　ほんたいが　いる。\nえものを　つかまえる　ときに　カラが　ひらくが\nあまりの　はやさに　なかみは　みえないのだ。"
+      },
+      {
+        "game": "usum-us",
+        "text": "なにかが　ちかづくだけで　こうてつの\nカラのはへんを　うちだし　こうげき。\nいしは　なく　じょうけんはんしゃだ。"
+      },
+      {
+        "game": "usum-um",
+        "text": "えものを　のみこむ　いっしゅんだけ\nカラの　なかみが　あらわれるが　その\nすがたを　みたものは　まだいない。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Foretos",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "쏘콘",
+    "genus": "도롱이벌레포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "강철 껍질이 몸을 보호하고 있다.\n틈새에서 엿보고 있는 눈이 있지만\n내용물의 정체는 수수께끼다."
+      },
+      {
+        "game": "xy-y",
+        "text": "나무에 붙어 있는 채로 안 움직인다.\n단단한 껍질 파편을 흩뿌려서\n다가오는 자를 쫓아버린다."
+      },
+      {
+        "game": "oras-or",
+        "text": "강철 껍질 안에 본체가 있다.\n먹이를 잡을 때 껍질이 열리지만\n너무 빨라서 안이 보이진 않는다."
+      },
+      {
+        "game": "oras-as",
+        "text": "강철 껍질 안에 본체가 있다.\n먹이를 잡을 때 껍질이 열리지만\n너무 빨라서 안이 보이진 않는다."
+      },
+      {
+        "game": "usum-us",
+        "text": "무엇이든 다가오기만 하면\n강철 껍질의 파편을 쏘며 공격한다.\n의지가 없는 조건 반사다."
+      },
+      {
+        "game": "usum-um",
+        "text": "먹이를 삼키는 순간에는\n껍질 안의 모습이 나타나지만\n그 모습을 본 자는 아직 없다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "佛烈托斯",
+    "genus": "蓑衣蟲寶可夢",
+    "flavorText": [
+      {
+        "game": "usum-us",
+        "text": "只要有東西靠近，牠就會\n發射鋼鐵外殼的碎片來攻擊。\n這是一種與意識無關的條件反射。"
+      },
+      {
+        "game": "usum-um",
+        "text": "只有在吞下獵物的瞬間，\n殼裡的身體才會出現。\n至今還沒有人見過牠的真面目。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Foretress",
+    "genus": "Pokémon Ver Caché",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Il est prisonnier d’une coquille\nd’acier. Ses yeux vigilants sont la\nseule partie visible de son corps."
+      },
+      {
+        "game": "bw-w",
+        "text": "Il est prisonnier d’une coquille\nd’acier. Ses yeux vigilants sont la\nseule partie visible de son corps."
+      },
+      {
+        "game": "xy-x",
+        "text": "Il est prisonnier d’une coquille d’acier. Ses yeux\nvigilants sont la seule partie visible de son corps."
+      },
+      {
+        "game": "xy-y",
+        "text": "Il est totalement fixé à son arbre. Il lance des\nmorceaux de sa carapace pour faire fuir son ennemi."
+      },
+      {
+        "game": "oras-or",
+        "text": "Foretress se cache dans sa carapace en acier trempé.\nLa carapace s’ouvre quand il attrape sa proie, mais cela se\npasse tellement vite qu’il est impossible de voir à l’intérieur."
+      },
+      {
+        "game": "oras-as",
+        "text": "Foretress se cache dans sa carapace en acier trempé.\nLa carapace s’ouvre quand il attrape sa proie, mais cela se\npasse tellement vite qu’il est impossible de voir à l’intérieur."
+      },
+      {
+        "game": "usum-us",
+        "text": "Il attaque tout ce qui s’approche d’un peu trop\nprès en lançant des morceaux de sa coquille\nd’acier. Il n’a aucun contrôle sur ce réflexe."
+      },
+      {
+        "game": "usum-um",
+        "text": "On ne peut voir l’intérieur de sa carapace que\nlorsqu’il engloutit sa nourriture, mais il est si\nrapide que personne n’a encore jamais réussi."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Forstellka",
+    "genus": "Beutelwurm",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Dieses Pokémon ist von einer Stahlhülle umgeben.\nSeine stechenden Augen sind alles, was man von\nihm sieht."
+      },
+      {
+        "game": "xy-y",
+        "text": "Es bleibt stets bei seinem Baum. Es verstreut Teile\nseiner Schale, um so seine Feinde zu verjagen."
+      },
+      {
+        "game": "oras-or",
+        "text": "Forstellka versteckt sich in seiner stahlharten Schale.\nDie Schale öffnet sich, wenn es nach Beute schnappt.\nDies geht jedoch so schnell, dass man das Innere der\nSchale nicht zu Gesicht bekommt."
+      },
+      {
+        "game": "oras-as",
+        "text": "Forstellka versteckt sich in seiner stahlharten Schale.\nDie Schale öffnet sich, wenn es nach Beute schnappt.\nDies geht jedoch so schnell, dass man das Innere der\nSchale nicht zu Gesicht bekommt."
+      },
+      {
+        "game": "usum-us",
+        "text": "Kommt ihm irgendetwas zu nahe, feuert es Teile\nseiner stählernen Schale ab. Das geschieht\njedoch aus Reflex, nicht aus eigenem Willen."
+      },
+      {
+        "game": "usum-um",
+        "text": "Sein Inneres ist nur kurz sichtbar, wenn es flugs\nseine Beute verschlingt. Bisher hat es noch kein\nMensch geschafft, einen Blick hineinzuwerfen."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Forretress",
+    "genus": "Pokémon Larva",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Se protege con su concha de acero de tal manera que\nsolo se pueden ver sus ojos."
+      },
+      {
+        "game": "xy-y",
+        "text": "Permanece inmóvil agarrado a su árbol. Dispara trozos\nde su dura coraza para alejar al enemigo."
+      },
+      {
+        "game": "oras-or",
+        "text": "Forretress se esconde dentro de su concha de acero\nreforzada. Solo la abre cuando va a atrapar a su presa, pero\nocurre tan rápido que no da tiempo de ver su interior."
+      },
+      {
+        "game": "oras-as",
+        "text": "Forretress se esconde dentro de su concha de acero\nreforzada. Solo la abre cuando va a atrapar a su presa, pero\nocurre tan rápido que no da tiempo de ver su interior."
+      },
+      {
+        "game": "usum-us",
+        "text": "Cuando algo se le acerca, ataca disparando\nfragmentos de su coraza de acero. Se trata de\nun puro acto reflejo."
+      },
+      {
+        "game": "usum-um",
+        "text": "El momento en el que engulle a su presa es el\núnico instante donde muestra su cuerpo, pero\nhasta ahora ningún humano lo ha visto."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Forretress",
+    "genus": "Pokémon Larva",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "È incassato in una conchiglia d’acciaio. A parte gli\nocchi scrutatori, nessuno sa cosa ci sia all’interno."
+      },
+      {
+        "game": "xy-y",
+        "text": "Rimane saldamente attaccato al suo albero. Tiene\nlontani i nemici lanciando pezzi del duro guscio."
+      },
+      {
+        "game": "oras-or",
+        "text": "Forretress si nasconde all’interno della sua conchiglia\nd’acciaio temprato. La conchiglia si apre soltanto per catturare\nla preda, ma il Pokémon ha una rapidità tale che non è\npossibile osservarne l’interno."
+      },
+      {
+        "game": "oras-as",
+        "text": "Forretress si nasconde all’interno della sua conchiglia\nd’acciaio temprato. La conchiglia si apre soltanto per catturare\nla preda, ma il Pokémon ha una rapidità tale che non è\npossibile osservarne l’interno."
+      },
+      {
+        "game": "usum-us",
+        "text": "Scaglia frammenti del suo guscio d’acciaio\ntemprato contro qualunque cosa gli si avvicini,\nma si tratta di un riflesso involontario."
+      },
+      {
+        "game": "usum-um",
+        "text": "L’istante in cui ingoia la preda è l’unico momento\nin cui è possibile sbirciare nella sua conchiglia.\nNessuno sa esattamente come sia fatto."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Forretress",
+    "genus": "Bagworm Pokémon",
+    "flavorText": [
+      {
+        "game": "gs-g",
+        "text": "Its entire body is\nshielded by a\nsteel-hard shell.\fWhat lurks inside\nthe armor is a\ntotal mystery."
+      },
+      {
+        "game": "gs-s",
+        "text": "It remains immova­\nbly rooted to its\ntree. It scatters\fpieces of its hard\nshell to drive its\nenemies away."
+      },
+      {
+        "game": "c",
+        "text": "Usually found\nhanging on to a\nfat tree trunk. It\fshoots out bits of\nits shell when it\nsees action."
+      },
+      {
+        "game": "rs-r",
+        "text": "FORRETRESS conceals itself inside its\nhardened steel shell. The shell is opened\nwhen the POKéMON is catching prey,\fbut it does so at such a quick pace\nthat the shell’s inside cannot be seen."
+      },
+      {
+        "game": "rs-s",
+        "text": "FORRETRESS conceals itself inside its\nhardened steel shell. The shell is opened\nwhen the POKéMON is catching prey,\fbut it does so at such a quick pace\nthat the shell’s inside cannot be seen."
+      },
+      {
+        "game": "e",
+        "text": "It keeps itself inside its steel shell.\nThe shell is opened when it is catching\nprey, but it is so quick that the shell’s\ninside cannot be seen."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "It remains immovably rooted to its tree.\nIt scatters pieces of its hard shell to\ndrive its enemies away."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "Its entire body is shielded by a steel-\nhard shell. What lurks inside the armor is\na total mystery."
+      },
+      {
+        "game": "dp-d",
+        "text": "It is encased in a steel shell. Its\npeering eyes are all that can be\nseen of its mysterious innards."
+      },
+      {
+        "game": "dp-p",
+        "text": "It is encased in a steel shell. Its\npeering eyes are all that can be\nseen of its mysterious innards."
+      },
+      {
+        "game": "pt",
+        "text": "It is encased in a steel shell. Its\npeering eyes are all that can be\nseen of its mysterious innards."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "Its entire body is shielded by a\nsteel-hard shell. What lurks inside\nthis shell is a total mystery."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "It remains immovably rooted to its\ntree. It scatters pieces of its hard\nshell to drive its enemies away."
+      },
+      {
+        "game": "bw-b",
+        "text": "It is encased in a steel shell. Its\npeering eyes are all that can be\nseen of its mysterious innards."
+      },
+      {
+        "game": "bw-w",
+        "text": "It is encased in a steel shell. Its\npeering eyes are all that can be\nseen of its mysterious innards."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "It is encased in a steel shell. Its\npeering eyes are all that can be\nseen of its mysterious innards."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "It is encased in a steel shell. Its\npeering eyes are all that can be\nseen of its mysterious innards."
+      },
+      {
+        "game": "xy-x",
+        "text": "It is encased in a steel shell. Its peering eyes are\nall that can be seen of its mysterious innards."
+      },
+      {
+        "game": "xy-y",
+        "text": "It remains immovably rooted to its tree. It scatters\npieces of its hard shell to drive its enemies away."
+      },
+      {
+        "game": "oras-or",
+        "text": "Forretress conceals itself inside its hardened steel shell.\nThe shell is opened when the Pokémon is catching prey,\nbut it does so at such a quick pace that the shell’s inside\ncannot be seen."
+      },
+      {
+        "game": "oras-as",
+        "text": "Forretress conceals itself inside its hardened steel shell.\nThe shell is opened when the Pokémon is catching prey,\nbut it does so at such a quick pace that the shell’s inside\ncannot be seen."
+      },
+      {
+        "game": "usum-us",
+        "text": "When something approaches it, it fires off\nfragments of its steel shell in attack. This is not\na conscious action but a conditioned reflex."
+      },
+      {
+        "game": "usum-um",
+        "text": "In the moment that it gulps down its prey, the\ninside of its shell is exposed, but to this day,\nno one has ever seen that sight."
+      }
+    ]
+  },
+  "chs": {
+    "name": "佛烈托斯",
+    "genus": "蓑衣虫宝可梦",
+    "flavorText": [
+      {
+        "game": "usum-us",
+        "text": "只要一有东西靠近，它就会射出\n钢铁外壳的碎片进行攻击。\n这是一种无意识的条件反射。"
+      },
+      {
+        "game": "usum-um",
+        "text": "仅在吞下猎物的瞬间，壳里面的\n身体才会出现，但至今仍未有\n人或宝可梦见过其真面目。"
+      }
+    ]
+  }
+}

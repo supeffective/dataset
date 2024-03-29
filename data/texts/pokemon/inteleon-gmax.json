@@ -1,0 +1,133 @@
+{
+  "jap": {
+    "name": "インテレオン",
+    "genus": "エージェントポケモン",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "たさいな　きのうを　かくしもつ。\nゆびから　みずを　ふんしゃして\nせなかの　ひまくで　かぜに　のる。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "ゆびさきから　はなつ　みずでっぽうは\nマッハ３の　はやさ。　しゅんまくで\nきゅうしょを　みぬいて　うちぬくぞ。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Intereon",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "인텔리레온",
+    "genus": "에이전트포켓몬",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "다채로운 기능을 숨기고 있다.\n손끝에서 물을 분사하고\n등에 있는 피막으로 바람을 탄다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "손가락 끝에서 마하3의 스피드로\n물대포를 쏜다. 눈의 얇은 막으로\n급소를 간파해 꿰뚫어버린다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "千面避役",
+    "genus": "特工寶可夢",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "身上隱藏著多種特殊能力，\n例如從手指噴射水流，\n以及用背部的翼膜滑翔等等。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "能從指尖射出速度高達３馬赫\n的水槍。牠的瞬膜能幫助牠看穿\n敵人的弱點，準確地擊中要害。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Lézargus",
+    "genus": "Pokémon Agent Secret",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Il a plus d’un tour dans son sac : il peut tirer\ndes gerbes d’eau du bout de ses doigts et planer\ndans les airs grâce à ses membranes dorsales."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Il repère le point faible de l’ennemi grâce à sa\nmembrane nictitante, puis il transperce sa cible en\ntirant des jets d’eau à Mach 3 du bout des doigts."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Intelleon",
+    "genus": "Geheimagenten-Pokémon",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Zu seinen vielen geheimen Talenten gehört es,\nWasser aus den Fingern zu schießen und mit der\nMembran am Rücken durch die Lüfte zu segeln."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Die Wasserschüsse aus seinen Fingern erreichen\nGeschwindigkeiten von bis zu Mach 3. Mit seiner\nNickhaut erkennt es Schwachpunkte des Gegners."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Inteleon",
+    "genus": "Pokémon Agente",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Esconde algunos trucos bajo la manga: puede\ndisparar agua por los dedos o planear con las\nmembranas de su espalda."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Dispara chorros de agua por la punta de los\ndedos a 3 mach de velocidad. Con su membrana\nnictitante puede ver los puntos débiles del rival."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Inteleon",
+    "genus": "Pokémon Agente",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Ha vari assi nella manica. Emette getti d’acqua\ndalle dita e si fa trasportare dal vento grazie\nalla membrana che ha sulla schiena."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Spara getti d’acqua dalla punta delle dita a una\nvelocità di Mach 3. Grazie alle sue membrane\nnittitanti individua i punti deboli del nemico."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Inteleon",
+    "genus": "Secret Agent Pokémon",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "It has many hidden capabilities, such as fingertips\nthat can shoot water and a membrane on its back\nthat it can use to glide through the air."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Its nictitating membranes let it pick out foes’\nweak points so it can precisely blast them with\nwater that shoots from its fingertips at Mach 3."
+      }
+    ]
+  },
+  "chs": {
+    "name": "千面避役",
+    "genus": "特工宝可梦",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "身上隐藏着多种特殊能力，\n例如从手指喷射水流，\n以及用背部的翼膜滑翔等等。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "能从指尖射出速度高达３马赫\n的水枪。它的瞬膜能帮助它看穿\n敌人的弱点，准确地击中要害。"
+      }
+    ]
+  }
+}

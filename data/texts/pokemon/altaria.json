@@ -1,0 +1,309 @@
+{
+  "jap": {
+    "name": "チルタリス",
+    "genus": "ハミングポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "おおぞらを　ゆったりと　とぶ。\nチルタリスの　うつくしい　ハミングを\nきくと　うっとり　ゆめごこちだ。"
+      },
+      {
+        "game": "xy-y",
+        "text": "はれたひ　わたぐもに　まぎれながら\nおおぞらを　じゆうに　とびまわり\nうつくしい　ソプラノで　うたう。"
+      },
+      {
+        "game": "oras-or",
+        "text": "わたぐもに　まぎれて　おおぞらを　まう。\nすきとおった　こえで　メロディを　さえずれば\nみみにした　ものは　うっとり　ゆめごこち。"
+      },
+      {
+        "game": "oras-as",
+        "text": "うつくしい　ソプラノで　うたう　ポケモン。\nわたぐもの　ような　つばさで　じょうしょう\nきりゅうを　うけて　おおぞらへ　まいあがる。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "おおぞらを　ゆったりと　とびながら\nみみにした　ものを　うっとりさせる\nうつくしい　ハミングを　かなでる。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "やさしい　せいしつだが　おこらせると\nするどい　なきごえで　いかくして\nようしゃない　こうげきを　くわえる。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Tyltalis",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "파비코리",
+    "genus": "허밍포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "넓은 하늘을 느긋하게 난다.\n파비코리의 아름다운 콧노래를\n들으면 황홀한 꿈을 꾸는 기분이다."
+      },
+      {
+        "game": "xy-y",
+        "text": "맑은 날 뭉게구름에 뒤섞이면서\n넓은 하늘을 자유롭게 날아다니며\n아름다운 소프라노로 노래한다."
+      },
+      {
+        "game": "oras-or",
+        "text": "뭉게구름에 뒤섞여 넓은 하늘을 떠돈다.\n맑은 목소리로 멜로디를 지저귀면\n그 소리를 들은 자들은 꿈꾸는 듯한 기분이 된다."
+      },
+      {
+        "game": "oras-as",
+        "text": "아름다운 소프라노 음색으로 노래하는 포켓몬이다.\n솜구름 같은 날개로 상승기류를\n타고 넓은 하늘로 날아오른다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "넓은 하늘을 유유히 날면서\n듣는 이를 사로잡는\n아름다운 콧노래를 부른다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "온순한 성질이지만 화나게 하면\n날카로운 울음소리로 위협하며\n가차 없이 공격한다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "七夕青鳥",
+    "genus": "哼唱寶可夢",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "會一邊在天空中悠然飛翔，\n一邊哼唱出令人心醉神迷\n的美妙旋律。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "性情溫柔，但一旦被激怒，\n就會用尖銳的叫聲威嚇對方，\n並且毫不留情地施加攻擊。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Altaria",
+    "genus": "Pokémon Virevolteur",
+    "flavorText": [
+      {
+        "game": "xy-y",
+        "text": "Il vole librement en se cachant dans les nuages.\nSon chant est digne de celui de la plus douée des\nsopranos."
+      },
+      {
+        "game": "bw-b",
+        "text": "Il aime enlacer ses amis dans ses\nailes cotonneuses et ronronner."
+      },
+      {
+        "game": "bw-w",
+        "text": "Il aime enlacer ses amis dans ses\nailes cotonneuses et ronronner."
+      },
+      {
+        "game": "xy-x",
+        "text": "Il vole doucement dans le ciel. Ceux qui l’entendent\nfredonner sont comme plongés dans un rêve."
+      },
+      {
+        "game": "oras-or",
+        "text": "Altaria danse et tournoie dans les cieux, au milieu\ndes nuages gonflés et cotonneux. Ce Pokémon chante\ndes mélodies de sa voix cristalline pour offrir aux auditeurs\nune expérience merveilleuse et inoubliable."
+      },
+      {
+        "game": "oras-as",
+        "text": "Altaria chante avec une magnifique voix de soprano. Ses ailes\nressemblent à des nuages cotonneux. Ce Pokémon se laisse\nporter par les courants d’air ascendants et disparaît dans\nle bleu du ciel."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Il vole doucement dans le ciel et fredonne\nde magnifiques mélodies qui enchantent\ntous ceux qui les entendent."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Il est de nature aimable, mais si on le met en\ncolère, il intimide son adversaire en poussant\nun cri strident et l’attaque sans pitié."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Altaria",
+    "genus": "Summsel-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Es schwebt gemächlich durch den Himmel.\nSein wunderschönes Summen gibt einem\ndas Gefühl zu träumen."
+      },
+      {
+        "game": "xy-y",
+        "text": "Bei gutem Wetter mischt es sich unter die Wolken\nund genießt die Freiheit. Es hat eine entzückende\nSopranstimme."
+      },
+      {
+        "game": "oras-or",
+        "text": "Altaria tanzt und dreht sich in der Luft durch viele\nSchäfchenwolken. Indem es mit seiner kristallklaren\nStimme Melodien singt, versetzt es seine Zuhörer in\nverträumtes Erstaunen."
+      },
+      {
+        "game": "oras-as",
+        "text": "Altaria hat eine tolle Sopran-Stimme. Seine Flügel sehen aus\nwie Schäfchenwolken. Dieses Pokémon stürzt sich in einen\nAufwind und steigt in den Himmel empor."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Es schwebt gemächlich durch die Lüfte und\nlässt dabei ein wunderschönes Summen ertönen,\ndas alle in seinen Bann zieht, die es hören."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Altaria ist von sanfter Natur, doch wird es\nverärgert, stößt es zur Einschüchterung schrilles\nGeschrei aus und greift dann gnadenlos an."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Altaria",
+    "genus": "Pokémon Cantor",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Vuela pausadamente por el cielo azul. Su hermoso\ntrino cautiva a todo aquel que lo escucha."
+      },
+      {
+        "game": "xy-y",
+        "text": "En días soleados, le gusta mezclarse con las nubes\ny disfrutar de la libertad del cielo mientras trina con\nvoz de soprano."
+      },
+      {
+        "game": "oras-or",
+        "text": "Altaria baila y revolotea por el cielo entre ondeantes nubes\nque parecen de algodón. Al entonar melodías con su voz\ncristalina, este Pokémon deja a sus oyentes embobados y\nadmirados."
+      },
+      {
+        "game": "oras-as",
+        "text": "Altaria canta de maravilla, como una soprano. Tiene unas alas\nque parecen nubes de algodón. Este Pokémon aprovecha las\ncorrientes ascendentes y remonta el vuelo con sus flamantes\nalas hacia la inmensidad del cielo azul."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Mientras vuela pausadamente, emite un bello\ntrino que cautiva a todo el que lo oye."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Es de carácter amable, pero, si monta en cólera,\nintimidará al oponente con estridentes chillidos\ny atacará sin piedad."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Altaria",
+    "genus": "Pokémon Canterino",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Volteggia elegante nel cielo. Canticchia soavemente,\nmandando in onirica estasi chi lo ascolta."
+      },
+      {
+        "game": "xy-y",
+        "text": "Nelle belle giornate, ama confondersi con le poche\nnuvole in cielo e cantare con una bellissima voce di\nsoprano."
+      },
+      {
+        "game": "oras-or",
+        "text": "Altaria danza e volteggia nel cielo tra le nubi soffici come\nbatuffoli di cotone. Cantando con la sua voce cristallina,\nriesce a mandare in onirica estasi chi lo ascolta."
+      },
+      {
+        "game": "oras-as",
+        "text": "Altaria canta con una sublime voce di soprano. Le sue ali\nspumeggianti, che sembrano nubi di cotone, gli consentono\ndi sfruttare le correnti ascensionali e di risalire verso l’infinito\ncielo blu."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Mentre si libra elegante in cielo, intona un canto\nsoave che ammalia chi lo sente."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Ha un carattere gentile, ma se lo si fa arrabbiare\nemette un verso minaccioso, per poi attaccare\nsenza pietà."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Altaria",
+    "genus": "Humming Pokémon",
+    "flavorText": [
+      {
+        "game": "rs-r",
+        "text": "ALTARIA dances and wheels through the\nsky among billowing, cotton-like clouds.\nBy singing melodies in its crystal-clear\fvoice, this POKéMON makes its listeners\nexperience dreamy wonderment."
+      },
+      {
+        "game": "rs-s",
+        "text": "ALTARIA sings in a gorgeous soprano.\nIts wings are like cotton clouds.\nThis POKéMON catches updrafts with its\fbuoyant wings and soars way up into\nthe wild blue yonder."
+      },
+      {
+        "game": "e",
+        "text": "It hums in a beautiful soprano voice.\nIt flies among white clouds in the blue\nsky. It launches intensely hot fireballs\nfrom its mouth."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "If you hear a beautiful melody trilling\ndeep among mountains far from people,\nit is ALTARIA’s humming."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "If you hear a beautiful melody trilling\ndeep among mountains far from people,\nit is ALTARIA’s humming."
+      },
+      {
+        "game": "dp-d",
+        "text": "It looks like a fluffy cloud when\nit is in flight. It hums with its\nsoprano voice."
+      },
+      {
+        "game": "dp-p",
+        "text": "It looks like a fluffy cloud when\nit is in flight. It hums with its\nsoprano voice."
+      },
+      {
+        "game": "pt",
+        "text": "If it bonds with a person, it will\ngently envelop the friend with its\nsoft wings, then hum."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "It flies gracefully through the\nsky. Its melodic humming makes\nyou feel like you’re in a dream."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "It flies gracefully through the\nsky. Its melodic humming makes\nyou feel like you’re in a dream."
+      },
+      {
+        "game": "bw-b",
+        "text": "If it bonds with a person, it will\ngently envelop the friend with its\nsoft wings, then hum."
+      },
+      {
+        "game": "bw-w",
+        "text": "If it bonds with a person, it will\ngently envelop the friend with its\nsoft wings, then hum."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "On sunny days, it flies freely through\nthe sky and blends into the clouds.\nIt sings in a beautiful soprano."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "On sunny days, it flies freely through\nthe sky and blends into the clouds.\nIt sings in a beautiful soprano."
+      },
+      {
+        "game": "xy-x",
+        "text": "It flies gracefully through the sky. Its melodic\nhumming makes you feel like you’re in a dream."
+      },
+      {
+        "game": "xy-y",
+        "text": "On sunny days, it flies freely through the sky and\nblends into the clouds. It sings in a\nbeautiful soprano."
+      },
+      {
+        "game": "oras-or",
+        "text": "Altaria dances and wheels through the sky among billowing,\ncotton-like clouds. By singing melodies in its crystal-clear\nvoice, this Pokémon makes its listeners experience dreamy\nwonderment."
+      },
+      {
+        "game": "oras-as",
+        "text": "Altaria sings in a gorgeous soprano. Its wings are like cotton\nclouds. This Pokémon catches updrafts with its buoyant wings\nand soars way up into the wild blue yonder."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "As it flies in a calm and relaxed manner, Altaria\nperforms a humming song that would enrapture\nany audience."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "This Pokémon has a kind disposition, but if it’s\nprovoked, it will threaten opponents with shrill\ncries before attacking them without mercy."
+      }
+    ]
+  },
+  "chs": {
+    "name": "七夕青鸟",
+    "genus": "哼唱宝可梦",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "一边舒适地在天空中飞翔，\n一边发出优美的哼唱，\n让听到之人都为之沉醉。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "虽然性情温顺，但如果被惹怒，\n就会用尖锐的叫声威吓对方，\n并且毫不留情地发动进攻。"
+      }
+    ]
+  }
+}

@@ -1,0 +1,413 @@
+{
+  "jap": {
+    "name": "ダストダス",
+    "genus": "ゴミすてばポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "ひだりうでで　あいてを　しめつけて\nくちから　はきだす　あくしゅうの\nどくガスで　とどめを　さすのだ。"
+      },
+      {
+        "game": "xy-y",
+        "text": "ゴミを　すいとっては　たいないで\nあたらしい　しゅるいの　どくガスや\nどくの　えきたいを　うみだしている。"
+      },
+      {
+        "game": "oras-or",
+        "text": "ひだりうでで　あいてを　しめつけて\nくちから　はきだす　あくしゅうの\nどくガスで　とどめを　さすのだ。"
+      },
+      {
+        "game": "oras-as",
+        "text": "ゴミを　すいとっては　たいないで\nあたらしい　しゅるいの　どくガスや\nどくの　えきたいを　うみだしている。"
+      },
+      {
+        "game": "sm-s",
+        "text": "みぎうでから　とびだす　どくえきに\nちゅうい。　ちょっと　かかるだけで\nみちの　どくそに　おかされる。"
+      },
+      {
+        "game": "sm-m",
+        "text": "あるじき　アローラで　ばくはつてきに\nふえたが　ベトベターが　きてからは\nそのかずは　ガクンと　へった。"
+      },
+      {
+        "game": "usum-us",
+        "text": "ひだりうでで　てきを　ロックすると\nどくの　えきたいを　からだじゅうに\nあびせかけ　みうごきを　ふうじる。"
+      },
+      {
+        "game": "usum-um",
+        "text": "アローラの　ダストダスが　すこし\nたくましいのは　ベトベトンという\nてんてきが　いるせいだと　いわれる。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "くった　ゴミが　たいないで　どくに\nへんかする。　くう　ゴミ　しだいで\nどくの　しゅせいぶんも　かわる。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "みぎうでから　だす　どくえきは\nよわった　せいぶつが　あびれば\nそくしするほど　きけんな　シロモノ。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Dustdas",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "더스트나",
+    "genus": "쓰레기장포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "왼팔로 상대를 꼭 붙들고\n입에서 악취가 나는 독가스를\n토해내서 마무리한다."
+      },
+      {
+        "game": "xy-y",
+        "text": "쓰레기를 흡수해서 체내에서\n새로운 종류의 독가스나\n독의 액체를 만들어낸다."
+      },
+      {
+        "game": "oras-or",
+        "text": "왼팔로 상대를 꼭 붙들고\n입에서 악취가 나는 독가스를\n토해내서 마무리한다."
+      },
+      {
+        "game": "oras-as",
+        "text": "쓰레기를 흡수해서 체내에서\n새로운 종류의 독가스나\n독의 액체를 만들어낸다."
+      },
+      {
+        "game": "sm-s",
+        "text": "오른쪽 팔에서 날리는 독액에\n주의. 살짝 닿기만 해도\n미지의 독소가 침범한다."
+      },
+      {
+        "game": "sm-m",
+        "text": "한때 알로라에서 폭발적으로\n늘었지만 질퍽이가 오고 난 뒤로\n개체 수가 크게 줄었다."
+      },
+      {
+        "game": "usum-us",
+        "text": "왼쪽 팔로 적을 꼭 붙들고\n독액을 온몸에\n퍼부어 움직임을 막는다."
+      },
+      {
+        "game": "usum-um",
+        "text": "알로라의 더스트나가 좀 더\n강인한 것은 질뻐기라는\n천적이 있기 때문이라고 전해진다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "먹은 쓰레기가 체내에서 독으로\n변화한다. 먹은 쓰레기에 따라\n독의 주성분도 바뀐다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "오른팔에서 내보내는 독액은\n약한 생물이 맞으면\n즉사할 정도로 위험하다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "灰塵山",
+    "genus": "垃圾場寶可夢",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "要注意從右臂噴出的毒液。\n只要沾到一點點，\n就會被未知的毒素侵襲。"
+      },
+      {
+        "game": "sm-m",
+        "text": "在阿羅拉的數量從某個時期開始\n爆炸性增加，但是自從臭泥來了之後，\n數量一下子便減少了。"
+      },
+      {
+        "game": "usum-us",
+        "text": "用左臂鎖住敵人後，\n會將毒液灑向敵人全身，\n使對方無法動彈。"
+      },
+      {
+        "game": "usum-um",
+        "text": "阿羅拉的灰塵山之所以\n比較強壯一點，據說是因為\n有臭臭泥這個天敵在的緣故。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "吃掉的垃圾會在體內\n轉化為毒素。毒素的成分\n會隨著吃掉的垃圾而不同。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "從右臂噴出的毒液十分危險，\n虛弱的生物只要一沾到，\n立刻就會丟掉性命。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Miasmax",
+    "genus": "Pokémon Dépotoir",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Il étrangle ses ennemis avec son bras\ndroit et les achève avec le gaz puant et\nempoisonné qu’il exhale par la bouche."
+      },
+      {
+        "game": "bw-w",
+        "text": "Il aspire les déchets et les intègre à\nson corps. Les doigts de sa main droite\nexsudent un fluide empoisonné."
+      },
+      {
+        "game": "xy-x",
+        "text": "Il étrangle ses ennemis avec son bras gauche et les\nachève avec le gaz puant et empoisonné qu’il exhale\npar la bouche."
+      },
+      {
+        "game": "xy-y",
+        "text": "Il aspire les déchets et les intègre à son corps pour\nproduire des gaz et des fluides toxiques."
+      },
+      {
+        "game": "oras-or",
+        "text": "Il étrangle ses ennemis avec son bras gauche et les achève\navec le gaz puant et empoisonné qu’il exhale par la bouche."
+      },
+      {
+        "game": "oras-as",
+        "text": "Il aspire les déchets et les intègre à son corps pour produire\ndes gaz et des fluides toxiques."
+      },
+      {
+        "game": "sm-s",
+        "text": "Méfiez-vous du poison qu’il projette de son\nbras droit, sans quoi ses toxines non identifiées\nvous feront passer un sale quart d’heure."
+      },
+      {
+        "game": "sm-m",
+        "text": "Il fut un temps où les Miasmax étaient LE fléau\nd’Alola. Heureusement, leur population a vite\ndiminué après l’arrivée des Tadmorv."
+      },
+      {
+        "game": "usum-us",
+        "text": "Il maîtrise son adversaire de son bras gauche,\npuis l’arrose d’un liquide toxique paralysant."
+      },
+      {
+        "game": "usum-um",
+        "text": "Ce serait pour pouvoir faire face à Grotadmorv,\nson ennemi juré, que le Miasmax d’Alola est\nlégèrement plus robuste que les autres."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Il produit du poison dans son corps à partir\ndes ordures qu’il ingurgite. Selon ce qu’il mange,\nla composition des toxines diffère."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Le liquide qu’il projette de son bras droit\nest si toxique que si une créature fragile\nen est aspergée, elle succombe sur-le-champ."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Deponitox",
+    "genus": "Müllhalden-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Es nimmt mit dem rechten Arm Gegner in\ndie Mangel und gibt ihnen mit dem giftigen Gas\naus seinem Maul den Rest."
+      },
+      {
+        "game": "xy-y",
+        "text": "Jedes Mal, wenn es frischen Müll in sich aufsaugt,\nerzeugt es völlig neue Formen von Giftgasen und\nToxinen."
+      },
+      {
+        "game": "oras-or",
+        "text": "Es nimmt mit dem rechten Arm Gegner in die Mangel und\ngibt ihnen mit dem giftigen Gas aus seinem Maul den Rest."
+      },
+      {
+        "game": "oras-as",
+        "text": "Jedes Mal, wenn es frischen Müll in sich aufsaugt, erzeugt es\nvöllig neue Formen von Giftgasen und Toxinen."
+      },
+      {
+        "game": "sm-s",
+        "text": "Vorsicht vor dem Gift, das es aus seinem\nrechten Arm sprüht! Kleinste Mengen genügen,\num einen unbekannten Giftstoff zu übertragen."
+      },
+      {
+        "game": "sm-m",
+        "text": "Einst haben sie sich explosionsartig in Alola\nausgebreitet. Mit der Ankunft von Sleima hat\nihr Bestand jedoch sehr rasch abgenommen."
+      },
+      {
+        "game": "usum-us",
+        "text": "Mit dem linken Arm nagelt es seinen Gegner fest,\num ihn dann mit einer toxischen Flüssigkeit zu\nbesprühen und ihn so zu lähmen."
+      },
+      {
+        "game": "usum-um",
+        "text": "Man vermutet, dass die Deponitox in Alola\nwegen ihres Fressfeindes Sleimok kräftiger\nwurden als Artgenossen in anderen Regionen."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Es frisst Müll und verdaut ihn in seinem Inneren\nzu Gift. Je nach Art des Mülls, den es verzehrt,\nändern sich die Hauptbestandteile des Giftes."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Die toxische Flüssigkeit aus seinem rechten Arm\nist sehr gefährlich. Angeschlagene Lebewesen\nkommen bei Kontakt sofort ums Leben."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Garbodor",
+    "genus": "Pokémon Vertedero",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Apresa a su rival con el brazo izquierdo y le da el\ngolpe de gracia exhalando por la boca un apestoso\ngas venenoso."
+      },
+      {
+        "game": "xy-y",
+        "text": "Absorbe y procesa en su interior basura para generar\nnuevos gases nocivos y líquidos venenosos de alta\nvirulencia."
+      },
+      {
+        "game": "oras-or",
+        "text": "Apresa a su rival con el brazo izquierdo y le da el golpe de\ngracia exhalando por la boca un apestoso gas venenoso."
+      },
+      {
+        "game": "oras-as",
+        "text": "Absorbe y procesa en su interior basura para generar nuevos\ngases nocivos y líquidos venenosos de alta virulencia."
+      },
+      {
+        "game": "sm-s",
+        "text": "El veneno líquido que brota de su brazo derecho\nes muy nocivo. La mera exposición puede llevar\na inhalar accidentalmente toxinas desconocidas."
+      },
+      {
+        "game": "sm-m",
+        "text": "Hubo un tiempo en el que la población de\nGarbodor en Alola era espectacular, pero su\nnúmero se desplomó cuando llegaron los Grimer."
+      },
+      {
+        "game": "usum-us",
+        "text": "Atrapa a su presa con el brazo izquierdo y luego\nrocía su cuerpo con un líquido venenoso para\ninmovilizarla."
+      },
+      {
+        "game": "usum-um",
+        "text": "La razón de la mayor fortaleza de los Garbodor\nque viven en la región de Alola se atribuye a la\npresencia de Muk, su enemigo natural."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Su cuerpo transforma la inmundicia que engulle\nen un veneno cuya composición cambia según la\nbasura ingerida."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "El veneno líquido que brota de su brazo derecho\nes tan nocivo que puede acabar con una criatura\nya débil al menor contacto."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Garbodor",
+    "genus": "Pokémon Discarica",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Serra l’avversario con l’arto sinistro e gli dà il colpo\ndi grazia esalando dalla bocca un fetido gas velenoso."
+      },
+      {
+        "game": "xy-y",
+        "text": "Assorbe la spazzatura nel suo corpo per creare dei\nliquidi velenosi e dei gas tossici sempre nuovi."
+      },
+      {
+        "game": "oras-or",
+        "text": "Serra l’avversario con l’arto sinistro e gli dà il colpo di grazia\nesalando dalla bocca un fetido gas velenoso."
+      },
+      {
+        "game": "oras-as",
+        "text": "Assorbe la spazzatura nel suo corpo per creare dei liquidi\nvelenosi e dei gas tossici sempre nuovi."
+      },
+      {
+        "game": "sm-s",
+        "text": "Dall’arto destro spruzza un veleno altamente\nnocivo. Basta toccarlo per essere contaminati\nda tossine sconosciute."
+      },
+      {
+        "game": "sm-m",
+        "text": "Un tempo questi Pokémon erano molto diffusi\nad Alola, ma il loro numero è notevolmente\ndiminuito con l’arrivo dei Grimer."
+      },
+      {
+        "game": "usum-us",
+        "text": "Blocca il nemico con l’arto sinistro e\nne cosparge il corpo con un liquido\nvelenoso per immobilizzarlo."
+      },
+      {
+        "game": "usum-um",
+        "text": "I Garbodor che vivono ad Alola sono più robusti\ndel normale per difendersi dai Muk, i loro nemici\nnaturali."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Mangia spazzatura e la trasforma in un veleno\nla cui composizione cambia a seconda di cosa\nha ingurgitato."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Il veleno che spruzza dall’arto destro è talmente\ntossico da risultare istantaneamente letale\nper le creature già debilitate."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Garbodor",
+    "genus": "Trash Heap Pokémon",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "It clenches opponents with its left arm\nand finishes them off with foul-smelling\npoison gas belched from its mouth."
+      },
+      {
+        "game": "bw-w",
+        "text": "They absorb garbage and make it part\nof their bodies. They shoot a poisonous\nliquid from their right-hand fingertips."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "Consuming garbage makes\nnew kinds of poison gases\nand liquids inside their bodies."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "Consuming garbage makes\nnew kinds of poison gases\nand liquids inside their bodies."
+      },
+      {
+        "game": "xy-x",
+        "text": "It clenches opponents with its left arm and finishes\nthem off with foul-smelling poison gas belched from\nits mouth."
+      },
+      {
+        "game": "xy-y",
+        "text": "Consuming garbage makes new kinds of poison\ngases and liquids inside their bodies."
+      },
+      {
+        "game": "oras-or",
+        "text": "It clenches opponents with its left arm and finishes\nthem off with foul-smelling poison gas belched from\nits mouth."
+      },
+      {
+        "game": "oras-as",
+        "text": "Consuming garbage makes new kinds of poison\ngases and liquids inside their bodies."
+      },
+      {
+        "game": "sm-s",
+        "text": "Beware the poisonous liquid it shoots from its\nright arm. If even a little of it gets on you, you’ll\nexperience the effects of the unidentified toxin."
+      },
+      {
+        "game": "sm-m",
+        "text": "For a time, their numbers increased explosively\nin Alola. Since the arrival of Grimer, their\npopulation has decreased dramatically."
+      },
+      {
+        "game": "usum-us",
+        "text": "It locks opponents in place with its left hand,\nimmobilizing them by entirely dousing their\nbodies with poisonous liquid."
+      },
+      {
+        "game": "usum-um",
+        "text": "Some say the reason Garbodor in Alola are a\nlittle stronger than their counterparts elsewhere\nis the presence of Muk, their natural enemy."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "This Pokémon eats trash, which turns into poison\ninside its body. The main component of the\npoison depends on what sort of trash was eaten."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "The toxic liquid it launches from its right arm\nis so virulent that it can kill a weakened\ncreature instantly."
+      }
+    ]
+  },
+  "chs": {
+    "name": "灰尘山",
+    "genus": "垃圾场宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "要注意从右臂喷出的毒液。\n只要沾到一点点，\n就会被未知的毒素侵袭。"
+      },
+      {
+        "game": "sm-m",
+        "text": "某个时期在阿罗拉呈爆发式增长，\n但是臭泥来了之后，\n数量一下子减少了。"
+      },
+      {
+        "game": "usum-us",
+        "text": "用左臂锁住敌人后，\n会将有毒的液体泼向对方全身，\n封住其行动。"
+      },
+      {
+        "game": "usum-um",
+        "text": "阿罗拉的灰尘山有点儿魁梧，\n据说是因为有臭臭泥这个天敌的缘故。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "吃掉的垃圾会在体内\n转化为毒素。毒素的成分\n会随着吃掉的垃圾而不同。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "从右臂喷出的毒液十分危险，\n虚弱的生物只要一沾到，\n立刻就会丢掉性命。"
+      }
+    ]
+  }
+}

@@ -1,0 +1,453 @@
+{
+  "jap": {
+    "name": "ペリッパー",
+    "genus": "みずどりポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "おおきな　クチバシを　うみに　いれて\nひとすくいすると　エサが　たくさん\nはいっているという　すんぽうだ。"
+      },
+      {
+        "game": "xy-y",
+        "text": "くちのなかに　ちいさなポケモンや\nタマゴをいれて　あんぜんな　ばしょに\nとどけてくれる　そらの　はこびや。"
+      },
+      {
+        "game": "oras-or",
+        "text": "ちいさな　ポケモンや　タマゴを　クチバシに\nいれて　はこぶ　そらの　はこびやだ。\nうみべの　けわしい　がけに　すを　つくる。"
+      },
+      {
+        "game": "oras-as",
+        "text": "かいめん　すれすれを　とび　エサを　さがす。\nおおきな　クチバシを　うみの　なかへ　いれて\nエサを　すくいとり　ひとのみで　たべるぞ。"
+      },
+      {
+        "game": "sm-s",
+        "text": "おおきく　ふくらんだ　クチバシは\nようちえんじ　くらいの　こどもなら\nすっぽり　はいる　おおきさだ。"
+      },
+      {
+        "game": "sm-m",
+        "text": "エサあつめは　わかい　♂の　しごと。\nおおきなクチバシに　エサを　ためて\nなかまが　まつ　すまで　はこぶ。"
+      },
+      {
+        "game": "usum-us",
+        "text": "ふくらんだ　クチバシの　なかに\nちいさなポケモンを　いれて　はこぶ。\nどこに　つれていくのかは　わからない。"
+      },
+      {
+        "game": "usum-um",
+        "text": "おおきな　クチバシで　ヨワシを\nすくって　まるのみに　する。　１どで\n３０ぴき　いじょうを　たいらげるぞ。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "くちのなかに　ちいさなポケモンや\nタマゴをいれて　あんぜんな　ばしょに\nとどけてくれる　そらの　はこびや。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "かいめん　すれすれを　とんで\nおおきな　くちばしで　かいすいごと\nエサを　すくいとって　はこぶのだ。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Pelipper",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "패리퍼",
+    "genus": "물새포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "큰 부리를 바다에 넣고 먹이를\n한 번에 많이 건져 올리려는\n속셈이다."
+      },
+      {
+        "game": "xy-y",
+        "text": "입속에 작은 포켓몬이나\n알을 넣고 안전한 장소로\n전해주는 하늘의 운반자."
+      },
+      {
+        "game": "oras-or",
+        "text": "작은 포켓몬이나 알을 부리에\n넣고 나르는 하늘의 운반자다.\n바닷가의 험한 절벽에 둥지를 만든다."
+      },
+      {
+        "game": "oras-as",
+        "text": "해수면을 스칠 듯이 날며 먹이를 찾는다.\n큰 부리를 바닷속에 넣고\n먹이를 퍼 올려 한입에 먹는다."
+      },
+      {
+        "game": "sm-s",
+        "text": "크게 부풀어 오른 부리는\n유치원생 정도의 어린아이라면\n쏙 들어갈 수 있는 크기이다."
+      },
+      {
+        "game": "sm-m",
+        "text": "먹이를 모으는 일은 젊은 수컷의 일이다.\n커다란 부리에 먹이를 저장해서\n동료가 기다리는 둥지까지 운반한다."
+      },
+      {
+        "game": "usum-us",
+        "text": "부풀린 부리 안에\n작은 포켓몬을 넣어 운반한다.\n어디로 데려가는지는 알 수 없다."
+      },
+      {
+        "game": "usum-um",
+        "text": "커다란 부리로 약어리를\n건져 올려 통째로 삼킨다.\n한 번에 30마리 이상 먹어 치운다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "입속에 작은 포켓몬이나\n알을 넣고 안전한 장소로\n운반해주는 하늘의 배달꾼."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "해면 아주 가까이 날아\n큰 부리로 해수와 함께\n먹이를 건져 나른다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "大嘴鷗",
+    "genus": "水鳥寶可夢",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "鼓脹得大大的鳥嘴\n是連幼稚園生那麼大的\n孩子都能裝進去的大小。"
+      },
+      {
+        "game": "sm-m",
+        "text": "收集食物是年輕♂的工作。\n會在大大的鳥嘴裡儲藏食物，\n運送到夥伴等待的巢穴中。"
+      },
+      {
+        "game": "usum-us",
+        "text": "會把小型寶可夢裝進牠那\n脹鼓鼓的鳥嘴中運送，\n但沒人知道會被牠帶到哪裡去。"
+      },
+      {
+        "game": "usum-um",
+        "text": "會用大大的鳥嘴\n撈起弱丁魚然後吞下。\n一次可以吃下３０隻以上。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "把小型寶可夢和蛋\n放進嘴裡，並運送到\n安全地方的空中送貨員。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "會貼著海面飛行，\n用大大的鳥嘴連著海水一起\n把食物撈起來帶走。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Bekipan",
+    "genus": "Pokémon Oiseaudo",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Ce messager du ciel transporte\npetits Pokémon et œufs dans son\nbec en toute sécurité."
+      },
+      {
+        "game": "bw-w",
+        "text": "Ce messager du ciel transporte\npetits Pokémon et œufs dans son\nbec en toute sécurité."
+      },
+      {
+        "game": "xy-x",
+        "text": "Il trempe son grand bec dans la mer pour charrier\nde l’eau et de nombreuses proies."
+      },
+      {
+        "game": "xy-y",
+        "text": "Ce messager du ciel transporte petits Pokémon et\nŒufs dans son bec en toute sécurité."
+      },
+      {
+        "game": "oras-or",
+        "text": "Bekipan est un transporteur volant chargeant des petits\nPokémon et des œufs dans son énorme bec. Ce Pokémon\nconstruit son nid sur les falaises, face à la mer."
+      },
+      {
+        "game": "oras-as",
+        "text": "Bekipan récupère sa nourriture en vol, en rasant l’écume\ndes vagues. Ce Pokémon trempe son énorme bec dans l’eau,\npuis avale tout en une bouchée."
+      },
+      {
+        "game": "sm-s",
+        "text": "Le bec de ce Pokémon est énorme, tellement\nénorme qu’un petit enfant pourrait grimper\ndedans et s’y cacher sans problème."
+      },
+      {
+        "game": "sm-m",
+        "text": "Les Bekipan mâles ramènent la nourriture, qu’ils\ntransportent dans leur énorme bec jusqu’au nid\noù les attendent leurs congénères."
+      },
+      {
+        "game": "usum-us",
+        "text": "Il se sert de son énorme bec pour transporter\nde petits Pokémon, mais nul ne sait où il les\nemporte..."
+      },
+      {
+        "game": "usum-um",
+        "text": "Il pêche les Froussardine à l’aide de son large\nbec et les avale d’un trait. Il peut en ingurgiter\njusqu’à trente d’un coup."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Ce messager du ciel transporte les petits\nPokémon et les Œufs dans son bec pour\nles conduire en lieu sûr."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Avec son grand bec, il transporte de la nourriture\nqu’il a récoltée en volant la bouche ouverte\nau ras de la mer, gobant de l’eau au passage."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Pelipper",
+    "genus": "Wasservogel-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Es taucht seinen großen Schnabel ins Wasser\nund fängt so eine Menge Beute."
+      },
+      {
+        "game": "xy-y",
+        "text": "Ein Bote der Lüfte. Bringt Eier und kleine Pokémon\nin seinem Schnabel in Sicherheit."
+      },
+      {
+        "game": "oras-or",
+        "text": "Pelipper transportiert kleine Pokémon und Eier in seinem\nriesigen Schnabel durch die Lüfte. Dieses Pokémon baut\nsein Nest auf steilen Klippen am Meer."
+      },
+      {
+        "game": "oras-as",
+        "text": "Pelipper sucht nach Nahrung, während es über die Wellen\nfliegt. Dieses Pokémon taucht seinen großen Schnabel ins\nMeer, um seine Beute abzuschöpfen. Dann schluckt es alles\nauf einmal herunter."
+      },
+      {
+        "game": "sm-s",
+        "text": "Sein riesiger Schnabel ist so groß, dass sogar\nein kleines Kind problemlos hineinpassen würde."
+      },
+      {
+        "game": "sm-m",
+        "text": "Die jungen Männchen beschaffen die Nahrung.\nSie sammeln die Beute in ihrem großen Schnabel\nund bringen sie zurück ins Nest zu den anderen."
+      },
+      {
+        "game": "usum-us",
+        "text": "In seinem riesigen Schnabel transportiert es\nkleine Pokémon. Niemand weiß, wohin es sie\nbringt."
+      },
+      {
+        "game": "usum-um",
+        "text": "Mit seinem großen Schnabel schöpft es Lusardin\naus dem Wasser und schluckt sie im Ganzen.\nEs kann über 30 Stück auf einmal verspeisen."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Ein Bote der Lüfte. Es bringt Eier und kleine\nPokémon in seinem Schnabel in Sicherheit."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Es schnappt sich seine Beute, indem es beim\nFliegen mit seinem großen Schnabel das Wasser\nstreift."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Pelipper",
+    "genus": "Pokémon Ave Agua",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Hunde su gran pico en el mar para sacar numerosas\npresas junto con mucha agua."
+      },
+      {
+        "game": "xy-y",
+        "text": "Transporta a pequeños Pokémon y Huevos en su pico\nhasta lugares seguros."
+      },
+      {
+        "game": "oras-or",
+        "text": "Pelipper vuela transportando pequeños huevos y Pokémon\ndentro del descomunal pico que tiene. Este Pokémon\nconstruye su nido en escarpados acantilados frente al mar."
+      },
+      {
+        "game": "oras-as",
+        "text": "Pelipper busca su comida mientras vuela y esquiva las crestas\nde las olas. Cuando localiza una presa, sumerge el largo pico\nen el agua para pescarla y se la traga de una vez."
+      },
+      {
+        "game": "sm-s",
+        "text": "Su pico es tan grande que podría acomodar a un\nniño pequeño sin ningún problema."
+      },
+      {
+        "game": "sm-m",
+        "text": "Los machos jóvenes se encargan de reunir\ncomida. La acumulan en sus grandes picos para\nluego llevarla a sus compañeros en los nidos."
+      },
+      {
+        "game": "usum-us",
+        "text": "Transporta Pokémon pequeños en su enorme\npico, aunque nadie sabe a dónde los lleva."
+      },
+      {
+        "game": "usum-um",
+        "text": "Atrapa Wishiwashi con su enorme pico para\nluego engullirlos enteros, llegando a comer más\nde 30 ejemplares de una sentada."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Transporta a pequeños Pokémon y Huevos en su\npico hasta lugares seguros."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Vuela a ras de la superficie marina para llenar\nsu inmenso pico de agua y comida, que se lleva\nconsigo."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Pelipper",
+    "genus": "Pokémon Alacquatico",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Immerge il suo enorme becco nel mare, raccogliendo\nacqua e numerose prede."
+      },
+      {
+        "game": "xy-y",
+        "text": "È un corriere dei cieli e porta uova e piccoli Pokémon\nnel suo enorme becco."
+      },
+      {
+        "game": "oras-or",
+        "text": "Pelipper fa le veci di un aereo cargo poiché trasporta piccoli\nPokémon e uova all’interno del suo becco enorme.\nQuesto Pokémon crea il proprio nido sulle scogliere a picco\nsul mare."
+      },
+      {
+        "game": "oras-as",
+        "text": "Pelipper si avventura in cerca di cibo volando radente\nsulla cresta delle onde. Immerge il suo becco enorme\nnell’acqua del mare per catturare la preda e poi inghiotte\ntutto in un sol boccone."
+      },
+      {
+        "game": "sm-s",
+        "text": "Il suo becco è talmente grande che potrebbe\ncontenere senza problemi un bambino piccolo."
+      },
+      {
+        "game": "sm-m",
+        "text": "I giovani maschi hanno il compito di procurare\nil cibo. Catturano le prede col loro becco enorme\ne le portano al nido dai loro compagni."
+      },
+      {
+        "game": "usum-us",
+        "text": "Trasporta piccoli Pokémon tenendoli nel suo\nenorme becco, ma non si sa dove li porti."
+      },
+      {
+        "game": "usum-um",
+        "text": "Pesca i Wishiwashi con l’enorme becco e li\ninghiotte in un sol boccone. Può mangiarne\nanche 30 per volta."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "È un corriere dei cieli che trasporta Uova e\npiccoli Pokémon nel suo enorme becco per\ncondurli in un luogo sicuro."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Si libra a pelo dell’acqua del mare pescando\nil suo cibo e trasportandolo via con il suo grande\nbecco."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Pelipper",
+    "genus": "Water Bird Pokémon",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "It is a messenger of the skies,\ncarrying small Pokémon and\neggs to safety in its bill."
+      },
+      {
+        "game": "rs-r",
+        "text": "PELIPPER is a flying transporter that\ncarries small POKéMON and eggs inside\nits massive bill.\fThis POKéMON builds its nest on steep\ncliffs facing the sea."
+      },
+      {
+        "game": "rs-s",
+        "text": "PELIPPER searches for food while in\nflight by skimming the wave tops.\nThis POKéMON dips its large bill in the\fsea to scoop up food, then swallows\neverything in one big gulp."
+      },
+      {
+        "game": "e",
+        "text": "It skims the tops of waves as it flies.\nWhen it spots prey, it uses its large beak\nto scoop up the victim with water.\nIt protects its eggs in its beak."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "It is a flying transporter that carries\nsmall POKéMON in its beak. It bobs on the\nwaves to rest its wings."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "It is a flying transporter that carries\nsmall POKéMON in its beak. It bobs on the\nwaves to rest its wings."
+      },
+      {
+        "game": "dp-d",
+        "text": "It dips its large bill in the sea,\nthen scoops up numerous prey\nalong with water."
+      },
+      {
+        "game": "dp-p",
+        "text": "It acts as a delivery service by\ncarrying small Pokémon in its bill.\nIt bobs on the waves to rest."
+      },
+      {
+        "game": "pt",
+        "text": "It is a messenger of the skies,\ncarrying small Pokémon and\neggs to safety in its bill."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "It protects its young in its beak.\nIt bobs on waves, resting on them\non days when the waters are calm."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "It protects its young in its beak.\nIt bobs on waves, resting on them\non days when the waters are calm."
+      },
+      {
+        "game": "bw-w",
+        "text": "It is a messenger of the skies,\ncarrying small Pokémon and\neggs to safety in its bill."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "Skimming the water’s surface, it dips\nits large bill in the sea, scoops up food\nand water, and carries it."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "Skimming the water’s surface, it dips\nits large bill in the sea, scoops up food\nand water, and carries it."
+      },
+      {
+        "game": "xy-x",
+        "text": "It dips its large bill in the sea, then scoops up\nnumerous prey along with water."
+      },
+      {
+        "game": "xy-y",
+        "text": "It is a messenger of the skies, carrying small\nPokémon and eggs to safety in its bill."
+      },
+      {
+        "game": "oras-or",
+        "text": "Pelipper is a flying transporter that carries small Pokémon and\neggs inside its massive bill. This Pokémon builds its nest on\nsteep cliffs facing the sea."
+      },
+      {
+        "game": "oras-as",
+        "text": "Pelipper searches for food while in flight by skimming the wave\ntops. This Pokémon dips its large bill in the sea to scoop up\nfood, then swallows everything in one big gulp."
+      },
+      {
+        "game": "sm-s",
+        "text": "Its spacious beak is large enough for a\nsmall child to fit right inside."
+      },
+      {
+        "game": "sm-m",
+        "text": "Gathering food is the work of young males.\nThey store food in their capacious beaks and\ncarry it back to others waiting in the nest."
+      },
+      {
+        "game": "usum-us",
+        "text": "It places small Pokémon into its spacious beak\nand carries them around. No one knows where\nit’s taking them."
+      },
+      {
+        "game": "usum-um",
+        "text": "It scoops up Wishiwashi in its huge beak and\nswallows them whole. It can devour more than\n30 at one go!"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "It is a messenger of the skies, carrying small\nPokémon and eggs to safety in its bill."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Skimming the water’s surface, it dips its large bill\nin the sea, scoops up food and water, and\ncarries it."
+      }
+    ]
+  },
+  "chs": {
+    "name": "大嘴鸥",
+    "genus": "水鸟宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "鸟嘴鼓得大大的，\n幼儿园小朋友这么大的孩子\n正好能完全进入。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "会贴着海面飞行，\n用大大的鸟嘴连着海水一起\n把食物捞起来带走。"
+      },
+      {
+        "game": "sm-m",
+        "text": "收集食物是年轻♂的活儿。\n在大大的鸟嘴里储藏食物，\n运送到伙伴等待的巢穴中。"
+      },
+      {
+        "game": "usum-us",
+        "text": "会将小型宝可梦放入它那鼓得\n大大的鸟嘴中运送。但是要把它\n带到哪儿去就不得而知了。"
+      },
+      {
+        "game": "usum-um",
+        "text": "会用大大的鸟嘴捞起\n弱丁鱼后整个吞下。\n一次可吃下３０只以上。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "把小型宝可梦和蛋放进嘴里，\n并运送到安全地方的空中运送员。"
+      }
+    ]
+  }
+}

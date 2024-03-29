@@ -1,0 +1,481 @@
+{
+  "jap": {
+    "name": "イシツブテ",
+    "genus": "がんせきポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "そうげんや　やまに　せいそくする。\nいしころに　にていて　きがつかずに\nふんだり　つまずいたり　してしまう。"
+      },
+      {
+        "game": "xy-y",
+        "text": "いしころと　みわけが　つかない。\nがんじょうな　からだを　なかまと\nぶつけあい　かたさを　きそいあう。"
+      },
+      {
+        "game": "oras-or",
+        "text": "ながいきの　イシツブテほど　からだの　かどは\nけずれ　まるくなっていくが　きもちは　いつまでも\nごつごつ　とがって　あらあらしいのだ。"
+      },
+      {
+        "game": "oras-as",
+        "text": "じめんに　はんぶん　うまり　ぐっすり　ねむる。\nとざんしゃに　ふまれても　まったく　おきないよ。\nあさ　エサを　さがして　さかを　ころがりおちる。"
+      },
+      {
+        "game": "sm-s",
+        "text": "まるく　もちやすいが　なげあうには\nかたくて　おもい。　ゆきだまの　ように\nぶつけあって　あそぶには　キケンだ。"
+      },
+      {
+        "game": "sm-m",
+        "text": "そこらのみちばたに　いくらでも　いる。\nヒマな　がくしゃが　かぞえてみたら\n１つのどうろに　１００ぴき　いた。"
+      },
+      {
+        "game": "usum-us",
+        "text": "ながく　いきた　イシツブテは　かどが\nとれて　まんまる。　せいかくも　とても\nおちついていて　おだやか　なのだ。"
+      },
+      {
+        "game": "usum-um",
+        "text": "りょうてを　つかい　けわしい　がけを\nのぼる。　そのすがたを　みた　ひとが\nボルダリングを　はじめたらしい。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "やまみち　などに　おおく　せいそく。\nきづかずに　ふみつけると\nおこりだすので　ようちゅういだ。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "やまみち　などに　おおく　せいそく。\nきづかずに　ふみつけると\nおこりだすので　ようちゅういだ。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Isitsubute",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "꼬마돌",
+    "genus": "암석포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "초원이나 산에 서식한다.\n돌멩이와 닮은 탓에 알아채지 못하고\n밟거나 발이 걸려 넘어지기도 한다."
+      },
+      {
+        "game": "xy-y",
+        "text": "돌멩이와 구별되지 않는다.\n튼튼한 몸을 동료와\n서로 부딪쳐서 단단함을 겨룬다."
+      },
+      {
+        "game": "oras-or",
+        "text": "오래 산 꼬마돌일수록 몸의 모난 부분이\n깎여 둥그렇게 되지만 마음은 언제까지나\n울퉁불퉁 뾰족하고 거칠다."
+      },
+      {
+        "game": "oras-as",
+        "text": "땅에 반쯤 박혀서 푹 잠잔다.\n등산 중인 사람에게 밟혀도 전혀 깨지 않는다.\n아침에 먹이를 찾아 언덕을 굴러 내려온다."
+      },
+      {
+        "game": "sm-s",
+        "text": "동글고 들기 쉽지만 서로 던지기에는\n딱딱하고 무겁다. 눈싸움처럼\n서로 맞히며 놀기에는 위험하다."
+      },
+      {
+        "game": "sm-m",
+        "text": "길가에서 흔히 볼 수 있다.\n한가한 학자가 세어봤더니\n하나의 도로에 100마리가 있었다."
+      },
+      {
+        "game": "usum-us",
+        "text": "오래 산 꼬마돌은 모가 없이\n동그랗다. 성격도 매우\n차분하고 온화하다."
+      },
+      {
+        "game": "usum-um",
+        "text": "양손을 사용해서 험한 절벽을\n오른다. 그 모습을 본 사람이\n볼더링을 시작했다고 한다."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "산길 등에 많이 서식한다.\n실수로 밟으면\n화를 내므로 주의가 필요하다."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "산길 등에 많이 서식한다.\n실수로 밟으면\n화를 내므로 주의가 필요하다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "小拳石",
+    "genus": "岩石寶可夢",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "圓圓的很容易拿在手裡，\n但要拿來互相投擲的話就太硬太重了。\n像打雪仗般互相投擲的話是很危險的。"
+      },
+      {
+        "game": "sm-m",
+        "text": "在路邊隨處可見。\n有空的學者試著數了一下，\n光是１條路上就有１００隻。"
+      },
+      {
+        "game": "usum-us",
+        "text": "活得久的小拳石身上的稜角\n會被磨平而變得圓滾滾的，\n性格也會變得穩重而隨和。"
+      },
+      {
+        "game": "usum-um",
+        "text": "會用雙手攀登險峻的山崖。\n人們似乎是在目睹牠那姿態之後\n才開始了抱石攀岩運動。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "大量棲息在山路之類的地方。\n不小心踩到牠會讓牠生氣，\n所以走路的時候要小心。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "大量棲息在山路之類的地方。\n不小心踩到牠會讓牠生氣，\n所以走路的時候要小心。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Racaillou",
+    "genus": "Pokémon Roche",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Au repos, rien ne le distingue d’un\nvulgaire caillou. Malheur à ceux qui\nlui marchent dessus par mégarde!"
+      },
+      {
+        "game": "bw-w",
+        "text": "Au repos, rien ne le distingue d’un\nvulgaire caillou. Malheur à ceux qui\nlui marchent dessus par mégarde!"
+      },
+      {
+        "game": "xy-x",
+        "text": "Il vit dans les plaines ou les montagnes.\nOn le confond souvent avec un petit caillou."
+      },
+      {
+        "game": "xy-y",
+        "text": "Son corps se fond dans la roche. Les Pokémon\nde cette espèce se bousculent au cours d’épreuves\nde force."
+      },
+      {
+        "game": "oras-or",
+        "text": "Lorsqu’un Racaillou prend de l’âge, ses bords s’ébrèchent\net s’usent, ce qui lui donne une apparence plus ronde.\nCependant, le cœur de ce Pokémon reste dur, rocailleux\net rugueux."
+      },
+      {
+        "game": "oras-as",
+        "text": "Pour dormir profondément, Racaillou s’enterre à moitié\ndans le sol. Il ne se réveille pas, même si des randonneurs\nlui marchent dessus. Au petit matin, ce Pokémon roule en\ncontrebas en quête de nourriture."
+      },
+      {
+        "game": "sm-s",
+        "text": "Il est rond comme une balle, mais aussi très\ndur et lourd. Mieux vaut ne pas le lancer sur\nquelqu’un comme si c’était une boule de neige."
+      },
+      {
+        "game": "sm-m",
+        "text": "On en trouve en masse sur le bas-côté des\nroutes. Un universitaire qui s’ennuyait en a\ndénombré une centaine sur la même route."
+      },
+      {
+        "game": "usum-us",
+        "text": "Les aspérités de Racaillou s’adoucissent au fil\ndes années, tout comme sa personnalité.\nIl devient tout lisse, tout rond, et tout calme."
+      },
+      {
+        "game": "usum-um",
+        "text": "Il grimpe les côtes escarpées à mains nues.\nC’est en le voyant à l’œuvre que des humains\nse sont mis à l’escalade de bloc."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "On en trouve près des sentiers de montagne.\nSi vous marchez dessus par inadvertance,\nils s’énervent et attaquent."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "On en trouve près des sentiers de montagne.\nSi vous marchez dessus par inadvertance,\nils s’énervent et attaquent."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Kleinstein",
+    "genus": "Gestein",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Wanderer stolpern in den Bergen häufig über dieses\nPokémon, da es wie ein Stein aussieht."
+      },
+      {
+        "game": "xy-y",
+        "text": "Man kann es nicht von Felsbrocken unterscheiden.\nEs rempelt andere an, um sich zu beweisen."
+      },
+      {
+        "game": "oras-or",
+        "text": "Je länger ein Kleinstein lebt, desto mehr wird seine raue\nOberfläche abgeschliffen, sodass es runder wird. Das Herz\ndieses Pokémon bleibt aber für immer versteinert, hart und rau."
+      },
+      {
+        "game": "oras-as",
+        "text": "Wenn Kleinstein tief und fest schläft, gräbt es sich selbst\nzur Hälfte im Boden ein. Selbst wenn Wanderer versehentlich\nauf Kleinstein treten, wacht es nicht auf. Am Morgen rollt es\nauf der Suche nach Nahrung den Berg herunter."
+      },
+      {
+        "game": "sm-s",
+        "text": "Trotz seiner griffigen, runden Form ist Kleinstein\nhart und schwer. Bewirft man sich damit wie\nmit Schneebällen, besteht Verletzungsgefahr!"
+      },
+      {
+        "game": "sm-m",
+        "text": "Man findet sie in rauen Mengen am Straßenrand.\nEin Forscher hat in seiner Freizeit auf einer\nStraße einmal 100 Exemplare gezählt."
+      },
+      {
+        "game": "usum-us",
+        "text": "Mit dem Alter verliert es zunehmend seine\nKantigkeit, bis es vollkommen rund und auch\ncharakterlich immer ausgeglichener wird."
+      },
+      {
+        "game": "usum-um",
+        "text": "Mit den Armen erklimmt es selbst steile Hänge.\nUnter den Menschen soll diese Klettermethode\nVorbild für den Bouldersport gewesen sein."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Es hält sich gern in der Nähe von Gebirgspfaden\nauf. Tritt man versehentlich auf eins, wird es sehr\nwütend. Deshalb ist höchste Vorsicht geboten."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Es hält sich gern in der Nähe von Gebirgspfaden\nauf. Tritt man versehentlich auf eins, wird es sehr\nwütend. Deshalb ist höchste Vorsicht geboten."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Geodude",
+    "genus": "Pokémon Roca",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Aparecen en llanos y montañas. Como parecen rocas,\nla gente se tropieza con ellos o los pisa."
+      },
+      {
+        "game": "xy-y",
+        "text": "Es imposible distinguirlos de las rocas. Para probar su\ndureza, chocan entre sí en duelo."
+      },
+      {
+        "game": "oras-or",
+        "text": "Cuanto más larga es la vida de Geodude, mayor es el desgaste\ny la erosión que sufre, y más redondeada la forma que va\nadquiriendo. Sin embargo, el corazón permanece siempre duro,\nrocoso y tosco."
+      },
+      {
+        "game": "oras-as",
+        "text": "Cuando Geodude duerme profundamente, se entierra a\nmedias en el suelo y no se despierta ni aunque lo pisen sin\nquerer. Por la mañana, se dedica a buscar comida rodando\nladera abajo."
+      },
+      {
+        "game": "sm-s",
+        "text": "Aunque su forma invita a lanzarlo cual bola de\nnieve, su peso y dureza hacen de esta una\nactividad de riesgo nada recomendable."
+      },
+      {
+        "game": "sm-m",
+        "text": "Se encuentran en masa en las cunetas de los\ncaminos. Un investigador con mucho tiempo libre\nllegó a contar una vez una centena de Geodude."
+      },
+      {
+        "game": "usum-us",
+        "text": "Con la edad, su temperamento se amansa y su\ncuerpo se va alisando hasta adquirir una forma\ncompletamente redonda."
+      },
+      {
+        "game": "usum-um",
+        "text": "Escala a manos desnudas las pendientes de las\nmontañas. Al parecer, esta fue la fuente de\ninspiración para la práctica de la escalada libre."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Se suele encontrar en senderos de montaña y\nsitios parecidos. Conviene andar con cuidado\npara no pisarlo sin querer y provocar su enfado."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Se suele encontrar en senderos de montaña y\nsitios parecidos. Conviene andar con cuidado\npara no pisarlo sin querer y provocar su enfado."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Geodude",
+    "genus": "Pokémon Roccia",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Si trova nei campi e in montagna. Se confuso con\nuna roccia, può succedere di inciamparvi."
+      },
+      {
+        "game": "xy-y",
+        "text": "È impossibile distinguerlo dalle rocce. Si scaglia\ncontro gli altri per vedere chi è più duro."
+      },
+      {
+        "game": "oras-or",
+        "text": "Col passare del tempo, i profili di Geodude diventano\nsempre più levigati, rendendolo più tondeggiante.\nTuttavia il cuore di questo Pokémon rimane sempre duro,\nruvido e roccioso."
+      },
+      {
+        "game": "oras-as",
+        "text": "Quando Geodude dorme profondamente si nasconde\nparzialmente nel terreno. Non si sveglia neanche se i passanti\nlo calpestano involontariamente. La mattina questo Pokémon\nrotola a valle in cerca di cibo."
+      },
+      {
+        "game": "sm-s",
+        "text": "La forma arrotondata lo rende facilmente\nafferrabile, ma è duro e pesante. Lanciarlo\ncome se fosse una palla di neve è pericoloso."
+      },
+      {
+        "game": "sm-m",
+        "text": "Se ne trovano spesso in gran numero ai lati delle\nstrade. Uno studioso senza nulla di meglio da\nfare ne ha contati 100 in un certo percorso."
+      },
+      {
+        "game": "usum-us",
+        "text": "Col passare degli anni le asperità del suo corpo\nvengono levigate, rendendolo perfettamente\nrotondo, e il suo carattere si fa più tranquillo."
+      },
+      {
+        "game": "usum-um",
+        "text": "Scala pareti scoscese a mani nude.\nSi dice che la pratica del bouldering sia stata\nispirata da questo Pokémon."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Lo si può trovare vicino ai sentieri di montagna.\nBisogna fare attenzione a non calpestarlo per\nsbaglio, altrimenti diventa furioso."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Lo si può trovare vicino ai sentieri di montagna.\nBisogna fare attenzione a non calpestarlo per\nsbaglio, altrimenti diventa furioso."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Geodude",
+    "genus": "Rock Pokémon",
+    "flavorText": [
+      {
+        "game": "rb-r",
+        "text": "Found in fields\nand mountains.\nMistaking them\ffor boulders,\npeople often step\nor trip on them."
+      },
+      {
+        "game": "rb-b",
+        "text": "Found in fields\nand mountains.\nMistaking them\ffor boulders,\npeople often step\nor trip on them."
+      },
+      {
+        "game": "y",
+        "text": "Commonly found\nnear mountain\ntrails, etc.\fIf you step on\none by accident,\nit gets angry."
+      },
+      {
+        "game": "gs-g",
+        "text": "Most people may\nnot notice, but\na closer look\fshould reveal that\nthere are many\nGEODUDE around."
+      },
+      {
+        "game": "gs-s",
+        "text": "It uses its arms\nto steadily climb\nsteep mountain\fpaths. It swings\nits fists around\nif angered."
+      },
+      {
+        "game": "c",
+        "text": "Proud of their\nsturdy bodies,\nthey bash against\feach other in a\ncontest to prove\nwhose is harder."
+      },
+      {
+        "game": "rs-r",
+        "text": "The longer a GEODUDE lives, the more\nits edges are chipped and worn away,\nmaking it more rounded in appearance.\fHowever, this POKéMON’s heart will\nremain hard, craggy, and rough always."
+      },
+      {
+        "game": "rs-s",
+        "text": "When GEODUDE sleeps deeply, it buries\nitself halfway into the ground.\nIt will not awaken even if hikers step\fon it unwittingly.\nIn the morning, this POKéMON rolls\ndownhill in search of food."
+      },
+      {
+        "game": "e",
+        "text": "It climbs mountain paths using only the\npower of its arms. Because they look just\nlike boulders lining paths, hikers may step\non them without noticing."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "Its round form makes it easy to pick up.\nSome people have used them to hurl\nat each other in a snowball fight."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "Found in fields and mountains. Mistaking\nthem for boulders, people often step or\ntrip on them."
+      },
+      {
+        "game": "dp-d",
+        "text": "Many live on mountain trails\nand remain half buried while\nkeeping an eye on climbers."
+      },
+      {
+        "game": "dp-p",
+        "text": "It is impossible to distinguish from\nrocks. It slams against others in\ncontests of hardness."
+      },
+      {
+        "game": "pt",
+        "text": "At rest, it looks just like a rock.\nCarelessly stepping on it will make\nit swing its fists angrily."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "Most people may not notice,\nbut a closer look should reveal that\nthere are many GEODUDE around."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "It uses its arms to steadily climb\nsteep mountain paths. It swings\nits fists around if angered."
+      },
+      {
+        "game": "bw-b",
+        "text": "At rest, it looks just like a rock.\nCarelessly stepping on it will make\nit swing its fists angrily."
+      },
+      {
+        "game": "bw-w",
+        "text": "At rest, it looks just like a rock.\nCarelessly stepping on it will make\nit swing its fists angrily."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "At rest, it looks just like a rock.\nCarelessly stepping on it will make\nit swing its fists angrily."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "At rest, it looks just like a rock.\nCarelessly stepping on it will make\nit swing its fists angrily."
+      },
+      {
+        "game": "xy-x",
+        "text": "Found in fields and mountains. Mistaking them for\nboulders, people often step or trip on them."
+      },
+      {
+        "game": "xy-y",
+        "text": "It is impossible to distinguish from rocks. It slams\nagainst others in contests of hardness."
+      },
+      {
+        "game": "oras-or",
+        "text": "The longer a Geodude lives, the more its edges are chipped\nand worn away, making it more rounded in appearance.\nHowever, this Pokémon’s heart will remain hard, craggy,\nand rough always."
+      },
+      {
+        "game": "oras-as",
+        "text": "When Geodude sleeps deeply, it buries itself halfway into the\nground. It will not awaken even if hikers step on it unwittingly.\nIn the morning, this Pokémon rolls downhill in search of food."
+      },
+      {
+        "game": "sm-s",
+        "text": "Its round body makes it easy to pick up,\nbut it is hard and heavy. It’s dangerous\nto play with them as if they were snowballs."
+      },
+      {
+        "game": "sm-m",
+        "text": "There are plenty of them to be found along any\nroad. A scholar with too much free time once\ncounted a hundred of them along a single route."
+      },
+      {
+        "game": "usum-us",
+        "text": "Geodude that have lived a long life have had all\ntheir edges smoothed out until they’re totally\nround. They also have a calm, quiet disposition."
+      },
+      {
+        "game": "usum-um",
+        "text": "It uses both hands to climb precipitous cliffs.\nPeople who see it in action have been known to\ntake up bouldering."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Commonly found near mountain trails and\nthe like. If you step on one by accident,\nit gets angry."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Commonly found near mountain trails and\nthe like. If you step on one by accident,\nit gets angry."
+      },
+      {
+        "game": "la",
+        "text": "Makes its home in mountainous regions, using its arms to climb\nalong harsh mountain roads. Can be troublesome—carelessly\nkicking one will cause it to fly into a rage and chase after you."
+      }
+    ]
+  },
+  "chs": {
+    "name": "小拳石",
+    "genus": "岩石宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "圆圆的很容易拿，\n但要互相扔的话，又硬又重。\n像打雪仗那样扔着玩会很危险。"
+      },
+      {
+        "game": "sm-m",
+        "text": "那儿的路边要多少有多少。\n有空的学者试着数了数，\n１条路上有１００只。"
+      },
+      {
+        "game": "usum-us",
+        "text": "活了很久的小拳石在身上的角\n被磨平后会变得圆滚滚的。\n性格也非常的冷静平稳。"
+      },
+      {
+        "game": "usum-um",
+        "text": "会用双手登上险峻的悬崖。\n人们好像是在看到它那身姿之后，\n才开始了抱石攀岩运动。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "大多栖息于山路。由于\n不留神踩到它会使它\n大发雷霆，得多加小心。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "大多栖息于山路。由于\n不留神踩到它会使它\n大发雷霆，得多加小心。"
+      }
+    ]
+  }
+}

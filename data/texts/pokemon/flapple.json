@@ -1,0 +1,133 @@
+{
+  "jap": {
+    "name": "アップリュー",
+    "genus": "りんごはねポケモン",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "すっぱい　りんごを　たべて　しんか。\nやけどする　ほど　きょうさんせいの\nえきたいを　ほほぶくろに　ためる。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "りんごの　かわの　つばさで　とんで\nきょうさんせいの　だえきを　とばす。\nりんごの　かたちに　へんけいする。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Appryu",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "애프룡",
+    "genus": "사과날개포켓몬",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "새콤한 사과를 먹고 진화했다.\n화상을 입을 정도로 강한 산성을 띠는\n액체를 볼주머니에 저장하고 있다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "사과 껍질로 된 날개로 날며\n강산성의 타액을 뱉는다.\n사과의 형태로 변형한다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "蘋裹龍",
+    "genus": "蘋果翅寶可夢",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "啃果蟲吃了酸蘋果後進化\n而成。頰囊裡儲存著足以\n造成灼傷的強酸性液體。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "會用蘋果皮的翅膀飛翔，\n並吐出強酸性的唾液。\n能變成蘋果的形狀。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Pomdrapi",
+    "genus": "Pokémon Ailes Pomme",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Il a évolué après avoir mangé une pomme acide.\nIl concentre dans ses joues un liquide si corrosif\nqu’il peut provoquer des brûlures."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Il vole avec ses ailes faites de pelures de pomme\net crache une substance très acide.\nIl peut aussi prendre la forme de ce fruit."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Drapfel",
+    "genus": "Apfelflügel-Pokémon",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Nach dem Verzehr eines sauren Apfels hat es sich\nentwickelt. In den Backentaschen speichert es\neine saure Substanz, die zu Verbrennungen führt."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Dieses Pokémon fliegt mit seinen Flügeln aus\nApfelschale und spuckt extrem sauren Speichel\naus. Es nimmt die Gestalt eines Apfels an."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Flapple",
+    "genus": "Pokémon Manzanala",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Ha evolucionado tras ingerir una manzana ácida.\nLas bolsas de las mejillas albergan un fluido cuya\nextrema acidez llega a provocar quemaduras."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Escupe una saliva sumamente ácida y vuela con\nsus alas compuestas por piel de manzana, cuyo\naspecto es capaz de adoptar."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Flapple",
+    "genus": "Pokémon Pomivolo",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Si è evoluto dopo aver mangiato una mela aspra.\nLe sacche sulle guance contengono un liquido\nestremamente acido che può provocare ustioni."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Vola usando la buccia del pomo a mo’ di ali e\nsputa una saliva altamente acida. Può assumere\nl’aspetto di una mela."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Flapple",
+    "genus": "Apple Wing Pokémon",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "It ate a sour apple, and that induced its\nevolution. In its cheeks, it stores an acid\ncapable of causing chemical burns."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "It flies on wings of apple skin and spits a\npowerful acid. It can also change its shape\ninto that of an apple."
+      }
+    ]
+  },
+  "chs": {
+    "name": "苹裹龙",
+    "genus": "苹果翅宝可梦",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "啃果虫吃了酸苹果后进化\n而成。颊囊里储存着足以\n造成灼伤的强酸性液体。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "会用苹果皮的翅膀飞翔，\n并吐出强酸性的唾液。\n可以变成苹果的形状。"
+      }
+    ]
+  }
+}

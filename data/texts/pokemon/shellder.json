@@ -1,0 +1,549 @@
+{
+  "jap": {
+    "name": "シェルダー",
+    "genus": "２まいがいポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "かたいカラは　どんな　こうげきも\nはねかえす。ひらいた　ときに\nなかを　こうげき　されると　よわい。"
+      },
+      {
+        "game": "xy-y",
+        "text": "カラで　はさみこむのは\nやわらかい　なかみを　さらけだすので\nいちか　ばちかの　しゅだん　なのだ。"
+      },
+      {
+        "game": "oras-or",
+        "text": "よるに　なると　おおきな　ベロで　かいていの\nすなに　あなを　ほり　そのなかで　ねむる。\nカラを　とじて　ねむるが　ベロは　だしたまま。"
+      },
+      {
+        "game": "oras-as",
+        "text": "よるに　なると　おおきな　ベロで　かいていの\nすなに　あなを　ほり　そのなかで　ねむる。\nカラを　とじて　ねむるが　ベロは　だしたまま。"
+      },
+      {
+        "game": "sm-s",
+        "text": "カラの　こうどは　ダイヤモンドを\nこえる。　むかしのひとは　カラを\nあつめて　たてを　つくっていた。"
+      },
+      {
+        "game": "sm-m",
+        "text": "つねに　だしっぱなしの　ベロを\nきように　つかって　かいていの　すなを\nほりおこし　エサを　さがす。"
+      },
+      {
+        "game": "usum-us",
+        "text": "カラの　なかに　たまった　すなは\nやがて　しんじゅに　かわるが\nじゃま　なので　はきだして　すてる。"
+      },
+      {
+        "game": "usum-um",
+        "text": "カラを　とじているときも　ベロだけは\nだしっぱなし。　つよく　ひっぱると\nおどろき　カラを　ひらいてしまうよ。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "どんな　こうげきにも　たえる\nかたいカラだが　ひらくと　やわらかい\nなかみが　むきだしになる。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "どんな　こうげきにも　たえる\nかたいカラだが　ひらくと　やわらかい\nなかみが　むきだしになる。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "２まいのカラを　あけたり　とじたり\nすることで　うしろむきに　およぐ。\nそのスピードは　けっこう　はやい。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "かたいカラは　どんな　こうげきも\nはねかえす。　ひらいた　ときに\nなかを　こうげき　されると　よわい。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Shellder",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "셀러",
+    "genus": "두조개포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "단단한 껍데기는 어떤 공격도\n튕겨낸다. 껍데기를 벌리고 있을 때\n안쪽을 공격당하는 것에는 약하다."
+      },
+      {
+        "game": "xy-y",
+        "text": "껍데기로 물어 공격하는 것은\n부드러운 안쪽이 드러나므로\n궁지에 몰렸을 때 쓰는 수단이다."
+      },
+      {
+        "game": "oras-or",
+        "text": "밤이 되면 큰 혀로 해저의\n모래에 구멍을 뚫고 그 안에서 잔다.\n혀를 내민 채로 껍질을 닫고 잠든다."
+      },
+      {
+        "game": "oras-as",
+        "text": "밤이 되면 큰 혀로 해저의\n모래에 구멍을 뚫고 그 안에서 잔다.\n혀를 내민 채로 껍질을 닫고 잠든다."
+      },
+      {
+        "game": "sm-s",
+        "text": "껍질의 강도는 다이아몬드보다\n높다. 옛날 사람은 껍질을\n모아서 방패를 만들었었다."
+      },
+      {
+        "game": "sm-m",
+        "text": "항상 내밀고 있는 혀를\n능숙히 사용하여 해저의 모래를\n파내 먹이를 찾는다."
+      },
+      {
+        "game": "usum-us",
+        "text": "껍질 안에 쌓인 모래는\n이윽고 진주가 되지만\n방해가 되기 때문에 뱉어 버린다."
+      },
+      {
+        "game": "usum-um",
+        "text": "껍질을 닫고 있을 때도 혀만은\n내밀고 있다. 세게 잡아당기면\n놀라서 껍질을 연다."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "어떤 공격에도 견디는\n단단한 껍질을 가졌지만\n열면 부드러운 몸이 드러난다."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "어떤 공격에도 견디는\n단단한 껍질을 가졌지만\n열면 부드러운 몸이 드러난다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "2개의 껍질을 여닫아서\n뒤쪽으로 헤엄친다.\n그 스피드는 제법 빠르다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "단단한 껍데기는 어떤 공격도\n튕겨낸다. 껍데기를 열었을 때\n안쪽을 공격당하는 것에는 약하다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "大舌貝",
+    "genus": "雙殼貝寶可夢",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "殼的硬度超越鑽石。\n古時的人會收集殼來做成盾牌。"
+      },
+      {
+        "game": "sm-m",
+        "text": "靈活運用總是伸出的舌頭\n挖掘海底的沙子，尋找食物。"
+      },
+      {
+        "game": "usum-us",
+        "text": "堆積在殼中的沙子\n最後會變成珍珠，\n但會因為佔空間而被牠吐掉。"
+      },
+      {
+        "game": "usum-um",
+        "text": "就算是在緊閉貝殼的時候，舌頭部分\n也會一直露出來。如果用力拉舌頭，\n牠就會嚇得把殼打開。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "堅硬的外殼能夠抵擋任何攻擊。\n然而只要外殼一打開，\n就會露出裡頭柔軟的身體。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "堅硬的外殼能夠抵擋任何攻擊。\n然而只要外殼一打開，\n就會露出裡頭柔軟的身體。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "透過２片貝殼的不斷開合\n來向後方游動。\n游動的速度相當快。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "堅硬的殼能反彈任何攻擊。\n如果在殼張開時被攻擊到內部，\n就會變得十分脆弱。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Kokiyas",
+    "genus": "Pokémon Bivalve",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Il nage à reculons en ouvrant et en\nrefermant ses deux coquilles. Il\nlaisse traîner sa large langue."
+      },
+      {
+        "game": "bw-w",
+        "text": "Il nage à reculons en ouvrant et en\nrefermant ses deux coquilles. Il\nlaisse traîner sa large langue."
+      },
+      {
+        "game": "xy-x",
+        "text": "Protégé par une carapace très résistante, il est\nvulnérable quand celle-ci s’ouvre."
+      },
+      {
+        "game": "xy-y",
+        "text": "Il se referme sur un ennemi pour attaquer, mais ceci\nle rend vulnérable et il ne le fait que rarement."
+      },
+      {
+        "game": "oras-or",
+        "text": "La nuit, ce Pokémon utilise sa grande langue pour creuser\nun trou dans le sable des fonds marins afin d’y dormir.\nUne fois endormi, Kokiyas referme sa coquille, mais laisse\nsa langue dépasser."
+      },
+      {
+        "game": "oras-as",
+        "text": "La nuit, ce Pokémon utilise sa grande langue pour creuser\nun trou dans le sable des fonds marins afin d’y dormir.\nUne fois endormi, Kokiyas referme sa coquille, mais laisse\nsa langue dépasser."
+      },
+      {
+        "game": "sm-s",
+        "text": "Sa coquille est plus dure que le diamant.\nDans l’Antiquité, elle a été utilisée comme\nbouclier."
+      },
+      {
+        "game": "sm-m",
+        "text": "Il utilise sa langue protubérante avec habileté\npour creuser le sable au fond de la mer et\ntrouver sa nourriture."
+      },
+      {
+        "game": "usum-us",
+        "text": "Avec le temps, les grains de sable accumulés\ndans sa coquille se changent en perles, mais\ncomme elles le gênent, il préfère les recracher."
+      },
+      {
+        "game": "usum-um",
+        "text": "Sa langue dépasse même quand sa coquille est\nfermée. Si on tire fort dessus, cette dernière\ns’ouvre sous l’effet de la surprise."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Sa coquille le protège de toute attaque.\nSi elle s’ouvre, son corps fragile devient\nvulnérable."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Sa coquille le protège de toute attaque.\nSi elle s’ouvre, son corps fragile devient\nvulnérable."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Il nage vers l’arrière à grande vitesse en ouvrant\npuis refermant sa coquille."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Sa coquille est si résistante qu’elle repousse\ntoutes les attaques. En revanche, il est vulnérable\nquand celle-ci s’ouvre."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Muschas",
+    "genus": "Muschel-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Eine harte Schale schützt dieses Pokémon.\nNur wenn es diese öffnet, wird es verwundbar."
+      },
+      {
+        "game": "xy-y",
+        "text": "Da es seine verwundbarste Stelle beim Klammern\npreisgibt, tut es dies nur in wirklichen Notfällen."
+      },
+      {
+        "game": "oras-or",
+        "text": "Nachts benutzt dieses Pokémon seine breite Zunge, um ein\nLoch in den Meeresboden zu graben. Darin schläft es.\nDabei schließt es seine Schale, aber die Zunge hängt heraus."
+      },
+      {
+        "game": "oras-as",
+        "text": "Nachts verwendet dieses Pokémon seine breite Zunge, um ein\nLoch in den Meeresboden zu graben. Darin schläft es. Dabei\nschließt es seine Schale, lässt aber seine Zunge heraushängen."
+      },
+      {
+        "game": "sm-s",
+        "text": "Ihre Schalen sind härter als Diamanten.\nVor langer Zeit sammelte man die Schalen\nvon Muschas und machte Schilde daraus."
+      },
+      {
+        "game": "sm-m",
+        "text": "Seine Zunge hängt immer aus seiner Schale.\nEs sucht nach Beute, indem es mit ihr gezielt\nden Sand am Meeresboden aufwirbelt."
+      },
+      {
+        "game": "usum-us",
+        "text": "Der Sand, der sich in Muschas’ Schale sammelt,\nentwickelt sich zu Perlen. Da es diese als\nstörend empfindet, spuckt es sie einfach aus."
+      },
+      {
+        "game": "usum-um",
+        "text": "Seine Zunge lässt es selbst bei geschlossener\nSchale immer heraushängen. Zieht man fest\ndaran, öffnet es vor Schreck seine Schale."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Seine Schale ist hart genug, um allen Attacken\nstandzuhalten. Wenn sie offen ist, kommt sein\nweiches Inneres zum Vorschein."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Seine Schale ist hart genug, um allen Attacken\nstandzuhalten. Wenn sie offen ist, kommt sein\nweiches Inneres zum Vorschein."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Es schwimmt rückwärts, indem es seine Schale\nöffnet und schließt, und ist damit überraschend\nschnell."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Eine harte Schale schützt dieses Pokémon.\nNur wenn es diese öffnet, wird es verwundbar."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Shellder",
+    "genus": "Pokémon Bivalvo",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "La concha lo protege de cualquier tipo de ataque.\nSolo es vulnerable cuando se abre."
+      },
+      {
+        "game": "xy-y",
+        "text": "Cuando atenaza a sus enemigos, se vuelve vulnerable.\nPor eso solo utiliza esta técnica como último recurso."
+      },
+      {
+        "game": "oras-or",
+        "text": "Por la noche, este Pokémon usa la ancha lengua que tiene\npara hacer un agujero en el fondo del mar y echarse a dormir.\nMientras duerme, Shellder cierra la concha, pero deja la\nlengua por fuera."
+      },
+      {
+        "game": "oras-as",
+        "text": "Por la noche, este Pokémon usa la ancha lengua que tiene\npara hacer un agujero en el fondo del mar y echarse a dormir.\nMientras duerme, Shellder cierra la concha, pero deja la\nlengua por fuera."
+      },
+      {
+        "game": "sm-s",
+        "text": "Su concha, más dura que un diamante, se\nempleaba en la antigüedad para la fabricación\nde escudos."
+      },
+      {
+        "game": "sm-m",
+        "text": "Este Pokémon usa su lengua diestramente para\nexcavar en el fondo del mar y buscar alimento."
+      },
+      {
+        "game": "usum-us",
+        "text": "La arena que acumula en su interior termina por\ntransformarse en una perla, pero la escupe\nporque le supone un estorbo."
+      },
+      {
+        "game": "usum-um",
+        "text": "Siempre tiene la lengua fuera, aun con la concha\ncerrada. Si uno tira de ella con fuerza, la abrirá\ndel susto."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "La dura concha que lo recubre resiste cualquier\nataque, por lo que su frágil cuerpo solo queda\nexpuesto cuando esta se abre."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "La dura concha que lo recubre resiste cualquier\nataque, por lo que su frágil cuerpo solo queda\nexpuesto cuando esta se abre."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Nada hacia atrás abriendo y cerrando su concha.\nEs sorprendentemente rápido."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "La concha lo protege de cualquier tipo de\nataque. Solo es vulnerable cuando se abre."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Shellder",
+    "genus": "Pokémon Bivalve",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "La sua conchiglia dura respinge ogni tipo di attacco.\nÈ vulnerabile solo quando apre il guscio."
+      },
+      {
+        "game": "xy-y",
+        "text": "Mentre attanaglia il nemico diviene vulnerabile,\nperciò usa questa tecnica come ultima risorsa."
+      },
+      {
+        "game": "oras-or",
+        "text": "Di notte Shellder usa la sua lingua larga per scavare una buca\nsul fondo del mare e infilarcisi per dormire.\nQuando dorme chiude la conchiglia ma lascia la lingua fuori\na penzoloni."
+      },
+      {
+        "game": "oras-as",
+        "text": "Di notte Shellder usa la sua lingua larga per scavare una buca\nsul fondo del mare e infilarcisi per dormire.\nQuando dorme chiude la conchiglia ma lascia la lingua fuori\na penzoloni."
+      },
+      {
+        "game": "sm-s",
+        "text": "La conchiglia esterna è più dura del diamante.\nIn passato era usata per costruire scudi."
+      },
+      {
+        "game": "sm-m",
+        "text": "Con la lingua che gli sporge sempre a penzoloni\nscava abilmente sul fondo del mare in cerca\ndi cibo."
+      },
+      {
+        "game": "usum-us",
+        "text": "Con il tempo, la sabbia che si accumula\nnel guscio forma delle perle. Poiché gli danno\nnoia, il Pokémon le sputa via."
+      },
+      {
+        "game": "usum-um",
+        "text": "La lingua gli sporge a penzoloni anche quando la\nconchiglia è chiusa. Se gliela si tira con forza,\nShellder apre la conchiglia per la sorpresa."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "La sua conchiglia è capace di resistere a\nqualsiasi attacco, ma quando si apre\nil Pokémon diventa molto vulnerabile."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "La sua conchiglia è capace di resistere a\nqualsiasi attacco, ma quando si apre\nil Pokémon diventa molto vulnerabile."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Nuota all’indietro aprendo e chiudendo le\ndue valve. È sorprendentemente rapido."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "La sua conchiglia dura respinge ogni tipo\ndi attacco. È vulnerabile solo quando apre\nle valve."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Shellder",
+    "genus": "Bivalve Pokémon",
+    "flavorText": [
+      {
+        "game": "rb-r",
+        "text": "Its hard shell\nrepels any kind\nof attack.\fIt is vulnerable\nonly when its\nshell is open."
+      },
+      {
+        "game": "rb-b",
+        "text": "Its hard shell\nrepels any kind\nof attack.\fIt is vulnerable\nonly when its\nshell is open."
+      },
+      {
+        "game": "y",
+        "text": "The shell can\nwithstand any\nattack. However,\fwhen it is open,\nthe tender body\nis exposed."
+      },
+      {
+        "game": "gs-g",
+        "text": "It swims facing\nbackward by open­\ning and closing\fits two-piece\nshell. It is\nsurprisingly fast."
+      },
+      {
+        "game": "gs-s",
+        "text": "Grains of sand\ntrapped in its\nshells mix with\fits body fluids to\nform beautiful\npearls."
+      },
+      {
+        "game": "c",
+        "text": "Clamping on to an\nopponent reveals\nits vulnerable\fparts, so it uses\nthis move only as\na last resort."
+      },
+      {
+        "game": "rs-r",
+        "text": "At night, this POKéMON uses its broad\ntongue to burrow a hole in the seafloor\nsand and then sleep in it.\fWhile it is sleeping, SHELLDER closes its\nshell, but leaves its tongue hanging\nout."
+      },
+      {
+        "game": "rs-s",
+        "text": "At night, this POKéMON uses its broad\ntongue to burrow a hole in the seafloor\nsand and then sleep in it.\fWhile it is sleeping, SHELLDER closes its\nshell, but leaves its tongue hanging\nout."
+      },
+      {
+        "game": "e",
+        "text": "At night, it burrows a hole in the seafloor\nwith its broad tongue to make a place to\nsleep. While asleep, it closes its shell,\nbut leaves its tongue hanging out."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "It is encased in a shell that is harder\nthan diamond. Inside, however, it is\nsurprisingly tender."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "Its hard shell repels any kind of attack.\nIt is vulnerable only when its shell is\nopen."
+      },
+      {
+        "game": "dp-d",
+        "text": "It swims backward by opening and\nclosing its two shells. Its large\ntongue is always kept hanging out."
+      },
+      {
+        "game": "dp-p",
+        "text": "It swims backward by opening and\nclosing its two shells. Its large\ntongue is always kept hanging out."
+      },
+      {
+        "game": "pt",
+        "text": "It swims backward by opening and\nclosing its two shells. Its large\ntongue is always kept hanging out."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "It swims facing backward by opening\nand closing its two-piece shell.\nIt is surprisingly fast."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "Grains of sand trapped in its\nshells mix with its body fluids to\nform beautiful pearls."
+      },
+      {
+        "game": "bw-b",
+        "text": "It swims backward by opening and\nclosing its two shells. Its large\ntongue is always kept hanging out."
+      },
+      {
+        "game": "bw-w",
+        "text": "It swims backward by opening and\nclosing its two shells. Its large\ntongue is always kept hanging out."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "It swims backward by opening and\nclosing its two shells. Its large\ntongue is always kept hanging out."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "It swims backward by opening and\nclosing its two shells. Its large\ntongue is always kept hanging out."
+      },
+      {
+        "game": "xy-x",
+        "text": "Its hard shell repels any kind of attack.\nIt is vulnerable only when its shell is open."
+      },
+      {
+        "game": "xy-y",
+        "text": "Clamping on to an opponent reveals its vulnerable\nparts, so it uses this move only as a last resort."
+      },
+      {
+        "game": "oras-or",
+        "text": "At night, this Pokémon uses its broad tongue to burrow a hole\nin the seafloor sand and then sleep in it. While it is sleeping,\nShellder closes its shell, but leaves its tongue hanging out."
+      },
+      {
+        "game": "oras-as",
+        "text": "At night, this Pokémon uses its broad tongue to burrow a hole\nin the seafloor sand and then sleep in it. While it is sleeping,\nShellder closes its shell, but leaves its tongue hanging out."
+      },
+      {
+        "game": "sm-s",
+        "text": "The hardness of its shell surpasses the\nhardness of a diamond. In days gone by,\npeople used the shells to make shields."
+      },
+      {
+        "game": "sm-m",
+        "text": "This Pokémon’s tongue is always hanging out.\nIt uses its tongue with great dexterity to dig up\nsand from the seabed in its search for food."
+      },
+      {
+        "game": "usum-us",
+        "text": "The sand that accumulates inside its shell\neventually becomes a pearl. But the pearl gets\nin the way, so it spits it out and discards it."
+      },
+      {
+        "game": "usum-um",
+        "text": "Even when its shell is closed, its tongue still\nhangs out. If you give its tongue a good yank,\nthe shock will cause Shellder to open its shell."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "The shell can withstand any attack. However,\nwhen it is open, the tender body is exposed."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "The shell can withstand any attack. However,\nwhen it is open, the tender body is exposed."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "It swims facing backward by opening and closing\nits two-piece shell. It is surprisingly fast."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Its hard shell repels any kind of attack. It is\nvulnerable only when its shell is open."
+      }
+    ]
+  },
+  "chs": {
+    "name": "大舌贝",
+    "genus": "双壳贝宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "壳的硬度超过钻石。\n过去，人们会收集壳来做成盾牌。"
+      },
+      {
+        "game": "sm-m",
+        "text": "灵活地运用一直伸着的舌头\n挖掘海底的沙子，寻找食物。"
+      },
+      {
+        "game": "usum-us",
+        "text": "虽然留在壳里的沙子终会变成珍珠，\n但会因为碍事而被它吐掉。"
+      },
+      {
+        "game": "usum-um",
+        "text": "就算是在紧闭贝壳的时候，舌头也会\n一直露在外面。如果强行拉拽舌头，\n它就会吓得打开贝壳哦。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "它的硬壳可以承受任何\n攻击，但是一旦硬壳打开，\n它柔软的内部就会完全暴露。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "它的硬壳可以承受任何\n攻击，但是一旦硬壳打开，\n它柔软的内部就会完全暴露。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "通过２片贝壳的不断开合\n来向后方游动。\n游动的速度相当快。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "坚硬的壳能反弹任何攻击。\n壳打开时，如果里面的部分\n受到攻击，就会变得很脆弱。"
+      }
+    ]
+  }
+}

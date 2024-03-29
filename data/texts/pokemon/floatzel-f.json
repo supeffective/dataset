@@ -1,0 +1,219 @@
+{
+  "jap": {
+    "name": "フローゼル",
+    "genus": "うみイタチポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "はったつした　うきぶくろで　うかぶ。\nおぼれた　ひとを　きゅうじょする\nてつだいを　している　ポケモンだ。"
+      },
+      {
+        "game": "xy-y",
+        "text": "すいちゅうの　えものを　おいかける\nうちに　うきぶくろが　はったつした。\nゴムボートのように　ひとを　のせる。"
+      },
+      {
+        "game": "oras-or",
+        "text": "はったつした　うきぶくろで　うかぶ。\nおぼれた　ひとを　きゅうじょする\nてつだいを　している　ポケモンだ。"
+      },
+      {
+        "game": "oras-as",
+        "text": "すいちゅうの　えものを　おいかける\nうちに　うきぶくろが　はったつした。\nゴムボートのように　ひとを　のせる。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Flowsel",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "플로젤",
+    "genus": "바다족제비포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "발달한 부낭으로 뜬다.\n물에 빠진 사람을 구조하는 것을\n돕는 포켓몬이다."
+      },
+      {
+        "game": "xy-y",
+        "text": "수중의 먹이를 쫓아가는\n사이에 부낭이 발달했다.\n고무보트처럼 사람을 태운다."
+      },
+      {
+        "game": "oras-or",
+        "text": "발달한 부낭으로 뜬다.\n물에 빠진 사람을 구조하는 것을\n돕는 포켓몬이다."
+      },
+      {
+        "game": "oras-as",
+        "text": "수중의 먹이를 쫓아가는\n사이에 부낭이 발달했다.\n고무보트처럼 사람을 태운다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "浮潛鼬",
+    "genus": "海鼬寶可夢",
+    "flavorText": []
+  },
+  "fra": {
+    "name": "Mustéflott",
+    "genus": "Pokémon Aquabelette",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Il chasse souvent près des ports\nde pêche où il sauve parfois les\ngens tombés à la mer."
+      },
+      {
+        "game": "bw-w",
+        "text": "Il chasse souvent près des ports\nde pêche où il sauve parfois les\ngens tombés à la mer."
+      },
+      {
+        "game": "xy-x",
+        "text": "Il flotte grâce à sa bouée très développée. Il vole au\nsecours des gens sur le point de se noyer."
+      },
+      {
+        "game": "xy-y",
+        "text": "Il a développé une bouée pour poursuivre ses proies\naquatiques. Elle fait office de canot gonflable."
+      },
+      {
+        "game": "oras-or",
+        "text": "Il flotte grâce à sa bouée très développée. Il vole au secours\ndes gens sur le point de se noyer."
+      },
+      {
+        "game": "oras-as",
+        "text": "Il a développé une bouée pour poursuivre ses proies\naquatiques. Elle fait office de canot gonflable."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Bojelin",
+    "genus": "Meereswiesel",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Es treibt mithilfe einer Art Rettungsring auf dem\nWasser und hilft dem, der zu ertrinken droht."
+      },
+      {
+        "game": "xy-y",
+        "text": "Da es seit jeher Beute im Wasser jagt,\nentwickelte es einen Rettungsring."
+      },
+      {
+        "game": "oras-or",
+        "text": "Es treibt mithilfe einer Art Rettungsring auf dem Wasser und\nhilft dem, der zu ertrinken droht."
+      },
+      {
+        "game": "oras-as",
+        "text": "Da es seit jeher Beute im Wasser jagt, entwickelte es\neinen Rettungsring."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Floatzel",
+    "genus": "Pokémon Nutria Mar.",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Nada gracias a su flotador. Ayuda en los rescates de\ngente que se está ahogando."
+      },
+      {
+        "game": "xy-y",
+        "text": "Su flotador se desarrolló a raíz de perseguir presas\nacuáticas. También sirve como balsa."
+      },
+      {
+        "game": "oras-or",
+        "text": "Nada gracias a su flotador. Ayuda en los rescates de gente\nque se está ahogando."
+      },
+      {
+        "game": "oras-as",
+        "text": "Su flotador se desarrolló a raíz de perseguir presas acuáticas.\nTambién sirve como balsa."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Floatzel",
+    "genus": "Pokémon Maridonnola",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Nuota con il suo grosso galleggiante e aiuta a\nsoccorrere chi sta per annegare."
+      },
+      {
+        "game": "xy-y",
+        "text": "Il suo galleggiante, che funge da gommone, si è\nsviluppato perché caccia le prede nell’acqua."
+      },
+      {
+        "game": "oras-or",
+        "text": "Nuota con il suo grosso galleggiante e aiuta a soccorrere\nchi sta per annegare."
+      },
+      {
+        "game": "oras-as",
+        "text": "Il suo galleggiante, che funge da gommone, si è sviluppato\nperché caccia le prede nell’acqua."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Floatzel",
+    "genus": "Sea Weasel Pokémon",
+    "flavorText": [
+      {
+        "game": "dp-d",
+        "text": "It floats using its well-developed\nflotation sac. It assists in the\nrescues of drowning people."
+      },
+      {
+        "game": "dp-p",
+        "text": "Its flotation sac developed as a\nresult of pursuing aquatic prey.\nIt can double as a rubber raft."
+      },
+      {
+        "game": "pt",
+        "text": "It is a common sight around\nfishing ports. It is known to\nrescue people and carry off prey."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "With its flotation sac inflated, it\ncan carry people on its back. It\ndeflates the sac before it dives."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "With its flotation sac inflated, it\ncan carry people on its back. It\ndeflates the sac before it dives."
+      },
+      {
+        "game": "bw-b",
+        "text": "It is a common sight around\nfishing ports. It is known to\nrescue people and carry off prey."
+      },
+      {
+        "game": "bw-w",
+        "text": "It is a common sight around\nfishing ports. It is known to\nrescue people and carry off prey."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "It is a common sight around\nfishing ports. It is known to\nrescue people and carry off prey."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "It is a common sight around\nfishing ports. It is known to\nrescue people and carry off prey."
+      },
+      {
+        "game": "xy-x",
+        "text": "It floats using its well-developed flotation sac.\nIt assists in the rescues of drowning people."
+      },
+      {
+        "game": "xy-y",
+        "text": "Its flotation sac developed as a result of pursuing\naquatic prey. It can double as a rubber raft."
+      },
+      {
+        "game": "oras-or",
+        "text": "It floats using its well-developed flotation sac.\nIt assists in the rescues of drowning people."
+      },
+      {
+        "game": "oras-as",
+        "text": "Its flotation sac developed as a result of pursuing\naquatic prey. It can double as a rubber raft."
+      },
+      {
+        "game": "la",
+        "text": "Has a long, rather splendid flotation sac, which prevents\nFloatzel from drowning even in stormy seas. One might glimpse\nthis species around fishing hamlets from time to time."
+      }
+    ]
+  },
+  "chs": {
+    "name": "浮潜鼬",
+    "genus": "海鼬宝可梦",
+    "flavorText": []
+  }
+}

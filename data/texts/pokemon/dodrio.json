@@ -1,0 +1,333 @@
+{
+  "jap": {
+    "name": "ドードリオ",
+    "genus": "みつごどりポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "３つの　あたまが　みているまえで\nわずかでも　すきを　みせると\nくちばしで　はげしく　つつかれる。"
+      },
+      {
+        "game": "xy-y",
+        "text": "めったに　みつからない　ちんしゅ。\n３つの　あたまは　よろこび　かなしみ\nいかりの　かんじょうを　あらわす。"
+      },
+      {
+        "game": "oras-or",
+        "text": "３つの　あたまが　べつべつの　ほうこうを\nむいている　ときは　けいかいしている　しょうこ。\nうかつに　ちかよると　くちばしで　つつかれるぞ。"
+      },
+      {
+        "game": "oras-as",
+        "text": "３つあるのは　あたまだけでは　ないらしい。\nしんぞうと　はいも　３つなので　いきぎれしないで\nながい　きょりを　はしる　ことが　できるのだ。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "ドードーの　どちらかの　あたまが\nぶんれつした　へんしゅ。そうげんを\nじそく　６０キロで　はしっていく。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "ドードーの　どちらかの　あたまが\nぶんれつした　へんしゅ。そうげんを\nじそく　６０キロで　はしっていく。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Dodorio",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "두트리오",
+    "genus": "세쌍둥이새포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "3개의 머리가 보고 있는 앞에서\n조금이라도 빈틈을 보이면\n부리로 격렬하게 쪼아댄다."
+      },
+      {
+        "game": "xy-y",
+        "text": "좀처럼 발견하기 힘든 진귀한 종이다.\n3개의 머리는 기쁨, 슬픔, 분노의\n감정을 나타낸다."
+      },
+      {
+        "game": "oras-or",
+        "text": "3개의 머리가 서로 다른 방향을\n향하고 있을 때는 경계 중인 증거다.\n섣불리 가까이 가면 부리에 쪼인다."
+      },
+      {
+        "game": "oras-as",
+        "text": "3개 있는 것은 머리뿐이 아닌 것 같다.\n심장과 폐도 3개라서 숨이 가빠지지\n않으며 먼 거리를 달릴 수 있다."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "두두의 머리 중 한 쪽이\n분열한 변종. 초원을\n시속 60km로 달린다."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "두두의 머리 중 한 쪽이\n분열한 변종. 초원을\n시속 60km로 달린다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "嘟嘟利",
+    "genus": "三頭鳥寶可夢",
+    "flavorText": [
+      {
+        "game": "lgpe-lgp",
+        "text": "嘟嘟的其中一個頭分裂\n形成的變種。能以60公里的\n時速在草原上奔馳。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "嘟嘟的其中一個頭分裂\n形成的變種。能以60公里的\n時速在草原上奔馳。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Dodrio",
+    "genus": "Pokémon Trioiseau",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Quand Doduo connaît cette étrange\névolution, l’une de ses têtes se\ndédouble. Il atteint les 60 km/h."
+      },
+      {
+        "game": "bw-w",
+        "text": "Quand Doduo connaît cette étrange\névolution, l’une de ses têtes se\ndédouble. Il atteint les 60 km/h."
+      },
+      {
+        "game": "xy-x",
+        "text": "Un ennemi ne faisant pas attention à l’une des trois\ntêtes pendant une seconde se fait picorer."
+      },
+      {
+        "game": "xy-y",
+        "text": "Une espèce étrange que l’on trouve rarement.\nLes trois têtes représentent la joie, la tristesse et\nla colère."
+      },
+      {
+        "game": "oras-or",
+        "text": "Il faut se méfier lorsque les trois têtes de Dodrio regardent\ndans des directions différentes. Cela signifie qu’il est sur ses\ngardes. Si c’est le cas, il vaut mieux ne pas s’approcher de ce\nPokémon, il pourrait décider d’attaquer."
+      },
+      {
+        "game": "oras-as",
+        "text": "Apparemment, Dodrio ne se contente pas d’avoir trois têtes.\nIl semble également avoir trois cœurs et six poumons,\nce qui lui permet de courir très longtemps sans s’épuiser."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Quand une des têtes de Doduo se divise,\nil devient un Dodrio capable de courir à\n60 km/h."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Quand une des têtes de Doduo se divise,\nil devient un Dodrio capable de courir à\n60 km/h."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Dodri",
+    "genus": "Trivogel",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Lässt ein Feind auch nur einen der drei Köpfe\nfür nur eine Sekunde aus den Augen, wird er\nsofort gepickt."
+      },
+      {
+        "game": "xy-y",
+        "text": "Ein seltsames Exemplar, das nur selten gefunden wird.\nDie drei Köpfe repräsentieren Freude, Trauer und Wut."
+      },
+      {
+        "game": "oras-or",
+        "text": "Dodris drei Köpfe blicken in drei verschiedene Richtungen.\nEs ist immer auf der Hut. Du solltest dich diesem Pokémon\nnicht nähern, wenn es bereits misstrauisch ist. Es könnte\nnach dir hacken."
+      },
+      {
+        "game": "oras-as",
+        "text": "Dodri hat nicht nur drei Köpfe, auch andere Körperteile sind\ndreifach vorhanden. Es besitzt drei Herzen und drei Lungen,\nsodass es lange Strecken ohne Pause rennen kann."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Bei der Entwicklung zu Dodri hat sich einer von\nDodus Köpfen in zwei geteilt. Es flitzt mit einer\nGeschwindigkeit von 60 km/h über Wiesen."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Bei der Entwicklung zu Dodri hat sich einer von\nDodus Köpfen in zwei geteilt. Es flitzt mit einer\nGeschwindigkeit von 60 km/h über Wiesen."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Dodrio",
+    "genus": "Pokémon Ave Triple",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Más vale no perder de vista ninguna de las tres\ncabezas. De lo contrario, el número de picotazos\nserá enorme."
+      },
+      {
+        "game": "xy-y",
+        "text": "Es una especie muy rara y difícil de encontrar.\nLas tres cabezas simbolizan la alegría, la tristeza\ny la ira."
+      },
+      {
+        "game": "oras-or",
+        "text": "Según parece, las cabezas no son las únicas partes del\ncuerpo que tiene triplicadas. Dodrio también tiene tres\ncorazones y tres pares de pulmones. Con esta constitución,\npuede correr largas distancias sin cansarse."
+      },
+      {
+        "game": "oras-as",
+        "text": "Según parece, las cabezas no son las únicas partes del\ncuerpo que tiene triplicadas. Dodrio también tiene tres\ncorazones y tres pares de pulmones. Con esta constitución,\npuede correr largas distancias sin cansarse."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Este Pokémon surge al dividirse una de las\ncabezas de Doduo. Es capaz de correr por\nlas praderas a 60 km/h."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Este Pokémon surge al dividirse una de las\ncabezas de Doduo. Es capaz de correr por\nlas praderas a 60 km/h."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Dodrio",
+    "genus": "Pokémon Triuccello",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Occorre fare attenzione a tutte le sue tre teste,\naltrimenti si rischia d’essere colpiti duramente."
+      },
+      {
+        "game": "xy-y",
+        "text": "Pokémon raro e bizzarro. Le sue tre teste\nrappresentano rispettivamente la gioia, la tristezza\ne la rabbia."
+      },
+      {
+        "game": "oras-or",
+        "text": "Se le tre teste di Dodrio guardano in tre direzioni diverse,\nsignifica che il Pokémon è vigile. In questo stato il Pokémon\nnon va avvicinato, poiché potrebbe decidere di attaccare."
+      },
+      {
+        "game": "oras-as",
+        "text": "Pare che Dodrio non abbia soltanto tre teste, ma anche altri\norgani triplici: ha infatti anche tre cuori e sei polmoni che\ngli consentono di percorrere grandi distanze senza sosta."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Un Doduo si evolve in Dodrio quando una\ndelle due teste si divide. Lo si vede sfrecciare\nper le praterie a 60 km/h."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Un Doduo si evolve in Dodrio quando una\ndelle due teste si divide. Lo si vede sfrecciare\nper le praterie a 60 km/h."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Dodrio",
+    "genus": "Triple Bird Pokémon",
+    "flavorText": [
+      {
+        "game": "rb-r",
+        "text": "Uses its three\nbrains to execute\ncomplex plans.\fWhile two heads\nsleep, one head\nstays awake."
+      },
+      {
+        "game": "rb-b",
+        "text": "Uses its three\nbrains to execute\ncomplex plans.\fWhile two heads\nsleep, one head\nstays awake."
+      },
+      {
+        "game": "y",
+        "text": "One of DODUO's 2\nheads splits to\nform a unique\fspecies. It runs\nclose to 40 MPH\nin prairies."
+      },
+      {
+        "game": "gs-g",
+        "text": "It collects data \nand plans three\ntimes as wisely,\fbut it may think\ntoo much and be­\ncome immobilized."
+      },
+      {
+        "game": "gs-s",
+        "text": "If one of the\nheads gets to eat,\nthe others will be\fsatisfied, too,\nand they will stop\nsquabbling."
+      },
+      {
+        "game": "c",
+        "text": "An enemy that\ntakes its eyes off\nany of the three\fheads--even for a\nsecond--will get\npecked severely."
+      },
+      {
+        "game": "rs-r",
+        "text": "Watch out if DODRIO’s three heads are\nlooking in three separate directions.\nIt’s a sure sign that it is on its guard.\fDon’t go near this POKéMON if it’s being\nwary - it may decide to peck you."
+      },
+      {
+        "game": "rs-s",
+        "text": "Apparently, the heads aren’t the only\nparts of the body that DODRIO has\nthree of.\fIt has three sets of hearts and lungs\nas well, so it is capable of running long\ndistances without rest."
+      },
+      {
+        "game": "e",
+        "text": "A peculiar POKéMON species with three\nheads. It vigorously races across grassy\nplains even in arid seasons with little\nrainfall."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "An odd species that is rarely found.\nThe three heads respectively represent\njoy, sadness, and anger."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "Uses its three brains to execute complex\nplans. While two heads sleep, one head is\nsaid to stay awake."
+      },
+      {
+        "game": "dp-d",
+        "text": "When DODUO evolves into this odd\nbreed, one of its heads splits into\ntwo. It runs at nearly 40 mph."
+      },
+      {
+        "game": "dp-p",
+        "text": "When DODUO evolves into this odd\nbreed, one of its heads splits into\ntwo. It runs at nearly 40 mph."
+      },
+      {
+        "game": "pt",
+        "text": "When DODUO evolves into this odd\nbreed, one of its heads splits into\ntwo. It runs at nearly 40 mph."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "It collects data and plans three times\nas wisely, but it may think too much\nand fall into a state of immobility."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "If one of the heads gets to eat,\nthe others will be satisfied, too,\nand they will stop squabbling."
+      },
+      {
+        "game": "bw-b",
+        "text": "When Doduo evolves into this odd\nbreed, one of its heads splits into\ntwo. It runs at nearly 40 mph."
+      },
+      {
+        "game": "bw-w",
+        "text": "When Doduo evolves into this odd\nbreed, one of its heads splits into\ntwo. It runs at nearly 40 mph."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "When Doduo evolves into this odd\nbreed, one of its heads splits into\ntwo. It runs at nearly 40 mph."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "When Doduo evolves into this odd\nbreed, one of its heads splits into\ntwo. It runs at nearly 40 mph."
+      },
+      {
+        "game": "xy-x",
+        "text": "An enemy that takes its eyes off any of the\nthree heads--even for a second--will get\npecked severely."
+      },
+      {
+        "game": "xy-y",
+        "text": "An odd species that is rarely found. The three\nheads respectively represent joy, sadness,\nand anger."
+      },
+      {
+        "game": "oras-or",
+        "text": "Watch out if Dodrio’s three heads are looking in three separate\ndirections. It’s a sure sign that it is on its guard. Don’t go near\nthis Pokémon if it’s being wary—it may decide to peck you."
+      },
+      {
+        "game": "oras-as",
+        "text": "Apparently, the heads aren’t the only parts of the body that\nDodrio has three of. It has three sets of hearts and lungs as\nwell, so it is capable of running long distances without rest."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "One of Doduo’s two heads splits to form\na unique species. It runs close to 40 mph\nin prairies."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "One of Doduo’s two heads splits to form\na unique species. It runs close to 40 mph\nin prairies."
+      }
+    ]
+  },
+  "chs": {
+    "name": "嘟嘟利",
+    "genus": "三头鸟宝可梦",
+    "flavorText": [
+      {
+        "game": "lgpe-lgp",
+        "text": "由嘟嘟的某个头分裂\n出的变种。以60千米的\n时速在草原上奔跑。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "由嘟嘟的某个头分裂\n出的变种。以60千米的\n时速在草原上奔跑。"
+      }
+    ]
+  }
+}

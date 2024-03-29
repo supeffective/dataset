@@ -1,0 +1,269 @@
+{
+  "jap": {
+    "name": "フリージオ",
+    "genus": "けっしょうポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "ゆきぐもの　なかで　うまれた。\nこおりの　けっしょうで　できた\nくさりで　えものを　つかまえる。"
+      },
+      {
+        "game": "xy-y",
+        "text": "こおりの　けっしょうで　できた\nくさりをつかい　えものを　からめとり\nマイナス１００どに　こおらせる。"
+      },
+      {
+        "game": "oras-or",
+        "text": "ゆきぐもの　なかで　うまれた。\nこおりの　けっしょうで　できた\nくさりで　えものを　つかまえる。"
+      },
+      {
+        "game": "oras-as",
+        "text": "こおりの　けっしょうで　できた\nくさりをつかい　えものを　からめとり\nマイナス１００どに　こおらせる。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "こおりで　つくった　くさりを\nあやつって　であった　ものを\nこおらせ　どこかへ　つれさる。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "あつくなると　すいじょうきに\nかわる。　なつばに　すがたを\nみることは　ほとんどない。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Freegeo",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "프리지오",
+    "genus": "결정포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "눈구름 속에서 태어났다.\n얼음 결정으로 만들어진\n사슬로 먹이를 잡는다."
+      },
+      {
+        "game": "xy-y",
+        "text": "얼음 결정으로 만들어진\n사슬로 먹이를 휘감아 잡고\n마이너스 100도로 얼린다."
+      },
+      {
+        "game": "oras-or",
+        "text": "눈구름 속에서 태어났다.\n얼음 결정으로 만들어진\n사슬로 먹이를 잡는다."
+      },
+      {
+        "game": "oras-as",
+        "text": "얼음 결정으로 만들어진\n사슬로 먹이를 휘감아 잡고\n마이너스 100도로 얼린다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "얼음으로 만든 사슬을\n조종하여 만나는 상대를 얼린 후\n어딘가로 데려간다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "뜨거워지면 수증기로 변한다.\n여름철에 모습을\n볼 일은 거의 없다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "幾何雪花",
+    "genus": "結晶寶可夢",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "會操縱用冰做成的鎖鏈\n凍住遇見的獵物，然後\n把牠帶去不知名的地方。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "天氣一熱，就會變成\n水蒸氣。在夏天見到\n牠的機會少之又少。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Hexagel",
+    "genus": "Pokémon Cristal",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Si sa température monte, il se dissipe\nen vapeur d’eau et disparaît. Quand\nelle diminue, il redevient de glace."
+      },
+      {
+        "game": "bw-w",
+        "text": "Né d’un nuage neigeux, il attrape ses\nproies à l’aide de sa chaîne faite\nde cristaux de givre."
+      },
+      {
+        "game": "xy-x",
+        "text": "Né d’un nuage neigeux, il attrape ses proies à l’aide\nde sa chaîne faite de cristaux de givre."
+      },
+      {
+        "game": "xy-y",
+        "text": "Il attrape ses proies à l’aide de sa chaîne faite de\ncristaux de givre et les gèle à près de -100 °C."
+      },
+      {
+        "game": "oras-or",
+        "text": "Né d’un nuage neigeux, il attrape ses proies à l’aide\nde sa chaîne faite de cristaux de givre."
+      },
+      {
+        "game": "oras-as",
+        "text": "Il attrape ses proies à l’aide de sa chaîne faite de cristaux\nde givre et les gèle à près de -100 °C."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Il gèle ceux qu’il croise à l’aide de ses chaînes\nfaites de givre, puis les emmène vers un lieu\ninconnu."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Lorsqu’il fait trop chaud, il s’évapore, ce qui\nexplique pourquoi on ne le voit presque pas\nen été."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Frigometri",
+    "genus": "Kristall-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Es fängt seine Beute mit Ketten, die sich aus\nEiskristallen zusammensetzen. Entstanden ist es\naus einer Schneewolke."
+      },
+      {
+        "game": "xy-y",
+        "text": "Es fängt seine Beute mit Ketten aus Eiskristallen\nund kühlt sie auf eine Temperatur von -100 °C ab."
+      },
+      {
+        "game": "oras-or",
+        "text": "Es fängt seine Beute mit Ketten, die sich aus Eiskristallen\nzusammensetzen. Entstanden ist es aus einer Schneewolke."
+      },
+      {
+        "game": "oras-as",
+        "text": "Es fängt seine Beute mit Ketten aus Eiskristallen und kühlt sie\nauf eine Temperatur von -100 °C ab."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Mit seinen Ketten aus Eis friert es jeden ein,\nder ihm über den Weg läuft. Dann verschleppt\nes sein Opfer an einen unbekannten Ort."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Bei Hitze wird es zu Wasserdampf. Im Sommer\nbekommt man es daher kaum zu Gesicht."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Cryogonal",
+    "genus": "Pokémon Cristal",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Nació entre nubes de nieve. Atrapa a sus presas con\nuna cadena hecha de hielo cristalizado."
+      },
+      {
+        "game": "xy-y",
+        "text": "Usa cadenas de cristales de hielo para atrapar a\nsus presas y congelarlas a temperaturas de hasta\n-100 °C."
+      },
+      {
+        "game": "oras-or",
+        "text": "Nació entre nubes de nieve. Atrapa a sus presas con una\ncadena hecha de hielo cristalizado."
+      },
+      {
+        "game": "oras-as",
+        "text": "Usa cadenas de cristales de hielo para atrapar a sus presas y\ncongelarlas a temperaturas de hasta -100 °C."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Se vale de sus cadenas de hielo para congelar a\ntodo aquel que se cruza en su camino y llevárselo\na un lugar desconocido."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Cuando aumenta su temperatura corporal, se\nconvierte en vapor, por lo que es muy difícil de\navistar durante el verano."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Cryogonal",
+    "genus": "Pokémon Cristallo",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "È nato nelle nuvole cariche di neve. Cattura le prede\ncon una catena fatta di cristalli di ghiaccio."
+      },
+      {
+        "game": "xy-y",
+        "text": "Cattura le sue prede con catene fatte di cristalli di\nghiaccio, poi le congela a una temperatura di -100 °C."
+      },
+      {
+        "game": "oras-or",
+        "text": "È nato nelle nuvole cariche di neve. Cattura le prede\ncon una catena fatta di cristalli di ghiaccio."
+      },
+      {
+        "game": "oras-as",
+        "text": "Cattura le sue prede con catene fatte di cristalli di ghiaccio,\npoi le congela a una temperatura di -100 °C."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Maneggia una catena di ghiaccio, con cui\ncongela e trascina via chiunque incontri."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Quando fa caldo si dissolve in una nuvola\ndi vapore acqueo. Per questo è molto raro\nvederlo in estate."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Cryogonal",
+    "genus": "Crystallizing Pokémon",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "When its body temperature goes up, it\nturns into steam and vanishes. When its\ntemperature lowers, it returns to ice."
+      },
+      {
+        "game": "bw-w",
+        "text": "They are born in snow clouds.\nThey use chains made of\nice crystals to capture prey."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "They are composed of ice crystals.\nThey capture prey with chains of ice,\nfreezing the prey at -148° F."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "They are composed of ice crystals.\nThey capture prey with chains of ice,\nfreezing the prey at -148° F."
+      },
+      {
+        "game": "xy-x",
+        "text": "They are born in snow clouds. They use chains\nmade of ice crystals to capture prey."
+      },
+      {
+        "game": "xy-y",
+        "text": "They are composed of ice crystals. They capture\nprey with chains of ice, freezing the prey at\n-148 degrees Fahrenheit."
+      },
+      {
+        "game": "oras-or",
+        "text": "They are born in snow clouds. They use chains\nmade of ice crystals to capture prey."
+      },
+      {
+        "game": "oras-as",
+        "text": "They are composed of ice crystals. They capture\nprey with chains of ice, freezing the prey at\n-148 degrees Fahrenheit."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "With its icy chains, Cryogonal freezes those it\nencounters. It then takes its victims away to\nsomewhere unknown."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "When the weather gets hot, these Pokémon turn\ninto water vapor. Cryogonal are almost never\nseen during summer."
+      }
+    ]
+  },
+  "chs": {
+    "name": "几何雪花",
+    "genus": "结晶宝可梦",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "操控用冰制成的锁，\n冻住遇到的猎物，\n并把它带去某个地方。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "天气一热就会化为水蒸气。\n到了夏天几乎到处都\n看不到它的踪影。"
+      }
+    ]
+  }
+}

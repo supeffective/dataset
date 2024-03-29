@@ -1,0 +1,413 @@
+{
+  "jap": {
+    "name": "ギガイアス",
+    "genus": "こうあつポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "とりこんだ　たいようこうせんを\nエネルギーコアで　はんのう　させて\nひかりのたまとして　うちだしてくる。"
+      },
+      {
+        "game": "xy-y",
+        "text": "たいないの　コアで　エネルギーを\nあっしゅくして　うちだす　こうげきは\nやまを　ふきとばす　いりょく。"
+      },
+      {
+        "game": "oras-or",
+        "text": "とりこんだ　たいようこうせんを\nエネルギーコアで　はんのう　させて\nひかりのたまとして　うちだしてくる。"
+      },
+      {
+        "game": "oras-as",
+        "text": "たいないの　コアで　エネルギーを\nあっしゅくして　うちだす　こうげきは\nやまを　ふきとばす　いりょく。"
+      },
+      {
+        "game": "sm-s",
+        "text": "たいようこうせんから　つくりだす\nエネルギーだんは　すごい　いりょく。\nただ　よるや　あめのひは　うてない。"
+      },
+      {
+        "game": "sm-m",
+        "text": "かなりの　ばりきを　もっているので\nけんせつかんけいしゃが　このんで\nパートナーに　えらぶ　ポケモンだ。"
+      },
+      {
+        "game": "usum-us",
+        "text": "ぜんりょくで　エネルギーを　うつと\nその　パワーで　じぶんの　からだに\nむすうの　きれつが　はしる。"
+      },
+      {
+        "game": "usum-um",
+        "text": "たいよう　こうせんを　きゅうしゅうし\nエネルギーを　うちだす。　ふだんは\nちちゅうふかくに　みをひそめている。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "たくましいので　こうじげんばや\nさいくつじょうで　ダイオウドウや\nひとと　はたらいて　いることも。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "はれた　ひに　しか　うてないが\nエネルギーだんの　はかいりょくは\nダンプカーも　ふきとばすほど。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Gigaiath",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "기가이어스",
+    "genus": "고압포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "거두어들인 태양광선을\n에너지 코어로 반응시켜\n빛의 구슬로 쏘아낸다."
+      },
+      {
+        "game": "xy-y",
+        "text": "체내의 코어에서 에너지를\n압축하여 쏘아대는 공격은\n산을 날려버릴 만한 위력이다."
+      },
+      {
+        "game": "oras-or",
+        "text": "거두어들인 태양 광선을\n에너지 코어로 반응시켜\n빛의 구슬로 쏘아낸다."
+      },
+      {
+        "game": "oras-as",
+        "text": "체내의 코어에서 에너지를\n압축하여 쏘아대는 공격은\n산을 날려버릴 만한 위력이다."
+      },
+      {
+        "game": "sm-s",
+        "text": "태양광선으로부터 만든\n에너지탄은 엄청난 위력이다.\n하지만 밤과 비 오는 날에는 쏠 수 없다."
+      },
+      {
+        "game": "sm-m",
+        "text": "상당한 체력을 지니고 있어\n건설 관계자가 파트너를\n선택할 때 선호하는 포켓몬이다."
+      },
+      {
+        "game": "usum-us",
+        "text": "전력으로 에너지를 쏘면\n그 파워로 자신의 몸에\n무수한 균열이 생긴다."
+      },
+      {
+        "game": "usum-um",
+        "text": "태양 광선을 흡수해서\n에너지를 쏜다. 평소에는\n땅속 깊은 곳에 몸을 숨기고 있다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "씩씩해서 공사 현장이나\n채굴장에서 대왕끼리동이나\n사람과 함께 일할 때도 있다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "맑은 날에만 쏠 수 있지만\n에너지탄의 파괴력은\n덤프트럭도 날려버릴 정도다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "龐岩怪",
+    "genus": "高壓寶可夢",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "利用太陽光製造出來的\n能量彈威力強大。\n但是晚上和雨天都無法發射。"
+      },
+      {
+        "game": "sm-m",
+        "text": "因為擁有相當大的馬力，\n所以建築相關人員很喜歡\n選擇這個寶可夢當拍檔。"
+      },
+      {
+        "game": "usum-us",
+        "text": "如果全力射出能量，\n強大的力量會讓牠自己的身體\n產生出無數的裂痕。"
+      },
+      {
+        "game": "usum-um",
+        "text": "會吸收太陽的光線，然後\n發射能量。平時都把自己\n藏在地底深處。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "由於擁有健壯的身體，\n有時可以在工地或採石場看到牠\n和大王銅象還有人類一起工作。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "牠射出的能量彈具有\n能擊飛砂石車的破壞力。\n不過只有在晴天才能射擊。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Gigalithe",
+    "genus": "Pokémon Surpression",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Il comprime de l’énergie dans son corps,\net ses attaques sont assez puissantes\npour renverser des montagnes."
+      },
+      {
+        "game": "bw-w",
+        "text": "Il amplifie dans son corps l’énergie du\nsoleil absorbée par ses cristaux orangés\net la projette par la bouche."
+      },
+      {
+        "game": "xy-x",
+        "text": "Il amplifie dans son noyau l’énergie du soleil absorbée\npar son corps et la projette en une boule de lumière."
+      },
+      {
+        "game": "xy-y",
+        "text": "Il comprime de l’énergie dans son corps, et ses\nattaques sont assez puissantes pour renverser des\nmontagnes."
+      },
+      {
+        "game": "oras-or",
+        "text": "Il amplifie dans son noyau l’énergie du soleil absorbée\npar son corps et la projette en une boule de lumière."
+      },
+      {
+        "game": "oras-as",
+        "text": "Il comprime de l’énergie dans son corps, et ses attaques sont\nassez puissantes pour renverser des montagnes."
+      },
+      {
+        "game": "sm-s",
+        "text": "Il absorbe les rayons solaires pour tirer des\nballes d’énergie incroyablement destructrices.\nUne arme inutilisable s’il pleut ou s’il fait nuit."
+      },
+      {
+        "game": "sm-m",
+        "text": "Ce Pokémon jouit d’une force physique\nhors-norme, ce qui fait de lui le meilleur allié\ndes chefs de chantier."
+      },
+      {
+        "game": "usum-us",
+        "text": "D’innombrables fissures se dessinent à\nla surface de son corps lorsqu’il déchaîne\ntoute son énergie."
+      },
+      {
+        "game": "usum-um",
+        "text": "Il peut absorber les rayons du soleil et les\nrejeter sous forme d’énergie, mais il se cache\ngénéralement au plus profond de la terre."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Sa robustesse lui vaut parfois de travailler\nsur les chantiers et dans les carrières\nen compagnie des Hommes et des Pachyradjah."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Il est capable d’envoyer des boules d’énergie\nassez puissantes pour balayer un camion-benne,\nmais il ne peut tirer que les jours ensoleillés."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Brockoloss",
+    "genus": "Kompressions-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Es verarbeitet Sonnenstrahlen in seinem\nEnergiekern zu Lichtkugeln weiter, um sie\nim Kampf auf seinen Gegner abzufeuern."
+      },
+      {
+        "game": "xy-y",
+        "text": "Es kann ganze Berge einebnen, indem es Energie\nentlädt, die es in seinem Kern gesammelt und\nverdichtet hat."
+      },
+      {
+        "game": "oras-or",
+        "text": "Es verarbeitet Sonnenstrahlen in seinem Energiekern zu\nLichtkugeln weiter, um sie im Kampf auf seinen Gegner\nabzufeuern."
+      },
+      {
+        "game": "oras-as",
+        "text": "Es kann ganze Berge einebnen, indem es Energie entlädt,\ndie es in seinem Kern gesammelt und verdichtet hat."
+      },
+      {
+        "game": "sm-s",
+        "text": "Es verarbeitet Sonnenstrahlen zu Energiekugeln\nvon ungeheurer Stärke. Nachts sowie bei Regen\nkann es diese jedoch nicht abfeuern."
+      },
+      {
+        "game": "sm-m",
+        "text": "Es verfügt über gewaltige Stärke und ist\ndeshalb bei Bauarbeitern sehr beliebt.\nDiese wählen es oft als Partner-Pokémon."
+      },
+      {
+        "game": "usum-us",
+        "text": "Wenn es mit geballter Kraft seine gesamte\nEnergie entlädt, führt das dazu, dass sich auf\nseinem Körper unzählige Risse auftun."
+      },
+      {
+        "game": "usum-um",
+        "text": "Es absorbiert Sonnenstrahlen, um sie als Energie\nwieder zu entladen. Üblicherweise versteckt es\nsich tief unter der Erde."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Aufgrund seiner Stärke arbeitet es zusammen mit\nMenschen und Patinaraja öfter mal als Aushilfe\nauf Baustellen oder in Bergwerken."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Seine Energiekugeln können einen Lastwagen\ndurch die Luft schleudern. Diese kann es aber\nnur bei schönem Wetter abfeuern."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Gigalith",
+    "genus": "Pokémon Presurizado",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Absorbe los rayos solares, procesa esa energía en su\nnúcleo y lanza poderosas bolas de luz a sus enemigos."
+      },
+      {
+        "game": "xy-y",
+        "text": "El núcleo de su cuerpo comprime la energía para\nlanzar ataques capaces de destruir una montaña."
+      },
+      {
+        "game": "oras-or",
+        "text": "Absorbe los rayos solares, procesa esa energía en su núcleo\ny lanza poderosas bolas de luz a sus enemigos."
+      },
+      {
+        "game": "oras-as",
+        "text": "El núcleo de su cuerpo comprime la energía para lanzar\nataques capaces de destruir una montaña."
+      },
+      {
+        "game": "sm-s",
+        "text": "Absorbe los rayos solares y los transforma en\npoderosas bolas de energía. Sin embargo, no\npuede hacerlo de noche o en días lluviosos."
+      },
+      {
+        "game": "sm-m",
+        "text": "La soberbia potencia de la que hace gala lo\nconvierte en un ayudante idóneo para todo\ntrabajador de la construcción."
+      },
+      {
+        "game": "usum-us",
+        "text": "Cuando dispara energía con todas sus fuerzas,\nla potencia es tal que le provoca incontables\nfisuras por todo el cuerpo."
+      },
+      {
+        "game": "usum-um",
+        "text": "Absorbe los rayos de sol y los expulsa en forma\nde energía. Suele ocultarse en las profundidades\nsubterráneas."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Su robustez le permite colaborar con humanos\ny Copperajah en labores de construcción y\nminería."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Las bolas de energía que lanza solo en días\nsoleados son tan potentes que pueden hacer\nsaltar un camión por los aires."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Gigalith",
+    "genus": "Pokémon Pressionalta",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Assorbe i raggi solari e, grazie al suo nucleo\nenergetico, li trasforma in palle di luce che poi spara."
+      },
+      {
+        "game": "xy-y",
+        "text": "Comprime l’energia nel suo nucleo interno per poi\nspararla con una potenza che può spazzare via anche\nle montagne."
+      },
+      {
+        "game": "oras-or",
+        "text": "Assorbe i raggi solari e, grazie al suo nucleo energetico,\nli trasforma in palle di luce che poi spara."
+      },
+      {
+        "game": "oras-as",
+        "text": "Comprime l’energia nel suo nucleo interno per poi spararla\ncon una potenza che può spazzare via anche le montagne."
+      },
+      {
+        "game": "sm-s",
+        "text": "Assorbe l’energia solare e la usa per sparare\npotentissime sfere di energia. Questa capacità\ndiventa inutile di notte e nei giorni di pioggia."
+      },
+      {
+        "game": "sm-m",
+        "text": "La grande forza di questo Pokémon lo rende\nun partner ideale nei lavori di edilizia."
+      },
+      {
+        "game": "usum-us",
+        "text": "Quando spara energia con tutte le sue forze,\nla potenza è tale da causare numerose fessure\nsul suo corpo."
+      },
+      {
+        "game": "usum-um",
+        "text": "Assorbe i raggi solari e li converte in energia\nper poi spararla. Tuttavia, in genere si rifugia\nnelle viscere della terra."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "È molto robusto e per questo a volte lavora\nassieme a uomini e Copperajah nell’edilizia\ne nell’estrazione mineraria."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "La potenza delle sue sfere di energia è tale da\nspazzare via un camion. Tuttavia, può spararle\nsolo nei giorni di sole."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Gigalith",
+    "genus": "Compressed Pokémon",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Compressing the energy from its\ninternal core lets it fire off an attack\ncapable of blowing away a mountain."
+      },
+      {
+        "game": "bw-w",
+        "text": "The solar energy absorbed by its body’s\norange crystals is magnified internally\nand fired from its mouth."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "The solar rays it absorbs are\nprocessed in its energy core\nand fired as a ball of light."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "The solar rays it absorbs are\nprocessed in its energy core\nand fired as a ball of light."
+      },
+      {
+        "game": "xy-x",
+        "text": "The solar rays it absorbs are processed in its\nenergy core and fired as a ball of light."
+      },
+      {
+        "game": "xy-y",
+        "text": "Compressing the energy from its internal core\nlets it fire off an attack capable of blowing away\na mountain."
+      },
+      {
+        "game": "oras-or",
+        "text": "The solar rays it absorbs are processed in its\nenergy core and fired as a ball of light."
+      },
+      {
+        "game": "oras-as",
+        "text": "Compressing the energy from its internal core\nlets it fire off an attack capable of blowing away\na mountain."
+      },
+      {
+        "game": "sm-s",
+        "text": "The blasts of energy it makes from sunbeams\nhave terrifying power. However, it’s not able to\nfire its blasts at night or on rainy days."
+      },
+      {
+        "game": "sm-m",
+        "text": "Known for its hefty horsepower, this Pokémon\nis a popular partner for construction workers."
+      },
+      {
+        "game": "usum-us",
+        "text": "When it fires off energy with all its might, the\npower creates countless fissures on its body."
+      },
+      {
+        "game": "usum-um",
+        "text": "It absorbs rays of sunlight and shoots out\nenergy. It’s usually lurking deep beneath\nthe surface."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "This hardy Pokémon can often be found on\nconstruction sites and in mines, working\nalongside people and Copperajah."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Although its energy blasts can blow away\na dump truck, they have a limitation—\nthey can only be fired when the sun is out."
+      }
+    ]
+  },
+  "chs": {
+    "name": "庞岩怪",
+    "genus": "高压宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "从太阳光线中造出来的\n能量弹威力巨大。\n但是晚上和雨天无法射击。"
+      },
+      {
+        "game": "sm-m",
+        "text": "因为拥有相当大的马力，\n所以是深受建设相关人员喜爱，\n被选作同伴的宝可梦。"
+      },
+      {
+        "game": "usum-us",
+        "text": "如果以全力射出能量，\n那力量能让它自己的身体\n骤然产生出无数裂缝。"
+      },
+      {
+        "game": "usum-um",
+        "text": "吸收太阳的光线，射出能量。\n平常都把身体藏在地底深处。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "由于拥有健壮的身体，\n有时可以在工地或采石场看到它\n和大王铜象还有人类一起工作。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "它射出的能量弹具有\n可以击飞翻斗车的破坏力。\n不过只有在晴天才能射击。"
+      }
+    ]
+  }
+}

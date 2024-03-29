@@ -1,0 +1,239 @@
+{
+  "jap": {
+    "name": "アゲハント",
+    "genus": "ちょうちょポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "いろ　あざやかな　はねの　もようが\nとくちょう。ほそい　くちを　のばして\nはなの　あまい　ミツを　すいとる。"
+      },
+      {
+        "game": "xy-y",
+        "text": "ほそながい　くちを　つきさして\nあいての　たいえきを　すいとる。\nこうげきてきな　せいかく。"
+      },
+      {
+        "game": "oras-or",
+        "text": "あまい　かふんが　だいこうぶつの　ポケモン。\nはなを　つけた　はちうえを　まどべに　おけば\nかふんを　あつめに　かならず　とんでくるよ。"
+      },
+      {
+        "game": "oras-as",
+        "text": "くるりと　まいた　はりの　ような　ながい　くちは\nかふんを　あつめる　ときに　とても　べんり。\nはるかぜに　のって　かふんを　あつめて　まわる。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Agehunt",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "뷰티플라이",
+    "genus": "나비포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "색이 선명한 날개의 무늬가\n특징이다. 가는 입을 뻗어\n꽃의 달콤한 꿀을 흡수한다."
+      },
+      {
+        "game": "xy-y",
+        "text": "가늘고 긴 입을 깊이 찔러\n상대의 체액을 흡수한다.\n공격적인 성격이다."
+      },
+      {
+        "game": "oras-or",
+        "text": "달콤한 꽃가루를 매우 좋아하는 포켓몬이다.\n꽃이 핀 화분을 창가에 두면\n꽃가루를 모으려고 반드시 날아온다."
+      },
+      {
+        "game": "oras-as",
+        "text": "둥글게 말린 바늘같이 생긴 긴 입은\n꽃가루를 모을 때 매우 편리하다.\n봄바람을 타고 꽃가루를 모으러 돌아다닌다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "狩獵鳳蝶",
+    "genus": "蝴蝶寶可夢",
+    "flavorText": []
+  },
+  "fra": {
+    "name": "Charmillon",
+    "genus": "Pokémon Papillon",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Malgré les apparences, il est très\nagressif et attaque avec sa trompe\nquand on le dérange."
+      },
+      {
+        "game": "bw-w",
+        "text": "Malgré les apparences, il est très\nagressif et attaque avec sa trompe\nquand on le dérange."
+      },
+      {
+        "game": "xy-x",
+        "text": "Réputé pour les motifs de ses ailes aux couleurs vives.\nIl allonge sa trompe pour butiner le nectar."
+      },
+      {
+        "game": "xy-y",
+        "text": "Il est très agressif. Il pique sa proie avec son long\nmuseau étroit et absorbe sa vitalité."
+      },
+      {
+        "game": "oras-or",
+        "text": "La nourriture préférée de Charmillon est le pollen sucré\ndes fleurs. Si on veut voir ce Pokémon, il suffit de laisser\nune fleur en pot sur un rebord de fenêtre. Charmillon viendra\nsûrement voir s’il y a du pollen."
+      },
+      {
+        "game": "oras-as",
+        "text": "Charmillon a une longue trompe en spirale, particulièrement\npratique pour récupérer le pollen des fleurs. Ce Pokémon\nse laisse porter par les vents printaniers pendant qu’il butine."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Papinella",
+    "genus": "Falter",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Die bunten Flügel sind sein Markenzeichen.\nMit seinem Rüssel saugt es süßen Honig aus Blumen."
+      },
+      {
+        "game": "xy-y",
+        "text": "Es besitzt ein aggressives Wesen. Es sticht seinen\nRüssel in seine Beute und saugt sie aus."
+      },
+      {
+        "game": "oras-or",
+        "text": "Papinellas Lieblingsspeise ist Blütenstaub. Wenn du dieses\nPokémon beobachten möchtest, musst du bloß einen\nBlumentopf vor ein geöffnetes Fenster stellen. Papinella\nwird sich diese Leckerei nicht entgehen lassen."
+      },
+      {
+        "game": "oras-as",
+        "text": "Papinella hat einen langen Rüssel, der hervorragend zum\nSammeln von Blütenpollen geeignet ist. Dieses Pokémon\nflattert im Frühlingswind herum und sammelt Blütenstaub."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Beautifly",
+    "genus": "Pokémon Mariposa",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Los dibujos de sus coloridas alas son muy peculiares.\nLiba el néctar de las flores con su fina trompa."
+      },
+      {
+        "game": "xy-y",
+        "text": "Es un Pokémon agresivo. Con su boca larga y afilada\nataca a sus rivales para drenar sus fluidos."
+      },
+      {
+        "game": "oras-or",
+        "text": "La comida favorita de Beautifly es el dulce polen de las flores.\nSi quieres ver a este Pokémon, deja una maceta con flores al\nlado de la ventana y verás cómo aparece un ejemplar de\nBeautifly en busca de polen."
+      },
+      {
+        "game": "oras-as",
+        "text": "Beautifly tiene una boca enorme en espiral que parece una\naguja y le resulta muy útil para recolectar polen. Este\nPokémon va revoloteando de flor en flor para recogerlo."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Beautifly",
+    "genus": "Pokémon Farfalla",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Sulle ali ha splendidi, vividi colori. Succhia il dolce\npolline dai fiori allungando la bocca sottile."
+      },
+      {
+        "game": "xy-y",
+        "text": "Ha un’indole aggressiva. Conficca la sua bocca\nlunga e sottile nelle prede e ne succhia i fluidi."
+      },
+      {
+        "game": "oras-or",
+        "text": "Il nutrimento preferito da Beautifly è il polline dei fiori.\nPer attirare questo Pokémon basta mettere una pianta fiorita\nsul davanzale: senza dubbio si avvicinerà in cerca di polline."
+      },
+      {
+        "game": "oras-as",
+        "text": "La bocca di Beautifly è costituita da un ago spiraliforme, molto\nutile per succhiare il polline dai fiori. Questo Pokémon si\nfa trasportare dal vento nei suoi viaggi alla ricerca del polline."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Beautifly",
+    "genus": "Butterfly Pokémon",
+    "flavorText": [
+      {
+        "game": "rs-r",
+        "text": "BEAUTIFLY’s favorite food is the sweet\npollen of flowers. If you want to see\nthis POKéMON, just leave a potted\fflower by an open window. BEAUTIFLY\nis sure to come looking for pollen."
+      },
+      {
+        "game": "rs-s",
+        "text": "BEAUTIFLY has a long mouth like a coiled\nneedle, which is very convenient for\ncollecting pollen from flowers.\fThis POKéMON rides the spring winds as\nit flits around gathering pollen."
+      },
+      {
+        "game": "e",
+        "text": "Its colorfully patterned wings are its\nmost prominent feature. It flies through\nflower-covered fields collecting pollen.\nIt attacks ferociously when angered."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "Despite its appearance, it has an\naggressive nature. It attacks by jabbing\nwith its long, thin mouth."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "Despite its appearance, it has an\naggressive nature. It attacks by jabbing\nwith its long, thin mouth."
+      },
+      {
+        "game": "dp-d",
+        "text": "It has an aggressive nature. It\nstabs prey with its long, narrow\nmouth to drain the prey’s fluids."
+      },
+      {
+        "game": "dp-p",
+        "text": "When flower fields bloom, it flits\naround, collecting pollen. Despite\nits appearance, it is savage."
+      },
+      {
+        "game": "pt",
+        "text": "Despite its looks, it is aggressive.\nIt jabs with its long, thin mouth if\ndisturbed while collecting pollen."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "Vibrantly patterned wings are its\nprominent feature. It sucks sweet\nflower nectar with its long mouth."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "Vibrantly patterned wings are its\nprominent feature. It sucks sweet\nflower nectar with its long mouth."
+      },
+      {
+        "game": "bw-b",
+        "text": "Despite its looks, it is aggressive.\nIt jabs with its long, thin mouth if\ndisturbed while collecting pollen."
+      },
+      {
+        "game": "bw-w",
+        "text": "Despite its looks, it is aggressive.\nIt jabs with its long, thin mouth if\ndisturbed while collecting pollen."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "Despite its looks, it is aggressive.\nIt jabs with its long, thin mouth if\ndisturbed while collecting pollen."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "Despite its looks, it is aggressive.\nIt jabs with its long, thin mouth if\ndisturbed while collecting pollen."
+      },
+      {
+        "game": "xy-x",
+        "text": "Vibrantly patterned wings are its prominent feature.\nIt sucks sweet flower nectar with its long mouth."
+      },
+      {
+        "game": "xy-y",
+        "text": "It has an aggressive nature. It stabs prey with its\nlong, narrow mouth to drain the prey’s fluids."
+      },
+      {
+        "game": "oras-or",
+        "text": "Beautifly’s favorite food is the sweet pollen of flowers. If you\nwant to see this Pokémon, just leave a potted flower by an\nopen window. Beautifly is sure to come looking for pollen."
+      },
+      {
+        "game": "oras-as",
+        "text": "Beautifly has a long mouth like a coiled needle, which is very\nconvenient for collecting pollen from flowers. This Pokémon\nrides the spring winds as it flits around gathering pollen."
+      },
+      {
+        "game": "la",
+        "text": "A colorful and incredibly beautiful but also greedy Pokémon.\nIn an effort to keep its favorite food all to itself, it will chase\naway Combee as they try to gather nectar."
+      }
+    ]
+  },
+  "chs": {
+    "name": "狩猎凤蝶",
+    "genus": "蝴蝶宝可梦",
+    "flavorText": []
+  }
+}

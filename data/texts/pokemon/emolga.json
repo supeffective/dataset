@@ -1,0 +1,413 @@
+{
+  "jap": {
+    "name": "エモンガ",
+    "genus": "モモンガポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "もりの　きのうえで　くらす。\nマントのような　まくの　うちがわを\nほうでん　させながら　かっくうする。"
+      },
+      {
+        "game": "xy-y",
+        "text": "ほほの　でんきぶくろで　つくった\nでんきを　まくの　うちがわに　ためて\nかっくうしながら　でんきを　はなつ。"
+      },
+      {
+        "game": "oras-or",
+        "text": "もりの　きのうえで　くらす。\nマントのような　まくの　うちがわを\nほうでん　させながら　かっくうする。"
+      },
+      {
+        "game": "oras-as",
+        "text": "ほほの　でんきぶくろで　つくった\nでんきを　まくの　うちがわに　ためて\nかっくうしながら　でんきを　はなつ。"
+      },
+      {
+        "game": "sm-s",
+        "text": "マントのような　まくで　かっくう。\nでんきを　まきちらして　てきも\nみかたも　かんでん　させまくる。"
+      },
+      {
+        "game": "sm-m",
+        "text": "でんげきで　きのみや　むしポケモンを\nこんがり　やいて　くう。　ツツケラが\nあけた　きのあなが　おもな　すだ。"
+      },
+      {
+        "game": "usum-us",
+        "text": "でんきを　たくわえ　そらを　とぶ。\nかみなりが　とどろく　まよなかには\nそらを　うめつくすほど　いることも。"
+      },
+      {
+        "game": "usum-um",
+        "text": "でんきを　まきちらしながら　とぶので\nとりポケモンたちが　ちかづかない。\nおかげで　エサを　ひとりじめできる。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "でんきを　ほとばしらせながら\nそらを　まうように　とぶ。\nかわいいが　やっかいなのだ。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "あまい　きのみが　だいこうぶつ。\nほおぶくろに　エサを　ためすぎ\nうまく　とべないときも　ある。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Emonga",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "에몽가",
+    "genus": "하늘다람쥐포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "숲의 나무 위에 산다.\n망토 같은 막의 안쪽을\n방전시키며 활공한다."
+      },
+      {
+        "game": "xy-y",
+        "text": "볼의 전기 주머니에서 만든\n전기를 막 안쪽에 모아\n활공하며 전기를 발산한다."
+      },
+      {
+        "game": "oras-or",
+        "text": "숲의 나무 위에 산다.\n망토 같은 막의 안쪽을\n방전시키며 활공한다."
+      },
+      {
+        "game": "oras-as",
+        "text": "볼의 전기 주머니에서 만든\n전기를 막 안쪽에 모아\n활공하며 전기를 발산한다."
+      },
+      {
+        "game": "sm-s",
+        "text": "망토 같은 막으로 활공한다.\n전기를 흩뿌려서 적도\n자기편도 전부 감전시킨다."
+      },
+      {
+        "game": "sm-m",
+        "text": "전격으로 나무열매나 벌레포켓몬을\n알맞게 구워서 먹는다. 콕코구리가\n뚫은 나무 구멍이 주된 서식지다."
+      },
+      {
+        "game": "usum-us",
+        "text": "전기를 모아 하늘을 난다.\n천둥이 치는 한밤중에는\n하늘을 가득 메울 정도로 많다."
+      },
+      {
+        "game": "usum-um",
+        "text": "전기를 흩뿌리면서 날기 때문에\n새포켓몬들이 다가오지 않는다.\n덕분에 먹이를 독차지할 수 있다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "전기를 내뿜으며\n하늘을 춤추듯이 난다.\n귀엽지만 성가시다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "달콤한 나무열매를 매우 좋아한다.\n볼주머니에 먹이를 너무 많이 넣어\n잘 날지 못할 때도 있다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "電飛鼠",
+    "genus": "飛鼠寶可夢",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "用斗篷一樣的翼膜滑翔。\n到處散布電流，\n讓敵人和同伴都紛紛觸電。"
+      },
+      {
+        "game": "sm-m",
+        "text": "會用電擊將樹果和蟲寶可夢\n烤得恰到好處後再吃掉。\n主要是把小篤兒挖出的樹洞當成巢穴。"
+      },
+      {
+        "game": "usum-us",
+        "text": "蓄著電在空中飛行。\n在雷電交加的深夜裡，牠們甚至\n會密密麻麻地佈滿整個天空。"
+      },
+      {
+        "game": "usum-um",
+        "text": "會一邊到處放電一邊飛行，\n所以鳥寶可夢們不會靠近牠，\n這讓牠可以獨佔食物。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "會一邊放電一邊像是\n在空中跳舞般地飛行。\n雖然可愛，但很難纏。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "最喜歡甜甜的樹果。有時會\n因為在頰囊裡儲存了太多食物，\n結果讓自己無法好好飛行。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Emolga",
+    "genus": "Pokémon Pteromys",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Il accumule dans ses membranes\nl’électricité qu’il produit dans ses\nbajoues, et la relâche tout en planant."
+      },
+      {
+        "game": "bw-w",
+        "text": "Il vit au sommet des arbres de la forêt.\nIl plane en déchargeant l’électricité de\nses membranes semblables à une cape."
+      },
+      {
+        "game": "xy-x",
+        "text": "Il vit au sommet des arbres de la forêt. Il plane en\ndéchargeant l’électricité de ses membranes\nsemblables à une cape."
+      },
+      {
+        "game": "xy-y",
+        "text": "Il accumule dans ses membranes l’électricité qu’il\nproduit dans ses bajoues, et la relâche tout en\nplanant."
+      },
+      {
+        "game": "oras-or",
+        "text": "Il vit au sommet des arbres de la forêt. Il plane en déchargeant\nl’électricité de ses membranes semblables à une cape."
+      },
+      {
+        "game": "oras-as",
+        "text": "Il accumule dans ses membranes l’électricité qu’il produit\ndans ses bajoues, et la relâche tout en planant."
+      },
+      {
+        "game": "sm-s",
+        "text": "Telle une cape de super-héros, sa membrane\nde peau lui permet de planer. Il décharge alors\nson électricité sur ses ennemis... et ses alliés."
+      },
+      {
+        "game": "sm-m",
+        "text": "L’électricité lui sert à griller à point fruits et\nPokémon Insecte. Il fait généralement son nid\ndans les arbres creusés par les Picassaut."
+      },
+      {
+        "game": "usum-us",
+        "text": "Il plane dans les airs une fois qu’il est chargé en\nélectricité. Les nuits où le tonnerre gronde, des\ncentaines d’Emolga se regroupent dans le ciel."
+      },
+      {
+        "game": "usum-um",
+        "text": "Les Pokémon oiseaux ne s’approchent pas de lui\ncar il décharge de l’électricité en planant. Il peut\ndonc garder sa nourriture pour lui tout seul."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Il virevolte dans le ciel en libérant des gerbes\nd’électricité. Son vol est gracieux, mais peut\ns’avérer dangereux."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Les Baies sucrées sont son péché mignon.\nIl lui arrive d’en conserver beaucoup trop dans\nses bajoues, ce qui l’empêche de bien planer."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Emolga",
+    "genus": "Flughörnchen-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Lebt in den Wipfeln der Waldbäume. Während es\ndurch die Lüfte gleitet, entlädt es Strom aus seinen\nFluglappen."
+      },
+      {
+        "game": "xy-y",
+        "text": "Im Flug entlädt es Strom, den es mit seinen\nBackentaschen erzeugt und in seinen Fluglappen\ngespeichert hat."
+      },
+      {
+        "game": "oras-or",
+        "text": "Lebt in den Wipfeln der Waldbäume. Während es durch die\nLüfte gleitet, entlädt es Strom aus seinen Fluglappen."
+      },
+      {
+        "game": "oras-as",
+        "text": "Im Flug entlädt es Strom, den es mit seinen Backentaschen\nerzeugt und in seinen Fluglappen gespeichert hat."
+      },
+      {
+        "game": "sm-s",
+        "text": "Es gleitet mit seinen Fluglappen, die einem Cape\nähneln, durch die Luft. Es entlädt ständig Strom,\nder Freund und Feind Stromschläge verpasst."
+      },
+      {
+        "game": "sm-m",
+        "text": "Mit Strom röstet es Beeren und Käfer-Pokémon,\nbevor es sie frisst. Es lebt hauptsächlich in\nBaumhöhlen, die von Peppeck gemeißelt wurden."
+      },
+      {
+        "game": "usum-us",
+        "text": "Es speichert Strom, um damit durch die Lüfte\nzu segeln. Ein nächtliches Blitzgewitter stellt\nsich manchmal als ein Schwarm Emolga heraus."
+      },
+      {
+        "game": "usum-um",
+        "text": "Vogel-Pokémon halten sich von ihm fern, da es\nim Flug Strom entlädt. Frei von Konkurrenz kann\nes seine Beute so für sich allein beanspruchen."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Emolga fliegt anmutig durch die Lüfte und\nentlädt dabei Strom. Es ist zwar niedlich,\nkann aber auch für viel Ärger sorgen."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Emolga liebt süße Beeren. Manchmal hortet es\nso viel Futter in seinen Backentaschen, dass es\nnicht mehr richtig fliegen kann."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Emolga",
+    "genus": "Pokémon Vuelardilla",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Vive en la copa de los árboles. Produce descargas\nmientras vuela con el interior de la membrana que hace\nde capa."
+      },
+      {
+        "game": "xy-y",
+        "text": "Almacena en una membrana la electricidad generada\npor sus mejillas y planea por los aires soltando\ndescargas."
+      },
+      {
+        "game": "oras-or",
+        "text": "Vive en la copa de los árboles. Produce descargas mientras\nvuela con el interior de la membrana que hace de capa."
+      },
+      {
+        "game": "oras-as",
+        "text": "Almacena en una membrana la electricidad generada por sus\nmejillas y planea por los aires soltando descargas."
+      },
+      {
+        "game": "sm-s",
+        "text": "Planea con su membrana, que hace las veces de\ncapa. La electricidad que despide electrocuta\nsin distinción a enemigos y aliados."
+      },
+      {
+        "game": "sm-m",
+        "text": "Suelta una descarga eléctrica para achicharrar\nbayas o Pokémon insecto. Suele habitar los\nnidos que los Pikipek horadan en los árboles."
+      },
+      {
+        "game": "usum-us",
+        "text": "Se carga de electricidad y se echa a volar.\nDurante las noches de tormenta eléctrica se los\nve a centenares surcando el cielo."
+      },
+      {
+        "game": "usum-um",
+        "text": "Desprende descargas eléctricas mientras vuela,\npor lo que los Pokémon pájaro no se le acercan,\ny así puede quedarse la comida para él solo."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Planea por el aire, casi como si danzara, mientras\ndesprende electricidad. Resulta adorable, pero\npuede causar bastantes problemas."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Le encantan las bayas dulces. A veces almacena\ntanta comida en los carrillos que no puede volar\nbien."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Emolga",
+    "genus": "Pokémon Petauro",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Vive nelle foreste sulle cime degli alberi. Plana\nusando una membrana simile a un mantello,\nelettrificata all’interno."
+      },
+      {
+        "game": "xy-y",
+        "text": "Accumula nelle membrane l’elettricità che produce\nall’interno delle guance, poi la rilascia planando."
+      },
+      {
+        "game": "oras-or",
+        "text": "Vive nelle foreste sulle cime degli alberi. Plana usando\nuna membrana simile a un mantello, elettrificata all’interno."
+      },
+      {
+        "game": "oras-as",
+        "text": "Accumula nelle membrane l’elettricità che produce all’interno\ndelle guance, poi la rilascia planando."
+      },
+      {
+        "game": "sm-s",
+        "text": "Si serve della membrana simile a un mantello\nper planare. Emana scariche elettriche che\npossono colpire nemici e alleati."
+      },
+      {
+        "game": "sm-m",
+        "text": "Arrostisce bacche e Pokémon Coleottero con\nscariche elettriche per poi mangiarli. Fa il nido\nnei buchi degli alberi fatti da Pikipek."
+      },
+      {
+        "game": "usum-us",
+        "text": "Si carica di energia e si alza in volo.\nNelle notti di fulmini e tempesta, questi Pokémon\nsono così numerosi da invadere tutto il cielo."
+      },
+      {
+        "game": "usum-um",
+        "text": "Vola emettendo scariche elettriche che tengono\nalla larga gli altri Pokémon alati, e per questo\nnon fa molta fatica a procurarsi il cibo."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Vola nei cieli come danzando mentre sprigiona\nelettricità. È molto grazioso, ma può creare dei\nfastidi."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Va ghiotto di bacche dolci. A volte accumula\ntroppo cibo nelle guance e fa fatica a volare."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Emolga",
+    "genus": "Sky Squirrel Pokémon",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "The energy made in its cheeks’ electric\npouches is stored inside its membrane\nand released while it is gliding."
+      },
+      {
+        "game": "bw-w",
+        "text": "They live on treetops and glide using\nthe inside of a cape-like membrane\nwhile discharging electricity."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "It glides on its outstretched membrane\nwhile shocking foes with the electricity\nstored in the pouches on its cheeks."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "It glides on its outstretched membrane\nwhile shocking foes with the electricity\nstored in the pouches on its cheeks."
+      },
+      {
+        "game": "xy-x",
+        "text": "They live on treetops and glide using the inside of\na cape-like membrane while discharging electricity."
+      },
+      {
+        "game": "xy-y",
+        "text": "The energy made in its cheeks’ electric pouches is\nstored inside its membrane and released while it\nis gliding."
+      },
+      {
+        "game": "oras-or",
+        "text": "They live on treetops and glide using the inside of\na cape-like membrane while discharging electricity."
+      },
+      {
+        "game": "oras-as",
+        "text": "The energy made in its cheeks’ electric pouches is\nstored inside its membrane and released while it\nis gliding."
+      },
+      {
+        "game": "sm-s",
+        "text": "It glides using its cape-like membrane.\nElectrical energy scatters from it, shocking\nits friends and foes alike."
+      },
+      {
+        "game": "sm-m",
+        "text": "It grills berries and bug Pokémon with electric\nshocks and makes a meal of them. It usually\nnests in the holes gouged in trees by Pikipek."
+      },
+      {
+        "game": "usum-us",
+        "text": "They store up electricity to fly through the air.\nWhen thunder cracks at night, sometimes there\nare almost enough of them to blot out the sky."
+      },
+      {
+        "game": "usum-um",
+        "text": "As it flies, it scatters electricity around, so bird\nPokémon keep their distance. That’s why\nEmolga can keep all its food to itself."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "As Emolga flutters through the air, it crackles\nwith electricity. This Pokémon is cute, but it can\ncause a lot of trouble."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "This Pokémon absolutely loves sweet berries.\nSometimes it stuffs its cheeks full of so much\nfood that it can’t fly properly."
+      }
+    ]
+  },
+  "chs": {
+    "name": "电飞鼠",
+    "genus": "飞鼠宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "用斗篷一样的膜滑翔。\n到处放电，\n让敌人和同伴都纷纷触电。"
+      },
+      {
+        "game": "sm-m",
+        "text": "用电击将树果和虫宝可梦\n烧得刚刚好后再吃掉。\n以小笃儿啄空的树洞为主要巢穴。"
+      },
+      {
+        "game": "usum-us",
+        "text": "蓄着电在空中飞行。\n有时甚至会在雷鸣的深夜里，\n密密麻麻布满整个天空。"
+      },
+      {
+        "game": "usum-um",
+        "text": "一边到处放电一边飞翔，\n因此鸟宝可梦们都不会靠近。\n得益于此，可以独占食物。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "一边放电一边如舞蹈般\n在空中飞翔。虽然很可爱，\n但是很难对付。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "最喜欢甜甜的树果。有时也会\n因为在脸颊的袋子里囤了太多\n食物而无法好好飞行。"
+      }
+    ]
+  }
+}

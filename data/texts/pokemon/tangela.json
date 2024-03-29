@@ -1,0 +1,409 @@
+{
+  "jap": {
+    "name": "モンジャラ",
+    "genus": "ツルじょうポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "たくさんの　うごめく　ツルに\nおおわれて　しょうたいふめい。\nあおいツルは　いっしょう　のびる。"
+      },
+      {
+        "game": "xy-y",
+        "text": "うごくものに　ツルを　からめる。\nツルは　びみょうに　ゆれているので\nからみつかれると　くすぐったい。"
+      },
+      {
+        "game": "oras-or",
+        "text": "てきに　つかまれると　ツルは　ぷちっと　きれる。\nぜんぜん　いたくないので　その　スキに　にげる。\nよくじつには　あたらしい　ツルが　はえそろうぞ。"
+      },
+      {
+        "game": "oras-as",
+        "text": "てきに　つかまれると　ツルは　ぷちっと　きれる。\nぜんぜん　いたくないので　その　スキに　にげる。\nよくじつには　あたらしい　ツルが　はえそろうぞ。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "からだが　あおいツルに　おおわれて\nしょうたいは　わからない。\nツルは　ずっと　のびつづけるという。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "からだが　あおいツルに　おおわれて\nしょうたいは　わからない。\nツルは　ずっと　のびつづけるという。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "ちぎれても　むげんに　のびる\nツルの　おくの　しょうたいは\nいまだ　かいめいされていない。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "ツルは　どくとくの　かおりがする。\nガラルの　いちぶの　ちいきでは\nハーブとして　つかわれている。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Monjara",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "덩쿠리",
+    "genus": "넝쿨포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "수많은 움직이는 덩굴에\n둘러싸여 정체불명이다.\n파란 덩굴은 평생 자란다."
+      },
+      {
+        "game": "xy-y",
+        "text": "움직이는 것에 덩굴을 감는다.\n덩굴은 미묘하게 흔들리기 때문에\n휘감기면 간지럽다."
+      },
+      {
+        "game": "oras-or",
+        "text": "적에게 붙잡히면 덩굴이 뚝 하고 끊긴다.\n전혀 아프지 않기 때문에 그 틈에 도망간다.\n다음 날에는 새로운 덩굴이 자란다."
+      },
+      {
+        "game": "oras-as",
+        "text": "적에게 붙잡히면 덩굴이 뚝 하고 끊긴다.\n전혀 아프지 않기 때문에 그 틈에 도망간다.\n다음 날에는 새로운 덩굴이 자란다."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "몸이 파란 덩굴에 싸여 있어\n정체를 알 수 없다.\n덩굴은 계속해서 자란다고 한다."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "몸이 파란 덩굴에 싸여 있어\n정체를 알 수 없다.\n덩굴은 계속해서 자란다고 한다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "잘려도 잘려도 무한으로 늘어나는\n덩굴 속의 정체는\n아직 밝혀지지 않았다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "덩굴은 독특한 향이 난다.\n가라르 일부 지역에서는\n허브로 사용되고 있다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "蔓藤怪",
+    "genus": "藤蔓狀寶可夢",
+    "flavorText": [
+      {
+        "game": "lgpe-lgp",
+        "text": "身體被藍色的藤蔓裹著，\n沒有人知道牠的真面目。\n據說藤蔓會持續不斷生長。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "身體被藍色的藤蔓裹著，\n沒有人知道牠的真面目。\n據說藤蔓會持續不斷生長。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "藤蔓即使斷了也會繼續\n無限地生長。藤蔓下的\n真面目至今仍是個謎。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "藤蔓散發著獨特的香氣。\n在伽勒爾的部分地區\n會被當作香草使用。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Saquedeneu",
+    "genus": "Pokémon Vigne",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Il se cache derrière des lianes\nbleues recouvertes d’un fin duvet.\nIl est chatouilleux."
+      },
+      {
+        "game": "bw-w",
+        "text": "Il se cache derrière des lianes\nbleues recouvertes d’un fin duvet.\nIl est chatouilleux."
+      },
+      {
+        "game": "xy-x",
+        "text": "Ses lianes s’allongent au fil du temps.\nElles recouvrent tout son corps, dont on ignore\nla véritable forme."
+      },
+      {
+        "game": "xy-y",
+        "text": "Il paralyse tout ce qui bouge avec ses lianes.\nElles vous chatouillent si vous êtes capturé."
+      },
+      {
+        "game": "oras-or",
+        "text": "Les lianes de Saquedeneu se brisent facilement lorsqu’on\nles attrape. Cela ne lui fait pas mal et lui permet simplement\nde s’échapper rapidement. Les lianes cassées repoussent\nle lendemain."
+      },
+      {
+        "game": "oras-as",
+        "text": "Les lianes de Saquedeneu se brisent facilement lorsqu’on\nles attrape. Cela ne lui fait pas mal et lui permet simplement\nde s’échapper rapidement. Les lianes cassées repoussent\nle lendemain."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Son corps est masqué par une masse épaisse\nde lianes bleues qui poussent en permanence."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Son corps est masqué par une masse épaisse\nde lianes bleues qui poussent en permanence."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "On ne sait toujours pas ce qui se cache\nsous ses lianes. Même si on les coupe,\nelles repoussent à l’infini."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Ses lianes ont une odeur particulière.\nElles servent d’herbes aromatiques\ndans une certaine zone de Galar."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Tangela",
+    "genus": "Ranken-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Aufgrund der Ranken, die seinen Körper bedecken,\nkennt keiner seine wahre Form. Die blauen Ranken\nwachsen immer weiter."
+      },
+      {
+        "game": "xy-y",
+        "text": "Es berührt alles, was sich bewegt, mit seinen Ranken.\nDiese Berührungen kitzeln sehr."
+      },
+      {
+        "game": "oras-or",
+        "text": "Wenn man Tangelas Ranken berührt, fallen diese sofort ab.\nDas tut ihm aber nicht weh und es kann sich schnell in\nSicherheit bringen. Verliert es Ranken, werden diese am\nnächsten Tag durch neue ersetzt."
+      },
+      {
+        "game": "oras-as",
+        "text": "Wenn man Tangelas Ranken berührt, fallen diese oft ab.\nDabei empfindet es keine Schmerzen und es kann sich schnell\nin Sicherheit bringen. Verliert es Ranken, werden diese am\nnächsten Tag durch neue ersetzt."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Sein Körper liegt unter dichten, blauen Ranken\nverborgen, die niemals aufhören zu wachsen."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Sein Körper liegt unter dichten, blauen Ranken\nverborgen, die niemals aufhören zu wachsen."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Seine wahre Gestalt ist weiterhin ein Mysterium,\nda sie von Ranken verdeckt wird, die unaufhörlich\nnachwachsen, selbst wenn sie abreißen."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Seine Ranken verströmen einen eigentümlichen\nDuft, weshalb sie in bestimmten Gegenden von\nGalar als aromatische Kräuter verwendet werden."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Tangela",
+    "genus": "Pokémon Enredadera",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Se camufla con la multitud de lianas que envuelven su\ncuerpo y que no dejan de crecer a lo largo de toda su\nvida."
+      },
+      {
+        "game": "xy-y",
+        "text": "Enreda cualquier cosa que se mueva con sus lianas. Si\nte atrapa, te hará cosquillas con su delicado balanceo."
+      },
+      {
+        "game": "oras-or",
+        "text": "A Tangela se le desprenden los tentáculos con facilidad en\ncuanto se los agarras. Y no solo no le duele, sino que le\nresulta muy útil para escapar rápido. Además, al día siguiente\nle crecen otros."
+      },
+      {
+        "game": "oras-as",
+        "text": "A Tangela se le desprenden los tentáculos con facilidad en\ncuanto se los agarras. Y no solo no le duele, sino que le\nresulta muy útil para escapar rápido. Además, al día siguiente\nle crecen otros."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Se camufla tras una gran masa de lianas azules.\nSe dice que nunca dejan de crecer."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Se camufla tras una gran masa de lianas azules.\nSe dice que nunca dejan de crecer."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Sus lianas no dejan de crecer aunque se le\ndesprendan. Aún se desconoce qué aspecto\ntiene sin ellas."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Sus lianas despiden una fragancia peculiar.\nEn cierta zona de Galar se usan como aderezo."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Tangela",
+    "genus": "Pokémon Liana",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Una moltitudine di liane brulicanti, in crescita perenne,\nne ricopre il corpo celandone la vera forma."
+      },
+      {
+        "game": "xy-y",
+        "text": "Intrappola nelle liane qualsiasi cosa si muova. Il lieve\nmovimento di queste può fare il solletico."
+      },
+      {
+        "game": "oras-or",
+        "text": "Se afferrate, le liane di Tangela si staccano con facilità,\nma in modo indolore, consentendo così una pratica\nscappatoia. Le liane cadute vengono sostituite da quelle\nnuove il giorno dopo."
+      },
+      {
+        "game": "oras-as",
+        "text": "Se afferrate, le liane di Tangela si staccano con facilità,\nma in modo indolore, consentendo così una pratica\nscappatoia. Le liane cadute vengono sostituite da quelle\nnuove il giorno dopo."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "È coperto da una massa di liane blu che non\nsmettono mai di crescere. Nessuno sa quale\nsia il suo vero aspetto."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "È coperto da una massa di liane blu che non\nsmettono mai di crescere. Nessuno sa quale\nsia il suo vero aspetto."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Non è ancora chiaro quale sia il vero aspetto\ncelato dietro alle sue liane, che crescono\nall’infinito anche dopo essere state recise."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Le sue liane emanano un odore peculiare.\nIn alcune zone di Galar vengono usate come\nerbe aromatiche."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Tangela",
+    "genus": "Vine Pokémon",
+    "flavorText": [
+      {
+        "game": "rb-r",
+        "text": "The whole body is\nswathed with wide\nvines that are\fsimilar to sea­\nweed. Its vines\nshake as it walks."
+      },
+      {
+        "game": "rb-b",
+        "text": "The whole body is\nswathed with wide\nvines that are\fsimilar to sea­\nweed. Its vines\nshake as it walks."
+      },
+      {
+        "game": "y",
+        "text": "Its identity is\nobscured by masses\nof thick, blue\fvines. The vines\nare said to never\nstop growing."
+      },
+      {
+        "game": "gs-g",
+        "text": "The vines that\ncloak its entire\nbody are always\fjiggling. They\neffectively un­\nnerve its foes."
+      },
+      {
+        "game": "gs-s",
+        "text": "It tangles any\nmoving thing with\nits vines. Their\fsubtle shaking\nis ticklish if you\nget ensnared."
+      },
+      {
+        "game": "c",
+        "text": "During battle, it\nconstantly moves\nthe vines that\fcover its body in\norder to annoy its\nopponent."
+      },
+      {
+        "game": "rs-r",
+        "text": "TANGELA’s vines snap off easily if they\nare grabbed. This happens without pain,\nallowing it to make a quick getaway.\fThe lost vines are replaced by newly\ngrown vines the very next day."
+      },
+      {
+        "game": "rs-s",
+        "text": "TANGELA’s vines snap off easily if they\nare grabbed. This happens without pain,\nallowing it to make a quick getaway.\fThe lost vines are replaced by newly\ngrown vines the very next day."
+      },
+      {
+        "game": "e",
+        "text": "Its vines snap off easily and painlessly\nif they are grabbed, allowing it to make a\nquick getaway. The lost vines are replaced\nby new growth the very next day."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "Blue plant vines cloak the POKéMON’s\nidentity in a tangled mass. It entangles\nanything that gets close."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "The whole body is swathed with wide vines\nthat are similar to seaweed. The vines\nsway as it walks."
+      },
+      {
+        "game": "dp-d",
+        "text": "It is shrouded by blue vines.\nNo one has seen the face hidden\nbehind this growth of vines."
+      },
+      {
+        "game": "dp-p",
+        "text": "It is shrouded by blue vines.\nNo one has seen the face hidden\nbehind this growth of vines."
+      },
+      {
+        "game": "pt",
+        "text": "The blue vines shrouding its body\nare covered in a growth of fine\nhair. It is known to be ticklish."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "The vines that cloak its entire\nbody are always jiggling.\nThey effectively unnerve its foes."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "It tangles any moving thing with\nits vines. Their subtle shaking\nis ticklish if you get ensnared."
+      },
+      {
+        "game": "bw-b",
+        "text": "The blue vines shrouding its body\nare covered in a growth of fine\nhair. It is known to be ticklish."
+      },
+      {
+        "game": "bw-w",
+        "text": "The blue vines shrouding its body\nare covered in a growth of fine\nhair. It is known to be ticklish."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "Many writhing vines cover it,\nso its true identity remains unknown.\nThe blue vines grow its whole life long."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "Many writhing vines cover it,\nso its true identity remains unknown.\nThe blue vines grow its whole life long."
+      },
+      {
+        "game": "xy-x",
+        "text": "Many writhing vines cover it, so its true identity\nremains unknown. The blue vines grow its whole\nlife long."
+      },
+      {
+        "game": "xy-y",
+        "text": "It tangles any moving thing with its vines. Their\nsubtle shaking is ticklish if you get ensnared."
+      },
+      {
+        "game": "oras-or",
+        "text": "Tangela’s vines snap off easily if they are grabbed.\nThis happens without pain, allowing it to make a quick\ngetaway. The lost vines are replaced by newly grown vines the\nvery next day."
+      },
+      {
+        "game": "oras-as",
+        "text": "Tangela’s vines snap off easily if they are grabbed. This\nhappens without pain, allowing it to make a quick getaway.\nThe lost vines are replaced by newly grown vines the very\nnext day."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Its identity is obscured by masses of thick blue\nvines. The vines are said to never stop growing."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Its identity is obscured by masses of thick blue\nvines. The vines are said to never stop growing."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Hidden beneath a tangle of vines that grows\nnonstop even if the vines are torn off, this\nPokémon’s true appearance remains a mystery."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "The vines of a Tangela have a distinct scent.\nIn some parts of Galar, Tangela vines are used\nas herbs."
+      },
+      {
+        "game": "la",
+        "text": "It is cloaked entirely in blue vines, preventing any glimpse of\nits true identity. The vines impart a refreshing sensation when\nchewed—they're useful as a spice."
+      }
+    ]
+  },
+  "chs": {
+    "name": "蔓藤怪",
+    "genus": "藤蔓状宝可梦",
+    "flavorText": [
+      {
+        "game": "lgpe-lgp",
+        "text": "全身被蓝色的蔓藤覆盖，\n真面目不为人知。据说，\n它的蔓藤会持续不断地生长。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "全身被蓝色的蔓藤覆盖，\n真面目不为人知。据说，\n它的蔓藤会持续不断地生长。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "藤蔓即使断了也能无限生长，\n里面的真面目是什么样子，\n直到今天也未被查明。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "藤蔓有着独特的香气。\n在伽勒尔的部分地区\n被当做香草使用。"
+      }
+    ]
+  }
+}

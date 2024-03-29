@@ -1,0 +1,549 @@
+{
+  "jap": {
+    "name": "ミニリュウ",
+    "genus": "ドラゴンポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "もくげきしゃが　すくないために\nまぼろしのポケモンと　よばれていた。\nだっぴした　かわが　みつかっている。"
+      },
+      {
+        "game": "xy-y",
+        "text": "だっぴを　くりかえしては\nどんどん　おおきくなる\nせいめいりょく　あふれる　ポケモン。"
+      },
+      {
+        "game": "oras-or",
+        "text": "ミニリュウが　だっぴを　くりかえして　いるのは\nからだの　なかで　せいめいの　エネルギーが\nどんどん　ふくらみ　おさえきれなく　なるからだ。"
+      },
+      {
+        "game": "oras-as",
+        "text": "ミニリュウが　だっぴを　くりかえして　いるのは\nからだの　なかで　せいめいの　エネルギーが\nどんどん　ふくらみ　おさえきれなく　なるからだ。"
+      },
+      {
+        "game": "sm-s",
+        "text": "だっぴを　くりかえし　おおきくなる。\nぬけがらを　なめして　つくった\nブーツは　ちょうこうきゅうひん。"
+      },
+      {
+        "game": "sm-m",
+        "text": "とある　つりしが　１０じかんの\nファイトの　すえに　つりあげて\nそんざいが　かくにん　された。"
+      },
+      {
+        "game": "usum-us",
+        "text": "まだ　よわいので　みずそこに　みを\nひそめ　しずんできた　ものを\nくらいながら　ひそかに　くらす。"
+      },
+      {
+        "game": "usum-um",
+        "text": "まいにちに　ちかい　ペースで\nだっぴを　くりかえし　おおきくなる。\nだっぴしたての　ひふは　やわらかい。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "ながらく　まぼろしと　されていたが\nさいきん　つりあげられて　その\nそんざいが　かくにんされた。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "ながらく　まぼろしと　されていたが\nさいきん　つりあげられて　その\nそんざいが　かくにんされた。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "たきつぼなど　ながれの　はげしい\nみずべで　くらしている。　だっぴを\nくりかえして　おおきく　そだつ。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "ながく　まぼろしと　いわれていた。\nひたいにある　ちいさな　とっきは\nせいちょう　とちゅうの　ツノ。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Miniryu",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "미뇽",
+    "genus": "드래곤포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "목격자가 적기 때문에\n환상의 포켓몬이라고 불리고 있다.\n탈피한 껍질이 발견되고 있다."
+      },
+      {
+        "game": "xy-y",
+        "text": "탈피를 반복하면\n점점 크게 자라게 되는\n생명력 넘치는 포켓몬이다."
+      },
+      {
+        "game": "oras-or",
+        "text": "미뇽이 탈피를 반복하는 것은\n몸속에서 생명 에너지가 점점 부풀어\n올라 억제할 수 없게 되기 때문이다."
+      },
+      {
+        "game": "oras-as",
+        "text": "미뇽이 탈피를 반복하는 것은\n몸속에서 생명 에너지가 점점 부풀어\n올라 억제할 수 없게 되기 때문이다."
+      },
+      {
+        "game": "sm-s",
+        "text": "탈피를 반복하며 커진다.\n허물을 다듬어서 만든\n부츠는 최고급품이다."
+      },
+      {
+        "game": "sm-m",
+        "text": "어떤 낚시꾼이 10시간의\n싸움 끝에 낚아 올려\n존재가 확인되었다."
+      },
+      {
+        "game": "usum-us",
+        "text": "아직 약해서 물밑으로\n몸을 숨기고 가라앉는 것을\n먹으면서 얌전히 지낸다."
+      },
+      {
+        "game": "usum-um",
+        "text": "매일 비슷한 페이스로\n탈피를 반복하며 커진다.\n방금 탈피한 피부는 부드럽다."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "오랫동안 환상 속의 존재로 여겨졌지만\n최근 누군가가 낚시에 성공하여\n그 존재가 확인되었다."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "오랫동안 환상 속의 존재로 여겨졌지만\n최근 누군가가 낚시에 성공하여\n그 존재가 확인되었다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "폭포 아래와 같이 물살이 센\n물가에서 살고 있다. 탈피를\n반복하면서 크게 성장한다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "오랫동안 환상이라고 불렸다.\n이마에 있는 작은 돌기는\n성장하고 있는 뿔이다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "迷你龍",
+    "genus": "龍寶可夢",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "藉由反覆脫皮一點點地長大。\n將脫下的皮加工後制成的\n靴子是超高級商品。"
+      },
+      {
+        "game": "sm-m",
+        "text": "某個釣手經過１０個小時的奮戰，\n最後才成功將牠釣上來，\n而牠的存在也終於被證實。"
+      },
+      {
+        "game": "usum-us",
+        "text": "由於還很弱小，所以會\n潛伏在水底悄悄地生活，\n靠著吃沉入水底的東西為生。"
+      },
+      {
+        "game": "usum-um",
+        "text": "以接近每天一次的頻率\n反覆脫皮並長大。\n剛脫完皮的皮膚很柔軟。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "原本被認為只存在於幻想之中，\n直到最近才被人釣起，\n存在因此得到了證實。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "原本被認為只存在於幻想之中，\n直到最近才被人釣起，\n存在因此得到了證實。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "棲息在瀑布潭等水流\n湍急的水邊。會藉由\n反覆蛻皮不斷地長大。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "長久以來被認為只存在於\n幻想之中。額頭上小小的\n突起是正在成長的角。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Minidraco",
+    "genus": "Pokémon Dragon",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "On l’appelle “Pokémon mirage”\nen raison de sa rareté. On a\ndécouvert sa mue."
+      },
+      {
+        "game": "bw-w",
+        "text": "On l’appelle “Pokémon mirage”\nen raison de sa rareté. On a\ndécouvert sa mue."
+      },
+      {
+        "game": "xy-x",
+        "text": "On l’appelle « Pokémon mirage » en raison de sa\nrareté. On a découvert sa mue."
+      },
+      {
+        "game": "xy-y",
+        "text": "Ce Pokémon est plein de vitalité. Il mue et grandit très\nrégulièrement."
+      },
+      {
+        "game": "oras-or",
+        "text": "Minidraco mue constamment, renouvelant sans arrêt sa peau.\nEn effet, l’énergie vitale de son corps augmente régulièrement\net sa mue lui permet d’éviter d’atteindre des niveaux\nincontrôlables."
+      },
+      {
+        "game": "oras-as",
+        "text": "Minidraco mue constamment, renouvelant sans arrêt sa peau.\nEn effet, l’énergie vitale de son corps augmente régulièrement\net sa mue lui permet d’éviter d’atteindre des niveaux\nincontrôlables."
+      },
+      {
+        "game": "sm-s",
+        "text": "Il grandit en enchaînant les mues.\nLes bottes faites avec la peau de ces mues\nsont des produits de grand luxe."
+      },
+      {
+        "game": "sm-m",
+        "text": "La première preuve de l’existence de ce\nPokémon est due à un pêcheur ayant bataillé\n10 heures pour le tirer hors de l’eau."
+      },
+      {
+        "game": "usum-us",
+        "text": "Encore faible, il se cache dans les eaux\nprofondes et se nourrit de ce qui tombe de\nla surface. Il mène une existence paisible."
+      },
+      {
+        "game": "usum-um",
+        "text": "Il grandit en muant quasiment tous les jours.\nSa peau est toute douce après la mue."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "L’existence de ce Pokémon mythique n’a été\nconfirmée que récemment par un pêcheur."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "L’existence de ce Pokémon mythique n’a été\nconfirmée que récemment par un pêcheur."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Ce Pokémon vit près des courants d’eau\npuissants, comme au pied des cascades.\nIl grandit en opérant une succession de mues."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "On a longtemps douté de l’existence de\nce Pokémon. La petite bosse sur son front\nest en fait sa corne en pleine croissance."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Dratini",
+    "genus": "Drachen-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Man nennt es „Illusion-Pokémon“, denn nur wenige\nhaben es gesehen. Nur seine Haut wurde oft\ngefunden."
+      },
+      {
+        "game": "xy-y",
+        "text": "Dieses Pokémon strotzt vor Lebensenergie.\nEs häutet sich ständig und wird dadurch größer."
+      },
+      {
+        "game": "oras-or",
+        "text": "Dratini häutet sich ständig und entledigt sich so\nseiner Haut, da die Lebensenergie in seinem Körper\nstetig und unkontrollierbar ansteigt."
+      },
+      {
+        "game": "oras-as",
+        "text": "Dratini häutet sich ständig, da die Lebensenergie in\nseinem Körper stetig und unkontrollierbar ansteigt."
+      },
+      {
+        "game": "sm-s",
+        "text": "Sein Wachstum wird durch wiederholtes Häuten\nunterstützt. Gerbt man seine abgestreifte Haut,\nkann man daraus hochwertige Stiefel schustern."
+      },
+      {
+        "game": "sm-m",
+        "text": "Seine Existenz konnte endlich nachgewiesen\nwerden, nachdem es einem Angler gelang, es\nnach einem zehnstündigen Kampf zu fangen."
+      },
+      {
+        "game": "usum-us",
+        "text": "Dratini ist noch schwach und lebt daher ruhig\nund verborgen in tiefen Gewässern. Es ernährt\nsich von allem, was über ihm versinkt."
+      },
+      {
+        "game": "usum-um",
+        "text": "Es häutet sich fast täglich und wird dadurch\ngrößer. Unmittelbar nach der Häutung fühlt sich\nseine neue Haut angenehm weich an."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Die Existenz dieses mythischen Pokémon wurde\nerst kürzlich bestätigt, als es von einem Angler\nan Land gezogen wurde."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Die Existenz dieses mythischen Pokémon wurde\nerst kürzlich bestätigt, als es von einem Angler\nan Land gezogen wurde."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Dratini lebt in der Nähe reißender Gewässer,\nwie etwa in tiefen Becken unter Wasserfällen.\nEs wächst, indem es sich immer wieder häutet."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Es wurde lange an Dratinis Existenz gezweifelt.\nDer kleine Fortsatz an seiner Stirn ist ein\nheranwachsendes Horn."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Dratini",
+    "genus": "Pokémon Dragón",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Se le llama el Pokémon Espejismo porque son muy\npocos los que lo han visto. Se encontró su muda."
+      },
+      {
+        "game": "xy-y",
+        "text": "Este Pokémon está lleno de vida. Muda su piel\ncontinuamente y crece cada vez más."
+      },
+      {
+        "game": "oras-or",
+        "text": "Dratini muda y se despoja de la vieja piel continuamente. Es\nalgo que necesita hacer porque la energía que tiene en su\ninterior no para de alcanzar niveles incontrolables."
+      },
+      {
+        "game": "oras-as",
+        "text": "Dratini muda y se despoja de la vieja piel continuamente. Es\nalgo que necesita hacer porque la energía que tiene en su\ninterior no para de alcanzar niveles incontrolables."
+      },
+      {
+        "game": "sm-s",
+        "text": "Cada vez que muda la piel, se hace más grande.\nLas botas fabricadas con la piel de Dratini son\nun producto de lujo."
+      },
+      {
+        "game": "sm-m",
+        "text": "La existencia de este Pokémon fue confirmada\npor un pescador que batalló durante más de\ndiez horas hasta que consiguió apresar a uno."
+      },
+      {
+        "game": "usum-us",
+        "text": "Mientras todavía es débil, lleva una vida\ndiscreta oculto en el lecho marino y se alimenta\nde lo que cae al agua."
+      },
+      {
+        "game": "usum-um",
+        "text": "Crece a gran ritmo y muda la piel casi a diario.\nLa piel nueva es muy suave al tacto."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "La existencia de este mítico Pokémon fue\nconfirmada no hace mucho por un pescador\nque capturó uno."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "La existencia de este mítico Pokémon fue\nconfirmada no hace mucho por un pescador\nque capturó uno."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Habita en orillas junto a fuertes corrientes de\nagua, como bajo cascadas. Muda la piel una y\notra vez a medida que crece."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Durante mucho tiempo se dudó de su existencia.\nLa pequeña protuberancia de la frente es en\nrealidad un cuerno incipiente."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Dratini",
+    "genus": "Pokémon Drago",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Detto “Pokémon miraggio” perché è stato avvistato\nda pochi. È facile trovare la sua pelle della muta."
+      },
+      {
+        "game": "xy-y",
+        "text": "Un Pokémon pieno di energia vitale. Cambia la pelle\nper diventare sempre più grande."
+      },
+      {
+        "game": "oras-or",
+        "text": "Dratini fa la muta cambiando continuamente la pelle vecchia,\nperché l’energia vitale del suo corpo aumenta fino a\nraggiungere livelli incontrollabili."
+      },
+      {
+        "game": "oras-as",
+        "text": "Dratini fa la muta cambiando continuamente la pelle vecchia,\nperché l’energia vitale del suo corpo aumenta fino a\nraggiungere livelli incontrollabili."
+      },
+      {
+        "game": "sm-s",
+        "text": "Cresce cambiando continuamente pelle.\nQuella vecchia viene conciata per ricavarne\nstivali di lusso."
+      },
+      {
+        "game": "sm-m",
+        "text": "L’esistenza di questo Pokémon è stata scoperta\nda un pescatore che ha faticato 10 ore prima\ndi riuscire a pescarlo."
+      },
+      {
+        "game": "usum-us",
+        "text": "Poiché è ancora debole, vive nascosto sui\nfondali. Si ciba di tutto quello che cade in acqua."
+      },
+      {
+        "game": "usum-um",
+        "text": "Cresce cambiando pelle quasi ogni giorno.\nSubito dopo la muta, la pelle nuova è molto\nsoffice."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "L’esistenza di questo sfuggente Pokémon è stata\naccertata recentemente, quando qualcuno ne ha\npescato un esemplare."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "L’esistenza di questo sfuggente Pokémon è stata\naccertata recentemente, quando qualcuno ne ha\npescato un esemplare."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Vive vicino a correnti d’acqua impetuose, come\ncascate e simili. Cresce di dimensioni facendo\npiù volte la muta."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "È stato a lungo considerato un miraggio.\nLa piccola protuberanza sulla fronte è un corno\nin fase di crescita."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Dratini",
+    "genus": "Dragon Pokémon",
+    "flavorText": [
+      {
+        "game": "rb-r",
+        "text": "Long considered a\nmythical POKéMON\nuntil recently\fwhen a small\ncolony was found\nliving underwater."
+      },
+      {
+        "game": "rb-b",
+        "text": "Long considered a\nmythical POKéMON\nuntil recently\fwhen a small\ncolony was found\nliving underwater."
+      },
+      {
+        "game": "y",
+        "text": "The existence of\nthis mythical\nPOKéMON was only\frecently confirmed\nby a fisherman\nwho caught one."
+      },
+      {
+        "game": "gs-g",
+        "text": "It is born large\nto start with. It\nrepeatedly sheds\fits skin as it\nsteadily grows\nlonger."
+      },
+      {
+        "game": "gs-s",
+        "text": "This POKéMON is\nfull of life ener­\ngy. It continually\fsheds its skin and\ngrows steadily\nlarger."
+      },
+      {
+        "game": "c",
+        "text": "It sheds many lay­\ners of skin as it\ngrows larger. Dur­\fing this process,\nit is protected by\na rapid waterfall."
+      },
+      {
+        "game": "rs-r",
+        "text": "DRATINI continually molts and sloughs\noff its old skin.\nIt does so because the life energy\fwithin its body steadily builds to reach\nuncontrollable levels."
+      },
+      {
+        "game": "rs-s",
+        "text": "DRATINI continually molts and sloughs\noff its old skin.\nIt does so because the life energy\fwithin its body steadily builds to reach\nuncontrollable levels."
+      },
+      {
+        "game": "e",
+        "text": "A DRATINI continually molts and sloughs\noff its old skin. It does so because the\nlife energy within its body steadily builds\nto reach uncontrollable levels."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "Even the young can exceed 6.5 feet in\nlength. It grows larger by repeatedly\nshedding skin."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "Long considered a mythical POKéMON until\nrecently, when a small colony was found\nliving underwater."
+      },
+      {
+        "game": "dp-d",
+        "text": "It is called the “Mirage Pokémon”\nbecause so few have seen it.\nIts shed skin has been found."
+      },
+      {
+        "game": "dp-p",
+        "text": "It is called the “Mirage Pokémon”\nbecause so few have seen it.\nIts shed skin has been found."
+      },
+      {
+        "game": "pt",
+        "text": "It is called the “Mirage Pokémon”\nbecause so few have seen it.\nIts shed skin has been found."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "It is born large to start with.\nIt repeatedly sheds its skin as it\nsteadily grows longer."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "This Pokémon is full of life energy.\nIt continually sheds its skin and\ngrows steadily larger."
+      },
+      {
+        "game": "bw-b",
+        "text": "It is called the “Mirage Pokémon”\nbecause so few have seen it.\nIts shed skin has been found."
+      },
+      {
+        "game": "bw-w",
+        "text": "It is called the “Mirage Pokémon”\nbecause so few have seen it.\nIts shed skin has been found."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "It is called the “Mirage Pokémon”\nbecause so few have seen it.\nIts shed skin has been found."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "It is called the “Mirage Pokémon”\nbecause so few have seen it.\nIts shed skin has been found."
+      },
+      {
+        "game": "xy-x",
+        "text": "It is called the “Mirage Pokémon” because so few\nhave seen it. Its shed skin has been found."
+      },
+      {
+        "game": "xy-y",
+        "text": "This Pokémon is full of life energy. It continually\nsheds its skin and grows steadily larger."
+      },
+      {
+        "game": "oras-or",
+        "text": "Dratini continually molts and sloughs off its old skin. It does so\nbecause the life energy within its body steadily builds to reach\nuncontrollable levels."
+      },
+      {
+        "game": "oras-as",
+        "text": "Dratini continually molts and sloughs off its old skin. It does so\nbecause the life energy within its body steadily builds to reach\nuncontrollable levels."
+      },
+      {
+        "game": "sm-s",
+        "text": "It grows by molting repeatedly. Boots made from\nthe tanned cast-off skin are a super luxury item."
+      },
+      {
+        "game": "sm-m",
+        "text": "After a 10-hour struggle, a fisherman was able\nto pull one up and confirm its existence."
+      },
+      {
+        "game": "usum-us",
+        "text": "It’s still weak, so it lurks on the floor of bodies\nof water, eating whatever food sinks down and\nliving a quiet life."
+      },
+      {
+        "game": "usum-um",
+        "text": "It sheds its skin—almost on a daily basis—and\ngrows larger. Its skin is soft just after it’s\nbeen shed."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Long thought to be a myth, this Pokémon’s\nexistence was only recently confirmed by a\nfisherman who caught one."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Long thought to be a myth, this Pokémon’s\nexistence was only recently confirmed by a\nfisherman who caught one."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Dratini dwells near bodies of rapidly flowing\nwater, such as the plunge pools of waterfalls.\nAs it grows, Dratini will shed its skin many times."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "This Pokémon was long considered to be no\nmore than a myth. The small lump on a Dratini’s\nforehead is actually a horn that’s still coming in."
+      }
+    ]
+  },
+  "chs": {
+    "name": "迷你龙",
+    "genus": "龙宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "通过反复蜕皮一点点长大。\n将蜕下的皮鞣制后做成的\n靴子是超高级商品。"
+      },
+      {
+        "game": "sm-m",
+        "text": "某个钓鱼人经过１０个小时的\n奋战才最终将其钓获，\n它的存在也终于被确认。"
+      },
+      {
+        "game": "usum-us",
+        "text": "由于还很弱小，\n所以会潜伏在水底悄悄地生活．\n靠着吃沉入水中的东西为生。"
+      },
+      {
+        "game": "usum-um",
+        "text": "以接近每天一次的频率\n反复蜕皮并长大。\n刚蜕完皮的皮肤很娇嫩。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "原本被认为只存在于幻想之中，\n直到最近有人将它钓起，\n它的存在才得到了证实。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "原本被认为只存在于幻想之中，\n直到最近有人将它钓起，\n它的存在才得到了证实。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "栖息在瀑布潭之类\n水流湍急的水边。\n通过反复蜕皮不断成长。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "长久以来被认为只存在于\n幻想之中。额头小小的突起\n是正在发育的角。"
+      }
+    ]
+  }
+}

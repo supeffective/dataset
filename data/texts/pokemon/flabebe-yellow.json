@@ -1,0 +1,245 @@
+{
+  "jap": {
+    "name": "フラベベ",
+    "genus": "いちりんポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "はなの　ひめた　ちからを　ひきだして\nじざいに　あやつる。フラベベが　もつ\nはなは　もはや　からだの　いちぶだ。"
+      },
+      {
+        "game": "xy-y",
+        "text": "きにいった　はなを　みつけると\nいっしょう　その　はなと　くらす。\nかぜに　のって　きままに　ただよう。"
+      },
+      {
+        "game": "oras-or",
+        "text": "はなの　ひめた　ちからを　ひきだして\nじざいに　あやつる。フラベベが　もつ\nはなは　もはや　からだの　いちぶだ。"
+      },
+      {
+        "game": "oras-as",
+        "text": "きにいった　はなを　みつけると\nいっしょう　その　はなと　くらす。\nかぜに　のって　きままに　ただよう。"
+      },
+      {
+        "game": "usum-us",
+        "text": "はなの　ちからが　ないと　キケン。\nでも　すきな　いろと　かたちが\nみつかるまで　たびを　つづけるぞ。"
+      },
+      {
+        "game": "usum-um",
+        "text": "あたまの　かんむりは　はなの\nかふんを　あつめて　つくったもの。\nいやしの　こうかが　ひめられている。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Flabebe",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "플라베베",
+    "genus": "한송이포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "꽃의 숨겨진 힘을 끌어내어\n자유자재로 조종한다. 플라베베가 지닌\n꽃은 이미 몸의 일부다."
+      },
+      {
+        "game": "xy-y",
+        "text": "마음에 든 꽃을 발견하면\n평생을 그 꽃과 지낸다.\n바람을 타고 내키는 대로 떠다닌다."
+      },
+      {
+        "game": "oras-or",
+        "text": "꽃의 숨겨진 힘을 끌어내어\n자유자재로 조종한다. 플라베베가 지닌\n꽃은 이미 몸의 일부다."
+      },
+      {
+        "game": "oras-as",
+        "text": "마음에 든 꽃을 발견하면\n평생을 그 꽃과 지낸다.\n바람을 타고 내키는 대로 떠다닌다."
+      },
+      {
+        "game": "usum-us",
+        "text": "꽃의 힘이 없으면 위험하다.\n그래도 좋아하는 색과 형태를\n찾을 때까지 여행을 계속한다."
+      },
+      {
+        "game": "usum-um",
+        "text": "머리의 관은 꽃가루를\n모아서 만든 것이다.\n치유의 효과가 숨겨져 있다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "花蓓蓓",
+    "genus": "單朵寶可夢",
+    "flavorText": [
+      {
+        "game": "usum-us",
+        "text": "要是沒有花的力量會很危險，\n但在找到自己喜愛的顏色和形狀之前，\n牠都會繼續旅行下去。"
+      },
+      {
+        "game": "usum-um",
+        "text": "頭上的冠是收集\n花粉製成的，\n蘊藏著治癒的效果。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Flabébé",
+    "genus": "Pokémon Uniflore",
+    "flavorText": [
+      {
+        "game": "usum-um",
+        "text": "Il confectionne la couronne qui orne sa tête en\nrécoltant du pollen. Elle recèle de nombreuses\npropriétés curatives."
+      },
+      {
+        "game": "xy-x",
+        "text": "Capable de libérer et de contrôler la force cachée\ndes plantes. La fleur qu’il tient fait partie de lui."
+      },
+      {
+        "game": "xy-y",
+        "text": "Après avoir trouvé une fleur à son goût, il ne la quitte\nplus de toute sa vie. Il se laisse porter au gré du vent."
+      },
+      {
+        "game": "oras-or",
+        "text": "Capable de libérer et de contrôler la force cachée des plantes.\nLa fleur qu’il tient fait partie de lui."
+      },
+      {
+        "game": "oras-as",
+        "text": "Après avoir trouvé une fleur à son goût, il ne la quitte plus\nde toute sa vie. Il se laisse porter au gré du vent."
+      },
+      {
+        "game": "usum-us",
+        "text": "Bien qu’il soit vulnérable sans le pouvoir\nde sa fleur, il voyagera jusqu’à en trouver\nune de la couleur et de la forme qu’il préfère."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Flabébé",
+    "genus": "Einblütler",
+    "flavorText": [
+      {
+        "game": "usum-um",
+        "text": "Die Krone auf seinem Kopf hat es sich aus\nPollen von Blumen gebastelt. Sie besitzt eine\nheilende Wirkung."
+      },
+      {
+        "game": "xy-x",
+        "text": "Es entlockt Blumen ihre geheimen Kräfte und\nkontrolliert diese nach Belieben. Die Blume,\ndie es trägt, ist wie ein Teil seines Körpers."
+      },
+      {
+        "game": "xy-y",
+        "text": "Hat es eine Blume gefunden, die ihm gefällt, lebt es\nsein Leben lang in Symbiose mit ihr. Es lässt sich\nunbekümmert vom Wind treiben."
+      },
+      {
+        "game": "oras-or",
+        "text": "Es entlockt Blumen ihre geheimen Kräfte und kontrolliert diese\nnach Belieben. Die Blume, die es trägt, ist wie ein Teil seines\nKörpers."
+      },
+      {
+        "game": "oras-as",
+        "text": "Hat es eine Blume gefunden, die ihm gefällt, lebt es sein\nLeben lang in Symbiose mit ihr. Es lässt sich unbekümmert\nvom Wind treiben."
+      },
+      {
+        "game": "usum-us",
+        "text": "Ohne die Kräfte einer Blume ist es relativ\nschutzlos. Es sucht jedoch so lange, bis es\neine findet, deren Form und Farbe ihm zusagt."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Flabébé",
+    "genus": "Pokémon Monoflor",
+    "flavorText": [
+      {
+        "game": "usum-um",
+        "text": "Acumula el polen de las flores para confeccionar\nla tiara que lleva en la cabeza, que cuenta con\npropiedades curativas."
+      },
+      {
+        "game": "xy-x",
+        "text": "Puede controlar el poder oculto de las flores. La flor\nque lleva consigo es como si formara parte de su\ncuerpo."
+      },
+      {
+        "game": "xy-y",
+        "text": "En cuanto encuentra una flor de su agrado, la\nconvierte en su hogar para toda la vida.\nFlota en el aire a su antojo cabalgando el viento."
+      },
+      {
+        "game": "oras-or",
+        "text": "Puede controlar el poder oculto de las flores. La flor que\nlleva consigo es como si formara parte de su cuerpo."
+      },
+      {
+        "game": "oras-as",
+        "text": "En cuanto encuentra una flor de su agrado, la convierte en\nsu hogar para toda la vida. Flota en el aire a su antojo\ncabalgando el viento."
+      },
+      {
+        "game": "usum-us",
+        "text": "Sin el poder que le confiere la flor es una presa\nfácil, así que busca una del tamaño y color\nidóneos y no cesa hasta dar con ella."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Flabébé",
+    "genus": "Pokémon Monofiore",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "È in grado di controllare a piacimento la forza\nnascosta dei fiori. Il fiore a cui si aggrappa fa\nparte del suo stesso corpo."
+      },
+      {
+        "game": "xy-y",
+        "text": "Una volta trovato un fiore di suo gradimento, rimane\nin simbiosi con esso per tutta la vita. Va in giro\nlasciandosi trasportare dal vento."
+      },
+      {
+        "game": "oras-or",
+        "text": "È in grado di controllare a piacimento la forza nascosta dei\nfiori. Il fiore a cui si aggrappa fa parte del suo stesso corpo."
+      },
+      {
+        "game": "oras-as",
+        "text": "Una volta trovato un fiore di suo gradimento, rimane in\nsimbiosi con esso per tutta la vita. Va in giro lasciandosi\ntrasportare dal vento."
+      },
+      {
+        "game": "usum-us",
+        "text": "Senza il potere di un fiore è vulnerabile, tuttavia\nviaggia senza sosta finché non ne trova uno di\nun colore e di una forma che lo soddisfano."
+      },
+      {
+        "game": "usum-um",
+        "text": "La corona sulla testa è realizzata con il polline\nche raccoglie dai fiori e ha proprietà curative."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Flabébé",
+    "genus": "Single Bloom Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "It draws out and controls the hidden power\nof flowers. The flower Flabébé holds\nis most likely part of its body."
+      },
+      {
+        "game": "xy-y",
+        "text": "When it finds a flower it likes, it dwells on\nthat flower its whole life long. It floats in the\nwind’s embrace with an untroubled heart."
+      },
+      {
+        "game": "oras-or",
+        "text": "It draws out and controls the hidden power\nof flowers. The flower Flabébé holds\nis most likely part of its body."
+      },
+      {
+        "game": "oras-as",
+        "text": "When it finds a flower it likes, it dwells on\nthat flower its whole life long. It floats in the\nwind’s embrace with an untroubled heart."
+      },
+      {
+        "game": "usum-us",
+        "text": "It’s not safe without the power of a flower, but\nit will keep traveling around until it finds one\nwith the color and shape it wants."
+      },
+      {
+        "game": "usum-um",
+        "text": "Flabébé wears a crown made from pollen it’s\ncollected from its flower. The crown has hidden\nhealing properties."
+      }
+    ]
+  },
+  "chs": {
+    "name": "花蓓蓓",
+    "genus": "单朵宝可梦",
+    "flavorText": [
+      {
+        "game": "usum-us",
+        "text": "如果没有花的力量，就会很危险。\n但是在找到喜爱的颜色和形状之前，\n会不断地旅行。"
+      },
+      {
+        "game": "usum-um",
+        "text": "头上的冠是收集花粉做成的。\n蕴藏着治愈的效果。"
+      }
+    ]
+  }
+}

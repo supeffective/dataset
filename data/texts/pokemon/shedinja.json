@@ -1,0 +1,309 @@
+{
+  "jap": {
+    "name": "ヌケニン",
+    "genus": "ぬけがらポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "ぬけがらが　たましいを　やどした。\nせなかの　すきまから　のぞきこむと\nたましいを　すわれてしまうらしい。"
+      },
+      {
+        "game": "xy-y",
+        "text": "ツチニンが　しんかする　ときに\nいつの　まにか　モンスターボールに\nはいっている　ふしぎな　ポケモンだ。"
+      },
+      {
+        "game": "oras-or",
+        "text": "かたい　からだは　ぴくりとも　うごかない。\nせなかから　からだの　くうどうを　のぞくと\nたましいを　すいとられると　しんじられている。"
+      },
+      {
+        "game": "oras-as",
+        "text": "ツチニンが　しんかしたとき　なぜか　かってに\nモンスターボールに　はいっている　ポケモンだ。\nからだは　まったく　うごかず　いきも　しない。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "ツチニンが　しんかする　ときに\nいつの　まにか　モンスターボールに\nはいっている　ふしぎな　ポケモンだ。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "ハネを　うごかさずに　とびまわる。\nからだの　なかは　からっぽで\nいきを　しない　ふしぎな　ポケモン。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Nukenin",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "껍질몬",
+    "genus": "허물포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "허물 속으로 영혼이 들어갔다.\n등에 난 틈새로 들여다보면\n영혼을 빼앗겨버린다고 한다."
+      },
+      {
+        "game": "xy-y",
+        "text": "토중몬이 진화할 때\n어느샌가 몬스터볼에\n들어와 있는 신기한 포켓몬이다."
+      },
+      {
+        "game": "oras-or",
+        "text": "단단한 몸은 꿈쩍도 하지 않는다.\n등을 통해 몸의 구멍을 들여다보면\n혼이 빨려 들어간다고 믿어지고 있다."
+      },
+      {
+        "game": "oras-as",
+        "text": "토중몬이 진화했을 때 어찌 된 영문인지 제멋대로\n몬스터볼에 들어 있는 포켓몬이다.\n몸을 전혀 움직이지 않으며 숨도 쉬지 않는다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "토중몬이 진화할 때\n어느샌가 몬스터볼에\n들어와 있는 신기한 포켓몬이다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "날개를 움직이지 않고 날아다닌다.\n몸속이 텅 비어 있고\n숨을 쉬지 않는 이상한 포켓몬이다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "脫殼忍者",
+    "genus": "空殼寶可夢",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "牠是一種在土居忍士進化時，\n會神不知鬼不覺地出現在\n精靈球裡的神奇寶可夢。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "不拍動翅膀也能四處飛行。\n身體裡面空空的，是一種\n不呼吸的奇妙寶可夢。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Munja",
+    "genus": "Pokémon Exuvie",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Une carapace d’insecte laissée à\nl’abandon. On dit qu’il vole l’âme\nde celui qui regarde à l’intérieur."
+      },
+      {
+        "game": "bw-w",
+        "text": "Une carapace d’insecte laissée à\nl’abandon. On dit qu’il vole l’âme\nde celui qui regarde à l’intérieur."
+      },
+      {
+        "game": "xy-x",
+        "text": "Une carapace d’insecte laissée à l’abandon. On dit\nqu’il vole l’âme de celui qui regarde à l’intérieur."
+      },
+      {
+        "game": "xy-y",
+        "text": "Un Pokémon étrange que l’on trouve dans les\nPoké Balls après l’évolution d’un Ningale."
+      },
+      {
+        "game": "oras-or",
+        "text": "Le corps robuste de Munja ne bouge pas d’un pouce. En fait,\nson corps semble être une coquille vide. Certains croient que\nce Pokémon peut voler l’âme de quiconque regarderait\nà l’intérieur de son corps creux."
+      },
+      {
+        "game": "oras-as",
+        "text": "Munja est un étrange Pokémon. Il semble apparaître sans\nraison dans une Poké Ball après l’évolution d’un Ningale.\nCe Pokémon bizarre est totalement immobile. Il ne respire\nmême pas."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Un Pokémon étrange que l’on trouve dans\nune Poké Ball après l’évolution d’un Ningale."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Cet étrange Pokémon, dont le corps\nest comme une coquille vide, ne respire pas\net peut voler sans battre des ailes."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Ninjatom",
+    "genus": "Häutungs-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Ein weggeworfener Käferpanzer, der zum Leben\nerwachte. Schaut man hinein, stiehlt es einem\ndie Seele."
+      },
+      {
+        "game": "xy-y",
+        "text": "Ein sehr spezielles Pokémon, das irgendwie in einem\nPokéball auftaucht, wenn Nincada sich entwickelt."
+      },
+      {
+        "game": "oras-or",
+        "text": "Ninjatoms harter Körper bewegt sich überhaupt nicht.\nEr scheint bloß eine hohle Schale zu sein. Dieses Pokémon\nsoll angeblich die Seele eines jeden stehlen, der hinterrücks\neinen Blick in seinen hohlen Körper riskiert."
+      },
+      {
+        "game": "oras-as",
+        "text": "Ninjatom ist ein ganz besonderes Pokémon. Es taucht plötzlich\nin einem Pokéball auf, nachdem sich ein Nincada entwickelt\nhat. Dieses Pokémon ist absolut bewegungsunfähig und atmet\nnicht einmal."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Ein äußerst sonderbares Pokémon, das plötzlich\nauf rätselhafte Weise in einem Pokéball\nauftaucht, wenn Nincada sich entwickelt."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Ninjatom ist ein äußerst sonderbares Pokémon.\nEs fliegt umher, ohne seine Flügel zu bewegen,\nsein Körper ist hohl und es atmet nicht."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Shedinja",
+    "genus": "Pokémon Muda",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Es el caparazón de un bicho que cobró vida. Si alguien\nlo mira por la espalda, le robará el alma."
+      },
+      {
+        "game": "xy-y",
+        "text": "Es un Pokémon muy peculiar; aparece de repente en\nuna Poké Ball cuando Nincada evoluciona."
+      },
+      {
+        "game": "oras-or",
+        "text": "Shedinja tiene un cuerpo robusto que no mueve en absoluto.\nDe hecho, parece una especie de caparazón hueco. Se cree\nque, si alguien se atreviera a mirarle por la espalda lo que\ntiene en su interior, Shedinja le robaría el alma."
+      },
+      {
+        "game": "oras-as",
+        "text": "Shedinja es un Pokémon peculiar. Según parece, surge por\nlas buenas en una Poké Ball cuando Nincada evoluciona. Este\nraro Pokémon no se mueve nada; ni siquiera respira."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Es un Pokémon muy peculiar; aparece de repente\nen una Poké Ball cuando Nincada evoluciona."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Es un Pokémon muy peculiar: revolotea sin batir\nlas alas, no respira y su cuerpo está hueco por\ndentro."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Shedinja",
+    "genus": "Pokémon Cambiapelle",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "È nato dal guscio vuoto di un insetto. Pare che\nchi spia nella fessura sul suo dorso perda l’anima."
+      },
+      {
+        "game": "xy-y",
+        "text": "Pokémon particolare, che appare misteriosamente\nin una Poké Ball dopo l’evoluzione di un Nincada."
+      },
+      {
+        "game": "oras-or",
+        "text": "Il corpo coriaceo di Shedinja non si muove neanche\ndi un millimetro. In realtà sembra quasi un guscio vuoto.\nSi dice che questo Pokémon rubi lo spirito di chiunque\nosi spiare dentro il suo guscio."
+      },
+      {
+        "game": "oras-as",
+        "text": "Shedinja è molto particolare. Pare comparire all’improvviso\nin una Poké Ball dopo l’evoluzione di Nincada. Questo strano\nPokémon è completamente immobile. Non è nemmeno\nin grado di respirare."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "È un Pokémon molto particolare. Appare\nmisteriosamente in una Poké Ball dopo\nl’evoluzione di un Nincada."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Svolazza in giro senza muovere le ali.\nÈ un Pokémon strano: è vuoto all’interno\ne non respira."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Shedinja",
+    "genus": "Shed Pokémon",
+    "flavorText": [
+      {
+        "game": "rs-r",
+        "text": "SHEDINJA’s hard body doesn’t move -\nnot even a twitch. In fact, its body\nappears to be merely a hollow shell.\fIt is believed that this POKéMON will\nsteal the spirit of anyone peering into\nits hollow body from its back."
+      },
+      {
+        "game": "rs-s",
+        "text": "SHEDINJA is a peculiar POKéMON.\nIt seems to appear unsought in a POKé\nBALL after a NINCADA evolves.\fThis bizarre POKéMON is entirely\nimmobile - it doesn’t even breathe."
+      },
+      {
+        "game": "e",
+        "text": "A peculiar POKéMON that floats in air even\nthough its wings remain completely still.\nThe inside of its body is hollow and\nutterly dark."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "A most peculiar POKéMON that somehow\nappears in a POKé BALL when a NINCADA\nevolves."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "A most peculiar POKéMON that somehow\nappears in a POKé BALL when a NINCADA\nevolves."
+      },
+      {
+        "game": "dp-d",
+        "text": "A discarded bug shell that came to\nlife. Peering into the crack on its\nback is said to steal one’s spirit."
+      },
+      {
+        "game": "dp-p",
+        "text": "A discarded bug shell that came to\nlife. Peering into the crack on its\nback is said to steal one’s spirit."
+      },
+      {
+        "game": "pt",
+        "text": "A discarded bug shell that came to\nlife. Peering into the crack on its\nback is said to steal one’s spirit."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "A strange Pokémon--it flies without\nmoving its wings, has a hollow shell\nfor a body, and does not breathe."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "A strange Pokémon--it flies without\nmoving its wings, has a hollow shell\nfor a body, and does not breathe."
+      },
+      {
+        "game": "bw-b",
+        "text": "A discarded bug shell that came to\nlife. Peering into the crack on its\nback is said to steal one’s spirit."
+      },
+      {
+        "game": "bw-w",
+        "text": "A discarded bug shell that came to\nlife. Peering into the crack on its\nback is said to steal one’s spirit."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "A discarded bug shell that came to\nlife. Peering into the crack on its\nback is said to steal one’s spirit."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "A discarded bug shell that came to\nlife. Peering into the crack on its\nback is said to steal one’s spirit."
+      },
+      {
+        "game": "xy-x",
+        "text": "A discarded bug shell that came to life. Peering into\nthe crack on its back is said to steal one’s spirit."
+      },
+      {
+        "game": "xy-y",
+        "text": "A most peculiar Pokémon that somehow appears in\na Poké Ball when a Nincada evolves."
+      },
+      {
+        "game": "oras-or",
+        "text": "Shedinja’s hard body doesn’t move—not even a twitch. In fact,\nits body appears to be merely a hollow shell. It is believed that\nthis Pokémon will steal the spirit of anyone peering into its\nhollow body from its back."
+      },
+      {
+        "game": "oras-as",
+        "text": "Shedinja is a peculiar Pokémon. It seems to appear unsought\nin a Poké Ball after a Nincada evolves. This bizarre Pokémon\nis entirely immobile—it doesn’t even breathe."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "A most peculiar Pokémon that somehow appears\nin a Poké Ball when a Nincada evolves."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "A strange Pokémon—it flies without moving its\nwings, has a hollow shell for a body, and does\nnot breathe."
+      }
+    ]
+  },
+  "chs": {
+    "name": "脱壳忍者",
+    "genus": "空壳宝可梦",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "它是一种在土居忍士进化时，\n会神不知鬼不觉地出现在\n精灵球里的神奇宝可梦。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "不拍动翅膀也能四处飞行。\n身体里面空空的，是一种\n不呼吸的奇妙宝可梦。"
+      }
+    ]
+  }
+}

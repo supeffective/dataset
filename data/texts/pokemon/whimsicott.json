@@ -1,0 +1,413 @@
+{
+  "jap": {
+    "name": "エルフーン",
+    "genus": "かぜかくれポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "つむじかぜと　ともに　あらわれて\nいえのなかの　かぐを　うごかしたり\nわたを　のこす　いたずらをする。"
+      },
+      {
+        "game": "xy-y",
+        "text": "どんなに　ほそい　すきまでも\nかぜのように　くぐりぬけてしまう。\nしろい　けだまを　のこしていく。"
+      },
+      {
+        "game": "oras-or",
+        "text": "つむじかぜと　ともに　あらわれて\nいえのなかの　かぐを　うごかしたり\nわたを　のこす　いたずらをする。"
+      },
+      {
+        "game": "oras-as",
+        "text": "どんなに　ほそい　すきまでも\nかぜのように　くぐりぬけてしまう。\nしろい　けだまを　のこしていく。"
+      },
+      {
+        "game": "sm-s",
+        "text": "かぜに　のり　みんかに　しんにゅう。\nへやじゅうを　わたまみれに　すると\nニコニコ　わらって　さっていく。"
+      },
+      {
+        "game": "sm-m",
+        "text": "かぜに　のって　あらわれるが\nあまりに　かぜが　つよすぎると\nあたまの　わたが　ちぎれてしまう。"
+      },
+      {
+        "game": "usum-us",
+        "text": "みんかに　しのびこみ　たいせつな\nものを　かくしたり　へやじゅうに\nわたを　まきちらす　やっかいものだ。"
+      },
+      {
+        "game": "usum-um",
+        "text": "とくていの　すみかを　もたない。\nつむじかぜに　のって　あちこちに\nあらわれては　イタズラを　するのだ。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "ワタを　まきちらし　イタズラする。\nみずを　かけると　おもくなって\nうごけなくなり　かんねんするぞ。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "ひのひかりを　あびるたび　ワタが\nふくらんでいく。　ふくらみすぎると\nちぎって　あたりに　まきちらす。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Elfuun",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "엘풍",
+    "genus": "바람숨기포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "회오리바람과 함께 나타나\n집 안의 가구를 움직이거나\n솜을 남기는 장난을 친다."
+      },
+      {
+        "game": "xy-y",
+        "text": "아무리 좁은 틈이라도\n바람처럼 빠져나간다.\n하얀 털 뭉치를 남기고 간다."
+      },
+      {
+        "game": "oras-or",
+        "text": "회오리바람과 함께 나타나\n집 안의 가구를 움직이거나\n솜을 남기는 장난을 친다."
+      },
+      {
+        "game": "oras-as",
+        "text": "아무리 좁은 틈이라도\n바람처럼 빠져나간다.\n하얀 털 뭉치를 남기고 간다."
+      },
+      {
+        "game": "sm-s",
+        "text": "바람을 타고 민가에 침입한다.\n방 안을 솜투성이로 만들고\n싱글벙글 웃으며 떠난다."
+      },
+      {
+        "game": "sm-m",
+        "text": "바람을 타고 나타나지만\n바람이 너무 강하면\n머리의 솜이 흩어져 버린다."
+      },
+      {
+        "game": "usum-us",
+        "text": "민가에 몰래 들어가 소중한 물건을\n감추거나 솜을 방 안에 여기저기\n흩트러 놓는 성가신 존재이다."
+      },
+      {
+        "game": "usum-um",
+        "text": "특정한 서식지가 정해져 있지 않다.\n회오리바람을 타고 여기저기에\n나타나서는 장난을 친다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "솜을 흩뿌리며 장난을 친다.\n물을 끼얹으면 무거워져서\n움직일 수 없게 되어 포기한다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "햇빛을 받을수록 솜이\n부풀어 오른다. 너무 부풀면\n찢어져 주위로 흩어진다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "風妖精",
+    "genus": "風隱寶可夢",
+    "flavorText": [
+      {
+        "game": "usum-um",
+        "text": "沒有特定的棲息地。\n會乘著旋風移動，\n到處現身去惡作劇。"
+      },
+      {
+        "game": "sm-s",
+        "text": "乘著風侵入民居。\n把房間裡弄得滿是棉絮後，\n就會嘻嘻哈哈地笑著離去。"
+      },
+      {
+        "game": "sm-m",
+        "text": "乘著風出現，\n但如果風力過強，\n頭上的棉花就會被風扯掉。"
+      },
+      {
+        "game": "usum-us",
+        "text": "會潛入人們家裡藏起重要的東西，\n或是把棉花撒得滿屋子都是，\n是個麻煩的傢伙。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "喜歡到處撒棉花搗蛋。\n沾水之後就會變重而\n動彈不得，只能聽天由命。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "每當沐浴陽光，身上的棉花\n就會膨脹。如果膨脹過了頭，\n牠就會把棉花扯開到處亂撒。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Farfaduvet",
+    "genus": "Pokémon Vole Vent",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Il se faufile comme le vent par les\nespaces les plus étroits, en laissant\nune touffe de poils blancs."
+      },
+      {
+        "game": "bw-w",
+        "text": "Il apparaît dans un tourbillon de vent,\ns’introduit dans les maisons par les\ninterstices et y joue de mauvais tours."
+      },
+      {
+        "game": "xy-x",
+        "text": "Il apparaît dans un tourbillon de vent, s’introduit dans\nles maisons et y joue de mauvais tours."
+      },
+      {
+        "game": "xy-y",
+        "text": "Il se faufile comme le vent par les espaces les plus\nétroits, en laissant une touffe de poils blancs."
+      },
+      {
+        "game": "usum-um",
+        "text": "Ce Pokémon sans domicile fixe se laisse porter\npar les tornades et sème la zizanie partout où\nil passe."
+      },
+      {
+        "game": "oras-or",
+        "text": "Il apparaît dans un tourbillon de vent, s’introduit dans\nles maisons et y joue de mauvais tours."
+      },
+      {
+        "game": "oras-as",
+        "text": "Il se faufile comme le vent par les espaces les plus étroits,\nen laissant une touffe de poils blancs."
+      },
+      {
+        "game": "sm-s",
+        "text": "Il s’introduit chez les gens à la faveur d’un\ncourant d’air, répand du coton aux quatre coins\nde la pièce puis repart comme si de rien n’était."
+      },
+      {
+        "game": "sm-m",
+        "text": "Ce Pokémon se déplace au gré du vent. Lorsqu’il\nsouffle trop fort, il arrive que Farfaduvet perde\nle coton qu’il porte sur sa tête."
+      },
+      {
+        "game": "usum-us",
+        "text": "Ce petit chenapan s’introduit chez les gens,\ncache leurs affaires et répand du coton aux\nquatre coins de la pièce."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Il joue de mauvais tours en répandant son coton.\nSi on le mouille, il s’alourdit et ne peut plus\nbouger, ce qui l’oblige à s’avouer vaincu."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Son coton se met à gonfler sous les rayons\ndu soleil. Quand il est trop volumineux,\nil s’effiloche et se répand aux alentours."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Elfun",
+    "genus": "Windschatten-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Sie erscheinen mit Orkanböen und spielen den\nLeuten Streiche, indem sie in Häusern Möbel\nverrücken oder Watte verstreuen."
+      },
+      {
+        "game": "xy-y",
+        "text": "Passiert wie ein Luftzug mühelos jeden noch so engen\nSpalt und hinterlässt dort nichts als ein weißes\nFellknäuel."
+      },
+      {
+        "game": "oras-or",
+        "text": "Sie erscheinen mit Orkanböen und spielen den Leuten\nStreiche, indem sie in Häusern Möbel verrücken oder\nWatte verstreuen."
+      },
+      {
+        "game": "oras-as",
+        "text": "Passiert wie ein Luftzug mühelos jeden noch so engen Spalt\nund hinterlässt dort nichts als ein weißes Fellknäuel."
+      },
+      {
+        "game": "sm-s",
+        "text": "Über Luftzüge dringt es in Häuser ein, verstreut\nin allen Zimmern Watte und macht sich dann\nlächelnd davon."
+      },
+      {
+        "game": "sm-m",
+        "text": "Es reitet auf dem Wind, doch wenn dieser\nzu stark ist, wird die Watte an seinem Kopf\nabgerissen."
+      },
+      {
+        "game": "usum-us",
+        "text": "Ein Störenfried, der heimlich in Wohnhäuser\neindringt und dann wichtige Dinge versteckt\nsowie in allen Zimmern Watte verstreut."
+      },
+      {
+        "game": "usum-um",
+        "text": "Es lässt sich nirgends nieder, sondern reitet\nwohin auch immer Orkanböen es tragen und\nspielt den Leuten dann Streiche."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Es verstreut Watte, um Leute zu ärgern. Es hört\ndamit auf, wenn es nass wird, weil es dann zu\nschwer ist und sich nicht mehr bewegen kann."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Sonnenlicht lässt seine Wolle anwachsen. Wird\ndas Volumen zu groß, zupft es die Wolle ab und\nverstreut sie überall in der Gegend."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Whimsicott",
+    "genus": "Pokémon Vuelalviento",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Aparecen en medio de un torbellino y entran en las\ncasas para descolocar los muebles o esparcir algodón\npor doquier."
+      },
+      {
+        "game": "xy-y",
+        "text": "Es capaz de atravesar las más mínimas fisuras. A su\npaso, deja bolitas blancas de pelo."
+      },
+      {
+        "game": "oras-or",
+        "text": "Aparecen en medio de un torbellino y entran en las casas para\ndescolocar los muebles o esparcir algodón por doquier."
+      },
+      {
+        "game": "oras-as",
+        "text": "Es capaz de atravesar las más mínimas fisuras. A su paso,\ndeja bolitas blancas de pelo."
+      },
+      {
+        "game": "sm-s",
+        "text": "Entra en las casas con las corrientes de aire y\nesparce algodón por todas partes. Desaparece\nentre risas tras su travesura."
+      },
+      {
+        "game": "sm-m",
+        "text": "Aparece al levantarse el viento, pero, cuando\neste arrecia, pierde el algodón de la cabeza."
+      },
+      {
+        "game": "usum-us",
+        "text": "Este travieso Pokémon entra sigilosamente en\nlas casas, esconde los objetos valiosos y\ndispersa bolas de algodón por todas partes."
+      },
+      {
+        "game": "usum-um",
+        "text": "Este Pokémon no vive en un lugar determinado,\nsino que se deja llevar por los torbellinos para\ndesplazarse y realizar sus travesuras."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Este travieso Pokémon se divierte esparciendo\nbolas de algodón. Al mojarlo, su peso aumenta\ntanto que no logra moverse y se da por vencido."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Su algodón se expande cuando recibe los rayos\ndel sol, pero acaba desprendiéndose si se vuelve\ndemasiado voluminoso."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Whimsicott",
+    "genus": "Pokémon Spiffero",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Appare con un vortice d’aria, facendo piccoli dispetti\ncome spostare i mobili nelle case o lasciare cotone\novunque."
+      },
+      {
+        "game": "xy-y",
+        "text": "Si infiltra nelle fessure più sottili, come un soffio di\nvento, lasciando dietro di sé dei batuffoli bianchi."
+      },
+      {
+        "game": "oras-or",
+        "text": "Appare con un vortice d’aria, facendo piccoli dispetti come\nspostare i mobili nelle case o lasciare cotone ovunque."
+      },
+      {
+        "game": "oras-as",
+        "text": "Si infiltra nelle fessure più sottili, come un soffio di vento,\nlasciando dietro di sé dei batuffoli bianchi."
+      },
+      {
+        "game": "sm-s",
+        "text": "Entra nelle case trasportato dal vento.\nDopo averle riempite di cotone, se ne va\nridendo felice."
+      },
+      {
+        "game": "sm-m",
+        "text": "Si sposta fluttuando nell’aria.\nSe il vento è troppo forte, perde il cotone che ha\nsulla testa."
+      },
+      {
+        "game": "usum-us",
+        "text": "È dispettoso e ama entrare di soppiatto nelle\ncase, nascondendo oggetti importanti e\nspargendo cotone ovunque."
+      },
+      {
+        "game": "usum-um",
+        "text": "Non ha un habitat fisso e si sposta fluttuando\ntrasportato dai vortici d’aria, facendo dispetti\novunque va."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Si diverte a spargere cotone ovunque. Se gli si\nversa dell’acqua addosso, diventa troppo\npesante per muoversi e si arrende."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Il cotone sul suo corpo si gonfia con la luce\ndel sole. Quando diventa eccessivamente\nvoluminoso, si stacca disperdendosi ovunque."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Whimsicott",
+    "genus": "Windveiled Pokémon",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Like the wind, it can slip through any\ngap, no matter how small. It leaves\nballs of white fluff behind."
+      },
+      {
+        "game": "bw-w",
+        "text": "Riding whirlwinds, they appear.\nThese Pokémon sneak through gaps into\nhouses and cause all sorts of mischief."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "They appear along with whirlwinds. They\npull pranks, such as moving furniture\nand leaving balls of cotton in homes."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "They appear along with whirlwinds. They\npull pranks, such as moving furniture\nand leaving balls of cotton in homes."
+      },
+      {
+        "game": "xy-x",
+        "text": "They appear along with whirlwinds. They pull\npranks, such as moving furniture and leaving balls\nof cotton in homes."
+      },
+      {
+        "game": "xy-y",
+        "text": "Like the wind, it can slip through any gap,\nno matter how small. It leaves balls of white\nfluff behind."
+      },
+      {
+        "game": "oras-or",
+        "text": "They appear along with whirlwinds. They pull\npranks, such as moving furniture and leaving balls\nof cotton in homes."
+      },
+      {
+        "game": "oras-as",
+        "text": "Like the wind, it can slip through any gap,\nno matter how small. It leaves balls of white\nfluff behind."
+      },
+      {
+        "game": "sm-s",
+        "text": "It rides on the wind and slips into people’s\nhomes. After it has turned a room into a cotton-\nfilled mess, it giggles to itself and takes off."
+      },
+      {
+        "game": "sm-m",
+        "text": "This Pokémon appears, riding upon the wind.\nBut if the wind gusts up, it’ll blow the cotton on\nthis Pokémon’s head clean off."
+      },
+      {
+        "game": "usum-us",
+        "text": "This nuisance sneaks into people’s homes,\nwhere it hides important things and scatters\ncotton all over the place."
+      },
+      {
+        "game": "usum-um",
+        "text": "Whimsicott doesn’t live in a fixed location. It\nfloats around on whirling winds, appearing all\nover the place to perform its mischief."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "It scatters cotton all over the place as a prank. If\nit gets wet, it’ll become too heavy to move and\nhave no choice but to answer for its mischief."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "As long as this Pokémon bathes in sunlight, its\ncotton keeps growing. If too much cotton fluff\nbuilds up, Whimsicott tears it off and scatters it."
+      }
+    ]
+  },
+  "chs": {
+    "name": "风妖精",
+    "genus": "风隐宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "乘着风侵入民居。\n把房间里弄得满是棉花后，\n咯咯咯地笑着离去。"
+      },
+      {
+        "game": "sm-m",
+        "text": "乘着风出现，\n但如果风力过强，\n头上的棉花就会被风扯掉。"
+      },
+      {
+        "game": "usum-us",
+        "text": "潜入民居，藏起重要的东西，\n或是在屋子里到处撒棉花，\n是个捣蛋的家伙。"
+      },
+      {
+        "game": "usum-um",
+        "text": "并没有特定的栖息地。\n乘着旋风到处现身，搞恶作剧。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "喜欢到处撒棉花捣蛋。\n沾水之后就会变重而\n动弹不得，只能听天由命。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "每当沐浴阳光，身上的棉花\n就会膨胀。如果膨胀过了头，\n它就会把棉花扯开到处乱撒。"
+      }
+    ]
+  }
+}

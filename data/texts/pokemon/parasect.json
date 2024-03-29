@@ -1,0 +1,481 @@
+{
+  "jap": {
+    "name": "パラセクト",
+    "genus": "きのこポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "からだよりも　おおきな　キノコが\nパラセクトを　あやつっている。\nどくの　ほうしを　ばらまく。"
+      },
+      {
+        "game": "xy-y",
+        "text": "せなかの　キノコが　そだつほど\nばらまかれる　キノコのほうしの\nこうかは　きょうりょくになる。"
+      },
+      {
+        "game": "oras-or",
+        "text": "パラセクトは　しゅうだんで　たいぼくの　ねもとに\nくっついて　えいようを　すいとってしまう。\nかれると　いっせいに　べつの　きに　いどうする。"
+      },
+      {
+        "game": "oras-as",
+        "text": "パラセクトは　しゅうだんで　たいぼくの　ねもとに\nくっついて　えいようを　すいとってしまう。\nかれると　いっせいに　べつの　きに　いどうする。"
+      },
+      {
+        "game": "sm-s",
+        "text": "おおきな　キノコが　パラセクトを\nあやつっている。　よく　マシェードと\nなわばりあらそいを　している。"
+      },
+      {
+        "game": "sm-m",
+        "text": "キノコの　カサから　どくのほうしを\nまきちらす。　ほうしを　あつめて\nせんじると　かんぽうやくに　なる。"
+      },
+      {
+        "game": "usum-us",
+        "text": "ムシの　ほうは　ほぼ　しんでいて\nほんたいは　せなかの　キノコだ。\nもげると　もう　うごかなくなる。"
+      },
+      {
+        "game": "usum-um",
+        "text": "どくの　ほうしは　かんぽうやくにも\nつかわれる。　アローラさんは\nあまり　しつが　よくないらしい。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "ずっと　エキスを　すいつづけられ\nもはや　ムシではなく　せなかの\nキノコが　かんがえているようだ。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "ずっと　エキスを　すいつづけられ\nもはや　ムシではなく　せなかの\nキノコが　かんがえているようだ。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Parasect",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "파라섹트",
+    "genus": "버섯포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "몸보다 큰 버섯이\n파라섹트를 조종하고 있다.\n독 포자를 여기저기 뿌린다."
+      },
+      {
+        "game": "xy-y",
+        "text": "등의 버섯이 자랄수록\n흩뿌려지는 버섯포자의\n효과는 강력해진다."
+      },
+      {
+        "game": "oras-or",
+        "text": "파라섹트는 집단으로 큰 나무의 밑동에\n붙어 영양을 빨아들인다.\n말라버리면 일제히 다른 나무로 이동한다."
+      },
+      {
+        "game": "oras-as",
+        "text": "파라섹트는 집단으로 큰 나무의 밑동에\n붙어 영양을 빨아들인다.\n말라버리면 일제히 다른 나무로 이동한다."
+      },
+      {
+        "game": "sm-s",
+        "text": "큰 버섯이 파라섹트를\n조종하고 있다. 자주 마셰이드와\n영역싸움을 하고 있다."
+      },
+      {
+        "game": "sm-m",
+        "text": "버섯의 갓에서 독 포자를\n흩뿌린다. 포자를 모아서\n달이면 한약이 된다."
+      },
+      {
+        "game": "usum-us",
+        "text": "벌레는 거의 죽은 상태이고\n본체는 등의 버섯이다.\n떨어지면 더는 움직일 수 없다."
+      },
+      {
+        "game": "usum-um",
+        "text": "독 포자는 한방약으로도\n사용된다. 알로라산은\n그다지 품질이 좋지 않다고 한다."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "계속 진액을 빨아 먹혀서\n이제는 벌레가 아니라 등에 있는\n버섯이 생각하고 있는 듯하다."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "계속 진액을 빨아 먹혀서\n이제는 벌레가 아니라 등에 있는\n버섯이 생각하고 있는 듯하다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "派拉斯特",
+    "genus": "蘑菇寶可夢",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "大大的蘑菇操縱著派拉斯特。\n經常和燈罩夜菇爭奪地盤。"
+      },
+      {
+        "game": "sm-m",
+        "text": "從蘑菇的菌傘處撒出有毒的孢子。\n收集孢子用水煎就能成為中藥。"
+      },
+      {
+        "game": "usum-us",
+        "text": "本體是背上的蘑菇，\n底下的蟲子幾乎已經死亡。\n一旦蘑菇脫落，牠就再也不會動了。"
+      },
+      {
+        "game": "usum-um",
+        "text": "有毒的孢子也能用於中藥。\n但阿羅拉地區生產出來的品質\n似乎不怎麼樣。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "由於蟲子的精華不斷被吸走，\n在思考的似乎已經不是蟲子，\n而是背上的蘑菇了。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "由於蟲子的精華不斷被吸走，\n在思考的似乎已經不是蟲子，\n而是背上的蘑菇了。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Parasect",
+    "genus": "Pokémon Champignon",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Un champignon parasite plus gros\nque Parasect contrôle son corps.\nIl répand des spores empoisonnées."
+      },
+      {
+        "game": "bw-w",
+        "text": "Un champignon parasite plus gros\nque Parasect contrôle son corps.\nIl répand des spores empoisonnées."
+      },
+      {
+        "game": "xy-x",
+        "text": "Un champignon parasite plus gros que Parasect\ncontrôle son corps. Il répand des spores\nempoisonnées."
+      },
+      {
+        "game": "xy-y",
+        "text": "Plus le champignon sur son dos grandit, plus celui-ci\német des spores puissantes dans l’air."
+      },
+      {
+        "game": "oras-or",
+        "text": "On sait que les Parasect vivent en groupe dans les grands\narbres et se nourrissent des nutriments contenus dans le tronc\net les racines. Lorsqu’un arbre infesté meurt, ils se précipitent\nvers le prochain."
+      },
+      {
+        "game": "oras-as",
+        "text": "On sait que les Parasect vivent en groupe dans les grands\narbres et se nourrissent des nutriments contenus dans le tronc\net les racines. Lorsqu’un arbre infesté meurt, ils se précipitent\nvers le prochain."
+      },
+      {
+        "game": "sm-s",
+        "text": "Le gros champignon sur son dos contrôle\nle Pokémon. Lampignon et Parasect\nse disputent souvent un même territoire."
+      },
+      {
+        "game": "sm-m",
+        "text": "Il répand des spores empoisonnées depuis son\nchapeau. On peut les récolter et les faire sécher\npour préparer des remèdes traditionnels."
+      },
+      {
+        "game": "usum-us",
+        "text": "L’insecte est quasiment mort, à ce stade, et le\nchampignon est devenu le véritable cerveau.\nSi on l’ôte de son dos, il ne peut plus bouger."
+      },
+      {
+        "game": "usum-um",
+        "text": "Des remèdes traditionnels sont préparés avec\nses spores empoisonnées, mais ceux produits\nà Alola seraient de moindre qualité."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "À force de voir son énergie aspirée, il semblerait\nque ce ne soit plus l’insecte qui réfléchisse,\nmais le champignon sur son dos."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "À force de voir son énergie aspirée, il semblerait\nque ce ne soit plus l’insecte qui réfléchisse,\nmais le champignon sur son dos."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Parasek",
+    "genus": "Pilz",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Parasek wird von einem Pilz, der größer als das\nPokémon ist, kontrolliert. Er gibt Giftsporen ab."
+      },
+      {
+        "game": "xy-y",
+        "text": "Je größer der Pilz auf seinem Rücken wird, desto\nstärker werden auch die Sporen, die es verteilt."
+      },
+      {
+        "game": "oras-or",
+        "text": "Parasek sucht große Bäume heim und entzieht Nährstoffe aus\nStamm und Wurzeln. Wenn ein befallener Baum stirbt, sucht es\nsich zusammen mit seinen Artgenossen einen neuen Wirt."
+      },
+      {
+        "game": "oras-as",
+        "text": "Parasek sucht große Bäume heim und entzieht Nährstoffe aus\nStamm und Wurzeln. Wenn ein befallener Baum stirbt, sucht es\nsich zusammen mit seinen Artgenossen einen neuen Wirt."
+      },
+      {
+        "game": "sm-s",
+        "text": "Parasek wird von dem Pilz auf seinen Rücken\nkontrolliert. Es ist oft mit Lamellux in\nRevierstreitigkeiten verstrickt."
+      },
+      {
+        "game": "sm-m",
+        "text": "Der Pilz auf seinem Rücken stößt Giftsporen\naus. Kocht man ihn ab, lässt er sich als\nnatürliches Heilmittel verwerten."
+      },
+      {
+        "game": "usum-us",
+        "text": "Der Pilz auf seinem Rücken ist sein wichtigstes\nKörperteil. Der Rest ist quasi leblos und kann\nsich ohne den Pilz nicht bewegen."
+      },
+      {
+        "game": "usum-um",
+        "text": "Seine Giftsporen werden als natürliches\nHeilmittel verwendet, doch bei Parasek aus\nAlola ist die Qualität etwas minderwertig."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Der Pilz auf Paraseks Rücken nutzt das Pokémon\nals Wirt und entzieht ihm Energie. Es scheint,\nals habe er die Kontrolle über das Pokémon."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Der Pilz auf Paraseks Rücken nutzt das Pokémon\nals Wirt und entzieht ihm Energie. Es scheint,\nals habe er die Kontrolle über das Pokémon."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Parasect",
+    "genus": "Pokémon Hongo",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Parasect está dominado por una seta parásita mayor\nque él. Dispersa esporas venenosas."
+      },
+      {
+        "game": "xy-y",
+        "text": "Cuanto más grande sea la seta de su lomo, más\nresistentes serán las esporas que esta suelta."
+      },
+      {
+        "game": "oras-or",
+        "text": "Parasect es conocido por destruir en plaga grandes árboles,\nabsorbiendo los nutrientes que tienen en la parte baja del\ntronco y las raíces. Cuando un árbol azotado por la plaga\nmuere, los Parasect van a por el siguiente al instante."
+      },
+      {
+        "game": "oras-as",
+        "text": "Parasect es conocido por destruir en plaga grandes árboles,\nabsorbiendo los nutrientes que tienen en la parte baja del\ntronco y las raíces. Cuando un árbol azotado por la plaga\nmuere, los Parasect van a por el siguiente al instante."
+      },
+      {
+        "game": "sm-s",
+        "text": "La gran seta en su lomo lo controla. A menudo\nlibra luchas territoriales contra Shiinotic."
+      },
+      {
+        "game": "sm-m",
+        "text": "La gran seta en su lomo dispersa esporas\nvenenosas, que pueden servir para elaborar\nremedios medicinales."
+      },
+      {
+        "game": "usum-us",
+        "text": "La mayor parte de su cuerpo está atrofiada,\nexcepto la seta del dorso, que controla al resto.\nSi se desprende, Parasect ya no podrá moverse."
+      },
+      {
+        "game": "usum-um",
+        "text": "Sus esporas venenosas se usan para elaborar\nremedios medicinales que en Alola, al parecer,\nson de calidad más bien mediocre."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Tras largo tiempo absorbiendo la energía del\nhuésped, la seta parásita del lomo es la que\nparece controlar la voluntad de este Pokémon."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Tras largo tiempo absorbiendo la energía del\nhuésped, la seta parásita del lomo es la que\nparece controlar la voluntad de este Pokémon."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Parasect",
+    "genus": "Pokémon Fungo",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Parasect è controllato da un fungo ancora più\ngrosso del suo corpo. Diffonde spore velenose."
+      },
+      {
+        "game": "xy-y",
+        "text": "Più cresce il fungo che ha sul dorso, più forti\ndiventano le spore che sparge."
+      },
+      {
+        "game": "oras-or",
+        "text": "I Parasect agiscono in gruppo e sono noti per la loro abilità\ndi infestare gli alberi traendo nutrimento da tronchi e radici.\nQuando muore un albero infestato, ne cercano subito un altro."
+      },
+      {
+        "game": "oras-as",
+        "text": "I Parasect agiscono in gruppo e sono noti per la loro abilità\ndi infestare gli alberi traendo nutrimento da tronchi e radici.\nQuando muore un albero infestato, ne cercano subito un altro."
+      },
+      {
+        "game": "sm-s",
+        "text": "Parasect è controllato dal grande fungo che ha\nsul dorso. Spesso si contende il territorio con\ngli Shiinotic."
+      },
+      {
+        "game": "sm-m",
+        "text": "Sparge spore velenose dal fungo che ha\nsul dorso. Se raccolte e fatte bollire, queste\nspore possono essere usate come farmaco."
+      },
+      {
+        "game": "usum-us",
+        "text": "La parte essenziale di questo Pokémon,\npraticamente morto, è costituita dal fungo sulla\nsua schiena. Se si stacca, non può più muoversi."
+      },
+      {
+        "game": "usum-um",
+        "text": "Dalle sue spore velenose si possono ricavare\ndei farmaci. Tuttavia, sembra che quelli prodotti\nad Alola non siano di buona qualità."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Il fungo sulla schiena assorbe l’energia\ndell’organismo ospite, su cui ha anche\npieno controllo."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Il fungo sulla schiena assorbe l’energia\ndell’organismo ospite, su cui ha anche\npieno controllo."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Parasect",
+    "genus": "Mushroom Pokémon",
+    "flavorText": [
+      {
+        "game": "rb-r",
+        "text": "A host-parasite\npair in which the\nparasite mushroom\fhas taken over the\nhost bug. Prefers\ndamp places."
+      },
+      {
+        "game": "rb-b",
+        "text": "A host-parasite\npair in which the\nparasite mushroom\fhas taken over the\nhost bug. Prefers\ndamp places."
+      },
+      {
+        "game": "y",
+        "text": "The bug host is\ndrained of energy\nby the mushrooms\fon its back. They\nappear to do all\nthe thinking."
+      },
+      {
+        "game": "gs-g",
+        "text": "It stays mostly in\ndark, damp places,\nthe preference not\fof the bug, but\nof the big mush­\nrooms on its back."
+      },
+      {
+        "game": "gs-s",
+        "text": "The larger the\nmushroom on its\nback grows, the\fstronger the mush­\nroom spores it\nscatters."
+      },
+      {
+        "game": "c",
+        "text": "When nothing's\nleft to extract\nfrom the bug, the\fmushrooms on its\nback leave spores\non the bug's egg."
+      },
+      {
+        "game": "rs-r",
+        "text": "PARASECT is known to infest large trees\nen masse and drain nutrients from the\nlower trunk and roots.\fWhen an infested tree dies, they move\nonto another tree all at once."
+      },
+      {
+        "game": "rs-s",
+        "text": "PARASECT is known to infest large trees\nen masse and drain nutrients from the\nlower trunk and roots.\fWhen an infested tree dies, they move\nonto another tree all at once."
+      },
+      {
+        "game": "e",
+        "text": "PARASECT are known to infest the roots of\nlarge trees en masse and drain nutrients.\nWhen an infested tree dies, they move\nonto another tree all at once."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "It scatters toxic spores from the\nmushroom cap. In China, the spores are\nused as herbal medicine."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "A host-parasite pair in which the parasite\nmushroom has taken over the host bug.\nPrefers damp places. "
+      },
+      {
+        "game": "dp-d",
+        "text": "A mushroom grown larger than the\nhost’s body controls PARASECT.\nIt scatters poisonous spores."
+      },
+      {
+        "game": "dp-p",
+        "text": "It is controlled by a mushroom\ngrown larger than the bug body.\nIt is said to prefer damp places."
+      },
+      {
+        "game": "pt",
+        "text": "A mushroom grown larger than the\nhost’s body controls PARASECT.\nIt scatters poisonous spores."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "It stays mostly in dark, damp places,\nthe preference not of the bug, but\nof the big mushroom on its back."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "The larger the mushroom on its\nback grows, the stronger the\nmushroom spores it scatters."
+      },
+      {
+        "game": "bw-b",
+        "text": "A mushroom grown larger than the\nhost’s body controls Parasect.\nIt scatters poisonous spores."
+      },
+      {
+        "game": "bw-w",
+        "text": "A mushroom grown larger than the\nhost’s body controls Parasect.\nIt scatters poisonous spores."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "A mushroom grown larger than the\nhost’s body controls Parasect.\nIt scatters poisonous spores."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "A mushroom grown larger than the\nhost’s body controls Parasect.\nIt scatters poisonous spores."
+      },
+      {
+        "game": "xy-x",
+        "text": "A mushroom grown larger than the host’s body\ncontrols Parasect. It scatters poisonous spores."
+      },
+      {
+        "game": "xy-y",
+        "text": "The larger the mushroom on its back grows,\nthe stronger the mushroom spores it scatters."
+      },
+      {
+        "game": "oras-or",
+        "text": "Parasect is known to infest large trees en masse and drain\nnutrients from the lower trunk and roots. When an infested tree\ndies, they move onto another tree all at once."
+      },
+      {
+        "game": "oras-as",
+        "text": "Parasect is known to infest large trees en masse and drain\nnutrients from the lower trunk and roots. When an infested\ntree dies, they move onto another tree all at once."
+      },
+      {
+        "game": "sm-s",
+        "text": "The large mushroom on its back controls it.\nIt often fights over territory with Shiinotic."
+      },
+      {
+        "game": "sm-m",
+        "text": "It scatters toxic spores from its mushroom cap.\nOnce harvested, these spores can be steeped\nand boiled down to prepare herbal medicines."
+      },
+      {
+        "game": "usum-us",
+        "text": "The bug is mostly dead, with the mushroom on\nits back having become the main body. If the\nmushroom comes off, the bug stops moving."
+      },
+      {
+        "game": "usum-um",
+        "text": "Its poisonous spores are also used in traditional\nmedicine. Apparently, spores produced in Alola\nare not of very good quality."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "The bug host is drained of energy by\nthe mushroom on its back. The mushroom\nappears to do all the thinking."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "The bug host is drained of energy by\nthe mushroom on its back. The mushroom\nappears to do all the thinking."
+      },
+      {
+        "game": "la",
+        "text": "Mushroom-lacking specimens of this Pokémon lie unmoving in\nthe forest, lending credence to the hypothesis that the large\nmushroom is in control of Parasect's actions."
+      }
+    ]
+  },
+  "chs": {
+    "name": "派拉斯特",
+    "genus": "蘑菇宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "大大的蘑菇操纵着派拉斯特。\n经常和灯罩夜菇争夺领地。"
+      },
+      {
+        "game": "sm-m",
+        "text": "从蘑菇的菌伞处撒出有毒的孢子。\n收集孢子用水煎就能成为中药。"
+      },
+      {
+        "game": "usum-us",
+        "text": "底下的虫子基本上死了，\n真正的本体是背上的蘑菇。\n如果蘑菇掉下来，它就不会动了。"
+      },
+      {
+        "game": "usum-um",
+        "text": "有毒的孢子也能用于中药。\n阿罗拉产的好像品质不怎么样。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "由于虫子的精华不断被吸走，\n在思考的似乎已经不是虫子，\n而是背上的蘑菇了。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "由于虫子的精华不断被吸走，\n在思考的似乎已经不是虫子，\n而是背上的蘑菇了。"
+      }
+    ]
+  }
+}

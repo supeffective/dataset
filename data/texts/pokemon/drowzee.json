@@ -1,0 +1,477 @@
+{
+  "jap": {
+    "name": "スリープ",
+    "genus": "さいみんポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "ねむらせては　ユメを　たべるが\nわるい　ユメばかり　たべてると\nおなかを　こわすことが　あるらしい。"
+      },
+      {
+        "game": "xy-y",
+        "text": "たのしいユメを　みていたはずなのに\nどんなユメか　おもいだせないとき。\nきっと　スリープに　たべられたのだ。"
+      },
+      {
+        "game": "oras-or",
+        "text": "ねむっているとき　キミの　はなが　ムズムズしたら\nまくらもとに　たった　スリープが　はなの\nあなから　ゆめを　たべようとしている　あいず。"
+      },
+      {
+        "game": "oras-as",
+        "text": "ねむっているとき　キミの　はなが　ムズムズしたら\nまくらもとに　たった　スリープが　はなの\nあなから　ゆめを　たべようとしている　あいず。"
+      },
+      {
+        "game": "sm-s",
+        "text": "ユメを　くらって　いきる　ポケモン。\nムンナや　ムシャーナと　きょうつうの\nそせんを　もつと　かんがえられている。"
+      },
+      {
+        "game": "sm-m",
+        "text": "こと　たのしいユメは　うまいらしい。\nなつくと　いちばん　おいしかった\nユメを　みせてくれることも　あるよ。"
+      },
+      {
+        "game": "usum-us",
+        "text": "レジャーしせつの　ちかくで　すがたを\nみかける。　そのばん　こどもが　みる\nたのしいユメを　ねらって　いるのだ。"
+      },
+      {
+        "game": "usum-um",
+        "text": "えものを　ねむらせ　みている　ユメを\nくらう。　わるいユメは　すっぱくて\nあまり　このんで　たべないらしい。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "いつも　いっしょに　ねむってみると\nときどき　むかし　たべたユメを\nみせてくれる　よるがある。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "いつも　いっしょに　ねむってみると\nときどき　むかし　たべたユメを\nみせてくれる　よるがある。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Sleep",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "슬리프",
+    "genus": "최면포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "잠들게 한 뒤 꿈을 먹지만\n나쁜 꿈만 먹고 있으면\n배탈이 날 때도 있는 것 같다."
+      },
+      {
+        "game": "xy-y",
+        "text": "즐거운 꿈을 꾸고 있었는데\n어떤 꿈인지 생각나지 않을 때는\n분명히 슬리프가 꿈을 먹었을 것이다."
+      },
+      {
+        "game": "oras-or",
+        "text": "잠들었을 때 너의 코가 근질근질하다면\n슬리프가 머리맡에 서서 콧구멍을\n통해 꿈을 먹으려고 하는 신호다."
+      },
+      {
+        "game": "oras-as",
+        "text": "잠들었을 때 너의 코가 근질근질하다면\n슬리프가 머리맡에 서서 콧구멍을\n통해 꿈을 먹으려고 하는 신호다."
+      },
+      {
+        "game": "sm-s",
+        "text": "꿈을 먹으며 살아가는 포켓몬이다.\n몽나나 몽얌나와 선조가\n같다고 여겨지고 있다."
+      },
+      {
+        "game": "sm-m",
+        "text": "특히 즐거운 꿈이 맛있다고 한다.\n친해지면 가장 맛있었던\n꿈을 보여줄 때도 있다."
+      },
+      {
+        "game": "usum-us",
+        "text": "레저 시설 근처에서 볼 수 있다. \n그날 밤 아이가 꾸는\n즐거운 꿈을 노리고 있다."
+      },
+      {
+        "game": "usum-um",
+        "text": "먹이를 잠들게 해 보고 있는 꿈을\n먹는다. 나쁜 꿈은 시큼해서\n그다지 즐겨 먹지 않는다고 한다."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "언제나 함께 잠들다 보면\n가끔 옛날에 먹었던 꿈을\n보여줄 때가 있다."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "언제나 함께 잠들다 보면\n가끔 옛날에 먹었던 꿈을\n보여줄 때가 있다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "催眠貘",
+    "genus": "催眠寶可夢",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "吞食夢來生存的寶可夢。\n被認為與食夢夢和夢夢蝕\n有著共同的祖先。"
+      },
+      {
+        "game": "sm-m",
+        "text": "聽說愉快的夢特別美味。\n變得親密後，\n有時也會讓人作最美味的夢哦。"
+      },
+      {
+        "game": "usum-us",
+        "text": "在遊樂設施附近可以看見\n牠的身影，因為牠想吃那一晚\n孩子們所做的美夢。"
+      },
+      {
+        "game": "usum-um",
+        "text": "會讓獵物睡著，吃掉對方\n所做的夢。惡夢的味道是酸的，\n所以牠似乎不怎麼愛吃。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "如果每晚和牠一起睡覺，\n有時會讓你夢見\n牠過去吃過的夢。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "如果每晚和牠一起睡覺，\n有時會讓你夢見\n牠過去吃過的夢。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Soporifik",
+    "genus": "Pokémon Hypnose",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Son grand nez lui permet de lire\nles rêves d’autrui. Il adore les\nsonges amusants."
+      },
+      {
+        "game": "bw-w",
+        "text": "Son grand nez lui permet de lire\nles rêves d’autrui. Il adore les\nsonges amusants."
+      },
+      {
+        "game": "xy-x",
+        "text": "Il endort ses ennemis et dévore leurs songes.\nS’il mange trop de cauchemars, il fait une indigestion."
+      },
+      {
+        "game": "xy-y",
+        "text": "Si vous pensez avoir rêvé mais que vous ne vous en\nsouvenez pas, c’est que Soporifik a tout mangé."
+      },
+      {
+        "game": "oras-or",
+        "text": "Lorsque les enfants ont le nez qui les démange en dormant,\nc’est sans doute parce que ce Pokémon se tient au-dessus\nde leur oreiller, afin d’essayer de manger leurs rêves par\nleurs narines."
+      },
+      {
+        "game": "oras-as",
+        "text": "Lorsque les enfants ont le nez qui les démange en dormant,\nc’est sans doute parce que ce Pokémon se tient au-dessus\nde leur oreiller, afin d’essayer de manger leurs rêves par\nleurs narines."
+      },
+      {
+        "game": "sm-s",
+        "text": "Un Pokémon qui se nourrit de rêves.\nOn suppose qu’il a un ancêtre commun avec\nMunna et Mushana."
+      },
+      {
+        "game": "sm-m",
+        "text": "Les rêves agréables ont meilleur goût. S’il vous\nconsidère comme un ami, il peut transformer les\nvôtres en ceux qu’il a trouvés les plus délicieux."
+      },
+      {
+        "game": "usum-us",
+        "text": "Il aime musarder près des parcs d’attractions :\naprès y avoir passé une bonne journée, les\nenfants font de beaux rêves, dont il se délecte."
+      },
+      {
+        "game": "usum-um",
+        "text": "Il regarde ses proies dormir et avale leurs rêves.\nLes cauchemars ayant un petit goût aigrelet,\nil a tendance à les bouder."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Si vous dormez tout le temps près de lui,\nil partagera parfois avec vous les rêves\nqu’il a dévorés par le passé."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Si vous dormez tout le temps près de lui,\nil partagera parfois avec vous les rêves\nqu’il a dévorés par le passé."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Traumato",
+    "genus": "Hypnose",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Traumato versetzt Gegner in den Schlaf und frisst\nderen Träume. Von Alpträumen wird ihm aber übel."
+      },
+      {
+        "game": "xy-y",
+        "text": "Hast du gut geträumt und kannst dich nicht erinnern,\nhat ein Traumato deinen Traum gefressen."
+      },
+      {
+        "game": "oras-or",
+        "text": "Wenn dir im Schlaf die Nase juckt, ist das ein sicheres\nZeichen dafür, dass eines dieser Pokémon auf deinem\nKissen sitzt, um deinen Traum durch deine Nasenlöcher\nhindurch zu verspeisen."
+      },
+      {
+        "game": "oras-as",
+        "text": "Wenn dir im Schlaf die Nase juckt, ist das ein sicheres Zeichen\ndafür, dass eines dieser Pokémon über deinem Kissen\nschwebt, um deinen Traum durch deine Nasenlöcher hindurch\nzu verspeisen."
+      },
+      {
+        "game": "sm-s",
+        "text": "Es ernährt sich von Träumen. Man geht davon\naus, dass es von demselben Vorfahren wie\nSomniam und Somnivora abstammt."
+      },
+      {
+        "game": "sm-m",
+        "text": "Lustige Träume schmecken ihm am besten.\nIst man nett zu ihm, zeigt es einem ab und an\nTräume, die ihm besonders gemundet haben."
+      },
+      {
+        "game": "usum-us",
+        "text": "Traumato hat es auf die lustigen Träume von\nKindern abgesehen. Man sieht es daher oft in\nder Nähe von Freizeiteinrichtungen."
+      },
+      {
+        "game": "usum-um",
+        "text": "Traumato versetzt seine Beute in den Schlaf und\nfrisst ihre Träume. Alpträume mag es aufgrund\nihres säuerlichen Geschmacks nicht so gern."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Wenn man immer in der Nähe eines Traumato\nschläft, zeigt es einem nachts manchmal Träume,\ndie es vor langer Zeit verspeist hat."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Wenn man immer in der Nähe eines Traumato\nschläft, zeigt es einem nachts manchmal Träume,\ndie es vor langer Zeit verspeist hat."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Drowzee",
+    "genus": "Pokémon Hipnosis",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Adormece a sus enemigos y se come sus sueños.\nA veces se pone enfermo si come pesadillas."
+      },
+      {
+        "game": "xy-y",
+        "text": "Si crees haber tenido un buen sueño y no puedes\nacordarte, seguro que se lo ha comido un Drowzee."
+      },
+      {
+        "game": "oras-or",
+        "text": "Si a alguien le pica la nariz mientras duerme, seguro que es\nporque tiene a uno de estos Pokémon cerca de la almohada\nintentando sacarle los sueños por la nariz para comérselos."
+      },
+      {
+        "game": "oras-as",
+        "text": "Si a alguien le pica la nariz mientras duerme, seguro que es\nporque tiene a uno de estos Pokémon cerca de la almohada\nintentando sacarle los sueños por la nariz para comérselos."
+      },
+      {
+        "game": "sm-s",
+        "text": "Drowzee se alimenta de sueños. Se cree que\ncomparte antepasados con Munna y Musharna."
+      },
+      {
+        "game": "sm-m",
+        "text": "Los sueños divertidos son sus favoritos. Si\nconsigues hacerte su amigo, es posible que te\nenseñe el sueño más delicioso que haya tenido."
+      },
+      {
+        "game": "usum-us",
+        "text": "Se lo puede ver cerca de instalaciones lúdicas\ndonde, al caer la noche, sale a la caza de los\nsueños de los niños."
+      },
+      {
+        "game": "usum-um",
+        "text": "Duerme a sus víctimas para luego devorar sus\nsueños. Las pesadillas no son de su agrado, ya\nque al parecer tienen un regusto agrio."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Si se duerme siempre en compañía de un\nPokémon de esta especie, puede mostrar\nsueños que haya ingerido con anterioridad."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Si se duerme siempre en compañía de un\nPokémon de esta especie, puede mostrar\nsueños que haya ingerido con anterioridad."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Drowzee",
+    "genus": "Pokémon Ipnosi",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Addormenta i suoi nemici e poi si nutre dei loro\nsogni. A volte fa indigestione di incubi."
+      },
+      {
+        "game": "xy-y",
+        "text": "Se si pensa di aver fatto un bel sogno, ma non lo\nsi ricorda, magari l’ha mangiato un Drowzee."
+      },
+      {
+        "game": "oras-or",
+        "text": "Drowzee è solito nutrirsi dei sogni degli altri mentre dormono,\nestraendoli dalle loro narici. Se durante il sonno si avverte\nprurito al naso, significa che Drowzee è già all’opera."
+      },
+      {
+        "game": "oras-as",
+        "text": "Drowzee è solito nutrirsi dei sogni degli altri mentre dormono,\nestraendoli dalle loro narici. Se durante il sonno si avverte\nprurito al naso, significa che Drowzee è già all’opera."
+      },
+      {
+        "game": "sm-s",
+        "text": "Si nutre dei sogni degli altri. Si pensa che abbia\ndegli antenati in comune con Munna e Musharna."
+      },
+      {
+        "game": "sm-m",
+        "text": "Sembra che sia ghiotto di sogni divertenti.\nSe si affeziona a qualcuno, gli mostra i sogni\nche ha trovato più gustosi."
+      },
+      {
+        "game": "usum-us",
+        "text": "Ha un debole per i sogni divertenti dei bambini.\nPer questo è facile incontrarlo vicino alle\nstrutture ricreative."
+      },
+      {
+        "game": "usum-um",
+        "text": "Addormenta le prede per mangiare i loro sogni.\nSembra che non gradisca gli incubi a causa del\nloro sapore acido."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Se si dorme sempre vicino a un Drowzee,\npuò capitare di sognare uno dei sogni che\nquesto Pokémon ha mangiato in passato."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Se si dorme sempre vicino a un Drowzee,\npuò capitare di sognare uno dei sogni che\nquesto Pokémon ha mangiato in passato."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Drowzee",
+    "genus": "Hypnosis Pokémon",
+    "flavorText": [
+      {
+        "game": "rb-r",
+        "text": "Puts enemies to\nsleep then eats\ntheir dreams.\fOccasionally gets\nsick from eating\nbad dreams."
+      },
+      {
+        "game": "rb-b",
+        "text": "Puts enemies to\nsleep then eats\ntheir dreams.\fOccasionally gets\nsick from eating\nbad dreams."
+      },
+      {
+        "game": "y",
+        "text": "If you sleep by\nit all the time,\nit will sometimes\fshow you dreams\nit has eaten in\nthe past."
+      },
+      {
+        "game": "gs-g",
+        "text": "If you think that\nyou had a good\ndream, but you\fcan't remember it,\na DROWZEE has\nprobably eaten it."
+      },
+      {
+        "game": "gs-s",
+        "text": "It remembers every\ndream it eats. It\nrarely eats the\fdreams of adults\nbecause children's\nare much tastier."
+      },
+      {
+        "game": "c",
+        "text": "When it twitches\nits nose, it can\ntell where someone\fis sleeping and\nwhat that person\nis dreaming about."
+      },
+      {
+        "game": "rs-r",
+        "text": "If your nose becomes itchy while you\nare sleeping, it’s a sure sign that one\nof these POKéMON is standing above\fyour pillow and trying to eat your dream\nthrough your nostrils."
+      },
+      {
+        "game": "rs-s",
+        "text": "If your nose becomes itchy while you\nare sleeping, it’s a sure sign that one\nof these POKéMON is standing above\fyour pillow and trying to eat your dream\nthrough your nostrils."
+      },
+      {
+        "game": "e",
+        "text": "If your nose becomes itchy while you are\nsleeping, it’s a sure sign that a DROWZEE is\nstanding above your pillow and trying to\neat your dream through your nostrils."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "A descendent of the legendary animal\nbaku, which is said to eat dreams. It is\nskilled at hypnotism."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "Puts enemies to sleep, then eats their\ndreams. Occasionally gets sick from eating\nonly bad dreams."
+      },
+      {
+        "game": "dp-d",
+        "text": "It can tell what people are\ndreaming by sniffing with its big\nnose. It loves fun dreams."
+      },
+      {
+        "game": "dp-p",
+        "text": "It can tell what people are\ndreaming by sniffing with its big\nnose. It loves fun dreams."
+      },
+      {
+        "game": "pt",
+        "text": "It can tell what people are\ndreaming by sniffing with its big\nnose. It loves fun dreams."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "If you think that you had a good dream\nbut you can’t remember it,\na DROWZEE has probably eaten it."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "It remembers every dream it eats. It\nrarely eats the dreams of adults\nbecause children’s are much tastier."
+      },
+      {
+        "game": "bw-b",
+        "text": "It can tell what people are\ndreaming by sniffing with its big\nnose. It loves fun dreams."
+      },
+      {
+        "game": "bw-w",
+        "text": "It can tell what people are\ndreaming by sniffing with its big\nnose. It loves fun dreams."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "It can tell what people are\ndreaming by sniffing with its big\nnose. It loves fun dreams."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "It can tell what people are\ndreaming by sniffing with its big\nnose. It loves fun dreams."
+      },
+      {
+        "game": "xy-x",
+        "text": "Puts enemies to sleep, then eats their dreams.\nOccasionally gets sick from eating only bad dreams."
+      },
+      {
+        "game": "xy-y",
+        "text": "If you think that you had a good dream but you\ncan’t remember it, a Drowzee has probably eaten it."
+      },
+      {
+        "game": "oras-or",
+        "text": "If your nose becomes itchy while you are sleeping, it’s a sure\nsign that one of these Pokémon is standing above your pillow\nand trying to eat your dream through your nostrils."
+      },
+      {
+        "game": "oras-as",
+        "text": "If your nose becomes itchy while you are sleeping, it’s a sure\nsign that one of these Pokémon is standing above your pillow\nand trying to eat your dream through your nostrils."
+      },
+      {
+        "game": "sm-s",
+        "text": "A Pokémon that nourishes itself by eating\ndreams, it is thought to share common ancestry\nwith Munna and Musharna."
+      },
+      {
+        "game": "sm-m",
+        "text": "It finds really fun dreams tasty. When it makes\nfriends with people, it may show them the most\ndelicious dreams it’s ever eaten."
+      },
+      {
+        "game": "usum-us",
+        "text": "It can be spotted near recreational facilities,\nintending to eat the pleasant dreams of children\nwho enjoyed themselves there that day."
+      },
+      {
+        "game": "usum-um",
+        "text": "It puts its prey to sleep and devours their\ndreams. It seems that bad dreams taste sour,\nso Drowzee doesn’t particularly like eating them."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "If you sleep by it all the time, it will sometimes\nshow you dreams it had eaten in the past."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "If you sleep by it all the time, it will sometimes\nshow you dreams it had eaten in the past."
+      }
+    ]
+  },
+  "chs": {
+    "name": "催眠貘",
+    "genus": "催眠宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "吞食梦来生存的宝可梦。\n被认为与食梦梦和梦梦蚀\n有着共同的祖先。"
+      },
+      {
+        "game": "sm-m",
+        "text": "听说愉快的梦特别美味。\n变得亲密后，\n有时也会呈现最美味的梦哦。"
+      },
+      {
+        "game": "usum-us",
+        "text": "能在娱乐设施的附近见到其身影。\n会偷吃那晚孩子们所做的美梦。"
+      },
+      {
+        "game": "usum-um",
+        "text": "会让猎物睡着并吃掉其所做的梦。\n恶梦酸酸的，它好像不怎么喜欢吃。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "如果你每晚与它一起睡觉，\n它偶尔会让你梦见\n它以前吃过的梦。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "如果你每晚与它一起睡觉，\n它偶尔会让你梦见\n它以前吃过的梦。"
+      }
+    ]
+  }
+}

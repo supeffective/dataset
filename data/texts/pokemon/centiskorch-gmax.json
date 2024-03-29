@@ -1,0 +1,133 @@
+{
+  "jap": {
+    "name": "マルヤクデ",
+    "genus": "はつねつポケモン",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "はつねつじの　たいおんは　およそ\n８００ど。　からだを　ムチのように\nしならせて　とびかかってくるぞ。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "こうげきてきな　せいしつ。\nやけた　からだも　きけんだが\nおおきな　キバも　するどいぞ。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Maruyakude",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "다태우지네",
+    "genus": "발열포켓몬",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "발열 시의 체온은 약 800도.\n몸을 채찍처럼 휘면서\n덤벼든다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "공격적인 성질을 가졌다.\n탄 몸도 위험하지만\n큰 이빨도 날카롭다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "焚焰蚣",
+    "genus": "發熱寶可夢",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "發熱時的體溫大約有８００度。\n會像鞭子那樣彎曲身體，\n朝著敵人彈跳過去。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "性情極具攻擊性。\n危險的不只是牠燒燙的身體，\n大大的獠牙也銳利無比。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Scolocendre",
+    "genus": "Pokémon Calorifère",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Quand il génère de la chaleur, sa température\nest d’environ 800 °C. Il se sert de son corps\ncomme d’un fouet pour sauter sur ses ennemis."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Il est de nature agressive. Non seulement\nson corps brûlant est dangereux, mais il possède\nen plus d’énormes crocs très pointus."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Infernopod",
+    "genus": "Exotherm-Pokémon",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Wenn es Hitze erzeugt, beträgt seine Temperatur\netwa 800 ºC. Es bewegt seinen Körper wie eine\nPeitsche, um dann den Gegner anzuspringen."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Es ist angriffslustig veranlagt. Sein entflammter\nKörper und sein großes, scharfes Mundwerkzeug\nstellen eine enorme Gefahr dar."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Centiskorch",
+    "genus": "Pokémon Radiador",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Cuando genera calor, su temperatura corporal\nalcanza aproximadamente los 800 °C. Usa el\ncuerpo a modo de látigo para lanzarse al ataque."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Posee una naturaleza agresiva. El peligro que\nentraña su cuerpo candente es considerable,\naunque sus afilados colmillos no le van a la zaga."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Centiskorch",
+    "genus": "Pokémon Termogeno",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Quando genera calore, la temperatura del suo\ncorpo raggiunge gli 800 ºC. Si lancia all’attacco\nusando il corpo come una frusta."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Ha una natura aggressiva. Il suo corpo\nincandescente lo rende molto pericoloso,\ncosì come le sue lunghe zanne appuntite."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Centiskorch",
+    "genus": "Radiator Pokémon",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "When it heats up, its body temperature reaches\nabout 1,500 degrees Fahrenheit. It lashes its\nbody like a whip and launches itself at enemies."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "While its burning body is already dangerous on\nits own, this excessively hostile Pokémon also has\nlarge and very sharp fangs."
+      }
+    ]
+  },
+  "chs": {
+    "name": "焚焰蚣",
+    "genus": "发热宝可梦",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "发热时的体温大约有８００度。\n会像鞭子那样弯曲身体\n朝着敌人弹跳过去。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "性格极具攻击性。\n危险的不只是它烧烫的身体，\n大大的獠牙也锐利无比。"
+      }
+    ]
+  }
+}

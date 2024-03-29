@@ -1,0 +1,205 @@
+{
+  "jap": {
+    "name": "メテノ",
+    "genus": "ながれぼしポケモン",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "もともと　オゾンそうに　すんでおり\nからだの　カラが　おもくなると\nちじょうに　むかって　おちてくる。"
+      },
+      {
+        "game": "sm-m",
+        "text": "つよい　しょうげきを　うけると　カラは\nはがれ　おちる。　ナノりゅうしが\nとつぜんへんいし　うまれたポケモン。"
+      },
+      {
+        "game": "usum-us",
+        "text": "オゾンそうに　すみ　より　つよい\nポケモンの　エサに　なっている。\nにげるうちに　ちじょうに　おちてくる。"
+      },
+      {
+        "game": "usum-um",
+        "text": "がいかくは　とても　がんじょうだが\nちじょうに　らっかする　ショックで\nこっぱみじんに　くだけてしまう。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Meteno",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "메테노",
+    "genus": "유성포켓몬",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "원래 오존층에 살고 있으며\n몸의 껍질이 무거워지면\n지상을 향해 떨어진다."
+      },
+      {
+        "game": "sm-m",
+        "text": "강한 충격을 받으면 껍데기는\n떨어져 나간다. 나노입자가\n돌연변이하여 태어난 포켓몬이다."
+      },
+      {
+        "game": "usum-us",
+        "text": "오존층에 살며 더 강한\n포켓몬의 먹이가 된다.\n도망치다 지상으로 떨어진다."
+      },
+      {
+        "game": "usum-um",
+        "text": "겉껍질은 매우 튼튼하지만\n지상에 낙하할 때의 충격으로\n산산이 조각나 버린다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "小隕星",
+    "genus": "流星寶可夢",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "原本棲息在臭氧層，\n身體的外殼變重後，\n就會向著地面落下。"
+      },
+      {
+        "game": "sm-m",
+        "text": "若受到強烈的衝擊，外殼就會剝落。\n是奈米粒子突變而誕生的寶可夢。"
+      },
+      {
+        "game": "usum-us",
+        "text": "棲息在臭氧層，被更強大的\n寶可夢當成了食物。\n在逃跑的過程中落到了地上。"
+      },
+      {
+        "game": "usum-um",
+        "text": "外殼非常堅固，\n但墜落到地上時的衝擊\n會讓牠碎成細屑。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Météno",
+    "genus": "Pokémon Météore",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "Il vivait dans la couche d’ozone, avant que\nsa carapace, devenue trop lourde, ne finisse\npar le faire chuter sur la terre ferme."
+      },
+      {
+        "game": "sm-m",
+        "text": "La carapace qui le recouvre peut être arrachée\npar une violente attaque. Il est le fruit d’une\nmutation de nanoparticules."
+      },
+      {
+        "game": "usum-us",
+        "text": "Il vit dans la couche d’ozone, où des Pokémon\nplus forts que lui cherchent à le manger.\nIl tombe à terre lorsqu’il tente de s’enfuir."
+      },
+      {
+        "game": "usum-um",
+        "text": "Sa carapace, pourtant très solide, éclate\nen mille morceaux quand il s’écrase sur\nla terre en tombant du ciel."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Meteno",
+    "genus": "Meteor",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "Eigentlich lebt es in der Ozonschicht, doch\nwenn seine Schale zu schwer wird, stürzt es\nauf die Erde."
+      },
+      {
+        "game": "sm-m",
+        "text": "Heftige Stöße lassen seine Schale abblättern.\nEine Mutation von Nanopartikeln brachte\ndieses Pokémon hervor."
+      },
+      {
+        "game": "usum-us",
+        "text": "Es lebt in der Ozonschicht und dient stärkeren\nPokémon als Nahrung. Wenn es vor ihnen flieht,\nstürzt es auf die Oberfläche des Planeten."
+      },
+      {
+        "game": "usum-um",
+        "text": "Seine äußere Schale ist zwar sehr robust, durch\nden Aufprall auf der Oberfläche des Planeten\nzersplittert sie allerdings."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Minior",
+    "genus": "Pokémon Meteoro",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "Vive en la capa de ozono hasta que su\ncaparazón se hace demasiado pesado y cae\nsin remisión a tierra firme."
+      },
+      {
+        "game": "sm-m",
+        "text": "Este Pokémon nació fruto de la mutación de\nnanopartículas. El caparazón que lo recubre\nse desprende al recibir un fuerte impacto."
+      },
+      {
+        "game": "usum-us",
+        "text": "Vive en la capa de ozono, donde puede resultar\npresa de Pokémon más fuertes. Al huir, acaba\nprecipitándose a tierra firme."
+      },
+      {
+        "game": "usum-um",
+        "text": "Lo recubre un duro caparazón que se quiebra\nen pedazos al impactar con la superficie de la\ntierra."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Minior",
+    "genus": "Pokémon Meteora",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "Vive normalmente nello strato d’ozono, ma\nquando il guscio esterno si indurisce precipita\na terra."
+      },
+      {
+        "game": "sm-m",
+        "text": "Ha avuto origine da una mutazione improvvisa\ndi nanoparticelle. Un attacco violento può fargli\nperdere il guscio esterno."
+      },
+      {
+        "game": "usum-us",
+        "text": "Vive nello strato d’ozono, dove Pokémon più\nforti di lui lo cacciano per cibarsene. Spesso\nprecipita sulla terraferma cercando di fuggire."
+      },
+      {
+        "game": "usum-um",
+        "text": "Il suo guscio esterno è estremamente resistente,\nma quando precipita dallo strato d’ozono\nl’impatto con il suolo lo fa andare in mille pezzi."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Minior",
+    "genus": "Meteor Pokémon",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "Originally making its home in the ozone layer,\nit hurtles to the ground when the shell enclosing\nits body grows too heavy."
+      },
+      {
+        "game": "sm-m",
+        "text": "Strong impacts can knock it out of its shell. This\nPokémon was born from mutated nanoparticles."
+      },
+      {
+        "game": "usum-us",
+        "text": "It lives in the ozone layer, where it becomes\nfood for stronger Pokémon. When it tries to run\naway, it falls to the ground."
+      },
+      {
+        "game": "usum-um",
+        "text": "Although its outer shell is uncommonly durable,\nthe shock of falling to the ground smashes the\nshell to smithereens."
+      }
+    ]
+  },
+  "chs": {
+    "name": "小陨星",
+    "genus": "流星宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "原本栖息在臭氧层，\n身体的外壳变重后，\n就会向着地面落下。"
+      },
+      {
+        "game": "sm-m",
+        "text": "如果受到强烈的冲击，外壳就会剥落。\n纳米粒子突变诞生而成的宝可梦。"
+      },
+      {
+        "game": "usum-us",
+        "text": "栖息在臭氧层，成为了\n更强大的宝可梦的食物。\n会在逃跑的过程中掉落到地上。"
+      },
+      {
+        "game": "usum-um",
+        "text": "外壳非常坚固，但落到地上的\n冲击会让它碎成细屑。"
+      }
+    ]
+  }
+}

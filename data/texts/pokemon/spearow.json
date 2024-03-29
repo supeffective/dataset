@@ -1,0 +1,477 @@
+{
+  "jap": {
+    "name": "オニスズメ",
+    "genus": "ことりポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "じぶんの　テリトリーを　まもるため\nみじかいハネを　はばたかせ\nいそがしく　とびまわっている。"
+      },
+      {
+        "game": "xy-y",
+        "text": "くさむらの　むしなどを　たべる。\nはねが　みじかいために　いつも\nいそがしく　はばたいている。"
+      },
+      {
+        "game": "oras-or",
+        "text": "おおきな　なきごえは　１キロ　さきまで　とどく。\nあちこちで　カンだかい　こえが　きこえる　ときは\nなかまたちに　きけんを　しらせている　あいずだ。"
+      },
+      {
+        "game": "oras-as",
+        "text": "おおきな　なきごえは　１キロ　さきまで　とどく。\nあちこちで　カンだかい　こえが　きこえる　ときは\nなかまたちに　きけんを　しらせている　あいずだ。"
+      },
+      {
+        "game": "sm-s",
+        "text": "ハネが　みじかく　とぶのは　にがて。\nせわしなく　うごきまわり　くさむらの\nむしポケモンを　ついばんでいる。"
+      },
+      {
+        "game": "sm-m",
+        "text": "しょくよくおうせいで　よく　たべる。\nむしポケモンに　なやむ　のうかは\nオニスズメを　たいせつに　する。"
+      },
+      {
+        "game": "usum-us",
+        "text": "じぶんのテリトリーを　まもるためなら\nおおきな　ポケモンが　あいてでも\nむかっていく　むこうみずな　せいしつ。"
+      },
+      {
+        "game": "usum-um",
+        "text": "ハネが　みじかく　ながい　きょりを\nとべない。　せわしなく　うごき\nまわって　むしポケモンを　ついばむ。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "たかく　とぶのは　にがて。\nなわばりを　まもるために\nもうスピードで　とびまわっている。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "たかく　とぶのは　にがて。\nなわばりを　まもるために\nもうスピードで　とびまわっている。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Onisuzume",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "깨비참",
+    "genus": "아기새포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "자신의 영역을 지키기 위해\n작은 날개를 쳐서\n바쁘게 주위를 날아 맴돈다."
+      },
+      {
+        "game": "xy-y",
+        "text": "풀숲의 벌레 따위를 먹는다.\n날개가 짧기 때문에 항상\n쉴 새 없이 날개 치고 있다."
+      },
+      {
+        "game": "oras-or",
+        "text": "큰 울음소리는 1km 밖까지 도달한다.\n여기저기에서 높은 울음소리가 들릴 때는\n동료에게 위험을 알리고 있는 신호다."
+      },
+      {
+        "game": "oras-as",
+        "text": "큰 울음소리는 1km 밖까지 도달한다.\n여기저기에서 높은 울음소리가 들릴 때는\n동료에게 위험을 알리고 있는 신호다."
+      },
+      {
+        "game": "sm-s",
+        "text": "날개가 짧아 나는 것이 서툴다.\n쉴 새 없이 움직이며 풀숲의\n벌레포켓몬을 쪼아대고 있다."
+      },
+      {
+        "game": "sm-m",
+        "text": "식욕이 왕성해서 잘 먹는다.\n벌레포켓몬으로 고생하는 농가에서는\n깨비참을 소중히 여긴다."
+      },
+      {
+        "game": "usum-us",
+        "text": "자신의 영역을 지키기 위해서라면\n상대가 큰 포켓몬이라도\n덤벼드는 무모한 성질을 가졌다."
+      },
+      {
+        "game": "usum-um",
+        "text": "날개가 짧아서 먼 거리를\n날지 못한다. 쉴 새 없이 움직이며\n벌레포켓몬을 쪼아 댄다."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "높이 나는 것에 서투르다.\n영역을 지키기 위해\n맹렬한 스피드로 날아다닌다."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "높이 나는 것에 서투르다.\n영역을 지키기 위해\n맹렬한 스피드로 날아다닌다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "烈雀",
+    "genus": "小鳥寶可夢",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "翅膀很短，不太擅長飛行。\n總是忙碌地來回走動，\n啄食草叢裡的蟲寶可夢。"
+      },
+      {
+        "game": "sm-m",
+        "text": "食欲旺盛所以很會吃。\n因蟲寶可夢而煩惱的農戶\n對烈雀非常重視。"
+      },
+      {
+        "game": "usum-us",
+        "text": "生性魯莽衝動，\n只要是為了守護自己的地盤，\n即使對手是大型寶可夢也會正面迎戰。"
+      },
+      {
+        "game": "usum-um",
+        "text": "翅膀很短，無法長距離飛行。\n總是不停地四處跳來跳去，\n忙著啄食蟲寶可夢。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "不擅長高空飛行。\n會以超高速在地盤裡四處盤旋，\n確保自己的地盤不被侵犯。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "不擅長高空飛行。\n會以超高速在地盤裡四處盤旋，\n確保自己的地盤不被侵犯。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Piafabec",
+    "genus": "Pokémon Minoiseau",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Il fait battre vigoureusement ses\npetites ailes pour voler et cherche\nà manger dans l’herbe avec le bec."
+      },
+      {
+        "game": "bw-w",
+        "text": "Il fait battre vigoureusement ses\npetites ailes pour voler et cherche\nà manger dans l’herbe avec le bec."
+      },
+      {
+        "game": "xy-x",
+        "text": "Très protecteur de son territoire, il bat vite des ailes\npour se déplacer à toute allure."
+      },
+      {
+        "game": "xy-y",
+        "text": "Il chasse les insectes dans les hautes herbes.\nSes petites ailes lui permettent de voler très vite."
+      },
+      {
+        "game": "oras-or",
+        "text": "Piafabec crie tellement fort qu’il peut être entendu à 1 km\nde distance. Ces Pokémon se préviennent d’un danger\nen entonnant une mélopée très aiguë, qu’ils se renvoient\nles uns les autres, comme un écho."
+      },
+      {
+        "game": "oras-as",
+        "text": "Piafabec crie tellement fort qu’il peut être entendu à 1 km\nde distance. Ces Pokémon se préviennent d’un danger\nen entonnant une mélopée très aiguë, qu’ils se renvoient\nles uns les autres, comme un écho."
+      },
+      {
+        "game": "sm-s",
+        "text": "Ses petites ailes le handicapent pour voler.\nIl préfère se déplacer en hâte et piquer les\nPokémon Insecte dans les hautes herbes."
+      },
+      {
+        "game": "sm-m",
+        "text": "Il est doté d’un appétit insatiable.\nLes fermiers assaillis par des Pokémon Insecte\nprennent grand soin des Piafabec."
+      },
+      {
+        "game": "usum-us",
+        "text": "Un Pokémon téméraire qui n’hésite pas\nà affronter des Pokémon plus gros que lui\npour protéger son territoire."
+      },
+      {
+        "game": "usum-um",
+        "text": "Ses courtes ailes ne lui permettent pas de\nvoler sur de longues distances. Il quadrille\nson territoire pour picorer les Pokémon Insecte."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Il est incapable de voler à haute altitude.\nIl se déplace très vite pour protéger\nson territoire."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Il est incapable de voler à haute altitude.\nIl se déplace très vite pour protéger\nson territoire."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Habitak",
+    "genus": "Kleinvogel",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Es beschützt sein Gebiet stets vor Eindringlingen.\nDaher fliegt es ständig wild umher."
+      },
+      {
+        "game": "xy-y",
+        "text": "Es ernährt sich von Insekten, die es im Gras findet.\nEin starker Flügelschlag hält es in der Luft."
+      },
+      {
+        "game": "oras-or",
+        "text": "Habitak kann einen sehr lauten Schrei ausstoßen,\nden man über die Entfernung von 1 km vernehmen kann.\nDurch das Echo seiner hohen, wehklagenden Schreie warnt\ndieses Pokémon seine Artgenossen vor drohender Gefahr."
+      },
+      {
+        "game": "oras-as",
+        "text": "Habitak kann einen sehr lauten Schrei ausstoßen,\nden man über die Entfernung von 1 km vernehmen kann.\nDurch das Echo seiner hohen, wehklagenden Schreie warnt\ndieses Pokémon seine Artgenossen vor drohender Gefahr."
+      },
+      {
+        "game": "sm-s",
+        "text": "Es kann nicht gut fliegen, da seine Flügel sehr\nkurz sind. Es rennt wild durch hohes Gras, um\nKäfer-Pokémon aufzupicken."
+      },
+      {
+        "game": "sm-m",
+        "text": "Bauern, deren Felder von Käfer-Pokémon\nbefallen sind, schätzen Habitak wegen seines\nunstillbaren Appetits ganz besonders."
+      },
+      {
+        "game": "usum-us",
+        "text": "Wenn es um die Verteidigung seines Reviers\ngeht, schreckt das draufgängerische Habitak\nselbst vor großen Pokémon nicht zurück."
+      },
+      {
+        "game": "usum-um",
+        "text": "Aufgrund seiner kurzen Flügel kann es keine\nlangen Strecken fliegen. Es rennt wild durch\ndie Gegend, um Käfer-Pokémon aufzupicken."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "In großen Höhen fällt ihm das Fliegen schwer.\nAllerdings kann es pfeilschnell umherflitzen,\nwenn es um den Schutz seines Habitats geht."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "In großen Höhen fällt ihm das Fliegen schwer.\nAllerdings kann es pfeilschnell umherflitzen,\nwenn es um den Schutz seines Habitats geht."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Spearow",
+    "genus": "Pokémon Pajarito",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Muy protector de su territorio, mueve sus cortas alas\nsin descanso para lanzarse a toda velocidad."
+      },
+      {
+        "game": "xy-y",
+        "text": "Come bichos en zonas de hierba. Agita sus cortas alas\nmuy rápido para mantenerse en el aire."
+      },
+      {
+        "game": "oras-or",
+        "text": "Spearow pía con tanta fuerza que se le puede oír a 1 km de\ndistancia. Si al agudo chillido le sigue una especie de eco,\nestaremos oyendo la respuesta de otros Spearow que\ncontestan ante el aviso de peligro."
+      },
+      {
+        "game": "oras-as",
+        "text": "Spearow pía con tanta fuerza que se le puede oír a 1 km de\ndistancia. Si al agudo chillido le sigue una especie de eco,\nestaremos oyendo la respuesta de otros Spearow que\ncontestan ante el aviso de peligro."
+      },
+      {
+        "game": "sm-s",
+        "text": "Sus alas cortas hacen que no se le dé muy bien\nvolar. Corretea apresuradamente, picoteando los\nPokémon insecto que se encuentre en la hierba."
+      },
+      {
+        "game": "sm-m",
+        "text": "Tiene un apetito voraz y come con frecuencia.\nEn las granjas crían Spearow para combatir\nplagas de Pokémon insecto."
+      },
+      {
+        "game": "usum-us",
+        "text": "Su temperamento temerario hace que no dude\nen enfrentarse a rivales mucho más grandes\na la hora de defender su territorio."
+      },
+      {
+        "game": "usum-um",
+        "text": "Sus cortas alas le impiden volar grandes\ndistancias, por lo que revolotea inquieto y\npicotea a todo Pokémon insecto que ve."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "A la hora de proteger su territorio, compensa su\nincapacidad para volar a gran altura con una\nincreíble velocidad."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "A la hora de proteger su territorio, compensa su\nincapacidad para volar a gran altura con una\nincreíble velocidad."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Spearow",
+    "genus": "Pokémon Uccellino",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Molto geloso del suo territorio, svolazza in giro\na gran velocità battendo le ali continuamente."
+      },
+      {
+        "game": "xy-y",
+        "text": "Mangia insetti nell’erba alta. Per restare in aria deve\nsbattere le corte ali molto velocemente."
+      },
+      {
+        "game": "oras-or",
+        "text": "Spearow emette un grido molto acuto, percepibile anche\na 1 km di distanza. Quando questo grido riecheggia\nnei dintorni, questo Pokémon intende avvertire i suoi simili\ndi un pericolo imminente."
+      },
+      {
+        "game": "oras-as",
+        "text": "Spearow emette un grido molto acuto, percepibile anche\na 1 km di distanza. Quando questo grido riecheggia\nnei dintorni, questo Pokémon intende avvertire i suoi simili\ndi un pericolo imminente."
+      },
+      {
+        "game": "sm-s",
+        "text": "A causa delle ali troppo corte, non riesce a\nvolare bene. Scorrazza tra l’erba alta alla ricerca\ndi Pokémon Coleottero da beccare."
+      },
+      {
+        "game": "sm-m",
+        "text": "Ha sempre un grande appetito.\nÈ molto amato dagli agricoltori perché tiene\na bada i Pokémon di tipo Coleottero."
+      },
+      {
+        "game": "usum-us",
+        "text": "Temerario di natura, per difendere il proprio\nterritorio non esita a lanciarsi anche contro\navversari più grandi di lui."
+      },
+      {
+        "game": "usum-um",
+        "text": "A causa delle ali troppo corte, non riesce a\nvolare per lunghe distanze. Scorrazza qua e là\nalla ricerca di Pokémon Coleottero da beccare."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Incapace di raggiungere alte quote, sorvola\nil suo territorio a gran velocità per proteggerlo."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Incapace di raggiungere alte quote, sorvola\nil suo territorio a gran velocità per proteggerlo."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Spearow",
+    "genus": "Tiny Bird Pokémon",
+    "flavorText": [
+      {
+        "game": "pt",
+        "text": "It flaps its small wings busily to\nfly. Using its beak, it searches\nin grass for prey."
+      },
+      {
+        "game": "rb-r",
+        "text": "Eats bugs in\ngrassy areas. It\nhas to flap its\fshort wings at\nhigh speed to\nstay airborne."
+      },
+      {
+        "game": "rb-b",
+        "text": "Eats bugs in\ngrassy areas. It\nhas to flap its\fshort wings at\nhigh speed to\nstay airborne."
+      },
+      {
+        "game": "y",
+        "text": "Inept at flying\nhigh. However, it\ncan fly around\fvery fast to\nprotect its ter­\nritory."
+      },
+      {
+        "game": "gs-g",
+        "text": "It flaps its short\nwings to flush out\ninsects from tall\fgrass. It then\nplucks them with\nits stubby beak."
+      },
+      {
+        "game": "gs-s",
+        "text": "Very protective of\nits territory, it\nflaps its short\fwings busily to\ndart around at\nhigh speed."
+      },
+      {
+        "game": "c",
+        "text": "To protect its\nterritory, it\nflies around\fceaselessly,\nmaking high-\npitched cries."
+      },
+      {
+        "game": "rs-r",
+        "text": "SPEAROW has a very loud cry that can\nbe heard over half a mile away.\nIf its high, keening cry is heard\fechoing all around, it is a sign that\nthey are warning each other of danger."
+      },
+      {
+        "game": "rs-s",
+        "text": "SPEAROW has a very loud cry that can\nbe heard over half a mile away.\nIf its high, keening cry is heard\fechoing all around, it is a sign that\nthey are warning each other of danger."
+      },
+      {
+        "game": "e",
+        "text": "Its loud cry can be heard over half a mile\naway. If its high, keening cry is heard\nechoing all around, it is a sign that they\nare warning each other of danger."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "It busily flits around here and there.\nEven if it is frail, it can be a tough\nfoe that uses MIRROR MOVE."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "Eats bugs in grassy areas. It has to flap\nits short wings at high speed to stay\nairborne."
+      },
+      {
+        "game": "dp-d",
+        "text": "It flaps its small wings busily to\nfly. Using its beak, it searches\nin grass for prey."
+      },
+      {
+        "game": "dp-p",
+        "text": "It flaps its small wings busily to\nfly. Using its beak, it searches\nin grass for prey."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "It flaps its short wings to flush out\ninsects from tall grass. It then\nplucks them with its stubby beak."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "Very protective of its territory, it\nflaps its short wings busily to\ndart around at high speed."
+      },
+      {
+        "game": "bw-b",
+        "text": "It flaps its small wings busily to\nfly. Using its beak, it searches\nin grass for prey."
+      },
+      {
+        "game": "bw-w",
+        "text": "It flaps its small wings busily to\nfly. Using its beak, it searches\nin grass for prey."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "It flaps its small wings busily to\nfly. Using its beak, it searches\nin grass for prey."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "It flaps its small wings busily to\nfly. Using its beak, it searches\nin grass for prey."
+      },
+      {
+        "game": "xy-x",
+        "text": "Very protective of its territory, it flaps its short\nwings busily to dart around at high speed."
+      },
+      {
+        "game": "xy-y",
+        "text": "Eats bugs in grassy areas. It has to flap its short\nwings at high speed to stay airborne."
+      },
+      {
+        "game": "oras-or",
+        "text": "Spearow has a very loud cry that can be heard over\nhalf a mile away. If its high, keening cry is heard echoing all\naround, it is a sign that they are warning each other of danger."
+      },
+      {
+        "game": "oras-as",
+        "text": "Spearow has a very loud cry that can be heard over\nhalf a mile away. If its high, keening cry is heard echoing all\naround, it is a sign that they are warning each other of danger."
+      },
+      {
+        "game": "sm-s",
+        "text": "Its short wings make it inept at flying.\nIt moves about hurriedly and pecks at\nBug-type Pokémon in the tall grass."
+      },
+      {
+        "game": "sm-m",
+        "text": "Farmers whose fields are troubled by bug\nPokémon appreciate Spearow for its vigorous\nappetite and look after it."
+      },
+      {
+        "game": "usum-us",
+        "text": "Its reckless nature leads it to stand up to\nothers—even large Pokémon—if it has to protect\nits territory."
+      },
+      {
+        "game": "usum-um",
+        "text": "Due to its short wings, it can’t fly long\ndistances. It wanders about restlessly and\npecks at bug Pokémon."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Inept at flying high. However, it can fly around\nvery fast to protect its territory."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Inept at flying high. However, it can fly around\nvery fast to protect its territory."
+      }
+    ]
+  },
+  "chs": {
+    "name": "烈雀",
+    "genus": "小鸟宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "翅膀很短，飞行也不大在行。\n忙忙碌碌地来回走动，\n啄食草丛里的虫宝可梦。"
+      },
+      {
+        "game": "sm-m",
+        "text": "食欲旺盛而吃得很多。\n因虫宝可梦而烦恼的农户\n对烈雀非常重视。"
+      },
+      {
+        "game": "usum-us",
+        "text": "生性鲁莽，只要是为了保护\n自己的领地，即便对手是\n大型宝可梦，也仍会冲向对手。"
+      },
+      {
+        "game": "usum-um",
+        "text": "翅膀短，无法飞远。\n会跳来跳去忙个不停地\n啄食虫宝可梦。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "不擅长高空飞行。\n会以超高速在地盘里四处盘旋，\n以保护自己的地盘不被侵犯。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "不擅长高空飞行。\n会以超高速在地盘里四处盘旋，\n以保护自己的地盘不被侵犯。"
+      }
+    ]
+  }
+}

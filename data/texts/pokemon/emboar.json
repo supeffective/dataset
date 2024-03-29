@@ -1,0 +1,195 @@
+{
+  "jap": {
+    "name": "エンブオー",
+    "genus": "おおひぶたポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "あごの　ほのおで　こぶしを　もやして\nほのおの　パンチを　くりだす。\nとても　なかまおもいの　ポケモン。"
+      },
+      {
+        "game": "xy-y",
+        "text": "ほのおの　あごひげを　たくわえる。\nパワーと　スピードを　かねそなえた\nかくとうの　わざを　みにつけている。"
+      },
+      {
+        "game": "oras-or",
+        "text": "あごの　ほのおで　こぶしを　もやして\nほのおの　パンチを　くりだす。\nとても　なかまおもいの　ポケモン。"
+      },
+      {
+        "game": "oras-as",
+        "text": "ほのおの　あごひげを　たくわえる。\nパワーと　スピードを　かねそなえた\nかくとうの　わざを　みにつけている。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Enbuoh",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "염무왕",
+    "genus": "큰불돼지포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "턱의 화염으로 주먹을 불태워\n불꽃펀치를 날린다.\n동료애가 깊은 포켓몬이다."
+      },
+      {
+        "game": "xy-y",
+        "text": "불꽃 턱수염을 기르고 있다.\n파워와 스피드를 겸비한\n격투 기술을 익히고 있다."
+      },
+      {
+        "game": "oras-or",
+        "text": "턱의 화염으로 주먹을 불태워\n불꽃펀치를 날린다.\n동료애가 깊은 포켓몬이다."
+      },
+      {
+        "game": "oras-as",
+        "text": "불꽃 턱수염을 기르고 있다.\n파워와 스피드를 겸비한\n격투 기술을 익히고 있다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "炎武王",
+    "genus": "大火豬寶可夢",
+    "flavorText": []
+  },
+  "fra": {
+    "name": "Roitiflam",
+    "genus": "Pokémon Grochon Feu",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Il embrase ses poings avec les flammes\nsur son menton et cogne l’ennemi avec.\nC’est un Pokémon très solidaire."
+      },
+      {
+        "game": "bw-w",
+        "text": "Il a une barbe enflammée.\nIl maîtrise des techniques de combat au\ncorps à corps rapides et puissantes."
+      },
+      {
+        "game": "xy-x",
+        "text": "Il embrase ses poings avec les flammes sur son\nmenton et cogne l’ennemi avec. C’est un Pokémon\ntrès solidaire."
+      },
+      {
+        "game": "xy-y",
+        "text": "Il a une barbe enflammée. Il maîtrise des techniques\nde combat au corps à corps rapides et puissantes."
+      },
+      {
+        "game": "oras-or",
+        "text": "Il embrase ses poings avec les flammes sur son menton\net cogne l’ennemi avec. C’est un Pokémon très solidaire."
+      },
+      {
+        "game": "oras-as",
+        "text": "Il a une barbe enflammée. Il maîtrise des techniques\nde combat au corps à corps rapides et puissantes."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Flambirex",
+    "genus": "Feuerschwein",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Steckt mit dem Feuer um sein Kinn seine Fäuste\nin Brand und holt zu feurigen Fausthieben aus.\nZeigt großen Teamgeist."
+      },
+      {
+        "game": "xy-y",
+        "text": "Es trägt einen Backenbart aus Feuer und beherrscht\nKampftechniken, die ebenso wuchtig wie schnell sind."
+      },
+      {
+        "game": "oras-or",
+        "text": "Steckt mit dem Feuer um sein Kinn seine Fäuste in Brand und\nholt zu feurigen Fausthieben aus. Zeigt großen Teamgeist."
+      },
+      {
+        "game": "oras-as",
+        "text": "Es trägt einen Backenbart aus Feuer und beherrscht\nKampftechniken, die ebenso wuchtig wie schnell sind."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Emboar",
+    "genus": "Pokémon Cerdo Ígneo",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Calienta sus puños con las llamas de su barbilla para\npropinar puñetazos ardientes. Es muy fiel a sus\ncompañeros."
+      },
+      {
+        "game": "xy-y",
+        "text": "Posee una tupida barba fogosa. Es tanto rápido como\npoderoso, y su principal baza es la lucha cuerpo a\ncuerpo."
+      },
+      {
+        "game": "oras-or",
+        "text": "Calienta sus puños con las llamas de su barbilla para propinar\npuñetazos ardientes. Es muy fiel a sus compañeros."
+      },
+      {
+        "game": "oras-as",
+        "text": "Posee una tupida barba fogosa. Es tanto rápido como\npoderoso, y su principal baza es la lucha cuerpo a cuerpo."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Emboar",
+    "genus": "Pokémon Suincendio",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Infiamma i pugni sulla barba ardente, poi sferra\nattacchi di fuoco sui nemici. Ha molta considerazione\nper i suoi simili."
+      },
+      {
+        "game": "xy-y",
+        "text": "La sua barba è avvolta dalle fiamme. Padroneggia\nmosse di lotta che combinano potenza e rapidità."
+      },
+      {
+        "game": "oras-or",
+        "text": "Infiamma i pugni sulla barba ardente, poi sferra attacchi\ndi fuoco sui nemici. Ha molta considerazione per i suoi simili."
+      },
+      {
+        "game": "oras-as",
+        "text": "La sua barba è avvolta dalle fiamme. Padroneggia mosse\ndi lotta che combinano potenza e rapidità."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Emboar",
+    "genus": "Mega Fire Pig Pokémon",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "It can throw a fire punch by setting its\nfists on fire with its fiery chin. It cares\ndeeply about its friends."
+      },
+      {
+        "game": "bw-w",
+        "text": "It has mastered fast and powerful\nfighting moves. It grows a beard of fire."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "A flaring beard of fire is proof\nthat it is fired up. It is adept at\nusing many different moves."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "A flaring beard of fire is proof\nthat it is fired up. It is adept at\nusing many different moves."
+      },
+      {
+        "game": "xy-x",
+        "text": "It can throw a fire punch by setting its fists on fire\nwith its fiery chin. It cares deeply about its friends."
+      },
+      {
+        "game": "xy-y",
+        "text": "It has mastered fast and powerful fighting moves.\nIt grows a beard of fire."
+      },
+      {
+        "game": "oras-or",
+        "text": "It can throw a fire punch by setting its fists on fire\nwith its fiery chin. It cares deeply about its friends."
+      },
+      {
+        "game": "oras-as",
+        "text": "It has mastered fast and powerful fighting moves.\nIt grows a beard of fire."
+      }
+    ]
+  },
+  "chs": {
+    "name": "炎武王",
+    "genus": "大火猪宝可梦",
+    "flavorText": []
+  }
+}

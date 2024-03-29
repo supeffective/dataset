@@ -1,0 +1,365 @@
+{
+  "jap": {
+    "name": "タテトプス",
+    "genus": "シールドポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "たいぼくの　みきに　こすりつけて\nかたい　かおを　みがく　しゅうせい。\nうしろからの　こうげきに　よわい。"
+      },
+      {
+        "game": "xy-y",
+        "text": "１おくねんまえの　ちそう　から\nほりだされた　かせきから　うまれた。\nとても　がんじょうな　かおを　もつ。"
+      },
+      {
+        "game": "oras-or",
+        "text": "たいぼくの　みきに　こすりつけて\nかたい　かおを　みがく　しゅうせい。\nうしろからの　こうげきに　よわい。"
+      },
+      {
+        "game": "oras-as",
+        "text": "１おくねんまえの　ちそう　から\nほりだされた　かせきから　うまれた。\nとても　がんじょうな　かおを　もつ。"
+      },
+      {
+        "game": "sm-s",
+        "text": "おおくの　かせきが　みつかっているが\nかおの　ぶぶんが　きずついていたり\nかけているものは　ほぼ　ない。"
+      },
+      {
+        "game": "sm-m",
+        "text": "がんじょうな　かおの　おかげで\nてきは　すくなかったと　おもわれる。\nたいこの　ジャングルに　すんでいた。"
+      },
+      {
+        "game": "usum-us",
+        "text": "そうしょくの　おとなしい　ポケモン。\nじょうぶな　かおの　ひふで　じめんを\nほり　きのねっこなども　くっていた。"
+      },
+      {
+        "game": "usum-um",
+        "text": "たいこの　ちそうから　かせきが\nみつかるが　かおの　ぶぶん　いがいが\nはっけん　されたことは　ない。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Tatetops",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "방패톱스",
+    "genus": "실드포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "큰 나무의 줄기에 비벼서\n단단한 얼굴을 닦는 습성이 있다.\n뒤로부터의 공격에 약하다."
+      },
+      {
+        "game": "xy-y",
+        "text": "1억 년 전의 지층에서\n발굴된 화석에서 태어났다.\n매우 튼튼한 얼굴을 가졌다."
+      },
+      {
+        "game": "oras-or",
+        "text": "큰 나무의 줄기에 비벼서\n단단한 얼굴을 닦는 습성이 있다.\n뒤로부터의 공격에 약하다."
+      },
+      {
+        "game": "oras-as",
+        "text": "1억 년 전의 지층에서\n발굴된 화석에서 태어났다.\n매우 튼튼한 얼굴을 가졌다."
+      },
+      {
+        "game": "sm-s",
+        "text": "많은 화석이 발견되었지만\n얼굴 부분에 상처가 있거나\n이가 빠져 있는 것은 거의 없다."
+      },
+      {
+        "game": "sm-m",
+        "text": "튼튼한 얼굴 덕분에\n적은 적었을 것으로 여겨진다.\n태고의 정글에 살았다."
+      },
+      {
+        "game": "usum-us",
+        "text": "온순한 초식 포켓몬.\n튼튼한 얼굴 피부로 지면을\n파고들어 나무 뿌리도 먹었다."
+      },
+      {
+        "game": "usum-um",
+        "text": "태고의 지층에서 화석이\n발견되었지만 얼굴 이외의\n부분이 발견된 적은 없다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "盾甲龍",
+    "genus": "護盾寶可夢",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "大量的化石被發現，\n但幾乎所有化石\n臉的部位都沒有任何損傷或缺失。"
+      },
+      {
+        "game": "sm-m",
+        "text": "多虧那張結實的臉，\n牠的敵人應該不多。\n棲息在太古時代的叢林裡。"
+      },
+      {
+        "game": "usum-us",
+        "text": "草食性的溫馴寶可夢。\n會用結實的臉部皮膚挖掘地面，\n連樹根之類的東西也會吃。"
+      },
+      {
+        "game": "usum-um",
+        "text": "雖然在遠古時代的地層中\n發現了牠的化石，但至今未曾\n發現臉部以外的部分。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Dinoclier",
+    "genus": "Pokémon Bouclier",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Il est si bien protégé qu’il peut\ndéguster Baies et herbe fraîche\nsans craindre de prédateurs."
+      },
+      {
+        "game": "bw-w",
+        "text": "Il est si bien protégé qu’il peut\ndéguster Baies et herbe fraîche\nsans craindre de prédateurs."
+      },
+      {
+        "game": "xy-x",
+        "text": "Il a l’habitude de polir son visage en le frottant contre\nun tronc. Il craint les attaques dans le dos."
+      },
+      {
+        "game": "xy-y",
+        "text": "Il est né d’un fossile datant de 100 millions d’années.\nSon visage est très dur."
+      },
+      {
+        "game": "oras-or",
+        "text": "Il a l’habitude de polir son visage en le frottant contre\nun tronc. Il craint les attaques dans le dos."
+      },
+      {
+        "game": "oras-as",
+        "text": "Il est né d’un fossile datant de 100 millions d’années.\nSon visage est très dur."
+      },
+      {
+        "game": "sm-s",
+        "text": "Dans les nombreux fossiles trouvés, presque\naucune plaque faciale ne porte de trace de\nblessure ou d’ébréchure."
+      },
+      {
+        "game": "sm-m",
+        "text": "Grâce à sa tête très robuste, on suppose qu’il\nn’avait que très peu d’ennemis. Il vivait dans les\nforêts primaires, il y a fort longtemps."
+      },
+      {
+        "game": "usum-us",
+        "text": "Cet herbivore, très calme de nature, utilisait\nla peau durcie de son museau pour déterrer\ndes racines à grignoter."
+      },
+      {
+        "game": "usum-um",
+        "text": "On retrouve des fossiles de Dinoclier dans\nles couches sédimentaires préhistoriques, mais\nseule sa tête a résisté à l’épreuve du temps."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Schilterus",
+    "genus": "Schutzschild",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Es reibt sein Gesicht an Baumstämmen, um es zu\npolieren. Es ist leicht, es von hinten anzugreifen."
+      },
+      {
+        "game": "xy-y",
+        "text": "Das Fossil, aus dem es entstand, wurde aus einer\n100 Millionen Jahre alten Gesteinsschicht geborgen."
+      },
+      {
+        "game": "oras-or",
+        "text": "Es reibt sein Gesicht an Baumstämmen, um es zu polieren.\nEs ist leicht, es von hinten anzugreifen."
+      },
+      {
+        "game": "oras-as",
+        "text": "Das Fossil, aus dem es entstand, wurde aus einer\n100 Millionen Jahre alten Gesteinsschicht geborgen."
+      },
+      {
+        "game": "sm-s",
+        "text": "Es wurden viele Fossilien dieses Pokémon\ngefunden und nur bei sehr wenigen war\ndas Gesicht beschädigt oder fehlte ganz."
+      },
+      {
+        "game": "sm-m",
+        "text": "Man nimmt an, dass es dank seines\ngepanzerten Gesichts kaum Feinde hatte.\nEs lebte vor Urzeiten im Dschungel."
+      },
+      {
+        "game": "usum-us",
+        "text": "Ein friedliches, pflanzenfressendes Pokémon.\nMit seiner harten Gesichtshaut wühlte es im\nBoden und fraß Baumwurzeln."
+      },
+      {
+        "game": "usum-um",
+        "text": "Man findet zwar in uralten Erdschichten\nFossilien dieses Pokémon, aber meist handelt\nes sich dabei nur um Teile des Gesichts."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Shieldon",
+    "genus": "Pokémon Escudo",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Se abrillanta la cara frotándola contra los árboles.\nEs vulnerable a los ataques por la espalda."
+      },
+      {
+        "game": "xy-y",
+        "text": "Surgió de un fósil de hace 100 millones de años.\nSu protección facial es tremendamente dura."
+      },
+      {
+        "game": "oras-or",
+        "text": "Se abrillanta la cara frotándola contra los árboles. Es\nvulnerable a los ataques por la espalda."
+      },
+      {
+        "game": "oras-as",
+        "text": "Surgió de un fósil de hace 100 millones de años.\nSu protección facial es tremendamente dura."
+      },
+      {
+        "game": "sm-s",
+        "text": "Se han encontrado innumerables fósiles de este\nPokémon y prácticamente ninguno presenta\ndaños en la parte facial."
+      },
+      {
+        "game": "sm-m",
+        "text": "Debido a la extraordinaria dureza de su rostro,\nse piensa que tenía pocos enemigos. Vivía en las\njunglas prehistóricas."
+      },
+      {
+        "game": "usum-us",
+        "text": "Un Pokémon herbívoro de carácter afable.\nCon su dura protección facial podía desenterrar\nlas raíces de los árboles para comérselas."
+      },
+      {
+        "game": "usum-um",
+        "text": "Los fósiles que se han encontrado hasta ahora\nen estratos prehistóricos pertenecen solo a su\ncara."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Shieldon",
+    "genus": "Pokémon Schermo",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Si pulisce il muso strofinandolo contro i tronchi\ndegli alberi. È vulnerabile agli attacchi alle spalle."
+      },
+      {
+        "game": "xy-y",
+        "text": "Nato da un fossile portato alla luce da uno strato di\n100 milioni di anni fa. Ha un muso resistente."
+      },
+      {
+        "game": "oras-or",
+        "text": "Si pulisce il muso strofinandolo contro i tronchi degli alberi.\nÈ vulnerabile agli attacchi alle spalle."
+      },
+      {
+        "game": "oras-as",
+        "text": "Nato da un fossile portato alla luce da uno strato di\n100 milioni di anni fa. Ha un muso resistente."
+      },
+      {
+        "game": "sm-s",
+        "text": "Tutti gli esemplari fossilizzati di questo\nPokémon sono perfettamente conservati nella\nzona del muso, priva di qualsiasi scalfittura."
+      },
+      {
+        "game": "sm-m",
+        "text": "Viveva nelle giungle preistoriche. Si pensa\nche avesse pochi predatori per via del muso\nincredibilmente robusto."
+      },
+      {
+        "game": "usum-us",
+        "text": "Era un docile Pokémon erbivoro. Si serviva del\nmuso protetto dalla pelle coriacea per scavare\nnel terreno e mangiare le radici degli alberi."
+      },
+      {
+        "game": "usum-um",
+        "text": "Fossili di questo Pokémon sono stati trovati in\nstrati geologici antichissimi. Tuttavia, gli unici\nresti pervenuti costituiscono parti del muso."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Shieldon",
+    "genus": "Shield Pokémon",
+    "flavorText": [
+      {
+        "game": "dp-d",
+        "text": "A Pokémon that lived in jungles\naround 100 million years ago. Its\nfacial hide is extremely hard."
+      },
+      {
+        "game": "dp-p",
+        "text": "It habitually polishes its face by\nrubbing it against tree trunks. It\nis weak to attacks from behind."
+      },
+      {
+        "game": "pt",
+        "text": "It is outstandingly armored. As a\nresult, it can eat grass and\nberries without having to fight."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "It was generated from a fossil dug out\nof a layer of clay that was older than\nanyone knows. It has a sturdy face."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "It was generated from a fossil dug out\nof a layer of clay that was older than\nanyone knows. It has a sturdy face."
+      },
+      {
+        "game": "bw-b",
+        "text": "It is outstandingly armored. As a\nresult, it can eat grass and\nberries without having to fight."
+      },
+      {
+        "game": "bw-w",
+        "text": "It is outstandingly armored. As a\nresult, it can eat grass and\nberries without having to fight."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "It is outstandingly armored. As a\nresult, it can eat grass and\nberries without having to fight."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "It is outstandingly armored. As a\nresult, it can eat grass and\nberries without having to fight."
+      },
+      {
+        "game": "xy-x",
+        "text": "It habitually polishes its face by rubbing it against\ntree trunks. It is weak to attacks from behind."
+      },
+      {
+        "game": "xy-y",
+        "text": "It was generated from a fossil dug out of a layer of\nclay that was older than anyone knows. It has a\nsturdy face."
+      },
+      {
+        "game": "oras-or",
+        "text": "It habitually polishes its face by rubbing it against\ntree trunks. It is weak to attacks from behind."
+      },
+      {
+        "game": "oras-as",
+        "text": "It was generated from a fossil dug out of a layer of\nclay that was older than anyone knows. It has a\nsturdy face."
+      },
+      {
+        "game": "sm-s",
+        "text": "Many fossils of this Pokémon have been found,\nbut almost none have shown signs of damage\nto the face."
+      },
+      {
+        "game": "sm-m",
+        "text": "This Pokémon lived in primeval jungles. Few\nenemies would have been willing to square off\nagainst its heavily armored face, so it’s thought."
+      },
+      {
+        "game": "usum-us",
+        "text": "A mild-mannered, herbivorous Pokémon, it used\nits face to dig up tree roots to eat. The skin on\nits face was plenty tough."
+      },
+      {
+        "game": "usum-um",
+        "text": "Although its fossils can be found in layers of\nprimeval rock, nothing but its face has ever\nbeen discovered."
+      },
+      {
+        "game": "la",
+        "text": "Much remains unknown about this Pokémon, as few have ever\nseen it. However, we know that it is calm and dislikes conflict,\nand it enjoys polishing its face against trees and rocks."
+      }
+    ]
+  },
+  "chs": {
+    "name": "盾甲龙",
+    "genus": "护盾宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "大量的化石被发现，\n但是几乎没有\n脸的部分有损伤或缺失的情况。"
+      },
+      {
+        "game": "sm-m",
+        "text": "看来多亏了那张结实的脸，\n敌人也少了。\n栖息在太古时代的丛林里。"
+      },
+      {
+        "game": "usum-us",
+        "text": "食草的温顺宝可梦。\n用结实的脸部皮肤挖掘地面，\n连树根之类的也会吃。"
+      },
+      {
+        "game": "usum-um",
+        "text": "虽然从太古时代的地层中\n发现了它的化石，\n但尚未发现除了脸以外的部分。"
+      }
+    ]
+  }
+}

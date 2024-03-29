@@ -1,0 +1,417 @@
+{
+  "jap": {
+    "name": "ワシボン",
+    "genus": "ヒナわしポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "きゃくりょくで　きのみを　くだく。\nどんなに　つよい　あいてでも\nゆうかんに　たちむかう　しゅうせい。"
+      },
+      {
+        "game": "xy-y",
+        "text": "つよい　あいてにも　みさかいなく\nたたかいを　いどむ。たたかいを\nくりかえす　ことで　つよくなるのだ。"
+      },
+      {
+        "game": "oras-or",
+        "text": "きゃくりょくで　きのみを　くだく。\nどんなに　つよい　あいてでも\nゆうかんに　たちむかう　しゅうせい。"
+      },
+      {
+        "game": "oras-as",
+        "text": "つよい　あいてにも　みさかいなく\nたたかいを　いどむ。たたかいを\nくりかえす　ことで　つよくなるのだ。"
+      },
+      {
+        "game": "sm-s",
+        "text": "みさかいなく　たたかいを　いどむ。\nたおれるたびに　きずつくたびに\nつよく　たくましく　そだっていく。"
+      },
+      {
+        "game": "sm-m",
+        "text": "とがったツメを　えものに　つきたて\nついばんでいる。　きのみも　たべるが\nきほんてきに　にくしょくの　ポケモン。"
+      },
+      {
+        "game": "usum-us",
+        "text": "つよい　きゃくりょくと　じょうぶな\nツメで　かたい　シェルダーの　カラも\nくだいて　なかみを　ついばむ。"
+      },
+      {
+        "game": "usum-um",
+        "text": "うまれながらの　せんしと　よばれる。\nうまれて　すぐに　おやに　いどみ\nみとめてもらわなければ　いけない。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "つよそうな　ポケモンを　みると\nたたかいを　いどまずに　いられない。\nまけると　おおごえで　なきだす。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "かたい　きのみも　こなごなに　くだく\nあくりょく。　ケンカっぱやく\nだれにでも　しょうぶを　しかける。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Washibon",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "수리둥보",
+    "genus": "새끼독수리포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "다리 힘으로 나무열매를 으깬다.\n아무리 강한 상대라도\n용감히 맞서는 습성이 있다."
+      },
+      {
+        "game": "xy-y",
+        "text": "강한 상대에게도 무작정\n싸움을 건다. 싸움을 계속\n반복하며 강해진다."
+      },
+      {
+        "game": "oras-or",
+        "text": "다리 힘으로 나무열매를 으깬다.\n아무리 강한 상대라도\n용감히 맞서는 습성이 있다."
+      },
+      {
+        "game": "oras-as",
+        "text": "강한 상대에게도 무작정\n싸움을 건다. 싸움을 계속\n반복하며 강해진다."
+      },
+      {
+        "game": "sm-s",
+        "text": "무작정 싸움을 건다.\n쓰러질 때마다 다칠 때마다\n강하고 늠름하게 성장해간다."
+      },
+      {
+        "game": "sm-m",
+        "text": "뾰족한 발톱을 사냥감에게 꽂고\n쪼아 먹는다. 나무열매도 먹지만\n기본적으로 육식 포켓몬이다."
+      },
+      {
+        "game": "usum-us",
+        "text": "강한 다릿심과 튼튼한 발톱으로\n딱딱한 셀러의 껍질도 부수고\n안에 있는 내용물을 쪼아 먹는다."
+      },
+      {
+        "game": "usum-um",
+        "text": "타고난 전사라고 불린다.\n태어나자마자 부모에게 도전하여\n인정을 받아야 한다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "강해 보이는 포켓몬을 발견하면\n싸움을 걸지 않고는 못 배긴다.\n지면 큰 소리로 울어댄다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "딱딱한 나무열매도 산산조각 내는\n악력을 가졌다. 쉽게 다투고\n아무에게나 승부를 건다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "毛頭小鷹",
+    "genus": "雛鷹寶可夢",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "會不由分說挑起戰鬥。\n隨著每次被打倒，每次受傷，\n會成長得更強更壯。"
+      },
+      {
+        "game": "sm-m",
+        "text": "用尖尖的爪子刺穿獵物\n後啄食。雖然也會吃樹果，\n但基本上是肉食性寶可夢。"
+      },
+      {
+        "game": "usum-us",
+        "text": "靠著強大的腳力和結實的爪子，\n連大舌貝的堅硬外殼都能弄碎，\n去啄食裡面的東西。"
+      },
+      {
+        "game": "usum-um",
+        "text": "被稱為天生的戰士。一出生\n就必須挑戰自己的父母親，\n並獲得父母親的認可。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "每當遇到看似強勁的寶可夢，\n都會忍不住去挑起戰鬥。\n如果輸了就會放聲大哭。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "握力強，能把堅硬的樹果\n弄得粉碎。性急愛吵架，\n無論對誰都會挑起戰鬥。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Furaiglon",
+    "genus": "Pokémon Aiglon",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Il casse les Baies avec ses serres.\nIl combat courageusement, quelle que\nsoit la force de l’adversaire."
+      },
+      {
+        "game": "bw-w",
+        "text": "Il défie sans discernement même les\nennemis puissants. Il devient plus fort\nen multipliant les combats."
+      },
+      {
+        "game": "xy-x",
+        "text": "Il casse les Baies avec ses serres. Il combat\ncourageusement, quelle que soit la force de\nl’adversaire."
+      },
+      {
+        "game": "xy-y",
+        "text": "Il défie sans discernement même les ennemis\npuissants. Il devient plus fort en multipliant les\ncombats."
+      },
+      {
+        "game": "oras-or",
+        "text": "Il casse les Baies avec ses serres. Il combat courageusement,\nquelle que soit la force de l’adversaire."
+      },
+      {
+        "game": "oras-as",
+        "text": "Il défie sans discernement même les ennemis puissants.\nIl devient plus fort en multipliant les combats."
+      },
+      {
+        "game": "sm-s",
+        "text": "Il s’attaque à tout ce qui bouge, sans\ndiscrimination. Ses blessures et échecs\nne font que le rendre plus fort."
+      },
+      {
+        "game": "sm-m",
+        "text": "Il agrippe ses proies avec ses serres effilées\net les picore. Il lui arrive de manger des Baies,\nmais au fond c’est un carnivore."
+      },
+      {
+        "game": "usum-us",
+        "text": "Grâce à ses pattes puissantes et à ses serres\nrobustes, il arrive même à briser la coquille de\nKokiyas pour se délecter de son contenu."
+      },
+      {
+        "game": "usum-um",
+        "text": "C’est un guerrier endurci dès sa naissance.\nIl commence d’ailleurs par défier ses parents\nau combat pour leur prouver sa valeur."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Il ne peut pas s’empêcher de défier les Pokémon\nqui ont l’air forts. Lorsqu’il perd, il pousse un cri\nassourdissant."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Sa poigne est telle qu’il peut réduire en miettes\nles plus dures des Baies. Belliqueux de nature,\nil n’hésite pas à défier tout le monde."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Geronimatz",
+    "genus": "Adlerküken-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Kann mit seinen Füßen Nüsse zermalmen.\nEs stellt sich jedem noch so starken Gegner\ntapfer zum Kampf."
+      },
+      {
+        "game": "xy-y",
+        "text": "Es zettelt willkürlich Kämpfe an, egal wie stark\nder Gegner auch ist. Es gewinnt an Stärke,\nindem es seine Fehler analysiert."
+      },
+      {
+        "game": "oras-or",
+        "text": "Kann mit seinen Füßen Nüsse zermalmen. Es stellt sich jedem\nnoch so starken Gegner tapfer zum Kampf."
+      },
+      {
+        "game": "oras-as",
+        "text": "Es zettelt willkürlich Kämpfe an, egal wie stark der Gegner\nauch ist. Es gewinnt an Stärke, indem es seine Fehler\nanalysiert."
+      },
+      {
+        "game": "sm-s",
+        "text": "Es zettelt willkürlich Kämpfe an, egal wie\nstark der Gegner auch ist. Es gewinnt mit\njeder Niederlage und Blessur an Stärke."
+      },
+      {
+        "game": "sm-m",
+        "text": "Mit seinen scharfen Fängen packt es seine\nBeute und pickt danach. Generell ist es ein\nFleischfresser, es isst aber auch Beeren."
+      },
+      {
+        "game": "usum-us",
+        "text": "Mit seinen kräftigen Beinen und robusten Krallen\nkann es selbst die harte Schale eines Muschas\naufbrechen und das Innere herauspicken."
+      },
+      {
+        "game": "usum-um",
+        "text": "Dieses Pokémon gilt als geborener Krieger.\nKaum ist es geschlüpft, tritt es gegen seine\nEltern an, um ihre Anerkennung zu bekommen."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Wenn es einen starken Gegner erblickt, kommt\nes nicht umhin, ihn anzugreifen. Verliert es den\nKampf, so fängt es an zu weinen."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Seine starken Klauen können selbst harte Beeren\nzermalmen. Es ist so streitsüchtig, dass es jeden\nzum Kampf herausfordert, dem es begegnet."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Rufflet",
+    "genus": "Pokémon Aguilucho",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Quiebra bayas con sus extremidades. Se enfrenta con\nvalentía a todo enemigo por fuerte que este sea."
+      },
+      {
+        "game": "xy-y",
+        "text": "Desafía indiscriminadamente a rivales poderosos.\nLibrar numerosas batallas lo hace fuerte."
+      },
+      {
+        "game": "oras-or",
+        "text": "Quiebra bayas con sus extremidades. Se enfrenta con valentía\na todo enemigo por fuerte que este sea."
+      },
+      {
+        "game": "oras-as",
+        "text": "Desafía indiscriminadamente a rivales poderosos. Librar\nnumerosas batallas lo hace fuerte."
+      },
+      {
+        "game": "sm-s",
+        "text": "Desafía indiscriminadamente a cualquier rival.\nCada vez que le hieren en combate o se debilita\nno hace sino aumentar su fortaleza."
+      },
+      {
+        "game": "sm-m",
+        "text": "Es un Pokémon carnívoro, aunque no les hace\nascos a las bayas. Clava con ahínco sus garras\nafiladas en la presa para picotearla sin cesar."
+      },
+      {
+        "game": "usum-us",
+        "text": "La fuerza de los talones y dureza de las garras\nle permiten perforar la coraza de los Shellder\npara picotear su cuerpo."
+      },
+      {
+        "game": "usum-um",
+        "text": "Su especie es guerrera y belicosa por naturaleza\ny lo primero que hacen nada más nacer es medir\nsus fuerzas contra sus progenitores."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Cuando ve a un Pokémon de aspecto fuerte,\nno puede resistirse a desafiarlo en combate.\nSi pierde, llora y se lamenta a pleno pulmón."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Es capaz de partir hasta la baya más dura gracias\na la fuerza de sus extremidades. Belicoso por\nnaturaleza, planta cara a cualquiera."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Rufflet",
+    "genus": "Pokémon Aquilotto",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Si serve degli arti come schiaccianoci per rompere le\nbacche. Affronta con valore anche i nemici più forti."
+      },
+      {
+        "game": "xy-y",
+        "text": "Sfida indiscriminatamente avversari anche più forti\ndi lui. Si irrobustisce a forza di lottare."
+      },
+      {
+        "game": "oras-or",
+        "text": "Si serve degli arti come schiaccianoci per rompere le bacche.\nAffronta con valore anche i nemici più forti."
+      },
+      {
+        "game": "oras-as",
+        "text": "Sfida indiscriminatamente avversari anche più forti di lui.\nSi irrobustisce a forza di lottare."
+      },
+      {
+        "game": "sm-s",
+        "text": "Si scaglia contro qualsiasi avversario.\nOgni volta che viene ferito o sconfitto,\ndiventa più forte."
+      },
+      {
+        "game": "sm-m",
+        "text": "Infilza le prede con i suoi artigli affilati e le\nattacca a beccate. È principalmente carnivoro,\nma può mangiare anche le bacche."
+      },
+      {
+        "game": "usum-us",
+        "text": "Ha arti potenti e artigli robusti con cui riesce\na frantumare anche la corazza degli Shellder\nper poterne beccare il corpo all’interno."
+      },
+      {
+        "game": "usum-um",
+        "text": "È considerato un lottatore nato: la prima cosa\nche fa quando viene al mondo è sfidare i genitori\nper guadagnarsi la loro approvazione."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Quando scorge un Pokémon che ha l’aria di\nessere forte, lo deve sfidare a tutti i costi. Se\nperde, piange più forte che può."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "La sua stretta riduce in frantumi anche le bacche\npiù dure. È un attaccabrighe e sfida chiunque\ngli capiti a tiro."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Rufflet",
+    "genus": "Eaglet Pokémon",
+    "flavorText": [
+      {
+        "game": "oras-or",
+        "text": "They crush berries with their talons. They bravely\nstand up to any opponent, no matter how strong\nit is."
+      },
+      {
+        "game": "bw-b",
+        "text": "They crush berries with their talons.\nThey bravely stand up to any opponent,\nno matter how strong it is."
+      },
+      {
+        "game": "bw-w",
+        "text": "They will challenge anything, even strong\nopponents, without fear. Their frequent\nfights help them become stronger."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "It stands up to massive opponents, not\nout of courage, but out of recklessness.\nBut that is how it gets stronger."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "It stands up to massive opponents, not\nout of courage, but out of recklessness.\nBut that is how it gets stronger."
+      },
+      {
+        "game": "xy-x",
+        "text": "They crush berries with their talons. They bravely\nstand up to any opponent, no matter how strong\nit is."
+      },
+      {
+        "game": "xy-y",
+        "text": "They will challenge anything, even strong\nopponents, without fear. Their frequent fights help\nthem become stronger."
+      },
+      {
+        "game": "oras-as",
+        "text": "They will challenge anything, even strong\nopponents, without fear. Their frequent fights help\nthem become stronger."
+      },
+      {
+        "game": "sm-s",
+        "text": "They pick fights indiscriminately. They grow\nstronger and more powerful each time they\nfaint or are injured."
+      },
+      {
+        "game": "sm-m",
+        "text": "With its sharp claws, this Pokémon pierces its\nprey, and then it pecks at them. Although it also\nconsumes berries, it’s a carnivore at heart."
+      },
+      {
+        "game": "usum-us",
+        "text": "With its powerful legs and sturdy claws, it can\ncrack even the hard shells of Shellder and pluck\nout their insides."
+      },
+      {
+        "game": "usum-um",
+        "text": "Known as a natural-born warrior, soon after its\nhatching, it will challenge its parent to a fight in\norder to gain their acceptance."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "If it spies a strong Pokémon, Rufflet can’t resist\nchallenging it to a battle. But if Rufflet loses,\nit starts bawling."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "A combative Pokémon, it’s ready to pick a fight\nwith anyone. It has talons that can crush\nhard berries."
+      },
+      {
+        "game": "la",
+        "text": "Its chick-like looks belie its hotheadedness. It challenges its\nparents at every opportunity, desperate to prove its strength."
+      }
+    ]
+  },
+  "chs": {
+    "name": "毛头小鹰",
+    "genus": "雏鹰宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "会不由分说挑起战斗。\n随着每次被打倒，每次受伤，\n成长得更强更壮。"
+      },
+      {
+        "game": "sm-m",
+        "text": "用尖尖的爪子刺穿猎物\n并进行啄食。也会吃树果，\n但基本上是肉食类宝可梦。"
+      },
+      {
+        "game": "usum-us",
+        "text": "用强大的脚力和结实的爪子，\n连大舌贝的坚硬外壳都能弄碎，\n将里面的东西啄出来。"
+      },
+      {
+        "game": "usum-um",
+        "text": "被称为天生的战士。\n出生后必须立即向父母亲发起挑战，\n并得到对方的认可。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "每当遇到看似强劲的宝可梦，\n都会忍不住去挑起战斗。\n如果输了则会放声大哭。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "握力强，能把坚硬的树果\n弄得粉碎。性急爱吵架，\n无论对谁都会挑起战斗。"
+      }
+    ]
+  }
+}

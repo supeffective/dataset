@@ -1,0 +1,133 @@
+{
+  "jap": {
+    "name": "カマスジョー",
+    "genus": "くしざしポケモン",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "やりの　ように　とがった　あごは\nはがねの　かたさ。　その　みは\nおどろくほど　おいしい　らしい。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "おびれを　かいてんさせ　いっきに\nとつげき。　１００ノットを　こえる\nそくどで　えものを　つらぬくぞ。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Kamasujaw",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "꼬치조",
+    "genus": "꼬치포켓몬",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "창처럼 뾰족한 턱은 강철과 같은\n단단함을 자랑한다. 살코기는\n깜짝 놀랄 정도로 맛있다는 듯하다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "꼬리지느러미를 회전시켜 단번에\n돌격한다. 100노트를 넘는\n속도로 먹이를 관통한다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "戽斗尖梭",
+    "genus": "穿刺寶可夢",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "像長矛一樣尖銳的下巴\n擁有鋼鐵般的硬度。\n據說牠的肉好吃得驚人。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "會旋轉著自己的尾鰭\n一口氣突擊。能夠以超過\n１００節的速度貫穿獵物。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Hastacuda",
+    "genus": "Pokémon Transperceur",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Sa mâchoire pointue comme une lance est aussi\ndure que l’acier, et sa chair serait, contre toute\nattente, succulente."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Il charge d’un coup en faisant tourner sa nageoire\ncaudale. Il peut transpercer ses proies\nà une vitesse dépassant les 100 nœuds."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Barrakiefa",
+    "genus": "Spieß-Pokémon",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Sein Kiefer ist spitz wie ein Speer und hart wie\nStahl. Außerdem soll Barrakiefa überraschend\ndeliziös sein."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Es lässt seine Schwanzflosse rotieren und stößt\nmit einem Mal zu. Es durchsticht seine Beute mit\neiner Geschwindigkeit von über 100 Knoten."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Barraskewda",
+    "genus": "Pokémon Ensarta",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Su mandíbula es tan puntiaguda como una lanza\ny tan dura como el acero. Al parecer, su carne es\nsorprendentemente deliciosa."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Hace girar su aleta caudal para impulsarse y\narremeter contra la presa, a la que ensarta a\nuna velocidad que supera los 100 nudos."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Barraskewda",
+    "genus": "Pokémon Spiedo",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "La sua mandibola è appuntita come una lancia\ne dura come l’acciaio. Sembra che le sue carni\nsiano incredibilmente deliziose."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Fa girare rapidamente la coda e carica a tutta\nforza, trafiggendo le sue prede a una velocità\ndi 100 nodi."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Barraskewda",
+    "genus": "Skewer Pokémon",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "This Pokémon has a jaw that’s as sharp as a spear\nand as strong as steel. Apparently Barraskewda’s\nflesh is surprisingly tasty, too."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "It spins its tail fins to propel itself, surging\nforward at speeds of over 100 knots before\nramming prey and spearing into them."
+      }
+    ]
+  },
+  "chs": {
+    "name": "戽斗尖梭",
+    "genus": "穿刺宝可梦",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "像长矛一样尖锐的下巴\n拥有钢铁般的硬度。\n据说它的肉好吃得惊人。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "会旋转着自己的尾鳍\n一口气突击。能够以超过\n１００节的速度贯穿猎物。"
+      }
+    ]
+  }
+}

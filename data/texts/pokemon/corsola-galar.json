@@ -1,0 +1,465 @@
+{
+  "jap": {
+    "name": "サニーゴ",
+    "genus": "さんごポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "どんどん　そだっては　はえかわる\nあたまの　さきは　きれいなので\nたからもの　として　にんきがたかい。"
+      },
+      {
+        "game": "xy-y",
+        "text": "みなみの　きれいな　うみをこのむ。\nよごれた　うみだと　サンゴの　えだは\nいろがくすみ　ボロボロになるのだ。"
+      },
+      {
+        "game": "oras-or",
+        "text": "サンゴの　えだは　たいようの　ひかりを　あびると\nなないろに　キラキラ　かがやき　とても　きれい。\nおれても　ひとばんで　もとどおりに　はえてくる。"
+      },
+      {
+        "game": "oras-as",
+        "text": "あたたかい　うみに　あつまった　サニーゴは\nちいさい　ポケモンたちの　かくれがに　なる。\nすいおんが　さがると　みなみへ　いどうする。"
+      },
+      {
+        "game": "sm-s",
+        "text": "サンゴのえだが　あたまに　はえる。\nかなり　かんたんに　おれるけど\nみっかくらいで　もとに　もどるよ。"
+      },
+      {
+        "game": "sm-m",
+        "text": "あたまの　えだを　ねらい　ヒドイデが\nおいかけてくると　じぶんで　えだを\nポキリと　おって　にげだすよ。"
+      },
+      {
+        "game": "usum-us",
+        "text": "アローラに　くらす　サニーゴは\nピンクが　とても　あざやかで　こい。\nえいようほうふな　うみの　おかげだ。"
+      },
+      {
+        "game": "usum-um",
+        "text": "てんてきの　ヒドイデが　たくさんいる\nアローラでは　あたまの　えだが\nみじかい　サニーゴが　おおいのだ。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "あたまに　はえた　えだは　おれても\nまた　はえてくる。　きれいな　ものは\nあんざんの　おまもりに　されるよ。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "あたたかい　うみで　くらす。\nたいこは　ガラルきんかい　にも\nかずおおく　せいそく　していた。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Sunnygo",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "코산호",
+    "genus": "산호포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "점점 자라면서 다시 돋아나는\n머리의 끝이 아름다워\n보물로서 인기가 많다."
+      },
+      {
+        "game": "xy-y",
+        "text": "남쪽의 깨끗한 바다를 좋아한다.\n더러운 바다면 산호 가지는\n색이 거무스레해지고 엉망이 된다."
+      },
+      {
+        "game": "oras-or",
+        "text": "산호 가지는 태양의 빛을 받으면\n일곱 빛깔로 반짝반짝 빛이 나 정말 아름답다.\n부러져도 하룻밤이면 원래대로 자라난다."
+      },
+      {
+        "game": "oras-as",
+        "text": "따뜻한 바다에 모인 코산호는\n작은 포켓몬들의 은신처가 된다.\n수온이 낮아지면 남쪽으로 이동한다."
+      },
+      {
+        "game": "sm-s",
+        "text": "산호 가지가 머리에 자란다.\n꽤 간단히 부러지지만\n사흘 정도면 원래대로 돌아온다."
+      },
+      {
+        "game": "sm-m",
+        "text": "머리의 가지를 노리고 시마사리가\n쫓아오면 자신의 가지를\n뚝 부러뜨리고 도망친다."
+      },
+      {
+        "game": "usum-us",
+        "text": "알로라에 사는 코산호는\n핑크가 매우 선명하고 짙다.\n영양이 풍부한 바다 덕분이다."
+      },
+      {
+        "game": "usum-um",
+        "text": "천적인 시마사리가 잔뜩 있는\n알로라에서는 머리의 가지가\n짧은 코산호가 많다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "머리에 난 가지는 부러져도\n다시 자란다. 예쁜 것은\n순산을 기원하는 부적으로 쓰인다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "따뜻한 바다에 서식한다.\n태고에는 가라르 근해에서도\n많은 수가 서식했었다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "太陽珊瑚",
+    "genus": "珊瑚寶可夢",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "頭頂上長有珊瑚枝。\n雖然相當容易被折斷，\n但大約３天就能恢復原狀哦。"
+      },
+      {
+        "game": "sm-m",
+        "text": "襲擊頭頂枝條的好壞星\n追過來的時候，\n會果斷地自己折斷枝條逃生哦。"
+      },
+      {
+        "game": "usum-us",
+        "text": "生活在阿羅拉的太陽珊瑚\n身上的粉紅色非常鮮豔濃郁，\n這都是拜富含營養的大海所賜。"
+      },
+      {
+        "game": "usum-um",
+        "text": "在天敵好壞星大量存在的\n阿羅拉，大多數的太陽珊瑚\n頭上的枝條都短短的。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "頭頂上的珊瑚枝即使折斷了\n也會再長出來。人們會把漂亮的\n珊瑚枝當成保佑孕婦的護身符。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "在溫暖的大海裡生活。\n也曾經大量棲息於\n上古時期的伽勒爾近海。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Corayon",
+    "genus": "Pokémon Corail",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Ses branches repoussent si elles sont brisées.\nLes plus belles sont offertes aux futures mamans\ncomme porte-bonheurs."
+      },
+      {
+        "game": "bw-b",
+        "text": "On en trouve beaucoup dans les mers\nclaires du sud. On dirait qu’il ne peut\npas vivre en eau polluée."
+      },
+      {
+        "game": "bw-w",
+        "text": "On en trouve beaucoup dans les mers\nclaires du sud. On dirait qu’il ne peut\npas vivre en eau polluée."
+      },
+      {
+        "game": "xy-x",
+        "text": "Il grandit en permanence. Les exquises excroissances\nde sa tête sont très recherchées."
+      },
+      {
+        "game": "xy-y",
+        "text": "On le trouve souvent dans les mers claires du sud.\nL’eau polluée décolore son corail et le fait dépérir."
+      },
+      {
+        "game": "oras-or",
+        "text": "Les branches de Corayon brillent de sept couleurs quand\nelles sont exposées à la lumière du soleil. Si une des branches\ncasse, ce Pokémon peut la faire repousser en une nuit."
+      },
+      {
+        "game": "oras-as",
+        "text": "Les Corayon se rassemblent dans les mers chaudes,\noffrant ainsi un abri idéal aux plus petits Pokémon.\nQuand la température baisse, ce Pokémon migre vers\nles mers du sud."
+      },
+      {
+        "game": "sm-s",
+        "text": "Des cornes de corail poussent sur la tête\nde ce Pokémon. Elles sont assez fragiles,\nmais repoussent en trois jours seulement."
+      },
+      {
+        "game": "sm-m",
+        "text": "Lorsqu’il est poursuivi par des Vorastérie attirés\npar les cornes sur sa tête, il les détache de\nlui-même pour faire diversion et détaler."
+      },
+      {
+        "game": "usum-us",
+        "text": "Les nutriments présents dans les eaux riches\nd’Alola ont donné à Corayon cette couleur rose\nsi vive et chatoyante."
+      },
+      {
+        "game": "usum-um",
+        "text": "À cause de la prolifération de Vorastérie,\nson prédateur naturel, le Corayon d’Alola\na souvent les cornes courtes."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Ces Pokémon habitués des mers chaudes\nse trouvaient autrefois en masse sur les côtes\nde Galar."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Corasonn",
+    "genus": "Korallen-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Es häutet sich ständig und wächst. Seine Kopfspitze\nwurde als Schatz der Schönheit ausgezeichnet."
+      },
+      {
+        "game": "xy-y",
+        "text": "Hält sich lieber in den sauberen Seen im Süden auf.\nSeine Korallenarme verlieren in verschmutztem Wasser\nFarbe und Form."
+      },
+      {
+        "game": "oras-or",
+        "text": "Wenn Corasonns Arme Sonnenlicht abbekommen, glitzern sie\nwunderschön in sieben Farben. Wenn ein Arm abbricht, wächst\nüber Nacht ein neuer nach."
+      },
+      {
+        "game": "oras-as",
+        "text": "Scharen von Corasonn sammeln sich im warmen Meer und\ndienen kleineren Pokémon als ideale Plätze zum Verstecken.\nWenn die Wassertemperatur sinkt, wandert dieses Pokémon\nin die südlichen Meere ab."
+      },
+      {
+        "game": "sm-s",
+        "text": "Auf seinem Kopf wachsen Korallenarme, die\nziemlich leicht abbrechen, allerdings innerhalb\nvon etwa drei Tagen wieder nachwachsen."
+      },
+      {
+        "game": "sm-m",
+        "text": "Drohen die Arme auf seinem Kopf von einem\nGarstella verschlungen zu werden, wirft es\ndiese ab und sucht das Weite."
+      },
+      {
+        "game": "usum-us",
+        "text": "Aufgrund des nährstoffreichen Meeres ist das\nPink der in Alola lebenden Corasonn besonders\nstrahlend und kräftig."
+      },
+      {
+        "game": "usum-um",
+        "text": "In Alola gibt es viele Corasonn mit kurzen\nKorallenarmen, da es dort von ihren\nFressfeinden Garstella nur so wimmelt."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Die Äste auf seinem Kopf wachsen nach, wenn\nsie abbrechen. Besonders schöne abgebrochene\nÄste gelten als Glücksbringer für Geburten."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Es lebt in warmen Meeren. Vor langer Zeit konnte\nman große Scharen dieses Pokémon auch an den\nKüsten Galars antreffen."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Corsola",
+    "genus": "Pokémon Coral",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Crece y muda continuamente. La parte superior de su\ncabeza es muy apreciada por su belleza."
+      },
+      {
+        "game": "xy-y",
+        "text": "Adoran las aguas cristalinas de los mares del sur, pues\nsu coral pierde color y se deteriora en aguas sucias."
+      },
+      {
+        "game": "oras-or",
+        "text": "Las ramas de Corsola brillan con belleza hasta en siete\ncolores cuando les da el sol. Si se le rompe alguna, el\nPokémon la regenera en tan solo una noche."
+      },
+      {
+        "game": "oras-as",
+        "text": "Las aguas templadas son el hábitat de Corsola. Allí se\nagrupan grandes bancos de estos Pokémon que sirven de\nescondite a Pokémon más pequeños. Cuando la temperatura\ndel agua baja, suelen migrar a los mares del sur."
+      },
+      {
+        "game": "sm-s",
+        "text": "De su cabeza brotan ramas de coral. Son muy\nfrágiles, pero pueden regenerarse en un lapso\nde tres días."
+      },
+      {
+        "game": "sm-m",
+        "text": "Cuando Mareanie lo persigue para hacerse con\nsus ramas de coral, Corsola se desprende de\nellas adrede para poder huir sin problemas."
+      },
+      {
+        "game": "usum-us",
+        "text": "La coloración rosa de los ejemplares de Alola es\nextraordinariamente viva e intensa debido a la\nabundancia de nutrientes de sus aguas."
+      },
+      {
+        "game": "usum-um",
+        "text": "En Alola abundan los Mareanie, su enemigo\nnatural, y por eso se ven muchos Corsola con\nramas de coral más cortas de lo normal."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Las ramas que le brotan de la cabeza se\nregeneran si se rompen. Las más bellas se\nemplean como amuleto en los partos."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Habita en mares cálidos. Antiguamente vivían en\nlas aguas costeras de Galar un gran número de\nejemplares."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Corsola",
+    "genus": "Pokémon Corallo",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Muta la pelle e cresce di continuo. La punta che\nha sul capo è un simbolo della sua bellezza."
+      },
+      {
+        "game": "xy-y",
+        "text": "Preferisce i limpidi mari del sud. In quelli inquinati,\ninvece, i suoi coralli si logorano e perdono il loro\ncolore."
+      },
+      {
+        "game": "oras-or",
+        "text": "Le ramificazioni dei Corsola brillano in sette meravigliosi\ncolori se esposte alla luce del sole. Se qualche ramo\nsi spezza e cade viene rigenerato nell’arco di una notte."
+      },
+      {
+        "game": "oras-as",
+        "text": "I Corsola formano grandi colonie nei mari più caldi dove\ncostituiscono rifugi ideali per Pokémon più piccoli. Quando\nla temperatura dell’acqua si abbassa, migrano verso i mari\ndel sud."
+      },
+      {
+        "game": "sm-s",
+        "text": "Sul suo capo crescono dei coralli molto fragili.\nSe un ramo si spezza e cade, viene rigenerato\nnell’arco di tre giorni."
+      },
+      {
+        "game": "sm-m",
+        "text": "Quando è inseguito da un Mareanie attirato dai\ncoralli che ha sul capo, li stacca per distrarlo\ne fuggire più agevolmente."
+      },
+      {
+        "game": "usum-us",
+        "text": "I Corsola che vivono ad Alola sono di un colore\nrosa intenso e brillante grazie alle acque marine\nricche di elementi nutritivi."
+      },
+      {
+        "game": "usum-um",
+        "text": "Ad Alola, i rametti sulla testa dei Corsola sono\nspesso più corti del normale per la presenza\nmassiccia di Mareanie, i loro nemici naturali."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Se i coralli che ha sulla testa si spezzano\ncrescono nuovamente. Quelli più belli vengono\nusati come portafortuna per il parto."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Vive nei mari più caldi. Anticamente, numerosi\nesemplari di questo Pokémon vivevano anche\nlungo le coste di Galar."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Corsola",
+    "genus": "Coral Pokémon",
+    "flavorText": [
+      {
+        "game": "gs-g",
+        "text": "It continuously\nsheds and grows.\nThe tip of its\fhead is prized as\na treasure for its\nbeauty."
+      },
+      {
+        "game": "gs-s",
+        "text": "In a south sea\nnation, the people\nlive in communi­\fties that are\nbuilt on groups of\nthese POKéMON."
+      },
+      {
+        "game": "c",
+        "text": "The points on its\nhead absorb\nnutrients from\fclean water. They\ncannot survive in\npolluted water."
+      },
+      {
+        "game": "rs-r",
+        "text": "CORSOLA’s branches glitter very\nbeautifully in seven colors when they\ncatch sunlight.\fIf any branch breaks off, this POKéMON\ngrows it back in just one night."
+      },
+      {
+        "game": "rs-s",
+        "text": "Clusters of CORSOLA congregate in warm\nseas where they serve as ideal hiding\nplaces for smaller POKéMON.\fWhen the water temperature falls, this\nPOKéMON migrates to the southern seas."
+      },
+      {
+        "game": "e",
+        "text": "CORSOLA live in warm southern seas.\nIf the sea becomes polluted, the beautiful\ncoral stalks become discolored and crumble\naway in tatters."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "In a south sea nation, the people live in\ncommunities that are built on groups of\nthese POKéMON."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "It continuously sheds and grows. The tip\nof its head is prized as a treasure for\nits beauty."
+      },
+      {
+        "game": "dp-d",
+        "text": "Many live in the clean seas of the\nsouth. They apparently can’t live\nin polluted waters."
+      },
+      {
+        "game": "dp-p",
+        "text": "Many live in the clean seas of the\nsouth. They apparently can’t live\nin polluted waters."
+      },
+      {
+        "game": "pt",
+        "text": "Many live in the clean seas of the\nsouth. They apparently can’t live\nin polluted waters."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "It continuously sheds and grows.\nThe tip of its head is prized as\na treasure because of its beauty."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "In a south-sea nation, the people\nlive in communities that are\nbuilt on groups of these Pokémon."
+      },
+      {
+        "game": "bw-b",
+        "text": "Many live in the clean seas of the\nsouth. They apparently can’t live\nin polluted waters."
+      },
+      {
+        "game": "bw-w",
+        "text": "Many live in the clean seas of the\nsouth. They apparently can’t live\nin polluted waters."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "They prefer unpolluted southern seas.\nTheir coral branches lose their color\nand deteriorate in dirty water."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "They prefer unpolluted southern seas.\nTheir coral branches lose their color\nand deteriorate in dirty water."
+      },
+      {
+        "game": "xy-x",
+        "text": "It continuously sheds and grows. The tip of its head\nis prized as a treasure because of its beauty."
+      },
+      {
+        "game": "xy-y",
+        "text": "They prefer unpolluted southern seas. Their coral\nbranches lose their color and deteriorate in\ndirty water."
+      },
+      {
+        "game": "oras-or",
+        "text": "Corsola’s branches glitter very beautifully in seven colors when\nthey catch sunlight. If any branch breaks off, this Pokémon\ngrows it back in just one night."
+      },
+      {
+        "game": "oras-as",
+        "text": "Clusters of Corsola congregate in warm seas where they serve\nas ideal hiding places for smaller Pokémon. When the water\ntemperature falls, this Pokémon migrates to the southern seas."
+      },
+      {
+        "game": "sm-s",
+        "text": "Coral branches grow from its head.\nThey break off quite easily, but they\ngrow back in about three days."
+      },
+      {
+        "game": "sm-m",
+        "text": "Pursued by Mareanie for the branches on its\nhead, this Pokémon will sometimes snap its own\nbranches off as a diversion while it escapes."
+      },
+      {
+        "game": "usum-us",
+        "text": "The pink of Corsola that live in Alola is deep\nand vibrant, thanks to seas filled with nutrition."
+      },
+      {
+        "game": "usum-um",
+        "text": "In Alola, where their natural enemies Mareanie\nare plentiful, many Corsola have stubby\nbranches on their heads."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "It will regrow any branches that break off its\nhead. People keep particularly beautiful Corsola\nbranches as charms to promote safe childbirth."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "These Pokémon live in warm seas.\nIn prehistoric times, many lived in the\noceans around the Galar region as well."
+      }
+    ]
+  },
+  "chs": {
+    "name": "太阳珊瑚",
+    "genus": "珊瑚宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "头顶上长着珊瑚枝。\n虽然相当容易折断，\n但大约３天就能恢复哦。"
+      },
+      {
+        "game": "sm-m",
+        "text": "好坏星追过来袭击它\n头顶枝条的时候，\n会果断地自己折断枝条逃生哦。"
+      },
+      {
+        "game": "usum-us",
+        "text": "生活在阿罗拉的太阳珊瑚身上的\n粉红色非常鲜艳浓郁。\n这都是拜富含营养的大海所赐。"
+      },
+      {
+        "game": "usum-um",
+        "text": "在天敌好坏星大量存在的阿罗拉，\n大多数太阳珊瑚头上的\n枝条都是短短的。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "头顶上的珊瑚枝即使折断了\n也会再长出来。人们会把漂亮的\n珊瑚枝当成保佑孕妇的护身符。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "在温暖的大海里生活。\n也曾经大量栖息于\n上古时期的伽勒尔近海。"
+      }
+    ]
+  }
+}

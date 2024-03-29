@@ -1,0 +1,553 @@
+{
+  "jap": {
+    "name": "コダック",
+    "genus": "あひるポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "いつも　ずつうに　なやまされている。\nこの　ずつうが　はげしくなると\nふしぎな　ちからを　つかいはじめる。"
+      },
+      {
+        "game": "xy-y",
+        "text": "ふしぎな　ちからを　ひめているが\nつかった　きおくが　ないので\nいつも　くびを　かしげている。"
+      },
+      {
+        "game": "oras-or",
+        "text": "ふしぎな　ちからを　はっきしている　コダックから\nねむっている　ときにだけ　でるはずの　のうはが\nかんそくされて　がっかいの　わだいに　なった。"
+      },
+      {
+        "game": "oras-as",
+        "text": "ふしぎな　ちからを　つかった　きおくが　ないのは\nちからを　はっきした　ときは　じゅくすいしている\nときと　おなじ　じょうたいだから　らしい。"
+      },
+      {
+        "game": "sm-s",
+        "text": "じぶんの　いしとは　かんけいなく\nときおり　ねんりきが　でてきて\nあたまが　いたくて　ないている。"
+      },
+      {
+        "game": "sm-m",
+        "text": "いつも　ずつうで　なやんでいる。\nいたみが　ひどいときほど\nきょうりょくな　ねんりきを　はなつ。"
+      },
+      {
+        "game": "usum-us",
+        "text": "ねんりきを　つかうと　ずつうが\nするので　ふだんは　なるべく　なにも\nしないで　ボーっと　すごしているよ。"
+      },
+      {
+        "game": "usum-um",
+        "text": "ずつうが　はっせいしている　あいだ\nのうさいぼうが　ふだんの　１０ばい\nかつどう　していることが　わかった。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "いつも　ずつうに　なやまされている。\nねんりきを　つかうが　じぶんの\nいしか　どうか　わからない。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "いつも　ずつうに　なやまされている。\nねんりきを　つかうが　じぶんの\nいしか　どうか　わからない。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "いつも　ずつうに　なやんでいる。\nふしぎな　ちからを　ばくはつさせると\nしばらく　いたみは　おさまるようだ。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "ストレスが　たまると　ずつうが\nエスカレート。　きょうりょくな\nねんりきで　まわりを　あっとうする。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Koduck",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "고라파덕",
+    "genus": "오리포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "항상 두통에 시달리고 있다.\n이 두통이 심해지면\n이상한 힘을 쓰기 시작한다."
+      },
+      {
+        "game": "xy-y",
+        "text": "이상한 힘을 간직하고 있지만\n사용했던 기억이 없으므로\n항상 고개를 갸웃거리고 있다."
+      },
+      {
+        "game": "oras-or",
+        "text": "이상한 힘을 발휘하는 고라파덕에게서\n잠들어 있을 때만 발산되는 뇌파가\n관측되어 학회에서 화제가 되었다."
+      },
+      {
+        "game": "oras-as",
+        "text": "이상한 힘을 썼던 기억이 없는 것은\n힘을 발휘할 때가 숙면 중일 때와\n같은 상태이기 때문인 것 같다."
+      },
+      {
+        "game": "sm-s",
+        "text": "가끔 자신의 의지와 상관없이\n염동력이 나와버린다.\n그 때문에 머리가 아파서 울곤 한다."
+      },
+      {
+        "game": "sm-m",
+        "text": "언제나 두통에 시달리고 있다.\n고통이 심할 때 일수록\n강력한 염동력을 발산한다."
+      },
+      {
+        "game": "usum-us",
+        "text": "염동력을 사용하면 두통이 생겨서\n평소에는 아무것도 하지 않고\n가능한 멍하니 지낸다."
+      },
+      {
+        "game": "usum-um",
+        "text": "두통이 발생하는 동안\n뇌세포가 평소의 10배나\n활동한다는 사실이 밝혀졌다."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "항상 두통에 시달리고 있다.\n염력을 사용하지만 자신의\n의지인지 아닌지 알 수 없다."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "항상 두통에 시달리고 있다.\n염력을 사용하지만 자신의\n의지인지 아닌지 알 수 없다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "언제나 두통에 시달린다.\n신비한 힘을 폭발시키면\n잠시 통증이 진정되는 듯하다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "스트레스가 쌓이면\n두통이 심해진다. 강력한\n염동력으로 주위를 압도한다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "可達鴨",
+    "genus": "鴨寶可夢",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "身體無意識地\n不時產生念力，\n讓牠因為頭痛而哭泣。"
+      },
+      {
+        "game": "sm-m",
+        "text": "一直因頭痛而煩惱著。\n痛得越厲害，\n放出的念力越強。"
+      },
+      {
+        "game": "usum-us",
+        "text": "一使出念力就會頭痛，\n所以平常盡量什麼事都不做，\n整天不停地發呆。"
+      },
+      {
+        "game": "usum-um",
+        "text": "據了解，當頭痛發生時，\n牠的腦細胞活動\n會比平時活躍１０倍。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "總是因為頭痛所苦。\n會使用念力，但無法確認\n是不是出於牠自己的意志。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "總是因為頭痛所苦。\n會使用念力，但無法確認\n是不是出於牠自己的意志。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "總是因為頭痛而煩惱著。\n當牠讓神奇的力量爆發後，\n似乎就能暫時舒緩疼痛。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "頭痛會隨著壓力累積而\n更加劇烈。會用強大的\n念力壓倒周圍的一切。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Psykokwak",
+    "genus": "Pokémon Canard",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Ses pouvoirs déconcertants\net mystérieux lui font subir\nde constantes migraines."
+      },
+      {
+        "game": "bw-w",
+        "text": "Ses pouvoirs déconcertants\net mystérieux lui font subir\nde constantes migraines."
+      },
+      {
+        "game": "xy-x",
+        "text": "Ce Pokémon a tout le temps la migraine.\nQuand la douleur devient insupportable, il se met à\nutiliser ses pouvoirs psy."
+      },
+      {
+        "game": "xy-y",
+        "text": "Il ne se souvient pas qu’il a des pouvoirs psy.\nC’est pour cela qu’il a l’air si confus."
+      },
+      {
+        "game": "oras-or",
+        "text": "Psykokwak utilise un mystérieux pouvoir. Ce Pokémon\npeut générer des ondes cérébrales normalement observées\nchez les dormeurs. Cette découverte a lancé une polémique\ndans le milieu universitaire."
+      },
+      {
+        "game": "oras-as",
+        "text": "Lorsqu’il utilise son mystérieux pouvoir, Psykokwak\nne s’en souvient pas. Apparemment, il ne peut pas garder\nce genre d’événement en mémoire, car il pratique ce pouvoir\ndans un état proche du sommeil profond."
+      },
+      {
+        "game": "sm-s",
+        "text": "Il arrive que des ondes psychiques fusent de\nson cerveau sans qu’il n’y soit pour rien, ce qui\nlui donne mal à la tête au point de gémir."
+      },
+      {
+        "game": "sm-m",
+        "text": "Il souffre d’une migraine permanente. Plus sa\ndouleur augmente, plus il émet des ondes\npsychiques intenses."
+      },
+      {
+        "game": "usum-us",
+        "text": "Utiliser ses pouvoirs psychiques lui donne\nde terribles migraines, aussi préfère-t-il passer\ntout son temps immobile à ne rien faire."
+      },
+      {
+        "game": "usum-um",
+        "text": "Des scientifiques ont découvert que lorsqu’il\nsouffre de migraines, ses neurones fonctionnent\ndix fois plus vite qu’en temps normal."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Il est toujours en proie à des maux de tête.\nOn ignore s’il contrôle ses pouvoirs psychiques."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Il est toujours en proie à des maux de tête.\nOn ignore s’il contrôle ses pouvoirs psychiques."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Il a toujours la migraine, mais la douleur semble\ns’atténuer momentanément s’il laisse exploser\nson pouvoir mystérieux."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Sa migraine s’intensifie à mesure que son stress\nmonte. Il libère une force psychique puissante\nqui terrasse tous ceux qui l’entourent."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Enton",
+    "genus": "Enten-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Es wird permanent von Kopfschmerzen geplagt.\nWird der Schmerz stärker, setzt es geheimnisvolle\nKräfte ein."
+      },
+      {
+        "game": "xy-y",
+        "text": "Es besitzt mystische Kräfte, die es unbewusst einsetzt.\nDaher ist sein Blick immer verwirrt."
+      },
+      {
+        "game": "oras-or",
+        "text": "Enton verwendet eine geheimnisvolle Kraft. Dabei erzeugt\nes Gehirnströme, die man sonst nur von Schlafenden kennt.\nDiese Entdeckung führte zu einer kontroversen Diskussion\nunter Wissenschaftlern."
+      },
+      {
+        "game": "oras-as",
+        "text": "Enton besitzt mystische Kräfte. Wenn es sie einsetzt,\nerinnert es sich nicht mehr daran. Es kann ein solches\nEreignis offensichtlich nicht im Gedächtnis behalten,\nda es sich in einen tiefschlafähnlichen Zustand versetzt."
+      },
+      {
+        "game": "sm-s",
+        "text": "Es weint oft, da es immer unter Kopfschmerzen\nleidet und seine Psycho-Kräfte von Zeit zu Zeit\ngegen seinen Willen ausgelöst werden."
+      },
+      {
+        "game": "sm-m",
+        "text": "Es wird permanent von Kopfschmerzen geplagt.\nJe größer diese Schmerzen sind, desto stärker\nwerden seine Psycho-Kräfte."
+      },
+      {
+        "game": "usum-us",
+        "text": "Wenn es seine Psycho-Kräfte einsetzt, bekommt\nes Kopfschmerzen. Deshalb steht es lieber\nuntätig und geistesabwesend herum."
+      },
+      {
+        "game": "usum-um",
+        "text": "Es wurde herausgefunden, dass die Aktivität\nseiner Hirnzellen bei Kopfschmerzen auf das\nZehnfache ansteigt."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Es wird von chronischen Kopfschmerzen geplagt.\nOb es seine Psycho-Kräfte aus eigenem Willen\neinsetzt, ist unklar."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Es wird von chronischen Kopfschmerzen geplagt.\nOb es seine Psycho-Kräfte aus eigenem Willen\neinsetzt, ist unklar."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Enton leidet permanent unter Kopfschmerzen.\nWenn es seine geheimnisvollen Kräfte freisetzt,\nsollen die Schmerzen für eine Weile nachlassen."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Wenn es sehr gestresst ist, verstärken sich seine\nKopfschmerzen. Mit seinen Psycho-Kräften kann\nes alles in der Umgebung überwältigen."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Psyduck",
+    "genus": "Pokémon Pato",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Padece continuamente dolores de cabeza. Cuando\nson muy fuertes, empieza a usar misteriosos poderes."
+      },
+      {
+        "game": "xy-y",
+        "text": "Tiene poderes místicos que no recuerda haber usado.\nPor eso, siempre parece desconcertado."
+      },
+      {
+        "game": "oras-or",
+        "text": "Psyduck tiene un extraño poder, que consiste en generar\nondas cerebrales iguales a las que se generan cuando se está\ndormido. Este descubrimiento levantó una gran polémica entre\neruditos."
+      },
+      {
+        "game": "oras-as",
+        "text": "Psyduck no se acuerda nunca de haber usado su misterioso\npoder. Parece ser que no puede registrar en la memoria haber\nusado el ataque porque se queda inmerso en un estado\nparecido a un sueño profundo."
+      },
+      {
+        "game": "sm-s",
+        "text": "En ocasiones utiliza sus poderes psíquicos\nsin querer, lo que le provoca fuertes dolores\nde cabeza que le hacen chillar."
+      },
+      {
+        "game": "sm-m",
+        "text": "Siempre padece dolores de cabeza. Cuando\nestos llegan a niveles insoportables, desata\nun poder psíquico extraordinario."
+      },
+      {
+        "game": "usum-us",
+        "text": "El uso de sus poderes psíquicos le provoca un\ngran dolor de cabeza, por lo que prefiere tener\nla mente en blanco y no hacer nada en absoluto."
+      },
+      {
+        "game": "usum-um",
+        "text": "Estudios recientes han desvelado que, cuando\nsufre un episodio de cefalea, su actividad\nneuronal es diez veces superior a lo normal."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Siempre tiene dolores de cabeza. Posee poderes\npsíquicos, pero se desconoce si los controla a\nvoluntad."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Siempre tiene dolores de cabeza. Posee poderes\npsíquicos, pero se desconoce si los controla a\nvoluntad."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Siempre padece dolores de cabeza. Tras desatar\nsus misteriosos poderes, la jaqueca remite unos\ninstantes."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Sus dolores de cabeza empeoran a medida que\naumenta su nivel de estrés. Su increíble poder\npsíquico puede causar estragos a su alrededor."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Psyduck",
+    "genus": "Pokémon Papero",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "È costantemente tormentato dal mal di testa che,\nquando si fa particolarmente intenso, gli conferisce\nstrani poteri."
+      },
+      {
+        "game": "xy-y",
+        "text": "Ha poteri soprannaturali ma non ricorda di averli\nusati. Per questo sembra sempre perplesso."
+      },
+      {
+        "game": "oras-or",
+        "text": "Psyduck usa poteri misteriosi, che scatenano onde cerebrali\nrilevabili apparentemente soltanto su persone addormentate.\nQuesta scoperta ha causato reazioni contrastanti tra gli\nstudiosi."
+      },
+      {
+        "game": "oras-as",
+        "text": "Quando usa i suoi misteriosi poteri, Psyduck se ne dimentica\nsubito. Apparentemente non riesce a ricordarsene perché entra\nin uno stato innaturale molto simile a un sonno profondo."
+      },
+      {
+        "game": "sm-s",
+        "text": "A volte i suoi poteri psicocinetici si attivano\nin modo indipendente dalla sua volontà e gli\ncausano mal di testa così forti da farlo gemere."
+      },
+      {
+        "game": "sm-m",
+        "text": "È costantemente tormentato dal mal di testa.\nPiù si acuiscono, maggiore è la sua capacità\ndi usare poteri psicocinetici."
+      },
+      {
+        "game": "usum-us",
+        "text": "Usare i suoi poteri psicocinetici gli causa dei\ngran mal di testa, perciò passa il tempo\ncercando di fare e pensare il meno possibile."
+      },
+      {
+        "game": "usum-um",
+        "text": "Gli scienziati hanno scoperto che quando ha\nmal di testa la sua attività cerebrale aumenta\ndi dieci volte rispetto al solito."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Ha sempre un forte mal di testa.\nNon è chiaro se utilizzi volontariamente\ni suoi poteri psicocinetici."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Ha sempre un forte mal di testa.\nNon è chiaro se utilizzi volontariamente\ni suoi poteri psicocinetici."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "È costantemente tormentato dal mal di testa,\nma se lascia esplodere il suo misterioso potere\npare che trovi temporaneamente sollievo."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Più è stressato, più il suo mal di testa si fa\nintenso. Con i suoi incredibili poteri psicocinetici\ntravolge chiunque nelle vicinanze."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Psyduck",
+    "genus": "Duck Pokémon",
+    "flavorText": [
+      {
+        "game": "rb-r",
+        "text": "While lulling its\nenemies with its\nvacant look, this\fwily POKéMON will\nuse psychokinetic\npowers."
+      },
+      {
+        "game": "rb-b",
+        "text": "While lulling its\nenemies with its\nvacant look, this\fwily POKéMON will\nuse psychokinetic\npowers."
+      },
+      {
+        "game": "y",
+        "text": "Always tormented\nby headaches.\nIt uses psychic\fpowers, but it is\nnot known if it\nintends to do so."
+      },
+      {
+        "game": "gs-g",
+        "text": "It has mystical\npowers but doesn't\nrecall that it has\fused them. That is\nwhy it always\nlooks puzzled."
+      },
+      {
+        "game": "gs-s",
+        "text": "If its chronic\nheadache peaks, it\nmay exhibit odd\fpowers. It seems\nunable to recall\nsuch an episode."
+      },
+      {
+        "game": "c",
+        "text": "The only time it\ncan use its psy­\nchic power is when\fits sleeping brain\ncells happen to\nwake."
+      },
+      {
+        "game": "rs-r",
+        "text": "PSYDUCK uses a mysterious power.\nWhen it does so, this POKéMON \ngenerates brain waves that are\fsupposedly only seen in sleepers.\nThis discovery spurred controversy\namong scholars."
+      },
+      {
+        "game": "rs-s",
+        "text": "If it uses its mysterious power,\nPSYDUCK can’t remember having done so.\nIt apparently can’t form a memory of\fsuch an event because it goes into\nan altered state that is much like\ndeep sleep."
+      },
+      {
+        "game": "e",
+        "text": "When its headache intensifies, it starts\nusing strange powers. However, it has no\nrecollection of its powers, so it always\nlooks befuddled and bewildered."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "It is constantly wracked by a headache.\nWhen the headache turns intense, it begins\nusing mysterious powers."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "While lulling its enemies with its vacant\nlook, this wily POKéMON will use\npsychokinetic powers."
+      },
+      {
+        "game": "dp-d",
+        "text": "If its usual headache worsens, it\nstarts exhibiting odd powers. It\ncan’t remember doing so, however."
+      },
+      {
+        "game": "dp-p",
+        "text": "It never remembers using its\nodd powers, so it always tilts\nits head in puzzlement."
+      },
+      {
+        "game": "pt",
+        "text": "Overwhelmed by enigmatic abilities,\nit suffers a constant headache. It\nsometimes uses mysterious powers."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "It has mystical powers but doesn’t\nrecall that it has used them.\nThat is why it always looks puzzled."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "If its chronic headache peaks, it\nmay exhibit odd powers. It seems\nunable to recall such an episode."
+      },
+      {
+        "game": "bw-b",
+        "text": "Overwhelmed by enigmatic abilities,\nit suffers a constant headache. It\nsometimes uses mysterious powers."
+      },
+      {
+        "game": "bw-w",
+        "text": "Overwhelmed by enigmatic abilities,\nit suffers a constant headache. It\nsometimes uses mysterious powers."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "When headaches stimulate its brain\ncells, which are usually inactive,\nit can use a mysterious power."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "When headaches stimulate its brain\ncells, which are usually inactive,\nit can use a mysterious power."
+      },
+      {
+        "game": "xy-x",
+        "text": "It is constantly wracked by a headache.\nWhen the headache turns intense,\nit begins using mysterious powers."
+      },
+      {
+        "game": "xy-y",
+        "text": "It has mystical powers but doesn’t recall that it has\nused them. That is why it always looks puzzled."
+      },
+      {
+        "game": "oras-or",
+        "text": "Psyduck uses a mysterious power. When it does so, this\nPokémon generates brain waves that are supposedly only seen\nin sleepers. This discovery spurred controversy\namong scholars."
+      },
+      {
+        "game": "oras-as",
+        "text": "If it uses its mysterious power, Psyduck can’t remember\nhaving done so. It apparently can’t form a memory of such\nan event because it goes into an altered state that is much\nlike deep sleep."
+      },
+      {
+        "game": "sm-s",
+        "text": "As a result of headaches so fierce they cause it\nto cry, it sometimes uses psychokinesis without\nmeaning to."
+      },
+      {
+        "game": "sm-m",
+        "text": "This Pokémon is troubled by constant\nheadaches. The more pain it’s in, the more\npowerful its psychokinesis becomes."
+      },
+      {
+        "game": "usum-us",
+        "text": "Using psychokinesis gives it a headache, so it\nnormally passes the time spacing out and doing\nas little as possible."
+      },
+      {
+        "game": "usum-um",
+        "text": "It has been found that its brain cells are\n10 times more active when Psyduck is\nexperiencing a headache."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Always tormented by headaches. It uses\npsychic powers, but whether it intends to\ndo so is not known."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Always tormented by headaches. It uses\npsychic powers, but whether it intends to\ndo so is not known."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Psyduck is constantly beset by headaches. If the\nPokémon lets its strange power erupt, apparently\nthe pain subsides for a while."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "As Psyduck gets stressed out, its headache gets\nprogressively worse. It uses intense psychic\nenergy to overwhelm those around it."
+      },
+      {
+        "game": "la",
+        "text": "Suffers perpetual headaches. If the agony grows too great,\nPsyduck's latent power erupts, contrary to Psyduck's intent.\nErgo, I am exploring ways to ease the pain."
+      }
+    ]
+  },
+  "chs": {
+    "name": "可达鸭",
+    "genus": "鸭宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "不受自己控制，\n时不时地会产生念力，\n导致头痛流泪。"
+      },
+      {
+        "game": "sm-m",
+        "text": "一直因头痛而烦恼着。\n痛得越厉害，\n放出的念力越强。"
+      },
+      {
+        "game": "usum-us",
+        "text": "使用念力会头痛，\n所以平时会尽量不做任何事，\n就在发呆中度过哦。"
+      },
+      {
+        "game": "usum-um",
+        "text": "据了解，头痛发生时，\n它的脑细胞会比平时活跃１０倍。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "一直被头痛困扰。能使用\n念力，但不知道那是否是\n出于它自己的意识。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "一直被头痛困扰。能使用\n念力，但不知道那是否是\n出于它自己的意识。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "总是因为头痛而烦恼。\n让神秘的力量爆发后，\n疼痛似乎就会暂时得到缓解。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "头痛会随着压力逐渐累积\n而不断加剧。会用强大的\n念力击垮周围的一切。"
+      }
+    ]
+  }
+}

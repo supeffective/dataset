@@ -1,0 +1,235 @@
+{
+  "jap": {
+    "name": "マルノーム",
+    "genus": "どくぶくろポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "なんでも　まるのみしてしまう。\nけあなから　もうどくの　たいえきを\nぶんぴつして　てきに　あびせかける。"
+      },
+      {
+        "game": "xy-y",
+        "text": "くちに　はいる　おおきさの　ものなら\nなんでも　まるのみ。とくしゅな\nいえきで　なんでも　しょうかする。"
+      },
+      {
+        "game": "oras-or",
+        "text": "えものを　みつけると　けあなから　もうどくの\nたいえきを　ふきだして　あびせかけるぞ。\nよわった　ところを　おおきな　くちで　ペロリ。"
+      },
+      {
+        "game": "oras-as",
+        "text": "はが　１ぽんも　ないので　なんでも　まるのみ。\nいっぱいに　あけた　くちは　とても　おおきく\nじどうしゃの　タイヤだって　すっぽり　はいるぞ。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Marunoom",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "꿀꺽몬",
+    "genus": "독봉지포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "무엇이든 통째로 삼켜 버린다.\n모공에서 맹독의 체액을\n분비하여 상대에게 끼얹는다."
+      },
+      {
+        "game": "xy-y",
+        "text": "입에 들어가는 크기의 것이라면\n무엇이든 통째로 삼킨다. 특수한\n위액으로 무엇이든 소화한다."
+      },
+      {
+        "game": "oras-or",
+        "text": "먹이를 발견하면 모공에서 맹독의\n체액을 뿜어내어 끼얹는다.\n약해지면 커다란 입으로 한입에 먹는다."
+      },
+      {
+        "game": "oras-as",
+        "text": "이빨이 하나도 없어서 무엇이든 통째로 삼킨다.\n최대한 벌린 입은 정말 커서\n자동차 타이어마저도 쑥 들어간다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "吞食獸",
+    "genus": "毒袋寶可夢",
+    "flavorText": []
+  },
+  "fra": {
+    "name": "Avaltout",
+    "genus": "Pokémon Sac Poison",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Il avale tout en une bouchée. Ses\nfollicules sécrètent des fluides\ntoxiques qui endorment l’ennemi."
+      },
+      {
+        "game": "bw-w",
+        "text": "Il avale tout en une bouchée. Ses\nfollicules sécrètent des fluides\ntoxiques qui endorment l’ennemi."
+      },
+      {
+        "game": "xy-x",
+        "text": "Il avale tout en une bouchée. Ses follicules sécrètent\ndes fluides toxiques qui endorment l’ennemi."
+      },
+      {
+        "game": "xy-y",
+        "text": "Il avale tout en une bouchée. Ses sucs digestifs\npeuvent digérer n’importe quoi."
+      },
+      {
+        "game": "oras-or",
+        "text": "Lorsqu’Avaltout repère une proie, il libère une substance\nterriblement toxique de ses pores et en enduit son ennemi\npour l’affaiblir. Ce Pokémon peut ensuite l’avaler d’un coup\ndans sa gigantesque bouche."
+      },
+      {
+        "game": "oras-as",
+        "text": "Avaltout n’a pas de dents, ce qui le force à tout avaler en\nune bouchée. Quand il bâille, sa bouche prend une taille\nimpressionnante, et on pourrait y placer une roue de voiture."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Schlukwech",
+    "genus": "Giftbeutel",
+    "flavorText": [
+      {
+        "game": "xy-y",
+        "text": "Es verschluckt, was in sein Maul passt, und verdaut es\nmit seiner alles zersetzenden Magensäure."
+      },
+      {
+        "game": "xy-x",
+        "text": "Es verschluckt alles in einem Stück und sondert\ngiftige Stoffe ab, mit denen es Gegner besprüht."
+      },
+      {
+        "game": "oras-or",
+        "text": "Wenn Schlukwech Beute sichtet, verspritzt es eine höchst\ngiftige Substanz aus seinen Poren und besprüht damit sein\nZiel. Wenn die Beute geschwächt ist, schluckt es sie mit\nseinem riesigen Maul im Ganzen herunter."
+      },
+      {
+        "game": "oras-as",
+        "text": "Schlukwech hat keine Zähne. Alles was es isst, schluckt es im\nGanzen herunter. Sein Maul ist so riesig, dass mit Leichtigkeit\nein Autoreifen hineinpassen würde."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Swalot",
+    "genus": "Pokémon Bolsa Veneno",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Se traga cualquier cosa de una pieza. Sus poros\nsegregan fluidos tóxicos que dañan a sus enemigos."
+      },
+      {
+        "game": "xy-y",
+        "text": "Se traga todo lo que le quepa en su enorme boca.\nSus jugos gástricos pueden digerir cualquier cosa."
+      },
+      {
+        "game": "oras-or",
+        "text": "Cuando Swalot detecta una presa, echa por los poros, y a\nborbotones, un fluido tóxico espantoso con el que rocía a su\nvíctima. Una vez que la debilita, se la traga entera gracias a\nla gigantesca boca que tiene."
+      },
+      {
+        "game": "oras-as",
+        "text": "Swalot no tiene dientes, así que lo que come se lo traga de\nuna vez; da igual lo que sea. A este Pokémon le cabría un\nneumático en la boca sin problema."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Swalot",
+    "genus": "Pokémon Velenosacco",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Inghiotte intera qualsiasi cosa. Dai pori traspira\nun liquido tossico con cui bagna i nemici."
+      },
+      {
+        "game": "xy-y",
+        "text": "Inghiotte qualunque cosa che possa infilarsi in\nbocca. Digerisce tutto con succhi gastrici speciali."
+      },
+      {
+        "game": "oras-or",
+        "text": "Quando individua la preda, Swalot spruzza sul bersaglio\nun ripugnante fluido tossico dai propri pori. Una volta\nindebolito l’avversario, Swalot lo ingoia intero con la bocca\nsimile a una voragine."
+      },
+      {
+        "game": "oras-as",
+        "text": "Swalot non ha denti, così quando mangia ingoia ogni cosa\nintera, senza masticare. Quando sbadiglia, la sua bocca\nenorme si apre a mo’ di voragine. È così grande che potrebbe\ncontenere persino uno pneumatico."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Swalot",
+    "genus": "Poison Bag Pokémon",
+    "flavorText": [
+      {
+        "game": "rs-r",
+        "text": "When SWALOT spots prey, it spurts out\na hideously toxic fluid from its pores\nand sprays the target.\fOnce the prey has weakened, this\nPOKéMON gulps it down whole with its\ncavernous mouth."
+      },
+      {
+        "game": "rs-s",
+        "text": "SWALOT has no teeth, so what it\neats, it swallows whole, no matter what.\nIts cavernous mouth yawns widely.\fAn automobile tire could easily fit\ninside this POKéMON’s mouth."
+      },
+      {
+        "game": "e",
+        "text": "Its powerful stomach acid is capable of\ndigesting almost anything. The one thing\nin the whole world a SWALOT can’t digest is\nits own stomach."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "It can swallow a tire whole in one gulp.\nIt secretes a horribly toxic fluid from\nthe pores on its body."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "It can swallow a tire whole in one gulp.\nIt secretes a horribly toxic fluid from\nthe pores on its body."
+      },
+      {
+        "game": "dp-d",
+        "text": "It swallows anything whole.\nIt sweats toxic fluids from its\nfollicles to douse foes."
+      },
+      {
+        "game": "dp-p",
+        "text": "It swallows anything whole.\nIt sweats toxic fluids from its\nfollicles to douse foes."
+      },
+      {
+        "game": "pt",
+        "text": "It swallows anything whole.\nIt sweats toxic fluids from its\nfollicles to douse foes."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "It gulps anything that fits in its\nmouth. Its special enzymes can\ndissolve anything."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "It gulps anything that fits in its\nmouth. Its special enzymes can\ndissolve anything."
+      },
+      {
+        "game": "bw-b",
+        "text": "It swallows anything whole.\nIt sweats toxic fluids from its\nfollicles to douse foes."
+      },
+      {
+        "game": "bw-w",
+        "text": "It swallows anything whole.\nIt sweats toxic fluids from its\nfollicles to douse foes."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "It swallows anything whole.\nIt sweats toxic fluids from its\nfollicles to douse foes."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "It swallows anything whole.\nIt sweats toxic fluids from its\nfollicles to douse foes."
+      },
+      {
+        "game": "xy-x",
+        "text": "It swallows anything whole. It sweats toxic fluids\nfrom its follicles to douse foes."
+      },
+      {
+        "game": "xy-y",
+        "text": "It gulps anything that fits in its mouth. Its special\nenzymes can dissolve anything."
+      },
+      {
+        "game": "oras-or",
+        "text": "When Swalot spots prey, it spurts out a hideously toxic fluid\nfrom its pores and sprays the target. Once the prey has\nweakened, this Pokémon gulps it down whole with its\ncavernous mouth."
+      },
+      {
+        "game": "oras-as",
+        "text": "Swalot has no teeth, so what it eats, it swallows whole, no\nmatter what. Its cavernous mouth yawns widely. An automobile\ntire could easily fit inside this Pokémon’s mouth."
+      }
+    ]
+  },
+  "chs": {
+    "name": "吞食兽",
+    "genus": "毒袋宝可梦",
+    "flavorText": []
+  }
+}

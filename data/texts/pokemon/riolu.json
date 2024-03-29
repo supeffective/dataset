@@ -1,0 +1,437 @@
+{
+  "jap": {
+    "name": "リオル",
+    "genus": "はもんポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "かんじょうで　かたちが　かわる\nはどうを　だしあって　なかまどうし\nコミュニケーションを　とっている。"
+      },
+      {
+        "game": "xy-y",
+        "text": "からだから　はっする　はどうは\nこわいとき　かなしいときに　つよまり\nピンチを　なかまに　つたえる。"
+      },
+      {
+        "game": "oras-or",
+        "text": "かんじょうで　かたちが　かわる\nはどうを　だしあって　なかまどうし\nコミュニケーションを　とっている。"
+      },
+      {
+        "game": "oras-as",
+        "text": "からだから　はっする　はどうは\nこわいとき　かなしいときに　つよまり\nピンチを　なかまに　つたえる。"
+      },
+      {
+        "game": "sm-s",
+        "text": "ひとや　ポケモンの　かんじょうや\nしぜんの　ようすを　はどう　という\nなみの　かたちで　みているのだ。"
+      },
+      {
+        "game": "sm-m",
+        "text": "ひとばんじゅう　はしっていられる\nタフさが　あり　がんばりや　だが\nまだまだ　ひよっこ　なのだ。"
+      },
+      {
+        "game": "usum-us",
+        "text": "はどうと　よばれる　なみを　みて\nひとや　ポケモンの　きもちを　しる。\nきけんな　あいてには　ちかづかない。"
+      },
+      {
+        "game": "usum-um",
+        "text": "なかまとの　コミュニケーションに\nはどうと　よばれる　なみを　つかう。\nなかないので　てきに　ばれないのだ。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "ひとばんじゅう　はしっていられる\nスタミナを　もつ。　かっぱつで\nさんぽの　あいては　たいへん。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "あいての　かんじょう　だけでなく\nしぜんの　ようすも　はどう　という\nなみの　かたちで　かんじとる。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Riolu",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "리오르",
+    "genus": "파문포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "감정에 따라 모양이 변하는\n파동을 서로 내어 동료끼리\n커뮤니케이션을 취하고 있다."
+      },
+      {
+        "game": "xy-y",
+        "text": "몸에서 발산되는 파동은\n무서울 때나 슬플 때에 강해져\n동료에게 위기를 알린다."
+      },
+      {
+        "game": "oras-or",
+        "text": "감정에 따라 모양이 변하는\n파동을 서로 내어 동료끼리\n커뮤니케이션을 취하고 있다."
+      },
+      {
+        "game": "oras-as",
+        "text": "몸에서 발산되는 파동은\n무서울 때나 슬플 때에 강해져\n동료에게 위기를 알린다."
+      },
+      {
+        "game": "sm-s",
+        "text": "사람과 포켓몬의 감정이나\n자연의 상태를 파동이라는\n파장의 형태로 느낀다."
+      },
+      {
+        "game": "sm-m",
+        "text": "밤새 달릴 수 있는 지구력을\n갖고 있고 노력가지만\n아직 햇병아리다."
+      },
+      {
+        "game": "usum-us",
+        "text": "파동이라고 불리는 파를 보면\n사람과 포켓몬의 마음을 알 수 있다.\n위험한 상대에게는 다가가지 않는다."
+      },
+      {
+        "game": "usum-um",
+        "text": "동료와의 커뮤니케이션에\n파동이라 불리는 파장을 사용한다.\n울지 않아서 적에게 들키지 않는다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "밤새 달릴 수 있을 정도의\n체력을 가졌다. 활발해서\n같이 산책하는 상대에겐 고역이다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "상대의 감정뿐만 아니라\n자연의 상태도 파동이라는\n파장의 형태로 느낀다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "利歐路",
+    "genus": "波紋寶可夢",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "以「波導」這種波的形式\n觀察人和寶可夢的感情，\n以及自然的樣子。"
+      },
+      {
+        "game": "sm-m",
+        "text": "能跑整整一晚上，\n是非常堅毅努力的傢伙，\n不過仍然是毛頭小子。"
+      },
+      {
+        "game": "usum-us",
+        "text": "能夠看見被稱為波導的波動，\n藉此探知人和寶可夢的心情。\n不會靠近危險的對手。"
+      },
+      {
+        "game": "usum-um",
+        "text": "會使用一種被稱為波導的波\n來與夥伴溝通。因為不用發出聲音，\n所以不會被敵人發現。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "精力充沛，可以奔跑一整夜。\n由於牠十分活潑，\n帶牠散步的人非常辛苦。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "除了能讀懂對手的感情，\n也能以「波導」這種形式的波\n來觀察大自然的樣子。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Riolu",
+    "genus": "Pokémon Émanation",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Il a la faculté unique de visualiser\nles émotions telles que la joie ou\nla colère sous forme d’ondes."
+      },
+      {
+        "game": "bw-w",
+        "text": "Il a la faculté unique de visualiser\nles émotions telles que la joie ou\nla colère sous forme d’ondes."
+      },
+      {
+        "game": "xy-x",
+        "text": "Il communique avec ses semblables grâce à des\nondes qui sont modulées en fonction de ses\némotions."
+      },
+      {
+        "game": "xy-y",
+        "text": "Son aura s’intensifie pour prévenir son entourage\nquand il a peur ou qu’il est triste."
+      },
+      {
+        "game": "oras-or",
+        "text": "Il communique avec ses semblables grâce à des ondes\nqui sont modulées en fonction de ses émotions."
+      },
+      {
+        "game": "oras-as",
+        "text": "Son aura s’intensifie pour prévenir son entourage quand\nil a peur ou qu’il est triste."
+      },
+      {
+        "game": "sm-s",
+        "text": "Il perçoit sous forme d’ondes les émotions\ndes humains et des Pokémon, ainsi que tout ce\nqui l’entoure."
+      },
+      {
+        "game": "sm-m",
+        "text": "Comme il peut passer la nuit entière à courir,\nil paraît très robuste et persévérant, mais\nau fond, c’est encore un bébé."
+      },
+      {
+        "game": "usum-us",
+        "text": "Il peut détecter les émotions des humains et\ndes Pokémon grâce à leur aura. Il ne s’approche\npas des individus qu’il juge dangereux."
+      },
+      {
+        "game": "usum-um",
+        "text": "Il se sert d’auras pour communiquer avec\nles siens. Ses ennemis ne peuvent pas espionner\nses conversations, car il n’émet aucun son."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Il possède assez d’endurance pour passer\ndes nuits entières à courir. Il est difficile de partir\nen balade avec lui tant il déborde d’énergie."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Il perçoit sous forme d’aura non seulement\nles sentiments des autres, mais aussi l’état\nde la nature."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Riolu",
+    "genus": "Wellenspiel-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Es kommuniziert mit seinen Artgenossen über Wellen,\ndie je nach Gefühlslage eine andere Form annehmen."
+      },
+      {
+        "game": "xy-y",
+        "text": "Die Aura, die dieses Pokémon umgibt, verstärkt sich,\nwenn es zeigen will, dass es ängstlich oder traurig ist."
+      },
+      {
+        "game": "oras-or",
+        "text": "Es kommuniziert mit seinen Artgenossen über Wellen,\ndie je nach Gefühlslage eine andere Form annehmen."
+      },
+      {
+        "game": "oras-as",
+        "text": "Die Aura, die dieses Pokémon umgibt, verstärkt sich,\nwenn es zeigen will, dass es ängstlich oder traurig ist."
+      },
+      {
+        "game": "sm-s",
+        "text": "Es sieht sowohl die Gefühle von Menschen\nund Pokémon als auch die ihn umgebende Natur\nin Form von Wellen, die Aura genannt werden."
+      },
+      {
+        "game": "sm-m",
+        "text": "Dieses junge Pokémon ist bereits so robust und\nwillensstark, dass es die ganze Nacht hindurch\nrennen kann."
+      },
+      {
+        "game": "usum-us",
+        "text": "Durch Wellen, die Aura genannt werden, kann es\ndie Gefühle von Menschen und Pokémon lesen.\nVon bedrohlichen Gegnern hält es sich fern."
+      },
+      {
+        "game": "usum-um",
+        "text": "Es kommuniziert mit seinen Artgenossen über\nWellen, die man Aura nennt. So verständigt es\nsich lautlos und bleibt Gegnern verborgen."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Es besitzt so viel Ausdauer, dass es die ganze\nNacht rennen könnte. Wer mit ihm spazieren\ngehen will, kann nur schwer mit ihm Schritt halten."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Es erspürt nicht nur die Gefühle anderer, sondern\nauch den Zustand der Natur durch Wellen, die\nAura genannt werden."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Riolu",
+    "genus": "Pokémon Emanación",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Se comunica con los suyos mediante la emisión de\nunas ondas que cambian de forma en función de los\nsentimientos."
+      },
+      {
+        "game": "xy-y",
+        "text": "Su aura se intensifica para alertar a otros cuando está\ntriste o tiene miedo."
+      },
+      {
+        "game": "oras-or",
+        "text": "Se comunica con los suyos mediante la emisión de unas\nondas que cambian de forma en función de los sentimientos."
+      },
+      {
+        "game": "oras-as",
+        "text": "Su aura se intensifica para alertar a otros cuando está triste\no tiene miedo."
+      },
+      {
+        "game": "sm-s",
+        "text": "Percibe en forma de ondas las emociones de\nPokémon y humanos."
+      },
+      {
+        "game": "sm-m",
+        "text": "Es un Pokémon valiente y perseverante\ncapaz de pasarse toda una noche corriendo,\naunque en el fondo no es más que un bebé."
+      },
+      {
+        "game": "usum-us",
+        "text": "Percibe en forma de ondas las emociones de\nPokémon y humanos, y jamás se acerca a quien\nle da la sensación de ser peligroso."
+      },
+      {
+        "game": "usum-um",
+        "text": "En lugar de usar la voz, se comunica con los\ndemás mediante ondas conocidas como auras\ny así pasa desapercibido ante sus enemigos."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Su gran resistencia le permite correr durante toda\nuna noche sin problema, pero tanta energía hace\nque sea sumamente complicado seguirle el ritmo."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Percibe los sentimientos de quienes lo rodean,\nasí como las condiciones del entorno, mediante\nunas ondas conocidas como auras."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Riolu",
+    "genus": "Pokémon Emanazione",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Comunica con i suoi simili tramite delle onde che\ncambiano forma a seconda del sentimento che prova."
+      },
+      {
+        "game": "xy-y",
+        "text": "L’aura che emana si intensifica per comunicare agli\naltri se è triste o spaventato."
+      },
+      {
+        "game": "oras-or",
+        "text": "Comunica con i suoi simili tramite delle onde che cambiano\nforma a seconda del sentimento che prova."
+      },
+      {
+        "game": "oras-as",
+        "text": "L’aura che emana si intensifica per comunicare agli altri\nse è triste o spaventato."
+      },
+      {
+        "game": "sm-s",
+        "text": "È in grado di percepire la natura e le emozioni\ndi Pokémon ed esseri umani sotto forma di onde."
+      },
+      {
+        "game": "sm-m",
+        "text": "Pur essendo così piccolo, ha un’incredibile\nenergia che gli permette di correre anche per\nuna notte intera."
+      },
+      {
+        "game": "usum-us",
+        "text": "È in grado di percepire le emozioni di Pokémon\ned esseri umani attraverso la loro aura. Si tiene\nalla larga dagli avversari pericolosi."
+      },
+      {
+        "game": "usum-um",
+        "text": "Comunica con i suoi simili usando onde definite\n“aura” senza emettere alcun verso, riuscendo\ncosì a non farsi intercettare dai nemici."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Ha una grande resistenza e una gran vitalità,\ntanto che può correre anche per una notte intera.\nDurante le passeggiate non è facile stargli dietro."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Percepisce non solo le emozioni degli altri,\nma anche le condizioni dell’ambiente naturale\nsotto forma di onde definite “aura”."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Riolu",
+    "genus": "Emanation Pokémon",
+    "flavorText": [
+      {
+        "game": "dp-d",
+        "text": "The aura that emanates from its\nbody intensifies to alert others\nif it is afraid or sad."
+      },
+      {
+        "game": "dp-p",
+        "text": "Its body is lithe yet powerful.\nIt can crest three mountains and\ncross two canyons in one night."
+      },
+      {
+        "game": "pt",
+        "text": "It has the peculiar power of being\nable to see emotions such as joy\nand rage in the form of waves."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "They communicate with one another\nusing their auras. They are able to run\nall through the night."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "They communicate with one another\nusing their auras. They are able to run\nall through the night."
+      },
+      {
+        "game": "bw-b",
+        "text": "It has the peculiar power of being\nable to see emotions such as joy\nand rage in the form of waves."
+      },
+      {
+        "game": "bw-w",
+        "text": "It has the peculiar power of being\nable to see emotions such as joy\nand rage in the form of waves."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "It uses the shapes of auras,\nwhich change according to emotion,\nto communicate with others."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "It uses the shapes of auras,\nwhich change according to emotion,\nto communicate with others."
+      },
+      {
+        "game": "xy-x",
+        "text": "It uses the shapes of auras, which change\naccording to emotion, to communicate with others."
+      },
+      {
+        "game": "xy-y",
+        "text": "The aura that emanates from its body intensifies to\nalert others if it is afraid or sad."
+      },
+      {
+        "game": "oras-or",
+        "text": "It uses the shapes of auras, which change\naccording to emotion, to communicate with others."
+      },
+      {
+        "game": "oras-as",
+        "text": "The aura that emanates from its body intensifies to\nalert others if it is afraid or sad."
+      },
+      {
+        "game": "sm-s",
+        "text": "It can discern the physical and emotional states\nof people, Pokémon, and other natural things\nfrom the shape of their aura waves."
+      },
+      {
+        "game": "sm-m",
+        "text": "It’s tough enough to run right through the night,\nand it’s also a hard worker, but it’s still just\na youngster."
+      },
+      {
+        "game": "usum-us",
+        "text": "It knows how people and Pokémon feel by\nlooking at their auras. It doesn’t approach\ndangerous opponents."
+      },
+      {
+        "game": "usum-um",
+        "text": "It uses waves called auras to communicate with\nothers of its kind. It doesn’t make any noise\nduring this time, so its enemies can’t detect it."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "It’s exceedingly energetic, with enough stamina\nto keep running all through the night. Taking it\nfor walks can be a challenging experience."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "It can use waves called auras to gauge how\nothers are feeling. These same waves can also tell\nthis Pokémon about the state of the environment."
+      },
+      {
+        "game": "la",
+        "text": "Though infantile in appearance, it has the mysterious ability to\nread the minds of humans. The pure of heart are met with\nRiolu's approval, while those of ill nature earn only its loathing."
+      }
+    ]
+  },
+  "chs": {
+    "name": "利欧路",
+    "genus": "波纹宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "以“波导”这种波的形式\n观察人和宝可梦的感情，\n以及自然的样子。"
+      },
+      {
+        "game": "sm-m",
+        "text": "能跑整整一晚上，\n是非常坚毅勤奋的家伙，\n不过仍然是毛头小子。"
+      },
+      {
+        "game": "usum-us",
+        "text": "能看见被称为波导的一种波，\n感知人和宝可梦的心情。\n不会靠近危险的对手。"
+      },
+      {
+        "game": "usum-um",
+        "text": "会使用一种叫做波导的波\n来和伙伴交流。由于交流时无需鸣叫，\n因此不会被敌人发现。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "精力充沛，可以奔跑一整夜。\n由于它十分活泼，\n带它散步的人非常辛苦。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "除了能读懂对手的感情，\n也能以“波导”这种形式的波\n来观察大自然的样子。"
+      }
+    ]
+  }
+}

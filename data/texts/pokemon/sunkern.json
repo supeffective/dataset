@@ -1,0 +1,247 @@
+{
+  "jap": {
+    "name": "ヒマナッツ",
+    "genus": "たねポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "あるあさ　とつぜん　ふってくる。\nオニスズメに　おそわれると　はっぱを\nはげしく　ふって　おいはらう。"
+      },
+      {
+        "game": "xy-y",
+        "text": "はっぱの　うらがわに　たまった\nあさつゆ　だけを　のんで　くらす。\nほかには　なにも　たべないという。"
+      },
+      {
+        "game": "oras-or",
+        "text": "からだに　ためた　えいようは　しんかの　ときまで\nとっておくため　ほとんど　うごこうとしない。\nなにも　たべずに　あさつゆ　だけを　のんでいる。"
+      },
+      {
+        "game": "oras-as",
+        "text": "からだに　ためた　えいようは　しんかの　ときまで\nとっておくため　ほとんど　うごこうとしない。\nなにも　たべずに　あさつゆ　だけを　のんでいる。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Himanuts",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "해너츠",
+    "genus": "씨앗포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "어느 날 아침 갑자기 떨어진다.\n깨비참에게 습격당하면 잎사귀를\n세차게 흔들어서 쫓아 버린다."
+      },
+      {
+        "game": "xy-y",
+        "text": "나뭇잎의 뒷면에 모인\n이슬만을 먹고 산다. 그 밖에는\n아무것도 먹지 않는다고 한다."
+      },
+      {
+        "game": "oras-or",
+        "text": "몸에 모은 영양을 진화할 때까지\n간직하기 위해 거의 움직이려 하지 않는다.\n아무것도 먹지 않고 아침 이슬만 마시고 있다."
+      },
+      {
+        "game": "oras-as",
+        "text": "몸에 모은 영양을 진화할 때까지\n간직하기 위해 거의 움직이려 하지 않는다.\n아무것도 먹지 않고 아침 이슬만 마시고 있다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "向日種子",
+    "genus": "種子寶可夢",
+    "flavorText": []
+  },
+  "fra": {
+    "name": "Tournegrin",
+    "genus": "Pokémon Graine",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Il tombe du ciel sans crier gare en\nmatinée. On en croise énormément \nl’année suivant un été froid."
+      },
+      {
+        "game": "bw-w",
+        "text": "Il tombe du ciel sans crier gare en\nmatinée. On en croise énormément \nl’année suivant un été froid."
+      },
+      {
+        "game": "xy-x",
+        "text": "Il tombe du ciel soudainement. S’il est attaqué par\nun Piafabec, il secoue violemment ses feuilles."
+      },
+      {
+        "game": "xy-y",
+        "text": "Il vit en buvant la rosée sur les feuilles. On dit qu’il ne\npeut rien avaler d’autre."
+      },
+      {
+        "game": "oras-or",
+        "text": "Tournegrin essaie de bouger le moins possible. C’est parce\nqu’il veut conserver tous les nutriments qu’il stocke dans son\ncorps pour son évolution. Il ne mange pas, ne subsistant que\ngrâce à la rosée matinale."
+      },
+      {
+        "game": "oras-as",
+        "text": "Tournegrin essaie de bouger le moins possible. C’est parce\nqu’il veut conserver tous les nutriments qu’il stocke dans son\ncorps pour son évolution. Il ne mange pas, ne subsistant que\ngrâce à la rosée matinale."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Sonnkern",
+    "genus": "Samen",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Manchmal fällt es plötzlich vom Himmel. Wird es\nvon Habitak angegriffen, schüttelt es seine Blätter."
+      },
+      {
+        "game": "xy-y",
+        "text": "Es ernährt sich ausschließlich von den Tautropfen,\ndie von den Blättern über ihm hinabfallen."
+      },
+      {
+        "game": "oras-or",
+        "text": "Sonnkern versucht, sich so wenig wie möglich zu bewegen,\num alle gespeicherten Nährstoffe für seine Entwicklung\naufzusparen. Außer Morgentau nimmt es nichts weiter zu sich."
+      },
+      {
+        "game": "oras-as",
+        "text": "Sonnkern versucht, sich so wenig wie möglich zu bewegen,\num alle gespeicherten Nährstoffe für seine Entwicklung\naufzusparen. Außer Morgentau nimmt es nichts weiter zu sich."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Sunkern",
+    "genus": "Pokémon Semilla",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Puede caer del cielo de repente. Si le ataca un\nSpearow, moverá violentamente sus hojas."
+      },
+      {
+        "game": "xy-y",
+        "text": "Se alimenta del rocío que hay sobre las hojas de las\nplantas. Dicen que no come nada más."
+      },
+      {
+        "game": "oras-or",
+        "text": "Sunkern intenta moverse lo menos posible para conservar\ntodos los nutrientes que ha guardado en su interior y poder\nevolucionar. Ni come siquiera; se alimenta solo del rocío de\nla mañana."
+      },
+      {
+        "game": "oras-as",
+        "text": "Sunkern intenta moverse lo menos posible para conservar\ntodos los nutrientes que ha guardado en su interior y poder\nevolucionar. Ni come siquiera; se alimenta solo del rocío de\nla mañana."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Sunkern",
+    "genus": "Pokémon Seme",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Piomba dall’alto improvvisamente. Se è attaccato\nda uno Spearow, agita violentemente le foglie."
+      },
+      {
+        "game": "xy-y",
+        "text": "Vive nutrendosi delle gocce di rugiada che cadono\ndalle foglie delle piante. Pare che non mangi altro."
+      },
+      {
+        "game": "oras-or",
+        "text": "Sunkern cerca di muoversi il meno possibile per preservare\nle sostanze nutritive che ha immagazzinato nel corpo\nper la sua evoluzione. Non mangia nulla, si nutre solo\ndi rugiada mattutina."
+      },
+      {
+        "game": "oras-as",
+        "text": "Sunkern cerca di muoversi il meno possibile per preservare\nle sostanze nutritive che ha immagazzinato nel corpo\nper la sua evoluzione. Non mangia nulla, si nutre solo\ndi rugiada mattutina."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Sunkern",
+    "genus": "Seed Pokémon",
+    "flavorText": [
+      {
+        "game": "gs-g",
+        "text": "It may drop out of\nthe sky suddenly.\nIf attacked by a\fSPEAROW, it will\nviolently shake\nits leaves."
+      },
+      {
+        "game": "gs-s",
+        "text": "It lives by drink­\ning only dewdrops\nfrom under the\fleaves of plants.\nIt is said that it\neats nothing else."
+      },
+      {
+        "game": "c",
+        "text": "It is very weak.\nIts only means of\ndefense is to\fshake its leaves\ndesperately at its\nattacker."
+      },
+      {
+        "game": "rs-r",
+        "text": "SUNKERN tries to move as little as it\npossibly can. It does so because it\ntries to conserve all the nutrients it\fhas stored in its body for its\nevolution. It will not eat a thing, \nsubsisting only on morning dew."
+      },
+      {
+        "game": "rs-s",
+        "text": "SUNKERN tries to move as little as it\npossibly can. It does so because it\ntries to conserve all the nutrients it\fhas stored in its body for its\nevolution. It will not eat a thing, \nsubsisting only on morning dew."
+      },
+      {
+        "game": "e",
+        "text": "SUNKERN try to minimize movement to\nconserve the nutrients they have stored\nin their bodies for evolution. They will\nnot eat, subsisting only on morning dew."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "It lives by drinking only dewdrops from\nunder the leaves of plants. It is said\nthat it eats nothing else."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "It may drop out of the sky suddenly.\nIf attacked by a SPEAROW, it will\nviolently shake its leaves."
+      },
+      {
+        "game": "dp-d",
+        "text": "It suddenly falls out of the sky in\nthe morning. A year after a cold\nsummer, their population explodes."
+      },
+      {
+        "game": "dp-p",
+        "text": "It suddenly falls out of the sky in\nthe morning. A year after a cold\nsummer, their population explodes."
+      },
+      {
+        "game": "pt",
+        "text": "It suddenly falls out of the sky in\nthe morning. A year after a cold\nsummer, their population explodes."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "It may plummet from the sky.\nIf attacked by a SPEAROW,\nit will violently shake its leaves."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "It lives by drinking only dewdrops\nfrom under the leaves of plants.\nIt is said that it eats nothing else."
+      },
+      {
+        "game": "bw-b",
+        "text": "It suddenly falls out of the sky in\nthe morning. A year after a cold\nsummer, their population explodes."
+      },
+      {
+        "game": "bw-w",
+        "text": "It suddenly falls out of the sky in\nthe morning. A year after a cold\nsummer, their population explodes."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "It suddenly falls out of the sky in\nthe morning. Knowing it’s weak, it\nsimply feeds until it evolves."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "It suddenly falls out of the sky in\nthe morning. Knowing it’s weak, it\nsimply feeds until it evolves."
+      },
+      {
+        "game": "xy-x",
+        "text": "It may plummet from the sky. If attacked by a\nSpearow, it will violently shake its leaves."
+      },
+      {
+        "game": "xy-y",
+        "text": "It lives by drinking only dewdrops from under the\nleaves of plants. It is said that it eats nothing else."
+      },
+      {
+        "game": "oras-or",
+        "text": "Sunkern tries to move as little as it possibly can. It does so\nbecause it tries to conserve all the nutrients it has stored in its\nbody for its evolution. It will not eat a thing, subsisting only on\nmorning dew."
+      },
+      {
+        "game": "oras-as",
+        "text": "Sunkern tries to move as little as it possibly can. It does so\nbecause it tries to conserve all the nutrients it has stored in its\nbody for its evolution. It will not eat a thing, subsisting only on\nmorning dew."
+      }
+    ]
+  },
+  "chs": {
+    "name": "向日种子",
+    "genus": "种子宝可梦",
+    "flavorText": []
+  }
+}

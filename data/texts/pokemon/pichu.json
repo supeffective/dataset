@@ -1,0 +1,469 @@
+{
+  "jap": {
+    "name": "ピチュー",
+    "genus": "こねずみポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "なかまと　しっぽの　さきを　あわせて\nひばなを　とばす　あそびをする。\nどきょうだめしを　しているらしい。"
+      },
+      {
+        "game": "xy-y",
+        "text": "まだまだ　でんきを　ためるのがへた。\nおどろいたり　わらったりすると\nすぐに　ほうでん　してしまう。"
+      },
+      {
+        "game": "oras-or",
+        "text": "かみなりぐもが　でている　ときや　くうきの\nかんそうした　ひは　でんきが　たまりやすい。\nパチパチ　せいでんきの　おとが　なっているよ。"
+      },
+      {
+        "game": "oras-as",
+        "text": "なかまと　あそんでいるとき　おたがいの　でんきが\nショートして　ひばなを　だす　ことが　あるぞ。\nひばなに　びっくり　すると　なきだしてしまうよ。"
+      },
+      {
+        "game": "sm-s",
+        "text": "まだ　でんきを　あつかうのが　ヘタ。\nちょっと　めを　はなすと　じぶんの\nでんきで　しびれていることも。"
+      },
+      {
+        "game": "sm-m",
+        "text": "かわいいけれど　いっしょに　くらすなら\nでんきショックで　ビリビリに　される\nかくごを　しなければ　いけないのだ。"
+      },
+      {
+        "game": "usum-us",
+        "text": "まだまだ　でんきを　つかうのが　へた。\nおどろいたり　きもちが　たかぶると\nすぐに　ほうでん　してしまうのだ。"
+      },
+      {
+        "game": "usum-um",
+        "text": "ほっぺに　でんきぶくろが　ある。\nじゅうでん　できているときは\nげんきいっぱい　あそびまわる。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "ちいさくても　おとなを　ビリビリ\nさせるほどの　でんげきを　はなてる。\nただし　じぶんも　おどろいてしまう。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "ほほの　でんきぶくろは　ちいさく\nちょっとでも　でんきが　あふれると\nじぶんじしんが　しびれてしまう。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Pichu",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "피츄",
+    "genus": "아기쥐포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "동료와 꼬리의 끝을 맞추면서\n불티를 튀기는 놀이를 한다.\n담력 시험을 하고 있는 듯하다."
+      },
+      {
+        "game": "xy-y",
+        "text": "아직 전기를 모으는 게 서툴다.\n놀라거나 웃으면\n바로 방전돼 버린다."
+      },
+      {
+        "game": "oras-or",
+        "text": "번개 구름이 있을 때나 공기가\n건조한 날은 전기가 쉽게 모인다.\n타다닥 정전기 소리가 난다."
+      },
+      {
+        "game": "oras-as",
+        "text": "동료와 놀고 있을 때 서로의 전기가\n합선되어 불꽃이 일어나는 일이 있다.\n불꽃에 깜짝 놀라면 울기 시작한다."
+      },
+      {
+        "game": "sm-s",
+        "text": "아직 전기를 다루는 것이 서툴다.\n잠시 한눈팔면 자기의 전기에\n마비되어 있을 때도 있다."
+      },
+      {
+        "game": "sm-m",
+        "text": "귀엽지만 같이 산다면\n전기쇼크로 찌릿찌릿해질\n각오를 해야 한다."
+      },
+      {
+        "game": "usum-us",
+        "text": "여전히 전기 사용에 서툴다.\n놀라거나 흥분하게 되면\n바로 방전돼 버린다."
+      },
+      {
+        "game": "usum-um",
+        "text": "볼에 전기 주머니가 있다.\n충전된 상태에서는\n활발하게 돌아다닌다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "작아도 어른을 찌릿찌릿\n감전시킬 정도의 전기를 낸다.\n단, 자신도 놀라 어찌할 줄 모른다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "볼의 전기 주머니가 작아서\n조금이라도 전기가 넘치게 되면\n자기 자신이 감전되어 버린다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "皮丘",
+    "genus": "小鼠寶可夢",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "還未能熟練地操縱電力。\n有時候稍不留神就會被\n自己的電麻痺到。"
+      },
+      {
+        "game": "sm-m",
+        "text": "雖然很可愛，但如果一起生活的話，\n就必須有隨時被電擊電得麻麻的覺悟。"
+      },
+      {
+        "game": "usum-us",
+        "text": "還不擅長運用電力，\n一旦吃驚或是情緒高漲\n就會馬上開始放電。"
+      },
+      {
+        "game": "usum-um",
+        "text": "臉頰上有電力囊。\n當電力充飽的時候，\n會活力十足地四處玩耍。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "身形小巧，卻能夠釋放出\n足以讓成年人麻痺的電擊，\n但是連牠自己也會嚇一跳。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "臉頰上的電囊還很小，\n如果囊裡的電太多了，\n就會漏出來電到自己。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Pichu",
+    "genus": "Pokémon Minisouris",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Les poches électriques de ses\njoues sont encore petites, mais\nrisquent de l’électrocuter."
+      },
+      {
+        "game": "bw-w",
+        "text": "Les poches électriques de ses\njoues sont encore petites, mais\nrisquent de l’électrocuter."
+      },
+      {
+        "game": "xy-x",
+        "text": "Il prouve son courage en touchant la queue électrifiée\nde ses pairs."
+      },
+      {
+        "game": "xy-y",
+        "text": "Il ne sait pas encore stocker l’électricité. Il envoie\ndes décharges par jeu ou par peur."
+      },
+      {
+        "game": "oras-or",
+        "text": "Pichu se charge plus facilement en électricité les jours d’orage\nou lorsque l’air est très sec. On peut entendre le crépitement\nde l’électricité statique générée par ce Pokémon."
+      },
+      {
+        "game": "oras-as",
+        "text": "Lorsque Pichu joue, il lui arrive de faire des courts-circuits\navec un autre Pichu, créant ainsi une gerbe d’étincelles.\nDu coup, ce Pokémon prend peur et se met à pleurer."
+      },
+      {
+        "game": "sm-s",
+        "text": "Il ne contrôle pas encore bien son électricité.\nSi on le laisse sans surveillance, il est capable\nde s’électrocuter lui-même."
+      },
+      {
+        "game": "sm-m",
+        "text": "Bien qu’il soit adorable, il faut être prêt à\nsupporter ses décharges électriques répétées\nsi l’on veut vivre avec un Pichu."
+      },
+      {
+        "game": "usum-us",
+        "text": "Il ne contrôle pas encore bien l’électricité,\net laisse échapper des décharges lorsqu’il\nest surpris ou en proie à de fortes émotions."
+      },
+      {
+        "game": "usum-um",
+        "text": "Les poches de ses joues renferment de\nl’électricité. Lorsqu’elles sont chargées, il a\ntellement d’énergie qu’il ne pense qu’à jouer."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Malgré sa petite taille, il peut électrocuter\nde grandes personnes, ce qui le surprend\négalement."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Les poches électriques de ses joues sont\ntrès petites. Lorsqu’elles sont surchargées,\nil s’électrocute lui-même."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Pichu",
+    "genus": "Babymaus-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Sie spielen miteinander, indem sie ihre Schweifspitzen\naneinanderhalten und Funken fliegen lassen."
+      },
+      {
+        "game": "xy-y",
+        "text": "Es kann noch nicht mit Elektrizität umgehen.\nEs wirft Blitze, wenn es sich freut oder erstaunt ist."
+      },
+      {
+        "game": "oras-or",
+        "text": "An Gewittertagen oder Tagen, an denen die Luft sehr trocken\nist, kann sich Pichu leichter mit Elektrizität aufladen. Dann kann\nman das Knistern statischer Aufladung hören."
+      },
+      {
+        "game": "oras-as",
+        "text": "Wenn Pichu mit anderen spielt, kann es einen Kurzschluss\nmit einem seiner Artgenossen erzeugen, sodass die Funken\nsprühen. Dann beginnt es zu weinen, weil es vor den Funken\nerschrickt."
+      },
+      {
+        "game": "sm-s",
+        "text": "Es ist noch nicht sehr geübt im Umgang mit\nElektrizität. Lässt man es kurz aus den Augen,\nlähmt es sich schon mal versehentlich selbst."
+      },
+      {
+        "game": "sm-m",
+        "text": "Pichu sind sehr niedlich, aber wer mit einem\nzusammenleben will, sollte sich besser auf\nregelmäßige Stromschläge gefasst machen."
+      },
+      {
+        "game": "usum-us",
+        "text": "Es ist noch nicht sehr geübt im Umgang mit\nElektrizität. Wenn es erschrickt oder aufgeregt\nist, wirft es mit Blitzen um sich."
+      },
+      {
+        "game": "usum-um",
+        "text": "In den Backentaschen speichert es Elektrizität.\nSind diese vollständig aufgeladen, wirbelt es\nbeim Spielen voller Energie herum."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Obwohl es so klein ist, kann es genug Elektrizität\nfreisetzen, um sogar einen Erwachsenen zu\nüberwältigen. Tritt dies ein, ist es selbst erstaunt."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Tritt auch nur eine geringe Menge Elektrizität aus\nseinen kleinen Backentaschen aus, bekommt es\neinen Schlag."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Pichu",
+    "genus": "Pokémon Ratoncito",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Cuando juegan, se tocan las colas y emiten chispas.\nAl parecer, es una prueba de valor."
+      },
+      {
+        "game": "xy-y",
+        "text": "Todavía no domina el almacenamiento de electricidad\ny descargará un rayo si se divierte o asusta."
+      },
+      {
+        "game": "oras-or",
+        "text": "A Pichu le resulta más fácil cargarse de electricidad en días\nde nubarrones o cuando sopla un aire muy seco. Es posible\noír la electricidad estática que emana de este Pokémon."
+      },
+      {
+        "game": "oras-as",
+        "text": "Cuando Pichu juega con otros, puede liberar electricidad y\nproducir una auténtica lluvia de chispas. Cuando esto ocurre,\nchilla asustado por tanta chispa."
+      },
+      {
+        "game": "sm-s",
+        "text": "No controla muy bien la electricidad. Como su\nEntrenador se descuide, Pichu puede acabar\nparalizado por sus propias descargas."
+      },
+      {
+        "game": "sm-m",
+        "text": "Es un Pokémon adorable, pero cuando se\nconvive con él, uno tiene que estar preparado\npara recibir alguna que otra descarga eléctrica."
+      },
+      {
+        "game": "usum-us",
+        "text": "Aún no controla muy bien la electricidad, por lo\nque suele emitir descargas involuntarias cuando\nlo sorprenden o siente alguna emoción intensa."
+      },
+      {
+        "game": "usum-um",
+        "text": "Posee sacos eléctricos en los carrillos. Cuando\nse cargan por completo, se siente pletórico de\nenergía y corre y juguetea sin parar."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "A pesar de su pequeño tamaño, puede soltar\ndescargas capaces de electrocutar a un adulto,\nsi bien él también acaba sobresaltado."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Las bolsas de electricidad de sus mejillas son muy\npequeñas y, a poco que se desborden, recibe\nuna fuerte descarga."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Pichu",
+    "genus": "Pokémon Topino",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Quando le code dei Pichu si toccano, fanno\nscintille. Pare che si tratti di una prova di coraggio."
+      },
+      {
+        "game": "xy-y",
+        "text": "Non è ancora bravo a immagazzinare elettricità. Se\nsi emoziona oppure è divertito ne perde un po’."
+      },
+      {
+        "game": "oras-or",
+        "text": "Pichu si carica di elettricità più facilmente in caso di cielo\ncoperto da nubi temporalesche o aria molto secca. Spesso\nsi può percepire lo scoppiettio della sua carica elettrostatica."
+      },
+      {
+        "game": "oras-as",
+        "text": "Quando Pichu gioca con i suoi simili, la sua elettricità crea\nuna pioggia di scintille, scontrandosi con quella degli altri.\nIn questo caso, inizia a lacrimare accecato dalla luce\ndelle scintille."
+      },
+      {
+        "game": "sm-s",
+        "text": "Non sa ancora controllare bene l’elettricità.\nSe non lo si tiene d’occhio, rischia di darsi\nla scossa da solo."
+      },
+      {
+        "game": "sm-m",
+        "text": "È molto carino, ma quando si sta con lui, bisogna\nrassegnarsi a prendere la scossa a causa delle\nsue scariche elettriche."
+      },
+      {
+        "game": "usum-us",
+        "text": "Non sa ancora controllare bene l’elettricità.\nSe è emozionato o sorpreso, rilascia delle\nscariche."
+      },
+      {
+        "game": "usum-um",
+        "text": "Ha due sacche elettriche sulle guance.\nQuando sono completamente cariche, gioca\nscorrazzando qua e là pieno di energie."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Nonostante sia minuto, può folgorare anche\nuna persona adulta... ma quando lo fa,\nsi sorprende da solo."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Le sacche elettriche sulle sue guance sono molto\npiccole e, se fuoriesce anche solo un po’\ndi elettricità, resta fulminato."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Pichu",
+    "genus": "Tiny Mouse Pokémon",
+    "flavorText": [
+      {
+        "game": "gs-g",
+        "text": "It is not yet\nskilled at storing\nelectricity.\fIt may send out a\njolt if amused\nor startled."
+      },
+      {
+        "game": "gs-s",
+        "text": "Despite its small\nsize, it can zap\neven adult humans.\fHowever, if it\ndoes so, it also\nsurprises itself."
+      },
+      {
+        "game": "c",
+        "text": "It is unskilled at\nstoring electric\npower. Any kind of\fshock causes it to\ndischarge energy\nspontaneously."
+      },
+      {
+        "game": "rs-r",
+        "text": "PICHU charges itself with electricity\nmore easily on days with thunderclouds\nor when the air is very dry.\fYou can hear the crackling of static\nelectricity coming off this POKéMON."
+      },
+      {
+        "game": "rs-s",
+        "text": "When PICHU plays with others, it may\nshort out electricity with another\nPICHU, creating a shower of sparks.\fIn that event, this POKéMON will begin\ncrying, startled by the flash of sparks."
+      },
+      {
+        "game": "e",
+        "text": "It is still inept at retaining electricity.\nWhen it is startled, it discharges power\naccidentally. It gets better at holding\npower as it grows older."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "Despite its small size, it can zap even\nadult humans. However, if it does so, it\nalso surprises itself."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "It is not yet skilled at storing\nelectricity. It may send out a jolt if\namused or startled."
+      },
+      {
+        "game": "dp-d",
+        "text": "The electric pouches on its cheeks\nare still small. They cannot store\nmuch electricity yet."
+      },
+      {
+        "game": "dp-p",
+        "text": "It plays with others by touching\ntails and setting off sparks. This\nappears to be a test of courage."
+      },
+      {
+        "game": "pt",
+        "text": "The electric sacs in its cheeks are\nsmall. If even a little electricity\nleaks, it becomes shocked."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "It is not yet skilled at storing\nelectricity. It may send out a\njolt if amused or startled."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "Despite its small size, it can zap\neven adult humans. However, if it\ndoes so, it also surprises itself."
+      },
+      {
+        "game": "bw-b",
+        "text": "The electric sacs in its cheeks are\nsmall. If even a little electricity\nleaks, it becomes shocked."
+      },
+      {
+        "game": "bw-w",
+        "text": "The electric sacs in its cheeks are\nsmall. If even a little electricity\nleaks, it becomes shocked."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "The electric sacs in its cheeks are\nsmall. If even a little electricity\nleaks, it becomes shocked."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "The electric sacs in its cheeks are\nsmall. If even a little electricity\nleaks, it becomes shocked."
+      },
+      {
+        "game": "xy-x",
+        "text": "It plays with others by touching tails and setting off\nsparks. This appears to be a test of courage."
+      },
+      {
+        "game": "xy-y",
+        "text": "It is not yet skilled at storing electricity.\nIt may send out a jolt if amused or startled."
+      },
+      {
+        "game": "oras-or",
+        "text": "Pichu charges itself with electricity more easily on days with\nthunderclouds or when the air is very dry. You can hear the\ncrackling of static electricity coming off this Pokémon."
+      },
+      {
+        "game": "oras-as",
+        "text": "When Pichu plays with others, it may short out electricity with\nanother Pichu, creating a shower of sparks. In that event, this\nPokémon will begin crying, startled by the flash of sparks."
+      },
+      {
+        "game": "sm-s",
+        "text": "It is not yet skilled at controlling electricity.\nIf you take your eyes off it, it may shock itself."
+      },
+      {
+        "game": "sm-m",
+        "text": "Despite this Pokémon’s cute appearance, those\nwho want to live with one should prepare to be\non the receiving end of its electric jolts."
+      },
+      {
+        "game": "usum-us",
+        "text": "It still can’t use electricity well. When it’s\nsurprised or excited, it discharges\nelectricity unintentionally."
+      },
+      {
+        "game": "usum-um",
+        "text": "It has electric sacs in its cheeks. When they’re\nfully charged, Pichu plays very energetically."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Despite its small size, it can zap even adult\nhumans. However, if it does so, it also\nsurprises itself."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "The electric sacs in its cheeks are small. If even a\nlittle electricity leaks, it becomes shocked."
+      },
+      {
+        "game": "la",
+        "text": "Pichu stores electricity in the sacs on its cheeks but discharges it\ninadvertently when agitated or excited. Being yet immature,\nthe Pokémon's handling of electricity is rather inept."
+      }
+    ]
+  },
+  "chs": {
+    "name": "皮丘",
+    "genus": "小鼠宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "运用电的水平还不够。\n稍不留神就被自己的电\n麻到也时有发生。"
+      },
+      {
+        "game": "sm-m",
+        "text": "虽然很可爱，但如果一起生活的话，\n就必须有被电击电得麻麻的觉悟。"
+      },
+      {
+        "game": "usum-us",
+        "text": "仍旧很不擅长使用电力。\n一旦吃惊或是情绪高涨，\n就会立刻开始放电。"
+      },
+      {
+        "game": "usum-um",
+        "text": "脸颊上有电力袋。\n充满电时就会精神十足地四处玩耍。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "身体小巧，却能够释放出\n足以让成年人麻痹的电击，\n但是连它自己也会吓一跳。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "脸颊上的电囊还很小，\n如果囊里的电太多了，\n就会漏出来电到自己。"
+      }
+    ]
+  }
+}

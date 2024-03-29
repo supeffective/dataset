@@ -1,0 +1,437 @@
+{
+  "jap": {
+    "name": "ジバコイル",
+    "genus": "じばポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "つよすぎる　じりょくを　だして\nジバコイルどうし　ひきよせあって\nまったく　うごけなくなったりする。"
+      },
+      {
+        "game": "xy-y",
+        "text": "とくしゅな　じばの　えいきょうで\nレアコイルが　しんかした。３つの\nユニットから　じりょくを　だす。"
+      },
+      {
+        "game": "oras-or",
+        "text": "つよすぎる　じりょくを　だして\nジバコイルどうし　ひきよせあって\nまったく　うごけなくなったりする。"
+      },
+      {
+        "game": "oras-as",
+        "text": "とくしゅな　じばの　えいきょうで\nレアコイルが　しんかした。３つの\nユニットから　じりょくを　だす。"
+      },
+      {
+        "game": "sm-s",
+        "text": "３つのユニットから　じりょくを　だす。\nよぞらを　とぶ　ジバコイルを　ＵＦＯと\nまちがえる　ほうこくが　たはつ。"
+      },
+      {
+        "game": "sm-m",
+        "text": "かいでんぱを　はっしん　しながら\nそらを　とびまわり　みちの　でんぱを\nじゅしん　していると　いう。"
+      },
+      {
+        "game": "usum-us",
+        "text": "じぶんの　テリトリーを　レーダーで\nかんし　している。　しんにゅうしゃは\nはかいこうせんで　ただちに　しょぶん。"
+      },
+      {
+        "game": "usum-um",
+        "text": "いまだに　うちゅうから　やってきたと\nしんじる　ひとびとも　いる。\nきょうりょくな　じりょくを　はなつ。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "あたまの　アンテナで　うちゅうからの\nでんぱを　じゅしんして　なにものかに\nコントロールされていると　いわれる。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "とくしゅな　じばの　えいきょうで\nからだの　ぶんしこうぞうが　へんかし\nしんかしたと　かんがえられている。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Jibacoil",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "자포코일",
+    "genus": "자기장포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "너무 강한 자력을 내어\n자포코일끼리 끌어당겨\n전혀 못 움직이기도 한다."
+      },
+      {
+        "game": "xy-y",
+        "text": "특수한 자기장의 영향으로\n레어코일이 진화했다. 3개의\n유닛에서 자력을 발산한다."
+      },
+      {
+        "game": "oras-or",
+        "text": "너무 강한 자력을 내어\n자포코일끼리 끌어당겨\n전혀 못 움직이기도 한다."
+      },
+      {
+        "game": "oras-as",
+        "text": "특수한 자기장의 영향으로\n레어코일이 진화했다. 3개의\n유닛에서 자력을 발산한다."
+      },
+      {
+        "game": "sm-s",
+        "text": "3개의 유닛으로부터 자력을 발산한다.\n밤하늘을 나는 자포코일을 UFO로\n착각하는 보고가 많이 발생한다."
+      },
+      {
+        "game": "sm-m",
+        "text": "괴전파를 발신하면서\n하늘을 날아 미지의 전파를\n수신하고 있다고 한다."
+      },
+      {
+        "game": "usum-us",
+        "text": "자신의 영토를 레이더로\n감시하고 있다. 침입자는\n파괴광선으로 즉시 처분한다."
+      },
+      {
+        "game": "usum-um",
+        "text": "아직까지 우주에서 왔다고\n믿는 사람들도 있다.\n강력한 자력을 발산한다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "머리의 안테나로 누군가가 보낸\n전파를 우주로부터 수신하여\n조종당하고 있다고 전해진다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "특수한 자기장의 영향으로\n몸의 분자 구조가 변화해\n진화했다고 여겨지고 있다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "自爆磁怪",
+    "genus": "磁場寶可夢",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "從３個組件中放出磁力。\n經常出現把飛上夜空的自爆磁怪\n錯看成ＵＦＯ的報告。"
+      },
+      {
+        "game": "sm-m",
+        "text": "據說會一邊發送怪異電波\n一邊在空中四處飛行，\n接收未知的電波。"
+      },
+      {
+        "game": "usum-us",
+        "text": "用雷達監視著自己的地盤。\n一旦發現入侵者，就會立刻\n用破壞光線來解決對方。"
+      },
+      {
+        "game": "usum-um",
+        "text": "至今仍然有人相信\n牠來自宇宙。\n會釋放出強大的磁力。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "據說牠頭上的天線會\n接收來自宇宙的電波，\n讓牠被未知的對象控制。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "人們認為牠是受到特殊\n磁場的影響，導致身體的\n分子結構發生變化才進化的。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Magnézone",
+    "genus": "Pokémon Aimant",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Des scientifiques ont essayé de\nfaire évoluer un Magnézone en\nlaboratoire, mais ce fut un échec."
+      },
+      {
+        "game": "bw-w",
+        "text": "Des scientifiques ont essayé de\nfaire évoluer un Magnézone en\nlaboratoire, mais ce fut un échec."
+      },
+      {
+        "game": "xy-x",
+        "text": "Le champ magnétique qu’ils émettent est tel qu’ils\nont tendance à s’attirer mutuellement et à s’empêcher\nde bouger."
+      },
+      {
+        "game": "xy-y",
+        "text": "Il a évolué suite à son exposition à un champ\nmagnétique spécial. Ses 3 unités génèrent du\nmagnétisme."
+      },
+      {
+        "game": "oras-or",
+        "text": "Le champ magnétique qu’ils émettent est tel qu’ils ont\ntendance à s’attirer mutuellement et à s’empêcher de bouger."
+      },
+      {
+        "game": "oras-as",
+        "text": "Il a évolué suite à son exposition à un champ magnétique\nspécial. Ses trois unités génèrent du magnétisme."
+      },
+      {
+        "game": "sm-s",
+        "text": "Ses trois unités émettent une force magnétique.\nIl n’est pas rare que les gens le confondent avec\nun OVNI quand il vole dans le ciel."
+      },
+      {
+        "game": "sm-m",
+        "text": "Il vole dans le ciel en émettant et en recevant\ndes ondes bien mystérieuses."
+      },
+      {
+        "game": "usum-us",
+        "text": "Il surveille son territoire à l’aide de son radar,\net élimine rapidement tout intrus avec son\nlaser destructeur."
+      },
+      {
+        "game": "usum-um",
+        "text": "De nombreuses personnes pensent encore qu’il\ns’agit d’un Pokémon venu de l’espace. Il émet\nun champ magnétique extrêmement puissant."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "On raconte qu’il serait contrôlé par une entité\nextraterrestre grâce à des ondes qu’il capterait\navec l’antenne sur sa tête."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "On pense qu’il a évolué après avoir été exposé\nà un champ magnétique particulier qui a modifié\nla structure moléculaire de son corps."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Magnezone",
+    "genus": "Magnetgebiets-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Gelegentlich erzeugen sie so starke Magnetfelder,\ndass sie sich gegenseitig anziehen und einander\nimmobilisieren."
+      },
+      {
+        "game": "xy-y",
+        "text": "Es entwickelte sich, als es einem besonderen\nMagnetfeld ausgesetzt wurde."
+      },
+      {
+        "game": "oras-or",
+        "text": "Gelegentlich erzeugen sie so starke Magnetfelder, dass sie\nsich gegenseitig anziehen und einander immobilisieren."
+      },
+      {
+        "game": "oras-as",
+        "text": "Es entwickelte sich, als es einem besonderen Magnetfeld\nausgesetzt wurde."
+      },
+      {
+        "game": "sm-s",
+        "text": "Seine drei Bestandteile erzeugen ein Magnetfeld.\nEs kommt oft vor, dass am Himmel fliegende\nMagnezone für Ufos gehalten werden."
+      },
+      {
+        "game": "sm-m",
+        "text": "Es heißt, dass es beim Herumfliegen mysteriöse\nFunkwellen aussende und unbekannte empfange."
+      },
+      {
+        "game": "usum-us",
+        "text": "Es überwacht sein Territorium mithilfe seines\nRadars. Entdeckt es Eindringlinge, greift es sie\nunvermittelt mit einem Hyperstrahl an."
+      },
+      {
+        "game": "usum-um",
+        "text": "Manche Menschen glauben immer noch, dass\nMagnezone von einem anderen Planeten stamme.\nEs geht ein starkes Magnetfeld von ihm aus."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Man sagt, es werde von einem Wesen aus dem\nAll kontrolliert und mit der Antenne auf seinem\nKopf empfange es von ihm Signale."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Man vermutet, es habe sich entwickelt, nachdem\nes einem besonderen Magnetfeld ausgesetzt war,\ndas seine Molekularstruktur veränderte."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Magnezone",
+    "genus": "Pokémon Magnético",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Emiten campos magnéticos tan potentes que se atraen\nentre sí e incluso pueden llegar a inmovilizarse."
+      },
+      {
+        "game": "xy-y",
+        "text": "Evolucionó por la exposición a un campo magnético\nespecial. Tres unidades generan magnetismo."
+      },
+      {
+        "game": "oras-or",
+        "text": "Emiten campos magnéticos tan potentes que se atraen entre\nsí e incluso pueden llegar a inmovilizarse."
+      },
+      {
+        "game": "oras-as",
+        "text": "Evolucionó por la exposición a un campo magnético especial.\nTres unidades generan magnetismo."
+      },
+      {
+        "game": "sm-s",
+        "text": "Sus tres unidades generan un campo magnético.\nAl ser avistados volando por la noche, muchos\nlos han tomado por ovnis."
+      },
+      {
+        "game": "sm-m",
+        "text": "Se dice que mientras vuela emite unas ondas\neléctricas misteriosas, a la vez que recibe otras\nondas desconocidas."
+      },
+      {
+        "game": "usum-us",
+        "text": "Gracias a su radar detecta a cualquier intruso\nque se adentre en su territorio y lo elimina sin\nmiramientos con su rayo destructor."
+      },
+      {
+        "game": "usum-um",
+        "text": "Todavía hay quien cree hoy en día que proviene\ndel espacio. Emite un campo magnético de gran\npotencia."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Se cree que con la antena que tiene en la cabeza\nrecibe señales del espacio enviadas por un ser\nque lo controla."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Se piensa que estuvo expuesto a un campo\nmagnético especial que alteró su estructura\nmolecular e hizo que evolucionara."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Magnezone",
+    "genus": "Pokémon Magnetico",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "A volte si attraggono l’un l’altro con la loro\npotentissima carica magnetica e poi non riescono\npiù a muoversi."
+      },
+      {
+        "game": "xy-y",
+        "text": "Si è evoluto in seguito all’esposizione a uno speciale\ncampo magnetico. Tre unità generano magnetismo."
+      },
+      {
+        "game": "oras-or",
+        "text": "A volte si attraggono l’un l’altro con la loro potentissima\ncarica magnetica e poi non riescono più a muoversi."
+      },
+      {
+        "game": "oras-as",
+        "text": "Si è evoluto in seguito all’esposizione a uno speciale campo\nmagnetico. Tre unità generano magnetismo."
+      },
+      {
+        "game": "sm-s",
+        "text": "Le sue tre unità generano magnetismo.\nQuando vola nel cielo notturno, viene spesso\nscambiato per un UFO."
+      },
+      {
+        "game": "sm-m",
+        "text": "Fluttua in aria trasmettendo e ricevendo\nmisteriose onde elettromagnetiche."
+      },
+      {
+        "game": "usum-us",
+        "text": "Sorveglia il suo territorio via radar ed elimina\nimmediatamente gli intrusi con un raggio\ndistruttore."
+      },
+      {
+        "game": "usum-um",
+        "text": "Ancora oggi c’è chi crede che Magnezone sia\nvenuto dallo spazio. Emette un’intensa forza\nmagnetica."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Si dice che venga controllato tramite onde\nelettromagnetiche provenienti dallo spazio,\nche capta con l’antenna posta sulla testa."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Si pensa che la sua struttura molecolare sia\nmutata in seguito all’esposizione a uno speciale\ncampo magnetico, che ha innescato l’evoluzione."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Magnezone",
+    "genus": "Magnet Area Pokémon",
+    "flavorText": [
+      {
+        "game": "dp-d",
+        "text": "It evolved from exposure to a\nspecial magnetic field.\nThree units generate magnetism."
+      },
+      {
+        "game": "dp-p",
+        "text": "It evolved from exposure to a\nspecial magnetic field.\nThree units generate magnetism."
+      },
+      {
+        "game": "pt",
+        "text": "A group tried to use scientific\nmeans to make MAGNEZONE evolve,\nbut their efforts ended in failure."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "Exposure to a special magnetic field\nchanged MAGNETON’s molecular\nstructure, turning it into MAGNEZONE."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "Exposure to a special magnetic field\nchanged MAGNETON’s molecular\nstructure, turning it into MAGNEZONE."
+      },
+      {
+        "game": "bw-b",
+        "text": "A group tried to use scientific\nmeans to make Magnezone evolve,\nbut their efforts ended in failure."
+      },
+      {
+        "game": "bw-w",
+        "text": "A group tried to use scientific\nmeans to make Magnezone evolve,\nbut their efforts ended in failure."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "Sometimes the magnetism emitted by\nMagnezone is too strong, making them\nattract each other so they cannot move."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "Sometimes the magnetism emitted by\nMagnezone is too strong, making them\nattract each other so they cannot move."
+      },
+      {
+        "game": "xy-x",
+        "text": "Sometimes the magnetism emitted by Magnezone is\ntoo strong, making them attract each other so they\ncannot move."
+      },
+      {
+        "game": "xy-y",
+        "text": "It evolved from exposure to a special magnetic\nfield. Three units generate magnetism."
+      },
+      {
+        "game": "oras-or",
+        "text": "Sometimes the magnetism emitted by Magnezone is\ntoo strong, making them attract each other so they\ncannot move."
+      },
+      {
+        "game": "oras-as",
+        "text": "It evolved from exposure to a special magnetic\nfield. Three units generate magnetism."
+      },
+      {
+        "game": "sm-s",
+        "text": "Three units generate magnetism. There have\nbeen many mistaken reports of UFO sightings\nwhen Magnezone flies through the night sky."
+      },
+      {
+        "game": "sm-m",
+        "text": "As it zooms through the sky, this Pokémon\nseems to be receiving signals of unknown origin,\nwhile transmitting signals of unknown purpose."
+      },
+      {
+        "game": "usum-us",
+        "text": "It uses radar to monitor its territory. Intruders\nare quickly disposed of with a hyper beam."
+      },
+      {
+        "game": "usum-um",
+        "text": "There are still people who believe that this\nPokémon came from outer space. It emanates\na powerful magnetic field."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Some say that Magnezone receives signals from\nspace via the antenna on its head and that it’s\nbeing controlled by some mysterious being."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "It’s thought that a special magnetic field changed\nthe molecular structure of this Pokémon’s body,\nand that’s what caused the Pokémon’s evolution."
+      },
+      {
+        "game": "la",
+        "text": "I theorize that a special magnetic field influenced this Pokémon,\nchanging its molecular structure and causing it to evolve. It emits\nstrange radio waves toward space from its antenna."
+      }
+    ]
+  },
+  "chs": {
+    "name": "自爆磁怪",
+    "genus": "磁场宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "从３个组件中放出磁力。\n经常有把飞向夜空的自爆磁怪\n错看成ＵＦＯ的报告。"
+      },
+      {
+        "game": "sm-m",
+        "text": "据说会一边在空中来回飞行，\n一边发送怪异电波\n和接收未知电波。"
+      },
+      {
+        "game": "usum-us",
+        "text": "用雷达监视着自己的领地。\n一旦发现入侵者，\n就会立即用破坏光线惩治。"
+      },
+      {
+        "game": "usum-um",
+        "text": "直至今日仍有人们相信\n它是来自宇宙的。\n会释放出强力的磁力。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "据说它通过头部的天线\n接收来自宇宙的电波，\n受到未知对象的操控。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "人们认为，它是因为受到特殊\n磁场的影响，身体的分子构造\n发生了变化，才进化成这样的。"
+      }
+    ]
+  }
+}

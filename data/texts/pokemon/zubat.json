@@ -1,0 +1,553 @@
+{
+  "jap": {
+    "name": "ズバット",
+    "genus": "こうもりポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "くちから　だす　ちょうおんぱで\nりょうめが　なくても　まわりの\nしょうがいぶつを　さっちできる。"
+      },
+      {
+        "game": "xy-y",
+        "text": "りょうほうの　めが　そんざいしない。\nくちから　ちょうおんぱを　だして\nくらやみを　とびまわる。"
+      },
+      {
+        "game": "oras-or",
+        "text": "ひるま　くらやみで　じっと　しているのは\nたいようの　ひかりを　ながい　じかん　あびると\nぜんしんが　かるく　やけどしてしまうからだ。"
+      },
+      {
+        "game": "oras-as",
+        "text": "たいようの　ひかりを　あびると　たいちょうが\nわるくなるので　ひるまは　どうくつや　ふるびた\nいえの　のきしたに　ぶらさがって　ねている。"
+      },
+      {
+        "game": "sm-s",
+        "text": "ひるまは　ほらあなで　ねている。\nめが　ないので　ちょうおんぱで\nまわりを　かくにんしながら　とぶ。"
+      },
+      {
+        "game": "sm-m",
+        "text": "ひの　ひかりを　あびると　ヤケドする。\nつかう　ちょうおんぱの　しんどうは\nむれに　よって　びみょうに　ちがう。"
+      },
+      {
+        "game": "usum-us",
+        "text": "めだまが　ないので　めは　みえない。\nくちから　だす　ちょうおんぱで\nまわりの　ようすを　うかがっている。"
+      },
+      {
+        "game": "usum-um",
+        "text": "にっこうを　あびると　ヤケドするほど\nひふが　うすい。　さむくなると　むれて\nからだを　よせあい　あたためあうのだ。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "くちから　ちょうおんぱを　だしながら\nとぶのは　まえに　なにが　あるのか\nしらべながら　とんでいるからだ。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "くちから　ちょうおんぱを　だしながら\nとぶのは　まえに　なにが　あるのか\nしらべながら　とんでいるからだ。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "くちから　だす　ちょうおんぱで\nまわりの　ようすを　さぐる。　せまい\nどうくつも　きように　とびまわる。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "ひの　あたらない　どうくつに　すむ。\nあさになると　なかまで　あつまり\nからだを　あたためあいながら　ねる。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Zubat",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "주뱃",
+    "genus": "박쥐포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "입에서 내는 초음파로\n두 눈이 없어도 주위의\n장애물을 탐색할 수 있다."
+      },
+      {
+        "game": "xy-y",
+        "text": "양쪽 눈이 존재하지 않는다.\n입에서 초음파를 내어\n어둠 속을 날아다닌다."
+      },
+      {
+        "game": "oras-or",
+        "text": "낮에 어두운 곳에서 가만히 있는 것은\n긴 시간 동안 햇빛을 받으면\n전신에 가벼운 화상을 입기 때문이다."
+      },
+      {
+        "game": "oras-as",
+        "text": "태양의 빛을 받으면 몸 상태가\n나빠지기 때문에 낮에는 동굴이나 오래된\n집의 처마 밑에 매달려 자고 있다."
+      },
+      {
+        "game": "sm-s",
+        "text": "낮에는 동굴에서 자고 있다.\n눈이 없어서 초음파로\n주변을 확인하면서 날아다닌다."
+      },
+      {
+        "game": "sm-m",
+        "text": "햇빛을 받으면 화상을 입는다.\n사용하는 초음파의 진동은\n무리에 따라 조금씩 다르다."
+      },
+      {
+        "game": "usum-us",
+        "text": "눈이 없어서 보지 못한다.\n입으로 초음파를 발산하여\n주변의 상황을 파악한다."
+      },
+      {
+        "game": "usum-um",
+        "text": "햇빛을 받으면 화상을 입을 정도로\n피부가 얇다. 추워지면 무리 지어\n서로 몸을 기대서 체온을 나눈다."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "입에서 초음파를 내보내면서\n나는 것은 앞에 무엇이 있는지\n확인하면서 날기 때문이다."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "입에서 초음파를 내보내면서\n나는 것은 앞에 무엇이 있는지\n확인하면서 날기 때문이다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "입에서 내보내는 초음파로\n주위의 상황을 살핀다. 좁은\n동굴에서도 능숙하게 날아다닌다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "볕이 들지 않는 동굴에 산다.\n아침이 되면 동료들끼리 모여\n서로의 온기를 나누면서 잔다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "超音蝠",
+    "genus": "蝙蝠寶可夢",
+    "flavorText": [
+      {
+        "game": "usum-us",
+        "text": "因為沒有眼珠所以看不見東西。\n會從口中發出超音波\n來探測周圍的狀況。"
+      },
+      {
+        "game": "sm-s",
+        "text": "白天在洞穴裡睡覺。\n由於沒有眼睛，會利用超音波\n一邊確認周圍環境一邊飛行。"
+      },
+      {
+        "game": "sm-m",
+        "text": "如果被陽光照射到就會灼傷。\n所使用的超音波的振動\n會因群體不同而有細微差異。"
+      },
+      {
+        "game": "usum-um",
+        "text": "皮膚薄到只要被陽光照射到\n就會曬傷。當天氣變冷時，\n會成群靠在一起互相取暖。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "會一邊飛行一邊從口中\n發出超音波，這麼做是為了\n在飛行時探查前方有什麼東西。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "會一邊飛行一邊從口中\n發出超音波，這麼做是為了\n在飛行時探查前方有什麼東西。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "會利用從口中發出的超音波\n探查周圍的狀況。在狹窄的\n洞窟裡也能靈巧地飛來飛去。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "棲息在陽光照射不到的洞窟裡。\n到了早上就會和夥伴相聚，\n一邊互相取暖一邊睡覺。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Nosferapti",
+    "genus": "Pokémon Chovsouris",
+    "flavorText": [
+      {
+        "game": "usum-us",
+        "text": "Dépourvu d’yeux, il se repère dans l’espace\ngrâce aux ultrasons qu’il émet avec sa bouche."
+      },
+      {
+        "game": "bw-b",
+        "text": "Il se repère dans l’espace grâce\naux ultrasons émis par sa gueule."
+      },
+      {
+        "game": "bw-w",
+        "text": "Il se repère dans l’espace grâce\naux ultrasons émis par sa gueule."
+      },
+      {
+        "game": "xy-x",
+        "text": "Bien que dépourvu d’yeux, il repère les obstacles\ngrâce aux ultrasons émis par sa gueule."
+      },
+      {
+        "game": "xy-y",
+        "text": "Comme il ne possède pas d’yeux, il n’utilise que\nses ultrasons pour se déplacer dans les ténèbres."
+      },
+      {
+        "game": "oras-or",
+        "text": "Nosferapti reste calme et immobile dans un coin sombre\npendant la journée. En effet, une exposition trop longue\nà la lumière du soleil lui brûle légèrement la peau."
+      },
+      {
+        "game": "oras-as",
+        "text": "Nosferapti évite la lumière du soleil, car ça le rend malade.\nPendant la journée, il reste dans les cavernes ou à l’ombre\ndes vieilles maisons, où il dort, la tête à l’envers."
+      },
+      {
+        "game": "sm-s",
+        "text": "Il dort dans des grottes pendant la journée.\nComme il n’a pas d’yeux, il vole en se repérant\ngrâce à ses ultrasons."
+      },
+      {
+        "game": "sm-m",
+        "text": "S’il vole en journée, la lumière du soleil brûle\nsa peau. La fréquence de ses ultrasons est\nlégèrement différente d’un groupe à l’autre."
+      },
+      {
+        "game": "usum-um",
+        "text": "Sa peau est si fine que la lumière du soleil\nlui cause des brûlures. Lorsqu’il fait froid, ses\ncongénères et lui se serrent pour se réchauffer."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Il émet des ultrasons pour se diriger et\néviter les obstacles sur son trajet."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Il émet des ultrasons pour se diriger et\néviter les obstacles sur son trajet."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Il sonde les environs en émettant des ultrasons\navec sa bouche, et peut ainsi se frayer un chemin\nmême dans les grottes les plus étroites."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Ils vivent dans les grottes où la lumière du jour\nne perce jamais. Le matin, ils se blottissent les uns\ncontre les autres pour se réchauffer et dormir."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Zubat",
+    "genus": "Fledermaus-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Obwohl es keine Augen hat, kann es Hindernisse\nmithilfe von Ultraschallwellen wahrnehmen."
+      },
+      {
+        "game": "xy-y",
+        "text": "Es hat keine Augen. Zur Orientierung nutzt es seine\nUltraschallwellen-Schreie, um in der Dunkelheit\nzu fliegen."
+      },
+      {
+        "game": "oras-or",
+        "text": "Tagsüber bleibt Zubat an einem dunklen Ort und bewegt sich\nkaum. Wenn es dem Sonnenlicht längere Zeit ausgesetzt wird,\nzieht es sich Verbrennungen an seinem Körper zu."
+      },
+      {
+        "game": "oras-as",
+        "text": "Zubat meidet Sonnenlicht, da es dadurch krank würde.\nAm Tage hält es sich in Höhlen oder unter den Dachrinnen\nalter Häuser auf. Dort schläft es mit dem Kopf nach unten."
+      },
+      {
+        "game": "sm-s",
+        "text": "Tagsüber schläft es in Höhlen. Da es keine\nAugen hat, erschließt es sich seine Umgebung\nim Flug durch das Aussenden von Schallwellen."
+      },
+      {
+        "game": "sm-m",
+        "text": "Sonnenlicht verursacht bei ihm Verbrennungen.\nDie Frequenz seiner Ultraschallwellen variiert\nvon Schwarm zu Schwarm."
+      },
+      {
+        "game": "usum-us",
+        "text": "Da es keine Augäpfel hat, ist es blind. Mithilfe\nvon Ultraschallwellen, die es aus dem Mund\naussendet, erkundet es seine Umgebung."
+      },
+      {
+        "game": "usum-um",
+        "text": "Seine dünne Haut erleidet bei Sonnenlicht\nVerbrennungen. Bei Kälte schmiegt es sich\nan seine Artgenossen, um sich zu wärmen."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Zubat stößt während des Fluges Ultraschalllaute\naus, um Hindernisse zu orten."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Zubat stößt während des Fluges Ultraschalllaute\naus, um Hindernisse zu orten."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Über den Mund stößt es Ultraschallwellen aus,\num seine Umgebung zu erkunden. So kann es\nselbst in engen Höhlen geschickt umherfliegen."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Zubat leben tief in Höhlen, wo das Sonnenlicht\nsie nicht erreicht. Bei Tagesanbruch rücken sie\nzusammen, um sich im Schlaf zu wärmen."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Zubat",
+    "genus": "Pokémon Murciélago",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Aunque carezca de ojos, puede detectar obstáculos\ncon las ondas ultrasónicas que emite su boca."
+      },
+      {
+        "game": "xy-y",
+        "text": "No tiene ojos. Se guía por las ondas ultrasónicas que\nemite. El eco le indica por dónde tiene que ir en la\noscuridad."
+      },
+      {
+        "game": "oras-or",
+        "text": "Durante el día, Zubat permanece inmóvil y a oscuras. Si este\nPokémon pasara mucho tiempo expuesto al sol, correría el\npeligro de sufrir quemaduras."
+      },
+      {
+        "game": "oras-as",
+        "text": "Zubat evita la luz del día porque le resulta perjudicial para la\nsalud. Durante el día, permanece en cuevas o bajo los aleros\nde las casas viejas durmiendo colgado de las patas, cabeza\nabajo."
+      },
+      {
+        "game": "sm-s",
+        "text": "Duerme en cuevas durante el día. Como no tiene\nojos, se guía emitiendo ultrasonidos cuando\nvuela."
+      },
+      {
+        "game": "sm-m",
+        "text": "Si se expone al sol, puede sufrir quemaduras.\nLa vibración de las ondas ultrasónicas que emite\nvaría, curiosamente, de una colonia a otra."
+      },
+      {
+        "game": "usum-us",
+        "text": "Como carece de ojos y no puede ver, emite\nultrasonidos que le permiten escrutar el entorno\ny orientarse."
+      },
+      {
+        "game": "usum-um",
+        "text": "Su piel es tan fina que, si se expone al sol,\npuede sufrir quemaduras. Cuando hace frío,\nse junta con los suyos para entrar en calor."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Emite ultrasonidos que utiliza como sonar para\nevitar obstáculos cuando vuela."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Emite ultrasonidos que utiliza como sonar para\nevitar obstáculos cuando vuela."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Emite ondas ultrasónicas por la boca para\nescrutar el entorno, lo que le permite volar con\npericia por cuevas angostas."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Habitan en cuevas donde no llegan los rayos del\nsol. De día, se acurrucan unos junto a otros para\nentrar en calor mientras duermen."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Zubat",
+    "genus": "Pokémon Pipistrello",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Non ha occhi, ma avverte gli ostacoli con le onde\nultrasoniche che emette dalla bocca."
+      },
+      {
+        "game": "xy-y",
+        "text": "Non ha occhi, ma si sposta agilmente nella notte\nemettendo ultrasuoni la cui eco lo avverte degli\nostacoli."
+      },
+      {
+        "game": "oras-or",
+        "text": "Zubat rimane perfettamente immobile al buio durante le ore\ndiurne più luminose. Infatti la prolungata esposizione al sole\ngli provoca delle bruciature."
+      },
+      {
+        "game": "oras-as",
+        "text": "Zubat evita la luce del sole perché nociva per la sua salute.\nDurante il giorno sta rintanato in grotte o sotto i cornicioni\ndi vecchie case, dormendo appeso a testa in giù."
+      },
+      {
+        "game": "sm-s",
+        "text": "Di giorno dorme dentro le grotte.\nNon ha occhi e quando vola emette ultrasuoni\ntramite i quali percepisce l’ambiente circostante."
+      },
+      {
+        "game": "sm-m",
+        "text": "L’esposizione alla luce del sole gli provoca delle\nbruciature. La frequenza degli ultrasuoni che\nemette varia da un gruppo all’altro."
+      },
+      {
+        "game": "usum-us",
+        "text": "Non ha occhi e non può vedere, ma è in\ngrado di percepire l’ambiente circostante\nemettendo ultrasuoni dalla bocca."
+      },
+      {
+        "game": "usum-um",
+        "text": "Ha una pelle così sottile che la luce solare\ngli provoca delle bruciature. Quando fa freddo\nsi stringe ai suoi simili per scaldarsi."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Durante il volo emette degli ultrasuoni\ndalla bocca per localizzare gli ostacoli\nsul suo percorso."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Durante il volo emette degli ultrasuoni\ndalla bocca per localizzare gli ostacoli\nsul suo percorso."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Sonda l’ambiente circostante emettendo\nultrasuoni dalla bocca. In questo modo riesce\na volteggiare agilmente anche in caverne strette."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Vive in grotte mai rischiarate dalla luce del sole.\nQuando si fa giorno, si raggruppa con i suoi\nsimili per scaldarsi mentre dorme."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Zubat",
+    "genus": "Bat Pokémon",
+    "flavorText": [
+      {
+        "game": "rb-r",
+        "text": "Forms colonies in\nperpetually dark\nplaces. Uses\fultrasonic waves\nto identify and\napproach targets."
+      },
+      {
+        "game": "rb-b",
+        "text": "Forms colonies in\nperpetually dark\nplaces. Uses\fultrasonic waves\nto identify and\napproach targets."
+      },
+      {
+        "game": "y",
+        "text": "Emits ultrasonic\ncries while it\nflies. They act\fas a sonar used\nto check for ob­\njects in its way."
+      },
+      {
+        "game": "gs-g",
+        "text": "While flying, it\nconstantly emits\nultrasonic waves\ffrom its mouth to\ncheck its sur­\nroundings."
+      },
+      {
+        "game": "gs-s",
+        "text": "Capable of flying\nsafely in dark\nplaces, it emits\fultrasonic cries\nto check for any\nobstacles."
+      },
+      {
+        "game": "c",
+        "text": "During the day, it\ngathers with\nothers and hangs\ffrom the ceilings\nof old buildings\nand caves."
+      },
+      {
+        "game": "rs-r",
+        "text": "ZUBAT remains quietly unmoving in a\ndark spot during the bright daylight\nhours. It does so because prolonged\fexposure to the sun causes its body to\nbecome slightly burned."
+      },
+      {
+        "game": "rs-s",
+        "text": "ZUBAT avoids sunlight because exposure\ncauses it to become unhealthy.\nDuring the daytime, it stays in caves or\funder the eaves of old houses, sleeping\nwhile hanging upside down."
+      },
+      {
+        "game": "e",
+        "text": "While living in pitch-black caverns, their\neyes gradually grew shut and deprived\nthem of vision. They use ultrasonic waves\nto detect obstacles."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "It has no eyes. Instead, it relies on\nits ultrasonic cries for echo location to\nflit about in darkness."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "It forms colonies in perpetually dark \nplaces and uses ultrasonic waves to  \nidentify and approach targets."
+      },
+      {
+        "game": "dp-d",
+        "text": "Even though it has no eyes, it can\nsense obstacles using ultrasonic\nwaves it emits from its mouth."
+      },
+      {
+        "game": "dp-p",
+        "text": "Disliking sunlight, it sleeps\ndeep in forests and caves\nuntil sundown."
+      },
+      {
+        "game": "pt",
+        "text": "It checks its surroundings and\nlocation using reflections of the\nultrasonic waves from its mouth."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "While flying, it constantly emits\nultrasonic waves from its mouth to\ncheck its surroundings."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "Capable of flying safely in dark\nplaces, it emits ultrasonic cries\nto check for any obstacles."
+      },
+      {
+        "game": "bw-b",
+        "text": "It checks its surroundings and\nlocation using reflections of the\nultrasonic waves from its mouth."
+      },
+      {
+        "game": "bw-w",
+        "text": "It checks its surroundings and\nlocation using reflections of the\nultrasonic waves from its mouth."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "It does not need eyes, because it\nemits ultrasonic waves to check\nits surroundings while it flies."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "It does not need eyes, because it\nemits ultrasonic waves to check\nits surroundings while it flies."
+      },
+      {
+        "game": "xy-x",
+        "text": "Even though it has no eyes, it can sense obstacles\nusing ultrasonic waves it emits from its mouth."
+      },
+      {
+        "game": "xy-y",
+        "text": "It has no eyes. Instead, it relies on its ultrasonic\ncries for echolocation to flit about in darkness."
+      },
+      {
+        "game": "oras-or",
+        "text": "Zubat remains quietly unmoving in a dark spot during the bright\ndaylight hours. It does so because prolonged exposure to the\nsun causes its body to become slightly burned."
+      },
+      {
+        "game": "oras-as",
+        "text": "Zubat avoids sunlight because exposure causes it to become\nunhealthy. During the daytime, it stays in caves or under\nthe eaves of old houses, sleeping while hanging upside down."
+      },
+      {
+        "game": "sm-s",
+        "text": "It sleeps in caves during the day. It has no eyes,\nso to check its surroundings while flying, it\nemits ultrasonic waves."
+      },
+      {
+        "game": "sm-m",
+        "text": "When exposed to sunlight, they suffer burns.\nThe frequency of their ultrasonic waves can\ndiffer slightly from colony to colony."
+      },
+      {
+        "game": "usum-us",
+        "text": "It has no eyeballs, so it can’t see. It checks its\nsurroundings via the ultrasonic waves it emits\nfrom its mouth."
+      },
+      {
+        "game": "usum-um",
+        "text": "Their skin is so thin that they’ll be burned if\nsunlight hits them. When it gets cold out, they\ngather together to warm one another’s bodies."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Emits ultrasonic cries while it flies. They act as\na sonar used to check for objects in its way."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Emits ultrasonic cries while it flies. They act as\na sonar used to check for objects in its way."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "It emits ultrasonic waves from its mouth to check\nits surroundings. Even in tight caves, Zubat flies\naround with skill."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Zubat live in caves, down where the sun’s light\nwon’t reach. In the morning, they gather together\nto keep each other warm as they sleep."
+      },
+      {
+        "game": "la",
+        "text": "Makes its home in gloomy caves. Atrophied eyes have left this\nPokémon blind, so it scans its surroundings via sound waves that\nit emits from its mouth as it flies."
+      }
+    ]
+  },
+  "chs": {
+    "name": "超音蝠",
+    "genus": "蝙蝠宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "白天在洞穴里睡觉。\n因为没有眼睛，所以用超音波\n一边探测周围，一边飞行。"
+      },
+      {
+        "game": "sm-m",
+        "text": "如果被阳光照射到就会灼伤。\n所使用的超音波的振动\n会因群体不同而有细微差异。"
+      },
+      {
+        "game": "usum-us",
+        "text": "因为没有眼珠，所以无法视物。\n会从口中发出超音波\n来探测周围的情况。"
+      },
+      {
+        "game": "usum-um",
+        "text": "皮肤薄到只要被阳光照射到就会晒伤。\n天气变冷后，就会抱团取暖。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "由于需要调查前方的\n状况，它会一边从嘴里\n发出超音波一边飞行。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "由于需要调查前方的\n状况，它会一边从嘴里\n发出超音波一边飞行。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "通过嘴里发出的超音波\n来探查周围的情况。就算在\n狭窄的洞窟里也能灵活地飞行。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "栖息在晒不到阳光的洞窟里。\n到了早晨便会和同伴聚集起来，\n一边互相取暖一边睡觉。"
+      }
+    ]
+  }
+}

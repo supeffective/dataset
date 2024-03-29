@@ -1,0 +1,269 @@
+{
+  "jap": {
+    "name": "チョボマキ",
+    "genus": "マイマイポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "カブルモと　いっしょに　いるときに\nでんきてきな　しげきを　うけると\nおたがいの　からだが　しんかする。"
+      },
+      {
+        "game": "xy-y",
+        "text": "カブルモと　ともに　でんきてきな\nエネルギーを　あびると　しんかする。\nりゆうは　かいめいされていない。"
+      },
+      {
+        "game": "oras-or",
+        "text": "カブルモと　いっしょに　いるときに\nでんきてきな　しげきを　うけると\nおたがいの　からだが　しんかする。"
+      },
+      {
+        "game": "oras-as",
+        "text": "カブルモと　ともに　でんきてきな\nエネルギーを　あびると　しんかする。\nりゆうは　かいめいされていない。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "てきに　おそわれると　カラの　フタを\nがっちり　しめて　みを　まもる。\nただし　カブルモには　あけられる。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "でんき　エネルギーに　はんのうする\nふしぎな　たいしつ。　カブルモと\nともに　いると　なぜか　しんかする。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Chobomaki",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "쪼마리",
+    "genus": "달팽이포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "딱정곤과 함께 있을 때\n전기적인 자극을 받으면\n서로의 몸이 진화한다."
+      },
+      {
+        "game": "xy-y",
+        "text": "딱정곤과 함께 전기적인\n에너지를 받으면 진화한다.\n그 이유는 알려지지 않았다."
+      },
+      {
+        "game": "oras-or",
+        "text": "딱정곤과 함께 있을 때\n전기적인 자극을 받으면\n서로의 몸이 진화한다."
+      },
+      {
+        "game": "oras-as",
+        "text": "딱정곤과 함께 전기적인\n에너지를 받으면 진화한다.\n그 이유는 알려지지 않았다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "상대에게 공격받으면 껍질의 뚜껑을\n꽉 닫아서 몸을 지킨다.\n단, 딱정곤에게는 열리고 만다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "전기 에너지에 반응하는 신비한\n체질을 지녔다. 딱정곤과 함께\n있으면 무슨 이유인지 진화한다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "小嘴蝸",
+    "genus": "蝸牛寶可夢",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "一旦被敵人襲擊，\n便會關上殼蓋保護自己。\n不過蓋蓋蟲能打得開。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "有著會對電能產生反應\n的奇異體質。不知為何，\n和蓋蓋蟲待在一起就會進化。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Escargaume",
+    "genus": "Pokémon Escargot",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Quand on l’attaque, il referme sa\nvisière pour se défendre, et\nprojette un poison visqueux."
+      },
+      {
+        "game": "bw-w",
+        "text": "Il évolue quand il baigne dans une\nénergie électrique avec un Carabing.\nLa cause en est inconnue."
+      },
+      {
+        "game": "xy-x",
+        "text": "S’il est à proximité d’un Carabing et que les deux\nreçoivent une décharge électrique, ils évoluent en\nmême temps."
+      },
+      {
+        "game": "xy-y",
+        "text": "Il évolue quand il baigne dans une énergie électrique\navec un Carabing. La cause en est inconnue."
+      },
+      {
+        "game": "oras-or",
+        "text": "S’il est à proximité d’un Carabing et que les deux reçoivent\nune décharge électrique, ils évoluent en même temps."
+      },
+      {
+        "game": "oras-as",
+        "text": "Il évolue quand il baigne dans une énergie électrique\navec un Carabing. La cause en est inconnue."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Il se recroqueville dans sa carapace en fermant\nla visière lorsque des ennemis approchent.\nCarabing peut néanmoins en forcer l’entrée."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Il a l’étrange faculté de réagir à l’énergie\nélectrique. On ne sait trop pourquoi, mais quand\nil se trouve aux côtés de Carabing, il évolue."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Schnuthelm",
+    "genus": "Schnecken-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Hält sich ein Laukaps in seiner Nähe auf\nund kommen beide mit Strom in Berührung,\nentwickeln sie sich."
+      },
+      {
+        "game": "xy-y",
+        "text": "Führt man ihm zusammen mit Laukaps elektrische\nEnergie zu, entwickelt es sich. Niemand kennt den\nGrund dafür."
+      },
+      {
+        "game": "oras-or",
+        "text": "Hält sich ein Laukaps in seiner Nähe auf und kommen beide\nmit Strom in Berührung, entwickeln sie sich."
+      },
+      {
+        "game": "oras-as",
+        "text": "Führt man ihm zusammen mit Laukaps elektrische Energie zu,\nentwickelt es sich. Niemand kennt den Grund dafür."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Wird es angegriffen, schließt es, so fest es kann,\ndas Visier seiner Muschel. Gegen Laukaps erweist\nsich dieser Schutz allerdings als nutzlos."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Sein Körper reagiert unerklärlicherweise auf\nElektrizität. Es heißt, die Anwesenheit von\nLaukaps löse bei ihm die Entwicklung aus."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Shelmet",
+    "genus": "Pokémon Caracol",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Si está junto a Karrablast, y ambos reciben una\ndescarga eléctrica, evolucionan los dos a la vez."
+      },
+      {
+        "game": "xy-y",
+        "text": "Evoluciona si entra en contacto con energía eléctrica\njunto a Karrablast. Aún no se ha esclarecido el porqué."
+      },
+      {
+        "game": "oras-or",
+        "text": "Si está junto a Karrablast, y ambos reciben una descarga\neléctrica, evolucionan los dos a la vez."
+      },
+      {
+        "game": "oras-as",
+        "text": "Evoluciona si entra en contacto con energía eléctrica junto a\nKarrablast. Aún no se ha esclarecido el porqué."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Cierra a cal y canto la visera de su caparazón al\nser atacado. Solo los Karrablast pueden abrirla."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Debido a su peculiar constitución, reacciona\nante la energía eléctrica. Por alguna misteriosa\nrazón, evoluciona en presencia de Karrablast."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Shelmet",
+    "genus": "Pokémon Lumachina",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Quando incontra Karrablast si crea della corrente\nelettrica che stimola entrambi i Pokémon causandone\nl’evoluzione."
+      },
+      {
+        "game": "xy-y",
+        "text": "Se riceve una scarica elettrica assieme a Karrablast,\nsi evolve. Il motivo non è chiaro."
+      },
+      {
+        "game": "oras-or",
+        "text": "Quando incontra Karrablast si crea della corrente elettrica\nche stimola entrambi i Pokémon causandone l’evoluzione."
+      },
+      {
+        "game": "oras-as",
+        "text": "Se riceve una scarica elettrica assieme a Karrablast, si evolve.\nIl motivo non è chiaro."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Quando viene attaccato, si rinchiude nella\nconchiglia sigillando la visiera per proteggersi.\nSolo Karrablast riesce a superare queste difese."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Il suo corpo reagisce misteriosamente all’energia\nelettrica. Pare che si evolva se si trova in\npresenza di Karrablast."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Shelmet",
+    "genus": "Snail Pokémon",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "When attacked, it defends itself by\nclosing the lid of its shell. It can spit\na sticky, poisonous liquid."
+      },
+      {
+        "game": "bw-w",
+        "text": "It evolves when bathed in an\nelectric-like energy along with\nKarrablast. The reason is still unknown."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "When it and Karrablast are together,\nand both receive electrical stimulation,\nthey both evolve."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "When it and Karrablast are together,\nand both receive electrical stimulation,\nthey both evolve."
+      },
+      {
+        "game": "xy-x",
+        "text": "When it and Karrablast are together, and both\nreceive electrical stimulation, they both evolve."
+      },
+      {
+        "game": "xy-y",
+        "text": "It evolves when bathed in an electric-like energy\nalong with Karrablast. The reason is still unknown."
+      },
+      {
+        "game": "oras-or",
+        "text": "When it and Karrablast are together, and both\nreceive electrical stimulation, they both evolve."
+      },
+      {
+        "game": "oras-as",
+        "text": "It evolves when bathed in an electric-like energy\nalong with Karrablast. The reason is still unknown."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "When attacked, it tightly shuts the lid of its shell.\nThis reaction fails to protect it from Karrablast,\nhowever, because they can still get into the shell."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "It has a strange physiology that responds to\nelectricity. When together with Karrablast,\nShelmet evolves for some reason."
+      }
+    ]
+  },
+  "chs": {
+    "name": "小嘴蜗",
+    "genus": "蜗牛宝可梦",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "一旦被敌人袭击，\n便会关上壳盖保护自己。\n不过盖盖虫能打得开。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "有着会对电能产生反应\n的奇异体质。不知为何，\n和盖盖虫待在一起就会进化。"
+      }
+    ]
+  }
+}

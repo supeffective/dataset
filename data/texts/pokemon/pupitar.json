@@ -1,0 +1,393 @@
+{
+  "jap": {
+    "name": "サナギラス",
+    "genus": "だんがんポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "がんばんのような　かたい　からだ。\nあっしゅくした　ガスを　ふんしゃして\nまるで　ロケットのように　とびだす。"
+      },
+      {
+        "game": "xy-y",
+        "text": "がんばんのような　かたい　カラに\nおおわれているが　ちからは　つよく\nあばれると　やまも　くずれてしまう。"
+      },
+      {
+        "game": "oras-or",
+        "text": "たいないで　つくりだした　ガスを　あっしゅくして\nいきおいよく　ふんしゃする　ことで　とんでいく。\nこうてつに　ぶつかっても　へいきな　ボディだ。"
+      },
+      {
+        "game": "oras-as",
+        "text": "たいないで　つくりだした　ガスを　あっしゅくして\nいきおいよく　ふんしゃする　ことで　とんでいく。\nこうてつに　ぶつかっても　へいきな　ボディだ。"
+      },
+      {
+        "game": "usum-us",
+        "text": "しんかを　まてず　あっしゅくガスで\nとびまわり　あばれて　ストレスを\nかいしょうする　めいわくな　ポケモン。"
+      },
+      {
+        "game": "usum-um",
+        "text": "あばれまわる　きけんな　サナギ。\nがんばんの　ような　カラの　なかでは\nつぎの　からだが　できあがりつつある。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "カラに　おおわれているが　じゆうに\nとびまわれる。　かたさと　はやさを\nもつので　はかいりょく　ばつぐんだ。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "さなぎだが　じっと　していない。\nがんじょうな　カラの　したでは\nすでに　てあしが　できている。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Sanagiras",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "데기라스",
+    "genus": "탄환포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "암반 같은 단단한 몸이다.\n압축한 가스를 분사해서\n마치 로켓같이 날아간다."
+      },
+      {
+        "game": "xy-y",
+        "text": "암반 같은 단단한 껍질로\n둘러싸여 있지만 힘이 강해서\n난동을 부리면 산도 무너져버린다."
+      },
+      {
+        "game": "oras-or",
+        "text": "체내에서 만들어낸 가스를 압축하여\n기운차게 분사해서 날아간다.\n강철에 부딪혀도 멀쩡한 몸이다."
+      },
+      {
+        "game": "oras-as",
+        "text": "체내에서 만들어낸 가스를 압축하여\n기운차게 분사해서 날아간다.\n강철에 부딪혀도 멀쩡한 몸이다."
+      },
+      {
+        "game": "usum-us",
+        "text": "진화를 기다리지 못하고 압축가스로\n날아다니며 날뛰어 스트레스를\n해소하는 성가신 포켓몬."
+      },
+      {
+        "game": "usum-um",
+        "text": "마구 날뛰는 위험한 번데기다.\n암반 같은 껍질 속에서는\n다음 몸이 만들어지고 있다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "껍질에 덮여 있지만 자유로이\n뛰어다닌다. 단단함과 스피드를\n지니고 있어서 파괴력이 대단하다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "번데기지만 가만히 있지 않는다.\n단단한 껍질 안에는\n이미 팔다리가 만들어져 있다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "沙基拉斯",
+    "genus": "子彈寶可夢",
+    "flavorText": [
+      {
+        "game": "usum-us",
+        "text": "等不及進化，就會用壓縮氣體\n四處亂飛大鬧來抒解壓力，\n是種令人頭痛的寶可夢。"
+      },
+      {
+        "game": "usum-um",
+        "text": "會到處大鬧，是種很危險的蛹。\n在彷彿岩盤一般的外殼裡，\n新的身體正在逐漸成形。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "被外殼覆蓋，但能自由自在地\n跳來跳去。兼具硬度與速度，\n因此破壞力超群。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "雖然是蛹卻不會呆著不動。\n在堅硬的甲殼之下\n已經長出了手腳。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Ymphect",
+    "genus": "Pokémon Carapadure",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Son corps est dur comme la pierre\nsouterraine. Il file comme une\nfusée en expulsant des gaz."
+      },
+      {
+        "game": "bw-w",
+        "text": "Son corps est dur comme la pierre\nsouterraine. Il file comme une\nfusée en expulsant des gaz."
+      },
+      {
+        "game": "xy-x",
+        "text": "Son corps est dur comme la pierre souterraine.\nIl file comme une fusée en expulsant des gaz."
+      },
+      {
+        "game": "xy-y",
+        "text": "Sa carapace est aussi dure que la pierre et il est très\nfort. Ses coups peuvent raser une montagne."
+      },
+      {
+        "game": "oras-or",
+        "text": "Ymphect crée un gaz dans son corps qu’il comprime\npuissamment pour se propulser, comme un avion à réaction.\nSon corps est très solide. Il ne l’endommage pas,\nmême lorsqu’il frappe de l’acier trempé."
+      },
+      {
+        "game": "oras-as",
+        "text": "Ymphect crée un gaz dans son corps qu’il comprime\npuissamment pour se propulser, comme un avion à réaction.\nSon corps est très solide. Il ne l’endommage pas,\nmême lorsqu’il frappe de l’acier trempé."
+      },
+      {
+        "game": "usum-us",
+        "text": "Impatient d’évoluer, il évacue son stress en\nlibérant des gaz sous haute pression qui le\nfont bondir dans tous les sens. Une vraie plaie !"
+      },
+      {
+        "game": "usum-um",
+        "text": "Cette chrysalide est très dangereuse.\nÀ l’intérieur de cette carapace solide comme\nle roc, son nouveau corps se développe."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Il peut se déplacer même s’il est coincé\ndans sa coquille. Sa robustesse et sa vitesse\nlui confèrent un terrible pouvoir de destruction."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Malgré son état de chrysalide, il ne reste pas\nimmobile. Sous sa solide carapace, ses pattes\nsortent déjà."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Pupitar",
+    "genus": "Hartschalen-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Sein Körper ist hart wie Fels. Es lässt mit\nHochdruck Gas ab, um wie eine Rakete nach\noben zu schießen."
+      },
+      {
+        "game": "xy-y",
+        "text": "Es ist sehr stark und sein Panzer ist steinhart. Setzt es\nFuchtler ein, kann es einen Berg umstürzen."
+      },
+      {
+        "game": "oras-or",
+        "text": "Pupitar erzeugt in seinem Körper ein Gas, das es komprimiert\nund kraftvoll ausstößt, um sich wie ein Düsenflugzeug\nanzutreiben. Sein Körper ist sehr robust und er hält auch\nmassivem Stahl stand."
+      },
+      {
+        "game": "oras-as",
+        "text": "Pupitar erzeugt in seinem Körper ein Gas, das es komprimiert\nund kraftvoll ausstößt, um sich wie ein Düsenflugzeug\nanzutreiben. Sein Körper ist robust und hält auch Angriffen mit\nmassivem Stahl stand."
+      },
+      {
+        "game": "usum-us",
+        "text": "Es kann seine Entwicklung nicht erwarten und\nstört andere, wenn es zum Stressabbau mithilfe\nvon komprimiertem Gas durch die Luft zischt."
+      },
+      {
+        "game": "usum-um",
+        "text": "Pupitar ist wild und gefährlich. In seinem\nsteinharten Panzer arbeitet es an der\nFertigstellung seines nächsten Körpers."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Trotz seiner harten Schale kann es sich frei\nbewegen. Es ist flink und äußerst zerstörerisch."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Obwohl es sich noch im Puppenstadium befindet,\nbewegt es sich rege. Es hat schon Arme und\nBeine unter seinem harten Panzer."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Pupitar",
+    "genus": "Pokémon Caparazón",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Su cuerpo es duro como la roca. Se autopropulsa\ncomo un cohete soltando los gases de su interior."
+      },
+      {
+        "game": "xy-y",
+        "text": "Su caparazón es duro como una piedra y muy\nresistente. Su Golpe puede derribar montañas."
+      },
+      {
+        "game": "oras-or",
+        "text": "Pupitar crea un gas en su interior que comprime y expulsa\nviolentamente a modo de autopropulsión. Tiene un cuerpo\nresistente que se mantiene inalterable hasta cuando se golpea\ncontra duro acero."
+      },
+      {
+        "game": "oras-as",
+        "text": "Pupitar crea un gas en su interior que comprime y expulsa\nviolentamente a modo de autopropulsión. Tiene un cuerpo\nresistente que se mantiene inalterable hasta cuando se golpea\ncontra duro acero."
+      },
+      {
+        "game": "usum-us",
+        "text": "Este Pokémon está impaciente por evolucionar\ny libera tensiones expulsando gas comprimido\ncon el que se propulsa. Un verdadero incordio."
+      },
+      {
+        "game": "usum-um",
+        "text": "Posee un enorme poder destructivo. Dentro de\nsu caparazón duro como la roca, su cuerpo\nexperimenta una metamorfosis."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Se mueve libremente aun encerrado en la coraza.\nSu enorme poder destructivo se une a su dureza\ny rapidez."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "No se está quieto ni aun siendo una pupa. Sus\nextremidades ya se han formado bajo su robusta\ncoraza."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Pupitar",
+    "genus": "Pokémon Guscioduro",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Il suo corpo è duro come la roccia. Riesce a muoversi\ncome un razzo espellendo gas con tutta la sua forza."
+      },
+      {
+        "game": "xy-y",
+        "text": "Fortissimo e con un guscio duro come roccia.\nHa un Colpo capace di abbattere una montagna."
+      },
+      {
+        "game": "oras-or",
+        "text": "All’interno del suo corpo Pupitar genera un gas che comprime\ned espelle con forza come il propulsore di un jet. Il suo corpo\nè estremamente resistente, anche in caso di impatto con\nacciaio massiccio."
+      },
+      {
+        "game": "oras-as",
+        "text": "All’interno del suo corpo Pupitar genera un gas che comprime\ned espelle con forza come il propulsore di un jet. Il suo corpo\nè estremamente resistente, anche in caso di impatto con\nacciaio massiccio."
+      },
+      {
+        "game": "usum-us",
+        "text": "In attesa dell’evoluzione, sfoga la sua\nimpazienza svolazzando ovunque spinto dal gas\ncompresso che espelle, dando fastidio a tutti."
+      },
+      {
+        "game": "usum-um",
+        "text": "È una pericolosa crisalide che semina\ndistruzione. All’interno del guscio duro come\nuna roccia si sta formando il suo nuovo corpo."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Può muoversi liberamente anche se è chiuso\nnel guscio. Resistente e rapido, ha un enorme\npotere distruttivo."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "È una crisalide ma non sta mai fermo. Gli arti\nsono già formati sotto il duro guscio."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Pupitar",
+    "genus": "Hard Shell Pokémon",
+    "flavorText": [
+      {
+        "game": "gs-g",
+        "text": "Its shell is as\nhard as sheet\nrock, and it is\falso very strong.\nIts THRASHING can\ntopple a mountain."
+      },
+      {
+        "game": "gs-s",
+        "text": "Even sealed in its\nshell, it can move\nfreely. Hard and\ffast, it has out­\nstanding destruc­\ntive power."
+      },
+      {
+        "game": "c",
+        "text": "It will not stay\nstill, even while\nit's a pupa. It\falready has arms\nand legs under its\nsolid shell."
+      },
+      {
+        "game": "rs-r",
+        "text": "PUPITAR creates a gas inside its body\nthat it compresses and forcefully\nejects to propel itself like a jet.\fThe body is very durable - it avoids\ndamage even if it hits solid steel."
+      },
+      {
+        "game": "rs-s",
+        "text": "PUPITAR creates a gas inside its body\nthat it compresses and forcefully\nejects to propel itself like a jet.\fThe body is very durable - it avoids\ndamage even if it hits solid steel."
+      },
+      {
+        "game": "e",
+        "text": "A PUPITAR creates a gas inside its body\nthat it ejects under compression to propel\nitself like a jet. Its body can withstand\na collision with solid steel."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "Even sealed in its shell, it can move\nfreely. Hard and fast, it has outstanding\ndestructive power."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "Its shell is as hard as sheet rock, and it\nis also very strong. Its THRASHING can\ntopple a mountain."
+      },
+      {
+        "game": "dp-d",
+        "text": "Its body is as hard as bedrock.\nBy venting pressurized gas, it can\nlaunch itself like a rocket."
+      },
+      {
+        "game": "dp-p",
+        "text": "Its body is as hard as bedrock.\nBy venting pressurized gas, it can\nlaunch itself like a rocket."
+      },
+      {
+        "game": "pt",
+        "text": "Its body is as hard as bedrock.\nBy venting pressurized gas, it can\nlaunch itself like a rocket."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "Its shell is as hard as sheet rock,\nand it is also very strong. Its\nthrashing can topple a mountain."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "Even sealed in its shell, it can move\nfreely. Hard and fast, it has\noutstanding destructive power."
+      },
+      {
+        "game": "bw-b",
+        "text": "Its body is as hard as bedrock.\nBy venting pressurized gas, it can\nlaunch itself like a rocket."
+      },
+      {
+        "game": "bw-w",
+        "text": "Its body is as hard as bedrock.\nBy venting pressurized gas, it can\nlaunch itself like a rocket."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "This pupa flies around wildly\nby venting with great force the\ngas pressurized inside its body."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "This pupa flies around wildly\nby venting with great force the\ngas pressurized inside its body."
+      },
+      {
+        "game": "xy-x",
+        "text": "Its body is as hard as bedrock. By venting\npressurized gas, it can launch itself like a rocket."
+      },
+      {
+        "game": "xy-y",
+        "text": "Its shell is as hard as sheet rock, and it is also very\nstrong. Its thrashing can topple a mountain."
+      },
+      {
+        "game": "oras-or",
+        "text": "Pupitar creates a gas inside its body that it compresses and\nforcefully ejects to propel itself like a jet. The body is very\ndurable—it avoids damage even if it hits solid steel."
+      },
+      {
+        "game": "oras-as",
+        "text": "Pupitar creates a gas inside its body that it compresses and\nforcefully ejects to propel itself like a jet. The body is very\ndurable—it avoids damage even if it hits solid steel."
+      },
+      {
+        "game": "usum-us",
+        "text": "This troublesome Pokémon can’t wait to evolve,\nso it relieves its stress by wildly propelling itself\naround using compressed gas."
+      },
+      {
+        "game": "usum-um",
+        "text": "This dangerous pupa thrashes about. Its shell is\nas hard as bedrock, containing its gradually\nforming new body within."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Even sealed in its shell, it can move freely.\nHard and fast, it has outstanding\ndestructive power."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "It will not stay still, even while it’s a pupa.\nIt already has arms and legs under its solid shell."
+      }
+    ]
+  },
+  "chs": {
+    "name": "沙基拉斯",
+    "genus": "子弹宝可梦",
+    "flavorText": [
+      {
+        "game": "usum-us",
+        "text": "它是令人头痛的宝可梦。\n不等进化完成就会利用压缩气体\n四处乱飞大闹来纾解压力。"
+      },
+      {
+        "game": "usum-um",
+        "text": "会到处胡闹，相当危险的蛹。\n在岩盘一样的外壳内，\n新的身体正在逐渐成形。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "被外壳覆盖，但能自由自在地\n跳来跳去。兼具硬度和速度，\n因此破坏力超群。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "虽然是蛹却不会呆着不动。\n在坚硬的甲壳之下\n已经长出了手脚。"
+      }
+    ]
+  }
+}

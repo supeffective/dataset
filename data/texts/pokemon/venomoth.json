@@ -1,0 +1,333 @@
+{
+  "jap": {
+    "name": "モルフォン",
+    "genus": "どくがポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "ばらまかれた　りんぷんに　ふれると\nからだの　かんかくが　おかしくなって\nまっすぐ　たって　いられなくなる。"
+      },
+      {
+        "game": "xy-y",
+        "text": "はねに　りんぷんが　ついていて\nヒラヒラと　はばたくたびに\nもうどくの　こなを　ばらまく。"
+      },
+      {
+        "game": "oras-or",
+        "text": "やこうせいで　よるに　かつどうを　はじめる。\nがいとうの　あかりに　さそわれ　あつまった\nちいさな　むしを　このんで　たべる。"
+      },
+      {
+        "game": "oras-as",
+        "text": "やこうせいで　よるに　かつどうを　はじめる。\nがいとうの　あかりに　さそわれ　あつまった\nちいさな　むしを　このんで　たべる。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "ハネの　りんぷんは　からだにつくと\nなかなか　とれない。しかも　そこから\nどくの　せいぶんが　しみこんでくる。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "ハネの　りんぷんは　からだにつくと\nなかなか　とれない。しかも　そこから\nどくの　せいぶんが　しみこんでくる。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Morphon",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "도나리",
+    "genus": "독나방포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "흩뿌려진 날개 가루에 닿으면\n몸의 감각이 이상해져서\n똑바로 서 있을 수 없게 된다."
+      },
+      {
+        "game": "xy-y",
+        "text": "날개에 가루가 묻어 있어\n팔락팔락 날개를 칠 때마다\n맹독 가루를 흩뿌린다."
+      },
+      {
+        "game": "oras-or",
+        "text": "야행성으로 밤에 활동을 시작한다.\n가로등 빛에 이끌려 모여든\n작은 벌레를 즐겨 먹는다."
+      },
+      {
+        "game": "oras-as",
+        "text": "야행성으로 밤에 활동을 시작한다.\n가로등 빛에 이끌려 모여든\n작은 벌레를 즐겨 먹는다."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "날개의 인분은 몸에 묻으면\n좀처럼 떨어지지 않는다. 게다가\n거기에서 독성분이 스며든다."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "날개의 인분은 몸에 묻으면\n좀처럼 떨어지지 않는다. 게다가\n거기에서 독성분이 스며든다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "摩魯蛾",
+    "genus": "毒蛾寶可夢",
+    "flavorText": [
+      {
+        "game": "lgpe-lgp",
+        "text": "翅膀上的鱗粉一旦沾到身上\n就很難甩掉，而且鱗粉帶有的\n毒素還會逐漸滲入體內。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "翅膀上的鱗粉一旦沾到身上\n就很難甩掉，而且鱗粉帶有的\n毒素還會逐漸滲入體內。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Aéromite",
+    "genus": "Pokémon Papipoison",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Il répand ses écailles poudreuses\nen battant des ailes. Elles sont\ntoxiques au toucher."
+      },
+      {
+        "game": "bw-w",
+        "text": "Il répand ses écailles poudreuses\nen battant des ailes. Elles sont\ntoxiques au toucher."
+      },
+      {
+        "game": "xy-x",
+        "text": "Les écailles qu’il sème ont le pouvoir de paralyser\ntotalement un ennemi."
+      },
+      {
+        "game": "xy-y",
+        "text": "Ses ailes sont couvertes d’écailles poudreuses.\nÀ chaque battement d’ailes, il laisse tomber de\nla poudre hautement toxique."
+      },
+      {
+        "game": "oras-or",
+        "text": "Aéromite est un Pokémon nocturne, il ne sort donc que\nla nuit. Ses proies préférées sont les petits insectes qui\nse rassemblent autour des réverbères, attirés par la lumière."
+      },
+      {
+        "game": "oras-as",
+        "text": "Aéromite est un Pokémon nocturne, il ne sort donc que\nla nuit. Ses proies préférées sont les petits insectes qui\nse rassemblent autour des réverbères, attirés par la lumière."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Les écailles de ses ailes sont presque impossibles\nà retirer lorsqu’elles se collent à la peau,\net elles libèrent un poison violent au contact."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Les écailles de ses ailes sont presque impossibles\nà retirer lorsqu’elles se collent à la peau,\net elles libèrent un poison violent au contact."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Omot",
+    "genus": "Giftmotte",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Wer die von ihm verstreuten Schuppen berührt,\nwird gelähmt und muss sich setzen."
+      },
+      {
+        "game": "xy-y",
+        "text": "Seine Flügel sind mit staubähnlichen Schuppen\nüberzogen. Mit jedem Flügelschlag verliert es\nhochgiftigen Staub."
+      },
+      {
+        "game": "oras-or",
+        "text": "Omot ist ein nachtaktives Pokémon. Kleine Insekten,\ndie vom Licht in der Dunkelheit angezogen Straßenlaternen\numschwärmen, sind seine bevorzugte Beute."
+      },
+      {
+        "game": "oras-as",
+        "text": "Omot ist ein nachtaktives Pokémon. Kleine Insekten,\ndie vom Licht in der Dunkelheit angezogen Straßenlaternen\numschwärmen, sind seine bevorzugte Beute."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Berührt man die staubartigen Schuppen auf\nseinen Flügeln, heften diese sich hartnäckig am\nKörper an und sondern darüber hinaus Gift ab."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Berührt man die staubartigen Schuppen auf\nseinen Flügeln, heften diese sich hartnäckig am\nKörper an und sondern darüber hinaus Gift ab."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Venomoth",
+    "genus": "Pokémon Polilla Ven.",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Lanza unas escamas que paralizan a cualquiera.\nQuien las toque, no podrá ni ponerse de pie."
+      },
+      {
+        "game": "xy-y",
+        "text": "Tiene las alas cubiertas de un polvillo de escamas que\nesparce cada vez que las bate."
+      },
+      {
+        "game": "oras-or",
+        "text": "Venomoth es nocturno, solo actúa en la oscuridad.\nSu alimento preferido son los pequeños insectos que se\nconcentran cerca de los focos de luz en la oscuridad de la\nnoche."
+      },
+      {
+        "game": "oras-as",
+        "text": "Venomoth es nocturno, solo actúa en la oscuridad.\nSu alimento preferido son los pequeños insectos que se\nconcentran cerca de los focos de luz en la oscuridad de la\nnoche."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Las alas desprenden un polvillo de escamas\nimpregnado de toxinas que se adhiere al\ncontacto y resulta difícil de quitar."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Las alas desprenden un polvillo de escamas\nimpregnado de toxinas que se adhiere al\ncontacto y resulta difícil de quitar."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Venomoth",
+    "genus": "Pokémon Velentarma",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Sparge scaglie che paralizzano chiunque le tocchi,\nrendendolo incapace di stare in piedi."
+      },
+      {
+        "game": "xy-y",
+        "text": "Le ali sono ricoperte di polvere velenosa, che libera\nnell’aria a ogni batter d’ali."
+      },
+      {
+        "game": "oras-or",
+        "text": "Venomoth è un Pokémon notturno, cioè attivo soltanto\ndi notte. Le sue prede favorite sono i piccoli insetti che\nsi raggruppano attorno ai lampioni attratti dalla luce nel buio."
+      },
+      {
+        "game": "oras-as",
+        "text": "Venomoth è un Pokémon notturno, cioè attivo soltanto\ndi notte. Le sue prede favorite sono i piccoli insetti che\nsi raggruppano attorno ai lampioni attratti dalla luce nel buio."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Se si attaccano alla pelle, le scaglie che\nricoprono le sue ali sono difficili da togliere.\nInoltre, rilasciano una sostanza velenosa."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Se si attaccano alla pelle, le scaglie che\nricoprono le sue ali sono difficili da togliere.\nInoltre, rilasciano una sostanza velenosa."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Venomoth",
+    "genus": "Poison Moth Pokémon",
+    "flavorText": [
+      {
+        "game": "frlg-lg",
+        "text": "The dustlike scales covering its wings\nare color-coded to indicate the kinds of\npoison it has."
+      },
+      {
+        "game": "rb-r",
+        "text": "The dust-like\nscales covering\nits wings are\fcolor coded to\nindicate the kinds\nof poison it has."
+      },
+      {
+        "game": "rb-b",
+        "text": "The dust-like\nscales covering\nits wings are\fcolor coded to\nindicate the kinds\nof poison it has."
+      },
+      {
+        "game": "y",
+        "text": "The powdery scales\non its wings are\nhard to remove.\fThey also contain\npoison that leaks\nout on contact."
+      },
+      {
+        "game": "gs-g",
+        "text": "When it attacks,\nit flaps its large\nwings violently to\fscatter its poi­\nsonous powder all\naround."
+      },
+      {
+        "game": "gs-s",
+        "text": "The powder on its\nwings is poisonous\nif it is dark in\fcolor. If it is\nlight, it causes\nparalysis."
+      },
+      {
+        "game": "c",
+        "text": "The scales it\nscatters will\nparalyze anyone\fwho touches them,\nmaking that person\nunable to stand."
+      },
+      {
+        "game": "rs-r",
+        "text": "VENOMOTH is nocturnal - it is a POKéMON\nthat only becomes active at night.\nIts favorite prey are small insects\fthat gather around streetlights,\nattracted by the light in the darkness."
+      },
+      {
+        "game": "rs-s",
+        "text": "VENOMOTH is nocturnal - it is a POKéMON\nthat only becomes active at night.\nIts favorite prey are small insects\fthat gather around streetlights,\nattracted by the light in the darkness."
+      },
+      {
+        "game": "e",
+        "text": "VENOMOTH are nocturnal--they only are\nactive at night. Their favorite prey are\ninsects that gather around streetlights,\nattracted by the light in the darkness."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "The wings are covered with dustlike\nscales. Every time it flaps its wings, it\nlooses highly toxic dust."
+      },
+      {
+        "game": "dp-d",
+        "text": "It flutters its wings to scatter\ndustlike scales. The scales leach\ntoxins if they contact skin."
+      },
+      {
+        "game": "dp-p",
+        "text": "It flutters its wings to scatter\ndustlike scales. The scales leach\ntoxins if they contact skin."
+      },
+      {
+        "game": "pt",
+        "text": "It flutters its wings to scatter\ndustlike scales. The scales leach\ntoxins if they contact skin."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "When it attacks, it flaps its large\nwings violently to scatter its\npoisonous powder all around."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "The powder on its wings is poisonous\nif it is dark in hue. If it is light in hue,\nit causes paralysis."
+      },
+      {
+        "game": "bw-b",
+        "text": "It flutters its wings to scatter\ndustlike scales. The scales leach\ntoxins if they contact skin."
+      },
+      {
+        "game": "bw-w",
+        "text": "It flutters its wings to scatter\ndustlike scales. The scales leach\ntoxins if they contact skin."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "It flutters its wings to scatter\ndustlike scales. The scales leach\ntoxins if they contact skin."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "It flutters its wings to scatter\ndustlike scales. The scales leach\ntoxins if they contact skin."
+      },
+      {
+        "game": "xy-x",
+        "text": "The scales it scatters will paralyze anyone who\ntouches them, making that person unable to stand."
+      },
+      {
+        "game": "xy-y",
+        "text": "The wings are covered with dustlike scales.\nEvery time it flaps its wings, it looses highly\ntoxic dust."
+      },
+      {
+        "game": "oras-or",
+        "text": "Venomoth is nocturnal—it is a Pokémon that only becomes\nactive at night. Its favorite prey are small insects that gather\naround streetlights, attracted by the light in the darkness."
+      },
+      {
+        "game": "oras-as",
+        "text": "Venomoth is nocturnal—it is a Pokémon that only becomes\nactive at night. Its favorite prey are small insects that gather\naround streetlights, attracted by the light in the darkness."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "The powdery scales on its wings are hard to\nremove from skin. They also contain poison\nthat leaks out on contact."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "The powdery scales on its wings are hard to\nremove from skin. They also contain poison\nthat leaks out on contact."
+      }
+    ]
+  },
+  "chs": {
+    "name": "摩鲁蛾",
+    "genus": "毒蛾宝可梦",
+    "flavorText": [
+      {
+        "game": "lgpe-lgp",
+        "text": "如果不小心把它翅膀上的鳞粉\n沾到了身上，那不但会很难去除，\n更糟的是毒素也会从那里渗入。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "如果不小心把它翅膀上的鳞粉\n沾到了身上，那不但会很难去除，\n更糟的是毒素也会从那里渗入。"
+      }
+    ]
+  }
+}

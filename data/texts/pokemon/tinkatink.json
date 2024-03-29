@@ -1,0 +1,61 @@
+{
+  "jap": {
+    "name": "カヌチャン",
+    "genus": "かなうちポケモン",
+    "flavorText": []
+  },
+  "jap_ro": {
+    "name": "Kanuchan",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "어리짱",
+    "genus": "",
+    "flavorText": []
+  },
+  "cht": {
+    "name": "小鍛匠",
+    "genus": "錘鍊寶可夢",
+    "flavorText": []
+  },
+  "fra": {
+    "name": "Forgerette",
+    "genus": "",
+    "flavorText": []
+  },
+  "deu": {
+    "name": "Forgita",
+    "genus": "Schmied",
+    "flavorText": []
+  },
+  "esp": {
+    "name": "Tinkatink",
+    "genus": "",
+    "flavorText": []
+  },
+  "ita": {
+    "name": "Tinkatink",
+    "genus": "",
+    "flavorText": []
+  },
+  "eng": {
+    "name": "Tinkatink",
+    "genus": "Metalsmith Pokémon",
+    "flavorText": [
+      {
+        "game": "sv-s",
+        "text": "It swings its handmade hammer around to protect itself, but the hammer is often stolen by Pokémon that eat metal."
+      },
+      {
+        "game": "sv-v",
+        "text": "This Pokémon pounds iron scraps together to make a hammer. It will remake the hammer again and again until it’s satisfied with the result."
+      }
+    ]
+  },
+  "chs": {
+    "name": "小锻匠",
+    "genus": "锤炼宝可梦",
+    "flavorText": []
+  }
+}

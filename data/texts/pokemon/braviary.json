@@ -1,0 +1,417 @@
+{
+  "jap": {
+    "name": "ウォーグル",
+    "genus": "ゆうもうポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "なかまの　ためなら　どれだけ\nきずつこうとも　たたかいを　やめない\nゆうかんな　おおぞらの　せんし。"
+      },
+      {
+        "game": "xy-y",
+        "text": "なかまのため　きけんを　かえりみず\nたたかう。じどうしゃを　つかんだまま\nおおぞらを　まう　ことが　できる。"
+      },
+      {
+        "game": "oras-or",
+        "text": "なかまの　ためなら　どれだけ\nきずつこうとも　たたかいを　やめない\nゆうかんな　おおぞらの　せんし。"
+      },
+      {
+        "game": "oras-as",
+        "text": "なかまのため　きけんを　かえりみず\nたたかう。じどうしゃを　つかんだまま\nおおぞらを　まう　ことが　できる。"
+      },
+      {
+        "game": "sm-s",
+        "text": "しさえ　おそれぬ　ゆうかんな　きしつ。\nたいこの　アローラの　ひとびとは\nそらのゆうしゃと　よび　そんけいした。"
+      },
+      {
+        "game": "sm-m",
+        "text": "すみかを　ひとが　おびやかした\nかこが　あり　ウォーグルたちは\nいちがんに　なって　あらがったという。"
+      },
+      {
+        "game": "usum-us",
+        "text": "むこうきずの　おおい　ものほど\nゆうかんとされ　うしろきずの　おおい\nものは　むれで　バカに　される。"
+      },
+      {
+        "game": "usum-um",
+        "text": "そらのゆうしゃの　いみょうを　もつ。\nきずついても　にげることのない\nほこりたかく　ゆうもうな　ポケモン。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "ゆうもうで　ほこりたかい　ポケモン。\nその　ゆうしを　たたえ　エンブレムの\nモチーフとして　にんきが　たかい。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "ちのけが　おおく　あらっぽいので\nガラルの　はこびやの　ざは\nアーマーガアに　うばわれた。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Warrgle",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "워글",
+    "genus": "용맹포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "동료를 위해서라면 아무리\n상처를 입더라도 싸움을 관두지 않는\n용감한 넓은 하늘의 전사."
+      },
+      {
+        "game": "xy-y",
+        "text": "동료를 위해 위험을 무릅쓰고\n싸운다. 자동차를 붙잡은 채로\n넓은 하늘을 날 수 있다."
+      },
+      {
+        "game": "oras-or",
+        "text": "동료를 위해서라면 아무리\n상처를 입더라도 싸움을 관두지 않는\n용감한 넓은 하늘의 전사."
+      },
+      {
+        "game": "oras-as",
+        "text": "동료를 위해 위험을 무릅쓰고\n싸운다. 자동차를 붙잡은 채로\n넓은 하늘을 날 수 있다."
+      },
+      {
+        "game": "sm-s",
+        "text": "죽음조차 두려워하지 않는 용감한 기질이다.\n먼 옛날에 알로라 사람들은\n하늘의 용자라고 부르며 존경했다."
+      },
+      {
+        "game": "sm-m",
+        "text": "사는 곳을 사람에게 위협받은\n과거가 있어 워글들은\n한마음이 되어 저항했다고 한다."
+      },
+      {
+        "game": "usum-us",
+        "text": "안면에 상처가 많을수록\n용감하다고 평가받고 뒤에 상처가\n많으면 무리에서 무시당한다."
+      },
+      {
+        "game": "usum-um",
+        "text": "하늘의 용자라는 별명을 가졌다.\n상처를 입어도 도망치지 않는\n긍지 높고 용맹한 포켓몬이다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "용맹하고 긍지 높은 포켓몬.\n그 용감한 모습 때문에\n엠블럼의 모티브로 인기가 많다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "혈기왕성하고 거칠어서\n가라르의 배달부 자리는\n아머까오에게 뺏겼다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "勇士雄鷹",
+    "genus": "勇猛寶可夢",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "連死都毫不畏懼的勇敢性格。\n太古時代，阿羅拉的人們稱之為\n天空的勇士，並尊敬著牠。"
+      },
+      {
+        "game": "sm-m",
+        "text": "據說過去棲息地曾經\n遭受人類的威脅，\n而勇士雄鷹們團結一致進行了抵抗。"
+      },
+      {
+        "game": "usum-us",
+        "text": "正面的傷越多就表示越勇敢，\n而背後受傷較多的則會\n在群體中受到輕視。"
+      },
+      {
+        "game": "usum-um",
+        "text": "擁有空之勇者的別名。\n即使受傷也絕不會逃跑，\n是一種重視榮譽的勇猛寶可夢。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "勇猛高傲的寶可夢。\n英勇的身姿使得牠成為人們\n設計紋章時的熱門題材。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "性情粗暴、血氣方剛，\n因此被鋼鎧鴉奪走了\n伽勒爾運送員的地位。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Gueriaigle",
+    "genus": "Pokémon Vaillant",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Pour les siens, il combat au mépris du\ndanger. Il est capable de soulever\nune voiture haut dans le ciel."
+      },
+      {
+        "game": "bw-w",
+        "text": "Un chevalier du ciel brave et intrépide.\nPlus son corps porte de cicatrices, plus\nil est respecté de ses congénères."
+      },
+      {
+        "game": "xy-x",
+        "text": "Un chevalier du ciel, brave et intrépide. Pour les\nsiens, il combat au mépris du danger, sans jamais\nfléchir."
+      },
+      {
+        "game": "xy-y",
+        "text": "Pour les siens, il combat au mépris du danger. Il est\ncapable de soulever une voiture haut dans le ciel."
+      },
+      {
+        "game": "oras-or",
+        "text": "Un chevalier du ciel, brave et intrépide. Pour les siens,\nil combat au mépris du danger, sans jamais fléchir."
+      },
+      {
+        "game": "oras-as",
+        "text": "Pour les siens, il combat au mépris du danger. Il est capable\nde soulever une voiture haut dans le ciel."
+      },
+      {
+        "game": "sm-s",
+        "text": "Rien n’effraie cet intrépide Pokémon, pas même\nla mort. Jadis, les gens d’Alola le surnommaient\n« le preux chevalier du ciel » avec respect."
+      },
+      {
+        "game": "sm-m",
+        "text": "Jadis, l’Homme a menacé son habitat. Tous les\nGueriaigle se sont alors rassemblés et ont fait\nfront commun pour repousser la menace."
+      },
+      {
+        "game": "usum-us",
+        "text": "Les balafres ne font qu’ajouter à sa renommée,\nmais les blessures dans le dos, synonymes de\nfuite en combat, sont mal vues par la volée."
+      },
+      {
+        "game": "usum-um",
+        "text": "Surnommé « le héros céleste », il est tellement\nfier qu’il préfère endurer mille souffrances\nplutôt que de choisir la fuite."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "C’est un Pokémon fier et vaillant.\nSa bravoure lui vaut d’être souvent utilisé\ncomme emblème sur les blasons."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Son caractère agressif et violent lui a valu\nde perdre son rôle de transporteur à Galar\nau profit de Corvaillus."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Washakwil",
+    "genus": "Kühnheits-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Ein tapferer Krieger der Lüfte, der zum Schutz\nseiner Kameraden auch mit Verletzungen immer\nweiterkämpft."
+      },
+      {
+        "game": "xy-y",
+        "text": "Für Freunde stürzt es sich selbstlos in den Kampf. Es\nkann mit seinen Krallen Autos durch die Lüfte tragen."
+      },
+      {
+        "game": "oras-or",
+        "text": "Ein tapferer Krieger der Lüfte, der zum Schutz seiner\nKameraden auch mit Verletzungen immer weiterkämpft."
+      },
+      {
+        "game": "oras-as",
+        "text": "Für Freunde stürzt es sich selbstlos in den Kampf. Es kann mit\nseinen Krallen Autos durch die Lüfte tragen."
+      },
+      {
+        "game": "sm-s",
+        "text": "Dieses tapfere Pokémon fürchtet nicht einmal\nden Tod. Die Bewohner von Alola nannten es in\ngrauer Vorzeit ehrfürchtig „Krieger der Lüfte“."
+      },
+      {
+        "game": "sm-m",
+        "text": "Als die Menschen einst ihren Lebensraum\nbedrohten, schlossen sich alle Washakwil\nzusammen und bekämpften sie."
+      },
+      {
+        "game": "usum-us",
+        "text": "Unter Washakwil gelten Narben an der Stirnseite\nals Beweis für Mut. Diejenigen, die viele Narben\nauf der Rückseite vorweisen, werden verhöhnt."
+      },
+      {
+        "game": "usum-um",
+        "text": "Manche nennen es auch „Krieger der Lüfte“.\nEin stolzes und unerschrockenes Pokémon, das\neher Verletzungen erleidet, als zu fliehen."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Es ist ein furchtloses und stolzes Pokémon,\ndas als Symbol des Mutes häufig auf Wappen\nabgebildet wird."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Da es hitzköpfig und aggressiv ist, hat es den\nPosten als Kurier in Galar an Krarmor verloren."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Braviary",
+    "genus": "Pokémon Aguerrido",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Un valiente guerrero del cielo que no duda en luchar\npor sus compañeros por graves que sean sus heridas."
+      },
+      {
+        "game": "xy-y",
+        "text": "Lucha por sus compañeros sin reparar en el peligro.\nEs capaz de volar alto incluso con un coche en sus\ngarras."
+      },
+      {
+        "game": "oras-or",
+        "text": "Un valiente guerrero del cielo que no duda en luchar por sus\ncompañeros por graves que sean sus heridas."
+      },
+      {
+        "game": "oras-as",
+        "text": "Lucha por sus compañeros sin reparar en el peligro. Es capaz\nde volar alto incluso con un coche en sus garras."
+      },
+      {
+        "game": "sm-s",
+        "text": "Por su talante aguerrido, no titubea a la hora de\njugarse el pellejo. Los antiguos habitantes de\nAlola lo veneraban como el Héroe del Cielo."
+      },
+      {
+        "game": "sm-m",
+        "text": "Cuando los seres humanos amenazaban su\nhábitat en el pasado, los Braviary se agrupaban\npara oponer resistencia."
+      },
+      {
+        "game": "usum-us",
+        "text": "Las cicatrices que surcan su frente demuestran\nsu valor, pero las de su espalda son motivo de\nmofa por parte de su bandada."
+      },
+      {
+        "game": "usum-um",
+        "text": "Se le conoce como Héroe del Cielo, y su orgullo\ny valía son tales que prefiere salir herido antes\nque huir de forma deshonrosa."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Un Pokémon osado y orgulloso, cuyo majestuoso\nporte lo convierte en un motivo heráldico muy\npopular."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Su carácter agresivo e irascible le ha hecho\nperder su puesto como transportista en Galar\nen favor de los Corviknight."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Braviary",
+    "genus": "Pokémon Baldanza",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "È l’intrepido guerriero del cielo. Per difendere i suoi\nsimili, lotta fino all’ultimo senza badare alle ferite."
+      },
+      {
+        "game": "xy-y",
+        "text": "Incurante del pericolo, lotta per difendere i compagni.\nPuò sollevare in volo anche una pesante automobile."
+      },
+      {
+        "game": "oras-or",
+        "text": "È l’intrepido guerriero del cielo. Per difendere i suoi simili,\nlotta fino all’ultimo senza badare alle ferite."
+      },
+      {
+        "game": "oras-as",
+        "text": "Incurante del pericolo, lotta per difendere i compagni.\nPuò sollevare in volo anche una pesante automobile."
+      },
+      {
+        "game": "sm-s",
+        "text": "Pokémon intrepido che non teme nemmeno\nla morte. Venerato nell’antica Alola, era noto\ncome “l’eroe del cielo”."
+      },
+      {
+        "game": "sm-m",
+        "text": "Il loro habitat era un tempo minacciato\ndagli uomini, ma i Braviary lottarono uniti\nper difenderlo."
+      },
+      {
+        "game": "usum-us",
+        "text": "Gli esemplari con più cicatrici sul volto sono\nconsiderati i più valorosi. Quelli con cicatrici\nsul dorso, al contrario, sono derisi dal gruppo."
+      },
+      {
+        "game": "usum-um",
+        "text": "Noto come “l’eroe del cielo”, è un Pokémon fiero\ne coraggioso che non scappa mai di fronte\nal pericolo, neanche quando è ferito."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "È un Pokémon intrepido e orgoglioso.\nAppare spesso come motivo araldico per via\ndel suo eroismo."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "A causa del suo carattere irruente e violento\nha perso il posto di corriere a Galar, che gli è\nstato rubato da Corviknight."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Braviary",
+    "genus": "Valiant Pokémon",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "They fight for their friends without any\nthought about danger to themselves.\nOne can carry a car while flying."
+      },
+      {
+        "game": "bw-w",
+        "text": "The more scars they have, the more\nrespect these brave soldiers of the sky \nget from their peers."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "For the sake of its friends, this brave\nwarrior of the sky will not stop battling,\neven if injured."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "For the sake of its friends, this brave\nwarrior of the sky will not stop battling,\neven if injured."
+      },
+      {
+        "game": "xy-x",
+        "text": "For the sake of its friends, this brave warrior of the\nsky will not stop battling, even if injured."
+      },
+      {
+        "game": "xy-y",
+        "text": "They fight for their friends without any thought\nabout danger to themselves. One can carry a car\nwhile flying."
+      },
+      {
+        "game": "oras-or",
+        "text": "For the sake of its friends, this brave warrior of the\nsky will not stop battling, even if injured."
+      },
+      {
+        "game": "oras-as",
+        "text": "They fight for their friends without any thought\nabout danger to themselves. One can carry a car\nwhile flying."
+      },
+      {
+        "game": "sm-s",
+        "text": "With its brave disposition, it fears nothing—not\neven death. Ancient Alolan people respected\nit, referring to it as “the hero of the sky.”"
+      },
+      {
+        "game": "sm-m",
+        "text": "It’s thought that people disturbed their habitats\nin the past, so Braviary banded together to\nfight back."
+      },
+      {
+        "game": "usum-us",
+        "text": "The more scars it has on its front, the more\nheroic it’s considered to be. Those with many\nscars on their back are mocked by the flock."
+      },
+      {
+        "game": "usum-um",
+        "text": "Known as “the hero of the skies,” this\nPokémon is so proud and so brave that it will\nnever retreat, even when it’s injured."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Known for its bravery and pride, this majestic\nPokémon is often seen as a motif for various\nkinds of emblems."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Because this Pokémon is hotheaded and\nbelligerent, it’s Corviknight that’s taken\nthe role of transportation in Galar."
+      },
+      {
+        "game": "la",
+        "text": "Screaming a bloodcurdling battle cry, this huge and ferocious\nbird Pokémon goes out on the hunt. It blasts lakes with shock\nwaves, then scoops up any prey that float to the water's surface."
+      }
+    ]
+  },
+  "chs": {
+    "name": "勇士雄鹰",
+    "genus": "勇猛宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "连死都毫不畏惧的勇敢性格。\n太古时代，阿罗拉的人们称之为\n天空的勇士，并尊敬着它。"
+      },
+      {
+        "game": "sm-m",
+        "text": "据说，人类过去曾经\n威胁过它们的栖息地，\n勇士雄鹰们团结一致进行了抵抗。"
+      },
+      {
+        "game": "usum-us",
+        "text": "正面伤越多，就表示越勇敢，\n而背面受伤多的则会在群体中\n受到轻视。"
+      },
+      {
+        "game": "usum-um",
+        "text": "别名天空的勇士。\n即便受伤也绝不逃跑，\n是以此为傲的勇猛的宝可梦。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "勇猛高傲的宝可梦。\n英勇的身姿使得它成为人们\n设计纹章时的热门题材。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "性格粗暴、血气方刚，\n因此被钢铠鸦夺走了\n伽勒尔运送员的地位。"
+      }
+    ]
+  }
+}

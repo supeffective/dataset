@@ -1,0 +1,549 @@
+{
+  "jap": {
+    "name": "スターミー",
+    "genus": "なぞのポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "まんなかの　コアとよばれる　ぶぶんは\nなないろに　かがやく。これを\nほうせきにする　ひとも　いるという。"
+      },
+      {
+        "game": "xy-y",
+        "text": "からだの　ちゅうしんにある　あかい\nコアから　よぞらに　むかって\nなぞの　でんぱを　はっしんしている。"
+      },
+      {
+        "game": "oras-or",
+        "text": "からだの　ちゅうしんに　ある　コアと　よばれる\nぶぶんが　なないろに　かがやく　ことから\nうみのほうせき　という　べつめいを　つけられた。"
+      },
+      {
+        "game": "oras-as",
+        "text": "ほしがたの　からだを　スクリューの　ように\nかいてんさせて　すいちゅうを　およぎまわる。\nちゅうおうに　ある　コアが　なないろに　ひかる。"
+      },
+      {
+        "game": "sm-s",
+        "text": "かがやく　コアから　なぞの　でんぱを\nそうじゅしん　していると　いう。\nちかづくと　ずつうが　することも。"
+      },
+      {
+        "game": "sm-m",
+        "text": "アブストラクトな　ボディの　せいで\nうちゅうからの　しんりゃくしゃ　ではと\nじもとの　ひとは　うわさ　している。"
+      },
+      {
+        "game": "usum-us",
+        "text": "かがやく　コアは　うみの　ほうせきと\nよばれる。　こうかな　アクセサリーに\nかえられ　かくれて　とりひきされる。"
+      },
+      {
+        "game": "usum-um",
+        "text": "きかがくてきな　ボディを　かいてんし\nすいちゅうを　およぐ。　つねに　なぞの\nでんぱを　はっしんして　いるらしい。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "コアと　よばれる　ちゅうしんぶぶんが\nなないろに　かがやくのは　つうしん\nしているからだと　いわれている。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "コアと　よばれる　ちゅうしんぶぶんが\nなないろに　かがやくのは　つうしん\nしているからだと　いわれている。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "きょうれつな　サイコパワーを\nはなつとき　コアと　よばれる\nきかんが　なないろに　きらめく。　"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "からだを　こうそくで　かいてんさせ\nうみを　およぎながら　ちいさな\nプランクトンを　きゅうしゅうする。　"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Starmie",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "아쿠스타",
+    "genus": "수수께끼포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "코어라고 불리는 중심 부분은\n일곱 빛깔로 빛난다. 이것을\n보석으로 삼는 사람도 있다고 한다."
+      },
+      {
+        "game": "xy-y",
+        "text": "몸의 중심에 있는 빨간\n핵에서 밤하늘을 향해\n알 수 없는 전파를 발신한다."
+      },
+      {
+        "game": "oras-or",
+        "text": "몸의 중심에 있는 핵이라 불리는\n부분이 일곱 빛깔로 빛나기에\n바다의 보석이라는 별명이 붙었다."
+      },
+      {
+        "game": "oras-as",
+        "text": "별 모양인 몸을 스크루처럼\n회전시켜 물속을 헤엄쳐 다닌다.\n중앙에 있는 코어가 일곱 빛깔로 빛난다. "
+      },
+      {
+        "game": "sm-s",
+        "text": "빛나는 핵으로부터 의문의 전파를\n송수신하고 있다고 한다.\n다가가면 두통이 생길 때도 있다."
+      },
+      {
+        "game": "sm-m",
+        "text": "추상적인 몸 때문에\n우주에서 온 침략자가 아닐까 하고\n그 지방 사람들은 말한다."
+      },
+      {
+        "game": "usum-us",
+        "text": "빛나는 코어는 바다의 보석이라고\n불린다. 고가의 액세서리로\n만들어져 은밀히 거래된다."
+      },
+      {
+        "game": "usum-um",
+        "text": "기하학적인 몸을 회전시켜\n수중에서 헤엄친다. 항상 의문의\n전파를 발신하고 있다고 한다."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "코어라고 불리는 중심 부분이\n일곱 빛깔로 빛나는 것은 통신을\n하고 있기 때문이라고 전해진다."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "코어라고 불리는 중심 부분이\n일곱 빛깔로 빛나는 것은 통신을\n하고 있기 때문이라고 전해진다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "강렬한 사이코 파워를 발산할 때\n코어라고 불리는 기관이\n일곱 색깔로 빛난다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "몸을 고속으로 회전시켜\n바다를 헤엄치며\n작은 플랑크톤을 흡수한다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "寶石海星",
+    "genus": "謎寶可夢",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "據說會從發光的核心\n收發神秘的電波。\n靠近的話可能會感到頭痛。"
+      },
+      {
+        "game": "sm-m",
+        "text": "因為身體的造型很抽象，\n被本地的人謠傳為來自宇宙的侵略者。"
+      },
+      {
+        "game": "usum-us",
+        "text": "閃耀的核心被人們稱為海中寶石。\n有人把它變成昂貴的飾品，\n在暗地裡偷偷買賣。"
+      },
+      {
+        "game": "usum-um",
+        "text": "會轉動像幾何圖形般的身體\n在水中游動。似乎一直在\n發射神秘的電波。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "據說被稱為核心的中心部分\n之所以會閃爍七彩的光芒，\n是因為牠正在進行通訊。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "據說被稱為核心的中心部分\n之所以會閃爍七彩的光芒，\n是因為牠正在進行通訊。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "釋放強烈的精神力量時，\n被稱為核心的器官就會\n閃爍七彩光芒。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "會高速旋轉著身體在\n海裡游泳，並且同時\n吸食微小的浮游生物。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Staross",
+    "genus": "Pokémon Mystérieux",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Un noyau rouge trône en son centre.\nIl envoie des signaux radio mystérieux\nvers le ciel nocturne."
+      },
+      {
+        "game": "bw-w",
+        "text": "Un noyau rouge trône en son centre.\nIl envoie des signaux radio mystérieux\nvers le ciel nocturne."
+      },
+      {
+        "game": "xy-x",
+        "text": "Son cœur brille des couleurs de l’arc-en-ciel.\nOn raconte que c’est une pierre précieuse."
+      },
+      {
+        "game": "xy-y",
+        "text": "Un noyau rouge trône en son centre. Il envoie\ndes signaux radio mystérieux vers le ciel nocturne."
+      },
+      {
+        "game": "oras-or",
+        "text": "Le centre de Staross, son cœur, resplendit de sept\ndifférentes couleurs. Du fait de sa brillance naturelle,\non appelle ce Pokémon le « joyau des mers »."
+      },
+      {
+        "game": "oras-as",
+        "text": "Staross nage en faisant tournoyer son corps en forme d’étoile,\nun peu à la manière d’une hélice de bateau. Le cœur au centre\ndu corps de ce Pokémon brille de sept couleurs."
+      },
+      {
+        "game": "sm-s",
+        "text": "Son cœur lumineux envoie et reçoit des signaux\nmystérieux. Ils donnent la migraine à quiconque\ns’en approche."
+      },
+      {
+        "game": "sm-m",
+        "text": "La forme abstraite de son corps ne ressemble à\nrien de connu. On raconte dans les campagnes\nqu’il s’agit d’un envahisseur venu de l’espace."
+      },
+      {
+        "game": "usum-us",
+        "text": "On appelle son cœur lumineux « le joyau de la\nmer ». Les bijoux fabriqués à partir de celui-ci\nse vendent à prix d’or et en secret."
+      },
+      {
+        "game": "usum-um",
+        "text": "Ce Pokémon fait tourner son corps géométrique\npour se déplacer dans l’eau. Il semblerait qu’il\némette continuellement des ondes mystérieuses."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "On dit que si le centre de son corps, appelé\nle cœur, brille de sept couleurs, c’est parce\nqu’il est en train de communiquer."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "On dit que si le centre de son corps, appelé\nle cœur, brille de sept couleurs, c’est parce\nqu’il est en train de communiquer."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "S’il déchaîne son pouvoir psychique puissant,\nson organe appelé « cœur » se met à briller\nde sept couleurs."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Il aspire du plancton quand il nage dans la mer\nen faisant tourner son corps à grande vitesse."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Starmie",
+    "genus": "Mysteriös-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Der Kern dieses Pokémon leuchtet in den Farben\ndes Regenbogens. Sein Kern gilt als Edelstein."
+      },
+      {
+        "game": "xy-y",
+        "text": "In der Körpermitte befindet sich ein roter Kern,\nder mysteriöse Radiowellen in die Nacht sendet."
+      },
+      {
+        "game": "oras-or",
+        "text": "Starmies Mittelteil, sein Kern, leuchtet in sieben Farben.\nAufgrund dieser Eigenschaft wird es auch „Juwel des Meeres“\ngenannt."
+      },
+      {
+        "game": "oras-as",
+        "text": "Starmie kann schwimmen, indem es seinen sternförmigen\nKörper wie eine Schiffsschraube dreht. Der Kern in seiner\nKörpermitte leuchtet in sieben Farben."
+      },
+      {
+        "game": "sm-s",
+        "text": "Offenbar sendet und empfängt sein leuchtender\nKern mysteriöse Radiowellen. Kommt man ihm\nzu nahe, löst es eventuell Kopfschmerzen aus."
+      },
+      {
+        "game": "sm-m",
+        "text": "Aufgrund seiner ungewöhnlichen Körperform\nhegen viele Einheimische den Verdacht, es sei\nin Wirklichkeit ein Eindringling aus dem All."
+      },
+      {
+        "game": "usum-us",
+        "text": "Sein leuchtender Kern, das „Juwel des Meeres“,\nist so wertvoll, dass manche ihn zu Schmuck\nverarbeiten und unter der Hand verkaufen."
+      },
+      {
+        "game": "usum-um",
+        "text": "Es rotiert seinen geometrischen Körper, um sich\nim Wasser fortzubewegen. Wie es scheint,\nsendet es immerzu mysteriöse Radiowellen aus."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Den Mittelteil seines Körpers nennt man „Kern“.\nMan sagt, es würde damit kommunizieren, wenn\ndieser in den Regenbogenfarben leuchtet."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Den Mittelteil seines Körpers nennt man „Kern“.\nMan sagt, es würde damit kommunizieren, wenn\ndieser in den Regenbogenfarben leuchtet."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Das als Kern bezeichnete Organ dieses Pokémon\nerstrahlt in den sieben Farben des Regenbogens,\nwenn Starmie mächtige Psycho-Kräfte entfesselt."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Starmie bewegt sich im Wasser fort, indem es\nseinen Körper mit hoher Geschwindigkeit rotieren\nlässt. Unterwegs absorbiert es winziges Plankton."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Starmie",
+    "genus": "Pokémon Misterioso",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Su núcleo central brilla con los colores del arcoíris.\nPara algunos tiene el valor de una gema."
+      },
+      {
+        "game": "xy-y",
+        "text": "El centro de su cuerpo alberga un órgano que emite\nextrañas señales de radio en la noche."
+      },
+      {
+        "game": "oras-or",
+        "text": "La parte central de Starmie, el núcleo brillante, resplandece\ncon siete colores distintos. Debido a su naturaleza luminosa, a\neste Pokémon se le ha dado el apelativo de la Gema del Mar."
+      },
+      {
+        "game": "oras-as",
+        "text": "Starmie nada por el agua haciendo girar su cuerpo estrellado\na modo de hélice. El núcleo de este Pokémon brilla y llega a\ntornarse de siete colores."
+      },
+      {
+        "game": "sm-s",
+        "text": "Su brillante núcleo emite y recibe extrañas\nseñales de radio que pueden causarle jaquecas\na cualquiera que se aproxime demasiado."
+      },
+      {
+        "game": "sm-m",
+        "text": "Corre el rumor de que Starmie es un invasor del\nespacio exterior, debido a la forma tan peculiar\nde su cuerpo."
+      },
+      {
+        "game": "usum-us",
+        "text": "Su reluciente núcleo se conoce como la Gema\ndel Mar y con él se elaboran adornos por los\nque se pagan fortunas."
+      },
+      {
+        "game": "usum-um",
+        "text": "Se desplaza por el agua haciendo girar su\ncuerpo geométrico. Parece que emite unas\nextrañas ondas electromagnéticas."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Su parte central se conoce como núcleo. Se\ncree que, cuando este brilla con siete colores,\nes señal de que se está comunicando."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Su parte central se conoce como núcleo. Se\ncree que, cuando este brilla con siete colores,\nes señal de que se está comunicando."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Su órgano central, conocido como núcleo, brilla\ncon los colores del arcoíris cuando se dispone a\nliberar sus potentes poderes psíquicos."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Starmie absorbe plancton al tiempo que nada\npor el mar haciendo girar su cuerpo a gran\nvelocidad."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Starmie",
+    "genus": "Pokémon Misterioso",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Nel suo nucleo brillano i sette colori dell’arcobaleno.\nQualcuno lo considera una pietra preziosa."
+      },
+      {
+        "game": "xy-y",
+        "text": "Al centro del corpo ha un nucleo rosso che diffonde\nmisteriosi segnali radio nel cielo notturno."
+      },
+      {
+        "game": "oras-or",
+        "text": "Il centro del corpo di Starmie, il suo nucleo, brilla in sette\ncolori. Per la sua luminosità è chiamato “Gemma del mare”."
+      },
+      {
+        "game": "oras-as",
+        "text": "Starmie nuota roteando vorticosamente il corpo a stella come\nfosse l’elica di una nave. Il suo nucleo brilla in sette diversi\ncolori."
+      },
+      {
+        "game": "sm-s",
+        "text": "Si dice che il suo nucleo brillante emetta e riceva\nmisteriosi segnali radio.\nStargli vicino può far venire mal di testa."
+      },
+      {
+        "game": "sm-m",
+        "text": "A causa dell’insolita forma del suo corpo, che\nmolti definiscono astratta, gira voce che si\ntratti di un invasore alieno."
+      },
+      {
+        "game": "usum-us",
+        "text": "Con il suo nucleo brillante, chiamato\n“gemma del mare”, si producono preziosi\naccessori che vengono poi venduti di nascosto."
+      },
+      {
+        "game": "usum-um",
+        "text": "Nuota ruotando il suo corpo geometrico.\nSembra che emetta costantemente dei\nmisteriosi segnali radio."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "La parte centrale, chiamata nucleo, riluce dei\nsette colori dell’arcobaleno. Si dice che lo usi\nper comunicare."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "La parte centrale, chiamata nucleo, riluce dei\nsette colori dell’arcobaleno. Si dice che lo usi\nper comunicare."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Quando scatena i suoi poteri psichici, l’organo\ncentrale, detto nucleo, brilla di sette colori\ndiversi."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Risucchia il plancton mentre nuota nel mare\nfacendo ruotare il suo corpo ad alta velocità."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Starmie",
+    "genus": "Mysterious Pokémon",
+    "flavorText": [
+      {
+        "game": "rb-r",
+        "text": "Its central core\nglows with the\nseven colors of\fthe rainbow. Some\npeople value the\ncore as a gem."
+      },
+      {
+        "game": "rb-b",
+        "text": "Its central core\nglows with the\nseven colors of\fthe rainbow. Some\npeople value the\ncore as a gem."
+      },
+      {
+        "game": "y",
+        "text": "The center section\nis named the core.\nPeople think it\fis communicating\nwhen it glows in\n7 colors."
+      },
+      {
+        "game": "gs-g",
+        "text": "The center section\nof its body is\ncalled the core.\fIt glows in a dif­\nferent color each\ntime it is seen."
+      },
+      {
+        "game": "gs-s",
+        "text": "Regardless of the\nenvironment it\nlives in, its body\fgrows to form a\nsymmetrical geo­\nmetric shape."
+      },
+      {
+        "game": "c",
+        "text": "It is said that it\nuses the seven-\ncolored core of\fits body to send\nelectric waves\ninto outer space."
+      },
+      {
+        "game": "rs-r",
+        "text": "STARMIE’s center section - the core -\nglows brightly in seven colors.\nBecause of its luminous nature, this\fPOKéMON has been given the nickname\n“the gem of the sea.”"
+      },
+      {
+        "game": "rs-s",
+        "text": "STARMIE swims through water by\nspinning its star-shaped body as if it\nwere a propeller on a ship.\fThe core at the center of this\nPOKéMON’s body glows in seven colors."
+      },
+      {
+        "game": "e",
+        "text": "People in ancient times imagined that\nSTARMIE were transformed from the\nreflections of stars that twinkled on\ngentle waves at night."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "This POKéMON has a geometric body.\nBecause of its body, the locals suspect\nthat it is an alien creature."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "Its central core glows with the seven\ncolors of the rainbow. Some people value\nthe core as a gem."
+      },
+      {
+        "game": "dp-d",
+        "text": "At the center of its body is a red\ncore, which sends mysterious\nradio signals into the night sky."
+      },
+      {
+        "game": "dp-p",
+        "text": "At the center of its body is a red\ncore, which sends mysterious\nradio signals into the night sky."
+      },
+      {
+        "game": "pt",
+        "text": "At the center of its body is a red\ncore, which sends mysterious\nradio signals into the night sky."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "The middle section of its body is\ncalled the core. It glows in a\ndifferent color each time it is seen."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "Regardless of the environment it\nlives in, its body grows to form a\nsymmetrical geometric shape."
+      },
+      {
+        "game": "bw-b",
+        "text": "At the center of its body is a red\ncore, which sends mysterious\nradio signals into the night sky."
+      },
+      {
+        "game": "bw-w",
+        "text": "At the center of its body is a red\ncore, which sends mysterious\nradio signals into the night sky."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "Its core shines in many colors\nand sends radio signals into space\nto communicate with something."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "Its core shines in many colors\nand sends radio signals into space\nto communicate with something."
+      },
+      {
+        "game": "xy-x",
+        "text": "Its central core glows with the seven colors of the\nrainbow. Some people value the core as a gem."
+      },
+      {
+        "game": "xy-y",
+        "text": "At the center of its body is a red core, which sends\nmysterious radio signals into the night sky."
+      },
+      {
+        "game": "oras-or",
+        "text": "Starmie’s center section—the core—glows brightly in seven\ncolors. Because of its luminous nature, this Pokémon has\nbeen given the nickname “the gem of the sea.”"
+      },
+      {
+        "game": "oras-as",
+        "text": "Starmie swims through water by spinning its star-shaped\nbody as if it were a propeller on a ship. The core at the\ncenter of this Pokémon’s body glows in seven colors."
+      },
+      {
+        "game": "sm-s",
+        "text": "Its shining core is thought to receive and\ntransmit enigmatic signals. It has been known\nto cause headaches in those who approach it."
+      },
+      {
+        "game": "sm-m",
+        "text": "Its unusual body shape, reminiscent of abstract\nart, led local people to spread rumors that this\nPokémon may be an invader from outer space."
+      },
+      {
+        "game": "usum-us",
+        "text": "Its sparkling core is called “the gem of the sea.”\nThis core can be made into high-priced\naccessories that are traded in secret."
+      },
+      {
+        "game": "usum-um",
+        "text": "It rotates its geometrically shaped body to swim\nthrough the water. It always seems to be\nsending out mysterious radio waves."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "The center section is named the core.\nPeople think it is communicating when\nit glows in seven colors."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "The center section is named the core.\nPeople think it is communicating when\nit glows in seven colors."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "This Pokémon has an organ known as its core.\nThe organ glows in seven colors when Starmie is\nunleashing its potent psychic powers."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Starmie swims by spinning its body at high speed.\nAs this Pokémon cruises through the ocean, it\nabsorbs tiny plankton."
+      }
+    ]
+  },
+  "chs": {
+    "name": "宝石海星",
+    "genus": "谜宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "据说会从闪着光的内核\n收发神秘的电波。\n靠近的话可能会头痛。"
+      },
+      {
+        "game": "sm-m",
+        "text": "因为身体外形很抽象的缘故，\n被当地的人谣传为来自宇宙的侵略者。"
+      },
+      {
+        "game": "usum-us",
+        "text": "发光的核心被称为海之宝石。\n有人将它变成昂贵的饰品，\n在暗地里偷偷地买卖。"
+      },
+      {
+        "game": "usum-um",
+        "text": "能旋转几何图形一样的\n身体在水中游泳。\n好像一直在发射神秘的电波。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "据说当被称为其核心的\n中心部分闪烁着七色光芒时，\n就代表着它正在传达信息。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "据说当被称为其核心的\n中心部分闪烁着七色光芒时，\n就代表着它正在传达信息。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "当它释放强烈的精神力量时，\n被称为核心的器官就会\n发出七彩的光芒，"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "会高速旋转着身体\n一边游泳一边吸收\n微小的浮游生物。"
+      }
+    ]
+  }
+}

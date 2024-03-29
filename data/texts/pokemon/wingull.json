@@ -1,0 +1,453 @@
+{
+  "jap": {
+    "name": "キャモメ",
+    "genus": "うみねこポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "ながい　つばさで　うみかぜを　うけて\nグライダーのように　かっくうする。\nやすむときは　つばさを　おりたたむ。"
+      },
+      {
+        "game": "xy-y",
+        "text": "うみべの　だんがいぜっぺきに\nすを　つくる。じょうしょうきりゅうを\nりようして　おおぞらに　まいあがる。"
+      },
+      {
+        "game": "oras-or",
+        "text": "エサや　だいじな　ものを　くちばしに　はさみ\nいろんな　ばしょに　かくす　しゅうせいを　もつ。\nかぜに　のって　すべる　ように　そらを　とぶ。"
+      },
+      {
+        "game": "oras-as",
+        "text": "うみから　ふく　じょうしょう　きりゅうに　のり\nほそながい　つばさを　のばして　かっくうする。\nながい　くちばしは　エサを　とるときに　べんり。"
+      },
+      {
+        "game": "sm-s",
+        "text": "ホネは　かるさのために　スカスカ。\nおおきな　つばさで　かぜを　うけ\nおおぞらへと　まいあがる。"
+      },
+      {
+        "game": "sm-m",
+        "text": "キャモメが　とびかう　うみの　したは\nさかなポケモンが　むれているので\nりょうしは　まずキャモメを　さがす。"
+      },
+      {
+        "game": "usum-us",
+        "text": "ほそく　ながい　つばさ。　じょうしょう\nきりゅうに　のって　グライダーの\nように　おおぞらに　まいあがるのだ。"
+      },
+      {
+        "game": "usum-um",
+        "text": "うみべの　がけに　すをつくる。\nだいこうぶつの　ヨワシを　さがし\nうみの　うえを　せんかい　している。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "きりたった　がけに　すを　つくり\nうみかぜを　りようして　ひろいそらを\nじょうしょうし　かっくう　するのだ。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "くうきの　ながれを　りようして\nはばたかずに　そらへ　まいあがる。\nうみべの　がけに　すを　つくる。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Camome",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "갈모매",
+    "genus": "괭이갈매기포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "긴 날개로 바닷바람을 받아서\n글라이더처럼 활공한다.\n쉴 때는 날개를 접는다."
+      },
+      {
+        "game": "xy-y",
+        "text": "해변의 낭떠러지 절벽에\n둥지를 튼다. 상승기류를\n이용하여 넓은 하늘로 날아오른다."
+      },
+      {
+        "game": "oras-or",
+        "text": "먹이나 소중한 것을 부리에 끼우고\n여러 장소에 숨기는 습성을 지녔다.\n바람을 타고 미끄러지듯 하늘을 난다."
+      },
+      {
+        "game": "oras-as",
+        "text": "바다에서 불어오는 상승기류를 타고\n가늘고 긴 날개를 펼쳐 활공한다.\n긴 부리는 먹이를 잡을 때 편리하다."
+      },
+      {
+        "game": "sm-s",
+        "text": "뼈는 무게를 줄이기 위해 비어 있다.\n큰 날개로 바람을 타고\n넓은 하늘로 날아오른다."
+      },
+      {
+        "game": "sm-m",
+        "text": "갈모매가 어지럽게 나는 바다 아래에는\n물고기포켓몬이 무리 지어 있으므로\n어부들은 우선 갈모매부터 찾는다."
+      },
+      {
+        "game": "usum-us",
+        "text": "가늘고 긴 날개다. 상승 기류를\n타고 글라이더처럼\n넓은 하늘로 높이 떠오른다."
+      },
+      {
+        "game": "usum-um",
+        "text": "바닷가 절벽에 둥지를 짓는다.\n가장 좋아하는 약어리를 찾아\n바다 위를 선회하고 있다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "깎아지른 절벽에 둥지를 만들고\n바닷바람을 이용하여\n넓은 하늘 위로 올라 활공한다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "공기의 흐름을 이용하여\n날갯짓하지 않고 하늘로 날아오른다.\n해변의 절벽에 둥지를 만든다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "長翅鷗",
+    "genus": "海鷗寶可夢",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "空心的骨頭是為了保持輕盈。\n用大大的翅膀迎著風，\n飛向浩瀚的天空。"
+      },
+      {
+        "game": "sm-m",
+        "text": "在長翅鷗飛來飛去的海底下\n聚集著成群的魚寶可夢，\n所以漁夫會先尋找長翅鷗。"
+      },
+      {
+        "game": "usum-us",
+        "text": "翅膀又細又長，\n能乘著上升氣流，\n像滑翔機一般飛上天空。"
+      },
+      {
+        "game": "usum-um",
+        "text": "在海邊的懸崖上築巢。\n會在海上盤旋，尋找牠\n最愛吃的弱丁魚。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "在陡峭的岩壁上築巢，\n會藉助海風，飛升到\n廣闊的天空中滑翔。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "利用氣流，\n不拍打翅膀就能飛上天空。\n會在海邊的岩壁上築巢。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Goélise",
+    "genus": "Pokémon Mouette",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Il utilise les courants ascendants\npour planer en altitude. Son bec lui\nsert à transporter la nourriture."
+      },
+      {
+        "game": "bw-w",
+        "text": "Il utilise les courants ascendants\npour planer en altitude. Son bec lui\nsert à transporter la nourriture."
+      },
+      {
+        "game": "xy-x",
+        "text": "Il plane sur les vents marins grâce à ses longues ailes.\nIl les replie pour se reposer."
+      },
+      {
+        "game": "xy-y",
+        "text": "Il niche sur les falaises escarpées face à la mer.\nIl vole en altitude grâce aux courants ascendants."
+      },
+      {
+        "game": "oras-or",
+        "text": "Goélise a l’habitude de transporter ses proies et ses objets\nde valeur dans son bec avant de les cacher. Ce Pokémon\nse laisse porter par le vent et vole comme s’il surfait\ndans les cieux."
+      },
+      {
+        "game": "oras-as",
+        "text": "Grâce à ses ailes longues et étroites, Goélise se laisse porter\npar les courants d’air ascendants venant de la mer. Le long\nbec de ce Pokémon est bien pratique pour attraper ses proies."
+      },
+      {
+        "game": "sm-s",
+        "text": "Son ossature légère lui confère un vol gracieux,\ntandis que le vent s’engouffre sous ses grandes\nailes, lui permettant de s’élever au firmament."
+      },
+      {
+        "game": "sm-m",
+        "text": "Les Goélise survolent les mers qui grouillent de\nPokémon poissons. Un grand pêcheur a dit :\n« Si tu veux une bonne prise, suis le Goélise. »"
+      },
+      {
+        "game": "usum-us",
+        "text": "Grâce à ses ailes longues et fines, il se laisse\nporter par les courants ascendants pour planer\njusqu’au firmament."
+      },
+      {
+        "game": "usum-um",
+        "text": "Il fait son nid sur les falaises du littoral\net survole la mer en cercle à la recherche\nde son mets favori : les petits Froussardine."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Il construit son nid le long des falaises et utilise\nles courants ascendants pour planer en altitude."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Il niche dans les falaises.\nEn utilisant les courants d’air, il peut voler\nsans battre des ailes."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Wingull",
+    "genus": "Seemöwen-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Es lässt sich vom Wind der Meere treiben,\nals wäre es ein Segelflugzeug."
+      },
+      {
+        "game": "xy-y",
+        "text": "Es baut sein Nest auf steilen Klippen. Es nutzt die\nAufwinde, um in größerer Höhe fliegen zu können."
+      },
+      {
+        "game": "oras-or",
+        "text": "Man sieht Wingull oft mit seiner Beute oder seinen\nBesitztümern im Schnabel herumfliegen auf der Suche\nnach geeigneten Verstecken. Dieses Pokémon fliegt\ndurch die Lüfte, als würde es gleiten."
+      },
+      {
+        "game": "oras-as",
+        "text": "Wingull breitet seine langen, schmalen Flügel aus und segelt\nim Seewind. Der lange Schnabel dieses Pokémon ist ihm beim\nJagen nach Beute sehr hilfreich."
+      },
+      {
+        "game": "sm-s",
+        "text": "Seine Knochen sind hohl und daher sehr leicht.\nMit seinen ausgebreiteten großen Flügeln steigt\nes hoch in den Himmel empor."
+      },
+      {
+        "game": "sm-m",
+        "text": "Fischer halten gerne Ausschau nach Wingull,\ndenn wo diese ihre Kreise ziehen, scharen sich\nunter Wasser Schwärme von Fisch-Pokémon."
+      },
+      {
+        "game": "usum-us",
+        "text": "Seine Flügel sind lang und schmal. Es nutzt die\nAufwinde, um wie ein Segelflugzeug hoch in den\nHimmel emporzusteigen."
+      },
+      {
+        "game": "usum-um",
+        "text": "Es baut sein Nest auf steilen Klippen und kreist\nüber dem Meer auf der Suche nach Lusardin,\nseiner Lieblingsspeise."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Es baut sein Nest an Steilhängen und nutzt die\nSeebrise, um beim Gleiten am weiten Himmel\nan Höhe zu gewinnen."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Es nistet an Steilküsten und nutzt die Luftströme,\num im Gleitflug in den Himmel emporzusteigen."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Wingull",
+    "genus": "Pokémon Gaviota",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Sus largas alas aprovechan los vientos marinos para\nplanear. Cuando descansa, las pliega."
+      },
+      {
+        "game": "xy-y",
+        "text": "Anida en acantilados y alcanza gran altura\naprovechando las corrientes ascendentes."
+      },
+      {
+        "game": "oras-or",
+        "text": "Wingull tiene la costumbre de llevar a su presa y objetos de\nvalor en el pico, y esconderlos en distintos sitios. Este\nPokémon vuela dejándose llevar por las corrientes de aire\ncomo si fuera patinando por el cielo."
+      },
+      {
+        "game": "oras-as",
+        "text": "Wingull emerge del mar y asciende desplegando las largas y\nestrechas alas que posee. Este Pokémon tiene un pico largo\nque le resulta muy útil para pescar."
+      },
+      {
+        "game": "sm-s",
+        "text": "Sus huesos livianos y sus grandes alas le\npermiten dejarse llevar por el viento y surcar\nlos cielos grácilmente."
+      },
+      {
+        "game": "sm-m",
+        "text": "Suele sobrevolar los bancos de Pokémon pez,\npor lo que los pescadores siguen a Wingull\ncuando buscan buenas capturas."
+      },
+      {
+        "game": "usum-us",
+        "text": "Tiene alas largas y finas. Se deja llevar por las\ncorrientes ascendentes y luego planea a alta\ncota grácilmente."
+      },
+      {
+        "game": "usum-um",
+        "text": "Anida en los riscos junto a la costa y sobrevuela\nel mar trazando círculos en busca de algún\nWishiwashi que llevarse al buche."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Construye sus nidos en acantilados escarpados.\nAprovecha la brisa marina para elevarse hacia el\ninmenso cielo y planear."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Aprovecha las corrientes de aire para ganar\naltura sin necesidad de batir las alas. Anida\nen acantilados costeros."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Wingull",
+    "genus": "Pokémon Gabbiano",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Segue i venti marini con le sue lunghe ali e si libra\nin volo come un aliante. Si riposa piegando le ali."
+      },
+      {
+        "game": "xy-y",
+        "text": "Nidifica su scogliere a picco sul mare. Si fa trasportare\nad alta quota dalle correnti ascensionali."
+      },
+      {
+        "game": "oras-or",
+        "text": "Wingull ha l’abitudine di trasportare prede e oggetti preziosi\nnel becco per poi nasconderli dappertutto. Questo Pokémon\nvola a cavallo dei venti planando in cielo."
+      },
+      {
+        "game": "oras-as",
+        "text": "Wingull segue le correnti ascensionali presenti sul mare\nallargando le sue ali lunghe e strette per planare.\nIl lungo becco del Pokémon è utile per catturare la preda."
+      },
+      {
+        "game": "sm-s",
+        "text": "Volteggia lieve nel cielo sfruttando le correnti\ngrazie alle ossa leggere e alle grandi ali."
+      },
+      {
+        "game": "sm-m",
+        "text": "I pescatori li tengono d’occhio per via della\nloro abitudine di volare sui tratti di mare dove\nsi radunano i Pokémon acquatici."
+      },
+      {
+        "game": "usum-us",
+        "text": "Grazie alle ali lunghe e strette, vola in alto\nlasciandosi trasportare dalle correnti\nascensionali come un aliante."
+      },
+      {
+        "game": "usum-um",
+        "text": "Fa il nido sulle rocce a picco lungo la costa.\nVola sul mare in cerca delle sue prede preferite,\ni Wishiwashi."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Costruisce il nido a ridosso dei precipizi.\nSfrutta la brezza marina per levarsi alto in cielo."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Sfrutta le correnti ascensionali per volteggiare\nnel cielo senza sbattere le ali. Fa il nido nelle\nscogliere lungo la costa."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Wingull",
+    "genus": "Seagull Pokémon",
+    "flavorText": [
+      {
+        "game": "rs-r",
+        "text": "WINGULL has the habit of carrying prey\nand valuables in its beak and hiding\nthem in all sorts of locations.\fThis POKéMON rides the winds and flies\nas if it were skating across the sky."
+      },
+      {
+        "game": "rs-s",
+        "text": "WINGULL rides updrafts rising from the\nsea by extending its long and narrow\nwings to glide.\fThis POKéMON’s long beak is useful for\ncatching prey."
+      },
+      {
+        "game": "e",
+        "text": "It makes its nest on a sheer cliff at the\nedge of the sea. It has trouble keeping\nits wings flapping in flight. Instead, it\nsoars on updrafts."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "It rides upon ocean winds as if it were\na glider. In the winter, it hides food\naround its nest."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "It rides upon ocean winds as if it were\na glider. In the winter, it hides food\naround its nest."
+      },
+      {
+        "game": "dp-d",
+        "text": "It makes its nest on steep sea\ncliffs. Riding updrafts, it soars\nto great heights."
+      },
+      {
+        "game": "dp-p",
+        "text": "Catching sea winds with its long\nwings, it soars as if it were a\nglider. It folds its wings to rest."
+      },
+      {
+        "game": "pt",
+        "text": "It soars high in the sky, riding on\nupdrafts like a glider. It carries\nfood tucked in its bill."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "It soars on updrafts without\nflapping its wings. It makes a nest\non sheer cliffs at the sea’s edge."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "It soars on updrafts without\nflapping its wings. It makes a nest\non sheer cliffs at the sea’s edge."
+      },
+      {
+        "game": "bw-b",
+        "text": "It soars high in the sky, riding on\nupdrafts like a glider. It carries\nfood tucked in its bill."
+      },
+      {
+        "game": "bw-w",
+        "text": "It soars high in the sky, riding on\nupdrafts like a glider. It carries\nfood tucked in its bill."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "It makes its nest on sheer cliffs.\nRiding the sea breeze, it glides\nup into the expansive skies."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "It makes its nest on sheer cliffs.\nRiding the sea breeze, it glides\nup into the expansive skies."
+      },
+      {
+        "game": "xy-x",
+        "text": "Catching sea winds with its long wings, it soars\nas if it were a glider. It folds its wings to rest."
+      },
+      {
+        "game": "xy-y",
+        "text": "It makes its nest on steep sea cliffs.\nRiding updrafts, it soars to great heights."
+      },
+      {
+        "game": "oras-or",
+        "text": "Wingull has the habit of carrying prey and valuables in its beak\nand hiding them in all sorts of locations. This Pokémon rides\nthe winds and flies as if it were skating across the sky."
+      },
+      {
+        "game": "oras-as",
+        "text": "Wingull rides updrafts rising from the sea by extending its long\nand narrow wings to glide. This Pokémon’s long beak is useful\nfor catching prey."
+      },
+      {
+        "game": "sm-s",
+        "text": "Its hollow bones enhance its lightness.\nIt spreads its wings to the wind and soars away\ninto the sky."
+      },
+      {
+        "game": "sm-m",
+        "text": "Fishermen keep an eye out for Wingull in the\nsky, because wherever they’re circling, the\nocean is sure to be teeming with fish Pokémon."
+      },
+      {
+        "game": "usum-us",
+        "text": "With its long, thin wings, it catches updrafts\nand flies like a glider high up into the sky."
+      },
+      {
+        "game": "usum-um",
+        "text": "It builds nests in cliffs by the sea. It circles the\nskies above the ocean looking for its favorite\nfood—Wishiwashi."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "It makes its nest on sheer cliffs. Riding the sea\nbreeze, it glides up into the expansive skies."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "It soars on updrafts without flapping its wings.\nIt makes a nest on sheer cliffs at the sea’s edge."
+      }
+    ]
+  },
+  "chs": {
+    "name": "长翅鸥",
+    "genus": "海鸥宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "为了轻盈，骨骼空空的。\n用大大的翅膀迎风，\n向着浩瀚天空飞翔。"
+      },
+      {
+        "game": "sm-m",
+        "text": "在长翅鸥飞来飞去的海下面\n聚集着成群的鱼宝可梦，\n所以渔夫会先寻找长翅鸥。"
+      },
+      {
+        "game": "usum-us",
+        "text": "翅膀又细又长。\n能乘着上升气流，\n像滑翔机一样在空中翱翔。"
+      },
+      {
+        "game": "usum-um",
+        "text": "在海边的悬崖上筑巢。\n会在海上盘旋，\n寻找它非常爱吃的弱丁鱼。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "在陡峭的岩壁上筑巢，\n会借助海风，飞升到\n广阔的天空中滑翔。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "利用气流，\n不拍打翅膀就能飞上天空。\n会在海边的岩壁上筑巢。"
+      }
+    ]
+  }
+}

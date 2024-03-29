@@ -1,0 +1,133 @@
+{
+  "jap": {
+    "name": "ワンパチ",
+    "genus": "こいぬポケモン",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "はしる　ときに　しっぽの　ねもとから\nでんきを　うみだす。　ガラルでは\nぼくようけん　として　にんき。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "おやつに　つられて　ひとの　しごとを\nてつだう　くいしんぼう。　パチパチと\nでんきを　まとって　ひたはしる。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Wanpachi",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "멍파치",
+    "genus": "강아지포켓몬",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "달릴 때 꼬리가 시작되는 부분에서\n전기를 만들어 낸다. 가라르에서는\n양치기로 인기가 많다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "간식에 끌려 사람의 일을\n돕는 먹보다. 탁탁 튀는\n전기를 두르고 계속 달린다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "來電汪",
+    "genus": "小狗寶可夢",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "奔跑的時候會從尾巴的根部\n製造出電能。在伽勒爾\n是很受歡迎的牧羊犬。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "因為想要得到零食而\n幫助人類工作的貪吃鬼。\n總是帶著電火花跑來跑去。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Voltoutou",
+    "genus": "Pokémon Chiot",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Lorsqu’il court, on peut voir de l’électricité\nse former à la base de sa queue. Ce Pokémon\nest très populaire auprès des bergers de Galar."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Ce glouton assiste les humains dans leur travail\nen échange de friandises. Il court sans arrêt,\nle corps enveloppé d’électricité."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Voldi",
+    "genus": "Welpen-Pokémon",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Beim Rennen erzeugt es Elektrizität in seinem\nSchwanzansatz. In der Galar-Region erfreut es\nsich bei Hirten großer Beliebtheit."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Im Austausch gegen Leckerlis hilft dieser kleine\nVielfraß Menschen bei der Arbeit. Beim Rennen\nwird es von knisternder Elektrizität umhüllt."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Yamper",
+    "genus": "Pokémon Perrito",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Al correr, genera electricidad por la base de la\ncola. Es muy popular entre los pastores de Galar."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Son muy glotones, por lo que ayudan a la gente\na cambio de comida. Echan chispas al correr."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Yamper",
+    "genus": "Pokémon Cagnolino",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Quando corre produce elettricità dalla base\ndella coda. A Galar è apprezzato soprattutto\nper l’aiuto che fornisce ai pastori nei pascoli."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "È un golosone e aiuta gli uomini in cambio\ndi ghiottonerie. Corre di qua e di là\nemettendo scintille da tutto il corpo."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Yamper",
+    "genus": "Puppy Pokémon",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "This Pokémon is very popular as a herding dog\nin the Galar region. As it runs, it generates\nelectricity from the base of its tail."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "This gluttonous Pokémon only assists people with\ntheir work because it wants treats. As it runs,\nit crackles with electricity."
+      }
+    ]
+  },
+  "chs": {
+    "name": "来电汪",
+    "genus": "小狗宝可梦",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "奔跑的时候会从尾巴的根部\n制造出电能。在伽勒尔\n是很受欢迎的牧羊犬。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "因为想要得到零食而\n帮助人类工作的贪吃鬼。\n总是带着电火花跑来跑去。"
+      }
+    ]
+  }
+}

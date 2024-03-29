@@ -1,0 +1,245 @@
+{
+  "jap": {
+    "name": "カエンジシ",
+    "genus": "おうじゃポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "むれの　なかで　いちばん　おおきな\nほのおの　たてがみを　もつ　オスが\nリーダーとして　なかまを　ひきいる。"
+      },
+      {
+        "game": "xy-y",
+        "text": "せっし６０００どの　いきを　はきだし\nはげしく　あいてを　いかくする。\nメスが　むれの　こどもを　まもる。"
+      },
+      {
+        "game": "oras-or",
+        "text": "むれの　なかで　いちばん　おおきな\nほのおの　たてがみを　もつ　オスが\nリーダーとして　なかまを　ひきいる。"
+      },
+      {
+        "game": "oras-as",
+        "text": "せっし６０００どの　いきを　はきだし\nはげしく　あいてを　いかくする。\nメスが　むれの　こどもを　まもる。"
+      },
+      {
+        "game": "usum-us",
+        "text": "オスは　ふだん　だらだら　しているが\nきょうてきが　おそってくると　わがみを\nかえりみず　なかまを　まもるぞ。"
+      },
+      {
+        "game": "usum-um",
+        "text": "せっし　６０００どの　いきを　はくが\nえものには　つかわない。　にくは\nなまの　ほうが　このみ　だから。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Kaenjishi",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "화염레오",
+    "genus": "임금포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "무리 중에서 가장 커다란\n불꽃 갈기를 지닌 수컷이\n리더로서 동료들을 이끈다."
+      },
+      {
+        "game": "xy-y",
+        "text": "섭씨 6000도의 숨을 내뿜어\n격렬하게 상대를 위협한다.\n암컷이 무리의 새끼를 지킨다."
+      },
+      {
+        "game": "oras-or",
+        "text": "무리 중에서 가장 커다란\n불꽃 갈기를 지닌 수컷이\n리더로서 동료들을 이끈다."
+      },
+      {
+        "game": "oras-as",
+        "text": "섭씨 6000도의 숨을 내뿜어\n격렬하게 상대를 위협한다.\n암컷이 무리의 새끼를 지킨다."
+      },
+      {
+        "game": "usum-us",
+        "text": "수컷은 평소에 빈둥거리지만,\n강적이 덤벼들면 자신을\n돌보지 않고 동료를 지킨다."
+      },
+      {
+        "game": "usum-um",
+        "text": "섭씨 6000도의 숨결을 내뱉지만\n먹이에는 사용하지 않는다.\n고기는 날것을 좋아하기 때문이다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "火炎獅",
+    "genus": "王者寶可夢",
+    "flavorText": [
+      {
+        "game": "usum-us",
+        "text": "雄性平常十分懶散，\n但當有強敵來襲的時候，\n會奮不顧身地保護夥伴。"
+      },
+      {
+        "game": "usum-um",
+        "text": "能吐出攝氏６０００度的氣息，\n但不會用在獵物身上，\n因為牠比較喜歡吃生肉。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Némélios",
+    "genus": "Pokémon Royal",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Le mâle qui possède la crinière de feu la plus\nimposante devient le chef de la horde."
+      },
+      {
+        "game": "xy-y",
+        "text": "Son souffle peut atteindre les 6 000 °C et il s’en sert\npour intimider l’ennemi. Dans la horde, les femelles\nprotègent les petits."
+      },
+      {
+        "game": "oras-or",
+        "text": "Le mâle qui possède la crinière de feu la plus imposante\ndevient le chef de la horde."
+      },
+      {
+        "game": "oras-as",
+        "text": "Son souffle peut atteindre les 6 000 °C et il s’en sert pour\nintimider l’ennemi. Dans la horde, les femelles protègent\nles petits."
+      },
+      {
+        "game": "usum-us",
+        "text": "Le mâle a tendance à se prélasser à longueur\nde journée. Si un ennemi surgit, en revanche,\nil défend ses congénères au péril de sa vie."
+      },
+      {
+        "game": "usum-um",
+        "text": "Son souffle enflammé atteint les 6 000 °C,\nmais il ne l’utilise jamais contre ses proies.\nIl préfère en effet la viande crue."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Pyroleo",
+    "genus": "Monarch",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Das Männchen mit der prächtigsten Feuermähne\nführt das Rudel an."
+      },
+      {
+        "game": "xy-y",
+        "text": "Sie bedrohen ihre Gegner, indem sie 6 000 °C heiße\nAtemluft ausstoßen. Die Weibchen beschützen die\nJungen des Rudels."
+      },
+      {
+        "game": "oras-or",
+        "text": "Das Männchen mit der prächtigsten Feuermähne führt\ndas Rudel an."
+      },
+      {
+        "game": "oras-as",
+        "text": "Sie bedrohen ihre Gegner, indem sie 6 000 °C heiße Atemluft\nausstoßen. Die Weibchen beschützen die Jungen des Rudels."
+      },
+      {
+        "game": "usum-us",
+        "text": "Männliche Exemplare faulenzen die meiste Zeit.\nWird ihr Rudel von starken Gegnern angegriffen,\nverteidigen sie dieses jedoch mit ihrem Leben."
+      },
+      {
+        "game": "usum-um",
+        "text": "Es kann 6 000 °C heiße Atemluft ausstoßen,\ndie es jedoch nicht bei der Jagd verwendet.\nSeine Beute verspeist es nämlich lieber roh."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Pyroar",
+    "genus": "Pokémon Regio",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "El macho con la melena de fuego más grande de toda\nla manada es el líder de sus compañeros."
+      },
+      {
+        "game": "xy-y",
+        "text": "Intimida con ferocidad al enemigo exhalando su aliento\nabrasador a 6000 °C de temperatura. Las hembras\nprotegen a los cachorros de la manada."
+      },
+      {
+        "game": "oras-or",
+        "text": "El macho con la melena de fuego más grande de toda la\nmanada es el líder de sus compañeros."
+      },
+      {
+        "game": "oras-as",
+        "text": "Intimida con ferocidad al enemigo exhalando su aliento\nabrasador a 6000 °C de temperatura. Las hembras protegen\na los cachorros de la manada."
+      },
+      {
+        "game": "usum-us",
+        "text": "Por lo general, el macho suele ser un holgazán,\npero si aparece un enemigo poderoso, no duda\nen plantarle cara para proteger a los suyos."
+      },
+      {
+        "game": "usum-um",
+        "text": "Su aliento alcanza temperaturas de 6000 ºC,\naunque no lo emplea contra sus presas, ya que\nprefiere la carne más bien cruda."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Pyroar",
+    "genus": "Pokémon Reale",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Di solito, il maschio con la criniera fiammeggiante\npiù ampia guida i compagni del gruppo."
+      },
+      {
+        "game": "xy-y",
+        "text": "Minaccia furiosamente i nemici soffiando aria a una\ntemperatura che raggiunge i 6000 °C. Le femmine\nproteggono i piccoli del gruppo."
+      },
+      {
+        "game": "oras-or",
+        "text": "Di solito, il maschio con la criniera fiammeggiante più ampia\nguida i compagni del gruppo."
+      },
+      {
+        "game": "oras-as",
+        "text": "Minaccia furiosamente i nemici soffiando aria a una temperatura\nche raggiunge i 6000 °C. Le femmine proteggono i piccoli\ndel gruppo."
+      },
+      {
+        "game": "usum-us",
+        "text": "Di solito il maschio passa le giornate nell’ozio,\nma se compare un nemico temibile è pronto a\nrischiare la vita per proteggere i compagni."
+      },
+      {
+        "game": "usum-um",
+        "text": "Con il suo soffio, infiamma l’aria a una\ntemperatura di 6.000 °C, ma evita di farlo con\nle prede perché preferisce la carne cruda."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Pyroar",
+    "genus": "Royal Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "The male with the largest mane of fire\nis the leader of the pride."
+      },
+      {
+        "game": "xy-y",
+        "text": "With fiery breath of more than 10,000 degrees\nFahrenheit, they viciously threaten any challenger.\nThe females protect the pride’s cubs."
+      },
+      {
+        "game": "oras-or",
+        "text": "The male with the largest mane of fire\nis the leader of the pride."
+      },
+      {
+        "game": "oras-as",
+        "text": "With fiery breath of more than 10,000 degrees\nFahrenheit, they viciously threaten any challenger.\nThe females protect the pride’s cubs."
+      },
+      {
+        "game": "usum-us",
+        "text": "The males are usually lazy, but when attacked\nby a strong foe, a male will protect its friends\nwith no regard for its own safety."
+      },
+      {
+        "game": "usum-um",
+        "text": "The temperature of its breath is over 10,000\ndegrees Fahrenheit, but Pyroar doesn’t use it on\nits prey. This Pokémon prefers to eat raw meat."
+      }
+    ]
+  },
+  "chs": {
+    "name": "火炎狮",
+    "genus": "王者宝可梦",
+    "flavorText": [
+      {
+        "game": "usum-us",
+        "text": "雄性平时总是拖拖拉拉的，\n但如果有强敌来袭，\n就会不顾自身，保护伙伴。"
+      },
+      {
+        "game": "usum-um",
+        "text": "会吐出摄氏６０００度的气息，\n但不会用于猎物。\n因为更喜欢吃生的肉。"
+      }
+    ]
+  }
+}

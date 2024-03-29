@@ -1,0 +1,553 @@
+{
+  "jap": {
+    "name": "カビゴン",
+    "genus": "いねむりポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "１にちに　たべものを　４００キロ\nたべないと　きが　すまない。\nたべおわると　ねむってしまう。"
+      },
+      {
+        "game": "xy-y",
+        "text": "カビが　はえていても　くさっていても\nだいじょうぶ。カビゴンの　いぶくろは\nなんでも　しょうかできるのだ。"
+      },
+      {
+        "game": "oras-or",
+        "text": "たべて　ねての　くりかえしで　１にちが　おわる。\nおおきな　おなかの　うえを　あそびばに　している\nこどもたちも　いるほど　おとなしい　ポケモンだ。"
+      },
+      {
+        "game": "oras-as",
+        "text": "たべて　ねての　くりかえしで　１にちが　おわる。\nおおきな　おなかの　うえを　あそびばに　している\nこどもたちも　いるほど　おとなしい　ポケモンだ。"
+      },
+      {
+        "game": "sm-s",
+        "text": "さいきょうの　いぶくろを　もつと\nいわれる。　ベトベトンの　どくでさえ\nカビゴンの　したには　スパイスなのだ。"
+      },
+      {
+        "game": "sm-m",
+        "text": "まいにち　４００キロの　エサを　くう。\nくってるはじから　いねむりを　はじめ\nねむったままでも　くっている。"
+      },
+      {
+        "game": "usum-us",
+        "text": "くうか　ねるかしか　していないが\nなにかの　きっかけで　ほんきをだすと\nすごい　パワーを　はっきするらしい。"
+      },
+      {
+        "game": "usum-um",
+        "text": "たべること　いがいに　きょうみが\nない。　ひるねちゅうに　おなかのうえに\nのっかっても　まるで　きにしないぞ。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "たしょう　カビが　はえていても\nきにしないで　たべまくる。\nおなかを　こわしたりもしない。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "たしょう　カビが　はえていても\nきにしないで　たべまくる。\nおなかを　こわしたりもしない。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "１にちに　たべものを　４００キロ\nたべないと　きが　すまない。\nたべおわると　ねむってしまう。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "がんじょうな　いぶくろは　カビの\nはえたものや　くさったものを\nたべても　こわれることはない。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Kabigon",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "잠만보",
+    "genus": "졸음포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "하루에 먹을 것을 400kg\n먹지 않으면 성에 차지 않는다.\n다 먹으면 잠이 들어 버린다."
+      },
+      {
+        "game": "xy-y",
+        "text": "곰팡이가 피어 있거나 상했어도\n괜찮다. 잠만보의 위는\n무엇이든 소화시킬 수 있다."
+      },
+      {
+        "game": "oras-or",
+        "text": "먹고 자는 것을 반복하다 하루가 끝난다.\n큰 배 위를 놀이터로 삼은 아이들이\n있을 정도로 얌전한 포켓몬이다."
+      },
+      {
+        "game": "oras-as",
+        "text": "먹고 자는 것을 반복하다 하루가 끝난다.\n큰 배 위를 놀이터로 삼은 아이들이\n있을 정도로 얌전한 포켓몬이다."
+      },
+      {
+        "game": "sm-s",
+        "text": "최강의 위를 가졌다고\n전해진다. 질뻐기의 독조차\n잠만보의 혀에는 향신료인 셈이다."
+      },
+      {
+        "game": "sm-m",
+        "text": "매일 400kg의 먹이를 먹는다.\n먹기 시작할 때부터 졸기 시작하여\n자는 동안에도 먹고 있다."
+      },
+      {
+        "game": "usum-us",
+        "text": "먹거나 자는 것밖에 안 하지만\n일단 진심을 다하게 되면\n굉장한 파워를 발휘하는 듯하다."
+      },
+      {
+        "game": "usum-um",
+        "text": "먹는 것 외에는 관심이 없다.\n낮잠 중에 배 위에 올라타도\n전혀 신경 쓰지 않는다."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "약간 곰팡이가 피어 있어도\n신경 쓰지 않고 먹어 치운다.\n배탈이 나는 일도 없다."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "약간 곰팡이가 피어 있어도\n신경 쓰지 않고 먹어 치운다.\n배탈이 나는 일도 없다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "하루에 400kg의 음식을\n먹지 않으면 성에 차지 않는다.\n다 먹으면 잠이 들어 버린다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "위장이 튼튼해서\n곰팡이가 피거나 썩은 것을\n먹어도 배탈이 나지 않는다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "卡比獸",
+    "genus": "瞌睡寶可夢",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "據說擁有最強的胃袋。\n就連臭臭泥的毒對卡比獸的\n舌頭來說也只是調味料而已。"
+      },
+      {
+        "game": "sm-m",
+        "text": "每天要吃下４００公斤的食物。\n一開始吃就會打瞌睡，\n即使是睡著的狀態也會繼續吃。"
+      },
+      {
+        "game": "usum-us",
+        "text": "平常不是吃就是睡，但如果\n因某種原因認真起來的話，\n似乎就會發揮驚人的力量。"
+      },
+      {
+        "game": "usum-um",
+        "text": "就只對吃感興趣。\n當牠睡午覺時，就算站上牠的肚子，\n牠也絲毫不會在意。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "就算食物有點發霉，\n也會毫不在意地大吃特吃，\n從不會因此吃壞肚子。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "就算食物有點發霉，\n也會毫不在意地大吃特吃，\n從不會因此吃壞肚子。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "每天不吃下４００公斤的食物\n絕不會善罷甘休。\n吃飽了就會開始睡覺。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "擁有一個結實的胃，\n即使吃了發霉腐爛的東西，\n也完全不會吃壞肚子。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Ronflex",
+    "genus": "Pokémon Pionceur",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Une fois le ventre plein, il est trop\namorphe pour lever le petit doigt.\nSautez sur son ventre!"
+      },
+      {
+        "game": "bw-w",
+        "text": "Une fois le ventre plein, il est trop\namorphe pour lever le petit doigt.\nSautez sur son ventre!"
+      },
+      {
+        "game": "xy-x",
+        "text": "Ronflex n’est pas satisfait tant qu’il n’a pas avalé ses\n400 kg de nourriture quotidienne. Dès qu’il a fini de\nmanger, il commence une sieste pour digérer."
+      },
+      {
+        "game": "xy-y",
+        "text": "Son estomac peut digérer n’importe quel type de\nnourriture, même quand elle est moisie ou pourrie."
+      },
+      {
+        "game": "oras-or",
+        "text": "Les journées de Ronflex se résument aux repas et aux siestes.\nC’est un Pokémon tellement gentil que les enfants n’hésitent\npas à jouer sur son énorme ventre."
+      },
+      {
+        "game": "oras-as",
+        "text": "Les journées de Ronflex se résument aux repas et aux siestes.\nC’est un Pokémon tellement gentil que les enfants n’hésitent\npas à jouer sur son énorme ventre."
+      },
+      {
+        "game": "sm-s",
+        "text": "On dit que son estomac n’a pas d’égal.\nMême les toxines de Grotadmorv ne sont rien\nde plus qu’un assaisonnement épicé pour lui."
+      },
+      {
+        "game": "sm-m",
+        "text": "Il mange 400 kg de nourriture par jour.\nIl arrive que sa sieste commence pendant qu’il\nmange, mais il continue à manger même endormi."
+      },
+      {
+        "game": "usum-us",
+        "text": "Il ne fait pas grand-chose à part manger\net dormir, mais gare à lui quand il décide\nde passer à l’action !"
+      },
+      {
+        "game": "usum-um",
+        "text": "La seule chose qui l’intéresse, c’est manger.\nIl ne se réveille même pas si quelqu’un grimpe\nsur son ventre pendant qu’il fait une sieste."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Il peut tout manger, même de la nourriture\navariée. Il n’a jamais mal au ventre."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Il peut tout manger, même de la nourriture\navariée. Il n’a jamais mal au ventre."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Ronflex n’est pas satisfait tant qu’il n’a pas avalé\nses 400 kg de nourriture quotidienne. Dès qu’il\na fini, il commence une sieste pour digérer."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "L’estomac de ce Pokémon est si résistant\nqu’il peut même digérer de la nourriture avariée."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Relaxo",
+    "genus": "Tagträumer-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Es ist erst satt, wenn es über 400 kg Nahrung am\nTag gefressen hat. Ist es mit dem Essen fertig,\nschläft es sofort ein."
+      },
+      {
+        "game": "xy-y",
+        "text": "Sein Magen kann jede Art von Nahrung verdauen,\nselbst wenn sie verschimmelt und verdorben ist."
+      },
+      {
+        "game": "oras-or",
+        "text": "Der typische Tagesablauf von Relaxo besteht lediglich aus\nEssen und Schlafen. Es ist so zutraulich, dass Kinder seinen\ndicken Bauch als Platz zum Spielen nutzen."
+      },
+      {
+        "game": "oras-as",
+        "text": "Der typische Tagesablauf von Relaxo besteht lediglich aus\nEssen und Schlafen. Es ist so zutraulich, dass Kinder seinen\ndicken Bauch als Platz zum Spielen nutzen."
+      },
+      {
+        "game": "sm-s",
+        "text": "Es heißt, sein Magen sei an Widerstandsfähigkeit\nnicht zu übertreffen. Für Relaxo ist selbst das\nGift eines Sleimok nicht mehr als ein Würzstoff."
+      },
+      {
+        "game": "sm-m",
+        "text": "Es nimmt jeden Tag 400 kg an Nahrung zu sich.\nEs schläft beim Essen ein und frisst selbst im\nSchlaf noch weiter."
+      },
+      {
+        "game": "usum-us",
+        "text": "Wenn es nicht gerade frisst, dann schläft es.\nMacht es aber einmal Ernst, ist Schluss mit\nlustig."
+      },
+      {
+        "game": "usum-um",
+        "text": "Bei ihm geht es immer nur ums Fressen. Macht\nman es sich auf seinem Bauch bequem, während\nes döst, ist es ihm daher egal."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Relaxo verschlingt sogar Nahrung, auf der sich\netwas Schimmel gebildet hat. Trotzdem verdirbt\nes sich nie den Magen."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Relaxo verschlingt sogar Nahrung, auf der sich\netwas Schimmel gebildet hat. Trotzdem verdirbt\nes sich nie den Magen."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Es muss über 400 kg Nahrung am Tag fressen,\num satt zu werden. Ist es mit dem Essen fertig,\nschläft es sofort ein."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Der Magen dieses Pokémon ist so resistent,\ndass es sogar Verschimmeltes oder Verdorbenes\nessen kann."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Snorlax",
+    "genus": "Pokémon Dormir",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "No se encuentra satisfecho hasta que no se come\n400 kg de comida cada día. Cuando acaba de comer,\nse queda dormido."
+      },
+      {
+        "game": "xy-y",
+        "text": "Su estómago puede digerir todo tipo de comida,\nincluso si está podrida o mohosa."
+      },
+      {
+        "game": "oras-or",
+        "text": "Un día cualquiera en la vida de Snorlax consiste en comer y\ndormir. Es un Pokémon tan dócil que es fácil ver niños usando\nla gran panza que tiene como lugar de juegos."
+      },
+      {
+        "game": "oras-as",
+        "text": "Un día cualquiera en la vida de Snorlax consiste en comer y\ndormir. Es un Pokémon tan dócil que es fácil ver niños usando\nla gran panza que tiene como lugar de juegos."
+      },
+      {
+        "game": "sm-s",
+        "text": "Su estómago es exageradamente resistente.\nTanto que podría condimentar su comida con el\nveneno de Muk sin inmutarse."
+      },
+      {
+        "game": "sm-m",
+        "text": "Engulle 400 kg de comida a diario. Si le entra\nsueño cuando está alimentándose, sigue\ncomiendo mientras echa una cabezada."
+      },
+      {
+        "game": "usum-us",
+        "text": "Poco hace aparte de comer y dormir, pero\npuede desatar una fuerza arrolladora si le da\nun arrebato."
+      },
+      {
+        "game": "usum-um",
+        "text": "Solo piensa en comer y lo demás no le interesa.\nCuando duerme la siesta, no se inmuta ni aunque\nalguien se le tumbe en la barriga."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Engulle cualquier cosa, incluso comida mohosa,\nsin que esto le cause dolor de estómago."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Engulle cualquier cosa, incluso comida mohosa,\nsin que esto le cause dolor de estómago."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "No se encuentra satisfecho hasta haber ingerido\n400 kg de comida cada día. Cuando acaba de\ncomer, se queda dormido."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Este Pokémon tiene un estómago a prueba de\nbomba, por lo que es capaz de ingerir incluso\ncomida podrida o mohosa."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Snorlax",
+    "genus": "Pokémon Sonno",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Dopo aver trangugiato i suoi immancabili 400 kg di\ncibo quotidiani, cade in un sonno profondo."
+      },
+      {
+        "game": "xy-y",
+        "text": "Il suo stomaco riesce a digerire qualsiasi tipo di cibo,\nanche se marcio o ammuffito."
+      },
+      {
+        "game": "oras-or",
+        "text": "La giornata tipica di Snorlax consiste in nient’altro che\nmangiare e dormire. È un Pokémon così docile che\ni bambini usano la sua enorme pancia come parco giochi."
+      },
+      {
+        "game": "oras-as",
+        "text": "La giornata tipica di Snorlax consiste in nient’altro che\nmangiare e dormire. È un Pokémon così docile che\ni bambini usano la sua enorme pancia come parco giochi."
+      },
+      {
+        "game": "sm-s",
+        "text": "Sembra che abbia uno stomaco fortissimo.\nIl fluido tossico di Muk per lui è solo un\ncondimento un po’ speziato."
+      },
+      {
+        "game": "sm-m",
+        "text": "Ogni giorno mangia 400 kg di cibo.\nAppena inizia a mangiare, si addormenta, ma\ncontinua anche mentre dorme."
+      },
+      {
+        "game": "usum-us",
+        "text": "Non fa altro che mangiare e dormire, ma quando\ndecide di fare sul serio tira fuori una potenza\neccezionale."
+      },
+      {
+        "game": "usum-um",
+        "text": "Il suo unico interesse è il cibo. Quando fa\nla sua pennichella pomeridiana, non si accorge\nnemmeno se qualcuno gli sale sulla pancia."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Mangia qualsiasi cosa gli capiti a tiro, anche\nse ammuffita, senza mai soffrire di mal di pancia."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Mangia qualsiasi cosa gli capiti a tiro, anche\nse ammuffita, senza mai soffrire di mal di pancia."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Dopo aver trangugiato i suoi immancabili 400 kg\ndi cibo quotidiani, cade in un sonno profondo."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Ha uno stomaco così resistente che può\ningerire anche cibo ammuffito o avariato."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Snorlax",
+    "genus": "Sleeping Pokémon",
+    "flavorText": [
+      {
+        "game": "rb-r",
+        "text": "Very lazy. Just\neats and sleeps.\nAs its rotund\fbulk builds, it\nbecomes steadily\nmore slothful."
+      },
+      {
+        "game": "rb-b",
+        "text": "Very lazy. Just\neats and sleeps.\nAs its rotund\fbulk builds, it\nbecomes steadily\nmore slothful."
+      },
+      {
+        "game": "y",
+        "text": "Will eat anything,\neven if the food\nhappens to be a\flittle moldy. It\nnever gets an\nupset stomach."
+      },
+      {
+        "game": "gs-g",
+        "text": "What sounds like\nits cry may ac­\ntually be its\fsnores or the\nrumblings of its\nhungry belly."
+      },
+      {
+        "game": "gs-s",
+        "text": "Its stomach's di­\ngestive juices can\ndissolve any kind\fof poison. It can\neven eat things\noff the ground."
+      },
+      {
+        "game": "c",
+        "text": "This POKéMON's\nstomach is so\nstrong, even\feating moldy or\nrotten food will\nnot affect it."
+      },
+      {
+        "game": "rs-r",
+        "text": "SNORLAX’s typical day consists of\nnothing more than eating and sleeping.\nIt is such a docile POKéMON that there\fare children who use its expansive belly\nas a place to play."
+      },
+      {
+        "game": "rs-s",
+        "text": "SNORLAX’s typical day consists of\nnothing more than eating and sleeping.\nIt is such a docile POKéMON that there\fare children who use its expansive belly\nas a place to play."
+      },
+      {
+        "game": "e",
+        "text": "SNORLAX’s typical day consists of nothing\nmore than eating and sleeping. It is such\na docile POKéMON that there are children\nwho use its big belly as a place to play."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "It is not satisfied unless it eats over 880\npounds of food every day. When it is done\neating, it goes promptly to sleep."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "Very lazy. Just eats and sleeps. As its\nrotund bulk builds, it becomes steadily\nmore slothful."
+      },
+      {
+        "game": "dp-d",
+        "text": "Its stomach can digest any kind\nof food, even if it happens to be\nmoldy or rotten."
+      },
+      {
+        "game": "dp-p",
+        "text": "It stops eating only to sleep.\nIt doesn’t feel full unless it\neats nearly 900 pounds a day."
+      },
+      {
+        "game": "pt",
+        "text": "When its belly is full, it becomes\ntoo lethargic to even lift a finger,\nso it is safe to bounce on its belly."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "What sounds like its cry may\nactually be its snores or the\nrumblings of its hungry belly."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "Its stomach’s digestive juices can\ndissolve any kind of poison. It can\neven eat things off the ground."
+      },
+      {
+        "game": "bw-b",
+        "text": "When its belly is full, it becomes\ntoo lethargic to even lift a finger,\nso it is safe to bounce on its belly."
+      },
+      {
+        "game": "bw-w",
+        "text": "When its belly is full, it becomes\ntoo lethargic to even lift a finger,\nso it is safe to bounce on its belly."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "When its belly is full, it becomes\ntoo lethargic to even lift a finger,\nso it is safe to bounce on its belly."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "When its belly is full, it becomes\ntoo lethargic to even lift a finger,\nso it is safe to bounce on its belly."
+      },
+      {
+        "game": "xy-x",
+        "text": "It is not satisfied unless it eats over 880 pounds of\nfood every day. When it is done eating, it goes\npromptly to sleep."
+      },
+      {
+        "game": "xy-y",
+        "text": "Its stomach can digest any kind of food,\neven if it happens to be moldy or rotten."
+      },
+      {
+        "game": "oras-or",
+        "text": "Snorlax’s typical day consists of nothing more than eating and\nsleeping. It is such a docile Pokémon that there are children\nwho use its expansive belly as a place to play."
+      },
+      {
+        "game": "oras-as",
+        "text": "Snorlax’s typical day consists of nothing more than eating and\nsleeping. It is such a docile Pokémon that there are children\nwho use its expansive belly as a place to play."
+      },
+      {
+        "game": "sm-s",
+        "text": "Its stomach is said to be incomparably strong.\nEven Muk’s poison is nothing more than a hint of\nspice on Snorlax’s tongue."
+      },
+      {
+        "game": "sm-m",
+        "text": "It eats nearly 900 pounds of food every day.\nIt starts nodding off while eating—and continues\nto eat even while it’s asleep."
+      },
+      {
+        "game": "usum-us",
+        "text": "It doesn’t do anything other than eat and sleep.\nWhen prompted to make a serious effort,\nthough, it apparently displays awesome power."
+      },
+      {
+        "game": "usum-um",
+        "text": "It has no interest in anything other than eating.\nEven if you climb up on its stomach while it’s\nnapping, it doesn’t seem to mind at all!"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Will eat anything, even if the food happens to\nbe a little moldy. It never gets an upset stomach."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Will eat anything, even if the food happens to\nbe a little moldy. It never gets an upset stomach."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "It is not satisfied unless it eats over 880 pounds\nof food every day. When it is done eating, it\ngoes promptly to sleep."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "This Pokémon’s stomach is so strong, even eating\nmoldy or rotten food will not affect it."
+      },
+      {
+        "game": "la",
+        "text": "This glutton appears in villages without warning and devours the\nentirety of their rice granaries—such occurrences have long been\ncounted among the gravest of disasters."
+      }
+    ]
+  },
+  "chs": {
+    "name": "卡比兽",
+    "genus": "瞌睡宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "据说拥有最强的胃袋。\n就连臭臭泥的毒对卡比兽的\n舌头来说也只是调味料而已。"
+      },
+      {
+        "game": "sm-m",
+        "text": "每天要吃下４００公斤的食物。\n开吃之后，就会开始打瞌睡，\n即使是睡着的状态也会继续吃。"
+      },
+      {
+        "game": "usum-us",
+        "text": "平时不是吃就是睡，但如果因\n某些事而认真起来的话，\n好像就会发挥出惊人的力量。"
+      },
+      {
+        "game": "usum-um",
+        "text": "只对吃感兴趣。\n即便是在它睡午觉时跳到\n它肚子上，它也毫不在意。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "就算是有些发霉的食物\n也能毫不在意地吃完，\n并且完全不会吃坏肚子。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "就算是有些发霉的食物\n也能毫不在意地吃完，\n并且完全不会吃坏肚子。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "每天不吃上４００公斤的食物\n心里就不畅快。\n吃饱了就会开始睡觉。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "拥有一个结实的胃，\n即使吃了发霉腐烂的东西，\n也完全不会吃坏肚子。"
+      }
+    ]
+  }
+}

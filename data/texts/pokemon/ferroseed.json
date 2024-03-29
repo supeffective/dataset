@@ -1,0 +1,269 @@
+{
+  "jap": {
+    "name": "テッシード",
+    "genus": "とげのみポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "きけんを　さっちすると　トゲを\nいっせいに　はっしゃして　はんげき。\nその　すきに　ころがって　にげる。"
+      },
+      {
+        "game": "xy-y",
+        "text": "ほらあなの　てんじょうに　つきささり\nいわの　てつぶんを　すいとる。\nきけんがせまると　トゲを　うちだす。"
+      },
+      {
+        "game": "oras-or",
+        "text": "きけんを　さっちすると　トゲを\nいっせいに　はっしゃして　はんげき。\nその　すきに　ころがって　にげる。"
+      },
+      {
+        "game": "oras-as",
+        "text": "ほらあなの　てんじょうに　つきささり\nいわの　てつぶんを　すいとる。\nきけんがせまると　トゲを　うちだす。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "トゲを　とばして　みを　まもる。\nねらった　ほうこうに　とばすには\nたくさんの　くんれんが　ひつよう。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "こけむした　どうくつを　このむ。\nこけが　ふくむ　こうそが　トゲを\nおおきく　じょうぶに　はぐくむのだ。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Tesseed",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "철시드",
+    "genus": "가시열매포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "위험을 감지하면 가시를\n일제히 발사하여 반격한다.\n그 틈에 몸을 굴려 도망간다."
+      },
+      {
+        "game": "xy-y",
+        "text": "동굴 천장에 박혀서\n바위의 철분을 흡수한다.\n위험이 닥치면 바늘을 쏜다."
+      },
+      {
+        "game": "oras-or",
+        "text": "위험을 감지하면 가시를\n일제히 발사하여 반격한다.\n그 틈에 몸을 굴려 도망간다."
+      },
+      {
+        "game": "oras-as",
+        "text": "동굴 천장에 박혀서\n바위의 철분을 흡수한다.\n위험이 닥치면 바늘을 쏜다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "가시를 날려서 몸을 지킨다.\n원하는 방향으로 날리기 위해서는\n많은 훈련이 필요하다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "이끼 낀 동굴을 좋아한다.\n이끼에 함유된 효소가 가시를\n크고 튼튼하게 만들어준다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "種子鐵球",
+    "genus": "刺果寶可夢",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "會發射尖刺來保護自己。\n需要反覆訓練才能將\n尖刺準確地射中目標。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "偏愛長著青苔的洞窟。\n青苔中所含的酵素能使牠的\n尖刺成長得又大又結實。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Grindur",
+    "genus": "Pokémon Graine Épine",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Quand il sent un danger, il réagit en\nprojetant toutes ses épines d’un coup\net s’enfuit en roulant sur lui-même."
+      },
+      {
+        "game": "bw-w",
+        "text": "Il s’accroche aux parois des grottes\nà l’aide de ses épines et absorbe les\nminéraux contenus dans la roche."
+      },
+      {
+        "game": "xy-x",
+        "text": "Quand il sent un danger, il réagit en projetant toutes\nses épines d’un coup et s’enfuit en roulant sur\nlui-même."
+      },
+      {
+        "game": "xy-y",
+        "text": "Il s’accroche aux parois des grottes et en absorbe\nles minéraux. Il projette ses épines en cas de danger."
+      },
+      {
+        "game": "oras-or",
+        "text": "Quand il sent un danger, il réagit en projetant toutes\nses épines d’un coup et s’enfuit en roulant sur lui-même."
+      },
+      {
+        "game": "oras-as",
+        "text": "Il s’accroche aux parois des grottes et en absorbe\nles minéraux. Il projette ses épines en cas de danger."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Il se protège en projetant ses épines,\nmais il lui faut beaucoup d’entraînement\npour réussir à tirer dans une direction précise."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Il aime les grottes pleines de mousse.\nLes enzymes contenues dans ces plantes l’aident\nà obtenir des épines grandes et solides."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Kastadur",
+    "genus": "Dornfrucht-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Fühlt es sich bedroht, wehrt es sich, indem es\neine großzügige Salve Dornen abfeuert."
+      },
+      {
+        "game": "xy-y",
+        "text": "Hakt sich an der Decke von Höhlen fest und saugt\ndie Mineralien aus dem Gestein. Bei Gefahr feuert es\nDornen ab."
+      },
+      {
+        "game": "oras-or",
+        "text": "Fühlt es sich bedroht, wehrt es sich, indem es eine großzügige\nSalve Dornen abfeuert."
+      },
+      {
+        "game": "oras-as",
+        "text": "Hakt sich an der Decke von Höhlen fest und saugt die\nMineralien aus dem Gestein. Bei Gefahr feuert es Dornen ab."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Es schützt sich, indem es Dornen verschießt. Ein\nKastadur muss jahrelang trainieren, um präzise\nzielen zu können."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Es fühlt sich in moosbewachsenen Höhlen wohl.\nDie im Moos enthaltenen Enzyme lassen seine\nStacheln besonders groß und kräftig werden."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Ferroseed",
+    "genus": "Pokémon Fruto Espina",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Lanza numerosas púas al detectar peligro. En cuanto\ntiene ocasión, echa a rodar y se escapa."
+      },
+      {
+        "game": "xy-y",
+        "text": "Absorbe los componentes ferruginosos de las rocas al\ncolgarse del techo de las cuevas. Dispara púas si se\nve en peligro."
+      },
+      {
+        "game": "oras-or",
+        "text": "Lanza numerosas púas al detectar peligro. En cuanto tiene\nocasión, echa a rodar y se escapa."
+      },
+      {
+        "game": "oras-as",
+        "text": "Absorbe los componentes ferruginosos de las rocas al\ncolgarse del techo de las cuevas. Dispara púas si se ve\nen peligro."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Se defiende lanzando púas, pero para poder\napuntar con precisión a su objetivo necesita\ningentes sesiones de práctica."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Prefiere las cuevas de paredes musgosas, ya que\nlas enzimas contenidas en el musgo le permiten\ndesarrollar unas púas grandes y robustas."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Ferroseed",
+    "genus": "Pokémon Spinaseme",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Quando avverte un pericolo, reagisce sparando\nsimultaneamente tutti i suoi aculei, per poi fuggire\nvia rotolando."
+      },
+      {
+        "game": "xy-y",
+        "text": "Si conficca nelle pareti delle grotte e assorbe i\nminerali delle rocce. Quando avverte un pericolo,\nspara i suoi aculei."
+      },
+      {
+        "game": "oras-or",
+        "text": "Quando avverte un pericolo, reagisce sparando\nsimultaneamente tutti i suoi aculei, per poi fuggire\nvia rotolando."
+      },
+      {
+        "game": "oras-as",
+        "text": "Si conficca nelle pareti delle grotte e assorbe i minerali\ndelle rocce. Quando avverte un pericolo, spara i suoi aculei."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Si protegge sparando i suoi aculei, ma per\nriuscire a orientarli con precisione verso\nil bersaglio ha bisogno di allenarsi a lungo."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Predilige le grotte in cui cresce il muschio,\ni cui enzimi aiutano i suoi aculei a crescere\ngrandi e forti."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Ferroseed",
+    "genus": "Thorn Seed Pokémon",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "When threatened, it attacks by\nshooting a barrage of spikes, which gives\nit a chance to escape by rolling away."
+      },
+      {
+        "game": "bw-w",
+        "text": "They stick their spikes into cave\nwalls and absorb the minerals\nthey find in the rock."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "It absorbs the iron it finds in the\nrock while clinging to the ceiling.\nIt shoots spikes when in danger."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "It absorbs the iron it finds in the\nrock while clinging to the ceiling.\nIt shoots spikes when in danger."
+      },
+      {
+        "game": "xy-x",
+        "text": "When threatened, it attacks by shooting a barrage\nof spikes, which gives it a chance to escape by\nrolling away."
+      },
+      {
+        "game": "xy-y",
+        "text": "It absorbs the iron it finds in the rock while clinging\nto the ceiling. It shoots spikes when in danger."
+      },
+      {
+        "game": "oras-or",
+        "text": "When threatened, it attacks by shooting a barrage\nof spikes, which gives it a chance to escape by\nrolling away."
+      },
+      {
+        "game": "oras-as",
+        "text": "It absorbs the iron it finds in the rock while clinging\nto the ceiling. It shoots spikes when in danger."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "It defends itself by launching spikes, but its\naim isn’t very good at first. Only after a lot of\npractice will it improve."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Mossy caves are their preferred dwellings.\nEnzymes contained in mosses help Ferroseed’s\nspikes grow big and strong."
+      }
+    ]
+  },
+  "chs": {
+    "name": "种子铁球",
+    "genus": "刺果宝可梦",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "会发射尖刺来保护自己。\n需要反复训练才能将\n尖刺准确地射中目标。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "偏爱长着青苔的洞窟。\n青苔中所含的酶能使它的\n尖刺成长得又大又结实。"
+      }
+    ]
+  }
+}

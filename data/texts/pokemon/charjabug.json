@@ -1,0 +1,277 @@
+{
+  "jap": {
+    "name": "デンヂムシ",
+    "genus": "バッテリーポケモン",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "たいないに　ちくでんきのうを　もつ。\nキャンプの　ときなど　１ぴき　いると\nとても　ありがたい　ポケモンだ。"
+      },
+      {
+        "game": "sm-m",
+        "text": "くらった　エサを　しょうか　するとき\nはっせいした　でんきエネルギーを\nでんきぶくろに　ためこんでいる。"
+      },
+      {
+        "game": "usum-us",
+        "text": "おちばに　うまり　ほとんど　うごかず\nひたすら　ふようどを　くっている。\nまちがって　ふむと　ビリビリするぞ。"
+      },
+      {
+        "game": "usum-um",
+        "text": "おそわれても　がんじょうな　カラで\nまもりに　てっする。　しつこい\nあいてには　でんきで　はんげき。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "がんじょうな　カラで　みを　まもる。\nアゴの　せんたんから　でんきを\nながして　はんげきする。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "たべた　おちばを　しょうかするとき\nはつでんする　しくみ。　おなかの\nでんきぶくろに　じゅうでんされる。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Dendimushi",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "전지충이",
+    "genus": "배터리포켓몬",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "체내에 축전 기능을 갖추고 있다.\n캠핑할 때 1마리 있으면\n아주 고마운 포켓몬이다."
+      },
+      {
+        "game": "sm-m",
+        "text": "먹은 먹이를 소화할 때\n발생하는 전기 에너지를\n전기 주머니에 저장하고 있다."
+      },
+      {
+        "game": "usum-us",
+        "text": "낙엽에 묻혀 거의 움직이지 않고\n그저 부엽토만 먹는다.\n잘못 밟으면 찌릿찌릿하다."
+      },
+      {
+        "game": "usum-um",
+        "text": "공격을 받아도 튼튼한 껍질로\n철저히 방어한다. 끈질긴\n상대에게는 전기로 반격한다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "튼튼한 껍질로 몸을 보호한다.\n턱의 끝부분에서 전기를\n흘려보내 반격한다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "먹은 낙엽을 소화할 때 전기가\n발생하는 구조로 되어 있다.\n배의 전기 주머니에 충전된다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "蟲電寶",
+    "genus": "蓄電池寶可夢",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "擁有在體內蓄電的能力。\n露營的時候有１隻這種寶可夢在的話，\n是非常值得慶幸的。"
+      },
+      {
+        "game": "sm-m",
+        "text": "吃下食物後進行消化時\n產生的電能會被儲藏在電力袋中。"
+      },
+      {
+        "game": "usum-us",
+        "text": "埋在落葉堆裡幾乎不動，\n只是不斷地吃著腐葉土。\n如果不小心踩到牠就會被電到。"
+      },
+      {
+        "game": "usum-um",
+        "text": "即使遭到襲擊也會用\n堅固的外殼貫徹守勢。\n遇到糾纏不休的對手時會用電來反擊。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "用結實的外殼保護自己。\n會從顎部的尖端\n放出電流反擊對手。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "蟲電寶消化吃掉的落葉時\n會產生電能。牠會把這些電能\n儲存在自己肚子上的電囊中。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Chrysapile",
+    "genus": "Pokémon Batterie",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "Avec son corps capable de stocker l’électricité\ncomme une batterie, il a déjà sauvé la mise à\nplus d’un campeur peu prévoyant."
+      },
+      {
+        "game": "sm-m",
+        "text": "Son processus de digestion produit de\nl’électricité, qui est immédiatement stockée\ndans une poche prévue à cet effet."
+      },
+      {
+        "game": "usum-us",
+        "text": "Il passe son temps à manger du terreau, tapi\nsans bouger sous les feuilles mortes. Gare\nà la décharge si vous lui marchez dessus !"
+      },
+      {
+        "game": "usum-um",
+        "text": "Sa solide carapace lui sert de protection en\ncas d’attaque. Si un ennemi s’acharne, il riposte\navec une décharge électrique."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Il est bien protégé par sa robuste carapace,\net se défend en générant un courant électrique\nau bout de ses mandibules."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Il possède une poche dans laquelle il emmagasine\nl’électricité qu’il produit en digérant des feuilles\nmortes."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Akkup",
+    "genus": "Batterie-Pokémon",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "Speichert Elektrizität in seinem Körper.\nBei einem Campingausflug kann man wohl kein\npraktischeres Pokémon dabeihaben!"
+      },
+      {
+        "game": "sm-m",
+        "text": "Beim Verdauen der Nahrung entsteht\nelektrische Energie, die es in seinem\nStrombeutel speichert."
+      },
+      {
+        "game": "usum-us",
+        "text": "Es vergräbt sich unter Blättern, wo es nahezu\nregungslos verharrt und Humus frisst. Tritt man\nversehentlich auf es, verteilt es Stromschläge."
+      },
+      {
+        "game": "usum-um",
+        "text": "Wird es angegriffen, gewährt ihm sein robuster\nPanzer hervorragenden Schutz. Hartnäckige\nGegner greift es mit Elektro-Attacken an."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Es schützt sich mithilfe seines robusten Panzers.\nDurch die Spitzen an seinem Kiefer leitet es\nStrom, mit dem es sich gegen Angreifer wehrt."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Gefressenes Laub verwandelt es während der\nVerdauung in elektrische Energie, die in einem\nStrombeutel in seinem Magen gespeichert wird."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Charjabug",
+    "genus": "Pokémon Batería",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "Almacena electricidad en su cuerpo, lo que\npuede resultar útil en numerosas situaciones,\ncomo al salir de acampada."
+      },
+      {
+        "game": "sm-m",
+        "text": "Al hacer la digestión genera energía eléctrica\nque almacena en la bolsa que posee para tal\nefecto."
+      },
+      {
+        "game": "usum-us",
+        "text": "Escondido bajo la hojarasca, permanece casi\ninmóvil mientras come humus con fruición. Quien\nlo pisa en un descuido se lleva una descarga."
+      },
+      {
+        "game": "usum-um",
+        "text": "Cuando lo atacan, se protege con su robusto\ncaparazón. Si el rival lo sigue atosigando, le\nsuelta una descarga eléctrica."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Se protege el cuerpo con un robusto caparazón.\nContraataca liberando corriente eléctrica por\nla punta de las mandíbulas."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Al digerir la hojarasca de la que se alimenta,\ngenera energía eléctrica que almacena en la\nbolsa que posee para tal efecto."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Charjabug",
+    "genus": "Pokémon Batteria",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "Può immagazzinare elettricità all’interno del\ncorpo. Per questo la sua compagnia è utile\nquando si va in campeggio."
+      },
+      {
+        "game": "sm-m",
+        "text": "Genera energia elettrica durante la digestione\ne la conserva in una sacca interna."
+      },
+      {
+        "game": "usum-us",
+        "text": "Si nasconde tra le foglie cadute a terra e rimane\nimmobile nutrendosi esclusivamente di humus.\nChi lo pesta per sbaglio prende la scossa."
+      },
+      {
+        "game": "usum-um",
+        "text": "Il suo robusto esoscheletro lo protegge dagli\nattacchi. Se il nemico non molla, contrattacca\ncon scariche elettriche."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "È protetto da un robusto esoscheletro.\nContrattacca con l’elettricità che rilascia\ndalle punte che ha sulla mandibola."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Produce energia tramite la digestione delle\nfoglie morte di cui si nutre e la conserva\nnella sacca apposita che ha nel ventre."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Charjabug",
+    "genus": "Battery Pokémon",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "Its body is capable of storing electricity. On\ncamping trips, people are grateful to have\none around."
+      },
+      {
+        "game": "sm-m",
+        "text": "From the food it digests, it generates electricity,\nand it stores this energy in its electric sac."
+      },
+      {
+        "game": "usum-us",
+        "text": "It buries itself in fallen leaves and barely\nmoves, munching away on humus. If you\naccidentally step on one, you’ll get a shock!"
+      },
+      {
+        "game": "usum-um",
+        "text": "Its stout shell provides excellent defense from\nattacks. It uses electricity on\npersistent opponents."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "While its durable shell protects it from attacks,\nCharjabug strikes at enemies with jolts of\nelectricity discharged from the tips of its jaws."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Its digestive processes convert the leaves it eats\ninto electricity. An electric sac in its belly stores\nthe electricity for later use."
+      }
+    ]
+  },
+  "chs": {
+    "name": "虫电宝",
+    "genus": "蓄电池宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "拥有在体内蓄电的能力。\n露营等时候有１只这种宝可梦的话，\n会非常值得庆幸。"
+      },
+      {
+        "game": "sm-m",
+        "text": "会将消化吃下的食物时\n所产生的电能储藏在电力袋中。"
+      },
+      {
+        "game": "usum-us",
+        "text": "埋在落叶里一动不动，\n专心致志地吃着腐叶土。\n如果不小心错踩到它，就会被电到。"
+      },
+      {
+        "game": "usum-um",
+        "text": "即使被袭击也会一直用\n结实的外壳保护自己。\n会用电反击纠缠不休的对手。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "用结实的外壳保护自己。\n会从颚部的尖端\n放出电流反击对手。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "虫电宝消化吃掉的落叶时\n会产生电能。它会把这些电能\n储存在自己肚子上的电囊中。"
+      }
+    ]
+  }
+}

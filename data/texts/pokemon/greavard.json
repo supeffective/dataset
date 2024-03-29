@@ -1,0 +1,61 @@
+{
+  "jap": {
+    "name": "ボチ",
+    "genus": "おばけいぬポケモン",
+    "flavorText": []
+  },
+  "jap_ro": {
+    "name": "Bochi",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "망망이",
+    "genus": "",
+    "flavorText": []
+  },
+  "cht": {
+    "name": "墓仔狗",
+    "genus": "鬼犬寶可夢",
+    "flavorText": []
+  },
+  "fra": {
+    "name": "Toutombe",
+    "genus": "",
+    "flavorText": []
+  },
+  "deu": {
+    "name": "Gruff",
+    "genus": "Geisterhund",
+    "flavorText": []
+  },
+  "esp": {
+    "name": "Greavard",
+    "genus": "",
+    "flavorText": []
+  },
+  "ita": {
+    "name": "Greavard",
+    "genus": "",
+    "flavorText": []
+  },
+  "eng": {
+    "name": "Greavard",
+    "genus": "Ghost Dog Pokémon",
+    "flavorText": [
+      {
+        "game": "sv-s",
+        "text": "It is said that a dog Pokémon that died in the wild without ever interacting with a human was reborn as this Pokémon."
+      },
+      {
+        "game": "sv-v",
+        "text": "This friendly Pokémon doesn’t like being alone. Pay it even the slightest bit of attention, and it will follow you forever."
+      }
+    ]
+  },
+  "chs": {
+    "name": "墓仔狗",
+    "genus": "鬼犬宝可梦",
+    "flavorText": []
+  }
+}

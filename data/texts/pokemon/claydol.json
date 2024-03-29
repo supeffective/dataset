@@ -1,0 +1,381 @@
+{
+  "jap": {
+    "name": "ネンドール",
+    "genus": "どぐうポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "こだいの　どろにんぎょうが\nかいこうせんを　あびたことで\nいのちが　やどり　ポケモンとなった。"
+      },
+      {
+        "game": "xy-y",
+        "text": "２まんねんまえの　こだいじんが\nドロで　つくった　にんぎょうに\nいのちが　やどったと　いわれている。"
+      },
+      {
+        "game": "oras-or",
+        "text": "こだいじんの　どろにんぎょうが　かいこうせんを\nあびて　せいめいを　やどしたと　いわれている。\nくうちゅうに　ういて　いどうしている。"
+      },
+      {
+        "game": "oras-as",
+        "text": "２まんねんまえに　さかえた　こだい　ぶんめいの\nどろにんぎょうから　うまれた　ナゾの　ポケモン。\nりょうてから　ビームを　はっしゃするぞ。"
+      },
+      {
+        "game": "usum-us",
+        "text": "ぬれると　からだが　とけてしまう。\nあめが　ふってくると　サイコパワーで\nぜんしんを　つつんで　まもる。"
+      },
+      {
+        "game": "usum-um",
+        "text": "こだいじんが　そらから　おりてきた\nなにかを　もして　つくったらしい。\nりょううで　から　ビームを　はなつ。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "２まんねんまえの　こだいじんが\nつくった　ドロにんぎょうから\nうまれたらしい　ナゾの　ポケモン。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "こだいじんの　どろにんぎょうから\nうまれたらしい。　ねんりきを　つかい\nくうちゅうに　ういて　いどうする。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Nendoll",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "점토도리",
+    "genus": "토우포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "고대의 진흙인형이 괴이한\n광선을 쬐어 생명이 깃들면서\n포켓몬이 되었다."
+      },
+      {
+        "game": "xy-y",
+        "text": "2만 년 전에 고대인이\n진흙으로 만든 인형에\n생명이 깃들었다고 한다."
+      },
+      {
+        "game": "oras-or",
+        "text": "괴이한 광선을 쬔 고대인의 진흙인형에\n생명이 깃들었다고 전해진다.\n공중에 떠서 이동하고 있다."
+      },
+      {
+        "game": "oras-as",
+        "text": "2만 년 전에 번창한 고대 문명의\n진흙 인형에서 태어난 수수께끼의 포켓몬이다.\n양손에서 빔을 발사한다."
+      },
+      {
+        "game": "usum-us",
+        "text": "젖으면 몸이 녹아버린다.\n비가 오면 사이코 파워로\n전신을 감싸서 지킨다."
+      },
+      {
+        "game": "usum-um",
+        "text": "고대인이 하늘에서 내려온\n무언가를 본떠서 만들었다고 한다.\n양팔에서 빔을 발사한다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "2만 년 전 고대인이\n만든 진흙인형에서\n태어난 듯한 의문의 포켓몬."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "고대인의 진흙인형에서\n태어난 것 같다. 염력을\n사용해 공중을 떠다닌다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "念力土偶",
+    "genus": "泥偶寶可夢",
+    "flavorText": [
+      {
+        "game": "usum-us",
+        "text": "一旦被淋濕身體就會溶解，\n所以下雨時牠會用精神力量\n包住全身來保護自己。"
+      },
+      {
+        "game": "usum-um",
+        "text": "似乎是古代人模仿從天而降的\n某種東西而製造的。\n會從雙臂發射出光束。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "似乎是由２萬年前的\n古代人製作的泥偶\n蛻變而來的謎之寶可夢。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "似乎是從古代人做的\n泥偶誕生而來的寶可夢。\n能靠念力飄浮在空中移動。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Kaorine",
+    "genus": "Pokémon Poupargile",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Une ancienne figurine d’argile qui \ns’est animée suite à son exposition\nà un rayon de lumière étrange."
+      },
+      {
+        "game": "bw-w",
+        "text": "Une ancienne figurine d’argile qui \ns’est animée suite à son exposition\nà un rayon de lumière étrange."
+      },
+      {
+        "game": "xy-x",
+        "text": "Une ancienne figurine d’argile qui s’est animée suite à\nson exposition à un rayon de lumière étrange."
+      },
+      {
+        "game": "xy-y",
+        "text": "Une figurine d’argile fabriquée par une civilisation\nvieille de 20 000 ans et amenée à la vie."
+      },
+      {
+        "game": "oras-or",
+        "text": "On raconte que les Kaorine sont des poupées de boue créées\npar les premiers hommes et qu’elles furent amenées à la vie\naprès une exposition à un mystérieux rayon.\nCe Pokémon se déplace en lévitant."
+      },
+      {
+        "game": "oras-as",
+        "text": "Kaorine est un mystérieux Pokémon apparu sous la forme\nd’une statue en argile fabriquée par une civilisation vieille\nde plus de 20 000 ans. Ce Pokémon envoie des rayons\navec ses mains."
+      },
+      {
+        "game": "usum-us",
+        "text": "Il fond au moindre contact avec l’eau et doit\ndonc entourer son corps d’énergie psychique\npour se protéger les jours de pluie."
+      },
+      {
+        "game": "usum-um",
+        "text": "Il aurait été fabriqué par une civilisation\nancienne, sur le modèle d’un objet mystérieux\ntombé du ciel. Ses bras peuvent tirer des lasers."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Ce Pokémon mystérieux serait né d’une figurine\nd’argile vieille de près de 20 000 ans."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Ce Pokémon aurait été créé à partir d’une poupée\nd’argile confectionnée par une ancienne\ncivilisation. Il se déplace en lévitant."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Lepumentas",
+    "genus": "Lehmpuppen-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Eine antike Lehmstatue, die durch ein mysteriöses\nLicht zum Leben erwacht ist."
+      },
+      {
+        "game": "xy-y",
+        "text": "In die Puppe, die Menschen vor 20 000 Jahren aus\nLehm formten, ist anscheinend Leben eingefahren."
+      },
+      {
+        "game": "oras-or",
+        "text": "Lepumentas sind aus Schlamm gefertigte Puppen, die von\nprimitiven Menschen hergestellt und durch mysteriöse Strahlen\nzum Leben erweckt wurden. Diese Pokémon bewegen sich\nschwebend fort."
+      },
+      {
+        "game": "oras-as",
+        "text": "Lepumentas ist auf mysteriöse Weise aus einer Tonstatue\nentstanden, die vor 20 000 Jahren von einer antiken\nZivilisation geschaffen wurde. Dieses Pokémon verschießt\nStrahlen aus beiden Händen."
+      },
+      {
+        "game": "usum-us",
+        "text": "Wenn es nass wird, schmilzt es. Fängt es an zu\nregnen, errichtet es mit seinen Psycho-Kräften\neine schützende Hülle um seinen Körper."
+      },
+      {
+        "game": "usum-um",
+        "text": "Menschen der Urzeit haben es als Nachbildung\nvon etwas, das vom Himmel kam, hergestellt.\nEs verschießt Strahlen aus beiden Händen."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Dieses rätselhafte Pokémon ist aus einer\nLehmpuppe entstanden, die vor 20 000 Jahren\nvon einem uralten Volk angefertigt wurde."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Es scheint, sein Ursprung geht auf altertümliche\nLehmpuppen zurück. Durch Telekinese kann es\nschweben und sich bewegen."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Claydol",
+    "genus": "Pokémon Muñeca Barro",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Este Pokémon es una vieja figurilla de barro que cobró\nvida mediante la exposición a extraños rayos de luz."
+      },
+      {
+        "game": "xy-y",
+        "text": "Dicen que es una figurilla de barro elaborada por una\ncivilización de hace 20 000 años que cobró vida."
+      },
+      {
+        "game": "oras-or",
+        "text": "Se cree que los Claydol son figuras de barro hechas por\nhumanos primitivos y que un misterioso rayo les hizo cobrar\nvida. Este Pokémon se desplaza levitando."
+      },
+      {
+        "game": "oras-as",
+        "text": "Claydol es un enigma, una figura de barro procedente de una\ncivilización antigua de hace más de 20 000 años. Este\nPokémon dispara rayos por las manos."
+      },
+      {
+        "game": "usum-us",
+        "text": "Su cuerpo se disuelve si se moja, razón por la\nque emplea su poder psíquico para crear una\nbarrera a su alrededor los días de lluvia."
+      },
+      {
+        "game": "usum-um",
+        "text": "Se cree que fue creado por humanos primitivos\nque tomaron como modelo algo caído del cielo.\nDispara rayos por las manos."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Al parecer, este misterioso Pokémon nació a\npartir de una figurilla de barro creada por una\ncivilización de hace más de 20 000 años."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Dicen que surgió de una figurilla de barro hecha\npor una antigua civilización. Usa telequinesia\npara levitar y moverse."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Claydol",
+    "genus": "Pokémon Argilla",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Pokémon nato da un’antica statuetta d’argilla\nportata in vita da misteriose radiazioni."
+      },
+      {
+        "game": "xy-y",
+        "text": "Si tramanda che sia una statuetta d’argilla creata\ndagli antichi 20.000 anni fa che ha preso vita."
+      },
+      {
+        "game": "oras-or",
+        "text": "Pare che Claydol sia una bambola d’argilla creata dall’uomo\nprimitivo e portata in vita grazie all’esposizione a misteriose\nradiazioni. Questo Pokémon si muove per levitazione."
+      },
+      {
+        "game": "oras-as",
+        "text": "Claydol rimane ancora un mistero: comparve da una statua\nd’argilla creata da un popolo antico 20.000 anni fa. Questo\nPokémon emette radiazioni dai propri arti superiori."
+      },
+      {
+        "game": "usum-us",
+        "text": "Se si bagna, si scioglie. Quando piove,\nsi protegge usando i suoi poteri psichici."
+      },
+      {
+        "game": "usum-um",
+        "text": "Sembra che sia stato creato da un popolo antico\nispirandosi a qualcosa di misterioso caduto\ndal cielo. Emette raggi dagli arti superiori."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Un Pokémon enigmatico nato da una statuetta\nd’argilla costruita dagli antichi 20.000 anni\nor sono."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Pare che sia nato da un’antica bambola\ndi argilla. Si sposta levitando a mezz’aria\ngrazie alla telecinesi."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Claydol",
+    "genus": "Clay Doll Pokémon",
+    "flavorText": [
+      {
+        "game": "rs-r",
+        "text": "CLAYDOL are said to be dolls of mud made\nby primitive humans and brought to life\nby exposure to a mysterious ray.\fThis POKéMON moves about while\nlevitating."
+      },
+      {
+        "game": "rs-s",
+        "text": "CLAYDOL is an enigma that appeared\nfrom a clay statue made by an ancient\ncivilization dating back 20,000 years.\fThis POKéMON shoots beams from both\nits hands."
+      },
+      {
+        "game": "e",
+        "text": "A CLAYDOL sleeps while hovering in midair.\nIts arms are separate from its body.\nThey are kept floating by the POKéMON’s\nmanipulation of psychic power."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "It appears to have been born from clay\ndolls made by ancient people. It uses\ntelekinesis to float and move."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "It appears to have been born from clay\ndolls made by ancient people. It uses\ntelekinesis to float and move."
+      },
+      {
+        "game": "dp-d",
+        "text": "An ancient clay figurine that came\nto life as a Pokémon from exposure\nto a mysterious ray of light."
+      },
+      {
+        "game": "dp-p",
+        "text": "An ancient clay figurine that came\nto life as a Pokémon from exposure\nto a mysterious ray of light."
+      },
+      {
+        "game": "pt",
+        "text": "An ancient clay figurine that came\nto life as a Pokémon from exposure\nto a mysterious ray of light."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "It is said that it originates from clay\ndolls made by an ancient civilization."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "It is said that it originates from clay\ndolls made by an ancient civilization."
+      },
+      {
+        "game": "bw-b",
+        "text": "An ancient clay figurine that came\nto life as a Pokémon from exposure\nto a mysterious ray of light."
+      },
+      {
+        "game": "bw-w",
+        "text": "An ancient clay figurine that came\nto life as a Pokémon from exposure\nto a mysterious ray of light."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "This mysterious Pokémon started life\nas an ancient clay figurine made over\n20,000 years ago."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "This mysterious Pokémon started life\nas an ancient clay figurine made over\n20,000 years ago."
+      },
+      {
+        "game": "xy-x",
+        "text": "An ancient clay figurine that came to life as a\nPokémon from exposure to a mysterious ray\nof light."
+      },
+      {
+        "game": "xy-y",
+        "text": "It is said that it originates from clay dolls made by\nan ancient civilization."
+      },
+      {
+        "game": "oras-or",
+        "text": "Claydol are said to be dolls of mud made by primitive humans\nand brought to life by exposure to a mysterious ray.\nThis Pokémon moves about while levitating."
+      },
+      {
+        "game": "oras-as",
+        "text": "Claydol is an enigma that appeared from a clay statue made by\nan ancient civilization dating back 20,000 years. This Pokémon\nshoots beams from both its hands."
+      },
+      {
+        "game": "usum-us",
+        "text": "If it gets wet, its body melts. When rain starts\nto fall, it wraps its whole body up with its\npsychic powers to protect itself."
+      },
+      {
+        "game": "usum-um",
+        "text": "The ancient people who made it apparently\nmodeled it after something that descended\nfrom the sky. It fires beams from both arms."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "This mysterious Pokémon started life as an ancient\nclay figurine made over 20,000 years ago."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "It appears to have been born from clay dolls\nmade by ancient people. It uses telekinesis to\nfloat and move."
+      }
+    ]
+  },
+  "chs": {
+    "name": "念力土偶",
+    "genus": "泥偶宝可梦",
+    "flavorText": [
+      {
+        "game": "usum-us",
+        "text": "如果淋湿，身体就会溶解掉。\n所以下雨时会用精神力量\n包住全身，保护自己。"
+      },
+      {
+        "game": "usum-um",
+        "text": "好像是古代人模仿\n从天而降的某物制作而成。\n会从双臂发射出光束。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "似乎是由２万年前的\n古代人制作的泥偶\n蜕变而来的谜之宝可梦。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "似乎是从古代人做的\n泥偶诞生而来的宝可梦。\n能靠念力浮在空中移动。"
+      }
+    ]
+  }
+}

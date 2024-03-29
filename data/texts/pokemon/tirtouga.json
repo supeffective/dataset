@@ -1,0 +1,413 @@
+{
+  "jap": {
+    "name": "プロトーガ",
+    "genus": "こだいがめポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "およそ　１おくねんまえの　うみを\nおよいでいた。りくちへ　あがって\nえものに　おそいかかる　こともある。"
+      },
+      {
+        "game": "xy-y",
+        "text": "こだいの　かせきから　ふっかつした。\nふかさ　１０００メートルまで\nせんすいすることが　できる。"
+      },
+      {
+        "game": "oras-or",
+        "text": "およそ　１おくねんまえの　うみを\nおよいでいた。りくちへ　あがって\nえものに　おそいかかる　こともある。"
+      },
+      {
+        "game": "oras-as",
+        "text": "こだいの　かせきから　ふっかつした。\nふかさ　１０００メートルまで\nせんすいすることが　できる。"
+      },
+      {
+        "game": "sm-s",
+        "text": "こっかくを　しらべるかぎり　およそ\n１０００メートルの　しんかいまで\nもぐっていくことが　できたようだ。"
+      },
+      {
+        "game": "sm-m",
+        "text": "おおくの　かめポケモンの　せんぞと\nいわれる。　やく１おくねんまえの\nあたたかい　うみに　すんでいた。"
+      },
+      {
+        "game": "usum-us",
+        "text": "こだいの　かせきから　ふっかつ。\nうみに　くらしていたが　えものを\nさがして　りくにも　あがっていた。"
+      },
+      {
+        "game": "usum-um",
+        "text": "ふかさ　１０００メートルの\nしんかいから　りくち　まで　ひろい\nはんいを　かりばに　していた。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "こだいの　うみに　すんでいた。\nはいずることしか　できないが\nえもののために　りくにも　あがる。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "おおくの　かめポケモンの　せんぞと\nかんがえられている　ポケモン。\nかせきから　ふくげん　された。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Protoga",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "프로토가",
+    "genus": "옛날거북포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "약 1억 년 전 바다를\n헤엄쳐 다녔다. 육지에 올라\n먹이를 덮치는 일도 있다."
+      },
+      {
+        "game": "xy-y",
+        "text": "고대 화석에서 부활했다.\n1000m 깊이까지\n잠수할 수 있다."
+      },
+      {
+        "game": "oras-or",
+        "text": "약 1억 년 전 바다를\n헤엄쳐 다녔다. 육지에 올라\n먹이를 덮치는 일도 있다."
+      },
+      {
+        "game": "oras-as",
+        "text": "고대 화석에서 부활했다.\n1000m 깊이까지\n잠수할 수 있다."
+      },
+      {
+        "game": "sm-s",
+        "text": "골격을 조사해보니\n약 1000m의 심해까지\n잠수할 수 있었던 것 같다."
+      },
+      {
+        "game": "sm-m",
+        "text": "많은 거북포켓몬의 조상이라\n전해진다. 약 1억 년 전의\n따뜻한 바다에서 살았다."
+      },
+      {
+        "game": "usum-us",
+        "text": "고대 화석에서 부활했다.\n바다에 살고 있었지만, 먹이를\n찾아 지상으로 올라왔다."
+      },
+      {
+        "game": "usum-um",
+        "text": "수심 1000m의 심해에서\n육지에 이르기까지\n넓은 범위를 사냥터로 삼았다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "고대의 바다에 살았다.\n기어 다니는 것만 가능하지만\n먹이를 위해서는 육지에 오르기도 한다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "많은 거북포켓몬의 선조로\n여겨지고 있는 포켓몬이다.\n화석에서 복원되었다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "原蓋海龜",
+    "genus": "古代龜寶可夢",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "根據對其骨骼的調查結果，\n牠好像能潛水到大約\n１０００米的深海之中。"
+      },
+      {
+        "game": "sm-m",
+        "text": "據說是大部分龜寶可夢的祖先。\n曾經生活在大約１億年前的\n溫暖大海裡。"
+      },
+      {
+        "game": "usum-us",
+        "text": "從古代的化石復活而來。\n當時是生活在海裡，\n但也會到陸地上來尋找獵物。"
+      },
+      {
+        "game": "usum-um",
+        "text": "從１０００公尺深的深海\n一直到陸地上的廣大範圍\n都曾經是牠的獵場。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "曾經棲息在古代的海洋裡。\n雖然只能爬行，但是為了\n尋找獵物也會到陸地上來。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "從化石復原的寶可夢。\n被認為是許多的\n龜寶可夢的祖先。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Carapagos",
+    "genus": "Pokémon Tortantique",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Il a été recréé à partir d’un fossile\npréhistorique. Il peut plonger jusqu’à\n1 000 mètres de profondeur."
+      },
+      {
+        "game": "bw-w",
+        "text": "Il nageait dans les océans il y a 100\nmillions d’années. Il lui arrive de rallier\nla terre ferme pour attaquer ses proies."
+      },
+      {
+        "game": "xy-x",
+        "text": "Il nageait dans les océans il y a 100 millions\nd’années. Il lui arrive de rallier la terre ferme pour\nattaquer ses proies."
+      },
+      {
+        "game": "xy-y",
+        "text": "Il a été recréé à partir d’un fossile préhistorique.\nIl peut plonger jusqu’à 1 000 mètres de profondeur."
+      },
+      {
+        "game": "oras-or",
+        "text": "Il nageait dans les océans il y a 100 millions d’années.\nIl lui arrive de rallier la terre ferme pour attaquer ses proies."
+      },
+      {
+        "game": "oras-as",
+        "text": "Il a été recréé à partir d’un fossile préhistorique. Il peut\nplonger jusqu’à 1 000 mètres de profondeur."
+      },
+      {
+        "game": "sm-s",
+        "text": "L’étude de sa structure squelettique suggère\nqu’il était autrefois capable de plonger\njusqu’à 1 000 m de profondeur."
+      },
+      {
+        "game": "sm-m",
+        "text": "Ancêtre présumé de nombreuses espèces de\nPokémon tortues, il peuplait les mers chaudes\ndu monde il y a environ 100 millions d’années."
+      },
+      {
+        "game": "usum-us",
+        "text": "Il a été recréé à partir d’un fossile préhistorique.\nIl vivait autrefois dans la mer, mais avait su\ns’adapter pour chasser aussi sur la terre ferme."
+      },
+      {
+        "game": "usum-um",
+        "text": "Son terrain de chasse s’étendait sur un très\nvaste territoire, de la terre ferme jusqu’à\n1 000 m sous les mers."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Il vivait dans la mer pendant l’ère préhistorique.\nIl lui arrive de s’aventurer sur la terre ferme pour\nchasser, bien qu’il ne puisse que ramper."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Ancêtre présumé de nombreuses espèces\nde Pokémon tortues, il a été restauré à partir\nd’un fossile."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Galapaflos",
+    "genus": "Urzeitkröten-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Schwamm bereits vor 100 Millionen Jahren durch\ndie Meere. Ab und zu führt es die Jagd auch an Land."
+      },
+      {
+        "game": "xy-y",
+        "text": "Es wurde aus einem urzeitlichen Fossil reanimiert.\nEs kann in Tiefen von bis zu 1 000 m abtauchen."
+      },
+      {
+        "game": "oras-or",
+        "text": "Schwamm bereits vor 100 Millionen Jahren durch die Meere.\nAb und zu führt es die Jagd auch an Land."
+      },
+      {
+        "game": "oras-as",
+        "text": "Es wurde aus einem urzeitlichen Fossil reanimiert. Es kann in\nTiefen von bis zu 1 000 m abtauchen."
+      },
+      {
+        "game": "sm-s",
+        "text": "Eine Untersuchung seiner Skelettstruktur hat\nergeben, dass es in Tiefen von bis zu 1 000 m\nabtauchen kann."
+      },
+      {
+        "game": "sm-m",
+        "text": "Man sagt, es sei der Vorfahre der meisten\nSchildkröten-Pokémon. Es lebte vor etwa\n100 Millionen Jahren im warmen Meer."
+      },
+      {
+        "game": "usum-us",
+        "text": "Es wurde aus einem urzeitlichen Fossil wieder\nzum Leben erweckt. Zwar lebte es im Meer, zur\nFuttersuche ging es jedoch auch an Land."
+      },
+      {
+        "game": "usum-um",
+        "text": "Sein Jagdrevier erstreckte sich einst von bis\nzu 1 000 m tiefen Meeresgebieten bis zum\nFestland."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Dieser Meeresbewohner der Urzeit kann sich\naußerhalb der See nur kriechend fortbewegen,\naber für seine Beute kommt es trotzdem an Land."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Man vermutet, Galapaflos sei der Vorfahr vieler\nSchildkröten-Pokémon. Es wurde aus einem\nurzeitlichen Fossil wieder zum Leben erweckt."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Tirtouga",
+    "genus": "Pokémon Pretortuga",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Ya pululaba por las aguas hace 100 millones de años.\nTambién va a tierra a veces en busca de alimento."
+      },
+      {
+        "game": "xy-y",
+        "text": "Ha renacido de un fósil prehistórico. Puede sumergirse\nhasta 1000 m de profundidad."
+      },
+      {
+        "game": "oras-or",
+        "text": "Ya pululaba por las aguas hace 100 millones de años.\nTambién va a tierra a veces en busca de alimento."
+      },
+      {
+        "game": "oras-as",
+        "text": "Ha renacido de un fósil prehistórico. Puede sumergirse hasta\n1000 m de profundidad."
+      },
+      {
+        "game": "sm-s",
+        "text": "A juzgar por su estructura ósea, se calcula\nque podía sumergirse hasta 1 km de\nprofundidad."
+      },
+      {
+        "game": "sm-m",
+        "text": "Se dice que es el predecesor de numerosos\nPokémon tortuga. Hace unos 100 millones de\naños ya habitaba mares templados."
+      },
+      {
+        "game": "usum-us",
+        "text": "Se ha logrado reconstruir a partir de fósiles.\nAunque viviera en el mar, no dudaba en salir del\nagua a tierra firme en busca de presas."
+      },
+      {
+        "game": "usum-um",
+        "text": "Poseía un vasto territorio de caza, que abarcaba\ndesde la tierra firme hasta una profundidad\nmarina de 1 km."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Vivía en los mares de hace millones de años. Sale\na tierra para buscar presas, aunque solo se pueda\ndesplazar reptando."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Se piensa que es el antepasado de numerosos\nPokémon tortuga. Fue regenerado a partir de un\nfósil."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Tirtouga",
+    "genus": "Pokémon Ancestruga",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Nuotava nei mari 100 milioni di anni fa. A volte sale\nin superficie per aggredire le prede."
+      },
+      {
+        "game": "xy-y",
+        "text": "Si è risvegliato da un antico fossile. Può immergersi\nfino a 1000 m di profondità."
+      },
+      {
+        "game": "oras-or",
+        "text": "Nuotava nei mari 100 milioni di anni fa. A volte sale in\nsuperficie per aggredire le prede."
+      },
+      {
+        "game": "oras-as",
+        "text": "Si è risvegliato da un antico fossile. Può immergersi fino\na 1000 m di profondità."
+      },
+      {
+        "game": "sm-s",
+        "text": "A giudicare dalla struttura ossea, sembra che\nfosse capace di immergersi fino a 1.000 m\ndi profondità."
+      },
+      {
+        "game": "sm-m",
+        "text": "Si dice che sia l’antenato di molti Pokémon con\ncarapace. Nuotava nei mari caldi 100 milioni\ndi anni fa."
+      },
+      {
+        "game": "usum-us",
+        "text": "È stato rigenerato da un antico fossile.\nIn passato viveva nel mare, ma per cacciare\nnon esitava a spostarsi sulla terraferma."
+      },
+      {
+        "game": "usum-um",
+        "text": "Si immergeva fino a 1.000 m di profondità e\nil suo territorio di caccia si estendeva dagli\nabissi marini alla terraferma."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Nell’antichità viveva nei mari. Pur essendo solo\nin grado di strisciare, sale anche sulla terraferma\nin cerca di prede."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Si ritiene sia l’antenato di molti Pokémon con\ncarapace. È stato rigenerato da un fossile."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Tirtouga",
+    "genus": "Prototurtle Pokémon",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Restored from a fossil, this Pokémon\ncan dive to depths beyond half a mile."
+      },
+      {
+        "game": "bw-w",
+        "text": "About 100 million years ago, these\nPokémon swam in oceans. It is thought\nthey also went on land to attack prey."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "This Pokémon was restored from a fossil.\nIt swam skillfully and dove\nto depths beyond half a mile."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "This Pokémon was restored from a fossil.\nIt swam skillfully and dove\nto depths beyond half a mile."
+      },
+      {
+        "game": "xy-x",
+        "text": "About 100 million years ago, these Pokémon swam\nin oceans. It is thought they also went on land to\nattack prey."
+      },
+      {
+        "game": "xy-y",
+        "text": "Restored from a fossil, this Pokémon can dive to\ndepths beyond half a mile."
+      },
+      {
+        "game": "oras-or",
+        "text": "About 100 million years ago, these Pokémon swam\nin oceans. It is thought they also went on land to\nattack prey."
+      },
+      {
+        "game": "oras-as",
+        "text": "Restored from a fossil, this Pokémon can dive to\ndepths beyond half a mile."
+      },
+      {
+        "game": "sm-s",
+        "text": "Based on studies of its skeletal structure, it can\napparently dive to ocean depths of over half\na mile."
+      },
+      {
+        "game": "sm-m",
+        "text": "Reputed to be the ancestor of most turtle\nPokémon, it lived in warm seas approximately\na hundred million years ago."
+      },
+      {
+        "game": "usum-us",
+        "text": "It was restored from an ancient fossil. Tirtouga\nlived in the sea but came up onto the land to\nsearch for prey."
+      },
+      {
+        "game": "usum-um",
+        "text": "Its hunting grounds encompassed a broad area,\nfrom the land to more than half a mile deep in\nthe ocean."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "This Pokémon inhabited ancient seas. Although\nit can only crawl, it still comes up onto land in\nsearch of prey."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Tirtouga is considered to be the ancestor of\nmany turtle Pokémon. It was restored to life\nfrom a fossil."
+      }
+    ]
+  },
+  "chs": {
+    "name": "原盖海龟",
+    "genus": "古代龟宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "根据对其骨骼的调查结果，\n它似乎能潜到大约\n１０００米的深海之中。"
+      },
+      {
+        "game": "sm-m",
+        "text": "据说是大部分龟宝可梦的祖先。\n曾经生活在大约１亿年前的\n温暖大海里。"
+      },
+      {
+        "game": "usum-us",
+        "text": "由古代的化石复活而来。\n曾生活在海里，\n但也会到陆地上来寻找猎物。"
+      },
+      {
+        "game": "usum-um",
+        "text": "从１０００米深的深海到陆地，\n这样广阔的范围曾经都是它的狩猎场。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "曾经栖息于古代的海洋。\n虽然只会爬着走，但为了\n寻找猎物也会到陆地上来。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "由化石复活的宝可梦。\n人们认为它是很多\n龟宝可梦的祖先。"
+      }
+    ]
+  }
+}

@@ -1,0 +1,549 @@
+{
+  "jap": {
+    "name": "サンド",
+    "genus": "ねずみポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "じめんに　あなを　ほって　すむ。\nじぶんに　きけんが　せまると\nまるくなって　みを　まもる。"
+      },
+      {
+        "game": "xy-y",
+        "text": "みずけを　きらい　かんそうちに\nふかいあなを　ほって　せいかつする。\nいっしゅんで　からだを　まるめる。"
+      },
+      {
+        "game": "oras-or",
+        "text": "すいぶんを　むだなく　きゅうしゅうする　からだの\nつくりなので　かんそうした　すなちでも　へいき。\nからだを　まるめて　てきの　こうげきを　ふせぐ。"
+      },
+      {
+        "game": "oras-as",
+        "text": "からからに　かわいた　ひふは　とても　かたく\nまるくなると　どんな　こうげきでも　はねかえす。\nよなかは　さばくの　すなに　もぐって　ねむる。"
+      },
+      {
+        "game": "sm-s",
+        "text": "からだを　まるめて　ボールのような\nすがたに　なれる。　ころがりながら\nさばくを　こうそくで　いどうする。"
+      },
+      {
+        "game": "sm-m",
+        "text": "あめの　ふらない　かんそうちたいや\nさばくが　おもな　すみか。　あなを\nほって　むしポケモンを　とらえる。"
+      },
+      {
+        "game": "usum-us",
+        "text": "あめの　すくない　とちに　すんでいる。\nきけんが　せまると　からだを　まるめ\nやわらかい　おなかを　まもるぞ。"
+      },
+      {
+        "game": "usum-um",
+        "text": "しっけで　ひふが　ふやけてくると\nかざんに　むかう。　ちねつの　たかい\nじめんに　はりつき　かわかすのだ。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "からだは　かわいている。しかし\nよなか　きおんが　さがったときは\nひふに　しずくが　つくという。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "からだは　かわいている。しかし\nよなか　きおんが　さがったときは\nひふに　しずくが　つくという。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "かんそうした　すなちで　すなあびを\nするのが　すき。　からだに　ついた\nよごれと　みずけを　おとすのだ。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "じめんを　ほって　すあなを　つくる。\nちちゅうの　かたい　いわも　するどい\nツメで　くだいて　ほりすすむぞ。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Sand",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "모래두지",
+    "genus": "쥐포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "지면에 구멍을 파고 산다.\n자신에게 위험이 닥쳐오면\n둥글게 말아서 몸을 보호한다."
+      },
+      {
+        "game": "xy-y",
+        "text": "습기를 싫어해서 건조한 땅에\n깊은 구멍을 파고 생활한다.\n눈 깜짝할 사이에 몸을 둥글게 만다."
+      },
+      {
+        "game": "oras-or",
+        "text": "몸이 수분을 효율적으로 흡수하기 때문에\n건조한 모래땅에서도 문제없다.\n몸을 둥글게 만들어 적의 공격을 막는다."
+      },
+      {
+        "game": "oras-as",
+        "text": "바싹바싹 마른 피부는 매우 단단해서\n몸을 둥글게 말면 어떤 공격도 튕겨낸다.\n밤에는 사막의 모래에 들어가 잠잔다."
+      },
+      {
+        "game": "sm-s",
+        "text": "몸을 웅크려서 공 같은\n모습이 된다. 구르면서\n사막을 고속으로 이동한다."
+      },
+      {
+        "game": "sm-m",
+        "text": "비가 내리지 않는 건조지대나\n사막이 주된 거처다. 구멍을\n파서 벌레포켓몬을 잡는다."
+      },
+      {
+        "game": "usum-us",
+        "text": "비가 적은 토지에 살고 있다.\n위험한 상황이 되면 몸을 웅크려\n부드러운 배를 지킨다."
+      },
+      {
+        "game": "usum-um",
+        "text": "습기로 인해 피부가 불면\n화산으로 이동한다. 지열이 높은\n지면에 달라붙어 말리는 것이다."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "몸이 건조하다. 하지만\n밤중에 기온이 내려가면\n피부에 물방울이 맺힌다고 한다."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "몸이 건조하다. 하지만\n밤중에 기온이 내려가면\n피부에 물방울이 맺힌다고 한다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "건조한 모래땅에서 모래를 끼얹는 것을\n좋아한다. 몸에 붙은 지저분한 것들을\n떨어뜨리고 물기를 없애는 것이다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "땅을 파서 굴을 만든다.\n땅속의 단단한 바위도 날카로운\n발톱으로 부수며 파고들어 간다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "穿山鼠",
+    "genus": "鼠寶可夢",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "可以蜷縮身體變成球的樣子。\n骨碌碌滾動著，在沙漠裡高速移動。"
+      },
+      {
+        "game": "sm-m",
+        "text": "不下雨的乾燥地區和沙漠\n是牠的主要棲息地。\n會挖洞捕捉蟲寶可夢。"
+      },
+      {
+        "game": "usum-us",
+        "text": "棲息在雨量稀少的地區。\n遇到危險時會蜷縮起身體，\n藉此保護自己柔軟的腹部。"
+      },
+      {
+        "game": "usum-um",
+        "text": "當皮膚因為濕氣而發脹變軟時，\n會前往火山地區，趴在因地熱\n而帶著高溫的地面上烘乾。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "牠的身體十分乾燥，\n但當夜裡溫度降低時，\n表皮上會有露水凝結。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "牠的身體十分乾燥，\n但當夜裡溫度降低時，\n表皮上會有露水凝結。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "喜歡在乾燥的沙地上\n滾來滾去，藉此去掉\n身體上的髒污和水分。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "會在地面挖洞築巢。\n即使遇到地下堅硬的岩石，\n也會用銳利的爪子擊碎並向前挖進。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Sabelette",
+    "genus": "Pokémon Souris",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Il vit sur des terres arides épargnées\npar la pluie. Il se roule en boule pour\nse protéger."
+      },
+      {
+        "game": "bw-w",
+        "text": "Il vit sur des terres arides épargnées\npar la pluie. Il se roule en boule pour\nse protéger."
+      },
+      {
+        "game": "xy-x",
+        "text": "Il s’enterre et vit dans les sous-sols. S’il se sent\nmenacé, il se met en boule pour se protéger."
+      },
+      {
+        "game": "xy-y",
+        "text": "Détestant l’eau, il vit dans de profondes tanières\ndes régions arides. Il aime se rouler en boule."
+      },
+      {
+        "game": "oras-or",
+        "text": "Le corps de Sabelette lui permet d’économiser l’eau\nqu’il absorbe, afin de survivre longtemps dans le désert.\nCe Pokémon s’enroule sur lui-même pour se protéger\nde ses ennemis."
+      },
+      {
+        "game": "oras-as",
+        "text": "Sabelette a une peau très sèche et extrêmement dure.\nCe Pokémon peut s’enrouler sur lui-même pour repousser\nles attaques. La nuit, il s’enterre dans le sable du désert\npour dormir."
+      },
+      {
+        "game": "sm-s",
+        "text": "Il peut se changer en boule parfaitement ronde\net rouler à toute allure à travers le désert."
+      },
+      {
+        "game": "sm-m",
+        "text": "Il vit principalement dans les zones désertiques\noù il ne pleut jamais. Il creuse dans le sol\npour dénicher des Pokémon Insecte."
+      },
+      {
+        "game": "usum-us",
+        "text": "Il vit dans les régions où il pleut rarement.\nQuand il est en danger, il se roule en boule pour\nprotéger son ventre, qui est son point faible."
+      },
+      {
+        "game": "usum-um",
+        "text": "Lorsque sa peau est saturée d’humidité,\nil se dirige vers un volcan et se sèche\nà la chaleur du magma."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Son corps est sec. Quand la nuit déploie ses\nailes de fraîcheur, son épiderme se couvre\nde rosée."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Son corps est sec. Quand la nuit déploie ses\nailes de fraîcheur, son épiderme se couvre\nde rosée."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Il aime se rouler dans le sable des zones\ndésertiques pour se débarrasser des traces\nde terre et d’humidité qui lui collent à la peau."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Il creuse le sol pour construire sa tanière.\nRien n’arrête ses griffes acérées, pas même\nla roche la plus solide."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Sandan",
+    "genus": "Maus-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Es gräbt und lebt im Erdboden. Bei Gefahr rollt es\nsich zum Schutz zu einem Ball zusammen."
+      },
+      {
+        "game": "xy-y",
+        "text": "Da es Wasser verabscheut, gräbt es sich\nin trockenes Erdreich ein. Es kann sich rasch\nzu einem Ball rollen."
+      },
+      {
+        "game": "oras-or",
+        "text": "Sandans Körper kann sehr viel Wasser aufnehmen, sodass es\nauch in der Wüste überleben kann. Dieses Pokémon rollt sich\nzusammen, um sich vor Feinden zu schützen."
+      },
+      {
+        "game": "oras-as",
+        "text": "Sandan hat eine sehr trockene und extrem robuste Haut.\nDieses Pokémon kann sich zu einem Ball zusammenrollen,\nvon dem jegliche Angriffe abprallen. Nachts gräbt es sich\nim Wüstensand ein und schläft dort."
+      },
+      {
+        "game": "sm-s",
+        "text": "Es kann sich blitzschnell durch die Wüste\nfortbewegen, indem es sich zu einem Ball\nzusammenrollt."
+      },
+      {
+        "game": "sm-m",
+        "text": "Es lebt hauptsächlich in trockenen Regionen und\nWüsten, wo wenig Regen fällt. Es gräbt Löcher,\num Käfer-Pokémon zu fangen."
+      },
+      {
+        "game": "usum-us",
+        "text": "Es lebt in trockenen Gebieten mit wenig Regen.\nBei Gefahr rollt es sich zu einem Ball zusammen\nund schützt so seine weiche Bauchgegend."
+      },
+      {
+        "game": "usum-um",
+        "text": "Bei zu viel Feuchtigkeit sucht es einen Vulkan\nauf, um auf dem warmen Erdboden seine\naufgeweichte Haut wieder zu trocknen."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Der Körper dieses Pokémon ist sehr trocken.\nIn kalten Nächten wird sein Körper von Tau\nüberzogen."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Der Körper dieses Pokémon ist sehr trocken.\nIn kalten Nächten wird sein Körper von Tau\nüberzogen."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Es badet sehr gern im trockenen Sand. Dadurch\nbefreit es seinen Körper von Schmutz und\nFeuchtigkeit."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Es gräbt sich seinen Bau im Erdboden. Stößt es\ndabei auf harte Steine, zerstört es diese mit\nseinen scharfen Krallen und gräbt unbeirrt weiter."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Sandshrew",
+    "genus": "Pokémon Ratón",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Este Pokémon permanece bajo tierra. Si se siente\namenazado, se enrosca para defenderse."
+      },
+      {
+        "game": "xy-y",
+        "text": "Como odia el agua, vive en madrigueras muy\nprofundas en zonas áridas. Puede hacerse una bola\nal instante."
+      },
+      {
+        "game": "oras-or",
+        "text": "Sandshrew es capaz de absorber agua y no perder ni una\ngota, algo que le permite sobrevivir en el desierto. Este\nPokémon se enrosca para defenderse de los enemigos."
+      },
+      {
+        "game": "oras-as",
+        "text": "Sandshrew tiene una piel muy seca y tremendamente dura.\nTiene la habilidad de hacerse una bola y evitar cualquier\nataque. Por las noches, escarba en la arena del desierto y\nse echa a dormir."
+      },
+      {
+        "game": "sm-s",
+        "text": "Enrolla su cuerpo hasta hacerse una bola\ny rueda por el desierto a gran velocidad."
+      },
+      {
+        "game": "sm-m",
+        "text": "Habita principalmente en zonas desérticas\ndonde las lluvias son escasas. Excava agujeros\nen el suelo en busca de Pokémon insecto."
+      },
+      {
+        "game": "usum-us",
+        "text": "Prefiere hábitats secos. Cuando intuye peligro,\nse enrolla hasta hacerse una bola para proteger\nlas partes blandas de su cuerpo."
+      },
+      {
+        "game": "usum-um",
+        "text": "Cuando la humedad le satura la piel, se dirige a\nun volcán y aprovecha las altas temperaturas\ndel suelo para secarse."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Tiene la piel muy seca, aunque, si hace frío por\nla noche, aparece cubierta de un fino rocío."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Tiene la piel muy seca, aunque, si hace frío por\nla noche, aparece cubierta de un fino rocío."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Le gusta revolcarse por la arena seca para\neliminar todo rastro de suciedad y humedad\nen la piel."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Excava madrigueras profundas en las que vive.\nParte con sus afiladas garras cualquier roca, por\ndura que sea, que le entorpezca el camino."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Sandshrew",
+    "genus": "Pokémon Topo",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Vive sottoterra, scavando buche. Se minacciato,\nsi protegge raggomitolandosi."
+      },
+      {
+        "game": "xy-y",
+        "text": "Odia l’acqua e vive in tane profonde all’interno di\nzone aride. È capace di appallottolarsi in un istante."
+      },
+      {
+        "game": "oras-or",
+        "text": "Il corpo di Sandshrew ha una conformazione che gli consente\ndi assorbire l’acqua senza perdite e di sopravvivere nell’aridità\ndel deserto. Questo Pokémon si avvolge su se stesso per\nproteggersi dai nemici."
+      },
+      {
+        "game": "oras-as",
+        "text": "Sandshrew ha una corazza estremamente secca e dura.\nPuò chiudersi a sfera e rotolare per difendersi dagli attacchi.\nQuando cala la notte, si nasconde nella sabbia del deserto\nper dormire."
+      },
+      {
+        "game": "sm-s",
+        "text": "Quando si raggomitola su se stesso sembra\nuna palla. Si muove nel deserto rotolando a\ngran velocità."
+      },
+      {
+        "game": "sm-m",
+        "text": "Vive per lo più nei deserti e in zone aride.\nScava buche nel terreno per catturare Pokémon\ndi tipo Coleottero."
+      },
+      {
+        "game": "usum-us",
+        "text": "Vive in zone con scarse precipitazioni.\nQuando è minacciato da un pericolo, si\nraggomitola per proteggere il ventre molle."
+      },
+      {
+        "game": "usum-um",
+        "text": "Quando la sua pelle assorbe troppa umidità,\nraggiunge un vulcano e si stende sul terreno\ncaldo per asciugarsi."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Il suo corpo è molto asciutto, ma si dice che\nquando di notte la temperatura si abbassa\nsi ricopra di fine rugiada."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Il suo corpo è molto asciutto, ma si dice che\nquando di notte la temperatura si abbassa\nsi ricopra di fine rugiada."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Ama rotolarsi nella sabbia delle zone desertiche,\nper rimuovere ogni traccia di sporcizia e umidità\ndal suo corpo."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Scava nel terreno per costruire la sua tana,\nfrantumando anche le rocce più dure con\ni suoi artigli affilati."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Sandshrew",
+    "genus": "Mouse Pokémon",
+    "flavorText": [
+      {
+        "game": "rb-r",
+        "text": "Burrows deep\nunderground in\narid locations\ffar from water.\nIt only emerges\nto hunt for food."
+      },
+      {
+        "game": "rb-b",
+        "text": "Burrows deep\nunderground in\narid locations\ffar from water.\nIt only emerges\nto hunt for food."
+      },
+      {
+        "game": "y",
+        "text": "Its body is dry.\nWhen it gets cold\nat night, its\fhide is said to\nbecome coated with\na fine dew."
+      },
+      {
+        "game": "gs-g",
+        "text": "If it fell from a\ngreat height, this\nPOKéMON could save\fitself by rolling\ninto a ball and\nbouncing."
+      },
+      {
+        "game": "gs-s",
+        "text": "Disliking water,\nit lives in deep\nburrows in arid\fareas. It can roll\nitself instantly\ninto a ball."
+      },
+      {
+        "game": "c",
+        "text": "It prefers dry,\nsandy places\nbecause it uses\fthe sand to\nprotect itself\nwhen threatened."
+      },
+      {
+        "game": "rs-r",
+        "text": "SANDSHREW’s body is configured to\nabsorb water without waste, enabling it\nto survive in an arid desert.\fThis POKéMON curls up to protect itself\nfrom its enemies."
+      },
+      {
+        "game": "rs-s",
+        "text": "SANDSHREW has a very dry hide that is\nextremely tough. The POKéMON can roll\ninto a ball that repels any attack.\fAt night, it burrows into the desert\nsand to sleep."
+      },
+      {
+        "game": "e",
+        "text": "When it curls up in a ball, it can make any\nattack bounce off harmlessly. Its hide has\nturned tough and solid as a result of\nliving in the desert."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "It burrows and lives underground.\nIf threatened, it curls itself up into a\nball for protection."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "Burrows deep underground in arid locations\nfar from water. It only emerges to hunt\nfor prey."
+      },
+      {
+        "game": "dp-d",
+        "text": "To protect itself from attackers,\nit curls up into a ball. It lives in\narid regions with minimal rainfall."
+      },
+      {
+        "game": "dp-p",
+        "text": "To protect itself from attackers,\nit curls up into a ball. It lives in\narid regions with minimal rainfall."
+      },
+      {
+        "game": "pt",
+        "text": "To protect itself from attackers,\nit curls up into a ball. It lives in\narid regions with minimal rainfall."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "If it fell from a great height, this\nPokémon could save itself by rolling\ninto a ball and bouncing."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "Disliking water, it lives in deep\nburrows in arid areas. It can roll\nitself instantly into a ball."
+      },
+      {
+        "game": "bw-b",
+        "text": "To protect itself from attackers,\nit curls up into a ball. It lives in\narid regions with minimal rainfall."
+      },
+      {
+        "game": "bw-w",
+        "text": "To protect itself from attackers,\nit curls up into a ball. It lives in\narid regions with minimal rainfall."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "It digs deep burrows to live in.\nWhen in danger, it rolls up its\nbody to withstand attacks."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "It digs deep burrows to live in.\nWhen in danger, it rolls up its\nbody to withstand attacks."
+      },
+      {
+        "game": "xy-x",
+        "text": "It burrows and lives underground. If threatened,\nit curls itself up into a ball for protection."
+      },
+      {
+        "game": "xy-y",
+        "text": "Disliking water, it lives in deep burrows in arid\nareas. It can roll itself instantly into a ball."
+      },
+      {
+        "game": "oras-or",
+        "text": "Sandshrew’s body is configured to absorb water without waste,\nenabling it to survive in an arid desert. This Pokémon curls up\nto protect itself from its enemies."
+      },
+      {
+        "game": "oras-as",
+        "text": "Sandshrew has a very dry hide that is extremely tough.\nThe Pokémon can roll into a ball that repels any attack.\nAt night, it burrows into the desert sand to sleep."
+      },
+      {
+        "game": "sm-s",
+        "text": "It can roll its body into a ball. It moves through\nthe desert by rolling at high speeds."
+      },
+      {
+        "game": "sm-m",
+        "text": "It usually makes its home in deserts and arid\nzones, where rain does not fall. It digs holes to\ncatch Bug-type Pokémon."
+      },
+      {
+        "game": "usum-us",
+        "text": "It lives in areas of limited rainfall. When danger\napproaches, it curls up into a ball to protect its\nsoft stomach."
+      },
+      {
+        "game": "usum-um",
+        "text": "When its skin gets wrinkled from moisture, it\nheads for a volcano. It lies flat on a spot with a\nlot of geothermal heat and dries itself out."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Its body is dry. When it gets cold at night, its\nhide is said to become coated with a fine dew."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Its body is dry. When it gets cold at night, its\nhide is said to become coated with a fine dew."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "It loves to bathe in the grit of dry, sandy areas.\nBy sand bathing, the Pokémon rids itself of dirt\nand moisture clinging to its body."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "It burrows into the ground to create its nest. If\nhard stones impede its tunneling, it uses its sharp\nclaws to shatter them and then carries on digging."
+      }
+    ]
+  },
+  "chs": {
+    "name": "穿山鼠",
+    "genus": "鼠宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "可以蜷缩身体变成球的样子。\n骨碌碌滚动着在沙漠里高速移动。"
+      },
+      {
+        "game": "sm-m",
+        "text": "不下雨的干燥地区和沙漠\n是它的主要栖息地。\n会挖洞捕捉虫宝可梦。"
+      },
+      {
+        "game": "usum-us",
+        "text": "栖息在雨量稀少的土地上。\n遇到危险就会蜷缩起身体，\n并以此来保护自己柔弱的腹部。"
+      },
+      {
+        "game": "usum-um",
+        "text": "如果皮肤因湿气而发胀，\n它就会前往火山。会趴在地热\n温度很高的地面上烘干皮肤。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "身体很干燥。但据说\n在夜里降温时，它的\n表皮上会有露水凝结。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "身体很干燥。但据说\n在夜里降温时，它的\n表皮上会有露水凝结。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "喜欢在干燥的沙地上\n滚来滚去，借此去掉\n身上的脏东西和水分。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "会在地上挖洞建造巢穴。\n挖洞时，即便遇到地里的坚硬岩石，\n也能用尖锐的爪子弄碎后继续挖进。"
+      }
+    ]
+  }
+}

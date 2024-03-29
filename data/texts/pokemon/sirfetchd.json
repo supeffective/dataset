@@ -1,0 +1,133 @@
+{
+  "jap": {
+    "name": "ネギガナイト",
+    "genus": "かるがもポケモン",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "れきせんを　いきぬいた　ものが\nこのすがたに　しんかする。　ネギが\nかれるとき　せんじょうを　さる。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "かたいネギの　はで　こうげきを\nいなし　するどい　クキで　はんげき。\nネギは　ぶぐで　あり　しょくざい。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Negigaknight",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "창파나이트",
+    "genus": "청둥오리포켓몬",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "많은 싸움에서 살아남은 자만이\n이 모습으로 진화한다.\n파가 시들면 전장을 떠난다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "단단한 파잎으로 공격을 받아넘기고\n날카로운 줄기로 반격한다.\n파는 무기인 동시에 식재료다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "蔥遊兵",
+    "genus": "黃嘴鴨寶可夢",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "只有歷經過無數戰鬥的\n大蔥鴨才能進化成這個樣子。\n當大蔥枯萎了就會離開戰場。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "會用堅硬的蔥葉抵擋攻擊，\n接著用鋒利的莖反擊。\n牠的蔥既是武器也是食材。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Palarticho",
+    "genus": "Pokémon Canard Fou",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Seuls les Canarticho ayant survécu à de nombreux\ncombats atteignent ce stade d’évolution. Si son\npoireau se flétrit, il se retire du champ de bataille."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Il pare les attaques avec le tranchant de son\nsolide poireau, et contre-attaque avec la pointe\nde la tige. Son arme est également comestible."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Lauchzelot",
+    "genus": "Wildenten-Pokémon",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Porenta, die viele Schlachten überstanden haben,\nentwickeln sich zu Lauchzelot. Verwelkt seine\nLauchstange, zieht es sich vom Kämpfen zurück."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Der Lauch dient ihm als Waffe und zur Abwehr,\naber viele essen ihn auch. Mit den harten Blättern\npariert es und mit der scharfen Stange kontert es."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Sirfetch’d",
+    "genus": "Pokémon Pato Salvaje",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Los ejemplares que superan numerosos combates\nevolucionan y adoptan esta forma. Abandonan el\nterreno de combate en cuanto el puerro se seca."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Repele ataques con las hojas de su duro puerro y\ncontraataca con su tallo afilado. El puerro que le\nsirve de armamento sigue siendo comestible."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Sirfetch’d",
+    "genus": "Pokémon Selvanatra",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Gli esemplari con tante lotte alle spalle si\nevolvono assumendo questa forma. Se il suo\ngambo si secca, abbandona il campo di lotta."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Devia gli attacchi usando la dura foglia del porro\ne contrattacca con il gambo affilato. Usa il porro\nsia come arma che come cibo."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Sirfetch’d",
+    "genus": "Wild Duck Pokémon",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Only Farfetch’d that have survived many battles\ncan attain this evolution. When this Pokémon’s\nleek withers, it will retire from combat."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "After deflecting attacks with its hard leaf shield,\nit strikes back with its sharp leek stalk. The leek\nstalk is both weapon and food."
+      }
+    ]
+  },
+  "chs": {
+    "name": "葱游兵",
+    "genus": "黄嘴鸭宝可梦",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "只有经历过无数战斗的\n大葱鸭才能进化成这个样子。\n当大葱枯萎了就会离开战场。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "会用坚硬的葱叶抵挡攻击，\n接着用锋利的茎反击。\n它的葱既是武器也是食材。"
+      }
+    ]
+  }
+}

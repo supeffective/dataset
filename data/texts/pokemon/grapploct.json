@@ -1,0 +1,133 @@
+{
+  "jap": {
+    "name": "オトスパス",
+    "genus": "じゅうじゅつポケモン",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "ぜんしんが　きんにくの　かたまり。\nしょくしゅを　つかって　くりだす\nしめわざの　いりょくは　すさまじい。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "おのれのうでを　ためすべく　りくに\nあがり　たいせんあいてを　さがす。\nたたかいおえると　うみに　かえる。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Otosupus",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "케오퍼스",
+    "genus": "유술포켓몬",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "온몸이 근육덩어리다.\n촉수를 사용해서 펼치는\n조르기 기술의 위력은 무시무시하다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "자신의 실력을 시험하기 위해\n육지로 올라가 대전 상대를 찾는다.\n싸움이 끝나면 바다로 돌아간다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "八爪武師",
+    "genus": "柔術寶可夢",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "全身都是肌肉。\n會用觸手施展絞技，\n威力無與倫比。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "會為了試自己的身手\n而登上陸地尋找對手。\n戰鬥結束後就會回到海裡。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Krakos",
+    "genus": "Pokémon Jujitsu",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Son corps est un amas de muscles.\nLa puissance des prises d’étranglement\nqu’il exécute avec ses tentacules est saisissante."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Mû par le besoin de tester la force de ses bras,\nil se rend sur la terre ferme pour trouver\nun adversaire. Il retourne à l’eau après le combat."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Kaocto",
+    "genus": "Jiu-Jitsu-Pokémon",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Sein Körper besteht gänzlich aus Muskeln.\nDie schiere Stärke seines Würgegriffs, bei dem\nes seine Tentakel einsetzt, ist sagenhaft."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Um sein Können zu testen, kommt es an Land\nund begibt sich auf die Suche nach Gegnern.\nSind die Kämpfe vorbei, kehrt es ins Meer zurück."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Grapploct",
+    "genus": "Pokémon Jiu-Jitsu",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Todo su cuerpo es una mole de puro músculo.\nUtiliza los tentáculos para ejecutar técnicas de\nestrangulamiento con una formidable potencia."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Se aventura en tierra firme para buscar rivales\ncontra los que luchar para medir su valía. Tras\nterminar el combate, regresa al mar."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Grapploct",
+    "genus": "Pokémon Jujitsu",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Il suo corpo è un ammasso di muscoli.\nÈ in grado di stritolare con una potenza\nformidabile grazie ai suoi tentacoli."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Si spinge sulla terraferma in cerca di avversari\nda sfidare per mettere alla prova la propria\nforza. Terminata la lotta, ritorna in mare."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Grapploct",
+    "genus": "Jujitsu Pokémon",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "A body made up of nothing but muscle makes\nthe grappling moves this Pokémon performs with\nits tentacles tremendously powerful."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Searching for an opponent to test its skills\nagainst, it emerges onto land. Once the battle\nis over, it returns to the sea."
+      }
+    ]
+  },
+  "chs": {
+    "name": "八爪武师",
+    "genus": "柔术宝可梦",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "全身都是肌肉。\n会用触手施展绞技，\n威力无与伦比。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "会为了试自己的身手\n而登上陆地寻找对手。\n战斗结束后就会回到海里。"
+      }
+    ]
+  }
+}

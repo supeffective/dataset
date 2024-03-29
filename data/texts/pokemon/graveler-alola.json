@@ -1,0 +1,481 @@
+{
+  "jap": {
+    "name": "ゴローン",
+    "genus": "がんせきポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "やまから　ころがり　おちるとき\nからだの　あちこちが　とれても\nきにしない　ごうかいな　せいかく。"
+      },
+      {
+        "game": "xy-y",
+        "text": "さかみちを　ころがりながら　いどう。\nじゃまな　ものは　どんどん\nおしつぶして　すすんでいく。"
+      },
+      {
+        "game": "oras-or",
+        "text": "いわを　たべて　せいちょうする　ポケモンだ。\nコケの　ついた　いわの　ほうが　すき　らしい。\n１にちに　１トンの　いわを　たべてしまうぞ。"
+      },
+      {
+        "game": "oras-as",
+        "text": "やまの　ふもとから　さんちょうまで　のぼる\nあいだに　だいすきな　いわを　ガリガリ　たべる。\nちょうじょうに　つくと　また　ころがりおちる。"
+      },
+      {
+        "game": "sm-s",
+        "text": "コケの　ついた　いわが　だいこうぶつ。\nボリボリと　おとを　たてながら\n１にち　１トンいじょうを　くらう。"
+      },
+      {
+        "game": "sm-m",
+        "text": "あしが　のろいので　からだを　まるめ\nころがって　いどう。　いきおいづくと\nじそくは　１００キロを　こえる。"
+      },
+      {
+        "game": "usum-us",
+        "text": "がけを　のぼり　さんちょうを　めざす。\nてっぺんに　つくなり　すぐに　きた\nやまみちを　ころがり　おちていく。"
+      },
+      {
+        "game": "usum-um",
+        "text": "がけを　ころがり　いどうする。\nまちがえて　かわに　おちると\nさいごの　あがきで　だいばくはつ。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "やまみちを　よく　ころがっている。\nとおりみちに　なにが　あろうと\nいっさい　きに　していない。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "やまみちを　よく　ころがっている。\nとおりみちに　なにが　あろうと\nいっさい　きに　していない。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Golone",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "데구리",
+    "genus": "암석포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "산에서 굴러 떨어질 때\n몸의 여기저기가 부서져도\n신경 쓰지 않는 호쾌한 성격이다."
+      },
+      {
+        "game": "xy-y",
+        "text": "언덕을 굴러서 이동한다.\n방해물은 마구\n짓누르며 나아간다."
+      },
+      {
+        "game": "oras-or",
+        "text": "바위를 먹고 성장하는 포켓몬이다.\n이끼가 낀 바위를 좋아하는 것 같다.\n하루에 1톤의 바위를 먹어버린다."
+      },
+      {
+        "game": "oras-as",
+        "text": "산기슭부터 산 정상까지 올라가는\n동안 매우 좋아하는 바위를 으득으득 먹는다.\n정상에 도달하면 다시 굴러 내려온다."
+      },
+      {
+        "game": "sm-s",
+        "text": "이끼가 낀 바위를 아주 좋아한다.\n어적어적 소리를 내면서\n1일 1톤 이상을 먹는다."
+      },
+      {
+        "game": "sm-m",
+        "text": "발이 둔해서 몸을 둥글게 말아\n굴러서 이동한다. 기세가 더해지면\n시속 100km를 넘는다."
+      },
+      {
+        "game": "usum-us",
+        "text": "정상을 목표로 절벽을 오른다.\n정상에 도착하면 곧바로\n올라온 산길을 굴러 내려간다."
+      },
+      {
+        "game": "usum-um",
+        "text": "절벽을 굴러서 이동한다.\n실수로 강에 떨어지면\n최후의 발악으로 대폭발한다."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "산길에서 자주 굴러다닌다.\n가는 길에 무엇이 있든\n전혀 신경 쓰지 않는다."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "산길에서 자주 굴러다닌다.\n가는 길에 무엇이 있든\n전혀 신경 쓰지 않는다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "隆隆石",
+    "genus": "岩石寶可夢",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "最喜歡的食物是長有青苔的岩石。\n吃的時候會發出咯吱咯吱的聲音，\n每天會吃１噸以上。"
+      },
+      {
+        "game": "sm-m",
+        "text": "因腿腳笨拙而把身體蜷成一團\n翻滾著移動。滾出勢頭來的話，\n時速能超過１００公里。"
+      },
+      {
+        "game": "usum-us",
+        "text": "會爬上山崖朝山頂前進，\n一到達山頂就會馬上沿著\n來時的山路滾下去。"
+      },
+      {
+        "game": "usum-um",
+        "text": "藉著從山崖上滾落來移動。\n如果不小心掉進河裡，\n就會在最後掙扎時來個大爆炸。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "經常在山路上滾動。\n滾動時從不會去理會\n前面的路上有什麼東西。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "經常在山路上滾動。\n滾動時從不會去理會\n前面的路上有什麼東西。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Gravalanch",
+    "genus": "Pokémon Roche",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Il dévale les montagnes pour se\ndéplacer. Une fois qu’il a pris tout\nson élan, dur dur de l’arrêter!"
+      },
+      {
+        "game": "bw-w",
+        "text": "Il dévale les montagnes pour se\ndéplacer. Une fois qu’il a pris tout\nson élan, dur dur de l’arrêter!"
+      },
+      {
+        "game": "xy-x",
+        "text": "D’une nature téméraire, il se moque de perdre des\nparties de son corps quand il dévale les pentes."
+      },
+      {
+        "game": "xy-y",
+        "text": "Pour se déplacer, il dégringole le long des pentes.\nIl pulvérise tous les obstacles qui se trouvent sur\nson passage."
+      },
+      {
+        "game": "oras-or",
+        "text": "Gravalanch grandit en se nourrissant de cailloux.\nApparemment, il a une préférence pour les cailloux recouverts\nde mousse. En moyenne, il mange une tonne de rochers\npar jour."
+      },
+      {
+        "game": "oras-as",
+        "text": "La nourriture préférée de Gravalanch est la roche.\nCe Pokémon escalade parfois les montagnes, dévorant\nles rochers sur son passage. Une fois au sommet,\nil se laisse rouler jusqu’en bas."
+      },
+      {
+        "game": "sm-s",
+        "text": "Ses aliments préférés sont les cailloux couverts\nde mousse. Il peut en engloutir une tonne par\njour en les broyant bruyamment."
+      },
+      {
+        "game": "sm-m",
+        "text": "Ses jambes sont faibles, aussi se déplace-t-il\nen se roulant en boule. Il peut ainsi rouler\njusqu’à 100 km/h."
+      },
+      {
+        "game": "usum-us",
+        "text": "Il escalade les falaises pour en atteindre les\nsommets. Une fois tout en haut, il se laisse\nrouler par le chemin d’où il est arrivé."
+      },
+      {
+        "game": "usum-um",
+        "text": "Il se déplace en se laissant rouler le long des\nfalaises. Si par malheur il finit dans une rivière,\nil se fait exploser en dernier recours."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Il dévale les sentiers de montagne et traverse\nles obstacles en les pulvérisant."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Il dévale les sentiers de montagne et traverse\nles obstacles en les pulvérisant."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Georok",
+    "genus": "Gestein",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Es ist ihm völlig gleichgültig, wenn Stücke aus ihm\nherausbrechen, während es Berge hinabrollt."
+      },
+      {
+        "game": "xy-y",
+        "text": "Dieses Pokémon bewegt sich nur rollend fort.\nKein Hindernis kann es vom Kurs abbringen."
+      },
+      {
+        "game": "oras-or",
+        "text": "Georok wächst, indem es sich von Steinen ernährt. Am liebsten\nmag es Steine, die mit Moos überzogen sind. Dieses Pokémon\nfrisst sich täglich durch eine riesige Menge von Steinen."
+      },
+      {
+        "game": "oras-as",
+        "text": "Steine sind Georoks Lieblingsspeise. Dieses Pokémon klettert\nvom Fuße eines Berges zu seinem Gipfel empor und zermalmt\ndabei das Gestein. Wenn es den Gipfel erreicht hat, rollt es\nwieder herunter."
+      },
+      {
+        "game": "sm-s",
+        "text": "Mit Moos überzogene Steine sind seine absolute\nLeibspeise. Es vertilgt täglich laut knirschend\neine ganze Tonne davon."
+      },
+      {
+        "game": "sm-m",
+        "text": "Da sich seine Beine nicht zum Gehen eignen,\nbewegt es sich rollend fort. Kommt es richtig\nin Fahrt, erreicht es dabei bis zu 100 km/h."
+      },
+      {
+        "game": "usum-us",
+        "text": "Es klettert Berghänge bis zum Gipfel empor.\nEinmal oben angekommen, rollt es über den\nBergpfad sogleich wieder hinunter."
+      },
+      {
+        "game": "usum-um",
+        "text": "Es bewegt sich rollend über Abhänge fort.\nStürzt es versehentlich in einen Fluss, sprengt\nes sich in seiner Verzweiflung selbst in die Luft."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Es rollt sich gerne Gebirgspfade hinunter.\nDabei ist es ihm egal, wer oder was sich in\nseinem Weg befindet."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Es rollt sich gerne Gebirgspfade hinunter.\nDabei ist es ihm egal, wer oder was sich in\nseinem Weg befindet."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Graveler",
+    "genus": "Pokémon Roca",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "De naturaleza descuidada y libre, no le importa\ndañarse cuando baja rodando montañas."
+      },
+      {
+        "game": "xy-y",
+        "text": "Se mueve rodando cuesta abajo y sobre cualquier\nobstáculo, sin frenar ni cambiar de dirección."
+      },
+      {
+        "game": "oras-or",
+        "text": "Graveler crece alimentándose a base de piedras. Y, según\nparece, las prefiere cubiertas de musgo. Cada día se abre\ncamino comiéndose una tonelada de rocas."
+      },
+      {
+        "game": "oras-as",
+        "text": "Las piedras son la comida preferida de Graveler. Este\nPokémon sube a la cima de las montañas devorando todas\nlas rocas que va encontrando a su paso. Una vez que alcanza\nla cumbre, baja rodando hasta la falda."
+      },
+      {
+        "game": "sm-s",
+        "text": "Su comida preferida son las rocas cubiertas de\nmusgo. Llega a comer más de una tonelada en un\ndía y causa un gran estruendo al masticar."
+      },
+      {
+        "game": "sm-m",
+        "text": "Se desplaza rodando, pues a pie va muy\ndespacio. Si toma carrerilla, puede superar los\n100 km/h."
+      },
+      {
+        "game": "usum-us",
+        "text": "Escala los riscos de las montañas y, una vez\nalcanzada la cima, desciende rodando por los\nsenderos."
+      },
+      {
+        "game": "usum-um",
+        "text": "Se desplaza rodando por las laderas. Si por\nmala fortuna termina cayendo en un río, con su\núltimo aliento causa una gigantesca explosión."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Se le suele ver rodando montaña abajo. No evita\nlos obstáculos, sino que los arrolla."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Se le suele ver rodando montaña abajo. No evita\nlos obstáculos, sino que los arrolla."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Graveler",
+    "genus": "Pokémon Roccia",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Di natura libera e incurante, non si preoccupa se\nperde dei pezzi mentre si rotola giù dai monti."
+      },
+      {
+        "game": "xy-y",
+        "text": "Si lancia in discesa, rotolando su ogni ostacolo\nsenza frenare o mutare direzione."
+      },
+      {
+        "game": "oras-or",
+        "text": "Graveler si ciba di rocce. Pare che preferisca quelle\nricoperte di muschio. Questo Pokémon mangia ogni giorno\ndieci quintali di pietre."
+      },
+      {
+        "game": "oras-as",
+        "text": "Il cibo preferito da Graveler sono le rocce. Infatti è capace\ndi risalire un monte dalla base alla cima, sgranocchiando rocce\ntutto il tempo. Una volta raggiunta la cima, si lancia in discesa\nrotolando."
+      },
+      {
+        "game": "sm-s",
+        "text": "Adora mangiare le rocce coperte di muschio.\nOgni giorno ne sgranocchia più di 10 quintali."
+      },
+      {
+        "game": "sm-m",
+        "text": "È molto lento nel camminare e si sposta\nrotolando. Se acquista velocità, può superare\ni 100 km/h."
+      },
+      {
+        "game": "usum-us",
+        "text": "Scala le pareti scoscese delle montagne\ne, una volta raggiunta la vetta, rotola\ngiù lungo lo stesso percorso."
+      },
+      {
+        "game": "usum-um",
+        "text": "Si sposta rotolando lungo dirupi scoscesi.\nSe finisce dentro a un fiume, viene colto dalla\ndisperazione e si fa esplodere."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Spesso viene visto rotolare giù per i sentieri di\nmontagna, travolgendo tutto ciò che incontra."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Spesso viene visto rotolare giù per i sentieri di\nmontagna, travolgendo tutto ciò che incontra."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Graveler",
+    "genus": "Rock Pokémon",
+    "flavorText": [
+      {
+        "game": "rb-r",
+        "text": "Rolls down slopes\nto move. It rolls\nover any obstacle\fwithout slowing\nor changing its\ndirection."
+      },
+      {
+        "game": "rb-b",
+        "text": "Rolls down slopes\nto move. It rolls\nover any obstacle\fwithout slowing\nor changing its\ndirection."
+      },
+      {
+        "game": "y",
+        "text": "Often seen rolling\ndown mountain\ntrails. Obstacles\fare just things to\nroll straight\nover, not avoid."
+      },
+      {
+        "game": "gs-g",
+        "text": "With a free and\nuncaring nature,\nit doesn't mind if\fpieces break off\nwhile it rolls\ndown mountains."
+      },
+      {
+        "game": "gs-s",
+        "text": "A slow walker, it\nrolls to move. It\npays no attention\fto any object that\nhappens to be in\nits path."
+      },
+      {
+        "game": "c",
+        "text": "It travels by rol­\nling on mountain\npaths. If it gains\ftoo much speed, it\nstops by running\ninto huge rocks."
+      },
+      {
+        "game": "rs-r",
+        "text": "GRAVELER grows by feeding on rocks.\nApparently, it prefers to eat rocks\nthat are covered in moss.\fThis POKéMON eats its way through\na ton of rocks on a daily basis."
+      },
+      {
+        "game": "rs-s",
+        "text": "Rocks are GRAVELER’s favorite food.\nThis POKéMON will climb a mountain from\nthe base to the summit, crunchingly\ffeasting on rocks all the while.\nUpon reaching the peak, it rolls back\ndown to the bottom."
+      },
+      {
+        "game": "e",
+        "text": "They descend from mountains by tumbling\ndown steep slopes. They are so brutal,\nthey smash aside obstructing trees and\nmassive boulders with thunderous tackles."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "Be careful while hiking on mountain trails.\nGRAVELER may come rolling down the path\nwithout slowing."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "Rolls down slopes to move. It rolls over\nany obstacle without slowing or changing\nits direction."
+      },
+      {
+        "game": "dp-d",
+        "text": "GRAVELER make their homes on\nsheer cliff faces by gouging out\nnumerous horizontal holes."
+      },
+      {
+        "game": "dp-p",
+        "text": "It tumbles down slopes, heedless\nof any body parts chipping off.\nIt eats a ton of rocks daily."
+      },
+      {
+        "game": "pt",
+        "text": "It rolls on mountain paths to move.\nOnce it builds momentum, no Pokémon\ncan stop it without difficulty."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "With a free and uncaring nature,\nit doesn’t mind if pieces break off\nwhile it rolls down mountains."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "A slow walker, it rolls to move. It\npays no attention to any object that\nhappens to be in its path."
+      },
+      {
+        "game": "bw-b",
+        "text": "It rolls on mountain paths to move.\nOnce it builds momentum, no Pokémon\ncan stop it without difficulty."
+      },
+      {
+        "game": "bw-w",
+        "text": "It rolls on mountain paths to move.\nOnce it builds momentum, no Pokémon\ncan stop it without difficulty."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "It rolls on mountain paths to move.\nOnce it builds momentum, no Pokémon\ncan stop it without difficulty."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "It rolls on mountain paths to move.\nOnce it builds momentum, no Pokémon\ncan stop it without difficulty."
+      },
+      {
+        "game": "xy-x",
+        "text": "With a free and uncaring nature, it doesn’t mind\nif pieces break off while it rolls down mountains."
+      },
+      {
+        "game": "xy-y",
+        "text": "Rolls down slopes to move. It rolls over any\nobstacle without slowing or changing its direction."
+      },
+      {
+        "game": "oras-or",
+        "text": "Graveler grows by feeding on rocks. Apparently, it prefers to\neat rocks that are covered in moss. This Pokémon eats its way\nthrough a ton of rocks on a daily basis."
+      },
+      {
+        "game": "oras-as",
+        "text": "Rocks are Graveler’s favorite food. This Pokémon will climb a\nmountain from the base to the summit, crunchingly feasting on\nrocks all the while. Upon reaching the peak, it rolls back down\nto the bottom."
+      },
+      {
+        "game": "sm-s",
+        "text": "Mossy rocks are its favorite food.\nIt can devour a ton a day while crunching loudly."
+      },
+      {
+        "game": "sm-m",
+        "text": "This slow-footed Pokémon moves by curling up\nand rolling instead of walking. With enough\nmomentum, its speed can exceed 60 mph."
+      },
+      {
+        "game": "usum-us",
+        "text": "It climbs up cliffs as it heads toward the peak\nof a mountain. As soon as it reaches the summit,\nit rolls back down the way it came."
+      },
+      {
+        "game": "usum-um",
+        "text": "It travels by rolling down cliffs. If it falls into a\nriver, it will explode with its last gasp."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Often seen rolling down mountain trails.\nObstacles are just things to roll straight over,\nnot avoid."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Often seen rolling down mountain trails.\nObstacles are just things to roll straight over,\nnot avoid."
+      },
+      {
+        "game": "la",
+        "text": "Dwells in holes dug into sheer walls of stone. It enjoys rolling\ndown slopes as though it were a boulder during a rockfall,\nso keep an eye upward while traversing mountain roads."
+      }
+    ]
+  },
+  "chs": {
+    "name": "隆隆石",
+    "genus": "岩石宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "非常喜欢吃长有苔藓的岩石。\n发着嘎吱嘎吱的声音，\n１天吃１吨以上。"
+      },
+      {
+        "game": "sm-m",
+        "text": "因腿脚笨拙而把身体蜷成一团\n翻滚着移动。蓄势而发的话，\n时速能超过１００千米。"
+      },
+      {
+        "game": "usum-us",
+        "text": "会爬上山崖前往山顶。\n到达山顶后，会立刻\n沿着来时的山路滚下去。"
+      },
+      {
+        "game": "usum-um",
+        "text": "会从悬崖上滚下来移动。\n如果不慎落入河里，\n就会来个大爆炸以作最后挣扎。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "常在山路上滚来滚去。\n滚动时从来不关心\n前面的路上都有什么。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "常在山路上滚来滚去。\n滚动时从来不关心\n前面的路上都有什么。"
+      }
+    ]
+  }
+}

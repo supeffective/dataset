@@ -1,0 +1,133 @@
+{
+  "jap": {
+    "name": "サッチムシ",
+    "genus": "ようちゅうポケモン",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "いつも　せっせと　じょうほうを\nあつめているので　かしこい。\nただし　ちからは　いまいちだ。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "はたけで　よくみかける　ポケモン。\nからだに　はえた　けで　まわりで\nおきていることを　かんじとる。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Sacchimushi",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "두루지벌레",
+    "genus": "유충포켓몬",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "언제나 부지런히 정보를\n모으기 때문에 똑똑하다.\n단, 힘은 그저 그렇다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "밭에서 자주 보이는 포켓몬이다.\n몸에 난 털로 주위에서\n일어나는 일을 감지한다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "索偵蟲",
+    "genus": "幼蟲寶可夢",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "總是孜孜不倦地收集情報，\n所以頭腦相當地聰明，\n但是力量方面就差了一些。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "經常出現在田地裡的寶可夢。\n會透過長在身體上的毛\n來感應周圍發生的事。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Larvadar",
+    "genus": "Pokémon Larve",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Comme il passe tout son temps à recueillir des\ninformations, son intelligence est très développée,\nmais sa force physique laisse à désirer."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "On le voit souvent dans les champs.\nLes poils de son corps lui servent à capter\nce qu’il se passe autour de lui."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Sensect",
+    "genus": "Larven-Pokémon",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Sensect ist ein schlaues Pokémon, da es immer\nfleißig Informationen sammelt. Seine Stärke lässt\njedoch zu wünschen übrig."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Dieses Pokémon trifft man oft auf Feldern an.\nMit den Haaren, die an seinem Körper wachsen,\nspürt es, was in der Umgebung vor sich geht."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Blipbug",
+    "genus": "Pokémon Pupa",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Siempre está recopilando información, por lo\nque es muy inteligente, aunque su fuerza deja\nbastante que desear."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Es habitual verlo en el campo. Los pelos que\ntiene son sensores con los que percibe lo que\nocurre a su alrededor."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Blipbug",
+    "genus": "Pokémon Coleolarva",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Sempre impegnato a raccogliere informazioni,\nha sviluppato molto la sua intelligenza, ma non\nha una grande forza."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Si incontra spesso nei campi. Le setole che\ncrescono sul suo corpo gli permettono di\npercepire ciò che accade attorno a lui."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Blipbug",
+    "genus": "Larva Pokémon",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "A constant collector of information, this Pokémon\nis very smart. Very strong is what it isn’t."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Often found in gardens, this Pokémon has hairs\non its body that it uses to assess its surroundings."
+      }
+    ]
+  },
+  "chs": {
+    "name": "索侦虫",
+    "genus": "幼虫宝可梦",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "总是孜孜不倦地收集情报，\n所以头脑相当地聪明，\n但力量方面就差了一些。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "经常出现在田地里的宝可梦。\n会通过长在身体上的毛\n来感应周围发生的事。"
+      }
+    ]
+  }
+}

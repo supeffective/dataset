@@ -1,0 +1,205 @@
+{
+  "jap": {
+    "name": "デカグース",
+    "genus": "はりこみポケモン",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "えものの　こんせきを　みつけると\nねばりづよく　そのばに　はりこむが\nひぐれには　うつらうつら　している。"
+      },
+      {
+        "game": "sm-m",
+        "text": "コラッタや　ラッタが　こうぶつなのに\nちゅうこうせいのため　であえない。\nにんたいづよさが　じまんの　ポケモン。"
+      },
+      {
+        "game": "usum-us",
+        "text": "もともと　アローラには　いなかったが\nむかし　コラッタが　たいりょうに\nはっせいしたときに　つれてこられた。"
+      },
+      {
+        "game": "usum-um",
+        "text": "とても　がまんづよい　せいしつだが\nこうぶつの　コラッタを　みつけると\nわれを　わすれて　とびかかるぞ。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Dekagoose",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "형사구스",
+    "genus": "잠복포켓몬",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "먹이의 흔적을 찾으면\n끈질기게 그 자리에 잠복하지만\n날이 저물면 꾸벅꾸벅 존다."
+      },
+      {
+        "game": "sm-m",
+        "text": "꼬렛과 레트라를 좋아하지만\n주행성이라 마주치지 못한다.\n강한 인내력이 자랑인 포켓몬이다."
+      },
+      {
+        "game": "usum-us",
+        "text": "원래 알로라에 없었지만,\n옛날 꼬렛이 대량으로\n발생했을 때 데려왔다."
+      },
+      {
+        "game": "usum-um",
+        "text": "매우 인내심이 강한 성질이지만\n좋아하는 꼬렛을 발견하면\n이성을 잃고 덤벼든다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "貓鼬探長",
+    "genus": "監視寶可夢",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "找到獵物的蹤跡後，\n就會堅持蹲守在那個地方，\n但到了傍晚就會昏昏欲睡。"
+      },
+      {
+        "game": "sm-m",
+        "text": "喜歡吃小拉達和拉達，\n但因為是晝行性而沒機會遇到。\n是以忍耐力強而自豪的寶可夢。"
+      },
+      {
+        "game": "usum-us",
+        "text": "原本沒有棲息在阿羅拉，\n是在過去小拉達大量繁殖的時候\n被人們帶過來的。"
+      },
+      {
+        "game": "usum-um",
+        "text": "忍耐力非常強，然而只要\n看見自己愛吃的小拉達，\n就會立刻忘我地撲上去。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Argouste",
+    "genus": "Pokémon Filature",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "Lorsqu’il est sur les traces d’une proie,\nce Pokémon n’est pas du genre à abandonner.\nSauf le soir, lorsqu’il tombe de sommeil."
+      },
+      {
+        "game": "sm-m",
+        "text": "Il est accro au goût des Rattata et Rattatac,\nmais n’en croise pas beaucoup car ceux-ci sont\nnocturnes. Heureusement, il sait rester patient."
+      },
+      {
+        "game": "usum-us",
+        "text": "À l’origine, on ne le trouvait pas à Alola,\nmais il y a été introduit il y a bien longtemps\npour faire face à la prolifération de Rattata."
+      },
+      {
+        "game": "usum-um",
+        "text": "D’un naturel très patient, il ne peut toutefois\ns’empêcher de bondir sur son plat favori,\nRattata, s’il en voit un."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Manguspektor",
+    "genus": "Beschattung",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "Findet es Spuren potenzieller Beute, legt\nes sich sofort auf die Lauer. Spätestens\nbei Sonnenuntergang nickt es aber ein."
+      },
+      {
+        "game": "sm-m",
+        "text": "Rattfratz und Rattikarl sind seine Leibspeise,\naber leider nachtaktiv und daher selten auf\ndem Speiseplan. Ein sehr geduldiges Pokémon."
+      },
+      {
+        "game": "usum-us",
+        "text": "Dieses Pokémon lebte ursprünglich nicht in Alola\nund wurde vor langer Zeit eingeführt, als es eine\nÜberpopulation von Rattfratz in der Region gab."
+      },
+      {
+        "game": "usum-um",
+        "text": "Dieses Pokémon ist eigentlich sehr geduldig.\nSieht es jedoch ein Rattfratz, seine Leibspeise,\nstürzt es sich völlig außer Kontrolle auf es."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Gumshoos",
+    "genus": "Pokémon Vigilante",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "Al detectar el rastro de una presa, la acecha\ncon tenacidad, pero al ponerse el sol le vence\nel sueño."
+      },
+      {
+        "game": "sm-m",
+        "text": "Sus presas favoritas son los Rattata y Raticate,\npero, al ser estos diurnos, rara vez se cruza con\nellos. La perseverancia es su gran virtud."
+      },
+      {
+        "game": "usum-us",
+        "text": "No es autóctono de Alola, sino que se introdujo\npara paliar la superpoblación de Rattata que se\nprodujo en el pasado."
+      },
+      {
+        "game": "usum-um",
+        "text": "Tiene un carácter muy paciente, pero en cuanto\navista un Rattata, su manjar predilecto, pierde\nel control y se lanza sobre él como un poseso."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Gumshoos",
+    "genus": "Pokémon Sorveglianza",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "Scovate le tracce della preda, rimane di guardia\nsul posto senza battere ciglio fino al calare\ndel sole, poi cede alla stanchezza."
+      },
+      {
+        "game": "sm-m",
+        "text": "È ghiotto di Rattata e Raticate, ma poiché\nè un Pokémon diurno, non ne incontra molti.\nLa perseveranza è la sua dote di spicco."
+      },
+      {
+        "game": "usum-us",
+        "text": "È stato introdotto ad Alola in passato per\nfare fronte alla sovrappopolazione di Rattata."
+      },
+      {
+        "game": "usum-um",
+        "text": "È un Pokémon molto paziente, ma quando\ntrova un Rattata, di cui va pazzo, perde\nil controllo e lo assale."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Gumshoos",
+    "genus": "Stakeout Pokémon",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "When it finds a trace of its prey, it patiently\nstakes out the location...but it’s always snoozing\nby nightfall."
+      },
+      {
+        "game": "sm-m",
+        "text": "It adores having Rattata and Raticate for dinner,\nbut as it’s diurnal, it never encounters them.\nThis Pokémon boasts incredible patience."
+      },
+      {
+        "game": "usum-us",
+        "text": "Although it wasn’t originally found in Alola, this\nPokémon was brought over a long time ago\nwhen there was a huge Rattata outbreak."
+      },
+      {
+        "game": "usum-um",
+        "text": "Patient by nature, this Pokémon loses control of\nitself and pounces when it spots its favorite\nmeal—Rattata!"
+      }
+    ]
+  },
+  "chs": {
+    "name": "猫鼬探长",
+    "genus": "蹲守宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "找到猎物的踪迹后，\n就会坚持蹲守在那个地方，\n但到了傍晚就会昏昏欲睡。"
+      },
+      {
+        "game": "sm-m",
+        "text": "喜欢吃小拉达和拉达，\n但因为昼行性而无法遇到。\n是以忍耐力强而自豪的宝可梦。"
+      },
+      {
+        "game": "usum-us",
+        "text": "原本在阿罗拉是没有的，\n但过去小拉达大量出现的时候\n被带了过来。"
+      },
+      {
+        "game": "usum-um",
+        "text": "忍耐力非常强，\n但如果见到它爱吃的小拉达，\n就会忘乎所以地扑过去。"
+      }
+    ]
+  }
+}

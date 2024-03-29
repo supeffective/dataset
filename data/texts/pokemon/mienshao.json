@@ -1,0 +1,341 @@
+{
+  "jap": {
+    "name": "コジョンド",
+    "genus": "ぶじゅつポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "うでの　たいもうを　ムチのように\nあつかう。りょううでの　こうげきは\nめにも　とまらぬ　はやさ。"
+      },
+      {
+        "game": "xy-y",
+        "text": "りょうての　たいもうを　ムチのように\nつかいこなし　れんぞくこうげきを\nはじめると　だれにも　とめられない。"
+      },
+      {
+        "game": "oras-or",
+        "text": "うでの　たいもうを　ムチのように\nあつかう。りょううでの　こうげきは\nめにも　とまらぬ　はやさ。"
+      },
+      {
+        "game": "oras-as",
+        "text": "りょうての　たいもうを　ムチのように\nつかいこなし　れんぞくこうげきを\nはじめると　だれにも　とめられない。"
+      },
+      {
+        "game": "usum-us",
+        "text": "れんぞく　こうげきで　あいてを\nあっとうする。　とどめの　いちげきは\nゆっくり　ちからを　ためて　はなつ。"
+      },
+      {
+        "game": "usum-um",
+        "text": "きみょうなこえで　ほえたら　キケン。\nめにもとまらぬ　キックや　チョップの\nれんぞくこうげきが　はじまるぞ。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "しんの　きょうてきと　あうと\nみがるに　なるため　りょうての\nけを　かみちぎり　すててしまう。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "めにも　とまらぬ　スピードで\nくりだす　けりは　きょだいな\nいわも　こっぱみじんに　くだく。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Kojondo",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "비조도",
+    "genus": "무술포켓몬",
+    "flavorText": [
+      {
+        "game": "swsh-sh",
+        "text": "눈에 보이지 않을 정도의 스피드로\n구사하는 발차기는 거대한\n바위도 산산이 조각낸다."
+      },
+      {
+        "game": "xy-x",
+        "text": "팔에 있는 털을 채찍처럼\n다룬다. 양팔로 펼치는 공격은\n눈에 보이지 않을 만큼 빠르다."
+      },
+      {
+        "game": "xy-y",
+        "text": "양손의 털을 채찍처럼\n능숙하게 다뤄 연속 공격을\n시작하면 아무도 멈출 수 없다."
+      },
+      {
+        "game": "oras-or",
+        "text": "팔에 있는 털을 채찍처럼\n다룬다. 양팔로 펼치는 공격은\n눈에 보이지 않을 만큼 빠르다."
+      },
+      {
+        "game": "oras-as",
+        "text": "양손의 털을 채찍처럼\n능숙하게 다뤄 연속 공격을\n시작하면 아무도 멈출 수 없다."
+      },
+      {
+        "game": "usum-us",
+        "text": "연속 공격으로 상대를 압도한다.\n마무리는 느긋하게\n힘을 모아 일격을 가한다."
+      },
+      {
+        "game": "usum-um",
+        "text": "기묘한 소리로 짖는다면 위험하다.\n눈에 보이지도 않는 킥과 촙의\n연속 공격이 시작된다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "진정한 강적과 만나면\n몸을 가볍게 하기 위해\n양손의 털을 물어뜯어 버린다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "師父鼬",
+    "genus": "武術寶可夢",
+    "flavorText": [
+      {
+        "game": "swsh-sh",
+        "text": "快到無法看清的踢腿\n非常強烈，即使是\n巨大的岩石也能粉碎。"
+      },
+      {
+        "game": "usum-us",
+        "text": "會用連續攻擊壓倒對手。\n致命的一擊會在\n緩慢蓄力之後施展出來。"
+      },
+      {
+        "game": "usum-um",
+        "text": "當牠用奇妙聲音發出叫喊時是很危險的，\n由快到無法看清的踢腿和手刀\n組成的連續攻擊將接踵而來。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "當牠遇上真正的強敵時，\n會將雙臂的毛咬斷丟棄，\n讓自己的身體更加輕盈。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Shaofouine",
+    "genus": "Pokémon Art Martial",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Il se sert des poils de ses pattes\nantérieures comme de fouets. Ses coups\nultrarapides sont invisibles à l’œil nu."
+      },
+      {
+        "game": "bw-w",
+        "text": "Il combat à l’aide des longs poils\nde ses pattes antérieures. \nIls font aussi mal qu’un fouet."
+      },
+      {
+        "game": "xy-x",
+        "text": "Il se sert des poils de ses pattes antérieures comme\nde fouets. Ses coups ultrarapides sont invisibles à\nl’œil nu."
+      },
+      {
+        "game": "xy-y",
+        "text": "Il combat à l’aide des longs poils de ses pattes\nantérieures. Une fois lancé dans ses enchaînements,\nrien ne l’arrête."
+      },
+      {
+        "game": "oras-or",
+        "text": "Il se sert des poils de ses pattes antérieures comme de fouets.\nSes coups ultrarapides sont invisibles à l’œil nu."
+      },
+      {
+        "game": "oras-as",
+        "text": "Il combat à l’aide des longs poils de ses pattes antérieures.\nUne fois lancé dans ses enchaînements, rien ne l’arrête."
+      },
+      {
+        "game": "usum-us",
+        "text": "Il accule son ennemi avec une rafale d’attaques\nfulgurantes, puis concentre son énergie pour\nlui donner le coup de grâce."
+      },
+      {
+        "game": "usum-um",
+        "text": "Le cri lugubre de Shaofouine annonce qu’il est\nsur le point de déchaîner une pluie de coups\nsi rapides qu’ils en sont invisibles."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Lorsqu’il fait face à un adversaire vraiment\nredoutable, il coupe les poils de ses mains\navec les dents pour améliorer son agilité."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Ses coups de pied ultrarapides et invisibles\nà l’œil nu peuvent réduire un énorme rocher\nen poussière."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Wie-Shu",
+    "genus": "Kampfkünste-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Es benutzt das Fell an seinen Armen als Peitsche.\nBeide Arme bewegen sich dabei\nmit atemberaubender Geschwindigkeit."
+      },
+      {
+        "game": "xy-y",
+        "text": "Niemand kann es aufhalten, wenn es eine Angriffsserie\nmit seinen peitschenartigen Armen startet."
+      },
+      {
+        "game": "oras-or",
+        "text": "Es benutzt das Fell an seinen Armen als Peitsche. Beide Arme\nbewegen sich dabei mit atemberaubender Geschwindigkeit."
+      },
+      {
+        "game": "oras-as",
+        "text": "Niemand kann es aufhalten, wenn es eine Angriffsserie mit\nseinen peitschenartigen Armen startet."
+      },
+      {
+        "game": "usum-us",
+        "text": "Es überwältigt seine Gegner mit einer Serie aus\nAngriffen. Den finalen Stoß versetzt es ihnen\nerst, nachdem es seine Energie gebündelt hat."
+      },
+      {
+        "game": "usum-um",
+        "text": "Gibt es einen sonderbaren Laut von sich, sollte\nman schnell in Deckung gehen, da eine rasante\nAngriffsserie aus Schlägen und Tritten folgt."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Begegnet es einem wahrhaft starken Gegner,\nbeißt es das Fell an seinen Armen ab, um an\nBeweglichkeit zu gewinnen."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Seine mit atemberaubender Geschwindigkeit\nausgeführten Tritte können selbst riesige Felsen\nin winzige Stücke zerschmettern."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Mienshao",
+    "genus": "Pokémon Arte Marcial",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Usa el pelaje de sus brazos a manera de látigos.\nSus ataques alcanzan velocidades de vértigo."
+      },
+      {
+        "game": "xy-y",
+        "text": "Usa el pelaje de sus brazos a modo de látigos para\nencadenar ataques que nadie puede parar una vez\niniciados."
+      },
+      {
+        "game": "oras-or",
+        "text": "Usa el pelaje de sus brazos a manera de látigos. Sus ataques\nalcanzan velocidades de vértigo."
+      },
+      {
+        "game": "oras-as",
+        "text": "Usa el pelaje de sus brazos a modo de látigos para encadenar\nataques que nadie puede parar una vez iniciados."
+      },
+      {
+        "game": "usum-us",
+        "text": "Ataca al rival con una rápida ráfaga de golpes,\nmientras reúne poco a poco la energía necesaria\npara asestar el golpe definitivo."
+      },
+      {
+        "game": "usum-um",
+        "text": "Si emite extraños aullidos, hay que extremar la\nprecaución: empezará a repartir un sinfín de\npatadas y puñetazos a una velocidad pasmosa."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Cuando se encuentra frente a un oponente de\ncategoría, se arranca parte del pelaje de los\nbrazos a mordiscos para ganar agilidad."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Sus veloces patadas, que escapan al ojo humano,\nson capaces de reducir a escombros incluso rocas\nde gran tamaño."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Mienshao",
+    "genus": "Pokémon Marziale",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Usa i peli degli arti come fruste. I suoi attacchi sono\ntalmente rapidi da essere invisibili a occhio nudo."
+      },
+      {
+        "game": "xy-y",
+        "text": "Usa i peli degli arti anteriori a mo’ di frusta e se inizia\nun attacco a catena non c’è nessuno che lo possa\nfermare."
+      },
+      {
+        "game": "oras-or",
+        "text": "Usa i peli degli arti come fruste. I suoi attacchi sono\ntalmente rapidi da essere invisibili a occhio nudo."
+      },
+      {
+        "game": "oras-as",
+        "text": "Usa i peli degli arti anteriori a mo’ di frusta e se inizia un\nattacco a catena non c’è nessuno che lo possa fermare."
+      },
+      {
+        "game": "usum-us",
+        "text": "Mette alle strette l’avversario con una raffica\ndi colpi, poi si concentra per raccogliere le\nenergie prima di sferrare il colpo finale."
+      },
+      {
+        "game": "usum-um",
+        "text": "Se emette un verso bizzarro, è meglio stargli\nalla larga: potrebbe scatenare una pioggia di\ncalci e pugni così rapidi da essere invisibili!"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Se incontra un nemico veramente forte,\nsi strappa a morsi i peli degli arti per alleggerirsi\ne guadagnare in agilità."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "I suoi calci, talmente veloci da risultare invisibili,\nsono in grado di sbriciolare anche massi enormi."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Mienshao",
+    "genus": "Martial Arts Pokémon",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "It wields the fur on its arms like a whip.\nIts arm attacks come with such rapidity\nthat they cannot even be seen."
+      },
+      {
+        "game": "bw-w",
+        "text": "They use the long fur on their arms\nas a whip to strike their opponents."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "Using the long fur on its arms like whips,\nit launches into combo attacks that,\nonce started, no one can stop."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "Using the long fur on its arms like whips,\nit launches into combo attacks that,\nonce started, no one can stop."
+      },
+      {
+        "game": "xy-x",
+        "text": "It wields the fur on its arms like a whip. Its arm\nattacks come with such rapidity that they cannot\neven be seen."
+      },
+      {
+        "game": "xy-y",
+        "text": "Using the long fur on its arms like whips, it\nlaunches into combo attacks that, once started,\nno one can stop."
+      },
+      {
+        "game": "oras-or",
+        "text": "It wields the fur on its arms like a whip. Its arm\nattacks come with such rapidity that they cannot\neven be seen."
+      },
+      {
+        "game": "oras-as",
+        "text": "Using the long fur on its arms like whips, it\nlaunches into combo attacks that, once started,\nno one can stop."
+      },
+      {
+        "game": "usum-us",
+        "text": "It overwhelms its opponents with continuous\nattacks and then slowly stores up power\nbefore delivering the finishing blow."
+      },
+      {
+        "game": "usum-um",
+        "text": "When Mienshao lets out a bizarre wail, you’re in\ndanger. A flurry of kicks and chops too fast to\nsee is about to be unleashed!"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "When Mienshao comes across a truly challenging\nopponent, it will lighten itself by biting off the\nfur on its arms."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Delivered at blinding speeds, kicks from this\nPokémon can shatter massive boulders into\ntiny pieces."
+      }
+    ]
+  },
+  "chs": {
+    "name": "师父鼬",
+    "genus": "武术宝可梦",
+    "flavorText": [
+      {
+        "game": "usum-us",
+        "text": "会用连续攻击压倒对手。\n致命的一击会在缓慢蓄力后施展出来。"
+      },
+      {
+        "game": "usum-um",
+        "text": "用奇妙的声音叫唤的话，就危险了。\n它会展开飞快的踢和劈来连续攻击。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "遇到真正的强敌时，\n为了让身体更加灵便，\n会咬断自己双手的毛扔掉。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "以迅雷不及掩耳的速度\n使出踢击，即使是巨大的\n岩石也能击得粉碎。"
+      }
+    ]
+  }
+}

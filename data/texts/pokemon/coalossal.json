@@ -1,0 +1,133 @@
+{
+  "jap": {
+    "name": "セキタンザン",
+    "genus": "せきたんポケモン",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "ふだんは　おだやかだが　にんげんが\nこうざんを　あらすと　いかりくるい\n１５００どの　ほのおで　やきつくす。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "たたかいになると　せきたんの　やまが\nまっかに　もえあがり　ひのこを\nまきちらして　しゅういを　こがす。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Sekitanzan",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "석탄산",
+    "genus": "석탄포켓몬",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "평소에는 온화하지만 인간이\n광산을 훼손시키면 격분해서\n1500도의 불꽃으로 태워버린다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "싸우게 되면 석탄으로 된 산이\n새빨갛게 타올라 불똥을\n흩뿌려 주위를 태운다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "巨炭山",
+    "genus": "煤炭寶可夢",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "平時性情溫和，但在人類\n破壞礦山時會大發雷霆，\n用１５００度的大火將他們燒盡。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "進入戰鬥狀態後，\n牠會把煤炭山燃燒得通紅，\n飛撒火花來燒焦四周。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Monthracite",
+    "genus": "Pokémon Charbon",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Il est d’une nature paisible, mais si les humains\ntentent de piller ses mines, il enrage et brûle\ntout avec des flammes à 1 500 °C."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Lorsqu’il s’engage dans un combat, son tas\nde charbon brûle et vire au rouge, ce qui répand\nde petites étincelles qui calcinent ce qui l’entoure."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Montecarbo",
+    "genus": "Kohle-Pokémon",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Meist ist es friedfertig, aber wenn Menschen\neine Mine zugrunde richten, sieht es rot und\nverbrennt sie mit 1 500 ºC heißen Flammen."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Kommt es zum Kampf, so lodert sein Kohleberg\ntiefrot auf und es sprüht glühende Funken, die\nseine Umgebung versengen."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Coalossal",
+    "genus": "Pokémon Carbón",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Aunque es de carácter sereno, monta en cólera\nsi ve a seres humanos dañando una mina y reduce\ntodo a cenizas con sus llamas a 1500 °C."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Cuando se enzarza en un combate, la montaña\nde carbón arde al rojo vivo y esparce chispas\nque calcinan todo lo que le rodea."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Coalossal",
+    "genus": "Pokémon Carbone",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Di solito è tranquillo, ma se gli esseri umani\ndanneggiano la sua miniera va su tutte le furie e\nbrucia tutto emettendo fiamme a 1.500 ºC."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Quando lotta, la montagna di carbone brucia\ncon bagliori rossastri e sparge scintille che\nanneriscono tutta l’area circostante."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Coalossal",
+    "genus": "Coal Pokémon",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "It’s usually peaceful, but the vandalism of mines\nenrages it. Offenders will be incinerated with\nflames that reach 2,700 degrees Fahrenheit."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "While it’s engaged in battle, its mountain of coal\nwill burn bright red, sending off sparks that\nscorch the surrounding area."
+      }
+    ]
+  },
+  "chs": {
+    "name": "巨炭山",
+    "genus": "煤炭宝可梦",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "平时性情温和，但在人类\n破坏矿山时会大发雷霆，\n用１５００度的大火将他们烧尽。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "进入战斗状态后，\n它会把煤炭山燃烧得通红，\n飞撒火花来烧焦四周。"
+      }
+    ]
+  }
+}

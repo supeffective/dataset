@@ -1,0 +1,549 @@
+{
+  "jap": {
+    "name": "カイロス",
+    "genus": "くわがたポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "２ほんの　ツノで　えものを　はさんで\nちぎれるまで　はなさない。ちぎれない\nときは　かなたまで　なげとばすのだ。"
+      },
+      {
+        "game": "xy-y",
+        "text": "ながい　ツノを　ふりまわして\nこうげきしてくる。さむいときは\nもりの　おくに　すがたを　かくす。"
+      },
+      {
+        "game": "oras-or",
+        "text": "じぶんの　たいじゅうの　２ばいも　ある　あいてを\nツノで　はさみ　かるがる　もちあげる　かいりき。\nさむい　ばしょでは　からだの　うごきが　にぶる。"
+      },
+      {
+        "game": "oras-as",
+        "text": "たくましい　２ほんの　ツノの　ひょうめんに　ある\nトゲが　あいての　からだに　ふかく　くいこむので\nはさまれると　かんたんに　はずせないのだ。"
+      },
+      {
+        "game": "sm-s",
+        "text": "ながい　ツノで　あいてを　はさみこみ\nそのまま　まっぷたつに　してしまう。\nパワフルだが　さむいのは　にがて。"
+      },
+      {
+        "game": "sm-m",
+        "text": "ツノの　いちげきは　たいぼく　さえ\nへしおるほど。　アローラでは\nクワガノンが　さいだいの　ライバル。"
+      },
+      {
+        "game": "usum-us",
+        "text": "クワガノンと　なわばりを　あらそう。\nアローラでは　なぜか　ヘラクロスと\nけっこう　なかが　よいらしい。"
+      },
+      {
+        "game": "usum-um",
+        "text": "たくましいが　さむさが　じゃくてん。\nよるに　なると　このはの　なかに\nからだを　うずめて　ねむる。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "ツノで　はさんで　パワーぜんかい！\nさむくなると　うごけなくなるから\nあたたかい　ところに　すんでいる。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "ツノで　はさんで　パワーぜんかい！\nさむくなると　うごけなくなるから\nあたたかい　ところに　すんでいる。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "ツノで　たがいを　かくづけする。\nふとく　りっぱな　ツノを　もつ\nカイロスほど　いせいに　にんき。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "ツノで　えものを　はさみこみ\nそのまま　まっぷたつに　するか\nごういんに　なげとばしてしまう。　"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Kailios",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "쁘사이저",
+    "genus": "뿔집게포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "2개의 뿔 사이에 먹이를 끼우고\n조각날 때까지 놓지 않는다. 조각나지\n않으면 저편으로 세게 내던진다."
+      },
+      {
+        "game": "xy-y",
+        "text": "긴 뿔을 휘둘러서\n공격을 해온다. 추울 때는\n숲 깊은 곳에 몸을 숨긴다."
+      },
+      {
+        "game": "oras-or",
+        "text": "자신의 몸무게 두 배나 되는 상대를 뿔로\n집어 가볍게 들어 올리는 괴력을 지녔다.\n추운 곳에서는 몸의 움직임이 둔해진다."
+      },
+      {
+        "game": "oras-as",
+        "text": "늠름한 2개의 뿔 표면에 있는\n가시가 상대의 몸에 깊숙이 파고들어서\n집히면 쉽게 벗어날 수 없다."
+      },
+      {
+        "game": "sm-s",
+        "text": "긴 뿔로 상대를 끼워 넣어\n그대로 두 동강을 내 버린다.\n파워풀하지만 추운 것을 싫어한다."
+      },
+      {
+        "game": "sm-m",
+        "text": "뿔의 일격은 큰 나무조차도\n부러뜨릴 정도다. 알로라에서는\n투구뿌논이 최대의 라이벌이다."
+      },
+      {
+        "game": "usum-us",
+        "text": "투구뿌논과 영역 다툼을 한다.\n알로라에서는 어째서인지\n헤라크로스와 사이가 좋은 듯하다."
+      },
+      {
+        "game": "usum-um",
+        "text": "늠름하지만 추위가 약점이다.\n밤이 되면 나뭇잎 속에\n몸을 파묻고 잔다."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "뿔로 집은 다음 있는 힘껏 조인다!\n추워지면 움직일 수 없게 되므로\n따뜻한 곳에 산다."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "뿔로 집은 다음 있는 힘껏 조인다!\n추워지면 움직일 수 없게 되므로\n따뜻한 곳에 산다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "뿔로 서로의 등급을 매긴다.\n굵고 훌륭한 뿔을 가진\n쁘사이저일수록 이성에게 인기다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "뿔로 먹이를 찔러 넣어\n그대로 두 동강으로 만들거나\n강제로 던져버린다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "凱羅斯",
+    "genus": "鍬形蟲寶可夢",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "會用長長的角把對手夾住，\n就這樣把對方夾成兩半。\n力量非常強大，但很害怕寒冷。"
+      },
+      {
+        "game": "sm-m",
+        "text": "角的一擊連大樹都能折斷。\n在阿羅拉，鍬農炮蟲是牠最大的競爭者。"
+      },
+      {
+        "game": "usum-us",
+        "text": "會和鍬農炮蟲爭奪地盤。\n不知為何，在阿羅拉這裡，\n牠和赫拉克羅斯的關係相當不錯。"
+      },
+      {
+        "game": "usum-um",
+        "text": "雖然很強壯，但弱點是怕冷。\n到了晚上就會把身體\n埋在樹葉堆裡睡覺。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "用角夾住對手全力突擊！\n氣溫低時會變得無法動彈，\n所以總是住在溫暖的地方。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "用角夾住對手全力突擊！\n氣溫低時會變得無法動彈，\n所以總是住在溫暖的地方。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "會以角來判斷彼此的地位。\n凱羅斯的角越是粗壯氣派，\n就越能得到異性的愛戴。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "會用角緊緊夾住獵物，\n就這樣把對方剪成兩半\n或是把牠硬扔到天邊去。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Scarabrute",
+    "genus": "Pokémon Scarabée",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Il serre les proies dans ses pinces\npour les trancher en deux. S’il n’y\narrive pas, il les jette au loin."
+      },
+      {
+        "game": "bw-w",
+        "text": "Il serre les proies dans ses pinces\npour les trancher en deux. S’il n’y\narrive pas, il les jette au loin."
+      },
+      {
+        "game": "xy-x",
+        "text": "Il serre les proies dans ses pinces pour les trancher\nen deux. S’il n’y arrive pas, il les jette au loin."
+      },
+      {
+        "game": "xy-y",
+        "text": "Il attaque sauvagement avec ses cornes. En hiver,\nil se cache au plus profond des forêts."
+      },
+      {
+        "game": "oras-or",
+        "text": "Scarabrute est incroyablement fort. Il peut attraper un ennemi\nqui pèse deux fois son poids dans ses mandibules et le\nsoulever sans le moindre problème. Lorsqu’il fait froid,\nles mouvements de ce Pokémon sont un peu ralentis."
+      },
+      {
+        "game": "oras-as",
+        "text": "Scarabrute est doté de cornes imposantes. Des pointes\njaillissent de la surface de ses cornes. Ces pointes s’enfoncent\nprofondément dans le corps de l’ennemi, l’empêchant ainsi\nde s’échapper."
+      },
+      {
+        "game": "sm-s",
+        "text": "Il attrape ses adversaires entre ses cornes et\nles tranche en deux d’un seul coup. Malgré sa\nforce, il a une faiblesse : le froid."
+      },
+      {
+        "game": "sm-m",
+        "text": "Il peut abattre un grand arbre d’un coup de\ncorne. À Alola, son plus grand rival est Lucanon."
+      },
+      {
+        "game": "usum-us",
+        "text": "Des luttes territoriales l’opposent aux Lucanon.\nÀ Alola, il semble bien s’entendre avec Scarhino."
+      },
+      {
+        "game": "usum-um",
+        "text": "Ce Pokémon a beau être robuste, il supporte\nmal le froid. La nuit, il s’enfouit donc sous un tas\nde feuilles pour dormir au chaud."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Il enserre sa proie de sa puissante pince.\nIl ne peut pas se déplacer dans le froid,\ndonc on le trouve dans les milieux chauds."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Il enserre sa proie de sa puissante pince.\nIl ne peut pas se déplacer dans le froid,\ndonc on le trouve dans les milieux chauds."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Ses cornes déterminent son rang au sein\ndu groupe. Plus elles sont imposantes, plus\nles membres du sexe opposé l’apprécient."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Une fois sa proie enserrée entre ses cornes,\ndeux choix s’offrent à lui : la couper en deux\nou la projeter au loin de toutes ses forces."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Pinsir",
+    "genus": "Kneifkäfer-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Es hält seine Beute mit seiner Zange fest und\nteilt sie dann. Was es nicht teilen kann, wirft es fort."
+      },
+      {
+        "game": "xy-y",
+        "text": "Beim Angriff verdreht es sein Geweih.\nIn Kälteperioden versteckt es sich tief im Wald."
+      },
+      {
+        "game": "oras-or",
+        "text": "Pinsir ist erstaunlich stark. Es kann einen Feind, der\ndoppelt so viel wiegt wie es selbst, mit seinen Hörnern\npacken und hochheben. Bei niedrigen Temperaturen\nwerden die Bewegungen dieses Pokémon schwerfällig."
+      },
+      {
+        "game": "oras-as",
+        "text": "Pinsir hat ein Paar massive Hörner. Aus diesen ragen Dornen\nhervor, die sich in den Körper seines Gegners hineinbohren,\nwenn sich die Zange schließt, und ihm das Entkommen\nschwer machen."
+      },
+      {
+        "game": "sm-s",
+        "text": "Es nimmt Gegner mit seinen langen Hörnern in\ndie Zange und reißt sie damit entzwei. Es ist\nsehr stark, aber es verabscheut Kälte."
+      },
+      {
+        "game": "sm-m",
+        "text": "Ein Stoß mit seinen Hörnern reicht, um große\nBäume zu zersplittern. In Alola ist Donarion\nsein größter Rivale."
+      },
+      {
+        "game": "usum-us",
+        "text": "Es liefert sich Revierkämpfe mit Donarion. Aus\nnoch unbekannten Gründen versteht es sich in\nAlola ausgesprochen gut mit Skaraborn."
+      },
+      {
+        "game": "usum-um",
+        "text": "Es ist zwar robust, verträgt jedoch keine Kälte.\nBei Anbruch der Nacht vergräbt es sich im Laub\nund schläft."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Pinsir nimmt Gegner mit seinen Hörnern in die\nZange und drückt kräftig zu. Es lebt an warmen\nOrten, da es bei niedrigen Temperaturen erstarrt."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Pinsir nimmt Gegner mit seinen Hörnern in die\nZange und drückt kräftig zu. Es lebt an warmen\nOrten, da es bei niedrigen Temperaturen erstarrt."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Der Status eines Pinsirs hängt von seinen Hörnern\nab. Je dicker und stattlicher diese sind, desto\nbeliebter ist es beim anderen Geschlecht."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Pinsir nimmt Beute mit seinen Hörnern in die\nZange, um sie anschließend entzweizureißen\noder mit Wucht fortzuschleudern."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Pinsir",
+    "genus": "Pokémon Escarabajo",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Atrapa presas con sus pinzas hasta que las parte en\ndos. Lanza lejos lo que no puede quebrar."
+      },
+      {
+        "game": "xy-y",
+        "text": "Arremete violentamente con su cornamenta. Cuando\nllega el frío, se adentra en los bosques."
+      },
+      {
+        "game": "oras-or",
+        "text": "Pinsir es sorprendentemente fuerte. Puede agarrar con los\ncuernos a un rival que pese el doble que él y levantarlo por\nlos aires. En zonas frías, los movimientos de este Pokémon\nse vuelven lentos."
+      },
+      {
+        "game": "oras-as",
+        "text": "Pinsir tiene un par de cuernos imponentes recubiertos de\npinchos, que se clavan en el cuerpo del rival. Una vez que\nlos ha clavado, no hay quien escape de su abrazo."
+      },
+      {
+        "game": "sm-s",
+        "text": "Atrapa a sus rivales con las pinzas y los parte\nen dos con su enorme fuerza. A pesar de ser\nmuy fuerte, no soporta el frío."
+      },
+      {
+        "game": "sm-m",
+        "text": "Es capaz de derribar un árbol de una sola\narremetida. En Alola, su mayor rival es Vikavolt."
+      },
+      {
+        "game": "usum-us",
+        "text": "Son famosas sus disputas territoriales con los\nVikavolt. En Alola parece llevarse muy bien con\nlos Heracross por motivos que se desconocen."
+      },
+      {
+        "game": "usum-um",
+        "text": "Es de constitución robusta, pero no soporta el\nfrío. Al caer la noche, se cubre con un manto de\nhojas antes de conciliar el sueño."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Atrapa a su presa con las pinzas y aprieta fuerte.\nHabita en lugares cálidos, ya que el frío puede\nllegar a inmovilizarlo."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Atrapa a su presa con las pinzas y aprieta fuerte.\nHabita en lugares cálidos, ya que el frío puede\nllegar a inmovilizarlo."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Los Pinsir se juzgan entre ellos por la robustez\nde la cornamenta. Cuanto más imponente sea,\nmás agradará a sus congéneres del sexo opuesto."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Usa la cornamenta a modo de pinza para atrapar\na sus presas. Acto seguido, las parte por la mitad\no las arroja lejos."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Pinsir",
+    "genus": "Pokémon Cervolante",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Afferra la preda con le pinze e non la molla finché\nnon l’ha tranciata. Se non ci riesce, la scaglia via."
+      },
+      {
+        "game": "xy-y",
+        "text": "Quando attacca agita le lunghe corna. Nei periodi\nfreddi sta nascosto nelle foreste."
+      },
+      {
+        "game": "oras-or",
+        "text": "Pinsir è incredibilmente forte. Può afferrare e sollevare tra\nle chele sul capo un nemico dal peso doppio rispetto al suo.\nI suoi movimenti sono impacciati in luoghi freddi."
+      },
+      {
+        "game": "oras-as",
+        "text": "Pinsir è dotato di due chele enormi sul capo, dalla cui\nsuperficie sporgono aculei. Questi vengono conficcati\nnel corpo del nemico quando le chele si chiudono,\nper impedirne la fuga."
+      },
+      {
+        "game": "sm-s",
+        "text": "Afferra il nemico con le lunghe corna e lo trancia\nin due. È estremamente forte, ma non sopporta\nil freddo."
+      },
+      {
+        "game": "sm-m",
+        "text": "Con le sue corna può abbattere un grande\nalbero in un colpo solo. Nella regione di Alola,\nVikavolt è il suo più acerrimo nemico."
+      },
+      {
+        "game": "usum-us",
+        "text": "Si contende il territorio con i Vikavolt.\nPer qualche motivo, ad Alola i Pinsir sembrano\nandare d’accordo con gli Heracross."
+      },
+      {
+        "game": "usum-um",
+        "text": "È molto robusto ma non sopporta il freddo.\nAl calare della notte, si ripara sotto uno strato\ndi foglie per dormire."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Afferra la preda tra le corna, stritolandola\ncon tutte le sue forze. Vive in ambienti caldi\npoiché il freddo lo immobilizza."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Afferra la preda tra le corna, stritolandola\ncon tutte le sue forze. Vive in ambienti caldi\npoiché il freddo lo immobilizza."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "I Pinsir si giudicano a vicenda in base alle corna.\nQuelli con corna grosse e imponenti hanno\npiù successo con gli esemplari dell’altro sesso."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Afferra le prede con le corna e le trancia in due,\noppure le lancia via con violenza."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Pinsir",
+    "genus": "Stag Beetle Pokémon",
+    "flavorText": [
+      {
+        "game": "rb-r",
+        "text": "If it fails to\ncrush the victim\nin its pincers,\fit will swing it\naround and toss\nit hard."
+      },
+      {
+        "game": "rb-b",
+        "text": "If it fails to\ncrush the victim\nin its pincers,\fit will swing it\naround and toss\nit hard."
+      },
+      {
+        "game": "y",
+        "text": "Grips its prey in\nits pincers and\nsqueezes hard! It\fcan't move if it's\ncold, so it lives\nin warm places."
+      },
+      {
+        "game": "gs-g",
+        "text": "With its horns, it\ndigs burrows to\nsleep in at night.\fIn the morning,\ndamp soil clings\nto its body."
+      },
+      {
+        "game": "gs-s",
+        "text": "Swings its long\nantlers wildly to\nattack. During\fcold periods, it\nhides deep in\nforests."
+      },
+      {
+        "game": "c",
+        "text": "When the tempera­\nture drops at\nnight, it sleeps\fon treetops or\namong roots where\nit is well hidden."
+      },
+      {
+        "game": "rs-r",
+        "text": "PINSIR is astoundingly strong. It can\ngrip a foe weighing twice its weight\nin its horns and easily lift it.\fThis POKéMON’s movements turn sluggish\nin cold places."
+      },
+      {
+        "game": "rs-s",
+        "text": "PINSIR has a pair of massive horns \nProtruding from the surface of these\nhorns are thorns.\fThese thorns are driven deeply into the\nfoe’s body when the pincer closes,\nmaking it tough for the foe to escape."
+      },
+      {
+        "game": "e",
+        "text": "Their pincers are strong enough to\nshatter thick logs. Because they dislike\ncold, PINSIR burrow and sleep under\nthe ground on chilly nights."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "Its two long pincer horns are powerful.\nOnce they grip an enemy, they won’t\nrelease until the foe is torn."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "If it fails to crush the foe in its\npincers, it will swing around and toss\nthe opponent."
+      },
+      {
+        "game": "dp-d",
+        "text": "It grips prey with its pincers\nuntil the prey is torn in half.\nWhat it can’t tear, it tosses far."
+      },
+      {
+        "game": "dp-p",
+        "text": "It grips prey with its pincers\nuntil the prey is torn in half.\nWhat it can’t tear, it tosses far."
+      },
+      {
+        "game": "pt",
+        "text": "It grips prey with its pincers\nuntil the prey is torn in half.\nWhat it can’t tear, it tosses far."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "With its pincer horns, it digs burrows\nto sleep in at night. In the morning,\ndamp soil clings to its body."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "It swings its long pincer horns wildly\nto attack. During cold periods, it\nhides deep in forests."
+      },
+      {
+        "game": "bw-b",
+        "text": "It grips prey with its pincers\nuntil the prey is torn in half.\nWhat it can’t tear, it tosses far."
+      },
+      {
+        "game": "bw-w",
+        "text": "It grips prey with its pincers\nuntil the prey is torn in half.\nWhat it can’t tear, it tosses far."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "It grips prey with its powerful\npincers and will not let go\nuntil the prey is torn in half."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "It grips prey with its powerful\npincers and will not let go\nuntil the prey is torn in half."
+      },
+      {
+        "game": "xy-x",
+        "text": "It grips prey with its pincers until the prey is torn\nin half. What it can’t tear, it tosses far."
+      },
+      {
+        "game": "xy-y",
+        "text": "It swings its long pincer horns wildly to attack.\nDuring cold periods, it hides deep in forests."
+      },
+      {
+        "game": "oras-or",
+        "text": "Pinsir is astoundingly strong. It can grip a foe weighing twice\nits weight in its horns and easily lift it. This Pokémon’s\nmovements turn sluggish in cold places."
+      },
+      {
+        "game": "oras-as",
+        "text": "Pinsir has a pair of massive horns. Protruding from the surface\nof these horns are thorns. These thorns are driven deeply into\nthe foe’s body when the pincer closes, making it tough for the\nfoe to escape."
+      },
+      {
+        "game": "sm-s",
+        "text": "It grips its prey in its pincers and splits them\napart. Although it is a powerful Pokémon, it\ncan’t deal with the cold."
+      },
+      {
+        "game": "sm-m",
+        "text": "One solid blow from its horns is enough to split\napart a large tree. Its greatest rival in Alola\nis Vikavolt."
+      },
+      {
+        "game": "usum-us",
+        "text": "It gets into territorial disputes with Vikavolt.\nFor some reason, it apparently gets along well\nwith Heracross in Alola."
+      },
+      {
+        "game": "usum-um",
+        "text": "Although it’s tough, it can’t handle cold well.\nWhen night falls, it buries itself in leafage\nand sleeps."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Grips its prey in its pincers and squeezes hard!\nIt can’t move if it’s cold out, so it lives in\nwarm places."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Grips its prey in its pincers and squeezes hard!\nIt can’t move if it’s cold out, so it lives in\nwarm places."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "These Pokémon judge one another based on\npincers. Thicker, more impressive pincers make\nfor more popularity with the opposite gender."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "This Pokémon clamps its pincers down on its prey\nand then either splits the prey in half or flings\nit away."
+      }
+    ]
+  },
+  "chs": {
+    "name": "凯罗斯",
+    "genus": "锹形虫宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "用长长的角把对手夹住，\n就这么把对方夹成两半。\n非常强大，但很害怕寒冷。"
+      },
+      {
+        "game": "sm-m",
+        "text": "用角一击连大树都能折断。\n在阿罗拉，锹农炮虫是它最大的竞争者。"
+      },
+      {
+        "game": "usum-us",
+        "text": "会和锹农炮虫争夺领地。\n在阿罗拉，不知为何它和\n赫拉克罗斯的关系好像相当不错。"
+      },
+      {
+        "game": "usum-um",
+        "text": "虽然身体壮实，但弱点是怕冷。\n到了晚上，就会将身体\n埋在树叶中睡觉。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "用犄角全力夹击！由于\n低温会使它无法动弹，所以\n它会选择在温暖的地方生活。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "用犄角全力夹击！由于\n低温会使它无法动弹，所以\n它会选择在温暖的地方生活。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "同类之间以角的成色划分等级。\n一只凯罗斯的角越粗越结实，\n它就越受异性欢迎。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "用角夹住猎物后，\n不是直接把对方切成两半，\n就是强行把对方扔飞。"
+      }
+    ]
+  }
+}

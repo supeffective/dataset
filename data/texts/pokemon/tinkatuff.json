@@ -1,0 +1,61 @@
+{
+  "jap": {
+    "name": "ナカヌチャン",
+    "genus": "ハンマーポケモン",
+    "flavorText": []
+  },
+  "jap_ro": {
+    "name": "Nakanuchan",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "벼리짱",
+    "genus": "",
+    "flavorText": []
+  },
+  "cht": {
+    "name": "巧鍛匠",
+    "genus": "錘子寶可夢",
+    "flavorText": []
+  },
+  "fra": {
+    "name": "Forgella",
+    "genus": "",
+    "flavorText": []
+  },
+  "deu": {
+    "name": "Tafforgita",
+    "genus": "Hammer",
+    "flavorText": []
+  },
+  "esp": {
+    "name": "Tinkatuff",
+    "genus": "",
+    "flavorText": []
+  },
+  "ita": {
+    "name": "Tinkatuff",
+    "genus": "",
+    "flavorText": []
+  },
+  "eng": {
+    "name": "Tinkatuff",
+    "genus": "Hammer Pokémon",
+    "flavorText": [
+      {
+        "game": "sv-s",
+        "text": "This Pokémon will attack groups of Pawniard and Bisharp, gathering metal from them in order to create a large and sturdy hammer."
+      },
+      {
+        "game": "sv-v",
+        "text": "These Pokémon make their homes in piles of scrap metal. They test the strength of each other’s hammers by smashing them together."
+      }
+    ]
+  },
+  "chs": {
+    "name": "巧锻匠",
+    "genus": "锤子宝可梦",
+    "flavorText": []
+  }
+}

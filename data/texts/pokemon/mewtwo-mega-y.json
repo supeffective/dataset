@@ -1,0 +1,333 @@
+{
+  "jap": {
+    "name": "ミュウツー",
+    "genus": "いでんしポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "ひとりの　かがくしゃが　なんねんも\nおそろしい　いでんし　けんきゅうを\nつづけた　けっか　たんじょうした。"
+      },
+      {
+        "game": "xy-y",
+        "text": "ミュウの　いでんしを　くみかえて\nうみだされた。ポケモンで　いちばん\nきょうぼうな　こころを　もつという。"
+      },
+      {
+        "game": "oras-or",
+        "text": "いでんしそうさに　よって　つくられた　ポケモン。\nにんげんの　かがくりょくで　からだは　つくれても\nやさしい　こころを　つくることは　できなかった。"
+      },
+      {
+        "game": "oras-as",
+        "text": "いでんしそうさに　よって　つくられた　ポケモン。\nにんげんの　かがくりょくで　からだは　つくれても\nやさしい　こころを　つくることは　できなかった。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "ミュウの　いでんしと　ほとんど\nおなじ。だが　おおきさも　せいかくも\nおそろしいほど　ちがっている。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "ミュウの　いでんしと　ほとんど\nおなじ。だが　おおきさも　せいかくも\nおそろしいほど　ちがっている。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Mewtwo",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "뮤츠",
+    "genus": "유전포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "한 과학자가 몇 년에 걸쳐\n무서운 유전자의 연구를\n계속한 결과 탄생했다."
+      },
+      {
+        "game": "xy-y",
+        "text": "뮤의 유전자를 재구성해서\n만들어졌다. 포켓몬 중에서 가장\n난폭한 마음을 가지고 있다고 한다."
+      },
+      {
+        "game": "oras-or",
+        "text": "유전자조작을 통해 만들어진 포켓몬이다.\n인간은 과학의 힘으로 몸은 만들었지만\n상냥한 마음을 만들 수는 없었다."
+      },
+      {
+        "game": "oras-as",
+        "text": "유전자조작을 통해 만들어진 포켓몬이다.\n인간은 과학의 힘으로 몸은 만들었지만\n상냥한 마음을 만들 수는 없었다."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "뮤의 유전자와 거의 같다.\n하지만 크기도 성격도\n무서울 정도로 다르다."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "뮤의 유전자와 거의 같다.\n하지만 크기도 성격도\n무서울 정도로 다르다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "超夢",
+    "genus": "基因寶可夢",
+    "flavorText": [
+      {
+        "game": "lgpe-lgp",
+        "text": "身上的基因與夢幻幾乎一樣，\n但無論是體型大小還是性格\n都與夢幻有著巨大的差別。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "身上的基因與夢幻幾乎一樣，\n但無論是體型大小還是性格\n都與夢幻有著巨大的差別。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Mewtwo",
+    "genus": "Pokémon Génétique",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Un Pokémon conçu en réorganisant\nles gènes de Mew. On raconte qu’il\ns’agit du Pokémon le plus féroce."
+      },
+      {
+        "game": "bw-w",
+        "text": "Un Pokémon conçu en réorganisant\nles gènes de Mew. On raconte qu’il\ns’agit du Pokémon le plus féroce."
+      },
+      {
+        "game": "xy-x",
+        "text": "Il est le fruit de nombreuses expériences génétiques\nhorribles et malsaines."
+      },
+      {
+        "game": "xy-y",
+        "text": "Un Pokémon conçu en réorganisant les gènes de\nMew. On raconte qu’il s’agit du Pokémon le plus\nféroce."
+      },
+      {
+        "game": "oras-or",
+        "text": "Mewtwo est un Pokémon créé par manipulation génétique.\nCependant, bien que les connaissances scientifiques des\nhumains aient réussi à créer son corps, elles n’ont pas pu\ndoter Mewtwo d’un cœur sensible."
+      },
+      {
+        "game": "oras-as",
+        "text": "Mewtwo est un Pokémon créé par manipulation génétique.\nCependant, bien que les connaissances scientifiques des\nhumains aient réussi à créer son corps, elles n’ont pas pu\ndoter Mewtwo d’un cœur sensible."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Son ADN est presque le même que celui de\nMew, mais sa taille et son caractère sont très\ndifférents."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Son ADN est presque le même que celui de\nMew, mais sa taille et son caractère sont très\ndifférents."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Mewtu",
+    "genus": "Genmutanten-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Dieses Pokémon ist das Resultat eines jahrelangen\nund skrupellosen Experimentes."
+      },
+      {
+        "game": "xy-y",
+        "text": "Die Gene von Mew wurden neu angeordnet, wodurch\ndieses Pokémon entstand. Es hat ein wildes Herz."
+      },
+      {
+        "game": "oras-or",
+        "text": "Mewtu ist ein Pokémon, das durch Genmanipulation\nentstanden ist. Die Menschen haben es zwar mit ihrem\nwissenschaftlichen Sachverstand erzeugt, aber nicht mit\neinem mitfühlenden Herzen ausgestattet."
+      },
+      {
+        "game": "oras-as",
+        "text": "Mewtu ist ein Pokémon, das durch Genmanipulation\nentstanden ist. Die Menschen haben es zwar mit ihrem\nwissenschaftlichen Sachverstand erzeugt, aber nicht mit\neinem mitfühlenden Herzen ausgestattet."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Mewtu und Mew weisen sehr ähnliche Gene auf,\ndoch hinsichtlich ihres Charakters und ihrer\nGröße unterscheiden sich die beiden erheblich."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Mewtu und Mew weisen sehr ähnliche Gene auf,\ndoch hinsichtlich ihres Charakters und ihrer\nGröße unterscheiden sich die beiden erheblich."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Mewtwo",
+    "genus": "Pokémon Genético",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Fue creado por un científico tras años de horribles\nexperimentos de ingeniería genética."
+      },
+      {
+        "game": "xy-y",
+        "text": "Pokémon creado por recombinación genética de Mew.\nSe dice que es el más salvaje de los Pokémon."
+      },
+      {
+        "game": "oras-or",
+        "text": "Mewtwo fue creado por manipulación genética. Pero, a pesar\nde que el hombre creó su cuerpo, dotar a Mewtwo de un\ncorazón compasivo quedó en el olvido."
+      },
+      {
+        "game": "oras-as",
+        "text": "Mewtwo fue creado por manipulación genética. Pero, a pesar\nde que el hombre creó su cuerpo, dotar a Mewtwo de un\ncorazón compasivo quedó en el olvido."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Su ADN es casi el mismo que el de Mew.\nSin embargo, su tamaño y carácter son muy\ndiferentes."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Su ADN es casi el mismo que el de Mew.\nSin embargo, su tamaño y carácter son muy\ndiferentes."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Mewtwo",
+    "genus": "Pokémon Genetico",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Creato da uno scienziato dopo anni di orribili\nesperimenti di ingegneria genetica."
+      },
+      {
+        "game": "xy-y",
+        "text": "Un Pokémon creato usando i geni di Mew. Si dice che\nfra i Pokémon sia quello con l’animo più crudele."
+      },
+      {
+        "game": "oras-or",
+        "text": "Mewtwo è stato creato grazie a una manipolazione genetica.\nTuttavia, sebbene la scienza sia riuscita a creare un corpo\ndi Pokémon, ha fallito nell’intento di dare a Mewtwo\nun animo generoso."
+      },
+      {
+        "game": "oras-as",
+        "text": "Mewtwo è stato creato grazie a una manipolazione genetica.\nTuttavia, sebbene la scienza sia riuscita a creare un corpo\ndi Pokémon, ha fallito nell’intento di dare a Mewtwo\nun animo generoso."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Il suo DNA è quasi uguale a quello di Mew.\nCiò nonostante, sono agli antipodi per\ndimensioni e carattere."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Il suo DNA è quasi uguale a quello di Mew.\nCiò nonostante, sono agli antipodi per\ndimensioni e carattere."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Mewtwo",
+    "genus": "Genetic Pokémon",
+    "flavorText": [
+      {
+        "game": "rb-r",
+        "text": "It was created by\na scientist after\nyears of horrific\fgene splicing and\nDNA engineering\nexperiments."
+      },
+      {
+        "game": "rb-b",
+        "text": "It was created by\na scientist after\nyears of horrific\fgene splicing and\nDNA engineering\nexperiments."
+      },
+      {
+        "game": "y",
+        "text": "Its DNA is almost\nthe same as MEW's.\nHowever, its size\fand disposition\nare vastly dif­\nferent."
+      },
+      {
+        "game": "gs-g",
+        "text": "Because its battle\nabilities were\nraised to the\fultimate level, it\nthinks only of de­\nfeating its foes."
+      },
+      {
+        "game": "gs-s",
+        "text": "It usually remains\nmotionless to con­\nserve energy, so\fthat it may un­\nleash its full\npower in battle."
+      },
+      {
+        "game": "c",
+        "text": "Said to rest qui­\netly in an\nundiscovered cave,\fthis POKéMON was\ncreated solely for\nbattling."
+      },
+      {
+        "game": "rs-r",
+        "text": "MEWTWO is a POKéMON that was created\nby genetic manipulation.\nHowever, even though the scientific\fpower of humans created this POKéMON’s\nbody, they failed to endow MEWTWO with\na compassionate heart."
+      },
+      {
+        "game": "rs-s",
+        "text": "MEWTWO is a POKéMON that was created\nby genetic manipulation.\nHowever, even though the scientific\fpower of humans created this POKéMON’s\nbody, they failed to endow MEWTWO with\na compassionate heart."
+      },
+      {
+        "game": "e",
+        "text": "A POKéMON that was created by genetic\nmanipulation. However, even though the\nscientific power of humans made its body,\nthey failed to give it a warm heart."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "A POKéMON whose genetic code was\nrepeatedly recombined for research.\nIt turned vicious as a result."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "It was created by a scientist after years\nof horrific gene-splicing and DNA-\nengineering experiments."
+      },
+      {
+        "game": "dp-d",
+        "text": "A Pokémon created by recombining\nMEW’s genes. It’s said to have the\nmost savage heart among Pokémon."
+      },
+      {
+        "game": "dp-p",
+        "text": "A Pokémon created by recombining\nMEW’s genes. It’s said to have the\nmost savage heart among Pokémon."
+      },
+      {
+        "game": "pt",
+        "text": "A Pokémon created by recombining\nMEW’s genes. It’s said to have the\nmost savage heart among Pokémon."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "Because its battle abilities were\nraised to the ultimate level,\nit thinks only of defeating its foes."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "It usually remains motionless to\nconserve energy, so that it may\nunleash its full power in battle."
+      },
+      {
+        "game": "bw-b",
+        "text": "A Pokémon created by recombining\nMew’s genes. It’s said to have the\nmost savage heart among Pokémon."
+      },
+      {
+        "game": "bw-w",
+        "text": "A Pokémon created by recombining\nMew’s genes. It’s said to have the\nmost savage heart among Pokémon."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "A Pokémon created by recombining\nMew’s genes. It’s said to have the\nmost savage heart among Pokémon."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "A Pokémon created by recombining\nMew’s genes. It’s said to have the\nmost savage heart among Pokémon."
+      },
+      {
+        "game": "xy-x",
+        "text": "It was created by a scientist after years of horrific\ngene-splicing and DNA-engineering experiments."
+      },
+      {
+        "game": "xy-y",
+        "text": "A Pokémon created by recombining Mew’s genes.\nIt’s said to have the most savage heart\namong Pokémon."
+      },
+      {
+        "game": "oras-or",
+        "text": "Mewtwo is a Pokémon that was created by genetic\nmanipulation. However, even though the scientific power of\nhumans created this Pokémon’s body, they failed to endow\nMewtwo with a compassionate heart."
+      },
+      {
+        "game": "oras-as",
+        "text": "Mewtwo is a Pokémon that was created by genetic\nmanipulation. However, even though the scientific power\nof humans created this Pokémon’s body, they failed to\nendow Mewtwo with a compassionate heart."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Its DNA is almost the same as Mew’s. However,\nits size and disposition are vastly different."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Its DNA is almost the same as Mew’s. However,\nits size and disposition are vastly different."
+      }
+    ]
+  },
+  "chs": {
+    "name": "超梦",
+    "genus": "基因宝可梦",
+    "flavorText": [
+      {
+        "game": "lgpe-lgp",
+        "text": "超梦的基因几乎和梦幻\n完全一样，但是大小和\n性格却迥异得让人吃惊。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "超梦的基因几乎和梦幻\n完全一样，但是大小和\n性格却迥异得让人吃惊。"
+      }
+    ]
+  }
+}

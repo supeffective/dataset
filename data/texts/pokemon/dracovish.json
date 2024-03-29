@@ -1,0 +1,133 @@
+{
+  "jap": {
+    "name": "ウオノラゴン",
+    "genus": "かせきポケモン",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "ずばぬけた　きゃくりょくと　アゴの\nちからで　こだいでは　むてきだったが\nえものを　とりつくし　ぜつめつした。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "じそく６０キロを　こえる　じまんの\nきゃくりょくで　はしれるが\nすいちゅうでしか　こきゅうできない。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Uonoragon",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "어래곤",
+    "genus": "화석포켓몬",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "뛰어난 다리와 턱의 힘 덕분에\n고대에는 무적이었으나\n먹이를 모두 잡아먹어버려서 멸종했다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "특유의 다릿심으로 시속 60km\n이상으로 달릴 수 있지만\n물속에서만 호흡할 수 있다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "鰓魚龍",
+    "genus": "化石寶可夢",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "超乎尋常的腳力和顎力讓牠在\n古代所向無敵。但由於捕盡獵物，\n導致牠們自己也滅絕了。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "雖然能用自豪的腳力\n以６０公里的時速奔跑，\n但是只能在水中呼吸。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Hydragon",
+    "genus": "Pokémon Fossile",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "La force de ses pattes et de ses mâchoires\nle rendait presque invincible, mais à trop chasser\nses proies, celles-ci ont disparu, et lui avec."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Ses pattes robustes lui permettent de courir\nà plus de 60 km/h, mais en revanche, il ne peut\nrespirer que sous l’eau."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Pescragon",
+    "genus": "Fossil-Pokémon",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Dank der enormen Kraft seiner Beine und seines\nKiefers war es in der Urzeit unbesiegbar, doch es\nfing seine Beute restlos weg und starb daher aus."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Seine außergewöhnlich kräftigen Beine lassen es\nzwar über 60 km/h schnell laufen, doch atmen\nkann es nur unter Wasser."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Dracovish",
+    "genus": "Pokémon Fósil",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Su excelente capacidad motriz y la fuerza de su\nmandíbula lo hacían antaño invencible, pero dar\ncaza a todas sus presas propició su extinción."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Exhibe con orgullo su inmensa capacidad motriz,\nque le permite superar los 60 km/h, pero solo\npuede respirar bajo el agua."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Dracovish",
+    "genus": "Pokémon Fossile",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Anticamente era invincibile grazie all’incredibile\npotenza delle sue gambe e delle sue mascelle,\nma si è estinto dopo aver esaurito tutte le prede."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Vanta gambe molto potenti che gli permettono\ndi correre a una velocità superiore a 60 km/h,\nma può respirare solo sott’acqua."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Dracovish",
+    "genus": "Fossil Pokémon",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Powerful legs and jaws made it the apex predator\nof its time. Its own overhunting of its prey was\nwhat drove it to extinction."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Its mighty legs are capable of running at\nspeeds exceeding 40 mph, but this Pokémon\ncan’t breathe unless it’s underwater."
+      }
+    ]
+  },
+  "chs": {
+    "name": "鳃鱼龙",
+    "genus": "化石宝可梦",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "超乎寻常的脚力和颚力让它在\n古代所向无敌。但由于捕尽猎物，\n导致它们自己也灭绝了。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "虽然能用自豪的脚力\n以６０公里的时速奔跑，\n但是只能在水中呼吸。"
+      }
+    ]
+  }
+}

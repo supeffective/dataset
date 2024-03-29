@@ -1,0 +1,345 @@
+{
+  "jap": {
+    "name": "ゾロアーク",
+    "genus": "ばけぎつねポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "いっぺんに　おおぜいの　ひとを\nばかす　ちからを　もつ。まぼろしの\nけしきを　みせて　すみかを　まもる。"
+      },
+      {
+        "game": "xy-y",
+        "text": "あいてを　ばかす　ことで　むれの\nあんぜんを　まもってきた　ポケモン。\nなかまの　けっそくが　かたい。"
+      },
+      {
+        "game": "oras-or",
+        "text": "いっぺんに　おおぜいの　ひとを\nばかす　ちからを　もつ。まぼろしの\nけしきを　みせて　すみかを　まもる。"
+      },
+      {
+        "game": "oras-as",
+        "text": "あいてを　ばかす　ことで　むれの\nあんぜんを　まもってきた　ポケモン。\nなかまの　けっそくが　かたい。"
+      },
+      {
+        "game": "usum-us",
+        "text": "なにかに　ばけるだけ　ではなく\nなんびゃくにんもの　ひとに\nまぼろしを　みせる　ちからをもつ。"
+      },
+      {
+        "game": "usum-um",
+        "text": "にんげんに　すみかを　あばかれそうに\nなると　まぼろしを　みせて　もりを\nさまよわせ　つづける　という。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "なかまおもいの　ポケモン。\nおそろしい　まぼろしを　みせて\nすみかや　むれを　まもるのだ。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "こどくなトレーナーは　ゾロアークに\nまぼろしを　みせるように　めいじて\nひとりの　さみしさを　まぎらわす。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Zoroark",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "조로아크",
+    "genus": "요괴여우포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "한 번에 많은 사람을\n속이는 힘을 가졌다. 환영의\n경치를 보여줘 거처를 지킨다."
+      },
+      {
+        "game": "xy-y",
+        "text": "상대를 속여 무리의\n안전을 유지해온 포켓몬이다.\n동료 간의 결속력이 강하다."
+      },
+      {
+        "game": "oras-or",
+        "text": "한 번에 많은 사람을\n속이는 힘을 가졌다. 환영의\n경치를 보여줘 거처를 지킨다."
+      },
+      {
+        "game": "oras-as",
+        "text": "상대를 속여 무리의\n안전을 유지해온 포켓몬이다.\n동료 간의 결속력이 강하다."
+      },
+      {
+        "game": "usum-us",
+        "text": "둔갑술이 가능할 뿐만 아니라\n수백 명의 사람에게 환상을\n보여줄 수 있는 힘을 가졌다."
+      },
+      {
+        "game": "usum-um",
+        "text": "인간에게 거처를 들킬 위기에\n처하면 환상을 보여줘서\n숲을 떠돌게 한다고 전해진다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "동료애가 깊은 포켓몬이다.\n무서운 환상을 보게 만들어서\n거처나 무리를 지킨다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "고독한 트레이너는 조로아크에게\n환상을 보여주도록 명령하여\n혼자만의 외로움을 달랜다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "索羅亞克",
+    "genus": "妖狐寶可夢",
+    "flavorText": [
+      {
+        "game": "usum-us",
+        "text": "不只會幻化成其他東西，\n還擁有能夠讓數百人\n看見幻象的力量。"
+      },
+      {
+        "game": "usum-um",
+        "text": "據說當牠的棲息地快要暴露在\n人類面前時，牠會製造出幻影，\n讓人在森林裡不斷徘徊。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "是時刻為夥伴著想的寶可夢。\n為了保護棲息地和族群的安全，\n會讓敵人看到恐怖的幻影。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "孤獨的訓練家會命令\n索羅亞克讓他看見幻影，\n藉此紓解一個人的寂寞。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Zoroark",
+    "genus": "Pokémon Polymorfox",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Ces Pokémon protègent les leurs en\nprenant l’apparence de leurs ennemis.\nIls forment des groupes très soudés."
+      },
+      {
+        "game": "bw-w",
+        "text": "Il peut mystifier instantanément des\nfoules d’humains. Il protège son habitat\nen créant des illusions de paysages."
+      },
+      {
+        "game": "xy-x",
+        "text": "Il peut mystifier instantanément des foules d’humains.\nIl protège son habitat en créant des illusions de\npaysages."
+      },
+      {
+        "game": "xy-y",
+        "text": "Ces Pokémon protègent les leurs en prenant\nl’apparence de leurs ennemis. Ils forment des groupes\ntrès soudés."
+      },
+      {
+        "game": "oras-or",
+        "text": "Il peut mystifier instantanément des foules d’humains.\nIl protège son habitat en créant des illusions de paysages."
+      },
+      {
+        "game": "oras-as",
+        "text": "Ces Pokémon protègent les leurs en prenant l’apparence\nde leurs ennemis. Ils forment des groupes très soudés."
+      },
+      {
+        "game": "usum-us",
+        "text": "Il est non seulement capable de changer\nd’apparence, mais il peut également créer\ndes illusions pour hypnotiser les humains."
+      },
+      {
+        "game": "usum-um",
+        "text": "Les humains qui osent menacer son habitat\nfinissent par errer éternellement dans les bois,\nvictimes de ses illusions."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Doté d’un grand sens de la camaraderie,\nce Pokémon peut créer des illusions effrayantes\npour protéger son habitat et ses congénères."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Les Dresseurs en manque de compagnie\nordonnent à Zoroark de leur montrer\nune illusion pour tromper leur solitude."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Zoroark",
+    "genus": "Polymorfuchs-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Kann auf einen Schlag große Massen von Menschen\ntäuschen. Es kreiert Illusionen, um sein Revier zu\nschützen."
+      },
+      {
+        "game": "xy-y",
+        "text": "Seit jeher beschützt es das Rudel, indem es\ndie Gestalt des Feindes annimmt. Es ist sehr\nloyal zu seinen Artgenossen."
+      },
+      {
+        "game": "oras-or",
+        "text": "Kann auf einen Schlag große Massen von Menschen täuschen.\nEs kreiert Illusionen, um sein Revier zu schützen."
+      },
+      {
+        "game": "oras-as",
+        "text": "Seit jeher beschützt es das Rudel, indem es die Gestalt des\nFeindes annimmt. Es ist sehr loyal zu seinen Artgenossen."
+      },
+      {
+        "game": "usum-us",
+        "text": "Es kann nicht nur seine Gestalt verändern,\nsondern auch Illusionen erzeugen, um auf einen\nSchlag mehrere Hundert Menschen zu täuschen."
+      },
+      {
+        "game": "usum-um",
+        "text": "Es heißt, dass es jene Menschen, die sein Revier\nzu enthüllen drohen, mit Illusionen täuscht und\ndazu bringt, unentwegt durch den Wald zu irren."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Seine Artgenossen liegen ihm sehr am Herzen.\nZoroark beschützt sein Revier und sein Rudel,\nindem es furchteinflößende Illusionen erzeugt."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Trainer, denen es an Gesellschaft fehlt, weisen\nZoroark manchmal dazu an, ihnen eine Illusion zu\nzeigen, um sich von ihrer Einsamkeit abzulenken."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Zoroark",
+    "genus": "Pokémon Disfrazorro",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Tiene la facultad de confundir a muchos humanos a la\nvez. Protege su guarida creando un paisaje ilusorio."
+      },
+      {
+        "game": "xy-y",
+        "text": "Siempre ha protegido a su manada embaucando a sus\nenemigos. Dentro de la manada están todos muy\nunidos."
+      },
+      {
+        "game": "oras-or",
+        "text": "Tiene la facultad de confundir a muchos humanos a la vez.\nProtege su guarida creando un paisaje ilusorio."
+      },
+      {
+        "game": "oras-as",
+        "text": "Siempre ha protegido a su manada embaucando a sus\nenemigos. Dentro de la manada están todos muy unidos."
+      },
+      {
+        "game": "usum-us",
+        "text": "No solo es capaz de transformarse, sino que\ntambién puede crear ilusiones para confundir\na cientos de personas."
+      },
+      {
+        "game": "usum-um",
+        "text": "Si percibe que un humano está amenazando su\nhábitat, crea visiones para aturdirlo y hacerlo\nvagar por el bosque sin cesar."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Cuida de sus semejantes. Provoca ilusiones\nterroríficas para proteger tanto su guarida\ncomo a su manada de sus adversarios."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Los Entrenadores solitarios le piden a Zoroark\nque les muestre ilusiones con las que combatir\nla desazón de la soledad."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Zoroark",
+    "genus": "Pokémon Mutevolpe",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Ha la capacità di trarre in inganno una folla di persone.\nProtegge la tana creando dei miraggi."
+      },
+      {
+        "game": "xy-y",
+        "text": "Protegge la sicurezza del gruppo ammaliando gli\navversari. Dimostra forte solidarietà verso i compagni."
+      },
+      {
+        "game": "oras-or",
+        "text": "Ha la capacità di trarre in inganno una folla di persone.\nProtegge la tana creando dei miraggi."
+      },
+      {
+        "game": "oras-as",
+        "text": "Protegge la sicurezza del gruppo ammaliando gli avversari.\nDimostra forte solidarietà verso i compagni."
+      },
+      {
+        "game": "usum-us",
+        "text": "Oltre a essere in grado di trasformarsi in\nqualsiasi cosa, ha anche il potere di creare\nmiraggi, traendo in inganno centinaia di persone."
+      },
+      {
+        "game": "usum-um",
+        "text": "Se un essere umano sta per scoprire la sua\ntana, crea dei miraggi per depistarlo, facendolo\nvagare nel bosco all’infinito."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Tiene molto ai suoi simili e protegge la tana\ne il branco creando miraggi spaventosi."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Gli Allenatori tristi e soli chiedono a Zoroark\ndi mostrare loro dei miraggi che allevino\nla loro solitudine."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Zoroark",
+    "genus": "Illusion Fox Pokémon",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Bonds between these Pokémon are very\nstrong. It protects the safety of its\npack by tricking its opponents."
+      },
+      {
+        "game": "bw-w",
+        "text": "Each has the ability to fool a large\ngroup of people simultaneously. They\nprotect their lair with illusory scenery."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "Stories say those who tried\nto catch Zoroark were trapped\nin an illusion and punished."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "Stories say those who tried\nto catch Zoroark were trapped\nin an illusion and punished."
+      },
+      {
+        "game": "xy-x",
+        "text": "Each has the ability to fool a large group of people\nsimultaneously. They protect their lair with\nillusory scenery."
+      },
+      {
+        "game": "xy-y",
+        "text": "Bonds between these Pokémon are very strong.\nIt protects the safety of its pack by tricking\nits opponents."
+      },
+      {
+        "game": "oras-or",
+        "text": "Each has the ability to fool a large group of people\nsimultaneously. They protect their lair with\nillusory scenery."
+      },
+      {
+        "game": "oras-as",
+        "text": "Bonds between these Pokémon are very strong.\nIt protects the safety of its pack by tricking\nits opponents."
+      },
+      {
+        "game": "usum-us",
+        "text": "It doesn’t just transform itself—it also has the\npower to make hundreds of people see\nits illusions."
+      },
+      {
+        "game": "usum-um",
+        "text": "If it thinks humans are going to discover its den,\nZoroark shows them visions that make them\nwander around in the woods."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "This Pokémon cares deeply about others of its\nkind, and it will conjure terrifying illusions to\nkeep its den and pack safe."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Seeking to ease the burden of their solitude,\nlonely Trainers tell Zoroark to show illusions\nto them."
+      },
+      {
+        "game": "la",
+        "text": "With its disheveled white fur, it looks like an embodiment of\ndeath. Heedless of its own safety, Zoroark attacks its nemeses\nwith a bitter energy so intense, it lacerates Zoroark's own body."
+      }
+    ]
+  },
+  "chs": {
+    "name": "索罗亚克",
+    "genus": "妖狐宝可梦",
+    "flavorText": [
+      {
+        "game": "usum-us",
+        "text": "不只是幻化成其他东西，\n还拥有让几百人看见幻像的力量。"
+      },
+      {
+        "game": "usum-um",
+        "text": "据说，栖息地快要暴露在人类面前时，\n它就会制造出幻象，\n让人在森林里不断徘徊。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "时刻为伙伴着想的宝可梦。\n为保护自己的栖息地和族群，\n会让敌人看到恐怖的幻象。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "孤独的训练家会命令\n索罗亚克为自己展现幻像，\n借以排遣孤身一人的寂寞。"
+      }
+    ]
+  }
+}

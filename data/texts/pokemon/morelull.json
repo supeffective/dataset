@@ -1,0 +1,277 @@
+{
+  "jap": {
+    "name": "ネマシュ",
+    "genus": "はっこうポケモン",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "てんめつしながら　ひかる　ほうしを\nあたりに　ばらまく。　そのひかりを\nみたものは　ふかいねむりに　おちる。"
+      },
+      {
+        "game": "sm-m",
+        "text": "ひるは　ねながら　じゅもくの　ねから\nようぶんを　すう。　よるに　めざめ\nあらたな　じゅもくを　さがしあるく。"
+      },
+      {
+        "game": "usum-us",
+        "text": "ひかるほうしを　あたりに　ばらまく。\nきけんだが　ネマシュのすむ　もりへの\nナイトツアーは　にんきが　ある。"
+      },
+      {
+        "game": "usum-um",
+        "text": "うすぐらく　しめったばしょが　すき。\nよるに　なると　キノコの　かさに\nつまった　ほうしが　はっこうする。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "あたまの　かさは　とても　おいしい。\nもりの　ポケモンたちに　たべられるが\nひとばんで　さいせいする。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "ひるまでも　くらい　もりで　くらす。\nてんめつしながら　ひかる　ほうしを\nばらまいて　てきを　ねむらせる。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Nemasyu",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "자마슈",
+    "genus": "발광포켓몬",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "깜빡이면서 빛나는 포자를\n주변에 뿌린다. 그 빛을\n본 자는 깊은 잠에 빠진다."
+      },
+      {
+        "game": "sm-m",
+        "text": "낮에는 자면서 나무뿌리에서\n양분을 흡수한다. 밤에 일어나면\n새로운 나무를 찾아 걸어 다닌다."
+      },
+      {
+        "game": "usum-us",
+        "text": "빛이 나는 포자를 주변에 흩뿌린다.\n위험하지만 자마슈가 사는 숲의\n밤 여행 투어는 인기가 있다."
+      },
+      {
+        "game": "usum-um",
+        "text": "어둡고 습한 곳을 좋아한다.\n밤이 되면 버섯의 갓에\n모인 포자가 발광한다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "머리의 갓은 매우 맛있다.\n숲속의 포켓몬들에게 먹히지만\n하룻밤 만에 재생한다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "낮에도 어두운 숲에서 생활한다.\n점멸하면서 빛나는 포자를\n흩뿌려 적을 잠들게 한다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "睡睡菇",
+    "genus": "發光寶可夢",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "在周圍到處散播\n一閃一閃發著光的孢子。\n看到這個光的都會陷入沉睡中。"
+      },
+      {
+        "game": "sm-m",
+        "text": "在白天會一邊睡覺一邊從樹根吸取養分。\n到了晚上醒來，出走尋找新的樹木。"
+      },
+      {
+        "game": "usum-us",
+        "text": "會向四周散佈發光的孢子。\n雖然危險，但在睡睡菇棲息的森林\n舉行的夜遊行程很受人們歡迎。"
+      },
+      {
+        "game": "usum-um",
+        "text": "喜歡陰暗潮濕的地方。\n到了夜裡，菇傘下塞得\n滿滿的孢子就會發光。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "頭上的蘑菇傘非常好吃，\n雖然會被森林中的寶可夢吃掉，\n但是過了一晚上就會再生。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "白天也生活在昏暗的森林裡。\n會一邊閃爍一邊散播發著光的孢子\n來讓敵人陷入沉睡。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Spododo",
+    "genus": "Pokémon Luminescent",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "Il répand des spores luminescentes qui\nclignotent autour de lui. Quiconque aperçoit\nces lumières tombe dans un sommeil profond."
+      },
+      {
+        "game": "sm-m",
+        "text": "Le jour, il dort tout en absorbant des nutriments\nà la racine des arbres. Le soir, il se lève et part\nà la recherche d’un nouvel arbre où se poser."
+      },
+      {
+        "game": "usum-us",
+        "text": "Il répand des spores luminescentes autour de\nlui. Malgré le danger qu’il représente, les balades\nnocturnes dans les bois où il vit sont populaires."
+      },
+      {
+        "game": "usum-um",
+        "text": "Il aime les endroits sombres et humides.\nLa nuit, il fait rayonner les spores contenues\ndans ses chapeaux."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Ses chapeaux sont délicieux, et les Pokémon\nde la forêt s’en délectent. Heureusement pour lui,\nses couvre-chefs repoussent en une nuit."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Il vit dans les forêts sombres même en plein jour.\nIl dissémine des spores clignotantes pour\nendormir ses ennemis."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Bubungus",
+    "genus": "Lumineszenz-Pokémon",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "Es streut blinkende Sporen aus. Jeder,\nder dieses Licht sieht, schläft fest ein."
+      },
+      {
+        "game": "sm-m",
+        "text": "Tagsüber saugt es im Schlaf Nährstoffe aus den\nWurzeln der Bäume. Nachts wacht es auf und\nmacht sich auf die Suche nach frischen Bäumen."
+      },
+      {
+        "game": "usum-us",
+        "text": "Es streut blinkende Sporen aus. Obgleich nicht\nungefährlich, sind nächtliche Führungen durch\nWälder, in denen Bubungus leben, sehr beliebt."
+      },
+      {
+        "game": "usum-um",
+        "text": "Es bevorzugt dunkle, feuchte Orte. Nachts\nfangen die Sporen in seinen Pilzhüten an zu\nleuchten."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Sein Pilzhut ist sehr schmackhaft. Er wird zwar\nhäufig von den Pokémon des Waldes verspeist,\nwächst aber über Nacht wieder nach."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Auch die hellsten Tage verbringt Bubungus in\ndunklen Wäldern. Es streut blinkende Sporen\naus, um seine Gegner in den Schlaf zu lullen."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Morelull",
+    "genus": "Pokémon Luminiscente",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "Cuando titila, esparce esporas luminosas a su\nalrededor. Todo aquel que ve esta luz cae en un\nprofundo sueño."
+      },
+      {
+        "game": "sm-m",
+        "text": "Por el día, absorbe los nutrientes de las raíces\nde los árboles mientras duerme. Por la noche,\ndespierta y parte en busca de nuevos árboles."
+      },
+      {
+        "game": "usum-us",
+        "text": "Esparce esporas luminosas a su alrededor.\nA pesar del peligro, los tours nocturnos a través\nde los bosques que habitan son muy populares."
+      },
+      {
+        "game": "usum-um",
+        "text": "Prefiere los lugares oscuros y húmedos. Por la\nnoche, las esporas que almacena en los\nsombrerillos lucen en la oscuridad."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Sus sombrerillos tienen un sabor delicioso.\nAunque los Pokémon del bosque se los coman,\nles vuelven a crecer al día siguiente."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Vive en bosques umbríos. Esparce a su alrededor\nesporas titilantes que adormecen a sus enemigos."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Morelull",
+    "genus": "Pokémon Luminescenza",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "Sparge tutto intorno spore che emettono\nuna luce intermittente. Chi la vede cade\nprofondamente addormentato."
+      },
+      {
+        "game": "sm-m",
+        "text": "Di giorno dorme mentre succhia sostanze\nnutritive dalle radici degli alberi. Di notte\nsi sveglia e va alla ricerca di nuove piante."
+      },
+      {
+        "game": "usum-us",
+        "text": "Sparge tutt’intorno spore brillanti. Nonostante il\npericolo, i tour notturni nei boschi in cui vivono\ni Morelull vanno molto di moda."
+      },
+      {
+        "game": "usum-um",
+        "text": "Gli piacciono i luoghi ombrosi e umidi.\nQuando scende la notte, le spore di cui sono\ncolmi i suoi cappelli si illuminano."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "I cappelli sul suo capo sono molto gustosi e\ni Pokémon che vivono nei boschi se ne cibano.\nPer fortuna, ricrescono nel giro di una notte."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Vive nei boschi perennemente ombrosi. Sparge\ntutto intorno spore che emettono una luce\nintermittente con cui addormenta i nemici."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Morelull",
+    "genus": "Illuminating Pokémon",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "It scatters spores that flicker and glow. Anyone\nseeing these lights falls into a deep slumber."
+      },
+      {
+        "game": "sm-m",
+        "text": "As it drowses the day away, it nourishes itself\nby sucking from tree roots. It wakens at the fall\nof night, wandering off in search of a new tree."
+      },
+      {
+        "game": "usum-us",
+        "text": "It scatters its shining spores around itself.\nEven though they’re dangerous, nighttime tours\nof forests where Morelull live are popular."
+      },
+      {
+        "game": "usum-um",
+        "text": "It likes damp dark places. When night falls, the\nspores filling the caps of its mushrooms glow."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Pokémon living in the forest eat the\ndelicious caps on Morelull’s head.\nThe caps regrow overnight."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Morelull live in forests that stay dark even\nduring the day. They scatter flickering spores\nthat put enemies to sleep."
+      }
+    ]
+  },
+  "chs": {
+    "name": "睡睡菇",
+    "genus": "发光宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "在周围到处撒播\n一闪一闪发着光的孢子。\n看到这个光的都会陷入沉睡中。"
+      },
+      {
+        "game": "sm-m",
+        "text": "白天一边睡觉一边从树根吸取养分。\n会在晚上醒来，走路寻找新的树木。"
+      },
+      {
+        "game": "usum-us",
+        "text": "在周围到处撒发光的孢子。\n虽然危险，但去睡睡菇居住的\n森林进行夜巡很受人们欢迎。"
+      },
+      {
+        "game": "usum-um",
+        "text": "喜欢阴暗潮湿的地方。\n到了夜里，蘑菇伞下\n储满的孢子就会发光。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "头上的蘑菇伞非常好吃，\n虽然会被森林中的宝可梦吃掉，\n但是过了一晚上就会再生。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "白天也生活在昏暗的森林里。\n会一边闪烁一边散播发光的孢子\n来让敌人陷入沉睡。"
+      }
+    ]
+  }
+}

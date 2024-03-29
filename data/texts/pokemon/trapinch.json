@@ -1,0 +1,453 @@
+{
+  "jap": {
+    "name": "ナックラー",
+    "genus": "ありじごくポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "かんそうした　さばくに　せいそく。\nすりばちじょうの　すあなの　なかで\nえものを　じっと　まち　つづける。"
+      },
+      {
+        "game": "xy-y",
+        "text": "ぜったいに　だっしゅつ　ふかのうな\nすりばちじょうの　すあなを　つくって\nえものが　おちてくるのを　まつ。"
+      },
+      {
+        "game": "oras-or",
+        "text": "すりばちじょうの　すあなの　そこで　じっと\nえものが　おちて　くるのを　まちつづけている。\nおおきな　アゴは　いわをも　くだく　いりょく。"
+      },
+      {
+        "game": "oras-as",
+        "text": "だっしゅつ　ふかのうな　あなを　さばくに　つくり\nえものが　くるのを　ひたすら　まちかまえている。\nみずが　なくても　１しゅうかんは　へっちゃら。"
+      },
+      {
+        "game": "sm-s",
+        "text": "１しゅうかんは　なにも　くわずに\nいきられる。　すあなの　そこで\nえものが　くるのを　じっと　まつ。"
+      },
+      {
+        "game": "sm-m",
+        "text": "おおきな　アゴで　じゃまな　いわを\nくだきながら　すなを　ほる。\nすあなの　かたちは　スリばちじょう。"
+      },
+      {
+        "game": "usum-us",
+        "text": "アゴは　いわも　くだくが　おもくて\nひっくり　かえると　おきられない。\nメグロコは　そのすきを　ねらうのだ。　"
+      },
+      {
+        "game": "usum-um",
+        "text": "わなを　かねた　すを　つくり\nひたすら　えものを　まちかまえる。\nよるになると　すなに　もぐり　ねる。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "さばくに　つくられた　すあなは\nすりばちの　かたちを　しているので\nおちてしまうと　だっしゅつふかのう。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "ぜったいに　だっしゅつ　ふかのうな\nすりばちじょうの　すあなを　つくって\nえものが　おちてくるのを　まつ。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Nuckrar",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "톱치",
+    "genus": "개미지옥포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "건조한 사막에 서식한다.\n원뿔형의 보금자리 속에서\n조용히 먹잇감을 계속 기다린다."
+      },
+      {
+        "game": "xy-y",
+        "text": "절대 탈출 불가능한\n원뿔형의 둥지를 만들어\n먹이가 떨어지는 것을 기다린다."
+      },
+      {
+        "game": "oras-or",
+        "text": "원뿔형의 보금자리 밑에서 가만히\n먹이가 빠지기를 계속 기다리고 있다.\n큰 턱의 위력은 바위도 부술 정도다."
+      },
+      {
+        "game": "oras-as",
+        "text": "탈출 불가능한 구멍을 사막에 만들어\n먹이가 오는 것을 한결같이 기다리고 있다.\n물이 없어도 1주일 동안 문제없다."
+      },
+      {
+        "game": "sm-s",
+        "text": "1주일은 아무것도 먹지 않고\n살 수 있다. 보금자리의 속에서\n먹이가 오기만을 가만히 기다린다."
+      },
+      {
+        "game": "sm-m",
+        "text": "커다란 턱으로 방해되는 바위를\n부수며 모래를 판다.\n둥지 모양은 원뿔형."
+      },
+      {
+        "game": "usum-us",
+        "text": "턱은 바위도 부수지만 무거워서\n뒤집히면 일어나지 못한다.\n깜눈크는 그 틈을 노린다."
+      },
+      {
+        "game": "usum-um",
+        "text": "함정을 겸하는 둥지를 만들고\n한결같이 먹이를 기다리고 있다.\n밤이 되면 모래 속에 숨어서 잔다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "사막에 만들어진 둥지는\n깔때기 모양이므로\n떨어지면 탈출할 수 없다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "절대 탈출 불가능한\n원뿔형의 둥지를 만들어\n먹이가 떨어지는 것을 기다린다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "大顎蟻",
+    "genus": "蟻獅寶可夢",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "１整個星期什麼都不吃也能生存。\n總是動也不動地呆在巢穴底部\n等待獵物的到來。"
+      },
+      {
+        "game": "sm-m",
+        "text": "一邊用大大的顎把礙事的\n岩石咬碎，一邊挖沙子。\n巢穴的形狀就像研磨缽一樣。"
+      },
+      {
+        "game": "usum-us",
+        "text": "重量十足的下顎足以粉碎岩石，\n一旦身子翻過去就爬不起來，\n黑眼鱷會趁這個空檔襲擊牠。"
+      },
+      {
+        "game": "usum-um",
+        "text": "會製造兼有陷阱功能的巢穴，\n不斷埋伏著等待獵物上門。\n到了夜晚就會潛進沙中睡覺。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "牠在沙漠中建造的巢穴\n造型就像是研缽一樣。\n一旦掉進去就再也逃不出來了。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "會建造絕對無法逃脫的\n缽狀巢穴，並在巢穴裡\n等著獵物自己掉進來。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Kraknoix",
+    "genus": "Pokémon Piégeur",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Il creuse un trou conique dans le\nsable du désert et se terre en\nattendant qu’une proie trébuche."
+      },
+      {
+        "game": "bw-w",
+        "text": "Il creuse un trou conique dans le\nsable du désert et se terre en\nattendant qu’une proie trébuche."
+      },
+      {
+        "game": "xy-x",
+        "text": "Il vit dans les déserts arides. Pour attraper ses proies,\nil se place dans un trou et laisse sa gueule grande\nouverte en attendant qu’elles tombent dedans."
+      },
+      {
+        "game": "xy-y",
+        "text": "Il creuse puis attend ses proies dans son antre, un\ntrou conique dont il est impossible de s’échapper."
+      },
+      {
+        "game": "oras-or",
+        "text": "Le nid de Kraknoix consiste en un trou en pente creusé dans\nle sable, comme une cuvette. Ce Pokémon attend patiemment\nque sa proie tombe dedans. Ses gigantesques mâchoires sont\nassez puissantes pour croquer des rochers."
+      },
+      {
+        "game": "oras-as",
+        "text": "Kraknoix est un chasseur patient. Dans le désert, il creuse\nun trou dont on ne peut pas s’échapper et attend que sa proie\ntombe dedans. Ce Pokémon peut se passer d’eau une semaine\nentière."
+      },
+      {
+        "game": "sm-s",
+        "text": "Il peut survivre une semaine entière sans se\nsustenter. Il attend patiemment au fond de\nson trou, guettant sa proie."
+      },
+      {
+        "game": "sm-m",
+        "text": "Il creuse des trous dans le sable et brise les\nrochers qui le gênent d’un coup de mâchoire.\nSes terriers ressemblent à un entonnoir."
+      },
+      {
+        "game": "usum-us",
+        "text": "Sa lourde mâchoire peut briser le roc, mais s’il\ntombe à la renverse, il ne peut plus se relever.\nMascaïman en profite alors pour l’attaquer."
+      },
+      {
+        "game": "usum-um",
+        "text": "Pour attraper ses proies, il bâtit un nid piégé\net attend patiemment. Lorsque la nuit tombe,\nil s’enfouit dans le sable pour dormir."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Il est impossible de s’échapper de son antre\nen forme de cône qu’il creuse dans le sable\ndu désert."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Il creuse, puis attend ses proies dans son antre\nen forme de cône, dont il est impossible\nde s’échapper."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Knacklion",
+    "genus": "Ameisenlöwen-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Es lebt in trockenen Wüstengebieten, wo es eine\nTrichterfalle baut und seelenruhig darauf wartet,\ndass Beute hinabrutscht."
+      },
+      {
+        "game": "xy-y",
+        "text": "Es baut sich ein trichterförmiges Loch, aus dem es\nkein Entrinnen gibt, und wartet, bis Beute hineinfällt."
+      },
+      {
+        "game": "oras-or",
+        "text": "Knacklions Bau ist eine Art in den Sand gegrabener Kessel.\nDieses Pokémon wartet geduldig darauf, dass Beute in seinen\nBau hineinfällt. Seine gigantischen Kiefer verfügen über\ngenügend Kraft, um einen Felsen zu zerquetschen."
+      },
+      {
+        "game": "oras-as",
+        "text": "Knacklion ist ein geduldiger Jäger. Es gräbt in einer Wüste\neine tiefe Grube und wartet auf Beute, die hineinfällt. Dieses\nPokémon kommt eine ganze Woche ohne Wasser aus."
+      },
+      {
+        "game": "sm-s",
+        "text": "Knacklion kann eine Woche überleben, ohne\nzu essen. Es wartet geduldig in seinem Bau\ndarauf, dass seine Beute zu ihm kommt."
+      },
+      {
+        "game": "sm-m",
+        "text": "Es gräbt im Sand und zerquetscht dabei mit\nseinem gigantischen Kiefer störende Felsen.\nSein Bau hat die Form eines Trichters."
+      },
+      {
+        "game": "usum-us",
+        "text": "Sein Kiefer kann sogar Felsen zermalmen, ist\naber so schwer, dass es sich nicht aufrichten\nkann, wenn es hinfällt. Das nutzen Ganovil aus."
+      },
+      {
+        "game": "usum-um",
+        "text": "Sein Bau dient gleichzeitig als Falle, in der es\nBeute auflauert. Nachts gräbt es sich zum\nSchlafen im Sand ein."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Der Bau, den es sich in der Wüste errichtet, ist\ntrichterförmig. Fällt man einmal hinein, gibt es\nkein Entkommen."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Es errichtet einen trichterförmigen Bau, aus dem\nes kein Entrinnen gibt, und wartet, bis Beute\nhineinfällt."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Trapinch",
+    "genus": "Pokémon Hormiga León",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Habita desiertos áridos. Cava fosas profundas, en las\nque espera que caiga su presa."
+      },
+      {
+        "game": "xy-y",
+        "text": "Excava fosas cóncavas de las cuales resulta imposible\nescapar y espera a que una presa caiga en su interior."
+      },
+      {
+        "game": "oras-or",
+        "text": "El nido de Trapinch está situado bajo la arena, en una zona\ncóncava. Este Pokémon espera con paciencia a que su presa\ncaiga en la misma. Con las fauces que tiene puede destruir\nhasta piedras."
+      },
+      {
+        "game": "oras-as",
+        "text": "Trapinch es un cazador paciente. Suele cavar una fosa\nprofunda en el desierto y esperar a que su presa caiga en\nella. Este Pokémon puede aguantar toda una semana sin\nbeber nada de agua."
+      },
+      {
+        "game": "sm-s",
+        "text": "Puede sobrevivir una semana entera sin comer.\nSe queda muy quieto en su fosa, esperando a\nque se acerquen sus presas."
+      },
+      {
+        "game": "sm-m",
+        "text": "Cava su nido de forma cóncava en la arena y, si\naparece una roca que le molesta, la destroza\ncon sus grandes mandíbulas."
+      },
+      {
+        "game": "usum-us",
+        "text": "Puede triturar rocas con su mandíbula, pero su\npeso le impide darse la vuelta si lo tumban. Los\nSandile sacan provecho de este punto débil."
+      },
+      {
+        "game": "usum-um",
+        "text": "Construye un nido, que también sirve de trampa,\ny espera pacientemente a su presa. Durante la\nnoche duerme enterrado en la arena."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Si una presa cae en las fosas cóncavas de arena\nque cava en el desierto, no podrá salir de ellas."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Excava fosas cóncavas, de las cuales resulta\nimposible escapar, y espera a que una presa\ncaiga en su interior."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Trapinch",
+    "genus": "Pokémon Trappola",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Vive nei deserti. Scava buche nel terreno e vi si\napposta, attendendo che le prede vi caschino dentro."
+      },
+      {
+        "game": "xy-y",
+        "text": "Costruisce un nido a forma di imbuto dal quale non si\npuò scappare, aspettando poi che le prede cadano in\ntrappola."
+      },
+      {
+        "game": "oras-or",
+        "text": "La tana di Trapinch è ricavata in una ripida fossa a forma\ndi sacca scavata nella sabbia. Il Pokémon attende\npazientemente che la preda cada in trappola.\nLe sue possenti mascelle frantumano anche la pietra."
+      },
+      {
+        "game": "oras-as",
+        "text": "Trapinch è un paziente cacciatore. Nel deserto scava fosse\nmicidiali e attende che la preda cada in trappola. Questo\nPokémon può vivere senz’acqua anche per una settimana."
+      },
+      {
+        "game": "sm-s",
+        "text": "Può sopravvivere senza cibo nella sua tana\nanche per una settimana, mentre attende\npaziente che le prede cadano in trappola."
+      },
+      {
+        "game": "sm-m",
+        "text": "Scava una tana a forma di imbuto nella sabbia\nfrantumando le rocce che lo ostacolano\ncon le sue possenti mascelle."
+      },
+      {
+        "game": "usum-us",
+        "text": "Con le pesanti mascelle spacca anche le pietre.\nTuttavia, se cade all’indietro non può rialzarsi\ne Sandile ne approfitta per attaccarlo."
+      },
+      {
+        "game": "usum-um",
+        "text": "Costruisce una tana che fa anche da trappola e\nattende pazientemente le prede. La notte dorme\nsotto la sabbia."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Se si cade in una delle tane a forma di imbuto\nche scava nel deserto, è impossibile sfuggirne."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Costruisce una tana a forma di imbuto dalla\nquale non si può scappare, aspettando poi\nche le prede cadano in trappola."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Trapinch",
+    "genus": "Ant Pit Pokémon",
+    "flavorText": [
+      {
+        "game": "rs-r",
+        "text": "TRAPINCH’s nest is a sloped, bowl-like\npit dug in sand. This POKéMON patiently\nwaits for prey to tumble down the pit.\fIts giant jaws have enough strength\nto crush even boulders."
+      },
+      {
+        "game": "rs-s",
+        "text": "TRAPINCH is a patient hunter. It digs\nan inescapable pit in a desert and waits\nfor its prey to come tumbling down.\fThis POKéMON can go a whole week\nwithout access to any water."
+      },
+      {
+        "game": "e",
+        "text": "Its big jaws crunch through boulders.\nBecause its head is so big, it has a hard\ntime getting back upright if it tips over\nonto its back."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "It lives in arid deserts. It makes a\nsloping pit trap in sand where it\npatiently awaits prey."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "It lives in arid deserts. It makes a\nsloping pit trap in sand where it\npatiently awaits prey."
+      },
+      {
+        "game": "dp-d",
+        "text": "It makes a conical pit in desert\nsand and lies in wait at the bottom\nfor prey to come tumbling down."
+      },
+      {
+        "game": "dp-p",
+        "text": "It makes a conical pit in desert\nsand and lies in wait at the bottom\nfor prey to come tumbling down."
+      },
+      {
+        "game": "pt",
+        "text": "It makes a conical pit in desert\nsand and lies in wait at the bottom\nfor prey to come tumbling down."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "Its nest is a sloped, bowl-like pit\nin the desert. Once something has\nfallen in, there is no escape."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "Its nest is a sloped, bowl-like pit\nin the desert. Once something has\nfallen in, there is no escape."
+      },
+      {
+        "game": "bw-b",
+        "text": "It makes a conical pit in desert\nsand and lies in wait at the bottom\nfor prey to come tumbling down."
+      },
+      {
+        "game": "bw-w",
+        "text": "It makes a conical pit in desert\nsand and lies in wait at the bottom\nfor prey to come tumbling down."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "It makes an inescapable conical pit\nand lies in wait at the bottom\nfor prey to come tumbling down."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "It makes an inescapable conical pit\nand lies in wait at the bottom\nfor prey to come tumbling down."
+      },
+      {
+        "game": "xy-x",
+        "text": "It lives in arid deserts. It makes a sloping pit trap in\nsand where it patiently awaits prey."
+      },
+      {
+        "game": "xy-y",
+        "text": "It makes an inescapable conical pit and lies in wait\nat the bottom for prey to come tumbling down."
+      },
+      {
+        "game": "oras-or",
+        "text": "Trapinch’s nest is a sloped, bowl-like pit dug in sand.\nThis Pokémon patiently waits for prey to tumble down the pit.\nIts giant jaws have enough strength to crush even boulders."
+      },
+      {
+        "game": "oras-as",
+        "text": "Trapinch is a patient hunter. It digs an inescapable pit in a\ndesert and waits for its prey to come tumbling down. This\nPokémon can go a whole week without access to any water."
+      },
+      {
+        "game": "sm-s",
+        "text": "It can live for a week without eating a thing.\nIt waits patiently at the bottom of its nest for\nprey to appear."
+      },
+      {
+        "game": "sm-m",
+        "text": "As it digs through the sand, its giant jaws\ncrush any rocks that obstruct its path. It builds\na funnel-shaped nest."
+      },
+      {
+        "game": "usum-us",
+        "text": "Its jaws are strong enough to crush rocks but\nso heavy that it can’t get up if it flips over.\nSandile seize those moments as their chance."
+      },
+      {
+        "game": "usum-um",
+        "text": "It builds nests that double as traps, lying in\nwait for its prey to get caught. When night falls,\nit digs itself a spot beneath the sand to sleep."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Its nest is a sloped, bowl-like pit in the desert.\nOnce something has fallen in, there is no escape."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "It makes an inescapable conical pit and lies in\nwait at the bottom for prey to come\ntumbling down."
+      }
+    ]
+  },
+  "chs": {
+    "name": "大颚蚁",
+    "genus": "蚁狮宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "一整个星期什么都不吃\n也能生存。一动不动地呆在\n巢穴底部等待猎物的到来。"
+      },
+      {
+        "game": "sm-m",
+        "text": "一边用大大的颚把挡道的\n岩石咬碎，一边挖沙子。\n巢穴的形状是捣蒜钵那样的。"
+      },
+      {
+        "game": "usum-us",
+        "text": "颚部连岩石也能弄碎，但很重，\n如果翻身了，就会爬不起来。\n黑眼鳄会趁这个空当袭击它。"
+      },
+      {
+        "game": "usum-um",
+        "text": "制造兼有陷阱功能的巢穴，\n一心一意埋伏着等待猎物。\n到了晚上就潜回沙中睡觉。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "它在沙漠中建造的巢穴\n造型就像是研钵一样。\n一旦掉进去就再也逃不出来了。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "建造了绝对无法逃脱的\n捣蒜钵状巢穴，并在巢穴里\n等着猎物自己掉进来。"
+      }
+    ]
+  }
+}

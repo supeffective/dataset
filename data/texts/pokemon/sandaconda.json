@@ -1,0 +1,133 @@
+{
+  "jap": {
+    "name": "サダイジャ",
+    "genus": "すなへびポケモン",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "ぜんしんを　ちぢめ　１００キロの\nすなを　はなの　あなから　ふんしゃ。\nすなが　ないと　よわきに　なるぞ。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "どくとくの　とぐろの　まきかたは\nすなぶくろの　すなを　より　こうりつ\nよく　ふんしゃ　するため　なのだ。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Sadaija",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "사다이사",
+    "genus": "모래뱀포켓몬",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "온몸을 수축시킨 뒤 100kg의\n모래를 콧구멍으로 내뿜는다.\n모래가 없으면 무기력해진다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "독특한 똬리 형태는\n모래주머니의 모래를 더 효율적으로\n분사하기 위함이다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "沙螺蟒",
+    "genus": "沙蛇寶可夢",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "蜷縮身體後從鼻孔裡噴射出\n１００公斤的沙子。沒有了\n沙子就會變得很懦弱。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "牠之所以會以獨特的方式\n盤繞自己的身體，是為了能\n更有效率地噴射沙囊中的沙子。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Dunaconda",
+    "genus": "Pokémon Serpensable",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Il peut expulser 100 kg de sable de ses narines\nen compressant tout son corps. Quand il est\nà court de sable, il a tendance à se dérober."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "S’il s’enroule d’une manière aussi particulière,\nc’est pour optimiser l’expulsion de sable\npar ses narines."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Sanaconda",
+    "genus": "Sandschlangen-Pokémon",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Zieht es seinen ganzen Körper zusammen, kann\nes 100 kg Sand aus seinen Nasenlöchern feuern.\nGeht ihm der Sand aus, verliert es den Mut."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Es rollt sich auf diese eigentümliche Weise\nzusammen, damit es den Sand aus seinem\nSandbeutel effizienter verschießen kann."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Sandaconda",
+    "genus": "Pokémon Serp. Arena",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Se retuerce para expulsar por los orificios nasales\nhasta 100 kg de arena. La ausencia de esta mina\nsu ánimo."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "La manera tan particular que tiene de enrollarse\nsobre sí mismo le permite expulsar con mayor\neficacia la arena que almacena en la bolsa."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Sandaconda",
+    "genus": "Pokémon Sabbiaserpe",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Può rimpicciolire il suo corpo espellendo dalle\nnarici 100 kg di sabbia. Quando esaurisce la\nsabbia, viene preso dallo sconforto."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Il modo particolare in cui si attorciglia su se\nstesso gli permette di espellere sabbia dalla\nsua sacca in modo più efficiente."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Sandaconda",
+    "genus": "Sand Snake Pokémon",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "When it contracts its body, over 220 pounds of\nsand sprays from its nose. If it ever runs out of\nsand, it becomes disheartened."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Its unique style of coiling allows it to blast sand\nout of its sand sac more efficiently."
+      }
+    ]
+  },
+  "chs": {
+    "name": "沙螺蟒",
+    "genus": "沙蛇宝可梦",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "蜷缩身体后从鼻孔里喷射出\n１００公斤的沙子。没有了\n沙子就会变得很懦弱。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "它之所以会以独特的方式\n盘绕自己的身体，是为了能\n更高效地喷射砂囊中的沙子。"
+      }
+    ]
+  }
+}

@@ -1,0 +1,549 @@
+{
+  "jap": {
+    "name": "プリン",
+    "genus": "ふうせんポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "まるくて　おおきい　ひとみで\nさそいこみ　ここちよい　うたを\nうたい　あいてを　ねむらせる。"
+      },
+      {
+        "game": "xy-y",
+        "text": "おおきく　からだを　ふくらませてから\nうたう　こもりうたは　いつもより\nながくて　ぜったいに　ねむくなる。"
+      },
+      {
+        "game": "oras-or",
+        "text": "こえの　はちょうを　じざいに　かえる　せいたいを\nもっているので　あいてが　いちばん　ねむくなる\nはちょうで　うたを　うたう　ことが　できる。"
+      },
+      {
+        "game": "oras-as",
+        "text": "うたう　ときは　いちども　いきつぎをしない。\nなかなか　ねむらない　てきを　あいてに　した\nときは　いきを　できない　プリンも　いのちがけ。"
+      },
+      {
+        "game": "sm-s",
+        "text": "おおきく　おなかを　ふくらませて\nふしぎな　メロディーを　うたう。\nきくと　すぐに　ねむくなるぞ。"
+      },
+      {
+        "game": "sm-m",
+        "text": "１２オクターブを　こえる　せいいきを\nもつが　うたが　うまいか　どうかは\nそれぞれの　プリンの　どりょくしだい。"
+      },
+      {
+        "game": "usum-us",
+        "text": "デパートの　しんぐコーナーには\nプリンの　ふしぎな　こもりうたを\nしゅうろくしたＣＤが　うられている。"
+      },
+      {
+        "game": "usum-um",
+        "text": "うたう　うたは　すむ　ちほうによって\nぜんぜん　ちがっている。　なかには\nシャウトするような　ものまで　あるぞ。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "つぶらな　ひとみで　あいてを\nみつめたあと　ふしぎで　ここちよい\nうたを　きかせて　ねむらせてしまう。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "つぶらな　ひとみで　あいてを\nみつめたあと　ふしぎで　ここちよい\nうたを　きかせて　ねむらせてしまう。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "はいかつりょうは　ポケモンかいでも\nトップクラス。　あいてが　ねむるまで\nこもりうたを　うたいつづけるぞ。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "こえの　はちょうを　じざいに　かえて\nきくと　ぜったいに　ねむくなる\nふしぎな　メロディーを　うたう。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Purin",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "푸린",
+    "genus": "풍선포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "동그랗고 커다란 눈동자로\n유인하고 기분 좋은 노래를\n불러 상대방을 잠들게 한다."
+      },
+      {
+        "game": "xy-y",
+        "text": "크게 몸을 부풀려\n노래하는 자장가는 평소보다\n길어서 반드시 잠이 온다."
+      },
+      {
+        "game": "oras-or",
+        "text": "목소리의 파장을 자유로이 바꿀 수 있는\n성대가 있어서 상대가 가장 졸리게 되는\n파장으로 노래를 부를 수 있다."
+      },
+      {
+        "game": "oras-as",
+        "text": "노래할 때는 한 번도 숨을 쉬지 않는다.\n어지간히 잠들지 않는 상대와 맞설 때는\n숨을 쉴 수 없기에 푸린도 필사적이다."
+      },
+      {
+        "game": "sm-s",
+        "text": "배를 크게 부풀려서\n신비한 멜로디를 노래한다.\n들으면 바로 졸음이 쏟아진다."
+      },
+      {
+        "game": "sm-m",
+        "text": "12옥타브를 넘는 음역을\n지녔지만 노래를 잘하는지는\n푸린 저마다의 노력에 달렸다."
+      },
+      {
+        "game": "usum-us",
+        "text": "백화점 침구 코너에는\n푸린의 신비한 자장가를\n수록한 CD를 판매하고 있다."
+      },
+      {
+        "game": "usum-um",
+        "text": "부르는 노래는 서식하는 지방에\n따라 전혀 다르다. 그중에는\n샤우팅하는 듯한 노래도 있다."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "초롱초롱한 눈동자로 상대를\n바라본 다음 이상하고 기분 좋은\n노래를 불러서 잠들게 한다."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "초롱초롱한 눈동자로 상대를\n바라본 다음 이상하고 기분 좋은\n노래를 불러서 잠들게 한다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "폐활량은 포켓몬 중에서도\n톱클래스다. 상대가 잠들 때까지\n자장가를 계속 부른다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "목소리 파장을 자유자재로 바꾸어\n들으면 반드시 잠드는\n신비한 멜로디를 노래한다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "胖丁",
+    "genus": "氣球寶可夢",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "讓肚子脹得大大的，\n唱出神奇的旋律。\n聽到後就會馬上變得昏昏欲睡。"
+      },
+      {
+        "game": "sm-m",
+        "text": "擁有超過１２個八度音的音域，\n不過歌唱得好不好就要看\n每隻胖丁自己努力的程度了。"
+      },
+      {
+        "game": "usum-us",
+        "text": "在百貨公司的寢具區\n可以買到收錄著胖丁那\n奇妙搖籃曲的ＣＤ。"
+      },
+      {
+        "game": "usum-um",
+        "text": "隨著棲息的地方不同，所唱的歌\n也完全不一樣。甚至有一部分胖丁\n唱的歌聽起來就像是在大吼大叫。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "會用圓圓的大眼睛凝視對手，\n然後唱出令人舒服的奇妙歌曲，\n讓對手陷入夢鄉。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "會用圓圓的大眼睛凝視對手，\n然後唱出令人舒服的奇妙歌曲，\n讓對手陷入夢鄉。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "肺活量之大在寶可夢界\n數一數二。會不停唱搖籃曲\n直到對方睡著為止。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "會自在地改變聲音的波長，\n唱出一聽見就絕對會\n昏昏欲睡的神奇旋律。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Rondoudou",
+    "genus": "Pokémon Bouboule",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Lorsqu’il roule ses grands yeux\nronds, il entonne une berceuse\nqui endort son auditoire."
+      },
+      {
+        "game": "bw-w",
+        "text": "Lorsqu’il roule ses grands yeux\nronds, il entonne une berceuse\nqui endort son auditoire."
+      },
+      {
+        "game": "xy-x",
+        "text": "Il hypnotise ses ennemis grâce à ses grands yeux\navant de les plonger dans un profond sommeil en\nchantant une douce mélopée."
+      },
+      {
+        "game": "xy-y",
+        "text": "En se gonflant, il peut chanter une longue berceuse\nqui endort inévitablement ses adversaires."
+      },
+      {
+        "game": "oras-or",
+        "text": "Rondoudou utilise ses cordes vocales pour ajuster librement\nla longueur d’onde de sa voix. Cela permet à ce Pokémon\nde chanter en utilisant une longueur d’onde qui endort\nses ennemis."
+      },
+      {
+        "game": "oras-as",
+        "text": "Lorsque ce Pokémon chante, il ne s’arrête pas pour respirer.\nQuand il se bat contre un adversaire qu’il ne peut pas\nfacilement endormir, Rondoudou reste donc sans respirer,\nmettant sa vie en danger."
+      },
+      {
+        "game": "sm-s",
+        "text": "Ce Pokémon aime inspirer profondément\net chanter une mélodie mystérieuse qui endort\nimmédiatement tous ceux qui l’entendent."
+      },
+      {
+        "game": "sm-m",
+        "text": "Cette espèce possède une tessiture de douze\noctaves, mais la beauté du chant dépend des\nefforts déployés par chaque individu."
+      },
+      {
+        "game": "usum-us",
+        "text": "Les rayons literie des magasins proposent\ngénéralement des CD de berceuses chantées\npar des Rondoudou."
+      },
+      {
+        "game": "usum-um",
+        "text": "Les airs qu’il chante varient selon la région\noù il habite. Certains chants s’apparentent\nà des hurlements."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Il déstabilise ses adversaires grâce à son regard,\npuis chante une berceuse pour les endormir."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Il déstabilise ses adversaires grâce à son regard,\npuis chante une berceuse pour les endormir."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Il a une des meilleures capacités pulmonaires\nparmi les Pokémon. Il chante des berceuses à\nson adversaire jusqu’à ce que sommeil s’ensuive."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Il module librement la longueur d’onde de\nsa voix pour chanter une étrange mélodie\nqui endort à tous les coups celui qui l’écoute."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Pummeluff",
+    "genus": "Ballon-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Es fesselt die Gegner mit seinen großen,\nrunden Augen und versetzt sie in Schlaf,\nindem es eine beruhigende Melodie singt."
+      },
+      {
+        "game": "xy-y",
+        "text": "Wenn es Gesang einsetzt, steigt seine Ausdauer\nund seine Zuhörer werden in Tiefschlaf versetzt."
+      },
+      {
+        "game": "oras-or",
+        "text": "Pummeluffs Stimmbänder können die Tonlage seiner Stimme\nbeliebig variieren. Dieses Pokémon benutzt diese Fähigkeit,\num seine Gegner mit monotonem Gesang in Tiefschlaf zu\nversetzen."
+      },
+      {
+        "game": "oras-as",
+        "text": "Während dieses Pokémon singt, holt es niemals Luft.\nIm Kampf gegen einen Gegner, der nicht so leicht in Schlaf\nzu versetzen ist, kann Pummeluff nicht atmen. Leider gefährdet\nes sich dadurch selbst."
+      },
+      {
+        "game": "sm-s",
+        "text": "Es kann tief einatmen und seinen Bauch mit Luft\nfüllen, um ein sonderbares Lied anzustimmen.\nWer dieses hört, schläft auf der Stelle ein."
+      },
+      {
+        "game": "sm-m",
+        "text": "Sein Stimmumfang übersteigt zwölf Oktaven.\nWie gut ein Pummeluff singen kann, hängt\njedoch davon ab, wie fleißig es übt."
+      },
+      {
+        "game": "usum-us",
+        "text": "In der Bettenabteilung von Kaufhäusern erhält\nman auch CDs mit Pummeluffs wundersam\neinlullendem Gesang."
+      },
+      {
+        "game": "usum-um",
+        "text": "Sein Gesang unterscheidet sich je nach der\nRegion, in der es lebt. Mancherorts erinnert er\nmehr an Geschrei."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Es betört Gegner mit seinen Kulleraugen und\nsingt ihnen dann ein mysteriöses, wohlklingendes\nLied vor, das sie in den Schlaf lullt."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Es betört Gegner mit seinen Kulleraugen und\nsingt ihnen dann ein mysteriöses, wohlklingendes\nLied vor, das sie in den Schlaf lullt."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Sein Lungenvolumen übersteigt das der meisten\nanderen Pokémon. Es singt so lange Schlaflieder,\nbis seine Gegner eingenickt sind."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Es kann die Tonlage seiner Stimme beliebig\nvariieren, um eine mysteriöse Melodie zu singen,\ndie jeden in Schlaf versetzt, der sie hört."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Jigglypuff",
+    "genus": "Pokémon Globo",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Cautiva con la mirada a su enemigo y hace que se\nquede profundamente dormido mientras entona una\ndulce melodía."
+      },
+      {
+        "game": "xy-y",
+        "text": "Si se hincha para cantar una nana, cantará más tiempo\ny podría causar sopor en el público."
+      },
+      {
+        "game": "oras-or",
+        "text": "Jigglypuff tiene unas cuerdas vocales que ajustan sin problema\nla longitud de onda de su voz. Este Pokémon usa la habilidad\nque tiene para cantar con la longitud de onda necesaria para\nadormecer a su rival."
+      },
+      {
+        "game": "oras-as",
+        "text": "Cuando este Pokémon canta, no para nunca para respirar.\nSi en combate el enemigo no se queda dormido con facilidad,\nJigglypuff no podrá respirar y su vida correrá peligro."
+      },
+      {
+        "game": "sm-s",
+        "text": "Hincha su vientre considerablemente y entona\nuna melodía misteriosa que duerme en el acto\na todo aquel que la oye."
+      },
+      {
+        "game": "sm-m",
+        "text": "Su tesitura suele ser de 12 octavas, pero su\nhabilidad en el canto dependerá del esfuerzo\nque realice cada individuo."
+      },
+      {
+        "game": "usum-us",
+        "text": "En la sección de muebles de dormitorio de los\ngrandes almacenes se pueden encontrar discos\nrecopilatorios de nanas cantadas por Jigglypuff."
+      },
+      {
+        "game": "usum-um",
+        "text": "Su canto varía enormemente de una región a\notra. En algunos casos, más que cantos parecen\naullidos."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Tras fijar su tierna mirada en el objetivo,\nentona una dulce y misteriosa melodía para\nadormecerlo."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Tras fijar su tierna mirada en el objetivo,\nentona una dulce y misteriosa melodía para\nadormecerlo."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Su capacidad pulmonar es excepcional, incluso\npara un Pokémon. Es capaz de cantar nanas sin\ncesar hasta que su rival se duerma."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Posee la capacidad de modular su voz a voluntad\ncambiando la longitud de onda para entonar una\nmelodía misteriosa que provoca adormecimiento."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Jigglypuff",
+    "genus": "Pokémon Pallone",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Cattura l’attenzione dei nemici grazie agli enormi\nocchi rotondi, per poi farli addormentare con una\ndolce ninnananna."
+      },
+      {
+        "game": "xy-y",
+        "text": "Se si gonfia e usa il suo Canto diventa più resistente\ne causa una forte sonnolenza in chi lo ascolta."
+      },
+      {
+        "game": "oras-or",
+        "text": "Le corde vocali di Jigglypuff gli consentono di cantare\nesattamente alla lunghezza d’onda richiesta per\naddormentare il suo avversario."
+      },
+      {
+        "game": "oras-as",
+        "text": "Quando canta, Jigglypuff non si ferma a prendere fiato.\nSe lotta contro un nemico che non si addormenta facilmente,\nnon respira rischiando così di esaurire tutte le sue energie."
+      },
+      {
+        "game": "sm-s",
+        "text": "Gonfia la pancia per cantare una melodia\nmisteriosa che fa addormentare chiunque\nl’ascolti."
+      },
+      {
+        "game": "sm-m",
+        "text": "Ha un’estensione vocale più ampia di 12 ottave.\nL’abilità nel canto è diversa da un esemplare\nall’altro e dipende dalla dedizione personale."
+      },
+      {
+        "game": "usum-us",
+        "text": "Ai grandi magazzini nel reparto camera da letto\nsono in vendita dei CD con la registrazione della\nmisteriosa ninnananna cantata da Jigglypuff."
+      },
+      {
+        "game": "usum-um",
+        "text": "Il suo canto è diversissimo a seconda della\nregione in cui vive. In alcuni casi, più che\ncantare sembra quasi che urli."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Usa gli enormi occhi per ammaliare i\nnemici, poi canta una dolce melodia per\naddormentarli."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Usa gli enormi occhi per ammaliare i\nnemici, poi canta una dolce melodia per\naddormentarli."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Dotato di una capacità polmonare fra le migliori\nnel mondo Pokémon, canta una ninnananna\nfinché il suo avversario non s’addormenta."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Modulando a piacere la lunghezza d’onda della\nsua voce, canta una melodia misteriosa che fa\naddormentare immancabilmente chi la ascolta."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Jigglypuff",
+    "genus": "Balloon Pokémon",
+    "flavorText": [
+      {
+        "game": "rb-r",
+        "text": "When its huge eyes\nlight up, it sings\na mysteriously\fsoothing melody\nthat lulls its\nenemies to sleep."
+      },
+      {
+        "game": "rb-b",
+        "text": "When its huge eyes\nlight up, it sings\na mysteriously\fsoothing melody\nthat lulls its\nenemies to sleep."
+      },
+      {
+        "game": "y",
+        "text": "Uses its alluring\neyes to enrapture\nits foe. It then\fsings a pleasing\nmelody that lulls\nthe foe to sleep."
+      },
+      {
+        "game": "gs-g",
+        "text": "If it inflates to\nSING a lullaby, it\ncan perform longer\fand cause sure\ndrowsiness in its\naudience."
+      },
+      {
+        "game": "gs-s",
+        "text": "Looking into its\ncute, round eyes\ncauses it to sing\fa relaxing melody,\ninducing its\nenemies to sleep."
+      },
+      {
+        "game": "c",
+        "text": "It rolls its cute\neyes as it sings a\nsoothing lullaby.\fIts gentle song\nputs anyone who\nhears it to sleep."
+      },
+      {
+        "game": "rs-r",
+        "text": "JIGGLYPUFF’s vocal chords can freely\nadjust the wavelength of its voice.\nThis POKéMON uses this ability to sing\fat precisely the right wavelength to\nmake its foes most drowsy."
+      },
+      {
+        "game": "rs-s",
+        "text": "When this POKéMON sings, it never\npauses to breathe. If it is in a battle\nagainst an opponent that does not\feasily fall asleep, JIGGLYPUFF cannot\nbreathe, endangering its life."
+      },
+      {
+        "game": "e",
+        "text": "Nothing can avoid falling asleep hearing a\nJIGGLYPUFF’s song. The sound waves of its\nsinging voice match the brain waves of\nsomeone in a deep sleep."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "It captivates foes with its huge, round\neyes, then lulls them to sleep by singing\na soothing melody."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "When its huge eyes waver, it sings a\nmysteriously soothing melody that lulls\nits enemies to sleep."
+      },
+      {
+        "game": "dp-d",
+        "text": "When it wavers its big, round\neyes, it begins singing a lullaby\nthat makes everyone drowsy."
+      },
+      {
+        "game": "dp-p",
+        "text": "When it wavers its big, round\neyes, it begins singing a lullaby\nthat makes everyone drowsy."
+      },
+      {
+        "game": "pt",
+        "text": "When it wavers its big, round\neyes, it begins singing a lullaby\nthat makes everyone drowsy."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "If it inflates to sing a lullaby,\nit can perform longer and cause\nsure drowsiness in its audience."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "Looking into its cute, round eyes\ncauses it to sing a relaxing melody,\ninducing its enemies to sleep."
+      },
+      {
+        "game": "bw-b",
+        "text": "When it wavers its big, round\neyes, it begins singing a lullaby\nthat makes everyone drowsy."
+      },
+      {
+        "game": "bw-w",
+        "text": "When it wavers its big, round\neyes, it begins singing a lullaby\nthat makes everyone drowsy."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "Looking into its cute, round eyes makes\nit start singing a song so pleasant\nlisteners can’t help but fall asleep."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "Looking into its cute, round eyes makes\nit start singing a song so pleasant\nlisteners can’t help but fall asleep."
+      },
+      {
+        "game": "xy-x",
+        "text": "It captivates foes with its huge, round eyes,\nthen lulls them to sleep by singing a\nsoothing melody."
+      },
+      {
+        "game": "xy-y",
+        "text": "If it inflates to sing a lullaby, it can perform longer\nand cause sure drowsiness in its audience."
+      },
+      {
+        "game": "oras-or",
+        "text": "Jigglypuff’s vocal cords can freely adjust the wavelength of its\nvoice. This Pokémon uses this ability to sing at precisely the\nright wavelength to make its foes most drowsy."
+      },
+      {
+        "game": "oras-as",
+        "text": "When this Pokémon sings, it never pauses to breathe.\nIf it is in a battle against an opponent that does not easily\nfall asleep, Jigglypuff cannot breathe, endangering its life."
+      },
+      {
+        "game": "sm-s",
+        "text": "It hugely inflates its stomach and sings a\nmysterious melody. If you hear this melody,\nyou’ll become sleepy right away."
+      },
+      {
+        "game": "sm-m",
+        "text": "Jigglypuff possess a vocal range that exceeds\n12 octaves, but each individual’s singing skill\ndepends on its own effort."
+      },
+      {
+        "game": "usum-us",
+        "text": "Recordings of Jigglypuff’s strange lullabies can\nbe purchased from department stores. These\nCDs can be found near the bedding area."
+      },
+      {
+        "game": "usum-um",
+        "text": "The songs they sing are totally different\ndepending on the region they live in. Some even\nsound like they’re shouting!"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Uses its cute round eyes to enrapture its foe.\nIt then sings a pleasing melody that lulls\nthe foe to sleep."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Uses its cute round eyes to enrapture its foe.\nIt then sings a pleasing melody that lulls\nthe foe to sleep."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Jigglypuff has top-notch lung capacity, even by\ncomparison to other Pokémon. It won’t stop\nsinging its lullabies until its foes fall asleep."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "By freely changing the wavelength of its voice,\nJigglypuff sings a mysterious melody sure to\nmake any listener sleepy."
+      }
+    ]
+  },
+  "chs": {
+    "name": "胖丁",
+    "genus": "气球宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "把肚子鼓得大大的，\n唱出神奇的旋律。\n听到后就会马上昏昏欲睡。"
+      },
+      {
+        "game": "sm-m",
+        "text": "拥有超过１２个音阶的音域，\n至于歌唱得好不好就要靠\n胖丁们各自努力了。"
+      },
+      {
+        "game": "usum-us",
+        "text": "可以在百货商店的寝具区\n买到收录有胖丁那\n神奇摇篮曲的ＣＤ。"
+      },
+      {
+        "game": "usum-um",
+        "text": "栖息的地区不同，它唱的歌\n也完全不同。里面甚至还有\n一些歌听起来像是在大喊大叫。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "它会用圆溜溜的大眼睛盯着\n对手唱起不可思议的歌曲，这\n令人舒服的歌曲会让对手睡着。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "它会用圆溜溜的大眼睛盯着\n对手唱起不可思议的歌曲，这\n令人舒服的歌曲会让对手睡着。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "肺活量之大，在整个宝可梦界\n数一数二。会一直哼唱摇篮曲\n直到对方睡着。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "能够随意改变声音的波长，\n唱出听了绝对会\n犯困的神奇旋律。"
+      }
+    ]
+  }
+}

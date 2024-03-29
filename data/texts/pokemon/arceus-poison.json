@@ -1,0 +1,219 @@
+{
+  "jap": {
+    "name": "アルセウス",
+    "genus": "そうぞうポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "タマゴから　すがたを　あらわして\nせかいの　すべてを　うみだしたと\nシンオウしんわに　かたられている。"
+      },
+      {
+        "game": "xy-y",
+        "text": "うちゅうが　まだ　ない　ころに\nさいしょに　うまれた　ポケモンと\nしんわの　なかで　かたられている。"
+      },
+      {
+        "game": "oras-or",
+        "text": "タマゴから　すがたを　あらわして\nせかいの　すべてを　うみだしたと\nシンオウしんわに　かたられている。"
+      },
+      {
+        "game": "oras-as",
+        "text": "うちゅうが　まだ　ない　ころに\nさいしょに　うまれた　ポケモンと\nしんわの　なかで　かたられている。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Arceus",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "아르세우스",
+    "genus": "창조포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "알에서 모습을 나타내\n모든 세계를 창조했다고\n신오신화에서 묘사된다."
+      },
+      {
+        "game": "xy-y",
+        "text": "우주가 아직 생기지 않았을 무렵에\n처음으로 태어난 포켓몬이라고\n신화 속에서 묘사된다."
+      },
+      {
+        "game": "oras-or",
+        "text": "알에서 모습을 나타내\n모든 세계를 창조했다고\n신오신화에서 묘사된다."
+      },
+      {
+        "game": "oras-as",
+        "text": "우주가 아직 생기지 않았을 무렵에\n처음으로 태어난 포켓몬이라고\n신화 속에서 묘사된다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "阿爾宙斯",
+    "genus": "創造寶可夢",
+    "flavorText": []
+  },
+  "fra": {
+    "name": "Arceus",
+    "genus": "Pokémon Alpha",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "On dit que son œuf a éclos dans\nle néant et qu’il est à l’origine\nde la création du monde."
+      },
+      {
+        "game": "bw-w",
+        "text": "On dit que son œuf a éclos dans\nle néant et qu’il est à l’origine\nde la création du monde."
+      },
+      {
+        "game": "xy-x",
+        "text": "La mythologie de Sinnoh veut qu’il soit apparu sous\nforme d’Œuf et ait créé le monde."
+      },
+      {
+        "game": "xy-y",
+        "text": "Dans la mythologie, ce Pokémon existait déjà avant\nla formation de l’univers."
+      },
+      {
+        "game": "oras-or",
+        "text": "La mythologie de Sinnoh veut qu’il soit apparu sous forme\nd’Œuf et ait créé le monde."
+      },
+      {
+        "game": "oras-as",
+        "text": "Dans la mythologie, ce Pokémon existait déjà avant\nla formation de l’univers."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Arceus",
+    "genus": "Alpha",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "In den Legenden Sinnohs heißt es, es sei aus\neinem Ei geschlüpft und hätte die gesamte Welt\ngeschaffen."
+      },
+      {
+        "game": "xy-y",
+        "text": "Die Mythologie erzählt, dass dieses Pokémon geboren\nwurde, bevor das Universum überhaupt existierte."
+      },
+      {
+        "game": "oras-or",
+        "text": "In den Legenden Sinnohs heißt es, es sei aus einem Ei\ngeschlüpft und hätte die gesamte Welt geschaffen."
+      },
+      {
+        "game": "oras-as",
+        "text": "Die Mythologie erzählt, dass dieses Pokémon geboren wurde,\nbevor das Universum überhaupt existierte."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Arceus",
+    "genus": "Pokémon Alfa",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Según la mitología de Sinnoh, Arceus surgió de un\nhuevo y después creó todo el mundo."
+      },
+      {
+        "game": "xy-y",
+        "text": "La mitología cuenta que este Pokémon nació antes\nde que el Universo existiera."
+      },
+      {
+        "game": "oras-or",
+        "text": "Según la mitología de Sinnoh, Arceus surgió de un huevo y\ndespués creó todo el mundo."
+      },
+      {
+        "game": "oras-as",
+        "text": "La mitología cuenta que este Pokémon nació antes de que el\nUniverso existiera."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Arceus",
+    "genus": "Pokémon Primevo",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Secondo la mitologia di Sinnoh, Arceus è nato da\nun uovo e poi ha creato il mondo."
+      },
+      {
+        "game": "xy-y",
+        "text": "Nei racconti mitologici si dice che questo Pokémon\nsia nato ancor prima dell’universo."
+      },
+      {
+        "game": "oras-or",
+        "text": "Secondo la mitologia di Sinnoh, Arceus è nato da un uovo\ne poi ha creato il mondo."
+      },
+      {
+        "game": "oras-as",
+        "text": "Nei racconti mitologici si dice che questo Pokémon sia nato\nancor prima dell’universo."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Arceus",
+    "genus": "Alpha Pokémon",
+    "flavorText": [
+      {
+        "game": "dp-d",
+        "text": "It is described in mythology as\nthe Pokémon that shaped the\nuniverse with its 1,000 arms."
+      },
+      {
+        "game": "dp-p",
+        "text": "It is told in mythology that this\nPokémon was born before the\nuniverse even existed."
+      },
+      {
+        "game": "pt",
+        "text": "It is said to have emerged from an\negg in a place where there was\nnothing, then shaped the world."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "According to the legends of Sinnoh, this\nPokémon emerged from an egg and\nshaped all there is in this world."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "According to the legends of Sinnoh, this\nPokémon emerged from an egg and\nshaped all there is in this world."
+      },
+      {
+        "game": "bw-b",
+        "text": "It is said to have emerged from an\negg in a place where there was\nnothing, then shaped the world."
+      },
+      {
+        "game": "bw-w",
+        "text": "It is said to have emerged from an\negg in a place where there was\nnothing, then shaped the world."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "It is said to have emerged from an\negg in a place where there was\nnothing then shaped the world."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "It is said to have emerged from an\negg in a place where there was\nnothing then shaped the world."
+      },
+      {
+        "game": "xy-x",
+        "text": "According to the legends of Sinnoh, this Pokémon\nemerged from an egg and shaped all there is in\nthis world."
+      },
+      {
+        "game": "xy-y",
+        "text": "It is told in mythology that this Pokémon was born\nbefore the universe even existed."
+      },
+      {
+        "game": "oras-or",
+        "text": "According to the legends of Sinnoh, this Pokémon\nemerged from an egg and shaped all there is in\nthis world."
+      },
+      {
+        "game": "oras-as",
+        "text": "It is told in mythology that this Pokémon was born\nbefore the universe even existed."
+      },
+      {
+        "game": "la",
+        "text": "It is the heavenly fount from which pours the light that shines\nacross Hisui. Its luminance guides and protects all Pokémon.\nHisuian mythology states that Arceus is the creator of all things."
+      }
+    ]
+  },
+  "chs": {
+    "name": "阿尔宙斯",
+    "genus": "创造宝可梦",
+    "flavorText": []
+  }
+}

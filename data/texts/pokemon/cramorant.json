@@ -1,0 +1,133 @@
+{
+  "jap": {
+    "name": "ウッウ",
+    "genus": "うのみポケモン",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "あいてを　いちげきで　うちまかすほど\nパワフルだが　わすれっぽいので\nたたかっている　あいてを　わすれる。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "くいしんぼうで　エサの　サシカマスを\nまるのみするが　たまに　まちがえて\nほかの　ポケモンに　くらいつく。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Uu",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "윽우지",
+    "genus": "그대로삼키기포켓몬",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "상대를 일격에 쓰러뜨릴 정도로\n파워풀하지만 건망증이 심해서\n싸우고 있는 상대를 잊어버린다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "먹보이다. 먹이인 찌로꼬치를\n통째로 삼키지만 가끔 실수로\n다른 포켓몬을 먹어버린다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "古月鳥",
+    "genus": "一口吞寶可夢",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "雖然擁有一擊定勝負的威力，\n但因為記性實在太差，\n對戰還沒結束就會忘記對手是誰。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "非常貪吃，會把刺梭魚整隻\n吞進嘴裡。偶爾也會搞錯對象\n去咬其他的寶可夢。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Nigosier",
+    "genus": "Pokémon Avaltouron",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Il est assez puissant pour terrasser un ennemi\nd’un seul coup, mais il est tellement nigaud\nqu’il oublie contre qui il se bat."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Très glouton, il avale les Embrochet d’une seule\nbouchée, mais il lui arrive de se tromper\net de tenter de gober un autre Pokémon."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Urgl",
+    "genus": "Schling-Pokémon",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Es ist so stark, dass es seine Gegner mit einem\nAngriff vernichten könnte, aber zerstreut wie es\nist, vergisst es öfters, wen es gerade bekämpft."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Es ist ein Vielfraß, der seine Beute, Pikuda,\nim Ganzen verschlingt. Manchmal erwischt es\njedoch irrtümlicherweise ein anderes Pokémon."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Cramorant",
+    "genus": "Pokémon Tragón",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Su colosal potencia le permite machacar al rival\nde un solo golpe, aunque su carácter despistado\nlo lleva a olvidarse de su presencia."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Traga Arrokuda enteros debido a su glotonería,\ntan notable que en ocasiones ingiere hasta otros\nPokémon sin querer."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Cramorant",
+    "genus": "Pokémon Inghiottone",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "È così potente che può sconfiggere l’avversario\nin un colpo solo, ma è talmente smemorato che\nsi dimentica perfino con chi stava lottando."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "È molto ingordo e ingoia tutti interi gli Arrokuda\ndi cui si nutre. A volte ingoia anche altri\nPokémon per sbaglio."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Cramorant",
+    "genus": "Gulp Pokémon",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "It’s so strong that it can knock out some\nopponents in a single hit, but it also may\nforget what it’s battling midfight."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "This hungry Pokémon swallows Arrokuda whole.\nOccasionally, it makes a mistake and tries to\nswallow a Pokémon other than its preferred prey."
+      }
+    ]
+  },
+  "chs": {
+    "name": "古月鸟",
+    "genus": "一口吞宝可梦",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "虽然拥有一击定胜负的威力，\n由于记性实在太差，\n对战还没结束就会忘记对手是谁。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "非常贪吃，会把刺梭鱼整只\n吞进嘴里。偶尔也会搞错对象\n去咬其他的宝可梦。"
+      }
+    ]
+  }
+}

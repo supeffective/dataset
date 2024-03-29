@@ -1,0 +1,381 @@
+{
+  "jap": {
+    "name": "ユレイドル",
+    "genus": "いわつぼポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "あたたかい　うみの　あさせに　いる。\nしおが　ひくと　すなはまに　もぐった\nえものを　ほりだして　たべる。"
+      },
+      {
+        "game": "xy-y",
+        "text": "８まいの　しょくしゅで　えものを\nからめとり　つよい　しょうかえきで\nとかしてから　むしゃむしゃ　たべる。"
+      },
+      {
+        "game": "oras-or",
+        "text": "うみの　そこで　エサを　さがして　あるきまわる。\nきの　えだの　ような　くびを　じざいに　のばして\n８まいの　しょくしゅで　えものを　つかまえる。"
+      },
+      {
+        "game": "oras-as",
+        "text": "からだが　おもりがわりに　なっているので\nうみが　あれても　ながされる　ことは　ない。\nしょくしゅから　つよい　しょうかえきを　だす。"
+      },
+      {
+        "game": "usum-us",
+        "text": "ふだんは　あさせの　かいていに　すみ\nしおが　ひくと　そのまま　りくに\nあがって　えものを　さがしていた。"
+      },
+      {
+        "game": "usum-um",
+        "text": "こだいのうみの　にくしょくポケモン。\n８つのしょくしゅで　えものを　とらえ\nしょうかえきで　とかしながら　くう。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "あしが　みじかく　あゆみは　おそいが\nくびと　しょくしゅが　３ばい　のびて\nとおくにいる　えものを　つかまえる。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "しょくしゅで　えものを　つかまえると\nそのまま　しょうかえきで　とかして\nえいようぶんを　きゅうしゅうする。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Yuradle",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "릴리요",
+    "genus": "바위단지포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "따뜻한 바다의 얕은 곳에 있다.\n바닷물이 빠지면 모래 해변에\n숨어 있는 먹이를 파내어 먹는다."
+      },
+      {
+        "game": "xy-y",
+        "text": "8개의 촉수로 먹이를\n감싸 강한 소화액으로\n녹이고 나서 우걱우걱 먹는다."
+      },
+      {
+        "game": "oras-or",
+        "text": "바다 밑에서 먹이를 찾아 돌아다닌다.\n나뭇가지 같은 목을 자유롭게 늘여서\n8개의 촉수로 먹이를 잡는다."
+      },
+      {
+        "game": "oras-as",
+        "text": "몸이 추와 같은 역할을 해서\n바다가 거칠어져도 떠내려가는 일이 없다.\n촉수에서 강한 소화액이 나온다."
+      },
+      {
+        "game": "usum-us",
+        "text": "평소에는 얕은 여울 바다 밑에 살고\n물이 빠지면 그대로 지상으로\n올라가 먹이를 찾았다."
+      },
+      {
+        "game": "usum-um",
+        "text": "고대 바다의 육식 포켓몬.\n8개의 촉수로 먹이를 잡아서\n소화액으로 녹여 가며 먹는다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "다리가 짧아 걸음이 느리지만\n목과 촉수가 3배로 늘어나서\n멀리 있는 먹이를 잡는다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "촉수로 먹이를 잡은 후\n그대로 소화액으로 녹여\n영양분을 흡수한다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "搖籃百合",
+    "genus": "藤壺寶可夢",
+    "flavorText": [
+      {
+        "game": "usum-us",
+        "text": "平時棲息在海中淺灘的底部，\n每當退潮時就會爬到陸地上，\n四處尋找獵物。"
+      },
+      {
+        "game": "usum-um",
+        "text": "古代海裡的肉食性寶可夢。\n會用８根觸手捉住獵物，\n一邊用消化液溶解一邊進食。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "雖然腳短且走得慢，但\n脖子和觸手能伸長３倍\n去捕捉在遠處的獵物。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "用觸手捕捉到獵物時，\n會直接用消化液溶解\n獵物然後吸收養分。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Vacilys",
+    "genus": "Pokémon Bernacle",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Vit dans les hauts-fonds des mers\nchaudes. Il déterre sa proie du\nsable quand la marée se retire."
+      },
+      {
+        "game": "bw-w",
+        "text": "Vit dans les hauts-fonds des mers\nchaudes. Il déterre sa proie du\nsable quand la marée se retire."
+      },
+      {
+        "game": "xy-x",
+        "text": "Vit dans les hauts-fonds des mers chaudes.\nIl déterre sa proie du sable quand la marée se retire."
+      },
+      {
+        "game": "xy-y",
+        "text": "Lorsqu’il chasse, Vacilys utilise ses huit tentacules.\nIl dissout sa proie à l’aide d’un puissant acide avant\nde l’avaler."
+      },
+      {
+        "game": "oras-or",
+        "text": "Vacilys erre dans les profondeurs de l’océan pour chercher\nde la nourriture. Ce Pokémon peut allonger son cou à volonté\net capturer ses proies à l’aide de ses huit tentacules."
+      },
+      {
+        "game": "oras-as",
+        "text": "Le corps de Vacilys lui sert d’ancre et l’empêche d’être\nemporté quand la mer est déchaînée. Les tentacules\nde ce Pokémon sécrètent un puissant fluide digestif."
+      },
+      {
+        "game": "usum-us",
+        "text": "Il habitait généralement dans les hauts-fonds,\nmais parcourait le littoral en quête de proies\nlorsque la marée était basse."
+      },
+      {
+        "game": "usum-um",
+        "text": "Ce carnivore des mers antiques attrape sa proie\nà l’aide de ses huit tentacules, puis la dissout\navec ses sucs digestifs."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Il se déplace lentement avec ses petites pattes,\nmais il peut tripler la longueur de son cou et\nde ses tentacules pour capturer ses proies."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Il attrape ses proies à l’aide de ses tentacules,\npuis les dissout immédiatement avec ses sucs\ndigestifs pour en absorber les nutriments."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Wielie",
+    "genus": "Rankfüßer-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Es lebt in seichten Stellen warmer Meere.\nBei Ebbe sucht es im Sand nach Beute."
+      },
+      {
+        "game": "xy-y",
+        "text": "Es fängt Beute mit seinen acht Tentakeln. Ehe es sie\nverspeist, löst es sie mit einer starken Säure auf."
+      },
+      {
+        "game": "oras-or",
+        "text": "Wielie sucht den Meeresboden nach Beute ab. Dieses\nPokémon fährt seinen baumstammartigen Nacken aus\nund fängt mit seinen acht Tentakeln Beute."
+      },
+      {
+        "game": "oras-as",
+        "text": "Wielies Körper dient ihm als Anker und schützt es davor,\nin die stürmische See gespült zu werden. Dieses Pokémon\nsondert eine starke Verdauungsflüssigkeit aus seinen\nTentakeln ab."
+      },
+      {
+        "game": "usum-us",
+        "text": "Es lebte für gewöhnlich an seichten Stellen im\nMeer. Bei Ebbe kam es an Land, um nach Beute\nzu suchen."
+      },
+      {
+        "game": "usum-um",
+        "text": "Ein fleischfressendes Pokémon aus dem Urmeer.\nMit seinen acht Tentakeln fing es Beute und\nlöste sie in Verdauungssaft auf, bevor es sie aß."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Durch die kurzen Beine läuft Wielie nur langsam,\ndoch um ferne Beute zu fangen, kann es Hals und\nTentakel auf die dreifache Länge ausstrecken."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Sobald es mit seinen Tentakeln Beute erfasst hat,\nlöst es diese mit seiner Verdauungsflüssigkeit auf\nund absorbiert ihre Nährstoffe."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Cradily",
+    "genus": "Pokémon Percebe",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Vive en el fondo de los mares de aguas templadas.\nEmerge para cazar cuando baja la marea."
+      },
+      {
+        "game": "xy-y",
+        "text": "Atrapa a su presa con los ocho tentáculos que tiene y,\nantes de devorarla, la baña en ácido."
+      },
+      {
+        "game": "oras-or",
+        "text": "Cradily va por el fondo oceánico sin rumbo fijo en busca de\ncomida. El cuello de este Pokémon se parece al tronco de\nun árbol. Cuando quiere atrapar a su presa desprevenida, lo\nestira y usa los ocho tentáculos que tiene."
+      },
+      {
+        "game": "oras-as",
+        "text": "A Cradily le sirve el cuerpo de ancla y sostén en aguas\nturbulentas. Gracias a él no es arrastrado por las corrientes.\nEste Pokémon segrega un fuerte jugo digestivo a través de\nlos tentáculos."
+      },
+      {
+        "game": "usum-us",
+        "text": "Por lo general habitaba en las profundidades\ndel mar y salía a tierra firme en busca de presas\ncuando bajaba la marea."
+      },
+      {
+        "game": "usum-um",
+        "text": "Pokémon carnívoro de mares ancestrales. Con\nlos ocho tentáculos atrapa a su presa y la come\na medida que sus jugos gástricos la disuelven."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Sus cortas patas le impiden desplazarse con\nrapidez, pero puede triplicar la longitud de sus\ntentáculos y cuello para atrapar a presas lejanas."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Atrapa a sus presas con los tentáculos y\nenseguida las disuelve con sus jugos gástricos\npara absorber los nutrientes."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Cradily",
+    "genus": "Pokémon Lepade",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Vive in acque poco profonde nei mari caldi. Con la\nbassa marea, scava sulla riva in cerca di prede."
+      },
+      {
+        "game": "xy-y",
+        "text": "Irretisce la preda con gli otto tentacoli, poi la scioglie\nusando un forte acido e, infine, se ne ciba."
+      },
+      {
+        "game": "oras-or",
+        "text": "Cradily scandaglia i fondali oceanici in cerca di nutrimento.\nRiesce a estendere il collo, simile al tronco di un albero,\nper catturare ignare prede con i propri otto tentacoli."
+      },
+      {
+        "game": "oras-as",
+        "text": "Il corpo di Cradily funge da ancora, per evitare di essere\nspazzato via dal mare grosso. Il Pokémon secerne un potente\nliquido digestivo dai propri tentacoli."
+      },
+      {
+        "game": "usum-us",
+        "text": "Questo Pokémon viveva sui fondali di acque\npoco profonde e con la bassa marea andava in\ncerca di prede sulla riva."
+      },
+      {
+        "game": "usum-um",
+        "text": "Questo antico Pokémon carnivoro afferra\nla preda con gli otto tentacoli, poi la scioglie\nusando un acido e cibandosene man mano."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Il suo passo è lento a causa delle corte zampe,\nma può triplicare la lunghezza del collo e dei\ntentacoli per catturare le prede."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Cattura le prede con i tentacoli e le scioglie\ncon un fluido digestivo, assorbendone così\nle sostanze nutritive."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Cradily",
+    "genus": "Barnacle Pokémon",
+    "flavorText": [
+      {
+        "game": "rs-r",
+        "text": "CRADILY roams around the ocean floor\nin search of food. This POKéMON freely\nextends its tree trunk-like neck and\fcaptures unwary prey using its eight\ntentacles."
+      },
+      {
+        "game": "rs-s",
+        "text": "CRADILY’s body serves as an anchor,\npreventing it from being washed away in\nrough seas.\fThis POKéMON secretes a strong\ndigestive fluid from its tentacles."
+      },
+      {
+        "game": "e",
+        "text": "It drags its heavy body along the\nseafloor. It makes its nest in the shallows\nof warm seas. CRADILY can be seen on\nbeaches when the tide goes out."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "It ensnares prey with its eight tentacles.\nIt then melts the prey with a strong acid\nbefore feeding."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "It ensnares prey with its eight tentacles.\nIt then melts the prey with a strong acid\nbefore feeding."
+      },
+      {
+        "game": "dp-d",
+        "text": "It lives in the shallows of warm\nseas. When the tide goes out, it\ndigs up prey from beaches."
+      },
+      {
+        "game": "dp-p",
+        "text": "It lives in the shallows of warm\nseas. When the tide goes out, it\ndigs up prey from beaches."
+      },
+      {
+        "game": "pt",
+        "text": "It lives in the shallows of warm\nseas. When the tide goes out, it\ndigs up prey from beaches."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "It lives in warm seas. Its heavy\nbody weighs it down so it won’t\nget washed away in rough weather."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "It lives in warm seas. Its heavy\nbody weighs it down so it won’t\nget washed away in rough weather."
+      },
+      {
+        "game": "bw-b",
+        "text": "It lives in the shallows of warm\nseas. When the tide goes out, it\ndigs up prey from beaches."
+      },
+      {
+        "game": "bw-w",
+        "text": "It lives in the shallows of warm\nseas. When the tide goes out, it\ndigs up prey from beaches."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "It lives in the shallows of warm\nseas. When the tide goes out, it\ndigs up prey from beaches."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "It lives in the shallows of warm\nseas. When the tide goes out, it\ndigs up prey from beaches."
+      },
+      {
+        "game": "xy-x",
+        "text": "It lives in the shallows of warm seas. When the tide\ngoes out, it digs up prey from beaches."
+      },
+      {
+        "game": "xy-y",
+        "text": "It ensnares prey with its eight tentacles. It then\nmelts the prey with a strong acid before feeding."
+      },
+      {
+        "game": "oras-or",
+        "text": "Cradily roams around the ocean floor in search of food.\nThis Pokémon freely extends its tree trunk-like neck and\ncaptures unwary prey using its eight tentacles."
+      },
+      {
+        "game": "oras-as",
+        "text": "Cradily’s body serves as an anchor, preventing it from being\nwashed away in rough seas. This Pokémon secretes a strong\ndigestive fluid from its tentacles."
+      },
+      {
+        "game": "usum-us",
+        "text": "Normally, it lived on shallow sea shoals. When\nthe tide went out, this Pokémon came up on\nland to search for prey."
+      },
+      {
+        "game": "usum-um",
+        "text": "This carnivorous Pokémon lived in primordial\nseas. It catches prey in its eight tentacles and\ndissolves them with digestive fluid as it eats."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "It has short legs and can’t walk very fast, but its\nneck and tentacles can extend to over three\ntimes their usual length to nab distant prey."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Once Cradily catches prey in its tentacles,\nit digests them whole and absorbs their nutrients."
+      }
+    ]
+  },
+  "chs": {
+    "name": "摇篮百合",
+    "genus": "藤壶宝可梦",
+    "flavorText": [
+      {
+        "game": "usum-us",
+        "text": "平常栖息在海的浅滩底部，\n退潮的时候就爬到陆地上，\n四处寻找猎物。"
+      },
+      {
+        "game": "usum-um",
+        "text": "古代海里的食肉宝可梦。\n能用８根触手捕捉猎物，\n一边用消化液溶化一边吃。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "虽然脚很短走得慢，\n但脖子和触手能伸长３倍，\n因此能捉到远处的猎物。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "用触手将猎物缠住后，\n会用消化液将其溶化，\n然后吸收其中的养分。"
+      }
+    ]
+  }
+}

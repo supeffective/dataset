@@ -1,0 +1,199 @@
+{
+  "jap": {
+    "name": "ランドロス",
+    "genus": "ほうじょうポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "ランドロスの　おとずれる　とちは\nさくもつが　たくさん　みのるため\nはたけのかみさま　と　いわれている。"
+      },
+      {
+        "game": "xy-y",
+        "text": "かぜや　かみなりを　とりこみ　かえた\nエネルギーが　つちに　えいようを\nあたえて　だいちを　ゆたかに　する。"
+      },
+      {
+        "game": "oras-or",
+        "text": "ランドロスの　おとずれる　とちは\nさくもつが　たくさん　みのるため\nはたけのかみさま　と　いわれている。"
+      },
+      {
+        "game": "oras-as",
+        "text": "かぜや　かみなりを　とりこみ　かえた\nエネルギーが　つちに　えいようを\nあたえて　だいちを　ゆたかに　する。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Landlos",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "랜드로스",
+    "genus": "풍요포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "랜드로스가 찾아온 땅에는\n작물에 열매가 많이 열리기 때문에\n농지의 신이라고 전해진다."
+      },
+      {
+        "game": "xy-y",
+        "text": "바람이나 번개를 거둬들여 바꾼\n에너지가 흙에 영양을\n주어 대지를 풍족하게 한다."
+      },
+      {
+        "game": "oras-or",
+        "text": "랜드로스가 찾아온 땅에는\n작물에 열매가 많이 열리기 때문에\n농지의 신이라고 전해진다."
+      },
+      {
+        "game": "oras-as",
+        "text": "바람이나 번개를 거둬들여 바꾼\n에너지가 흙에 영양을\n주어 대지를 풍족하게 한다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "土地雲",
+    "genus": "豐饒寶可夢",
+    "flavorText": []
+  },
+  "fra": {
+    "name": "Démétéros",
+    "genus": "Pokémon Fertilité",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Il fait fructifier les cultures partout\noù il passe, c’est pourquoi on l’appelle\n“le dieu des moissons”."
+      },
+      {
+        "game": "bw-w",
+        "text": "L’énergie déversée par sa queue\nenrichit les sols en nutriments et\nfavorise les cultures."
+      },
+      {
+        "game": "xy-x",
+        "text": "Il fait fructifier les cultures partout où il passe, c’est\npourquoi on l’appelle « le dieu des moissons »."
+      },
+      {
+        "game": "xy-y",
+        "text": "Il utilise l’énergie qu’il tire du vent et de la foudre\npour enrichir les sols en nutriments pour les cultures."
+      },
+      {
+        "game": "oras-or",
+        "text": "Il fait fructifier les cultures partout où il passe, c’est pourquoi\non l’appelle « le dieu des moissons »."
+      },
+      {
+        "game": "oras-as",
+        "text": "Il utilise l’énergie qu’il tire du vent et de la foudre pour enrichir\nles sols en nutriments pour les cultures."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Demeteros",
+    "genus": "Reichtums-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Da an Orten, wo es sich blicken lässt, mit reicher\nErnte zu rechnen ist, nennt man es auch den\n„Herrn des Ackerbaus“."
+      },
+      {
+        "game": "xy-y",
+        "text": "Seine aus Wind und Donner gewonnene Energie\nsorgt für reiche Ernten, da sie den Boden mit\nNährstoffen anreichert."
+      },
+      {
+        "game": "oras-or",
+        "text": "Da an Orten, wo es sich blicken lässt, mit reicher Ernte zu\nrechnen ist, nennt man es auch den „Herrn des Ackerbaus“."
+      },
+      {
+        "game": "oras-as",
+        "text": "Seine aus Wind und Donner gewonnene Energie sorgt für\nreiche Ernten, da sie den Boden mit Nährstoffen anreichert."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Landorus",
+    "genus": "Pokémon Fertilidad",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Lo consideran una deidad de las cosechas porque los\ncultivos crecen en abundancia en las tierras por las\nque pasa."
+      },
+      {
+        "game": "xy-y",
+        "text": "Utiliza energía que obtiene del viento y del relámpago\npara nutrir el suelo y generar abundantes cosechas."
+      },
+      {
+        "game": "oras-or",
+        "text": "Lo consideran una deidad de las cosechas porque los cultivos\ncrecen en abundancia en las tierras por las que pasa."
+      },
+      {
+        "game": "oras-as",
+        "text": "Utiliza energía que obtiene del viento y del relámpago para\nnutrir el suelo y generar abundantes cosechas."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Landorus",
+    "genus": "Pokémon Fertilità",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Poiché le terre che visita producono abbondanti\nraccolti, è considerato una benedizione per i campi."
+      },
+      {
+        "game": "xy-y",
+        "text": "Rende fertile la terra trasformando l’energia del vento\ne dei fulmini in nutrimento per il suolo."
+      },
+      {
+        "game": "oras-or",
+        "text": "Poiché le terre che visita producono abbondanti raccolti,\nè considerato una benedizione per i campi."
+      },
+      {
+        "game": "oras-as",
+        "text": "Rende fertile la terra trasformando l’energia del vento e dei\nfulmini in nutrimento per il suolo."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Landorus",
+    "genus": "Abundance Pokémon",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Lands visited by Landorus grant such\nbountiful crops that it has been hailed\nas “The Guardian of the Fields.”"
+      },
+      {
+        "game": "bw-w",
+        "text": "The energy that comes pouring from its\ntail increases the nutrition in the soil,\nmaking crops grow to great size."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "From the forces of lightning and wind,\nit creates energy to give nutrients to\nthe soil and make the land abundant."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "From the forces of lightning and wind,\nit creates energy to give nutrients to\nthe soil and make the land abundant."
+      },
+      {
+        "game": "xy-x",
+        "text": "Lands visited by Landorus grant such bountiful\ncrops that it has been hailed as “The Guardian of\nthe Fields.”"
+      },
+      {
+        "game": "xy-y",
+        "text": "From the forces of lightning and wind, it creates\nenergy to give nutrients to the soil and make the\nland abundant."
+      },
+      {
+        "game": "oras-or",
+        "text": "Lands visited by Landorus grant such bountiful\ncrops that it has been hailed as “The Guardian of\nthe Fields.”"
+      },
+      {
+        "game": "oras-as",
+        "text": "From the forces of lightning and wind, it creates\nenergy to give nutrients to the soil and make the\nland abundant."
+      },
+      {
+        "game": "la",
+        "text": "When the incarnations of wind and of lightning clash, Landorus\narrives to quell the conflict. After the tempests and thunderbolts\nabate, the land is sure to be blessed with bountiful harvests."
+      }
+    ]
+  },
+  "chs": {
+    "name": "土地云",
+    "genus": "丰饶宝可梦",
+    "flavorText": []
+  }
+}

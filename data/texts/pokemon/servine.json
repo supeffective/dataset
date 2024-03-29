@@ -1,0 +1,195 @@
+{
+  "jap": {
+    "name": "ジャノビー",
+    "genus": "くさへびポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "じめんを　すべるように　はしる。\nすばやい　うごきで　てきを　まどわせ\nつるのムチで　しとめるのだ。"
+      },
+      {
+        "game": "xy-y",
+        "text": "からだが　よごれると　はっぱで\nこうごうせいが　できなくなるので\nいつも　せいけつに　している。"
+      },
+      {
+        "game": "oras-or",
+        "text": "じめんを　すべるように　はしる。\nすばやい　うごきで　てきを　まどわせ\nつるのムチで　しとめるのだ。"
+      },
+      {
+        "game": "oras-as",
+        "text": "からだが　よごれると　はっぱで\nこうごうせいが　できなくなるので\nいつも　せいけつに　している。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Janovy",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "샤비",
+    "genus": "풀뱀포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "땅을 미끄러지듯 달린다.\n빠른 움직임으로 상대를 혼란시키고\n덩굴채찍으로 꼼짝 못하게 한다."
+      },
+      {
+        "game": "xy-y",
+        "text": "몸이 더러워지면 잎으로\n광합성을 할 수 없기 때문에\n항상 청결하게 하고 있다."
+      },
+      {
+        "game": "oras-or",
+        "text": "땅을 미끄러지듯 달린다.\n빠른 움직임으로 상대를 혼란시키고\n덩굴채찍으로 꼼짝 못하게 한다."
+      },
+      {
+        "game": "oras-as",
+        "text": "몸이 더러워지면 잎으로\n광합성을 할 수 없기 때문에\n항상 청결하게 하고 있다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "青藤蛇",
+    "genus": "草蛇寶可夢",
+    "flavorText": []
+  },
+  "fra": {
+    "name": "Lianaja",
+    "genus": "Pokémon Serpenterbe",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Il court comme s’il glissait sur le sol.\nIl déroute l’ennemi par ses mouvements\net l’assomme d’un coup de liane."
+      },
+      {
+        "game": "bw-w",
+        "text": "Il évite les coups en se cachant dans la\nvégétation luxuriante et contre-attaque\nhabilement avec un bon coup de liane."
+      },
+      {
+        "game": "xy-x",
+        "text": "Il court comme s’il glissait sur le sol. Il déroute\nl’ennemi par ses mouvements et l’assomme d’un\ncoup de liane."
+      },
+      {
+        "game": "xy-y",
+        "text": "La saleté l’empêchant d’utiliser la photosynthèse,\nil prend grand soin d’être toujours propre."
+      },
+      {
+        "game": "oras-or",
+        "text": "Il court comme s’il glissait sur le sol. Il déroute l’ennemi\npar ses mouvements et l’assomme d’un coup de liane."
+      },
+      {
+        "game": "oras-as",
+        "text": "La saleté l’empêchant d’utiliser la photosynthèse, il prend\ngrand soin d’être toujours propre."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Efoserp",
+    "genus": "Grasschlange",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Huscht beinahe gleitend über den Boden\nund täuscht Gegner mit agilen Manövern,\nbis es mithilfe seiner Efeurute obsiegt."
+      },
+      {
+        "game": "xy-y",
+        "text": "Es achtet stets auf Reinlichkeit, da es mit schmutzigen\nBlättern keine Photosynthese betreiben kann."
+      },
+      {
+        "game": "oras-or",
+        "text": "Huscht beinahe gleitend über den Boden und täuscht Gegner\nmit agilen Manövern, bis es mithilfe seiner Efeurute obsiegt."
+      },
+      {
+        "game": "oras-as",
+        "text": "Es achtet stets auf Reinlichkeit, da es mit schmutzigen Blättern\nkeine Photosynthese betreiben kann."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Servine",
+    "genus": "Pokémon Serp. Hierba",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Parece que se desliza al correr. Engaña a sus rivales\ncon su velocidad y los fustiga con su látigo."
+      },
+      {
+        "game": "xy-y",
+        "text": "Cuando su cuerpo está sucio, no puede realizar la\nfotosíntesis con sus hojas, así que cuida mucho su\nhigiene personal."
+      },
+      {
+        "game": "oras-or",
+        "text": "Parece que se desliza al correr. Engaña a sus rivales con su\nvelocidad y los fustiga con su látigo."
+      },
+      {
+        "game": "oras-as",
+        "text": "Cuando su cuerpo está sucio, no puede realizar la fotosíntesis\ncon sus hojas, así que cuida mucho su higiene personal."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Servine",
+    "genus": "Pokémon Serperba",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Corre quasi scivolando sulle superfici. Confonde il\nnemico con i rapidi movimenti, per poi attaccarlo\ncon una frustata."
+      },
+      {
+        "game": "xy-y",
+        "text": "Se si sporca, le sue foglie non possono più effettuare\nla fotosintesi, perciò si tiene sempre molto pulito."
+      },
+      {
+        "game": "oras-or",
+        "text": "Corre quasi scivolando sulle superfici. Confonde il nemico\ncon i rapidi movimenti, per poi attaccarlo con una frustata."
+      },
+      {
+        "game": "oras-as",
+        "text": "Se si sporca, le sue foglie non possono più effettuare la\nfotosintesi, perciò si tiene sempre molto pulito."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Servine",
+    "genus": "Grass Snake Pokémon",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "It moves along the ground as if sliding.\nIts swift movements befuddle its foes,\nand it then attacks with a vine whip."
+      },
+      {
+        "game": "bw-w",
+        "text": "They avoid attacks by sinking into the\nshadows of thick foliage. They retaliate\nwith masterful whipping techniques."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "When it gets dirty, its leaves\ncan’t be used in photosynthesis,\nso it always keeps itself clean."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "When it gets dirty, its leaves\ncan’t be used in photosynthesis,\nso it always keeps itself clean."
+      },
+      {
+        "game": "xy-x",
+        "text": "It moves along the ground as if sliding. Its swift\nmovements befuddle its foes, and it then attacks\nwith a vine whip."
+      },
+      {
+        "game": "xy-y",
+        "text": "When it gets dirty, its leaves can’t be used in\nphotosynthesis, so it always keeps itself clean."
+      },
+      {
+        "game": "oras-or",
+        "text": "It moves along the ground as if sliding. Its swift\nmovements befuddle its foes, and it then attacks\nwith a vine whip."
+      },
+      {
+        "game": "oras-as",
+        "text": "When it gets dirty, its leaves can’t be used in\nphotosynthesis, so it always keeps itself clean."
+      }
+    ]
+  },
+  "chs": {
+    "name": "青藤蛇",
+    "genus": "草蛇宝可梦",
+    "flavorText": []
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "jap": {
+    "name": "ミノムッチ",
+    "genus": "みのむしポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "つめたい　こがらしを　ふせぐため\nこえだや　おちばを　ざいりょうに\nミノを　つくり　からだを　おおう。"
+      },
+      {
+        "game": "xy-y",
+        "text": "たたかいで　ミノが　こわれてしまうと\nちかくにある　ざいりょうで\nミノを　すぐに　つくりなおす。"
+      },
+      {
+        "game": "oras-or",
+        "text": "つめたい　こがらしを　ふせぐため\nこえだや　おちばを　ざいりょうに\nミノを　つくり　からだを　おおう。"
+      },
+      {
+        "game": "oras-as",
+        "text": "たたかいで　ミノが　こわれてしまうと\nちかくにある　ざいりょうで\nミノを　すぐに　つくりなおす。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Minomucchi",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "도롱충이",
+    "genus": "도롱이벌레포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "차가운 초겨울 바람을 막으려고\n작은 가지나 낙엽을 재료로\n도롱이를 만들어 몸을 감싼다."
+      },
+      {
+        "game": "xy-y",
+        "text": "싸움으로 도롱이가 부서져 버리면\n가까이 있는 재료로\n도롱이를 바로 만들어 고친다."
+      },
+      {
+        "game": "oras-or",
+        "text": "차가운 초겨울 바람을 막으려고\n작은 가지나 낙엽을 재료로\n도롱이를 만들어 몸을 감싼다."
+      },
+      {
+        "game": "oras-as",
+        "text": "싸움으로 도롱이가 부서져 버리면\n가까이 있는 재료로\n도롱이를 바로 만들어 고친다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "結草兒",
+    "genus": "蓑衣蟲寶可夢",
+    "flavorText": []
+  },
+  "fra": {
+    "name": "Cheniti",
+    "genus": "Pokémon Ver Caché",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Nul ne sait comment il y parvient,\nmais il arrive toujours à se former\nune cape, où qu’il soit."
+      },
+      {
+        "game": "bw-w",
+        "text": "Nul ne sait comment il y parvient,\nmais il arrive toujours à se former\nune cape, où qu’il soit."
+      },
+      {
+        "game": "xy-x",
+        "text": "Pour se protéger des vents glacés de l’hiver, il s’est\ntissé une cape de feuilles et de brindilles."
+      },
+      {
+        "game": "xy-y",
+        "text": "S’il perd sa cape au combat, il en tisse rapidement\nune nouvelle avec ce qui lui tombe sous la main."
+      },
+      {
+        "game": "oras-or",
+        "text": "Pour se protéger des vents glacés de l’hiver, il s’est tissé\nune cape de feuilles et de brindilles."
+      },
+      {
+        "game": "oras-as",
+        "text": "S’il perd sa cape au combat, il en tisse rapidement\nune nouvelle avec ce qui lui tombe sous la main."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Burmy",
+    "genus": "Beutelwurm",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Um sich vor dem eisigen Winterwind zu schützen,\nlegt es sich unter einen Umhang aus Ästen und Laub."
+      },
+      {
+        "game": "xy-y",
+        "text": "Wird sein Umhang im Kampf zerstört, macht es sich\nschnell aus dem, was es findet, einen neuen."
+      },
+      {
+        "game": "oras-or",
+        "text": "Um sich vor dem eisigen Winterwind zu schützen, legt es sich\nunter einen Umhang aus Ästen und Laub."
+      },
+      {
+        "game": "oras-as",
+        "text": "Wird sein Umhang im Kampf zerstört, macht es sich schnell\naus dem, was es findet, einen neuen."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Burmy",
+    "genus": "Pokémon Larva",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Para protegerse de los vientos fríos invernales, se\ncubre con un caparazón de ramas y hojas."
+      },
+      {
+        "game": "xy-y",
+        "text": "Si su caparazón se rompe en combate, lo rehace\nrápidamente con lo que tenga a mano."
+      },
+      {
+        "game": "oras-or",
+        "text": "Para protegerse de los vientos fríos invernales, se cubre con\nun caparazón de ramas y hojas."
+      },
+      {
+        "game": "oras-as",
+        "text": "Si su caparazón se rompe en combate, lo rehace rápidamente\ncon lo que tenga a mano."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Burmy",
+    "genus": "Pokémon Larva",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Per ripararsi dal freddo e dai venti invernali si copre\ncon un manto fatto di rami e foglie."
+      },
+      {
+        "game": "xy-y",
+        "text": "Se il suo manto si rompe mentre lotta, lo rifà\nvelocemente con ciò che trova attorno a sé."
+      },
+      {
+        "game": "oras-or",
+        "text": "Per ripararsi dal freddo e dai venti invernali si copre con un\nmanto fatto di rami e foglie."
+      },
+      {
+        "game": "oras-as",
+        "text": "Se il suo manto si rompe mentre lotta, lo rifà velocemente con\nciò che trova attorno a sé."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Burmy",
+    "genus": "Bagworm Pokémon",
+    "flavorText": [
+      {
+        "game": "dp-d",
+        "text": "To shelter itself from cold, wintry\nwinds, it covers itself with a cloak\nmade of twigs and leaves."
+      },
+      {
+        "game": "dp-p",
+        "text": "If its cloak is broken in battle,\nit quickly remakes the cloak with\nmaterials nearby."
+      },
+      {
+        "game": "pt",
+        "text": "Even if it is born where there are\nno cocooning materials, it somehow\nalways ends up with a cloak."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "It covers itself with a cloak to\nshelter from the cold. When it’s\nhot, its cloak is thinner."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "It covers itself with a cloak to\nshelter from the cold. When it’s\nhot, its cloak is thinner."
+      },
+      {
+        "game": "bw-b",
+        "text": "Even if it is born where there are\nno cocooning materials, it somehow\nalways ends up with a cloak."
+      },
+      {
+        "game": "bw-w",
+        "text": "Even if it is born where there are\nno cocooning materials, it somehow\nalways ends up with a cloak."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "Even if it is born where there are\nno cocooning materials, it somehow\nalways ends up with a cloak."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "Even if it is born where there are\nno cocooning materials, it somehow\nalways ends up with a cloak."
+      },
+      {
+        "game": "xy-x",
+        "text": "To shelter itself from cold, wintry winds, it covers\nitself with a cloak made of twigs and leaves."
+      },
+      {
+        "game": "xy-y",
+        "text": "If its cloak is broken in battle, it quickly remakes\nthe cloak with materials nearby."
+      },
+      {
+        "game": "oras-or",
+        "text": "To shelter itself from cold, wintry winds, it covers\nitself with a cloak made of twigs and leaves."
+      },
+      {
+        "game": "oras-as",
+        "text": "If its cloak is broken in battle, it quickly remakes\nthe cloak with materials nearby."
+      },
+      {
+        "game": "la",
+        "text": "If its cloak is even slightly damaged, Burmy will immediately\nrepair it with whatever is close at hand. The Pokémon within the\ncloak is scrawny and vulnerable to the cold."
+      }
+    ]
+  },
+  "chs": {
+    "name": "结草儿",
+    "genus": "蓑衣虫宝可梦",
+    "flavorText": []
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "jap": {
+    "name": "パッチルドン",
+    "genus": "かせきポケモン",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "こおりづけの　じょうはんしんが\nふるえると　でんきが　つくられる。\nあるくことが　ひじょうに　にがて。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "こだいの　うみべで　くらし　エサを\nからだの　こおりで　ほぞん　できたが\nうごきが　にぶいため　ぜつめつした。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Patchilldon",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "파치르돈",
+    "genus": "화석포켓몬",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "꽁꽁 언 상반신이 진동하면\n전기가 만들어진다.\n걷는 것이 매우 서툴다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "고대의 해변에 살며 먹이를\n몸의 얼음으로 보존시켰지만\n움직임이 둔해 멸종하였다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "雷鳥海獸",
+    "genus": "化石寶可夢",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "牠凍成冰的上半身\n在顫抖時可以產生電能。\n非常不擅長走路。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "曾經生活在古代的海邊，\n能用身體的冰來保存食物，\n但由於動作太遲緩而滅絕了。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Galvagla",
+    "genus": "Pokémon Fossile",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Quand la partie supérieure de son corps, couverte\nde glace, frissonne, il produit de l’électricité.\nIl éprouve de grandes difficultés à marcher."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Autrefois, il vivait en bord de mer et conservait\nsa nourriture dans la glace de son corps,\nmais il s’est éteint, car il avait du mal à se déplacer."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Lecryodon",
+    "genus": "Fossil-Pokémon",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Durch das Zittern seines gefrorenen Oberkörpers\nentsteht Elektrizität. Das Laufen fällt ihm äußerst\nschwer."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "In der Urzeit lebte es am Strand und konnte mit\nseinem kalten Körper Futter haltbar machen.\nEs starb wegen seiner trägen Bewegungen aus."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Arctozolt",
+    "genus": "Pokémon Fósil",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "La parte superior del cuerpo está congelada y,\nal temblar, genera electricidad. Camina con suma\ndificultad."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Antiguamente vivía en el mar y usaba el hielo del\ncuerpo para conservar los alimentos. Su extrema\nlentitud, sin embargo, lo condenó a la extinción."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Arctozolt",
+    "genus": "Pokémon Fossile",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "La parte superiore del suo corpo è ghiacciata\ne quando trema produce elettricità. Cammina\ncon estrema difficoltà."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Anticamente viveva in riva al mare conservando\nil cibo grazie al ghiaccio del suo corpo, ma si è\nestinto a causa della sua estrema lentezza."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Arctozolt",
+    "genus": "Fossil Pokémon",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "The shaking of its freezing upper half is what\ngenerates its electricity. It has a hard time\nwalking around."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "This Pokémon lived on prehistoric seashores and\nwas able to preserve food with the ice on its\nbody. It went extinct because it moved so slowly."
+      }
+    ]
+  },
+  "chs": {
+    "name": "雷鸟海兽",
+    "genus": "化石宝可梦",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "它冻成冰的上半身\n在颤抖后可以产生电能。\n非常不擅长走路。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "曾经生活在古代的海边，\n能用身体的冰来保存食物，\n但由于动作太迟缓而灭绝了。"
+      }
+    ]
+  }
+}

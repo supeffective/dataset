@@ -1,0 +1,381 @@
+{
+  "jap": {
+    "name": "ライボルト",
+    "genus": "ほうでんポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "ひとまえには　めったに　すがたを\nみせない。かみなりの　おちた\nばしょに　すみかが　あると　いう。"
+      },
+      {
+        "game": "xy-y",
+        "text": "たてがみから　ほうでんしている。\nずじょうに　かみなりぐもを　つくり\nいなずまを　おとして　こうげきする。"
+      },
+      {
+        "game": "oras-or",
+        "text": "たてがみから　いつも　ほうでんしているため\nひばなで　やまかじを　おこしてしまう　ことも。\nたたかいに　なると　かみなりぐもを　つくりだす。"
+      },
+      {
+        "game": "oras-as",
+        "text": "たてがみから　つよい　でんきを　はっしている。\nくうきちゅうの　でんきを　たてがみに　あつめ\nあたまの　うえに　かみなりぐもを　つくりだす。"
+      },
+      {
+        "game": "usum-us",
+        "text": "ふしぜんな　かみなりぐもの　したには\nライボルトが　いる。　かみなりと\nおなじ　スピードで　かけると　いう。"
+      },
+      {
+        "game": "usum-um",
+        "text": "でんきで　きんにくを　しげきするので\nすばやく　うごける。　きんにくつうも\nでんきで　ほぐすので　すぐ　なおる。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "でんきで　きんにくを　しげきするので\nすばやく　うごける。　きんにくつうも\nでんきで　ほぐすので　すぐ　なおる。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "ひとまえには　めったに　すがたを\nみせない。　かみなりの　おちた\nばしょに　すみかが　あると　いう。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Livolt",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "썬더볼트",
+    "genus": "방전포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "좀처럼 사람 앞에 모습을\n드러내지 않는다. 번개가 떨어진\n곳에 보금자리가 있다고 한다."
+      },
+      {
+        "game": "xy-y",
+        "text": "갈기에서 방전을 하고 있다.\n머리 위에 번개 구름을 만들고\n천둥번개를 떨어뜨려 공격한다."
+      },
+      {
+        "game": "oras-or",
+        "text": "갈기를 통해 항상 방전 중이기 때문에\n불꽃이 튀어 산불이 일어나기도 한다.\n싸우게 되면 번개 구름을 만들어낸다."
+      },
+      {
+        "game": "oras-as",
+        "text": "갈기에서 강한 전기를 발산하고 있다.\n공기 중의 전기를 갈기에 모아\n머리 위에 번개 구름을 만들어낸다."
+      },
+      {
+        "game": "usum-us",
+        "text": "이상한 번개 구름 아래에는\n썬더볼트가 있다. 번개와\n같은 스피드로 달린다고 한다."
+      },
+      {
+        "game": "usum-um",
+        "text": "전기로 근육을 자극해서\n재빠르게 움직일 수 있다. 근육통도\n전기로 풀기 때문에 금방 낫는다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "전기로 근육을 자극해서\n재빠르게 움직일 수 있다. 근육통도\n전기로 풀기 때문에 금방 낫는다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "좀처럼 사람 앞에 모습을\n드러내지 않는다. 번개가 떨어진\n곳에 보금자리가 있다고 한다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "雷電獸",
+    "genus": "放電寶可夢",
+    "flavorText": [
+      {
+        "game": "usum-us",
+        "text": "在不自然的雷雲之下有著\n雷電獸的身影。據說牠\n奔馳的速度和雷電一樣快。"
+      },
+      {
+        "game": "usum-um",
+        "text": "會用電流刺激肌肉，所以能\n迅速行動。電流同時也能幫助\n肌肉放鬆，讓酸痛迅速痊癒。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "會用電流刺激肌肉，因此\n能迅速行動。電流也能讓\n肌肉放鬆並快速治癒酸痛。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "極少在人們面前現身，\n據說牠的住所就在\n雷電落下的地方。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Élecsprint",
+    "genus": "Pokémon Décharge",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Il libère l’électricité par sa crinière.\nIl crée un nuage d’orage pour appeler\nla foudre."
+      },
+      {
+        "game": "bw-w",
+        "text": "Il libère l’électricité par sa crinière.\nIl crée un nuage d’orage pour appeler\nla foudre."
+      },
+      {
+        "game": "xy-x",
+        "text": "Ce Pokémon évite le contact des humains.\nOn raconte qu’il fait son nid là où la foudre est déjà\ntombée."
+      },
+      {
+        "game": "xy-y",
+        "text": "Il libère l’électricité par sa crinière. Il crée un nuage\nd’orage pour appeler la foudre."
+      },
+      {
+        "game": "oras-or",
+        "text": "La crinière d’Élecsprint libère constamment de l’électricité.\nLes étincelles déclenchent parfois des feux de forêt.\nAu début de ses combats, ce Pokémon crée des nuages\norageux."
+      },
+      {
+        "game": "oras-as",
+        "text": "Élecsprint peut libérer un courant intense de sa crinière.\nCette crinière lui permet de récupérer l’électricité de\nl’atmosphère. Ce Pokémon peut créer des nuages orageux\nau-dessus de sa tête."
+      },
+      {
+        "game": "usum-us",
+        "text": "Si un nuage orageux un peu louche apparaît\ndans le ciel, un Élecsprint se trouve sûrement\nen dessous. On le dit aussi rapide que l’éclair."
+      },
+      {
+        "game": "usum-um",
+        "text": "Il diffuse de l’électricité dans ses membres pour\naugmenter sa vitesse. C’est également ainsi\nqu’il apaise ses douleurs musculaires."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Il diffuse de l’électricité dans ses membres\npour augmenter sa vitesse. C’est également\nainsi qu’il apaise ses douleurs musculaires."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Ce Pokémon évite de se montrer aux humains.\nOn raconte qu’il fait son nid aux endroits\noù la foudre s’est abattue."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Voltenso",
+    "genus": "Entladungs-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Es zeigt sich selten den Menschen. Man sagt, dass es\nsein Nest baut, wo der Blitz eingeschlagen hat."
+      },
+      {
+        "game": "xy-y",
+        "text": "Aus seiner Mähne entlädt es Elektrizität. Es generiert\neine Gewitterwolke, aus der es Blitze entlädt."
+      },
+      {
+        "game": "oras-or",
+        "text": "Voltenso entlädt ständig Elektrizität aus seiner Mähne.\nEs fliegen dabei Funken, die zuweilen zu Waldbränden führen.\nIn einem Kampf erzeugt dieses Pokémon Gewitterwolken."
+      },
+      {
+        "game": "oras-as",
+        "text": "Voltenso sammelt Elektrizität aus der Atmosphäre\nin seiner Mähne und entlädt diese. Dieses Pokémon\nerzeugt Gewitterwolken über seinem Kopf."
+      },
+      {
+        "game": "usum-us",
+        "text": "Voltenso ist unter ungewöhnlichen\nGewitterwolken zu finden. Man erzählt sich,\ndass es so schnell wie ein Blitz sei."
+      },
+      {
+        "game": "usum-um",
+        "text": "Da es seine Muskeln mit Elektrizität stimuliert,\nkann es sich sehr schnell bewegen. Auch\nMuskelkater heilt es sofort mit Strom."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Da es seine Muskeln mit Elektrizität stimuliert,\nkann es sich sehr schnell bewegen. Auch\nMuskelkater heilt es sofort mit Strom."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Es zeigt sich selten den Menschen. Man sagt,\ndass es sein Nest an Orten baut, wo ein Blitz\neingeschlagen hat."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Manectric",
+    "genus": "Pokémon Descarga",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "No suele aparecer ante la gente. Dicen que suele\ncolocar su nido donde caen los rayos."
+      },
+      {
+        "game": "xy-y",
+        "text": "Descarga electricidad desde su melena. Crea\nnubarrones desde los que lanza rayos."
+      },
+      {
+        "game": "oras-or",
+        "text": "Manectric está continuamente descargando electricidad por\nlas melenas, y a veces causa incendios en el bosque con las\nchispas que suelta. Cuando entra en combate, este Pokémon\ncrea nubarrones."
+      },
+      {
+        "game": "oras-as",
+        "text": "Manectric acumula en las melenas la electricidad que hay en\nel ambiente, y la descarga a través de ellas en grandes dosis.\nEste Pokémon crea nubarrones que se le quedan por encima\nde la cabeza."
+      },
+      {
+        "game": "usum-us",
+        "text": "Cuando se dan nubes de tormenta un tanto\ninusuales, este Pokémon suele hallarse debajo.\nSe dice que se mueve a la velocidad del rayo."
+      },
+      {
+        "game": "usum-um",
+        "text": "La electricidad estimula su musculatura para\nque pueda moverse a gran velocidad y le ayuda\na recuperarse del dolor muscular rápidamente."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "La electricidad estimula su musculatura para que\npueda moverse a gran velocidad y le ayuda a\nrecuperarse del dolor muscular rápidamente."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Rara vez aparece ante la gente. Dicen que suele\ncolocar su madriguera donde caen rayos."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Manectric",
+    "genus": "Pokémon Scossa",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Raramente si mostra agli umani. Si dice che nidifichi\nnelle zone dove è caduto un fulmine."
+      },
+      {
+        "game": "xy-y",
+        "text": "Scarica elettricità dalla criniera. Crea nubi\ntemporalesche in cielo che fanno cadere saette."
+      },
+      {
+        "game": "oras-or",
+        "text": "Manectric scarica costantemente l’elettricità dalla propria\ncriniera. Spesso le scintille scatenano incendi nei boschi.\nIn lotta questo Pokémon crea nubi temporalesche."
+      },
+      {
+        "game": "oras-as",
+        "text": "Manectric scarica forti scosse elettriche dalla propria criniera,\nusata come collettore dell’elettricità presente nell’atmosfera.\nCrea inoltre nubi temporalesche sopra la sua testa."
+      },
+      {
+        "game": "usum-us",
+        "text": "Se si notano strane nubi temporalesche, sotto\ndi loro si vedrà questo Pokémon. Si dice che sia\nin grado di correre alla velocità del fulmine."
+      },
+      {
+        "game": "usum-um",
+        "text": "L’elettricità gli stimola i muscoli rendendolo\npiù veloce e inoltre allevia i suoi dolori muscolari\nfacendolo tornare rapidamente in forma."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "L’elettricità gli stimola i muscoli rendendolo più\nveloce e inoltre allevia i suoi dolori muscolari\nfacendolo tornare rapidamente in forma."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Raramente si mostra agli umani. Si dice che\nviva nelle zone dove è caduto un fulmine."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Manectric",
+    "genus": "Discharge Pokémon",
+    "flavorText": [
+      {
+        "game": "rs-r",
+        "text": "MANECTRIC is constantly discharging\nelectricity from its mane. The sparks\nsometimes ignite forest fires.\fWhen it enters a battle, this POKéMON\ncreates thunderclouds."
+      },
+      {
+        "game": "rs-s",
+        "text": "MANECTRIC discharges strong\nelectricity from its mane. The mane is\nused for collecting electricity in the\fatmosphere. This POKéMON creates\nthunderclouds above its head."
+      },
+      {
+        "game": "e",
+        "text": "Because lightning falls in their vicinities,\nMANECTRIC were thought to have been born\nfrom lightning. In battle, they create\nthunderclouds."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "It rarely appears before people.\nIt is said to nest where lightning has\nfallen."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "It rarely appears before people.\nIt is said to nest where lightning has\nfallen."
+      },
+      {
+        "game": "dp-d",
+        "text": "It discharges electricity from its\nmane. It creates a thundercloud\noverhead to drop lightning bolts."
+      },
+      {
+        "game": "dp-p",
+        "text": "It discharges electricity from its\nmane. It creates a thundercloud\noverhead to drop lightning bolts."
+      },
+      {
+        "game": "pt",
+        "text": "It discharges electricity from its\nmane. It creates a thundercloud\noverhead to drop lightning bolts."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "Its nest can be found where a\nthunderbolt hits. It is discharging\nelectricity from its mane."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "Its nest can be found where a\nthunderbolt hits. It is discharging\nelectricity from its mane."
+      },
+      {
+        "game": "bw-b",
+        "text": "It discharges electricity from its\nmane. It creates a thundercloud\noverhead to drop lightning bolts."
+      },
+      {
+        "game": "bw-w",
+        "text": "It discharges electricity from its\nmane. It creates a thundercloud\noverhead to drop lightning bolts."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "It discharges electricity from its\nmane. It creates a thundercloud\noverhead to drop lightning bolts."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "It discharges electricity from its\nmane. It creates a thundercloud\noverhead to drop lightning bolts."
+      },
+      {
+        "game": "xy-x",
+        "text": "It rarely appears before people. It is said to nest\nwhere lightning has fallen."
+      },
+      {
+        "game": "xy-y",
+        "text": "It discharges electricity from its mane. It creates a\nthundercloud overhead to drop lightning bolts."
+      },
+      {
+        "game": "oras-or",
+        "text": "Manectric is constantly discharging electricity from its mane.\nThe sparks sometimes ignite forest fires. When it enters a\nbattle, this Pokémon creates thunderclouds."
+      },
+      {
+        "game": "oras-as",
+        "text": "Manectric discharges strong electricity from its mane.\nThe mane is used for collecting electricity in the atmosphere.\nThis Pokémon creates thunderclouds above its head."
+      },
+      {
+        "game": "usum-us",
+        "text": "Manectric can be found beneath unnatural\nthunderclouds. People say it can run at the\nsame speed as lightning striking."
+      },
+      {
+        "game": "usum-um",
+        "text": "It stimulates its own muscles with electricity, so\nit can move quickly. It eases its soreness with\nelectricity, too, so it can recover quickly as well."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "It stimulates its own muscles with electricity, so\nit can move quickly. It eases its soreness with\nelectricity, too, so it can recover quickly as well."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "It rarely appears before people. It is said to nest\nwhere lightning has fallen."
+      }
+    ]
+  },
+  "chs": {
+    "name": "雷电兽",
+    "genus": "放电宝可梦",
+    "flavorText": [
+      {
+        "game": "usum-us",
+        "text": "在不自然的雷云之下有着雷电兽。\n听说会用和雷同等的速度奔驰。"
+      },
+      {
+        "game": "usum-um",
+        "text": "用电刺激肌肉，所以能迅速行动。\n用电也能缓解肌肉疼痛，\n因此很快会治愈。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "用电刺激肌肉，所以能迅速行动。\n用电也能缓解肌肉疼痛，\n因此很快会治愈。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "极少出现在人前。\n据说它的住所就在雷电落下的地方。"
+      }
+    ]
+  }
+}

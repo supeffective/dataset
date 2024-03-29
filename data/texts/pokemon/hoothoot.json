@@ -1,0 +1,393 @@
+{
+  "jap": {
+    "name": "ホーホー",
+    "genus": "ふくろうポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "たいないの　じかんの　かんかくは\nどんなときでも　せいかくで\nきまった　リズムで　くびをかしげる。"
+      },
+      {
+        "game": "xy-y",
+        "text": "いつも　いっぽんあしで　たっている。\nあしを　いれかえる　しゅんかんは\nすばやくて　なかなか　みられない。"
+      },
+      {
+        "game": "oras-or",
+        "text": "からだの　なかには　ちきゅうの　じてんを\nかんじとる　きかんを　もっているので　まいにち\nおなじ　じかんに　なると　なきごえを　あげる。"
+      },
+      {
+        "game": "oras-as",
+        "text": "からだの　なかには　ちきゅうの　じてんを\nかんじとる　きかんを　もっているので　まいにち\nおなじ　じかんに　なると　なきごえを　あげる。"
+      },
+      {
+        "game": "usum-us",
+        "text": "まいにち　かならず　きまったリズムで\nくびを　かしげる。　むかしのひとは\nとけいの　かわりに　かっていた。"
+      },
+      {
+        "game": "usum-um",
+        "text": "まいにち　きまった　じかんに　なく。\nときをつげる　かみの　つかい　として\nむかしのひとは　たいせつに　していた。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "いつも　いっぽんあしで　たっている。\nあしを　いれかえる　しゅんかんは\nすばやくて　なかなか　みられない。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "いつも　きまった　じかんになると\nなきだすので　とけいがわりに\nつれてあるく　トレーナーもいる。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Hoho",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "부우부",
+    "genus": "부엉이포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "체내의 시간 감각은\n어느 때든 정확해서\n규칙적인 리듬으로 목을 기울인다."
+      },
+      {
+        "game": "xy-y",
+        "text": "항상 한 발로 서 있다.\n발을 교체하는 순간이\n빨라서 좀처럼 볼 수 없다."
+      },
+      {
+        "game": "oras-or",
+        "text": "몸 안에 지구의 자전을\n감지해내는 기관을 지니고 있어서 매일\n같은 시간이 되면 울음소리를 낸다."
+      },
+      {
+        "game": "oras-as",
+        "text": "몸 안에 지구의 자전을\n감지해내는 기관을 지니고 있어서 매일\n같은 시간이 되면 울음소리를 낸다."
+      },
+      {
+        "game": "usum-us",
+        "text": "매일 정해진 리듬에 맞춰\n목을 기울인다. 옛날 사람들은\n시계 대용으로 길렀다."
+      },
+      {
+        "game": "usum-um",
+        "text": "매일 정해진 시간에 운다.\n옛날 사람들은 시간을 알리는\n신의 사자라며 소중히 여겼다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "항상 한 발로 서 있다.\n발을 교체하는 순간이\n빨라서 좀처럼 볼 수 없다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "언제나 정해진 시간이 되면\n울음소리를 내어 시계 대용으로\n데리고 다니는 트레이너도 있다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "咕咕",
+    "genus": "貓頭鷹寶可夢",
+    "flavorText": [
+      {
+        "game": "usum-us",
+        "text": "每天必定會按照\n固定的節奏傾斜脖子，\n過去人們會養牠來代替時鐘。"
+      },
+      {
+        "game": "usum-um",
+        "text": "每天都會在固定的時間鳴叫。\n過去的人們非常重視牠，\n把牠當成報時的神之使者。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "總是用單腳站立。\n由於換腳的速度太快，\n很難用肉眼看清換腳的瞬間。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "總是在固定的時間鳴叫，\n因此也有訓練家\n拿牠來代替鐘錶帶出門。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Hoothoot",
+    "genus": "Pokémon Hibou",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Il hulule chaque jour à la même\nheure. Dans certaines cultures,\nil incarne la sagesse."
+      },
+      {
+        "game": "bw-w",
+        "text": "Il hulule chaque jour à la même\nheure. Dans certaines cultures,\nil incarne la sagesse."
+      },
+      {
+        "game": "xy-x",
+        "text": "Il a un sens du timing parfait. Il reste toujours en\nrythme en balançant sa tête."
+      },
+      {
+        "game": "xy-y",
+        "text": "Il se tient toujours sur un pied. Il change de pied\nsi vite qu’on peut à peine distinguer ce mouvement."
+      },
+      {
+        "game": "oras-or",
+        "text": "Hoothoot est doté d’un organe interne qui ressent et suit\nla rotation de la planète. Grâce à cet organe peu ordinaire,\nce Pokémon commence à hululer tous les jours exactement\nà la même heure."
+      },
+      {
+        "game": "oras-as",
+        "text": "Hoothoot est doté d’un organe interne qui ressent et suit\nla rotation de la planète. Grâce à cet organe peu ordinaire,\nce Pokémon commence à hululer tous les jours exactement\nà la même heure."
+      },
+      {
+        "game": "usum-us",
+        "text": "Il hoche toujours la tête au même rythme,\naussi faisait-il fréquemment office d’horloge\npar le passé."
+      },
+      {
+        "game": "usum-um",
+        "text": "Il hulule toujours à la même heure. Il était\nautrefois vénéré comme le messager du dieu\ndu temps."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Il se tient toujours sur un pied. Il en change si vite\nqu’on peut à peine distinguer ce mouvement."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Il hulule chaque jour aux mêmes moments.\nCertains Dresseurs s’en servent comme\nd’une montre."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Hoothoot",
+    "genus": "Eulen-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Sein Zeitgefühl ist perfekt. Was auch immer passiert,\nes behält den Rhythmus, da sein Kopf wackelt."
+      },
+      {
+        "game": "xy-y",
+        "text": "Es steht immer auf einem Bein. Es wechselt sein\nStandbein so schnell, dass man es kaum sieht."
+      },
+      {
+        "game": "oras-or",
+        "text": "Hoothoot besitzt ein inneres Organ, das die Erdumdrehung\nwahrnimmt. Dieses besondere Organ ermöglicht es diesem\nPokémon, jeden Tag zur selben Zeit zu schreien."
+      },
+      {
+        "game": "oras-as",
+        "text": "Hoothoot besitzt ein inneres Organ, das die Erdumdrehung\nwahrnimmt. Dieses besondere Organ ermöglicht es diesem\nPokémon, jeden Tag zur selben Zeit zu schreien."
+      },
+      {
+        "game": "usum-us",
+        "text": "Es neigt seinen Kopf tagein, tagaus in einem\nfestgelegten Rhythmus. Früher verwendete man\nes als Uhr."
+      },
+      {
+        "game": "usum-um",
+        "text": "Hoothoot ruft jeden Tag zur exakt gleichen Zeit.\nFrüher wurde es daher als Bote der Zeitgottheit\nverehrt und geschätzt."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Es steht immer auf einem Bein. Es wechselt sein\nStandbein so schnell, dass man es kaum sieht."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Es stößt immer zur gleichen Uhrzeit seinen Ruf\naus. Einige Trainer nehmen es deswegen statt\neiner Armbanduhr mit."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Hoothoot",
+    "genus": "Pokémon Búho",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Su percepción del tiempo es exacta. Ocurra lo que\nocurra, lleva el ritmo moviendo la cabeza."
+      },
+      {
+        "game": "xy-y",
+        "text": "Camina con una sola pata. Cambia tan rápidamente\nde pata que apenas se le ve."
+      },
+      {
+        "game": "oras-or",
+        "text": "Hoothoot tiene un órgano interno que identifica y percibe la\nrotación de la tierra. Gracias a este órgano, el Pokémon ulula\ntodos los días a la misma hora."
+      },
+      {
+        "game": "oras-as",
+        "text": "Hoothoot tiene un órgano interno que identifica y percibe la\nrotación de la tierra. Gracias a este órgano, el Pokémon ulula\ntodos los días a la misma hora."
+      },
+      {
+        "game": "usum-us",
+        "text": "Mueve la cabeza a un ritmo preciso y constante,\npor lo que en la antigüedad la gente lo usaba\ncomo reloj."
+      },
+      {
+        "game": "usum-um",
+        "text": "Canta todos los días a la misma hora exacta.\nPor eso en la antigüedad lo veneraban como\nemisario de la divinidad del tiempo."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Se apoya en una sola pata y, cuando cambia de\nuna a otra, se mueve tan rápido que apenas se\npercibe."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Todos los días empieza a ulular a la misma hora,\npor lo que algunos Entrenadores lo usan a modo\nde reloj."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Hoothoot",
+    "genus": "Pokémon Gufo",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Ha un eccezionale senso del ritmo. Tiene il tempo\npiegando la testa a intervalli regolari."
+      },
+      {
+        "game": "xy-y",
+        "text": "Sta sempre su un piede solo. Cambia piede così\nrapidamente che è raro vederlo mentre lo fa."
+      },
+      {
+        "game": "oras-or",
+        "text": "Hoothoot è dotato di un organo interno che percepisce\ne segue la rotazione terrestre. Grazie a questo speciale\norgano inizia a urlare esattamente alla stessa ora ogni giorno."
+      },
+      {
+        "game": "oras-as",
+        "text": "Hoothoot è dotato di un organo interno che percepisce\ne segue la rotazione terrestre. Grazie a questo speciale\norgano inizia a urlare esattamente alla stessa ora ogni giorno."
+      },
+      {
+        "game": "usum-us",
+        "text": "Ogni giorno piega la testa a intervalli regolari.\nIn passato questi Pokémon venivano usati\ncome veri e propri orologi."
+      },
+      {
+        "game": "usum-um",
+        "text": "Fa il suo verso ogni giorno alla stessa ora.\nIn passato era trattato con rispetto, poiché lo si\ncredeva il messaggero di una divinità del tempo."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Sta sempre su una zampa sola. Cambia zampa\ncosì rapidamente che è quasi impossibile\nseguirne i movimenti."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Emette il suo verso ogni giorno alla stessa ora.\nAlcuni Allenatori preferiscono affidarsi a questo\nPokémon anziché usare un orologio."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Hoothoot",
+    "genus": "Owl Pokémon",
+    "flavorText": [
+      {
+        "game": "gs-g",
+        "text": "It always stands\non one foot. It\nchanges feet so\ffast, the movement\ncan rarely be\nseen."
+      },
+      {
+        "game": "gs-s",
+        "text": "It has a perfect\nsense of time.\nWhatever happens,\fit keeps rhythm by\nprecisely tilting\nits head in time."
+      },
+      {
+        "game": "c",
+        "text": "It begins to hoot\nat the same time\nevery day. Some\ftrainers use them\nin place of\nclocks."
+      },
+      {
+        "game": "rs-r",
+        "text": "HOOTHOOT has an internal organ that\nsenses and tracks the earth’s rotation.\nUsing this special organ, this POKéMON\fbegins hooting at precisely the same\ntime every day."
+      },
+      {
+        "game": "rs-s",
+        "text": "HOOTHOOT has an internal organ that\nsenses and tracks the earth’s rotation.\nUsing this special organ, this POKéMON\fbegins hooting at precisely the same\ntime every day."
+      },
+      {
+        "game": "e",
+        "text": "It has an internal organ that senses\nthe earth’s rotation. Using this special\norgan, a HOOTHOOT begins hooting at\nprecisely the same time every day."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "It has a perfect sense of time. Whatever\nhappens, it keeps rhythm by precisely\ntilting its head in time."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "It always stands on one foot. It changes\nfeet so fast, the movement can rarely be\nseen."
+      },
+      {
+        "game": "dp-d",
+        "text": "It always stands on one foot.\nEven when attacked, it does not\nbrace itself using both feet."
+      },
+      {
+        "game": "dp-p",
+        "text": "It switches its standing foot so\nquickly, it can’t be seen. It cries\nat the same time every day."
+      },
+      {
+        "game": "pt",
+        "text": "It marks time precisely. Some\ncountries consider it to be a wise\nfriend, versed in the world’s ways."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "It always stands on one foot.\nIt changes feet so fast,\nthe movement can rarely be seen."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "It has a perfect sense of time.\nWhatever happens, it keeps rhythm by\nprecisely tilting its head in time."
+      },
+      {
+        "game": "bw-b",
+        "text": "It marks time precisely. Some\ncountries consider it to be a wise\nfriend, versed in the world’s ways."
+      },
+      {
+        "game": "bw-w",
+        "text": "It marks time precisely. Some\ncountries consider it to be a wise\nfriend, versed in the world’s ways."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "It marks time precisely. Some\ncountries consider it to be a wise\nfriend, versed in the world’s ways."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "It marks time precisely. Some\ncountries consider it to be a wise\nfriend, versed in the world’s ways."
+      },
+      {
+        "game": "xy-x",
+        "text": "It has a perfect sense of time. Whatever happens,\nit keeps rhythm by precisely tilting its head in time."
+      },
+      {
+        "game": "xy-y",
+        "text": "It always stands on one foot. It changes feet so\nfast, the movement can rarely be seen."
+      },
+      {
+        "game": "oras-or",
+        "text": "Hoothoot has an internal organ that senses and tracks the\nearth’s rotation. Using this special organ, this Pokémon begins\nhooting at precisely the same time every day."
+      },
+      {
+        "game": "oras-as",
+        "text": "Hoothoot has an internal organ that senses and tracks the\nearth’s rotation. Using this special organ, this Pokémon\nbegins hooting at precisely the same time every day."
+      },
+      {
+        "game": "usum-us",
+        "text": "Every day, it tilts its head in the same rhythm.\nA long time ago, people raised these Pokémon\nto serve as clocks."
+      },
+      {
+        "game": "usum-um",
+        "text": "It cries out at the same time every day. A long\ntime ago, people cherished it and considered it\na divine messenger sent to tell the time."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "It always stands on one foot. It changes feet so\nfast, the movement can rarely be seen."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "It begins to hoot at the same time every day.\nSome Trainers use them in place of clocks."
+      }
+    ]
+  },
+  "chs": {
+    "name": "咕咕",
+    "genus": "猫头鹰宝可梦",
+    "flavorText": [
+      {
+        "game": "usum-us",
+        "text": "每天必定会按固定的节奏倾斜脖子。\n过去人们会养它来代替时钟。"
+      },
+      {
+        "game": "usum-um",
+        "text": "每天都会在固定的时间鸣叫。\n过去人们非常重视它，\n把它当做报时的神使。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "一直用单脚站立。\n由于换脚的瞬间过快，\n基本上无法看清。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "总是在固定的时间鸣叫，\n因此也有训练家\n拿它来代替钟表带出门。"
+      }
+    ]
+  }
+}

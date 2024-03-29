@@ -1,0 +1,457 @@
+{
+  "jap": {
+    "name": "ナマズン",
+    "genus": "ひげうおポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "おおきな　ぬまを　なわばりにする。\nてきが　ちかづくと　おおあばれして\nおおきな　じしんを　おこすのだ。"
+      },
+      {
+        "game": "xy-y",
+        "text": "ぬまの　そこに　すみかを　つくる。\nいきものなら　すききらい　なく\nなんでも　たべてしまう　おおぐらい。"
+      },
+      {
+        "game": "oras-or",
+        "text": "なわばり　いしきが　とても　つよい　ポケモン。\nおおきな　ぬま　ぜんぶを　なわばりに　している。\nてきが　ちかづくと　あばれて　じしんを　おこす。"
+      },
+      {
+        "game": "oras-as",
+        "text": "おおあばれ　すると　ぬまの　しゅうい　５キロの\nはんいで　じしんの　ような　ゆれが　おこる。\nほんとうの　じしんを　よちする　ちからも　もつ。"
+      },
+      {
+        "game": "sm-s",
+        "text": "うごくものなら　なんでも　くいつく\nおおぐらい。　ふだんは　ぬまぞこで\nじっと　えものを　まちかまえている。"
+      },
+      {
+        "game": "sm-m",
+        "text": "ナマズンの　むれが　すいめんを\nはねる　こうけいは　じしんの\nまえぶれと　しんじられている。"
+      },
+      {
+        "game": "usum-us",
+        "text": "はげしく　じめんを　ゆらし　あいてを\nいかくする。　ぬまぞこの　えものは\nどろごと　まるのみにして　しまう。"
+      },
+      {
+        "game": "usum-um",
+        "text": "しりょくは　あまりよくない。　ヒゲで\nみずの　しんどうを　かんちして\nえものの　いちを　つきとめるのだ。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "ぬまの　そこに　すみかを　つくる。\nいきものなら　すききらい　なく\nなんでも　たべてしまう　おおぐらい。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "おおきな　ぬまを　なわばりにする。\nてきが　ちかづくと　おおあばれして\nおおきな　じしんを　おこすのだ。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Namazun",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "메깅",
+    "genus": "수염물고기포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "큰 늪을 영역으로 한다.\n적이 가까이 오면 크게 난동 부려서\n큰 지진을 일으킨다."
+      },
+      {
+        "game": "xy-y",
+        "text": "늪 바닥에 거처를 만든다.\n살아 있는 것이라면 좋고 싫고 없이\n뭐든 먹어버리고 마는 대식가다."
+      },
+      {
+        "game": "oras-or",
+        "text": "영역에 대한 집착이 매우 강한 포켓몬이다.\n큰 늪 전부를 영역으로 삼는다.\n적이 다가오면 날뛰어 지진을 일으킨다."
+      },
+      {
+        "game": "oras-as",
+        "text": "크게 난동 부리면 늪 주변 5km\n범위에 지진처럼 흔들림이 일어난다.\n진짜 지진을 예지하는 힘도 지녔다."
+      },
+      {
+        "game": "sm-s",
+        "text": "움직이는 것이라면 뭐든지 먹으려는\n대식가다. 평소에는 늪 바닥에서\n가만히 먹이를 기다리고 있다."
+      },
+      {
+        "game": "sm-m",
+        "text": "메깅 무리가 수면을\n튀어 오르는 광경은 지진의\n전조로 여기고 있다."
+      },
+      {
+        "game": "usum-us",
+        "text": "격렬하게 지면을 흔들어 상대를\n위협한다. 늪 바닥의 먹이는\n진흙과 함께 통째로 삼켜 버린다."
+      },
+      {
+        "game": "usum-um",
+        "text": "시력은 그다지 좋지 않다.\n수염으로 물의 진동을 감지해서\n먹이의 위치를 찾아낸다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "늪 바닥에 거처를 만든다.\n살아 있는 것이라면 가리지 않고\n뭐든 먹어버리고 마는 대식가다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "큰 늪을 영역으로 한다.\n적이 가까이 오면 크게 난동부려서\n큰 지진을 일으킨다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "鯰魚王",
+    "genus": "鬚魚寶可夢",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "只要是會動的東西，無論什麼都會\n咬住不放大吃特吃。平常會靜靜埋伏\n在沼澤底部動也不動地等待著獵物。"
+      },
+      {
+        "game": "sm-m",
+        "text": "成群的鯰魚王在水面上跳躍的景象\n被認為是地震的先兆。"
+      },
+      {
+        "game": "usum-us",
+        "text": "會猛烈地搖晃地面來威嚇對手。\n獵食沼澤底部的獵物時，\n會把獵物連同泥巴整個吞下去。"
+      },
+      {
+        "game": "usum-um",
+        "text": "視力不太好。會透過\n鬍鬚來感知水的振動，\n藉此掌握獵物的位置。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "會在沼澤底部建造居所。\n只要是活著的東西都會吃下肚，\n是個不挑食的大胃王。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "把大沼澤當成自己的地盤。\n敵人一旦接近就會變得十分粗暴，\n並引起大地震。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Barbicha",
+    "genus": "Pokémon Barbillon",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Il défend férocement son territoire\nen déclenchant des secousses\nterribles."
+      },
+      {
+        "game": "bw-w",
+        "text": "Il défend férocement son territoire\nen déclenchant des secousses\nterribles."
+      },
+      {
+        "game": "xy-x",
+        "text": "Il a besoin d’un étang entier pour vivre. Si un ennemi\ns’approche, il s’énerve et déclenche un séisme."
+      },
+      {
+        "game": "xy-y",
+        "text": "Il fait son nid au fond des marais. Il ne se pose pas\nde questions et avale toutes les créatures qui passent\nprès de lui."
+      },
+      {
+        "game": "oras-or",
+        "text": "Quand il s’agit de territoire, Barbicha est très possessif.\nUn seul de ces Pokémon réclame parfois un étang entier.\nSi un ennemi s’approche, il fonce sur lui et déclenche\nun violent tremblement de terre."
+      },
+      {
+        "game": "oras-as",
+        "text": "Lorsque Barbicha se déchaîne, il déclenche des secousses\nsismiques dans un rayon de plus de 5 km autour de lui.\nCe Pokémon a le pouvoir de prédire les véritables\ntremblements de terre."
+      },
+      {
+        "game": "sm-s",
+        "text": "Ce glouton dévore tout ce qui bouge.\nLa plupart du temps, il reste tapi au fond de\nson marais, en guettant sa proie."
+      },
+      {
+        "game": "sm-m",
+        "text": "On dit que lorsqu’un banc de Barbicha jaillit\nhors de l’eau, un tremblement de terre est\nsur le point de se produire."
+      },
+      {
+        "game": "usum-us",
+        "text": "Il subjugue ses adversaires en déclenchant de\nviolents séismes. Il racle le fond des marais pour\nse nourrir, avalant proies et vase au passage."
+      },
+      {
+        "game": "usum-um",
+        "text": "Sa vision n’étant pas très bonne, il utilise ses\nbarbillons pour capter les vibrations de l’eau\net repérer ses proies."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Il fait son nid au fond des marais.\nIl ne se pose pas de question et avale\ntoutes les créatures qui passent près de lui."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Il a besoin d’un marais entier pour vivre.\nSi un ennemi s’approche, il s’énerve et déclenche\nun séisme."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Welsar",
+    "genus": "Barthaar-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Sein Revier hat es im Sumpfland. Nähert sich ein Feind,\nzappelt es wie wild und erzeugt so Erdbeben."
+      },
+      {
+        "game": "xy-y",
+        "text": "Sein Nest baut es am Grund von Sümpfen. Es frisst\nalles, wenn es nur lebendig ist. Welsar frisst einfach\nalles."
+      },
+      {
+        "game": "oras-or",
+        "text": "Welsar legt viel Wert auf sein Territorium. Ein einzelnes\nPokémon dieser Art nennt einen Teich sein Eigen. Wenn\nsich ein Feind nähert, schlägt es um sich und verursacht\nein gewaltiges Erdbeben."
+      },
+      {
+        "game": "oras-as",
+        "text": "Wenn Welsar auf einen wilden Beutezug geht, erzeugt\nes ein Beben mit einem Radius von 5 km. Dieses Pokémon\nkann wirkliche Erdbeben voraussehen."
+      },
+      {
+        "game": "sm-s",
+        "text": "Es frisst einfach alles, was ihm vor die Kiemen\nkommt. Normalerweise verharrt es im Schlamm\nund wartet auf Beute."
+      },
+      {
+        "game": "sm-m",
+        "text": "Man glaubt, der Anblick eines über die\nWasseroberfläche springenden Welsar-\nSchwarms sei ein Vorbote für ein Erdbeben."
+      },
+      {
+        "game": "usum-us",
+        "text": "Es schüchtert seine Gegner ein, indem es den\nBoden beben lässt. Seine Beute verschluckt es\nmitsamt dem Schlamm, in dem sie sich aufhält."
+      },
+      {
+        "game": "usum-um",
+        "text": "Seine Sehkraft ist schlecht. Es nimmt mit seinen\nBarthaaren Schwingungen im Wasser wahr und\nspürt so seine Beute auf."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Dieses Pokémon baut sein Nest am Grund von\nSümpfen. Es ist ein Vielfraß und verspeist\nLebewesen aller Art."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Sein Revier hat es im Sumpfland. Nähert sich\nein Feind, zappelt es wie wild und erzeugt so\nErdbeben."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Whiscash",
+    "genus": "Pokémon Bigotudo",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Habita en grandes pantanos. Si se acerca un enemigo,\nse alborota y causa temblores monumentales."
+      },
+      {
+        "game": "xy-y",
+        "text": "Construye su nido en el fondo de los pantanos.\nEs capaz de comerse cualquier cosa."
+      },
+      {
+        "game": "oras-or",
+        "text": "Whiscash defiende su territorio a toda costa. Es capaz de\napoderarse de un estanque entero para sí solo. Si alguien se\nle acerca, se revolverá y provocará un terremoto devastador."
+      },
+      {
+        "game": "oras-as",
+        "text": "Si Whiscash entra en estado de cólera salvaje, provoca un\ntemblor sísmico de un radio de 5 km. Este Pokémon tiene\nla habilidad de predecir terremotos de verdad."
+      },
+      {
+        "game": "sm-s",
+        "text": "Es un Pokémon muy voraz que se come todo lo\nque se mueve. Suele quedarse quieto en el\nlecho del río esperando a sus presas."
+      },
+      {
+        "game": "sm-m",
+        "text": "Se cree que cuando los bancos de Whiscash\nsaltan sobre la superficie del agua, es señal\npremonitoria de un terremoto."
+      },
+      {
+        "game": "usum-us",
+        "text": "Provoca fuertes temblores de tierra con los que\nintimida a sus rivales. Al engullir a las presas del\nfondo del cenagal también traga bastante lodo."
+      },
+      {
+        "game": "usum-um",
+        "text": "Como su vista no es muy aguda, utiliza los\nbarbillones para detectar las vibraciones que se\nproducen en el agua y localizar así a su presa."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Construye su nido en el fondo de los pantanos.\nEs tan voraz que no le hace ascos a ningún tipo\nde comida, siempre que se trate de seres vivos."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Habita en grandes pantanos. Si se acerca un\nenemigo, monta en cólera y causa temblores\nmonumentales."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Whiscash",
+    "genus": "Pokémon Baffetti",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Stabilisce il suo territorio nelle grandi paludi. Se\nil nemico gli si accosta, provoca un terremoto."
+      },
+      {
+        "game": "xy-y",
+        "text": "Nidifica nel letto delle paludi. È in grado di mangiare\nqualsiasi essere vivente."
+      },
+      {
+        "game": "oras-or",
+        "text": "Whiscash è estremamente legato all’area in cui vive e\ndelimita laghi enormi come proprio territorio. All’avvicinarsi\ndi un nemico, s’infuria scatenando terribili terremoti."
+      },
+      {
+        "game": "oras-as",
+        "text": "Se Whiscash si infuria, è in grado di scatenare una specie\ndi terremoto del raggio di 5 km. Inoltre ha la capacità di\nprevedere i terremoti reali."
+      },
+      {
+        "game": "sm-s",
+        "text": "Incredibilmente vorace, mangia qualunque\nessere vivente. Attende immobile le prede\nsul fondo delle paludi."
+      },
+      {
+        "game": "sm-m",
+        "text": "Si dice che se si vedono gruppi di Whiscash\nsaltare fuori dall’acqua sia segno di un\nterremoto imminente."
+      },
+      {
+        "game": "usum-us",
+        "text": "Intimorisce il nemico scatenando una specie di\nterremoto. Si nutre sul fondo delle paludi e\ninghiotte prede e fango insieme."
+      },
+      {
+        "game": "usum-um",
+        "text": "Poiché la sua vista non è molto sviluppata,\nindividua la posizione della preda percependo\nle vibrazioni dell’acqua con i baffi."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Nidifica nel letto delle paludi. Incredibilmente\nvorace, mangia qualunque essere vivente senza\ndistinzione di sorta."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Stabilisce il suo territorio nelle grandi paludi.\nSe un nemico si avvicina, si scatena provocando\ngrossi terremoti."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Whiscash",
+    "genus": "Whiskers Pokémon",
+    "flavorText": [
+      {
+        "game": "rs-r",
+        "text": "WHISCASH is extremely territorial.\nJust one of these POKéMON will claim a\nlarge pond as its exclusive territory.\fIf a foe approaches it, it thrashes\nabout and triggers a massive\nearthquake."
+      },
+      {
+        "game": "rs-s",
+        "text": "If WHISCASH goes on a wild rampage,\nit sets off a quake-like tremor with a\nradius of over three miles.\fThis POKéMON has the ability to predict\nreal earthquakes."
+      },
+      {
+        "game": "e",
+        "text": "Mysteriously, it can foretell earthquakes.\nIn the daytime, it sleeps in mud at the\nbottom of a pond. When it awakens, it\ncontinually feeds throughout the night."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "It makes its nest at the bottom of \nswamps. It will eat anything - if it is\nalive, WHISCASH will eat it."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "It makes its nest at the bottom of \nswamps. It will eat anything - if it is\nalive, WHISCASH will eat it."
+      },
+      {
+        "game": "dp-d",
+        "text": "It is very territorial. It repels\nfoes by setting off tremors that\nextend over a three-mile radius."
+      },
+      {
+        "game": "dp-p",
+        "text": "As a result of causing tremors by\nthrashing about, it developed the\nability to foretell real quakes."
+      },
+      {
+        "game": "pt",
+        "text": "It is extremely protective of its\nterritory. If any foe approaches,\nit attacks using vicious tremors."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "It claims a large swamp to itself.\nIf a foe comes near it, it sets off\ntremors by thrashing around."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "It claims a large swamp to itself.\nIf a foe comes near it, it sets off\ntremors by thrashing around."
+      },
+      {
+        "game": "bw-b",
+        "text": "It is extremely protective of its\nterritory. If any foe approaches,\nit attacks using vicious tremors."
+      },
+      {
+        "game": "bw-w",
+        "text": "It is extremely protective of its\nterritory. If any foe approaches,\nit attacks using vicious tremors."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "It is extremely protective of its\nterritory. If any foe approaches,\nit attacks using vicious tremors."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "It is extremely protective of its\nterritory. If any foe approaches,\nit attacks using vicious tremors."
+      },
+      {
+        "game": "xy-x",
+        "text": "It claims a large swamp to itself. If a foe comes\nnear it, it sets off tremors by thrashing around."
+      },
+      {
+        "game": "xy-y",
+        "text": "It makes its nest at the bottom of swamps.\nIt will eat anything--if it is alive, Whiscash will eat it."
+      },
+      {
+        "game": "oras-or",
+        "text": "Whiscash is extremely territorial. Just one of these Pokémon\nwill claim a large pond as its exclusive territory. If a foe\napproaches it, it thrashes about and triggers a massive\nearthquake."
+      },
+      {
+        "game": "oras-as",
+        "text": "If Whiscash goes on a wild rampage, it sets off a quake-like\ntremor with a radius of over three miles. This Pokémon has\nthe ability to predict real earthquakes."
+      },
+      {
+        "game": "sm-s",
+        "text": "A glutton that devours anything that moves,\nit quietly lurks at the bottom of swamps,\nlying in wait for prey."
+      },
+      {
+        "game": "sm-m",
+        "text": "Sighting Whiscash leaping from the water\nis believed to herald an earthquake."
+      },
+      {
+        "game": "usum-us",
+        "text": "Whiscash shakes the ground at high intensities\nto intimidate its opponents. It swallows its prey\nwhole—along with mud from the swamp floor."
+      },
+      {
+        "game": "usum-um",
+        "text": "Its vision is not that good. It senses vibrations in\nthe water with its whiskers to determine the\nlocation of its prey."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "It makes its nest at the bottom of swamps. It will\neat anything—if it is alive, Whiscash will eat it."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "It claims a large swamp to itself. If a foe comes\nnear it, it sets off tremors by thrashing around."
+      },
+      {
+        "game": "la",
+        "text": "Strikes its caudal fin against the swamp bed to shake the ground\nand startle its prey. It will then swallow the fleeing prey whole.\nPeople mistook this behavior as the cause of earthquakes."
+      }
+    ]
+  },
+  "chs": {
+    "name": "鲶鱼王",
+    "genus": "须鱼宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "只要是动的东西，无论什么都会\n咬住不放大吃特吃。平常就一直埋伏\n在沼泽底部一动不动地等待着猎物。"
+      },
+      {
+        "game": "sm-m",
+        "text": "成群的鲶鱼王在水面上跳跃的景象\n被认为是地震的前兆。"
+      },
+      {
+        "game": "usum-us",
+        "text": "猛烈地摇晃地面，威吓对手。\n会将沼泽底部的猎物连同泥巴\n一起整个吞下。"
+      },
+      {
+        "game": "usum-um",
+        "text": "它的视力不太好。\n会通过胡子来感知水的振动，\n掌握猎物的位置。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "会在沼泽底部筑巢。\n只要是活物就来者不拒，\n是什么都吃的大胃王。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "会将大沼泽划为自己的领地。\n如果有敌人接近的话，它就会狂暴起来，\n并引发大地震。"
+      }
+    ]
+  }
+}

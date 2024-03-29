@@ -1,0 +1,133 @@
+{
+  "jap": {
+    "name": "ユキハミ",
+    "genus": "いもむしポケモン",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "れいきの　まざった　いとを　はく。\nいとで　からだを　えだに　まきつけ\nつららの　ふりをして　ねむるのだ。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "じめんに　つもった　ゆきを　たべる。\nたくさん　たべれば　たべるほど\nせなかの　トゲは　りっぱに　そだつ。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Yukihami",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "누니머기",
+    "genus": "애벌레포켓몬",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "냉기가 서린 실을 뿜는다.\n실로 몸을 가지에 휘감아서\n고드름인 척하고 잠든다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "땅에 쌓인 눈을 먹는다.\n많이 먹으면 먹을수록\n등의 가시는 훌륭하게 자란다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "雪吞蟲",
+    "genus": "蟲寶寶寶可夢",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "能吐出帶著冷氣的絲。\n會用絲把自己掛在樹枝上，\n一邊裝成冰柱一邊睡覺。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "會吃地面上的積雪。\n吃得越多，背上的\n刺就會長得越挺拔。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Frissonille",
+    "genus": "Pokémon Ver",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Il crache un fil gelé qu’il utilise pour s’accrocher\nà une branche : il dort ainsi en imitant\nune stalactite."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Il se nourrit de la neige entassée sur le sol.\nPlus il en mange, plus les épines sur son dos\ngrandissent."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Snomnom",
+    "genus": "Wurm-Pokémon",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Es spinnt einen eiskalten Faden, mit dem es sich\nan einen Ast hängt. Dabei tut es so, als wäre es\nein Eiszapfen, um in Ruhe schlafen zu können."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Es frisst den Schnee, der sich am Boden\nangesammelt hat. Je mehr es frisst, desto größer\nwerden die Stacheln auf seinem Rücken."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Snom",
+    "genus": "Pokémon Gusano",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Teje un hilo gélido que le permite aferrarse a\nlas ramas y simula ser un carámbano mientras\nduerme."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Se nutre de la nieve acumulada en el terreno.\nCuanta más ingiere, más imponentes se vuelven\nlas púas que presenta en el lomo."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Snom",
+    "genus": "Pokémon Baco",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Si assicura a un ramo con il filo gelido che\nproduce dalla bocca e dorme fingendosi\nun ghiacciolo."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Si nutre della neve accumulatasi sul terreno.\nPiù ne mangia, più gli aculei sul suo dorso\ndiventano grandi."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Snom",
+    "genus": "Worm Pokémon",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "It spits out thread imbued with a frigid sort of\nenergy and uses it to tie its body to branches,\ndisguising itself as an icicle while it sleeps."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "It eats snow that piles up on the ground.\nThe more snow it eats, the bigger and more\nimpressive the spikes on its back grow."
+      }
+    ]
+  },
+  "chs": {
+    "name": "雪吞虫",
+    "genus": "虫宝宝宝可梦",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "能吐出带着冷气的丝。\n会用丝把自己挂在树枝上\n一边装成冰柱一边睡觉。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "会吃地面上的积雪。\n吃得越多，背上的\n刺就会长得越挺拔。"
+      }
+    ]
+  }
+}

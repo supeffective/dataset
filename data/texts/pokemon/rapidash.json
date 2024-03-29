@@ -1,0 +1,409 @@
+{
+  "jap": {
+    "name": "ギャロップ",
+    "genus": "ひのうまポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "はやく　うごく　ぶったいを　みると\nきょうそう　したくなり　もうれつな\nスピードで　おいかけ　はじめる。"
+      },
+      {
+        "game": "xy-y",
+        "text": "はしる　そくどは　じそく２４０キロ。\nたてがみの　ほのおが　はげしく　もえ\nやの　ように　かけぬける。"
+      },
+      {
+        "game": "oras-or",
+        "text": "いつもは　のんびり　のはらを　かけまわっているが\nひとたび　ほんきを　だすと　たてがみの　ほのおが\nもえあがり　じそく２４０キロで　はしりだす。"
+      },
+      {
+        "game": "oras-as",
+        "text": "いつもは　のんびり　のはらを　かけまわっているが\nひとたび　ほんきを　だすと　たてがみの　ほのおが\nもえあがり　じそく２４０キロで　はしりだす。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "とにかく　はしるのが　だいすきで\nじぶんより　はやいものを　みつけると\nぜんそくりょくで　おいかける。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "とにかく　はしるのが　だいすきで\nじぶんより　はやいものを　みつけると\nぜんそくりょくで　おいかける。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "もえる　たてがみを　はためかせ\nじそく　２４０キロの　そくどで\nだいそうげんを　かけぬけるのだ。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "いちばん　あしが　はやい　ものが\nリーダー。　むれが　いく　ばしょや\nはしる　そくどを　きめている。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Gallop",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "날쌩마",
+    "genus": "불의말포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "빠르게 움직이는 물체를 보면\n경주를 하고 싶어져서 맹렬한\n스피드로 쫓아가기 시작한다."
+      },
+      {
+        "game": "xy-y",
+        "text": "달리는 속도는 시속 240km.\n갈기의 불꽃이 세차게 타오르고\n화살처럼 달려나간다."
+      },
+      {
+        "game": "oras-or",
+        "text": "평상시는 느긋하게 들판을 뛰어다니지만\n한 번 마음먹으면 갈기의 불꽃을\n불태우며 시속 240km로 달린다."
+      },
+      {
+        "game": "oras-as",
+        "text": "평상시는 느긋하게 들판을 뛰어다니지만\n한 번 마음먹으면 갈기의 불꽃을\n불태우며 시속 240km로 달린다."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "그저 달리는 것을 좋아해서\n자신보다 빠른 상대를 발견하면\n전속력으로 쫓아간다."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "그저 달리는 것을 좋아해서\n자신보다 빠른 상대를 발견하면\n전속력으로 쫓아간다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "불타는 갈기를 휘날리며\n시속 240km의 속도로\n넓은 초원을 달려나간다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "가장 발이 빠른 날쌩마가\n리더가 되어 무리가 갈 장소나\n달리는 속도를 정한다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "烈焰馬",
+    "genus": "火馬寶可夢",
+    "flavorText": [
+      {
+        "game": "lgpe-lgp",
+        "text": "非常喜愛奔跑，只要看見\n跑得比自己快的東西，\n就會立刻全速追上去。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "非常喜愛奔跑，只要看見\n跑得比自己快的東西，\n就會立刻全速追上去。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "任由燃燒的鬃毛隨風飄揚，\n以每小時２４０公里的速度\n在大草原上自在奔馳。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "奔跑速度最快的烈焰馬\n會成為首領，決定族群\n前往的地點和奔跑速度。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Galopa",
+    "genus": "Pokémon Cheval Feu",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Au grand galop, sa crinière de feu\ndisperse au vent une myriade\nd’étincelles ardentes."
+      },
+      {
+        "game": "bw-w",
+        "text": "Au grand galop, sa crinière de feu\ndisperse au vent une myriade\nd’étincelles ardentes."
+      },
+      {
+        "game": "xy-x",
+        "text": "Doté d’un esprit de compétition, il poursuit toute\ncréature rapide pour faire la course."
+      },
+      {
+        "game": "xy-y",
+        "text": "Son galop dépasse les 240 km/h. Il file comme\nune flèche, laissant flotter sa crinière ardente."
+      },
+      {
+        "game": "oras-or",
+        "text": "On voit souvent Galopa trotter dans les champs et les plaines.\nCependant, lorsque ce Pokémon s’en donne la peine, il peut\ngaloper à plus de 240 km/h et sa crinière flamboyante\ns’embrase."
+      },
+      {
+        "game": "oras-as",
+        "text": "On voit souvent Galopa trotter dans les champs et les plaines.\nCependant, lorsque ce Pokémon s’en donne la peine, il peut\ngaloper à plus de 240 km/h et sa crinière flamboyante\ns’embrase."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Il aime la course. Il poursuit tout ce qui va\nplus vite que lui. Question d’honneur."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Il aime la course. Il poursuit tout ce qui va\nplus vite que lui. Question d’honneur."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Ce Pokémon traverse les plaines à plus\nde 240 km/h, sa crinière flamboyante flottant\nau vent."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Au sein d’un troupeau, c’est le plus rapide qui\ndevient le chef. Il choisit les lieux où se rendre\net détermine la vitesse de galop."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Gallopa",
+    "genus": "Feuerpferd-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Dieses Pokémon verfolgt schnelle Objekte in der\nHoffnung, ein Wettrennen gegen sie zu gewinnen."
+      },
+      {
+        "game": "xy-y",
+        "text": "Seine Mähne lodert auf, wenn es mit 240 km/h\npfeilschnell galoppiert."
+      },
+      {
+        "game": "oras-or",
+        "text": "Man kann Gallopa dabei beobachten, wie es lässig über Felder\nund Wiesen galoppiert. Wenn dieses Pokémon jedoch Ernst\nmacht, erreicht es bis zu 240 km/h. Dann beginnt seine Mähne\nzu lodern."
+      },
+      {
+        "game": "oras-as",
+        "text": "Man kann Gallopa dabei beobachten, wie es fröhlich über\nFelder und Wiesen galoppiert. Wenn dieses Pokémon jedoch\nErnst macht, erreicht es bis zu 240 km/h. Dann beginnt seine\nMähne zu lodern."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Es galoppiert für sein Leben gern. Entdeckt es\netwas, das schneller ist als es selbst, nimmt es\nblitzschnell die Verfolgung auf."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Es galoppiert für sein Leben gern. Entdeckt es\netwas, das schneller ist als es selbst, nimmt es\nblitzschnell die Verfolgung auf."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Die lodernde Mähne dieses Pokémon flattert im\nWind, wenn es mit einer Geschwindigkeit von\n240 km/h über Felder und Wiesen galoppiert."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Das schnellste Exemplar wird zum Anführer\nbestimmt und gibt als solcher den Zielort und\ndie Geschwindigkeit der Herde vor."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Rapidash",
+    "genus": "Pokémon Caballo Fuego",
+    "flavorText": [
+      {
+        "game": "xy-y",
+        "text": "Galopa a casi 240 km por hora. Su crin ardiente\nparece una flecha cuando corre."
+      },
+      {
+        "game": "xy-x",
+        "text": "Muy competitivo, este Pokémon perseguirá a todo lo\nque se mueva rápido e intentará salir airoso."
+      },
+      {
+        "game": "oras-or",
+        "text": "A Rapidash se le suele ver trotando sin rumbo fijo por los\ncampos y llanos. Cuando tiene que ir a algún sitio en concreto,\nse le aviva el fuego de las melenas y emprende el galope\nllameante llegando a los 240 km/h."
+      },
+      {
+        "game": "oras-as",
+        "text": "A Rapidash se le suele ver trotando sin rumbo fijo por los\ncampos y llanos. Cuando tiene que ir a algún sitio en\nconcreto, se le aviva el fuego de las melenas y emprende\nel galope llameante llegando a los 240 km/h."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Le encanta galopar. Si ve algo más rápido,\nintentará alcanzarlo a toda velocidad."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Le encanta galopar. Si ve algo más rápido,\nintentará alcanzarlo a toda velocidad."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Su ardiente crin ondea al viento mientras\natraviesa extensas praderas a una velocidad\nde 240 km/h."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "El ejemplar más rápido se convierte en el líder\nde la manada y decide tanto el ritmo de galope\ncomo su destino."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Rapidash",
+    "genus": "Pokémon Cavalfuoco",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Pokémon molto competitivo, rincorre tutto ciò\nche si muove veloce, sperando di superarlo."
+      },
+      {
+        "game": "xy-y",
+        "text": "Galoppa alla velocità di 240 km/h. Corre come una\nfreccia facendo ondeggiare la criniera ardente."
+      },
+      {
+        "game": "oras-or",
+        "text": "Rapidash si vede comunemente galoppare in campagne\ne pianure. Quando si lancia a tutta velocità la sua criniera\ninfuocata brilla e arde mentre galoppa fino a 240 km/h."
+      },
+      {
+        "game": "oras-as",
+        "text": "Rapidash si vede comunemente galoppare in campagne\ne pianure. Quando si lancia a tutta velocità la sua criniera\ninfuocata brilla e arde mentre galoppa fino a 240 km/h."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Ama correre, e quando incontra qualcuno\npiù veloce si mette a inseguirlo con tutte\nle sue forze."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Ama correre, e quando incontra qualcuno\npiù veloce si mette a inseguirlo con tutte\nle sue forze."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Sfreccia nelle praterie a una velocità di\n240 km/h, facendo sventolare la sua\ncriniera ardente."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "L’esemplare più veloce diventa il capo del\ngruppo e ne decide velocità e destinazione."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Rapidash",
+    "genus": "Fire Horse Pokémon",
+    "flavorText": [
+      {
+        "game": "rb-r",
+        "text": "Very competitive,\nthis POKéMON will\nchase anything\fthat moves fast\nin the hopes of\nracing it."
+      },
+      {
+        "game": "rb-b",
+        "text": "Very competitive,\nthis POKéMON will\nchase anything\fthat moves fast\nin the hopes of\nracing it."
+      },
+      {
+        "game": "y",
+        "text": "Just loves to run.\nIf it sees some­\nthing faster than\fitself, it will\ngive chase at top\nspeed."
+      },
+      {
+        "game": "gs-g",
+        "text": "At full gallop,\nits four hooves\nbarely touch the\fground because it\nmoves so incredi­\nbly fast."
+      },
+      {
+        "game": "gs-s",
+        "text": "With incredible\nacceleration, it\nreaches its top\fspeed of 150 mph\nafter running just\nten steps."
+      },
+      {
+        "game": "c",
+        "text": "It just loves to\ngallop. The faster\nit goes, the long­\fer the swaying\nflames of its mane\nwill become."
+      },
+      {
+        "game": "rs-r",
+        "text": "RAPIDASH usually can be seen casually\ncantering in the fields and plains.\nHowever, when this POKéMON turns\fserious, its fiery manes flare and blaze\nas it gallops its way up to 150 mph."
+      },
+      {
+        "game": "rs-s",
+        "text": "RAPIDASH usually can be seen casually\ncantering in the fields and plains.\nHowever, when this POKéMON turns\fserious, its fiery manes flare and blaze\nas it gallops its way up to 150 mph."
+      },
+      {
+        "game": "e",
+        "text": "It usually canters casually in the fields\nand plains. But once a RAPIDASH turns\nserious, its fiery manes flare and blaze\nas it gallops its way up to 150 mph."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "It can gallop at a top speed of 150\nmiles per hour. It can race as fast as a\nbullet train while ablaze."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "Very competitive, this POKéMON will chase\nanything that moves fast in the hopes of\nracing it."
+      },
+      {
+        "game": "dp-d",
+        "text": "It gallops at nearly 150 mph.\nWith its mane blazing ferociously,\nit races as if it were an arrow."
+      },
+      {
+        "game": "dp-p",
+        "text": "It has astounding acceleration.\nFrom a standstill, it can reach\ntop speed within 10 steps."
+      },
+      {
+        "game": "pt",
+        "text": "When at an all-out gallop, its\nblazing mane sparkles, enhancing\nits beautiful appearance."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "At full gallop, its four hooves\nbarely touch the ground because\nit moves so incredibly fast."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "With incredible acceleration, it\nreaches its top speed of 150 mph\nafter running just 10 steps."
+      },
+      {
+        "game": "bw-b",
+        "text": "When at an all-out gallop, its\nblazing mane sparkles, enhancing\nits beautiful appearance."
+      },
+      {
+        "game": "bw-w",
+        "text": "When at an all-out gallop, its\nblazing mane sparkles, enhancing\nits beautiful appearance."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "When at an all-out gallop, its\nblazing mane sparkles, enhancing\nits beautiful appearance."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "When at an all-out gallop, its\nblazing mane sparkles, enhancing\nits beautiful appearance."
+      },
+      {
+        "game": "xy-x",
+        "text": "Very competitive, this Pokémon will chase anything\nthat moves fast in the hopes of racing it."
+      },
+      {
+        "game": "xy-y",
+        "text": "It gallops at nearly 150 mph. With its mane blazing\nferociously, it races as if it were an arrow."
+      },
+      {
+        "game": "oras-or",
+        "text": "Rapidash usually can be seen casually cantering in the\nfields and plains. However, when this Pokémon turns serious,\nits fiery manes flare and blaze as it gallops its way up to\n150 mph."
+      },
+      {
+        "game": "oras-as",
+        "text": "Rapidash usually can be seen casually cantering in the fields\nand plains. However, when this Pokémon turns serious, its\nfiery manes flare and blaze as it gallops its way up to 150 mph."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Just loves to run. If it sees something faster\nthan itself, it will give chase at top speed."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Just loves to run. If it sees something faster\nthan itself, it will give chase at top speed."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "This Pokémon can be seen galloping through\nfields at speeds of up to 150 mph, its fiery mane\nfluttering in the wind."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "The fastest runner becomes the leader, and it\ndecides the herd’s pace and direction of travel."
+      },
+      {
+        "game": "la",
+        "text": "Fiery mane aglow, Rapidash darts like an arrow across the land.\nThis prodigiously swift creature can traverse the vast region of\nHisui in a day and a half."
+      }
+    ]
+  },
+  "chs": {
+    "name": "烈焰马",
+    "genus": "火马宝可梦",
+    "flavorText": [
+      {
+        "game": "lgpe-lgp",
+        "text": "总之就是喜欢跑步。如果\n发现有谁跑得比自己更快，\n就会用尽全力去追赶。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "总之就是喜欢跑步。如果\n发现有谁跑得比自己更快，\n就会用尽全力去追赶。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "任由燃烧的鬃毛随风飘扬，\n以每小时２４０公里的速度\n在大草原自由地驰骋。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "奔跑速度最快的烈焰马\n会成为首领，决定族群\n前往的地点和奔跑速度。"
+      }
+    ]
+  }
+}

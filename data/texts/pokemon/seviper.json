@@ -1,0 +1,235 @@
+{
+  "jap": {
+    "name": "ハブネーク",
+    "genus": "キバへびポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "もうどくが　しみだしている\nするどい　きれあじの　しっぽで\nすばやい　ザングースに　たちむかう。"
+      },
+      {
+        "game": "xy-y",
+        "text": "しっぽの　かたなは　いつも　いわで\nといでいるので　きれあじ　ばつぐん。\nザングースとは　いんねんの　あいだ。"
+      },
+      {
+        "game": "oras-or",
+        "text": "せんぞだいだい　ザングースと　たたかってきた。\nからだの　キズは　はげしい　たたかいの　しるし。\nするどい　きれあじの　しっぽで　こうげきするぞ。"
+      },
+      {
+        "game": "oras-as",
+        "text": "かたなの　ような　しっぽは　てきを　きりさくのと\nどうじに　しみだした　もうどくを　あびせるぞ。\nしゅくてき　ザングースと　たたかい　つづける。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Habunake",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "세비퍼",
+    "genus": "송곳뱀포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "맹독이 배어 나오는\n예리하고 잘 드는 꼬리로\n재빠른 쟝고에게 맞선다."
+      },
+      {
+        "game": "xy-y",
+        "text": "꼬리의 칼은 항상 바위로\n갈고 있어 날카로움이 뛰어나다.\n쟝고와는 사연이 깊은 사이다."
+      },
+      {
+        "game": "oras-or",
+        "text": "조상 대대로 쟝고와 싸워왔다.\n몸의 상처는 격렬한 싸움의 증거다.\n날카롭고 예리한 꼬리로 공격한다."
+      },
+      {
+        "game": "oras-as",
+        "text": "칼과 같은 꼬리는 적을 베어 가르는\n동시에 스며 나온 맹독을 끼얹는다.\n숙적인 쟝고와 계속하여 싸운다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "飯匙蛇",
+    "genus": "牙蛇寶可夢",
+    "flavorText": []
+  },
+  "fra": {
+    "name": "Séviper",
+    "genus": "Pokémon Serpacroc",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Le rival historique de Mangriff.\nIl affûte la lame de sa queue \nsur les rochers avant le combat."
+      },
+      {
+        "game": "bw-w",
+        "text": "Le rival historique de Mangriff.\nIl affûte la lame de sa queue \nsur les rochers avant le combat."
+      },
+      {
+        "game": "xy-x",
+        "text": "Il rivalise avec Mangriff grâce à la lame affûtée de\nsa queue qui sécrète un puissant venin."
+      },
+      {
+        "game": "xy-y",
+        "text": "Il affûte la lame de sa queue sur des rochers pour\nla rendre bien tranchante. Le rival de longue date\nde Mangriff."
+      },
+      {
+        "game": "oras-or",
+        "text": "Séviper se querelle avec Mangriff depuis plusieurs générations.\nSes cicatrices sont les preuves de ses nombreux combats.\nCe Pokémon attaque à l’aide de sa queue, aiguisée comme\nune épée."
+      },
+      {
+        "game": "oras-as",
+        "text": "La queue tranchante comme un sabre de Séviper a\ndeux fonctions : elle peut frapper l’ennemi et lui injecter\nun poison qu’il sécrète. Ce Pokémon n’oublie jamais\nsa vieille rancune envers Mangriff."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Vipitis",
+    "genus": "Reißzahn",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Die flinken Angriffe von Sengo kontert es mit\nseinem messerscharfen Schweif, aus dem Gift austritt."
+      },
+      {
+        "game": "xy-y",
+        "text": "Es hält die Klinge an seinem Schweif scharf,\nindem es sie ständig an Steinen wetzt. Es ist\nder Erzfeind von Sengo."
+      },
+      {
+        "game": "oras-or",
+        "text": "Vipitis lebt seit Generationen in Fehde mit Sengo.\nDie Narben auf seinem Körper sind Zeugen grausamer\nKämpfe. Dieses Pokémon greift seine Gegner mit seinem\nscharfkantigen Schweif an."
+      },
+      {
+        "game": "oras-as",
+        "text": "Vipitis kann mit seinem Schweif Feinden einen Hieb versetzen\nund sie mit einem abgesonderten Gift bespritzen. Dieses\nPokémon wird in der langwährenden Blutfehde mit Sengo\nnicht nachgeben."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Seviper",
+    "genus": "Pokémon Colmillos",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Hace frente a Zangoose con su agilidad y su afilada\ncola, que está cargada con un veneno letal."
+      },
+      {
+        "game": "xy-y",
+        "text": "Le une una relación de enemistad con Zangoose.\nSe lima con las rocas su cola en forma de espada\npara tenerla afilada."
+      },
+      {
+        "game": "oras-or",
+        "text": "Seviper lleva años de gran enemistad con Zangoose. Las\ncicatrices que tiene por todo el cuerpo dan buena muestra de\nlos encarnizados combates en los que se han enfrentado.\nSeviper ataca usando su cola con forma de espada."
+      },
+      {
+        "game": "oras-as",
+        "text": "Seviper tiene una cola que parece una espada y le sirve para\ndar un sablazo al enemigo y para envenenarlo. Este Pokémon\nse mantiene firme en la enemistad que siente hacia Zangoose."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Seviper",
+    "genus": "Pokémon Zannaserpe",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Respinge gli attacchi dell’agile Zangoose con la\ncoda affilatissima, che secerne un micidiale veleno."
+      },
+      {
+        "game": "xy-y",
+        "text": "Affila di continuo la lama della sua coda sulle rocce\nper renderla taglientissima. È un acerrimo nemico di\nZangoose."
+      },
+      {
+        "game": "oras-or",
+        "text": "Da generazioni Seviper è in lotta contro Zangoose,\nsuo nemico dichiarato. Le cicatrici sul suo corpo sono prove\ndi scontri efferati. Questo Pokémon attacca usando la coda\na forma di spada."
+      },
+      {
+        "game": "oras-as",
+        "text": "La coda a forma di spada di Seviper ha una duplice funzione:\nlacera il nemico e gli inietta un potente veleno.\nIl Pokémon non dimentica mai le lotte con il suo secolare\nnemico, Zangoose."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Seviper",
+    "genus": "Fang Snake Pokémon",
+    "flavorText": [
+      {
+        "game": "rs-r",
+        "text": "SEVIPER shares a generations-long\nfeud with ZANGOOSE. The scars on its\nbody are evidence of vicious battles.\fThis POKéMON attacks using its sword-\nedged tail."
+      },
+      {
+        "game": "rs-s",
+        "text": "SEVIPER’s swordlike tail serves two\npurposes - it slashes foes and douses\nthem with secreted poison.\fThis POKéMON will not give up its long-\nrunning blood feud with ZANGOOSE."
+      },
+      {
+        "game": "e",
+        "text": "SEVIPER and ZANGOOSE are eternal rivals.\nIt counters a ZANGOOSE’s dazzling agility\nwith its swordlike tail, which also oozes\na horrible poison."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "It sharpens its swordlike tail on hard\nrocks. It hides in tall grass and strikes\nunwary prey with venomous fangs."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "It sharpens its swordlike tail on hard\nrocks. It hides in tall grass and strikes\nunwary prey with venomous fangs."
+      },
+      {
+        "game": "dp-d",
+        "text": "For many generations, it has\nfeuded with ZANGOOSE. It whets its\nbladed tail on rocks for battle."
+      },
+      {
+        "game": "dp-p",
+        "text": "For many generations, it has\nfeuded with ZANGOOSE. It whets its\nbladed tail on rocks for battle."
+      },
+      {
+        "game": "pt",
+        "text": "For many generations, it has\nfeuded with ZANGOOSE. It whets its\nbladed tail on rocks for battle."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "In battle, it uses its bladed tail to\ncounter any ZANGOOSE. It secretes\na deadly venom in its tail."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "In battle, it uses its bladed tail to\ncounter any ZANGOOSE. It secretes\na deadly venom in its tail."
+      },
+      {
+        "game": "bw-b",
+        "text": "For many generations, it has\nfeuded with Zangoose. It whets its\nbladed tail on rocks for battle."
+      },
+      {
+        "game": "bw-w",
+        "text": "For many generations, it has\nfeuded with Zangoose. It whets its\nbladed tail on rocks for battle."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "Constant polishing makes the edge\nof the blade on its tail extremely sharp.\nIt’s Zangoose’s archrival."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "Constant polishing makes the edge\nof the blade on its tail extremely sharp.\nIt’s Zangoose’s archrival."
+      },
+      {
+        "game": "xy-x",
+        "text": "In battle, it uses its bladed tail to counter any\nZangoose. It secretes a deadly venom in its tail."
+      },
+      {
+        "game": "xy-y",
+        "text": "Constant polishing makes the edge of the blade on\nits tail extremely sharp. It’s Zangoose’s archrival."
+      },
+      {
+        "game": "oras-or",
+        "text": "Seviper shares a generations-long feud with Zangoose.\nThe scars on its body are evidence of vicious battles.\nThis Pokémon attacks using its sword-edged tail."
+      },
+      {
+        "game": "oras-as",
+        "text": "Seviper’s swordlike tail serves two purposes—it slashes foes\nand douses them with secreted poison. This Pokémon will not\ngive up its long-running blood feud with Zangoose."
+      }
+    ]
+  },
+  "chs": {
+    "name": "饭匙蛇",
+    "genus": "牙蛇宝可梦",
+    "flavorText": []
+  }
+}

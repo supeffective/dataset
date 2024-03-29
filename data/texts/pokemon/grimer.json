@@ -1,0 +1,477 @@
+{
+  "jap": {
+    "name": "ベトベター",
+    "genus": "ヘドロポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "つきからの　エックスせんをあびた\nヘドロが　ベトベターにへんかした。\nきたないモノが　だいこうぶつ。"
+      },
+      {
+        "game": "xy-y",
+        "text": "きたない　ばしょに　あらわれる。\nこうじょうが　ながす　ヘドロ\nはいえきを　のんで　いきている。"
+      },
+      {
+        "game": "oras-or",
+        "text": "ドロドロ　ブヨブヨした　からだは　どんなに\nほそい　すきまにも　はいりこむことが　できる。\nげすいかんに　もぐって　きたない　みずを　のむ。"
+      },
+      {
+        "game": "oras-as",
+        "text": "おせんされた　かいていの　ヘドロから　うまれた。\nきたない　ものが　だいすきで　からだじゅうから\nバイキンだらけの　えきたいを　たれながしている。"
+      },
+      {
+        "game": "sm-s",
+        "text": "こうじょうが　たれながす　ヘドロの\nはいえきが　おもな　エサ　なのだ。\nさいきんは　かずが　へってきた。"
+      },
+      {
+        "game": "sm-m",
+        "text": "つきからの　エックスせんを　あびた\nヘドロが　へんかし　たんじょう。\nからだの　ばいきんが　へると　しぬ。"
+      },
+      {
+        "game": "usum-us",
+        "text": "かいていの　ヘドロから　うまれた。\nせいけつな　ばしょでは　たいないの\nばいきんが　ふやせず　しんでしまう。"
+      },
+      {
+        "game": "usum-um",
+        "text": "さいきんは　こうじょうが　ながす\nはいえきが　きれいで　エサが　ない。\nじき　ぜつめつすると　いわれている。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "ヘドロが　かたまって　うまれた。\nくさくて　さわることが　できないし\nとおったあとには　くさも　はえない。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "ヘドロが　かたまって　うまれた。\nくさくて　さわることが　できないし\nとおったあとには　くさも　はえない。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Betbeter",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "질퍽이",
+    "genus": "진흙포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "달로부터의 X선을 쬔\n오물이 질퍽이로 변화했다.\n더러운 것을 좋아한다."
+      },
+      {
+        "game": "xy-y",
+        "text": "지저분한 곳에 모습을 드러낸다.\n공장에서 내보내는 오물\n폐수를 마시며 살고 있다."
+      },
+      {
+        "game": "oras-or",
+        "text": "흐물흐물 물렁물렁한 몸은 아무리\n좁은 틈이라도 파고들어 갈 수 있다.\n하수관에 들어가 지저분한 물을 마신다."
+      },
+      {
+        "game": "oras-as",
+        "text": "오염된 해저의 진흙에서 태어났다.\n더러운 것을 매우 좋아해서 몸 전체에서\n세균 범벅인 액체가 흘러나오고 있다."
+      },
+      {
+        "game": "sm-s",
+        "text": "공장에서 흘러나오는\n오물 폐수가 주요 먹이다.\n최근에는 수가 줄어들고 있다."
+      },
+      {
+        "game": "sm-m",
+        "text": "달의 엑스선을 쬔\n진흙이 변화하여 태어났다.\n몸의 세균이 줄어들면 죽는다."
+      },
+      {
+        "game": "usum-us",
+        "text": "바다 밑의 진흙에서 태어났다.\n청결한 장소에서는 체내의\n세균이 증식되지 않아 죽어 버린다."
+      },
+      {
+        "game": "usum-um",
+        "text": "최근에는 공장에서 나오는\n폐수가 깨끗해서 먹이가 없다.\n곧 멸종될 것이라고 전해진다."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "진흙이 뭉쳐져서 태어났다.\n악취 때문에 건드릴 엄두가 안 나고\n지나간 자리에는 풀 한 포기 나지 않는다."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "진흙이 뭉쳐져서 태어났다.\n악취 때문에 건드릴 엄두가 안 나고\n지나간 자리에는 풀 한 포기 나지 않는다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "臭泥",
+    "genus": "污泥寶可夢",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "主要的食物是\n工廠排放的污泥廢液。\n最近數量減少了。"
+      },
+      {
+        "game": "sm-m",
+        "text": "照射了來自月亮的Ｘ射線後，\n污泥發生變化而誕生。\n身體的細菌如果減少就會死亡。"
+      },
+      {
+        "game": "usum-us",
+        "text": "誕生自海底的污泥。\n在乾淨的地方，牠會因為\n體內的細菌無法增長而死去。"
+      },
+      {
+        "game": "usum-um",
+        "text": "最近工廠排放的廢水太乾淨，\n使得牠沒東西可吃。\n據說就快要絕種了。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "由許多污泥凝聚而成。\n散發著惡臭，讓人無法觸碰。\n經過的地方寸草不生。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "由許多污泥凝聚而成。\n散發著惡臭，讓人無法觸碰。\n經過的地方寸草不生。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Tadmorv",
+    "genus": "Pokémon Dégueu",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Il est né d’un torrent de boue\nexposé aux rayons X de la lune.\nIl vit dans les ordures."
+      },
+      {
+        "game": "bw-w",
+        "text": "Il est né d’un torrent de boue\nexposé aux rayons X de la lune.\nIl vit dans les ordures."
+      },
+      {
+        "game": "xy-x",
+        "text": "Tadmorv est né d’un tas de déchets exposé aux\nrayons X lunaires. Ce Pokémon adore se nourrir\nde choses dégoûtantes."
+      },
+      {
+        "game": "xy-y",
+        "text": "Vivant dans des tas d’ordures, il se nourrit des\ndéchets polluants rejetés par les usines."
+      },
+      {
+        "game": "oras-or",
+        "text": "Le corps boueux et gélatineux de Tadmorv peut s’enfoncer\ndans n’importe quelle ouverture, même la plus petite.\nCe Pokémon se promène dans les tuyaux des égouts pour\nboire de l’eau croupie."
+      },
+      {
+        "game": "oras-as",
+        "text": "Tadmorv est apparu dans la vase accumulée sur un bord\nde mer pollué. Ce Pokémon aime tout ce qui est dégoûtant.\nUne substance pleine de germes suinte constamment\nde tout son corps."
+      },
+      {
+        "game": "sm-s",
+        "text": "Il s’alimente principalement des déchets\nchimiques rejetés par les usines. Ce Pokémon\nest devenu plus rare ces derniers temps."
+      },
+      {
+        "game": "sm-m",
+        "text": "Né d’un tas de déchets exposés aux rayons X\nréfléchis par la lune, il meurt si les microbes qui\npullulent sur son corps diminuent en nombre."
+      },
+      {
+        "game": "usum-us",
+        "text": "Il est né de la vase polluée des fonds marins.\nDans les lieux trop propres, sa flore bactérienne\nne peut pas proliférer et il dépérit."
+      },
+      {
+        "game": "usum-um",
+        "text": "Les usines ne rejetant désormais plus de\ndéchets toxiques, il n’a plus rien à se mettre\nsous la dent et se voit menacé d’extinction."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Ce tas de fange sent si mauvais qu’il est\nimpossible de le toucher. Plus rien ne pousse\ndans son sillage putride."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Ce tas de fange sent si mauvais qu’il est\nimpossible de le toucher. Plus rien ne pousse\ndans son sillage putride."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Sleima",
+    "genus": "Schlamm",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Schlamm, der Röntgenstrahlung vom Mond\nausgesetzt war, wurde zu Sleima. Es isst\nam liebsten dreckige Dinge."
+      },
+      {
+        "game": "xy-y",
+        "text": "Dieses Pokémon lebt vorwiegend in schmutzigen\nGebieten und ernährt sich von Industrieabfällen."
+      },
+      {
+        "game": "oras-or",
+        "text": "Sleimas glitschiger, gummiartiger Körper passt durch jede\nnoch so kleine Öffnung. Dieses Pokémon steigt in die\nKanalisation hinab, um fauliges Abwasser zu trinken."
+      },
+      {
+        "game": "oras-as",
+        "text": "Sleima ist aus dem Schlamm eines verseuchten Flussbetts\nentstanden. Dieses Pokémon liebt verschmutzte Dinge.\nEs scheidet ständig eine mit Bakterien verseuchte Flüssigkeit\naus seinem ganzen Körper aus."
+      },
+      {
+        "game": "sm-s",
+        "text": "Es ernährt sich primär von Industrieabfällen.\nIn letzter Zeit sieht man es viel seltener als\nfrüher."
+      },
+      {
+        "game": "sm-m",
+        "text": "Schlamm, der Röntgenstrahlung vom Mond\nausgesetzt war, wurde zu Sleima. Sinkt die\nZahl der Bakterien in seinem Körper, stirbt es."
+      },
+      {
+        "game": "usum-us",
+        "text": "Sleima ist aus dem Schlamm am Meeresgrund\nentstanden. An sterilen Orten kann es seine\nBakterien nicht kultivieren und stirbt."
+      },
+      {
+        "game": "usum-um",
+        "text": "Es ernährt sich von Industrieabfällen, die durch\numweltfreundliche Methoden nun aber knapp\nwerden. Es ist daher vom Aussterben bedroht."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Sleima ist aus erhärtetem Schlamm entstanden.\nEs riecht sehr penetrant und man sollte es nicht\nberühren. Wo es hintritt, wächst kein Gras mehr."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Sleima ist aus erhärtetem Schlamm entstanden.\nEs riecht sehr penetrant und man sollte es nicht\nberühren. Wo es hintritt, wächst kein Gras mehr."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Grimer",
+    "genus": "Pokémon Lodo",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Nace de lodo alterado al filtrarse en el agua los\nrayos X reflejados por la Luna. Se alimenta de\nsustancias desagradables."
+      },
+      {
+        "game": "xy-y",
+        "text": "Aparece en zonas asquerosas. Crece absorbiendo los\nresiduos tóxicos expulsados por las fábricas."
+      },
+      {
+        "game": "oras-or",
+        "text": "El elástico cuerpo de lodo de Grimer le permite colarse por\ncualquier orificio, sea del tamaño que sea. Este Pokémon entra\nen los bajantes de las cloacas para beberse el agua sucia."
+      },
+      {
+        "game": "oras-as",
+        "text": "Grimer emergió del lodo que se formó en una zona\ncontaminada en el fondo del mar. A este Pokémon le encanta\ntodo lo que sea suciedad. Emana continuamente por todo el\ncuerpo un horrible fluido contaminado por bacterias."
+      },
+      {
+        "game": "sm-s",
+        "text": "Su principal fuente de alimento son los residuos\nindustriales. Últimamente la población de Grimer\nha menguado bastante."
+      },
+      {
+        "game": "sm-m",
+        "text": "Nace del lodo expuesto a los rayos X reflejados\npor la luna. Si el número de bacterias de su\ncuerpo disminuye, su vida corre peligro."
+      },
+      {
+        "game": "usum-us",
+        "text": "Surgió del limo oceánico. En hábitats impolutos,\nlos gérmenes de su cuerpo no pueden medrar y\ntermina falleciendo."
+      },
+      {
+        "game": "usum-um",
+        "text": "Debido a la reducción en los vertidos de aguas\nresiduales, su fuente de alimento ha menguado\ny ahora se encuentra en peligro de extinción."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Está hecho de lodo endurecido. Pocos se atreven\na tocarlo debido a su pestilencia y composición\nnociva. Allá por donde pasa no crece la hierba."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Está hecho de lodo endurecido. Pocos se atreven\na tocarlo debido a su pestilencia y composición\nnociva. Allá por donde pasa no crece la hierba."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Grimer",
+    "genus": "Pokémon Melma",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Grimer è nato da fango esposto ai raggi X provenienti\ndalla luna. Ama nutrirsi di sostanze sudicie."
+      },
+      {
+        "game": "xy-y",
+        "text": "Prospera in zone paludose. Cresce nutrendosi dei\nliquami di scarico delle fabbriche."
+      },
+      {
+        "game": "oras-or",
+        "text": "Il corpo fangoso e gommoso di Grimer può passare attraverso\nogni apertura, anche la più angusta. Si intrufola dentro\nle condotte fognarie per bere le ripugnanti acque di scarico."
+      },
+      {
+        "game": "oras-as",
+        "text": "Grimer proviene dal fango depositato sui fondali inquinati.\nInfatti ama tutto ciò che è sudicio e tossico. Emana\ncontinuamente un fluido batterico velenoso da ogni parte\ndel corpo."
+      },
+      {
+        "game": "sm-s",
+        "text": "Si nutre principalmente di rifiuti industriali\nfangosi. Negli ultimi tempi, il numero di Grimer\nsta diminuendo."
+      },
+      {
+        "game": "sm-m",
+        "text": "È nato da fango esposto ai raggi X provenienti\ndalla luna. Per sopravvivere, deve conservare\nun’elevata popolazione batterica."
+      },
+      {
+        "game": "usum-us",
+        "text": "Proviene dal fango dei fondali marini. Non può\nsopravvivere in ambienti puliti perché i batteri\nnel suo corpo non riescono a moltiplicarsi."
+      },
+      {
+        "game": "usum-um",
+        "text": "Poiché gli scarichi industriali sono sempre\npiù puliti, fatica a trovare fonti di nutrimento.\nSembra che per questo rischi l’estinzione."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Formato da fanghi tossici solidificati, emana\nun tanfo nauseabondo ed è impossibile toccarlo.\nDove passa lui non cresce più nemmeno l’erba."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Formato da fanghi tossici solidificati, emana\nun tanfo nauseabondo ed è impossibile toccarlo.\nDove passa lui non cresce più nemmeno l’erba."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Grimer",
+    "genus": "Sludge Pokémon",
+    "flavorText": [
+      {
+        "game": "rb-r",
+        "text": "Appears in filthy\nareas. Thrives by\nsucking up\fpolluted sludge\nthat is pumped\nout of factories."
+      },
+      {
+        "game": "rb-b",
+        "text": "Appears in filthy\nareas. Thrives by\nsucking up\fpolluted sludge\nthat is pumped\nout of factories."
+      },
+      {
+        "game": "y",
+        "text": "Made of hardened\nsludge. It smells\ntoo putrid to\ftouch.\nEven weeds won't\ngrow in its path."
+      },
+      {
+        "game": "gs-g",
+        "text": "As it moves, it\nloses bits of its\nbody from which\fnew GRIMER emerge.\nThis worsens the\nstench around it."
+      },
+      {
+        "game": "gs-s",
+        "text": "Wherever GRIMER\nhas passed, so\nmany germs are\fleft behind that\nno plants will\never grow again."
+      },
+      {
+        "game": "c",
+        "text": "When two of these\nPOKéMON's bodies\nare combined\ftogether, new\npoisons are\ncreated."
+      },
+      {
+        "game": "rs-r",
+        "text": "GRIMER’s sludgy and rubbery body can\nbe forced through any opening, however\nsmall it may be.\fThis POKéMON enters sewer pipes to\ndrink filthy wastewater."
+      },
+      {
+        "game": "rs-s",
+        "text": "GRIMER emerged from the sludge that\nsettled on a polluted seabed.\nThis POKéMON loves anything filthy.\fIt constantly leaks a horribly germ-\ninfested fluid from all over its body."
+      },
+      {
+        "game": "e",
+        "text": "Born from polluted sludge in the sea,\nGRIMER’s favorite food is anything filthy.\nThey feed on wastewater pumped out from\nfactories."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "Sludge exposed to X rays from the moon\ntransformed into GRIMER. It loves feeding\non filthy things."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "Appears in filthy areas. It thrives by\nsucking up polluted sludge that is pumped\nout of factories."
+      },
+      {
+        "game": "dp-d",
+        "text": "It was born when sludge in a dirty\nstream was exposed to the moon’s\nX-rays. It appears among filth."
+      },
+      {
+        "game": "dp-p",
+        "text": "It was born when sludge in a dirty\nstream was exposed to the moon’s\nX-rays. It appears among filth."
+      },
+      {
+        "game": "pt",
+        "text": "It was born when sludge in a dirty\nstream was exposed to the moon’s\nX-rays. It appears among filth."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "As it moves, it loses bits of its body,\nfrom which new GRIMER emerge.\nThis worsens the stench around it."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "Wherever GRIMER has passed, so\nmany germs are left behind that\nno plants will ever grow again."
+      },
+      {
+        "game": "bw-b",
+        "text": "It was born when sludge in a dirty\nstream was exposed to the moon’s\nX-rays. It appears among filth."
+      },
+      {
+        "game": "bw-w",
+        "text": "It was born when sludge in a dirty\nstream was exposed to the moon’s\nX-rays. It appears among filth."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "Born from sludge, these Pokémon now\ngather in polluted places and increase\nthe bacteria in their bodies."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "Born from sludge, these Pokémon now\ngather in polluted places and increase\nthe bacteria in their bodies."
+      },
+      {
+        "game": "xy-x",
+        "text": "Sludge exposed to X-rays from the moon\ntransformed into Grimer. It loves feeding\non filthy things."
+      },
+      {
+        "game": "xy-y",
+        "text": "Appears in filthy areas. It thrives by sucking up\npolluted sludge that is pumped out of factories."
+      },
+      {
+        "game": "oras-or",
+        "text": "Grimer’s sludgy and rubbery body can be forced through any\nopening, however small it may be. This Pokémon enters sewer\npipes to drink filthy wastewater."
+      },
+      {
+        "game": "oras-as",
+        "text": "Grimer emerged from the sludge that settled on a polluted\nseabed. This Pokémon loves anything filthy. It constantly\nleaks a horribly germ-infested fluid from all over its body."
+      },
+      {
+        "game": "sm-s",
+        "text": "Its main source of food is the slimy industrial\nwaste of factories. This Pokémon’s numbers\nhave been decreasing in recent years."
+      },
+      {
+        "game": "sm-m",
+        "text": "It was born from sludge transformed by\nexposure to X-rays from the moon. When its\ninternal load of germs decreases, it dies."
+      },
+      {
+        "game": "usum-us",
+        "text": "It was born from sludge on the ocean floor. In a\nsterile environment, the germs within its body\ncan’t multiply, and it dies."
+      },
+      {
+        "game": "usum-um",
+        "text": "The wastewater coming from factories is clean\nthese days, so Grimer have nothing to eat.\nThey’re said to be on the verge of extinction."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Made of congealed sludge. It smells too putrid\nto touch. Even weeds won’t grow in its path."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Made of congealed sludge. It smells too putrid\nto touch. Even weeds won’t grow in its path."
+      }
+    ]
+  },
+  "chs": {
+    "name": "臭泥",
+    "genus": "污泥宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "工厂排放的污泥废液\n是其主要的饵料。\n最近数量减少了。"
+      },
+      {
+        "game": "sm-m",
+        "text": "污泥沐浴了来自月亮的Ｘ射线后，\n发生变化而诞生的。\n身体的细菌如果减少就会死亡。"
+      },
+      {
+        "game": "usum-us",
+        "text": "诞生于海底的污泥。\n在干净的地方，它就会因\n体内的细菌无法增长而死去。"
+      },
+      {
+        "game": "usum-um",
+        "text": "最近工厂流出的废水太干净，\n它都没东西可吃。\n据说马上就要灭绝了。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "它由囤积的淤泥而形成。\n臭到让人无法碰触，凡是\n它走过的地方都寸草不生。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "它由囤积的淤泥而形成。\n臭到让人无法碰触，凡是\n它走过的地方都寸草不生。"
+      }
+    ]
+  }
+}

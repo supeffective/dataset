@@ -1,0 +1,61 @@
+{
+  "jap": {
+    "name": "イルカマン",
+    "genus": "イルカポケモン",
+    "flavorText": []
+  },
+  "jap_ro": {
+    "name": "Irukaman",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "돌핀맨",
+    "genus": "",
+    "flavorText": []
+  },
+  "cht": {
+    "name": "海豚俠",
+    "genus": "海豚寶可夢",
+    "flavorText": []
+  },
+  "fra": {
+    "name": "Superdofin",
+    "genus": "",
+    "flavorText": []
+  },
+  "deu": {
+    "name": "Delfinator",
+    "genus": "Delfin",
+    "flavorText": []
+  },
+  "esp": {
+    "name": "Palafin",
+    "genus": "",
+    "flavorText": []
+  },
+  "ita": {
+    "name": "Palafin",
+    "genus": "",
+    "flavorText": []
+  },
+  "eng": {
+    "name": "Palafin",
+    "genus": "Dolphin Pokémon",
+    "flavorText": [
+      {
+        "game": "sv-s",
+        "text": "This Pokémon changes its appearance if it hears its allies calling for help. Palafin will never show anybody its moment of transformation."
+      },
+      {
+        "game": "sv-v",
+        "text": "Its physical capabilities are no different than a Finizen’s, but when its allies are in danger, it transforms and powers itself up."
+      }
+    ]
+  },
+  "chs": {
+    "name": "海豚侠",
+    "genus": "海豚宝可梦",
+    "flavorText": []
+  }
+}

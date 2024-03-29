@@ -1,0 +1,553 @@
+{
+  "jap": {
+    "name": "ロコン",
+    "genus": "きつねポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "うまれたとき　しっぽは　まっしろで\n１ぽんしかない。そだつと　やがて\nさきが　わかれて　しっぽが　ふえる。"
+      },
+      {
+        "game": "xy-y",
+        "text": "こどもだが　６ほんの　しっぽが\nうつくしい。せいちょうすると\nさらに　しっぽが　ふえる。"
+      },
+      {
+        "game": "oras-or",
+        "text": "うまれた　ときは　しろい　１ぽんの　しっぽ。\nあいじょうを　たっぷり　うけると　しっぽは\n６ぽんに　わかれて　みごとな　まきげになる。"
+      },
+      {
+        "game": "oras-as",
+        "text": "からだの　なかで　ほのおが　いつも　もえている。\nひるま　きおんが　あがると　たいおんも　たかく\nなってしまうので　くちから　ほのおを　にがす。"
+      },
+      {
+        "game": "sm-s",
+        "text": "けなみや　シッポが　うつくしいので\nだいにんき。　せいちょうに　つれ\nシッポは　わかれて　ふえていく。"
+      },
+      {
+        "game": "sm-m",
+        "text": "くちから　ひとだまの　ような\nほのおを　はきだすので　おばけと\nみまちがえる　ひとも　いる。"
+      },
+      {
+        "game": "usum-us",
+        "text": "うつくしい　シッポで　だいにんき。\nただし　まめに　ブラッシングしないと\nあっというまに　けだまだらけになる。"
+      },
+      {
+        "game": "usum-um",
+        "text": "ひの　たまを　あやつり　えものを\nとらえる。　こどもから　そだてると\nこいぬポケモンの　ように　なつくよ。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "けなみや　シッポが　うつくしい。\nおおきくなると　シッポの　さきが\nわかれて　ふえていく。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "けなみや　シッポが　うつくしい。\nおおきくなると　シッポの　さきが\nわかれて　ふえていく。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "こどもだが　６ぽんの　しっぽが\nうつくしい。　せいちょうすると\nさらに　しっぽが　ふえる。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "６ぽんの　しっぽは　そだつごとに\nけなみが　よくなり　うつくしくなる。\nだきしめると　ほんのり　あたたかい。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Rokon",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "식스테일",
+    "genus": "여우포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "태어났을 때는 꼬리가 새하얗고\n하나밖에 없다. 성장하면\n끝이 갈라지며 꼬리 수가 늘어난다."
+      },
+      {
+        "game": "xy-y",
+        "text": "어리지만 6개의 꼬리가\n아름답다. 성장하면\n한층 꼬리 수가 늘어난다."
+      },
+      {
+        "game": "oras-or",
+        "text": "태어났을 때는 하얀 꼬리가 한 개다.\n애정을 많이 받으면 꼬리가\n6개로 나뉘며 멋지게 말린다."
+      },
+      {
+        "game": "oras-as",
+        "text": "몸 안에서 항상 불꽃이 타고 있다.\n낮에 기온이 올라가면 체온도 올라가기\n때문에 입으로 불꽃을 빼낸다."
+      },
+      {
+        "game": "sm-s",
+        "text": "털과 꼬리가 아름다워서\n인기가 많다. 성장함에 따라\n꼬리가 나뉘면서 늘어난다."
+      },
+      {
+        "game": "sm-m",
+        "text": "입에서 도깨비불 같은\n불꽃을 내뱉어서 유령으로\n착각하는 사람도 있다."
+      },
+      {
+        "game": "usum-us",
+        "text": "아름다운 꼬리 때문에 인기가 많다.\n단 바지런히 빗질을 하지 않으면\n순식간에 헝클어진다."
+      },
+      {
+        "game": "usum-um",
+        "text": "불구슬을 조종하여 먹이를\n잡는다. 어릴 때부터 키우면\n강아지포켓몬처럼 따른다."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "털과 꼬리가 아름답다.\n성장하면 꼬리 끝이 갈라져서\n갈래가 많아진다."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "털과 꼬리가 아름답다.\n성장하면 꼬리 끝이 갈라져서\n갈래가 많아진다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "어리지만 6개의 꼬리가\n아름답다. 성장하면\n한층 꼬리 수가 늘어난다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "6개의 꼬리는 자라면서\n털의 결이 좋아지며 아름다워진다.\n안으면 살짝 따듯하다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "六尾",
+    "genus": "狐狸寶可夢",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "因為毛色和尾巴非常漂亮，\n所以很受歡迎。伴隨著成長，\n尾巴會分開，長得越來越多。"
+      },
+      {
+        "game": "sm-m",
+        "text": "因為會從口中噴出好像\n人的靈魂一樣的火焰，\n所以也有人把牠錯看成鬼怪。"
+      },
+      {
+        "game": "usum-us",
+        "text": "牠美麗的尾巴深受人們喜愛。\n但如果沒有經常幫牠梳理，\n很快就會變得滿是毛球。"
+      },
+      {
+        "game": "usum-um",
+        "text": "會操縱火球捕捉獵物。\n如果從小就開始養育的話，\n牠就會像小狗寶可夢那樣親近人。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "有著美麗的毛皮和尾巴。\n尾巴會隨著年齡增長而分開，\n逐漸形成多條尾巴。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "有著美麗的毛皮和尾巴。\n尾巴會隨著年齡增長而分開，\n逐漸形成多條尾巴。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "雖然還是孩子，\n但已擁有美麗的６根尾巴。\n長大後尾巴會變得更多。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "隨著身體的成長，\n６根尾巴的毛髮也會變得更漂亮。\n緊緊抱著牠時能感到微微的溫暖。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Goupix",
+    "genus": "Pokémon Renard",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Il envoie des boules de feu. Avec\nl’âge, ses six queues en forment de\nnouvelles."
+      },
+      {
+        "game": "bw-w",
+        "text": "Il envoie des boules de feu. Avec\nl’âge, ses six queues en forment de\nnouvelles."
+      },
+      {
+        "game": "xy-x",
+        "text": "Il n’a qu’une seule queue à la naissance. Sa queue\nse divise à la pointe au fil des ans."
+      },
+      {
+        "game": "xy-y",
+        "text": "Quand il est jeune, ce Pokémon a six queues\nmagnifiques. De nouvelles queues apparaissent tout\nau long de sa croissance."
+      },
+      {
+        "game": "oras-or",
+        "text": "À sa naissance, Goupix a une queue blanche. Cette queue se\ndivise en six si le Pokémon reçoit de l’amitié de la part de\nson Dresseur. Les six queues sont courbées et magnifiques."
+      },
+      {
+        "game": "oras-as",
+        "text": "À l’intérieur du corps de Goupix se trouve une flamme\nqui ne s’éteint jamais. Pendant la journée, lorsque\nla température augmente, ce Pokémon crache des flammes\npour éviter que son corps ne devienne trop chaud."
+      },
+      {
+        "game": "sm-s",
+        "text": "Un Pokémon très populaire de par son pelage\net ses superbes queues. Au fur et à mesure de\nsa croissance, elles se multiplient en se divisant."
+      },
+      {
+        "game": "sm-m",
+        "text": "Certaines personnes prennent ce Pokémon pour\nun fantôme à cause des flammes qui sortent de\nsa bouche, similaires à des âmes de défunts."
+      },
+      {
+        "game": "usum-us",
+        "text": "Ses queues magnifiques en font un Pokémon\ntrès populaire. Il faut toutefois les lui brosser\nfréquemment pour éviter les nœuds."
+      },
+      {
+        "game": "usum-um",
+        "text": "Il attrape ses proies en manipulant des boules\nde feu. Élevé depuis son plus jeune âge, il se\nrévélera aussi affectueux qu’un Pokémon Chiot."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Sa fourrure et sa queue sont magnifiques.\nCette dernière se divise lors de la croissance."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Sa fourrure et sa queue sont magnifiques.\nCette dernière se divise lors de la croissance."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Quand il est jeune, ce Pokémon a six queues\nmagnifiques. De nouvelles queues apparaissent\ntout au long de sa croissance."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Avec l’âge, la fourrure de ses six queues devient\nde plus en plus belle et soyeuse.\nElle est chaude au toucher."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Vulpix",
+    "genus": "Fuchs-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Dieses Pokémon hat bei seiner Geburt nur einen\nSchweif, der sich mit zunehmendem Alter aufspaltet."
+      },
+      {
+        "game": "xy-y",
+        "text": "In seiner Jugend hat es sechs hinreißende Schweife.\nWährend es wächst, kommen noch weitere neue\nSchweife hinzu."
+      },
+      {
+        "game": "oras-or",
+        "text": "Vulpix kommt mit einem weißen Schweif zur Welt.\nDieser teilt sich sechsfach, wenn das Pokémon\nvon seinem Trainer viel Zuneigung bekommt.\nSeine sechs Schweife kräuseln sich schließlich."
+      },
+      {
+        "game": "oras-as",
+        "text": "In Vulpix’ Körper brennt eine Flamme, die niemals erlischt.\nAm Tage, wenn die Temperaturen steigen, stößt dieses\nPokémon Flammen aus seinem Mund aus. So schützt es\nsich davor, dass sein Körper zu heiß wird."
+      },
+      {
+        "game": "sm-s",
+        "text": "Sein Fell und seine Schweife sind so hübsch,\ndass es sich großer Beliebtheit erfreut. Letztere\nspalten sich mit zunehmendem Alter weiter auf."
+      },
+      {
+        "game": "sm-m",
+        "text": "Es kann Feuerbälle speien, die Irrlichtern ähneln.\nAus diesem Grund wird es gelegentlich für ein\nGespenst gehalten."
+      },
+      {
+        "game": "usum-us",
+        "text": "Dank seiner hübschen Schweife erfreut es sich\ngroßer Beliebtheit. Wird es aber nicht regelmäßig\ngebürstet, ist es sofort voller Fellknäuel."
+      },
+      {
+        "game": "usum-um",
+        "text": "Bei der Beutejagd speit es Feuerbälle. Zieht man\nein Vulpix von Kindesbeinen an auf, entwickelt\nes eine Anhänglichkeit wie ein Hund-Pokémon."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Sein Fell und sein Schweif sind wunderschön.\nBeim Heranwachsen spaltet sich sein Schweif\nin mehrere Teile auf."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Sein Fell und sein Schweif sind wunderschön.\nBeim Heranwachsen spaltet sich sein Schweif\nin mehrere Teile auf."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "In seiner Jugend hat es sechs hinreißende\nSchweife. Während es wächst, kommen noch\nweitere neue Schweife hinzu."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Sein Fell wird geschmeidiger, wenn seine sechs\nSchweife wachsen. Wenn man das Fell berührt,\nfühlt es sich leicht warm an."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Vulpix",
+    "genus": "Pokémon Zorro",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Cuando nace solo tiene una cola, pero a medida que\ncrece, esta se va dividiendo desde la punta."
+      },
+      {
+        "game": "xy-y",
+        "text": "De pequeño, tiene seis colas increíbles. A medida que\ncrece, le van saliendo más."
+      },
+      {
+        "game": "oras-or",
+        "text": "Al nacer, Vulpix tiene una cola blanca que se divide en seis si\nrecibe cariño por parte de su Entrenador. Las seis colas se le\nrizan de forma majestuosa."
+      },
+      {
+        "game": "oras-as",
+        "text": "En el interior del cuerpo de Vulpix arde una llama que nunca\nse extingue. Durante el día, cuando suben las temperaturas,\neste Pokémon libera llamas por la boca para evitar\nrecalentarse."
+      },
+      {
+        "game": "sm-s",
+        "text": "Es muy popular por su pelaje y sus colas. A\nmedida que crece, las colas se dividen y\naumentan en número."
+      },
+      {
+        "game": "sm-m",
+        "text": "Lanza llamas por la boca que se asemejan\na fuegos fatuos, por lo que algunos las\nconfunden con fantasmas."
+      },
+      {
+        "game": "usum-us",
+        "text": "Es muy popular por sus hermosas colas. Hay\nque cepillárselas a menudo o, de lo contrario,\nse le hacen enredos todo el rato."
+      },
+      {
+        "game": "usum-um",
+        "text": "Es capaz de controlar bolas de fuego con las\nque atrapa a sus presas. Le coge apego a quien\nlo críe desde cachorro, cual Pokémon Perrito."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Sus colas y pelaje son preciosos. A medida que\ncrece, las colas se dividen y forman otras\nnuevas."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Sus colas y pelaje son preciosos. A medida que\ncrece, las colas se dividen y forman otras\nnuevas."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "De pequeño, tiene seis colas de gran belleza.\nA medida que crece, le van saliendo más."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Su pelaje se va volviendo más suave, lustroso\ny bello a medida que le crecen las seis colas.\nAl abrazarlo, emana una ligera calidez."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Vulpix",
+    "genus": "Pokémon Volpe",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Alla nascita ha solo una coda, che con il passare\ndel tempo sviluppa diverse diramazioni."
+      },
+      {
+        "game": "xy-y",
+        "text": "Quando è giovane ha sei meravigliose code, che si\nmoltiplicano durante la sua crescita."
+      },
+      {
+        "game": "oras-or",
+        "text": "Al momento della nascita Vulpix ha una sola coda bianca.\nSe il Pokémon riceve molto amore dal proprio Allenatore\nla coda si divide in sei diramazioni che poi si arricciano\nelegantemente."
+      },
+      {
+        "game": "oras-as",
+        "text": "All’interno del corpo di Vulpix brucia una fiamma inestinguibile.\nDi giorno, quando sale la temperatura, questo Pokémon\nemette fiamme dalla bocca per evitare il surriscaldamento\ndel proprio corpo."
+      },
+      {
+        "game": "sm-s",
+        "text": "È molto amato per il suo manto e le sue code.\nMan mano che cresce, la sua coda sviluppa\ndiverse diramazioni."
+      },
+      {
+        "game": "sm-m",
+        "text": "Emette dalla bocca fiamme simili a fuochi fatui,\ne per questo motivo a volte viene preso\nper un fantasma."
+      },
+      {
+        "game": "usum-us",
+        "text": "Le sue code lo rendono un Pokémon molto\namato. Vanno spazzolate con cura per\nevitare che si riempiano subito di nodi."
+      },
+      {
+        "game": "usum-um",
+        "text": "Crea palle infuocate che usa con maestria per\ncatturare le prede. Se allenato fin da cucciolo,\nsi affeziona come un Pokémon Cagnolino."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Il suo manto e le sue code sono meravigliosi.\nCrescendo, la sua coda sviluppa diverse\ndiramazioni."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Il suo manto e le sue code sono meravigliosi.\nCrescendo, la sua coda sviluppa diverse\ndiramazioni."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Quando è giovane ha sei meravigliose code,\nche si moltiplicano durante la sua crescita."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Man mano che cresce, le sue sei code diventano\nsempre più belle. La pelliccia di cui sono\nricoperte è calda al tatto."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Vulpix",
+    "genus": "Fox Pokémon",
+    "flavorText": [
+      {
+        "game": "rb-r",
+        "text": "At the time of\nbirth, it has\njust one tail.\fThe tail splits\nfrom its tip as\nit grows older."
+      },
+      {
+        "game": "rb-b",
+        "text": "At the time of\nbirth, it has\njust one tail.\fThe tail splits\nfrom its tip as\nit grows older."
+      },
+      {
+        "game": "y",
+        "text": "Both its fur and\nits tails are\nbeautiful. As it\fgrows, the tails\nsplit and form\nmore tails."
+      },
+      {
+        "game": "gs-g",
+        "text": "As it develops, \nits single white\ntail gains color\fand splits into\nsix. It is quite\nwarm and cuddly."
+      },
+      {
+        "game": "gs-s",
+        "text": "If it is attacked\nby an enemy that\nis stronger than\fitself, it feigns\ninjury to fool the\nenemy and escapes."
+      },
+      {
+        "game": "c",
+        "text": "As its body grows\nlarger, its six\nwarm tails become\fmore beautiful,\nwith a more luxur­\nious coat of fur."
+      },
+      {
+        "game": "rs-r",
+        "text": "At the time of its birth, VULPIX has one\nwhite tail. The tail separates into six\nif this POKéMON receives plenty of love\ffrom its TRAINER.\nThe six tails become magnificently\ncurled."
+      },
+      {
+        "game": "rs-s",
+        "text": "Inside VULPIX’s body burns a flame that\nnever goes out. During the daytime,\nwhen the temperatures rise, this\fPOKéMON releases flames from its mouth\nto prevent its body from growing too\nhot."
+      },
+      {
+        "game": "e",
+        "text": "It can freely control fire, making fiery\norbs fly like will-o’-the-wisps. Just\nbefore evolution, its six tails grow hot \nas if on fire."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "While young, it has six gorgeous tails.\nWhen it grows, several new tails are\nsprouted."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "When it is born, it has just one snow-\nwhite tail. The tail splits from its tip as\nit grows older."
+      },
+      {
+        "game": "dp-d",
+        "text": "It controls balls of fire. As it\ngrows, its six tails split from\ntheir tips to make more tails."
+      },
+      {
+        "game": "dp-p",
+        "text": "It controls balls of fire. As it\ngrows, its six tails split from\ntheir tips to make more tails."
+      },
+      {
+        "game": "pt",
+        "text": "It controls balls of fire. As it\ngrows, its six tails split from\ntheir tips to make more tails."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "As it develops, its single white\ntail gains color and splits into six.\nIt is quite warm and cuddly."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "If it is attacked by an enemy that\nis stronger than itself, it feigns\ninjury to fool the enemy and escapes."
+      },
+      {
+        "game": "bw-b",
+        "text": "It controls balls of fire. As it\ngrows, its six tails split from\ntheir tips to make more tails."
+      },
+      {
+        "game": "bw-w",
+        "text": "It controls balls of fire. As it\ngrows, its six tails split from\ntheir tips to make more tails."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "As each tail grows, its fur becomes\nmore lustrous. When held, it feels\nslightly warm."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "As each tail grows, its fur becomes\nmore lustrous. When held, it feels\nslightly warm."
+      },
+      {
+        "game": "xy-x",
+        "text": "When it is born, it has just one snow-white tail.\nThe tail splits from its tip as it grows older."
+      },
+      {
+        "game": "xy-y",
+        "text": "While young, it has six gorgeous tails. When it\ngrows, several new tails are sprouted."
+      },
+      {
+        "game": "oras-or",
+        "text": "At the time of its birth, Vulpix has one white tail. The tail\nseparates into six if this Pokémon receives plenty of love\nfrom its Trainer. The six tails become magnificently curled."
+      },
+      {
+        "game": "oras-as",
+        "text": "Inside Vulpix’s body burns a flame that never goes out.\nDuring the daytime, when the temperatures rise, this\nPokémon releases flames from its mouth to prevent its\nbody from growing too hot."
+      },
+      {
+        "game": "sm-s",
+        "text": "Its beautiful fur and tails have made it very\npopular. As it grows, its tails split to form\nmore tails."
+      },
+      {
+        "game": "sm-m",
+        "text": "From its mouth spew flames that seem to\nresemble the spirits of the deceased. Some\npeople mistakenly think this fire is a ghost."
+      },
+      {
+        "game": "usum-us",
+        "text": "Its beautiful tails have made it very popular.\nHowever, if it’s not brushed diligently, it will\nbe a mass of tangles before you know it."
+      },
+      {
+        "game": "usum-um",
+        "text": "It manipulates balls of fire to catch its prey.\nIf you raise one from when it’s young, it will\ngrow close to you like a puppy Pokémon."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Both its fur and its tails are beautiful.\nAs it grows, the tails split and form more tails."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Both its fur and its tails are beautiful.\nAs it grows, the tails split and form more tails."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "While young, it has six gorgeous tails. When it\ngrows, several new tails are sprouted."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "As each tail grows, its fur becomes more lustrous.\nWhen held, it feels slightly warm."
+      },
+      {
+        "game": "la",
+        "text": "In its belly burns a fire, which Vulpix spits out in the form of\nfireballs. When young, this Pokémon has but one white tail.\nAs the Pokémon matures, this single tail splits into six."
+      }
+    ]
+  },
+  "chs": {
+    "name": "六尾",
+    "genus": "狐狸宝可梦",
+    "flavorText": [
+      {
+        "game": "usum-um",
+        "text": "会操纵火球捕捉猎物。\n如果从小就开始培育的话，\n它就会像小狗宝可梦那样亲近人哦。"
+      },
+      {
+        "game": "sm-s",
+        "text": "因为毛色和尾巴非常漂亮，\n所以很有人气。伴随着成长，\n尾巴会分开，长得越来越多。"
+      },
+      {
+        "game": "sm-m",
+        "text": "因为会从口中喷出好像\n人的灵魂一样的火焰，\n所以也有人把它错看成妖怪。"
+      },
+      {
+        "game": "usum-us",
+        "text": "因漂亮的尾巴而深受人们喜爱。\n但是，如果不经常给其梳理毛发，\n很快就会变得全是毛球。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "皮毛和尾巴都非常美丽。\n随着自身的成长，尾巴的末端\n会渐渐分开，数量也会增加。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "皮毛和尾巴都非常美丽。\n随着自身的成长，尾巴的末端\n会渐渐分开，数量也会增加。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "虽然还是幼崽，\n却有着６根美丽的尾巴。\n长大后，尾巴会变得更多。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "随着身体的成长，\n６根尾巴的毛发也会变得更漂亮。\n紧紧抱着它时能感到微微的温暖。"
+      }
+    ]
+  }
+}

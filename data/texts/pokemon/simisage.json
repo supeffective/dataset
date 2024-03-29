@@ -1,0 +1,195 @@
+{
+  "jap": {
+    "name": "ヤナッキー",
+    "genus": "とげざるポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "トゲの　たくさん　ついた　しっぽを\nあいてに　たたきつけて　こうげき。\nきしょうの　はげしい　ポケモン。"
+      },
+      {
+        "game": "xy-y",
+        "text": "きしょうが　はげしく　トゲの　ついた\nしっぽを　ふりまわして　たたかう。\nあたまの　はっぱは　とても　にがい。"
+      },
+      {
+        "game": "oras-or",
+        "text": "トゲの　たくさん　ついた　しっぽを\nあいてに　たたきつけて　こうげき。\nきしょうの　はげしい　ポケモン。"
+      },
+      {
+        "game": "oras-as",
+        "text": "きしょうが　はげしく　トゲの　ついた\nしっぽを　ふりまわして　たたかう。\nあたまの　はっぱは　とても　にがい。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Yanakkie",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "야나키",
+    "genus": "가시원숭이포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "가시가 잔뜩 박힌 꼬리를\n상대에게 힘껏 쳐서 공격한다.\n기질이 격한 포켓몬이다."
+      },
+      {
+        "game": "xy-y",
+        "text": "기질이 격하여 가시가 박힌\n꼬리를 휘두르며 싸운다.\n머리의 잎사귀는 매우 쓰다."
+      },
+      {
+        "game": "oras-or",
+        "text": "가시가 잔뜩 박힌 꼬리를\n상대에게 힘껏 쳐서 공격한다.\n기질이 격한 포켓몬이다."
+      },
+      {
+        "game": "oras-as",
+        "text": "기질이 격하여 가시가 박힌\n꼬리를 휘두르며 싸운다.\n머리의 잎사귀는 매우 쓰다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "花椰猿",
+    "genus": "刺猴寶可夢",
+    "flavorText": []
+  },
+  "fra": {
+    "name": "Feuiloutan",
+    "genus": "Pokémon Singépine",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Il a un tempérament violent et se\nbat avec sa queue pleine d’épines.\nLa feuille sur sa tête est très amère."
+      },
+      {
+        "game": "bw-w",
+        "text": "Il frappe ses ennemis avec sa queue\ncouverte de pointes. Un Pokémon au\ncaractère agressif."
+      },
+      {
+        "game": "xy-x",
+        "text": "Il frappe ses ennemis avec sa queue couverte de\npointes. Un Pokémon au caractère agressif."
+      },
+      {
+        "game": "xy-y",
+        "text": "Il a un tempérament violent et se bat avec sa queue\npleine d’épines. La feuille sur sa tête est très amère."
+      },
+      {
+        "game": "oras-or",
+        "text": "Il frappe ses ennemis avec sa queue couverte de pointes.\nUn Pokémon au caractère agressif."
+      },
+      {
+        "game": "oras-as",
+        "text": "Il a un tempérament violent et se bat avec sa queue\npleine d’épines. La feuille sur sa tête est très amère."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Vegichita",
+    "genus": "Stachelaffe",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Wer sich mit diesem temperamentvollen Pokémon\nanlegt, bekommt seinen mit Dornen bestückten\nSchweif zu spüren."
+      },
+      {
+        "game": "xy-y",
+        "text": "Ein hitziger Geselle, der im Kampf seinen dornigen\nSchweif umherschwingt. Auf seinem Kopf wachsen\nbittere Kräuter."
+      },
+      {
+        "game": "oras-or",
+        "text": "Wer sich mit diesem temperamentvollen Pokémon anlegt,\nbekommt seinen mit Dornen bestückten Schweif zu spüren."
+      },
+      {
+        "game": "oras-as",
+        "text": "Ein hitziger Geselle, der im Kampf seinen dornigen Schweif\numherschwingt. Auf seinem Kopf wachsen bittere Kräuter."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Simisage",
+    "genus": "Pokémon Mono Pincho",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Ataca estampando las espinas de su cola en el\nenemigo. Es un Pokémon con mucho temperamento."
+      },
+      {
+        "game": "xy-y",
+        "text": "Pokémon muy temperamental que lucha con su cola\nrevestida de púas. Las hojas de su cabeza están muy\namargas."
+      },
+      {
+        "game": "oras-or",
+        "text": "Ataca estampando las espinas de su cola en el enemigo. Es\nun Pokémon con mucho temperamento."
+      },
+      {
+        "game": "oras-as",
+        "text": "Pokémon muy temperamental que lucha con su cola revestida\nde púas. Las hojas de su cabeza están muy amargas."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Simisage",
+    "genus": "Pokémon Spinpanzé",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Attacca il nemico colpendolo con la coda piena di\naculei. Pokémon dal carattere impetuoso."
+      },
+      {
+        "game": "xy-y",
+        "text": "Di carattere impetuoso, lotta roteando la coda\ndotata di aculei. Le foglie che ha sul capo sono\nmolto amare."
+      },
+      {
+        "game": "oras-or",
+        "text": "Attacca il nemico colpendolo con la coda piena di aculei.\nPokémon dal carattere impetuoso."
+      },
+      {
+        "game": "oras-as",
+        "text": "Di carattere impetuoso, lotta roteando la coda dotata di aculei.\nLe foglie che ha sul capo sono molto amare."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Simisage",
+    "genus": "Thorn Monkey Pokémon",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Ill tempered, it fights by swinging its\nbarbed tail around wildly. The leaf\ngrowing on its head is very bitter."
+      },
+      {
+        "game": "bw-w",
+        "text": "It attacks enemies with strikes\nof its thorn-covered tail.\nThis Pokémon is wild tempered."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "It strikes its enemies with\na thorn-covered tail.\nThe leaf on its head is bitter."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "It strikes its enemies with\na thorn-covered tail.\nThe leaf on its head is bitter."
+      },
+      {
+        "game": "xy-x",
+        "text": "It attacks enemies with strikes of its thorn-covered\ntail. This Pokémon is wild tempered."
+      },
+      {
+        "game": "xy-y",
+        "text": "Ill tempered, it fights by swinging its barbed tail\naround wildly. The leaf growing on its head is\nvery bitter."
+      },
+      {
+        "game": "oras-or",
+        "text": "It attacks enemies with strikes of its thorn-covered\ntail. This Pokémon is wild tempered."
+      },
+      {
+        "game": "oras-as",
+        "text": "Ill tempered, it fights by swinging its barbed tail\naround wildly. The leaf growing on its head is\nvery bitter."
+      }
+    ]
+  },
+  "chs": {
+    "name": "花椰猿",
+    "genus": "刺猴宝可梦",
+    "flavorText": []
+  }
+}

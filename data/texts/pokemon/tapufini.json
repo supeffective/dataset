@@ -1,0 +1,205 @@
+{
+  "jap": {
+    "name": "カプ・レヒレ",
+    "genus": "とちがみポケモン",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "ふかいきりで　てきを　まどわせ\nじめつさせる　おそろしさを　もつ。\nかいりゅうが　エネルギーの　みなもと。"
+      },
+      {
+        "game": "sm-m",
+        "text": "みずを　あやつる　ポニの　まもりがみ。\nけがれを　はらう　きよらかな　みずを\nうみだすと　つたえられている。"
+      },
+      {
+        "game": "usum-us",
+        "text": "ふかい　きりの　おくに　すんでいると\nおそれ　うやまわれてきた。　みずを\nあやつる　ポニの　まもりがみだ。"
+      },
+      {
+        "game": "usum-um",
+        "text": "まもりがみと　よばれるが　むやみに\nちかづく　あいてには　おそろしい\nわざわいを　もたらすこともある。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Rehire",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "카푸느지느",
+    "genus": "토속신포켓몬",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "짙은 안개로 적을 혼란시켜\n자멸하게 만드는 무서움을 지녔다.\n해류가 에너지의 근원이다."
+      },
+      {
+        "game": "sm-m",
+        "text": "물을 조종하는 포니의 수호신.\n부정을 없애는 깨끗한 물을\n만들어낸다고 전해져 온다."
+      },
+      {
+        "game": "usum-us",
+        "text": "짙은 안개 속에 살고 있다고\n두려움과 존경을 받아 왔다.\n물을 조종하는 포니의 수호신이다."
+      },
+      {
+        "game": "usum-um",
+        "text": "수호신으로 불리지만 무턱대고\n다가오는 상대에게는 무서운\n재앙을 가져다주는 일도 있다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "卡璞・鰭鰭",
+    "genus": "土地神寶可夢",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "擁有利用濃霧迷惑敵人，\n讓其自我毀滅的可怕能力。\n海流是其能量的來源。"
+      },
+      {
+        "game": "sm-m",
+        "text": "操縱水的波尼守護神。\n傳說會生出能夠除去污穢的清淨之水。"
+      },
+      {
+        "game": "usum-us",
+        "text": "棲息在濃霧的深處，\n受到了人們的敬畏。\n能夠操縱水，是波尼的守護神。"
+      },
+      {
+        "game": "usum-um",
+        "text": "被稱為守護神，但有時\n會對隨便靠近自己的對手\n帶來恐怖的災難。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Tokopisco",
+    "genus": "Pokémon Tutélaire",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "Il confond ses ennemis grâce au brouillard\net les pousse à s’en prendre à eux-mêmes.\nIl puise son énergie dans les courants marins."
+      },
+      {
+        "game": "sm-m",
+        "text": "Gardien de Poni, il a le pouvoir de contrôler l’eau.\nOn raconte qu’il peut produire une eau limpide\nqui nettoie toutes les impuretés."
+      },
+      {
+        "game": "usum-us",
+        "text": "Gardien de Poni et maître de l’eau, il vit au plus\nprofond de la brume. C’est notamment pour\ncette raison qu’il est à la fois craint et vénéré."
+      },
+      {
+        "game": "usum-um",
+        "text": "Il ne faut pas se laisser berner par son statut\nde divinité protectrice : il lui arrive de mettre en\npièces ceux qui osent s’approcher de trop près."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Kapu-Kime",
+    "genus": "Schutzpatron-Pokémon",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "Es führt Gegner mit dichtem Nebel in die Irre\nund schickt sie so in ihren Untergang. Seine\nEnergie gewinnt es aus der Meeresströmung."
+      },
+      {
+        "game": "sm-m",
+        "text": "Der Schutzpatron von Poni. Dieses Pokémon\nkontrolliert das Wasser. Man sagt, es könne\nschmutziges in klares Wasser verwandeln."
+      },
+      {
+        "game": "usum-us",
+        "text": "Als Schutzpatron von Poni kontrolliert es das\nWasser und lauert im dichten Nebel. Es wird\ngleichermaßen gefürchtet wie respektiert."
+      },
+      {
+        "game": "usum-um",
+        "text": "Man bezeichnet es zwar als Schutzpatron, doch\nall jene, die sich ihm unbedacht nähern, werden\nvon furchtbaren Katastrophen heimgesucht."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Tapu Fini",
+    "genus": "Pokémon Dios Nativo",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "Desconcierta al enemigo provocando una espesa\nniebla que se convierte en su perdición. Las\ncorrientes marinas son su fuente de energía."
+      },
+      {
+        "game": "sm-m",
+        "text": "Es el espíritu guardián de Poni y tiene control\nsobre el agua. Dicen que puede purificar\ncualquier impureza con su agua límpida."
+      },
+      {
+        "game": "usum-us",
+        "text": "El espíritu guardián de Poni, temido y venerado\na la vez. Mora en una espesa niebla y manipula\nel agua a su antojo."
+      },
+      {
+        "game": "usum-um",
+        "text": "A pesar de ser un espíritu guardián, trae\ndesgracias a aquellos que se le acercan sin la\ndebida cortesía."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Tapu Fini",
+    "genus": "Pokémon Nume Locale",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "Avvolge il nemico in una fitta nebbia che\nlo induce ad attaccare se stesso. Le correnti\nmarine sono la fonte della sua energia."
+      },
+      {
+        "game": "sm-m",
+        "text": "Protettore di Poni, ha il potere di controllare\ni flutti. Si narra che possa generare acqua\nlimpidissima che neutralizza qualsiasi impurità."
+      },
+      {
+        "game": "usum-us",
+        "text": "Protettore di Poni, ha il potere di controllare i\nflutti. Vive in una fitta nebbia, venerato e temuto\nallo stesso tempo."
+      },
+      {
+        "game": "usum-um",
+        "text": "È considerato un Pokémon protettore, ma a volte\narreca sciagure tremende a chi gli si avvicina in\nmodo avventato."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Tapu Fini",
+    "genus": "Land Spirit Pokémon",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "The dense fog it creates brings the downfall\nand destruction of its confused enemies.\nOcean currents are the source of its energy."
+      },
+      {
+        "game": "sm-m",
+        "text": "The guardian deity of Poni, it can control water.\nPeople say it can create pure water that will\nwash away any uncleanness."
+      },
+      {
+        "game": "usum-us",
+        "text": "This guardian deity of Poni Island manipulates\nwater. Because it lives deep within a thick fog,\nit came to be both feared and revered."
+      },
+      {
+        "game": "usum-um",
+        "text": "Although it’s called a guardian deity, terrible\ncalamities sometimes befall those who\nrecklessly approach Tapu Fini."
+      }
+    ]
+  },
+  "chs": {
+    "name": "卡璞・鳍鳍",
+    "genus": "土地神宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "拥有利用浓雾迷惑敌人，\n让其自我毁灭那种程度的可怕。\n海流是其能量的来源。"
+      },
+      {
+        "game": "sm-m",
+        "text": "操纵水的波尼的守护神。\n传说会生出去除污秽的清澈之水。"
+      },
+      {
+        "game": "usum-us",
+        "text": "栖息在浓雾深处而被人们敬畏着。\n是操纵着水的波尼的守护神。"
+      },
+      {
+        "game": "usum-um",
+        "text": "被称为守护神，但有时会给\n随便靠近的对方带去恐怖的灾难。"
+      }
+    ]
+  }
+}

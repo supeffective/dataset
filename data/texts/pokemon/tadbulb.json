@@ -1,0 +1,61 @@
+{
+  "jap": {
+    "name": "ズピカ",
+    "genus": "でんきおたまポケモン",
+    "flavorText": []
+  },
+  "jap_ro": {
+    "name": "Zupika",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "빈나두",
+    "genus": "",
+    "flavorText": []
+  },
+  "cht": {
+    "name": "光蚪仔",
+    "genus": "電蝌蚪寶可夢",
+    "flavorText": []
+  },
+  "fra": {
+    "name": "Têtampoule",
+    "genus": "",
+    "flavorText": []
+  },
+  "deu": {
+    "name": "Blipp",
+    "genus": "Stromquappe",
+    "flavorText": []
+  },
+  "esp": {
+    "name": "Tadbulb",
+    "genus": "",
+    "flavorText": []
+  },
+  "ita": {
+    "name": "Tadbulb",
+    "genus": "",
+    "flavorText": []
+  },
+  "eng": {
+    "name": "Tadbulb",
+    "genus": "EleTadpole Pokémon",
+    "flavorText": [
+      {
+        "game": "sv-s",
+        "text": "Tadbulb shakes its tail to generate electricity. If it senses danger, it will make its head blink on and off to alert its allies."
+      },
+      {
+        "game": "sv-v",
+        "text": "It floats using the electricity stored in its body. When thunderclouds are around, Tadbulb will float higher off the ground."
+      }
+    ]
+  },
+  "chs": {
+    "name": "光蚪仔",
+    "genus": "电蝌蚪宝可梦",
+    "flavorText": []
+  }
+}

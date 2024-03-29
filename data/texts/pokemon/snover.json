@@ -1,0 +1,293 @@
+{
+  "jap": {
+    "name": "ユキカブリ",
+    "genus": "じゅひょうポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "さむい　きせつは　やまの　ふもとまで\nおりてくるが　はるに　なると　ゆきが\nのこる　さんちょうに　もどっていく。"
+      },
+      {
+        "game": "xy-y",
+        "text": "はるになると　アイスキャンディーの\nような　しょっかんの　きのみが\nおなかの　まわりに　なる。"
+      },
+      {
+        "game": "oras-or",
+        "text": "さむい　きせつは　やまの　ふもとまで\nおりてくるが　はるに　なると　ゆきが\nのこる　さんちょうに　もどっていく。"
+      },
+      {
+        "game": "oras-as",
+        "text": "はるになると　アイスキャンディーの\nような　しょっかんの　きのみが\nおなかの　まわりに　なる。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "ゆきぶかい　やまにくらす。　ゆきに\nあしを　つきさして　すいぶんと\nれいきを　きゅうしゅう　するぞ。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "おなかに　みのる　アイス　みたいな\nきのみは　ガラルに　くらす\nダルマッカたちの　だいこうぶつ。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Yukikaburi",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "눈쓰개",
+    "genus": "얼음나무포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "추운 계절에는 산기슭까지\n내려오지만 봄이 되면 눈이\n남아 있는 산 정상으로 돌아간다."
+      },
+      {
+        "game": "xy-y",
+        "text": "봄이 되면 아이스캔디와\n같은 촉감의 나무열매가\n배의 주위에 열린다."
+      },
+      {
+        "game": "oras-or",
+        "text": "추운 계절에는 산기슭까지\n내려오지만 봄이 되면 눈이\n남아 있는 산 정상으로 돌아간다."
+      },
+      {
+        "game": "oras-as",
+        "text": "봄이 되면 아이스캔디와\n같은 촉감의 나무열매가\n배의 주위에 열린다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "눈이 많이 쌓인 산에 산다.\n눈에 다리를 찔러 넣어\n수분과 냉기를 흡수한다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "배에 열리는 아이스크림 같은\n나무열매는 가라르에 사는\n달막화들이 매우 좋아한다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "雪笠怪",
+    "genus": "樹冰寶可夢",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "生活在積雪深厚的山上。\n會透過把腳踩進積雪中\n來吸收水分和冷氣。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "雪笠怪肚子上結出來的\n樹果口感彷如冰棒，\n是伽勒爾的火紅不倒翁們的最愛。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Blizzi",
+    "genus": "Pokémon Arbregelé",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Curieux de rencontrer des gens, ils\nse rassemblent autour des traces\nde pas trouvées dans la montagne."
+      },
+      {
+        "game": "bw-w",
+        "text": "Curieux de rencontrer des gens, ils\nse rassemblent autour des traces\nde pas trouvées dans la montagne."
+      },
+      {
+        "game": "xy-x",
+        "text": "Il s’aventure jusqu’au pied des montagnes en hiver,\nmais se réfugie sur les pics neigeux au printemps."
+      },
+      {
+        "game": "xy-y",
+        "text": "Au printemps, il fait pousser des Baies pareilles à\ndes crèmes glacées autour de son ventre."
+      },
+      {
+        "game": "oras-or",
+        "text": "Il s’aventure jusqu’au pied des montagnes en hiver,\nmais se réfugie sur les pics neigeux au printemps."
+      },
+      {
+        "game": "oras-as",
+        "text": "Au printemps, il fait pousser des Baies pareilles à des crèmes\nglacées autour de son ventre."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Il plante ses pieds dans la neige des montagnes\noù il vit pour absorber l’air froid et l’humidité."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Les Baies en forme de crèmes glacées qui\npoussent sur son ventre sont le mets favori\ndes Darumarond vivant à Galar."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Shnebedeck",
+    "genus": "Frostbaum-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Im Winter steigt es bis zum Fuß der Berge herab.\nIm Frühjahr kehrt es auf den Gipfel zurück."
+      },
+      {
+        "game": "xy-y",
+        "text": "Im Frühjahr wachsen Beeren, die wie gefrorene\nSüßigkeiten aussehen, um seinen Bauch herum."
+      },
+      {
+        "game": "oras-or",
+        "text": "Im Winter steigt es bis zum Fuß der Berge herab.\nIm Frühjahr kehrt es auf den Gipfel zurück."
+      },
+      {
+        "game": "oras-as",
+        "text": "Im Frühjahr wachsen Beeren, die wie gefrorene Süßigkeiten\naussehen, um seinen Bauch herum."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Es lebt auf verschneiten Bergen und steckt seine\nFüße in den Schnee, um über sie Wasser und\nKälte zu absorbieren."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Die an Speiseeis erinnernden Beeren, die an\nseinem Bauch wachsen, sind bei den Flampion\nGalars ein sehr beliebter Snack."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Snover",
+    "genus": "Pokémon Árbol Nieve",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "En las estaciones frías baja al pie de la montaña, pero\nregresa a las cimas nevadas en primavera."
+      },
+      {
+        "game": "xy-y",
+        "text": "En primavera, le crecen bayas con apariencia de\nhelado alrededor de la panza."
+      },
+      {
+        "game": "oras-or",
+        "text": "En las estaciones frías baja al pie de la montaña, pero regresa\na las cimas nevadas en primavera."
+      },
+      {
+        "game": "oras-as",
+        "text": "En primavera, le crecen bayas con apariencia de helado\nalrededor de la panza."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Viven en montañas perennemente nevadas.\nHunden las piernas en la nieve y absorben tanto\nhumedad como aire frío."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Las bayas con aspecto de helado que le crecen\nalrededor de la barriga son la comida favorita\nde los Darumaka que habitan en Galar."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Snover",
+    "genus": "Pokémon Albergelo",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "In inverno scende a valle, ma in primavera se ne\ntorna sulle cime montuose dove c’è ancora neve."
+      },
+      {
+        "game": "xy-y",
+        "text": "In primavera, attorno al ventre gli crescono delle\nbacche simili a dolci ghiaccioli."
+      },
+      {
+        "game": "oras-or",
+        "text": "In inverno scende a valle, ma in primavera se ne torna sulle\ncime montuose dove c’è ancora neve."
+      },
+      {
+        "game": "oras-as",
+        "text": "In primavera, attorno al ventre gli crescono delle bacche\nsimili a dolci ghiaccioli."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Vive sulle montagne innevate. Infila i piedi\nnella neve e assorbe acqua e freddo a volontà."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Le bacche simili a ghiaccioli che gli crescono\nattorno al ventre sono il cibo preferito dei\nDarumaka che vivono a Galar."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Snover",
+    "genus": "Frost Tree Pokémon",
+    "flavorText": [
+      {
+        "game": "dp-d",
+        "text": "It lives on snowy mountains.\nHaving had little contact with\nhumans, it is boldly inquisitive."
+      },
+      {
+        "game": "dp-p",
+        "text": "In the spring, it grows berries\nwith the texture of frozen treats\naround its belly."
+      },
+      {
+        "game": "pt",
+        "text": "Seemingly curious about people,\nthey gather around footsteps they\nfind on snowy mountains."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "During cold seasons, it migrates to the\nmountain’s lower reaches. It returns to\nthe snow-covered summit in the spring."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "During cold seasons, it migrates to the\nmountain’s lower reaches. It returns to\nthe snow-covered summit in the spring."
+      },
+      {
+        "game": "bw-b",
+        "text": "Seemingly curious about people,\nthey gather around footsteps they\nfind on snowy mountains."
+      },
+      {
+        "game": "bw-w",
+        "text": "Seemingly curious about people,\nthey gather around footsteps they\nfind on snowy mountains."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "Seemingly curious about people,\nthey gather around footsteps they\nfind on snowy mountains."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "Seemingly curious about people,\nthey gather around footsteps they\nfind on snowy mountains."
+      },
+      {
+        "game": "xy-x",
+        "text": "During cold seasons, it migrates to the mountain’s\nlower reaches. It returns to the snow-covered\nsummit in the spring."
+      },
+      {
+        "game": "xy-y",
+        "text": "In the spring, it grows berries with the texture of\nfrozen treats around its belly."
+      },
+      {
+        "game": "oras-or",
+        "text": "During cold seasons, it migrates to the mountain’s\nlower reaches. It returns to the snow-covered\nsummit in the spring."
+      },
+      {
+        "game": "oras-as",
+        "text": "In the spring, it grows berries with the texture of\nfrozen treats around its belly."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "It lives on snowy mountains. It sinks its legs into\nthe snow to absorb water and keep its own\ntemperature down."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "The berries that grow around its belly are like\nice pops. Galarian Darumaka absolutely love\nthese berries."
+      },
+      {
+        "game": "la",
+        "text": "One is likely to encounter this Pokémon while out in the snow.\nThere are stories of Snover appearing in human settlements but\ndoing no harm—rather, they bond with the children."
+      }
+    ]
+  },
+  "chs": {
+    "name": "雪笠怪",
+    "genus": "树冰宝可梦",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "生活在积雪深厚的山上。\n会通过把脚踩进积雪中\n来吸收水分和冷气。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "雪笠怪肚子上结出来的\n口感好似冰棍的树果\n是伽勒尔的火红不倒翁们的最爱。"
+      }
+    ]
+  }
+}

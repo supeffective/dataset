@@ -1,0 +1,247 @@
+{
+  "jap": {
+    "name": "オタチ",
+    "genus": "みはりポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "みはりやくは　するどく　ないたり\nしっぽで　じめんを　たたいたりして\nなかまに　きけんを　しらせる。"
+      },
+      {
+        "game": "xy-y",
+        "text": "とおくまで　みれるように　しっぽを\nつかってたつ。てきを　みつけると\nおおごえで　なかまに　しらせる。"
+      },
+      {
+        "game": "oras-or",
+        "text": "ねむる　ときには　こうたいで　みはりをする。\nきけんを　さっちすると　なかまを　おこすのだ。\nむれから　はぐれると　こわくて　ねむれなくなる。"
+      },
+      {
+        "game": "oras-as",
+        "text": "ねむる　ときには　こうたいで　みはりをする。\nきけんを　さっちすると　なかまを　おこすのだ。\nむれから　はぐれると　こわくて　ねむれなくなる。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Otachi",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "꼬리선",
+    "genus": "망보기포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "망보기 역은 날카롭게 울거나\n꼬리로 땅을 쳐서\n동료에게 위험을 알린다."
+      },
+      {
+        "game": "xy-y",
+        "text": "먼 곳까지 볼 수 있도록 꼬리를\n사용해서 선다. 상대를 발견하면\n큰 소리로 동료에게 알린다."
+      },
+      {
+        "game": "oras-or",
+        "text": "잠잘 때는 교대로 망을 본다.\n위험을 탐지하면 동료를 깨운다.\n무리에서 떨어지면 무서워서 자지 못한다."
+      },
+      {
+        "game": "oras-as",
+        "text": "잠잘 때는 교대로 망을 본다.\n위험을 탐지하면 동료를 깨운다.\n무리에서 떨어지면 무서워서 자지 못한다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "尾立",
+    "genus": "放哨寶可夢",
+    "flavorText": []
+  },
+  "fra": {
+    "name": "Fouinette",
+    "genus": "Pokémon Espion",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Ce Pokémon très nerveux\nprend appui sur sa queue pour\nobserver ses alentours."
+      },
+      {
+        "game": "bw-w",
+        "text": "Ce Pokémon très nerveux\nprend appui sur sa queue pour\nobserver ses alentours."
+      },
+      {
+        "game": "xy-x",
+        "text": "S’il fait le guet, il prévient les autres d’un danger\nen criant et en frappant le sol de sa queue."
+      },
+      {
+        "game": "xy-y",
+        "text": "Il se tient dressé sur sa queue pour voir les ennemis\narriver de loin. À ce moment, il avertit ses amis."
+      },
+      {
+        "game": "oras-or",
+        "text": "Lorsqu’un Fouinette dort, un autre monte la garde.\nLa sentinelle réveille les autres au moindre signe de danger.\nSi un de ces Pokémon est séparé de sa meute, il est incapable\nde dormir, car il a peur."
+      },
+      {
+        "game": "oras-as",
+        "text": "Lorsqu’un Fouinette dort, un autre monte la garde.\nLa sentinelle réveille les autres au moindre signe de danger.\nSi un de ces Pokémon est séparé de sa meute, il est incapable\nde dormir, car il a peur."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Wiesor",
+    "genus": "Späher",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Wenn es Wache hat, warnt es seine Artgenossen,\nindem es schreit und mit dem Schwanz auf den\nBoden schlägt."
+      },
+      {
+        "game": "xy-y",
+        "text": "Es stellt sich auf den Schweif, um weiter zu blicken.\nErspäht es einen Feind, schreit es laut auf."
+      },
+      {
+        "game": "oras-or",
+        "text": "Wenn Wiesor schläft, hält immer jemand Wache. Beim ersten\nAnflug von Gefahr weckt die Wache die anderen auf. Wenn\ndieses Pokémon von seinen Artgenossen getrennt wird,\nkann es vor Angst nicht mehr schlafen."
+      },
+      {
+        "game": "oras-as",
+        "text": "Wenn Wiesor schläft, hält immer jemand Wache. Beim ersten\nAnflug von Gefahr weckt die Wache die anderen auf. Wenn\ndieses Pokémon von seinen Artgenossen getrennt wird,\nkann es vor Angst nicht mehr schlafen."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Sentret",
+    "genus": "Pokémon Explorador",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Cuando hace de centinela, avisa del peligro a los\ndemás, chillando y dando golpes al suelo con la cola."
+      },
+      {
+        "game": "xy-y",
+        "text": "Se apoya sobre su cola para ver a mucha distancia.\nSi divisa a un enemigo, dará la alarma a gritos."
+      },
+      {
+        "game": "oras-or",
+        "text": "Sentret no duerme a menos que otro haga guardia. El que\nhace de centinela lo despertará al mínimo signo de peligro.\nCuando este Pokémon se separa de su manada, es incapaz\nde echarse a dormir, presa del miedo."
+      },
+      {
+        "game": "oras-as",
+        "text": "Sentret no duerme a menos que otro haga guardia. El que\nhace de centinela lo despertará al mínimo signo de peligro.\nCuando este Pokémon se separa de su manada, es incapaz\nde echarse a dormir, presa del miedo."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Sentret",
+    "genus": "Pokémon Esplorante",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "La vedetta avverte i suoi compagni del pericolo\ngridando e battendo la coda sul terreno."
+      },
+      {
+        "game": "xy-y",
+        "text": "Ritto sulla coda, guarda lontano. Se nota un nemico\nlancia forti richiami per avvertire quelli della sua specie."
+      },
+      {
+        "game": "oras-or",
+        "text": "Sentret dorme soltanto se un suo simile rimane vigile.\nLa vedetta allerta gli altri al primo segnale di pericolo.\nSe viene allontanato dal branco, questo Pokémon\nnon riesce più a dormire dalla paura."
+      },
+      {
+        "game": "oras-as",
+        "text": "Sentret dorme soltanto se un suo simile rimane vigile.\nLa vedetta allerta gli altri al primo segnale di pericolo.\nSe viene allontanato dal branco, questo Pokémon\nnon riesce più a dormire dalla paura."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Sentret",
+    "genus": "Scout Pokémon",
+    "flavorText": [
+      {
+        "game": "gs-g",
+        "text": "A very cautious\nPOKéMON, it raises\nitself up using\fits tail to get a\nbetter view of its\nsurroundings."
+      },
+      {
+        "game": "gs-s",
+        "text": "It stands on its\ntail so it can see\na long way. If it\fspots an enemy, it\ncries loudly to\nwarn its kind."
+      },
+      {
+        "game": "c",
+        "text": "When acting as a\nlookout, it warns\nothers of danger\fby screeching and\nhitting the ground\nwith its tail."
+      },
+      {
+        "game": "rs-r",
+        "text": "When SENTRET sleeps, it does so while\nanother stands guard. The sentry wakes\nthe others at the first sign of danger.\fWhen this POKéMON becomes separated\nfrom its pack, it becomes incapable of\nsleep due to fear."
+      },
+      {
+        "game": "rs-s",
+        "text": "When SENTRET sleeps, it does so while\nanother stands guard. The sentry wakes\nthe others at the first sign of danger.\fWhen this POKéMON becomes separated\nfrom its pack, it becomes incapable of\nsleep due to fear."
+      },
+      {
+        "game": "e",
+        "text": "They take turns standing guard when it\nis time to sleep. The sentry awakens the\nothers if it senses danger. If one becomes\nseparated, it turns sleepless with fear."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "It stands on its tail so it can see a long\nway. If it spots an enemy, it cries loudly\nto warn its kind."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "A very cautious POKéMON, it raises itself\nup using its tail to get a better view of\nits surroundings."
+      },
+      {
+        "game": "dp-d",
+        "text": "It has a very nervous nature.\nIt stands up high on its tail so it\ncan scan wide areas."
+      },
+      {
+        "game": "dp-p",
+        "text": "It has a very nervous nature.\nIt stands up high on its tail so it\ncan scan wide areas."
+      },
+      {
+        "game": "pt",
+        "text": "It has a very nervous nature.\nIt stands up high on its tail so it\ncan scan wide areas."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "A very cautious Pokémon, it raises\nitself up using its tail to get a\nbetter view of its surroundings."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "It stands on its tail so it can see\na long way. If it spots an enemy, it\ncries loudly to warn its kind."
+      },
+      {
+        "game": "bw-b",
+        "text": "It has a very nervous nature.\nIt stands up high on its tail so it\ncan scan wide areas."
+      },
+      {
+        "game": "bw-w",
+        "text": "It has a very nervous nature.\nIt stands up high on its tail so it\ncan scan wide areas."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "It has a very nervous nature.\nIt stands up high on its tail so it\ncan scan wide areas."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "It has a very nervous nature.\nIt stands up high on its tail so it\ncan scan wide areas."
+      },
+      {
+        "game": "xy-x",
+        "text": "When acting as a lookout, it warns others of danger\nby screeching and hitting the ground with its tail."
+      },
+      {
+        "game": "xy-y",
+        "text": "It stands on its tail so it can see a long way.\nIf it spots an enemy, it cries loudly to warn its kind."
+      },
+      {
+        "game": "oras-or",
+        "text": "When Sentret sleeps, it does so while another stands guard.\nThe sentry wakes the others at the first sign of danger.\nWhen this Pokémon becomes separated from its pack,\nit becomes incapable of sleep due to fear."
+      },
+      {
+        "game": "oras-as",
+        "text": "When Sentret sleeps, it does so while another stands guard.\nThe sentry wakes the others at the first sign of danger. When\nthis Pokémon becomes separated from its pack, it becomes\nincapable of sleep due to fear."
+      }
+    ]
+  },
+  "chs": {
+    "name": "尾立",
+    "genus": "放哨宝可梦",
+    "flavorText": []
+  }
+}

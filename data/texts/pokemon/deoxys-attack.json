@@ -1,0 +1,235 @@
+{
+  "jap": {
+    "name": "デオキシス",
+    "genus": "ＤＮＡポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "いんせきに　ふちゃくしていた\nうちゅうウイルスの　ＤＮＡが\nへんいして　うまれた　ポケモン。"
+      },
+      {
+        "game": "xy-y",
+        "text": "うちゅうウィルスが　とつぜんへんいを\nおこして　ポケモンに　なった。\nオーロラの　ちかくに　あらわれる。"
+      },
+      {
+        "game": "oras-or",
+        "text": "レーザーを　あびた　うちゅうウィルスの　ＤＮＡが\nとつぜんへんいを　おこして　うまれた　ポケモン。\nむねの　すいしょうたいが　のうみそ　らしい。"
+      },
+      {
+        "game": "oras-as",
+        "text": "うちゅうウィルスから　たんじょうした　ポケモン。\nちのうが　たかく　ちょうのうりょくを　あやつる。\nむねの　すいしょうたいから　レーザーを　だす。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Deoxys",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "테오키스",
+    "genus": "DNA포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "운석에 붙어 있던\n우주 바이러스의 DNA가\n변이하여 생겨난 포켓몬이다."
+      },
+      {
+        "game": "xy-y",
+        "text": "우주 바이러스가 돌연변이를\n일으켜 포켓몬이 되었다.\n오로라 근처에 나타난다."
+      },
+      {
+        "game": "oras-or",
+        "text": "레이저를 쬔 우주 바이러스의 DNA가\n돌연변이를 일으켜 태어난 포켓몬이다.\n가슴의 수정체가 뇌인 것 같다."
+      },
+      {
+        "game": "oras-as",
+        "text": "우주 바이러스에서 태어난 포켓몬이다.\n지능이 높고 초능력을 쓸 수 있다.\n가슴의 수정체에서 레이저를 쏜다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "代歐奇希斯",
+    "genus": "ＤＮＡ寶可夢",
+    "flavorText": []
+  },
+  "fra": {
+    "name": "Deoxys",
+    "genus": "Pokémon ADN",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Il vient d’un virus extraterrestre\narrivé avec une météorite et ayant\nsubi une mutation génétique."
+      },
+      {
+        "game": "bw-w",
+        "text": "Il vient d’un virus extraterrestre\narrivé avec une météorite et ayant\nsubi une mutation génétique."
+      },
+      {
+        "game": "xy-x",
+        "text": "Il vient d’un virus extraterrestre arrivé avec une\nmétéorite et ayant subi une mutation génétique."
+      },
+      {
+        "game": "xy-y",
+        "text": "C’est un virus extraterrestre qui a muté en Pokémon.\nIl apparaît à proximité des aurores boréales."
+      },
+      {
+        "game": "oras-or",
+        "text": "L’ADN d’un virus extraterrestre entama une mutation\nnon attendue suite à une exposition à un rayon laser,\nce qui créa Deoxys. L’organe cristallin se trouvant\nsur la poitrine de ce Pokémon semble être son cerveau."
+      },
+      {
+        "game": "oras-as",
+        "text": "Deoxys était à l’origine un virus provenant de l’espace. Il est\nextrêmement intelligent et dispose de pouvoirs télékinétiques.\nCe Pokémon envoie des lasers avec l’organe cristallin situé\nsur sa poitrine."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Deoxys",
+    "genus": "DNS",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Ein außerirdischer Virus kam mit einem Meteor auf\ndie Erde. Seine DNA mutierte. So entstand Deoxys."
+      },
+      {
+        "game": "xy-y",
+        "text": "Deoxys ist ein außerirdisches Virus, das zu einem\nPokémon mutierte. Es erscheint in der Nähe von\nAuroras."
+      },
+      {
+        "game": "oras-or",
+        "text": "Die DNS eines Weltraumvirus hat eine spontane Mutation\nerfahren, da sie einem Laserstrahl ausgesetzt wurde.\nDaraus entstand Deoxys. Das kristallartige Organ auf\nder Brust dieses Pokémon ist sein Gehirn."
+      },
+      {
+        "game": "oras-as",
+        "text": "Deoxys ging aus einem Virus aus dem Weltraum hervor.\nEs ist sehr intelligent und nutzt psychokinetische Energie.\nDieses Pokémon verschießt Laserstrahlen aus einem\nkristallartigen Organ auf seinem Brustkorb."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Deoxys",
+    "genus": "Pokémon ADN",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Surgió a raíz de la mutación de ADN de un virus\nalienígena que cayó a la Tierra en un meteorito."
+      },
+      {
+        "game": "xy-y",
+        "text": "Pokémon surgido a raíz de la mutación de un virus\nalienígena. Aparece cerca de la aurora."
+      },
+      {
+        "game": "oras-or",
+        "text": "Tras estar expuesto a un rayo láser, el ADN de un virus\nespacial sufrió una mutación y dio origen a Deoxys. Según\nparece, el órgano cristalino que este Pokémon tiene en el\ntorso es el cerebro."
+      },
+      {
+        "game": "oras-as",
+        "text": "Deoxys surgió a partir de un virus espacial. Tiene un alto nivel\nintelectual y poderes psicoquinéticos. Este Pokémon dispara\nrayos láser por el órgano cristalino que tiene en el torso."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Deoxys",
+    "genus": "Pokémon DNA",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "È il risultato della mutazione genetica di un virus\nalieno giunto con un meteorite."
+      },
+      {
+        "game": "xy-y",
+        "text": "Una mutazione di virus alieni ha portato alla creazione\ndi questo Pokémon. Visibile in prossimità dell’aurora."
+      },
+      {
+        "game": "oras-or",
+        "text": "Il DNA di un virus spaziale ha subito un’improvvisa mutazione,\nin seguito all’esposizione a un raggio laser. Questo ha\ndato vita a Deoxys. Pare che l’organo cristallino sul suo petto\ncostituisca il cervello."
+      },
+      {
+        "game": "oras-as",
+        "text": "Deoxys è nato da un virus proveniente dallo spazio. È dotato\ndi estrema intelligenza e di poteri psicocinetici. Spara raggi\nlaser dall’organo cristallino del proprio corpo."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Deoxys",
+    "genus": "DNA Pokémon",
+    "flavorText": [
+      {
+        "game": "rs-r",
+        "text": "The DNA of a space virus underwent a\nsudden mutation upon exposure to a\nlaser beam and resulted in DEOXYS.\fThe crystalline organ on this POKéMON’s\nchest appears to be its brain."
+      },
+      {
+        "game": "rs-s",
+        "text": "DEOXYS emerged from a virus that came\nfrom space. It is highly intelligent and\nwields psychokinetic powers.\fThis POKéMON shoots lasers from the\ncrystalline organ on its chest."
+      },
+      {
+        "game": "e",
+        "text": "A POKéMON that mutated from an\nextraterrestrial virus exposed to a laser\nbeam. Its body is configured for superior\nagility and speed."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "This DEOXYS has transformed into its\naggressive guise. It can fool enemies by\naltering its appearance."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "When it changes form, an aurora appears.\nIt absorbs attacks by altering its\ncellular structure."
+      },
+      {
+        "game": "dp-d",
+        "text": "An alien virus that fell to earth\non a meteor underwent a DNA\nmutation to become this Pokémon."
+      },
+      {
+        "game": "dp-p",
+        "text": "An alien virus that fell to earth\non a meteor underwent a DNA\nmutation to become this Pokémon."
+      },
+      {
+        "game": "pt",
+        "text": "An alien virus that fell to earth\non a meteor underwent a DNA\nmutation to become this Pokémon."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "DNA from a space virus mutated and\nbecame a Pokémon. It appears\nwhere auroras are seen."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "DNA from a space virus mutated and\nbecame a Pokémon. It appears\nwhere auroras are seen."
+      },
+      {
+        "game": "bw-b",
+        "text": "An alien virus that fell to earth\non a meteor underwent a DNA\nmutation to become this Pokémon."
+      },
+      {
+        "game": "bw-w",
+        "text": "An alien virus that fell to earth\non a meteor underwent a DNA\nmutation to become this Pokémon."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "An alien virus that fell to earth\non a meteor underwent a DNA\nmutation to become this Pokémon."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "An alien virus that fell to earth\non a meteor underwent a DNA\nmutation to become this Pokémon."
+      },
+      {
+        "game": "xy-x",
+        "text": "An alien virus that fell to earth on a meteor\nunderwent a DNA mutation to become\nthis Pokémon."
+      },
+      {
+        "game": "xy-y",
+        "text": "DNA from a space virus mutated and became a\nPokémon. It appears where auroras are seen."
+      },
+      {
+        "game": "oras-or",
+        "text": "The DNA of a space virus underwent a sudden mutation upon\nexposure to a laser beam and resulted in Deoxys.\nThe crystalline organ on this Pokémon’s chest appears to be\nits brain."
+      },
+      {
+        "game": "oras-as",
+        "text": "Deoxys emerged from a virus that came from space. It is highly\nintelligent and wields psychokinetic powers. This Pokémon\nshoots lasers from the crystalline organ on its chest."
+      }
+    ]
+  },
+  "chs": {
+    "name": "代欧奇希斯",
+    "genus": "ＤＮＡ宝可梦",
+    "flavorText": []
+  }
+}

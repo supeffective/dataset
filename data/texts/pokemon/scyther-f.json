@@ -1,0 +1,553 @@
+{
+  "jap": {
+    "name": "ストライク",
+    "genus": "かまきりポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "するどいカマで　えものを　きりさき\nいきのねを　とめる。ごくまれに\nハネをつかって　とぶ。"
+      },
+      {
+        "game": "xy-y",
+        "text": "きれあじ　するどい　カマをつかって\nくさむらを　きりすすむ。あまりに\nはやい　うごきで　めがおいつかない。"
+      },
+      {
+        "game": "oras-or",
+        "text": "めにも　とまらぬ　スピードが　りょううでの\nカマの　きれあじを　さらに　するどく　するのだ。\nひとふり　すれば　たいぼくも　まっぷたつだ。"
+      },
+      {
+        "game": "oras-as",
+        "text": "めにも　とまらぬ　スピードが　りょううでの\nカマの　きれあじを　さらに　するどく　するのだ。\nひとふり　すれば　たいぼくも　まっぷたつだ。"
+      },
+      {
+        "game": "sm-s",
+        "text": "ニンジャのように　すばやい　うごきで\nえものを　まどわせる。　いっしゅんの\nスキに　カマで　きりさいて　しまう。"
+      },
+      {
+        "game": "sm-m",
+        "text": "わかいうちは　やまおくで　むれて\nくらし　カマでの　たたかいかたや\nこうそくいどうを　しゅぎょうする。"
+      },
+      {
+        "game": "usum-us",
+        "text": "するどい　２つの　カマは　たんなる\nぶきでは　ない。　きように　あやつり\nえものを　さばいて　くらうのだ。"
+      },
+      {
+        "game": "usum-um",
+        "text": "めにも　とまらぬ　はやわざは\nくうきを　きりさくほど。　ニンジャと\nよばれ　アローラでは　だいにんき。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "くさむらから　いきなり　とびだして\nするどいカマで　きりさく　すがたは\nまるで　ニンジャの　ようだ。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "くさむらから　いきなり　とびだして\nするどいカマで　きりさく　すがたは\nまるで　ニンジャの　ようだ。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "たたかいを　かさねるごとに　カマの\nきれあじは　あがる。　たいぼくも\nいっとうりょうだんに　きりさくぞ。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "もりの　なかで　たくさんの　きが\nきりたおされた　ばしょを　みつけたら\nそこは　ストライクの　ナワバリだ。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Strike",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "스라크",
+    "genus": "버마재비포켓몬",
+    "flavorText": [
+      {
+        "game": "lgpe-lgp",
+        "text": "풀숲에서 갑자기 튀어나와\n예리한 낫으로 베어 가르는 모습은\n마치 닌자 같다."
+      },
+      {
+        "game": "xy-x",
+        "text": "날카로운 낫으로 먹이를 베고\n숨통을 끊는다. 매우 드물게\n날개를 사용해서 난다."
+      },
+      {
+        "game": "xy-y",
+        "text": "잘 드는 예리한 낫을 써서\n풀숲을 베고 지나간다. 매우\n빠른 움직임에 눈이 따라가지 못한다."
+      },
+      {
+        "game": "oras-or",
+        "text": "눈에 보이지 않는 빠른 스피드가 양팔에\n달린 낫의 날카로움을 한층 높여준다.\n한 번 휘두르면 큰 나무도 두 동강 난다."
+      },
+      {
+        "game": "oras-as",
+        "text": "눈에 보이지 않는 빠른 스피드가 양팔에\n달린 낫의 날카로움을 한층 높여준다.\n한 번 휘두르면 큰 나무도 두 동강 난다."
+      },
+      {
+        "game": "sm-s",
+        "text": "닌자처럼 재빠른 행동으로\n먹이를 혼란스럽게 한다. 한순간의\n빈틈에 낫으로 잘라버린다."
+      },
+      {
+        "game": "sm-m",
+        "text": "젊을 때는 산속에 무리 지어\n살며 낫으로 싸우는 법이나\n고속이동을 수련한다."
+      },
+      {
+        "game": "usum-us",
+        "text": "날카로운 2개의 낫은 단순한\n무기가 아니다. 요령 있게\n먹이를 발라 먹는다."
+      },
+      {
+        "game": "usum-um",
+        "text": "눈에 보이지 않는 빠른 기술은\n공기를 베어 가를 정도다. 닌자라\n불리며 알로라에서는 인기가 많다."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "풀숲에서 갑자기 튀어나와\n예리한 낫으로 베어 가르는 모습은\n마치 닌자 같다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "싸움을 거듭하면서 낫은\n점점 더 날카로워진다. 거목도\n일도양단으로 베어 가른다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "숲속에서 많은 나무가 베인 채\n쓰러져 있는 장소를 발견했다면\n그곳은 스라크의 영역이다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "飛天螳螂",
+    "genus": "螳螂寶可夢",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "以忍者般敏捷的動作迷惑獵物，\n然後趁對方露出破綻的一瞬間\n用鐮刀將獵物切碎。"
+      },
+      {
+        "game": "sm-m",
+        "text": "年輕的時候在深山裡群居生活，\n修鍊用鐮刀戰鬥以及高速移動的技術。"
+      },
+      {
+        "game": "usum-us",
+        "text": "鋒利的２把鐮刀不只是武器，\n飛天螳螂會靈巧地用鐮刀\n分解獵物來進食。"
+      },
+      {
+        "game": "usum-um",
+        "text": "肉眼無法看清的迅速動作\n甚至能夠斬斷空氣。\n被稱為忍者的牠在阿羅拉很受歡迎。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "會從草叢中忽然撲出，\n用鋒利的鐮刀斬斷對手。\n這模樣看起來就像個忍者。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "會從草叢中忽然撲出，\n用鋒利的鐮刀斬斷對手。\n這模樣看起來就像個忍者。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "隨著牠歷經越多的對戰，\n鐮刀也就會變得越鋒利。\n連大樹也能一刀劈成兩半。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "如果在森林裡發現了\n有很多樹被砍倒的地方，\n那就是飛天螳螂的地盤。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Insécateur",
+    "genus": "Pokémon Mante",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "À force de trancher des objets\nsolides, les faux de ses bras\nsont très aiguisées."
+      },
+      {
+        "game": "bw-w",
+        "text": "À force de trancher des objets\nsolides, les faux de ses bras\nsont très aiguisées."
+      },
+      {
+        "game": "xy-x",
+        "text": "Il déchiquette ses proies à l’aide de ses bras\ntranchants comme des faux. Il n’utilise ses ailes pour\nvoler que très rarement."
+      },
+      {
+        "game": "xy-y",
+        "text": "Il fauche les herbes avec ses lames acérées.\nIl bouge si vite qu’on ne peut le voir à l’œil nu."
+      },
+      {
+        "game": "oras-or",
+        "text": "Insécateur est incroyablement rapide. Sa vitesse fulgurante\naméliore l’efficacité des deux lames situées sur ses avant-bras.\nElles sont si coupantes qu’elles peuvent trancher un énorme\ntronc d’arbre en un coup."
+      },
+      {
+        "game": "oras-as",
+        "text": "Insécateur est incroyablement rapide. Sa vitesse fulgurante\naméliore l’efficacité des deux lames situées sur ses avant-bras.\nElles sont si coupantes qu’elles peuvent trancher un énorme\ntronc d’arbre en un coup."
+      },
+      {
+        "game": "sm-s",
+        "text": "Sa rapidité de ninja embrouille sa proie.\nAu moindre moment d’hésitation, il la coupe\nen deux d’un coup de tranchant."
+      },
+      {
+        "game": "sm-m",
+        "text": "Les jeunes Insécateur se rassemblent au fond\ndes montagnes pour s’entraîner à se battre\navec leurs lames et à se déplacer à toute allure."
+      },
+      {
+        "game": "usum-us",
+        "text": "Ses avant-bras en forme de faux ne lui servent\npas uniquement à se battre : il les utilise aussi\npour dépecer ses proies avant de les dévorer."
+      },
+      {
+        "game": "usum-um",
+        "text": "Sa vitesse incroyable lui permet de trancher\nl’air. Il jouit d’une grande popularité à Alola,\noù il est surnommé « le ninja »."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Bondissant hors de l’herbe comme un ninja,\nil lacère sa proie de ses griffes acérées."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Bondissant hors de l’herbe comme un ninja,\nil lacère sa proie de ses griffes acérées."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Ses faux deviennent plus aiguisées à mesure\nqu’il se bat. Il peut trancher un grand arbre\nd’un seul coup."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Si l’on voit un grand nombre d’arbres abattus au\nmême endroit dans une forêt, cela signifie que\nl’on se trouve sur le territoire d’un Insécateur."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Sichlor",
+    "genus": "Mantis-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Es zerreißt und zerkleinert seine Beute mit seinen\nunglaublich scharfen Sicheln. Selten breitet es\nseine Flügel aus, um zu fliegen."
+      },
+      {
+        "game": "xy-y",
+        "text": "Es bewegt sich mit seinen Sensen so schnell durch\ndas Gras, dass es kein Mensch sehen kann."
+      },
+      {
+        "game": "oras-or",
+        "text": "Sichlor ist unheimlich schnell. Dadurch werden die beiden\nSensen an seinen Unterarmen noch effektiver. Dieses\nPokémon kann mit seinen Sensen in Sekundenschnelle\nBaumstämme zerteilen."
+      },
+      {
+        "game": "oras-as",
+        "text": "Sichlor ist unheimlich schnell. Dadurch werden die beiden\nSensen an seinen Unterarmen noch effektiver. Dieses\nPokémon kann mit seinen Sensen in Sekundenschnelle\nBaumstämme zerteilen."
+      },
+      {
+        "game": "sm-s",
+        "text": "Seine schnellen, Ninja-artigen Reflexe irritieren\nseine Beute. Findet es eine Lücke in ihrer\nDefensive, schlitzt es sie mit seinen Sicheln auf."
+      },
+      {
+        "game": "sm-m",
+        "text": "Junge Sichlor wohnen in Gruppen tief in den\nBergen. Dort trainieren sie ihre Schnelligkeit\nund üben den Kampf mit Sicheln."
+      },
+      {
+        "game": "usum-us",
+        "text": "Seine scharfen Sicheln sind nicht nur Waffen.\nVor einer Mahlzeit filetiert es damit auch\ngeschickt seine Beute."
+      },
+      {
+        "game": "usum-um",
+        "text": "Mit enormer Schnelligkeit zerkleinert es alles in\nseinem Umfeld. Unter dem Spitznamen „Ninja“\nerfreut es sich in Alola großer Beliebtheit."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Sichlor gleicht einem Ninja, wenn es plötzlich\naus dem hohen Gras springt und mit seinen\nscharfen, sichelförmigen Armen angreift."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Sichlor gleicht einem Ninja, wenn es plötzlich\naus dem hohen Gras springt und mit seinen\nscharfen, sichelförmigen Armen angreift."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Mit jedem Kampf werden seine Sicheln schärfer.\nEs kann selbst einen massiven Baumstamm mit nur\neinem Schnitt zerteilen."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Entdeckt man im Wald ein Gebiet, in dem\nbesonders viele Bäume gefällt wurden,\nbefindet man sich im Revier eines Sichlors."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Scyther",
+    "genus": "Pokémon Mantis",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Destroza a su presa con las guadañas que tiene.\nNo es común que use las alas para volar."
+      },
+      {
+        "game": "xy-y",
+        "text": "Avanza por la hierba con sus afiladas guadañas, más\nrápido de lo que el ojo humano pueda percibir."
+      },
+      {
+        "game": "oras-or",
+        "text": "Es espectacular ver lo rápido que es Scyther. Su increíble\nvelocidad refuerza el efecto del par de guadañas que tiene\nen los brazos, que ya son de por sí contundentes; rebanan\ngruesos troncos de un tajo."
+      },
+      {
+        "game": "oras-as",
+        "text": "Es espectacular ver lo rápido que es Scyther. Su increíble\nvelocidad refuerza el efecto del par de guadañas que tiene\nen los brazos, que ya son de por sí contundentes; rebanan\ngruesos troncos de un tajo."
+      },
+      {
+        "game": "sm-s",
+        "text": "Se mueve tan rápido como un ninja, lo que\ndesconcierta a sus presas. Es entonces cuando\naprovecha para atacar con su par de guadañas."
+      },
+      {
+        "game": "sm-m",
+        "text": "Cuando es joven, vive en grupo en las montañas,\ndonde lucha con sus guadañas y practica sus\nraudos movimientos junto a sus compañeros."
+      },
+      {
+        "game": "usum-us",
+        "text": "Sus dos guadañas no son meras armas de\ncombate. También las utiliza diestramente para\ndesmenuzar y devorar a sus presas."
+      },
+      {
+        "game": "usum-um",
+        "text": "Goza de gran popularidad en Alola. Por sus\nveloces movimientos que parecen cortar el\naire, algunos lo llaman el Ninja."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Se agazapa en la hierba alta y salta de repente\nsobre el enemigo para hacerlo trizas con sus\nafiladas guadañas. Se mueve como un ninja."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Se agazapa en la hierba alta y salta de repente\nsobre el enemigo para hacerlo trizas con sus\nafiladas guadañas. Se mueve como un ninja."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Sus guadañas se vuelven más afiladas con cada\ncombate. Es capaz de rebanar troncos gruesos\nde un tajo."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "El territorio de un Scyther se identifica fácilmente\npor el gran número de árboles talados de forma\nindiscriminada en una misma zona del bosque."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Scyther",
+    "genus": "Pokémon Mantide",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Fa a pezzi le prede con gli artigli spaventosamente\naffilati. Solo raramente spiega le ali per alzarsi in volo."
+      },
+      {
+        "game": "xy-y",
+        "text": "Si fa strada tra l’erba grazie alle lame affilate,\nmuovendosi troppo velocemente per l’occhio umano."
+      },
+      {
+        "game": "oras-or",
+        "text": "Scyther è veloce come una saetta. La sua rapidità migliora\nl’efficacia delle due falci sulle zampe anteriori.\nInfatti riesce a tranciare con un colpo secco persino\nun tronco secolare."
+      },
+      {
+        "game": "oras-as",
+        "text": "Scyther è veloce come una saetta. La sua rapidità migliora\nl’efficacia delle due falci sulle zampe anteriori.\nInfatti riesce a tranciare con un colpo secco persino\nun tronco secolare."
+      },
+      {
+        "game": "sm-s",
+        "text": "Confonde la sua preda muovendosi veloce\ncome un ninja e in pochi attimi la fa a pezzi\ncon le sue falci."
+      },
+      {
+        "game": "sm-m",
+        "text": "I giovani Scyther vivono in gruppi nei recessi\ndelle montagne, dove si esercitano a lottare\ncon le falci e a muoversi rapidissimi."
+      },
+      {
+        "game": "usum-us",
+        "text": "Usa le due falci affilate sia come armi durante\nla lotta, sia per sfilettare le prede prima di\nmangiarle."
+      },
+      {
+        "game": "usum-um",
+        "text": "I suoi rapidissimi movimenti gli permettono\ndi tagliare persino l’aria. Ad Alola è molto\npopolare ed è comunemente chiamato “ninja”."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Salta fuori all’improvviso dall’erba alta per fare\na fettine le prede con le sue falci affilate.\nI suoi movimenti ricordano quelli di un ninja."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Salta fuori all’improvviso dall’erba alta per fare\na fettine le prede con le sue falci affilate.\nI suoi movimenti ricordano quelli di un ninja."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Ad ogni lotta che affronta le sue falci diventano\npiù affilate. Può tranciare in due grossi tronchi\ncon un solo colpo."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Se ci si imbatte in una zona della foresta con\nmolti alberi abbattuti, si tratta del territorio\ndi uno Scyther."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Scyther",
+    "genus": "Mantis Pokémon",
+    "flavorText": [
+      {
+        "game": "rb-r",
+        "text": "With ninja-like\nagility and speed,\nit can create the\fillusion that\nthere is more\nthan one."
+      },
+      {
+        "game": "rb-b",
+        "text": "With ninja-like\nagility and speed,\nit can create the\fillusion that\nthere is more\nthan one."
+      },
+      {
+        "game": "y",
+        "text": "Leaps out of tall\ngrass and slices\nprey with its\fscythes. The move­\nment looks like\nthat of a ninja."
+      },
+      {
+        "game": "gs-g",
+        "text": "It slashes through\ngrass with its\nsharp scythes,\fmoving too fast\nfor the human eye\nto track."
+      },
+      {
+        "game": "gs-s",
+        "text": "When it moves, it\nleaves only a\nblur. If it hides\fin grass, its pro­\ntective colors\nmake it invisible."
+      },
+      {
+        "game": "c",
+        "text": "It's very proud of\nits speed. It\nmoves so fast that\fits opponent does\nnot even know what\nknocked it down."
+      },
+      {
+        "game": "rs-r",
+        "text": "SCYTHER is blindingly fast. Its blazing\nspeed enhances the effectiveness of\nthe twin scythes on its forearms.\fThis POKéMON’s scythes are so\neffective, they can slice through thick\nlogs in one wicked stroke."
+      },
+      {
+        "game": "rs-s",
+        "text": "SCYTHER is blindingly fast. Its blazing\nspeed enhances the effectiveness of\nthe twin scythes on its forearms.\fThis POKéMON’s scythes are so\neffective, they can slice through thick\nlogs in one wicked stroke."
+      },
+      {
+        "game": "e",
+        "text": "Its blindingly fast speed adds to the\nsharpness of its twin forearm scythes.\nThe scythes can slice through thick logs\nin one wicked stroke."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "It tears and shreds prey with its wickedly\nsharp scythes. It very rarely spreads its\nwings to fly."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "With ninja-like agility and speed, it can\ncreate the illusion that there is more\nthan one of itself."
+      },
+      {
+        "game": "dp-d",
+        "text": "It is nearly impossible to parry\nits attacking scythes. Its\nmovements are like a ninja’s."
+      },
+      {
+        "game": "dp-p",
+        "text": "It is nearly impossible to parry\nits attacking scythes. Its\nmovements are like a ninja’s."
+      },
+      {
+        "game": "pt",
+        "text": "The sharp scythes on its forearms\nbecome increasingly sharp by\ncutting through hard objects."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "It slashes through grass with its\nsharp scythes, moving too fast\nfor the human eye to track."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "When it moves, it leaves only a\nblur. If it hides in grass, its protective\ncoloration makes it invisible."
+      },
+      {
+        "game": "bw-b",
+        "text": "The sharp scythes on its forearms\nbecome increasingly sharp by\ncutting through hard objects."
+      },
+      {
+        "game": "bw-w",
+        "text": "The sharp scythes on its forearms\nbecome increasingly sharp by\ncutting through hard objects."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "The sharp scythes on its forearms\nbecome increasingly sharp by\ncutting through hard objects."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "The sharp scythes on its forearms\nbecome increasingly sharp by\ncutting through hard objects."
+      },
+      {
+        "game": "xy-x",
+        "text": "It tears and shreds prey with its wickedly sharp\nscythes. It very rarely spreads its wings to fly."
+      },
+      {
+        "game": "xy-y",
+        "text": "It slashes through grass with its sharp scythes,\nmoving too fast for the human eye to track."
+      },
+      {
+        "game": "oras-or",
+        "text": "Scyther is blindingly fast. Its blazing speed enhances the\neffectiveness of the twin scythes on its forearms.\nThis Pokémon’s scythes are so effective, they can slice\nthrough thick logs in one wicked stroke."
+      },
+      {
+        "game": "oras-as",
+        "text": "Scyther is blindingly fast. Its blazing speed enhances the\neffectiveness of the twin scythes on its forearms. This\nPokémon’s scythes are so effective, they can slice through\nthick logs in one wicked stroke."
+      },
+      {
+        "game": "sm-s",
+        "text": "It confuses its prey with its quick, ninja-like\nmovements. Then, in an instant, it cleaves\nthem with its scythes."
+      },
+      {
+        "game": "sm-m",
+        "text": "While young, they live together deep in the\nmountains, training themselves in how to fight\nwith their scythes and move at high speeds."
+      },
+      {
+        "game": "usum-us",
+        "text": "Its two sharp scythes are more than just\nweapons. It uses them with dexterity to dress\nits prey before eating."
+      },
+      {
+        "game": "usum-um",
+        "text": "Some call it a ninja. Its movements—\nimperceptibly quick—are sufficient to cleave\nthe air in two. It’s very popular in Alola."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Leaps out of tall grass and slices prey with its\nscythes. The movement looks like that of a ninja."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Leaps out of tall grass and slices prey with its\nscythes. The movement looks like that of a ninja."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "As Scyther fights more and more battles, its\nscythes become sharper and sharper. With a\nsingle slice, Scyther can fell a massive tree."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "If you come across an area in a forest where a lot\nof the trees have been cut down, what you’ve\nfound is a Scyther’s territory."
+      },
+      {
+        "game": "la",
+        "text": "The large, wickedly sharp scythes on its forearms are truly\nfearsome weapons. Prey's attempts to flee are unfailingly\nthwarted by this Pokémon's nimble motions."
+      }
+    ]
+  },
+  "chs": {
+    "name": "飞天螳螂",
+    "genus": "螳螂宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "以忍者般敏捷的动作令猎物感到迷惑。\n然后趁对方麻痹大意的一瞬间\n用镰刀将其切碎。"
+      },
+      {
+        "game": "sm-m",
+        "text": "年轻的时候，在深山里群居生活，\n修炼用镰刀进行战斗以及高速移动。"
+      },
+      {
+        "game": "usum-us",
+        "text": "２把锋利的镰刀并不单单是武器。\n还能灵活地运用它们来\n切割猎物，然后食用。"
+      },
+      {
+        "game": "usum-um",
+        "text": "连眼睛都无法看清的麻利手法\n甚至能切开空气。它被称为忍者，\n在阿罗拉非常具有人气。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "突然从草丛里窜出来，\n用锋利的镰刀斩砍的\n样子仿佛就像是忍者。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "突然从草丛里窜出来，\n用锋利的镰刀斩砍的\n样子仿佛就像是忍者。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "战斗的次数越多，镰刀\n就变得越锋利。就算是\n大树也能一刀劈成两段。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "如果在森林中发现某个地方\n有大量树木被砍倒，就说明\n那里是飞天螳螂的领地。"
+      }
+    ]
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "jap": {
+    "name": "コオリッポ",
+    "genus": "ペンギンポケモン",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "とても　さむい　ばしょから　ながれ\nながされ　やってきた。　こおりで\nかおを　つねに　ひやして　いるのだ。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "あつさに　よわい　かおを　いつも\nこおりで　ひやしている。　あたまの\nけを　うみに　たらして　エサをつる。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Korippo",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "빙큐보",
+    "genus": "펭귄포켓몬",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "매우 추운 곳에서 흘러 흘러\n떠내려왔다. 항상 얼음으로\n얼굴을 식히고 있다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "더위에 약해서 얼굴을 언제나\n얼음으로 식히고 있다. 머리의 털을\n바다에 늘어뜨리고 먹이를 낚는다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "冰砌鵝",
+    "genus": "企鵝寶可夢",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "從非常寒冷的地方漂流\n而來。隨時都用冰塊\n冰鎮著自己的臉。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "無論何時都用冰塊冰鎮著\n自己怕熱的臉。會把頭頂\n上的毛垂到海裡釣食物吃。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Bekaglaçon",
+    "genus": "Pokémon Pingouin",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Originaire d’une contrée polaire, ce Pokémon\na débarqué dans la région ballotté par les flots.\nIl garde toujours la tête froide."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Ne supportant pas la chaleur, il se rafraîchit\ntoujours la tête avec de la glace.\nIl pêche de quoi se nourrir à l’aide de son cheveu."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Kubuin",
+    "genus": "Pinguin-Pokémon",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Es kam von einem extrem kalten Ort, indem es\nsich treiben ließ und schließlich angespült wurde.\nEs kühlt unablässig sein Gesicht mit Eis."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Es kühlt sein Gesicht ständig mit Eis, da dieses\nHitze nicht gut verträgt. Das Haar auf dem Kopf\nhängt es ins Meer und angelt sich damit Beute."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Eiscue",
+    "genus": "Pokémon Pingüino",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "La corriente lo ha transportado hasta aquí desde\nun lugar sumamente gélido. Utiliza el hielo para\nmantener la cara refrigerada en todo momento."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Se enfría constantemente la cara con hielo por\nsu escasa resistencia al calor. Utiliza el pelo de\nla cabeza para pescar en el mar."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Eiscue",
+    "genus": "Pokémon Pinguino",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "È arrivato da un luogo freddissimo trasportato\ndalla corrente. Mantiene sempre fredda la\ntesta servendosi del ghiaccio."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Raffredda costantemente la testa con del\nghiaccio perché non sopporta il caldo. Usa il\npelo che ha sul capo per pescare le sue prede."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Eiscue",
+    "genus": "Penguin Pokémon",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "It drifted in on the flow of ocean waters from a\nfrigid place. It keeps its head iced constantly to\nmake sure it stays nice and cold."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "This Pokémon keeps its heat-sensitive head cool\nwith ice. It fishes for its food, dangling its single\nhair into the sea to lure in prey."
+      }
+    ]
+  },
+  "chs": {
+    "name": "冰砌鹅",
+    "genus": "企鹅宝可梦",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "从非常寒冷的地方漂流\n而来。随时都用冰块\n冰镇着自己的脸。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "无论何时都用冰块冰镇着\n自己怕热的脸。会把头顶\n上的毛垂到海里钓食物吃。"
+      }
+    ]
+  }
+}

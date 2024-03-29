@@ -1,0 +1,269 @@
+{
+  "jap": {
+    "name": "フシデ",
+    "genus": "ムカデポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "あたまと　しっぽの　しょっかくで\nまわりの　ようすを　さぐる。\nひじょうに　きょうぼうな　せいかく。"
+      },
+      {
+        "game": "xy-y",
+        "text": "かみついて　もうどくを　あたえる。\nてんてきの　おおきな　とりポケモンも\nからだが　しびれて　うごけなくなる。"
+      },
+      {
+        "game": "oras-or",
+        "text": "あたまと　しっぽの　しょっかくで\nまわりの　ようすを　さぐる。\nひじょうに　きょうぼうな　せいかく。"
+      },
+      {
+        "game": "oras-as",
+        "text": "かみついて　もうどくを　あたえる。\nてんてきの　おおきな　とりポケモンも\nからだが　しびれて　うごけなくなる。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "ヤクデは　しゅるいの　ちかい\nなかまだが　おたがいが　であうと\nおおげんかに　なるぞ。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "キバに　もうどくを　もっている。\nくえそうな　えものを　みつけると\nあとさき　かんがえず　とびかかる。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Fushide",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "마디네",
+    "genus": "지네포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "머리와 꼬리의 더듬이로\n주변 상황을 살핀다.\n성격이 매우 난폭하다."
+      },
+      {
+        "game": "xy-y",
+        "text": "물어서 맹독을 퍼뜨린다.\n천적인 커다란 새포켓몬도\n몸이 마비돼서 움직일 수 없다."
+      },
+      {
+        "game": "oras-or",
+        "text": "머리와 꼬리의 더듬이로\n주변 상황을 살핀다.\n성격이 매우 난폭하다."
+      },
+      {
+        "game": "oras-as",
+        "text": "물어서 맹독을 퍼뜨린다.\n천적인 커다란 새포켓몬도\n몸이 마비돼서 움직일 수 없다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "태우지네와는 종류가 다른\n동료지만 서로 만나면\n큰 싸움이 된다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "이빨에 맹독을 지녔다.\n먹을 수 있는 먹이를 발견하면\n앞뒤를 가리지 않고 덤벼든다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "百足蜈蚣",
+    "genus": "蜈蚣寶可夢",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "雖然和燒火蚣屬於種類\n相近的夥伴，但是彼此\n撞見時就會大打一架喔。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "牙齒有劇毒。一旦發現了\n看似能吃下肚的獵物，\n就會不加思索地撲上去。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Venipatte",
+    "genus": "Pokémon Chilopode",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Sa morsure est très venimeuse.\nElle paralyse même les grands\nPokémon Oiseaux, ses prédateurs."
+      },
+      {
+        "game": "bw-w",
+        "text": "Il sonde les alentours avec les\nantennes sur sa tête et sa queue.\nIl est extrêmement brutal."
+      },
+      {
+        "game": "xy-x",
+        "text": "Il sonde les alentours avec les antennes sur sa tête\net sa queue. Il est extrêmement brutal."
+      },
+      {
+        "game": "xy-y",
+        "text": "Sa morsure est très venimeuse. Elle paralyse\nmême les grands Pokémon Oiseaux, ses prédateurs."
+      },
+      {
+        "game": "oras-or",
+        "text": "Il sonde les alentours avec les antennes sur sa tête\net sa queue. Il est extrêmement brutal."
+      },
+      {
+        "game": "oras-as",
+        "text": "Sa morsure est très venimeuse. Elle paralyse même les grands\nPokémon Oiseaux, ses prédateurs."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Bien qu’appartenant à des espèces similaires,\nles Venipatte et les Grillepattes se livrent\nà des conflits violents lorsqu’ils se croisent."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Ses crocs sont extrêmement venimeux.\nDès qu’il voit une proie à son goût, il bondit\nsur elle sans penser aux conséquences."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Toxiped",
+    "genus": "Tausendfüßer-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Mit seinen Ruten und den Fühlern an seinem Kopf\ntastet es die Umgebung ab. Ein überaus aggressiver\nGeselle."
+      },
+      {
+        "game": "xy-y",
+        "text": "Es beißt Angreifer und injiziert ihnen Gift, das selbst\ngroße Vogel-Pokémon, seine natürlichen Feinde,\nlähmt."
+      },
+      {
+        "game": "oras-or",
+        "text": "Mit seinen Ruten und den Fühlern an seinem Kopf tastet es\ndie Umgebung ab. Ein überaus aggressiver Geselle."
+      },
+      {
+        "game": "oras-as",
+        "text": "Es beißt Angreifer und injiziert ihnen Gift, das selbst große\nVogel-Pokémon, seine natürlichen Feinde, lähmt."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Es ist zwar artverwandt mit Thermopod, aber\njedes Mal, wenn sich die beiden über den Weg\nkrabbeln, streiten sie erbittert miteinander."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "In den Fangzähnen speichert es höchst potentes\nGift. Wenn Toxiped potenzielle Beute erspäht,\nstürzt es sich vollkommen unüberlegt auf diese."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Venipede",
+    "genus": "Pokémon Ciempiés",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Percibe su entorno con su sentido del tacto, residente\nen su cabeza y cola. Su carácter es violento por\nnaturaleza."
+      },
+      {
+        "game": "xy-y",
+        "text": "Inocula un poderoso veneno al morder. Hasta sus\nenemigos acérrimos, los Pokémon pájaro, se quedan\ninmóviles."
+      },
+      {
+        "game": "oras-or",
+        "text": "Percibe su entorno con su sentido del tacto, residente en su\ncabeza y cola. Su carácter es violento por naturaleza."
+      },
+      {
+        "game": "oras-as",
+        "text": "Inocula un poderoso veneno al morder. Hasta sus enemigos\nacérrimos, los Pokémon pájaro, se quedan inmóviles."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Aunque se trata de una especie emparentada\ncon los Sizzlipede, si se encuentran ejemplares\nde ambas, entablarán una lucha encarnizada."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Sus colmillos contienen un veneno letal. Si\nencuentra una presa que parece comestible, se\nabalanza sobre ella sin pensárselo dos veces."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Venipede",
+    "genus": "Pokémon Centipede",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Sonda l’ambiente circostante con le antenne del\ncapo e della coda. Ha un carattere estremamente\ncollerico."
+      },
+      {
+        "game": "xy-y",
+        "text": "Mordendo, inietta un veleno potente. Anche i grandi\nPokémon uccello, suoi predatori, ne rimangono\nparalizzati."
+      },
+      {
+        "game": "oras-or",
+        "text": "Sonda l’ambiente circostante con le antenne del capo e\ndella coda. Ha un carattere estremamente collerico."
+      },
+      {
+        "game": "oras-as",
+        "text": "Mordendo, inietta un veleno potente. Anche i grandi Pokémon\nuccello, suoi predatori, ne rimangono paralizzati."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Appartiene a una specie simile a quella di\nSizzlipede, ma se le loro strade si incrociano\nsi scatena il finimondo."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Le sue zanne contengono un potente veleno.\nSe trova una preda che pensa di poter mangiare,\nla assale senza pensare alle conseguenze."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Venipede",
+    "genus": "Centipede Pokémon",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Its bite injects a potent poison, enough\nto paralyze large bird Pokémon that try\nto prey on it."
+      },
+      {
+        "game": "bw-w",
+        "text": "It discovers what is going on around it\nby using the feelers on its head and tail.\nIt is brutally aggressive."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "Using the feelers on its head and tail,\nit picks up vibrations in the air to\ndetermine its prey’s location and state."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "Using the feelers on its head and tail,\nit picks up vibrations in the air to\ndetermine its prey’s location and state."
+      },
+      {
+        "game": "xy-x",
+        "text": "It discovers what is going on around it by using the\nfeelers on its head and tail. It is brutally aggressive."
+      },
+      {
+        "game": "xy-y",
+        "text": "Its bite injects a potent poison, enough to paralyze\nlarge bird Pokémon that try to prey on it."
+      },
+      {
+        "game": "oras-or",
+        "text": "It discovers what is going on around it by using the\nfeelers on its head and tail. It is brutally aggressive."
+      },
+      {
+        "game": "oras-as",
+        "text": "Its bite injects a potent poison, enough to paralyze\nlarge bird Pokémon that try to prey on it."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Venipede and Sizzlipede are similar species,\nbut when the two meet, a huge fight ensues."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Its fangs are highly venomous. If this Pokémon\nfinds prey it thinks it can eat, it leaps for them\nwithout any thought of how things might turn out."
+      }
+    ]
+  },
+  "chs": {
+    "name": "百足蜈蚣",
+    "genus": "蜈蚣宝可梦",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "虽然与烧火蚣是种类\n相近的伙伴，但是\n一见面就会大打一番。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "牙齿上有剧毒。一旦\n发现看上去能吃的猎物，\n就会不假思索地扑上去。"
+      }
+    ]
+  }
+}

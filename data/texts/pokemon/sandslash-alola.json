@@ -1,0 +1,549 @@
+{
+  "jap": {
+    "name": "サンドパン",
+    "genus": "ねずみポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "すごい　いきおいで　じめんをほると\nトゲや　ツメが　おれてしまうが\nつぎのひには　はえそろっている。"
+      },
+      {
+        "game": "xy-y",
+        "text": "せなかを　まるめると　トゲトゲの\nボールみたいだ。そのまま　ころがって\nぶつかってきたり　にげたりする。"
+      },
+      {
+        "game": "oras-or",
+        "text": "からだの　トゲは　ひふが　かたくなったもの。\n１ねんに　１かい　ふるい　トゲが　ぬけおちて\nあたらしい　トゲが　したから　はえてくる。"
+      },
+      {
+        "game": "oras-as",
+        "text": "せなかを　まるめると　トゲトゲの　ボールみたい。\nトゲに　さされて　ひるんだ　あいてに　とびかかり\nするどい　ツメで　ばりばり　ひっかきまくるぞ。"
+      },
+      {
+        "game": "sm-s",
+        "text": "するどいが　やや　もろい　ツメや\nトゲは　よく　おれる。　よくじつには\nはえそろうので　きに　しなくてよい。"
+      },
+      {
+        "game": "sm-m",
+        "text": "ツメで　きに　のぼり　えものが\nあらわれると　からだを　まるめて\nトゲのボールに　なって　らっかする。"
+      },
+      {
+        "game": "usum-us",
+        "text": "よく　ツメや　ツノが　おれてしまう。\nおれた　ツメや　ツノで　つちを\nたがやす　どうぐが　つくられる。"
+      },
+      {
+        "game": "usum-um",
+        "text": "ふとい　ツメの　おかげで　きのぼりが\nとくいだ。　そのまま　きの　うえを\nねどこにする　サンドパンも　おおい。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "ツメで　ひっかくのが　とくいだが\nたたかっているうち　おれることも。\nつぎのひには　また　のびてくるぞ。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "ツメで　ひっかくのが　とくいだが\nたたかっているうち　おれることも。\nつぎのひには　また　のびてくるぞ。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "しつどが　ひくい　とちで　くらす\nサンドパンほど　せなかの　トゲの\nてざわりは　かたく　なめらかになる。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "するどい　ツメを　ひっかけて　きを\nのぼる。　したで　まつ　サンドたちに\nきのみを　おとし　わけあたえるのだ。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Sandpan",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "고지",
+    "genus": "쥐포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "굉장한 기세로 지면을 파면\n가시와 발톱이 부러져 버리지만\n다음 날에는 바로 돋아나 있다."
+      },
+      {
+        "game": "xy-y",
+        "text": "등을 구부리면 뾰족뾰족한\n공 같다. 그대로 굴러서\n부딪쳐 오거나 도망간다."
+      },
+      {
+        "game": "oras-or",
+        "text": "몸의 가시는 피부가 딱딱해진 것이다.\n1년에 1회 오래된 가시가 빠지고\n새로운 가시가 밑에서 돋아난다."
+      },
+      {
+        "game": "oras-as",
+        "text": "등을 둥그렇게 말면 뾰족뾰족한 공 같다.\n가시에 찔려 풀죽은 상대에게 덤벼들어\n날카로운 발톱으로 박박 할퀴어 놓는다."
+      },
+      {
+        "game": "sm-s",
+        "text": "날카롭지만 약간 약한 발톱이나\n가시는 자주 부러진다. 다음 날에는 다시\n돋아나기 때문에 신경 쓰지 않아도 된다."
+      },
+      {
+        "game": "sm-m",
+        "text": "발톱으로 나무에 올라 먹이가\n나타나면 몸을 둥글게 만들어\n가시 공이 되어 낙하한다."
+      },
+      {
+        "game": "usum-us",
+        "text": "발톱과 뿔이 잘 부러진다.\n부러진 발톱과 뿔은 땅을\n일구는 도구로 만들어진다."
+      },
+      {
+        "game": "usum-um",
+        "text": "굵은 발톱 덕분에 나무타기가\n특기다. 나무 위에 올라가서\n잠을 자는 고지도 많다."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "발톱으로 할퀴는 것이 특기지만\n싸우다가 부러질 때도 있다.\n다음날이면 다시 자라난다."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "발톱으로 할퀴는 것이 특기지만\n싸우다가 부러질 때도 있다.\n다음날이면 다시 자라난다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "습도가 낮은 땅에서 사는\n고지일수록 등에 난 가시의\n감촉은 단단하고 매끄럽다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "날카로운 발톱으로 찍으며 나무에 오른다.\n아래에서 기다리는 모래두지들에게\n나무열매를 떨어뜨려 나눠준다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "穿山王",
+    "genus": "鼠寶可夢",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "銳利卻有點脆弱的爪子和\n尖刺經常折斷。但因為第二天\n就會長回來，所以不必在意。"
+      },
+      {
+        "game": "sm-m",
+        "text": "用爪子爬上樹，當獵物出現時，\n身體就蜷縮成尖刺球從高處落下。"
+      },
+      {
+        "game": "usum-us",
+        "text": "爪子和尖刺經常折斷。\n折斷的爪子和尖刺被人們用來\n製作成耕作土地的工具。"
+      },
+      {
+        "game": "usum-um",
+        "text": "擅長用厚實的爪子來爬樹。\n也有許多穿山王會直接把\n樹上當成睡覺的地方。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "擅長用爪子來抓敵人。\n爪子有時會在戰鬥中折斷，\n但到了隔天就會長回來。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "擅長用爪子來抓敵人。\n爪子有時會在戰鬥中折斷，\n但到了隔天就會長回來。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "越是在濕度低的地方\n生活的穿山王，背上尖刺的\n觸感就會越堅硬光滑。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "會用銳利的爪子當作鉤子來爬樹。\n這是為了將樹果擊落，\n分給在樹下等待的穿山鼠們。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Sablaireau",
+    "genus": "Pokémon Souris",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Il se met en boule pour percuter\nl’ennemi. Ses épines aiguisées\nfont beaucoup de dégâts."
+      },
+      {
+        "game": "bw-w",
+        "text": "Il se met en boule pour percuter\nl’ennemi. Ses épines aiguisées\nfont beaucoup de dégâts."
+      },
+      {
+        "game": "xy-x",
+        "text": "Il creuse si vite qu’il peut briser ses épines et ses\ngriffes. Mais elles repoussent en une journée."
+      },
+      {
+        "game": "xy-y",
+        "text": "Il se roule en boule hérissée de piques s’il est\nmenacé. Il peut ainsi s’enfuir ou attaquer."
+      },
+      {
+        "game": "oras-or",
+        "text": "Le corps de Sablaireau est recouvert de pointes très dures,\nqui sont des extensions de sa peau. Une fois par an,\nce Pokémon mue et les vieilles pointes tombent, remplacées\npar de nouvelles."
+      },
+      {
+        "game": "oras-as",
+        "text": "Sablaireau peut enrouler son corps pour prendre la forme\nd’une balle hérissée de pointes. Ce Pokémon essaie de faire\npeur à son ennemi en le frappant avec ses pointes.\nPuis, il se rue sur lui avec ses griffes acérées."
+      },
+      {
+        "game": "sm-s",
+        "text": "Ses griffes et épines sont tranchantes, mais\nelles se brisent facilement. Cela dit, il n’en a\nque faire, puisqu’elles repoussent le lendemain."
+      },
+      {
+        "game": "sm-m",
+        "text": "Il escalade les arbres avec ses griffes. Quand\nune proie passe à proximité, il se laisse tomber\ndessus toutes épines dressées."
+      },
+      {
+        "game": "usum-us",
+        "text": "Ses épines et ses griffes se cassent souvent.\nCes pointes brisées peuvent servir d’outils\npour creuser le sol."
+      },
+      {
+        "game": "usum-um",
+        "text": "Ses grosses griffes lui permettent de grimper\naux arbres sans peine. Il n’est pas rare de voir\nun Sablaireau endormi dans les frondaisons."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Ses griffes sont redoutables. Si l’une d’elles\nse casse en combat, elle repousse en un jour."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Ses griffes sont redoutables. Si l’une d’elles\nse casse en combat, elle repousse en un jour."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Plus son habitat est sec, plus ses épines\ndorsales deviennent dures et lisses."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Il grimpe aux arbres grâce à ses griffes acérées\net fait tomber des Baies pour les Sabelette\nqui attendent au sol."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Sandamer",
+    "genus": "Maus-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Wenn es schnell gräbt, können seine Stacheln und\nKrallen abbrechen. Sie wachsen binnen eines Tages\nnach."
+      },
+      {
+        "game": "xy-y",
+        "text": "Bei Gefahr igelt sich dieses Pokémon ein.\nZusammengerollt kann es angreifen oder fliehen."
+      },
+      {
+        "game": "oras-or",
+        "text": "Sandamers Körper ist übersät mit spitzen Stacheln,\ndie eigentlich Hauthärtungen darstellen. Einmal im Jahr\nfallen die alten Stacheln aus und werden durch neue ersetzt."
+      },
+      {
+        "game": "oras-as",
+        "text": "Sandamer kann sich zu einem Ball mit langen Stacheln\nzusammenrollen. Im Kampf schlägt es seine Gegner in die\nFlucht, indem es sie mit seinen Stacheln sticht. Dann springt\nes sie an und schlägt mit seinen scharfen Klauen zu."
+      },
+      {
+        "game": "sm-s",
+        "text": "Seine Krallen und Stacheln sind scharf, aber\nauch spröde und brechen oft ab. Sie wachsen\njedoch innerhalb eines Tages wieder nach."
+      },
+      {
+        "game": "sm-m",
+        "text": "Es erklimmt mit seinen Krallen Bäume, rollt sich\nein und wartet, bis Beute erscheint. Dann stürzt\nes sich als stachelige Kugel auf sie herab."
+      },
+      {
+        "game": "usum-us",
+        "text": "Seine Krallen und Stacheln brechen oft ab. Sie\nwerden dann zu Werkzeugen für den Ackerbau\nverarbeitet."
+      },
+      {
+        "game": "usum-um",
+        "text": "Mit seinen Krallen kann es gut Bäume erklimmen.\nHäufig macht es die Baumkrone dann gleich zu\nseinem Schlafplatz."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Es greift Gegner mit seinen scharfen Klauen an.\nBrechen diese im Kampf ab, wachsen sie binnen\neines Tages nach."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Es greift Gegner mit seinen scharfen Klauen an.\nBrechen diese im Kampf ab, wachsen sie binnen\neines Tages nach."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Je trockener das Gebiet ist, in dem Sandamer\nlebt, desto härter und glatter fühlen sich die\nStacheln an seinem Rücken an."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Mit seinen scharfen Krallen klettert es auf Bäume\nund wirft unten wartenden Sandan Beeren zu,\ndie sie sich dann teilen."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Sandslash",
+    "genus": "Pokémon Ratón",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Si cava a gran velocidad, puede que se le caigan las\ngarras y púas. Vuelven a crecerle en un día."
+      },
+      {
+        "game": "xy-y",
+        "text": "Ante el peligro, se acurruca en un espinoso ovillo.\nDe esta forma puede rodar para atacar o escapar."
+      },
+      {
+        "game": "oras-or",
+        "text": "Sandslash está recubierto de duras púas que son partes\nendurecidas de la piel. Suele mudarlas una vez al año; debajo\nde las viejas púas crecen unas nuevas que las sustituyen."
+      },
+      {
+        "game": "oras-as",
+        "text": "Sandslash puede enroscarse y convertirse en una bola de\nlargas púas. En combate, este Pokémon hace retroceder a\nsus rivales clavándoselas. Acto seguido, aprovecha para\necharse sobre ellos y atacarlos con sus afiladas garras."
+      },
+      {
+        "game": "sm-s",
+        "text": "No suele inquietarse por el hecho de que sus\nafiladas garras y púas se rompan con facilidad,\nya que estas vuelven a crecer al día siguiente."
+      },
+      {
+        "game": "sm-m",
+        "text": "Trepa a los árboles con sus garras. Cuando\navista una presa, se convierte en una bola de\npúas y se deja caer sobre ella."
+      },
+      {
+        "game": "usum-us",
+        "text": "Sus garras y púas se caen con frecuencia y\npueden recogerse para elaborar aperos de\nlabranza."
+      },
+      {
+        "game": "usum-um",
+        "text": "Sus gruesas garras le permiten escalar árboles\ncon gran agilidad. De hecho, no es extraño ver\nejemplares durmiendo entre el follaje."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Utiliza hábilmente las garras en combate, por\nlo que suelen rompérsele. Aun así, solo tardan\nun día en volverle a crecer."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Utiliza hábilmente las garras en combate, por\nlo que suelen rompérsele. Aun así, solo tardan\nun día en volverle a crecer."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Cuanto más seco es el terreno en el que habita,\nmás duras y lisas se vuelven las púas que le\nrecubren la espalda."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Trepa a los árboles con sus afiladas garras y deja\ncaer bayas para los Sandshrew que esperan\ndebajo."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Sandslash",
+    "genus": "Pokémon Topo",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Se scava molto velocemente gli si consumano le\npunte e gli artigli, ma gli ricrescono in un giorno."
+      },
+      {
+        "game": "xy-y",
+        "text": "Se in pericolo si chiude a riccio. In questa forma\npuò rotolare, attaccare e scappare."
+      },
+      {
+        "game": "oras-or",
+        "text": "Il corpo di Sandslash è ricoperto da aculei coriacei, costituiti\nda parti di corazza indurita. I vecchi aculei cadono una volta\nall’anno per essere sostituiti dai nuovi che crescono sotto\ni precedenti."
+      },
+      {
+        "game": "oras-as",
+        "text": "Sandslash arrotola il proprio corpo come fosse una sfera\nricoperta di grandi aculei, che usa in lotta per far tentennare\nil nemico. Poi gli si scaglia contro per colpirlo selvaggiamente\ncon gli artigli affilati."
+      },
+      {
+        "game": "sm-s",
+        "text": "I suoi artigli e aculei sono molto affilati, ma\nanche piuttosto fragili e si spezzano spesso.\nTuttavia, ricrescono nel giro di un giorno."
+      },
+      {
+        "game": "sm-m",
+        "text": "Si arrampica sugli alberi con gli artigli affilati e,\navvistata la preda, si raggomitola diventando\nuna sfera irta di aculei e le piomba addosso."
+      },
+      {
+        "game": "usum-us",
+        "text": "I suoi aculei si spezzano spesso.\nUna volta recuperati, si possono usare per\nfabbricare attrezzi per coltivare la terra."
+      },
+      {
+        "game": "usum-um",
+        "text": "Grazie ai suoi grossi artigli può arrampicarsi\nsugli alberi con estrema facilità. Non è raro\nvederlo dormire fra i rami."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "È abilissimo a graffiare i nemici con i suoi\nartigli affilati. Se si rompono, ricrescono in un\ngiorno."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "È abilissimo a graffiare i nemici con i suoi\nartigli affilati. Se si rompono, ricrescono in un\ngiorno."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Più secco è il territorio dove Sandslash vive,\npiù i suoi aculei dorsali diventano lisci e duri."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Si arrampica sugli alberi utilizzando i suoi artigli\naffilati per poi condividere le bacche che trova\ncon i Sandshrew, che aspettano sotto."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Sandslash",
+    "genus": "Mouse Pokémon",
+    "flavorText": [
+      {
+        "game": "rb-r",
+        "text": "Curls up into a\nspiny ball when\nthreatened. It\fcan roll while\ncurled up to\nattack or escape."
+      },
+      {
+        "game": "rb-b",
+        "text": "Curls up into a\nspiny ball when\nthreatened. It\fcan roll while\ncurled up to\nattack or escape."
+      },
+      {
+        "game": "y",
+        "text": "It is skilled at\nslashing enemies\nwith its claws.\fIf broken, they\nstart to grow back\nin a day."
+      },
+      {
+        "game": "gs-g",
+        "text": "In an attempt to\nhide itself, it\nwill run around\fat top speed to\nkick up a blinding\ndust storm."
+      },
+      {
+        "game": "gs-s",
+        "text": "If it digs at an\nincredible pace,\nit may snap off\fits spikes and\nclaws. They grow\nback in a day."
+      },
+      {
+        "game": "c",
+        "text": "Adept at climbing\ntrees, it rolls\ninto a spiny ball,\fthen attacks its\nenemies from\nabove."
+      },
+      {
+        "game": "rs-r",
+        "text": "SANDSLASH’s body is covered by tough\nspikes, which are hardened sections of\nits hide. Once a year, the old spikes fall\fout, to be replaced with new spikes that\ngrow out from beneath the old ones."
+      },
+      {
+        "game": "rs-s",
+        "text": "SANDSLASH can roll up its body as if it\nwere a ball covered with large spikes.\nIn battle, this POKéMON will try to make\fthe foe flinch by jabbing it with its\nspines. It then leaps at the stunned\nfoe to tear wildly with its sharp claws."
+      },
+      {
+        "game": "e",
+        "text": "It curls up in a ball to protect itself from\nenemy attacks. It also curls up to prevent\nheatstroke during the daytime when\ntemperatures rise sharply."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "It is adept at attacking with the spines\non its back and its sharp claws while\nquickly scurrying about."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "Curls up into a spiny ball when\nthreatened. It can roll while curled up\nto attack or escape."
+      },
+      {
+        "game": "dp-d",
+        "text": "It curls up, then rolls into foes\nwith its back. Its sharp spines\ninflict severe damage."
+      },
+      {
+        "game": "dp-p",
+        "text": "It curls up, then rolls into foes\nwith its back. Its sharp spines\ninflict severe damage."
+      },
+      {
+        "game": "pt",
+        "text": "It curls up, then rolls into foes\nwith its back. Its sharp spines\ninflict severe damage."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "In an attempt to hide itself,\nit will run around at top speed to\nkick up a blinding dust storm."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "If it digs at an incredible pace,\nit may snap off its spikes and\nclaws. They grow back in a day."
+      },
+      {
+        "game": "bw-b",
+        "text": "It curls up, then rolls into foes\nwith its back. Its sharp spines\ninflict severe damage."
+      },
+      {
+        "game": "bw-w",
+        "text": "It curls up, then rolls into foes\nwith its back. Its sharp spines\ninflict severe damage."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "The spikes on its body are made\nup of its hardened hide. It rolls up\nand attacks foes with its spikes."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "The spikes on its body are made\nup of its hardened hide. It rolls up\nand attacks foes with its spikes."
+      },
+      {
+        "game": "xy-x",
+        "text": "If it digs at an incredible pace, it may snap off\nits spikes and claws. They grow back in a day."
+      },
+      {
+        "game": "xy-y",
+        "text": "Curls up into a spiny ball when threatened. It can\nroll while curled up to attack or escape."
+      },
+      {
+        "game": "oras-or",
+        "text": "Sandslash’s body is covered by tough spikes, which are\nhardened sections of its hide. Once a year, the old spikes\nfall out, to be replaced with new spikes that grow out from\nbeneath the old ones."
+      },
+      {
+        "game": "oras-as",
+        "text": "Sandslash can roll up its body as if it were a ball covered\nwith large spikes. In battle, this Pokémon will try to make\nthe foe flinch by jabbing it with its spines. It then leaps at\nthe stunned foe to tear wildly with its sharp claws."
+      },
+      {
+        "game": "sm-s",
+        "text": "Although they are sharp, its claws and spikes\noften break off. They grow back the next day,\nso it is not bothered by the temporary loss."
+      },
+      {
+        "game": "sm-m",
+        "text": "It uses its claws to climb trees and then curls\nits body into a spiny ball, ready to drop onto\nany prey that appears."
+      },
+      {
+        "game": "usum-us",
+        "text": "Its claws and horns often break off. The broken\nclaws and horns can be used to carve plows for\ntilling farm fields."
+      },
+      {
+        "game": "usum-um",
+        "text": "Thanks to its thick claws, it’s good at climbing\ntrees. There are plenty of Sandslash that park\nthemselves in trees and go right to sleep."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "It is skilled at slashing enemies with its claws.\nIf broken, they start to grow back in a day."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "It is skilled at slashing enemies with its claws.\nIf broken, they start to grow back in a day."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "The drier the area Sandslash lives in, the harder\nand smoother the Pokémon’s spikes will feel\nwhen touched."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "It climbs trees by hooking on with its sharp claws.\nSandslash shares the berries it gathers, dropping\nthem down to Sandshrew waiting below the tree."
+      }
+    ]
+  },
+  "chs": {
+    "name": "穿山王",
+    "genus": "鼠宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "虽然锐利却有点儿脆弱的爪子\n和刺经常会折断。因为第二天\n就会长好，所以不必在意。"
+      },
+      {
+        "game": "sm-m",
+        "text": "用爪子爬上树，当猎物出现时，\n身体就蜷缩成尖刺球从高处落下。"
+      },
+      {
+        "game": "usum-us",
+        "text": "爪子和角经常会折断。\n折断的爪子和角会被制作成\n用来耕作土地的用具。"
+      },
+      {
+        "game": "usum-um",
+        "text": "得益于粗粗的爪子，所以它很\n擅长爬树。也有很多穿山王\n会直接把树上当成睡觉的地方。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "它很擅长用爪子抓伤敌人。\n虽然在战斗中偶尔会折断爪子，\n但到第二天就会长出新的来。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "它很擅长用爪子抓伤敌人。\n虽然在战斗中偶尔会折断爪子，\n但到第二天就会长出新的来。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "越是在湿度低的地方生活的\n穿山王，背上的尖刺摸起来\n就越是坚硬光滑。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "会将锐利的爪子钩在树上爬树。\n这是为了设法使树果掉落，\n分给等在树下的穿山鼠们。"
+      }
+    ]
+  }
+}

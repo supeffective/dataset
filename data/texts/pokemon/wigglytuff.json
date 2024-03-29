@@ -1,0 +1,549 @@
+{
+  "jap": {
+    "name": "プクリン",
+    "genus": "ふうせんポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "２ひき　よりそいあうと　おたがいの\nけがわが　きもちよすぎて\nはなれられなく　なってしまう。"
+      },
+      {
+        "game": "xy-y",
+        "text": "ボディーに　だんりょくせいが　あり\nおこらせると　いきを　すいこんで\nどんどん　おおきく　ふくらむ。"
+      },
+      {
+        "game": "oras-or",
+        "text": "おおきな　まるい　ひとみの　ひょうめんには\nなみだの　うすい　まくが　いつも　はっている。\nほこりが　ついても　すぐに　あらい　ながされる。"
+      },
+      {
+        "game": "oras-as",
+        "text": "だんりょくせいに　すぐれた　からだは　おおきく\nいきを　すいこむと　どこまでも　ふくれていく。\nふくらんだ　プクリンは　ふんわり　はねるよ。"
+      },
+      {
+        "game": "sm-s",
+        "text": "ふわふわの　けは　きせつの　かわりめに\nぬけおちる。　それを　ひろいあつめて\nつむいだ　けいとは　こうきゅうひん。"
+      },
+      {
+        "game": "sm-m",
+        "text": "いきを　すって　どんどん　ふくらむ。\nプクリンどうしは　どっちが　おおきく\nふくらめるか　しょうぶ　するよ。"
+      },
+      {
+        "game": "usum-us",
+        "text": "だんりょくの　ある　ボディーと\nキメこまやかな　けがわが　にんき。\nだきしめて　ねると　きもちいい。"
+      },
+      {
+        "game": "usum-um",
+        "text": "おこると　おもいっきり　いきを\nすいこみ　どんどん　ふくらんでいく。\nなんと　２０ばいに　なることもある。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "だんりょくせいに　すぐれた　からだは\nおおきく　いきを　すいこむと\nどこまでも　ふくらんでいく。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "だんりょくせいに　すぐれた　からだは\nおおきく　いきを　すいこむと\nどこまでも　ふくらんでいく。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "いきを　すえば　すうほど　ふくらむ。\nふきげんになると　からだを　おおきく\nふくらませて　あいてを　いあつする。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "キメこまやかな　たいもうが　じまん。\nとくに　ひたいの　まきげは　てんにも\nのぼる　ごくじょうの　てざわり。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Pukurin",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "푸크린",
+    "genus": "풍선포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "2마리가 바싹 붙어 있으면 서로의\n털이 너무 기분 좋아서\n떨어지지 않게 되어버린다."
+      },
+      {
+        "game": "xy-y",
+        "text": "몸에 탄력성이 있어\n화나게 하면 숨을 들이켜서\n점점 몸을 크게 부풀린다."
+      },
+      {
+        "game": "oras-or",
+        "text": "크고 동그란 눈동자 표면에는\n항상 얇은 눈물 막이 쳐져 있다.\n먼지가 들어가도 바로 씻겨 나간다."
+      },
+      {
+        "game": "oras-as",
+        "text": "탄력이 뛰어난 몸은 크게\n숨을 들이마시면 한없이 부푼다.\n부푼 푸크린은 두둥실 떠오른다."
+      },
+      {
+        "game": "sm-s",
+        "text": "푹신푹신한 털은 계절이 바뀔 때\n빠진다. 그걸 모아서\n뽑아낸 털실은 고급품이다."
+      },
+      {
+        "game": "sm-m",
+        "text": "숨을 들이마셔서 점점 부풀어 오른다.\n푸크린끼리는 누가 크게\n부풀어 오르나 대결한다."
+      },
+      {
+        "game": "usum-us",
+        "text": "탄력 있는 몸과\n세밀한 결의 모피가 인기다.\n껴안고 자면 기분 좋다."
+      },
+      {
+        "game": "usum-um",
+        "text": "화가 나면 힘껏 숨을\n들이쉬어서 점점 부풀어 오른다.\n무려 20배로 커질 때도 있다."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "탄력성이 뛰어난 몸은\n크게 숨을 들이마시면\n끝없이 부풀어 오른다."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "탄력성이 뛰어난 몸은\n크게 숨을 들이마시면\n끝없이 부풀어 오른다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "숨을 들이쉬면 쉴수록 몸이 부푼다.\n기분이 나빠지면 몸을 커다랗게\n부풀려 상대에게 위압을 가한다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "얇고 고운 털을 가졌다.\n특히 이마에 동그랗게 말린 털은\n하늘을 날 듯한 최고의 감촉을 지녔다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "胖可丁",
+    "genus": "氣球寶可夢",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "蓬鬆的毛髮會隨季節變遷而掉落。\n收集這些毛髮所紡織成的\n毛線是高級商品。"
+      },
+      {
+        "game": "sm-m",
+        "text": "連續不停吸氣，不斷地膨脹起來。\n胖可丁之間會互相比試誰脹得比較大哦。"
+      },
+      {
+        "game": "usum-us",
+        "text": "富有彈性的身體和\n細緻的毛皮深受人們喜愛。\n抱著牠睡覺是件很舒服的事。"
+      },
+      {
+        "game": "usum-um",
+        "text": "生氣時會拼命吸氣，\n讓自己的身體不斷膨脹。\n有時甚至能脹大到原來的２０倍。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "身體非常有彈性，\n當牠用力吸氣時，\n身體可以無限制地膨脹。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "身體非常有彈性，\n當牠用力吸氣時，\n身體可以無限制地膨脹。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "越吸氣就越會膨脹。\n心情變壞時，會鼓氣撐大\n身體來威嚇對方。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "以自己細緻的體毛為傲。\n尤其額頭上的捲毛，更是有著\n彷彿會一摸升天的極致觸感。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Grodoudou",
+    "genus": "Pokémon Bouboule",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Sa fourrure est d’une douceur\nincomparable au toucher. Il \npeut gonfler en aspirant de l’air."
+      },
+      {
+        "game": "bw-w",
+        "text": "Sa fourrure est d’une douceur\nincomparable au toucher. Il \npeut gonfler en aspirant de l’air."
+      },
+      {
+        "game": "xy-x",
+        "text": "Leur fourrure est si douce que s’ils se font des câlins,\nils ne voudront plus se séparer."
+      },
+      {
+        "game": "xy-y",
+        "text": "En cas de danger, il gonfle d’air son corps doux et\npotelé dans des proportions gigantesques."
+      },
+      {
+        "game": "oras-or",
+        "text": "Grodoudou a des yeux immenses et écarquillés. La surface\nde ses yeux est couverte d’une fine couche de larmes.\nSi de la poussière est projetée dans les yeux de ce Pokémon,\nelle est rapidement évacuée."
+      },
+      {
+        "game": "oras-as",
+        "text": "Le corps de Grodoudou est très élastique. S’il inspire\nprofondément, ce Pokémon peut se gonfler à volonté.\nUne fois gonflé, Grodoudou peut rebondir comme un ballon."
+      },
+      {
+        "game": "sm-s",
+        "text": "Son pelage est doux et soyeux, mais il en\nchange à chaque saison. Certains le récupèrent\net en font des manteaux de grand luxe."
+      },
+      {
+        "game": "sm-m",
+        "text": "Il aime se gonfler d’air au maximum. Les conflits\nde Grodoudou se règlent en regardant lequel\nréussit à se faire plus gros que les autres."
+      },
+      {
+        "game": "usum-us",
+        "text": "Il est célébré pour son corps élastique et son\npelage soyeux. Quel bonheur que de faire une\nsieste en serrant un Grodoudou contre soi !"
+      },
+      {
+        "game": "usum-um",
+        "text": "Lorsqu’il se fâche, il se gonfle d’air et peut\natteindre jusqu’à vingt fois son volume normal."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Son corps est malléable. En aspirant de l’air,\nil se gonfle jusqu’à atteindre des proportions\ngigantesques."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Son corps est malléable. En aspirant de l’air,\nil se gonfle jusqu’à atteindre des proportions\ngigantesques."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Son corps gonfle à mesure qu’il inspire de l’air.\nIl se sert de cette particularité pour se grandir\net intimider son adversaire quand il est en colère."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Sa fourrure soyeuse fait sa fierté. La touffe\nsur son front est si douce que la caresser\ndonne l’impression d’être sur un petit nuage."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Knuddeluff",
+    "genus": "Ballon-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Sein Fell ist so flauschig, dass, wenn zwei\nzusammenstehen, sie nicht getrennt werden möchten."
+      },
+      {
+        "game": "xy-y",
+        "text": "Der Körper dieses Pokémon ist sehr elastisch.\nBei Gefahr bläht es sich zu enormer Körpergröße auf."
+      },
+      {
+        "game": "oras-or",
+        "text": "Knuddeluff hat handtellergroße Augen, die immer mit\nTränenflüssigkeit bedeckt sind. Gerät Staub in die Augen\ndieses Pokémon, so wird dieser sofort ausgespült."
+      },
+      {
+        "game": "oras-as",
+        "text": "Knuddeluffs Körper ist sehr dehnbar. Indem es tief einatmet,\nkann sich dieses Pokémon selbst aufblasen. Wenn es\naufgepumpt ist, hüpft es wie ein Luftballon umher."
+      },
+      {
+        "game": "sm-s",
+        "text": "Pünktlich zum Wechsel der Jahreszeiten streift\nes sein kuschelig weiches Fell ab. Der Stoff, der\nsich daraus spinnen lässt, gilt als Luxusgut."
+      },
+      {
+        "game": "sm-m",
+        "text": "Es kann sich größer machen, indem es Luft\neinatmet. Mit Artgenossen wetteifert es, wer\nsich am meisten aufblasen kann."
+      },
+      {
+        "game": "usum-us",
+        "text": "Dank seines elastischen Körpers und feinen\nFells ist es sehr beliebt. Es fühlt sich herrlich\nan, mit Knuddeluff in den Armen einzuschlafen."
+      },
+      {
+        "game": "usum-um",
+        "text": "Ist es verärgert, atmet es möglichst viel Luft ein\nund bläst damit sein Volumen auf das bis zu\nZwanzigfache auf."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Knuddeluff verfügt über einen sehr elastischen\nKörper. Es kann sich mit einem tiefen Atemzug\nzu schier grenzenloser Größe aufblasen."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Knuddeluff verfügt über einen sehr elastischen\nKörper. Es kann sich mit einem tiefen Atemzug\nzu schier grenzenloser Größe aufblasen."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Je mehr Luft es einatmet, desto größer wird es.\nIst es verärgert, bläst es seinen Körper enorm auf\nund schüchtert so seine Gegner ein."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Knuddeluffs weiches Fell ist sein ganzer Stolz.\nBesonders die Locke auf seiner Stirn fühlt sich\nherrlich an."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Wigglytuff",
+    "genus": "Pokémon Globo",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Su piel es tan suave que si dos de ellos se acurrucan\njuntos, no querrán separarse nunca."
+      },
+      {
+        "game": "xy-y",
+        "text": "Su cuerpo es blando y gomoso. Cuando se enfada,\ntraga aire y se hincha muchísimo."
+      },
+      {
+        "game": "oras-or",
+        "text": "Wigglytuff tiene unos ojos enormes con forma de platillo, que\nsiempre están cubiertos de lágrimas. Si se le metiera algo en\nel ojo, enseguida se le saldría solo."
+      },
+      {
+        "game": "oras-as",
+        "text": "El cuerpo de Wigglytuff es muy flexible. Dicen que, al aspirar\naire, puede hincharse sin límites. Y, una vez hinchado, se\npone a botar como si fuera una pelota."
+      },
+      {
+        "game": "sm-s",
+        "text": "Este Pokémon muda con las estaciones su\npelaje suave y sedoso, que algunos recogen\npara elaborar artículos de lujo."
+      },
+      {
+        "game": "sm-m",
+        "text": "Puede hinchar su cuerpo tragando aire. Los\nWigglytuff suelen competir para ver quién es\ncapaz de hincharse más."
+      },
+      {
+        "game": "usum-us",
+        "text": "Su cuerpo flexible y su pelaje suave y sedoso lo\nhacen muy popular. Muchos encuentran\nreconfortante dormir abrazándolo."
+      },
+      {
+        "game": "usum-um",
+        "text": "Cuando se enfada, inhala con fuerza e hincha\nsu cuerpo hasta aumentar incluso 20 veces su\ntamaño normal."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Su cuerpo es muy elástico. Cuando inhala aire\nprofundamente, puede inflarse sin límite."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Su cuerpo es muy elástico. Cuando inhala aire\nprofundamente, puede inflarse sin límite."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Cuanto más aire inhala, más aumenta de tamaño.\nSi se enfada, hincha el cuerpo con el fin de\nintimidar a su oponente."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Se enorgullece de su pelaje fino y sedoso. El rizo\nde la frente, en especial, posee un tacto sublime."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Wigglytuff",
+    "genus": "Pokémon Pallone",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Hanno un pelo così morbido che se due di loro\nsi abbracciano non vogliono più separarsi."
+      },
+      {
+        "game": "xy-y",
+        "text": "Il suo corpo è morbido e gommoso. Se si arrabbia,\naspira aria e si gonfia enormemente."
+      },
+      {
+        "game": "oras-or",
+        "text": "Wigglytuff è dotato di occhi grandi come dischi, resi lucidi\nda un sottile strato lacrimale in superficie. Se gli va della\npolvere negli occhi, questa è lavata via subito."
+      },
+      {
+        "game": "oras-as",
+        "text": "Wigglytuff è molto elastico. Se respira profondamente, questo\nPokémon riesce a gonfiarsi praticamente all’infinito. Una volta\ngonfio, Wigglytuff rimbalza leggero come un pallone."
+      },
+      {
+        "game": "sm-s",
+        "text": "Al cambio di stagione perde il suo morbido\nmanto, che può essere raccolto e filato per\nrealizzare prodotti di lusso."
+      },
+      {
+        "game": "sm-m",
+        "text": "Respira profondamente per gonfiarsi più\nche può. Fa a gara con altri Wigglytuff a chi\nsi gonfia di più."
+      },
+      {
+        "game": "usum-us",
+        "text": "È molto amato per l’elasticità del suo corpo\ne la morbidezza della sua pelliccia. Dormire\nabbracciati a questo Pokémon è molto piacevole."
+      },
+      {
+        "game": "usum-um",
+        "text": "Se si arrabbia, aspira quanta più aria possibile\ne si gonfia enormemente, fino ad aumentare la\nsua taglia anche di 20 volte."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Il suo corpo è estremamente elastico e può\ngonfiarsi fino a dimensioni impressionanti."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Il suo corpo è estremamente elastico e può\ngonfiarsi fino a dimensioni impressionanti."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Più aria inala, più il suo corpo si gonfia.\nSe è di cattivo umore, si gonfia per intimidire\nl’avversario."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Va molto fiero del suo manto soffice. Il ricciolo\nsulla fronte, in particolare, suscita una sensazione\nsublime al tatto."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Wigglytuff",
+    "genus": "Balloon Pokémon",
+    "flavorText": [
+      {
+        "game": "rb-r",
+        "text": "The body is soft\nand rubbery. When\nangered, it will\fsuck in air and\ninflate itself to\nan enormous size."
+      },
+      {
+        "game": "rb-b",
+        "text": "The body is soft\nand rubbery. When\nangered, it will\fsuck in air and\ninflate itself to\nan enormous size."
+      },
+      {
+        "game": "y",
+        "text": "Its body is full\nof elasticity. By\ninhaling deeply,\fit can continue\nto inflate itself\nwithout limit."
+      },
+      {
+        "game": "gs-g",
+        "text": "Their fur feels so\ngood that if two\nof them snuggle\ftogether, they\nwon't want to be\nseparated."
+      },
+      {
+        "game": "gs-s",
+        "text": "It has a very fine\nfur. Take care not\nto make it angry,\for it may inflate\nsteadily and hit\nwith a BODY SLAM."
+      },
+      {
+        "game": "c",
+        "text": "The rich, fluffy\nfur that covers\nits body feels so\fgood that anyone\nwho feels it can't\nstop touching it."
+      },
+      {
+        "game": "rs-r",
+        "text": "WIGGLYTUFF has large, saucerlike eyes.\nThe surfaces of its eyes are always\ncovered with a thin layer of tears.\fIf any dust gets in this POKéMON’s\neyes, it is quickly washed away."
+      },
+      {
+        "game": "rs-s",
+        "text": "WIGGLYTUFF’s body is very flexible.\nBy inhaling deeply, this POKéMON can\ninflate itself seemingly without end.\fOnce inflated, WIGGLYTUFF bounces\nalong lightly like a balloon."
+      },
+      {
+        "game": "e",
+        "text": "Its fur is the ultimate in luxuriousness.\nSleeping alongside a WIGGLYTUFF is simply\ndivine. Its body expands seemingly without\nend when it inhales."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "Its fur is extremely fine, dense, and\nsupple. The exquisitely pleasant fur\nconveys an image of luxury."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "The body is soft and rubbery. When\nangered, it will suck in air and inflate\nitself to an enormous size."
+      },
+      {
+        "game": "dp-d",
+        "text": "Its fine fur feels sublime to the\ntouch. It can expand its body by\ninhaling air."
+      },
+      {
+        "game": "dp-p",
+        "text": "Its fine fur feels sublime to the\ntouch. It can expand its body by\ninhaling air."
+      },
+      {
+        "game": "pt",
+        "text": "Its fine fur feels sublime to the\ntouch. It can expand its body by\ninhaling air."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "Their fur feels so good that if two\nof them snuggle together,\nthey won’t want to be separated."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "It has a very fine fur. Take care not\nto make it angry, or it may inflate\nsteadily and hit with a body slam."
+      },
+      {
+        "game": "bw-b",
+        "text": "Its fine fur feels sublime to the\ntouch. It can expand its body by\ninhaling air."
+      },
+      {
+        "game": "bw-w",
+        "text": "Its fine fur feels sublime to the\ntouch. It can expand its body by\ninhaling air."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "Its fine fur feels so pleasant,\nthose who accidentally touch it\ncannot take their hands away."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "Its fine fur feels so pleasant,\nthose who accidentally touch it\ncannot take their hands away."
+      },
+      {
+        "game": "xy-x",
+        "text": "Their fur feels so good that if two of them snuggle\ntogether, they won’t want to be separated."
+      },
+      {
+        "game": "xy-y",
+        "text": "The body is soft and rubbery. When angered,\nit will suck in air and inflate itself to an\nenormous size."
+      },
+      {
+        "game": "oras-or",
+        "text": "Wigglytuff has large, saucerlike eyes. The surfaces of its eyes\nare always covered with a thin layer of tears. If any dust gets in\nthis Pokémon’s eyes, it is quickly washed away."
+      },
+      {
+        "game": "oras-as",
+        "text": "Wigglytuff’s body is very flexible. By inhaling deeply,\nthis Pokémon can inflate itself seemingly without end.\nOnce inflated, Wigglytuff bounces along lightly like a balloon."
+      },
+      {
+        "game": "sm-s",
+        "text": "It sheds its fine fur when the seasons change.\nThe fur is gathered and spun into a\nluxurious yarn."
+      },
+      {
+        "game": "sm-m",
+        "text": "As it inhales, it expands...and expands...and\nexpands. Wigglytuff compete to see which one\ncan inflate itself the most."
+      },
+      {
+        "game": "usum-us",
+        "text": "Thanks to its bouncy body and fine fur,\nthis Pokémon is sought after. Holding one\nin your arms while you sleep feels great."
+      },
+      {
+        "game": "usum-um",
+        "text": "When it gets angry, it inhales with all its might,\nand its body gradually inflates. Sometimes they\ncan grow 20 times larger!"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Its body is very elastic. By inhaling deeply,\nit can continue to inflate itself without limit."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Its body is very elastic. By inhaling deeply,\nit can continue to inflate itself without limit."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "The more air it takes in, the more it inflates. If\nopponents catch it in a bad mood, it will inflate\nitself to an enormous size to intimidate them."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "It’s proud of its fur, which is fine and delicate.\nIn particular, the curl on its forehead has a\ntexture that’s perfectly heavenly."
+      }
+    ]
+  },
+  "chs": {
+    "name": "胖可丁",
+    "genus": "气球宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "蓬松的毛发会随着季节转换\n而掉落。收集这些毛发后\n纺织成的毛线是高级商品。"
+      },
+      {
+        "game": "sm-m",
+        "text": "连续不停吸气，不断地膨胀起来。\n胖可丁之间会互相比较谁胀得大哦。"
+      },
+      {
+        "game": "usum-us",
+        "text": "富有弹性的身体和细腻的\n毛皮很受人们的喜爱。\n抱着它睡会感觉很惬意。"
+      },
+      {
+        "game": "usum-um",
+        "text": "生起气来就会死命地\n吸气让自己不断膨胀。\n有时甚至能胀大到原来的２０倍。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "身体非常有弹性，\n当它用力吸气时，\n身体可以无限制地膨胀。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "身体非常有弹性，\n当它用力吸气时，\n身体可以无限制地膨胀。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "吸越多气，身体就会胀得越大。\n要是心情不好了，就会\n把身体胀大来威吓对方。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "以自己细腻的体毛为傲。\n尤其是额头上的卷毛，\n更是有着天堂般的极致触感。"
+      }
+    ]
+  }
+}

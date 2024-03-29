@@ -1,0 +1,393 @@
+{
+  "jap": {
+    "name": "ドーブル",
+    "genus": "えかきポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "しっぽを　ふでのように　つかって\nなわばりに　マークを　えがく。\nその　しゅるいは　５０００いじょう。"
+      },
+      {
+        "game": "xy-y",
+        "text": "おとなになると　なかまから\nせなかに　あしあとの　マークを\nつけられる　しゅうせいを　もつ。"
+      },
+      {
+        "game": "oras-or",
+        "text": "しっぽの　さきから　にじみでる　たいえきで\nなわばりの　まわりに　じぶんの　マークを　かく。\n５０００　しゅるいの　マークが　みつかっている。"
+      },
+      {
+        "game": "oras-as",
+        "text": "しっぽの　さきから　にじみでる　たいえきで\nなわばりの　まわりに　じぶんの　マークを　かく。\n５０００　しゅるいの　マークが　みつかっている。"
+      },
+      {
+        "game": "sm-s",
+        "text": "シッポの　さきから　にじみでてくる\nたいえきで　どくじの　マークを\nえがいて　なわばりを　アピール。"
+      },
+      {
+        "game": "sm-m",
+        "text": "じぶんの　なわばりを　しめす　マークを\nえがきちらすので　ドーブルの　おおい\nまちの　かべは　らくがき　だらけ。"
+      },
+      {
+        "game": "usum-us",
+        "text": "シッポの　さきから　でる　たいえきは\nドーブルの　かんじょうに　よって\nいろあいが　へんか　するのだ。"
+      },
+      {
+        "game": "usum-um",
+        "text": "シッポの　さきから　でる　たいえきで\nマークを　えがく。　マークに　よっては\nマニアに　たかねで　とりひきされる。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Doble",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "루브도",
+    "genus": "그림장이포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "꼬리를 붓처럼 써서\n영역에 마크를 그린다.\n그 종류는 5000개 이상이다."
+      },
+      {
+        "game": "xy-y",
+        "text": "어른이 되면 동료로부터\n등에 발자국 마크를\n받는 습성을 가진다."
+      },
+      {
+        "game": "oras-or",
+        "text": "꼬리 끝에서 배어 나오는 체액으로\n영역 주변에 자신의 마크를 그린다.\n5000종의 마크가 발견됐다."
+      },
+      {
+        "game": "oras-as",
+        "text": "꼬리 끝에서 배어 나오는 체액으로\n영역 주변에 자신의 마크를 그린다.\n5000종의 마크가 발견됐다."
+      },
+      {
+        "game": "sm-s",
+        "text": "꼬리의 끝에서 배어 나오는\n체액으로 독자적인 마크를\n그려 영역을 어필한다."
+      },
+      {
+        "game": "sm-m",
+        "text": "자신의 영역을 나타내는 마크를\n여기저기 그리기 때문에 루브도가 많은\n동네의 벽은 낙서투성이다."
+      },
+      {
+        "game": "usum-us",
+        "text": "꼬리 끝에서 나오는 체액은\n루브도의 감정에 따라\n색조가 변화한다."
+      },
+      {
+        "game": "usum-um",
+        "text": "꼬리 끝에서 나오는 체액으로\n마크를 그린다. 마크에 따라서는\n마니아에게 비싼 값에 거래된다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "圖圖犬",
+    "genus": "畫畫寶可夢",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "用從尾巴尖端慢慢滲出的\n體液繪出獨有的標記，\n用以宣告自己的地盤。"
+      },
+      {
+        "game": "sm-m",
+        "text": "會到處畫下展示自己地盤的標記，\n所以在圖圖犬比較多的城市，\n路邊牆上到處都是這些塗鴉。"
+      },
+      {
+        "game": "usum-us",
+        "text": "從尾巴尖端滲出的體液\n會隨著圖圖犬的情緒變化\n而出現不同的顏色。"
+      },
+      {
+        "game": "usum-um",
+        "text": "會用尾巴前端分泌出的液體\n畫下標記。其中有些標記會\n吸引愛好者以高價買賣。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Queulorior",
+    "genus": "Pokémon Peintre",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Il marque son territoire en maniant\nsa queue comme un pinceau. On\ndénombre plus de 5 000 marques."
+      },
+      {
+        "game": "bw-w",
+        "text": "Il marque son territoire en maniant\nsa queue comme un pinceau. On\ndénombre plus de 5 000 marques."
+      },
+      {
+        "game": "xy-x",
+        "text": "Il marque son territoire en maniant sa queue comme\nun pinceau. On dénombre plus de 5 000 marques."
+      },
+      {
+        "game": "xy-y",
+        "text": "Arrivé à l’âge adulte, il laisse ses camarades poser\nleur empreinte de patte sur son dos."
+      },
+      {
+        "game": "oras-or",
+        "text": "Queulorior délimite son territoire en libérant un fluide corporel\nqui sort de sa queue. On a découvert plus de 5 000 traces\ndifférentes de fluide laissées par ce Pokémon."
+      },
+      {
+        "game": "oras-as",
+        "text": "Queulorior délimite son territoire en libérant un fluide corporel\nqui sort de sa queue. On a découvert plus de 5 000 traces\ndifférentes de fluide laissées par ce Pokémon."
+      },
+      {
+        "game": "sm-s",
+        "text": "Ce Pokémon marque son territoire en peignant\nà l’aide du liquide suintant du bout de sa queue."
+      },
+      {
+        "game": "sm-m",
+        "text": "Ce Pokémon peint pour marquer son territoire.\nOn reconnaît les villes peuplées de nombreux\nQueulorior à leurs murs recouverts de graffitis."
+      },
+      {
+        "game": "usum-us",
+        "text": "La teinte du liquide qui coule de sa queue varie\nen fonction de son humeur."
+      },
+      {
+        "game": "usum-um",
+        "text": "Il se sert du liquide qui sort de sa queue pour\ndessiner sa marque. Ses fans s’arrachent ses\nplus beaux tracés à prix d’or."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Farbeagle",
+    "genus": "Maler",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Sein Revier markiert es mit seinem pinselartigen\nSchweif. Es kennt mehr als 5 000 Markierungen."
+      },
+      {
+        "game": "xy-y",
+        "text": "Ist es erwachsen, lässt es sich gern von seinen\nKameraden Fußabdrücke auf den Rücken setzen."
+      },
+      {
+        "game": "oras-or",
+        "text": "Farbeagle markiert sein Revier mit einer Flüssigkeit,\ndie aus seiner Schweifspitze austritt. Es wurden über\n5 000 unterschiedliche Markierungen entdeckt,\ndie dieses Pokémon hinterlassen hat."
+      },
+      {
+        "game": "oras-as",
+        "text": "Farbeagle markiert sein Revier mit einer Flüssigkeit,\ndie aus seiner Schweifspitze austritt. Es wurden über\n5 000 unterschiedliche Markierungen entdeckt,\ndie dieses Pokémon hinterlassen hat."
+      },
+      {
+        "game": "sm-s",
+        "text": "Farbeagle markiert sein Revier mit einer\nFlüssigkeit, die aus seiner Schweifspitze\naustritt."
+      },
+      {
+        "game": "sm-m",
+        "text": "Hinterlässt allerlei Markierungen, um sein Revier\nzu kennzeichnen. Wände in Städten mit vielen\nFarbeagle sind daher ziemlich vollgeschmiert."
+      },
+      {
+        "game": "usum-us",
+        "text": "Der Farbton der Flüssigkeit, die aus seiner\nSchweifspitze austritt, ändert sich je nach\nGefühlslage."
+      },
+      {
+        "game": "usum-um",
+        "text": "Mit der Flüssigkeit, die aus seiner Schweifspitze\naustritt, hinterlässt es Markierungen. Die besten\nwerden unter Fans zu hohen Preisen gehandelt."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Smeargle",
+    "genus": "Pokémon Pintor",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Marca su territorio usando su cola a modo de pincel.\nHa hecho más de 5000 marcas diferentes."
+      },
+      {
+        "game": "xy-y",
+        "text": "Cuando llega a adulto, suele dejar que sus camaradas\ndejen sus huellas sobre su lomo."
+      },
+      {
+        "game": "oras-or",
+        "text": "Smeargle marca los límites de su territorio liberando un fluido\ncorporal por el extremo de la cola. En la actualidad se han\nencontrado más de 5000 tipos de marcas distintas dejadas\npor este Pokémon."
+      },
+      {
+        "game": "oras-as",
+        "text": "Smeargle marca los límites de su territorio liberando un fluido\ncorporal por el extremo de la cola. En la actualidad se han\nencontrado más de 5000 tipos de marcas distintas dejadas\npor este Pokémon."
+      },
+      {
+        "game": "sm-s",
+        "text": "Smeargle marca los límites de su territorio\ndibujando marcas personales con el fluido\nque libera por la punta de la cola."
+      },
+      {
+        "game": "sm-m",
+        "text": "Los muros de las ciudades donde viven\nSmeargle están llenos de las marcas que van\ndejando para indicar los límites de su territorio."
+      },
+      {
+        "game": "usum-us",
+        "text": "La tonalidad del líquido que libera por la cola\ncambia en función de su estado anímico."
+      },
+      {
+        "game": "usum-um",
+        "text": "Dibuja marcas con el líquido que secreta por la\ncola. Algunos de sus admiradores han llegado a\npagar auténticas fortunas por ellas."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Smeargle",
+    "genus": "Pokémon Pittore",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Delimita il suo territorio usando la coda come se fosse\nun pennello. Ha lasciato oltre 5000 segni diversi."
+      },
+      {
+        "game": "xy-y",
+        "text": "Quando è adulto tende a farsi lasciare orme di zampe\nsul dorso dai propri compagni."
+      },
+      {
+        "game": "oras-or",
+        "text": "Smeargle delimita i confini del suo territorio con il fluido\ncorporeo secreto dalla punta della coda. Sono state\nrinvenute ben 5000 diverse delimitazioni lasciate\nda questo Pokémon."
+      },
+      {
+        "game": "oras-as",
+        "text": "Smeargle delimita i confini del suo territorio con il fluido\ncorporeo secreto dalla punta della coda. Sono state\nrinvenute ben 5000 diverse delimitazioni lasciate\nda questo Pokémon."
+      },
+      {
+        "game": "sm-s",
+        "text": "Delimita i confini del suo territorio dipingendo\nsegni particolari con il fluido corporeo\nche secerne dalla punta della coda."
+      },
+      {
+        "game": "sm-m",
+        "text": "Marca il suo territorio dipingendo con la coda.\nNelle città che ospitano molti Smeargle, i muri\nsono pieni di graffiti."
+      },
+      {
+        "game": "usum-us",
+        "text": "Dalla punta della coda secerne un fluido\ncorporeo la cui tonalità cambia in base\nalle sue emozioni."
+      },
+      {
+        "game": "usum-um",
+        "text": "Traccia dei segni con il fluido prodotto dalla\npunta della coda. Gli appassionati comprano\nle sue opere a caro prezzo."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Smeargle",
+    "genus": "Painter Pokémon",
+    "flavorText": [
+      {
+        "game": "gs-g",
+        "text": "A special fluid\noozes from the tip\nof its tail. It\fpaints the fluid\neverywhere to mark\nits territory."
+      },
+      {
+        "game": "gs-s",
+        "text": "Once it becomes an\nadult, it has a\ntendency to let\fits comrades plant\nfootprints on its\nback."
+      },
+      {
+        "game": "c",
+        "text": "The color of the\nmysterious fluid\nsecreted from its\ftail is predeter­\nmined for each\nSMEARGLE."
+      },
+      {
+        "game": "rs-r",
+        "text": "SMEARGLE marks the boundaries of its\nterritory using a body fluid that leaks\nout from the tip of its tail.\fOver 5,000 different marks left by this\nPOKéMON have been found."
+      },
+      {
+        "game": "rs-s",
+        "text": "SMEARGLE marks the boundaries of its\nterritory using a body fluid that leaks\nout from the tip of its tail.\fOver 5,000 different marks left by this\nPOKéMON have been found."
+      },
+      {
+        "game": "e",
+        "text": "A SMEARGLE marks its territory using a\nfluid that leaks out from the tip of its\ntail. About 5,000 different marks left by\nthis POKéMON have been found."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "Once it becomes an adult, it has a\ntendency to let its comrades plant\nfootprints on its back."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "A special fluid oozes from the tip of its\ntail. It paints the fluid everywhere to\nmark its territory."
+      },
+      {
+        "game": "dp-d",
+        "text": "It marks its territory by using its\ntail like a paintbrush. There are\nmore than 5,000 different marks."
+      },
+      {
+        "game": "dp-p",
+        "text": "It marks its territory by using its\ntail like a paintbrush. There are\nmore than 5,000 different marks."
+      },
+      {
+        "game": "pt",
+        "text": "It marks its territory by using its\ntail like a paintbrush. There are\nmore than 5,000 different marks."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "A special fluid oozes from the tip\nof its tail. It paints the fluid\neverywhere to mark its territory."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "Once it becomes an adult, it has a\ntendency to let its comrades plant\nfootprints on its back."
+      },
+      {
+        "game": "bw-b",
+        "text": "It marks its territory by using its\ntail like a paintbrush. There are\nmore than 5,000 different marks."
+      },
+      {
+        "game": "bw-w",
+        "text": "It marks its territory by using its\ntail like a paintbrush. There are\nmore than 5,000 different marks."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "It marks its territory by using its\ntail like a paintbrush. There are\nmore than 5,000 different marks."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "It marks its territory by using its\ntail like a paintbrush. There are\nmore than 5,000 different marks."
+      },
+      {
+        "game": "xy-x",
+        "text": "It marks its territory by using its tail like a\npaintbrush. There are more than 5,000\ndifferent marks."
+      },
+      {
+        "game": "xy-y",
+        "text": "Once it becomes an adult, it has a tendency to let\nits comrades plant footprints on its back."
+      },
+      {
+        "game": "oras-or",
+        "text": "Smeargle marks the boundaries of its territory using a body\nfluid that leaks out from the tip of its tail. Over 5,000 different\nmarks left by this Pokémon have been found."
+      },
+      {
+        "game": "oras-as",
+        "text": "Smeargle marks the boundaries of its territory using a body\nfluid that leaks out from the tip of its tail. Over 5,000 different\nmarks left by this Pokémon have been found."
+      },
+      {
+        "game": "sm-s",
+        "text": "The unique creations produced by each\nSmeargle are painted using the fluid that oozes\nfrom its tail. This is how it marks its territory."
+      },
+      {
+        "game": "sm-m",
+        "text": "It draws symbols all over the place to mark its\nterritory. In towns with many Smeargle, the walls\nare covered in graffiti."
+      },
+      {
+        "game": "usum-us",
+        "text": "The fluid of Smeargle’s tail secretions changes\nin the intensity of its hue as the Pokémon’s\nemotions change."
+      },
+      {
+        "game": "usum-um",
+        "text": "It draws symbols with the fluid that oozes from\nthe tip of its tail. Depending on the symbol,\nSmeargle fanatics will pay big money for them."
+      }
+    ]
+  },
+  "chs": {
+    "name": "图图犬",
+    "genus": "画画宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "用从尾巴尖尖慢慢渗出的\n体液绘出独有的标记，\n宣告自己的领地。"
+      },
+      {
+        "game": "sm-m",
+        "text": "到处描绘昭示自己领地的标记，\n所以在图图犬多的街边墙壁上\n全都是这些乱涂乱画的。"
+      },
+      {
+        "game": "usum-us",
+        "text": "从尾巴前端渗出的体液\n会随着图图犬情绪的\n变化而呈现不同的颜色。"
+      },
+      {
+        "game": "usum-um",
+        "text": "会用尾巴前端渗出的体液画下标记。\n对于有些标记，爱好者会以高价买卖。"
+      }
+    ]
+  }
+}

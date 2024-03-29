@@ -1,0 +1,465 @@
+{
+  "jap": {
+    "name": "ミルタンク",
+    "genus": "ちちうしポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "こどもが　うまれたときに\nしぼられた　ミルクには　いつもより\nえいようが　たっぷり　つまっている。"
+      },
+      {
+        "game": "xy-y",
+        "text": "ミルクは　えいようまんてん。\nおとしよりや　びょうきの　ひとに\nとって　さいこうの　のみもの。"
+      },
+      {
+        "game": "oras-or",
+        "text": "まいにち　２０リットルの　ミルクを　だす。\nあまい　ミルクは　おとなも　こどもも　だいすき。\nにがてな　ひとは　ヨーグルトにして　たべている。"
+      },
+      {
+        "game": "oras-as",
+        "text": "まいにち　２０リットルの　ミルクを　だす。\nあまい　ミルクは　おとなも　こどもも　だいすき。\nにがてな　ひとは　ヨーグルトにして　たべている。"
+      },
+      {
+        "game": "sm-s",
+        "text": "そのミルクは　えいようまんてんで\nこうカロリー。　ゆえに　のみすぎると\nミルタンクみたいな　たいけいに　なる。"
+      },
+      {
+        "game": "sm-m",
+        "text": "ミルクを　とるため　そだてる　ひとが\nほとんどだが　かなり　たくましくて\nタフなので　たたかいにも　むいている。"
+      },
+      {
+        "game": "usum-us",
+        "text": "ひに　２０リットルの　ちちを　だす。\nぼくそうの　しつが　よい　とちほど\nだす　ミルクは　コクがあり　うまい。"
+      },
+      {
+        "game": "usum-um",
+        "text": "ミルクは　おいしく　えいようまんてん。\nただし　のみすぎると　おなかが\nくだることも　あるので　ちゅういだ。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "えいよう　まんてんの　ミルクを　だす\nことから　ふるくから　にんげんと\nポケモンの　くらしを　ささえてきた。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "まいにち　ミルクを　しぼらないと\nぐあいが　わるくなる。　ミルクの\nあじは　きせつに　よって　かわるぞ。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Miltank",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "밀탱크",
+    "genus": "젖소포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "새끼가 태어났을 때에\n짜낸 우유는 평상시보다\n영양이 듬뿍 담겨 있다."
+      },
+      {
+        "game": "xy-y",
+        "text": "우유는 영양 만점이다.\n노인과 병든 사람에게\n최고의 음료수다."
+      },
+      {
+        "game": "oras-or",
+        "text": "매일 20리터의 우유가 나온다.\n달콤한 우유는 어른도 아이도 매우 좋아한다.\n싫어하는 사람은 요구르트로 만들어 먹는다."
+      },
+      {
+        "game": "oras-as",
+        "text": "매일 20리터의 우유가 나온다.\n달콤한 우유는 어른도 아이도 매우 좋아한다.\n싫어하는 사람은 요구르트로 만들어 먹는다."
+      },
+      {
+        "game": "sm-s",
+        "text": "그 우유는 영양 만점에\n고칼로리이다. 고로 너무 많이\n마시면 밀탱크 같은 체형이 된다."
+      },
+      {
+        "game": "sm-m",
+        "text": "우유를 얻기 위해 키우는 사람이\n대부분이지만 상당히 늠름하고\n터프해서 싸움에도 적합하다."
+      },
+      {
+        "game": "usum-us",
+        "text": "하루에 20리터의 젖을 짠다.\n목초의 질이 좋은 산지일수록\n밀크는 진해서 맛있다."
+      },
+      {
+        "game": "usum-um",
+        "text": "우유는 맛있고 영양 만점이다.\n단 너무 마시면 배가\n아플 수도 있으므로 주의하자."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "영양 만점의 우유를 만들어내서\n옛날부터 사람과 포켓몬의\n삶을 지탱해왔다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "매일 우유를 짜지 않으면\n컨디션이 나빠진다. 우유의\n맛은 계절에 따라 다르다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "大奶罐",
+    "genus": "乳牛寶可夢",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "牠的牛奶營養豐富且熱量很高。\n如果飲用過量的話\n就會變成大奶罐般的體型。"
+      },
+      {
+        "game": "sm-m",
+        "text": "人們幾乎都是為了生產鮮奶而培育牠，\n但因為相當強壯和結實，\n也很適合參加戰鬥。"
+      },
+      {
+        "game": "usum-us",
+        "text": "每天能生產２０公升的鮮奶。\n當地的牧草越是優質，\n牠所生產的鮮奶就越香濃美味。"
+      },
+      {
+        "game": "usum-um",
+        "text": "牛奶既美味又營養豐富，\n但要小心，如果喝太多了，\n有時可能會拉肚子。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "由於能生產營養滿分的\n鮮奶，自古以來支持著\n人類與寶可夢的生活。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "如果沒有每天擠鮮奶，\n身體的狀況就會變糟。\n鮮奶的風味會隨季節改變。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Écrémeuh",
+    "genus": "Pokémon Vachalait",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "On raconte que les enfants élevés\nau lait d’Écrémeuh deviennent des\nadultes braves et robustes."
+      },
+      {
+        "game": "bw-w",
+        "text": "On raconte que les enfants élevés\nau lait d’Écrémeuh deviennent des\nadultes braves et robustes."
+      },
+      {
+        "game": "xy-x",
+        "text": "Si elle vient d’avoir un petit, son lait est bien plus\nnutritif que d’habitude."
+      },
+      {
+        "game": "xy-y",
+        "text": "Son lait est très nutritif. C’est une boisson parfaite\npour les malades et les personnes âgées."
+      },
+      {
+        "game": "oras-or",
+        "text": "Écrémeuh produit plus de 20 l de lait par jour.\nSon lait sucré fait le bonheur des petits et des grands.\nLes gens qui ne boivent pas de lait en font du yaourt."
+      },
+      {
+        "game": "oras-as",
+        "text": "Écrémeuh produit plus de 20 l de lait par jour.\nSon lait sucré fait le bonheur des petits et des grands.\nLes gens qui ne boivent pas de lait en font du yaourt."
+      },
+      {
+        "game": "sm-s",
+        "text": "Son lait est aussi nutritif qu’hypercalorique.\nÀ consommer avec modération, sous peine de\nfinir avec une silhouette « Écrémeuh-esque »."
+      },
+      {
+        "game": "sm-m",
+        "text": "Ce Pokémon est surtout élevé pour son lait,\nbien que sa stature imposante en fasse un\nPokémon de combat tout à fait respectable."
+      },
+      {
+        "game": "usum-us",
+        "text": "Les 20 litres de lait qu’il produit chaque jour\ngagneront en saveur et en caractère s’il vit\ndans un pâturage de bonne qualité."
+      },
+      {
+        "game": "usum-um",
+        "text": "Son lait est délicieux et très nutritif, mais il ne\nfaut pas en abuser pour éviter d’éventuels\npetits problèmes de digestion."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Grâce à son lait très nutritif, Écrémeuh contribue\ndepuis longtemps au bien-être des humains\net des Pokémon."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Sa santé décline si on ne le trait pas tous les jours.\nLe goût de son lait varie selon la saison."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Miltank",
+    "genus": "Milchkuh-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Wenn es gerade ein Junges hat, dann enthält\nseine Milch mehr Nährstoffe als gewöhnlich."
+      },
+      {
+        "game": "xy-y",
+        "text": "Aufgrund der vielen Nährstoffe stellt seine Milch\ndas ideale Getränk für Kranke und Schwache dar."
+      },
+      {
+        "game": "oras-or",
+        "text": "Miltank gibt täglich 20 l Milch. Sie ist süßlich und wird\nvon Kindern und Erwachsenen gleichermaßen genossen.\nMenschen, die keine Milch trinken, essen sie stattdessen\nals Joghurt."
+      },
+      {
+        "game": "oras-as",
+        "text": "Miltank gibt täglich 20 l Milch. Sie ist süßlich und wird\nvon Kindern und Erwachsenen gleichermaßen genossen.\nMenschen, die keine Milch trinken, essen sie stattdessen\nals Joghurt."
+      },
+      {
+        "game": "sm-s",
+        "text": "Seine Milch ist kalorienreich und enthält viele\nNährstoffe. Trinkt man zu viel davon, hat man\nallerdings selbst bald eine Figur wie Miltank."
+      },
+      {
+        "game": "sm-m",
+        "text": "Den meisten Menschen dient Miltank in erster\nLinie als Milchlieferant, doch es ist stark genug,\num auch im Kampf eine gute Figur abzugeben."
+      },
+      {
+        "game": "usum-us",
+        "text": "Es gibt täglich 20 l Milch. Je besser die Qualität\ndes Grases ist, desto schmackhafter ist sie."
+      },
+      {
+        "game": "usum-um",
+        "text": "Seine Milch ist lecker und nahrhaft. Doch wenn\nman zu viel davon trinkt, kann man Durchfall\nbekommen."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Dank seiner äußerst nährstoffreichen Milch trägt\nMiltank seit langer Zeit zum Wohl von Menschen\nund Pokémon bei."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Miltanks Gesundheit leidet darunter, wenn es\nnicht jeden Tag gemolken wird. Der Geschmack\nseiner Milch ändert sich je nach Jahreszeit."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Miltank",
+    "genus": "Pokémon Lechera",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Si tiene crías, la leche que produce contiene muchos\nmás nutrientes de lo normal."
+      },
+      {
+        "game": "xy-y",
+        "text": "Su leche, rica en nutrientes, es la mejor bebida contra\nel cansancio y la enfermedad."
+      },
+      {
+        "game": "oras-or",
+        "text": "Miltank da al día 20 l de una leche dulce que es la delicia de\npequeños y mayores. Aquellos que no pueden tomarla, se\ndecantan por los yogures."
+      },
+      {
+        "game": "oras-as",
+        "text": "Miltank da al día 20 l de una leche dulce que es la delicia de\npequeños y mayores. Aquellos que no pueden tomarla, se\ndecantan por los yogures."
+      },
+      {
+        "game": "sm-s",
+        "text": "La leche que produce Miltank tiene muchas\ncalorías y es muy nutritiva. Si bebes demasiada,\ntu cuerpo se empezará a parecer al suyo."
+      },
+      {
+        "game": "sm-m",
+        "text": "La mayoría de la gente cría Miltank por su leche,\npero al ser tan resistente, este Pokémon\ntambién puede usarse para combatir."
+      },
+      {
+        "game": "usum-us",
+        "text": "Produce 20 litros de leche al día, que es más\nsabrosa cuanto mejor sea el pasto."
+      },
+      {
+        "game": "usum-um",
+        "text": "La leche de Miltank es deliciosa y nutritiva,\npero, consumida en exceso, puede causar\nretortijones."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Debido a la nutritiva leche que produce, ha\ncontribuido al bienestar de humanos y Pokémon\ndesde tiempos inmemoriales."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Si no se ordeña a Miltank a diario, enferma. El\nsabor de la leche que produce cambia según la\népoca del año."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Miltank",
+    "genus": "Pokémon Bovino",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Se ha appena avuto un piccolo, il latte che produce\nè molto più nutriente del normale."
+      },
+      {
+        "game": "xy-y",
+        "text": "Il suo latte è ricco di sostanze nutrienti, che ne\nfanno il miglior rimedio per chi è stanco o malato."
+      },
+      {
+        "game": "oras-or",
+        "text": "Miltank produce 20 litri di latte al giorno. Il latte è apprezzato\nda adulti e bambini perché leggermente dolce. Chi non può\nbere latte, lo usa per farne uno yogurt squisito."
+      },
+      {
+        "game": "oras-as",
+        "text": "Miltank produce 20 litri di latte al giorno. Il latte è apprezzato\nda adulti e bambini perché leggermente dolce. Chi non può\nbere latte, lo usa per farne uno yogurt squisito."
+      },
+      {
+        "game": "sm-s",
+        "text": "Il suo latte è ricco di sostanze nutritive e molto\ncalorico. Se se ne beve troppo, si finisce per\navere quello che si definisce “girovita Miltank”."
+      },
+      {
+        "game": "sm-m",
+        "text": "Viene allevato principalmente per il latte,\nma poiché è piuttosto forte e robusto,\nè efficace anche nelle lotte."
+      },
+      {
+        "game": "usum-us",
+        "text": "Produce 20 litri di latte al giorno. Più alta è la\nqualità del pascolo, più gustoso sarà il latte."
+      },
+      {
+        "game": "usum-um",
+        "text": "Il suo latte è buono e ricco di sostanze nutritive,\nma se se ne beve troppo, si rischia il mal di\npancia."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Il suo latte altamente nutriente contribuisce\nal sostentamento di persone e Pokémon\nda tempo immemore."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Se non viene munto ogni giorno, la sua salute\nne risente. Il sapore del suo latte può variare\nin base alla stagione."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Miltank",
+    "genus": "Milk Cow Pokémon",
+    "flavorText": [
+      {
+        "game": "gs-g",
+        "text": "Its milk is packed\nwith nutrition,\nmaking it the\fultimate beverage\nfor the sick or\nweary."
+      },
+      {
+        "game": "gs-s",
+        "text": "If it has just had\na baby, the milk\nit produces con­\ftains much more\nnutrition than\nusual."
+      },
+      {
+        "game": "c",
+        "text": "In order to milk a\nMILTANK, one must\nhave a knack for\frhythmically pull­\ning up and down\non its udders."
+      },
+      {
+        "game": "rs-r",
+        "text": "MILTANK gives over five gallons of milk\non a daily basis. Its sweet milk is\nenjoyed by children and grown-ups alike.\fPeople who can’t drink milk turn it into\nyogurt and eat it instead."
+      },
+      {
+        "game": "rs-s",
+        "text": "MILTANK gives over five gallons of milk\non a daily basis. Its sweet milk is\nenjoyed by children and grown-ups alike.\fPeople who can’t drink milk turn it into\nyogurt and eat it instead."
+      },
+      {
+        "game": "e",
+        "text": "It gives over five gallons of milk daily.\nIts sweet milk is enjoyed by children and\ngrown-ups alike. People who can’t drink\nmilk turn it into yogurt and eat it instead."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "If it has just had a baby, the milk it\nproduces contains much more nutrition than\nusual."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "Its milk is packed with nutrition, making\nit the ultimate beverage for the sick or\nweary."
+      },
+      {
+        "game": "dp-d",
+        "text": "It is said that kids who drink\nMILTANK’s milk grow up to become\nhearty, healthy adults."
+      },
+      {
+        "game": "dp-p",
+        "text": "It is said that kids who drink\nMILTANK’s milk grow up to become\nhearty, healthy adults."
+      },
+      {
+        "game": "pt",
+        "text": "It is said that kids who drink\nMILTANK’s milk grow up to become\nhearty, healthy adults."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "Its milk is packed with nutrition,\nmaking it the ultimate beverage\nfor the sick or weary."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "If it is around babies, the milk\nit produces contains much more\nnutrition than usual."
+      },
+      {
+        "game": "bw-b",
+        "text": "It is said that kids who drink\nMiltank’s milk grow up to become\nhearty, healthy adults."
+      },
+      {
+        "game": "bw-w",
+        "text": "It is said that kids who drink\nMiltank’s milk grow up to become\nhearty, healthy adults."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "It is said that kids who drink\nMiltank’s milk grow up to become\nhearty, healthy adults."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "It is said that kids who drink\nMiltank’s milk grow up to become\nhearty, healthy adults."
+      },
+      {
+        "game": "xy-x",
+        "text": "If it is around babies, the milk it produces contains\nmuch more nutrition than usual."
+      },
+      {
+        "game": "xy-y",
+        "text": "Its milk is packed with nutrition, making it the\nultimate beverage for the sick or weary."
+      },
+      {
+        "game": "oras-or",
+        "text": "Miltank gives over five gallons of milk on a daily basis.\nIts sweet milk is enjoyed by children and grown-ups alike.\nPeople who can’t drink milk turn it into yogurt and eat\nit instead."
+      },
+      {
+        "game": "oras-as",
+        "text": "Miltank gives over five gallons of milk on a daily basis. Its\nsweet milk is enjoyed by children and grown-ups alike. People\nwho can’t drink milk turn it into yogurt and eat it instead."
+      },
+      {
+        "game": "sm-s",
+        "text": "Its milk is high in calories and packed with\nnutrients. Therefore, if you drink too much of it,\nyou may wind up with a body like Miltank’s."
+      },
+      {
+        "game": "sm-m",
+        "text": "Most people raise it for its milk, but it’s quite\ntough and strong, so it’s also well suited\nfor battle."
+      },
+      {
+        "game": "usum-us",
+        "text": "It produces over five gallons of milk a day. The\nhigher the quality of the pastures it lives in,\nthe richer and tastier its milk becomes."
+      },
+      {
+        "game": "usum-um",
+        "text": "Its milk is delicious and chock-full of nutrients.\nHowever, if you drink too much, it could make\nyour stomach hurt, so be careful."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Miltank produces highly nutritious milk, so it’s\nbeen supporting the lives of people and other\nPokémon since ancient times."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "This Pokémon needs to be milked every day,\nor else it will fall ill. The flavor of Miltank milk\nchanges with the seasons."
+      }
+    ]
+  },
+  "chs": {
+    "name": "大奶罐",
+    "genus": "奶牛宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "这款牛奶营养丰富且热量很高。\n所以饮用过量的话\n就会变成大奶罐那样的体型。"
+      },
+      {
+        "game": "sm-m",
+        "text": "人们几乎都是为了采集牛奶而培育它，\n但因为相当强壮和结实，\n也会用来战斗。"
+      },
+      {
+        "game": "usum-us",
+        "text": "每天能产出２０升的牛奶。\n越是能长出优质牧草的土地，\n它所产出的牛奶也就越香浓可口。"
+      },
+      {
+        "game": "usum-um",
+        "text": "牛奶很可口又富含营养。\n但要小心，如果喝多了，\n有时就会拉肚子。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "能挤出营养十足的鲜奶，\n因此从很久以前开始就一直\n支持着人类和宝可梦的生活。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "如果不每天帮它挤鲜奶，\n它的身体就会不舒服。\n鲜奶的味道会随季节改变。"
+      }
+    ]
+  }
+}

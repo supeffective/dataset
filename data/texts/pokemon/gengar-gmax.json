@@ -1,0 +1,553 @@
+{
+  "jap": {
+    "name": "ゲンガー",
+    "genus": "シャドーポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "ものかげに　すがたを　かくす。\nゲンガーの　ひそんでいる　へやは\nおんどが　５ど　さがると　いわれる。"
+      },
+      {
+        "game": "xy-y",
+        "text": "よなか　ひとの　かげに　もぐりこみ\nすこしずつ　たいおんを　うばう。\nねらわれると　さむけが　とまらない。"
+      },
+      {
+        "game": "oras-or",
+        "text": "まよなか　がいとうの　あかりで　できた　かげが\nじぶんを　おいこして　いくのは　ゲンガーが\nかげに　なりすまして　はしって　いくからだ。"
+      },
+      {
+        "game": "oras-as",
+        "text": "まよなか　がいとうの　あかりで　できた　かげが\nじぶんを　おいこして　いくのは　ゲンガーが\nかげに　なりすまして　はしって　いくからだ。"
+      },
+      {
+        "game": "sm-s",
+        "text": "とつぜん　さむけに　おそわれたら\nゲンガーに　ねらわれた　しょうこ。\nにげるすべは　ないので　あきらめろ。"
+      },
+      {
+        "game": "sm-m",
+        "text": "にんげんの　いのちを　ねらうのは\nゲンガーは　ひとの　なれのはてで\nみちづれを　つくるためらしい。"
+      },
+      {
+        "game": "usum-us",
+        "text": "わるいこの　ところには　ゲンガーが\nやってくる　という　いいつたえは\nせかいじゅうで　きくことが　できる。"
+      },
+      {
+        "game": "usum-um",
+        "text": "じたくに　いても　キケン。　へやの\nすみに　できた　わずかな　くらがりに\nひそみ　えものを　ねらっている。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "とつぜん　さむけを　かんじるとき\nゲンガーが　ちかくにいる。もしかして\nのろいを　かけるかも　しれない。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "とつぜん　さむけを　かんじるとき\nゲンガーが　ちかくにいる。もしかして\nのろいを　かけるかも　しれない。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "まんげつのよる　かげが　かってに\nうごきだして　わらうのは\nゲンガーの　しわざに　ちがいない。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "やまで　そうなんしたとき\nいのちを　うばいに　くらやみから\nあらわれることが　あるという。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Gangar",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "팬텀",
+    "genus": "그림자포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "그림자에 모습을 숨긴다.\n팬텀이 숨어 있는 방은\n온도가 5도 내려간다고 전해진다."
+      },
+      {
+        "game": "xy-y",
+        "text": "한밤중 사람의 그림자에 숨어들어\n조금씩 체온을 뺏는다.\n숨어들면 한기가 멈추지 않는다."
+      },
+      {
+        "game": "oras-or",
+        "text": "한밤중 가로등 빛에 생겨난 그림자가\n자신을 앞질러 가는 것은 팬텀이\n그림자인 척하며 뛰어가기 때문이다."
+      },
+      {
+        "game": "oras-as",
+        "text": "한밤중 가로등 빛에 생겨난 그림자가\n자신을 앞질러 가는 것은 팬텀이\n그림자인 척하며 뛰어가기 때문이다."
+      },
+      {
+        "game": "sm-s",
+        "text": "갑자기 졸음이 쏟아진다면\n팬텀이 노리고 있다는 증거다.\n도망갈 방법은 없으니 포기하자."
+      },
+      {
+        "game": "sm-m",
+        "text": "인간의 목숨을 노리는 이유는\n팬텀이 인간의 비참한 말로여서\n길동무를 만들기 위해서라고 한다."
+      },
+      {
+        "game": "usum-us",
+        "text": "못된 아이가 있는 곳에 팬텀이\n찾아온다고 하는 이야기는\n전 세계에서 들을 수 있다."
+      },
+      {
+        "game": "usum-um",
+        "text": "집에 있어도 위험하다.\n방구석에 생긴 작은 그림자에\n숨어서 먹이를 노리고 있다."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "갑자기 한기를 느꼈다면\n팬텀이 가까이 있는 것이다.\n어쩌면 저주를 걸지도 모른다."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "갑자기 한기를 느꼈다면\n팬텀이 가까이 있는 것이다.\n어쩌면 저주를 걸지도 모른다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "보름달이 뜬 밤에 그림자가\n멋대로 움직이면서 웃는다면\n팬텀의 소행임이 틀림없다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "산에서 조난하면 목숨을\n빼앗기 위해 어둠 속에서\n나타난다고 한다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "耿鬼",
+    "genus": "影子寶可夢",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "如果突然被寒氣侵襲，\n那就是被耿鬼盯上的證據。\n沒有逃脫之法，所以死心吧。"
+      },
+      {
+        "game": "sm-m",
+        "text": "據說耿鬼之所以要人類的命，\n是因為牠就是人類的末路，\n想要增加旅伴的緣故。"
+      },
+      {
+        "game": "usum-us",
+        "text": "在世界各地都能聽到\n孩子如果不乖的話\n就會被耿鬼找上門的傳說。"
+      },
+      {
+        "game": "usum-um",
+        "text": "即使待在自己家裡也很危險。\n牠會潛伏在房屋角落僅有的\n一丁點陰暗處，伺機捕捉獵物。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "如果突然感覺到一陣惡寒，\n代表耿鬼就在附近。也許牠\n正在對你下詛咒也說不定。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "如果突然感覺到一陣惡寒，\n代表耿鬼就在附近。也許牠\n正在對你下詛咒也說不定。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "滿月的夜晚，如果影子\n自己動起來並露出笑容，\n那肯定是耿鬼搞的鬼。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "據說牠會為了奪取\n山中遇難者的生命\n而從黑暗中出現。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Ectoplasma",
+    "genus": "Pokémon Ombre",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Si vous croisez un regard\ninquiétant qui perce la nuit,\nc’est sûrement un Ectoplasma."
+      },
+      {
+        "game": "bw-w",
+        "text": "Si vous croisez un regard\ninquiétant qui perce la nuit,\nc’est sûrement un Ectoplasma."
+      },
+      {
+        "game": "xy-x",
+        "text": "On dit que lorsqu’Ectoplasma se cache dans l’ombre,\nla température alentour chute de 5 °C."
+      },
+      {
+        "game": "xy-y",
+        "text": "Il se cache dans l’ombre des passants et vole leur\nchaleur. Ses victimes ressentent alors un frisson."
+      },
+      {
+        "game": "oras-or",
+        "text": "Parfois, pendant les nuits noires, une ombre projetée par\nun réverbère peut tout à coup vous dépasser. Il s’agit d’un\nEctoplasma qui court, en se faisant passer pour l’ombre\nde quelqu’un d’autre."
+      },
+      {
+        "game": "oras-as",
+        "text": "Parfois, pendant les nuits noires, une ombre projetée par\nun réverbère peut tout à coup vous dépasser. Il s’agit d’un\nEctoplasma qui court, en se faisant passer pour l’ombre\nde quelqu’un d’autre."
+      },
+      {
+        "game": "sm-s",
+        "text": "Si vous frissonnez soudainement, c’est qu’un\nEctoplasma en veut à votre vie. Vous ne pouvez\ny échapper. Abandonnez toute espérance."
+      },
+      {
+        "game": "sm-m",
+        "text": "S’il attente à la vie des humains, c’est parce\nqu’ils deviendront des Ectoplasma après la mort\net qu’il veut les entraîner avec lui."
+      },
+      {
+        "game": "usum-us",
+        "text": "Les enfants du monde entier redoutent\nla menace de l’Ectoplasma qui viendra les\nchercher s’ils ne sont pas sages."
+      },
+      {
+        "game": "usum-um",
+        "text": "Même chez soi, on n’est pas à l’abri.\nEctoplasma attend, tapi dans un recoin sombre,\npour mieux bondir sur ses proies..."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Si vous êtes pris de frissons soudains, c’est qu’un\nEctoplasma rôde dans les parages. Il pourrait\npeut-être même vous lancer une malédiction."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Si vous êtes pris de frissons soudains, c’est qu’un\nEctoplasma rôde dans les parages. Il pourrait\npeut-être même vous lancer une malédiction."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Un soir de pleine lune, si une ombre se met\nà bouger et éclate de rire, c’est sûrement\nl’œuvre d’un Ectoplasma."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "On dit qu’Ectoplasma surgit parfois des ténèbres\npour prendre la vie des personnes égarées\nen montagne."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Gengar",
+    "genus": "Schatten-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Es versteckt sich im Schatten. Man sagt, wenn sich\nein Gengar versteckt, kühlt es sich um 5 °C ab."
+      },
+      {
+        "game": "xy-y",
+        "text": "Es versteckt sich im Schatten der Menschen und\nabsorbiert deren Wärme, sodass die Menschen frieren."
+      },
+      {
+        "game": "oras-or",
+        "text": "Nachts kann es passieren, dass dich dein Schatten im Licht\neiner Straßenlaterne plötzlich überholt. Dann ist es ein Gengar,\ndas an dir vorbeiläuft und sich als dein Schatten ausgibt."
+      },
+      {
+        "game": "oras-as",
+        "text": "Nachts kann es passieren, dass dich dein Schatten im Licht\neiner Straßenlaterne plötzlich überholt. Dann ist es ein Gengar,\ndas an dir vorbeiläuft und sich als dein Schatten ausgibt."
+      },
+      {
+        "game": "sm-s",
+        "text": "Läuft es einem plötzlich eiskalt den Rücken\nhinunter, wurde man von Gengar als nächstes\nOpfer auserkoren. Widerstand ist zwecklos."
+      },
+      {
+        "game": "sm-m",
+        "text": "Gengar raubt Menschen das Leben, um einen\nBegleiter an seiner Seite zu haben, der wie es\nselbst einmal ein Mensch war."
+      },
+      {
+        "game": "usum-us",
+        "text": "Unartige Kinder holt sich Gengar. So heißt es\nweltweit in mündlichen Überlieferungen."
+      },
+      {
+        "game": "usum-um",
+        "text": "Selbst zu Hause ist man vor Gengar nicht sicher.\nIn den kleinsten Schatten der engsten Winkel\nlauert es auf Beute."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Läuft es einem plötzlich eiskalt den Rücken\nhinunter, ist ein Gengar in der Nähe. Womöglich\nbelegt es einen dann mit einem Fluch."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Läuft es einem plötzlich eiskalt den Rücken\nhinunter, ist ein Gengar in der Nähe. Womöglich\nbelegt es einen dann mit einem Fluch."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Wenn Schatten bei Vollmond plötzlich anfangen,\nsich zu bewegen und zu lachen, steckt zweifellos\nGengar dahinter."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Man sagt, es sei aus Dunkelheit entstanden, um\ndenjenigen, die sich in den Bergen verirrt haben,\ndas Leben zu rauben."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Gengar",
+    "genus": "Pokémon Sombra",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Se esconde entre las sombras. Se dice que donde\nGengar acecha, la temperatura baja 5 °C."
+      },
+      {
+        "game": "xy-y",
+        "text": "De noche, se oculta en las sombras y absorbe el calor\nde la gente. El frío que transmite es estremecedor."
+      },
+      {
+        "game": "oras-or",
+        "text": "Si alguien ve que su sombra le adelanta de repente en una\nnoche oscura, es muy probable que lo que esté viendo no sea\nsu sombra, sino a un Gengar haciéndose pasar por la misma."
+      },
+      {
+        "game": "oras-as",
+        "text": "Si alguien ve que su sombra le adelanta de repente en una\nnoche oscura, es muy probable que lo que esté viendo no sea\nsu sombra, sino a un Gengar haciéndose pasar por la misma."
+      },
+      {
+        "game": "sm-s",
+        "text": "Un descenso repentino de la temperatura es\nseñal de que Gengar está al acecho. Frente a\nesta situación, no hay escapatoria alguna."
+      },
+      {
+        "game": "sm-m",
+        "text": "Parece que el motivo por el que Gengar agrede\na la gente es porque quiere que sus almas\nle hagan compañía."
+      },
+      {
+        "game": "usum-us",
+        "text": "No es raro oír a padres de todos los rincones\ndel mundo advertir a sus hijos que, si no se\nportan bien, un Gengar vendrá a por ellos."
+      },
+      {
+        "game": "usum-um",
+        "text": "Uno no está a salvo ni en su propia casa, pues\nle basta una simple sombra para aparecer y\nabalanzarse sobre su presa."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Sentir un escalofrío repentino es señal de que\nhay un Gengar cerca. Quien lo perciba puede\nconvertirse en víctima de su maldición."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Sentir un escalofrío repentino es señal de que\nhay un Gengar cerca. Quien lo perciba puede\nconvertirse en víctima de su maldición."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Las noches de luna llena, a este Pokémon le\ngusta imitar las sombras de la gente y burlarse\nde sus miedos."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Dicen que sale de la oscuridad para robarles el\nalma a los que se pierden por las montañas."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Gengar",
+    "genus": "Pokémon Ombra",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Si nasconde nell’ombra. Pare che nei luoghi in cui\nGengar si cela, la temperatura si abbassi di 5 °C."
+      },
+      {
+        "game": "xy-y",
+        "text": "Di notte si cela nell’ombra delle vittime per assorbirne\nil calore, provocando loro un tremito."
+      },
+      {
+        "game": "oras-or",
+        "text": "Talvolta, nelle notti buie, può accadere che un passante\nsia improvvisamente assalito dalla propria ombra.\nÈ opera di Gengar, che usa avvicinarsi fingendosi un’ombra."
+      },
+      {
+        "game": "oras-as",
+        "text": "Talvolta, nelle notti buie, può accadere che un passante\nsia improvvisamente assalito dalla propria ombra.\nÈ opera di Gengar, che usa avvicinarsi fingendosi un’ombra."
+      },
+      {
+        "game": "sm-s",
+        "text": "Se all’improvviso si prova un brivido gelido,\nè Gengar che si avvicina.\nFuggire è impossibile, bisogna rassegnarsi."
+      },
+      {
+        "game": "sm-m",
+        "text": "Si dice che piombi sugli esseri umani per\nimpossessarsi del loro spirito affinché gli faccia\ncompagnia."
+      },
+      {
+        "game": "usum-us",
+        "text": "I genitori di tutto il mondo ammoniscono i\nbambini dicendo loro che, se non fanno i bravi,\narriverà Gengar!"
+      },
+      {
+        "game": "usum-um",
+        "text": "Neanche casa propria è un luogo sicuro: Gengar\nsi cela negli angoli bui pronto a impossessarsi\ndello spirito vitale delle sue prede."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Un brivido di freddo improvviso significa che\nGengar è vicino. Meglio stare attenti, perché\nsi rischia di essere colpiti da una maledizione."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Un brivido di freddo improvviso significa che\nGengar è vicino. Meglio stare attenti, perché\nsi rischia di essere colpiti da una maledizione."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Se in una notte di luna piena le ombre iniziano\na muoversi e a ridere, è senza dubbio opera\ndi Gengar."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Si dice che emerga dall’oscurità per sottrarre\nla vita di chi si è perso tra le montagne."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Gengar",
+    "genus": "Shadow Pokémon",
+    "flavorText": [
+      {
+        "game": "rb-r",
+        "text": "Under a full moon,\nthis POKéMON\nlikes to mimic\fthe shadows of\npeople and laugh\nat their fright."
+      },
+      {
+        "game": "rb-b",
+        "text": "Under a full moon,\nthis POKéMON\nlikes to mimic\fthe shadows of\npeople and laugh\nat their fright."
+      },
+      {
+        "game": "y",
+        "text": "A GENGAR is close\nby if you feel a\nsudden chill.\fIt may be trying\nto lay a curse\non you."
+      },
+      {
+        "game": "gs-g",
+        "text": "It steals heat\nfrom its surround­\nings. If you feel\fa sudden chill, it\nis certain that a\nGENGAR appeared."
+      },
+      {
+        "game": "gs-s",
+        "text": "To steal the life\nof its target, it\nslips into the\fprey's shadow and\nsilently waits for\nan opportunity."
+      },
+      {
+        "game": "c",
+        "text": "Hiding in people's\nshadows at night,\nit absorbs their\fheat. The chill it\ncauses makes the\nvictims shake."
+      },
+      {
+        "game": "rs-r",
+        "text": "Sometimes, on a dark night, your shadow\nthrown by a streetlight will suddenly\nand startlingly overtake you.\fIt is actually a GENGAR running past\nyou, pretending to be your shadow."
+      },
+      {
+        "game": "rs-s",
+        "text": "Sometimes, on a dark night, your shadow\nthrown by a streetlight will suddenly\nand startlingly overtake you.\fIt is actually a GENGAR running past\nyou, pretending to be your shadow."
+      },
+      {
+        "game": "e",
+        "text": "Deep in the night, your shadow cast by\na streetlight may suddenly overtake you.\nIt is actually a GENGAR running past\nyou, pretending to be your shadow."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "It is said to emerge from darkness to\nsteal the lives of those who become lost\nin mountains."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "On the night of a full moon, if shadows\nmove on their own and laugh, it must be\nGENGAR’s doing."
+      },
+      {
+        "game": "dp-d",
+        "text": "It hides in shadows. It is said\nthat if GENGAR is hiding, it cools\nthe area by nearly 10 degrees F."
+      },
+      {
+        "game": "dp-p",
+        "text": "Lurking in the shadowy corners\nof rooms, it awaits chances to\nsteal its prey’s life force."
+      },
+      {
+        "game": "pt",
+        "text": "The leer that floats in darkness\nbelongs to a GENGAR delighting in\ncasting curses on people."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "It steals heat from its surroundings.\nIf you feel a sudden chill,\nit is certain that a GENGAR appeared."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "To steal the life of its target, it\nslips into the prey’s shadow and\nsilently waits for an opportunity."
+      },
+      {
+        "game": "bw-b",
+        "text": "The leer that floats in darkness\nbelongs to a Gengar delighting in\ncasting curses on people."
+      },
+      {
+        "game": "bw-w",
+        "text": "The leer that floats in darkness\nbelongs to a Gengar delighting in\ncasting curses on people."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "The leer that floats in darkness\nbelongs to a Gengar delighting in\ncasting curses on people."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "The leer that floats in darkness\nbelongs to a Gengar delighting in\ncasting curses on people."
+      },
+      {
+        "game": "xy-x",
+        "text": "It hides in shadows. It is said that if Gengar\nis hiding, it cools the area by nearly\n10 degrees Fahrenheit."
+      },
+      {
+        "game": "xy-y",
+        "text": "Hiding in people’s shadows at night, it absorbs their\nheat. The chill it causes makes the victims shake."
+      },
+      {
+        "game": "oras-or",
+        "text": "Sometimes, on a dark night, your shadow thrown by a\nstreetlight will suddenly and startlingly overtake you.\nIt is actually a Gengar running past you, pretending to be\nyour shadow."
+      },
+      {
+        "game": "oras-as",
+        "text": "Sometimes, on a dark night, your shadow thrown by a\nstreetlight will suddenly and startlingly overtake you.\nIt is actually a Gengar running past you, pretending to be\nyour shadow."
+      },
+      {
+        "game": "sm-s",
+        "text": "Should you feel yourself attacked by a sudden\nchill, it is evidence of an approaching Gengar.\nThere is no escaping it. Give up."
+      },
+      {
+        "game": "sm-m",
+        "text": "It apparently wishes for a traveling companion.\nSince it was once human itself, it tries to create\none by taking the lives of other humans."
+      },
+      {
+        "game": "usum-us",
+        "text": "You can hear tales told all over the world about\nhow Gengar will pay a visit to children who\nare naughty."
+      },
+      {
+        "game": "usum-um",
+        "text": "Even your home isn’t safe. Gengar will lurk in\nwhatever dark corner of a room it can find and\nwait for its chance to catch its prey."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "A Gengar is close by if you feel a sudden chill.\nIt may be trying to lay a curse on you."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "A Gengar is close by if you feel a sudden chill.\nIt may be trying to lay a curse on you."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "On the night of a full moon, if shadows move on\ntheir own and laugh, it must be Gengar’s doing."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "It is said to emerge from darkness to steal the\nlives of those who become lost in mountains."
+      },
+      {
+        "game": "la",
+        "text": "Possesses potential victims' shadows in an effort to steal away\nthe victims' lives. If your shadow begins to laugh, you must take\nhold of a protective charm posthaste!"
+      }
+    ]
+  },
+  "chs": {
+    "name": "耿鬼",
+    "genus": "影子宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "如果突然被寒气侵袭，\n那就是被耿鬼袭击的证据。\n没有可逃之法，所以死心吧。"
+      },
+      {
+        "game": "sm-m",
+        "text": "耿鬼之所以要夺取人类的性命，\n好像因为它是人类最终的下场，\n所以要找个同伴。"
+      },
+      {
+        "game": "usum-us",
+        "text": "在世界各地都能听到\n耿鬼会去找坏孩子这样的传说。"
+      },
+      {
+        "game": "usum-um",
+        "text": "即使待在自己家里也很危险。\n因为它会潜伏在房屋角落里\n仅有的一点阴暗处伺机捕捉猎物。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "如果你突然感到寒气逼近，\n就说明耿鬼在你身边，或许\n它已经在你身上下了诅咒。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "如果你突然感到寒气逼近，\n就说明耿鬼在你身边，或许\n它已经在你身上下了诅咒。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "满月的夜晚，如果影子\n自己动起来并露出笑容，\n那肯定是耿鬼搞的鬼。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "据说它会为了夺取\n山中遇难者的生命\n而从黑暗中出现。"
+      }
+    ]
+  }
+}

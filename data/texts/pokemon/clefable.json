@@ -1,0 +1,553 @@
+{
+  "jap": {
+    "name": "ピクシー",
+    "genus": "ようせいポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "１キロさきで　おちた　ハリの　おとも\nききわける　すぐれた　みみを　もつ。\nしずかな　やまおくに　すんでいる。"
+      },
+      {
+        "game": "xy-y",
+        "text": "ようせいの　なかまで　めったに\nひとまえに　でてこない。けはいを\nかんじて　すぐ　にげてしまうようだ。"
+      },
+      {
+        "game": "oras-or",
+        "text": "つばさを　つかって　とぶように　スキップ。\nすいめんを　あるく　ことだって　できるのだ。\nしずかな　つきよに　みずうみを　あるく。"
+      },
+      {
+        "game": "oras-as",
+        "text": "つばさを　つかって　とぶように　スキップ。\nすいめんを　あるく　ことだって　できるのだ。\nしずかな　つきよに　みずうみを　あるく。"
+      },
+      {
+        "game": "sm-s",
+        "text": "ひとまえに　すがたを　みせることを\nこのまない。　ふかい　やまの　おくで\nむれに　なって　ひっそり　くらす。"
+      },
+      {
+        "game": "sm-m",
+        "text": "つがいの　ピクシーが　スキップする\nすがたを　みると　しあわせな\nけっこんが　できると　いわれる。"
+      },
+      {
+        "game": "usum-us",
+        "text": "１キロさきで　はりが　おちた　おとも\nきこえてしまうので　ひとやポケモンが\nすくない　ふかいやまおくで　くらす。"
+      },
+      {
+        "game": "usum-um",
+        "text": "まんげつの　ばん　じっと　よぞらを\nみているのは　ホームシックなのだと\nかんがえる　かがくしゃも　いる。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "じぶんたちの　せかいを　だいじに\nしているらしく　めったに　ひとまえに\nでてこない　ようせいの　なかま。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "じぶんたちの　せかいを　だいじに\nしているらしく　めったに　ひとまえに\nでてこない　ようせいの　なかま。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "ようせいの　なかまで　めったに\nひとまえに　でてこない。　けはいを\nかんじて　すぐ　にげてしまうようだ。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "１キロさきに　おちた　はりの　おとも\nきこえるほど　みみが　いいので\nふだんは　しずかな　ところに　いる。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Pixy",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "픽시",
+    "genus": "요정포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "1km 전방에 떨어진 바늘 소리도\n분간할 수 있는 우수한 귀를 가지고\n있다. 조용한 산속에 살고 있다."
+      },
+      {
+        "game": "xy-y",
+        "text": "요정의 동료로 좀처럼\n사람 앞에 나타나지 않는다. 기척을\n느끼면 바로 도망가는 듯하다."
+      },
+      {
+        "game": "oras-or",
+        "text": "날개를 사용하여 날아가듯 뛰어간다.\n물 위를 걷는 것도 할 수 있다.\n조용한 달밤에 호수를 걷는다."
+      },
+      {
+        "game": "oras-as",
+        "text": "날개를 사용하여 날아가듯 뛰어간다.\n물 위를 걷는 것도 할 수 있다.\n조용한 달밤에 호수를 걷는다."
+      },
+      {
+        "game": "sm-s",
+        "text": "사람 앞에 모습을 보이는 것을\n좋아하지 않는다. 깊은 산 속에서\n무리를 지어 조용히 살고 있다."
+      },
+      {
+        "game": "sm-m",
+        "text": "한 쌍의 픽시가 뛰어가는\n모습을 보면 행복한\n결혼을 할 수 있다고 전해진다."
+      },
+      {
+        "game": "usum-us",
+        "text": "1km 떨어진 곳에서 바늘이 떨어지는\n소리도 들을 수 있어 사람과 포켓몬이\n적은 깊은 산속에 산다."
+      },
+      {
+        "game": "usum-um",
+        "text": "보름달이 뜨는 밤에 밤하늘을\n바라보는 이유는 향수병 때문이라고\n생각하는 과학자도 있다."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "자신들의 세계를 소중히\n생각하고 있는 듯 좀처럼 사람 앞에\n나타나지 않는 요정의 일종."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "자신들의 세계를 소중히\n생각하고 있는 듯 좀처럼 사람 앞에\n나타나지 않는 요정의 일종."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "요정의 동료로 좀처럼\n사람 앞에 나타나지 않는다. 기척을\n느끼면 바로 도망가는 듯하다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "1km 앞에 떨어진 바늘 소리가\n들릴 정도로 귀가 좋아\n평소에는 조용한 곳에서 지낸다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "皮可西",
+    "genus": "妖精寶可夢",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "不喜歡在人面前現身。\n喜歡群居在深山裡靜靜地生活。"
+      },
+      {
+        "game": "sm-m",
+        "text": "據說，如果看到一對皮可西\n蹦蹦跳跳的樣子，\n就能獲得幸福的婚姻。"
+      },
+      {
+        "game": "usum-us",
+        "text": "由於連１公里外針落地的聲音\n也能聽見，所以牠生活在很少有\n人或寶可夢出現的深山裡。"
+      },
+      {
+        "game": "usum-um",
+        "text": "也有科學家認為，牠之所以\n會在滿月的晚上盯著夜空看，\n是因為牠在想家。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "妖精的一種。\n似乎非常珍惜自己的世界，\n很少在人們面前現身。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "妖精的一種。\n似乎非常珍惜自己的世界，\n很少在人們面前現身。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "妖精的一種。極少出現在\n人類面前。一感覺到有人\n就會立刻逃走。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "聽覺靈敏，連１公里以外\n針落地的聲音都聽得見，\n因此平時會待在安靜的地方。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Mélodelfe",
+    "genus": "Pokémon Fée",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Il est très farouche et se laisse\nrarement approcher. De plus, il\ndétecte les sons à plus d’1 km."
+      },
+      {
+        "game": "bw-w",
+        "text": "Il est très farouche et se laisse\nrarement approcher. De plus, il\ndétecte les sons à plus d’1 km."
+      },
+      {
+        "game": "xy-x",
+        "text": "Il aime le calme des montagnes. Son ouïe\nexceptionnelle entendrait une aiguille tomber à 1 km."
+      },
+      {
+        "game": "xy-y",
+        "text": "Ce Pokémon est une sorte de petite fée très rare.\nIl court vite se cacher s’il aperçoit un être humain."
+      },
+      {
+        "game": "oras-or",
+        "text": "Les Mélodelfe se déplacent en sautant doucement,\ncomme s’ils volaient. Leur démarche légère leur permet\nmême de marcher sur l’eau. On raconte qu’ils se promènent\nsur les lacs, les soirs où la lune est claire."
+      },
+      {
+        "game": "oras-as",
+        "text": "Les Mélodelfe se déplacent en sautant doucement,\ncomme s’ils volaient. Leur démarche légère leur permet\nmême de marcher sur l’eau. On raconte qu’ils se promènent\nsur les lacs, les soirs où la lune est claire."
+      },
+      {
+        "game": "sm-s",
+        "text": "Il n’aime pas être aperçu par les humains.\nIl préfère donc vivre paisiblement en groupes\nau fond des montagnes."
+      },
+      {
+        "game": "sm-m",
+        "text": "Une tradition raconte qu’apercevoir un Mélodelfe\ngambader joyeusement signifie que l’on fera\nun heureux mariage."
+      },
+      {
+        "game": "usum-us",
+        "text": "Il préfère vivre au fond des montagnes, loin des\nhumains et des Pokémon, car il peut entendre\nune aiguille tomber à un kilomètre de distance."
+      },
+      {
+        "game": "usum-um",
+        "text": "Selon certains scientifiques, c’est parce qu’il\na le mal du pays qu’il fixe le ciel les soirs de\npleine lune."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Ce Pokémon à l’aspect féérique semble très\nattaché à son habitat et ne se montre que\nrarement."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Ce Pokémon à l’aspect féérique semble très\nattaché à son habitat et ne se montre que\nrarement."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Ce Pokémon s’apparente à une petite fée\nqui n’apparaît que rarement devant les humains.\nIl court se cacher dès qu’il ressent une présence."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Capable d’entendre une aiguille tomber à plus\nd’un kilomètre, ce Pokémon préfère les endroits\ncalmes et isolés."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Pixi",
+    "genus": "Feen-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Es kann eine Nadel hören, die in 1 km Entfernung\nzu Boden fällt. Es lebt in der Stille der Berge."
+      },
+      {
+        "game": "xy-y",
+        "text": "Ein feenhaftes und scheues Pokémon, das sofort\ndie Flucht ergreift, wenn es Menschen wittert."
+      },
+      {
+        "game": "oras-or",
+        "text": "Pixi bewegt sich fort, indem es leicht mit den Flügeln schlägt.\nDurch seinen federnden Gang kann es sogar über Wasser\ngehen. Bei Mondschein unternimmt es Spaziergänge auf Seen."
+      },
+      {
+        "game": "oras-as",
+        "text": "Pixi bewegt sich fort, indem es leicht mit den Flügeln schlägt.\nDurch seinen federnden Gang kann es sogar über Wasser\ngehen. Bei Mondschein unternimmt es Spaziergänge auf Seen."
+      },
+      {
+        "game": "sm-s",
+        "text": "Es zeigt sich Menschen nur ungern und führt\nzusammen mit anderen Artgenossen ein\nabgeschiedenes Leben tief in den Bergen."
+      },
+      {
+        "game": "sm-m",
+        "text": "Man sagt, zwei herumtollende Pixi zu sehen,\nverheiße eine glückliche Ehe."
+      },
+      {
+        "game": "usum-us",
+        "text": "Es hört eine fallende Nadel aus 1 km Entfernung\nund lebt daher tief in den Bergen, weit weg vom\nLärm der Menschen und anderer Pokémon."
+      },
+      {
+        "game": "usum-um",
+        "text": "Bei Vollmond blickt es still zum Nachthimmel\nhinauf. Manche Wissenschaftler deuten dieses\nVerhalten als Heimweh."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Dieses feenhafte Pokémon scheint sein Reich\nmit großem Eifer zu schützen. Es zeigt sich den\nMenschen nur selten."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Dieses feenhafte Pokémon scheint sein Reich\nmit großem Eifer zu schützen. Es zeigt sich den\nMenschen nur selten."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Ein feenhaftes und scheues Pokémon,\ndas sofort die Flucht ergreift, wenn es\nMenschen wahrnimmt."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Ihr Gehör erfasst das Geräusch einer fallenden\nNadel noch aus 1 km Entfernung. Sie bevorzugen\ndaher ruhige Orte."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Clefable",
+    "genus": "Pokémon Hada",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Su oído es tan agudo que puede oír una aguja caer a\n1 km. Vive en montañas solitarias."
+      },
+      {
+        "game": "xy-y",
+        "text": "Un encantador y tímido Pokémon muy raro de ver.\nCorre y se oculta en cuanto siente que viene gente."
+      },
+      {
+        "game": "oras-or",
+        "text": "Clefable se mueve dando saltitos como si fuera haciendo uso\nde las alas. Estos pequeños brincos le permiten caminar por\nel agua. De todos es sabido que le encanta darse paseos por\nlos lagos en tranquilas noches de luna llena."
+      },
+      {
+        "game": "oras-as",
+        "text": "Clefable se mueve dando saltitos como si fuera haciendo uso\nde las alas. Estos pequeños brincos le permiten caminar por\nel agua. De todos es sabido que le encanta darse paseos por\nlos lagos en tranquilas noches de luna llena."
+      },
+      {
+        "game": "sm-s",
+        "text": "No les gusta dejarse ver ante las personas.\nViven tranquilamente en grupos en lo profundo\nde las montañas."
+      },
+      {
+        "game": "sm-m",
+        "text": "Se dice que avistar a una pareja de Clefable\ndando saltitos trae felicidad al matrimonio."
+      },
+      {
+        "game": "usum-us",
+        "text": "Su fino oído puede percibir la caída de un alfiler\na un kilómetro de distancia. Por eso prefiere\nvivir en las montañas, lejos del mundanal ruido."
+      },
+      {
+        "game": "usum-um",
+        "text": "Algunos científicos sostienen que cuando mira\nal cielo fijamente en las noches de luna llena es\nporque siente morriña."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Un Pokémon de aspecto feérico que protege\ncon celo su entorno y muy rara vez se deja ver\npor los humanos."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Un Pokémon de aspecto feérico que protege\ncon celo su entorno y muy rara vez se deja ver\npor los humanos."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Este Pokémon de aspecto feérico, raramente\nvisto por los humanos, corre a esconderse en\ncuanto detecta que hay alguien cerca."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Su oído es tan fino que puede percibir cómo cae\nuna aguja a 1 km de distancia. Por eso suele\nhabitar en lugares tranquilos."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Clefable",
+    "genus": "Pokémon Fata",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Ha un udito tanto acuto da sentire la caduta di uno\nspillo a 1 km di distanza. Vive su monti quieti."
+      },
+      {
+        "game": "xy-y",
+        "text": "Timido Pokémon Fata, molto raro a vedersi. Scappa e\nsi nasconde non appena avverte la presenza umana."
+      },
+      {
+        "game": "oras-or",
+        "text": "Clefable si muove saltellando leggero come se fluttuasse\nsorretto dalle sue ali. Così riesce anche a camminare\nsull’acqua. È solito passeggiare sui laghi in silenziose\nnotti di luna piena."
+      },
+      {
+        "game": "oras-as",
+        "text": "Clefable si muove saltellando leggero come se fluttuasse\nsorretto dalle sue ali. Così riesce anche a camminare\nsull’acqua. È solito passeggiare sui laghi in silenziose\nnotti di luna piena."
+      },
+      {
+        "game": "sm-s",
+        "text": "È un Pokémon molto timido. Vive nascosto\nassieme ai suoi simili nei recessi montani."
+      },
+      {
+        "game": "sm-m",
+        "text": "Si dice che chi vede saltellare una coppia\ndi Clefable avrà un matrimonio felice."
+      },
+      {
+        "game": "usum-us",
+        "text": "Può sentire il rumore di uno spillo che cade a\n1 km di distanza. Per questo vive in recessi\nmontani, lontano da esseri umani e Pokémon."
+      },
+      {
+        "game": "usum-um",
+        "text": "Nelle notti di luna piena si perde a fissare il\ncielo. Secondo alcuni studiosi, pensa con\nnostalgia alla sua casa lontana."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Sembra che queste creature simili alle fate siano\nmolto protettive verso il loro habitat.\nSi mostrano agli esseri umani solo di rado."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Sembra che queste creature simili alle fate siano\nmolto protettive verso il loro habitat.\nSi mostrano agli esseri umani solo di rado."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Timido Pokémon Fata, molto raro a vedersi.\nScappa e si nasconde non appena avverte\nla presenza delle persone."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Il loro udito è così acuto che sentono un ago\ncadere a 1 km di distanza. Per questo di solito\nvivono in luoghi molto silenziosi."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Clefable",
+    "genus": "Fairy Pokémon",
+    "flavorText": [
+      {
+        "game": "rb-r",
+        "text": "A timid fairy\nPOKéMON that is\nrarely seen. It\fwill run and hide\nthe moment it\nsenses people."
+      },
+      {
+        "game": "rb-b",
+        "text": "A timid fairy\nPOKéMON that is\nrarely seen. It\fwill run and hide\nthe moment it\nsenses people."
+      },
+      {
+        "game": "y",
+        "text": "They appear to be\nvery protective of\ntheir own world.\fIt is a kind of\nfairy, rarely seen\nby people."
+      },
+      {
+        "game": "gs-g",
+        "text": "With its acute\nhearing, it can\npick up sounds\ffrom far away. It\nusually hides in\nquiet places."
+      },
+      {
+        "game": "gs-s",
+        "text": "Its very sensitive\nears lets it dis­\ntinguish distant\fsounds. As a re­\nsult, it prefers\nquiet places."
+      },
+      {
+        "game": "c",
+        "text": "Said to live in\nquiet, remote\nmountains, this\ftype of fairy has\na strong aversion\nto being seen."
+      },
+      {
+        "game": "rs-r",
+        "text": "CLEFABLE moves by skipping lightly as if\nit were flying using its wings. Its\nbouncy step lets it even walk on water.\fIt is known to take strolls on lakes on\nquiet, moonlit nights."
+      },
+      {
+        "game": "rs-s",
+        "text": "CLEFABLE moves by skipping lightly as if\nit were flying using its wings. Its\nbouncy step lets it even walk on water.\fIt is known to take strolls on lakes on\nquiet, moonlit nights."
+      },
+      {
+        "game": "e",
+        "text": "A CLEFABLE uses its wings to skip lightly \nas if it were flying. Its bouncy step\nlets it even walk on water. On quiet,\nmoonlit nights, it strolls on lakes."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "It has an acute sense of hearing. It can\neasily hear a pin being dropped nearly\n1,100 yards away."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "A timid fairy POKéMON that is rarely seen,\nit will run and hide the moment it senses\npeople."
+      },
+      {
+        "game": "dp-d",
+        "text": "Rarely seen by people, it is\nsaid to be drawn by the full\nmoon to play at deserted lakes."
+      },
+      {
+        "game": "dp-p",
+        "text": "Its hearing is so acute it can\nhear a pin drop over half a mile\naway. It lives on quiet mountains."
+      },
+      {
+        "game": "pt",
+        "text": "It is very wary and rarely shows\nitself to people. Its ears can hear\na pin drop over half a mile away."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "With its acute hearing, it can\npick up sounds from far away.\nIt usually hides in quiet places."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "Its very sensitive ears let it\ndistinguish distant sounds. As a\nresult, it prefers quiet places."
+      },
+      {
+        "game": "bw-b",
+        "text": "It is very wary and rarely shows\nitself to people. Its ears can hear\na pin drop over half a mile away."
+      },
+      {
+        "game": "bw-w",
+        "text": "It is very wary and rarely shows\nitself to people. Its ears can hear\na pin drop over half a mile away."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "Their ears are sensitive enough to hear\na pin drop from over a mile away,\nso they’re usually found in quiet places."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "Their ears are sensitive enough to hear\na pin drop from over a mile away,\nso they’re usually found in quiet places."
+      },
+      {
+        "game": "xy-x",
+        "text": "Its hearing is so acute it can hear a pin drop over\nhalf a mile away. It lives on quiet mountains."
+      },
+      {
+        "game": "xy-y",
+        "text": "A timid fairy Pokémon that is rarely seen, it will run\nand hide the moment it senses people."
+      },
+      {
+        "game": "oras-or",
+        "text": "Clefable moves by skipping lightly as if it were flying using its\nwings. Its bouncy step lets it even walk on water. It is known\nto take strolls on lakes on quiet, moonlit nights."
+      },
+      {
+        "game": "oras-as",
+        "text": "Clefable moves by skipping lightly as if it were flying using\nits wings. Its bouncy step lets it even walk on water.\nIt is known to take strolls on lakes on quiet, moonlit nights."
+      },
+      {
+        "game": "sm-s",
+        "text": "They don’t like to reveal themselves in front of\npeople. They live quietly in packs deep in\nthe mountains."
+      },
+      {
+        "game": "sm-m",
+        "text": "According to tradition, people who see a pair\nof Clefable skipping by can look forward to a\nhappy marriage."
+      },
+      {
+        "game": "usum-us",
+        "text": "It can’t help but hear a pin drop from over half\na mile away, so it lives deep in the mountains\nwhere there aren’t many people or Pokémon."
+      },
+      {
+        "game": "usum-um",
+        "text": "Some scientists believe that it gazes intently at\nthe sky on nights with a full moon because\nit’s homesick."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "They appear to be very protective of their own\nworld. It is a kind of fairy, rarely seen by people."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "They appear to be very protective of their own\nworld. It is a kind of fairy, rarely seen by people."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "A timid fairy Pokémon that is rarely seen, it will\nrun and hide the moment it senses people."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Their ears are sensitive enough to hear a pin\ndrop from over a mile away, so they’re usually\nfound in quiet places."
+      },
+      {
+        "game": "la",
+        "text": "Legend says that on clear, quiet nights, it listens for the voices\nof its kin living on the moon. I, too, often think of my homeland,\nso far away."
+      }
+    ]
+  },
+  "chs": {
+    "name": "皮可西",
+    "genus": "妖精宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "不喜欢在人面前现身。\n喜欢群居在深山里静静地生活。"
+      },
+      {
+        "game": "sm-m",
+        "text": "据说，如果看到一对皮可西\n蹦蹦跳跳的样子，\n就能获得幸福的婚姻。"
+      },
+      {
+        "game": "usum-us",
+        "text": "连１公里外针落地的声音都能听到，\n所以它生活在鲜有人或\n宝可梦出入的深山里。"
+      },
+      {
+        "game": "usum-um",
+        "text": "也有科学家认为，它之所以\n会在满月的晚上盯着夜空看，\n是因为它患上了思乡病。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "妖精的一种。\n似乎非常珍惜自己的世界，\n很少在人类面前现身。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "妖精的一种。\n似乎非常珍惜自己的世界，\n很少在人类面前现身。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "妖精的一种，极少出现在人前。\n察觉到有人存在后，\n好像就会立刻逃走。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "听觉灵敏，连１公里以外\n针落地的声音都听得见，\n因此平时会待在安静的地方。"
+      }
+    ]
+  }
+}

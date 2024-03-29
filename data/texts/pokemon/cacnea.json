@@ -1,0 +1,235 @@
+{
+  "jap": {
+    "name": "サボネア",
+    "genus": "サボテンポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "あめが　すくない　かんそうした\nちいきに　せいそく。１ねんに　１かい\nきいろの　はなを　さかせる。"
+      },
+      {
+        "game": "xy-y",
+        "text": "さばくなどの　かこくな　かんきょうを\nこのむ。からだの　なかに　たくわえた\nみずで　３０にちかん　いきられる。"
+      },
+      {
+        "game": "oras-or",
+        "text": "さばく　など　かんそうした　ちいきに　せいそく。\nつよい　はなの　かおりで　えものを　さそいこみ\nするどい　からだの　トゲを　とばして　しとめる。"
+      },
+      {
+        "game": "oras-as",
+        "text": "あめの　すくない　きびしい　かんきょう　ほど\nきれいで　かおりの　つよい　はなを　さかせる。\nトゲの　ついた　うでを　ふりまわして　たたかう。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Sabonea",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "선인왕",
+    "genus": "선인장포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "비가 적은 건조한\n지역에 서식한다. 1년에 1번\n노랑 꽃을 피운다."
+      },
+      {
+        "game": "xy-y",
+        "text": "사막 같은 혹독한 환경을\n좋아한다. 몸속에 축적된\n물로 30일간 살 수 있다."
+      },
+      {
+        "game": "oras-or",
+        "text": "사막같이 건조한 지역에 서식한다.\n강한 꽃의 향기로 먹이를 유인하고\n몸에 난 날카로운 가시를 날려 잡는다."
+      },
+      {
+        "game": "oras-as",
+        "text": "비가 적은 척박한 환경일수록\n아름답고 향기가 강한 꽃을 피운다.\n가시가 달린 팔을 휘두르며 싸운다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "刺球仙人掌",
+    "genus": "仙人掌寶可夢",
+    "flavorText": []
+  },
+  "fra": {
+    "name": "Cacnea",
+    "genus": "Pokémon Cactus",
+    "flavorText": [
+      {
+        "game": "bw-w",
+        "text": "En stockant l’eau dans son corps,\ncet habitant du désert peut \nsurvivre 30 jours sans boire."
+      },
+      {
+        "game": "bw-b",
+        "text": "En stockant l’eau dans son corps,\ncet habitant du désert peut \nsurvivre 30 jours sans boire."
+      },
+      {
+        "game": "xy-x",
+        "text": "Cacnea vit dans les zones arides. Une fois par an,\nune fleur jaune éclot sur sa tête."
+      },
+      {
+        "game": "xy-y",
+        "text": "Il se sent plus à l’aise dans des endroits hostiles\ncomme le désert. Il peut survivre 30 jours en utilisant\nseulement l’eau stockée dans son corps."
+      },
+      {
+        "game": "oras-or",
+        "text": "Cacnea vit dans les milieux arides, tels les déserts.\nSa fleur libère un parfum entêtant pour attirer sa proie.\nLorsqu’elle s’approche, ce Pokémon envoie des épines\npour la neutraliser."
+      },
+      {
+        "game": "oras-as",
+        "text": "Si son environnement est aride et difficile, la fleur de Cacnea\ndevient plus jolie et dégage un parfum délicat. Ce Pokémon\nse bat en agitant ses bras épineux."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Tuska",
+    "genus": "Kaktus",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Es wächst an trockenen Orten mit wenig Niederschlag.\nNur einmal im Jahr bildet es eine gelbe Blüte."
+      },
+      {
+        "game": "xy-y",
+        "text": "Es bevorzugt lebenswidrige Gebiete wie Wüsten.\nDer Wasserspeicher in seinem Körper reicht für\nbis zu 30 Tage."
+      },
+      {
+        "game": "oras-or",
+        "text": "Tuska lebt an trockenen Orten, z. B. in Wüsten. Es versprüht\neinen starken Duft aus seiner Blume, um Beute anzuziehen.\nWenn sich Beute nähert, verschießt es scharfe Stacheln,\num seinen Gegner zu überwältigen."
+      },
+      {
+        "game": "oras-as",
+        "text": "Je trockener und trostloser seine Umgebung ist, desto schöner\nund duftender wird Tuskas Blume. Dieses Pokémon schwingt\nim Kampf wild mit seinen dornigen Armen."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Cacnea",
+    "genus": "Pokémon Cactus",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Vive en regiones secas y con pocas lluvias. Una vez al\naño, le brota una flor amarilla."
+      },
+      {
+        "game": "xy-y",
+        "text": "Prefiere los medios hostiles como los desiertos.\nPuede sobrevivir 30 días sin beber, gracias al agua\nque almacena."
+      },
+      {
+        "game": "oras-or",
+        "text": "Cacnea habita en desiertos y otras zonas áridas. Para atraer\na su presa, libera un fuerte aroma por la flor y, cuando se le\nacerca, le lanza pinchos por todo el cuerpo para reducirla."
+      },
+      {
+        "game": "oras-as",
+        "text": "Cuanto más árido y hostil sea el hábitat de Cacnea, más\nbonita y aromática será la flor que le crece. Este Pokémon\nlucha agitando violentamente los brazos cargados de pinchos\nque tiene."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Cacnea",
+    "genus": "Pokémon Cactus",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Cacnea vive in zone aride, dove non piove quasi mai.\nIl suo fiore giallo sboccia una volta all’anno."
+      },
+      {
+        "game": "xy-y",
+        "text": "Predilige ambienti ostili, come i deserti. Grazie\nall’acqua immagazzinata nel corpo, può resistere\n30 giorni senza bere."
+      },
+      {
+        "game": "oras-or",
+        "text": "Cacnea vive in luoghi molto aridi come il deserto. Il suo fiore\nrilascia un forte aroma per attirare le prede. Quando la preda\nsi avvicina, il Pokémon le spara contro un nugolo di spine\ndel proprio corpo per abbatterla."
+      },
+      {
+        "game": "oras-as",
+        "text": "Quanto più arido e aspro è l’ambiente, tanto più rigoglioso\ncresce il fiore di Cacnea. Il Pokémon lotta agitando\nfuriosamente gli spinosi arti superiori."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Cacnea",
+    "genus": "Cactus Pokémon",
+    "flavorText": [
+      {
+        "game": "rs-r",
+        "text": "CACNEA lives in arid locations such\nas deserts. It releases a strong aroma\nfrom its flower to attract prey.\fWhen prey comes near, this POKéMON\nshoots sharp thorns from its body to\nbring the victim down."
+      },
+      {
+        "game": "rs-s",
+        "text": "The more arid and harsh the\nenvironment, the more pretty and\nfragrant a flower CACNEA grows.\fThis POKéMON battles by wildly swinging\nits thorny arms."
+      },
+      {
+        "game": "e",
+        "text": "CACNEA live in deserts with virtually no\nrainfall. It battles by swinging its thick,\nspiked arms. Once a year, a yellow flower\nblooms."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "It prefers harsh environments such as\ndeserts. It can survive for 30 days on\nwater stored in its body."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "It prefers harsh environments such as\ndeserts. It can survive for 30 days on\nwater stored in its body."
+      },
+      {
+        "game": "dp-d",
+        "text": "By storing water in its body, this\ndesert dweller can survive for 30\ndays without water."
+      },
+      {
+        "game": "dp-p",
+        "text": "By storing water in its body, this\ndesert dweller can survive for 30\ndays without water."
+      },
+      {
+        "game": "pt",
+        "text": "By storing water in its body, this\ndesert dweller can survive for 30\ndays without water."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "It lives in arid locations. Its\nyellow flowers bloom once a year."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "It lives in arid locations. Its\nyellow flowers bloom once a year."
+      },
+      {
+        "game": "bw-b",
+        "text": "By storing water in its body, this\ndesert dweller can survive for 30\ndays without water."
+      },
+      {
+        "game": "bw-w",
+        "text": "By storing water in its body, this\ndesert dweller can survive for 30\ndays without water."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "By storing water in its body, this\ndesert dweller can survive for 30\ndays without water."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "By storing water in its body, this\ndesert dweller can survive for 30\ndays without water."
+      },
+      {
+        "game": "xy-x",
+        "text": "It lives in arid locations. Its yellow flowers bloom\nonce a year."
+      },
+      {
+        "game": "xy-y",
+        "text": "It prefers harsh environments such as deserts.\nIt can survive for 30 days on water stored in\nits body."
+      },
+      {
+        "game": "oras-or",
+        "text": "Cacnea lives in arid locations such as deserts. It releases a\nstrong aroma from its flower to attract prey. When prey comes\nnear, this Pokémon shoots sharp thorns from its body to bring\nthe victim down."
+      },
+      {
+        "game": "oras-as",
+        "text": "The more arid and harsh the environment, the more pretty and\nfragrant a flower Cacnea grows. This Pokémon battles by\nwildly swinging its thorny arms."
+      }
+    ]
+  },
+  "chs": {
+    "name": "刺球仙人掌",
+    "genus": "仙人掌宝可梦",
+    "flavorText": []
+  }
+}

@@ -1,0 +1,413 @@
+{
+  "jap": {
+    "name": "ワルビアル",
+    "genus": "いかくポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "とても　きょうぼうな　ポケモン。\nめのまえで　うごくものは　すべて\nおそいかかり　かみくだこうとする。"
+      },
+      {
+        "game": "xy-y",
+        "text": "であった　えものは　にがさない。\nじどうしゃの　ボディを　くいちぎる\nきょうりょくな　あごを　もつ。"
+      },
+      {
+        "game": "oras-or",
+        "text": "とても　きょうぼうな　ポケモン。\nめのまえで　うごくものは　すべて\nおそいかかり　かみくだこうとする。"
+      },
+      {
+        "game": "oras-as",
+        "text": "であった　えものは　にがさない。\nじどうしゃの　ボディを　くいちぎる\nきょうりょくな　あごを　もつ。"
+      },
+      {
+        "game": "sm-s",
+        "text": "すなあらしでも　５０キロさきに　いる\nちいさな　えものも　はっけんする\nとくしゅな　りょうめを　もつ。"
+      },
+      {
+        "game": "sm-m",
+        "text": "きょうりょくな　アゴで　かみつくと\nそのまま　おもいきり　からだを\nひねり　えものを　せつだんする。"
+      },
+      {
+        "game": "usum-us",
+        "text": "５０キロ　さきに　いる　えものを\nみつけると　さばくを　およぐように\nいどうして　とびかかり　かみつく。"
+      },
+      {
+        "game": "usum-um",
+        "text": "フライゴンの　おこす　すなあらしに\nみを　ひそめて　えものが　くるのを\nじっと　まちかまえている。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "すなの　ギャングとも　よばれる。\nきょうりょくな　アゴで　ぶあつい\nてっぱんも　たやすく　くいちぎる。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "きょうぼうだが　えものの　ために\nすなのなかで　なんにちも　まつ\nにんたいづよさも　もっているぞ。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Waruvial",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "악비아르",
+    "genus": "위협포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "아주 난폭한 포켓몬.\n눈앞에서 움직이는 것은 모두\n덮쳐서 깨물어 부수려고 한다."
+      },
+      {
+        "game": "xy-y",
+        "text": "마주친 먹이는 놓치지 않는다.\n자동차 몸체를 물어뜯을 만큼\n강력한 턱을 가지고 있다."
+      },
+      {
+        "game": "oras-or",
+        "text": "아주 난폭한 포켓몬.\n눈앞에서 움직이는 것은 모두\n덮쳐서 깨물어 부수려고 한다."
+      },
+      {
+        "game": "oras-as",
+        "text": "마주친 먹이는 놓치지 않는다.\n자동차 몸체를 물어뜯을 만큼\n강력한 턱을 가지고 있다."
+      },
+      {
+        "game": "sm-s",
+        "text": "모래 폭풍 속에서도 50km 앞에 있는\n작은 먹이를 발견하는\n특수한 두 눈을 가졌다."
+      },
+      {
+        "game": "sm-m",
+        "text": "강력한 턱으로 물고\n그대로 힘껏 몸을 비틀어\n먹이를 절단한다."
+      },
+      {
+        "game": "usum-us",
+        "text": "50km 떨어져 있는 먹이를\n발견하면 사막을 헤엄치듯이\n이동하여 덤벼들어 덥석 문다."
+      },
+      {
+        "game": "usum-um",
+        "text": "플라이곤이 일으키는 모래바람에\n몸을 숨기고 먹이가 오는 것을\n가만히 기다리고 있다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "모래의 건달이라고도 불린다.\n강력한 턱으로 두꺼운\n철판도 쉽게 물어뜯는다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "난폭하지만 먹이를 잡기 위해\n모래 속에서 며칠이든 기다리는\n강한 인내력도 갖고 있다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "流氓鱷",
+    "genus": "威嚇寶可夢",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "擁有特殊的雙眼，\n即使在沙暴中也能發現\n前方５０公里處的小獵物。"
+      },
+      {
+        "game": "sm-m",
+        "text": "用強力的顎咬住後，\n狠狠地扭動身體，\n將獵物切斷。"
+      },
+      {
+        "game": "usum-us",
+        "text": "當發現了前方５０公里處的獵物，\n就會像游泳一樣在沙漠上移動，\n然後飛撲過去咬住。"
+      },
+      {
+        "game": "usum-um",
+        "text": "會藏身在沙漠蜻蜓\n引發的沙暴中，靜靜\n等待著獵物的到來。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "又被稱為沙之惡霸。\n就連厚厚的鐵板也能被牠\n用強力的下顎輕鬆咬爛。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "雖然凶暴，但同時也具有\n很強的忍耐力。為了捕捉\n獵物能在沙子裡等上很多天。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Crocorible",
+    "genus": "Pokémon Intimidation",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Il ne laisse jamais échapper ses proies.\nSes mâchoires surpuissantes peuvent\nbroyer une voiture."
+      },
+      {
+        "game": "bw-w",
+        "text": "Ses yeux ont les mêmes propriétés que\ndes jumelles et lui permettent de voir\nles objets très éloignés en agrandi."
+      },
+      {
+        "game": "xy-x",
+        "text": "Un Pokémon extrêmement violent qui broie tout ce qui\nlui passe sous les yeux avec ses mâchoires."
+      },
+      {
+        "game": "xy-y",
+        "text": "Il ne laisse jamais échapper ses proies. Ses mâchoires\nsurpuissantes peuvent broyer une voiture."
+      },
+      {
+        "game": "oras-or",
+        "text": "Un Pokémon extrêmement violent qui broie tout ce qui\nlui passe sous les yeux avec ses mâchoires."
+      },
+      {
+        "game": "oras-as",
+        "text": "Il ne laisse jamais échapper ses proies. Ses mâchoires\nsurpuissantes peuvent broyer une voiture."
+      },
+      {
+        "game": "sm-s",
+        "text": "Ses yeux perçants lui permettent de détecter\nune petite proie à 50 km, même au cœur\nd’une tempête de sable."
+      },
+      {
+        "game": "sm-m",
+        "text": "Ses mâchoires sont si puissantes qu’il lui arrive\nde plier ou découper le corps de ses victimes\nsans même s’en rendre compte."
+      },
+      {
+        "game": "usum-us",
+        "text": "Il peut repérer une proie à une distance de\n50 km. Il s’approche alors en « nageant » dans\nle sable, puis lui saute dessus pour la croquer."
+      },
+      {
+        "game": "usum-um",
+        "text": "Lors des tempêtes de sable provoquées par\nLibégon, il se terre dans le sol, à l’affût d’une\nproie."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Il peut broyer d’épaisses plaques de fer\nd’un simple coup de mâchoire. On l’appelle\nle « tyran des sables »."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Il aime la violence, mais sait aussi se montrer\npatient lorsqu’il doit passer plusieurs jours\ndans le sable à attendre une proie."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Rabigator",
+    "genus": "Abschreckungs-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Ein äußerst grausames Pokémon. Es greift jeden,\nder ihm unter die Augen kommt, mit seinen\nscharfen Reißzähnen an."
+      },
+      {
+        "game": "xy-y",
+        "text": "Hat es seine Beute erblickt, gibt es kein Entrinnen\nmehr. Sein mächtiger Kiefer knackt selbst Karosserien."
+      },
+      {
+        "game": "oras-or",
+        "text": "Ein äußerst grausames Pokémon. Es greift jeden, der ihm\nunter die Augen kommt, mit seinen scharfen Reißzähnen an."
+      },
+      {
+        "game": "oras-as",
+        "text": "Hat es seine Beute erblickt, gibt es kein Entrinnen mehr.\nSein mächtiger Kiefer knackt selbst Karosserien."
+      },
+      {
+        "game": "sm-s",
+        "text": "Seine Augen sind so außergewöhnlich, dass es\nsogar in einem Sandsturm kleinste Beute aus\n50 km Entfernung entdecken kann."
+      },
+      {
+        "game": "sm-m",
+        "text": "Wenn es mit seinem mächtigen Kiefer zubeißt,\nzerteilt es seine Beute mit einer Drehung seines\nKörpers."
+      },
+      {
+        "game": "usum-us",
+        "text": "Entdeckt es Beute in bis zu 50 km Entfernung,\nbewegt es sich schwimmend durch die Wüste,\nbis es hervorspringt und nach ihr schnappt."
+      },
+      {
+        "game": "usum-um",
+        "text": "Es legt sich inmitten eines Sandsturms, der von\nLibelldra entfacht wurde, auf die Lauer und\nwartet dort geduldig auf seine Beute."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Es wird auch als „Tyrann der Wüste“ bezeichnet.\nMit seinem mächtigen Kiefer durchbeißt es selbst\ndicke Eisenplatten mit Leichtigkeit."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Rabigator ist zwar aggressiv, doch wenn es bei\nder Jagd nach Beute auf der Lauer liegt, kann es\nauch mehrere Tage geduldig im Sand ausharren."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Krookodile",
+    "genus": "Pokémon Amenazador",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Un Pokémon bastante violento. Ataca todo lo que se\nmueva delante de él con sus mortíferas mandíbulas."
+      },
+      {
+        "game": "xy-y",
+        "text": "Jamás deja escapar a su presa. Sus mandíbulas son\ncapaces de destrozar la carrocería de un coche."
+      },
+      {
+        "game": "oras-or",
+        "text": "Un Pokémon bastante violento. Ataca todo lo que se mueva\ndelante de él con sus mortíferas mandíbulas."
+      },
+      {
+        "game": "oras-as",
+        "text": "Jamás deja escapar a su presa. Sus mandíbulas son capaces\nde destrozar la carrocería de un coche."
+      },
+      {
+        "game": "sm-s",
+        "text": "Su vista es tan perspicaz que puede divisar\npresas de pequeño tamaño a 50 km de\ndistancia, incluso en plena tormenta de arena."
+      },
+      {
+        "game": "sm-m",
+        "text": "En cuanto le hinca el diente a su presa con sus\npotentes mandíbulas, comienza a retorcerle el\ncuerpo hasta despedazarla."
+      },
+      {
+        "game": "usum-us",
+        "text": "Al avistar una presa incluso a 50 km, repta\nhacia ella por la arena como si nadara y se\nabalanza para despedazarla con sus fauces."
+      },
+      {
+        "game": "usum-um",
+        "text": "Se oculta en las tormentas de arena provocadas\npor Flygon y espera pacientemente al acecho\nde su presa."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Se lo conoce como el Terror de las Arenas. Con\nsus fuertes mandíbulas es capaz de destrozar a\nmordiscos una plancha de hierro fácilmente."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Es de naturaleza violenta, pero también tiene\nla paciencia necesaria para esperar a su presa\noculto en la arena durante varios días."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Krookodile",
+    "genus": "Pokémon Minaccia",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "È un Pokémon molto feroce. Attacca tutto ciò che\ngli si para davanti, prendendolo a morsi."
+      },
+      {
+        "game": "xy-y",
+        "text": "Una volta che l’ha presa, non si lascia più sfuggire\nla preda. Ha delle mandibole in grado di fare a pezzi\nun’automobile."
+      },
+      {
+        "game": "oras-or",
+        "text": "È un Pokémon molto feroce. Attacca tutto ciò che gli si para\ndavanti, prendendolo a morsi."
+      },
+      {
+        "game": "oras-as",
+        "text": "Una volta che l’ha presa, non si lascia più sfuggire la preda.\nHa delle mandibole in grado di fare a pezzi un’automobile."
+      },
+      {
+        "game": "sm-s",
+        "text": "I suoi occhi gli permettono di individuare prede\nminuscole a 50 km di distanza persino nelle\ntempeste di sabbia."
+      },
+      {
+        "game": "sm-m",
+        "text": "Cattura la preda con le possenti mandibole\ne la serra con forza fino a tranciarla."
+      },
+      {
+        "game": "usum-us",
+        "text": "Individua la preda anche a 50 km di distanza e\navanza verso di essa come se nuotasse nella\nsabbia per poi balzarle addosso e azzannarla."
+      },
+      {
+        "game": "usum-um",
+        "text": "Si nasconde nelle tempeste di sabbia create\ndai Flygon aspettando immobile che passi\nuna preda."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Viene chiamato “Tiranno del deserto”. Grazie\nalle possenti mascelle è in grado di fare a pezzi\nspesse lastre di metallo senza sforzo."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "È un Pokémon molto feroce. Quando si tratta\ndi catturare le prede è in grado di aspettare\npazientemente nella sabbia per giorni."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Krookodile",
+    "genus": "Intimidation Pokémon",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "They never allow prey to escape.\nTheir jaws are so powerful, they can\ncrush the body of an automobile."
+      },
+      {
+        "game": "bw-w",
+        "text": "It can expand the focus of its eyes,\nenabling it to see objects in the far\ndistance as if it were using binoculars."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "Very violent Pokémon, they try\nto clamp down on anything that\nmoves in front of their eyes."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "Very violent Pokémon, they try\nto clamp down on anything that\nmoves in front of their eyes."
+      },
+      {
+        "game": "xy-x",
+        "text": "Very violent Pokémon, they try to clamp down on\nanything that moves in front of their eyes."
+      },
+      {
+        "game": "xy-y",
+        "text": "They never allow prey to escape. Their jaws\nare so powerful, they can crush the body of\nan automobile."
+      },
+      {
+        "game": "oras-or",
+        "text": "Very violent Pokémon, they try to clamp down on\nanything that moves in front of their eyes."
+      },
+      {
+        "game": "oras-as",
+        "text": "They never allow prey to escape. Their jaws\nare so powerful, they can crush the body of\nan automobile."
+      },
+      {
+        "game": "sm-s",
+        "text": "Its unique faculty of sight can detect small prey\nmore than 30 miles away, even in the midst of\na sandstorm."
+      },
+      {
+        "game": "sm-m",
+        "text": "After clamping down with its powerful jaws,\nit twists its body around to rip its prey in half."
+      },
+      {
+        "game": "usum-us",
+        "text": "When it spots prey, even at a distance of over\n30 miles, it swims through the desert as if it\nwere water, then jumps out and chomps them."
+      },
+      {
+        "game": "usum-um",
+        "text": "It conceals itself in sandstorms that Flygon\nwhip up and waits patiently for prey to appear."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "This Pokémon is known as the Bully of the Sands.\nKrookodile’s mighty jaws can bite through heavy\nplates of iron with almost no effort at all."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "While terribly aggressive, Krookodile also has\nthe patience to stay hidden under sand for days,\nlying in wait for prey."
+      }
+    ]
+  },
+  "chs": {
+    "name": "流氓鳄",
+    "genus": "威吓宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "拥有特殊的双眼，\n即使在沙暴中也能发现\n前方５０公里处的小猎物。"
+      },
+      {
+        "game": "sm-m",
+        "text": "用强力的颚咬住后，\n就这么拼命扭转身体，\n将猎物切断。"
+      },
+      {
+        "game": "usum-us",
+        "text": "如果发现前方５０公里处的猎物，\n就会像游泳一样在沙漠里移动，\n扑过去咬住。"
+      },
+      {
+        "game": "usum-um",
+        "text": "把身体藏在沙漠蜻蜓引起的沙暴中，\n静静地等待着猎物的到来。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "被称为沙之恶霸。\n就连厚厚的铁板也能\n用强力的颚轻松咬断。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "虽然凶暴，但也有擅长忍耐的一面。\n为了捕获猎物，可以在\n沙子里静静等上好几天。"
+      }
+    ]
+  }
+}

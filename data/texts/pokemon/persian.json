@@ -1,0 +1,549 @@
+{
+  "jap": {
+    "name": "ペルシアン",
+    "genus": "シャムネコポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "けなみが　うつくしく　ペットに\nしたがる　ひとも　おおいが　すぐ\nひっかいたり　するので　てごわいぞ。"
+      },
+      {
+        "game": "xy-y",
+        "text": "しなやかな　きんにくの　おかげで\nあしおとひとつ　たてずに　あるける。\nえものを　かるときは　いっしゅん。"
+      },
+      {
+        "game": "oras-or",
+        "text": "たくましい　６ぽんの　ヒゲは　くうきの　うごきで\nまわりの　ようすを　キャッチする　やくわり。\nヒゲを　つかまれると　おとなしくなって　しまう。"
+      },
+      {
+        "game": "oras-as",
+        "text": "たくましい　６ぽんの　ヒゲは　くうきの　うごきで\nまわりの　ようすを　キャッチする　やくわり。\nヒゲを　つかまれると　おとなしくなって　しまう。"
+      },
+      {
+        "game": "sm-s",
+        "text": "きしょうが　あらく　めが　あうだけで\nとびかかってくる。　するどいツメに\nやられると　ふかい　きずを　おう。"
+      },
+      {
+        "game": "sm-m",
+        "text": "アローラの　ペルシアンほどではないが\nきぐらいの　たかい　せいしつ。\nなつかせるのが　かなり　むずかしい。"
+      },
+      {
+        "game": "usum-us",
+        "text": "アローラの　ペルシアンとは　ひたいの\nほうせきのいろが　ちがって　みえるが\nせいぶんは　あまり　かわらないのだ。"
+      },
+      {
+        "game": "usum-um",
+        "text": "おかねもちに　にんきの　ポケモン。\nひたいの　ほうせきを　ねらって\nハンターたちに　ねらわれることも。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "ひたいに　ほうせきが　かがやく！\nまた　あるくすがたも　しなやかで\nおうじょのような　はなやかさがある。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "ひたいに　ほうせきが　かがやく！\nまた　あるくすがたも　しなやかで\nおうじょのような　はなやかさがある。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "きぐらいが　たかく　なつかせるのは\nたいへん。　きにくわない　ことが\nあると　すぐに　ツメを　たててくる。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "ゆうがで　じょうひんな　みのこなし。\nやばんな　ニャイキングとは　そりが\nあわず　おたがいを　みくだしている。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Persian",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "페르시온",
+    "genus": "샴고양이포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "털의 결이 아름다워 애완용으로\n기르려는 사람이 많지만, 곧잘\n할퀴려 들기 때문에 쉽지 않다."
+      },
+      {
+        "game": "xy-y",
+        "text": "부드러운 근육 덕분에\n발소리를 내지 않고 걸을 수 있다.\n먹이를 사냥할 때는 순식간이다."
+      },
+      {
+        "game": "oras-or",
+        "text": "튼튼한 6가닥의 수염은 공기의 움직임으로\n주변의 상태를 파악하는 역할을 한다.\n수염을 잡히면 얌전해진다."
+      },
+      {
+        "game": "oras-as",
+        "text": "튼튼한 6가닥의 수염은 공기의 움직임으로\n주변의 상태를 파악하는 역할을 한다.\n수염을 잡히면 얌전해진다."
+      },
+      {
+        "game": "sm-s",
+        "text": "기질이 거칠어 눈이 마주치는 것만으로\n덤벼든다. 날카로운 발톱으로\n공격당하면 깊은 상처를 입는다."
+      },
+      {
+        "game": "sm-m",
+        "text": "알로라의 페르시온 정도는 아니지만\n자존심이 강하기 때문에\n길들이기가 꽤 어렵다."
+      },
+      {
+        "game": "usum-us",
+        "text": "알로라의 페르시온과는\n이마의 보석 색깔이 다르지만,\n성분은 크게 다르지 않다."
+      },
+      {
+        "game": "usum-um",
+        "text": "부자들에게 인기가 많은 포켓몬이다.\n이마에 박힌 보석 때문에\n사냥꾼들이 노리는 경우도 있다."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "이마의 보석이 빛난다!\n걷는 모습도 우아하고\n왕녀와 같은 화려함이 있다."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "이마의 보석이 빛난다!\n걷는 모습도 우아하고\n왕녀와 같은 화려함이 있다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "자존심이 세서 길들이기\n힘들다. 마음에 들지 않는 일이\n있으면 바로 발톱을 세운다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "움직임은 우아하고 품위 있다.\n야만스러운 나이킹과는\n잘 맞지 않아 서로를 멸시한다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "貓老大",
+    "genus": "暹羅貓寶可夢",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "性情粗暴，單單是視線對上就會\n猛撲過來。被銳利的爪子抓到的話，\n就會留下很深的傷口。"
+      },
+      {
+        "game": "sm-m",
+        "text": "還沒有達到阿羅拉的貓老大的程度，\n但是性情傲慢自大。\n要和牠變得親密相當困難。"
+      },
+      {
+        "game": "usum-us",
+        "text": "額頭上的寶石顏色看起來\n和阿羅拉的貓老大不一樣，\n但其實成分沒有什麼不同。"
+      },
+      {
+        "game": "usum-um",
+        "text": "很受有錢人喜愛的寶可夢。\n有些獵人會為了額頭上的\n寶石而獵捕牠。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "額頭上有顆閃亮亮的寶石！\n行走的姿勢也十分優雅，\n看起來就像女王般雍容華貴。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "額頭上有顆閃亮亮的寶石！\n行走的姿勢也十分優雅，\n看起來就像女王般雍容華貴。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "性情高傲，很難讓牠聽話。\n只要遇到看不順眼的事，\n就會馬上豎起自己的爪子。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "擁有優雅高貴的身姿。\n與野蠻的喵頭目個性不合，\n互相看不起對方。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Persian",
+    "genus": "Pokémon Chadeville",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Un Pokémon très snob. La taille du\njoyau qui orne son front alimente\nbien des débats parmi ses fans."
+      },
+      {
+        "game": "bw-w",
+        "text": "Un Pokémon très snob. La taille du\njoyau qui orne son front alimente\nbien des débats parmi ses fans."
+      },
+      {
+        "game": "xy-x",
+        "text": "Très apprécié pour sa fourrure, il est difficile à\napprivoiser en raison de son caractère rétif."
+      },
+      {
+        "game": "xy-y",
+        "text": "Ses muscles souples lui permettent de marcher sans\nun bruit et d’attaquer en l’espace d’un instant."
+      },
+      {
+        "game": "oras-or",
+        "text": "Persian a six grosses vibrisses qui lui donnent un air costaud\net lui permettent de sentir les mouvements de l’air pour savoir\nce qui se trouve à proximité. Il devient docile lorsqu’on\nl’attrape par les moustaches."
+      },
+      {
+        "game": "oras-as",
+        "text": "Persian a six grosses vibrisses qui lui donnent un air costaud\net lui permettent de sentir les mouvements de l’air pour savoir\nce qui se trouve à proximité. Il devient docile lorsqu’on\nl’attrape par les moustaches."
+      },
+      {
+        "game": "sm-s",
+        "text": "Un Pokémon très agressif, qui peut sauter à la\ngorge si on le regarde dans les yeux. Ses\ngriffes acérées infligent de graves blessures."
+      },
+      {
+        "game": "sm-m",
+        "text": "Un Pokémon naturellement fier, mais pas aussi\norgueilleux que les Persian d’Alola. Il est très\ndifficile à apprivoiser."
+      },
+      {
+        "game": "usum-us",
+        "text": "Malgré une composition quasiment identique,\nsa gemme est d’une couleur différente de celle\ndu Persian d’Alola."
+      },
+      {
+        "game": "usum-um",
+        "text": "Un Pokémon prisé des classes aisées.\nIl est néanmoins la cible des voleurs convoitant\nla gemme qui orne son front."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "La pierre sur son front brille de mille feux.\nSa démarche est souple et majestueuse."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "La pierre sur son front brille de mille feux.\nSa démarche est souple et majestueuse."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Très fier, il est difficile à apprivoiser.\nDès que quelque chose ne lui plaît pas,\nil sort les griffes."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Il se comporte avec grâce et élégance,\net ne s’entend pas avec les rustres Berserkatt :\nles deux espèces se méprisent."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Snobilikat",
+    "genus": "Rassekatzen-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Dieses Pokémon hat sehr schönes Fell.\nEs ist jedoch ein schwer erziehbares Haustier."
+      },
+      {
+        "game": "xy-y",
+        "text": "Aufgrund seiner geschmeidigen Muskeln kann es sich\nlautlos bewegen. Es greift ohne Vorwarnung an."
+      },
+      {
+        "game": "oras-or",
+        "text": "Snobilikat hat sechs dicke Schnurrhaare, wodurch es Furcht\neinflößend wirkt. Durch diese nimmt es wahr, wenn sich etwas\nin seiner Nähe bewegt. Es wird sehr zutraulich, wenn man es\nan den Schnurrhaaren berührt."
+      },
+      {
+        "game": "oras-as",
+        "text": "Snobilikat hat sechs dicke Schnurrhaare, wodurch es Furcht\neinflößend wirkt. Durch diese nimmt es wahr, wenn sich etwas\nin seiner Nähe bewegt. Es wird sehr zutraulich, wenn man es\nan den Schnurrhaaren berührt."
+      },
+      {
+        "game": "sm-s",
+        "text": "Sieht man diesem ungestümen Pokémon nur\nin die Augen, fällt es einen bereits an. Seine\nscharfen Klauen hinterlassen tiefe Wunden."
+      },
+      {
+        "game": "sm-m",
+        "text": "Es ist von Natur aus sehr stolz, wenn auch\nnicht im gleichen Maße wie Snobilikat aus Alola.\nSie lassen sich nur sehr schwer zähmen."
+      },
+      {
+        "game": "usum-us",
+        "text": "Das Juwel auf seiner Stirn hat eine andere Farbe\nals jenes von Snobilikat aus Alola, doch die\nZusammensetzung ist großteils gleich."
+      },
+      {
+        "game": "usum-um",
+        "text": "Unter Wohlbetuchten ein besonders beliebtes\nPokémon. Räuberbanden haben es stets auf\ndas Juwel auf seiner Stirn abgesehen."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Es trägt ein leuchtendes Juwel an der Stirn.\nZusammen mit seinem anmutigen Gang wirkt\nes dadurch elegant wie eine Königin."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Es trägt ein leuchtendes Juwel an der Stirn.\nZusammen mit seinem anmutigen Gang wirkt\nes dadurch elegant wie eine Königin."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Es ist sehr stolz, was es nicht leicht macht, mit\nihm Freundschaft zu schließen. Wenn ihm etwas\nmissfällt, fährt es unverzüglich die Krallen aus."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Sein Auftreten ist anmutig und elegant. Es kommt\nmit Mauzingers grober Art nicht zurecht. Beide\nArten strafen sich gegenseitig mit Verachtung."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Persian",
+    "genus": "Pokémon Gato Fino",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Aunque es muy admirado por el pelo, es difícil de\nentrenar como mascota, porque es un poco travieso."
+      },
+      {
+        "game": "xy-y",
+        "text": "Sus ágiles músculos le permiten moverse sin hacer\nruido. Ataca al instante."
+      },
+      {
+        "game": "oras-or",
+        "text": "Persian tiene seis llamativos bigotes que le dan un aspecto\nferoz. Además, le sirven para detectar el movimiento del aire,\ndelator de la presencia cercana de algún Pokémon. Si se le\nagarra por los bigotes, se vuelve dócil."
+      },
+      {
+        "game": "oras-as",
+        "text": "Persian tiene seis llamativos bigotes que le dan un aspecto\nferoz. Además, le sirven para detectar el movimiento del aire,\ndelator de la presencia cercana de algún Pokémon. Si se le\nagarra por los bigotes, se vuelve dócil."
+      },
+      {
+        "game": "sm-s",
+        "text": "De temperamento violento, ataca a cualquiera\nque lo mira directamente a los ojos. Sus afiladas\ngarras infligen heridas muy profundas."
+      },
+      {
+        "game": "sm-m",
+        "text": "Los Persian son Pokémon extremadamente\norgullosos, en especial los de Alola.\nNo es fácil hacerse amigo de este Pokémon."
+      },
+      {
+        "game": "usum-us",
+        "text": "La joya que luce en la frente presenta una\ncoloración distinta a la del Persian de Alola,\naunque la composición es casi idéntica."
+      },
+      {
+        "game": "usum-um",
+        "text": "Un Pokémon de alto copete, objetivo primordial\nde ladrones que quieren apoderarse de la joya\nque luce en la frente."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "La gema que tiene en la frente brilla por sí\nmisma. Camina con elegancia regia."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "La gema que tiene en la frente brilla por sí\nmisma. Camina con elegancia regia."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Trabar amistad con este Pokémon es una ardua\ntarea debido a su enorme orgullo. Cuando algo\nno le place, saca las uñas de inmediato."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Hace gala de un porte elegante y majestuoso.\nNo congenia con los toscos Perrserker y ambos\nse profesan un mutuo desprecio."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Persian",
+    "genus": "Pokémon Nobilgatto",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Sebbene molto amato per il suo pelo, è difficile\naddomesticarlo per la volubile crudeltà."
+      },
+      {
+        "game": "xy-y",
+        "text": "I muscoli flessibili gli consentono di camminare\nsenza fare alcun rumore. Attacca in un lampo."
+      },
+      {
+        "game": "oras-or",
+        "text": "Persian è dotato di sei baffetti furbi che gli conferiscono\nun aspetto forte. I baffi captano ogni movimento dell’aria\nriconoscendo presenze vicine. Se afferrato per i baffi,\ndiventa docile."
+      },
+      {
+        "game": "oras-as",
+        "text": "Persian è dotato di sei baffetti furbi che gli conferiscono\nun aspetto forte. I baffi captano ogni movimento dell’aria\nriconoscendo presenze vicine. Se afferrato per i baffi,\ndiventa docile."
+      },
+      {
+        "game": "sm-s",
+        "text": "È particolarmente suscettibile, tanto da\nattaccare chiunque lo guardi negli occhi.\nI suoi artigli affilati provocano profonde ferite."
+      },
+      {
+        "game": "sm-m",
+        "text": "È un Pokémon molto altezzoso, caratteristica\nparticolarmente marcata nei Persian di Alola.\nConquistarsi il suo affetto è un’impresa ardua."
+      },
+      {
+        "game": "usum-us",
+        "text": "La gemma che ha sulla fronte è di un colore\ndiverso da quella dei Persian di Alola, ma è\ncomposta praticamente dello stesso il materiale."
+      },
+      {
+        "game": "usum-um",
+        "text": "È molto popolare tra le persone facoltose.\nA volte viene preso di mira dai cacciatori,\nattirati dalla gemma che ha sulla fronte."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "La gemma che ha in fronte emette una luce\nsplendente. Ha le movenze sinuose ed eleganti\ndi una regina."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "La gemma che ha in fronte emette una luce\nsplendente. Ha le movenze sinuose ed eleganti\ndi una regina."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Conquistarsi il suo affetto è un’impresa ardua\nperché è molto altezzoso. Se qualcosa non gli\nva, tira subito fuori gli artigli."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Ha un portamento elegante e distinto.\nNon gli va a genio la rozzezza di Perrserker\ne i due Pokémon si disprezzano a vicenda."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Persian",
+    "genus": "Classy Cat Pokémon",
+    "flavorText": [
+      {
+        "game": "rb-r",
+        "text": "Although its fur\nhas many admirers,\nit is tough to\fraise as a pet\nbecause of its\nfickle meanness."
+      },
+      {
+        "game": "rb-b",
+        "text": "Although its fur\nhas many admirers,\nit is tough to\fraise as a pet\nbecause of its\nfickle meanness."
+      },
+      {
+        "game": "y",
+        "text": "The gem in its\nforehead glows on\nits own! It walks\fwith all the grace\nand elegance of a\nproud queen."
+      },
+      {
+        "game": "gs-g",
+        "text": "Many adore it for\nits sophisticated\nair. However, it\fwill lash out and\nscratch for little\nreason."
+      },
+      {
+        "game": "gs-s",
+        "text": "Its lithe muscles\nallow it to walk\nwithout making\fa sound. It\nattacks in an\ninstant."
+      },
+      {
+        "game": "c",
+        "text": "Behind its lithe,\nelegant appearance\nlies a barbaric\fside. It will tear\napart its prey on\na mere whim."
+      },
+      {
+        "game": "rs-r",
+        "text": "PERSIAN has six bold whiskers that give\nit a look of toughness. The whiskers  \nsense air movements to determine what\fis in the POKéMON’s surrounding\nvicinity. It becomes docile if grabbed\nby the whiskers."
+      },
+      {
+        "game": "rs-s",
+        "text": "PERSIAN has six bold whiskers that give\nit a look of toughness. The whiskers  \nsense air movements to determine what\fis in the POKéMON’s surrounding\nvicinity. It becomes docile if grabbed\nby the whiskers."
+      },
+      {
+        "game": "e",
+        "text": "A PERSIAN’s six bold whiskers sense air\nmovements to determine what is in its\nvicinity. It becomes docile if grabbed\nby the whiskers."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "Has a vicious temperament. Beware if it\nraises its tail straight up. It is a signal\nthat it is about to pounce and bite."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "Although its fur has many admirers, it is\ntough to raise as a pet because of its\nfickle meanness."
+      },
+      {
+        "game": "dp-d",
+        "text": "A very haughty Pokémon. Among\nfans, the size of the jewel in its\nforehead is a topic of much talk."
+      },
+      {
+        "game": "dp-p",
+        "text": "A very haughty Pokémon. Among\nfans, the size of the jewel in its\nforehead is a topic of much talk."
+      },
+      {
+        "game": "pt",
+        "text": "A very haughty Pokémon. Among\nfans, the size of the jewel in its\nforehead is a topic of much talk."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "Many adore it for its sophisticated air.\nHowever, it will lash out and\nscratch for little reason."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "Its lithe muscles allow it to walk\nwithout making a sound. It\nattacks in an instant."
+      },
+      {
+        "game": "bw-b",
+        "text": "A very haughty Pokémon. Among\nfans, the size of the jewel in its\nforehead is a topic of much talk."
+      },
+      {
+        "game": "bw-w",
+        "text": "A very haughty Pokémon. Among\nfans, the size of the jewel in its\nforehead is a topic of much talk."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "A very haughty Pokémon. Among\nfans, the size of the jewel in its\nforehead is a topic of much talk."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "A very haughty Pokémon. Among\nfans, the size of the jewel in its\nforehead is a topic of much talk."
+      },
+      {
+        "game": "xy-x",
+        "text": "Although its fur has many admirers, it is tough\nto raise as a pet because of its fickle meanness."
+      },
+      {
+        "game": "xy-y",
+        "text": "Its lithe muscles allow it to walk without making a\nsound. It attacks in an instant."
+      },
+      {
+        "game": "oras-or",
+        "text": "Persian has six bold whiskers that give it a look of toughness.\nThe whiskers sense air movements to determine what is in the\nPokémon’s surrounding vicinity. It becomes docile if grabbed\nby the whiskers."
+      },
+      {
+        "game": "oras-as",
+        "text": "Persian has six bold whiskers that give it a look of toughness.\nThe whiskers sense air movements to determine what is in the\nPokémon’s surrounding vicinity. It becomes docile if grabbed\nby the whiskers."
+      },
+      {
+        "game": "sm-s",
+        "text": "It has a violent temperament. It will attack\nanything that looks it in the eye. Its sharp\nclaws inflict deep wounds."
+      },
+      {
+        "game": "sm-m",
+        "text": "It has a high opinion of itself, although not to\nthe same extent as the Alolan Persian. It’s quite\ndifficult to make friends with this Pokémon."
+      },
+      {
+        "game": "usum-us",
+        "text": "Although the jewel on its forehead appears to\nbe a different color than those of Alolan\nPersian, it’s mostly made of the same material."
+      },
+      {
+        "game": "usum-um",
+        "text": "This Pokémon is popular with rich people.\nIt’s also targeted by hunters who are after\nthe jewel in its forehead."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "The gem in its forehead glows on its own!\nIt walks with all the grace and elegance\nof a proud queen."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "The gem in its forehead glows on its own!\nIt walks with all the grace and elegance\nof a proud queen."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Getting this prideful Pokémon to warm up to you\ntakes a lot of effort, and it will claw at you the\nmoment it gets annoyed."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Its elegant and refined behavior clashes with that\nof the barbaric Perrserker. The relationship\nbetween the two is one of mutual disdain."
+      }
+    ]
+  },
+  "chs": {
+    "name": "猫老大",
+    "genus": "暹罗猫宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "性情粗暴，只要视线对上就会\n猛扑过来。被锐利的爪子抓到的话，\n就会留下很深的伤口。"
+      },
+      {
+        "game": "sm-m",
+        "text": "还没有达到阿罗拉的猫老大的地位，\n但是性情傲慢自大。\n要和它变得亲密相当困难。"
+      },
+      {
+        "game": "usum-us",
+        "text": "虽然额头上的宝石颜色\n和阿罗拉猫老大的不一样，\n但成分却没什么两样。"
+      },
+      {
+        "game": "usum-um",
+        "text": "很受有钱人喜爱的宝可梦。\n有时会遭到那些打它额头\n宝石主意的猎人们袭击。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "额头上的宝石闪闪发亮！\n走路的姿态也十分优美，\n就像女王一样华丽高贵。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "额头上的宝石闪闪发亮！\n走路的姿态也十分优美，\n就像女王一样华丽高贵。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "性情高傲，很难让它听话。\n只要遇到看不顺眼的事，\n就会马上竖起自己的爪子。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "拥有优雅高贵的身姿。\n与野蛮的喵头目性格不合，\n互相看不起对方。"
+      }
+    ]
+  }
+}

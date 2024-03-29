@@ -1,0 +1,549 @@
+{
+  "jap": {
+    "name": "プテラ",
+    "genus": "かせきポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "こはくに　のこされた　きょうりゅうの\nいでんしから　ふっかつさせた。\nたかいこえで　なきながら　とぶ。"
+      },
+      {
+        "game": "xy-y",
+        "text": "かんだかい　こえで　さけびながら\nこだいの　おおぞらを　とんでいたと\nされる　どうもうな　ポケモン。"
+      },
+      {
+        "game": "oras-or",
+        "text": "コハクから　とりだした　いでんしを　さいせいして\nふっかつした　きょうりゅう　じだいの　ポケモン。\nそらの　おうじゃだったと　そうぞうされている。"
+      },
+      {
+        "game": "oras-as",
+        "text": "コハクから　とりだした　いでんしを　さいせいして\nふっかつした　きょうりゅう　じだいの　ポケモン。\nそらの　おうじゃだったと　そうぞうされている。"
+      },
+      {
+        "game": "sm-s",
+        "text": "きょうりゅう　じだいの　ポケモン。\nのこぎりのような　キバで　えものを\nひきさいて　くっていた。"
+      },
+      {
+        "game": "sm-m",
+        "text": "こだいの　おおぞらの　おうじゃ。\nきょだい　いんせきの　らっかで\nぜつめつした　せつが　ねづよい。"
+      },
+      {
+        "game": "usum-us",
+        "text": "こはくに　のこされた　いでんしから\nふくげんさせた。　よそういじょうに\nきょうぼうで　ぎせいしゃも　でた。"
+      },
+      {
+        "game": "usum-um",
+        "text": "こだいの　おおぞらを　わがものがおで\nとびまわっていた。　じめんに　おりると\nあるくのも　おそく　よわかったらしい。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "コハクから　とりだされた　いでんしを\nけんきゅうして　ふっかつさせた\nおおむかしの　どうもうな　ポケモン。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "コハクから　とりだされた　いでんしを\nけんきゅうして　ふっかつさせた\nおおむかしの　どうもうな　ポケモン。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "こだいの　どうもうな　ポケモン。\nかんぺきな　ふくげんは　いまの\nかがくでも　ふかのう　らしい。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "のこぎりの　ような　キバは\nはがねポケモンの　ひふ　さえ\nズタズタに　きりさいて　しまう。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Ptera",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "프테라",
+    "genus": "화석포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "호박에 남아 있던 공룡의\n유전자에서 부활시켰다.\n높은 소리로 울며 난다."
+      },
+      {
+        "game": "xy-y",
+        "text": "날카로운 목소리로 울부짖으며\n고대의 넓은 하늘을 날아다녔다고\n여겨지는 거칠고 사나운 포켓몬이다."
+      },
+      {
+        "game": "oras-or",
+        "text": "호박에서 추출한 유전자를 재생하여\n부활한 공룡시대의 포켓몬이다.\n하늘의 왕이었다고 상상된다."
+      },
+      {
+        "game": "oras-as",
+        "text": "호박에서 추출한 유전자를 재생하여\n부활한 공룡시대의 포켓몬이다.\n하늘의 왕이었다고 상상된다."
+      },
+      {
+        "game": "sm-s",
+        "text": "공룡시대의 포켓몬이다.\n톱 같은 엄니로 먹이를\n찢어서 먹었다."
+      },
+      {
+        "game": "sm-m",
+        "text": "고대 하늘의 왕.\n거대한 운석의 낙하로\n멸종했다는 설이 뿌리깊다."
+      },
+      {
+        "game": "usum-us",
+        "text": "호박에 남겨진 유전자로\n복원시켰다. 예상 밖으로\n흉포하여 희생자도 발생했다."
+      },
+      {
+        "game": "usum-um",
+        "text": "고대의 넓은 하늘을 제집처럼\n날아다녔다. 땅에 내려오면\n걷는 것도 느리고 약했다고 한다."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "호박에서 추출한 유전자를\n연구해서 부활시킨\n먼 옛날의 사나운 포켓몬."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "호박에서 추출한 유전자를\n연구해서 부활시킨\n먼 옛날의 사나운 포켓몬."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "고대의 거칠고 사나운 포켓몬이다.\n완벽한 복원은 현대의\n과학으로도 불가능하다고 한다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "톱 같은 이빨은\n강철포켓몬의 피부도\n갈기갈기 베어 가른다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "化石翼龍",
+    "genus": "化石寶可夢",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "恐龍時代的寶可夢。\n會用鋸子般的牙齒\n將獵物撕碎後吞食。"
+      },
+      {
+        "game": "sm-m",
+        "text": "在古代是廣闊天空的王者。\n因巨大隕石的墜落而滅絕的\n學說在人們心中根深蒂固。"
+      },
+      {
+        "game": "usum-us",
+        "text": "由琥珀中殘留的基因還原而來。\n性情比想像中更加兇暴，\n甚至還出現了犧牲者。"
+      },
+      {
+        "game": "usum-um",
+        "text": "以高高在上的姿態翱翔在\n古代的天空中。一旦降落到地面\n就會變得很弱，連走路也很慢。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "透過研究取自琥珀中的\n基因而誕生，是生存在\n遠古時代的凶猛寶可夢。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "透過研究取自琥珀中的\n基因而誕生，是生存在\n遠古時代的凶猛寶可夢。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "古代的凶猛寶可夢。\n據說即使是當今的科學，\n也無法將牠完美地復原。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "擁有像鋸子般的牙齒，\n就連鋼屬性寶可夢的\n皮膚都能撕裂成碎片。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Ptéra",
+    "genus": "Pokémon Fossile",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Un Pokémon qui arpentait le ciel\nau temps des dinosaures. Ses\ncrocs sont pareils à des scies."
+      },
+      {
+        "game": "bw-w",
+        "text": "Un Pokémon qui arpentait le ciel\nau temps des dinosaures. Ses\ncrocs sont pareils à des scies."
+      },
+      {
+        "game": "xy-x",
+        "text": "Ce Pokémon a été reconstitué à partir d’une cellule\nde dinosaure trouvée dans un morceau d’ambre.\nIl vole très haut en poussant des cris très aigus."
+      },
+      {
+        "game": "xy-y",
+        "text": "Ce terrible Pokémon a dominé les cieux d’une autre\népoque, terrorisant ses ennemis."
+      },
+      {
+        "game": "oras-or",
+        "text": "Ptéra est un Pokémon de l’ère des dinosaures. Il fut ressuscité\nà partir de cellules extraites d’un morceau d’ambre. On pense\nqu’il était le roi des cieux à l’époque préhistorique."
+      },
+      {
+        "game": "oras-as",
+        "text": "Ptéra est un Pokémon de l’ère des dinosaures. Il fut ressuscité\nà partir de cellules extraites d’un morceau d’ambre. On pense\nqu’il était le roi des cieux à l’époque préhistorique."
+      },
+      {
+        "game": "sm-s",
+        "text": "Un Pokémon de l’époque préhistorique.\nIl mangeait ses proies en les déchiquetant\navec ses crocs acérés comme des scies."
+      },
+      {
+        "game": "sm-m",
+        "text": "Le roi des airs à l’époque préhistorique.\nLa théorie la plus crédible est qu’il aurait été\nannihilé par la chute d’une énorme météorite."
+      },
+      {
+        "game": "usum-us",
+        "text": "Recréé à partir d’ADN contenu dans de l’ambre,\nil s’est avéré plus féroce que prévu et a causé\nla mort de plusieurs personnes."
+      },
+      {
+        "game": "usum-um",
+        "text": "L’air suffisant qu’il affichait lorsqu’il volait dans\nles cieux s’effaçait vite une fois sur terre, où il\nétait faible et peinait à se mouvoir rapidement."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Un Pokémon féroce disparu il y a longtemps.\nIl a été reconstitué à partir d’ADN fossilisé\ndans de l’ambre."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Un Pokémon féroce disparu il y a longtemps.\nIl a été reconstitué à partir d’ADN fossilisé\ndans de l’ambre."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "On raconte qu’aujourd’hui encore, il est\nimpossible de restaurer à la perfection\nce Pokémon féroce de l’ère préhistorique."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Sa dentition semblable à une scie peut même\nbroyer la peau des Pokémon Acier."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Aerodactyl",
+    "genus": "Fossil-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "In Bernstein eingeschlossenes genetisches Material\neines Dinosauriers war der Ursprung dieses\nPokémon. Beim Fliegen schreit es schrill."
+      },
+      {
+        "game": "xy-y",
+        "text": "Dieses grausame, antike Pokémon flog durch die Luft\nund stieß sehr hohe und laute Schreie aus."
+      },
+      {
+        "game": "oras-or",
+        "text": "Aerodactyl ist ein Pokémon aus dem Zeitalter der Dinosaurier.\nEs wurde aus genetischem Material reproduziert, das aus\nBernstein gewonnen wurde. Man geht davon aus, dass es\nin grauer Vorzeit der König der Lüfte war."
+      },
+      {
+        "game": "oras-as",
+        "text": "Aerodactyl ist ein Pokémon aus dem Zeitalter der Dinosaurier.\nEs wurde aus genetischem Material reproduziert, das aus\nBernstein gewonnen wurde. Man geht davon aus, dass es\nin grauer Vorzeit der König der Lüfte war."
+      },
+      {
+        "game": "sm-s",
+        "text": "Es stammt aus dem Zeitalter der Dinosaurier.\nMit seinen Zähnen, die Sägeblättern gleichen,\nzerreißt es seine Beute, bevor es sie frisst."
+      },
+      {
+        "game": "sm-m",
+        "text": "Zu Urzeiten war es der Herrscher der Lüfte.\nEs wird allgemein angenommen, dass es infolge\neines Kometenabsturzes ausstarb."
+      },
+      {
+        "game": "usum-us",
+        "text": "Ein grausames Pokémon, das vielen das Leben\nschwer gemacht hat. Es wurde aus Genmaterial\nreproduziert, das in Bernstein enthalten war."
+      },
+      {
+        "game": "usum-um",
+        "text": "Dieses antike Pokémon flog einst gebieterisch\ndurch die Lüfte. Auf dem Boden hingegen war\nes schwach und konnte nur langsam gehen."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Dieses wilde Pokémon aus der Urzeit wurde\nmithilfe von in Bernstein eingeschlossenem\nGenmaterial wieder zum Leben erweckt."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Dieses wilde Pokémon aus der Urzeit wurde\nmithilfe von in Bernstein eingeschlossenem\nGenmaterial wieder zum Leben erweckt."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Selbst mit moderner Technologie scheint es\nunmöglich, ein perfektes Exemplar von diesem\nwilden urzeitlichen Pokémon zu reproduzieren."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Mit seinen Zähnen, die Sägeblättern gleichen,\nkann es selbst die Haut von Stahl-Pokémon\nzerfetzen."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Aerodactyl",
+    "genus": "Pokémon Fósil",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Se regeneró a partir de material genético de un\ndinosaurio encontrado en ámbar. Cuando vuela emite\nescandalosos alaridos."
+      },
+      {
+        "game": "xy-y",
+        "text": "Dicen que este malvado Pokémon volaba por los\nantiguos cielos profiriendo sus agudos gritos."
+      },
+      {
+        "game": "oras-or",
+        "text": "Los orígenes de Aerodactyl datan de la era de los dinosaurios.\nSe regeneró a partir de material genético contenido en ámbar.\nSe supone que fue el amo de los cielos en épocas pasadas."
+      },
+      {
+        "game": "oras-as",
+        "text": "Los orígenes de Aerodactyl datan de la era de los dinosaurios.\nSe regeneró a partir de material genético contenido en ámbar.\nSe supone que fue el amo de los cielos en épocas pasadas."
+      },
+      {
+        "game": "sm-s",
+        "text": "Sus orígenes datan de la era de los dinosaurios.\nDesgarra a sus presas con sus colmillos afilados\ncomo sierras antes de devorarlas."
+      },
+      {
+        "game": "sm-m",
+        "text": "Dominaba los cielos en la época prehistórica.\nSe extinguió tras la caída de un gran meteorito,\nsegún una de las teorías más arraigadas."
+      },
+      {
+        "game": "usum-us",
+        "text": "Recreado a partir de material genético extraído\ndel ámbar, es más feroz de lo que se preveía.\nQuien lo subestime lo puede pagar caro."
+      },
+      {
+        "game": "usum-um",
+        "text": "Dominaba los cielos en la época prehistórica.\nEn tierra firme, sin embargo, se revela como un\nPokémon débil y de movimientos torpes."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Este Pokémon feroz, extinto hace siglos, fue\nregenerado a partir de ADN extraído de un\námbar."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Este Pokémon feroz, extinto hace siglos, fue\nregenerado a partir de ADN extraído de un\námbar."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Un feroz Pokémon de la época prehistórica al\nque no bastan todos los avances tecnológicos\nactuales para regenerar a la perfección."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Sus colmillos, afilados como sierras, pueden\nhacer trizas incluso la piel de Pokémon de tipo\nAcero."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Aerodactyl",
+    "genus": "Pokémon Fossile",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Rigenerato dal materiale organico di un dinosauro\nritrovato nell’ambra. Emette versi acuti mentre vola."
+      },
+      {
+        "game": "xy-y",
+        "text": "Si dice che questo feroce Pokémon volasse nei cieli\ndell’antichità lanciando versi acuti."
+      },
+      {
+        "game": "oras-or",
+        "text": "Aerodactyl risale all’epoca dei dinosauri. È stato rigenerato\nda materiale genetico estratto dall’ambra. Si suppone che\nin tempi antichi fosse considerato il signore dei cieli."
+      },
+      {
+        "game": "oras-as",
+        "text": "Aerodactyl risale all’epoca dei dinosauri. È stato rigenerato\nda materiale genetico estratto dall’ambra. Si suppone che\nin tempi antichi fosse considerato il signore dei cieli."
+      },
+      {
+        "game": "sm-s",
+        "text": "Questo Pokémon, risalente all’epoca dei\ndinosauri, lacerava le prede con le zanne\naffilate come lame per poi divorarle."
+      },
+      {
+        "game": "sm-m",
+        "text": "In tempi antichi era il signore dei cieli.\nSecondo una teoria molto diffusa, fu sterminato\ndalla caduta di un meteorite."
+      },
+      {
+        "game": "usum-us",
+        "text": "Questo Pokémon è stato rigenerato a partire da\nmateriale genetico ritrovato nell’ambra. La sua\ninaspettata ferocia ha causato delle vittime."
+      },
+      {
+        "game": "usum-um",
+        "text": "Nei tempi antichi dominava i cieli, ma sulla\nterraferma era debole e lento nei movimenti."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Estinto già nell’antichità, questo feroce Pokémon\npreistorico è stato rigenerato usando del DNA\nestratto da un pezzo d’ambra."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Estinto già nell’antichità, questo feroce Pokémon\npreistorico è stato rigenerato usando del DNA\nestratto da un pezzo d’ambra."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "È un feroce Pokémon dell’antichità. Pare che\ncon la tecnologia odierna non sia possibile\nrigenerarlo perfettamente."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Le sue zanne simili a lame sono in grado di fare\na brandelli persino la pelle dei Pokémon di tipo\nAcciaio."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Aerodactyl",
+    "genus": "Fossil Pokémon",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "A Pokémon that roamed the skies\nin the dinosaur era. Its teeth are\nlike saw blades."
+      },
+      {
+        "game": "rb-r",
+        "text": "A ferocious, pre­\nhistoric POKéMON\nthat goes for the\fenemy's throat\nwith its serrated\nsaw-like fangs."
+      },
+      {
+        "game": "rb-b",
+        "text": "A ferocious, pre­\nhistoric POKéMON\nthat goes for the\fenemy's throat\nwith its serrated\nsaw-like fangs."
+      },
+      {
+        "game": "y",
+        "text": "A savage POKéMON\nthat died out in\nancient times. It\fwas resurrected\nusing DNA taken\nfrom amber."
+      },
+      {
+        "game": "gs-g",
+        "text": "A vicious POKéMON\nfrom the distant\npast, it appears\fto have flown by\nspreading its\nwings and gliding."
+      },
+      {
+        "game": "gs-s",
+        "text": "This vicious POKé­\nMON is said to\nhave flown in an­\fcient skies while\nshrieking high-\npitched cries."
+      },
+      {
+        "game": "c",
+        "text": "In prehistoric\ntimes, this\nPOKéMON flew\ffreely and\nfearlessly through\nthe skies."
+      },
+      {
+        "game": "rs-r",
+        "text": "AERODACTYL is a POKéMON from the age\nof dinosaurs. It was regenerated from\ngenetic material extracted from amber.\fIt is imagined to have been the king of\nthe skies in ancient times."
+      },
+      {
+        "game": "rs-s",
+        "text": "AERODACTYL is a POKéMON from the age\nof dinosaurs. It was regenerated from\ngenetic material extracted from amber.\fIt is imagined to have been the king of\nthe skies in ancient times."
+      },
+      {
+        "game": "e",
+        "text": "AERODACTYL is a POKéMON from the age\nof dinosaurs. It was regenerated from DNA\nextracted from amber. It is imagined to\nhave been the king of the skies."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "It was regenerated from a dinosaur’s\ngenetic matter that was found in amber.\nIt flies with high-pitched cries."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "A ferocious, prehistoric POKéMON that\ngoes for the enemy’s throat with its\nserrated, sawlike fangs."
+      },
+      {
+        "game": "dp-d",
+        "text": "A Pokémon that roamed the skies\nin the dinosaur era. Its teeth are\nlike saw blades."
+      },
+      {
+        "game": "dp-p",
+        "text": "A Pokémon that roamed the skies\nin the dinosaur era. Its teeth are\nlike saw blades."
+      },
+      {
+        "game": "pt",
+        "text": "A Pokémon that roamed the skies\nin the dinosaur era. Its teeth are\nlike saw blades."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "A vicious Pokémon from the distant\npast, it appears to have flown by\nspreading its wings and gliding."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "This vicious Pokémon is said to\nhave flown in ancient skies while\nshrieking high-pitched cries."
+      },
+      {
+        "game": "bw-w",
+        "text": "A Pokémon that roamed the skies\nin the dinosaur era. Its teeth are\nlike saw blades."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "A Pokémon that roamed the skies\nin the dinosaur era. Its teeth are\nlike saw blades."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "A Pokémon that roamed the skies\nin the dinosaur era. Its teeth are\nlike saw blades."
+      },
+      {
+        "game": "xy-x",
+        "text": "It was regenerated from a dinosaur’s genetic\nmatter that was found in amber. It flies with\nhigh-pitched cries."
+      },
+      {
+        "game": "xy-y",
+        "text": "This vicious Pokémon is said to have flown in\nancient skies while shrieking high-pitched cries."
+      },
+      {
+        "game": "oras-or",
+        "text": "Aerodactyl is a Pokémon from the age of dinosaurs. It was\nregenerated from genetic material extracted from amber. It is\nimagined to have been the king of the skies in ancient times."
+      },
+      {
+        "game": "oras-as",
+        "text": "Aerodactyl is a Pokémon from the age of dinosaurs. It was\nregenerated from genetic material extracted from amber. It is\nimagined to have been the king of the skies in ancient times."
+      },
+      {
+        "game": "sm-s",
+        "text": "A Pokémon from the age of the dinosaurs.\nIt used its sawlike fangs to shred its prey\nbefore eating them."
+      },
+      {
+        "game": "sm-m",
+        "text": "In ancient times, it ruled the skies. A widely\naccepted theory is that it went extinct due to\na large meteor impact."
+      },
+      {
+        "game": "usum-us",
+        "text": "Restored from DNA found in amber, this\nPokémon exhibited ferocity that was greater\nthan expected. Some casualties resulted."
+      },
+      {
+        "game": "usum-um",
+        "text": "It flew through the open skies over the ancient\ncontinent as if they were its own. When it\ntouched ground, its walk was weak and slow."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "A savage Pokémon that died out in ancient\ntimes. It was resurrected using DNA taken\nfrom amber."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "A savage Pokémon that died out in ancient\ntimes. It was resurrected using DNA taken\nfrom amber."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "This is a ferocious Pokémon from ancient times.\nApparently even modern technology is incapable\nof producing a perfectly restored specimen."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Aerodactyl’s sawlike fangs can shred skin to\ntatters—even the skin of Steel-type Pokémon."
+      }
+    ]
+  },
+  "chs": {
+    "name": "化石翼龙",
+    "genus": "化石宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "恐龙时代的宝可梦。\n用锯子一样的牙齿\n将猎物撕碎后吞食。"
+      },
+      {
+        "game": "sm-m",
+        "text": "古代广袤天空的王者。\n因巨大陨石的坠落而灭绝的\n学说在人们心中根深蒂固。"
+      },
+      {
+        "game": "usum-us",
+        "text": "由琥珀中残留的遗传基因复原而来。\n性情比想像的还要粗暴，\n甚至还出现了牺牲者。"
+      },
+      {
+        "game": "usum-um",
+        "text": "会以一副傲然的姿态翱翔在\n古代的广袤天空中。降落到地面后，\n它好像会变弱，走起路来也会变慢。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "通过研究从琥珀中提取\n出来的基因复活而成，是\n远古时期的凶恶宝可梦。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "通过研究从琥珀中提取\n出来的基因复活而成，是\n远古时期的凶恶宝可梦。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "它是一种古代的凶猛宝可梦。\n据说，就算运用当今最先进的\n科技，也无法将其完美复原。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "长着锯子般的牙齿。\n甚至连钢属性宝可梦的皮肤\n都会被它的牙齿撕成碎片。"
+      }
+    ]
+  }
+}

@@ -1,0 +1,269 @@
+{
+  "jap": {
+    "name": "マッギョ",
+    "genus": "トラップポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "ひふが　かたいので　すもうとりに\nふまれても　へいき。でんきを\nながすとき　わらいがおに　なる。"
+      },
+      {
+        "game": "xy-y",
+        "text": "うみべの　どろに　うまって　えものを\nまちかまえる。えものが　さわったとき\nでんきを　だして　しびれさせるのだ。"
+      },
+      {
+        "game": "oras-or",
+        "text": "ひふが　かたいので　すもうとりに\nふまれても　へいき。でんきを\nながすとき　わらいがおに　なる。"
+      },
+      {
+        "game": "oras-as",
+        "text": "うみべの　どろに　うまって　えものを\nまちかまえる。えものが　さわったとき\nでんきを　だして　しびれさせるのだ。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "ひがたが　すみか。　どろに　すむ\nさいきんに　よって　でんきを　つくる\nきかんが　はったつした。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "からだの　きいろい　もようから\nつよい　でんきを　はなつとき\nなぜか　すこし　ほほえんでいる。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Maggyo",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "메더",
+    "genus": "트랩포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "피부가 단단해서 씨름꾼에게\n밟혀도 아무렇지 않다. 전기를\n흘려보낼 때 웃는 얼굴이 된다."
+      },
+      {
+        "game": "xy-y",
+        "text": "바닷가 펄 속에 묻혀 먹이를\n기다린다. 먹이가 몸에 닿으면\n전기를 써서 마비시킨다."
+      },
+      {
+        "game": "oras-or",
+        "text": "피부가 단단해서 씨름꾼에게\n밟혀도 아무렇지 않다. 전기를\n흘려보낼 때 웃는 얼굴이 된다."
+      },
+      {
+        "game": "oras-as",
+        "text": "바닷가 펄 속에 묻혀 먹이를\n기다린다. 먹이가 몸에 닿으면\n전기를 써서 마비시킨다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "갯벌이 보금자리다.\n진흙 속에 사는 세균에 의해\n전기를 만드는 기관이 발달했다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "몸의 노란 무늬에서\n강한 전기를 발산할 때\n무슨 이유인지 살짝 웃고 있다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "泥巴魚",
+    "genus": "陷阱寶可夢",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "潮間帶便是牠的巢穴。\n製造電的器官由於\n泥裡的細菌而發達起來。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "當從身上的黃色斑紋\n裡釋放出強大電流時，\n牠會莫名地露出微笑。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Limonde",
+    "genus": "Pokémon Piège",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Sa peau est si dure qu’il peut se faire\npiétiner par un sumo sans rien sentir.\nIl sourit en émettant de l’électricité."
+      },
+      {
+        "game": "bw-w",
+        "text": "Tapi dans la boue ou les sédiments,\nil attend sa proie patiemment et la\nparalyse avec une décharge électrique."
+      },
+      {
+        "game": "xy-x",
+        "text": "Sa peau est si dure qu’il peut se faire piétiner par\nun sumo sans rien sentir. Il sourit en émettant de\nl’électricité."
+      },
+      {
+        "game": "xy-y",
+        "text": "Tapi dans la boue ou les sédiments, il attend sa proie\npatiemment et la paralyse avec une décharge\nélectrique."
+      },
+      {
+        "game": "oras-or",
+        "text": "Sa peau est si dure qu’il peut se faire piétiner par un sumo\nsans rien sentir. Il sourit en émettant de l’électricité."
+      },
+      {
+        "game": "oras-as",
+        "text": "Tapi dans la boue ou les sédiments, il attend sa proie\npatiemment et la paralyse avec une décharge électrique."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Les vasières sont son habitat de prédilection.\nIl a développé un organe générant de l’électricité\ngrâce aux bactéries présentes dans la boue."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Lorsque les parties jaunes de son corps envoient\nune puissante décharge électrique, il ébauche\nun sourire. Personne ne sait pourquoi."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Flunschlik",
+    "genus": "Falle-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Dank seiner dicken Haut hält es selbst das Gewicht\neines Sumoringers aus. Wenn es Stromschläge\nverteilt, grinst es."
+      },
+      {
+        "game": "xy-y",
+        "text": "Es vergräbt sich im Morast am Meeresboden. Wird es\nvon seiner Beute gestreift, lähmt es sie mit Strom."
+      },
+      {
+        "game": "oras-or",
+        "text": "Dank seiner dicken Haut hält es selbst das Gewicht eines\nSumoringers aus. Wenn es Stromschläge verteilt, grinst es."
+      },
+      {
+        "game": "oras-as",
+        "text": "Es vergräbt sich im Morast am Meeresboden. Wird es von\nseiner Beute gestreift, lähmt es sie mit Strom."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Dieses Pokémon lebt im Morast. Dank der\ndortigen Bakterien hat es ein Organ entwickelt,\nmit dem es Strom erzeugen kann."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Es verteilt über das gelbe Muster auf seinem\nKörper starke Stromstöße. Immer wenn es Strom\nabsondert, grinst es. Niemand weiß, wieso."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Stunfisk",
+    "genus": "Pokémon Trampa",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Ni un pisotón de un luchador de sumo lo aplastaría\ngracias a su piel sólida. Sonríe al soltar descargas\neléctricas."
+      },
+      {
+        "game": "xy-y",
+        "text": "Acecha a sus presas oculto en la arena húmeda de\nla playa. Las paraliza con una descarga eléctrica\ncuando lo tocan."
+      },
+      {
+        "game": "oras-or",
+        "text": "Ni un pisotón de un luchador de sumo lo aplastaría gracias a\nsu piel sólida. Sonríe al soltar descargas eléctricas."
+      },
+      {
+        "game": "oras-as",
+        "text": "Acecha a sus presas oculto en la arena húmeda de la playa.\nLas paraliza con una descarga eléctrica cuando lo tocan."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Vive en humedales costeros. Ha desarrollado un\nórgano que produce electricidad gracias a una\nbacteria que vive en el lodo."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Se desconoce la razón, pero esboza una leve\nsonrisa al liberar potentes descargas eléctricas\na través de las zonas amarillentas de su cuerpo."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Stunfisk",
+    "genus": "Pokémon Trappola",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Ha la pelle così dura che un lottatore di sumo\npotrebbe calpestarlo senza fargli male. L’elettricità\ngli fa il solletico."
+      },
+      {
+        "game": "xy-y",
+        "text": "Attende al varco le prede, sepolto nel fango in riva\nal mare. Se lo sfiorano, le paralizza con una scarica\nelettrica."
+      },
+      {
+        "game": "oras-or",
+        "text": "Ha la pelle così dura che un lottatore di sumo potrebbe\ncalpestarlo senza fargli male. L’elettricità gli fa il solletico."
+      },
+      {
+        "game": "oras-as",
+        "text": "Attende al varco le prede, sepolto nel fango in riva al mare.\nSe lo sfiorano, le paralizza con una scarica elettrica."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Abita i fondali che emergono durante la bassa\nmarea. Ha sviluppato un organo che produce\nelettricità grazie a un batterio che vive nel fango."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Per qualche strano motivo accenna sempre\nun sorriso quando rilascia una forte scarica\nelettrica dai motivi gialli sul suo corpo."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Stunfisk",
+    "genus": "Trap Pokémon",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Its skin is very hard, so it is unhurt\neven if stepped on by sumo wrestlers.\nIt smiles when transmitting electricity."
+      },
+      {
+        "game": "bw-w",
+        "text": "It conceals itself in the mud of the\nseashore. Then it waits. When prey touch\nit, it delivers a jolt of electricity."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "When its opponent can’t be paralyzed,\nit contorts itself with unexpected speed\nand flops away."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "When its opponent can’t be paralyzed,\nit contorts itself with unexpected speed\nand flops away."
+      },
+      {
+        "game": "xy-x",
+        "text": "Its skin is very hard, so it is unhurt even if stepped\non by sumo wrestlers. It smiles when\ntransmitting electricity."
+      },
+      {
+        "game": "xy-y",
+        "text": "It conceals itself in the mud of the seashore.\nThen it waits. When prey touch it, it delivers a jolt\nof electricity."
+      },
+      {
+        "game": "oras-or",
+        "text": "Its skin is very hard, so it is unhurt even if stepped\non by sumo wrestlers. It smiles when\ntransmitting electricity."
+      },
+      {
+        "game": "oras-as",
+        "text": "It conceals itself in the mud of the seashore.\nThen it waits. When prey touch it, it delivers a jolt\nof electricity."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Thanks to bacteria that lived in the mud flats with\nit, this Pokémon developed the organs it uses to\ngenerate electricity."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "For some reason, this Pokémon smiles slightly\nwhen it emits a strong electric current from the\nyellow markings on its body."
+      }
+    ]
+  },
+  "chs": {
+    "name": "泥巴鱼",
+    "genus": "陷阱宝可梦",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "潮间带便是它的巢穴。\n制造电的器官由于\n泥里的细菌而发达起来。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "当从身上的黄色斑纹\n里释放出强大电流时，\n它会莫名地露出微笑。"
+      }
+    ]
+  }
+}

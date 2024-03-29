@@ -1,0 +1,321 @@
+{
+  "jap": {
+    "name": "デンリュウ",
+    "genus": "ライトポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "しっぽのさきが　ひかりかがやく。\nひかりは　はるか　とおくまで　とどき\nまよったものの　みちしるべとなる。"
+      },
+      {
+        "game": "xy-y",
+        "text": "しっぽの　さきが　ひかりかがやく。\nひかりは　はるか　とおくまで　とどき\nまよったものの　みちしるべとなる。"
+      },
+      {
+        "game": "oras-or",
+        "text": "デンリュウの　あかりは　うちゅうからも　みえる。\nむかしの　ひとは　デンリュウの　あかりを　つかい\nとおくの　なかまと　あいずを　おくりあっていた。"
+      },
+      {
+        "game": "oras-as",
+        "text": "デンリュウの　あかりは　うちゅうからも　みえる。\nむかしの　ひとは　デンリュウの　あかりを　つかい\nとおくの　なかまと　あいずを　おくりあっていた。"
+      },
+      {
+        "game": "usum-us",
+        "text": "シッポの　ひかりは　うちゅうまで\nとどくので　どこにいるか　まるわかり。\nだから　ふだんは　けしている。"
+      },
+      {
+        "game": "usum-um",
+        "text": "シッポは　つよく　あかるく　かがやく。\nふなのりたちの　みちしるべ　として\nむかしから　たいせつに　されてきた。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Denryu",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "전룡",
+    "genus": "라이트포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "꼬리 끝이 빛나며 반짝인다.\n빛이 아득히 먼 곳까지 닿아서\n길 잃은 자들의 이정표가 된다."
+      },
+      {
+        "game": "xy-y",
+        "text": "꼬리 끝이 빛나며 반짝인다.\n빛이 아득히 먼 곳까지 닿아서\n길 잃은 자들의 이정표가 된다."
+      },
+      {
+        "game": "oras-or",
+        "text": "전룡의 빛은 우주에서도 보인다.\n옛날 사람은 전룡의 빛을 써서\n멀리 있는 동료와 신호를 주고받았다."
+      },
+      {
+        "game": "oras-as",
+        "text": "전룡의 빛은 우주에서도 보인다.\n옛날 사람은 전룡의 빛을 써서\n멀리 있는 동료와 신호를 주고받았다."
+      },
+      {
+        "game": "usum-us",
+        "text": "꼬리의 빛은 우주까지 도달하여\n어디에 있든 바로 알 수 있다.\n그래서 평소에는 끄고 있다."
+      },
+      {
+        "game": "usum-um",
+        "text": "꼬리는 강하고 밝게 빛난다.\n뱃사람들의 길잡이로서\n옛날부터 소중히 여겨져 왔다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "電龍",
+    "genus": "燈寶可夢",
+    "flavorText": [
+      {
+        "game": "usum-us",
+        "text": "尾巴發出的光能直達宇宙，\n讓牠的所在位置一目了然，\n所以牠平常不會讓尾巴發光。"
+      },
+      {
+        "game": "usum-um",
+        "text": "尾巴發出的耀眼光芒\n被船員們當成引路的路標，\n從過去就一直深受重視。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Pharamp",
+    "genus": "Pokémon Lumière",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Le bout de sa queue brille avec\nintensité. Jadis, on s’en servait\npour envoyer des signaux."
+      },
+      {
+        "game": "bw-w",
+        "text": "Le bout de sa queue brille avec\nintensité. Jadis, on s’en servait\npour envoyer des signaux."
+      },
+      {
+        "game": "xy-x",
+        "text": "Le bout de sa queue brille si fort qu’il peut être vu\nde très loin. Il sert de balise aux gens."
+      },
+      {
+        "game": "xy-y",
+        "text": "Le bout de sa queue brille si fort qu’il peut être vu de\ntrès loin. Il sert de balise aux gens."
+      },
+      {
+        "game": "oras-or",
+        "text": "Pharamp est si lumineux qu’on peut le voir de l’espace.\nJadis, les gens utilisaient la lumière de ce Pokémon pour\ncommuniquer et s’envoyer des signaux à grande distance."
+      },
+      {
+        "game": "oras-as",
+        "text": "Pharamp est si lumineux qu’on peut le voir de l’espace.\nJadis, les gens utilisaient la lumière de ce Pokémon pour\ncommuniquer et s’envoyer des signaux à grande distance."
+      },
+      {
+        "game": "usum-us",
+        "text": "La lumière de sa queue est si vive qu’on peut\nla voir depuis l’espace. En général, il l’éteint\ndonc pour éviter de se faire repérer."
+      },
+      {
+        "game": "usum-um",
+        "text": "Sa queue brille d’une lumière éclatante.\nDepuis des temps très anciens, il est vénéré\ncomme le guide des marins."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Ampharos",
+    "genus": "Leuchte",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Seine Schweifspitze ist so hell, dass viele\nVerschollene es als Orientierungspunkt nutzen."
+      },
+      {
+        "game": "xy-y",
+        "text": "Seine Schweifspitze ist so hell, dass viele\nVerschollene es als Orientierungspunkt nutzen."
+      },
+      {
+        "game": "oras-or",
+        "text": "Ampharos strahlt so viel Licht aus, dass es sogar aus dem\nWeltraum noch gesehen werden kann. In der Antike benutzten\ndie Menschen das Licht dieses Pokémon dazu, Signale über\nweite Entfernungen auszutauschen."
+      },
+      {
+        "game": "oras-as",
+        "text": "Ampharos strahlt so viel Licht aus, dass es sogar aus dem\nWeltraum noch gesehen werden kann. In der Antike benutzten\ndie Menschen das Licht dieses Pokémon dazu, Signale über\nweite Entfernungen auszutauschen."
+      },
+      {
+        "game": "usum-us",
+        "text": "Das Licht seiner Schweifspitze kann man selbst\naus dem Weltall noch sehen. Um seinen Standort\nzu verbergen, macht es sein Licht zumeist aus."
+      },
+      {
+        "game": "usum-um",
+        "text": "Seine Schweifspitze strahlt ein starkes, helles\nLicht aus. Auf See gilt dieses Leuchten von\nalters her als bedeutender Wegweiser."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Ampharos",
+    "genus": "Pokémon Luz",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "La punta de su cola reluce brillantemente y puede ser\nvista desde lejos. Es usado como faro."
+      },
+      {
+        "game": "xy-y",
+        "text": "La punta de su cola reluce brillantemente y puede ser\nvista desde lejos. Es usado como faro."
+      },
+      {
+        "game": "oras-or",
+        "text": "Ampharos desprende tanta luz que es posible verle hasta\ndesde el espacio. Antes, la gente usaba su luz como sistema\nde comunicación para enviarse señales."
+      },
+      {
+        "game": "oras-as",
+        "text": "Ampharos desprende tanta luz que es posible verle hasta\ndesde el espacio. Antes, la gente usaba su luz como sistema\nde comunicación para enviarse señales."
+      },
+      {
+        "game": "usum-us",
+        "text": "La luz que emite su cola puede verse desde el\nespacio, delatando su presencia a todos. Es por\neso que normalmente la mantiene apagada."
+      },
+      {
+        "game": "usum-um",
+        "text": "Su cola emite un brillo claro e intenso. Se lo\nvenera desde tiempos remotos como guía de los\nmarineros."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Ampharos",
+    "genus": "Pokémon Luce",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "La punta molto luminosa della coda è visibile da\ngrandi distanze. Fa da segnale per chi si è perso."
+      },
+      {
+        "game": "xy-y",
+        "text": "La punta molto luminosa della coda è visibile da\ngrandi distanze. Fa da segnale per chi si è perso."
+      },
+      {
+        "game": "oras-or",
+        "text": "Ampharos emana una luce così intensa da essere visibile\nanche dallo spazio. In passato si usava questo Pokémon\nper mandare segnali luminosi a persone molto lontane."
+      },
+      {
+        "game": "oras-as",
+        "text": "Ampharos emana una luce così intensa da essere visibile\nanche dallo spazio. In passato si usava questo Pokémon\nper mandare segnali luminosi a persone molto lontane."
+      },
+      {
+        "game": "usum-us",
+        "text": "Questo Pokémon è facile da individuare grazie\nalla luce della sua coda, visibile anche dallo\nspazio. Per questo di solito la tiene spenta."
+      },
+      {
+        "game": "usum-um",
+        "text": "La punta della sua coda brilla di una luce molto\nintensa che in passato era una preziosa guida\nper i marinai."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Ampharos",
+    "genus": "Light Pokémon",
+    "flavorText": [
+      {
+        "game": "gs-g",
+        "text": "The tail's tip\nshines brightly\nand can be seen\ffrom far away. It\nacts as a beacon\nfor lost people."
+      },
+      {
+        "game": "gs-s",
+        "text": "The bright light\non its tail can be\nseen far away. It\fhas been treasured\nsince ancient\ntimes as a beacon."
+      },
+      {
+        "game": "c",
+        "text": "When it gets dark,\nthe light from its\nbright, shiny tail\fcan be seen from\nfar away on the\nocean's surface."
+      },
+      {
+        "game": "rs-r",
+        "text": "AMPHAROS gives off so much light that\nit can be seen even from space.\nPeople in the old days used the light of\fthis POKéMON to send signals back and\nforth with others far away."
+      },
+      {
+        "game": "rs-s",
+        "text": "AMPHAROS gives off so much light that\nit can be seen even from space.\nPeople in the old days used the light of\fthis POKéMON to send signals back and\nforth with others far away."
+      },
+      {
+        "game": "e",
+        "text": "It gives off so much light that it can be\nseen even from space. People in the old\ndays used its light to send signals back\nand forth with others far away."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "The bright light on its tail can be seen\nfar away. It has been treasured since\nancient times as a beacon."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "The tail’s tip shines brightly and can be\nseen from far away. It acts as a beacon\nfor lost people."
+      },
+      {
+        "game": "dp-d",
+        "text": "The tip of its tail shines brightly.\nIn the olden days, people sent\nsignals using the tail’s light."
+      },
+      {
+        "game": "dp-p",
+        "text": "The tip of its tail shines brightly.\nIn the olden days, people sent\nsignals using the tail’s light."
+      },
+      {
+        "game": "pt",
+        "text": "The tip of its tail shines brightly.\nIn the olden days, people sent\nsignals using the tail’s light."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "The tail’s tip shines brightly and\ncan be seen from far away. It acts\nas a beacon for lost people."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "The bright light on its tail can be\nseen far away. It has been treasured\nsince ancient times as a beacon."
+      },
+      {
+        "game": "bw-b",
+        "text": "The tip of its tail shines brightly.\nIn the olden days, people sent\nsignals using the tail’s light."
+      },
+      {
+        "game": "bw-w",
+        "text": "The tip of its tail shines brightly.\nIn the olden days, people sent\nsignals using the tail’s light."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "The tip of its tail shines so brightly it\ncan be used to send sea-navigation\nbeacons to distant foreign shores."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "The tip of its tail shines so brightly it\ncan be used to send sea-navigation\nbeacons to distant foreign shores."
+      },
+      {
+        "game": "xy-x",
+        "text": "The tail’s tip shines brightly and can be seen from\nfar away. It acts as a beacon for lost people."
+      },
+      {
+        "game": "xy-y",
+        "text": "The tail’s tip shines brightly and can be seen from\nfar away. It acts as a beacon for lost people."
+      },
+      {
+        "game": "oras-or",
+        "text": "Ampharos gives off so much light that it can be seen even from\nspace. People in the old days used the light of this Pokémon\nto send signals back and forth with others far away."
+      },
+      {
+        "game": "oras-as",
+        "text": "Ampharos gives off so much light that it can be seen even from\nspace. People in the old days used the light of this Pokémon\nto send signals back and forth with others far away."
+      },
+      {
+        "game": "usum-us",
+        "text": "The light from its tail can be seen from space.\nThis is why you can always tell exactly where it\nis, which is why it usually keeps the light off."
+      },
+      {
+        "game": "usum-um",
+        "text": "Its tail shines bright and strong. It has been\nprized since long ago as a beacon for sailors."
+      }
+    ]
+  },
+  "chs": {
+    "name": "电龙",
+    "genus": "灯宝可梦",
+    "flavorText": [
+      {
+        "game": "usum-us",
+        "text": "尾巴上的光能传至宇宙，\n所以身在何处一目了然。\n因此它平时不会让尾巴发光。"
+      },
+      {
+        "game": "usum-um",
+        "text": "尾巴会发出很强的亮光。\n从以前起，它就被船员们\n当做路标而深受重视。"
+      }
+    ]
+  }
+}

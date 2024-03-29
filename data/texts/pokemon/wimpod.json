@@ -1,0 +1,277 @@
+{
+  "jap": {
+    "name": "コソクムシ",
+    "genus": "そうこうポケモン",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "おくびょうで　たくさんの　あしを\nばたつかせ　ひっしに　にげまわる。\nにげたあとは　ピカピカ　きれい。"
+      },
+      {
+        "game": "sm-m",
+        "text": "ビーチから　かいていまで　いろんな\nばしょに　すむ。　くさったエサ　でも\nよろこんで　たべる　しぜんのそうじや。"
+      },
+      {
+        "game": "usum-us",
+        "text": "おちてるものは　なんでも　ひろう。\nコインを　もっていることも　あるので\nヤミカラスやニャースに　ねらわれる。"
+      },
+      {
+        "game": "usum-um",
+        "text": "とても　しょうしんものの　ポケモン。\nなにかが　ちかづくだけで　こうそくで\nあしを　うごかして　にげていくよ。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "くさったものや　ゴミでも　なんでも\nたべまわる　しぜんの　そうじや。\nすの　まわりは　いつも　きれい。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "むれで　かたまり　つねに　まわりを\nけいかいしている。　てきの　けはいを\nかんじると　ちりぢりに　にげだす。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Kosokumushi",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "꼬시레",
+    "genus": "주행포켓몬",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "겁이 많아서 많은 다리를\n버둥거리며 필사적으로 도망친다.\n도망간 자리는 반짝반짝 깨끗하다."
+      },
+      {
+        "game": "sm-m",
+        "text": "해변부터 해저까지 다양한\n장소에 산다. 썩은 먹이라도\n기꺼이 먹는 자연의 청소부."
+      },
+      {
+        "game": "usum-us",
+        "text": "떨어져 있는 것은 뭐든지 줍는다.\n동전을 갖고 있을 때도 있어\n니로우나 나옹이 노리고 있다."
+      },
+      {
+        "game": "usum-um",
+        "text": "매우 소심한 포켓몬.\n무언가가 다가오기만 해도 고속으로\n다리를 움직여서 도망친다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "상한 것이든 쓰레기든 닥치는 대로\n먹어 치우는 자연의 청소부.\n둥지 주변은 언제나 깨끗하다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "무리가 모여 다니며 항상\n주위를 경계한다. 적의 기척을\n느끼면 뿔뿔이 흩어져 도망간다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "膽小蟲",
+    "genus": "疾行寶可夢",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "性格膽小，會慌慌張張地\n揮動著許多腳拼命逃跑。\n逃跑後會留下閃閃發亮的美麗痕跡。"
+      },
+      {
+        "game": "sm-m",
+        "text": "從沙灘到海底，會棲息在各式各樣的地方。\n即使是腐爛的食物也能吃得很開心，\n是大自然的清潔員。"
+      },
+      {
+        "game": "usum-us",
+        "text": "掉在地上的東西全都會撿起來。\n因為有時也會撿到硬幣，\n所以會被黑暗鴉和喵喵襲擊。"
+      },
+      {
+        "game": "usum-um",
+        "text": "非常膽小的寶可夢。\n只要有什麼東西靠近，\n就會迅速地拔腿就逃。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "無論是腐爛的東西還是垃圾\n都能吃光光，是大自然的清道夫。\n巢穴附近總是保持乾淨。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "成群聚集，隨時保持警惕。\n只要察覺到有敵人，\n就會分散開來四處逃竄。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Sovkipou",
+    "genus": "Pokémon Cavaleur",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "De nature poltronne, il prend ses nombreuses\npattes à son cou au moindre danger et balaie\nle sol sur son passage."
+      },
+      {
+        "game": "sm-m",
+        "text": "Il vit aussi bien en bord de mer que dans les\nfonds marins. Véritable aspirateur sur pattes, il\navale n’importe quelle nourriture, même pourrie."
+      },
+      {
+        "game": "usum-us",
+        "text": "Il ramasse tout ce qu’il trouve par terre, y\ncompris des pièces. Cela lui vaut d’être pris\npour cible par les Cornèbre et les Miaouss."
+      },
+      {
+        "game": "usum-um",
+        "text": "Un Pokémon timoré qui se sauve à toutes pattes\ndès que l’on s’approche de lui."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Ce véritable nettoyeur de la nature mange tout,\nmême la nourriture avariée et les déchets.\nLes environs de son nid sont toujours impeccables."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Ils se déplacent en groupe, toujours en alerte.\nDès qu’ils détectent une présence ennemie,\nils s’enfuient dans toutes les directions."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Reißlaus",
+    "genus": "Laufschritt-Pokémon",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "Es ist so feige, dass es wild mit seinen vielen\nFüßen herumschlägt und verzweifelt davonläuft.\nNach seiner Flucht glänzt der Boden herrlich."
+      },
+      {
+        "game": "sm-m",
+        "text": "Es mag verschiedene Habitate, vom Strand bis\nhin zum Meeresgrund. Unterwegs frisst es gern\nFaules und ist eine natürliche Reinigungskraft."
+      },
+      {
+        "game": "usum-us",
+        "text": "Es hebt alles auf, was es finden kann. Manchmal\nbefinden sich darunter auch Münzen, weshalb\nes oft von Kramurx und Mauzi gejagt wird."
+      },
+      {
+        "game": "usum-um",
+        "text": "Dieses Pokémon ist ein wahrer Drückeberger.\nSobald sich ihm etwas nähert, strampelt es flink\nmit seinen Beinchen und nimmt Reißaus."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Sie sind natürliche Reinigungskräfte und fressen\nalles, inklusive vergammeltem Essen und Müll.\nIn der Nähe ihrer Nester ist es immer sauber."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Sie schließen sich zu Schwärmen zusammen und\nhalten stets Ausschau nach Gefahr. Sichten sie\neinen Feind, nehmen sie in alle Winde Reißaus."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Wimpod",
+    "genus": "Pokémon Huidizo",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "Cuando se asusta, huye despavorido moviendo\nrápidamente sus múltiples patas. Deja el suelo\nlimpio y pulido allí por donde pasa."
+      },
+      {
+        "game": "sm-m",
+        "text": "Su hábitat es muy variado, desde playas hasta\nel fondo del mar. Hace de barrendero natural al\nir engullendo presas podridas por el camino."
+      },
+      {
+        "game": "usum-us",
+        "text": "Recoge todo lo que encuentra por el suelo. A\nveces recoge monedas, lo que atrae la atención\nde Murkrow y Meowth."
+      },
+      {
+        "game": "usum-um",
+        "text": "Es un Pokémon muy cobarde. En cuanto nota\nque algo se le acerca, sale huyendo a gran\nvelocidad."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Hace de barrendero natural al ir devorándolo\ntodo, basura y podredumbre incluidas. Alrededor\nde su nido reina siempre la mayor pulcritud."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Forman colonias y permanecen siempre alerta.\nEn cuanto perciben a un enemigo, salen huyendo\nen todas direcciones."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Wimpod",
+    "genus": "Pokémon Lestopode",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "È un gran fifone e fugge agitando rapidamente\nle sue numerose zampette. Dopo il suo\npassaggio, tutto è lindo e pulito."
+      },
+      {
+        "game": "sm-m",
+        "text": "Vive dappertutto, dalle spiagge ai fondali marini.\nMangia volentieri anche sostanze putrescenti,\nperciò viene chiamato lo spazzino della natura."
+      },
+      {
+        "game": "usum-us",
+        "text": "Raccoglie da terra ogni tipo di oggetto.\nQuando trova delle monete viene preso\ndi mira da Murkrow e Meowth."
+      },
+      {
+        "game": "usum-um",
+        "text": "È un Pokémon estremamente timoroso.\nNon appena qualcosa gli si avvicina, Wimpod se\nla svigna a gran velocità agitando le zampette."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Poiché mangia di tutto, anche immondizia e\nsostanze putrescenti, è detto lo spazzino della\nnatura. Attorno alla sua tana regna la pulizia."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Si muovono in gruppo e stanno sempre sul chi\nva là. Non appena percepiscono la presenza\ndel nemico scappano in ogni direzione."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Wimpod",
+    "genus": "Turn Tail Pokémon",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "This Pokémon is a coward. As it desperately\ndashes off, the flailing of its many legs leaves a\nsparkling clean path in its wake."
+      },
+      {
+        "game": "sm-m",
+        "text": "Its habitat varies from beaches to seabeds.\nA natural scavenger, it will gleefully chow down\non anything edible, no matter how rotten."
+      },
+      {
+        "game": "usum-us",
+        "text": "It will pick up anything it finds on the ground.\nSometimes it finds coins, so Murkrow and\nMeowth will go after it."
+      },
+      {
+        "game": "usum-um",
+        "text": "An astonishingly cowardly Pokémon, Wimpod\nwill whir its legs at high speeds to run away if\nanything comes near it."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "It’s nature’s cleaner—it eats anything and\neverything, including garbage and rotten things.\nThe ground near its nest is always clean."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Wimpod gather in swarms, constantly on the\nlookout for danger. They scatter the moment\nthey detect an enemy’s presence."
+      }
+    ]
+  },
+  "chs": {
+    "name": "胆小虫",
+    "genus": "疾行宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "因为胆小，慌慌张张地\n挥动着许多脚，拼命逃跑。\n逃跑的痕迹会闪闪发光很漂亮。"
+      },
+      {
+        "game": "sm-m",
+        "text": "从沙滩到海底，栖息在各式各样的地方。\n即使是腐烂的食物也能吃得很开心，\n是大自然的清洁员。"
+      },
+      {
+        "game": "usum-us",
+        "text": "无论是什么掉落的东西，都会捡。\n因为有时候也会拿着硬币，\n所以会被黑暗鸦和喵喵袭击。"
+      },
+      {
+        "game": "usum-um",
+        "text": "是非常胆小的宝可梦。\n只要有什么靠近，\n就会飞快地拔腿就逃哦。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "无论是腐烂的东西还是垃圾\n都能吃光光，是大自然的清道夫。\n巢穴附近总是保持干净。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "成群聚集，随时提高警惕。\n只要察觉到有敌人，\n就会分散开来四处逃窜。"
+      }
+    ]
+  }
+}

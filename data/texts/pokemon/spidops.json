@@ -1,0 +1,61 @@
+{
+  "jap": {
+    "name": "ワナイダー",
+    "genus": "トラップポケモン",
+    "flavorText": []
+  },
+  "jap_ro": {
+    "name": "Wanaider",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "트래피더",
+    "genus": "",
+    "flavorText": []
+  },
+  "cht": {
+    "name": "操陷蛛",
+    "genus": "陷阱寶可夢",
+    "flavorText": []
+  },
+  "fra": {
+    "name": "Filentrappe",
+    "genus": "",
+    "flavorText": []
+  },
+  "deu": {
+    "name": "Spinsidias",
+    "genus": "Falle",
+    "flavorText": []
+  },
+  "esp": {
+    "name": "Spidops",
+    "genus": "",
+    "flavorText": []
+  },
+  "ita": {
+    "name": "Spidops",
+    "genus": "",
+    "flavorText": []
+  },
+  "eng": {
+    "name": "Spidops",
+    "genus": "Trap Pokémon",
+    "flavorText": [
+      {
+        "game": "sv-s",
+        "text": "It clings to branches and ceilings using its threads and moves without a sound. It takes out its prey before the prey even notices it."
+      },
+      {
+        "game": "sv-v",
+        "text": "Spidops covers its territory in tough, sticky threads to set up traps for intruders."
+      }
+    ]
+  },
+  "chs": {
+    "name": "操陷蛛",
+    "genus": "陷阱宝可梦",
+    "flavorText": []
+  }
+}

@@ -1,0 +1,293 @@
+{
+  "jap": {
+    "name": "レントラー",
+    "genus": "がんこうポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "ひとみが　きんいろに　ひかるとき\nカベの　むこうに　かくれている\nえものを　みつけることが　できる。"
+      },
+      {
+        "game": "xy-y",
+        "text": "レントラーの　とうし　のうりょくは\nきけんな　ものを　はっけんする　とき\nとても　やくに　たつのだ。"
+      },
+      {
+        "game": "oras-or",
+        "text": "ひとみが　きんいろに　ひかるとき\nカベの　むこうに　かくれている\nえものを　みつけることが　できる。"
+      },
+      {
+        "game": "oras-as",
+        "text": "レントラーの　とうし　のうりょくは\nきけんな　ものを　はっけんする　とき\nとても　やくに　たつのだ。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "とうしのうりょくを　もつ　ポケモン。\nあつい　かべの　むこうに　かくれる\nえものを　たちまち　みつけだす。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "とうしは　でんきエネルギーを　ひどく\nしょうもうするため　ちょうじかん\nねむり　エネルギーを　たくわえる。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Rentorar",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "렌트라",
+    "genus": "안광포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "눈동자가 금색으로 빛날 때\n벽의 저편에 숨어 있는\n먹이를 찾아낼 수 있다."
+      },
+      {
+        "game": "xy-y",
+        "text": "렌트라의 투시 능력은\n위험한 것을 발견할 때\n매우 도움이 된다."
+      },
+      {
+        "game": "oras-or",
+        "text": "눈동자가 금색으로 빛날 때\n벽의 저편에 숨어 있는\n먹이를 찾아낼 수 있다."
+      },
+      {
+        "game": "oras-as",
+        "text": "렌트라의 투시 능력은\n위험한 것을 발견할 때\n매우 도움이 된다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "투시 능력을 가진 포켓몬.\n두꺼운 벽 반대편에 숨어 있는\n먹이를 순식간에 찾아낸다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "투시는 전기 에너지를 매우 많이\n소모하기 때문에 오랜 시간\n수면을 취해서 에너지를 비축한다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "倫琴貓",
+    "genus": "目光寶可夢",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "擁有透視能力的寶可夢。\n能夠在眨眼間就發現躲在\n厚厚牆壁另一側的獵物。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "由於透視會消耗極大量的\n電能，因此牠會花很長的\n時間睡覺，藉此儲存能量。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Luxray",
+    "genus": "Pokémon Brillœil",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Il est capable de voir à travers\nles murs pour chasser des proies\nou retrouver ses petits égarés."
+      },
+      {
+        "game": "bw-w",
+        "text": "Il est capable de voir à travers\nles murs pour chasser des proies\nou retrouver ses petits égarés."
+      },
+      {
+        "game": "xy-x",
+        "text": "Quand ses yeux se dorent, il peut repérer une proie\ncachée, même si elle est derrière un mur."
+      },
+      {
+        "game": "xy-y",
+        "text": "Sa capacité à voir à travers tout est très utile pour\ndétecter les moindres dangers."
+      },
+      {
+        "game": "oras-or",
+        "text": "Quand ses yeux se dorent, il peut repérer une proie cachée,\nmême si elle est derrière un mur."
+      },
+      {
+        "game": "oras-as",
+        "text": "Sa capacité à voir à travers tout est très utile pour détecter\nles moindres dangers."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Sa capacité à voir à travers la matière lui\npermet de repérer en un instant des proies\ncachées derrière un mur épais."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Il dort beaucoup pour récupérer la quantité\nd’énergie électrique énorme qu’il consomme\nafin de voir à travers la matière."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Luxtra",
+    "genus": "Glühaugen-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Leuchten seine Augen golden auf, kann es Beute,\ndie sich versteckt, sehen. Es kann durch Wände sehen."
+      },
+      {
+        "game": "xy-y",
+        "text": "Beim Aufspüren von Gefahren sind Luxtras\nhellseherische Fähigkeiten äußerst hilfreich."
+      },
+      {
+        "game": "oras-or",
+        "text": "Leuchten seine Augen golden auf, kann es Beute, die sich\nversteckt, sehen. Es kann durch Wände sehen."
+      },
+      {
+        "game": "oras-as",
+        "text": "Beim Aufspüren von Gefahren sind Luxtras hellseherische\nFähigkeiten äußerst hilfreich."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Dieses Pokémon verfügt über einen Röntgenblick.\nSo kann es im Nu Beute aufspüren, selbst wenn\nsich diese hinter dicken Wänden versteckt."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Der Einsatz seines Röntgenblicks verbraucht sehr\nviel Elektrizität. Luxtra gewinnt diese zurück,\nindem es lange schläft."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Luxray",
+    "genus": "Pokémon Chispa Ojos",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Cuando sus ojos brillan como el oro, puede ver presas\nescondidas, incluso detrás de un muro."
+      },
+      {
+        "game": "xy-y",
+        "text": "La potente visión de Luxray resulta extremadamente\nvaliosa cuando acecha el peligro."
+      },
+      {
+        "game": "oras-or",
+        "text": "Cuando sus ojos brillan como el oro, puede ver presas\nescondidas, incluso detrás de un muro."
+      },
+      {
+        "game": "oras-as",
+        "text": "La potente visión de Luxray resulta extremadamente valiosa\ncuando acecha el peligro."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Tiene la capacidad de ver a través de cualquier\ncosa. Encuentra enseguida su presa, aunque se\noculte tras una pared de gran grosor."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Duerme durante largos períodos para recuperar\nla enorme cantidad de electricidad que consume\nal usar su capacidad para ver a través de objetos."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Luxray",
+    "genus": "Pokémon Occhiluce",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Se i suoi occhi sono dorati, può individuare le prede,\nanche quelle che si nascondono dietro i muri."
+      },
+      {
+        "game": "xy-y",
+        "text": "L’abilità radioscopica di Luxray si rivela utile\nquando gli fa scoprire oggetti pericolosi."
+      },
+      {
+        "game": "oras-or",
+        "text": "Se i suoi occhi sono dorati, può individuare le prede,\nanche quelle che si nascondono dietro i muri."
+      },
+      {
+        "game": "oras-as",
+        "text": "L’abilità radioscopica di Luxray si rivela utile quando gli fa\nscoprire oggetti pericolosi."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Grazie all’abilità radioscopica di cui è dotato,\npuò individuare all’istante le prede nascoste\noltre spesse pareti."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "La sua visione radioscopica consuma enormi\nquantità di energia elettrica, che Luxray recupera\ndormendo per lunghi periodi."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Luxray",
+    "genus": "Gleam Eyes Pokémon",
+    "flavorText": [
+      {
+        "game": "dp-d",
+        "text": "It has eyes that can see through\nanything. It spots and captures\nprey hiding behind objects."
+      },
+      {
+        "game": "dp-p",
+        "text": "When its eyes gleam gold, it can\nspot hiding prey--even those\ntaking shelter behind a wall."
+      },
+      {
+        "game": "pt",
+        "text": "It can see clearly through walls\nto track down its prey and seek\nits lost young."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "LUXRAY’s ability to see through\nobjects comes in handy when it’s\nscouting for danger."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "LUXRAY’s ability to see through\nobjects comes in handy when it’s\nscouting for danger."
+      },
+      {
+        "game": "bw-b",
+        "text": "It can see clearly through walls\nto track down its prey and seek\nits lost young."
+      },
+      {
+        "game": "bw-w",
+        "text": "It can see clearly through walls\nto track down its prey and seek\nits lost young."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "It can see clearly through walls\nto track down its prey and seek\nits lost young."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "It can see clearly through walls\nto track down its prey and seek\nits lost young."
+      },
+      {
+        "game": "xy-x",
+        "text": "When its eyes gleam gold, it can spot hiding\nprey--even those taking shelter behind a wall."
+      },
+      {
+        "game": "xy-y",
+        "text": "Luxray’s ability to see through objects comes in\nhandy when it’s scouting for danger."
+      },
+      {
+        "game": "oras-or",
+        "text": "When its eyes gleam gold, it can spot hiding\nprey—even those taking shelter behind a wall."
+      },
+      {
+        "game": "oras-as",
+        "text": "Luxray’s ability to see through objects comes in\nhandy when it’s scouting for danger."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Luxray can see through solid objects. It will\ninstantly spot prey trying to hide behind walls,\neven if the walls are thick."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Seeing through solid objects uses up a lot of\nLuxray’s electricity, so the Pokémon sleeps for\nlong periods of time to store up energy."
+      },
+      {
+        "game": "la",
+        "text": "They form packs, each having one male as leader. Legends say\nthat when Luxray's two eyes shimmer with gold, the Pokémon\ncan see through anything."
+      }
+    ]
+  },
+  "chs": {
+    "name": "伦琴猫",
+    "genus": "目光宝可梦",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "拥有透视能力的宝可梦。\n能够立刻发现身处于\n厚厚墙壁另一侧的猎物。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "由于透视需要消耗\n大量的电能，因此它会\n睡很长时间来积蓄能量。"
+      }
+    ]
+  }
+}

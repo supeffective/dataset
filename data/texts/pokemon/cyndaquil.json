@@ -1,0 +1,251 @@
+{
+  "jap": {
+    "name": "ヒノアラシ",
+    "genus": "ひねずみポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "おくびょうで　いつも　からだを\nまるめている。おそわれると　せなかの\nほのおを　もえあがらせ　みをまもる。"
+      },
+      {
+        "game": "xy-y",
+        "text": "おくびょうな　せいかく。\nおどろくと　せなかの　ほのおが\nいちだんと　つよく　もえあがる。"
+      },
+      {
+        "game": "oras-or",
+        "text": "せなかから　ほのおを　ふきあげて　みを　まもる。\nおこった　ときの　ほのおは　いきおいが　いいが\nつかれている　ときは　ふかんぜんねんしょうする。"
+      },
+      {
+        "game": "oras-as",
+        "text": "せなかから　ほのおを　ふきあげて　みを　まもる。\nおこった　ときの　ほのおは　いきおいが　いいが\nつかれている　ときは　ふかんぜんねんしょうする。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Hinoarashi",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "브케인",
+    "genus": "불쥐포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "겁이 많아서 늘 몸을 웅크리고\n있다. 습격당하면 등의 불꽃을\n타오르게 해서 몸을 보호한다."
+      },
+      {
+        "game": "xy-y",
+        "text": "겁쟁이 같은 성격이다.\n놀라면 등의 불꽃이\n한층 더 강하게 타오른다."
+      },
+      {
+        "game": "oras-or",
+        "text": "등에서 불꽃을 내뿜어 몸을 지킨다.\n화났을 때의 불꽃은 기운차지만\n지쳤을 때는 불완전연소한다."
+      },
+      {
+        "game": "oras-as",
+        "text": "등에서 불꽃을 내뿜어 몸을 지킨다.\n화났을 때의 불꽃은 기운차지만\n지쳤을 때는 불완전연소한다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "火球鼠",
+    "genus": "火鼠寶可夢",
+    "flavorText": []
+  },
+  "fra": {
+    "name": "Héricendre",
+    "genus": "Pokémon Souris Feu",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Ce Pokémon est un grand timide.\nLes flammes sur son dos s’intensifient\nlorsqu’il prend peur."
+      },
+      {
+        "game": "bw-w",
+        "text": "Ce Pokémon est un grand timide.\nLes flammes sur son dos s’intensifient\nlorsqu’il prend peur."
+      },
+      {
+        "game": "xy-x",
+        "text": "Il est timide et se roule en boule pour se protéger.\nAttaqué, il s’enflamme le dos pour riposter."
+      },
+      {
+        "game": "xy-y",
+        "text": "Ce Pokémon est un grand timide. Les flammes sur\nson dos s’intensifient lorsqu’il prend peur."
+      },
+      {
+        "game": "oras-or",
+        "text": "Héricendre se protège en faisant jaillir des flammes de\nson dos. Ces flammes peuvent être violentes si le Pokémon\nest en colère. Cependant, s’il est fatigué, seules quelques\nflammèches vacillent laborieusement."
+      },
+      {
+        "game": "oras-as",
+        "text": "Héricendre se protège en faisant jaillir des flammes de\nson dos. Ces flammes peuvent être violentes si le Pokémon\nest en colère. Cependant, s’il est fatigué, seules quelques\nflammèches vacillent laborieusement."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Feurigel",
+    "genus": "Feuermaus",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Es ist ruhig und kugelt sich stets zusammen.\nZum Schutz entflammt es seinen Rücken."
+      },
+      {
+        "game": "xy-y",
+        "text": "Erschrickt sich dieses scheue Pokémon,\nlodern die Flammen auf seinem Rücken kräftiger."
+      },
+      {
+        "game": "oras-or",
+        "text": "Feurigel lässt Flammen aus seinem Rücken lodern, wenn\nes sich schützen muss. Die Flammen sind sehr verzehrend,\nwenn dieses Pokémon wütend ist. Ist es aber müde,\nflackern die Flammen nur unregelmäßig und schwach."
+      },
+      {
+        "game": "oras-as",
+        "text": "Feurigel lässt Flammen aus seinem Rücken lodern,\nwenn es sich schützen muss. Die Flammen sind sehr stark,\nwenn dieses Pokémon wütend ist. Ist es aber müde,\nflackern die Flammen nur unregelmäßig und schwach."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Cyndaquil",
+    "genus": "Pokémon Ratón Fuego",
+    "flavorText": [
+      {
+        "game": "xy-y",
+        "text": "Es un Pokémon muy tímido. Si se asusta, las llamas\nde su lomo arden con más fuerza."
+      },
+      {
+        "game": "xy-x",
+        "text": "Es tímido y siempre se enrosca como una pelota.\nSi es atacado, enciende su lomo para protegerse."
+      },
+      {
+        "game": "oras-or",
+        "text": "Cyndaquil se protege soltando llamas por el lomo. Cuando\nestá enfadado, las llamas son fieras, pero, si está cansado,\nsolo consigue echar algunas chispas que no llegan a cuajar\nen una completa combustión."
+      },
+      {
+        "game": "oras-as",
+        "text": "Cyndaquil se protege soltando llamas por el lomo. Cuando\nestá enfadado, las llamas son fieras, pero, si está cansado,\nsolo consigue echar algunas chispas que no llegan a cuajar\nen una completa combustión."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Cyndaquil",
+    "genus": "Pokémon Fuocotopo",
+    "flavorText": [
+      {
+        "game": "xy-y",
+        "text": "È riservato per natura. Se viene spaventato, le\nfiamme sul suo dorso bruciano ardentemente."
+      },
+      {
+        "game": "xy-x",
+        "text": "Spesso se ne sta appallottolato giacché timido. Se\nè attaccato, si difende infuocando il dorso."
+      },
+      {
+        "game": "oras-or",
+        "text": "Cyndaquil si protegge grazie alle fiamme che gli ardono\nsul dorso. Le fiamme divampano impetuose se il Pokémon\nè adirato. Tuttavia, quando è stanco diventano fiammelle\ninnocue dalla combustione incompleta."
+      },
+      {
+        "game": "oras-as",
+        "text": "Cyndaquil si protegge grazie alle fiamme che gli ardono\nsul dorso. Le fiamme divampano impetuose se il Pokémon\nè adirato. Tuttavia, quando è stanco diventano fiammelle\ninnocue dalla combustione incompleta."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Cyndaquil",
+    "genus": "Fire Mouse Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-y",
+        "text": "It has a timid nature. If it is startled, the flames on\nits back burn more vigorously."
+      },
+      {
+        "game": "gs-g",
+        "text": "It is timid, and\nalways curls it­\nself up in a ball.\fIf attacked, it\nflares up its back\nfor protection."
+      },
+      {
+        "game": "gs-s",
+        "text": "It usually stays\nhunched over.\nIf it is angry or\fsurprised, it\nshoots flames out\nof its back."
+      },
+      {
+        "game": "c",
+        "text": "The fire that\nspouts from its\nback burns hottest\fwhen it is angry.\nThe flaring flames\nintimidate foes."
+      },
+      {
+        "game": "rs-r",
+        "text": "CYNDAQUIL protects itself by flaring up\nthe flames on its back.\nThe flames are vigorous if the POKéMON\fis angry. However, if it is tired, the\nflames splutter fitfully with incomplete\ncombustion."
+      },
+      {
+        "game": "rs-s",
+        "text": "CYNDAQUIL protects itself by flaring up\nthe flames on its back.\nThe flames are vigorous if the POKéMON\fis angry. However, if it is tired, the\nflames splutter fitfully with incomplete\ncombustion."
+      },
+      {
+        "game": "e",
+        "text": "It flares flames from its back to protect\nitself. The fire burns vigorously if the\nPOKéMON is angry. When it is tired,\nit sputters with incomplete combustion."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "It usually stays hunched over. If it is\nangry or surprised, it shoots flames out\nof its back."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "It is timid and always curls itself up in\na ball. If attacked, it flares up its back\nfor protection."
+      },
+      {
+        "game": "dp-d",
+        "text": "It has a timid nature. If it is\nstartled, the flames on its back\nburn more vigorously."
+      },
+      {
+        "game": "dp-p",
+        "text": "It has a timid nature. If it is\nstartled, the flames on its back\nburn more vigorously."
+      },
+      {
+        "game": "pt",
+        "text": "It has a timid nature. If it is\nstartled, the flames on its back\nburn more vigorously."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "It is timid, and always curls itself\nup in a ball. If attacked, it\nflares up its back for protection."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "It usually stays hunched over.\nIf it is angry or surprised, it\nshoots flames out of its back."
+      },
+      {
+        "game": "bw-b",
+        "text": "It has a timid nature. If it is\nstartled, the flames on its back\nburn more vigorously."
+      },
+      {
+        "game": "bw-w",
+        "text": "It has a timid nature. If it is\nstartled, the flames on its back\nburn more vigorously."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "It has a timid nature. If it is\nstartled, the flames on its back\nburn more vigorously."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "It has a timid nature. If it is\nstartled, the flames on its back\nburn more vigorously."
+      },
+      {
+        "game": "xy-x",
+        "text": "It is timid and always curls itself up in a ball.\nIf attacked, it flares up its back for protection."
+      },
+      {
+        "game": "oras-or",
+        "text": "Cyndaquil protects itself by flaring up the flames on its back.\nThe flames are vigorous if the Pokémon is angry. However, if it\nis tired, the flames splutter fitfully with incomplete combustion."
+      },
+      {
+        "game": "oras-as",
+        "text": "Cyndaquil protects itself by flaring up the flames on its back.\nThe flames are vigorous if the Pokémon is angry. However, if it\nis tired, the flames splutter fitfully with incomplete combustion."
+      },
+      {
+        "game": "la",
+        "text": "Hails from the Johto region. Though usually curled into a ball\ndue to its timid disposition, it harbors tremendous firepower."
+      }
+    ]
+  },
+  "chs": {
+    "name": "火球鼠",
+    "genus": "火鼠宝可梦",
+    "flavorText": []
+  }
+}

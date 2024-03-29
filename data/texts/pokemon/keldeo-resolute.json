@@ -1,0 +1,269 @@
+{
+  "jap": {
+    "name": "ケルディオ",
+    "genus": "わかごまポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "うみや　かわなど　すいめんを　はしり\nせかいじゅうを　かけめぐっている。\nうつくしい　みずべに　あらわれる。"
+      },
+      {
+        "game": "xy-y",
+        "text": "かくごを　きめることで　ぜんしんに\nちからが　みなぎって　すばやくなり\nとびはねると　ざんぞうが　みえる。"
+      },
+      {
+        "game": "oras-or",
+        "text": "うみや　かわなど　すいめんを　はしり\nせかいじゅうを　かけめぐっている。\nうつくしい　みずべに　あらわれる。"
+      },
+      {
+        "game": "oras-as",
+        "text": "かくごを　きめることで　ぜんしんに\nちからが　みなぎって　すばやくなり\nとびはねると　ざんぞうが　みえる。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "コバルオン　テラキオン　ビリジオンに\nたたかいを　まなんだ。　せかいを\nかけめぐり　しゅぎょうを　つづける。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "きびしい　たたかいを　くぐりぬけて\nひたいの　ツノが　きたえられると\nしんの　ちからが　めざめるという。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Keldeo",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "케르디오",
+    "genus": "망아지포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "바다나 강 등의 수면을 달려\n세계 곳곳을 뛰어다닌다.\n아름다운 물가에 나타난다."
+      },
+      {
+        "game": "xy-y",
+        "text": "각오를 굳히는 것으로 전신에\n힘이 넘쳐흘러 재빨라지며\n뛰어오르면 잔상이 보인다."
+      },
+      {
+        "game": "oras-or",
+        "text": "바다나 강 등의 수면을 달려\n세계 곳곳을 뛰어다닌다.\n아름다운 물가에 나타난다."
+      },
+      {
+        "game": "oras-as",
+        "text": "각오를 굳히는 것으로 전신에\n힘이 넘쳐흘러 재빨라지며\n뛰어오르면 잔상이 보인다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "코바르온 테라키온 비리디온으로부터\n싸움을 배웠다. 세계를 돌아다니며\n수행을 거듭하고 있다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "혹독한 싸움을 이겨내고\n이마의 뿔이 단련되면\n진정한 힘이 각성한다고 한다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "凱路迪歐",
+    "genus": "幼馬寶可夢",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "從勾帕路翁、代拉基翁和\n畢力吉翁那裡學會了戰鬥。\n馳騁全世界，不斷修行。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "據說當牠歷經艱難的戰鬥，\n藉此鍛鍊了額頭上的角之後，\n就能激發出自己真正的力量。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Keldeo",
+    "genus": "Pokémon Poulain",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Il projette de l’eau depuis ses sabots\net se déplace ainsi à grande vitesse.\nSa botte secrète est le coup de sabot."
+      },
+      {
+        "game": "bw-w",
+        "text": "Il parcourt le monde en courant à la\nsurface des mers et des cours d’eau.\nIl apparaît là où l’eau est très pure."
+      },
+      {
+        "game": "xy-x",
+        "text": "Il parcourt le monde en courant à la surface des mers\net des cours d’eau. Il apparaît là où l’eau est très\npure."
+      },
+      {
+        "game": "xy-y",
+        "text": "Lorsqu’il est résolu, de l’énergie sature son corps\net le propulse à des vitesses qui dépassent la\nperception humaine."
+      },
+      {
+        "game": "oras-or",
+        "text": "Il parcourt le monde en courant à la surface des mers\net des cours d’eau. Il apparaît là où l’eau est très pure."
+      },
+      {
+        "game": "oras-as",
+        "text": "Lorsqu’il est résolu, de l’énergie sature son corps et\nle propulse à des vitesses qui dépassent la perception\nhumaine."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Cobaltium, Terrakium et Viridium lui ont appris\nà se battre. Il poursuit son entraînement\nen parcourant le monde."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Lorsqu’il livre un combat difficile, la corne\nsur son front se renforce et se développe,\nce qui éveillerait sa véritable puissance."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Keldeo",
+    "genus": "Fohlen-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Es kann auf dem Wasser laufen und reist auf\nFlüssen und Meeren um die Welt. Zu sehen in\nmalerischen Küstengebieten."
+      },
+      {
+        "game": "xy-y",
+        "text": "Ist es sich seiner Sache sicher, strotzt es vor Kraft\nund seine Sprünge werden zu schnell für die\nmenschliche Wahrnehmung."
+      },
+      {
+        "game": "oras-or",
+        "text": "Es kann auf dem Wasser laufen und reist auf Flüssen und\nMeeren um die Welt. Zu sehen in malerischen Küstengebieten."
+      },
+      {
+        "game": "oras-as",
+        "text": "Ist es sich seiner Sache sicher, strotzt es vor Kraft und seine\nSprünge werden zu schnell für die menschliche Wahrnehmung."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Kobalium, Terrakium und Viridium haben ihm das\nKämpfen beigebracht. Nun reist es um die Welt\nund setzt sein Training fort."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Man sagt, wenn Keldeo schwere Kämpfe\nübersteht und das Horn an seiner Stirn stärker\nwird, erwache irgendwann seine wahre Kraft."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Keldeo",
+    "genus": "Pokémon Potro",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Corre por mares, ríos o cualquier superficie acuática de\ntodo el mundo. Aparece en aguas límpidas."
+      },
+      {
+        "game": "xy-y",
+        "text": "Cuando está decidido, su cuerpo rebosa brío, y es\ncapaz de saltar más alto y correr más de lo que la\nvista alcanza."
+      },
+      {
+        "game": "oras-or",
+        "text": "Corre por mares, ríos o cualquier superficie acuática de todo\nel mundo. Aparece en aguas límpidas."
+      },
+      {
+        "game": "oras-as",
+        "text": "Cuando está decidido, su cuerpo rebosa brío, y es capaz de\nsaltar más alto y correr más de lo que la vista alcanza."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Aprendió a luchar bajo la tutela de Cobalion,\nTerrakion y Virizion. Ahora recorre el mundo\nperfeccionando su destreza."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "A base de superar encarnizados combates, su\ncuerno se fortalece y, entonces, despierta su\nverdadero poder."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Keldeo",
+    "genus": "Pokémon Puledro",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Scorrazza per il mondo muovendosi sulla superficie\ndei mari o dei fiumi. Appare nei lidi più ameni."
+      },
+      {
+        "game": "xy-y",
+        "text": "Quando è pronto a passare all’azione, si carica\nd’energia e diventa così veloce che è impossibile\nseguirlo con gli occhi."
+      },
+      {
+        "game": "oras-or",
+        "text": "Scorrazza per il mondo muovendosi sulla superficie dei mari\no dei fiumi. Appare nei lidi più ameni."
+      },
+      {
+        "game": "oras-as",
+        "text": "Quando è pronto a passare all’azione, si carica d’energia\ne diventa così veloce che è impossibile seguirlo con gli occhi."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Ha imparato a lottare da Cobalion, Terrakion\ne Virizion. Ora continua i suoi allenamenti\nin giro per il mondo."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Si dice che quando supera difficili battaglie\nil corno sulla sua fronte si rafforzi e solo allora\nsi risvegli la sua vera forza."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Keldeo",
+    "genus": "Colt Pokémon",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "By blasting water from its hooves, it can\nglide across water. It excels at using\nleg moves while battling."
+      },
+      {
+        "game": "bw-w",
+        "text": "It crosses the world, running over\nthe surfaces of oceans and rivers.\nIt appears at scenic waterfronts."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "When it is resolute, its body fills\nwith power and it becomes swifter.\nIts jumps are then too fast to follow."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "When it is resolute, its body fills\nwith power and it becomes swifter.\nIts jumps are then too fast to follow."
+      },
+      {
+        "game": "xy-x",
+        "text": "It crosses the world, running over the surfaces of\noceans and rivers. It appears at scenic waterfronts."
+      },
+      {
+        "game": "xy-y",
+        "text": "When it is resolute, its body fills with power and it\nbecomes swifter. Its jumps are then too fast\nto follow."
+      },
+      {
+        "game": "oras-or",
+        "text": "It crosses the world, running over the surfaces of\noceans and rivers. It appears at scenic waterfronts."
+      },
+      {
+        "game": "oras-as",
+        "text": "When it is resolute, its body fills with power and it\nbecomes swifter. Its jumps are then too fast\nto follow."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Cobalion, Terrakion, and Virizion taught this\nPokémon how to fight. It dashes across the world,\nseeking more opportunities to further its training."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "They say that Keldeo must survive harsh battles\nand fully develop the horn on its forehead\nbefore this Pokémon’s true power will awaken."
+      }
+    ]
+  },
+  "chs": {
+    "name": "凯路迪欧",
+    "genus": "幼马宝可梦",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "从勾帕路翁、代拉基翁和\n毕力吉翁那里学会了战斗。\n驰骋全世界，不断修行。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "据说当它挺过了艰难的战斗，\n额头上的角就能得到锻炼，\n从而激发出自己真正的力量。"
+      }
+    ]
+  }
+}

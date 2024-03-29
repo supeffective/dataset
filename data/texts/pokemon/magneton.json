@@ -1,0 +1,553 @@
+{
+  "jap": {
+    "name": "レアコイル",
+    "genus": "じしゃくポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "ふくすうの　コイルが　れんけつして\nきょうりょくな　じりょくせんと\nこうでんあつを　ほうしゃする。"
+      },
+      {
+        "game": "xy-y",
+        "text": "なぞのでんぱを　はっしんしており\nはんけい　１キロのはんいでは\nきおんが　２ど　あがる。"
+      },
+      {
+        "game": "oras-or",
+        "text": "つよい　じりょくで　きかいを　こわしてしまうので\nおおきな　まちでは　サイレンを　ならして\nレアコイルの　たいりょう　はっせいを　しらせる。"
+      },
+      {
+        "game": "oras-as",
+        "text": "きょうりょくな　じりょくせんで　せいみつきかいを\nこわしてしまうため　モンスターボールに　いれて\nおかないと　ちゅういされる　まちも　あるという。"
+      },
+      {
+        "game": "sm-s",
+        "text": "れんけつするとき　３びきのコイルの\nのうも　ひとつに　れんけつする。\n３ばい　かしこくなりは　しない。"
+      },
+      {
+        "game": "sm-m",
+        "text": "ほぼ　コイル　３ばいの　でんりょく。\nたいようのこくてんが　おおいとき\nなぜか　たいりょうはっせい。"
+      },
+      {
+        "game": "usum-us",
+        "text": "なぞの　でんぱを　はっしん　しており\nレアコイルが　すんでいる　ばしょでは\nせいみつききが　こしょうしてしまう。"
+      },
+      {
+        "game": "usum-um",
+        "text": "あまぐもが　できると　たかいところに\nあつまってくる。　かみなりが\nおちるのを　まっているのだ。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "なぞのでんぱを　はっしんしており\nはんけい　１キロのはんいでは\nきおんが　２ど　あがる。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "なぞのでんぱを　はっしんしており\nはんけい　１キロのはんいでは\nきおんが　２ど　あがる。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "３びきの　コイルが　れんけつした。\nきょうりょくな　でんぱを　はなち\nまわりの　ようすを　かんそくする。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "つよい　じりょくを　たえず　はなつ。\nレアコイルが　ちかづくと　たいていの\nコンピュータは　いじょうを　きたす。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Rarecoil",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "레어코일",
+    "genus": "자석포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "다수의 코일이 연결되어\n강력한 자기장과\n높은 전압을 방사한다."
+      },
+      {
+        "game": "xy-y",
+        "text": "알 수 없는 전파를 발신하고 있어\n반경 1km 범위는\n기온이 2도 오른다."
+      },
+      {
+        "game": "oras-or",
+        "text": "강한 자력으로 기계를 망가트리기 때문에\n큰 마을에서는 사이렌을 울려\n레어코일의 대량 발생을 알린다."
+      },
+      {
+        "game": "oras-as",
+        "text": "강력한 자기장이 정밀 기계를\n망가트리기 때문에 몬스터볼에 넣어\n두지 않으면 주의를 받는 마을도 있다고 한다."
+      },
+      {
+        "game": "sm-s",
+        "text": "연결할 때 3마리의 코일의\n뇌도 하나로 연결된다.\n3배로 똑똑해지지는 않는다."
+      },
+      {
+        "game": "sm-m",
+        "text": "거의 코일의 3배의 전력이다.\n태양의 흑점이 많을 때\n어찌 된 일인지 대량 발생한다."
+      },
+      {
+        "game": "usum-us",
+        "text": "정체 모를 전파를 발신하기 때문에\n레어코일이 사는 곳에는\n정밀 기기가 고장 난다."
+      },
+      {
+        "game": "usum-um",
+        "text": "비구름이 생기면 높은 곳에\n모여든다. 번개가 치기를\n기다리는 것이다."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "알 수 없는 전파를 발신하고 있어\n반경 1km 범위는\n기온이 2도 오른다."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "알 수 없는 전파를 발신하고 있어\n반경 1km 범위는\n기온이 2도 오른다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "3마리의 코일이 연결되었다.\n강력한 전파를 발산해\n주위의 상황을 관측한다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "강한 자력을 끊임없이 발산한다.\n레어코일이 접근하면 대부분의\n컴퓨터에 이상 현상이 발생한다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "三合一磁怪",
+    "genus": "磁鐵寶可夢",
+    "flavorText": [
+      {
+        "game": "usum-um",
+        "text": "當天空中出現雨雲時，\n牠們就會聚集在高處，\n等待著天上落下雷電。"
+      },
+      {
+        "game": "sm-s",
+        "text": "結合的時候，３隻小磁怪的\n腦袋也會連成一個。\n但並不會變得３倍聰明。"
+      },
+      {
+        "game": "sm-m",
+        "text": "大約有小磁怪３倍的電力。\n太陽黑子多的時候，\n不知為何會大量出現。"
+      },
+      {
+        "game": "usum-us",
+        "text": "會發出神秘的電波。\n在三合一磁怪棲息的地方，\n精密機器會發生故障。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "會發出神秘的電波，\n使半徑１公里範圍內的\n氣溫提高２度。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "會發出神秘的電波，\n使半徑１公里範圍內的\n氣溫提高２度。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "由３隻小磁怪連結而成。\n會發射出強烈的電波\n來觀測周圍的狀況。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "隨時都釋放著很強的磁力。\n只要三合一磁怪一靠近，\n大多數的電腦都會出現異常。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Magnéton",
+    "genus": "Pokémon Magnétique",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Des groupes apparaissent si des\ntaches solaires couvrent le soleil.\nIls brouillent les télévisions."
+      },
+      {
+        "game": "bw-w",
+        "text": "Des groupes apparaissent si des\ntaches solaires couvrent le soleil.\nIls brouillent les télévisions."
+      },
+      {
+        "game": "xy-x",
+        "text": "Ce Pokémon est composé de plusieurs Magnéti.\nIl est capable de projeter de puissantes décharges\nmagnétiques à haute tension."
+      },
+      {
+        "game": "xy-y",
+        "text": "Il émet un signal radio étrange. Sa présence\naugmente la température de 1 °C dans un rayon\nde 1 000 m."
+      },
+      {
+        "game": "oras-or",
+        "text": "Magnéton émet un puissant champ magnétique qui neutralise\nles appareils mécaniques. Lorsque ces Pokémon débarquent\nen masse, les villes sonnent l’alarme et préviennent les\nhabitants."
+      },
+      {
+        "game": "oras-as",
+        "text": "Magnéton émet un puissant champ magnétique qui neutralise\nles appareils électroniques. Certaines villes demandent\naux propriétaires de ces Pokémon de les garder dans\nleurs Poké Balls."
+      },
+      {
+        "game": "sm-s",
+        "text": "Lorsque trois Magnéti fusionnent, leurs cerveaux\nfusionnent aussi. Mais cela ne signifie pas que\nMagnéton est trois fois plus intelligent."
+      },
+      {
+        "game": "sm-m",
+        "text": "Il possède le triple de la puissance d’un Magnéti.\nIl en apparaît beaucoup lorsque les taches\nsolaires sont nombreuses."
+      },
+      {
+        "game": "usum-us",
+        "text": "Les Magnéton émettent d’étranges ondes,\net les appareils de précision ont tendance\nà tomber en panne à leur approche."
+      },
+      {
+        "game": "usum-um",
+        "text": "Quand de gros nuages de pluie s’amoncellent\ndans le ciel, les Magnéton se rassemblent\nsur les hauteurs pour attendre la foudre."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Il émet un signal radio étrange. Sa présence\naugmente la température de 2 ºC dans un rayon\nde 1 000 m."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Il émet un signal radio étrange. Sa présence\naugmente la température de 2 ºC dans un rayon\nde 1 000 m."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "La fusion de trois Magnéti a donné naissance\nà ce Pokémon. Il surveille les alentours en\nlibérant de puissantes ondes électriques."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Il émet constamment une énergie magnétique\npuissante qui interfère avec la grande majorité\ndes ordinateurs dont il s’approche."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Magneton",
+    "genus": "Magnet-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Schließen sich mehrere Magnetilo zusammen,\nentsteht dieses Pokémon. Es entlädt kräftige\nHochspannungsmagnetwellen."
+      },
+      {
+        "game": "xy-y",
+        "text": "Dieses Pokémon erzeugt seltsame Radiowellen\nund kann die Lufttemperatur geringfügig anheben."
+      },
+      {
+        "game": "oras-or",
+        "text": "Magneton erzeugt ein sehr starkes Magnetfeld,\ndas Maschinen zerstören kann. Deshalb hört man\nin großen Städten oft Sirenen, die die Bürger vor\nScharen dieser Pokémon warnen sollen."
+      },
+      {
+        "game": "oras-as",
+        "text": "Magneton strahlt eine starke magnetische Energie ab,\ndie für elektronische Geräte und Präzisionsinstrumente\nsehr schädlich ist. In einigen Städten werden die Bewohner\ngebeten, dieses Pokémon in einem Pokéball zu halten."
+      },
+      {
+        "game": "sm-s",
+        "text": "Drei Magnetilo schließen sich zusammen und\nvereinigen ihre Gehirne. Das heißt aber nicht,\ndass dieses Pokémon dreimal so schlau wird."
+      },
+      {
+        "game": "sm-m",
+        "text": "Seine Stromstärke ist fast dreimal so hoch wie\ndie eines Magnetilos. Es erscheint vermehrt,\nwenn Flecken auf der Sonne auftauchen."
+      },
+      {
+        "game": "usum-us",
+        "text": "Es erzeugt seltsame Radiowellen, die Störungen\nan Präzisionsinstrumenten in seiner Umgebung\nverursachen."
+      },
+      {
+        "game": "usum-um",
+        "text": "Ziehen Regenwolken auf, versammeln sich\nMagneton in großer Höhe und warten darauf,\ndass der Blitz einschlägt."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Es erzeugt seltsame Radiowellen, durch welche\ndie Lufttemperatur in einem Radius von 1 km\num 2 ºC steigt."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Es erzeugt seltsame Radiowellen, durch welche\ndie Lufttemperatur in einem Radius von 1 km\num 2 ºC steigt."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Es entsteht durch den Zusammenschluss dreier\nMagnetilo und sendet starke Radiowellen aus,\num seine Umgebung zu untersuchen."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Es sondert stetig seine starken Magnetkräfte ab,\nsodass bei den meisten Computern Störungen\nauftreten, wenn es sich in deren Nähe aufhält."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Magneton",
+    "genus": "Pokémon Imán",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Lo constituye un grupo de Magnemite. Descarga\npotentes ondas magnéticas de alto voltaje."
+      },
+      {
+        "game": "xy-y",
+        "text": "Es capaz de elevar 2 °C la temperatura en un radio\nde un kilómetro emitiendo extrañas ondas\nelectromagnéticas."
+      },
+      {
+        "game": "oras-or",
+        "text": "Magneton emite una fuerte energía magnética que causa\nestragos en los instrumentos mecánicos. Por ello, en las\nciudades se avisa con sirenas cuando hay concentraciones de\nestos Pokémon."
+      },
+      {
+        "game": "oras-as",
+        "text": "Magneton emite una fuerte energía magnética, fatal para los\ninstrumentos electrónicos y de precisión. Este es el motivo por\nel que, dicen, mucha gente mantiene a este Pokémon en su\nPoké Ball."
+      },
+      {
+        "game": "sm-s",
+        "text": "Cuando tres Magnemite se unen, sus cerebros\nse convierten en uno. No obstante, su\ninteligencia no se multiplica por tres."
+      },
+      {
+        "game": "sm-m",
+        "text": "Su poder eléctrico es unas tres veces superior\nal de Magnemite. Aparecen en gran cantidad\ncuando se vislumbran muchas manchas solares."
+      },
+      {
+        "game": "usum-us",
+        "text": "Las misteriosas ondas eléctricas que emiten\nprovocan toda clase de averías en la electrónica\nde precisión allí donde viven."
+      },
+      {
+        "game": "usum-um",
+        "text": "Cuando se forman nubes de tormenta, se\ncongregan en las alturas aguardando a que\ncaigan rayos."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Es capaz de elevar 2 °C la temperatura en\nun radio de 1 km emitiendo extrañas ondas\nelectromagnéticas."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Es capaz de elevar 2 °C la temperatura en\nun radio de 1 km emitiendo extrañas ondas\nelectromagnéticas."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Este Pokémon, surgido de la unión de tres\nMagnemite, genera potentes ondas de radio\ncon las que examina el entorno."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Emite de forma constante una potente fuerza\nmagnética que causa estragos en prácticamente\ncualquier ordenador al que se acerque."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Magneton",
+    "genus": "Pokémon Calamita",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Formato da vari Magnemite, è in grado di lanciare\nonde magnetiche ad alto voltaggio."
+      },
+      {
+        "game": "xy-y",
+        "text": "Produce strane onde radio con cui può aumentare\nla temperatura atmosferica di qualche grado."
+      },
+      {
+        "game": "oras-or",
+        "text": "Magneton emette una potente carica magnetica fatale per\ntutte le apparecchiature meccaniche. Nelle città, le sirene\navvertono la popolazione di grandi invasioni di\nquesti Pokémon."
+      },
+      {
+        "game": "oras-as",
+        "text": "Magneton emette una potente carica magnetica fatale per\ngli strumenti elettronici e di precisione. Per questo motivo\nmolte città impongono ai cittadini di tenere questi Pokémon\nnelle Poké Ball."
+      },
+      {
+        "game": "sm-s",
+        "text": "Quando tre Magnemite formano un Magneton,\nanche il loro cervello si fonde. Ma non significa\nche Magneton è tre volte più intelligente."
+      },
+      {
+        "game": "sm-m",
+        "text": "Ha una potenza elettrica tre volte superiore a\nquella di Magnemite. Si registrano comparse\nmassicce quando ci sono molte macchie solari."
+      },
+      {
+        "game": "usum-us",
+        "text": "Nelle zone abitate dai Magneton, i dispositivi\ndi precisione spesso si guastano a causa delle\nstrane onde prodotte da questi Pokémon."
+      },
+      {
+        "game": "usum-um",
+        "text": "Quando il cielo si copre di nuvole temporalesche,\ni Magneton si raggruppano in luoghi sopraelevati\nin attesa dei fulmini."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Emette strane onde radio che fanno aumentare\nla temperatura atmosferica di 2 ºC nel raggio\ndi 1 km."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Emette strane onde radio che fanno aumentare\nla temperatura atmosferica di 2 ºC nel raggio\ndi 1 km."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "È formato dall’unione di tre Magnemite.\nEsamina i dintorni emettendo potenti onde radio."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Produce costantemente una potente carica\nmagnetica che causa malfunzionamenti\nnella maggior parte dei computer."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Magneton",
+    "genus": "Magnet Pokémon",
+    "flavorText": [
+      {
+        "game": "rb-r",
+        "text": "Formed by several\nMAGNEMITEs linked\ntogether. They\ffrequently appear\nwhen sunspots\nflare up."
+      },
+      {
+        "game": "rb-b",
+        "text": "Formed by several\nMAGNEMITEs linked\ntogether. They\ffrequently appear\nwhen sunspots\nflare up."
+      },
+      {
+        "game": "y",
+        "text": "Generates strange\nradio signals. It\nraises the tem­\fperature by 3.6F\ndegrees within\n3,300 feet."
+      },
+      {
+        "game": "gs-g",
+        "text": "Three MAGNEMITE\nare linked by a\nstrong magnetic\fforce. Earaches\nwill occur if you\nget too close."
+      },
+      {
+        "game": "gs-s",
+        "text": "The MAGNEMITE are\nunited by a mag­\nnetism so power­\fful, it dries all\nmoisture in its\nvicinities."
+      },
+      {
+        "game": "c",
+        "text": "When many\nMAGNETON gather\ntogether, the\fresulting magnetic\nstorm disrupts\nradio waves."
+      },
+      {
+        "game": "rs-r",
+        "text": "MAGNETON emits a powerful magnetic\nforce that is fatal to mechanical\ndevices. As a result, large cities sound\fsirens to warn citizens of large-scale\noutbreaks of this POKéMON."
+      },
+      {
+        "game": "rs-s",
+        "text": "MAGNETON emits a powerful magnetic\nforce that is fatal to electronics and\nprecision instruments. Because of\fthis, it is said that some towns warn\npeople to keep this POKéMON inside\na POKé BALL."
+      },
+      {
+        "game": "e",
+        "text": "It is actually three MAGNEMITE linked\nby magnetism. It generates powerful radio\nwaves that raise temperatures by 3.6\ndegrees F within a 3,300-foot radius."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "A linked cluster formed of several\nMAGNEMITE. It discharges powerful\nmagnetic waves at high voltage."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "Formed by several MAGNEMITE linked\ntogether. They frequently appear when\nsunspots flare up."
+      },
+      {
+        "game": "dp-d",
+        "text": "It is actually three MAGNEMITE\nlinked by magnetism. A group can\nset off a magnetic storm."
+      },
+      {
+        "game": "dp-p",
+        "text": "It is actually three MAGNEMITE\nlinked by magnetism. A group can\nset off a magnetic storm."
+      },
+      {
+        "game": "pt",
+        "text": "Many mysteriously appear when more\nsunspots dot the sun. They stop\nTV sets from displaying properly."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "Three MAGNEMITE are linked by a\nstrong magnetic force. Earaches\nwill occur if you get too close."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "The MAGNEMITE are united by a\nmagnetism so powerful, it dries all\nmoisture in its vicinity."
+      },
+      {
+        "game": "bw-b",
+        "text": "Many mysteriously appear when more\nsunspots dot the sun. They stop\nTV sets from displaying properly."
+      },
+      {
+        "game": "bw-w",
+        "text": "Many mysteriously appear when more\nsunspots dot the sun. They stop\nTV sets from displaying properly."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "The stronger electromagnetic waves\nfrom the three linked Magnemite are\nenough to dry out surrounding moisture."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "The stronger electromagnetic waves\nfrom the three linked Magnemite are\nenough to dry out surrounding moisture."
+      },
+      {
+        "game": "xy-x",
+        "text": "A linked cluster formed of several Magnemite.\nIt discharges powerful magnetic waves at\nhigh voltage."
+      },
+      {
+        "game": "xy-y",
+        "text": "Generates strange radio signals. It raises the\ntemperature by 3.6 degrees Fahrenheit within\n3,300 feet."
+      },
+      {
+        "game": "oras-or",
+        "text": "Magneton emits a powerful magnetic force that is fatal to\nmechanical devices. As a result, large cities sound sirens\nto warn citizens of large-scale outbreaks of this Pokémon."
+      },
+      {
+        "game": "oras-as",
+        "text": "Magneton emits a powerful magnetic force that is fatal to\nelectronics and precision instruments. Because of this, it is\nsaid that some towns warn people to keep this Pokémon\ninside a Poké Ball."
+      },
+      {
+        "game": "sm-s",
+        "text": "When three Magnemite link together, their brains\nalso become one. They do not become three\ntimes more intelligent."
+      },
+      {
+        "game": "sm-m",
+        "text": "It has about three times the electrical power of\nMagnemite. For some reason, outbreaks of this\nPokémon happen when lots of sunspots appear."
+      },
+      {
+        "game": "usum-us",
+        "text": "Delicate equipment can malfunction in areas\ninhabited by Magneton, which send out\nmysterious electrical signals."
+      },
+      {
+        "game": "usum-um",
+        "text": "When rain clouds form, many Magneton gather\nin high places to wait for lightning to strike."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Generates strange radio signals. It raises\nthe temperature by 3.6 degrees Fahrenheit\nwithin 3,300 feet."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Generates strange radio signals. It raises\nthe temperature by 3.6 degrees Fahrenheit\nwithin 3,300 feet."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "This Pokémon is three Magnemite that have\nlinked together. Magneton sends out powerful\nradio waves to study its surroundings."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "This Pokémon is constantly putting out a powerful\nmagnetic force. Most computers go haywire when\na Magneton approaches."
+      },
+      {
+        "game": "la",
+        "text": "Three Magnemite gathered to evolve into this Pokémon.\nThe source of much vexation on my part, as its powerful\nmagnetism destroys my research equipment."
+      }
+    ]
+  },
+  "chs": {
+    "name": "三合一磁怪",
+    "genus": "磁铁宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "连接的时候，３只小磁怪的\n脑袋也会连成一体。\n但并不会变得３倍聪明。"
+      },
+      {
+        "game": "sm-m",
+        "text": "大约有小磁怪３倍的电力。\n不知为何会在太阳黑子\n多的时候大量出现。"
+      },
+      {
+        "game": "usum-us",
+        "text": "会发出神秘的电波，\n在三合一磁怪栖息的地方，\n精密机器会发生故障。"
+      },
+      {
+        "game": "usum-um",
+        "text": "雨云形成后，\n它们就会聚集在高处，\n等待着从天上落下雷电。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "在它发射出神秘电波后，\n方圆１千米以内的\n气温会上升２度。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "在它发射出神秘电波后，\n方圆１千米以内的\n气温会上升２度。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "３只小磁怪连在了一起。\n会通过放出强力的电波\n来观测周围的状况。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "会不断释放很强的的磁力。\n在三合一磁怪接近时，大多数\n电脑都会发生异常情况。"
+      }
+    ]
+  }
+}

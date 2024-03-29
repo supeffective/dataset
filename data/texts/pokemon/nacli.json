@@ -1,0 +1,61 @@
+{
+  "jap": {
+    "name": "コジオ",
+    "genus": "がんえんポケモン",
+    "flavorText": []
+  },
+  "jap_ro": {
+    "name": "Kojio",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "베베솔트",
+    "genus": "",
+    "flavorText": []
+  },
+  "cht": {
+    "name": "鹽石寶",
+    "genus": "岩鹽寶可夢",
+    "flavorText": []
+  },
+  "fra": {
+    "name": "Selutin",
+    "genus": "",
+    "flavorText": []
+  },
+  "deu": {
+    "name": "Geosali",
+    "genus": "Steinsalz",
+    "flavorText": []
+  },
+  "esp": {
+    "name": "Nacli",
+    "genus": "",
+    "flavorText": []
+  },
+  "ita": {
+    "name": "Nacli",
+    "genus": "",
+    "flavorText": []
+  },
+  "eng": {
+    "name": "Nacli",
+    "genus": "Rock Salt Pokémon",
+    "flavorText": [
+      {
+        "game": "sv-s",
+        "text": "It was born in a layer of rock salt deep under the earth. This species was particularly treasured in the old days, as they would share precious salt."
+      },
+      {
+        "game": "sv-v",
+        "text": "The ground scrapes its body as it travels, causing it to leave salt behind. Salt is constantly being created and replenished inside Nacli’s body."
+      }
+    ]
+  },
+  "chs": {
+    "name": "盐石宝",
+    "genus": "岩盐宝可梦",
+    "flavorText": []
+  }
+}

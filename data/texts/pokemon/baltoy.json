@@ -1,0 +1,381 @@
+{
+  "jap": {
+    "name": "ヤジロン",
+    "genus": "どぐうポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "いっぽんあしで　かいてん　しながら\nいどうする。さかさまに　なって\nかいてんする　ヤジロンも　みかける。"
+      },
+      {
+        "game": "xy-y",
+        "text": "いっぽんあしで　かいてんしながら\nいどうする。こだいの　いせきから\nみつかった　めずらしい　ポケモン。"
+      },
+      {
+        "game": "oras-or",
+        "text": "いっぽんあしで　かいてん　しながら　いどうする。\nヤジロンと　にんげんが　いっしょに　くらす\nこだいの　へきがが　いせきから　はっけんされた。"
+      },
+      {
+        "game": "oras-as",
+        "text": "なかまを　みつけると　すぐに　あつまって　きて\nいっせいに　なきごえを　あげるので　うるさい。\nいっぽんあしで　きように　たったまま　ねむる。"
+      },
+      {
+        "game": "usum-us",
+        "text": "げんしじんが　すんでいた　ほらあなの\nかべに　ヤジロンらしき　ポケモンの\nすがたが　えがかれていた。"
+      },
+      {
+        "game": "usum-um",
+        "text": "なかまを　みつけると　やかましく\nなきわめき　あつまる。　おおむかしの\nぼちから　たいりょうに　みつかる。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "いっぽんあしで　かいてん　しながら\nいどうする。　さかさまに　なって\nかいてんする　ヤジロンも　みかける。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "こだい　いせきで　はっけんされた。\nかいてん　しながら　いどう。　よる\nねむる　ときも　いっぽんあしだ。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Yajilon",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "오뚝군",
+    "genus": "토우포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "한 다리로 회전하면서\n이동한다. 거꾸로\n회전하는 오뚝군도 발견된다."
+      },
+      {
+        "game": "xy-y",
+        "text": "한 다리로 회전하면서\n이동한다. 고대 유적에서\n발견된 희귀한 포켓몬이다."
+      },
+      {
+        "game": "oras-or",
+        "text": "외다리로 회전하며 이동한다.\n오뚝군과 인간이 함께 사는\n고대 벽화가 유적에서 발견됐다."
+      },
+      {
+        "game": "oras-as",
+        "text": "동료를 발견하면 바로 모여들어\n일제히 울음소리를 내기 때문에 시끄럽다.\n외다리로 능숙하게 선 채로 잔다."
+      },
+      {
+        "game": "usum-us",
+        "text": "원시인이 살았던 동굴 벽에\n오뚝군으로 추정되는\n포켓몬의 모습이 그려져 있다."
+      },
+      {
+        "game": "usum-um",
+        "text": "동료를 발견하면 시끄럽게\n울부짖으며 모인다. 오래된\n묘지에서 대량으로 발견된다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "한 다리로 회전하면서\n이동한다. 거꾸로\n회전하는 오뚝군도 발견된다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "고대 유적에서 발견되었다.\n회전하면서 이동한다.\n밤에 잘 때도 다리 하나로 서 있다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "天秤偶",
+    "genus": "泥偶寶可夢",
+    "flavorText": [
+      {
+        "game": "usum-us",
+        "text": "在原始人居住的洞穴裡，\n可以看見牆壁上畫著\n像是天秤偶的寶可夢。"
+      },
+      {
+        "game": "usum-um",
+        "text": "只要發現夥伴就會發出\n吵雜的叫聲聚集起來。\n會大量出沒在古代的墳場裡。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "用單腳一邊旋轉一邊移動。\n有時候也能看到\n顛倒過來旋轉的天秤偶。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "在古代遺跡被發現。\n會一邊旋轉一邊移動。\n晚上睡覺的時候也是單腳站著。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Balbuto",
+    "genus": "Pokémon Poupargile",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Il se déplace en tournoyant sur\nson pied. Ce Pokémon rare fut\ndécouvert dans de vieilles ruines."
+      },
+      {
+        "game": "bw-w",
+        "text": "Il se déplace en tournoyant sur\nson pied. Ce Pokémon rare fut\ndécouvert dans de vieilles ruines."
+      },
+      {
+        "game": "xy-x",
+        "text": "Il se déplace en tournoyant sur son pied. Même mis\nsur la tête, il peut continuer à tourner."
+      },
+      {
+        "game": "xy-y",
+        "text": "Il se déplace en tournoyant sur son pied. Ce Pokémon\nrare fut découvert dans de vieilles ruines."
+      },
+      {
+        "game": "oras-or",
+        "text": "Balbuto se déplace en pivotant sur son unique pied.\nDes peintures rupestres montrant ce Pokémon vivant\navec les hommes furent découvertes dans des ruines\ntrès anciennes."
+      },
+      {
+        "game": "oras-as",
+        "text": "Dès qu’il repère ses congénères, Balbuto les rejoint et\nils se mettent tous à crier en chœur. Ce Pokémon arrive\nà dormir en restant adroitement en équilibre."
+      },
+      {
+        "game": "usum-us",
+        "text": "Des esquisses de Pokémon ressemblant à des\nBalbuto ont été retrouvées dans des grottes\njadis habitées par des hommes préhistoriques."
+      },
+      {
+        "game": "usum-um",
+        "text": "Quand il aperçoit des congénères, il les rejoint\nen émettant des sons stridents. On en a trouvé\nbeaucoup dans de très vieux cimetières."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Il se déplace en tournoyant sur son pied.\nOn le voit parfois faire de même sur la tête."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Ce Pokémon découvert dans des ruines anciennes\ntourne sur lui-même pour se déplacer. Il se tient\ntoujours sur un pied, même quand il dort."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Puppance",
+    "genus": "Lehmpuppen-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Es bewegt sich, indem es auf seinem Fuß kreiselt.\nVereinzelt sieht man Puppance, die kopfüber kreiseln."
+      },
+      {
+        "game": "xy-y",
+        "text": "Es bewegt sich, indem es sich auf seinem Fuß dreht.\nEin seltenes Pokémon, das in alten Ruinen lebte."
+      },
+      {
+        "game": "oras-or",
+        "text": "Puppance bewegt sich, indem es sich auf seinem Fuß im Kreis\ndreht. In sehr alten Ruinen wurden primitive Wandmalereien\nentdeckt, die dieses Pokémon in Begleitung von Menschen\nzeigen."
+      },
+      {
+        "game": "oras-as",
+        "text": "Sobald es Artgenossen bemerkt, tut sich Puppance mit ihnen\nzusammen und sie brüllen gemeinsam. Dieses Pokémon\nschläft, während es geschickt auf seinem Fuß balanciert."
+      },
+      {
+        "game": "usum-us",
+        "text": "In Höhlen, in denen Urmenschen lebten, gibt es\nWandmalereien von einem Pokémon, das wie\nPuppance aussieht."
+      },
+      {
+        "game": "usum-um",
+        "text": "Wenn sie Artgenossen entdecken, versammeln\nsie sich und brüllen gemeinsam. Sie wurden\nzuhauf in alten Grabstätten gefunden."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Es bewegt sich, indem es auf seinem Fuß kreiselt.\nVereinzelt sieht man auch Puppance, die dies\nkopfüber tun."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Es wurde in antiken Ruinen entdeckt. Wenn es\nsich bewegt, dreht es sich. Auch im Schlaf steht\nes auf einem Bein."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Baltoy",
+    "genus": "Pokémon Muñeca Barro",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Se mueve girando sobre su eje. También se le puede\nver girando cabeza abajo."
+      },
+      {
+        "game": "xy-y",
+        "text": "Se mueve girando sobre su eje. Es un extraño\nPokémon que fue encontrado en unas viejas ruinas."
+      },
+      {
+        "game": "oras-or",
+        "text": "Baltoy se mueve girando alrededor de sí mismo sobre la\nextremidad inferior que tiene. En unas ruinas antiguas,\ndescubrieron pinturas rupestres en las que aparecía este\nPokémon conviviendo con personas."
+      },
+      {
+        "game": "oras-as",
+        "text": "Al ver a más de los suyos, Baltoy se une al grupo y todos se\nponen a chillar escandalosamente y al unísono. Este Pokémon\nduerme manteniendo hábilmente el equilibrio sobre la\nextremidad inferior que tiene."
+      },
+      {
+        "game": "usum-us",
+        "text": "Los humanos de tiempos primitivos solían pintar\nen las cuevas donde habitaban siluetas muy\nparecidas a las de Baltoy."
+      },
+      {
+        "game": "usum-um",
+        "text": "Al ver a más de los suyos, se juntan y emiten\nunos chillidos estridentes. Su presencia solía ser\nnumerosa en cementerios de gran antigüedad."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Se mueve girando una única extremidad. Se han\navistado algunos ejemplares capaces de hacerlo\ncabeza abajo."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Fue hallado en unas ruinas antiguas. Se desplaza\ngirando sobre sí mismo y se mantiene sobre una\nextremidad incluso cuando duerme."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Baltoy",
+    "genus": "Pokémon Argilla",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Si sposta piroettando sull’unica estremità inferiore\ndel proprio corpo. Molti fanno la verticale."
+      },
+      {
+        "game": "xy-y",
+        "text": "Pokémon raro che si muove roteando su se stesso.\nÈ stato scoperto nei pressi di antiche rovine."
+      },
+      {
+        "game": "oras-or",
+        "text": "Baltoy si muove piroettando sull’unica estremità inferiore\ndel proprio corpo. La scoperta di alcune rovine antiche\nha portato alla luce dipinti di questo Pokémon che viveva\na stretto contatto con gli esseri umani."
+      },
+      {
+        "game": "oras-as",
+        "text": "Appena incontra i propri simili, Baltoy forma un gruppo molto\nrumoroso. Questo Pokémon dorme bilanciandosi con maestria\nsull’unica estremità inferiore del proprio corpo."
+      },
+      {
+        "game": "usum-us",
+        "text": "Nelle pareti delle grotte in cui vivevano gli uomini\nprimitivi sono state trovate raffigurazioni di\nPokémon simili ai Baltoy."
+      },
+      {
+        "game": "usum-um",
+        "text": "Quando incontra i propri simili si unisce a loro\nformando un gruppo molto chiassoso. Ne sono\nstati trovati in gran numero in antichi cimiteri."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Si sposta piroettando sull’estremità inferiore\ndel proprio corpo. Alcuni Baltoy sono stati visti\npiroettare a testa in giù."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Scoperto in antiche rovine. Si sposta girando\nsu se stesso e rimane bilanciato sull’estremità\ninferiore del suo corpo anche quando dorme."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Baltoy",
+    "genus": "Clay Doll Pokémon",
+    "flavorText": [
+      {
+        "game": "rs-r",
+        "text": "BALTOY moves while spinning around on\nits one foot. Primitive wall paintings\ndepicting this POKéMON living among\fpeople were discovered in some ancient\nruins."
+      },
+      {
+        "game": "rs-s",
+        "text": "As soon as it spots others of its kind,\nBALTOY congregates with them and\nthen begins crying noisily in unison.\fThis POKéMON sleeps while cleverly\nbalancing itself on its one foot."
+      },
+      {
+        "game": "e",
+        "text": "A BALTOY moves by spinning on its single\nfoot. It has been depicted in murals \nadorning the walls of a once-bustling city\nin an ancient age."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "It was discovered in ancient ruins.\nWhile moving, it constantly spins. It\nstands on one foot even when asleep."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "It was discovered in ancient ruins.\nWhile moving, it constantly spins. It\nstands on one foot even when asleep."
+      },
+      {
+        "game": "dp-d",
+        "text": "It moves by spinning on its foot.\nIt is a rare Pokémon that was\ndiscovered in ancient ruins."
+      },
+      {
+        "game": "dp-p",
+        "text": "It moves by spinning on its foot.\nIt is a rare Pokémon that was\ndiscovered in ancient ruins."
+      },
+      {
+        "game": "pt",
+        "text": "It moves by spinning on its foot.\nIt is a rare Pokémon that was\ndiscovered in ancient ruins."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "It moves while spinning around on\nits single foot. Some BALTOY have\nbeen seen spinning on their heads."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "It moves while spinning around on\nits single foot. Some BALTOY have\nbeen seen spinning on their heads."
+      },
+      {
+        "game": "bw-b",
+        "text": "It moves by spinning on its foot.\nIt is a rare Pokémon that was\ndiscovered in ancient ruins."
+      },
+      {
+        "game": "bw-w",
+        "text": "It moves by spinning on its foot.\nIt is a rare Pokémon that was\ndiscovered in ancient ruins."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "Discovered in ancient ruins, it moves\nby spinning around and forms a group\nwhen it finds others."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "Discovered in ancient ruins, it moves\nby spinning around and forms a group\nwhen it finds others."
+      },
+      {
+        "game": "xy-x",
+        "text": "It moves while spinning around on its single foot.\nSome Baltoy have been seen spinning on\ntheir heads."
+      },
+      {
+        "game": "xy-y",
+        "text": "It moves by spinning on its foot. It is a rare\nPokémon that was discovered in ancient ruins."
+      },
+      {
+        "game": "oras-or",
+        "text": "Baltoy moves while spinning around on its one foot. Primitive\nwall paintings depicting this Pokémon living among people\nwere discovered in some ancient ruins."
+      },
+      {
+        "game": "oras-as",
+        "text": "As soon as it spots others of its kind, Baltoy congregates with\nthem and then begins crying noisily in unison. This Pokémon\nsleeps while cleverly balancing itself on its one foot."
+      },
+      {
+        "game": "usum-us",
+        "text": "Depictions of Pokémon similar to Baltoy have\nbeen found on the walls of caves where\nprimitive humans lived."
+      },
+      {
+        "game": "usum-um",
+        "text": "When they find others of their kind, they cry\nout loudly and gather together. Large numbers\nof them can be found in old graveyards."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "It moves while spinning around on its single foot.\nSome Baltoy have been seen spinning on\ntheir heads."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "It was discovered in ancient ruins. While moving,\nit constantly spins. It stands on one foot even\nwhen asleep."
+      }
+    ]
+  },
+  "chs": {
+    "name": "天秤偶",
+    "genus": "泥偶宝可梦",
+    "flavorText": [
+      {
+        "game": "usum-us",
+        "text": "在原始人所居住的洞穴墙壁上，\n描绘着像是天秤偶的宝可梦的样子。"
+      },
+      {
+        "game": "usum-um",
+        "text": "如果发现了伙伴，\n就会吵吵闹闹地叫唤着聚集。\n会大量出现在古代的墓地里。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "会用单脚旋转着移动。\n也能看到颠倒过来旋转的天秤偶。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "在古代遗迹被发现。\n会一边旋转一边移动。\n晚上睡觉的时候也是单脚站着。"
+      }
+    ]
+  }
+}

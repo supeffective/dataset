@@ -1,0 +1,293 @@
+{
+  "jap": {
+    "name": "ロズレイド",
+    "genus": "ブーケポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "あまい　かおりで　えものを　さそい\nりょううでの　どくのムチを　つかって\nさしたり　しめたりして　しとめる。"
+      },
+      {
+        "game": "xy-y",
+        "text": "ダンサーのような　みのこなしで\nどくの　トゲが　びっしりと　ならんだ\nムチを　あやつり　こうげきする。"
+      },
+      {
+        "game": "oras-or",
+        "text": "あまい　かおりで　えものを　さそい\nりょううでの　どくのムチを　つかって\nさしたり　しめたりして　しとめる。"
+      },
+      {
+        "game": "oras-as",
+        "text": "ダンサーのような　みのこなしで\nどくの　トゲが　びっしりと　ならんだ\nムチを　あやつり　こうげきする。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "かぐわしい　はなの　かおりで\nあいてを　まどわせ　いばらの\nムチで　はげしく　うちつける。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "みぎての　どくは　そっこうせい。\nひだりての　どくは　ちこうせい。\nどちらも　いのちに　かかわるぞ。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Roserade",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "로즈레이드",
+    "genus": "부케포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "달콤한 향기로 먹이를 유인해\n양팔의 독 채찍을 사용하여\n찌르거나 조여서 꼼짝 못하게 한다."
+      },
+      {
+        "game": "xy-y",
+        "text": "댄서 같은 재빠른 몸놀림으로\n독가시가 빽빽이 늘어선\n채찍을 조종하여 공격한다."
+      },
+      {
+        "game": "oras-or",
+        "text": "달콤한 향기로 먹이를 유인해\n양팔의 독 채찍을 사용하여\n찌르거나 조여서 꼼짝 못하게 한다."
+      },
+      {
+        "game": "oras-as",
+        "text": "댄서 같은 재빠른 몸놀림으로\n독가시가 빽빽이 늘어선\n채찍을 조종하여 공격한다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "향긋한 꽃향기로\n상대를 혼란스럽게 한 다음\n가시 채찍으로 세차게 때린다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "오른손의 독은 즉효성이고\n왼손의 독은 지효성을 띠고 있다.\n양쪽 모두 생명에 지장을 준다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "羅絲雷朵",
+    "genus": "花束寶可夢",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "會用馥郁芬芳的花香\n迷惑敵人，並用荊棘上\n的鞭子猛力抽打對方。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "右手的毒是速效的，\n左手的毒則是慢性的。\n無論哪邊的毒性都能致命。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Roserade",
+    "genus": "Pokémon Bouquet",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Ses mains contenant chacune des\ntoxines différentes sont capables\nd’asséner de puissants coups."
+      },
+      {
+        "game": "bw-w",
+        "text": "Ses mains contenant chacune des\ntoxines différentes sont capables\nd’asséner de puissants coups."
+      },
+      {
+        "game": "xy-x",
+        "text": "Il attire ses proies grâce à son parfum, puis les\nempoisonne ou les étouffe à l’aide de ses bras\nvénéneux."
+      },
+      {
+        "game": "xy-y",
+        "text": "Gracieux comme un danseur, il abat ses fouets ornés\nd’épines empoisonnées."
+      },
+      {
+        "game": "oras-or",
+        "text": "Il attire ses proies grâce à son parfum, puis les empoisonne\nou les étouffe à l’aide de ses bras vénéneux."
+      },
+      {
+        "game": "oras-as",
+        "text": "Gracieux comme un danseur, il abat ses fouets ornés\nd’épines empoisonnées."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Après avoir troublé les sens de ses adversaires\navec le parfum exquis de ses fleurs, il les frappe\nviolemment avec ses fouets ornés d’épines."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Sa main gauche administre un poison lent,\net la droite, un poison foudroyant.\nLes deux peuvent être fatals."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Roserade",
+    "genus": "Blumenstrauß-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Es lockt seine Beute mit süßem Duft an, um sie\ndanach mit seinen dornigen Ranken zu peitschen\noder zu würgen."
+      },
+      {
+        "game": "xy-y",
+        "text": "Mit den Bewegungen eines Tänzers holt es aus und\nschlägt mit Ranken um sich, die giftige Dornen haben."
+      },
+      {
+        "game": "oras-or",
+        "text": "Es lockt seine Beute mit süßem Duft an, um sie danach mit\nseinen dornigen Ranken zu peitschen oder zu würgen."
+      },
+      {
+        "game": "oras-as",
+        "text": "Mit den Bewegungen eines Tänzers holt es aus und\nschlägt mit Ranken um sich, die giftige Dornen haben."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Mit dem süßlichen Duft seiner Blüten betört es\nseine Gegner, bevor es sie mit dornigen Ranken\nheftig auspeitscht."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Das Gift aus seiner rechten Hand wirkt sofort,\ndas aus seiner linken langsam. Beide Gifte\nkönnen tödlich sein."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Roserade",
+    "genus": "Pokémon Ramillete",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Atrae a sus presas con una dulce fragancia y usa sus\ncepas venenosas para atenazarlas y acabar con ellas."
+      },
+      {
+        "game": "xy-y",
+        "text": "Se mueve como un bailarín y golpea con látigos\nrepletos de púas venenosas."
+      },
+      {
+        "game": "oras-or",
+        "text": "Atrae a sus presas con una dulce fragancia y usa sus cepas\nvenenosas para atenazarlas y acabar con ellas."
+      },
+      {
+        "game": "oras-as",
+        "text": "Se mueve como un bailarín y golpea con látigos repletos de\npúas venenosas."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Aturde a los rivales con la fragancia de sus flores\npara luego azotarlos sin piedad con sus cepas\nespinosas."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Las toxinas de la mano derecha son de efecto\ninmediato, y las de la izquierda, retardado. No\nobstante, ambas pueden ser letales."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Roserade",
+    "genus": "Pokémon Floreale",
+    "flavorText": [
+      {
+        "game": "xy-y",
+        "text": "Con i movimenti di una ballerina, colpisce con le\nfruste, piene di spine velenose."
+      },
+      {
+        "game": "xy-x",
+        "text": "Attira la preda con il suo profumo soave per poi\nafferrarla e abbatterla con gli arti velenosi."
+      },
+      {
+        "game": "oras-or",
+        "text": "Attira la preda con il suo profumo soave per poi afferrarla\ne abbatterla con gli arti velenosi."
+      },
+      {
+        "game": "oras-as",
+        "text": "Con i movimenti di una ballerina, colpisce con le fruste, piene\ndi spine velenose."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Stordisce l’avversario con il profumo intenso\ndei suoi fiori e lo colpisce con le sue fruste\npiene di spine."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Il veleno nel bouquet destro ha effetto\nistantaneo, quello nel sinistro ha effetto\nritardato. Entrambi possono essere letali."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Roserade",
+    "genus": "Bouquet Pokémon",
+    "flavorText": [
+      {
+        "game": "dp-d",
+        "text": "It attracts prey with a sweet\naroma, then downs it with\nthorny whips hidden in its arms."
+      },
+      {
+        "game": "dp-p",
+        "text": "With the movements of a dancer,\nit strikes with whips that are\ndensely lined with poison thorns."
+      },
+      {
+        "game": "pt",
+        "text": "Each of its hands contains\ndifferent toxins, but both hands\ncan jab with near-fatal power."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "Its sweet aroma attracts prey.\nThen it spews poison. The more\ntoxic it is, the sweeter its aroma."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "Its sweet aroma attracts prey.\nThen it spews poison. The more\ntoxic it is, the sweeter its aroma."
+      },
+      {
+        "game": "bw-b",
+        "text": "Each of its hands contains\ndifferent toxins, but both hands\ncan jab with near-fatal power."
+      },
+      {
+        "game": "bw-w",
+        "text": "Each of its hands contains\ndifferent toxins, but both hands\ncan jab with near-fatal power."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "Luring prey with a sweet scent, it\nuses poison whips on its arms\nto poison, bind, and finish off the prey."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "Luring prey with a sweet scent, it\nuses poison whips on its arms\nto poison, bind, and finish off the prey."
+      },
+      {
+        "game": "xy-x",
+        "text": "Luring prey with a sweet scent, it uses poison whips\non its arms to poison, bind, and finish off the prey."
+      },
+      {
+        "game": "xy-y",
+        "text": "With the movements of a dancer, it strikes with\nwhips that are densely lined with poison thorns."
+      },
+      {
+        "game": "oras-or",
+        "text": "Luring prey with a sweet scent, it uses poison whips\non its arms to poison, bind, and finish off the prey."
+      },
+      {
+        "game": "oras-as",
+        "text": "With the movements of a dancer, it strikes with\nwhips that are densely lined with poison thorns."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "After captivating opponents with its sweet scent,\nit lashes them with its thorny whips."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "The poison in its right hand is quick acting.\nThe poison in its left hand is slow acting.\nBoth are life threatening."
+      },
+      {
+        "game": "la",
+        "text": "Hidden within the bouquet on each hand are thorned whips\nloaded with virulent poison. Roserade moves gracefully as it\ncorners its prey and mercilessly lashes them with its whips."
+      }
+    ]
+  },
+  "chs": {
+    "name": "罗丝雷朵",
+    "genus": "花束宝可梦",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "会用馥郁芬芳的花香\n迷惑敌人，并用荆棘上\n的鞭子猛力抽打对方。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "右手的毒是速效的，\n左手的毒则是慢性的。\n无论哪边的毒性都能致命。"
+      }
+    ]
+  }
+}

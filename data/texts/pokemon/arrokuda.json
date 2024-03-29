@@ -1,0 +1,133 @@
+{
+  "jap": {
+    "name": "サシカマス",
+    "genus": "とつげきポケモン",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "するどく　とがった　あごが　じまん。\nすこしでも　うごくものを　みつけると\nいっちょくせんに　とつげきする。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "はらいっぱいで　きょくたんに\nうごきが　にぶった　ところを\nウッウに　まるのみに　される。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Sasikamasu",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "찌로꼬치",
+    "genus": "돌격포켓몬",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "날카롭고 뾰족한 턱을 자랑한다.\n조금이라도 움직이는 것을 발견하면\n일직선으로 돌격한다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "배가 불러서 현저히\n움직임이 둔해지면\n윽우지가 통째로 삼켜버린다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "刺梭魚",
+    "genus": "突擊寶可夢",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "尖銳的下巴是牠的驕傲。\n只要發現周圍有什麼小動作，\n就會一直線衝過去。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "吃飽了之後動作會變得\n極度遲緩，於是就被\n古月鳥整隻吞了下去。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Embrochet",
+    "genus": "Pokémon Fonceur",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Sa mâchoire fine et aiguisée fait sa fierté.\nÀ peine voit-il le moindre mouvement\nqu’il fonce dans sa direction."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Lorsqu’il a le ventre plein, il a beaucoup\nplus de mal à se déplacer, et c’est à ce moment\nprécis qu’il se fait gober par les Nigosier."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Pikuda",
+    "genus": "Rempler-Pokémon",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Sein spitz zulaufender Kiefer ist sein ganzer Stolz.\nErblickt es etwas, das sich auch nur ein bisschen\nbewegt, setzt es geradewegs zum Stoßangriff an."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Seine Bewegungsfreiheit ist stark eingeschränkt,\nwenn es vollgefressen ist. So wird es zu leichter\nBeute für Urgl, das es im Ganzen verschlingt."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Arrokuda",
+    "genus": "Pokémon Arremetida",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Se siente muy orgulloso de su afilada mandíbula.\nEn cuanto detecta el más mínimo movimiento,\nva directo al objetivo para cargar contra él."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Cuando tiene el estómago lleno, le cuesta\nmoverse y corre el riesgo de ser engullido por\nalgún Cramorant."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Arrokuda",
+    "genus": "Pokémon Carica",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Va orgoglioso della sua mandibola appuntita.\nAppena nota il minimo movimento, parte subito\nall’attacco."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Quando ha la pancia piena i suoi movimenti\nsi fanno estremamente lenti e rischia di finire\ninghiottito da un Cramorant."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Arrokuda",
+    "genus": "Rush Pokémon",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "If it sees any movement around it, this Pokémon\ncharges for it straightaway, leading with its\nsharply pointed jaw. It’s very proud of that jaw."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "After it’s eaten its fill, its movements become\nextremely sluggish. That’s when Cramorant\nswallows it up."
+      }
+    ]
+  },
+  "chs": {
+    "name": "刺梭鱼",
+    "genus": "突击宝可梦",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "尖锐的下巴是它的骄傲。\n只要发现周围有什么小动作，\n就会一直线冲过去。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "吃饱了之后动作会变得\n极度迟缓，于是就被\n古月鸟整只吞了下去。"
+      }
+    ]
+  }
+}

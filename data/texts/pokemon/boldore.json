@@ -1,0 +1,413 @@
+{
+  "jap": {
+    "name": "ガントル",
+    "genus": "こうせきポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "たいないに　おさまりきらずに\nもれだした　エネルギーが　かたまり\nオレンジいろの　けっしょうになった。"
+      },
+      {
+        "game": "xy-y",
+        "text": "げんきだと　コアが　とびだしてくる。\nからだの　むきを　かえることなく\nぜんごさゆうに　すばやく　うごける。"
+      },
+      {
+        "game": "oras-or",
+        "text": "たいないに　おさまりきらずに\nもれだした　エネルギーが　かたまり\nオレンジいろの　けっしょうになった。"
+      },
+      {
+        "game": "oras-as",
+        "text": "げんきだと　コアが　とびだしてくる。\nからだの　むきを　かえることなく\nぜんごさゆうに　すばやく　うごける。"
+      },
+      {
+        "game": "sm-s",
+        "text": "オレンジの　けっしょうは　エネルギーの\nかたまり。　ひとかけらで　ダンプカー\n１００だいぶんの　ねんりょうになる。"
+      },
+      {
+        "game": "sm-m",
+        "text": "どうくつで　ちかすいを　さがす。\nみずじたいは　とくいでは　ないので\nちびりちびりと　ゆっくり　なめる。"
+      },
+      {
+        "game": "usum-us",
+        "text": "からだから　あふれた　エネルギーが\nオレンジいろの　けっしょうになった。\nダイヤモンドも　くだく　かたさだぞ。"
+      },
+      {
+        "game": "usum-um",
+        "text": "オレンジの　けっしょうは　おおきな\nエネルギーの　かたまり。　かちが\nあるので　ねらわれることも　ある。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "オレンジいろの　けっしょうが\nひかりだしたら　きをつけろ。\nエネルギーを　うちだしてくるぞ。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "おとで　まわりの　ようすを　さぐる。\nおこらせると　からだの　むきを\nかえないまま　おってくる。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Gantle",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "암트르",
+    "genus": "광석포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "체내에서 처리되지 못하고\n빠져나온 에너지가 덩어리져서\n주황색 결정이 되었다."
+      },
+      {
+        "game": "xy-y",
+        "text": "기운이 넘치면 핵이 튀어나온다.\n몸의 방향을 바꾸지 않고\n전후좌우로 재빠르게 움직일 수 있다."
+      },
+      {
+        "game": "oras-or",
+        "text": "체내에서 처리되지 못하고\n빠져나온 에너지가 덩어리져서\n주황색 결정이 되었다."
+      },
+      {
+        "game": "oras-as",
+        "text": "기운이 넘치면 핵이 튀어나온다.\n몸의 방향을 바꾸지 않고\n전후좌우로 재빠르게 움직일 수 있다."
+      },
+      {
+        "game": "sm-s",
+        "text": "오렌지 결정은 에너지의\n덩어리다. 한 조각으로 덤프트럭\n100대분의 연료가 된다."
+      },
+      {
+        "game": "sm-m",
+        "text": "동굴에서 지하수를 찾는다.\n물 자체는 잘 마시지 못해서\n홀짝홀짝 천천히 핥는다."
+      },
+      {
+        "game": "usum-us",
+        "text": "몸에서 넘쳐흐르는 에너지가\n오렌지색 결정이 되었다.\n다이아몬드도 부술 정도로 견고하다."
+      },
+      {
+        "game": "usum-um",
+        "text": "오렌지색 결정은 큰\n에너지의 덩어리다. 가치가\n있어 노려지는 일도 있다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "오렌지색 결정이\n빛나기 시작하면 조심해야 한다.\n에너지를 쏘아대기 때문이다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "소리로 주위 상황을 살핀다.\n화나게 하면 몸의 방향을\n바꾸지 않은 채로 쫓아온다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "地幔岩",
+    "genus": "礦石寶可夢",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "橙色的結晶是能量塊。\n一塊結晶可提供１００輛\n大卡車所需的燃料。"
+      },
+      {
+        "game": "sm-m",
+        "text": "在洞窟裡尋找地下水。\n對水的抵抗力並不好，\n所以都是一點一點慢慢舔。"
+      },
+      {
+        "game": "usum-us",
+        "text": "從身體溢出的能量\n形成了橘色的結晶，\n硬度高到連鑽石都能敲碎。"
+      },
+      {
+        "game": "usum-um",
+        "text": "橘色的部分是大塊的\n能量結晶。因為很有價值，\n所以牠有時會被襲擊。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "橘色的結晶開始發光的時候，\n一定要特別小心，因為牠\n馬上就會射出能量。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "透過聲音來探測四周。\n要是惹牠生氣了，牠會連\n身體方向也不轉就朝你追來。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Géolithe",
+    "genus": "Pokémon Minerai",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Quand il est gonflé à bloc, ses cristaux\norangés scintillent. Il cherche de l’eau\nsouterraine dans les grottes."
+      },
+      {
+        "game": "bw-w",
+        "text": "L’énergie de son corps qu’il ne parvient\npas à retenir s’écoule à l’extérieur et\nforme des cristaux orangés."
+      },
+      {
+        "game": "xy-x",
+        "text": "L’énergie de son corps qu’il ne parvient pas à retenir\ns’écoule à l’extérieur et forme des cristaux orangés."
+      },
+      {
+        "game": "xy-y",
+        "text": "Quand il est en forme, son noyau devient visible.\nIl peut se déplacer dans toutes les directions sans\nse tourner."
+      },
+      {
+        "game": "oras-or",
+        "text": "L’énergie de son corps qu’il ne parvient pas à retenir s’écoule\nà l’extérieur et forme des cristaux orangés."
+      },
+      {
+        "game": "oras-as",
+        "text": "Quand il est en forme, son noyau devient visible. Il peut\nse déplacer dans toutes les directions sans se tourner."
+      },
+      {
+        "game": "sm-s",
+        "text": "Chaque cristal orangé sur son corps est\nun condensé d’énergie pouvant fournir\ndu carburant à une centaine de poids lourds."
+      },
+      {
+        "game": "sm-m",
+        "text": "Il explore les grottes à la recherche de nappes\nphréatiques. L’eau étant l’une de ses faiblesses,\nil ne peut la boire que par petites lapées."
+      },
+      {
+        "game": "usum-us",
+        "text": "L’énergie qui émane de son corps s’est\ntransformée en cristaux orangés suffisamment\ndurs pour briser le diamant."
+      },
+      {
+        "game": "usum-um",
+        "text": "Géolithe est parfois pris pour cible à cause\nde ses cristaux orangés de grande valeur,\nformés d’énergie condensée."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Mieux vaut rester sur ses gardes quand ses cristaux\norange se mettent à briller, car cela indique\nqu’il va déchaîner son énergie pour frapper."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Il sonde les environs grâce au son. Lorsqu’un\nimportun le met en colère, il se lance à sa\npoursuite sans changer l’orientation de son corps."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Sedimantur",
+    "genus": "Erz-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Energie, die ungehindert aus seinem Körper austrat,\nhat sich an ihm zu orangefarbenen Kristallen verfestigt."
+      },
+      {
+        "game": "xy-y",
+        "text": "Ist es guter Dinge, kommt sein Kern zum Vorschein.\nKann blitzschnell die Richtung ändern, ohne sich\numdrehen zu müssen."
+      },
+      {
+        "game": "oras-or",
+        "text": "Energie, die ungehindert aus seinem Körper austrat, hat sich\nan ihm zu orangefarbenen Kristallen verfestigt."
+      },
+      {
+        "game": "oras-as",
+        "text": "Ist es guter Dinge, kommt sein Kern zum Vorschein.\nKann blitzschnell die Richtung ändern, ohne sich\numdrehen zu müssen."
+      },
+      {
+        "game": "sm-s",
+        "text": "Bei seinen orangefarbenen Kristallen handelt es\nsich um verfestigte Energie. Bereits ein Splitter\nkönnte 100 Kipplastern als Treibstoff reichen."
+      },
+      {
+        "game": "sm-m",
+        "text": "Es sucht in Höhlen nach Grundwasser. Da es\nWasser nicht gut verträgt, leckt es dieses ganz\nbehutsam auf."
+      },
+      {
+        "game": "usum-us",
+        "text": "Energie, die aus seinem Körper austrat, hat sich\nzu orangefarbenen, harten Kristallen verfestigt.\nSie können sogar Diamanten zersplittern."
+      },
+      {
+        "game": "usum-um",
+        "text": "In den orangefarbenen Kristallen an seinem\nKörper sind große Mengen Energie gespeichert.\nDas macht sie wertvoll und heiß begehrt."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Wenn die orangen Kristalle anfangen zu leuchten,\nist Vorsicht vor spontanen Energieentladungen\ngeboten."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Es nimmt die Umgebung über akustische Reize\nwahr. Ärgerliche Störenfriede kann es verfolgen,\nohne sich ihnen zuwenden zu müssen."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Boldore",
+    "genus": "Pokémon Mineral",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "La energía que no puede contener en el interior de\nsu cuerpo se escapa formando cristales naranjas."
+      },
+      {
+        "game": "xy-y",
+        "text": "Si se encuentra bien, deja entrever su núcleo. Puede\ncambiar rápidamente la dirección en la que avanza sin\ngirarse."
+      },
+      {
+        "game": "oras-or",
+        "text": "La energía que no puede contener en el interior de su cuerpo\nse escapa formando cristales naranjas."
+      },
+      {
+        "game": "oras-as",
+        "text": "Si se encuentra bien, deja entrever su núcleo. Puede cambiar\nrápidamente la dirección en la que avanza sin girarse."
+      },
+      {
+        "game": "sm-s",
+        "text": "Los cristales naranjas de su cuerpo son energía\ncondensada. Uno solo puede suministrar\ncombustible para 100 camiones."
+      },
+      {
+        "game": "sm-m",
+        "text": "Busca lagos subterráneos en las cuevas. Como\nle cuesta asimilar el agua, tiene que beber\nlentamente a base de lametones."
+      },
+      {
+        "game": "usum-us",
+        "text": "La energía que desprende de su cuerpo termina\npor solidificarse en cristales anaranjados, tan\nduros que pueden quebrar hasta los diamantes."
+      },
+      {
+        "game": "usum-um",
+        "text": "Los cristales naranjas de su cuerpo son energía\ncondensada. El valor que poseen es tal que lo\nconvierten en un Pokémon muy codiciado."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Cuando sus cristales anaranjados comienzan a\nbrillar, conviene tener cuidado, pues es señal de\nque está a punto de liberar energía."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Se vale del sonido para percibir el entorno. Si\nalguien despierta su ira, lo perseguirá sin cambiar\nla orientación del cuerpo."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Boldore",
+    "genus": "Pokémon Minerale",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "L’energia sovrabbondante cerca sfogo all’esterno\ndel corpo e si solidifica formando cristalli di colore\narancione."
+      },
+      {
+        "game": "xy-y",
+        "text": "Se è in forma, il suo nucleo è visibile. Si sposta\nrapidamente nelle quattro direzioni senza cambiare\norientamento."
+      },
+      {
+        "game": "oras-or",
+        "text": "L’energia sovrabbondante cerca sfogo all’esterno del corpo\ne si solidifica formando cristalli di colore arancione."
+      },
+      {
+        "game": "oras-as",
+        "text": "Se è in forma, il suo nucleo è visibile. Si sposta rapidamente\nnelle quattro direzioni senza cambiare orientamento."
+      },
+      {
+        "game": "sm-s",
+        "text": "I cristalli arancioni sul suo corpo sono fatti\ndi energia condensata. Un unico frammento\npotrebbe fornire carburante a 100 camion."
+      },
+      {
+        "game": "sm-m",
+        "text": "Perlustra le grotte alla ricerca di falde\nsotterranee. Quando trova l’acqua, la lecca\npiano piano per poterla assorbire."
+      },
+      {
+        "game": "usum-us",
+        "text": "L’energia che fuoriesce dal suo corpo forma dei\ncristalli arancioni talmente duri da frantumare\nanche i diamanti."
+      },
+      {
+        "game": "usum-um",
+        "text": "È un Pokémon molto ambito per i preziosi\ncristalli arancioni che ha sul corpo, fatti di\nenergia condensata."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Quando i cristalli arancioni cominciano a brillare,\nè bene fare attenzione perché è segno che\nil Pokémon sta per emettere energia."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Perlustra la zona intorno a sé servendosi dei\nrumori. Se irritato, insegue chi lo ha importunato\nsenza cambiare orientamento del corpo."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Boldore",
+    "genus": "Ore Pokémon",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "When it overflows with power,\nthe orange crystal on its body glows.\nIt looks for underground water in caves."
+      },
+      {
+        "game": "bw-w",
+        "text": "Because its energy was too great to be\ncontained, the energy leaked and formed\norange crystals."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "When it is healthy, its core sticks out.\nAlways facing the same way, it swiftly\nmoves front to back and left to right."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "When it is healthy, its core sticks out.\nAlways facing the same way, it swiftly\nmoves front to back and left to right."
+      },
+      {
+        "game": "xy-x",
+        "text": "Because its energy was too great to be contained,\nthe energy leaked and formed orange crystals."
+      },
+      {
+        "game": "xy-y",
+        "text": "When it is healthy, its core sticks out. Always facing\nthe same way, it swiftly moves front to back and left\nto right."
+      },
+      {
+        "game": "oras-or",
+        "text": "Because its energy was too great to be contained,\nthe energy leaked and formed orange crystals."
+      },
+      {
+        "game": "oras-as",
+        "text": "When it is healthy, its core sticks out. Always facing\nthe same way, it swiftly moves front to back and left\nto right."
+      },
+      {
+        "game": "sm-s",
+        "text": "Its orange crystal is a mass of energy.\nJust one crystal fragment would provide\nenough fuel for a hundred dump trucks."
+      },
+      {
+        "game": "sm-m",
+        "text": "It explores caves in search of underground\nwater. It’s not comfortable around water, so\nthis Pokémon takes great care in lapping it up."
+      },
+      {
+        "game": "usum-us",
+        "text": "The energy overflowing from its body has\nturned into orange crystals that are hard\nenough to smash diamonds."
+      },
+      {
+        "game": "usum-um",
+        "text": "Its orange crystals are lumps of powerful\nenergy. They’re valuable, so Boldore is\nsometimes targeted for them."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "If you see its orange crystals start to glow, be\nwary. It’s about to fire off bursts of energy."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "It relies on sound in order to monitor what’s in its\nvicinity. When angered, it will attack without ever\nchanging the direction it’s facing."
+      }
+    ]
+  },
+  "chs": {
+    "name": "地幔岩",
+    "genus": "矿石宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "橙色的结晶是能量块。\n一块结晶可提供１００辆\n翻斗车所需的燃料。"
+      },
+      {
+        "game": "sm-m",
+        "text": "在洞窟里寻找地下水。\n对水本身不是很适应，\n所以都是一点点慢慢舔。"
+      },
+      {
+        "game": "usum-us",
+        "text": "从身体里溢出的能量\n变成了橙色的结晶。\n其硬度连钻石都能弄碎。"
+      },
+      {
+        "game": "usum-um",
+        "text": "橙色的结晶是大大的能量块。\n因为很有价值，\n所以有时会被袭击。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "橙色的结晶开始发光的时候，\n一定特别小心，因为它\n马上就会射出能量。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "通过声音来探测四周。\n要是惹它生气了，它会连\n身体方向也不转就朝你追来。"
+      }
+    ]
+  }
+}

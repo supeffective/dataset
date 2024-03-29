@@ -1,0 +1,277 @@
+{
+  "jap": {
+    "name": "コスモッグ",
+    "genus": "せいうんポケモン",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "はかない　ガスじょうの　からだ。\nたいきの　チリを　あつめながら\nゆっくりと　せいちょうしていく。"
+      },
+      {
+        "game": "sm-m",
+        "text": "おおむかしは　ほしのこ　という　なで\nよばれた。　べつせかいの　ポケモンと\nいわれているが　くわしくは　ふめい。"
+      },
+      {
+        "game": "usum-us",
+        "text": "たよりない　ガスじょうの　からだは\nちょっとの　かぜにも　ながされるが\nぜんぜん　きにして　いない　ようす。"
+      },
+      {
+        "game": "usum-um",
+        "text": "このせかいの　ポケモンかは　なぞ。\nピンチに　なると　ワープを　つかって\nあんぜんな　ばしょへ　みを　かくす。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "べつの　うちゅう　から　やってきた。\nガスの　からだは　とても　かるく\nそよかぜにも　ながされてしまうほど。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "むけいかいで　こうきしんが　つよく\nあぶない　めに　あうことも　おおい。\nピンチになると　ワープで　にげる。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Cosmog",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "코스모그",
+    "genus": "성운포켓몬",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "연약한 가스 상태의 몸이다.\n대기의 먼지를 모으며\n천천히 성장한다."
+      },
+      {
+        "game": "sm-m",
+        "text": "먼 옛날에는 별의 아이라는 이름으로\n불렸다. 다른 세계의 포켓몬이라고\n전해지지만 자세한 것은 불명확하다."
+      },
+      {
+        "game": "usum-us",
+        "text": "의지할 곳 없는 가스 상태의 몸은\n약한 바람에도 휩쓸리지만,\n전혀 신경 쓰지 않는 듯하다."
+      },
+      {
+        "game": "usum-um",
+        "text": "이 세계의 포켓몬인지는 의문이다.\n위험해지면 워프를 사용해서\n안전한 장소에 몸을 숨긴다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "다른 우주에서 찾아왔다.\n가스로 된 몸은 매우 가벼워서\n산들바람에도 날아가 버릴 정도다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "경계심이 없고 호기심이 왕성해\n위험한 상황에 맞닥뜨리는 경우가 많다.\n위기에 처하면 워프해서 도망친다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "科斯莫古",
+    "genus": "星雲寶可夢",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "容易消逝的氣體狀身體。\n一邊收集大氣中的塵埃，\n一邊慢慢地成長著。"
+      },
+      {
+        "game": "sm-m",
+        "text": "在遙遠的過去被稱為星之子。\n據說是屬於其他世界的寶可夢，\n但具體情況不詳。"
+      },
+      {
+        "game": "usum-us",
+        "text": "不可靠的氣體狀身體\n只要稍微有點風就會被吹走，\n但牠看起來一點都不在意。"
+      },
+      {
+        "game": "usum-um",
+        "text": "是否是這個世界的寶可夢還是個謎。\n在遇到危險的時候會使用空間跳躍，\n躲到安全的地方去。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "來自其他的宇宙。\n氣體構成的身體十分輕盈，\n連微風都能把牠吹走。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "沒有警戒心且好奇心強，\n所以經常會遇到麻煩。\n危急時會用瞬間移動來逃跑。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Cosmog",
+    "genus": "Pokémon Nébuleuse",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "Son corps est composé d’un gaz très volatile.\nIl croît lentement, en accumulant les poussières\natmosphériques au gré de ses déplacements."
+      },
+      {
+        "game": "sm-m",
+        "text": "Jadis, on l’appelait l’enfant des étoiles.\nOn raconte qu’il viendrait d’un autre monde,\nmais rien n’est prouvé."
+      },
+      {
+        "game": "usum-us",
+        "text": "Son corps est composé d’un gaz très instable.\nIl se fait emporter par la moindre brise, mais\nn’a pas l’air de s’en soucier pour autant."
+      },
+      {
+        "game": "usum-um",
+        "text": "Nul ne sait s’il vient vraiment de ce monde.\nEn cas de danger, il se téléporte vers un endroit\nsûr pour s’y cacher."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Il vient d’un autre univers. Son corps gazeux\nest si léger que la moindre brise peut l’emporter."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "De nature curieuse et peu méfiante, il se retrouve\nsouvent dans des situations dangereuses.\nIl peut se téléporter en cas de danger."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Cosmog",
+    "genus": "Nebula-Pokémon",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "Sein Körper besteht aus flüchtigem Gas.\nEs wächst durch das Sammeln von Staub\naus der Luft."
+      },
+      {
+        "game": "sm-m",
+        "text": "Vor langer Zeit nannte man es „Kind der Sterne“.\nEs soll aus einer anderen Welt stammen, doch\nniemand weiß Genaueres darüber."
+      },
+      {
+        "game": "usum-us",
+        "text": "Da sein Körper aus Gas besteht, kann es schon\nvon einem leichten Luftzug weggeweht werden.\nAber das scheint ihm nichts auszumachen."
+      },
+      {
+        "game": "usum-um",
+        "text": "Es ist unklar, ob es aus dieser Welt stammt oder\nnicht. Wenn es in Gefahr ist, teleportiert es sich\nan einen sicheren Ort und versteckt sich."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Es stammt aus einem anderen Universum. Sein\nKörper aus Gas ist so leicht, dass es sogar von\neiner sanften Brise weggeweht wird."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Es ist sehr neugierig und handelt oft unüberlegt,\nweshalb es häufig in brenzlige Situationen gerät.\nWenn es in Gefahr ist, teleportiert es sich weg."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Cosmog",
+    "genus": "Pokémon Nebulosa",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "Su cuerpo se compone de una materia gaseosa\ninestable. Crece poco a poco al acumular las\nmotas de polvo que flotan en el aire."
+      },
+      {
+        "game": "sm-m",
+        "text": "En tiempos remotos recibía el nombre de Hijo\nde las estrellas. Cuentan que proviene de otro\nmundo, pero poco más se sabe al respecto."
+      },
+      {
+        "game": "usum-us",
+        "text": "Hasta la brisa más leve es capaz de arrastrar\nsu cuerpo, compuesto de una materia gaseosa\ninestable, pero no parece que eso le moleste."
+      },
+      {
+        "game": "usum-um",
+        "text": "No está claro si es un Pokémon de este mundo.\nCuando está en apuros, se teletransporta a un\nlugar seguro donde esconderse."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Proviene de otro mundo. Su cuerpo gaseoso es\ntan liviano que hasta la brisa más suave es capaz\nde arrastrarlo."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Su escasa prudencia y gran curiosidad lo llevan a\nmenudo a ponerse en peligro. En caso de apuro,\nse teletransporta para huir."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Cosmog",
+    "genus": "Pokémon Nebulosa",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "Il suo corpo è formato da un gas volatile.\nCresce lentamente accumulando il pulviscolo\npresente nell’atmosfera."
+      },
+      {
+        "game": "sm-m",
+        "text": "Nell’antichità era conosciuto con il nome di\n“Figlio delle stelle”. Si dice che provenga da\nun altro mondo, ma non vi sono certezze."
+      },
+      {
+        "game": "usum-us",
+        "text": "Il suo corpo è formato da un gas instabile.\nPotrebbe volare via al minimo soffio di vento,\nma non sembra preoccuparsene."
+      },
+      {
+        "game": "usum-um",
+        "text": "Non si sa se provenga da questo mondo.\nQuando è in pericolo, si teletrasporta in\nun luogo sicuro dove rimane nascosto."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Proviene da un altro universo. Il suo corpo fatto\ndi gas è talmente leggero che può volar via\nal minimo soffio di vento."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Dotato di un’indole ingenua e curiosa, si caccia\nspesso nei guai. Quando le cose si mettono male,\nscappa teletrasportandosi."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Cosmog",
+    "genus": "Nebula Pokémon",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "Its body is gaseous and frail. It slowly grows as\nit collects dust from the atmosphere."
+      },
+      {
+        "game": "sm-m",
+        "text": "In ages past, it was called the child of the stars.\nIt’s said to be a Pokémon from another world,\nbut no specific details are known."
+      },
+      {
+        "game": "usum-us",
+        "text": "Even though its helpless, gaseous body can be\nblown away by the slightest breeze, it doesn’t\nseem to care."
+      },
+      {
+        "game": "usum-um",
+        "text": "Whether or not it’s a Pokémon from this world\nis a mystery. When it’s in a jam, it warps away\nto a safe place to hide."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "This Pokémon came from another universe.\nIts gaseous body is so light that even a gentle\nbreeze can blow it away."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Cosmog is very curious but not very cautious,\noften placing itself in danger. If things start to\nlook dicey, it teleports away."
+      }
+    ]
+  },
+  "chs": {
+    "name": "科斯莫古",
+    "genus": "星云宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "容易消逝的气体状身体。\n一边收集大气的尘埃，\n一边慢慢地成长着。"
+      },
+      {
+        "game": "sm-m",
+        "text": "在遥远的过去被称呼为星之子。\n据说是其他世界的宝可梦，\n但具体情况不详。"
+      },
+      {
+        "game": "usum-us",
+        "text": "那不可靠的气体状身体\n只要稍微有点风就会被吹走，\n但却总是完全不在意的样子。"
+      },
+      {
+        "game": "usum-um",
+        "text": "是否是这个世界的宝可梦\n尚且是个谜。在遇到危机的时候\n会使用空间跳跃，隐身去安全的地方。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "来自其他的宇宙。\n气体构成的身体十分轻盈，\n连微风都能把它吹走。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "没有警戒心且好奇心强，\n所以经常会遇到麻烦。\n危急时会用瞬间移动来逃跑。"
+      }
+    ]
+  }
+}

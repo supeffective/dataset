@@ -1,0 +1,219 @@
+{
+  "jap": {
+    "name": "エムリット",
+    "genus": "かんじょうポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "かなしみの　くるしさと　よろこびの\nとうとさを　ひとびとに　おしえた。\nかんじょうのかみ　と　よばれている。"
+      },
+      {
+        "game": "xy-y",
+        "text": "みずうみの　そこで　ねむっているが\nたましいが　ぬけだして　すいめんを\nとびまわると　いわれている。"
+      },
+      {
+        "game": "oras-or",
+        "text": "かなしみの　くるしさと　よろこびの\nとうとさを　ひとびとに　おしえた。\nかんじょうのかみ　と　よばれている。"
+      },
+      {
+        "game": "oras-as",
+        "text": "みずうみの　そこで　ねむっているが\nたましいが　ぬけだして　すいめんを\nとびまわると　いわれている。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Emrit",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "엠라이트",
+    "genus": "감정포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "슬픔의 괴로움과 즐거움의 소중함을\n사람들에게 가르쳐 주었다.\n감정의 신이라 불리고 있다."
+      },
+      {
+        "game": "xy-y",
+        "text": "호수의 밑바닥에서 잠자고 있지만\n영혼이 빠져나가서 수면을\n날아다닌다고 전해진다."
+      },
+      {
+        "game": "oras-or",
+        "text": "슬픔의 괴로움과 즐거움의 소중함을\n사람들에게 가르쳐 주었다.\n감정의 신이라 불리고 있다."
+      },
+      {
+        "game": "oras-as",
+        "text": "호수의 밑바닥에서 잠자고 있지만\n영혼이 빠져나가서 수면을\n날아다닌다고 전해진다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "艾姆利多",
+    "genus": "感情寶可夢",
+    "flavorText": []
+  },
+  "fra": {
+    "name": "Créfollet",
+    "genus": "Pokémon Émotion",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Quand il prit son envol, les hommes\napprirent à ressentir la joie et la\npeine. L’émotion était née."
+      },
+      {
+        "game": "bw-w",
+        "text": "Quand il prit son envol, les hommes\napprirent à ressentir la joie et la\npeine. L’émotion était née."
+      },
+      {
+        "game": "xy-x",
+        "text": "On l’appelle « être de l’émotion ». Il enseigne aux\nhommes la beauté de la tristesse, la douleur et la\njoie."
+      },
+      {
+        "game": "xy-y",
+        "text": "Il dort au fond d’un lac. On dit que son esprit\nabandonne son corps pour voler à sa surface."
+      },
+      {
+        "game": "oras-or",
+        "text": "On l’appelle « être de l’émotion ». Il enseigne aux hommes\nla beauté de la tristesse, la douleur et la joie."
+      },
+      {
+        "game": "oras-as",
+        "text": "Il dort au fond d’un lac. On dit que son esprit abandonne\nson corps pour voler à sa surface."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Vesprit",
+    "genus": "Emotions-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "„Das fühlende Wesen“. Es lehrt die Menschen\ndie Ideale von Trauer, Schmerz und Freude."
+      },
+      {
+        "game": "xy-y",
+        "text": "Es schläft auf dem Grund eines Sees. Man sagt, sein\nGeist verlasse den Körper und fliege über den See."
+      },
+      {
+        "game": "oras-or",
+        "text": "„Das fühlende Wesen“. Es lehrt die Menschen die Ideale von\nTrauer, Schmerz und Freude."
+      },
+      {
+        "game": "oras-as",
+        "text": "Es schläft auf dem Grund eines Sees. Man sagt, sein Geist\nverlasse den Körper und fliege über den See."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Mesprit",
+    "genus": "Pokémon Sensorio",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Se le conoce como el Ser de la Emoción. Enseñó a los\nhumanos la nobleza del dolor y la alegría."
+      },
+      {
+        "game": "xy-y",
+        "text": "Duerme en el fondo de un lago. Se dice que su\nespíritu deja el cuerpo para volar sobre el agua."
+      },
+      {
+        "game": "oras-or",
+        "text": "Se le conoce como el Ser de la Emoción. Enseñó a los\nhumanos la nobleza del dolor y la alegría."
+      },
+      {
+        "game": "oras-as",
+        "text": "Duerme en el fondo de un lago. Se dice que su espíritu deja\nel cuerpo para volar sobre el agua."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Mesprit",
+    "genus": "Pokémon Emozione",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Detto “Essere delle emozioni”. Ha insegnato agli\nuomini la nobiltà di tristezza, gioia e dolore."
+      },
+      {
+        "game": "xy-y",
+        "text": "Dorme sul fondo di un lago. Si dice che il suo spirito\nabbandoni il corpo per volare in superficie."
+      },
+      {
+        "game": "oras-or",
+        "text": "Detto “Essere delle emozioni”. Ha insegnato agli uomini\nla nobiltà di tristezza, gioia e dolore."
+      },
+      {
+        "game": "oras-as",
+        "text": "Dorme sul fondo di un lago. Si dice che il suo spirito\nabbandoni il corpo per volare in superficie."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Mesprit",
+    "genus": "Emotion Pokémon",
+    "flavorText": [
+      {
+        "game": "dp-d",
+        "text": "Known as “The Being of Emotion.”\nIt taught humans the nobility of\nsorrow, pain, and joy."
+      },
+      {
+        "game": "dp-p",
+        "text": "It sleeps at the bottom of a lake.\nIts spirit is said to leave its body\nto fly on the lake’s surface."
+      },
+      {
+        "game": "pt",
+        "text": "When MESPRIT flew, people learned\nthe joy and sadness of living.\nIt was the birth of emotions."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "This Pokémon is said to have endowed\nthe human heart with emotions, such as\nsorrow and joy."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "This Pokémon is said to have endowed\nthe human heart with emotions, such as\nsorrow and joy."
+      },
+      {
+        "game": "bw-b",
+        "text": "When Mesprit flew, people learned\nthe joy and sadness of living.\nIt was the birth of emotions."
+      },
+      {
+        "game": "bw-w",
+        "text": "When Mesprit flew, people learned\nthe joy and sadness of living.\nIt was the birth of emotions."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "When Mesprit flew, people learned\nthe joy and sadness of living.\nIt was the birth of emotions."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "When Mesprit flew, people learned\nthe joy and sadness of living.\nIt was the birth of emotions."
+      },
+      {
+        "game": "xy-x",
+        "text": "Known as “The Being of Emotion.” It taught\nhumans the nobility of sorrow, pain, and joy."
+      },
+      {
+        "game": "xy-y",
+        "text": "It sleeps at the bottom of a lake. Its spirit is said to\nleave its body to fly on the lake’s surface."
+      },
+      {
+        "game": "oras-or",
+        "text": "Known as “The Being of Emotion.” It taught\nhumans the nobility of sorrow, pain, and joy."
+      },
+      {
+        "game": "oras-as",
+        "text": "It sleeps at the bottom of a lake. Its spirit is said to\nleave its body to fly on the lake’s surface."
+      },
+      {
+        "game": "la",
+        "text": "Known as the Being of Emotion. In legend, this Pokémon was\nfeared, as any who showed disrespect would have their\nemotions thrown into disarray."
+      }
+    ]
+  },
+  "chs": {
+    "name": "艾姆利多",
+    "genus": "感情宝可梦",
+    "flavorText": []
+  }
+}

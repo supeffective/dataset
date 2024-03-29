@@ -1,0 +1,239 @@
+{
+  "jap": {
+    "name": "カラサリス",
+    "genus": "さなぎポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "いとを　きのえだに　まきつけている。\nいとについた　あまみずを　のみながら\nしんかの　ときを　まっている。"
+      },
+      {
+        "game": "xy-y",
+        "text": "いとに　ついた　あさつゆを　のんで\nしんかの　ときを　まちつづける。\nかたい　マユが　こうげきを　ふせぐ。"
+      },
+      {
+        "game": "oras-or",
+        "text": "おちない　ように　いとを　えだに　まきつけて\nからだを　ささえながら　しんかを　まっている。\nちいさな　あなから　そとの　ようすを　うかがう。"
+      },
+      {
+        "game": "oras-as",
+        "text": "しんかするまで　なにも　たべずに　たえていると\nかんがえられていたが　どうやら　いとに　ついた\nあまみずで　かわきを　いやしているらしい。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Karasalis",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "실쿤",
+    "genus": "번데기포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "실을 나뭇가지에 휘감고 있다.\n실에 묻은 빗물을 마시며\n진화할 때를 기다리고 있다."
+      },
+      {
+        "game": "xy-y",
+        "text": "실에 묻은 아침 이슬을 마시고\n진화할 때를 기다린다.\n단단한 고치가 공격을 막는다."
+      },
+      {
+        "game": "oras-or",
+        "text": "떨어지지 않도록 실을 가지에 휘감아서\n몸을 지탱하며 진화를 기다리고 있다.\n작은 구멍을 통해 밖의 상황을 살핀다."
+      },
+      {
+        "game": "oras-as",
+        "text": "진화할 때까지 아무것도 먹지 않고 참는 것으로\n여겨져 왔으나 아무래도 실에 맺힌\n빗방울로 갈증을 푸는 것 같다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "甲殼繭",
+    "genus": "蛹寶可夢",
+    "flavorText": []
+  },
+  "fra": {
+    "name": "Armulys",
+    "genus": "Pokémon Cocon",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Il attend d’évoluer dans son cocon\nde soie accroché aux branches et\nse nourrit d’eau de pluie."
+      },
+      {
+        "game": "bw-w",
+        "text": "Il attend d’évoluer dans son cocon\nde soie accroché aux branches et\nse nourrit d’eau de pluie."
+      },
+      {
+        "game": "xy-x",
+        "text": "Il attend d’évoluer dans son cocon de soie accroché\naux branches et se nourrit d’eau de pluie."
+      },
+      {
+        "game": "xy-y",
+        "text": "Il boit la rosée récoltée par sa soie en attendant\nd’évoluer. Il est à l’abri dans son robuste cocon."
+      },
+      {
+        "game": "oras-or",
+        "text": "Armulys s’accroche à une branche d’arbre avec de la soie\npour éviter de tomber. Ce Pokémon y reste tranquillement\nen attendant son évolution. Il regarde l’extérieur à travers\ndeux petits trous dans son cocon de soie."
+      },
+      {
+        "game": "oras-as",
+        "text": "On pensait qu’Armulys pouvait résister à la faim et ne\nconsommait rien avant son évolution. On sait maintenant\nque ce Pokémon étanche sa soif en récupérant l’eau\nde pluie déposée sur sa soie."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Schaloko",
+    "genus": "Kokon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Es bindet sich mit Seide an Äste und trinkt\nRegenwasser, während es starr auf seine\nEntwicklung wartet."
+      },
+      {
+        "game": "xy-y",
+        "text": "Es trinkt den Tau, der sich in der Seide fängt, und\nwartet auf seine Entwicklung. Sein Kokon schützt es."
+      },
+      {
+        "game": "oras-or",
+        "text": "Schaloko bindet sich mit einem Seidenfaden an einen Ast.\nEs baumelt dort und wartet auf seine Entwicklung. Durch zwei\nkleine Löcher in seinem Seidenkokon lugt es heraus."
+      },
+      {
+        "game": "oras-as",
+        "text": "Bisher nahm man an, dass Schaloko vor seiner Entwicklung\nhungert und überhaupt nichts zu sich nimmt. Nun aber wird\nbehauptet, dass es seinen Durst mit Regenwasser löscht,\ndas sich auf seiner seidigen Hülle sammelt."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Silcoon",
+    "genus": "Pokémon Capullo",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Se agarra con su seda a las ramas de un árbol y\nespera su evolución bebiendo agua de lluvia."
+      },
+      {
+        "game": "xy-y",
+        "text": "Bebe el rocío que recoge con su seda mientras espera\nevolucionar. Se defiende en su capullo."
+      },
+      {
+        "game": "oras-or",
+        "text": "Silcoon usa la seda que produce para aferrarse a la rama de un\nárbol y sujetarse bien. Se queda ahí colgado a la espera de su\nevolución, mientras lo observa todo a través de dos pequeños\nagujeros en su capullo de seda."
+      },
+      {
+        "game": "oras-as",
+        "text": "Se pensaba que Silcoon podía aguantar el hambre y no\nconsumir nada antes de evolucionar. Sin embargo, ahora se\ncree que sacia su sed bebiendo el agua de la lluvia que se le\nqueda sobre la seda del capullo."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Silcoon",
+    "genus": "Pokémon Bozzolo",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Si appende ai rami con fili di seta. Aspetta l’evoluzione\nbevendo l’acqua piovana che si posa sulla seta."
+      },
+      {
+        "game": "xy-y",
+        "text": "Beve la rugiada che si posa sulla seta e aspetta\nl’evoluzione. Il suo bozzolo duro respinge gli attacchi."
+      },
+      {
+        "game": "oras-or",
+        "text": "Silcoon si lega ai rami degli alberi grazie ad alcuni fili di seta\nche gli impediscono di cadere. In tale posizione aspetta\npazientemente l’evoluzione. Sbircia fuori dal proprio bozzolo\ndi seta attraverso piccoli fori."
+      },
+      {
+        "game": "oras-as",
+        "text": "In passato si pensava che Silcoon resistesse alla fame senza\ningerire nulla fino all’evoluzione. Tuttavia, ora si presume che\nil Pokémon plachi la sua sete bevendo l’acqua piovana che\nsi posa sul suo bozzolo."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Silcoon",
+    "genus": "Cocoon Pokémon",
+    "flavorText": [
+      {
+        "game": "rs-r",
+        "text": "SILCOON tethers itself to a tree branch\nusing silk to keep from falling. There, \nthis POKéMON hangs quietly while it\fawaits evolution.\nIt peers out of the silk cocoon through\na small hole."
+      },
+      {
+        "game": "rs-s",
+        "text": "SILCOON was thought to endure hunger\nand not consume anything before its\nevolution. However, it is now thought\fthat this POKéMON slakes its thirst by\ndrinking rainwater that collects on its\nsilk."
+      },
+      {
+        "game": "e",
+        "text": "It prepares for evolution using the\nenergy it stored while it was a WURMPLE.\nIt keeps watch over the surroundings with\nits two eyes."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "It conserves its energy by moving as\nlittle as possible. It awaits evolution\nwhile drinking only a little rainwater."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "It conserves its energy by moving as\nlittle as possible. It awaits evolution\nwhile drinking only a little rainwater."
+      },
+      {
+        "game": "dp-d",
+        "text": "It anchors itself by wrapping\ntwigs with the silk from its body.\nIt motionlessly awaits evolution."
+      },
+      {
+        "game": "dp-p",
+        "text": "It drinks dew that collects on its\nsilk and waits for evolution. Its\nhard cocoon repels attacks."
+      },
+      {
+        "game": "pt",
+        "text": "It wraps silk around the branches\nof a tree. It drinks rainwater on\nits silk while awaiting evolution."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "Having wrapped silk around the\nbranches of a tree, it quiescently\nawaits evolution."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "Having wrapped silk around the\nbranches of a tree, it quiescently\nawaits evolution."
+      },
+      {
+        "game": "bw-b",
+        "text": "It wraps silk around the branches\nof a tree. It drinks rainwater on\nits silk while awaiting evolution."
+      },
+      {
+        "game": "bw-w",
+        "text": "It wraps silk around the branches\nof a tree. It drinks rainwater on\nits silk while awaiting evolution."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "It wraps silk around the branches\nof a tree. It drinks rainwater on\nits silk while awaiting evolution."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "It wraps silk around the branches\nof a tree. It drinks rainwater on\nits silk while awaiting evolution."
+      },
+      {
+        "game": "xy-x",
+        "text": "It wraps silk around the branches of a tree. It drinks\nrainwater on its silk while awaiting evolution."
+      },
+      {
+        "game": "xy-y",
+        "text": "It drinks dew that collects on its silk and waits for\nevolution. Its hard cocoon repels attacks."
+      },
+      {
+        "game": "oras-or",
+        "text": "Silcoon tethers itself to a tree branch using silk to keep from\nfalling. There, this Pokémon hangs quietly while it awaits\nevolution. It peers out of the silk cocoon through a small hole."
+      },
+      {
+        "game": "oras-as",
+        "text": "Silcoon was thought to endure hunger and not consume\nanything before its evolution. However, it is now thought\nthat this Pokémon slakes its thirst by drinking rainwater\nthat collects on its silk."
+      },
+      {
+        "game": "la",
+        "text": "Wraps itself in thin strings of silk while it stores energy for\nevolution. It can't extend its limbs and its movement is slow,\nbut its eyes keep a sharp lookout—Silcoon is always on guard."
+      }
+    ]
+  },
+  "chs": {
+    "name": "甲壳茧",
+    "genus": "蛹宝可梦",
+    "flavorText": []
+  }
+}

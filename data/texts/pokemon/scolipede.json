@@ -1,0 +1,269 @@
+{
+  "jap": {
+    "name": "ペンドラー",
+    "genus": "メガムカデポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "えものを　くびのツメで　はさみこみ\nみうごきを　とれなくしてから\nもうどくを　あたえ　とどめを　さす。"
+      },
+      {
+        "game": "xy-y",
+        "text": "すばやい　うごきで　てきを　おいつめ\nあたまの　ツノで　こうげきする。\nとどめを　さすまで　ようしゃしない。"
+      },
+      {
+        "game": "oras-or",
+        "text": "えものを　くびのツメで　はさみこみ\nみうごきを　とれなくしてから\nもうどくを　あたえ　とどめを　さす。"
+      },
+      {
+        "game": "oras-as",
+        "text": "すばやい　うごきで　てきを　おいつめ\nあたまの　ツノで　こうげきする。\nとどめを　さすまで　ようしゃしない。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "くびのツメで　えものを　つかむと\nそのまま　じめんに　たたきつけ\nどくのトゲを　つきたてるぞ。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "なわばりを　めぐり　マルヤクデと\nはげしく　あらそう。　まけたほうは\nそのまま　えものに　なるのだ。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Pendror",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "펜드라",
+    "genus": "메가지네포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "먹이를 목의 가시에 끼워 넣어\n움직이지 못하게 한 후\n맹독을 퍼뜨려 마무리한다."
+      },
+      {
+        "game": "xy-y",
+        "text": "빠른 움직임으로 적을 바싹 몰아넣어\n머리의 뿔로 공격한다.\n마무리 지을 때까지 봐주지 않는다."
+      },
+      {
+        "game": "oras-or",
+        "text": "먹이를 목의 가시에 끼워 넣어\n움직이지 못하게 한 후\n맹독을 퍼뜨려 마무리한다."
+      },
+      {
+        "game": "oras-as",
+        "text": "빠른 움직임으로 적을 바싹 몰아넣어\n머리의 뿔로 공격한다.\n마무리 지을 때까지 봐주지 않는다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "목의 가시로 먹이를 잡은 채\n그대로 땅으로 내동댕이쳐서\n독가시를 꽂는다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "영역을 두고 다태우지네와\n격렬하게 다툰다. 패배한 쪽이\n그대로 먹이가 된다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "蜈蚣王",
+    "genus": "巨蜈蚣寶可夢",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "用頸部的爪子夾住獵物後，\n會直接將對方摔到地上，\n然後用毒刺戳下去。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "為了搶地盤，會和焚焰蚣\n激烈地爭鬥。輸掉的那一方\n會直接變成對手的獵物。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Brutapode",
+    "genus": "Pokémon Mégaplopode",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Il accule l’ennemi par ses mouvements\nrapides et l’attaque avec ses cornes.\nIl ne s’arrête qu’au coup de grâce."
+      },
+      {
+        "game": "bw-w",
+        "text": "Il inocule du poison à ses ennemis\npar les griffes de son cou.\nIl est extrêmement agressif."
+      },
+      {
+        "game": "xy-x",
+        "text": "Il paralyse l’ennemi avec les griffes de son cou avant\nde mettre fin au combat grâce à son poison virulent."
+      },
+      {
+        "game": "xy-y",
+        "text": "Il accule l’ennemi par ses mouvements rapides et\nl’attaque avec ses cornes. Il ne s’arrête qu’au coup\nde grâce."
+      },
+      {
+        "game": "oras-or",
+        "text": "Il paralyse l’ennemi avec les griffes de son cou avant\nde mettre fin au combat grâce à son poison virulent."
+      },
+      {
+        "game": "oras-as",
+        "text": "Il accule l’ennemi par ses mouvements rapides et l’attaque\navec ses cornes. Il ne s’arrête qu’au coup de grâce."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Après avoir saisi sa proie à l’aide des griffes\nde son cou, il la plaque au sol puis la transperce\navec ses épines empoisonnées."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Il défend son territoire avec acharnement contre\nson ennemi Scolocendre. Le perdant sert de dîner\nau vainqueur."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Cerapendra",
+    "genus": "Riesenfüßer-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Lähmt seine Beute, indem es sie mit den Zacken an\nseinem Hals aufspießt. Mit einer Ladung Gift gibt es\nihr den Rest."
+      },
+      {
+        "game": "xy-y",
+        "text": "Holt Gegner flinken Fußes ein und greift sie mit\nden Hörnern an seinem Kopf an. Gnade ist ihm\nein Fremdwort."
+      },
+      {
+        "game": "oras-or",
+        "text": "Lähmt seine Beute, indem es sie mit den Zacken an seinem\nHals aufspießt. Mit einer Ladung Gift gibt es ihr den Rest."
+      },
+      {
+        "game": "oras-as",
+        "text": "Holt Gegner flinken Fußes ein und greift sie mit den Hörnern\nan seinem Kopf an. Gnade ist ihm ein Fremdwort."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Kriegt es seine Beute mit den Krallen an seinem\nHals zu fassen, wirft es sie zu Boden und rammt\ndie giftigen Spitzen der Krallen in sie hinein."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Es liefert sich erbitterte Revierkämpfe mit\nInfernopod. Wer den Kampf verliert, wird zur\nBeute des Siegers."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Scolipede",
+    "genus": "Pokémon Megaciempiés",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Atenaza a sus presas con las garras que sobresalen de\nsu cuello hasta que no se pueden mover y las remata\ncon veneno."
+      },
+      {
+        "game": "xy-y",
+        "text": "Arrincona a sus rivales con rápidos movimientos y los\nensarta con sus cuernos. No se detiene hasta vencer."
+      },
+      {
+        "game": "oras-or",
+        "text": "Atenaza a sus presas con las garras que sobresalen de su\ncuello hasta que no se pueden mover y las remata con\nveneno."
+      },
+      {
+        "game": "oras-as",
+        "text": "Arrincona a sus rivales con rápidos movimientos y los ensarta\ncon sus cuernos. No se detiene hasta vencer."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Usa las garras que le sobresalen del cuello para\natrapar a su presa, golpearla contra el suelo y\nrematarla inoculando un potente veneno."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Las disputas territoriales con Centiskorch son\nextremadamente violentas. El perdedor se\nconvierte en la presa del ganador."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Scolipede",
+    "genus": "Pokémon Megapede",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Trafigge la preda con gli aculei del collo e dopo\naverla immobilizzata la finisce con le sue tossine."
+      },
+      {
+        "game": "xy-y",
+        "text": "Incalza la preda con movimenti rapidi e la attacca\nripetutamente con le corna. Non si ferma fino al\ncolpo di grazia."
+      },
+      {
+        "game": "oras-or",
+        "text": "Trafigge la preda con gli aculei del collo e dopo averla\nimmobilizzata la finisce con le sue tossine."
+      },
+      {
+        "game": "oras-as",
+        "text": "Incalza la preda con movimenti rapidi e la attacca\nripetutamente con le corna. Non si ferma fino al colpo\ndi grazia."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Sbatte a terra la preda afferrandola con gli artigli\ndel collo per poi infilzarla con le punte velenose."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Lotta ferocemente con Centiskorch per il\ncontrollo sul territorio. Il perdente diventa\npreda del vincitore."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Scolipede",
+    "genus": "Megapede Pokémon",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "With quick movements, it chases down\nits foes, attacking relentlessly with\nits horns until it prevails."
+      },
+      {
+        "game": "bw-w",
+        "text": "Highly aggressive, it uses the claws\nnear its neck to dig into its opponents\nand poison them."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "It clasps its prey with the claws\non its neck until it stops moving.\nThen it finishes it off with deadly poison."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "It clasps its prey with the claws\non its neck until it stops moving.\nThen it finishes it off with deadly poison."
+      },
+      {
+        "game": "xy-x",
+        "text": "It clasps its prey with the claws on its neck until it\nstops moving. Then it finishes it off with\ndeadly poison."
+      },
+      {
+        "game": "xy-y",
+        "text": "With quick movements, it chases down its foes,\nattacking relentlessly with its horns until it prevails."
+      },
+      {
+        "game": "oras-or",
+        "text": "It clasps its prey with the claws on its neck until it\nstops moving. Then it finishes it off with\ndeadly poison."
+      },
+      {
+        "game": "oras-as",
+        "text": "With quick movements, it chases down its foes,\nattacking relentlessly with its horns until it prevails."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Scolipede latches on to its prey with the claws on\nits neck before slamming them into the ground\nand jabbing them with its claws’ toxic spikes."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Scolipede engage in fierce territorial battles with\nCentiskorch. At the end of one of these battles,\nthe victor makes a meal of the loser."
+      }
+    ]
+  },
+  "chs": {
+    "name": "蜈蚣王",
+    "genus": "巨蜈蚣宝可梦",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "用颈部的爪子抓住猎物后，\n会直接将对方摔向地面，\n然后将带毒的尖刺猛戳进去。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "会和焚焰蚣激烈地争夺\n领地。输掉的那一方\n会成为另一方的猎物。"
+      }
+    ]
+  }
+}

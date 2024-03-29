@@ -1,0 +1,195 @@
+{
+  "jap": {
+    "name": "ゼブライカ",
+    "genus": "らいでんポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "はげしい　きしょうの　もちぬし。\nあらぶると　たてがみから　かみなりを\nしほうはっぽうに　ほうでんする。"
+      },
+      {
+        "game": "xy-y",
+        "text": "いなずまのような　しゅんぱつりょく。\nゼブライカが　ぜんそくりょくで\nはしると　らいめいが　ひびきわたる。"
+      },
+      {
+        "game": "oras-or",
+        "text": "はげしい　きしょうの　もちぬし。\nあらぶると　たてがみから　かみなりを\nしほうはっぽうに　ほうでんする。"
+      },
+      {
+        "game": "oras-as",
+        "text": "いなずまのような　しゅんぱつりょく。\nゼブライカが　ぜんそくりょくで\nはしると　らいめいが　ひびきわたる。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Zebraika",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "제브라이카",
+    "genus": "뇌전포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "격렬한 기질의 소유자.\n날뛰면 갈기에서 번개를\n사방팔방으로 방전한다."
+      },
+      {
+        "game": "xy-y",
+        "text": "천둥번개 같은 순발력을 가지고 있다.\n제브라이카가 전속력으로 달리면\n천둥소리가 울려 퍼진다."
+      },
+      {
+        "game": "oras-or",
+        "text": "격렬한 기질의 소유자.\n날뛰면 갈기에서 번개를\n사방팔방으로 방전한다."
+      },
+      {
+        "game": "oras-as",
+        "text": "천둥번개 같은 순발력을 가지고 있다.\n제브라이카가 전속력으로 달리면\n천둥소리가 울려 퍼진다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "雷電斑馬",
+    "genus": "雷電寶可夢",
+    "flavorText": []
+  },
+  "fra": {
+    "name": "Zéblitz",
+    "genus": "Pokémon Foudrélec",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Il réagit à la vitesse de l’éclair.\nLorsqu’il est en plein galop, on peut\nentendre le grondement du tonnerre."
+      },
+      {
+        "game": "bw-w",
+        "text": "Il est agressif et projette des charges\nélectriques dans toutes les directions\nquand il est en colère. Faites attention!"
+      },
+      {
+        "game": "xy-x",
+        "text": "De caractère violent, il envoie avec sa crinière des\narcs électriques de tous les côtés lorsqu’il se sent\nprovoqué."
+      },
+      {
+        "game": "xy-y",
+        "text": "Il réagit à la vitesse de l’éclair. Lorsqu’il est en plein\ngalop, on peut entendre le grondement du tonnerre."
+      },
+      {
+        "game": "oras-or",
+        "text": "De caractère violent, il envoie avec sa crinière des arcs\nélectriques de tous les côtés lorsqu’il se sent provoqué."
+      },
+      {
+        "game": "oras-as",
+        "text": "Il réagit à la vitesse de l’éclair. Lorsqu’il est en plein galop,\non peut entendre le grondement du tonnerre."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Zebritz",
+    "genus": "Donnerkeil",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Ein stürmischer Geselle. Wenn es wütend ist,\nfeuert es über seine Mähne in alle Richtungen\nStromsalven ab."
+      },
+      {
+        "game": "xy-y",
+        "text": "Es ist explosiv wie ein Blitz. Galoppiert es mit voller\nGeschwindigkeit drauflos, kann man Donnerhall\nvernehmen."
+      },
+      {
+        "game": "oras-or",
+        "text": "Ein stürmischer Geselle. Wenn es wütend ist, feuert es über\nseine Mähne in alle Richtungen Stromsalven ab."
+      },
+      {
+        "game": "oras-as",
+        "text": "Es ist explosiv wie ein Blitz. Galoppiert es mit voller\nGeschwindigkeit drauflos, kann man Donnerhall vernehmen."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Zebstrika",
+    "genus": "Pokémon Rayo",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Es un Pokémon con mucho temperamento. Cuando se\nenoja, lanza rayos desde su crin en todas direcciones."
+      },
+      {
+        "game": "xy-y",
+        "text": "Su velocidad se asemeja a la de un rayo. Si corre al\nmáximo, se dejan oír truenos por doquier."
+      },
+      {
+        "game": "oras-or",
+        "text": "Es un Pokémon con mucho temperamento. Cuando se enoja,\nlanza rayos desde su crin en todas direcciones."
+      },
+      {
+        "game": "oras-as",
+        "text": "Su velocidad se asemeja a la de un rayo. Si corre al máximo,\nse dejan oír truenos por doquier."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Zebstrika",
+    "genus": "Pokémon Saetta",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Ha un temperamento sanguigno. Quando si arrabbia\ndalla criniera lancia saette in ogni direzione."
+      },
+      {
+        "game": "xy-y",
+        "text": "È scattante come una saetta. Se corre alla massima\nvelocità, si sente un rimbombo di tuoni."
+      },
+      {
+        "game": "oras-or",
+        "text": "Ha un temperamento sanguigno. Quando si arrabbia dalla\ncriniera lancia saette in ogni direzione."
+      },
+      {
+        "game": "oras-as",
+        "text": "È scattante come una saetta. Se corre alla massima velocità,\nsi sente un rimbombo di tuoni."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Zebstrika",
+    "genus": "Thunderbolt Pokémon",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "They have lightning-like movements.\nWhen Zebstrika run at full speed,\nthe sound of thunder reverberates."
+      },
+      {
+        "game": "bw-w",
+        "text": "This ill-tempered Pokémon is dangerous\nbecause when it’s angry, it shoots\nlightning from its mane in all directions."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "When this ill-tempered Pokémon\nruns wild, it shoots lightning\nfrom its mane in all directions."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "When this ill-tempered Pokémon\nruns wild, it shoots lightning\nfrom its mane in all directions."
+      },
+      {
+        "game": "xy-x",
+        "text": "When this ill-tempered Pokémon runs wild, it\nshoots lightning from its mane in all directions."
+      },
+      {
+        "game": "xy-y",
+        "text": "They have lightning-like movements.\nWhen Zebstrika run at full speed, the sound of\nthunder reverberates."
+      },
+      {
+        "game": "oras-or",
+        "text": "When this ill-tempered Pokémon runs wild, it\nshoots lightning from its mane in all directions."
+      },
+      {
+        "game": "oras-as",
+        "text": "They have lightning-like movements.\nWhen Zebstrika run at full speed, the sound of\nthunder reverberates."
+      }
+    ]
+  },
+  "chs": {
+    "name": "雷电斑马",
+    "genus": "雷电宝可梦",
+    "flavorText": []
+  }
+}

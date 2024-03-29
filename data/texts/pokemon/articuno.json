@@ -1,0 +1,405 @@
+{
+  "jap": {
+    "name": "フリーザー",
+    "genus": "れいとうポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "でんせつの　とりポケモン。\nくうきちゅうの　すいぶんを　こおらせ\nふぶきを　つくりだすことが　できる。"
+      },
+      {
+        "game": "xy-y",
+        "text": "ゆきやまで　さむくて　しにそうなとき\nめのまえに　あらわれるといわれる\nでんせつの　れいとうポケモン。"
+      },
+      {
+        "game": "oras-or",
+        "text": "こおりを　あやつる　でんせつの　とりポケモン。\nはばたく　ことで　くうきを　つめたく　ひやすので\nフリーザーが　とぶと　ゆきが　ふると　いわれる。"
+      },
+      {
+        "game": "oras-as",
+        "text": "こおりを　あやつる　でんせつの　とりポケモン。\nはばたく　ことで　くうきを　つめたく　ひやすので\nフリーザーが　とぶと　ゆきが　ふると　いわれる。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "ふゆぞらの　くうきに　ふくまれる\nすいぶんを　こおらせて　ゆきを\nふらせる　でんせつの　とりポケモン。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "ふゆぞらの　くうきに　ふくまれる\nすいぶんを　こおらせて　ゆきを\nふらせる　でんせつの　とりポケモン。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "あおく　うつくしい　はねは　こおりで\nできていると　いわれている。　ながい\nおを　たなびかせ　ゆきやまを　とぶ。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "こおりを　じざいに　あやつる\nちからを　もつ。　えいきゅうとうどの\nゆきやまに　すんでいると　いう。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Freezer",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "프리져",
+    "genus": "냉동포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "전설의 새포켓몬이다.\n공기 중의 수분을 얼려\n눈보라를 만들어 낼 수 있다."
+      },
+      {
+        "game": "xy-y",
+        "text": "설산에서 추워 죽을 것 같을 때\n눈앞에 나타난다고 하는\n전설의 냉동포켓몬."
+      },
+      {
+        "game": "oras-or",
+        "text": "얼음을 조종하는 전설의 새포켓몬이다.\n날갯짓하면 공기가 차갑게 식기 때문에\n프리져가 날면 눈이 온다고 전해진다."
+      },
+      {
+        "game": "oras-as",
+        "text": "얼음을 조종하는 전설의 새포켓몬이다.\n날갯짓하면 공기가 차갑게 식기 때문에\n프리져가 날면 눈이 온다고 전해진다."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "겨울 하늘의 공기 중에 있는\n수분을 얼려서 눈을\n내리게 하는 전설의 새포켓몬."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "겨울 하늘의 공기 중에 있는\n수분을 얼려서 눈을\n내리게 하는 전설의 새포켓몬."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "푸르고 아름다운 날개는 얼음으로\n되어 있다고 전해진다. 긴 꼬리를\n나부끼며 설산 위를 난다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "얼음을 자유자재로 조종하는 힘을\n가졌다. 영구 동토의 설산에\n살고 있다고 한다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "急凍鳥",
+    "genus": "冰凍寶可夢",
+    "flavorText": [
+      {
+        "game": "lgpe-lgp",
+        "text": "傳說的鳥寶可夢。\n會讓冬天空中的空氣所含\n的水分凍結，降下雪花。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "傳說的鳥寶可夢。\n會讓冬天空中的空氣所含\n的水分凍結，降下雪花。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "藍色的美麗羽毛據說是\n由冰構成的。會搖曳著\n長長的尾巴飛過雪山。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "擁有能自在操縱冰的\n能力。據說是棲息在\n永凍之地的雪山中。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Artikodin",
+    "genus": "Pokémon Glaciaire",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Un Pokémon Oiseau légendaire.\nIl peut provoquer des blizzards\nen gelant l’humidité de l’air."
+      },
+      {
+        "game": "bw-w",
+        "text": "Un Pokémon Oiseau légendaire.\nIl peut provoquer des blizzards\nen gelant l’humidité de l’air."
+      },
+      {
+        "game": "xy-x",
+        "text": "Un Pokémon Oiseau légendaire. Il peut provoquer\ndes blizzards en gelant l’humidité de l’air."
+      },
+      {
+        "game": "xy-y",
+        "text": "Le légendaire oiseau des glaces. On dit qu’il apparaît\naux gens perdus dans les sommets."
+      },
+      {
+        "game": "oras-or",
+        "text": "Artikodin est un Pokémon Oiseau légendaire qui peut\ncontrôler la glace. Le battement de ses ailes gèle l’air\ntout autour de lui. C’est pourquoi on dit que lorsque\nce Pokémon vole, il va neiger."
+      },
+      {
+        "game": "oras-as",
+        "text": "Artikodin est un Pokémon Oiseau légendaire qui peut\ncontrôler la glace. Le battement de ses ailes gèle l’air\ntout autour de lui. C’est pourquoi on dit que lorsque\nce Pokémon vole, il va neiger."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Un Pokémon oiseau légendaire. L’hiver, il glace\nla vapeur d’eau contenue dans l’air pour faire\nde la neige."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Un Pokémon oiseau légendaire. L’hiver, il glace\nla vapeur d’eau contenue dans l’air pour faire\nde la neige."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "On raconte que ses belles plumes bleues sont\nfaites de glace. Sa longue queue flotte au vent\nlorsqu’il vole au-dessus des monts enneigés."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Il possède le pouvoir de contrôler la glace.\nSelon les dires, il vivrait sur les sommets\nrecouverts de neiges éternelles."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Arktos",
+    "genus": "Eis-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Ein Legendäres Vogel-Pokémon. Es kann Blizzards\nverursachen, indem es Feuchtigkeit gefriert."
+      },
+      {
+        "game": "xy-y",
+        "text": "Ein Legendäres Vogel-Pokémon, das angeblich\nin Gletschern verirrten Wanderern den Weg weist."
+      },
+      {
+        "game": "oras-or",
+        "text": "Arktos ist ein sagenumwobenes Vogel-Pokémon, das Eis\nmanipulieren kann. Das Schlagen seiner Flügel bringt die\nLuft zum Gefrieren. Es wird behauptet, dass es zu schneien\nbeginnt, wenn dieses Pokémon fliegt."
+      },
+      {
+        "game": "oras-as",
+        "text": "Arktos ist ein sagenumwobenes Vogel-Pokémon, das Eis\nmanipulieren kann. Das Schlagen seiner Flügel bringt die\nLuft zum Gefrieren. Man nimmt an, dass es zu schneien\nbeginnt, wenn dieses Pokémon fliegt."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Ein Legendäres Vogel-Pokémon, das im Winter\ndie Wasserpartikel in der Luft gefrieren lässt,\num Schnee zu erzeugen."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Ein Legendäres Vogel-Pokémon, das im Winter\ndie Wasserpartikel in der Luft gefrieren lässt,\num Schnee zu erzeugen."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Seine wunderschönen blauen Flügel sollen aus Eis\nbestehen. Es fliegt über schneebedeckte Berge,\nwährend sein langer Schweif hinter ihm flattert."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Arktos ist imstande, Eis zu manipulieren.\nMan sagt, es lebe in schneebedeckten Bergen,\nwo ewiger Winter herrscht."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Articuno",
+    "genus": "Pokémon Congelar",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Legendario Pokémon pájaro capaz de generar\nventiscas congelando la humedad del aire."
+      },
+      {
+        "game": "xy-y",
+        "text": "Es un legendario pájaro Pokémon. Se aparece a la\ngente que se ha perdido en las heladas montañas."
+      },
+      {
+        "game": "oras-or",
+        "text": "Articuno es un Pokémon pájaro legendario que puede\ncontrolar el hielo. El batir de sus alas congela el aire. Dicen\nque consigue hacer que nieve cuando vuela."
+      },
+      {
+        "game": "oras-as",
+        "text": "Articuno es un Pokémon pájaro legendario que puede\ncontrolar el hielo. El batir de sus alas congela el aire. Dicen\nque consigue hacer que nieve cuando vuela."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Un Pokémon pájaro legendario. En invierno,\ncrea nieve congelando la humedad del aire."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Un Pokémon pájaro legendario. En invierno,\ncrea nieve congelando la humedad del aire."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Se dice que sus bellas alas azules se componen\nde hielo. Vuela en torno a las montañas nevadas\ncon su larga cola al viento."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Posee el poder de controlar el hielo a su antojo.\nSe dice que este Pokémon habita en montañas\nde nieves perpetuas."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Articuno",
+    "genus": "Pokémon Gelo",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Un Pokémon uccello leggendario. Riesce a creare\nbufere di neve congelando l’umidità dell’aria."
+      },
+      {
+        "game": "xy-y",
+        "text": "Uccello leggendario, si dice appaia per atterrire chi\nsi smarrisce sui ghiacciai."
+      },
+      {
+        "game": "oras-or",
+        "text": "Articuno è un Pokémon uccello leggendario, perfettamente\na suo agio tra i ghiacci. Quando batte le ali, l’aria circostante\ndiventa gelida. Per questo motivo, quando nevica, si dice\nche sia passato di lì."
+      },
+      {
+        "game": "oras-as",
+        "text": "Articuno è un Pokémon uccello leggendario, perfettamente\na suo agio tra i ghiacci. Quando batte le ali, l’aria circostante\ndiventa gelida. Per questo motivo, quando nevica, si dice\nche sia passato di lì."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Questo Pokémon alato leggendario congela\nl’umidità contenuta nell’aria invernale e fa\ncadere la neve."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Questo Pokémon alato leggendario congela\nl’umidità contenuta nell’aria invernale e fa\ncadere la neve."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Si dice che le sue splendide ali azzurre siano\ncomposte di ghiaccio. Vola fra le montagne\ninnevate facendo ondeggiare la sua lunga coda."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "È in grado di controllare il ghiaccio a suo\npiacimento. Si dice che viva sulle montagne\ninnevate nelle aree coperte da permafrost."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Articuno",
+    "genus": "Freeze Pokémon",
+    "flavorText": [
+      {
+        "game": "rb-r",
+        "text": "A legendary bird\nPOKéMON that is\nsaid to appear to\fdoomed people who\nare lost in icy\nmountains."
+      },
+      {
+        "game": "rb-b",
+        "text": "A legendary bird\nPOKéMON that is\nsaid to appear to\fdoomed people who\nare lost in icy\nmountains."
+      },
+      {
+        "game": "y",
+        "text": "A legendary bird\nPOKéMON. It\nfreezes water\fthat is contained\nin winter air and\nmakes it snow."
+      },
+      {
+        "game": "gs-g",
+        "text": "The magnificent,\nseemingly translu­\ncent wings of this\flegendary bird\nPOKéMON are said\nto be made of ice."
+      },
+      {
+        "game": "gs-s",
+        "text": "One of the legen­\ndary bird POKéMON,\nit chills moisture\fin the atmosphere\nto create snow\nwhile flying."
+      },
+      {
+        "game": "c",
+        "text": "Legendary bird\nPOKéMON. As it\nflies through the\fsky, it cools the\nair, causing snow\nto fall."
+      },
+      {
+        "game": "rs-r",
+        "text": "ARTICUNO is a legendary bird POKéMON\nthat can control ice.\nThe flapping of its wings chills the air.\fAs a result, it is said that when this\nPOKéMON flies, snow will fall."
+      },
+      {
+        "game": "rs-s",
+        "text": "ARTICUNO is a legendary bird POKéMON\nthat can control ice.\nThe flapping of its wings chills the air.\fAs a result, it is said that when this\nPOKéMON flies, snow will fall."
+      },
+      {
+        "game": "e",
+        "text": "ARTICUNO is a legendary bird POKéMON that\ncan control ice. The flapping of its wings\nchills the air. As a result, it is said that\nwhen this POKéMON flies, snow will fall."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "One of the legendary bird POKéMON.\nWith its long tail trailing behind, its\nflying form is magnificent."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "A legendary bird POKéMON that is said to\nappear to doomed people who are lost in\nicy mountains."
+      },
+      {
+        "game": "dp-d",
+        "text": "A legendary bird Pokémon.\nIt can create blizzards by\nfreezing moisture in the air."
+      },
+      {
+        "game": "dp-p",
+        "text": "A legendary bird Pokémon.\nIt can create blizzards by\nfreezing moisture in the air."
+      },
+      {
+        "game": "pt",
+        "text": "A legendary bird Pokémon.\nIt can create blizzards by\nfreezing moisture in the air."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "The magnificent, seemingly translucent\nwings of this legendary bird Pokémon\nare said to be made of ice."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "One of the legendary bird Pokémon,\nit chills moisture in the atmosphere\nto create snow while flying."
+      },
+      {
+        "game": "bw-b",
+        "text": "A legendary bird Pokémon.\nIt can create blizzards by\nfreezing moisture in the air."
+      },
+      {
+        "game": "bw-w",
+        "text": "A legendary bird Pokémon.\nIt can create blizzards by\nfreezing moisture in the air."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "A legendary bird Pokémon.\nIt can create blizzards by\nfreezing moisture in the air."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "A legendary bird Pokémon.\nIt can create blizzards by\nfreezing moisture in the air."
+      },
+      {
+        "game": "xy-x",
+        "text": "A legendary bird Pokémon. It can create blizzards\nby freezing moisture in the air."
+      },
+      {
+        "game": "xy-y",
+        "text": "A legendary bird Pokémon that is said to appear to\ndoomed people who are lost in icy mountains."
+      },
+      {
+        "game": "oras-or",
+        "text": "Articuno is a legendary bird Pokémon that can control ice.\nThe flapping of its wings chills the air. As a result, it is said\nthat when this Pokémon flies, snow will fall."
+      },
+      {
+        "game": "oras-as",
+        "text": "Articuno is a legendary bird Pokémon that can control ice.\nThe flapping of its wings chills the air. As a result, it is said\nthat when this Pokémon flies, snow will fall."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "A legendary bird Pokémon. It freezes water\nthat is contained in winter air and makes it snow."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "A legendary bird Pokémon. It freezes water\nthat is contained in winter air and makes it snow."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "It’s said that this Pokémon’s beautiful blue wings\nare made of ice. Articuno flies over snowy\nmountains, its long tail fluttering along behind it."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "This Pokémon can control ice at will. Articuno\nis said to live in snowy mountains riddled\nwith permafrost."
+      }
+    ]
+  },
+  "chs": {
+    "name": "急冻鸟",
+    "genus": "冰冻宝可梦",
+    "flavorText": [
+      {
+        "game": "lgpe-lgp",
+        "text": "传说的鸟宝可梦。它能将\n冬日空中的空气中含有的\n水分冻结，降下雪花。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "传说的鸟宝可梦。它能将\n冬日空中的空气中含有的\n水分冻结，降下雪花。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "据说它那蓝色的美丽羽毛\n是由冰构成的。会飘曳着\n长尾巴飞过茫茫雪山。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "拥有能够自由操纵冰\n的能力。据说它栖息在\n永久冻土的雪山。"
+      }
+    ]
+  }
+}

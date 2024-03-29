@@ -1,0 +1,549 @@
+{
+  "jap": {
+    "name": "ヒトデマン",
+    "genus": "ほしがたポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "からだの　ちゅうしんで　ひかる\nコアが　あるかぎり　からだが\nちぎれても　さいせい　できる。"
+      },
+      {
+        "game": "xy-y",
+        "text": "うみべに　おおく　あらわれ\nよるになると　ちゅうしんが\nあかく　てんめつする。"
+      },
+      {
+        "game": "oras-or",
+        "text": "なつの　おわりごろ　よるに　すなはまへ　いくと\nコアと　よばれる　きかんを　あかく　ひからせた\nヒトデマンが　ほしの　ように　みえるよ。"
+      },
+      {
+        "game": "oras-as",
+        "text": "ちゅうしんの　あかい　コアを　てんめつさせて\nよぞらの　ほしと　こうしん　している　らしい。\nからだは　ちぎれても　じこさいせい　するぞ。"
+      },
+      {
+        "game": "sm-s",
+        "text": "うみべに　おおく　せいそく。\nよるに　なると　からだの　ちゅうしんが\nあやしく　あかく　かがやきだす。"
+      },
+      {
+        "game": "sm-m",
+        "text": "ネオラントなどに　かじられるが\nあかいコアが　あるかぎり　すぐに\nさいせいするので　きにしていない。"
+      },
+      {
+        "game": "usum-us",
+        "text": "ほしくずが　うみに　おちて\nヒトデマンに　なったのだ　という\nみんわが　かくちに　のこっている。"
+      },
+      {
+        "game": "usum-um",
+        "text": "いくら　きずついても　へいき。\nさいせいのうりょくが　たかいので\nはんにちぐらいで　もとに　もどるぞ。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "からだの　ちゅうしんぶぶん　さえ\nのこっていれば　どんなに　こまかく\nきられても　さいせいするという。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "からだの　ちゅうしんぶぶん　さえ\nのこっていれば　どんなに　こまかく\nきられても　さいせいするという。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "なつのおわりの　はまべに　いくと\nきそくてきな　リズムで　ひかる\nヒトデマンの　むれが　みられるよ。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "さかなポケモンに　ついばまれるが\nからだが　ちぎれても　すぐに\nさいせいするので　きにしない。　"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Hitodeman",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "별가사리",
+    "genus": "별포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "몸의 중심에서 빛나는\n핵이 있는 한 몸이\n찢겨나가도 재생할 수 있다."
+      },
+      {
+        "game": "xy-y",
+        "text": "해변에 많이 나타나며\n밤이 되면 가운데가\n빨갛게 깜박거린다."
+      },
+      {
+        "game": "oras-or",
+        "text": "여름이 끝날 무렵 밤에 모래 해변에 가면\n핵이라고 불리는 기관을 붉게 빛내는\n별가사리가 별처럼 보인다."
+      },
+      {
+        "game": "oras-as",
+        "text": "가운데에 있는 빨간 코어를 점멸시켜\n밤하늘의 별과 교신하는 것 같다.\n몸은 찢겨 나가더라도 스스로 재생한다."
+      },
+      {
+        "game": "sm-s",
+        "text": "해변에 많이 서식한다.\n밤이 되면 몸의 중심이\n이상하고 빨갛게 빛을 낸다."
+      },
+      {
+        "game": "sm-m",
+        "text": "네오라이트 등에게 물리지만\n빨간 핵이 있는 한 바로\n재생되므로 신경 쓰지 않는다."
+      },
+      {
+        "game": "usum-us",
+        "text": "무수한 별들이 바다로 떨어져\n별가사리가 되었다고 하는\n민화가 각지에 남아 있다."
+      },
+      {
+        "game": "usum-um",
+        "text": "아무리 상처를 입어도 문제없다.\n재생 능력이 높아서\n한나절이면 원래대로 돌아온다."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "몸의 중심 부분만\n남아 있으면 아무리 잘게\n잘려도 재생한다고 한다."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "몸의 중심 부분만\n남아 있으면 아무리 잘게\n잘려도 재생한다고 한다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "늦여름 해변에 가면\n규칙적인 리듬으로 빛나는\n별가사리의 무리를 볼 수 있다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "물고기포켓몬에게 물리곤 하지만\n몸이 찢겨도 금방 재생되기 때문에\n신경 쓰지 않는다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "海星星",
+    "genus": "星形寶可夢",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "大多在海邊棲息。\n夜幕降臨時，身體的正中\n會閃耀出怪異的紅色光芒。"
+      },
+      {
+        "game": "sm-m",
+        "text": "即使被霓虹魚之類的咬到，\n只要紅色的核心部分還在就會立刻再生，\n所以一點都不在意。"
+      },
+      {
+        "game": "usum-us",
+        "text": "在各地都流傳著\n星星落到海中之後變成了\n海星星的民間傳說。"
+      },
+      {
+        "game": "usum-um",
+        "text": "不管受多少傷都不怕。\n由於再生能力很強，\n只要半天左右就會復原。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "據說不管被切成多小塊，\n只要身體的中心部分還留著，\n就能重新長回來。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "據說不管被切成多小塊，\n只要身體的中心部分還留著，\n就能重新長回來。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "在夏天快結束時到海邊，\n就能看見成群的海星星\n有規律地一閃一閃發光。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "會被魚寶可夢啄食，但是\n即使身體被咬斷也能很快就\n再生，所以一點都不在意。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Stari",
+    "genus": "Pokémon Étoile",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Même amoché, son corps se régénère\ntant que le noyau rouge est intact.\nLe noyau s’illumine à minuit."
+      },
+      {
+        "game": "bw-w",
+        "text": "Même amoché, son corps se régénère\ntant que le noyau rouge est intact.\nLe noyau s’illumine à minuit."
+      },
+      {
+        "game": "xy-x",
+        "text": "Même si son corps est détruit, il peut se régénérer\naussi longtemps que son cœur est en bon état."
+      },
+      {
+        "game": "xy-y",
+        "text": "On peut voir des Stari en grand nombre près des\ncôtes. La nuit, le centre de son corps clignote\nd’une lumière rouge."
+      },
+      {
+        "game": "oras-or",
+        "text": "Au centre de Stari se trouve un organe rouge et brillant appelé\nle cœur. À la fin de l’été, sur les plages, les cœurs de ces\nPokémon brillent comme les étoiles dans le ciel."
+      },
+      {
+        "game": "oras-as",
+        "text": "Stari communique apparemment avec les étoiles dans\nle ciel en faisant clignoter son cœur rouge. Si des parties\nde son corps sont cassées, ce Pokémon les régénère."
+      },
+      {
+        "game": "sm-s",
+        "text": "Ce Pokémon vit en grand nombre au fond de\nla mer. À la nuit tombée, son cœur émet une\nétrange lumière rouge."
+      },
+      {
+        "game": "sm-m",
+        "text": "Même s’il se fait manger des bras par un\nLuminéon, il peut les régénérer tant que son\ncœur rouge est intact, aussi ne s’en fait-il pas."
+      },
+      {
+        "game": "usum-us",
+        "text": "Si l’on en croit une légende populaire, il serait\nné d’une pluie de poussière d’étoiles tombée\ndans la mer."
+      },
+      {
+        "game": "usum-um",
+        "text": "Étant capable de se régénérer en une demi-\njournée seulement, il ne craint aucune blessure."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Même découpé en mille morceaux, il peut\nrégénérer les parties de son corps tant que\nsa partie centrale reste indemne."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Même découpé en mille morceaux, il peut\nrégénérer les parties de son corps tant que\nsa partie centrale reste indemne."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Lorsqu’on se rend en bord de mer à la fin\nde l’été, on peut voir des groupes de Stari\nclignoter à un rythme régulier."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Il ne se soucie guère des Pokémon poissons\nqui viennent le grignoter, car même si son corps\nest déchiqueté, il se régénère aussitôt."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Sterndu",
+    "genus": "Sternform-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Auch wenn sein Körper nicht mehr intakt ist,\nkann es sich regenerieren, wenn der Kern leuchtet."
+      },
+      {
+        "game": "xy-y",
+        "text": "Es taucht in großer Anzahl an Ufern auf.\nNachts leuchtet der Kern in seiner Mitte rot auf."
+      },
+      {
+        "game": "oras-or",
+        "text": "In Sterndus Körpermitte befindet sich ein hellrot leuchtendes\nOrgan – sein Kern. Wenn du im Spätsommer an einen Strand\ngehst, sehen die leuchtenden Kerne dieser Pokémon aus wie\nSterne."
+      },
+      {
+        "game": "oras-as",
+        "text": "Sterndu kommuniziert mit den Sternen am Nachthimmel,\nindem es den roten Kern in seiner Körpermitte blinken lässt.\nWenn Teile seines Körpers beschädigt wurden, stellt es die\nfehlenden Teile selbst wieder her."
+      },
+      {
+        "game": "sm-s",
+        "text": "Es taucht in großer Zahl an Ufern auf.\nNachts erstrahlt der Kern in seiner Mitte\nin einem unheimlichen Rot."
+      },
+      {
+        "game": "sm-m",
+        "text": "Es wird ab und zu von Lumineon angeknabbert,\naber solange es seinen roten Kern hat, kann es\nden abgebissenen Teil sofort wiederherstellen."
+      },
+      {
+        "game": "usum-us",
+        "text": "Einer weitverbreiteten Volkssage zufolge ist\nSterndu aus Sternennebel entstanden, der ins\nMeer gefallen war."
+      },
+      {
+        "game": "usum-um",
+        "text": "Verletzungen machen diesem Pokémon nichts\naus. Dank seiner Regenerationsfähigkeit ist es\neinen halben Tag später schon wieder wie neu."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Selbst wenn es zerstückelt wird, kann es seinen\nKörper immer wieder regenerieren, solange sein\nKernstück unversehrt bleibt."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Selbst wenn es zerstückelt wird, kann es seinen\nKörper immer wieder regenerieren, solange sein\nKernstück unversehrt bleibt."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Bei spätsommerlichen Strandbesuchen kann man\nGruppen von Sterndu begegnen, deren Kerne in\ngleichmäßigem Rhythmus aufblinken."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Ihm macht es nichts aus, von Fisch-Pokémon\nangeknabbert zu werden, da sich sein Körper\nbei Verletzungen im Nu regeneriert."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Staryu",
+    "genus": "Pokémon Estrella",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Aunque sus brazos se rompan podrán regenerarse,\nsiempre y cuando su núcleo siga intacto."
+      },
+      {
+        "game": "xy-y",
+        "text": "Suele aparecer en grupos en la orilla de la playa. Por\nla noche, el órgano central que tiene brilla con una luz\nroja."
+      },
+      {
+        "game": "oras-or",
+        "text": "Staryu posee un órgano central, conocido como su núcleo,\nque brilla con una luz roja. A finales de verano, pueden verse\nen la playa los núcleos de estos Pokémon brillando como las\nestrellas del cielo."
+      },
+      {
+        "game": "oras-as",
+        "text": "Staryu parece comunicarse por la noche con las estrellas\nhaciendo brillar el núcleo rojo de su cuerpo. Si este Pokémon\nsufre algún daño en alguna zona de su cuerpo, la regenerará\nsin problema."
+      },
+      {
+        "game": "sm-s",
+        "text": "Suelen vivir en el mar, cerca de la costa. Por la\nnoche, su núcleo brilla con una misteriosa luz\nroja."
+      },
+      {
+        "game": "sm-m",
+        "text": "A veces recibe ataques de Lumineon y otros\nPokémon, pero puede regenerar cualquier parte\nde su cuerpo mientras su núcleo siga intacto."
+      },
+      {
+        "game": "usum-us",
+        "text": "Varias leyendas populares atribuyen su origen\na polvo de estrellas que se precipitó en la mar."
+      },
+      {
+        "game": "usum-um",
+        "text": "Puede sufrir graves heridas sin problema,\nya que sus notables facultades regenerativas\nle permiten recuperarse en apenas medio día."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Aunque haya perdido partes de su cuerpo, le\ncrecerán de nuevo siempre y cuando su parte\ncentral se mantenga intacta."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Aunque haya perdido partes de su cuerpo, le\ncrecerán de nuevo siempre y cuando su parte\ncentral se mantenga intacta."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "A finales de verano, se pueden ver grupos de\nStaryu en la orilla de la playa sincronizando el\nbrillo de sus núcleos a ritmo regular."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "No le importa que le mordisqueen el cuerpo los\nPokémon pez, ya que las partes desgarradas se\nregeneran casi al instante."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Staryu",
+    "genus": "Pokémon Stella",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Anche se il corpo è lacerato, continua a rigenerarsi\nfinché il nucleo ardente centrale rimane intatto."
+      },
+      {
+        "game": "xy-y",
+        "text": "Se ne trovano molti in riva al mare. Di notte, il nucleo\nal centro del corpo lampeggia di una luce rossa."
+      },
+      {
+        "game": "oras-or",
+        "text": "Al centro del corpo di Staryu è presente un nucleo che brilla\ndi un rosso intenso. In spiaggia, a fine estate, il nucleo\ndi questi Pokémon ha l’aspetto delle stelle nel firmamento."
+      },
+      {
+        "game": "oras-as",
+        "text": "Pare che la notte Staryu comunichi con le stelle facendo\nbrillare il suo nucleo rosso al centro del corpo. In caso di\nperdita di qualche appendice questo Pokémon riesce a\nrigenerarla senza problemi."
+      },
+      {
+        "game": "sm-s",
+        "text": "Gli Staryu vivono numerosi in riva al mare.\nDi notte, il nucleo al centro del corpo brilla\ndi una strana luce rossa."
+      },
+      {
+        "game": "sm-m",
+        "text": "Se gli capita di venire mangiucchiato da un\nLumineon, non si preoccupa, perché finché\nil nucleo rosso rimane intatto, può rigenerarsi."
+      },
+      {
+        "game": "usum-us",
+        "text": "In molti luoghi è ancora diffusa la credenza\nche gli Staryu nascano da polvere di stelle\ncaduta in fondo al mare."
+      },
+      {
+        "game": "usum-um",
+        "text": "Le ferite non sono un problema per Staryu:\ngrazie alle sue eccellenti capacità rigenerative,\ntorna intero in mezza giornata."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Si dice che Staryu possa rigenerarsi anche dopo\nessere stato fatto a pezzetti, purché il suo centro\nsia rimasto intatto."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Si dice che Staryu possa rigenerarsi anche dopo\nessere stato fatto a pezzetti, purché il suo centro\nsia rimasto intatto."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Alla fine dell’estate, sui litorali è possibile\nosservare gruppi di Staryu che emettono luce\na un ritmo regolare."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Viene mangiucchiato dai Pokémon acquatici,\nma non ci dà peso, perché le parti danneggiate\ndel suo corpo si rigenerano subito."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Staryu",
+    "genus": "Star Shape Pokémon",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "If its body is torn, it can grow\nback if the red core remains.\nThe core flashes at midnight."
+      },
+      {
+        "game": "rb-r",
+        "text": "An enigmatic\nPOKéMON that can\neffortlessly\fregenerate any\nappendage it\nloses in battle."
+      },
+      {
+        "game": "rb-b",
+        "text": "An enigmatic\nPOKéMON that can\neffortlessly\fregenerate any\nappendage it\nloses in battle."
+      },
+      {
+        "game": "y",
+        "text": "As long as the\ncenter section is\nunharmed, it can\fgrow back fully\neven if it is\nchopped to bits."
+      },
+      {
+        "game": "gs-g",
+        "text": "At night, the cen­\nter of its body\nslowly flickers\fwith the same\nrhythm as a human\nheartbeat."
+      },
+      {
+        "game": "gs-s",
+        "text": "Even if its body\nis torn, it can\nregenerate as long\fas the glowing\ncentral core re­\nmains intact."
+      },
+      {
+        "game": "c",
+        "text": "When the stars\ntwinkle at night,\nit floats up from\fthe sea floor, and\nits body's center\ncore flickers."
+      },
+      {
+        "game": "rs-r",
+        "text": "STARYU’s center section has an organ\ncalled the core that shines bright red.\nIf you go to a beach toward the\fend of summer, the glowing cores of\nthese POKéMON look like the stars\nin the sky."
+      },
+      {
+        "game": "rs-s",
+        "text": "STARYU apparently communicates with\nthe stars in the night sky by flashing\nthe red core at the center of its body.\fIf parts of its body are torn, this\nPOKéMON simply regenerates the\nmissing pieces and limbs."
+      },
+      {
+        "game": "e",
+        "text": "It gathers with others in the night and\nmakes its red core glow on and off with\nthe twinkling stars. It can regenerate\nlimbs if they are severed from its body."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "It appears in large numbers by seashores.\nAt night, its central core flashes with a\nred light."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "An enigmatic POKéMON that can effortlessly\nregenerate any appendage it loses in\nbattle."
+      },
+      {
+        "game": "dp-d",
+        "text": "If its body is torn, it can grow\nback if the red core remains.\nThe core flashes at midnight."
+      },
+      {
+        "game": "dp-p",
+        "text": "If its body is torn, it can grow\nback if the red core remains.\nThe core flashes at midnight."
+      },
+      {
+        "game": "pt",
+        "text": "If its body is torn, it can grow\nback if the red core remains.\nThe core flashes at midnight."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "At night, the middle of its body\nslowly flickers with the same\nrhythm as a human heartbeat."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "Even if its body is torn, it can\nregenerate as long as the glowing\ncentral core remains intact."
+      },
+      {
+        "game": "bw-w",
+        "text": "If its body is torn, it can grow\nback if the red core remains.\nThe core flashes at midnight."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "As long as its red core remains,\nit can regenerate its body instantly,\neven if it’s torn apart."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "As long as its red core remains,\nit can regenerate its body instantly,\neven if it’s torn apart."
+      },
+      {
+        "game": "xy-x",
+        "text": "Even if its body is torn, it can regenerate as long as\nthe glowing central core remains intact."
+      },
+      {
+        "game": "xy-y",
+        "text": "It appears in large numbers by seashores. At night,\nits central core flashes with a red light."
+      },
+      {
+        "game": "oras-or",
+        "text": "Staryu’s center section has an organ called the core that\nshines bright red. If you go to a beach toward the end of\nsummer, the glowing cores of these Pokémon look like the\nstars in the sky."
+      },
+      {
+        "game": "oras-as",
+        "text": "Staryu apparently communicates with the stars in the night sky\nby flashing the red core at the center of its body. If parts of its\nbody are torn, this Pokémon simply regenerates the missing\npieces and limbs."
+      },
+      {
+        "game": "sm-s",
+        "text": "Large numbers of these Pokémon make their\nhome at the seaside. At night, a strange red\nglow radiates from the center of their bodies."
+      },
+      {
+        "game": "sm-m",
+        "text": "This Pokémon gets nibbled on by Lumineon and\nothers. Thanks to its red core, it regenerates\nfast, so it’s unconcerned by their snack attacks."
+      },
+      {
+        "game": "usum-us",
+        "text": "In many places, there are folktales of stardust\nfalling into the ocean and becoming Staryu."
+      },
+      {
+        "game": "usum-um",
+        "text": "No number of injuries can bother Staryu. Its\namazing regenerative powers return it to its\nprevious state in half a day!"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "As long as the center section is unharmed,\nthis Pokémon can grow back fully even if it is\nchopped to bits."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "As long as the center section is unharmed,\nthis Pokémon can grow back fully even if it is\nchopped to bits."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "If you visit a beach at the end of summer, you’ll\nbe able to see groups of Staryu lighting up in a\nsteady rhythm."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Fish Pokémon nibble at it, but Staryu isn’t\nbothered. Its body regenerates quickly, even\nif part of it is completely torn off."
+      }
+    ]
+  },
+  "chs": {
+    "name": "海星星",
+    "genus": "星形宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "大多在海边栖息。\n夜幕降临时，身体的正中\n会闪耀出怪异的红色。"
+      },
+      {
+        "game": "sm-m",
+        "text": "即使被霓虹鱼等咬到，\n只要红色内核部分还在就会立刻再生，\n所以对此并不在意。"
+      },
+      {
+        "game": "usum-us",
+        "text": "在各地都流传着\n星屑掉到海里就会变成海星星\n这样的民间故事。"
+      },
+      {
+        "game": "usum-um",
+        "text": "不管受了多少伤也没问题。\n再生能力很高，\n所以半天左右就会复原。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "据说只要它身体的中心\n部分还存活着，即使\n被切成小块也能再生。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "据说只要它身体的中心\n部分还存活着，即使\n被切成小块也能再生。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "夏季快结束时去海边，\n就能看到以有规律的节奏\n发光的海星星族群。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "虽然会遭到鱼宝可梦的啄食，\n但身体即使被咬掉一块也能\n马上再生，所以完全不在意。"
+      }
+    ]
+  }
+}

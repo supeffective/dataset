@@ -1,0 +1,549 @@
+{
+  "jap": {
+    "name": "メタモン",
+    "genus": "へんしんポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "ぜんしんの　さいぼうを　くみかえて\nみたものの　かたち　そっくりに\nへんしんする　のうりょくを　もつ。"
+      },
+      {
+        "game": "xy-y",
+        "text": "からだの　さいぼうの　つくりを\nじぶんで　くみかえて　ほかの\nせいめいたいに　へんしんする。"
+      },
+      {
+        "game": "oras-or",
+        "text": "からだの　さいぼうを　くみかえて　へんしんする。\nおもいだしながら　いぜん　みた　ものに　かわると\nちょっと　ちがう　かたちに　なってしまうのだ。"
+      },
+      {
+        "game": "oras-as",
+        "text": "からだの　さいぼうを　くみかえて　へんしんする。\nおもいだしながら　いぜん　みた　ものに　かわると\nちょっと　ちがう　かたちに　なってしまうのだ。"
+      },
+      {
+        "game": "sm-s",
+        "text": "さいぼうを　くみかえ　みた　あいて\nそっくりに　すがたを　へんかさせる。\nさいげんどは　こたいに　よる。"
+      },
+      {
+        "game": "sm-m",
+        "text": "おどろきの　へんしんのうりょくで\nどんなものとも　なかまに　なれる。\nメタモンどうしは　なかが　わるい。"
+      },
+      {
+        "game": "usum-us",
+        "text": "どんなものにも　へんしん　できるが\nメタモンごとに　とくいな　ものと\nにがてな　ものが　あるらしい。"
+      },
+      {
+        "game": "usum-um",
+        "text": "みたものに　へんしん　する。　ただし\nめのまえに　いないものの　ときは\nきおくしだいなので　しっぱいもする。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "あいてをみた　しゅんかん　からだが\nとけるように　へんかを　はじめる。\nほぼ　おなじかたちに　へんしんする。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "あいてをみた　しゅんかん　からだが\nとけるように　へんかを　はじめる。\nほぼ　おなじかたちに　へんしんする。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "ぜんしんの　さいぼうを　くみかえて\nみたもの　そっくりに　へんしんするが\nちからが　ぬけると　もとにもどる。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "メタモンどうし　であってしまうと\nあいてそっくりの　かたちに　なろうと\nいつもより　はげしく　うごく。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Metamon",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "메타몽",
+    "genus": "변신포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "전신의 세포를 재구성해서\n본 것의 모양과 똑 닮게\n변신하는 능력을 가지고 있다."
+      },
+      {
+        "game": "xy-y",
+        "text": "몸의 세포 구성을\n스스로 바꿔서 다른\n생명체로 변신한다."
+      },
+      {
+        "game": "oras-or",
+        "text": "몸의 세포를 재구성하여 변신한다.\n전에 봤던 것을 기억해내면서 바뀌면\n조금 다른 형태가 되어버린다."
+      },
+      {
+        "game": "oras-as",
+        "text": "몸의 세포를 재구성하여 변신한다.\n전에 봤던 것을 기억해내면서 바뀌면\n조금 다른 형태가 되어버린다."
+      },
+      {
+        "game": "sm-s",
+        "text": "세포를 재구성하여 본 상대와\n똑같이 모습을 변화시킨다.\n재현도는 개체에 따라 다르다."
+      },
+      {
+        "game": "sm-m",
+        "text": "놀라운 변신 능력으로\n누구와도 동료가 될 수 있다.\n메타몽끼리는 사이가 나쁘다."
+      },
+      {
+        "game": "usum-us",
+        "text": "뭐든지 변신할 수 있지만\n메타몽마다 잘하는 변신과\n잘 못하는 변신이 있다고 한다."
+      },
+      {
+        "game": "usum-um",
+        "text": "본 적이 있는 것으로 변신한다.\n단 눈앞에 없는 것으로 변신할 때는\n기억에 따르기 때문에 실패하기도 한다."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "상대를 본 순간 몸이\n녹는 것처럼 변화하기 시작한다.\n거의 똑같은 모습으로 변신한다."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "상대를 본 순간 몸이\n녹는 것처럼 변화하기 시작한다.\n거의 똑같은 모습으로 변신한다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "전신의 세포를 재구성해서\n본 것과 똑 닮게 변신하지만\n힘이 빠지면 원래대로 돌아간다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "메타몽끼리 만나게 되면\n상대와 똑같은 모습이 되기 위해\n평소보다 격렬하게 움직인다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "百變怪",
+    "genus": "變身寶可夢",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "利用細胞重組將自己的模樣變成\n和眼前的對手一模一樣。\n相似度會因個體而異。"
+      },
+      {
+        "game": "sm-m",
+        "text": "因其驚人的變身能力，\n無論與誰都能成為夥伴。\n但是百變怪同類之間的關係惡劣。"
+      },
+      {
+        "game": "usum-us",
+        "text": "能夠變身成任何東西，\n但每隻百變怪似乎各自有\n擅長和不擅長變形的對象。"
+      },
+      {
+        "game": "usum-um",
+        "text": "能變身成自己看過的東西。\n但當對象不在眼前時，因為只能\n靠記憶來變身，所以有時會失敗。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "在看見對手的瞬間，身體就會\n像融化般開始變化，最後變成\n與對手幾乎相同的模樣。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "在看見對手的瞬間，身體就會\n像融化般開始變化，最後變成\n與對手幾乎相同的模樣。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "能夠藉由重組全身的細胞，\n變得與看到的東西一模一樣，\n然而一旦放鬆就會變回原形。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "當兩隻百變怪相遇的時候，\n為了能變成和對方相同的樣子，\n牠們動起來會比平常更加劇烈。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Métamorph",
+    "genus": "Pokémon Morphing",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Il a la capacité de modifier sa\nstructure cellulaire pour prendre\nl’apparence de ce qu’il voit."
+      },
+      {
+        "game": "bw-w",
+        "text": "Il a la capacité de modifier sa\nstructure cellulaire pour prendre\nl’apparence de ce qu’il voit."
+      },
+      {
+        "game": "xy-x",
+        "text": "Il a la capacité de modifier sa structure cellulaire pour\nprendre l’apparence de ce qu’il voit."
+      },
+      {
+        "game": "xy-y",
+        "text": "Métamorph peut modifier sa structure cellulaire à\nsa guise pour se transformer en n’importe quelle\nforme vivante."
+      },
+      {
+        "game": "oras-or",
+        "text": "Métamorph peut modifier sa structure moléculaire pour\nprendre d’autres formes. Lorsqu’il essaie de se transformer\nde mémoire, il lui arrive de se tromper sur certains détails."
+      },
+      {
+        "game": "oras-as",
+        "text": "Métamorph peut modifier sa structure moléculaire pour\nprendre d’autres formes. Lorsqu’il essaie de se transformer\nde mémoire, il lui arrive de se tromper sur certains détails."
+      },
+      {
+        "game": "sm-s",
+        "text": "Il peut modifier sa structure moléculaire pour\nprendre l’apparence de son adversaire. Le degré\nde ressemblance dépend de chaque individu."
+      },
+      {
+        "game": "sm-m",
+        "text": "Grâce à son don de transformation, ce Pokémon\npeut devenir l’ami de tous les êtres vivants, sauf\ndes autres Métamorph, qu’il déteste."
+      },
+      {
+        "game": "usum-us",
+        "text": "Il peut prendre l’apparence de n’importe quoi,\nmais chaque Métamorph a son propre domaine\nde prédilection et ses propres faiblesses."
+      },
+      {
+        "game": "usum-um",
+        "text": "Il prend la forme de ce qu’il voit. Lorsqu’il n’a\npas de modèle sous les yeux, il doit se fier à sa\nmémoire et le résultat laisse parfois à désirer."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Quand il repère un ennemi, il adapte son corps\npour en faire une copie presque parfaite de\ncelui de son adversaire."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Quand il repère un ennemi, il adapte son corps\npour en faire une copie presque parfaite de\ncelui de son adversaire."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Il modifie sa structure cellulaire pour copier\nl’apparence de ce qu’il voit, mais au repos,\nil reprend sa forme normale."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Quand il rencontre l’un de ses semblables,\nil s’agite avec plus de vivacité que d’habitude\npour adopter exactement la même forme que lui."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Ditto",
+    "genus": "Transform-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Es kann seine Zellstruktur so verändern, dass es\nsich in alles verwandeln kann, was es sieht."
+      },
+      {
+        "game": "xy-y",
+        "text": "Es kann seine eigene Zellstruktur frei zusammensetzen\nund sich in jede andere Lebensform verwandeln."
+      },
+      {
+        "game": "oras-or",
+        "text": "Ditto verändert seine Zellstruktur, um sich in eine andere Form\nzu verwandeln. Wenn es sich dabei jedoch auf sein Gedächtnis\nverlässt, unterlaufen diesem Pokémon schon mal Fehler."
+      },
+      {
+        "game": "oras-as",
+        "text": "Ditto verändert seine Zellstruktur, um sich in eine andere Form\nzu verwandeln. Wenn es sich dabei jedoch auf sein Gedächtnis\nverlässt, unterlaufen diesem Pokémon schon mal Fehler."
+      },
+      {
+        "game": "sm-s",
+        "text": "Es verändert seine Zellstruktur, um die Gestalt\nanderer Lebewesen, die es sieht, anzunehmen.\nWie gut das Ebenbild ist, variiert nach Exemplar."
+      },
+      {
+        "game": "sm-m",
+        "text": "Dank seiner Fähigkeiten als Gestaltwandler\nkann es sich mit allen Lebewesen anfreunden.\nNur mit Artgenossen kommt es nicht zurecht."
+      },
+      {
+        "game": "usum-us",
+        "text": "Ditto kann jede beliebige Gestalt annehmen,\nwobei aber jedes Exemplar individuelle\nStärken und Schwächen aufweist."
+      },
+      {
+        "game": "usum-um",
+        "text": "Es kann sich in alles verwandeln, was es sieht.\nMuss es sich dabei aber auf sein Gedächtnis\nverlassen, macht es manchmal auch Fehler."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Wenn es einen Gegner ausmacht, verwandelt es\nseinen Körper in eine nahezu perfekte Kopie\nseines Gegenübers."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Wenn es einen Gegner ausmacht, verwandelt es\nseinen Körper in eine nahezu perfekte Kopie\nseines Gegenübers."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Es modifiziert seine Zellstruktur, um sich in alles\nzu verwandeln, was es sieht. Im entspannten\nZustand nimmt es wieder seine Ausgangsform an."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Trifft es auf ein anderes Ditto, bewegt es sich\nschneller als gewöhnlich, um es exakt\nnachzuahmen."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Ditto",
+    "genus": "Pokémon Transformación",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Puede alterar por completo su estructura celular para\nemular cualquier objeto que vea."
+      },
+      {
+        "game": "xy-y",
+        "text": "Tiene la capacidad de reorganizar su estructura celular\npara convertirse en otras formas de vida."
+      },
+      {
+        "game": "oras-or",
+        "text": "Ditto reorganiza la estructura de sus células para adoptar\notras formas. Pero, como intente transformarse en algo\nguiándose por los datos que tenga almacenados en la\nmemoria, habrá detalles que se le escapen."
+      },
+      {
+        "game": "oras-as",
+        "text": "Ditto reorganiza la estructura de sus células para adoptar\notras formas. Pero, como intente transformarse en algo\nguiándose por los datos que tenga almacenados en la\nmemoria, habrá detalles que se le escapen."
+      },
+      {
+        "game": "sm-s",
+        "text": "Ditto reorganiza la estructura de sus células\npara adoptar la forma de su oponente. La\ncalidad de la copia varía de Ditto a Ditto."
+      },
+      {
+        "game": "sm-m",
+        "text": "Ditto puede hacerse amigo de otros Pokémon\ngracias a su habilidad para transformarse. Sin\nembargo, los Ditto no se llevan bien entre sí."
+      },
+      {
+        "game": "usum-us",
+        "text": "Los Ditto pueden adoptar cualquier aspecto,\npero cada individuo tiene un objeto de imitación\nque se le da mejor que otros."
+      },
+      {
+        "game": "usum-um",
+        "text": "Puede transformarse en cualquier cosa que vea,\npero, si intenta hacerlo de memoria, habrá\ndetalles que se le escapen."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Cuando se fija en un enemigo, su cuerpo se\ntransforma en una copia casi perfecta del\nmismo."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Cuando se fija en un enemigo, su cuerpo se\ntransforma en una copia casi perfecta del\nmismo."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Redistribuye las células de su cuerpo para cobrar\nla apariencia de lo que ve, pero vuelve a la\nnormalidad al relajarse."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Cuando se encuentra con otro Ditto, se mueve\nmás rápido de lo normal para intentar adoptar\nsu aspecto."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Ditto",
+    "genus": "Pokémon Mutante",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Ha la capacità di modificare la sua struttura cellulare\nper trasformarsi in qualsiasi cosa veda."
+      },
+      {
+        "game": "xy-y",
+        "text": "Può ricombinare a piacere la propria struttura\ncellulare per trasformarsi in altri esseri viventi."
+      },
+      {
+        "game": "oras-or",
+        "text": "Ditto cambia la sua struttura cellulare per assumere molte\naltre forme. Tuttavia, quando si affida solo alla sua memoria,\ntalvolta dimentica dettagli importanti."
+      },
+      {
+        "game": "oras-as",
+        "text": "Ditto cambia la sua struttura cellulare per assumere molte\naltre forme. Tuttavia, quando si affida solo alla sua memoria,\ntalvolta dimentica dettagli importanti."
+      },
+      {
+        "game": "sm-s",
+        "text": "Cambia la sua struttura molecolare per\nassumere le sembianze del nemico. Il grado di\nriuscita varia a seconda del Pokémon."
+      },
+      {
+        "game": "sm-m",
+        "text": "Grazie alle sue incredibili doti metamorfiche,\npuò assumere le sembianze di qualunque essere\nvivente. I Ditto non vanno d’accordo fra di loro."
+      },
+      {
+        "game": "usum-us",
+        "text": "Ditto è in grado di assumere le sembianze di\nqualsiasi cosa. Ogni esemplare riesce meglio\nin alcune trasformazioni piuttosto che in altre."
+      },
+      {
+        "game": "usum-um",
+        "text": "Si trasforma in qualsiasi cosa veda. Tuttavia,\nquando non ha di fronte il suo modello si affida\nalla memoria, e talvolta sbaglia."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Quando incontra un nemico è capace di\ntrasformarsi in un baleno in una sua copia\nquasi perfetta."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Quando incontra un nemico è capace di\ntrasformarsi in un baleno in una sua copia\nquasi perfetta."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Può modificare la sua struttura cellulare per\nassumere le sembianze di ciò che vede.\nRitorna se stesso quando è stanco."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Quando incontra un altro Ditto, si muove più\nvelocemente del solito nel tentativo di assumere\nle sue sembianze."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Ditto",
+    "genus": "Transform Pokémon",
+    "flavorText": [
+      {
+        "game": "rb-r",
+        "text": "Capable of copying\nan enemy's genetic\ncode to instantly\ftransform itself\ninto a duplicate\nof the enemy."
+      },
+      {
+        "game": "rb-b",
+        "text": "Capable of copying\nan enemy's genetic\ncode to instantly\ftransform itself\ninto a duplicate\nof the enemy."
+      },
+      {
+        "game": "y",
+        "text": "When it spots an\nenemy, its body\ntransfigures into\fan almost perfect\ncopy of its oppo­\nnent."
+      },
+      {
+        "game": "gs-g",
+        "text": "It can transform\ninto anything.\nWhen it sleeps, it\fchanges into a\nstone to avoid\nbeing attacked."
+      },
+      {
+        "game": "gs-s",
+        "text": "Its transformation\nability is per­\nfect. However, if\fmade to laugh, it\ncan't maintain its\ndisguise."
+      },
+      {
+        "game": "c",
+        "text": "When it encount­\ners another DITTO,\nit will move\ffaster than normal\nto duplicate that\nopponent exactly."
+      },
+      {
+        "game": "rs-r",
+        "text": "DITTO rearranges its cell structure to\ntransform itself into other shapes.\nHowever, if it tries to transform itself\finto something by relying on its memory,\nthis POKéMON manages to get details\nwrong."
+      },
+      {
+        "game": "rs-s",
+        "text": "DITTO rearranges its cell structure to\ntransform itself into other shapes.\nHowever, if it tries to transform itself\finto something by relying on its memory,\nthis POKéMON manages to get details\nwrong."
+      },
+      {
+        "game": "e",
+        "text": "A DITTO rearranges its cell structure to\ntransform itself. However, if it tries to\nchange based on its memory, it will get\ndetails wrong."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "It can freely recombine its own cellular\nstructure to transform into other life-\nforms."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "Capable of copying an opponent’s genetic\ncode to instantly transform itself into a\nduplicate of the enemy."
+      },
+      {
+        "game": "dp-d",
+        "text": "It has the ability to reconstitute\nits entire cellular structure to\ntransform into whatever it sees."
+      },
+      {
+        "game": "dp-p",
+        "text": "It has the ability to reconstitute\nits entire cellular structure to\ntransform into whatever it sees."
+      },
+      {
+        "game": "pt",
+        "text": "It has the ability to reconstitute\nits entire cellular structure to\ntransform into whatever it sees."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "It can transform into anything.\nWhen it sleeps, it changes into a\nstone to avoid being attacked."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "Its transformation ability is perfect.\nHowever, if made to laugh, it\ncan’t maintain its disguise."
+      },
+      {
+        "game": "bw-b",
+        "text": "It has the ability to reconstitute\nits entire cellular structure to\ntransform into whatever it sees."
+      },
+      {
+        "game": "bw-w",
+        "text": "It has the ability to reconstitute\nits entire cellular structure to\ntransform into whatever it sees."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "It can reconstitute its entire cellular\nstructure to change into what it sees,\nbut it returns to normal when it relaxes."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "It can reconstitute its entire cellular\nstructure to change into what it sees,\nbut it returns to normal when it relaxes."
+      },
+      {
+        "game": "xy-x",
+        "text": "It has the ability to reconstitute its entire cellular\nstructure to transform into whatever it sees."
+      },
+      {
+        "game": "xy-y",
+        "text": "It can freely recombine its own cellular structure to\ntransform into other life-forms."
+      },
+      {
+        "game": "oras-or",
+        "text": "Ditto rearranges its cell structure to transform itself into other\nshapes. However, if it tries to transform itself into something\nby relying on its memory, this Pokémon manages to get\ndetails wrong."
+      },
+      {
+        "game": "oras-as",
+        "text": "Ditto rearranges its cell structure to transform itself into other\nshapes. However, if it tries to transform itself into something\nby relying on its memory, this Pokémon manages to get\ndetails wrong."
+      },
+      {
+        "game": "sm-s",
+        "text": "It can reorganize its cells to make itself into a\nduplicate of anything it sees. The quality of the\nduplicate depends on the individual."
+      },
+      {
+        "game": "sm-m",
+        "text": "With its astonishing capacity for\nmetamorphosis, it can get along with anything.\nIt does not get along well with its fellow Ditto."
+      },
+      {
+        "game": "usum-us",
+        "text": "While it can transform into anything, each Ditto\napparently has its own strengths and\nweaknesses when it comes to transformations."
+      },
+      {
+        "game": "usum-um",
+        "text": "It transforms into whatever it sees. If the thing\nit’s transforming into isn’t right in front of it,\nDitto relies on its memory—so sometimes it fails."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "When it spots an enemy, its body transfigures\ninto an almost-perfect copy of its opponent."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "When it spots an enemy, its body transfigures\ninto an almost-perfect copy of its opponent."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "It can reconstitute its entire cellular\nstructure to change into what it sees,\nbut it returns to normal when it relaxes."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "When it encounters another Ditto, it will move\nfaster than normal to duplicate that opponent exactly."
+      }
+    ]
+  },
+  "chs": {
+    "name": "百变怪",
+    "genus": "变身宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "通过重组细胞让自己样子变得\n和眼前的对手一模一样。\n相似度依个体而有所不同。"
+      },
+      {
+        "game": "sm-m",
+        "text": "因其惊人的变身能力，\n无论与谁都能成为伙伴。\n但是百变怪同类间关系恶劣。"
+      },
+      {
+        "game": "usum-us",
+        "text": "可以变身成任何东西，\n但好像每只百变怪都有着自己\n擅长和不擅长变形的东西。"
+      },
+      {
+        "game": "usum-um",
+        "text": "会变身成它看到的东西。\n但对于不在眼前的东西，它只能靠\n记忆来变身，所以有时也会失败。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "看到敌人的一瞬间身体便如同\n要融化一般开始转变，几乎能\n变身成和对方完全相同的样子。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "看到敌人的一瞬间身体便如同\n要融化一般开始转变，几乎能\n变身成和对方完全相同的样子。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "能够通过重组全身的细胞，\n变得与看到的东西一模一样，\n然而一旦放松就会变回原形。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "当两只百变怪相遇的时候，\n为了能变成和对方相同的样子，\n它们动起来会比平常更加剧烈。"
+      }
+    ]
+  }
+}

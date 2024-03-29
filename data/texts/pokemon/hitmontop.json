@@ -1,0 +1,321 @@
+{
+  "jap": {
+    "name": "カポエラー",
+    "genus": "さかだちポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "コマのように　かいてんしながら\nたたかう。えんしんりょくの　パワーで\nはかいりょくは　１０ばいだ。"
+      },
+      {
+        "game": "xy-y",
+        "text": "おどるように　かれいで　なめらかな\nキックわざに　みとれていると\nきつい　いちげきを　おみまいされる。"
+      },
+      {
+        "game": "oras-or",
+        "text": "こうそく　かいてんしながら　はなつ　キックは\nこうげきと　ぼうぎょを　かねた　みごとな　わざ。\nあるく　よりも　かいてんした　ほうが　はやい。"
+      },
+      {
+        "game": "oras-as",
+        "text": "こうそく　かいてんしながら　はなつ　キックは\nこうげきと　ぼうぎょを　かねた　みごとな　わざ。\nあるく　よりも　かいてんした　ほうが　はやい。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "くるくる　まわって　キックをはなつ。\nこうそくで　まわっていると\nそのまま　じめんに　もぐっていく。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "さかだちを　することで　あいての\nタイミングを　くるわせ　そのすきに\nはでな　キックわざを　おみまいする。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Kapoerer",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "카포에라",
+    "genus": "물구나무포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "팽이처럼 회전하면서\n싸운다. 원심력의 파워로\n파괴력은 10배다."
+      },
+      {
+        "game": "xy-y",
+        "text": "춤추듯이 화려하고 부드러운\n킥 기술에 빠져 있으면\n제대로 일격을 선사한다."
+      },
+      {
+        "game": "oras-or",
+        "text": "고속 회전하며 날리는 킥은\n공격과 방어를 겸비한 훌륭한 기술이다.\n걷는 것보다 회전하는 편이 빠르다."
+      },
+      {
+        "game": "oras-as",
+        "text": "고속 회전하며 날리는 킥은\n공격과 방어를 겸비한 훌륭한 기술이다.\n걷는 것보다 회전하는 편이 빠르다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "빙글빙글 돌며 킥을 날린다.\n고속으로 돌다 보면\n그대로 지면을 파고들어 간다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "물구나무를 서서 상대의\n타이밍을 흐트러뜨리고 그 틈에\n화려한 발차기를 먹인다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "戰舞郎",
+    "genus": "倒立寶可夢",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "會旋轉身體使出踢擊。\n當牠高速旋轉身體時，\n會直接鑽進地底下。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "會透過倒立來擾亂\n對方的節奏，然後\n趁隙施展華麗的踢擊。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Kapoera",
+    "genus": "Pokémon Poirier",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Il combat en tournoyant comme une\ntoupie. La force centrifuge décuple\nsa puissance destructrice."
+      },
+      {
+        "game": "bw-w",
+        "text": "Il combat en tournoyant comme une\ntoupie. La force centrifuge décuple\nsa puissance destructrice."
+      },
+      {
+        "game": "xy-x",
+        "text": "Il combat en tournoyant comme une toupie.\nLa force centrifuge décuple sa puissance destructrice."
+      },
+      {
+        "game": "xy-y",
+        "text": "Si sa danse de coups de pied vous fascine, vous\nrisquez de le regretter."
+      },
+      {
+        "game": "oras-or",
+        "text": "Kapoera tournoie à toute vitesse sur sa tête, tout en donnant\ndes coups de pied. Cette technique combine des attaques\noffensives et défensives. Ce Pokémon se déplace plus vite\nsur la tête qu’en marchant."
+      },
+      {
+        "game": "oras-as",
+        "text": "Kapoera tournoie à toute vitesse sur sa tête, tout en donnant\ndes coups de pied. Cette technique combine des attaques\noffensives et défensives. Ce Pokémon se déplace plus vite\nsur la tête qu’en marchant."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Il assène des coups de pied tout en tournant\nsur lui-même. Il va parfois si vite qu’il commence\nà s’enfoncer dans le sol."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Après avoir effectué un poirier visant\nà désorienter son adversaire, il lui assène\ndes coups de pied furieux."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Kapoera",
+    "genus": "Kopfstand-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Es kämpft, während es sich wie ein Kreisel dreht.\nDie Zentrifugalkraft verzehnfacht seine Kampfkraft."
+      },
+      {
+        "game": "xy-y",
+        "text": "Lässt du dich von seinen eleganten, anmutigen und\ntanzartigen Tritten betören, wirst du vermöbelt."
+      },
+      {
+        "game": "oras-or",
+        "text": "Kapoera dreht sich auf dem Kopf stehend um die eigene\nAchse und teilt Tritte aus. Seine Technik ist eine\nbemerkenswerte Mischung aus Angriff und Verteidigung.\nEs bewegt sich drehend schneller voran als laufend."
+      },
+      {
+        "game": "oras-as",
+        "text": "Kapoera dreht sich auf dem Kopf stehend um die eigene\nAchse und teilt Tritte aus. Seine Technik ist eine\nbemerkenswerte Mischung aus Angriff und Verteidigung.\nEs bewegt sich drehend schneller voran als laufend."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Es dreht sich um sich selbst und verteilt Tritte.\nGewinnt es ausreichend an Schwung, bohrt es\nsich dabei in den Boden."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Im Kampf bringt dieses Pokémon seine Gegner\nmit einem Handstand aus dem Takt und lehrt sie\ndann mit schwungvollen Tritten das Fürchten."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Hitmontop",
+    "genus": "Pokémon Boca Abajo",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Gira a gran velocidad al luchar. La fuerza centrífuga\nmultiplica su poder de destrucción por diez."
+      },
+      {
+        "game": "xy-y",
+        "text": "Si te encantan sus suaves, elegantes y danzarinas\npatadas, acabarás taladrado."
+      },
+      {
+        "game": "oras-or",
+        "text": "Hitmontop hace el pino con la cabeza y se pone a girar rápido\nal tiempo que reparte patadas. Esta es una técnica ofensiva\ny defensiva a la vez. Este Pokémon se desplaza más rápido\ngirando sobre sí que caminando."
+      },
+      {
+        "game": "oras-as",
+        "text": "Hitmontop hace el pino con la cabeza y se pone a girar rápido\nal tiempo que reparte patadas. Esta es una técnica ofensiva\ny defensiva a la vez. Este Pokémon se desplaza más rápido\ngirando sobre sí que caminando."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Lanza patadas mientras gira. Si alcanza mucha\nvelocidad, puede cavar un hoyo en la tierra."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Tras hacer el pino para desconcertar a su rival,\ncomienza a propinar sus espectaculares patadas."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Hitmontop",
+    "genus": "Pokémon Verticale",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Combatte mentre gira come una trottola. La forza\ncentrifuga decuplica il suo potere distruttivo."
+      },
+      {
+        "game": "xy-y",
+        "text": "Se ci si fa incantare dall’elegante danza dei suoi\ncalci, si rischia di ricevere una bella lezione."
+      },
+      {
+        "game": "oras-or",
+        "text": "Hitmontop rotea sulla testa ad alta velocità sferrando calci\nviolenti. Questa tecnica è molto efficace sia in attacco che\nin difesa. Il Pokémon si muove molto più velocemente\nroteando che non camminando."
+      },
+      {
+        "game": "oras-as",
+        "text": "Hitmontop rotea sulla testa ad alta velocità sferrando calci\nviolenti. Questa tecnica è molto efficace sia in attacco che\nin difesa. Il Pokémon si muove molto più velocemente\nroteando che non camminando."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Gira su se stesso tirando calci. Se gira molto\nvelocemente può scavare una fossa nel terreno."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Prima esegue una verticale per spiazzare il\nnemico, poi parte con i suoi calci spettacolari."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Hitmontop",
+    "genus": "Handstand Pokémon",
+    "flavorText": [
+      {
+        "game": "gs-g",
+        "text": "If you become\nenchanted by its\nsmooth, elegant,\fdance-like kicks,\nyou may get\ndrilled hard."
+      },
+      {
+        "game": "gs-s",
+        "text": "It launches kicks\nwhile spinning. If\nit spins at high\fspeed, it may bore\nits way into the\nground."
+      },
+      {
+        "game": "c",
+        "text": "After doing a\nhandstand to\nthrow off the\fopponent's timing,\nit presents its\nfancy kick moves."
+      },
+      {
+        "game": "rs-r",
+        "text": "HITMONTOP spins on its head at high\nspeed, all the while delivering kicks.\nThis technique is a remarkable mix of\fboth offense and defense at the same\ntime. The POKéMON travels faster\nspinning than it does walking."
+      },
+      {
+        "game": "rs-s",
+        "text": "HITMONTOP spins on its head at high\nspeed, all the while delivering kicks.\nThis technique is a remarkable mix of\fboth offense and defense at the same\ntime. The POKéMON travels faster\nspinning than it does walking."
+      },
+      {
+        "game": "e",
+        "text": "Its technique of kicking while spinning is\na remarkable mix of both offense and\ndefense. HITMONTOP travel faster\nspinning than they do walking."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "It launches kicks while spinning. If it\nspins at high speed, it may bore its way\ninto the ground."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "If you become enchanted by its smooth,\nelegant, dance-like kicks, you may get\ndrilled hard."
+      },
+      {
+        "game": "dp-d",
+        "text": "It fights while spinning like a top.\nThe centrifugal force boosts its\ndestructive power by ten."
+      },
+      {
+        "game": "dp-p",
+        "text": "It fights while spinning like a top.\nThe centrifugal force boosts its\ndestructive power by ten."
+      },
+      {
+        "game": "pt",
+        "text": "It fights while spinning like a top.\nThe centrifugal force boosts its\ndestructive power by ten."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "If you are enchanted by its smooth,\ndance-like kicks, you may get a closer\nexperience with one than you’d like."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "It launches kicks while spinning. If\nit spins at high speed, it may bore\nits way into the ground."
+      },
+      {
+        "game": "bw-b",
+        "text": "It fights while spinning like a top.\nThe centrifugal force boosts its\ndestructive power by ten."
+      },
+      {
+        "game": "bw-w",
+        "text": "It fights while spinning like a top.\nThe centrifugal force boosts its\ndestructive power by ten."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "It fights while spinning like a top.\nThe centrifugal force boosts its\ndestructive power by 10."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "It fights while spinning like a top.\nThe centrifugal force boosts its\ndestructive power by 10."
+      },
+      {
+        "game": "xy-x",
+        "text": "It fights while spinning like a top. The centrifugal\nforce boosts its destructive power by 10."
+      },
+      {
+        "game": "xy-y",
+        "text": "If you are enchanted by its smooth, dance-like\nkicks, you may get a closer experience with one\nthan you’d like."
+      },
+      {
+        "game": "oras-or",
+        "text": "Hitmontop spins on its head at high speed, all the while\ndelivering kicks. This technique is a remarkable mix of both\noffense and defense at the same time. The Pokémon travels\nfaster spinning than it does walking."
+      },
+      {
+        "game": "oras-as",
+        "text": "Hitmontop spins on its head at high speed, all the while\ndelivering kicks. This technique is a remarkable mix of both\noffense and defense at the same time. The Pokémon travels\nfaster spinning than it does walking."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "It launches kicks while spinning. If it spins at high\nspeed, it may bore its way into the ground."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "After doing a handstand to throw off the\nopponent’s timing, it presents its fancy kick moves."
+      }
+    ]
+  },
+  "chs": {
+    "name": "战舞郎",
+    "genus": "倒立宝可梦",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "会旋转身体使出踢击。\n当它高速旋转身体时，\n会直接钻进地底下。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "会通过倒立来扰乱\n对方的节奏，然后\n趁隙施展华丽的踢击。"
+      }
+    ]
+  }
+}

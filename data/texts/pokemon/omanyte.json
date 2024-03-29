@@ -1,0 +1,477 @@
+{
+  "jap": {
+    "name": "オムナイト",
+    "genus": "うずまきポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "おおむかし　うみに　すんでいた\nこだい　ポケモン。１０ぽんの　あしを\nくねらせて　およぐ。"
+      },
+      {
+        "game": "xy-y",
+        "text": "こだいの　かせきから　ふっかつ。\nカラのなかに　ためた　くうきで\nすいちゅうを　うきしずみしていた。"
+      },
+      {
+        "game": "oras-or",
+        "text": "おおむかしに　ぜつめつしたが　にんげんの　てで\nかせきから　ふっかつさせた　ポケモンの　ひとつ。\nてきに　おそわれると　かたい　カラに　かくれる。"
+      },
+      {
+        "game": "oras-as",
+        "text": "おおむかしに　ぜつめつしたが　にんげんの　てで\nかせきから　ふっかつさせた　ポケモンの　ひとつ。\nてきに　おそわれると　かたい　カラに　かくれる。"
+      },
+      {
+        "game": "usum-us",
+        "text": "こだいのうみに　いきていた　ポケモン。\nアーケオスの　エサだったようで\nはがたのついた　かせきが　みつかる。"
+      },
+      {
+        "game": "usum-um",
+        "text": "こだいの　かせきから　ふくげんされた。\nおおむかし　うみだった　ばしょから\nかいのカセキが　はっくつ　される。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "１０ぽんのあしを　うまく　くねらせて\nこだいの　うみを　ただよっていた\nポケモンの　カセキを　ふくげんした。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "１０ぽんのあしを　うまく　くねらせて\nこだいの　うみを　ただよっていた\nポケモンの　カセキを　ふくげんした。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "ふくげんされた　あと　にげだしたり\nにがしてしまう　ものが　いるため\nもんだいに　なりつつあるのだ。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "ぜつめつした　こだいのポケモン。\n１０ぽんのあしで　みずを　かき\nただようように　およぐ。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Omnite",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "암나이트",
+    "genus": "소용돌이포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "먼 옛날 바다에서 살고 있던\n고대 포켓몬. 10개의 다리를\n구불거리며 헤엄친다."
+      },
+      {
+        "game": "xy-y",
+        "text": "고대의 화석에서 부활했다.\n껍질 안에 모은 공기로\n수중에서 뜨고 가라앉기를 반복했다."
+      },
+      {
+        "game": "oras-or",
+        "text": "오랜 옛날에 멸종됐지만 인간의 손으로\n화석에서 부활시킨 포켓몬 중 하나다.\n적에게 습격당하면 단단한 껍질 속에 숨는다."
+      },
+      {
+        "game": "oras-as",
+        "text": "오랜 옛날에 멸종됐지만 인간의 손으로\n화석에서 부활시킨 포켓몬 중 하나다.\n적에게 습격당하면 단단한 껍질 속에 숨는다."
+      },
+      {
+        "game": "usum-us",
+        "text": "고대의 바다에 살았던 포켓몬.\n아케오스의 먹이였던 것으로 추정되며\n잇자국이 있는 화석이 발견된다."
+      },
+      {
+        "game": "usum-um",
+        "text": "고대 화석에서 복원되었다.\n오랜 옛날 바다였던 곳에서\n조개화석이 발굴된다."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "10개의 다리를 자유자재로 구불거리며\n고대의 바다를 떠돌던\n포켓몬의 화석을 복원했다."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "10개의 다리를 자유자재로 구불거리며\n고대의 바다를 떠돌던\n포켓몬의 화석을 복원했다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "복원된 후 도망치거나\n놓쳐버리는 경우가 생겨서\n문제시되고 있다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "멸종한 고대의 포켓몬이다.\n10개의 다리로 물을 가르며\n떠다니듯 헤엄친다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "菊石獸",
+    "genus": "漩渦寶可夢",
+    "flavorText": [
+      {
+        "game": "usum-us",
+        "text": "生活在古代海洋中的寶可夢。\n似乎是始祖大鳥的食物，\n曾被發現過帶有齒痕的化石。"
+      },
+      {
+        "game": "usum-um",
+        "text": "從古代的化石復原而來。\n在很久以前曾經是海洋的地方\n能夠發掘到牠的貝殼化石。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "復原自能夠靈活地扭動\n10隻腳在古代海上漂浮的\n寶可夢的化石。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "復原自能夠靈活地扭動\n10隻腳在古代海上漂浮的\n寶可夢的化石。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "從化石復原後有些菊石獸\n會逃走，有些則被放生。\n近來這個問題越來越明顯。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "一度滅絕的古代寶可夢。\n會使用１０隻腳划水，\n在水中一漂一浮地游動。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Amonita",
+    "genus": "Pokémon Spirale",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Un Pokémon ramené à la vie par\nla science à partir d’un fossile. Il\npeuplait autrefois les mers."
+      },
+      {
+        "game": "bw-w",
+        "text": "Un Pokémon ramené à la vie par\nla science à partir d’un fossile. Il\npeuplait autrefois les mers."
+      },
+      {
+        "game": "xy-x",
+        "text": "Un Pokémon préhistorique qui vivait dans les\nprofondeurs marines. Il se déplace en agitant ses 10\ntentacules."
+      },
+      {
+        "game": "xy-y",
+        "text": "Recréé à partir d’un fossile, il utilise l’air dans sa\ncoquille pour s’enfoncer dans l’eau ou faire surface."
+      },
+      {
+        "game": "oras-or",
+        "text": "Amonita est l’un des Pokémon disparus depuis longtemps\net qui furent ressuscités à partir de fossiles.\nLorsqu’il est attaqué par un ennemi, il se rétracte dans\nsa coquille."
+      },
+      {
+        "game": "oras-as",
+        "text": "Amonita est l’un des Pokémon disparus depuis longtemps\net qui furent ressuscités à partir de fossiles.\nLorsqu’il est attaqué par un ennemi, il se rétracte dans\nsa coquille."
+      },
+      {
+        "game": "usum-us",
+        "text": "Un Pokémon qui vivait dans les mers antiques.\nDes fossiles présentant des traces de morsures\nindiquent qu’il était la proie d’Aéroptéryx."
+      },
+      {
+        "game": "usum-um",
+        "text": "Un Pokémon recréé à partir d’un fossile antique.\nCes Nautiles se trouvent en des endroits jadis\nrecouverts par les flots."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Un ancien Pokémon reconstitué à partir d’un\nfossile. Il nageait dans les mers antiques grâce\nà ses dix tentacules."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Un ancien Pokémon reconstitué à partir d’un\nfossile. Il nageait dans les mers antiques grâce\nà ses dix tentacules."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Ce Pokémon commence à poser problème,\ncar certains spécimens se sont enfuis ou\nont été relâchés après avoir été ressuscités."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Un Pokémon préhistorique aujourd’hui disparu.\nIl semble flotter lorsqu’il nage en brassant l’eau\navec ses dix tentacules."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Amonitas",
+    "genus": "Spiralen-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Ein prähistorisches Pokémon, das zur Urzeit im\nWasser lebte. Es schwimmt, indem es seine\nzehn Tentakel bewegt."
+      },
+      {
+        "game": "xy-y",
+        "text": "Es wurde aus einem Fossil reanimiert. Es nutzt\ndie Luftkammern in seiner Schale, um ab- und\naufzutauchen."
+      },
+      {
+        "game": "oras-or",
+        "text": "Amonitas ist ein Pokémon, das lange Zeit ausgestorben war,\naber von den Menschen aus Fossilien reproduziert wurde.\nWenn es von einem Feind angegriffen wird, zieht es sich in\nsein hartes Gehäuse zurück."
+      },
+      {
+        "game": "oras-as",
+        "text": "Amonitas ist ein Pokémon, das lange Zeit ausgestorben war,\naber durch die Menschen aus Fossilien reproduziert wurde.\nWenn es von einem Feind angegriffen wird, zieht es sich in\nsein hartes Gehäuse zurück."
+      },
+      {
+        "game": "usum-us",
+        "text": "Es lebte im urzeitlichen Meer. Bissspuren auf\nseinen Fossilien deuten darauf hin, dass es\ndamals von Aeropteryx gejagt wurde."
+      },
+      {
+        "game": "usum-um",
+        "text": "Es konnte durch Fossilien seines Gehäuses\nneu belebt werden, die an Orten gefunden\nwurden, an denen sich früher das Meer befand."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Es wurde aus einem Fossil zurückverwandelt.\nIn der Urzeit schwamm es durch geschicktes\nBewegen seiner zehn Tentakel durch das Meer."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Es wurde aus einem Fossil zurückverwandelt.\nIn der Urzeit schwamm es durch geschicktes\nBewegen seiner zehn Tentakel durch das Meer."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Diese Pokémon entwickeln sich allmählich zu\neinem Problem, da einige wiederbelebte\nExemplare fliehen oder freigelassen werden."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Ein einst ausgestorbenes Urzeit-Pokémon. Wenn\nes mit seinen zehn Tentakeln paddelnd durch das\nWasser gleitet, meint man, es würde schweben."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Omanyte",
+    "genus": "Pokémon Espiral",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Pokémon prehistórico que vivió en el océano\nprimordial. Para nadar se valía de sus 10 tentáculos."
+      },
+      {
+        "game": "xy-y",
+        "text": "Resucitado de un fósil, este Pokémon usa el aire de\nsu concha para sumergirse y emerger."
+      },
+      {
+        "game": "oras-or",
+        "text": "Omanyte es uno de esos Pokémon ancestrales que se\nextinguieron hace muchísimo tiempo y que la gente ha\nrecuperado a partir de fósiles. Si un enemigo le ataca, se\nesconderá dentro de la dura concha que tiene."
+      },
+      {
+        "game": "oras-as",
+        "text": "Omanyte es uno de esos Pokémon ancestrales que se\nextinguieron hace muchísimo tiempo y que la gente ha\nrecuperado a partir de fósiles. Si un enemigo le ataca, se\nesconderá dentro de la dura concha que tiene."
+      },
+      {
+        "game": "usum-us",
+        "text": "Pokémon prehistórico que vivía en el océano.\nLas marcas de mordeduras en sus fósiles\nindican que solía ser presa de los Archeops."
+      },
+      {
+        "game": "usum-um",
+        "text": "Este Pokémon ha sido regenerado a partir de\nFósiles Hélix hallados en estratos que\ncorresponden al lecho de océanos prehistóricos."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Este antiguo Pokémon fue regenerado a partir\nde un fósil. Solía nadar en antiguos mares\nmoviendo con destreza sus 10 tentáculos."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Este antiguo Pokémon fue regenerado a partir\nde un fósil. Solía nadar en antiguos mares\nmoviendo con destreza sus 10 tentáculos."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Varios ejemplares han escapado o bien han sido\nliberados tras su restauración, lo que comienza a\nsuscitar una serie de problemas."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Un Pokémon de la era prehistórica, ahora\nextinto. Solía nadar moviendo sus diez tentáculos\npara desplazarse por el agua como si flotara."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Omanyte",
+    "genus": "Pokémon Spirale",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Pokémon preistorico, che viveva nel mare primordiale.\nNuota facendo oscillare i suoi dieci tentacoli."
+      },
+      {
+        "game": "xy-y",
+        "text": "Questo Pokémon, resuscitato da un antico fossile,\nusa l’aria del guscio per immergersi."
+      },
+      {
+        "game": "oras-or",
+        "text": "Omanyte è uno degli antichi Pokémon estinti, recentemente\nrigenerati dall’uomo. In caso di aggressione da parte di\nun nemico, si ritira all’interno della sua dura corazza."
+      },
+      {
+        "game": "oras-as",
+        "text": "Omanyte è uno degli antichi Pokémon estinti, recentemente\nrigenerati dall’uomo. In caso di aggressione da parte di\nun nemico, si ritira all’interno della sua dura corazza."
+      },
+      {
+        "game": "usum-us",
+        "text": "Pokémon che viveva nei mari ancestrali.\nPer via dei segni di zanne ritrovati sui fossili,\nsi pensa che venisse cacciato dagli Archeops."
+      },
+      {
+        "game": "usum-um",
+        "text": "Durante scavi in luoghi anticamente sommersi\nsi trovano spesso degli Helixfossili, da cui\nquesto Pokémon viene rigenerato."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Pokémon preistorico rigenerato da un fossile.\nNuotava nei mari primordiali agitando con\nmaestria i suoi dieci tentacoli."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Pokémon preistorico rigenerato da un fossile.\nNuotava nei mari primordiali agitando con\nmaestria i suoi dieci tentacoli."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Questo Pokémon si sta rivelando un problema\nperché a volte fugge o viene liberato dopo\nessere stato rigenerato."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "È un antico Pokémon ormai estinto. Quando\nnuota usando i suoi dieci tentacoli sembra\nfluttuare nell’acqua."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Omanyte",
+    "genus": "Spiral Pokémon",
+    "flavorText": [
+      {
+        "game": "rb-r",
+        "text": "Although long\nextinct, in rare\ncases, it can be\fgenetically\nresurrected from\nfossils."
+      },
+      {
+        "game": "rb-b",
+        "text": "Although long\nextinct, in rare\ncases, it can be\fgenetically\nresurrected from\nfossils."
+      },
+      {
+        "game": "y",
+        "text": "An ancient POKéMON\nthat was recovered\nfrom a fossil. It\fswims by cleverly\ntwisting its 10\ntentacles about."
+      },
+      {
+        "game": "gs-g",
+        "text": "Revived from an\nancient fossil,\nthis POKéMON uses\fair stored in its\nshell to sink and\nrise in water."
+      },
+      {
+        "game": "gs-s",
+        "text": "This POKéMON from\nancient times is\nsaid to have navi­\fgated the sea by\nadeptly twisting\nits 10 tentacles."
+      },
+      {
+        "game": "c",
+        "text": "In prehistoric\ntimes, it swam on\nthe sea floor,\feating plankton.\nIts fossils are\nsometimes found."
+      },
+      {
+        "game": "rs-r",
+        "text": "OMANYTE is one of the ancient and long-\nsince-extinct POKéMON that have been\nregenerated from fossils by people.\fIf attacked by an enemy, it withdraws\nitself inside its hard shell."
+      },
+      {
+        "game": "rs-s",
+        "text": "OMANYTE is one of the ancient and long-\nsince-extinct POKéMON that have been\nregenerated from fossils by people.\fIf attacked by an enemy, it withdraws\nitself inside its hard shell."
+      },
+      {
+        "game": "e",
+        "text": "One of the ancient and long-since-extinct\nPOKéMON that have been regenerated\nfrom fossils by humans. If attacked,\nit withdraws into its hard shell."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "A prehistoric POKéMON that lived in the\nprimordial sea, it swims by twisting its\n10 tentacles about."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "Although long extinct, in rare cases, it\ncan be genetically regenerated from\nfossils."
+      },
+      {
+        "game": "dp-d",
+        "text": "A Pokémon that was resurrected\nfrom a fossil using modern science.\nIt swam in ancient seas."
+      },
+      {
+        "game": "dp-p",
+        "text": "A Pokémon that was resurrected\nfrom a fossil using modern science.\nIt swam in ancient seas."
+      },
+      {
+        "game": "pt",
+        "text": "A Pokémon that was resurrected\nfrom a fossil using modern science.\nIt swam in ancient seas."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "Revived from an ancient fossil,\nthis Pokémon uses air stored in its\nshell to sink and rise in water."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "This Pokémon from ancient times is\nsaid to have navigated the sea by\nadeptly twisting its 10 tentacles."
+      },
+      {
+        "game": "bw-b",
+        "text": "A Pokémon that was resurrected\nfrom a fossil using modern science.\nIt swam in ancient seas."
+      },
+      {
+        "game": "bw-w",
+        "text": "A Pokémon that was resurrected\nfrom a fossil using modern science.\nIt swam in ancient seas."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "A Pokémon that was resurrected\nfrom a fossil using modern science.\nIt swam in ancient seas."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "A Pokémon that was resurrected\nfrom a fossil using modern science.\nIt swam in ancient seas."
+      },
+      {
+        "game": "xy-x",
+        "text": "A prehistoric Pokémon that lived in the primordial\nsea, it swims by twisting its 10 tentacles about."
+      },
+      {
+        "game": "xy-y",
+        "text": "Revived from an ancient fossil, this Pokémon uses\nair stored in its shell to sink and rise in water."
+      },
+      {
+        "game": "oras-or",
+        "text": "Omanyte is one of the ancient and long-since-extinct Pokémon\nthat have been regenerated from fossils by people. If attacked\nby an enemy, it withdraws itself inside its hard shell."
+      },
+      {
+        "game": "oras-as",
+        "text": "Omanyte is one of the ancient and long-since-extinct Pokémon\nthat have been regenerated from fossils by people. If attacked\nby an enemy, it withdraws itself inside its hard shell."
+      },
+      {
+        "game": "usum-us",
+        "text": "Omanyte lived in the seas of antiquity. Its\nfossils have been found bearing bite marks from\nArcheops, so apparently Archeops preyed on it."
+      },
+      {
+        "game": "usum-um",
+        "text": "It was restored from an ancient fossil. Those\nHelix Fossils are excavated from areas that\nwere once oceans long, long ago."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "An ancient Pokémon that was recovered from\na fossil. It swam by cleverly twisting its\n10 tentacles about."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "An ancient Pokémon that was recovered from\na fossil. It swam by cleverly twisting its\n10 tentacles about."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Because some Omanyte manage to escape after\nbeing restored or are released into the wild by\npeople, this species is becoming a problem."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "This Pokémon is a member of an ancient, extinct\nspecies. Omanyte paddles through water with its\n10 tentacles, looking like it’s just drifting along."
+      }
+    ]
+  },
+  "chs": {
+    "name": "菊石兽",
+    "genus": "漩涡宝可梦",
+    "flavorText": [
+      {
+        "game": "usum-us",
+        "text": "生活在古代海洋中的宝可梦。\n好像曾是始祖大鸟的食物，\n发现过带有齿痕的化石。"
+      },
+      {
+        "game": "usum-um",
+        "text": "从古代的化石复原而来。\n在很久以前还是海洋的地方\n能发掘出它的贝壳化石。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "用化石复原出的宝可梦，\n靠巧妙地弯曲它的10条腿\n在古代的大海里飘荡。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "用化石复原出的宝可梦，\n靠巧妙地弯曲它的10条腿\n在古代的大海里飘荡。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "从化石被复原后有些逃了出去，\n有些则被人放走。这些散逸在外\n的菊石兽越来越成问题了。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "已经灭绝的古代宝可梦。\n依靠１０只脚来划水，\n在水中轻盈地游曳。"
+      }
+    ]
+  }
+}

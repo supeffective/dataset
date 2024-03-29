@@ -1,0 +1,317 @@
+{
+  "jap": {
+    "name": "デデンネ",
+    "genus": "アンテナポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "ヒゲが　アンテナの　やくわり。\nでんぱを　そうじゅしんして　とおくの\nなかまと　れんらくを　とりあうのだ。"
+      },
+      {
+        "game": "xy-y",
+        "text": "しっぽで　はつでんしょや　みんかの\nコンセントから　でんきを　すいとり\nヒゲから　でんげきを　うちだす。"
+      },
+      {
+        "game": "oras-or",
+        "text": "ヒゲが　アンテナの　やくわり。\nでんぱを　そうじゅしんして　とおくの\nなかまと　れんらくを　とりあうのだ。"
+      },
+      {
+        "game": "oras-as",
+        "text": "しっぽで　はつでんしょや　みんかの\nコンセントから　でんきを　すいとり\nヒゲから　でんげきを　うちだす。"
+      },
+      {
+        "game": "usum-us",
+        "text": "みんかに　しのびこみ　コンセントから\nでんきを　ぬすむ。　でんきだいが\nおかしいときは　こいつの　しわざ。"
+      },
+      {
+        "game": "usum-um",
+        "text": "うえの　ヒゲは　あたりを　さぐる\nセンサーで　したに　はえた　ヒゲは\nでんきを　はなつ　きかん　なのだ。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "なかまの　はなつ　でんぱを　ヒゲで\nキャッチ。　エサや　でんきの\nありかを　みんなで　シェアするのだ。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "でんきを　うみだす　ちからが\nよわいので　コンセントや　ほかの\nでんきポケモンから　ぬすむのだ。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Dedenne",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "데덴네",
+    "genus": "안테나포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "수염이 안테나의 역할을 한다.\n전파를 송수신해서 멀리 떨어진\n동료와 서로 연락하는 것이다."
+      },
+      {
+        "game": "xy-y",
+        "text": "꼬리로 발전소나 민가의\n콘센트에서 전기를 흡수하여\n수염에서 전격을 날린다."
+      },
+      {
+        "game": "oras-or",
+        "text": "수염이 안테나의 역할을 한다.\n전파를 송수신해서 멀리 떨어진\n동료와 서로 연락하는 것이다."
+      },
+      {
+        "game": "oras-as",
+        "text": "꼬리로 발전소나 민가의\n콘센트에서 전기를 흡수하여\n수염에서 전격을 날린다."
+      },
+      {
+        "game": "usum-us",
+        "text": "민가에 숨어들어 콘센트에서\n전기를 훔친다. 전기료가\n이상할 때는 이 녀석의 소행이다."
+      },
+      {
+        "game": "usum-um",
+        "text": "위쪽 수염은 주변을 살피는\n센서이고 아래로 난 수염은\n전기를 발산하는 기관이다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "동료가 내뿜는 전파를 수염으로\n감지한다. 먹이나 전기의 위치를\n모두와 함께 공유한다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "전기를 만들어내는 힘이\n약해서 콘센트나 다른\n전류포켓몬에게 훔친다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "咚咚鼠",
+    "genus": "天線寶可夢",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "能用鬍鬚接收來自夥伴們\n的電波，藉此向彼此分享\n哪裡有食物或電力。"
+      },
+      {
+        "game": "usum-us",
+        "text": "會潛入人們家裡，從插座偷電。\n如果發現電費不正常，\n那就是這傢伙幹的。"
+      },
+      {
+        "game": "usum-um",
+        "text": "上面的鬍鬚是探索周遭環境\n的感應器，長在下面的鬍鬚\n是釋放電流的器官。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "由於發電的能力不強，\n因此會從插座或其他的\n電氣寶可夢那裡偷電。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Dedenne",
+    "genus": "Pokémon Antenne",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Ses moustaches lui servent d’antennes, et lui\npermettent d’envoyer et de recevoir des signaux\npour communiquer à distance avec ses congénères."
+      },
+      {
+        "game": "xy-y",
+        "text": "Il utilise sa queue pour pomper l’énergie des centrales\nélectriques ou pour se brancher sur les prises des\nmaisons. Ses moustaches envoient des décharges."
+      },
+      {
+        "game": "oras-or",
+        "text": "Ses moustaches lui servent d’antennes, et lui permettent\nd’envoyer et de recevoir des signaux pour communiquer\nà distance avec ses congénères."
+      },
+      {
+        "game": "oras-as",
+        "text": "Il utilise sa queue pour pomper l’énergie des centrales\nélectriques ou pour se brancher sur les prises des maisons.\nSes moustaches envoient des décharges."
+      },
+      {
+        "game": "usum-us",
+        "text": "Il s’introduit chez les gens pour voler l’électricité\nvia les prises de courant. On sait qui blâmer\nen cas de facture d’électricité trop élevée !"
+      },
+      {
+        "game": "usum-um",
+        "text": "Les moustaches du haut lui servent de capteurs\npour inspecter son environnement ; celles du\nbas lui permettent de décharger de l’électricité."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Il capte les ondes émises par ses congénères\navec ses moustaches. Cela lui permet de savoir\noù trouver de la nourriture ou de l’électricité."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Puisqu’il a du mal à générer sa propre électricité,\nil en vole aux autres Pokémon Électrik ou via\nles prises de courant."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Dedenne",
+    "genus": "Antennen-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Seine Schnurrhaare dienen ihm als Antennen. Durch\ndas Senden und Empfangen von elektrischen Wellen\nkann es mit weit entfernten Freunden kommunizieren."
+      },
+      {
+        "game": "xy-y",
+        "text": "Mit seinem Schwanz zapft es Kraftwerke sowie\nSteckdosen in Häusern an, um Strom zu tanken,\nden es über seine Schnurrhaare wieder entlädt."
+      },
+      {
+        "game": "oras-or",
+        "text": "Seine Schnurrhaare dienen ihm als Antennen. Durch das\nSenden und Empfangen von elektrischen Wellen kann es\nmit weit entfernten Freunden kommunizieren."
+      },
+      {
+        "game": "oras-as",
+        "text": "Mit seinem Schwanz zapft es Kraftwerke sowie Steckdosen\nin Häusern an, um Strom zu tanken, den es über seine\nSchnurrhaare wieder entlädt."
+      },
+      {
+        "game": "usum-us",
+        "text": "Es schleicht sich in Häuser und zapft an den\nSteckdosen Strom ab. Fällt die Stromrechnung\nmal unerwartet hoch aus, ist Dedenne schuld."
+      },
+      {
+        "game": "usum-um",
+        "text": "Seine oberen Schnurrhaare dienen ihm als\nSensoren zum Abtasten der Umgebung. Seine\nunteren Schnurrhaare erzeugen Elektrizität."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Mit den Schnurrhaaren empfangen sie elektrische\nWellen von Artgenossen. So teilen sie einander\nmit, wo Futter und Elektrizität zu finden sind."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Dedenne selbst kann nur wenig Elektrizität\nerzeugen, weshalb es Strom von anderen\nElektro-Pokémon oder aus Steckdosen stiehlt."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Dedenne",
+    "genus": "Pokémon Antenas",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Sus bigotes hacen la función de antenas, por lo\nque puede enviar y recibir ondas eléctricas para\ncomunicarse a grandes distancias."
+      },
+      {
+        "game": "xy-y",
+        "text": "Con su cola absorbe la electricidad procedente de las\ncentrales de energía o los enchufes de las casas,\npara liberarla en forma de ataque por los bigotes."
+      },
+      {
+        "game": "oras-or",
+        "text": "Sus bigotes hacen la función de antenas, por lo que puede\nenviar y recibir ondas eléctricas para comunicarse a grandes\ndistancias."
+      },
+      {
+        "game": "oras-as",
+        "text": "Con su cola absorbe la electricidad procedente de las\ncentrales de energía o los enchufes de las casas, para\nliberarla en forma de ataque por los bigotes."
+      },
+      {
+        "game": "usum-us",
+        "text": "Se infiltra en los hogares para robar energía de\nlos enchufes. Si la factura de la electricidad es\ninusualmente alta, seguro que él tiene la culpa."
+      },
+      {
+        "game": "usum-um",
+        "text": "Los bigotes superiores actúan como sensores\ndel entorno, mientras que los inferiores son\nórganos que generan electricidad."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Se sirve de sus bigotes para captar las ondas que\nemiten sus compañeros, con las que se indican\ndónde encontrar sustento o electricidad."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Su capacidad para producir electricidad es muy\nlimitada, de modo que tiene que robarla de las\ntomas de corriente o de otros Pokémon."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Dedenne",
+    "genus": "Pokémon Antenna",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "I suoi baffi fungono da antenne che trasmettono e\nricevono onde radio. Se ne serve per comunicare\ncon i suoi simili."
+      },
+      {
+        "game": "xy-y",
+        "text": "Con la coda può assorbire energia dalle prese di\ncorrente di centrali elettriche e abitazioni per poi\nscaricarla dai baffi."
+      },
+      {
+        "game": "oras-or",
+        "text": "I suoi baffi fungono da antenne che trasmettono e ricevono\nonde radio. Se ne serve per comunicare con i suoi simili."
+      },
+      {
+        "game": "oras-as",
+        "text": "Con la coda può assorbire energia dalle prese di corrente\ndi centrali elettriche e abitazioni per poi scaricarla dai baffi."
+      },
+      {
+        "game": "usum-us",
+        "text": "Si intrufola nelle case per rubare energia dalle\nprese elettriche. Se la bolletta della luce è\nstranamente alta, c’è di sicuro il suo zampino!"
+      },
+      {
+        "game": "usum-um",
+        "text": "I baffi superiori sono sensori con cui sonda\nl’ambiente circostante, mentre quelli inferiori\nsono organi che emettono elettricità."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Usa i baffi per captare le onde radio emesse\ndai suoi simili. Così condivide informazioni\nsu dove trovare cibo ed elettricità."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Non riuscendo a produrre molta elettricità,\nla ruba dalle prese di corrente o da\naltri Pokémon di tipo Elettro."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Dedenne",
+    "genus": "Antenna Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Its whiskers serve as antennas. By sending and\nreceiving electrical waves, it can communicate\nwith others over vast distances."
+      },
+      {
+        "game": "xy-y",
+        "text": "It uses its tail to absorb electricity from\npower plants or from outlets in houses,\nand then it fires the electricity from its whiskers."
+      },
+      {
+        "game": "oras-or",
+        "text": "Its whiskers serve as antennas. By sending and\nreceiving electrical waves, it can communicate\nwith others over vast distances."
+      },
+      {
+        "game": "oras-as",
+        "text": "It uses its tail to absorb electricity from\npower plants or from outlets in houses,\nand then it fires the electricity from its whiskers."
+      },
+      {
+        "game": "usum-us",
+        "text": "It sneaks into people’s homes and steals\nelectricity from their outlets. When your electric\nbill seems off, it’s the handiwork of this rascal."
+      },
+      {
+        "game": "usum-um",
+        "text": "Its upper whiskers are sensors that survey its\nsurroundings. Its lower whiskers are organs\nthat shoot electricity."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "A Dedenne’s whiskers pick up electrical waves\nother Dedenne send out. These Pokémon share\nlocations of food or electricity with one another."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Since Dedenne can’t generate much electricity on\nits own, it steals electricity from outlets or other\nelectric Pokémon."
+      }
+    ]
+  },
+  "chs": {
+    "name": "咚咚鼠",
+    "genus": "天线宝可梦",
+    "flavorText": [
+      {
+        "game": "usum-us",
+        "text": "潜入民居，从插座里偷电。\n电费很奇怪的时候，\n就是这家伙的杰作。"
+      },
+      {
+        "game": "usum-um",
+        "text": "上面的胡子是探索周边的感应器。\n下面长出的胡子是释放电的器官。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "用胡子来感知伙伴发出\n的电波。它们通过这种方式\n告诉彼此哪里有食物和电。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "由于发电的能力弱，\n会从插座或其他的\n电气宝可梦那里偷电。"
+      }
+    ]
+  }
+}

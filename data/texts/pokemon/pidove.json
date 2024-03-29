@@ -1,0 +1,269 @@
+{
+  "jap": {
+    "name": "マメパト",
+    "genus": "こばとポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "とても　わすれっぽい　ポケモンで\nトレーナーに　めいれい　されたのに\nあたらしい　めいれいを　まっている。"
+      },
+      {
+        "game": "xy-y",
+        "text": "まちなかで　くらしている　ポケモン。\nひとなつっこいので　こうえんや\nひろばに　たくさん　あつまってくる。"
+      },
+      {
+        "game": "oras-or",
+        "text": "とても　わすれっぽい　ポケモンで\nトレーナーに　めいれい　されたのに\nあたらしい　めいれいを　まっている。"
+      },
+      {
+        "game": "oras-as",
+        "text": "まちなかで　くらしている　ポケモン。\nひとなつっこいので　こうえんや\nひろばに　たくさん　あつまってくる。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "ひとのすむ　ばしょに　あらわれる。\nエサを　まくと　なんびゃくひきでも\nあつまってくるので　ちゅういだぞ。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "わすれっぽく　かしこくはないが\nひとなつっこくて　まじめなので\nかわいがる　トレーナーは　おおい。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Mamepato",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "콩둘기",
+    "genus": "아기비둘기포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "매우 건망증이 심한 포켓몬으로\n트레이너에게 명령을 받았어도\n새로운 명령을 기다리고 있다."
+      },
+      {
+        "game": "xy-y",
+        "text": "거리에 사는 포켓몬이다.\n사람을 잘 따라서 공원이나\n광장에 많이 모인다."
+      },
+      {
+        "game": "oras-or",
+        "text": "매우 건망증이 심한 포켓몬으로\n트레이너에게 명령을 받았어도\n새로운 명령을 기다리고 있다."
+      },
+      {
+        "game": "oras-as",
+        "text": "거리에 사는 포켓몬이다.\n사람을 잘 따라서 공원이나\n광장에 많이 모인다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "사람이 사는 곳에 나타난다.\n먹이를 뿌려주면 수백 마리가\n모여들기 때문에 주의해야 한다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "건망증이 심하고 영리하지 않지만\n사람을 잘 따르고 착실해서\n귀여워하는 트레이너가 많다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "豆豆鴿",
+    "genus": "小鴿寶可夢",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "會出現在人類生活的地方。\n一旦撒出飼料就會有好幾百隻\n豆豆鴿聚集而來，千萬要小心。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "雖然既健忘又不太聰明，\n因為性格認真且容易親近人，\n所以受到了許多訓練家的喜愛。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Poichigeon",
+    "genus": "Pokémon Tipigeon",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Il suit scrupuleusement les consignes\nde son Dresseur, mais il a du mal à\ncomprendre les ordres trop compliqués."
+      },
+      {
+        "game": "bw-w",
+        "text": "Ces Pokémon vivent en ville. Ils sont\npeu farouches et se regroupent souvent\ndans les parcs ou sur les places."
+      },
+      {
+        "game": "xy-x",
+        "text": "Un Pokémon très distrait qui oublie les ordres de son\nDresseur et reste planté à en attendre de nouveaux."
+      },
+      {
+        "game": "xy-y",
+        "text": "Ces Pokémon vivent en ville. Ils sont peu farouches\net se regroupent souvent dans les parcs ou sur\nles places."
+      },
+      {
+        "game": "oras-or",
+        "text": "Un Pokémon très distrait qui oublie les ordres de son Dresseur\net reste planté à en attendre de nouveaux."
+      },
+      {
+        "game": "oras-as",
+        "text": "Ces Pokémon vivent en ville. Ils sont peu farouches\net se regroupent souvent dans les parcs ou sur les places."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "On en trouve là où vivent les humains.\nMieux vaut éviter de les nourrir, sous peine\nd’en voir arriver des centaines."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Il n’est pas très malin et un peu distrait,\nmais beaucoup de Dresseurs l’apprécient pour\nson caractère affectueux et sa bonne volonté."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Dusselgurr",
+    "genus": "Täubchen-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Wartet oft vergeblich auf Anweisungen,\nobwohl es bereits einen Befehl erhalten hat.\nEin sehr zerstreutes Pokémon."
+      },
+      {
+        "game": "xy-y",
+        "text": "Ein Pokémon, das in der Stadt zu Hause ist. Es ist\nsehr zutraulich und bevölkert in Scharen öffentliche\nPlätze und Parks."
+      },
+      {
+        "game": "oras-or",
+        "text": "Wartet oft vergeblich auf Anweisungen, obwohl es bereits\neinen Befehl erhalten hat. Ein sehr zerstreutes Pokémon."
+      },
+      {
+        "game": "oras-as",
+        "text": "Ein Pokémon, das in der Stadt zu Hause ist. Es ist sehr\nzutraulich und bevölkert in Scharen öffentliche Plätze\nund Parks."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Es taucht dort auf, wo Menschen leben. Beim\nFüttern muss man vorsichtig sein, da sich sonst\nschnell hunderte von ihnen versammeln können."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Sie sind vergesslich und nicht besonders clever,\naber da sie sehr zutraulich und fleißig sind, haben\nviele Trainer sie ins Herz geschlossen."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Pidove",
+    "genus": "Pokémon Pichón",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Es un Pokémon muy despistado. Aunque reciba\nórdenes de su Entrenador, se le olvidan, y se queda\nesperando."
+      },
+      {
+        "game": "xy-y",
+        "text": "Vive en la ciudad, pues se lleva muy bien con la gente.\nLe encantan los parques y las plazas, donde se reúne\ncon otros."
+      },
+      {
+        "game": "oras-or",
+        "text": "Es un Pokémon muy despistado. Aunque reciba órdenes de\nsu Entrenador, se le olvidan, y se queda esperando."
+      },
+      {
+        "game": "oras-as",
+        "text": "Vive en la ciudad, pues se lleva muy bien con la gente. Le\nencantan los parques y las plazas, donde se reúne con otros."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Aparece en lugares habitados por humanos.\nConviene tener cuidado al darles de comer, ya\nque esto podría atraer a cientos de ejemplares."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Es muy olvidadizo y no demasiado avispado,\npero muchos Entrenadores le tienen simpatía\npor su carácter afable y sincero."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Pidove",
+    "genus": "Pokémon Piccione",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "È un Pokémon un po’ smemorato. A volte dimentica\nl’ordine appena ricevuto e allora aspetta di riceverne\nun altro."
+      },
+      {
+        "game": "xy-y",
+        "text": "Pokémon che vive in città. Si affeziona facilmente\nalle persone, perciò non è strano trovarlo in parchi\no piazze."
+      },
+      {
+        "game": "oras-or",
+        "text": "È un Pokémon un po’ smemorato. A volte dimentica l’ordine\nappena ricevuto e allora aspetta di riceverne un altro."
+      },
+      {
+        "game": "oras-as",
+        "text": "Pokémon che vive in città. Si affeziona facilmente alle persone,\nperciò non è strano trovarlo in parchi o piazze."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Appare dovunque vivano delle persone. Meglio\nessere prudenti quando gli si dà del cibo, perché\npotrebbero accorrere centinaia di esemplari."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "È un po’ smemorato e non molto sveglio.\nTuttavia è diligente e si affeziona facilmente,\ne per questo molti Allenatori lo adorano."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Pidove",
+    "genus": "Tiny Pigeon Pokémon",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Each follows its Trainer’s orders as\nbest it can, but they sometimes fail to\nunderstand complicated commands."
+      },
+      {
+        "game": "bw-w",
+        "text": "These Pokémon live in cities. They are\naccustomed to people. Flocks often\ngather in parks and plazas."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "This very forgetful Pokémon will\nwait for a new order from its Trainer\neven though it already has one."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "This very forgetful Pokémon will\nwait for a new order from its Trainer\neven though it already has one."
+      },
+      {
+        "game": "xy-x",
+        "text": "This very forgetful Pokémon will wait for a new\norder from its Trainer even though it already\nhas one."
+      },
+      {
+        "game": "xy-y",
+        "text": "These Pokémon live in cities. They are accustomed\nto people. Flocks often gather in parks and plazas."
+      },
+      {
+        "game": "oras-or",
+        "text": "This very forgetful Pokémon will wait for a new\norder from its Trainer even though it already\nhas one."
+      },
+      {
+        "game": "oras-as",
+        "text": "These Pokémon live in cities. They are accustomed\nto people. Flocks often gather in parks and plazas."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Where people go, these Pokémon follow.\nIf you’re scattering food for them, be careful—\nseveral hundred of them can gather at once."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "It’s forgetful and not very bright, but many\nTrainers love it anyway for its friendliness\nand sincerity."
+      }
+    ]
+  },
+  "chs": {
+    "name": "豆豆鸽",
+    "genus": "小鸽宝可梦",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "会出现在人类生活的地方。\n一旦撒出饲料就会有好几百只\n豆豆鸽聚集而来，千万要小心。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "虽然既健忘又不太聪明，\n因为性格认真且容易亲近人，\n所以受到了许多训练家的喜爱。"
+      }
+    ]
+  }
+}

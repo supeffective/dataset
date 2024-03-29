@@ -1,0 +1,239 @@
+{
+  "jap": {
+    "name": "ケムッソ",
+    "genus": "いもむしポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "はっぱが　だいこうぶつ。\nムックルに　おそわれたときは\nおしりの　トゲで　げきたいする。"
+      },
+      {
+        "game": "xy-y",
+        "text": "もりや　くさむらに　せいそく。\nてきに　おそわれた　ときは　おしりの\nどくの　トゲで　たいこうする。"
+      },
+      {
+        "game": "oras-or",
+        "text": "おしりの　トゲで　きの　かわを　はがして\nしみだした　じゅえきを　しょくりょうに　する。\nきゅうばんの　あしは　ガラスでも　すべらない。"
+      },
+      {
+        "game": "oras-as",
+        "text": "エサにしようと　つかまえにきた　オオスバメに\nおしりの　トゲを　むけて　ていこうする。\nしみだした　どくで　あいてを　よわらせるぞ。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Kemusso",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "개무소",
+    "genus": "애벌레포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "잎사귀를 매우 좋아한다.\n찌르꼬에게 습격당했을 때는\n엉덩이의 가시로 물리친다."
+      },
+      {
+        "game": "xy-y",
+        "text": "숲과 수풀에 서식한다.\n적에게 습격당했을 때는 엉덩이의\n독가시로 대항한다."
+      },
+      {
+        "game": "oras-or",
+        "text": "엉덩이의 가시로 나무의 껍질을 벗기고\n배어 나온 수액을 식량으로 삼는다.\n흡반이 달린 다리는 유리에서도 미끄러지지 않는다."
+      },
+      {
+        "game": "oras-as",
+        "text": "먹이로 삼으려고 다가온 스왈로에게\n엉덩이의 가시를 들이밀고 저항한다.\n배어 나온 독으로 상대를 약하게 만든다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "刺尾蟲",
+    "genus": "蟲寶寶寶可夢",
+    "flavorText": []
+  },
+  "fra": {
+    "name": "Chenipotte",
+    "genus": "Pokémon Ver",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Cible favorite des Pokémon Oiseaux,\nil tente de se protéger avec ses\népines venimeuses."
+      },
+      {
+        "game": "bw-w",
+        "text": "Cible favorite des Pokémon Oiseaux,\nil tente de se protéger avec ses\népines venimeuses."
+      },
+      {
+        "game": "xy-x",
+        "text": "Il adore manger des feuilles. Si un Étourmi l’attaque,\nil riposte avec les piquants de son postérieur."
+      },
+      {
+        "game": "xy-y",
+        "text": "Il habite les forêts et les hautes herbes. Attaqué,\nil riposte avec les piquants de son postérieur."
+      },
+      {
+        "game": "oras-or",
+        "text": "À l’aide de ses pointes arrière, Chenipotte déchire l’écorce\ndes arbres et mange la sève qui coule dessus.\nLes pattes de ce Pokémon sont dotées de coussinets à\nventouses pour adhérer aux parois en verre sans en glisser."
+      },
+      {
+        "game": "oras-as",
+        "text": "Chenipotte est la proie de Hélédelle. Ce Pokémon essaie de\nrésister en dirigeant les pointes de son dos vers le prédateur.\nIl affaiblit son ennemi en lui injectant du poison."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Waumpel",
+    "genus": "Wurm",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Es isst am liebsten Blätter. Wird es von einem\nStaralili angegriffen, verteidigt es sich mit Stacheln."
+      },
+      {
+        "game": "xy-y",
+        "text": "Es haust in Wäldern und auf Wiesen. Bei Angriffen\nwehrt es sich mit den Giftstacheln auf seinem\nHinterteil."
+      },
+      {
+        "game": "oras-or",
+        "text": "Waumpel kann mit den Stacheln an seinem Hinterteil die Rinde\nvon Bäumen entfernen und ernährt sich von dem austretenden\nSaft. An den Füßen dieses Pokémon befinden sich Saugnäpfe,\nmit denen es auch an Glas nicht abrutscht."
+      },
+      {
+        "game": "oras-as",
+        "text": "Waumpel wird von Schwalboss als Beute angesehen.\nDieses Pokémon wehrt sich gegen angreifende Räuber,\nindem es die Stacheln an seinem Hinterteil auf sie richtet.\nEs schwächt seine Gegner mit dem Gift, das aus den\nStacheln austritt."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Wurmple",
+    "genus": "Pokémon Gusano",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Le encanta comer hojas. Si le ataca un Starly, se\ndefenderá con sus púas."
+      },
+      {
+        "game": "xy-y",
+        "text": "Vive en bosques y zonas de hierba alta. Si le atacan,\nse defiende con las púas venenosas de su cola."
+      },
+      {
+        "game": "oras-or",
+        "text": "Wurmple usa las púas del lomo para raspar los troncos de los\nárboles, quitarles la corteza y beber la savia que emanan. Este\nPokémon tiene unas ventosas rematándole los pies, con las\nque se adhiere al cristal sin resbalarse."
+      },
+      {
+        "game": "oras-as",
+        "text": "Wurmple es la presa preferida de Swellow. La forma que tiene\nde intentar defenderse es apuntar con las púas del lomo al\namenazante enemigo y debilitarlo inyectándole veneno."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Wurmple",
+    "genus": "Pokémon Baco",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Ama mangiare le foglie. Se Starly lo attacca, si\ndifende con gli aculei che ha sulla parte posteriore."
+      },
+      {
+        "game": "xy-y",
+        "text": "Vive nelle foreste e tra l’erba alta. Se è attaccato,\nusa gli aculei velenosi che ha sulla parte posteriore."
+      },
+      {
+        "game": "oras-or",
+        "text": "Grazie agli aculei sulla parte posteriore del corpo, Wurmple\nscorteccia i tronchi degli alberi e si nutre della loro linfa.\nLe sue zampe sono dotate di ventose che gli consentono\ndi attaccarsi ai vetri senza scivolare."
+      },
+      {
+        "game": "oras-as",
+        "text": "Wurmple è la preda favorita di Swellow. Questo Pokémon\ncerca di resistere puntando gli aculei irti sulla schiena contro\nil predatore che attacca. Poi indebolisce il nemico emettendo\nveleno da questi aculei."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Wurmple",
+    "genus": "Worm Pokémon",
+    "flavorText": [
+      {
+        "game": "rs-r",
+        "text": "Using the spikes on its rear end,  \nWURMPLE peels the bark off trees and\nfeeds on the sap that oozes out.\fThis POKéMON’s feet are tipped with\nsuction pads that allow it to cling to\nglass without slipping."
+      },
+      {
+        "game": "rs-s",
+        "text": "WURMPLE is targeted by SWELLOW as\nprey. This POKéMON will try to resist by\npointing the spikes on its rear at the\fattacking predator.\nIt will weaken the foe by leaking poison\nfrom the spikes."
+      },
+      {
+        "game": "e",
+        "text": "It sticks to tree branches and eats\nleaves. The thread it spits from its mouth,\nwhich becomes gooey when it touches\nair, slows the movement of its foes."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "It lives amidst tall grass and in forests.\nWhen attacked, it resists by pointing its\nvenomous spikes at the foe."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "It lives amidst tall grass and in forests.\nWhen attacked, it resists by pointing its\nvenomous spikes at the foe."
+      },
+      {
+        "game": "dp-d",
+        "text": "It loves to eat leaves. If it is\nattacked by a STARLY, it will defend\nitself with its spiked rear."
+      },
+      {
+        "game": "dp-p",
+        "text": "It spits a white silk that turns\nsticky when it contacts air. It is\nused to immobilize foes."
+      },
+      {
+        "game": "pt",
+        "text": "Often targeted by bird Pokémon,\nit desperately resists by releasing\npoison from its tail spikes."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "It lives among the tall grass and in\nforests. It repels attacks by \nraising up the spikes on its rear."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "It lives among the tall grass and in\nforests. It repels attacks by \nraising up the spikes on its rear."
+      },
+      {
+        "game": "bw-b",
+        "text": "Often targeted by bird Pokémon,\nit desperately resists by releasing\npoison from its tail spikes."
+      },
+      {
+        "game": "bw-w",
+        "text": "Often targeted by bird Pokémon,\nit desperately resists by releasing\npoison from its tail spikes."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "Often targeted by bird Pokémon,\nit desperately resists by releasing\npoison from its tail spikes."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "Often targeted by bird Pokémon,\nit desperately resists by releasing\npoison from its tail spikes."
+      },
+      {
+        "game": "xy-x",
+        "text": "It loves to eat leaves. If it is attacked by a Starly,\nit will defend itself with its spiked rear."
+      },
+      {
+        "game": "xy-y",
+        "text": "It lives among the tall grass and in forests. It repels\nattacks by raising up the spikes on its rear."
+      },
+      {
+        "game": "oras-or",
+        "text": "Using the spikes on its rear end, Wurmple peels the bark off\ntrees and feeds on the sap that oozes out. This Pokémon’s\nfeet are tipped with suction pads that allow it to cling to glass\nwithout slipping."
+      },
+      {
+        "game": "oras-as",
+        "text": "Wurmple is targeted by Swellow as prey. This Pokémon\nwill try to resist by pointing the spikes on its rear at the\nattacking predator. It will weaken the foe by leaking poison\nfrom the spikes."
+      },
+      {
+        "game": "la",
+        "text": "Likes sap and is abundant in the wild. Why it evolves into\nvarious different forms is unknown. One cannot tell from a\nWurmple's appearance which form it will take when it evolves."
+      }
+    ]
+  },
+  "chs": {
+    "name": "刺尾虫",
+    "genus": "虫宝宝宝可梦",
+    "flavorText": []
+  }
+}

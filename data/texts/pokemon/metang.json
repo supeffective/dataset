@@ -1,0 +1,453 @@
+{
+  "jap": {
+    "name": "メタング",
+    "genus": "てつツメポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "２ひきの　ダンバルが　がったいした。\nはがねの　ボディは　ジェットきと\nしょうとつしても　きずつかない。"
+      },
+      {
+        "game": "xy-y",
+        "text": "２ひきの　ダンバルが　がったいした。\n２つの　のうみそが　れんけつしたので\nサイコパワーは　より　つよくなった。"
+      },
+      {
+        "game": "oras-or",
+        "text": "２ひきの　ダンバルが　がったいした　すがた。\n２つの　のうを　じりょくの　しんけいが　むすぶ\nことで　つよい　サイコエネルギーを　うみだす。"
+      },
+      {
+        "game": "oras-as",
+        "text": "２ひきの　ダンバルが　がったいしたとき　２つの\nのうが　じりょくの　しんけいで　むすばれる。\nうでを　うしろへ　まわし　こうそくで　いどう。"
+      },
+      {
+        "game": "sm-s",
+        "text": "２ひきの　ダンバルが　れんけつし\nサイコパワーは　２ばいに。　ただし\nかしこさじたいは　かわっていない。"
+      },
+      {
+        "game": "sm-m",
+        "text": "じりょくを　はなつ　こうぶつが\nこうぶつ。　じそく　１００キロで\nノズパスを　おいつめるぞ。"
+      },
+      {
+        "game": "usum-us",
+        "text": "２つの　のうみそから　きょうりょくな\nサイコエネルギーを　ほうしゃし\nえものの　みうごきを　ふうじる。"
+      },
+      {
+        "game": "usum-um",
+        "text": "こうそくで　そらを　とびまわり\nえものを　みつけると　するどいツメで\nがっちり　つかんで　はなさないのだ。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "２ひきの　ダンバルが　じりょくで\nくっついた。　２つの　のうみそにより\nサイコパワーは　２ばいに　きょうか。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "じりょくで　そらを　とぶ。　けわしい\nさんがくを　ぬうように　こうそくで\nひこうして　えものを　おいつめる。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Metang",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "메탕구",
+    "genus": "철발톱포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "2마리의 메탕이 합체했다.\n강철의 몸은 제트기와\n충돌해도 상처 입지 않는다."
+      },
+      {
+        "game": "xy-y",
+        "text": "2마리의 메탕이 합체했다.\n2개의 뇌가 연결되었기 때문에\n사이코 파워는 보다 강해졌다."
+      },
+      {
+        "game": "oras-or",
+        "text": "두 마리의 메탕이 합체한 모습이다.\n두 개의 뇌를 자력 신경이 묶고 있어서\n강한 사이코 에너지를 만들어 낸다."
+      },
+      {
+        "game": "oras-as",
+        "text": "두 마리의 메탕이 합체했을 때 두 개의\n뇌가 자력 신경에 의해 이어진다.\n팔을 뒤로 돌리고 고속으로 이동한다."
+      },
+      {
+        "game": "sm-s",
+        "text": "2마리의 메탕이 연결되어\n사이코 파워는 두 배가 된다. 단,\n영리함 자체는 변하지 않는다."
+      },
+      {
+        "game": "sm-m",
+        "text": "자력을 발산하는 광물을\n좋아한다. 시속 100km로\n코코파스를 몰아넣는다."
+      },
+      {
+        "game": "usum-us",
+        "text": "2개의 뇌에서 강력한\n사이코 에너지를 방사하여\n먹이를 움직이지 못하게 한다."
+      },
+      {
+        "game": "usum-um",
+        "text": "고속으로 하늘을 날아다니다가\n먹이를 발견하면 날카로운 발톱으로\n꽉 잡고 놓지 않는다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "2마리의 메탕이 자력으로\n합체했다. 2개의 두뇌로 인해\n사이코 파워가 2배로 강화되었다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "자력으로 하늘을 난다. 험준한\n산들을 누비듯이 고속으로\n비행하여 먹이를 쫓는다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "金屬怪",
+    "genus": "鐵爪寶可夢",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "２隻鐵啞鈴結合起來，\n精神力量也變為２倍。\n但是智商並沒有發生改變。"
+      },
+      {
+        "game": "sm-m",
+        "text": "非常喜歡能放出磁力的礦物。\n會以１００公里的時速窮追朝北鼻。"
+      },
+      {
+        "game": "usum-us",
+        "text": "會從２個大腦發射出\n強大的精神能量，\n藉此封鎖獵物的行動。"
+      },
+      {
+        "game": "usum-um",
+        "text": "會以高速在空中四處飛行。\n當發現獵物時，會用銳利的爪子\n牢牢抓住獵物，絕不鬆開。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "由２隻鐵啞鈴以磁力結合\n而成。因為有２個大腦，\n精神力量也強化成２倍了。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "會以磁力在空中飛行。\n能在險峻的山岳中高速\n穿梭，將獵物逼入絕境。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Métang",
+    "genus": "Pokémon Pincefer",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Il est formé de deux Terhal\nsoudés. Son corps de fer résiste à\nun choc avec un avion à réaction."
+      },
+      {
+        "game": "bw-w",
+        "text": "Il est formé de deux Terhal\nsoudés. Son corps de fer résiste à\nun choc avec un avion à réaction."
+      },
+      {
+        "game": "xy-x",
+        "text": "Il est formé de deux Terhal soudés. Son corps de fer\nrésiste à un choc avec un avion à réaction."
+      },
+      {
+        "game": "xy-y",
+        "text": "Il est formé de deux Terhal soudés. Leurs deux\ncerveaux étant liés, ses pouvoirs psychiques sont\ntrès puissants."
+      },
+      {
+        "game": "oras-or",
+        "text": "Lorsque deux Terhal fusionnent, un Métang apparaît.\nLes cerveaux des Terhal sont reliés par un système nerveux\nmagnétique, ce qui permet à ce Pokémon de générer\nun puissant pouvoir télékinétique."
+      },
+      {
+        "game": "oras-as",
+        "text": "Lorsque deux Terhal fusionnent, un Métang se forme.\nLes cerveaux des Terhal sont reliés par un système nerveux\nmagnétique. Ce Pokémon dirige ses bras vers l’arrière\npour voyager à grande vitesse."
+      },
+      {
+        "game": "sm-s",
+        "text": "Lorsque deux Terhal fusionnent, leurs pouvoirs\npsychiques sont doublés. En revanche, ils ne\ndeviennent pas plus futés."
+      },
+      {
+        "game": "sm-m",
+        "text": "Il raffole des minéraux qui émettent des ondes\nmagnétiques. Il peut s’élancer à la poursuite\nd’un Tarinor à 100 km/h."
+      },
+      {
+        "game": "usum-us",
+        "text": "Grâce à ses deux cerveaux, il peut déchaîner\nune puissante force psychique qui lui permet\nd’immobiliser ses proies."
+      },
+      {
+        "game": "usum-um",
+        "text": "Il parcourt le ciel à toute allure à la recherche\nd’une proie. Quand il en trouve une, il l’attrape\navec ses griffes acérées et ne la lâche plus."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Composé de deux Terhal réunis par l’attraction\nmagnétique, ce Pokémon a vu sa puissance\npsychique doubler grâce aux deux cerveaux."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Ce Pokémon vole par magnétisme.\nIl poursuit ses proies en slalomant\nà toute allure entre les pics escarpés."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Metang",
+    "genus": "Eisenklauen-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Das Pokémon besteht aus zwei Tanhel. Es bekommt\nselbst dann keinen Kratzer, wenn ein Jet es streift."
+      },
+      {
+        "game": "xy-y",
+        "text": "Es besteht aus zwei Tanhel. Dank der Vereinigung\nihrer beiden Hirne verfügen sie über gesteigerte\nPsycho-Kräfte."
+      },
+      {
+        "game": "oras-or",
+        "text": "Wenn zwei Tanhel miteinander verschmelzen, entsteht\ndaraus Metang. Die Gehirne der Tanhel werden mit einem\nmagnetischen Nervensystem verbunden. Dadurch erzeugt\nes starke psychokinetische Energie."
+      },
+      {
+        "game": "oras-as",
+        "text": "Wenn zwei Tanhel miteinander verschmelzen, entsteht\ndaraus Metang. Die Gehirne der Tanhel werden mit einem\nmagnetischen Nervensystem verbunden. Es schlägt seine\nArme nach hinten, um sich schnell bewegen zu können."
+      },
+      {
+        "game": "sm-s",
+        "text": "Zwei Tanhel haben sich vereinigt und so ihre\nPsycho-Kräfte verdoppelt. Ihre Denkfähigkeit\nbleibt dabei aber unverändert."
+      },
+      {
+        "game": "sm-m",
+        "text": "Es liebt Mineralien, die Magnetfelder erzeugen.\nKein Wunder, dass es Nasgnet mit 100 km/h\nhinterherjagt."
+      },
+      {
+        "game": "usum-us",
+        "text": "Durch seine zwei Gehirne kann es sehr starke\nPsycho-Kräfte freisetzen, mit denen es seine\nBeute bewegungsunfähig macht."
+      },
+      {
+        "game": "usum-um",
+        "text": "Es fliegt schnell durch die Luft. Wenn es Beute\nentdeckt, packt es sie mit seinen scharfen\nKlauen und lässt sie nicht mehr los."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Durch Magnetismus verschmolzen zwei Tanhel\nmiteinander. Da es nun zwei Gehirne besitzt,\nhaben sich seine Psycho-Kräfte verdoppelt."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Mithilfe von Magnetismus kann Metang fliegen.\nAuf der Jagd nach Beute manövriert es so mit\nhoher Geschwindigkeit durch schroffes Gebirge."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Metang",
+    "genus": "Pokémon Garra Hierro",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Lo forman dos Beldum unidos. Puede chocarse con un\navión sin que su cuerpo de acero sufra ni un rasguño."
+      },
+      {
+        "game": "xy-y",
+        "text": "Está formado por dos Beldum unidos. Tiene dos\ncerebros, así que cuenta con poderes psíquicos\namplificados."
+      },
+      {
+        "game": "oras-or",
+        "text": "Cuando dos Beldum se fusionan, forman un Metang. Los\ncerebros de los Beldum se unen mediante un sistema nervioso\nmagnético y generan potente energía psicoquinética."
+      },
+      {
+        "game": "oras-as",
+        "text": "Cuando se funden dos Beldum, uniendo los cerebros por un\nsistema nervioso magnético, se forma un Metang. Para\ndesplazarse a mayor velocidad, este Pokémon echa los brazos\nhacia atrás."
+      },
+      {
+        "game": "sm-s",
+        "text": "Al unirse dos Beldum, sus poderes psíquicos se\nduplican. No obstante, su inteligencia no se ve\nafectada."
+      },
+      {
+        "game": "sm-m",
+        "text": "Le encanta comer minerales con propiedades\nmagnéticas. Puede rastrear a un Nosepass\ndesplazándose a más de 100 km/h."
+      },
+      {
+        "game": "usum-us",
+        "text": "El poder psíquico combinado de ambos\ncerebros es tal que le permite paralizar a sus\npresas."
+      },
+      {
+        "game": "usum-um",
+        "text": "Surca el cielo a gran velocidad. En cuanto avista\nsu presa, la agarra con sus afiladas garras y ya\nno se desprende de ella."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Está formado por la fusión magnética de dos\nBeldum. Al tener dos cerebros, sus poderes\npsíquicos se ven duplicados."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Levita gracias al magnetismo. Es capaz de sortear\nescarpadas montañas mientras vuela a altas\nvelocidades en pos de su presa."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Metang",
+    "genus": "Pokémon Ferrunghia",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "È sorto dalla fusione di due Beldum. Il suo corpo\nd’acciaio non viene scalfito neanche se urta un jet."
+      },
+      {
+        "game": "xy-y",
+        "text": "È nato dalla fusione di due Beldum. L’unione di due\ncervelli rende ancora più forti i suoi poteri psichici."
+      },
+      {
+        "game": "oras-or",
+        "text": "Fondendo insieme due Beldum, si crea Metang. I cervelli\ndei Beldum sono uniti da un sistema nervoso magnetico.\nQuesto particolare sistema di unione genera forti poteri\npsicocinetici."
+      },
+      {
+        "game": "oras-as",
+        "text": "Fondendosi, due Beldum formano Metang. I cervelli\ndei Beldum sono uniti da un sistema nervoso magnetico.\nQuesto Pokémon ruota le zampe all’indietro per muoversi\nad elevata velocità."
+      },
+      {
+        "game": "sm-s",
+        "text": "Quando due Beldum si fondono per formare un\nMetang, i loro poteri psichici raddoppiano, ma\nl’intelligenza rimane la stessa."
+      },
+      {
+        "game": "sm-m",
+        "text": "È ghiotto di minerali dotati di proprietà\nmagnetiche. Quando dà la caccia ai Nosepass,\npuò raggiungere i 100 km/h."
+      },
+      {
+        "game": "usum-us",
+        "text": "Grazie alla fusione di due cervelli, è in grado di\nscatenare fortissimi poteri psichici che\nimmobilizzano le prede."
+      },
+      {
+        "game": "usum-um",
+        "text": "Vola a grande velocità. Una volta individuata\nla preda, la afferra saldamente con gli artigli\naffilati e non la lascia più andare."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Due Beldum si sono uniti tramite\nl’attrazione magnetica, raddoppiando\ni loro poteri psichici grazie ai due cervelli."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Levita sfruttando la forza magnetica. Si fa strada\nfra i picchi scoscesi volando a grande velocità\nmentre insegue le prede."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Metang",
+    "genus": "Iron Claw Pokémon",
+    "flavorText": [
+      {
+        "game": "rs-r",
+        "text": "When two BELDUM fuse together, METANG\nis formed. The brains of the BELDUM are\njoined by a magnetic nervous system.\fBy linking its brains magnetically,\nthis POKéMON generates strong\npsychokinetic power."
+      },
+      {
+        "game": "rs-s",
+        "text": "When two BELDUM fuse together, METANG\nis formed. The brains of the BELDUM are\njoined by a magnetic nervous system.\fThis POKéMON turns its arms to the rear\nfor traveling at high speed."
+      },
+      {
+        "game": "e",
+        "text": "The claws tipping its arms pack the\ndestructive power to tear through thick\niron sheets as if they were silk. It flies\nat over 60 miles per hour."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "It floats midair using magnetism. Its body\nis so tough, even a crash with a jet\nplane won’t leave a scratch."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "It floats midair using magnetism. Its body\nis so tough, even a crash with a jet\nplane won’t leave a scratch."
+      },
+      {
+        "game": "dp-d",
+        "text": "It is formed by two BELDUM joining\ntogether. Its steel body won’t be\nscratched if it collides with a jet."
+      },
+      {
+        "game": "dp-p",
+        "text": "It is formed by two BELDUM joining\ntogether. Its steel body won’t be\nscratched if it collides with a jet."
+      },
+      {
+        "game": "pt",
+        "text": "It is formed by two BELDUM joining\ntogether. Its steel body won’t be\nscratched if it collides with a jet."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "When two BELDUM fuse together, a\nmagnetic nervous system places\ntheir brains in union."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "When two BELDUM fuse together, a\nmagnetic nervous system places\ntheir brains in union."
+      },
+      {
+        "game": "bw-b",
+        "text": "It is formed by two Beldum joining\ntogether. Its steel body won’t be\nscratched if it collides with a jet."
+      },
+      {
+        "game": "bw-w",
+        "text": "It is formed by two Beldum joining\ntogether. Its steel body won’t be\nscratched if it collides with a jet."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "It is formed by two Beldum joining\ntogether. Its two brains are linked,\namplifying its psychic power."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "It is formed by two Beldum joining\ntogether. Its two brains are linked,\namplifying its psychic power."
+      },
+      {
+        "game": "xy-x",
+        "text": "It is formed by two Beldum joining together.\nIts steel body won’t be scratched if it collides\nwith a jet."
+      },
+      {
+        "game": "xy-y",
+        "text": "It is formed by two Beldum joining together. Its two\nbrains are linked, amplifying its psychic power."
+      },
+      {
+        "game": "oras-or",
+        "text": "When two Beldum fuse together, Metang is formed. The brains\nof the Beldum are joined by a magnetic nervous system.\nBy linking its brains magnetically, this Pokémon generates\nstrong psychokinetic power."
+      },
+      {
+        "game": "oras-as",
+        "text": "When two Beldum fuse together, Metang is formed.\nThe brains of the Beldum are joined by a magnetic\nnervous system. This Pokémon turns its arms to the\nrear for traveling at high speed."
+      },
+      {
+        "game": "sm-s",
+        "text": "When two Beldum link together, their psychic\npower is doubled. Their intelligence, however,\nremains unchanged."
+      },
+      {
+        "game": "sm-m",
+        "text": "It adores magnetic minerals, so it pursues\nNosepass at speeds exceeding 60 mph."
+      },
+      {
+        "game": "usum-us",
+        "text": "With its two brains, it fires powerful psychic\nenergy to stop its prey in their tracks."
+      },
+      {
+        "game": "usum-um",
+        "text": "It flies at high speeds around the skies. When it\nfinds its prey, Metang takes a firm grip with its\nsharp claws and never lets go."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Two Beldum have become stuck together via\ntheir own magnetic forces. With two brains, the\nresulting Metang has doubled psychic powers."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Using magnetic forces to stay aloft, this Pokémon\nflies at high speeds, weaving through harsh\nmountain terrain in pursuit of prey."
+      }
+    ]
+  },
+  "chs": {
+    "name": "金属怪",
+    "genus": "铁爪宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "２只铁哑铃组合起来，\n精神力量也变为２倍。\n但是智商并没有发生改变。"
+      },
+      {
+        "game": "sm-m",
+        "text": "非常喜欢能放出磁力的矿物。\n会以１００公里的时速穷追朝北鼻。"
+      },
+      {
+        "game": "usum-us",
+        "text": "会从２个大脑里放射出\n强力的精神能量，\n封住猎物的行动。"
+      },
+      {
+        "game": "usum-um",
+        "text": "以高速在空中飞来飞去，\n如果发现猎物就会用锐利的爪子\n牢牢抓住，绝不松开。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "２只铁哑铃因磁力结合\n起来了。因为有了２个大脑，\n精神力量也强化到了２倍。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "依靠磁力飞行。能够在空中\n以高速穿过险峻的山岳，\n让追捕的猎物无处可逃。"
+      }
+    ]
+  }
+}

@@ -57,5 +57,10 @@
   "editor.formatOnSave": true,
   "json.format.enable": false,
   "typescript.format.enable": false,
-  "javascript.format.enable": false
+  "javascript.format.enable": false,
+  "workbench.localHistory.exclude": {
+    "build/*": true,
+    "data/**/*": true,
+    "dist/*": true
+  }
 }

@@ -1,0 +1,437 @@
+{
+  "jap": {
+    "name": "エレキブル",
+    "genus": "らいでんポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "でんきを　いっぱいに　ためると\n２ほんの　ツノの　あいだで　はげしく\nあおじろい　ひばなを　ちらす。"
+      },
+      {
+        "game": "xy-y",
+        "text": "２ほんの　しっぽの　さきを　あいてに\nおしあてて　２まんボルトいじょうの\nでんりゅうを　ながして　こうげき。"
+      },
+      {
+        "game": "oras-or",
+        "text": "でんきを　いっぱいに　ためると\n２ほんの　ツノの　あいだで　はげしく\nあおじろい　ひばなを　ちらす。"
+      },
+      {
+        "game": "oras-as",
+        "text": "２ほんの　しっぽの　さきを　あいてに\nおしあてて　２まんボルトいじょうの\nでんりゅうを　ながして　こうげき。"
+      },
+      {
+        "game": "sm-s",
+        "text": "シッポの　さきを　てきに　おしつけ\nこうあつでんりゅうを　ながしこむ。\nいっしゅんで　てきは　くろコゲ。"
+      },
+      {
+        "game": "sm-m",
+        "text": "こうふんすると　むねを　うちならす。\nそのたびに　でんきひばなが　ちり\nらいめいが　あたりに　ひびきわたる。"
+      },
+      {
+        "game": "usum-us",
+        "text": "でんきが　ほとばしるシッポを　にぎり\nたいでんした　こぶしを　つくると\nちからまかせに　ぶんなぐる。"
+      },
+      {
+        "game": "usum-um",
+        "text": "エレキブル　１ぴきで　だいとしの\nたてもの　すべての　でんりょくを\n１ねんぶん　まかなうことが　できる。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "はつでんりょうは　しんぱくすうと\nひれいする。　たたかいになると\nいっきに　ボルテージが　あがるのだ。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "はつでんりょうは　でんきポケモン\nさいこうクラス。　しっぽの　さきから\nこうあつでんりゅうを　ほうでんする。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Elekible",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "에레키블",
+    "genus": "뇌전포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "전기를 가득 모으면\n2개의 뿔 사이에서 세차게\n푸르스름한 불티를 뿌린다."
+      },
+      {
+        "game": "xy-y",
+        "text": "2개의 꼬리 끝을 상대에게\n바싹 대어 2만 볼트 이상의\n전류를 흘려 공격한다."
+      },
+      {
+        "game": "oras-or",
+        "text": "전기를 가득 모으면\n2개의 뿔 사이에서 세차게\n푸르스름한 불티를 뿌린다."
+      },
+      {
+        "game": "oras-as",
+        "text": "2개의 꼬리 끝을 상대에게\n바싹 대어 2만 볼트 이상의\n전류를 흘려 공격한다."
+      },
+      {
+        "game": "sm-s",
+        "text": "꼬리의 끝을 적에게 밀어붙여\n고압 전류를 흘려보낸다.\n한순간에 적은 까맣게 탄다."
+      },
+      {
+        "game": "sm-m",
+        "text": "흥분하면 가슴을 두들긴다.\n그때마다 전기 불꽃이 튀며\n천둥소리가 주변에 울려 퍼진다."
+      },
+      {
+        "game": "usum-us",
+        "text": "전기를 내뿜는 꼬리를 잡고\n주먹에 전기를 머금으면\n있는 힘껏 때린다."
+      },
+      {
+        "game": "usum-um",
+        "text": "에레키블 1마리로\n대도시 건물 전체의 전력을\n1년 동안 공급할 수 있다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "발전량은 심박 수에 비례한다.\n싸움이 시작되면\n단숨에 전압이 올라간다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "발전량은 전기포켓몬 중에서도\n손꼽히는 수준이다. 꼬리 끝에서\n고압 전류를 방전한다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "電擊魔獸",
+    "genus": "雷電寶可夢",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "用尾巴尖端按住敵人，\n灌注高壓電流。\n敵人瞬間就變成黑炭了。"
+      },
+      {
+        "game": "sm-m",
+        "text": "興奮的時候會捶胸發出聲響。\n每次捶胸都會飛濺出電火花，\n雷聲會在四周回響。"
+      },
+      {
+        "game": "usum-us",
+        "text": "會握住帶著強烈電流的尾巴，\n形成帶電的拳頭，\n然後使盡力氣痛毆對手。"
+      },
+      {
+        "game": "usum-um",
+        "text": "只要１隻電擊魔獸就能提供\n整座大都市所有建築物\n一整年所需的電力。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "發電量與心跳數成正比。\n當牠面臨戰鬥的時候，\n電壓就會急速飆升。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "發電量在電氣寶可夢中是\n屬於最頂級的。會從尾巴的\n前端放出高壓電流。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Élekable",
+    "genus": "Pokémon Foudrélec",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Encaissant les attaques, il vient\ntoucher l’ennemi de ses queues\net lui inflige une forte décharge."
+      },
+      {
+        "game": "bw-w",
+        "text": "Encaissant les attaques, il vient\ntoucher l’ennemi de ses queues\net lui inflige une forte décharge."
+      },
+      {
+        "game": "xy-x",
+        "text": "Des étincelles bleuâtres jaillissent entre ses 2 cornes\nquand il accumule beaucoup d’électricité."
+      },
+      {
+        "game": "xy-y",
+        "text": "Il place le bout de ses deux queues sur son ennemi\net libère une décharge de 20 000 V."
+      },
+      {
+        "game": "oras-or",
+        "text": "Des étincelles bleuâtres jaillissent entre ses 2 cornes\nquand il accumule beaucoup d’électricité."
+      },
+      {
+        "game": "oras-as",
+        "text": "Il place le bout de ses deux queues sur son ennemi et libère\nune décharge de 20 000 V."
+      },
+      {
+        "game": "sm-s",
+        "text": "Il connecte le bout de sa queue à son ennemi\net libère une violente décharge. L’ennemi est\ninstantanément grillé."
+      },
+      {
+        "game": "sm-m",
+        "text": "Quand il est excité, il se frappe violemment la\npoitrine de ses poings. Cela fait des étincelles\nélectriques et un vrai roulement de tonnerre."
+      },
+      {
+        "game": "usum-us",
+        "text": "Il tient fermement le bout de sa queue pour\ncharger son poing d’électricité, puis martèle\nses ennemis de coups dévastateurs."
+      },
+      {
+        "game": "usum-um",
+        "text": "Il suffit d’un seul Élekable pour alimenter tous\nles bâtiments d’une métropole pendant un an."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "La quantité d’électricité qu’il génère est\nproportionnelle à son pouls. Quand il livre\nun combat, son voltage augmente aussitôt."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "La quantité d’électricité qu’il génère est énorme,\nmême pour un Pokémon Électrik. Il inflige de\nfortes décharges du bout de ses queues."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Elevoltek",
+    "genus": "Donnerkeil-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Bei voller Ladung zucken feurige, blassweiße\nFunken zwischen seinen zwei Hörnern hin und her."
+      },
+      {
+        "game": "xy-y",
+        "text": "Es berührt den Gegner mit seinen beiden\nSchweifspitzen und entlädt dann über 20 000 V."
+      },
+      {
+        "game": "oras-or",
+        "text": "Bei voller Ladung zucken feurige, blassweiße Funken zwischen\nseinen zwei Hörnern hin und her."
+      },
+      {
+        "game": "oras-as",
+        "text": "Es berührt den Gegner mit seinen beiden Schweifspitzen\nund entlädt dann über 20 000 V."
+      },
+      {
+        "game": "sm-s",
+        "text": "Es berührt Gegner mit seinen Schweifspitzen\nund entlädt dann starke Elektrizität. So kann\nes sie im Nullkommanichts verkohlen."
+      },
+      {
+        "game": "sm-m",
+        "text": "Wenn es sich aufregt, schlägt es sich kräftig\nauf die Brust. Bei jedem Schlag sprühen Funken\nund es ertönt ein Donnern."
+      },
+      {
+        "game": "usum-us",
+        "text": "Es umfasst seine vor Elektrizität sprühenden\nSchweife, um seine Hände aufzuladen und dann\nmit aller Kraft zuzuschlagen."
+      },
+      {
+        "game": "usum-um",
+        "text": "Ein einzelnes Elevoltek erzeugt genügend\nElektrizität, um eine Großstadt ein ganzes Jahr\nlang mit Strom zu versorgen."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Wie viel Strom es erzeugt, ist abhängig von\nseinem Puls. Im Kampf steigt Elevolteks\nelektrische Spannung schlagartig an."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Elevoltek gehört zu jenen Elektro-Pokémon, die\nden meisten Strom erzeugen können. Mit seinen\nSchweifspitzen entlädt es Starkstrom."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Electivire",
+    "genus": "Pokémon Rayo",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Al almacenar mucha electricidad, desprende chispas de\nuna claridad increíble entre sus dos cuernos."
+      },
+      {
+        "game": "xy-y",
+        "text": "Toca a su enemigo con las puntas de sus dos colas\ny le suelta una descarga de más de 20 000 voltios."
+      },
+      {
+        "game": "oras-or",
+        "text": "Al almacenar mucha electricidad, desprende chispas de una\nclaridad increíble entre sus dos cuernos."
+      },
+      {
+        "game": "oras-as",
+        "text": "Toca a su enemigo con las puntas de sus dos colas y le\nsuelta una descarga de más de 20 000 voltios."
+      },
+      {
+        "game": "sm-s",
+        "text": "Toca a su enemigo con la punta de sus colas\ny le suelta una descarga de alta tensión que lo\ndeja achicharrado al instante."
+      },
+      {
+        "game": "sm-m",
+        "text": "Al exaltarse, se golpea con ímpetu el pecho.\nCada vez que lo hace saltan chispas y un\ntrueno resuena por la zona."
+      },
+      {
+        "game": "usum-us",
+        "text": "Agarra sus colas para electrificar los puños y\nluego soltar puñetazos devastadores."
+      },
+      {
+        "game": "usum-um",
+        "text": "La electricidad que genera un solo Electivire es\nsuficiente para cubrir la demanda energética de\nlos edificios de una metrópoli durante un año."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "La cantidad de electricidad que genera es\nproporcional a su pulso. Al enzarzarse en\ncombate, su voltaje aumenta drásticamente."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Es de los Pokémon de tipo Eléctrico que más\nelectricidad producen. Genera una corriente\nde alta tensión desde las puntas de las colas."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Electivire",
+    "genus": "Pokémon Saetta",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Quando accumula tanta elettricità sparge scintille\nazzurrine dallo spazio tra le due corna."
+      },
+      {
+        "game": "xy-y",
+        "text": "Tocca il nemico con le sue due code e rilascia una\nscarica elettrica di oltre 20.000 volt."
+      },
+      {
+        "game": "oras-or",
+        "text": "Quando accumula tanta elettricità sparge scintille azzurrine\ndallo spazio tra le due corna."
+      },
+      {
+        "game": "oras-as",
+        "text": "Tocca il nemico con le sue due code e rilascia una scarica\nelettrica di oltre 20.000 volt."
+      },
+      {
+        "game": "sm-s",
+        "text": "Tocca il nemico con la punta delle code\ne rilascia una scarica elettrica ad alto voltaggio\nche lo carbonizza all’istante."
+      },
+      {
+        "game": "sm-m",
+        "text": "Quando è agitato, si batte il petto sprizzando\nscintille e producendo un rombo simile a\nun tuono."
+      },
+      {
+        "game": "usum-us",
+        "text": "Afferra le code sature di elettricità per caricare\ni suoi pugni al massimo della potenza per poi\ncolpire il nemico."
+      },
+      {
+        "game": "usum-um",
+        "text": "Un singolo Electivire è in grado di fornire\nl’elettricità necessaria agli edifici di una grande\ncittà per un anno."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Produce una quantità di elettricità direttamente\nproporzionale alla sua frequenza cardiaca.\nDurante la lotta il voltaggio si alza all’istante."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "È uno dei Pokémon di tipo Elettro che\nproducono più elettricità. Rilascia scariche\nad alto voltaggio dalla punta delle code."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Electivire",
+    "genus": "Thunderbolt Pokémon",
+    "flavorText": [
+      {
+        "game": "hgss-hg",
+        "text": "As its electric charge amplifies,\nblue sparks begin to crackle between\nits horns."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "As its electric charge amplifies,\nblue sparks begin to crackle between\nits horns."
+      },
+      {
+        "game": "dp-d",
+        "text": "It pushes the tips of its two tails\nagainst the foe, then lets loose\nwith over 20,000 volts of power."
+      },
+      {
+        "game": "dp-p",
+        "text": "It pushes the tips of its two tails\nagainst the foe, then lets loose\nwith over 20,000 volts of power."
+      },
+      {
+        "game": "pt",
+        "text": "Heedless of enemy attacks, it\ncloses in, shoves its tails onto the\nfoe, then looses high voltage."
+      },
+      {
+        "game": "bw-b",
+        "text": "Heedless of enemy attacks, it\ncloses in, shoves its tails onto the\nfoe, then looses high voltage."
+      },
+      {
+        "game": "bw-w",
+        "text": "Heedless of enemy attacks, it\ncloses in, shoves its tails onto the\nfoe, then looses high voltage."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "The instant it presses the tips of its\ntails onto an opponent, it sends over\n20,000 volts of electricity into the foe."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "The instant it presses the tips of its\ntails onto an opponent, it sends over\n20,000 volts of electricity into the foe."
+      },
+      {
+        "game": "xy-x",
+        "text": "As its electric charge amplifies, blue sparks begin\nto crackle between its horns."
+      },
+      {
+        "game": "xy-y",
+        "text": "It pushes the tips of its two tails against the foe,\nthen lets loose with over 20,000 volts of power."
+      },
+      {
+        "game": "oras-or",
+        "text": "As its electric charge amplifies, blue sparks begin\nto crackle between its horns."
+      },
+      {
+        "game": "oras-as",
+        "text": "It pushes the tips of its two tails against the foe,\nthen lets loose with over 20,000 volts of power."
+      },
+      {
+        "game": "sm-s",
+        "text": "It pushes the tips of its tails against its foes\nand then lets loose a high-voltage current.\nIts foes are burned to a crisp in an instant."
+      },
+      {
+        "game": "sm-m",
+        "text": "When it gets excited, it thumps its chest. With\nevery thud, thunder roars and electric sparks\nshower all around."
+      },
+      {
+        "game": "usum-us",
+        "text": "It grips its tail, which spews electricity, and\nthen beats down opponents with the power of\nits electrified fist."
+      },
+      {
+        "game": "usum-um",
+        "text": "A single Electivire can provide enough electricity\nfor all the buildings in a big city for a year."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "The amount of electrical energy this Pokémon\nproduces is proportional to the rate of its pulse.\nThe voltage jumps while Electivire is battling."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "In terms of electrical-energy output, Electivire\nis one of the best among all Electric Pokémon.\nIt discharges high-voltage currents from its tails."
+      },
+      {
+        "game": "la",
+        "text": "Its evolution was induced by an unusual item, and its electrical\noutput rises along with its heart rate. From its tails, it can\nunleash an electric current measuring 20,000 volts."
+      }
+    ]
+  },
+  "chs": {
+    "name": "电击魔兽",
+    "genus": "雷电宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "用尾巴尖尖按住敌人，\n输入高压电流。\n敌人瞬间就成黑炭了。"
+      },
+      {
+        "game": "sm-m",
+        "text": "兴奋的时候会捶胸鸣叫。\n每到那时，电火花会飞溅，\n雷声会在四周回响。"
+      },
+      {
+        "game": "usum-us",
+        "text": "握住冒着电火花的尾巴\n做成带电的拳头后，\n就会用尽全力猛殴。"
+      },
+      {
+        "game": "usum-um",
+        "text": "只要１只电击魔兽就能\n提供一座大城市的建筑物\n１年所需的全部电力。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "发电量和心率成比例。\n一到战斗的时候，\n电压就会急速上升。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "发电量在电气宝可梦当中\n属于最高级别。可以从\n尾巴尖端释放高压电流。"
+      }
+    ]
+  }
+}

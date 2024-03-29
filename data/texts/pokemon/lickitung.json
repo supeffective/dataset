@@ -1,0 +1,481 @@
+{
+  "jap": {
+    "name": "ベロリンガ",
+    "genus": "なめまわしポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "ながい　したは　ねばねばした\nだえきで　べっとり。どんなものでも\nくっついて　とても　べんり。"
+      },
+      {
+        "game": "xy-y",
+        "text": "したが　しんちょうの　２ばいもある。\nエサをとったり　こうげきをしたりと\nまるで　てのように　うごかせる。"
+      },
+      {
+        "game": "oras-or",
+        "text": "はじめて　めに　する　ものは　かならず　ペロリ。\nしたざわりと　あじで　きおくしているのだ。\nでも　すっぱい　ものは　ちょっと　にがて。"
+      },
+      {
+        "game": "oras-as",
+        "text": "はじめて　めに　する　ものは　かならず　ペロリ。\nしたざわりと　あじで　きおくしているのだ。\nでも　すっぱい　ものは　ちょっと　にがて。"
+      },
+      {
+        "game": "usum-us",
+        "text": "ながい　ベロで　なんでも　べろりと\nなめて　たしかめている。　なめられた\nぶぶんを　ほうっておくと　かぶれるぞ。"
+      },
+      {
+        "game": "usum-um",
+        "text": "よごれは　ベロで　きれいに　なめとる。\nなめたあとは　なんだか　くさいので\nほんとうに　きれいなのかは　あやしい。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "２メートルもある　ながい　したは\nまえあしより　きように　うごかせる。\nなめられると　なぜか　しびれてくる。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "２メートルもある　ながい　したは\nまえあしより　きように　うごかせる。\nなめられると　なぜか　しびれてくる。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "ネバネバした　だえきに　ふれたまま\nほうっておくと　ものすごい　かゆみが\nはじまり　とまらなくなるぞ。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "むしポケモンが　おもな　エサ。\nながい　したで　あいてを　なめて\nしびれた　ところを　まるのみにする。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Beroringa",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "내루미",
+    "genus": "핥기포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "긴 혀는 끈적끈적한\n침으로 덮여 있다. 어떤 것이든\n달라붙어서 매우 편리하다."
+      },
+      {
+        "game": "xy-y",
+        "text": "혀가 키의 2배나 된다.\n먹이를 잡거나 공격을 할 때면\n마치 손처럼 움직인다."
+      },
+      {
+        "game": "oras-or",
+        "text": "처음 본 것은 반드시 핥아본다.\n혀의 감촉과 맛으로 기억해두는 것이다.\n하지만 시큼한 것을 핥는 것은 조금 꺼린다."
+      },
+      {
+        "game": "oras-as",
+        "text": "처음 본 것은 반드시 핥아본다.\n혀의 감촉과 맛으로 기억해두는 것이다.\n하지만 시큼한 것을 핥는 것은 조금 꺼린다."
+      },
+      {
+        "game": "usum-us",
+        "text": "긴 혀를 내밀어 몇 번이고\n핥아 확인한다. 핥은 부분을\n방치하면 염증이 생긴다."
+      },
+      {
+        "game": "usum-um",
+        "text": "더러워지면 혀로 깨끗하게 핥아 낸다.\n핥고 난 뒤에도 왠지 냄새가 나서\n정말로 깨끗한지는 의심스럽다."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "2m나 되는 긴 혀는 앞다리보다\n능숙하게 움직일 수 있다.\n혀로 핥으면 상대가 마비된다."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "2m나 되는 긴 혀는 앞다리보다\n능숙하게 움직일 수 있다.\n혀로 핥으면 상대가 마비된다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "끈적끈적한 타액에 접촉한 후\n그대로 방치하면 굉장히 가렵고\n급기야 멈출 수 없게 된다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "벌레포켓몬이 주된 먹이다.\n긴 혀로 상대를 핥아\n마비시킨 후 통째로 삼킨다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "大舌頭",
+    "genus": "舔舔寶可夢",
+    "flavorText": [
+      {
+        "game": "usum-us",
+        "text": "不管什麼東西都會用長長的\n舌頭去舔舔看，被舔到的部位\n如果放著不管就會發炎。"
+      },
+      {
+        "game": "usum-um",
+        "text": "會用舌頭把髒污舔乾淨。\n舔過的地方會有點臭，\n是否真的乾淨令人懷疑。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "長達２公尺的舌頭比前腳\n還要靈活。如果被牠舔到，\n不知為何會感到麻痺。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "長達２公尺的舌頭比前腳\n還要靈活。如果被牠舔到，\n不知為何會感到麻痺。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "沾到牠黏糊糊的唾液後\n如果放著不管，就會變得\n奇癢無比，而且癢個不停。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "蟲寶可夢是牠主要的食物。\n會用長長的舌頭去把對方\n舔麻痺，然後趁機一口吞下。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Excelangue",
+    "genus": "Pokémon Lécheur",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Quand il déploie sa langue de près\nde deux mètres, sa queue s’agite.\nElles seraient reliées entre elles."
+      },
+      {
+        "game": "bw-w",
+        "text": "Quand il déploie sa langue de près\nde deux mètres, sa queue s’agite.\nElles seraient reliées entre elles."
+      },
+      {
+        "game": "xy-x",
+        "text": "Sa longue langue sécrète une salive gluante qui se\ncolle à n’importe quoi. Elle est très efficace !"
+      },
+      {
+        "game": "xy-y",
+        "text": "Sa langue fait deux fois la taille de son corps.\nIl l’utilise comme un bras pour saisir de la nourriture\nmais aussi pour attaquer."
+      },
+      {
+        "game": "oras-or",
+        "text": "Chaque fois qu’Excelangue découvre quelque chose\nde nouveau, il le lèche. Sa mémoire est basée sur le goût\net la texture des objets. Il n’aime pas les choses acides."
+      },
+      {
+        "game": "oras-as",
+        "text": "Chaque fois qu’Excelangue découvre quelque chose\nde nouveau, il le lèche. Sa mémoire est basée sur le goût\net la texture des objets. Il n’aime pas les choses acides."
+      },
+      {
+        "game": "usum-us",
+        "text": "Sa longue langue lui sert à goûter tout ce qui\nl’intrigue. Attention, car s’il vous lèche une partie\ndu corps, vous risquez l’infection cutanée."
+      },
+      {
+        "game": "usum-um",
+        "text": "Il nettoie les saletés d’un coup de langue,\nmais vu l’odeur nauséabonde qui s’en dégage,\nce n’est probablement pas très efficace."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Sa langue mesure 2 m et elle est plus agile\nque ses pattes. Son contact provoque\nla paralysie."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Sa langue mesure 2 m et elle est plus agile\nque ses pattes. Son contact provoque\nla paralysie."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Si sa salive gluante entre en contact avec la peau\net qu’on ne l’essuie pas bien, elle provoque de\nterribles démangeaisons qui ne s’arrêtent jamais."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Excelangue se nourrit essentiellement de Pokémon\nInsecte. Il lèche ses ennemis avec sa longue langue\npour les paralyser, puis les avale tout rond."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Schlurp",
+    "genus": "Schlecker-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Seine Zunge ist mit klebrigem Speichel bedeckt,\nder überall haftet. Dies ist sehr nützlich."
+      },
+      {
+        "game": "xy-y",
+        "text": "Seine Zunge ist doppelt so lang wie sein Körper.\nEs kann sie wie einen Arm bewegen, um damit\nNahrung zu greifen oder zu attackieren."
+      },
+      {
+        "game": "oras-or",
+        "text": "Wenn Schlurp etwas Neues entdeckt, leckt es daran.\nEs merkt sich Gegenstände anhand der Struktur und\ndes Geschmacks. Saure Sachen schrecken es eher ab."
+      },
+      {
+        "game": "oras-as",
+        "text": "Wenn Schlurp etwas Neues entdeckt, leckt es daran.\nEs merkt sich Gegenstände anhand der Struktur und\ndes Geschmacks. Saure Sachen schrecken es eher ab."
+      },
+      {
+        "game": "usum-us",
+        "text": "Mit seiner langen Zunge leckt es an allem, um es\nzu prüfen. Lässt man eine abgeleckte Stelle\nunbehandelt, entwickelt sich ein Ausschlag."
+      },
+      {
+        "game": "usum-um",
+        "text": "Seine Zunge leckt jede Unreinheit sauber.\nDanach haftet allerdings ein übler Geruch daran,\nwas wiederum am Ergebnis zweifeln lässt."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Schlurps Zunge ist bis zu zwei Meter lang.\nEs kann sie geschickter bewegen als seine\nVorderbeine und andere damit paralysieren."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Schlurps Zunge ist bis zu zwei Meter lang.\nEs kann sie geschickter bewegen als seine\nVorderbeine und andere damit paralysieren."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Wäscht man sich nach der Berührung mit seinem\nklebrigen Speichel nicht, setzt bald ein starker\nJuckreiz ein, der nicht mehr zu stoppen ist."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Es ernährt sich vorwiegend von Käfer-Pokémon.\nHat es diese mit der langen Zunge abgeschleckt\nund dadurch gelähmt, verschlingt es sie im Nu."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Lickitung",
+    "genus": "Pokémon Lametazo",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Su larga lengua, recubierta de saliva pegajosa, se\npega a todo, por lo que es muy útil."
+      },
+      {
+        "game": "xy-y",
+        "text": "La lengua es tan larga que duplica su altura. Es útil\nporque puede moverla para agarrar comida y atacar."
+      },
+      {
+        "game": "oras-or",
+        "text": "Cada vez que Lickitung se encuentra con algo que no conoce,\nle da un lametazo. Es la forma que tiene de memorizar las\ncosas, por la textura y el sabor. No soporta los sabores\nácidos."
+      },
+      {
+        "game": "oras-as",
+        "text": "Cada vez que Lickitung se encuentra con algo que no conoce,\nle da un lametazo. Es la forma que tiene de memorizar las\ncosas, por la textura y el sabor. No soporta los sabores\nácidos."
+      },
+      {
+        "game": "usum-us",
+        "text": "Identifica las cosas lamiéndolas con su larga\nlengua. Hay que tener cuidado, pues si no se\ntratan, sus lametones tienen efectos urticantes."
+      },
+      {
+        "game": "usum-um",
+        "text": "Se limpia y acicala a base de lengüetazos,\naunque el olor que deja su saliva sugiere de\ntodo menos pulcritud."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Su lengua puede llegar a medir dos metros y la\nmueve con más soltura que las patas delanteras.\nSus lametazos pueden causar parálisis."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Su lengua puede llegar a medir dos metros y la\nmueve con más soltura que las patas delanteras.\nSus lametazos pueden causar parálisis."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Si sus lametones no se tratan a tiempo, su saliva\npegajosa y urticante puede provocar picores\npersistentes."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Se nutre principalmente de Pokémon insecto,\na los que paraliza primero lamiéndolos con su\nlarga lengua y luego engulle de un bocado."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Lickitung",
+    "genus": "Pokémon Linguaccia",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "La lunga lingua intrisa di saliva appiccicosa si\nattacca agli oggetti e può diventare molto utile."
+      },
+      {
+        "game": "xy-y",
+        "text": "La sua lingua è lunga il doppio del corpo. La usa\ncome un braccio per afferrare cibo e attaccare."
+      },
+      {
+        "game": "oras-or",
+        "text": "Quando Lickitung si trova di fronte a qualcosa di nuovo,\nistintivamente lo assaggia con una leccata.\nÈ dotato infatti di una memoria legata al gusto e alla\nconsistenza degli oggetti. Non ama i sapori aspri."
+      },
+      {
+        "game": "oras-as",
+        "text": "Quando Lickitung si trova di fronte a qualcosa di nuovo,\nistintivamente lo assaggia con una leccata.\nÈ dotato infatti di una memoria legata al gusto e alla\nconsistenza degli oggetti. Non ama i sapori aspri."
+      },
+      {
+        "game": "usum-us",
+        "text": "Esamina tutto ciò che lo circonda con la sua\nlunga lingua. Le parti leccate, se trascurate,\npossono sviluppare irritazioni."
+      },
+      {
+        "game": "usum-um",
+        "text": "Rimuove lo sporco leccandolo via, ma gli oggetti\nleccati emanano un cattivo odore che fa\ndubitare dell’efficacia della pulizia."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Ha una lingua lunga circa 2 m, che può muovere\ncon più scioltezza rispetto alle sue zampe\nanteriori. Le sue leccate paralizzano."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Ha una lingua lunga circa 2 m, che può muovere\ncon più scioltezza rispetto alle sue zampe\nanteriori. Le sue leccate paralizzano."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "La sua saliva appiccicosa provoca un prurito\nterribile che non dà tregua se le parti leccate\nnon vengono ripulite."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Si nutre principalmente di Pokémon Coleottero.\nParalizza le prede leccandole con la lunga lingua\ne le inghiotte in un boccone."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Lickitung",
+    "genus": "Licking Pokémon",
+    "flavorText": [
+      {
+        "game": "rb-r",
+        "text": "Its tongue can be\nextended like a\nchameleon's. It\fleaves a tingling\nsensation when it\nlicks enemies."
+      },
+      {
+        "game": "rb-b",
+        "text": "Its tongue can be\nextended like a\nchameleon's. It\fleaves a tingling\nsensation when it\nlicks enemies."
+      },
+      {
+        "game": "y",
+        "text": "Its tongue spans\nalmost 7 feet and\nmoves more freely\fthan its forelegs.\nIts licks can\ncause paralysis."
+      },
+      {
+        "game": "gs-g",
+        "text": "Its tongue has\nwell-developed\nnerves that run\fto the very tip,\nso it can be deft­\nly manipulated."
+      },
+      {
+        "game": "gs-s",
+        "text": "Its long tongue,\nslathered with a\ngooey saliva,\fsticks to any­\nthing, so it is\nvery useful."
+      },
+      {
+        "game": "c",
+        "text": "It has a tongue\nthat is over 6’6’’\nlong. It uses this\flong tongue to\nlick its body\nclean."
+      },
+      {
+        "game": "rs-r",
+        "text": "Whenever LICKITUNG comes across\nsomething new, it will unfailingly give it\na lick. It does so because it memorizes\fthings by texture and by taste.\nIt is somewhat put off by sour things."
+      },
+      {
+        "game": "rs-s",
+        "text": "Whenever LICKITUNG comes across\nsomething new, it will unfailingly give it\na lick. It does so because it memorizes\fthings by texture and by taste.\nIt is somewhat put off by sour things."
+      },
+      {
+        "game": "e",
+        "text": "Whenever it sees something unfamiliar,\nit always licks the object because it\nmemorizes things by texture and taste.\nIt is somewhat put off by sour things."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "Its tongue is twice the length of its\nbody. It can be moved like an arm for\ngrabbing food and attacking."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "Its tongue can be extended like a\nchameleon’s. It leaves a tingling\nsensation when it licks enemies."
+      },
+      {
+        "game": "dp-d",
+        "text": "Instead of hands, it uses its\ntongue, which is twice its height.\nIts sticky saliva grips anything."
+      },
+      {
+        "game": "dp-p",
+        "text": "Instead of hands, it uses its\ntongue, which is twice its height.\nIts sticky saliva grips anything."
+      },
+      {
+        "game": "pt",
+        "text": "When it extends its over-six-foot-\nlong tongue, its tail quivers. There\nis a possibility they are connected."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "Its tongue has well-developed\nnerves that run to the very tip,\nso it can be deftly manipulated."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "Its long tongue, slathered with a\ngooey saliva, sticks to anything,\nso it is very useful."
+      },
+      {
+        "game": "bw-b",
+        "text": "When it extends its over-six-foot-\nlong tongue, its tail quivers. There\nis a possibility they are connected."
+      },
+      {
+        "game": "bw-w",
+        "text": "When it extends its over-six-foot-\nlong tongue, its tail quivers. There\nis a possibility they are connected."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "Being licked by its long, saliva-covered\ntongue leaves a tingling sensation.\nExtending its tongue retracts its tail."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "Being licked by its long, saliva-covered\ntongue leaves a tingling sensation.\nExtending its tongue retracts its tail."
+      },
+      {
+        "game": "xy-x",
+        "text": "Its long tongue, slathered with a gooey saliva,\nsticks to anything, so it is very useful."
+      },
+      {
+        "game": "xy-y",
+        "text": "Its tongue is twice the length of its body. It can be\nmoved like an arm for grabbing food and attacking."
+      },
+      {
+        "game": "oras-or",
+        "text": "Whenever Lickitung comes across something new, it will\nunfailingly give it a lick. It does so because it memorizes things\nby texture and by taste. It is somewhat put off by sour things."
+      },
+      {
+        "game": "oras-as",
+        "text": "Whenever Lickitung comes across something new, it will\nunfailingly give it a lick. It does so because it memorizes things\nby texture and by taste. It is somewhat put off by sour things."
+      },
+      {
+        "game": "usum-us",
+        "text": "It checks out whatever’s around it by licking\neverything. If you don’t clean off a spot where\nit’s licked you, you’ll break out in a rash!"
+      },
+      {
+        "game": "usum-um",
+        "text": "It licks filth clean with its tongue. Whatever it\nlicks always stinks afterward, so whether it’s\nreally clean is...questionable."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Its tongue spans almost seven feet and moves\nmore freely than its forelegs. Its licks can\ncause paralysis."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Its tongue spans almost seven feet and moves\nmore freely than its forelegs. Its licks can\ncause paralysis."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "If this Pokémon’s sticky saliva gets on you and\nyou don’t clean it off, an intense itch will set in.\nThe itch won’t go away, either."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Bug Pokémon are Lickitung’s main food source.\nThis Pokémon paralyzes its prey with a lick from\nits long tongue, then swallows the prey whole."
+      },
+      {
+        "game": "la",
+        "text": "Wields its long tongue deftly, as though it were an arm.\nThe Pokémon's viscous saliva, once it has been collected and\nboiled down, yields a strong and highly useful adhesive."
+      }
+    ]
+  },
+  "chs": {
+    "name": "大舌头",
+    "genus": "舔舔宝可梦",
+    "flavorText": [
+      {
+        "game": "usum-us",
+        "text": "不管是什么，都会用长舌头去舔舔看。\n被舔到的部位如果放着不管\n就会红肿发炎。"
+      },
+      {
+        "game": "usum-um",
+        "text": "会用舌头将污渍舔干净。\n舔过之后有点臭臭的，\n所以是否真的干净很令人怀疑。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "它２米长的舌头比前肢更\n能灵活地移动。不知为何，\n被它舔到之后会觉得发麻。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "它２米长的舌头比前肢更\n能灵活地移动。不知为何，\n被它舔到之后会觉得发麻。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "据说如果碰到了它黏糊糊的\n唾液却放任不管的话，就会\n变得奇痒无比，停不下来。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "主要以虫宝可梦为食。\n会用长长的舌头舔对手，\n等对手麻痹后将其整个吞下。"
+      }
+    ]
+  }
+}

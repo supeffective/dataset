@@ -1,0 +1,409 @@
+{
+  "jap": {
+    "name": "サイドン",
+    "genus": "ドリルポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "ぜんしんを　よろいのような　ひふで\nまもっている。２０００どの\nマグマの　なかでも　いきられる。"
+      },
+      {
+        "game": "xy-y",
+        "text": "しんかして　うしろあし　だけで\nたつようになった。ツノで　つかれると\nがんせきにも　あながあいてしまう。"
+      },
+      {
+        "game": "oras-or",
+        "text": "ツノは　ダイヤモンドの　げんせきを　くだき\nしっぽの　いちげきは　ビルを　なぎたおす。\nかたい　ひふは　たいほうでも　キズつかない。"
+      },
+      {
+        "game": "oras-as",
+        "text": "ドリルに　なる　ツノで　がんせきを　はかいする。\nマグマを　ふきださせてしまう　ことも　あるが\nよろいの　ような　ひふは　あつさを　かんじない。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "うしろあしだけで　あるくようになり\nちのうが　はったつした。よろいの\nような　ひふは　マグマにも　たえる。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "うしろあしだけで　あるくようになり\nちのうが　はったつした。よろいの\nような　ひふは　マグマにも　たえる。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "しんかして　うしろあし　だけで\nたつようになった。　ツノで　つくと\nがんせきにも　あなを　あけてしまう。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "ぜんしんを　よろいのような　ひふで\nまもっている。　２０００どの\nマグマの　なかでも　いきられる。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Sidon",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "코뿌리",
+    "genus": "드릴포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "전신을 갑옷 같은 피부로\n보호하고 있다. 2000도의\n마그마 속에서도 살 수 있다."
+      },
+      {
+        "game": "xy-y",
+        "text": "진화하여 뒷다리만으로\n서게 되었다. 뿔에 찔리면\n암석에도 구멍이 뚫리고 만다."
+      },
+      {
+        "game": "oras-or",
+        "text": "뿔은 다이아몬드 원석을 부수고\n꼬리의 일격은 빌딩을 쓰러트린다.\n단단한 피부는 대포에도 상처 입지 않는다."
+      },
+      {
+        "game": "oras-as",
+        "text": "드릴처럼 쓰는 뿔로 암석을 파괴한다.\n마그마가 뿜어져 나오기도 하지만\n갑옷 같은 피부는 뜨거움을 느끼지 않는다."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "뒷다리만으로 걸을 수 있게 되어\n지능이 발달했다. 갑옷 같은\n피부는 마그마에도 견딘다."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "뒷다리만으로 걸을 수 있게 되어\n지능이 발달했다. 갑옷 같은\n피부는 마그마에도 견딘다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "진화하여 뒷다리만으로\n서게 되었다. 뿔로 찌르면\n암석에도 구멍이 뚫리고 만다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "전신을 갑옷 같은 피부로\n보호하고 있다. 2000도의\n마그마 속에서도 살 수 있다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "鑽角犀獸",
+    "genus": "鑽錐寶可夢",
+    "flavorText": [
+      {
+        "game": "lgpe-lgp",
+        "text": "變得能夠只用後腳步行，\n智能也發達了許多。鎧甲般的\n皮膚足以抵擋熔岩的高溫。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "變得能夠只用後腳步行，\n智能也發達了許多。鎧甲般的\n皮膚足以抵擋熔岩的高溫。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "進化後變得只用後腳就能站立。\n如果被牠的角刺中，\n就連岩石也會被開出洞來。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "全身被鎧甲般的皮膚\n保護著。甚至能在\n２０００度的熔岩中生存。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Rhinoféros",
+    "genus": "Pokémon Perceur",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "La station debout a libéré ses\npattes avant et l’a rendu plus\nintelligent, mais il est distrait."
+      },
+      {
+        "game": "bw-w",
+        "text": "La station debout a libéré ses\npattes avant et l’a rendu plus\nintelligent, mais il est distrait."
+      },
+      {
+        "game": "xy-x",
+        "text": "Son épiderme très épais lui permet de survivre dans\nun environnement où il fait plus de 2 000 °C."
+      },
+      {
+        "game": "xy-y",
+        "text": "L’évolution a permis à ce Pokémon de marcher sur\nses pattes arrière. Il peut facilement faire des trous\ndans les rochers en utilisant sa corne."
+      },
+      {
+        "game": "oras-or",
+        "text": "La corne de Rhinoféros peut même casser du diamant brut.\nEt avec un simple coup de queue, il peut détruire un bâtiment.\nLa peau de ce Pokémon est incroyablement dure.\nUn boulet de canon ne lui ferait même pas une égratignure."
+      },
+      {
+        "game": "oras-as",
+        "text": "La corne de Rhinoféros lui sert de foreuse. Il l’utilise pour\ndétruire des rochers et des cailloux. Ce Pokémon charge\nde temps en temps dans du magma en fusion, mais sa peau\nblindée le protège de la chaleur."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "L’évolution a permis à ce Pokémon de\ndévelopper son intelligence et de se tenir\ndebout. Son épiderme résiste à la lave."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "L’évolution a permis à ce Pokémon de\ndévelopper son intelligence et de se tenir\ndebout. Son épiderme résiste à la lave."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "L’évolution a permis à ce Pokémon de marcher\nsur ses pattes postérieures. Il peut faire des trous\ndans les rochers en utilisant sa corne."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Son épiderme est si épais qu’il lui permet même\nde survivre dans du magma d’une température\nde 2 000 °C."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Rizeros",
+    "genus": "Bohrer-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Durch seine panzerähnliche Körperhülle kann es\nin bis zu 2 000 °C heißer Lava leben."
+      },
+      {
+        "game": "xy-y",
+        "text": "Nach seiner Entwicklung geht es aufrecht auf\nseinen Hinterfüßen. Mit seinem Horn kann es\nLöcher in Felsen bohren."
+      },
+      {
+        "game": "oras-or",
+        "text": "Mit seinem Horn kann Rizeros selbst Diamanten zerbrechen.\nEin einziger Hieb mit seinem Schweif kann ein Haus zum\nEinsturz bringen. Die Haut dieses Pokémon ist so hart,\ndass nicht einmal Kanonenkugeln Kratzer hinterlassen."
+      },
+      {
+        "game": "oras-as",
+        "text": "Rizeros hat ein Horn, das es als Bohrer benutzen kann.\nDamit zerstört es Felsblöcke und Steine. Dieses Pokémon\nrammt sein Horn manchmal in Ströme von Magma.\nSeine panzerähnliche Haut schützt es dabei vor der Hitze."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Es hat gelernt, auf seinen Hinterbeinen zu laufen\nund komplex zu denken. Seine Haut gleicht\neiner Rüstung und widersteht sogar heißer Lava."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Es hat gelernt, auf seinen Hinterbeinen zu laufen\nund komplex zu denken. Seine Haut gleicht\neiner Rüstung und widersteht sogar heißer Lava."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Nach seiner Entwicklung geht es aufrecht auf\nseinen Hinterbeinen. Mit seinem Horn kann es\nLöcher in Felsen bohren."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Sein ganzer Körper ist von einer panzerähnlichen\nHaut geschützt. Es kann sogar in bis zu 2 000 ºC\nheißer Lava leben."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Rhydon",
+    "genus": "Pokémon Taladro",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "La piel le sirve de escudo protector. Puede vivir en\nlava líquida a 2000 °C de temperatura."
+      },
+      {
+        "game": "xy-y",
+        "text": "Cuando evoluciona, comienza a andar con las patas\ntraseras. Es capaz de horadar rocas con el cuerno que\ntiene."
+      },
+      {
+        "game": "oras-or",
+        "text": "Rhydon tiene un cuerno capaz de horadar hasta un diamante\nen bruto y con una sacudida de la cola puede derribar un\nedificio. La piel de este Pokémon es muy fuerte; ni los\ndisparos de un cañón le arañarían."
+      },
+      {
+        "game": "oras-as",
+        "text": "Rhydon tiene un cuerno anillado que le sirve de taladro. Le\nresulta muy útil para horadar rocas y piedras. A veces, se\nqueda atrapado en corrientes de magma, pero la tosca piel\nque tiene impide que sienta el calor."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Pasar a ser bípedo le ha permitido desarrollar su\ninteligencia. La piel, rígida como una armadura,\nresiste incluso el magma."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Pasar a ser bípedo le ha permitido desarrollar su\ninteligencia. La piel, rígida como una armadura,\nresiste incluso el magma."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Cuando evoluciona, comienza a andar con las\npatas traseras. Es capaz de horadar rocas con el\ncuerno que tiene."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "La piel le sirve de escudo protector. Puede vivir\nen lava líquida a 2000 °C."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Rhydon",
+    "genus": "Pokémon Trapano",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Protetto da una pelle-armatura, può vivere nella\nlava liquida a 2000 °C."
+      },
+      {
+        "game": "xy-y",
+        "text": "Dopo l’evoluzione inizia a muoversi sulle zampe\nposteriori. Con il corno può perforare la roccia."
+      },
+      {
+        "game": "oras-or",
+        "text": "Il corno di Rhydon riesce a fracassare anche un diamante\ngrezzo. Un colpo della sua coda abbatte un edificio.\nLa pelle-armatura di questo Pokémon è così coriacea\nda essere immune anche alle cannonate."
+      },
+      {
+        "game": "oras-as",
+        "text": "Rhydon è dotato di un corno che usa a mo’ di trapano.\nServe a distruggere rocce e massi. Talvolta questo Pokémon\ns’imbatte in rivoli di magma, ma la sua pelle-armatura lo\nprotegge dall’eccessivo calore."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Ha imparato a camminare in posizione eretta\ne il suo cervello si è evoluto. La sua pelle simile\na un’armatura può resistere anche al magma."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Ha imparato a camminare in posizione eretta\ne il suo cervello si è evoluto. La sua pelle simile\na un’armatura può resistere anche al magma."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Dopo l’evoluzione inizia a muoversi sulle zampe\nposteriori. Con il corno può perforare la roccia."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "La sua pelle, simile a un’armatura, lo protegge\nconsentendogli di vivere nel magma a 2.000 ºC."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Rhydon",
+    "genus": "Drill Pokémon",
+    "flavorText": [
+      {
+        "game": "rb-r",
+        "text": "Protected by an\narmor-like hide,\nit is capable of\fliving in molten\nlava of 3,600\ndegrees."
+      },
+      {
+        "game": "rb-b",
+        "text": "Protected by an\narmor-like hide,\nit is capable of\fliving in molten\nlava of 3,600\ndegrees."
+      },
+      {
+        "game": "y",
+        "text": "Walks on its hind\nlegs. Shows signs\nof intelligence.\fIts armor-like\nhide even repels\nmolten lava."
+      },
+      {
+        "game": "gs-g",
+        "text": "Its rugged hide\nprotects it from\neven the heat of\flava. However, the\nhide also makes it\ninsensitive."
+      },
+      {
+        "game": "gs-s",
+        "text": "Its brain devel­\noped when it began\nwalking on hind\flegs. Its thick\nhide protects it\neven in magma."
+      },
+      {
+        "game": "c",
+        "text": "By lightly spin­\nning its drill-\nlike horn, it can\feasily shatter\neven a diamond in\nthe rough."
+      },
+      {
+        "game": "rs-r",
+        "text": "RHYDON’s horn can crush even uncut\ndiamonds. One sweeping blow of its tail\ncan topple a building.\fThis POKéMON’s hide is extremely tough.\nEven direct cannon hits don’t leave\na scratch."
+      },
+      {
+        "game": "rs-s",
+        "text": "RHYDON has a horn that serves as a\ndrill. It is used for destroying rocks\nand boulders.\fThis POKéMON occasionally rams into\nstreams of magma, but the armor-like\nhide prevents it from feeling the heat."
+      },
+      {
+        "game": "e",
+        "text": "Its horn, which rotates like a drill,\ndestroys tall buildings with one strike.\nIt stands on its hind legs, and its brain\nis well developed."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "It begins walking on its hind legs after\nevolution. It can punch holes through\nboulders with its horn."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "Protected by an armor-like hide, it is\ncapable of living in molten lava of 3,600\ndegrees Fahrenheit."
+      },
+      {
+        "game": "dp-d",
+        "text": "Its brain developed after it stood\nup on its hind legs. Its drill horn\nbores tunnels through solid rock."
+      },
+      {
+        "game": "dp-p",
+        "text": "Its brain developed after it stood\nup on its hind legs. Its drill horn\nbores tunnels through solid rock."
+      },
+      {
+        "game": "pt",
+        "text": "Standing on its hind legs freed its\nforelegs and made it smarter. It is\nvery forgetful, however."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "Its rugged hide protects it from\neven the heat of lava. However,\nthe hide also makes it insensitive."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "Its brain developed when it began\nwalking on hind legs. Its thick\nhide protects it even in magma."
+      },
+      {
+        "game": "bw-b",
+        "text": "Standing on its hind legs freed its\nforelegs and made it smarter. It is\nvery forgetful, however."
+      },
+      {
+        "game": "bw-w",
+        "text": "Standing on its hind legs freed its\nforelegs and made it smarter. It is\nvery forgetful, however."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "Standing on its hind legs freed its\nforelegs and made it smarter. It is\nvery forgetful, however."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "Standing on its hind legs freed its\nforelegs and made it smarter. It is\nvery forgetful, however."
+      },
+      {
+        "game": "xy-x",
+        "text": "Protected by an armor-like hide, it is capable of\nliving in molten lava of 3,600 degrees Fahrenheit."
+      },
+      {
+        "game": "xy-y",
+        "text": "It begins walking on its hind legs after evolution.\nIt can punch holes through boulders with its horn."
+      },
+      {
+        "game": "oras-or",
+        "text": "Rhydon’s horn can crush even uncut diamonds. One sweeping\nblow of its tail can topple a building. This Pokémon’s hide is\nextremely tough. Even direct cannon hits don’t leave a scratch."
+      },
+      {
+        "game": "oras-as",
+        "text": "Rhydon has a horn that serves as a drill. It is used for\ndestroying rocks and boulders. This Pokémon occasionally\nrams into streams of magma, but the armor-like hide prevents\nit from feeling the heat."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Its brain developed when it began walking on\nits hind legs. Its armor-like hide even repels\nmolten lava."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Its brain developed when it began walking on\nits hind legs. Its armor-like hide even repels\nmolten lava."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "It begins walking on its hind legs after evolution.\nIt can punch holes through boulders with its horn."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Protected by an armor-like hide, it is capable of\nliving in molten lava of 3,600 degrees Fahrenheit."
+      },
+      {
+        "game": "la",
+        "text": "Rapidly rotates its horn to bore through bedrock. It swaggers\naround volcanic regions, protected from the lava's heat by its\ntough, armorlike hide."
+      }
+    ]
+  },
+  "chs": {
+    "name": "钻角犀兽",
+    "genus": "钻锥宝可梦",
+    "flavorText": [
+      {
+        "game": "lgpe-lgp",
+        "text": "可以只用后腿行走，智力也\n发达了许多。像盔甲一样的\n皮肤可以抵挡住岩浆。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "可以只用后腿行走，智力也\n发达了许多。像盔甲一样的\n皮肤可以抵挡住岩浆。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "进化后会变得仅用后脚就能站立。\n如果被它的角刺中，\n就连岩石也会被开个洞。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "全身被铠甲般的皮肤保护着。\n甚至能在２０００度的熔岩里生存。"
+      }
+    ]
+  }
+}

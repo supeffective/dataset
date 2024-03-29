@@ -1,0 +1,437 @@
+{
+  "jap": {
+    "name": "ピンプク",
+    "genus": "ままごとポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "タマゴに　にた　まんまるい　いしを\nおなかの　ふくろに　いれている。\nすきな　あいてに　いしを　わたす。"
+      },
+      {
+        "game": "xy-y",
+        "text": "しろくて　まるい　いしを　タマゴと\nおもいこんで　だいじに　もっている。\nまきげの　かたちを　きにしている。"
+      },
+      {
+        "game": "oras-or",
+        "text": "タマゴに　にた　まんまるい　いしを\nおなかの　ふくろに　いれている。\nすきな　あいてに　いしを　わたす。"
+      },
+      {
+        "game": "oras-as",
+        "text": "しろくて　まるい　いしを　タマゴと\nおもいこんで　だいじに　もっている。\nまきげの　かたちを　きにしている。"
+      },
+      {
+        "game": "sm-s",
+        "text": "おなかの　ふくろに　しろくて　まるい\nいしを　いれている。　なかよくなると\nわけて　くれることも　あるよ。"
+      },
+      {
+        "game": "sm-m",
+        "text": "ちいさいので　まだ　タマゴを\nうむことが　できない。　かわりに\nしろくて　まるい　いしを　さがす。"
+      },
+      {
+        "game": "usum-us",
+        "text": "おとなしい　ポケモンだが　おなかの\nまるい　いしを　とりあげると\nないて　さわいで　おおあばれ。"
+      },
+      {
+        "game": "usum-um",
+        "text": "しろく　まるいものを　みると　はらの\nふくろに　しまう。　しまいすぎて\nうごけなく　なることも　あるほど。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "ラッキーの　まねをして　タマゴに\nそっくりな　まるい　いしを　おなかの\nふくろに　いれて　だいじにしている。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "なかよくなった　あいてには　だいじな\nまるい　いしを　かしてあげる。\nかえさないと　なきだし　おおあばれ。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Pinpuku",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "핑복",
+    "genus": "소꿉놀이포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "알을 닮은 둥근 돌을\n배의 주머니에 넣고 있다.\n좋아하는 상대에게 돌을 준다."
+      },
+      {
+        "game": "xy-y",
+        "text": "하얗고 둥근 돌을 알이라고\n생각하고는 소중히 가지고 있다.\n말려 있는 머리 모양을 신경 쓰고 있다."
+      },
+      {
+        "game": "oras-or",
+        "text": "알을 닮은 둥근 돌을\n배의 주머니에 넣고 있다.\n좋아하는 상대에게 돌을 준다."
+      },
+      {
+        "game": "oras-as",
+        "text": "하얗고 둥근 돌을 알이라고\n생각하고는 소중히 가지고 있다.\n말려 있는 머리 모양을 신경 쓰고 있다."
+      },
+      {
+        "game": "sm-s",
+        "text": "배의 주머니에 하얗고 동그란\n돌을 넣고 있다. 사이가 좋아지면\n나누어 주는 일도 있다."
+      },
+      {
+        "game": "sm-m",
+        "text": "작아서 아직 알을\n낳을 수 없다. 대신에\n하얗고 둥근 돌을 찾는다."
+      },
+      {
+        "game": "usum-us",
+        "text": "온순한 포켓몬이지만\n배의 둥근 돌을 빼내면\n울고불고 난폭해진다."
+      },
+      {
+        "game": "usum-um",
+        "text": "하얗고 둥근 것을 보면 배의\n주머니에 넣는다. 너무 많이 넣어서\n움직이지 못할 때도 있을 정도다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "럭키를 흉내 내어 알처럼 생긴\n둥근 돌을 배의 주머니에 넣고\n소중히 보관한다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "친해진 상대에게는 소중하게 여기는\n둥근 돌을 빌려준다. 돌려주지\n않으면 울고불고하다가 난폭해진다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "小福蛋",
+    "genus": "家家酒寶可夢",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "腹部的袋子裡裝著白色的\n圓形石頭。如果和牠變得友好，\n也可能會分一點給你哦。"
+      },
+      {
+        "game": "sm-m",
+        "text": "因為很小，還不能生蛋。\n會尋找白白圓圓的\n石頭來代替。"
+      },
+      {
+        "game": "usum-us",
+        "text": "性情溫馴的寶可夢，\n但如果肚子上的圓形石頭被搶走，\n就會哭著大吵大鬧。"
+      },
+      {
+        "game": "usum-um",
+        "text": "只要看見又白又圓的東西\n就會放進腹部的袋裡。\n有時甚至會放得太多而動彈不得。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "會模仿吉利蛋的樣子，\n把很像蛋的渾圓石頭放\n在腹部的袋子裡寶貝著。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "會把寶貝的渾圓石頭借給\n變得友好的對象。如果不\n還給牠的話，就會哭著大鬧。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Ptiravi",
+    "genus": "Pokémon Maisonjouet",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Ce Pokémon ne se sépare jamais de\nson petit caillou et a tendance à\ntraîner dans les pieds des gens."
+      },
+      {
+        "game": "bw-w",
+        "text": "Ce Pokémon ne se sépare jamais de\nson petit caillou et a tendance à\ntraîner dans les pieds des gens."
+      },
+      {
+        "game": "xy-x",
+        "text": "Ptiravi transporte un caillou rond en forme d’œuf dans\nsa poche ventrale pour l’offrir à ses amis."
+      },
+      {
+        "game": "xy-y",
+        "text": "Il prend soin de ses bouclettes et couve son caillou\ncomme si c’était son Œuf."
+      },
+      {
+        "game": "oras-or",
+        "text": "Ptiravi transporte un caillou rond en forme d’œuf dans\nsa poche ventrale pour l’offrir à ses amis."
+      },
+      {
+        "game": "oras-as",
+        "text": "Il prend soin de ses bouclettes et couve son caillou comme\nsi c’était son Œuf."
+      },
+      {
+        "game": "sm-s",
+        "text": "Il transporte un petit caillou rond et blanc dans\nsa poche ventrale. Il arrive même qu’il le donne\naux personnes qu’il aime bien."
+      },
+      {
+        "game": "sm-m",
+        "text": "Comme il est très jeune, il ne peut pas encore\npondre d’œuf. À la place, il cherche un joli petit\ncaillou blanc, bien rond."
+      },
+      {
+        "game": "usum-us",
+        "text": "C’est un Pokémon d’un naturel calme. Quiconque\ntente de s’emparer du caillou de sa poche\nventrale s’expose toutefois à un gros caprice."
+      },
+      {
+        "game": "usum-um",
+        "text": "Dès qu’il repère un objet rond et blanc, il le\nrange dans sa poche ventrale. Il en ramasse\nparfois tellement qu’il ne peut plus bouger."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Pour imiter Leveinard, il conserve un caillou\nen forme d’œuf dans sa poche ventrale et\nen prend grand soin."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Il prête volontiers son caillou rond à ceux\nqu’il apprécie, mais éclate en sanglots et\nse met en colère si on ne le lui rend pas."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Wonneira",
+    "genus": "Spielhaus-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "In seinem Beutel trägt es einen runden,\neiförmigen Stein, den es Freunden gibt."
+      },
+      {
+        "game": "xy-y",
+        "text": "Es hält den runden, weißen Stein für ein Ei\nund kümmert sich um ihn. Es achtet sehr\nauf seine Haarlocke."
+      },
+      {
+        "game": "oras-or",
+        "text": "In seinem Beutel trägt es einen runden, eiförmigen Stein,\nden es Freunden gibt."
+      },
+      {
+        "game": "oras-as",
+        "text": "Es hält den runden, weißen Stein für ein Ei und kümmert sich\num ihn. Es achtet sehr auf seine Haarlocke."
+      },
+      {
+        "game": "sm-s",
+        "text": "In seinem Beutel trägt es einen runden, weißen\nStein. Freundet man sich mit ihm an, kann es\nvorkommen, dass man ihn geschenkt bekommt."
+      },
+      {
+        "game": "sm-m",
+        "text": "Es ist noch zu jung, um Eier zu legen. Als Ersatz\nsucht es nach runden, weißen Steinen."
+      },
+      {
+        "game": "usum-us",
+        "text": "Eigentlich ein sehr braves Pokémon, das aber\nfürchterlich weint und tobt, wenn man den\nrunden, weißen Stein aus seinem Beutel nimmt."
+      },
+      {
+        "game": "usum-um",
+        "text": "Findet es weiße, runde Steine, verstaut es sie in\nseinem Beutel. Manchmal trägt es so viele davon\nbei sich, dass es nicht mehr laufen kann."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Es imitiert Chaneira und legt einen eiförmigen\nStein in den Beutel an seinem Bauch. Dieser Stein\nist sein größter Schatz."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Seinen kostbaren, runden Stein leiht Wonneira\nnur denjenigen, die es mag. Bekommt es diesen\nnicht zurück, tobt es und weint bitterlich."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Happiny",
+    "genus": "Pokémon Casita",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Les da a sus amigos una roca con forma de huevo que\ntransporta en la bolsa de su panza."
+      },
+      {
+        "game": "xy-y",
+        "text": "Cuida de una pequeña roca blanca y redonda\ncreyendo que es un huevo. Le gusta arreglarse\nel tirabuzón."
+      },
+      {
+        "game": "oras-or",
+        "text": "Les da a sus amigos una roca con forma de huevo que\ntransporta en la bolsa de su panza."
+      },
+      {
+        "game": "oras-as",
+        "text": "Cuida de una pequeña roca blanca y redonda creyendo que\nes un huevo. Le gusta arreglarse el tirabuzón."
+      },
+      {
+        "game": "sm-s",
+        "text": "En la bolsa de su panza transporta una roca\nredonda y blanca. Cuando hace amigos puede\nllegar a regalársela."
+      },
+      {
+        "game": "sm-m",
+        "text": "Como todavía no puede poner huevos, busca\nrocas blancas y redondas en su lugar."
+      },
+      {
+        "game": "usum-us",
+        "text": "Se trata de un Pokémon dócil y tranquilo, pero,\nsi le arrebatan la piedra redonda que lleva en la\nbolsa de su panza, se pone a llorar y berrear."
+      },
+      {
+        "game": "usum-um",
+        "text": "En cuanto ve cosas blancas y redondas, se las\nguarda en la bolsa de su panza. A veces la llena\nhasta tales extremos que no se puede ni mover."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Lleva en la bolsa de su panza una roca con forma\nde huevo que cuida con esmero, imitando a\nChansey."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Les deja su preciada roca redonda a aquellos\ncon los que se lleva bien. Si no se la devuelven,\nse echa a llorar, presa de una rabieta."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Happiny",
+    "genus": "Pokémon Ovettino",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Trasporta una roccia a forma di uovo nella sua\ntasca ventrale e poi la offre ai suoi amici."
+      },
+      {
+        "game": "xy-y",
+        "text": "Trasporta con cura un sasso bianco e tondo\ntrattandolo come un uovo.\nAdora il ricciolo che ha in testa."
+      },
+      {
+        "game": "oras-or",
+        "text": "Trasporta una roccia a forma di uovo nella sua tasca ventrale\ne poi la offre ai suoi amici."
+      },
+      {
+        "game": "oras-as",
+        "text": "Trasporta con cura un sasso bianco e tondo trattandolo\ncome un uovo. Adora il ricciolo che ha in testa."
+      },
+      {
+        "game": "sm-s",
+        "text": "Trasporta nella tasca ventrale una roccia\na forma di uovo, che a volte regala ai suoi amici."
+      },
+      {
+        "game": "sm-m",
+        "text": "Dato che è ancora piccolo e non può deporre\nuova, cerca pietre bianche e tonde da usare\nin sostituzione."
+      },
+      {
+        "game": "usum-us",
+        "text": "È un Pokémon docile, ma se si fa per togliergli\nla pietra dalla tasca ventrale piange, strilla e\ndiventa una furia."
+      },
+      {
+        "game": "usum-um",
+        "text": "Quando vede un oggetto bianco e tondo lo mette\nnella tasca ventrale. A volte ce ne mette così\ntanti che finisce per non riuscire a muoversi."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Imita Chansey trasportando con cura nella tasca\nventrale un sasso rotondo identico a un uovo."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Dà in prestito il suo amato sasso a chi considera\nsuo amico, ma se non gli viene restituito piange\ne si scatena."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Happiny",
+    "genus": "Playhouse Pokémon",
+    "flavorText": [
+      {
+        "game": "dp-d",
+        "text": "It loves round white things.\nIt carries an egg-shaped rock in\nimitation of CHANSEY."
+      },
+      {
+        "game": "dp-p",
+        "text": "It carries a round, egg-shaped\nrock in its belly pouch and gives\nthe rock to its friends."
+      },
+      {
+        "game": "pt",
+        "text": "It likes to carry around a small\nrock. It may wander around others’\nfeet and cause them to stumble."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "It carefully carries a round, white rock\nthat it thinks is an egg. It’s bothered\nby how curly its hair looks."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "It carefully carries a round, white rock\nthat it thinks is an egg. It’s bothered\nby how curly its hair looks."
+      },
+      {
+        "game": "bw-b",
+        "text": "It likes to carry around a small\nrock. It may wander around others’\nfeet and cause them to stumble."
+      },
+      {
+        "game": "bw-w",
+        "text": "It likes to carry around a small\nrock. It may wander around others’\nfeet and cause them to stumble."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "It likes to carry around a small\nrock. It may wander around others’\nfeet and cause them to stumble."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "It likes to carry around a small\nrock. It may wander around others’\nfeet and cause them to stumble."
+      },
+      {
+        "game": "xy-x",
+        "text": "It carries a round, egg-shaped rock in its belly\npouch and gives the rock to its friends."
+      },
+      {
+        "game": "xy-y",
+        "text": "It carefully carries a round, white rock that it thinks\nis an egg. It’s bothered by how curly its hair looks."
+      },
+      {
+        "game": "oras-or",
+        "text": "It carries a round, egg-shaped rock in its belly\npouch and gives the rock to its friends."
+      },
+      {
+        "game": "oras-as",
+        "text": "It carefully carries a round, white rock that it thinks\nis an egg. It’s bothered by how curly its hair looks."
+      },
+      {
+        "game": "sm-s",
+        "text": "It carries a round white rock in its belly pouch.\nIf it gets along well with someone, it will\nsometimes give that person the rock."
+      },
+      {
+        "game": "sm-m",
+        "text": "It’s too small to lay eggs yet. As a surrogate,\nit searches out round white stones."
+      },
+      {
+        "game": "usum-us",
+        "text": "Usually it’s a well-behaved Pokémon, but if you\ntake its round rock away, it will cry and fuss\nand throw a big old tantrum."
+      },
+      {
+        "game": "usum-um",
+        "text": "When it sees something round and white,\nHappiny puts it into the pouch on its stomach. It\nsometimes becomes overloaded and can’t move."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Mimicking Chansey, Happiny will place an egg-\nshaped stone in its belly pouch. Happiny will\ntreasure this stone."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Happiny’s willing to lend its precious round stone\nto those it’s friendly with, but if the stone isn’t\nreturned, Happiny will cry and throw a tantrum."
+      },
+      {
+        "game": "la",
+        "text": "In imitation of Chansey, it keeps a round stone tucked into its\nbelly pouch and cherishes it dearly. It gets along well with\nchildren and will sometimes play house with them for fun."
+      }
+    ]
+  },
+  "chs": {
+    "name": "小福蛋",
+    "genus": "家家酒宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "腹部的袋子里装着白色的\n圆形石头。如果关系变好，\n也可能会分给你哦。"
+      },
+      {
+        "game": "sm-m",
+        "text": "因为很小，还不能生蛋。\n会寻找白白的圆圆的\n石头来作为替代。"
+      },
+      {
+        "game": "usum-us",
+        "text": "是非常温顺的宝可梦，\n但如果被夺走了腹部的圆石头，\n就会哭着大吵大闹。"
+      },
+      {
+        "game": "usum-um",
+        "text": "如果看到又白又圆的东西\n就会放到腹部的袋子里。\n有时甚至会放得太多而动弹不得。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "模仿吉利蛋，把很像蛋的\n浑圆石头放入腹部的\n袋子中用心保管着。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "会把自己珍贵的浑圆石头\n借给关系变得很要好的对象。\n如果不还给它，它便会大哭大闹。"
+      }
+    ]
+  }
+}

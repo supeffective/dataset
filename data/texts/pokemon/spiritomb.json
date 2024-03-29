@@ -1,0 +1,293 @@
+{
+  "jap": {
+    "name": "ミカルゲ",
+    "genus": "ふういんポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "１０８この　たましいが　あつまって\nうまれた　ポケモン。かなめいしの\nひびわれに　つながれている。"
+      },
+      {
+        "game": "xy-y",
+        "text": "５００ねんまえに　わるさをしたため\nかなめいしの　ひびわれに\nからだを　つなぎとめられてしまった。"
+      },
+      {
+        "game": "oras-or",
+        "text": "１０８この　たましいが　あつまって\nうまれた　ポケモン。かなめいしの\nひびわれに　つながれている。"
+      },
+      {
+        "game": "oras-as",
+        "text": "５００ねんまえに　わるさをしたため\nかなめいしの　ひびわれに\nからだを　つなぎとめられてしまった。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "１０８この　たましいが　あつまり\nポケモンになったが　しょうわるの\nたましいが　まじってしまったらしい。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "わるさばかりしていたら　ふしぎな\nじゅつを　つかう　たびびとによって\nかなめいしに　つながれてしまった。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Mikaruge",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "화강돌",
+    "genus": "봉인포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "108개의 영혼이 모여서\n태어난 포켓몬이다. 쐐기돌의\n균열과 연결되어 있다."
+      },
+      {
+        "game": "xy-y",
+        "text": "500년 전에 나쁜 짓을 했기 때문에\n쐐기돌의 균열에\n몸이 연결되어 갇혀 버렸다."
+      },
+      {
+        "game": "oras-or",
+        "text": "108개의 영혼이 모여서\n태어난 포켓몬이다. 쐐기돌의\n균열과 연결되어 있다."
+      },
+      {
+        "game": "oras-as",
+        "text": "500년 전에 나쁜 짓을 했기 때문에\n쐐기돌의 균열에\n몸이 연결되어 갇혀 버렸다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "108개의 영혼이 모여\n포켓몬이 되었지만 성질이 나쁜\n영혼이 섞여버린 듯하다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "나쁜 짓만 일삼다가 신비한\n술수를 사용하는 여행자에 의해\n쐐기돌에 속박당했다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "花岩怪",
+    "genus": "封印寶可夢",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "１０８個靈魂聚集在一起\n成為了寶可夢，但其中\n似乎混進了壞心眼的靈魂。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "總是作惡多端，不料有一天\n被使用神奇法術的旅人\n綁縛到了楔石上。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Spiritomb",
+    "genus": "Pokémon Interdit",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Son mauvais comportement lui a valu\nd’être enchaîné à une Clé de Voûte\npar un mystérieux sortilège."
+      },
+      {
+        "game": "bw-w",
+        "text": "Son mauvais comportement lui a valu\nd’être enchaîné à une Clé de Voûte\npar un mystérieux sortilège."
+      },
+      {
+        "game": "xy-x",
+        "text": "Un Pokémon composé de 108 esprits. Il provient\nd’une fissure dans une clé de voûte étrange."
+      },
+      {
+        "game": "xy-y",
+        "text": "Il fut emprisonné dans la fissure d’une clé de voûte\nétrange en guise de punition il y a 500 ans."
+      },
+      {
+        "game": "oras-or",
+        "text": "Un Pokémon composé de 108 esprits. Il provient d’une fissure\ndans une clé de voûte étrange."
+      },
+      {
+        "game": "oras-as",
+        "text": "Il fut emprisonné dans la fissure d’une clé de voûte étrange\nen guise de punition il y a 500 ans."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Ce Pokémon est né de la fusion de 108 âmes,\nmais on raconte que certaines d’entre elles\nseraient de nature maléfique."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Pour punir son comportement déplorable,\nun voyageur a utilisé un mystérieux sortilège\npour l’enchaîner à une Clé de Voûte."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Kryppuk",
+    "genus": "Verboten-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Ein Pokémon, das aus 108 Geistern besteht.\nEs ist an einen Spalt in einem mysteriösen Stein\ngebunden."
+      },
+      {
+        "game": "xy-y",
+        "text": "Es wurde in einen Spalt eines Steins gebannt,\nals Sühne für Untaten, die es vor 500 Jahren\nbegangen hatte."
+      },
+      {
+        "game": "oras-or",
+        "text": "Ein Pokémon, das aus 108 Geistern besteht. Es ist an einen\nSpalt in einem mysteriösen Stein gebunden."
+      },
+      {
+        "game": "oras-as",
+        "text": "Es wurde in einen Spalt eines Steins gebannt, als Sühne\nfür Untaten, die es vor 500 Jahren begangen hatte."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Es besteht aus 108 Geistern. Allerdings scheinen\nsich auch einige bösartige daruntergemischt zu\nhaben."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Aufgrund seiner ständigen Untaten wurde es von\neinem Reisenden mithilfe mysteriöser Künste an\neinen Spiritkern gebunden."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Spiritomb",
+    "genus": "Pokémon Prohibido",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Se formó a partir de 108 espíritus. Está unido a la\nfisura de una piedra angular mística."
+      },
+      {
+        "game": "xy-y",
+        "text": "Como castigo por una fechoría 500 años atrás, está\nunido a la fisura de una piedra angular mística."
+      },
+      {
+        "game": "oras-or",
+        "text": "Se formó a partir de 108 espíritus. Está unido a la fisura de\nuna piedra angular mística."
+      },
+      {
+        "game": "oras-as",
+        "text": "Como castigo por una fechoría 500 años atrás, está unido a\nla fisura de una piedra angular mística."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Este Pokémon se formó a partir de 108 espíritus.\nDicen que entre ellos se mezclaron algunos de\nnaturaleza malvada."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Un viajero utilizó un misterioso hechizo para\nunirlo a una Piedra Espíritu por sus constantes\nfechorías."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Spiritomb",
+    "genus": "Pokémon Proibito",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Pokémon formato da 108 spiriti. È stato imprigionato\nnella fessura di una Roccianima."
+      },
+      {
+        "game": "xy-y",
+        "text": "500 anni fa fu imprigionato nella fessura di una\nRoccianima come punizione."
+      },
+      {
+        "game": "oras-or",
+        "text": "Pokémon formato da 108 spiriti. È stato imprigionato nella\nfessura di una Roccianima."
+      },
+      {
+        "game": "oras-as",
+        "text": "500 anni fa fu imprigionato nella fessura di una Roccianima\ncome punizione."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "108 spiriti si sono riuniti dando vita a questo\nPokémon, e pare che fra questi ce ne fossero\ndi malvagi."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "A causa del suo comportamento molesto, è stato\nimprigionato in una Roccianima da un viandante\ntramite un incantesimo misterioso."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Spiritomb",
+    "genus": "Forbidden Pokémon",
+    "flavorText": [
+      {
+        "game": "dp-d",
+        "text": "A Pokémon that was formed by 108\nspirits. It is bound to a fissure\nin an odd keystone."
+      },
+      {
+        "game": "dp-p",
+        "text": "It was bound to a fissure in an\nodd keystone as punishment for\nmisdeeds 500 years ago."
+      },
+      {
+        "game": "pt",
+        "text": "Its constant mischief and misdeeds\nresulted in it being bound to an Odd\nKeystone by a mysterious spell."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "It was formed by uniting 108 spirits.\nIt has been bound to the Odd Keystone\nto keep it from doing any mischief."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "It was formed by uniting 108 spirits.\nIt has been bound to the Odd Keystone\nto keep it from doing any mischief."
+      },
+      {
+        "game": "bw-b",
+        "text": "Its constant mischief and misdeeds\nresulted in it being bound to an Odd\nKeystone by a mysterious spell."
+      },
+      {
+        "game": "bw-w",
+        "text": "Its constant mischief and misdeeds\nresulted in it being bound to an Odd\nKeystone by a mysterious spell."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "Its constant mischief and misdeeds\nresulted in it being bound to an Odd\nKeystone by a mysterious spell."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "Its constant mischief and misdeeds\nresulted in it being bound to an Odd\nKeystone by a mysterious spell."
+      },
+      {
+        "game": "xy-x",
+        "text": "A Pokémon that was formed by 108 spirits. It is\nbound to a fissure in an odd keystone."
+      },
+      {
+        "game": "xy-y",
+        "text": "It was bound to a fissure in an odd keystone as\npunishment for misdeeds 500 years ago."
+      },
+      {
+        "game": "oras-or",
+        "text": "A Pokémon that was formed by 108 spirits. It is\nbound to a fissure in an odd keystone."
+      },
+      {
+        "game": "oras-as",
+        "text": "It was bound to a fissure in an odd keystone as\npunishment for misdeeds 500 years ago."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Exactly 108 spirits gathered to become this\nPokémon. Apparently there are some ill-natured\nspirits in the mix."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "All Spiritomb’s mischief and misdeeds compelled\na traveler to use a mysterious spell to bind\nSpiritomb to an odd keystone."
+      },
+      {
+        "game": "la",
+        "text": "It lays curses by thinking wicked thoughts. Writings tell that this\nPokémon was born out of the assembly of five score and eight\nmalevolent spirits."
+      }
+    ]
+  },
+  "chs": {
+    "name": "花岩怪",
+    "genus": "封印宝可梦",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "由１０８个灵魂聚在一起\n变成了宝可梦，但似乎有\n性格恶劣的灵魂混在里面。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "总是作恶多端，\n于是被使用神奇法术的\n旅人绑缚在楔石里。"
+      }
+    ]
+  }
+}

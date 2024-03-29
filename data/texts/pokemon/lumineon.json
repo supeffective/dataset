@@ -1,0 +1,365 @@
+{
+  "jap": {
+    "name": "ネオラント",
+    "genus": "ネオンポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "ふかい　うみの　そこで　くらす。\n４まいの　ひれの　もようを　ひからせ\nえものを　おびきよせる。"
+      },
+      {
+        "game": "xy-y",
+        "text": "てんてきに　みつからないように\nむねの　２まいの　ひれを　つかい\nかいていを　はって　いどうする。"
+      },
+      {
+        "game": "oras-or",
+        "text": "ふかい　うみの　そこで　くらす。\n４まいの　ひれの　もようを　ひからせ\nえものを　おびきよせる。"
+      },
+      {
+        "game": "oras-as",
+        "text": "てんてきに　みつからないように\nむねの　２まいの　ひれを　つかい\nかいていを　はって　いどうする。"
+      },
+      {
+        "game": "sm-s",
+        "text": "ひかりで　えものを　おびきよせるが\nてんてきである　どうもうな\nさかなポケモンまで　よってくるのだ。"
+      },
+      {
+        "game": "sm-m",
+        "text": "かいていに　すむ　しんかいのポケモン。\nヒレをつかい　かいていを　はって\nこうぶつの　スターミーを　さがす。"
+      },
+      {
+        "game": "usum-us",
+        "text": "ふかい　うみの　そこは　えものが\nすくない。　きちょうなエサを　めぐり\nランターンと　はげしく　あらそう。"
+      },
+      {
+        "game": "usum-um",
+        "text": "しんかいの　かいていを　はうように\nおよぐ。　げんそうてきな　ヒレの\nひかりは　よぞらの　ほしの　よう。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Neolant",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "네오라이트",
+    "genus": "네온포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "깊은 바다의 밑바닥에서 산다.\n4개의 지느러미 무늬를 반짝거려\n먹이를 끌어들인다."
+      },
+      {
+        "game": "xy-y",
+        "text": "천적에게 발견되지 않도록\n가슴에 있는 2개의 지느러미로\n해저에 붙어서 이동한다."
+      },
+      {
+        "game": "oras-or",
+        "text": "깊은 바다의 밑바닥에서 산다.\n4개의 지느러미 무늬를 반짝거려\n먹이를 끌어들인다."
+      },
+      {
+        "game": "oras-as",
+        "text": "천적에게 발견되지 않도록\n가슴에 있는 2개의 지느러미로\n해저에 붙어서 이동한다."
+      },
+      {
+        "game": "sm-s",
+        "text": "빛으로 먹이를 유인하지만\n천적인 사나운\n물고기포켓몬까지 다가온다."
+      },
+      {
+        "game": "sm-m",
+        "text": "해저에 사는 심해의 포켓몬이다.\n지느러미를 사용해 해저를 기어\n좋아하는 아쿠스타를 찾는다."
+      },
+      {
+        "game": "usum-us",
+        "text": "깊은 바다 밑은 먹이가\n적다. 귀한 먹이를 두고\n랜턴과 격렬히 싸운다."
+      },
+      {
+        "game": "usum-um",
+        "text": "심해 해저를 기어가듯 헤엄친다.\n환상적인 지느러미의 빛은\n밤하늘의 별과 같다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "霓虹魚",
+    "genus": "霓虹寶可夢",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "利用光來引誘獵物靠近，\n但往往連天敵的兇猛\n魚寶可夢也引了過來。"
+      },
+      {
+        "game": "sm-m",
+        "text": "棲息在海底的深海寶可夢。\n使用鰭在海底爬行，\n尋找愛吃的寶石海星。"
+      },
+      {
+        "game": "usum-us",
+        "text": "深海的海底獵物很少，\n為了爭奪寶貴的食物，\n會和電燈怪展開激烈的鬥爭。"
+      },
+      {
+        "game": "usum-um",
+        "text": "像爬行般地在海底游動。\n鰭發出的光充滿奇幻氣氛，\n就像夜空中的星星一樣。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Luminéon",
+    "genus": "Pokémon Néon",
+    "flavorText": [
+      {
+        "game": "oras-or",
+        "text": "Il vit au plus profond de l’océan. Il attire sa proie en illuminant\nles motifs de ses quatre nageoires."
+      },
+      {
+        "game": "bw-b",
+        "text": "Il rampe au fond de l’océan grâce\naux nageoires de son torse.\nLe Lanturn est son rival."
+      },
+      {
+        "game": "bw-w",
+        "text": "Il rampe au fond de l’océan grâce\naux nageoires de son torse.\nLe Lanturn est son rival."
+      },
+      {
+        "game": "xy-x",
+        "text": "Il vit au plus profond de l’océan. Il attire sa proie en\nilluminant les motifs de ses quatre nageoires."
+      },
+      {
+        "game": "xy-y",
+        "text": "Pour éviter de se faire voir par ses ennemis, il rampe\nau fond de l’eau grâce aux nageoires sur son torse."
+      },
+      {
+        "game": "oras-as",
+        "text": "Pour éviter de se faire voir par ses ennemis, il rampe au fond\nde l’eau grâce aux nageoires sur son torse."
+      },
+      {
+        "game": "sm-s",
+        "text": "Il attire ses proies en émettant de la lumière,\nmais à son grand dam, cela attire aussi ses\nprédateurs : les Pokémon poissons carnassiers."
+      },
+      {
+        "game": "sm-m",
+        "text": "Ce Pokémon des profondeurs vit tout au fond\nde l’océan. Il rampe à l’aide de ses nageoires\nventrales et cherche les Staross dont il raffole."
+      },
+      {
+        "game": "usum-us",
+        "text": "La nourriture étant très rare dans les abysses\nmarins, Luminéon doit souvent se disputer\nses précieuses proies avec Lanturn."
+      },
+      {
+        "game": "usum-um",
+        "text": "Il se déplace en rampant dans les profondeurs\nde l’océan. Ses nageoires brillent telles des\nétoiles dans le ciel nocturne."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Lumineon",
+    "genus": "Neon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Es lebt tief auf dem Meeresboden. Das blinkende\nMuster auf seinen vier Rückenflossen zieht Beute an."
+      },
+      {
+        "game": "xy-y",
+        "text": "Um nicht von Fressfeinden entdeckt zu werden,\nkrabbelt es auf zwei Brustflossen am Meeresboden."
+      },
+      {
+        "game": "oras-or",
+        "text": "Es lebt tief auf dem Meeresboden. Das blinkende Muster auf\nseinen vier Rückenflossen zieht Beute an."
+      },
+      {
+        "game": "oras-as",
+        "text": "Um nicht von Fressfeinden entdeckt zu werden, krabbelt es\nauf zwei Brustflossen am Meeresboden."
+      },
+      {
+        "game": "sm-s",
+        "text": "Mit seinem blinkenden Muster lockt es Beute an.\nLeider zieht es hierdurch auch seine\nFressfeinde an."
+      },
+      {
+        "game": "sm-m",
+        "text": "Dieses Tiefsee-Pokémon lebt am Meeresboden,\nüber den es mit seinen Flossen krabbelt, um\nStarmie, seine Leibspeise, aufzuspüren."
+      },
+      {
+        "game": "usum-us",
+        "text": "Auf dem tiefen Meeresboden gibt es nur wenig\nBeute, weshalb es sich mit Lanturn heftige\nKämpfe um das wertvolle Futter liefert."
+      },
+      {
+        "game": "usum-um",
+        "text": "Es bewegt sich krabbelnd über den Boden der\nTiefsee. Seine prachtvollen Flossen leuchten\nwie der Sternenhimmel."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Lumineon",
+    "genus": "Pokémon Neón",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Vive en las profundidades marinas. Atrae a sus presas\ncon parpadeos del dibujo de sus cuatro aletas."
+      },
+      {
+        "game": "xy-y",
+        "text": "Para que los depredadores no lo detecten, se arrastra\npor el fondo marino con las aletas del pecho."
+      },
+      {
+        "game": "oras-or",
+        "text": "Vive en las profundidades marinas. Atrae a sus presas con\nparpadeos del dibujo de sus cuatro aletas."
+      },
+      {
+        "game": "oras-as",
+        "text": "Para que los depredadores no lo detecten, se arrastra por el\nfondo marino con las aletas del pecho."
+      },
+      {
+        "game": "sm-s",
+        "text": "Atrae a sus presas con el destello que emite,\naunque eso también llama la atención de sus\nferoces depredadores marinos."
+      },
+      {
+        "game": "sm-m",
+        "text": "Un Pokémon abisal que vive en el lecho marino.\nUsa sus aletas ventrales para arrastrarse en\nbusca de Starmie, su presa favorita."
+      },
+      {
+        "game": "usum-us",
+        "text": "Es difícil encontrar presas en lo más profundo\ndel mar, por lo que lucha a capa y espada con\nlos Lanturn si avista una que merezca la pena."
+      },
+      {
+        "game": "usum-um",
+        "text": "Nada arrastrándose por el lecho marino. Sus\nespléndidas aletas brillan como las estrellas del\nfirmamento."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Lumineon",
+    "genus": "Pokémon Neon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Vive negli abissi marini. Attira le prede illuminando\ni motivi delle sue quattro pinne."
+      },
+      {
+        "game": "xy-y",
+        "text": "Per non farsi scoprire dai nemici, si muove lentamente\nsui fondali marini con le due pinne pettorali."
+      },
+      {
+        "game": "oras-or",
+        "text": "Vive negli abissi marini. Attira le prede illuminando i motivi\ndelle sue quattro pinne."
+      },
+      {
+        "game": "oras-as",
+        "text": "Per non farsi scoprire dai nemici, si muove lentamente sui\nfondali marini con le due pinne pettorali."
+      },
+      {
+        "game": "sm-s",
+        "text": "Con la sua luce attira le prede, ma anche i\nPokémon acquatici suoi predatori."
+      },
+      {
+        "game": "sm-m",
+        "text": "Vive negli abissi marini. Si sposta sui fondali\nmuovendo agilmente le pinne in cerca degli\nStarmie, di cui è ghiotto."
+      },
+      {
+        "game": "usum-us",
+        "text": "I fondali marini non gli offrono molte occasioni\nper cibarsi, perciò si scontra continuamente\ncon i Lanturn per accaparrarsi le prede migliori."
+      },
+      {
+        "game": "usum-um",
+        "text": "Avanza strisciando sul fondo degli abissi marini.\nLa luce meravigliosa delle sue pinne ricorda\nle stelle risplendenti del cielo notturno."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Lumineon",
+    "genus": "Neon Pokémon",
+    "flavorText": [
+      {
+        "game": "dp-d",
+        "text": "It lives on the deep-sea floor.\nIt attracts prey by flashing the\npatterns on its four tail fins."
+      },
+      {
+        "game": "dp-p",
+        "text": "To avoid detection by predators,\nit crawls along the seafloor using\nthe two fins on its chest."
+      },
+      {
+        "game": "pt",
+        "text": "It crawls along the seafloor using\nits long front fins like legs. It\ncompetes for food with LANTURN."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "LUMINEON swimming in the darkness\nof the deep sea look like stars shining\nin the night sky."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "LUMINEON swimming in the darkness\nof the deep sea look like stars shining\nin the night sky."
+      },
+      {
+        "game": "bw-b",
+        "text": "It crawls along the seafloor using\nits long front fins like legs. It\ncompetes for food with Lanturn."
+      },
+      {
+        "game": "bw-w",
+        "text": "It crawls along the seafloor using\nits long front fins like legs. It\ncompetes for food with Lanturn."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "It crawls along the seafloor using\nits long front fins like legs. It\ncompetes for food with Lanturn."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "It crawls along the seafloor using\nits long front fins like legs. It\ncompetes for food with Lanturn."
+      },
+      {
+        "game": "xy-x",
+        "text": "It lives on the deep-sea floor. It attracts prey by\nflashing the patterns on its four tail fins."
+      },
+      {
+        "game": "xy-y",
+        "text": "To avoid detection by predators, it crawls along the\nseafloor using the two fins on its chest."
+      },
+      {
+        "game": "oras-or",
+        "text": "It lives on the deep-sea floor. It attracts prey by\nflashing the patterns on its four tail fins."
+      },
+      {
+        "game": "oras-as",
+        "text": "To avoid detection by predators, it crawls along the\nseafloor using the two fins on its chest."
+      },
+      {
+        "game": "sm-s",
+        "text": "With its shining light, it lures its prey close.\nHowever, the light also happens to attract\nferocious fish Pokémon—its natural predators."
+      },
+      {
+        "game": "sm-m",
+        "text": "This deep-sea Pokémon lives at the bottom of\nthe sea. Its fins haul it over the seabed in\nsearch of its favorite food—Starmie."
+      },
+      {
+        "game": "usum-us",
+        "text": "Deep down at the bottom of the ocean, prey is\nscarce. Lumineon get into fierce disputes with\nLanturn over food."
+      },
+      {
+        "game": "usum-um",
+        "text": "They traverse the deep waters as if crawling\nover the seafloor. The fantastic lights of its\nfins shine like stars in the night sky."
+      },
+      {
+        "game": "la",
+        "text": "Uses its gleaming fins to hunt its prey. The view of Lumineon\nschooling near the surface of the sea at night is breathtaking—\nit's as though there were shining stars right there."
+      }
+    ]
+  },
+  "chs": {
+    "name": "霓虹鱼",
+    "genus": "霓虹宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "利用光来诱惑猎物靠近，\n但是作为天敌的凶猛\n鱼宝可梦也靠了过来。"
+      },
+      {
+        "game": "sm-m",
+        "text": "栖息在海底的深海宝可梦。\n使用鳍在海底爬行，\n寻找爱吃的宝石海星。"
+      },
+      {
+        "game": "usum-us",
+        "text": "深海的海底猎物很少。\n四处寻找宝贵的食物，\n和电灯怪展开激烈争夺。"
+      },
+      {
+        "game": "usum-um",
+        "text": "像是爬行一样在深海的海底游泳。\n鳍上发出的充满幻想的光\n就像是夜空的星星。"
+      }
+    ]
+  }
+}

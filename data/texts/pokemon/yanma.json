@@ -1,0 +1,251 @@
+{
+  "jap": {
+    "name": "ヤンヤンマ",
+    "genus": "うすばねポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "かおを　うごかさずに　３６０ど\nすべてを　みわたす　めを　もつので\nまうしろの　えものも　みのがさない。"
+      },
+      {
+        "game": "xy-y",
+        "text": "こうそくで　ハネを　はばたかせると\nしょうげきは　が　はっせいして\nまわりの　まどガラスが　われていく。"
+      },
+      {
+        "game": "oras-or",
+        "text": "めだまを　うごかさずに　３６０ど　みわたせる。\nきゅうブレーキや　ほうこうてんかんが　とくい。\nねらった　えものを　すばやく　おいつめていく。"
+      },
+      {
+        "game": "oras-as",
+        "text": "めだまを　うごかさずに　３６０ど　みわたせる。\nきゅうブレーキや　ほうこうてんかんが　とくい。\nねらった　えものを　すばやく　おいつめていく。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Yanyanma",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "왕자리",
+    "genus": "얇은날개포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "얼굴을 움직이지 않고 360도 전부\n볼 수 있는 눈을 가지고 있어서\n바로 뒤의 먹이도 놓치지 않는다."
+      },
+      {
+        "game": "xy-y",
+        "text": "고속으로 날개를 치면\n충격파가 발생해서\n주변의 유리창이 깨진다."
+      },
+      {
+        "game": "oras-or",
+        "text": "눈알을 움직이지 않고 360도를 볼 수 있다.\n급브레이크나 방향 전환이 특기다.\n노린 먹이를 빠르게 몰아넣는다."
+      },
+      {
+        "game": "oras-as",
+        "text": "눈알을 움직이지 않고 360도를 볼 수 있다.\n급브레이크나 방향 전환이 특기다.\n노린 먹이를 빠르게 몰아넣는다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "蜻蜻蜓",
+    "genus": "薄翼寶可夢",
+    "flavorText": []
+  },
+  "fra": {
+    "name": "Yanma",
+    "genus": "Pokémon Translaile",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "La vitesse de ses ailes lui permet\nun vol stationnaire. Il surveille\nainsi tout son territoire."
+      },
+      {
+        "game": "bw-w",
+        "text": "La vitesse de ses ailes lui permet\nun vol stationnaire. Il surveille\nainsi tout son territoire."
+      },
+      {
+        "game": "xy-x",
+        "text": "Il voit à 360° sans avoir à tourner la tête. Il ne loupe\njamais une proie, même dans son dos."
+      },
+      {
+        "game": "xy-y",
+        "text": "En battant des ailes très vite, il peut générer une\nviolente onde de choc qui peut briser les fenêtres."
+      },
+      {
+        "game": "oras-or",
+        "text": "Yanma a un champ de vision de 360 degrés sans avoir besoin\nde bouger les yeux. Il vole incroyablement bien et peut faire\ndes figures acrobatiques. Ce Pokémon descend en piqué\nsur ses proies."
+      },
+      {
+        "game": "oras-as",
+        "text": "Yanma a un champ de vision de 360 degrés sans avoir besoin\nde bouger les yeux. Il vole incroyablement bien et peut faire\ndes figures acrobatiques. Ce Pokémon descend en piqué\nsur ses proies."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Yanma",
+    "genus": "Libelle",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Mit seinen Augen hat es einen Blickwinkel von\n360 Grad. Es sieht sogar Beute, die sich hinter ihm\nbefindet."
+      },
+      {
+        "game": "xy-y",
+        "text": "Schlägt es schnell mit den Flügeln, erzeugt es\nSchockwellen, durch die sogar Fenster zerbersten."
+      },
+      {
+        "game": "oras-or",
+        "text": "Yanma hat einen Blickwinkel von 360 Grad, ohne die Augen\nbewegen zu müssen. Es ist ein großartiger Flieger und geübt\ndarin, plötzlich anzuhalten oder Wendemanöver vorzunehmen.\nSo kann es sich blitzschnell auf Beute stürzen."
+      },
+      {
+        "game": "oras-as",
+        "text": "Yanma hat einen Blickwinkel von 360 Grad, ohne die Augen\nbewegen zu müssen. Es ist ein großartiger Flieger und geübt\ndarin, plötzlich anzuhalten oder Wendemanöver hinzulegen.\nSo kann es sich blitzschnell auf Beute stürzen."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Yanma",
+    "genus": "Pokémon Ala Clara",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Su campo visual es de 360° sin girar la cabeza.\nDetecta hasta las presas que están a su espalda."
+      },
+      {
+        "game": "xy-y",
+        "text": "Si aletea muy rápido, genera ondas expansivas\ncapaces de hacer añicos todas las ventanas próximas."
+      },
+      {
+        "game": "oras-or",
+        "text": "Yanma tiene un ángulo de visión de 360° sin mover los ojos.\nEs un gran volador, experto en hacer repentinas paradas y\ncambios de dirección en el aire. Aprovecha la habilidad que\ntiene de volar para lanzarse sobre su presa."
+      },
+      {
+        "game": "oras-as",
+        "text": "Yanma tiene un ángulo de visión de 360° sin mover los ojos.\nEs un gran volador, experto en hacer repentinas paradas y\ncambios de dirección en el aire. Aprovecha la habilidad que\ntiene de volar para lanzarse sobre su presa."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Yanma",
+    "genus": "Pokémon Alachiara",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Ha un campo visivo a 360 gradi senza muovere la\ntesta. Riesce a vedere persino le prede alle sue spalle."
+      },
+      {
+        "game": "xy-y",
+        "text": "Se agita le ali ad altissima velocità può generare onde\nche distruggono i vetri delle finestre nella zona."
+      },
+      {
+        "game": "oras-or",
+        "text": "Yanma è dotato di un campo visivo a 360 gradi senza bisogno\ndi muovere gli occhi. Grazie alle grandi ali riesce a fermarsi\nimprovvisamente e virare a mezz’aria. Sfrutta la sua abilità\nin volo per abbattere la preda al suolo."
+      },
+      {
+        "game": "oras-as",
+        "text": "Yanma è dotato di un campo visivo a 360 gradi senza bisogno\ndi muovere gli occhi. Grazie alle grandi ali riesce a fermarsi\nimprovvisamente e virare a mezz’aria. Sfrutta la sua abilità\nin volo per abbattere la preda al suolo."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Yanma",
+    "genus": "Clear Wing Pokémon",
+    "flavorText": [
+      {
+        "game": "gs-g",
+        "text": "If it flaps its\nwings really fast,\nit can generate\fshock waves that\nwill shatter win­\ndows in the area."
+      },
+      {
+        "game": "gs-s",
+        "text": "Its large eyes can\nscan 360 degrees.\nIt looks in all\fdirections to seek\nout insects as its\nprey."
+      },
+      {
+        "game": "c",
+        "text": "It can see in all\ndirections without\nmoving its big\feyes, helping it\nspot attackers and\nfood right away."
+      },
+      {
+        "game": "rs-r",
+        "text": "YANMA is capable of seeing 360 degrees\nwithout having to move its eyes.\nIt is a great flier that is adept at\fmaking sudden stops and turning midair.\nThis POKéMON uses its flying ability to\nquickly chase down targeted prey."
+      },
+      {
+        "game": "rs-s",
+        "text": "YANMA is capable of seeing 360 degrees\nwithout having to move its eyes.\nIt is a great flier that is adept at\fmaking sudden stops and turning midair.\nThis POKéMON uses its flying ability to\nquickly chase down targeted prey."
+      },
+      {
+        "game": "e",
+        "text": "It can see 360 degrees without moving\nits eyes. It is a great flier capable of\nmaking sudden stops and turning midair to\nquickly chase down targeted prey."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "Its large eyes can scan 360 degrees.\nIt looks in all directions to seek out\ninsects as its prey."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "If it flaps its wings really fast, it can\ngenerate shock waves that will shatter\nwindows in the area."
+      },
+      {
+        "game": "dp-d",
+        "text": "Its eyes can see 360 degrees\nwithout moving its head. It won’t\nmiss prey--even those behind it."
+      },
+      {
+        "game": "dp-p",
+        "text": "Its eyes can see 360 degrees\nwithout moving its head. It won’t\nmiss prey--even those behind it."
+      },
+      {
+        "game": "pt",
+        "text": "It can hover in one spot by\nflapping its wings at high speed. It\nflits about to guard its territory."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "If it flaps its wings really fast,\nit can generate shock waves that\nwill shatter windows in the area."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "Its large eyes can scan 360 degrees.\nIt looks in all directions to seek\nout insects as its prey."
+      },
+      {
+        "game": "bw-b",
+        "text": "It can hover in one spot by\nflapping its wings at high speed. It\nflits about to guard its territory."
+      },
+      {
+        "game": "bw-w",
+        "text": "It can hover in one spot by\nflapping its wings at high speed. It\nflits about to guard its territory."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "By flapping its wings at high speed,\nit can fly freely through the air.\nEven sudden stops are no problem."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "By flapping its wings at high speed,\nit can fly freely through the air.\nEven sudden stops are no problem."
+      },
+      {
+        "game": "xy-x",
+        "text": "Its eyes can see 360 degrees without moving its\nhead. It won’t miss prey--even those behind it."
+      },
+      {
+        "game": "xy-y",
+        "text": "If it flaps its wings really fast, it can generate shock\nwaves that will shatter windows in the area."
+      },
+      {
+        "game": "oras-or",
+        "text": "Yanma is capable of seeing 360 degrees without having to\nmove its eyes. It is a great flier that is adept at making sudden\nstops and turning midair. This Pokémon uses its flying ability to\nquickly chase down targeted prey."
+      },
+      {
+        "game": "oras-as",
+        "text": "Yanma is capable of seeing 360 degrees without having to\nmove its eyes. It is a great flier that is adept at making sudden\nstops and turning midair. This Pokémon uses its flying ability\nto quickly chase down targeted prey."
+      },
+      {
+        "game": "la",
+        "text": "Its frail wings are so thin that one can see clear through them.\nHowever, during flight these wings exhibit the power to churn\nair with force enough to launch a house skyward."
+      }
+    ]
+  },
+  "chs": {
+    "name": "蜻蜻蜓",
+    "genus": "薄翼宝可梦",
+    "flavorText": []
+  }
+}

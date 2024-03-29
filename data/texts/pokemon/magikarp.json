@@ -1,0 +1,553 @@
+{
+  "jap": {
+    "name": "コイキング",
+    "genus": "さかなポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "ちからも　スピードも　ほとんどダメ。\nせかいで　いちばん　よわくて\nなさけない　ポケモンだ。"
+      },
+      {
+        "game": "xy-y",
+        "text": "おおむかしは　まだ　もうすこし\nつよかったらしい。しかし　いまは\nかなしいくらいに　よわいのだ。"
+      },
+      {
+        "game": "oras-or",
+        "text": "はねる　ことしか　しない　なさけない　ポケモン。\nなぜ　はねるのか　しらべた　けんきゅうしゃが\nいるほど　とにかく　はねて　はねて　はねまくる。"
+      },
+      {
+        "game": "oras-as",
+        "text": "はねている　だけで　まんぞくに　たたかえないため\nよわいと　おもわれているが　どんなに　よごれた\nみずでも　くらせる　しぶとい　ポケモンなのだ。"
+      },
+      {
+        "game": "sm-s",
+        "text": "ちからは　よわく　たよりないのに\nはんしょくりょくだけ　ものすごい。\nあきるほど　みかけるぞ。"
+      },
+      {
+        "game": "sm-m",
+        "text": "むやみに　はねて　すぐ　おそわれるが\nコイキングの　おかげで　おおくの\nポケモンが　いきのびられると　いう。"
+      },
+      {
+        "game": "usum-us",
+        "text": "はるか　おおむかしは　それなりに\nつよかったが　ときが　たつに　つれて\nどんどんどんどん　よわくなっていった。"
+      },
+      {
+        "game": "usum-um",
+        "text": "せいめいりょくが　つよく　きたない\nみずでも　へっちゃら。　せかいじゅうの\nみずべに　せいそく　しているぞ。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "たよりないので　ゆうめいなポケモン。\nうみ　かわ　いけ　みずたまり\nいたるところを　およいでいる。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "たよりないので　ゆうめいなポケモン。\nうみ　かわ　いけ　みずたまり\nいたるところを　およいでいる。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "ちからも　スピードも　ほとんどダメ。\nせかいで　いちばん　よわくて\nなさけない　ポケモンだ。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "ながれの　はやい　ところでは\nただ　ながされて　いくだけの\nひよわで　なさけない　ポケモン。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Koiking",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "잉어킹",
+    "genus": "물고기포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "힘도 스피드도 거의 없다.\n세상에서 가장 약하고\n한심한 포켓몬이다."
+      },
+      {
+        "game": "xy-y",
+        "text": "아주 먼 옛날에는 좀 더\n강했던 것 같다. 그러나 지금은\n안쓰러울 정도로 약하다."
+      },
+      {
+        "game": "oras-or",
+        "text": "튀어 오르기만 하는 한심한 포켓몬이다.\n왜 튀어 오르는지 조사한 연구자가\n있을 정도로 무조건 튀고 튀고 튀어 오르기만 한다."
+      },
+      {
+        "game": "oras-as",
+        "text": "튀어오르기만으로는 만족스럽게 싸울 수 없어서\n약하다고 여겨지고 있지만 아무리 더러워진\n물에서라도 살 수 있는 끈질긴 포켓몬이다."
+      },
+      {
+        "game": "sm-s",
+        "text": "힘은 약하고 믿음직스럽지 못하지만\n번식력만은 엄청나다.\n질릴 정도로 눈에 띈다."
+      },
+      {
+        "game": "sm-m",
+        "text": "무턱대고 튀어 올라서 바로 공격당하지만\n잉어킹 덕분에 많은 포켓몬이\n살아남을 수 있다고 한다."
+      },
+      {
+        "game": "usum-us",
+        "text": "먼 옛날에는 그럭저럭\n강한 편이었으나\n시간이 흐르면서 점점 약해졌다."
+      },
+      {
+        "game": "usum-um",
+        "text": "생명력이 강해서 더러운\n물이라도 문제없다. 전 세계의\n물가에 서식하고 있다."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "못 미덥기로 유명한 포켓몬.\n바다, 강, 연못, 물웅덩이 등\n다양한 곳에서 헤엄치고 있다."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "못 미덥기로 유명한 포켓몬.\n바다, 강, 연못, 물웅덩이 등\n다양한 곳에서 헤엄치고 있다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "힘도 스피드도 거의 없다.\n세상에서 가장 약하고\n한심한 포켓몬이다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "유속이 빠른 곳에서는\n그저 떠내려갈 뿐인\n약하고 한심한 포켓몬이다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "鯉魚王",
+    "genus": "魚寶可夢",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "力量很弱，派不上用場，\n只有繁殖力異常驚人。\n多得簡直要看膩了。"
+      },
+      {
+        "game": "sm-m",
+        "text": "因為胡亂躍起，總是馬上就被襲擊。\n但據說多虧了鯉魚王，\n大多數寶可夢都能活得更久。"
+      },
+      {
+        "game": "usum-us",
+        "text": "在遙遠的過去實力還算強大，\n但隨著時光的流轉，\n牠變得越來越弱了。"
+      },
+      {
+        "game": "usum-um",
+        "text": "生命力頑強，\n即使待在污水中也不怕。\n棲息在世界各地的水邊。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "以靠不住而聞名的寶可夢。\n不管是海、河、池塘或水窪，\n都能看見牠們在裡頭游來游去。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "以靠不住而聞名的寶可夢。\n不管是海、河、池塘或水窪，\n都能看見牠們在裡頭游來游去。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "力量和速度都不太行。\n是世界上最弱\n最可憐的寶可夢。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "又弱又可憐的寶可夢。\n在水流比較快的地方，\n只能任憑自己被水沖走。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Magicarpe",
+    "genus": "Pokémon Poisson",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Un vénérable Magicarpe peut\nfranchir une montagne en utilisant\nTrempette. Mais c’est tout..."
+      },
+      {
+        "game": "bw-w",
+        "text": "Un vénérable Magicarpe peut\nfranchir une montagne en utilisant\nTrempette. Mais c’est tout..."
+      },
+      {
+        "game": "xy-x",
+        "text": "Magicarpe manque totalement de vitesse et de force.\nC’est le Pokémon le plus pathétique sur terre."
+      },
+      {
+        "game": "xy-y",
+        "text": "La puissance de cette créature a beaucoup régressé\nau fil des siècles."
+      },
+      {
+        "game": "oras-or",
+        "text": "Magicarpe est un Pokémon ridicule qui ne sait faire que\ndes ronds dans l’eau ou se laisser porter par les courants.\nSon comportement a donné envie aux savants d’étudier\nson cas."
+      },
+      {
+        "game": "oras-as",
+        "text": "Magicarpe est virtuellement inutile en combat. Il se contente\nde faire des ronds dans l’eau. On le considère plutôt faible.\nPourtant, ce Pokémon est très robuste et peut survivre\ndans n’importe quel environnement, même très pollué."
+      },
+      {
+        "game": "sm-s",
+        "text": "Ce Pokémon est faible et ne sait pas faire\ngrand-chose à part se multiplier à toute allure.\nOn en trouve à ne plus savoir qu’en faire."
+      },
+      {
+        "game": "sm-m",
+        "text": "Il bondit hors de l’eau sans faire attention et se\nfait attraper par toutes sortes de Pokémon.\nBeaucoup d’espèces dépendent de cette manne."
+      },
+      {
+        "game": "usum-us",
+        "text": "Il y a fort, fort longtemps, il était relativement\npuissant. Il est toutefois devenu de plus en plus\nnul au fil du temps."
+      },
+      {
+        "game": "usum-um",
+        "text": "Sa survie ne dépendant pas de la salubrité\ndes eaux dans lesquelles il nage, on rencontre\nce Pokémon aux quatre coins du monde."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Célèbre pour son inutilité, on en trouve\nbeaucoup dans les océans, les étangs,\nles rivières et même les flaques d’eau."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Célèbre pour son inutilité, on en trouve\nbeaucoup dans les océans, les étangs,\nles rivières et même les flaques d’eau."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Il manque totalement de vitesse et de force.\nC’est le Pokémon le plus pathétique au monde."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Ce Pokémon est si faible que, dans les eaux\nà forts courants, il se contente de se laisser\nporter lamentablement."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Karpador",
+    "genus": "Fisch-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Es ist nutzlos, was Kraft und Geschwindigkeit\nangeht. Dieses ist das schwächste\nund erbärmlichste Pokémon der Welt."
+      },
+      {
+        "game": "xy-y",
+        "text": "Die urzeitlichen Vorfahren dieses Pokémon waren\nsehr viel stärker als ihre heutigen Nachkommen."
+      },
+      {
+        "game": "oras-or",
+        "text": "Karpador ist ein armseliges Pokémon, das nur platschen kann.\nSein merkwürdiges Verhalten hat so manchen Wissenschaftler\nzum Forschen angeregt."
+      },
+      {
+        "game": "oras-as",
+        "text": "Karpador ist im Kampf praktisch nutzlos, da es nur\nplatschen kann. Daher wird es als schwach eingeschätzt.\nEs ist aber tatsächlich sehr robust und kann in jedem\nGewässer überleben, egal, wie verseucht dieses ist."
+      },
+      {
+        "game": "sm-s",
+        "text": "Es ist schwach und unzuverlässig, aber es\nvermehrt sich unglaublich schnell. Deshalb\ntrifft man es auch öfter an, als einem lieb ist."
+      },
+      {
+        "game": "sm-m",
+        "text": "Da es immer nur leichtsinnig herumplatscht,\nist es leichte Beute für hungrige Pokémon.\nFür viele ist es daher ein Lebensretter."
+      },
+      {
+        "game": "usum-us",
+        "text": "Vor langer, langer Zeit war es anscheinend\nziemlich stark, doch es wurde zusehends\nschwächer und schwächer."
+      },
+      {
+        "game": "usum-um",
+        "text": "Unbekümmert strotzt es selbst in verseuchten\nGewässern nur so vor Lebenskraft. Man findet\nes in allen Teilen der Welt in Ufernähe."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Karpador ist für seine Nutzlosigkeit bekannt.\nOb Meer, Fluss, See oder Pfütze, es schwimmt\ndurch die verschiedensten Gewässer."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Karpador ist für seine Nutzlosigkeit bekannt.\nOb Meer, Fluss, See oder Pfütze, es schwimmt\ndurch die verschiedensten Gewässer."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Es ist nutzlos, was Kraft und Geschwindigkeit\nangeht. Dieses Pokémon ist das schwächste und\nerbärmlichste der Welt."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Dieses Pokémon ist so schwach und erbärmlich,\ndass es sich in Gewässern mit starker Strömung\neinfach vom Wasser treiben lässt."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Magikarp",
+    "genus": "Pokémon Pez",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "No es precisamente rápido ni fuerte. Es el Pokémon\nmás debilucho y simplón de todos los que hay."
+      },
+      {
+        "game": "xy-y",
+        "text": "En un pasado lejano, era más fuerte de lo que hoy\nson sus débiles descendientes."
+      },
+      {
+        "game": "oras-or",
+        "text": "Magikarp es el triste ejemplo de un Pokémon capaz\núnicamente de saltar y salpicar. Esta conducta llevó a\ncientíficos a estudiarlo en profundidad."
+      },
+      {
+        "game": "oras-as",
+        "text": "Magikarp es prácticamente inútil en combate; solo sirve para\nsalpicar, y se le considera muy débil. Con todo, en realidad\nes un Pokémon muy resistente. Sobrevive en cualquier medio\nacuático, aunque esté contaminado."
+      },
+      {
+        "game": "sm-s",
+        "text": "Es muy débil y de poca utilidad, aunque su\ncapacidad reproductora resulta abrumadora.\nLo normal es encontrar Magikarp por doquier."
+      },
+      {
+        "game": "sm-m",
+        "text": "Como lo único que hace es chapotear en el\nagua, resulta una presa fácil. Gracias a esto,\nmuchos otros Pokémon pueden sobrevivir."
+      },
+      {
+        "game": "usum-us",
+        "text": "Al parecer, en la antigüedad había gozado de\ngran fuerza, pero con el paso del tiempo se ha\nido debilitando hasta su estado actual."
+      },
+      {
+        "game": "usum-um",
+        "text": "Su resistencia le permite vivir en las aguas más\nturbias. Por eso se los puede ver nadando en\ncualquier lugar del mundo."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Famoso por su ineptitud. Nada en todo tipo de\naguas, ya sean mares, lagos, ríos o charcas."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Famoso por su ineptitud. Nada en todo tipo de\naguas, ya sean mares, lagos, ríos o charcas."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Es el Pokémon más débil y patético que existe,\ncon una fuerza y velocidad prácticamente nulas."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Este Pokémon débil y patético se limita a dejarse\nllevar por la corriente cuando esta tiene fuerza."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Magikarp",
+    "genus": "Pokémon Pesce",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "La sua forza e velocità sono praticamente nulle.\nSi può tranquillamente definire il più debole e patetico\nPokémon del mondo."
+      },
+      {
+        "game": "xy-y",
+        "text": "Anticamente era molto più forte dell’odierno\ndiscendente, che è debolissimo."
+      },
+      {
+        "game": "oras-or",
+        "text": "Magikarp è un patetico esempio di Pokémon capace soltanto\ndi dimenarsi e sguazzare. La natura di questo comportamento\ninutile è oggetto di studi da parte del mondo scientifico."
+      },
+      {
+        "game": "oras-as",
+        "text": "Nella lotta Magikarp è inutile, poiché può solo sguazzare.\nInfatti è considerato debole. In realtà si tratta di un Pokémon\nmolto robusto che sopravvive in tutte le acque, anche le più\ninquinate."
+      },
+      {
+        "game": "sm-s",
+        "text": "È debole e indifeso, ma è particolarmente\nprolifico. Se ne vedono talmente tanti in giro\nche vengono a noia."
+      },
+      {
+        "game": "sm-m",
+        "text": "Non fa che sguazzare senza cautela. Questa\nabitudine lo rende una facile preda e garantisce\nla sopravvivenza di molti altri Pokémon."
+      },
+      {
+        "game": "usum-us",
+        "text": "Anticamente Magikarp era piuttosto forte, ma\ncol tempo è diventato sempre più debole."
+      },
+      {
+        "game": "usum-um",
+        "text": "È molto resistente e può sopravvivere anche\nnelle acque più sporche. Se ne trovano nelle\nacque di tutto il mondo."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "È famoso per la sua debolezza. Lo si vede\ncomunemente nuotare nel mare, nei fiumi,\nnei laghi e in qualsiasi altra pozza d’acqua."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "È famoso per la sua debolezza. Lo si vede\ncomunemente nuotare nel mare, nei fiumi,\nnei laghi e in qualsiasi altra pozza d’acqua."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "La sua forza e velocità sono praticamente nulle.\nSi può tranquillamente definire il più debole e\npatetico Pokémon del mondo."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Un Pokémon debole e patetico: non fa che\nlasciarsi trascinare dove lo porta la corrente."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Magikarp",
+    "genus": "Fish Pokémon",
+    "flavorText": [
+      {
+        "game": "rb-r",
+        "text": "In the distant\npast, it was\nsomewhat stronger\fthan the horribly\nweak descendants\nthat exist today."
+      },
+      {
+        "game": "rb-b",
+        "text": "In the distant\npast, it was\nsomewhat stronger\fthan the horribly\nweak descendants\nthat exist today."
+      },
+      {
+        "game": "y",
+        "text": "Famous for being\nvery unreliable.\nIt can be found\fswimming in seas,\nlakes, rivers and\nshallow puddles."
+      },
+      {
+        "game": "gs-g",
+        "text": "An underpowered,\npathetic POKéMON.\nIt may jump high\fon rare occasions,\nbut never more\nthan seven feet."
+      },
+      {
+        "game": "gs-s",
+        "text": "For no reason, it\njumps and splashes\nabout, making it\feasy for predators\nlike PIDGEOTTO to\ncatch it mid-jump."
+      },
+      {
+        "game": "c",
+        "text": "This weak and\npathetic POKéMON\ngets easily pushed\falong rivers when\nthere are strong\ncurrents."
+      },
+      {
+        "game": "rs-r",
+        "text": "MAGIKARP is a pathetic excuse for a\nPOKéMON that is only capable of\nflopping and splashing.\fThis behavior prompted scientists to\nundertake research into it."
+      },
+      {
+        "game": "rs-s",
+        "text": "MAGIKARP is virtually useless in battle\nas it can only splash around.\nAs a result, it is considered to be weak.\fHowever, it is actually a very hardy\nPOKéMON that can survive in any body of\nwater no matter how polluted it is."
+      },
+      {
+        "game": "e",
+        "text": "Its swimming muscles are weak, so it is\neasily washed away by currents. In places\nwhere water pools, you can see many\nMAGIKARP deposited there by the flow."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "It is virtually worthless in terms of both\npower and speed. It is the most weak and\npathetic POKéMON in the world."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "In the distant past, it was somewhat\nstronger than the horribly weak\ndescendants that exist today."
+      },
+      {
+        "game": "dp-d",
+        "text": "It is said to be the world’s\nweakest Pokémon. No one knows why\nit has managed to survive."
+      },
+      {
+        "game": "dp-p",
+        "text": "It is unable to swim against even\nslow-moving currents. It always\nsplashes about for some reason."
+      },
+      {
+        "game": "pt",
+        "text": "A MAGIKARP living for many years\ncan leap a mountain using Splash.\nThe move remains useless, though."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "An underpowered, pathetic Pokémon.\nIt may jump high on rare occasions,\nbut usually not more than seven feet."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "For no reason, it jumps and splashes\nabout, making it easy for predators\nlike PIDGEOTTO to catch it mid-jump."
+      },
+      {
+        "game": "bw-b",
+        "text": "A Magikarp living for many years\ncan leap a mountain using Splash.\nThe move remains useless, though."
+      },
+      {
+        "game": "bw-w",
+        "text": "A Magikarp living for many years\ncan leap a mountain using Splash.\nThe move remains useless, though."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "A Magikarp living for many years\ncan leap a mountain using Splash.\nThe move remains useless, though."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "A Magikarp living for many years\ncan leap a mountain using Splash.\nThe move remains useless, though."
+      },
+      {
+        "game": "xy-x",
+        "text": "It is virtually worthless in terms of both power and\nspeed. It is the most weak and pathetic Pokémon\nin the world."
+      },
+      {
+        "game": "xy-y",
+        "text": "In the distant past, it was somewhat stronger than\nthe horribly weak descendants that exist today."
+      },
+      {
+        "game": "oras-or",
+        "text": "Magikarp is a pathetic excuse for a Pokémon that is only\ncapable of flopping and splashing. This behavior prompted\nscientists to undertake research into it."
+      },
+      {
+        "game": "oras-as",
+        "text": "Magikarp is virtually useless in battle as it can only splash\naround. As a result, it is considered to be weak. However,\nit is actually a very hardy Pokémon that can survive in any\nbody of water no matter how polluted it is."
+      },
+      {
+        "game": "sm-s",
+        "text": "Although weak and helpless, this Pokémon is\nincredibly fertile. They exist in such multitudes,\nyou’ll soon grow tired of seeing them."
+      },
+      {
+        "game": "sm-m",
+        "text": "Its reckless leaps make it easy pickings for\npredators. On the bright side, many Pokémon\nenjoy longer life spans, thanks to Magikarp."
+      },
+      {
+        "game": "usum-us",
+        "text": "In the distant past, they were fairly strong, but\nthey have become gradually weaker over time."
+      },
+      {
+        "game": "usum-um",
+        "text": "Thanks to their strong hold on life, dirty water\ndoesn’t bother them at all. They live in waters\nall over the world!"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Famous for being very unreliable. It can be\nfound swimming in seas, lakes, rivers,\nand shallow puddles."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Famous for being very unreliable. It can be\nfound swimming in seas, lakes, rivers,\nand shallow puddles."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "It is virtually worthless in terms of both power\nand speed. It is the most weak and pathetic\nPokémon in the world."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "This weak and pathetic Pokémon gets easily\npushed along rivers when there are strong currents."
+      },
+      {
+        "game": "la",
+        "text": "A feeble, pitiful imbecile of a Pokémon that is nonetheless very\nhardy. Unperturbed by turbid water, it can be found living in all\nsorts of places."
+      }
+    ]
+  },
+  "chs": {
+    "name": "鲤鱼王",
+    "genus": "鱼宝可梦",
+    "flavorText": [
+      {
+        "game": "sm-s",
+        "text": "力量很弱，派不上用场，\n但就只有繁殖力惊人。\n多得简直要看腻了。"
+      },
+      {
+        "game": "sm-m",
+        "text": "因为胡乱跃起，马上就被袭击了，\n但据说多亏了鲤鱼王，\n大多数宝可梦都能活得更久。"
+      },
+      {
+        "game": "usum-us",
+        "text": "在非常遥远的过去，它还是十分\n强大的，但随着时间的推移，\n它变得越来越弱，越来越弱了。"
+      },
+      {
+        "game": "usum-um",
+        "text": "生命力顽强，\n即便在污水中也毫不在意。\n生活在世界各地的水边。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "因靠不住而出名的宝可梦。海里、\n河里、池子里、还有水洼里……\n它们会在各种地方游来游去。"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "因靠不住而出名的宝可梦。海里、\n河里、池子里、还有水洼里……\n它们会在各种地方游来游去。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "力量和速度几乎都不行。\n是世界上最弱最可怜的宝可梦。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "又弱又可怜的宝可梦。\n在水流比较快的地方\n只能任凭自己被水冲走。"
+      }
+    ]
+  }
+}

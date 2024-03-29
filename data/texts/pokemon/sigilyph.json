@@ -1,0 +1,269 @@
+{
+  "jap": {
+    "name": "シンボラー",
+    "genus": "とりもどきポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "こだいとしの　まもりがみだった。\nなわばりに　しんにゅうした　てきを\nサイコパワーで　こうげきする。"
+      },
+      {
+        "game": "xy-y",
+        "text": "こだいとしの　まもりがみ。\nいつも　おなじルートを　じゅんかいし\nしんにゅうしゃを　みはっていた。"
+      },
+      {
+        "game": "oras-or",
+        "text": "こだいとしの　まもりがみだった。\nなわばりに　しんにゅうした　てきを\nサイコパワーで　こうげきする。"
+      },
+      {
+        "game": "oras-as",
+        "text": "こだいとしの　まもりがみ。\nいつも　おなじルートを　じゅんかいし\nしんにゅうしゃを　みはっていた。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "サイコパワーで　そらを　とぶ。\nこだいとしの　まもりがみ　とも\nそのつかいとも　いわれている。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "シンボラーが　とぶ　さばくのしたを\nちょうさすると　こだいの　としと\nおもわれる　なごりが　みつかった。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Symboler",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "심보러",
+    "genus": "흡사새포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "고대 도시의 수호신이었다.\n자기 영역을 침범한 상대를\n사이코 파워로 공격한다."
+      },
+      {
+        "game": "xy-y",
+        "text": "고대 도시의 수호신.\n항상 같은 루트를 순회하며\n침입자를 감시하고 있었다."
+      },
+      {
+        "game": "oras-or",
+        "text": "고대 도시의 수호신이었다.\n자기 영역을 침범한 상대를\n사이코 파워로 공격한다."
+      },
+      {
+        "game": "oras-as",
+        "text": "고대 도시의 수호신.\n항상 같은 루트를 순회하며\n침입자를 감시하고 있었다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "사이코 파워로 하늘을 난다.\n고대 도시의 수호신 또는\n수호신의 사자로 일컬어진다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "심보러가 나는 사막 아래를\n조사해 보니 고대 도시로\n여겨지는 자취가 발견되었다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "象徵鳥",
+    "genus": "似鳥寶可夢",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "利用精神力量在空中飛翔，\n被稱為古代都市的守護神。\n也有人認為牠是守護神的使者。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "人們在象徵鳥飛過的沙漠\n地下進行調查，結果在那裡\n發現了疑似古代都市的遺跡。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Cryptéro",
+    "genus": "Pokémon Similoiseau",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "On dit qu’il parcourt toujours le même\nitinéraire parce qu’il a gardé la mémoire\nde la ville antique qu’il protégeait."
+      },
+      {
+        "game": "bw-w",
+        "text": "Il était le dieu protecteur d’une ville\nantique. Il repoussait les envahisseurs\nà coups de pouvoir psychique."
+      },
+      {
+        "game": "xy-x",
+        "text": "Il était le dieu protecteur d’une ville antique.\nIl repoussait les envahisseurs à coups de pouvoir\npsychique."
+      },
+      {
+        "game": "xy-y",
+        "text": "Dieu protecteur d’une ville antique, il suivait toujours\nle même itinéraire afin de prévenir tout risque\nd’invasion."
+      },
+      {
+        "game": "oras-or",
+        "text": "Il était le dieu protecteur d’une ville antique. Il repoussait\nles envahisseurs à coups de pouvoir psychique."
+      },
+      {
+        "game": "oras-as",
+        "text": "Dieu protecteur d’une ville antique, il suivait toujours\nle même itinéraire afin de prévenir tout risque d’invasion."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Il vole grâce à ses pouvoirs psychiques.\nCertains disent qu’il était le dieu protecteur\nd’une ville antique, d’autres, son messager."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "En fouillant sous le sable du désert survolé\npar Cryptéro, on a retrouvé les vestiges\nde ce que l’on croit être une ville antique."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Symvolara",
+    "genus": "Vogelgleich-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Einst war es der Wächter einer Stadt aus uralten\nZeiten. Wer sich in sein Revier wagt, lernt seine\nPsycho-Kräfte kennen."
+      },
+      {
+        "game": "xy-y",
+        "text": "Vor langer Zeit war es der Wächter einer Stadt.\nEs fliegt auf der Suche nach Eindringlingen immer\ndieselbe Route ab."
+      },
+      {
+        "game": "oras-or",
+        "text": "Einst war es der Wächter einer Stadt aus uralten Zeiten. Wer\nsich in sein Revier wagt, lernt seine Psycho-Kräfte kennen."
+      },
+      {
+        "game": "oras-as",
+        "text": "Vor langer Zeit war es der Wächter einer Stadt. Es fliegt auf\nder Suche nach Eindringlingen immer dieselbe Route ab."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Es fliegt mithilfe seiner Psycho-Kräfte. Einige\nsagen, es war einst der Wächter einer Stadt aus\nuralten Zeiten. Andere sagen, es war sein Bote."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "In den Wüsten, in denen man Symvolara fliegen\nsieht, wurden Ruinen gefunden, die man für die\nÜberreste einer Stadt aus uralten Zeiten hält."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Sigilyph",
+    "genus": "Pokémon Pseudopájaro",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Fue la deidad protectora de una ciudad milenaria.\nAtaca con su poder psíquico a los enemigos que\ninvaden su territorio."
+      },
+      {
+        "game": "xy-y",
+        "text": "Deidad protectora de una antigua ciudad. Siempre\nmerodea por la misma ruta y permanece alerta en\nbusca de intrusos."
+      },
+      {
+        "game": "oras-or",
+        "text": "Fue la deidad protectora de una ciudad milenaria. Ataca con\nsu poder psíquico a los enemigos que invaden su territorio."
+      },
+      {
+        "game": "oras-as",
+        "text": "Deidad protectora de una antigua ciudad. Siempre merodea\npor la misma ruta y permanece alerta en busca de intrusos."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Vuela gracias a sus poderes psíquicos. Dicen que\nhabía sido la deidad protectora de una antigua\nciudad, si bien otros creen que era su mensajero."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Explorando la zona desértica que sobrevuela,\nse han descubierto los vestigios de lo que parece\nser una antigua ciudad."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Sigilyph",
+    "genus": "Pokémon Pseuduccello",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Era lo spirito custode di un’antica città. Attaccava\ncon poteri psichici i nemici che invadevano il suo\nterritorio."
+      },
+      {
+        "game": "xy-y",
+        "text": "Era lo spirito custode di un’antica città. Percorreva\nsempre lo stesso percorso per assicurarsi che non\nci fossero intrusi."
+      },
+      {
+        "game": "oras-or",
+        "text": "Era lo spirito custode di un’antica città. Attaccava con poteri\npsichici i nemici che invadevano il suo territorio."
+      },
+      {
+        "game": "oras-as",
+        "text": "Era lo spirito custode di un’antica città. Percorreva sempre lo\nstesso percorso per assicurarsi che non ci fossero intrusi."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Vola grazie ai suoi poteri psichici. Si dice che\nfosse lo spirito custode di un’antica città o il suo\nmessaggero."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Nella zona desertica sorvolata da questi\nPokémon sono stati disseppelliti i resti\ndi un’antica città."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Sigilyph",
+    "genus": "Avianoid Pokémon",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "They never vary the route they fly,\nbecause their memories of guarding\nan ancient city remain steadfast."
+      },
+      {
+        "game": "bw-w",
+        "text": "The guardians of an ancient city, they\nuse their psychic power to attack\nenemies that invade their territory."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "The guardians of an ancient city, they\nalways fly the same route while\nkeeping watch for invaders."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "The guardians of an ancient city, they\nalways fly the same route while\nkeeping watch for invaders."
+      },
+      {
+        "game": "xy-x",
+        "text": "The guardians of an ancient city, they use their\npsychic power to attack enemies that invade\ntheir territory."
+      },
+      {
+        "game": "xy-y",
+        "text": "The guardians of an ancient city, they always fly\nthe same route while keeping watch for invaders."
+      },
+      {
+        "game": "oras-or",
+        "text": "The guardians of an ancient city, they use their\npsychic power to attack enemies that invade\ntheir territory."
+      },
+      {
+        "game": "oras-as",
+        "text": "The guardians of an ancient city, they always fly\nthe same route while keeping watch for invaders."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Psychic power allows these Pokémon to fly. Some\nsay they were the guardians of an ancient city.\nOthers say they were the guardians’ emissaries."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "A discovery was made in the desert where\nSigilyph fly. The ruins of what may have been\nan ancient city were found beneath the sands."
+      }
+    ]
+  },
+  "chs": {
+    "name": "象征鸟",
+    "genus": "似鸟宝可梦",
+    "flavorText": [
+      {
+        "game": "swsh-sh",
+        "text": "人们在象征鸟飞过的沙漠\n的地下调查，结果在那里\n发现了疑似古代都市的遗迹。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "利用精神力量在空中飞翔，\n被称为古代都市的守护神。\n也有人认为它是守护神的使者。"
+      }
+    ]
+  }
+}

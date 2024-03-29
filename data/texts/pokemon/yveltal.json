@@ -1,0 +1,171 @@
+{
+  "jap": {
+    "name": "イベルタル",
+    "genus": "はかいポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "つばさと　おばねを　ひろげて　あかく\nかがやくとき　いきものの　いのちを\nすいとる　でんせつの　ポケモン。"
+      },
+      {
+        "game": "xy-y",
+        "text": "じゅみょうが　つきるとき　あらゆる\nいきものの　いのちを　すいつくし\nまゆの　すがたに　もどるという。"
+      },
+      {
+        "game": "oras-or",
+        "text": "つばさと　おばねを　ひろげて　あかく\nかがやくとき　いきものの　いのちを\nすいとる　でんせつの　ポケモン。"
+      },
+      {
+        "game": "oras-as",
+        "text": "じゅみょうが　つきるとき　あらゆる\nいきものの　いのちを　すいつくし\nまゆの　すがたに　もどるという。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Yveltal",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "이벨타르",
+    "genus": "파괴포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "날개와 꼬리를 펼치고 빨갛게\n빛날 때 살아 있는 생명을\n빨아들이는 전설의 포켓몬."
+      },
+      {
+        "game": "xy-y",
+        "text": "수명이 다할 때 모든\n생명의 목숨을 빨아들이고\n고치의 모습으로 돌아간다고 한다."
+      },
+      {
+        "game": "oras-or",
+        "text": "날개와 꼬리를 펼치고 빨갛게\n빛날 때 살아 있는 생명을\n빨아들이는 전설의 포켓몬."
+      },
+      {
+        "game": "oras-as",
+        "text": "수명이 다할 때 모든\n생명의 목숨을 빨아들이고\n고치의 모습으로 돌아간다고 한다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "伊裴爾塔爾",
+    "genus": "破壞寶可夢",
+    "flavorText": []
+  },
+  "fra": {
+    "name": "Yveltal",
+    "genus": "Pokémon Annihilation",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Lorsque les plumes de sa queue et de ses ailes sont\ndéployées et virent au rouge, ce Pokémon légendaire\nabsorbe l’énergie vitale de ce qui l’entoure."
+      },
+      {
+        "game": "xy-y",
+        "text": "Quand il sent que la fin de sa vie est proche, il aspire\nla force vitale des êtres vivants et retourne à l’état\nde cocon."
+      },
+      {
+        "game": "oras-or",
+        "text": "Lorsque les plumes de sa queue et de ses ailes sont\ndéployées et virent au rouge, ce Pokémon légendaire\nabsorbe l’énergie vitale de ce qui l’entoure."
+      },
+      {
+        "game": "oras-as",
+        "text": "Quand il sent que la fin de sa vie est proche, il aspire la force\nvitale des êtres vivants et retourne à l’état de cocon."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Yveltal",
+    "genus": "Zerstörungs-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Wenn Schwingen und Schwanzgefieder\ndieses Legendären Pokémon rot leuchten,\nentzieht es Lebewesen deren Energie."
+      },
+      {
+        "game": "xy-y",
+        "text": "Neigt sich seine Lebensspanne dem Ende zu,\nentzieht es anderen Lebewesen deren Energie\nund verwandelt sich zurück in einen Kokon."
+      },
+      {
+        "game": "oras-or",
+        "text": "Wenn Schwingen und Schwanzgefieder dieses Legendären\nPokémon rot leuchten, entzieht es Lebewesen deren Energie."
+      },
+      {
+        "game": "oras-as",
+        "text": "Neigt sich seine Lebensspanne dem Ende zu, entzieht es\nanderen Lebewesen deren Energie und verwandelt sich zurück\nin einen Kokon."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Yveltal",
+    "genus": "Pokémon Destrucción",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Pokémon legendario que, al extender sus alas y las\nplumas de la cola, emite un brillo carmesí que absorbe\nla energía vital de su enemigo."
+      },
+      {
+        "game": "xy-y",
+        "text": "Cuando su vida se extingue, absorbe la vitalidad de\ntodos los seres vivos y regresa a su forma de crisálida."
+      },
+      {
+        "game": "oras-or",
+        "text": "Pokémon legendario que, al extender sus alas y las plumas de\nla cola, emite un brillo carmesí que absorbe la energía vital de\nsu enemigo."
+      },
+      {
+        "game": "oras-as",
+        "text": "Cuando su vida se extingue, absorbe la vitalidad de todos los\nseres vivos y regresa a su forma de crisálida."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Yveltal",
+    "genus": "Pokémon Distruzione",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Quando le ali e le piume della coda di questo\nPokémon leggendario sono spiegate e di colore rosso\nacceso, può assorbire l’energia degli esseri viventi."
+      },
+      {
+        "game": "xy-y",
+        "text": "Secondo la leggenda, quando la sua lunga esistenza\ngiunge al termine, assorbe l’energia di tutti gli esseri\nviventi e si trasforma in un bozzolo."
+      },
+      {
+        "game": "oras-or",
+        "text": "Quando le ali e le piume della coda di questo Pokémon\nleggendario sono spiegate e di colore rosso acceso,\npuò assorbire l’energia degli esseri viventi."
+      },
+      {
+        "game": "oras-as",
+        "text": "Secondo la leggenda, quando la sua lunga esistenza giunge\nal termine, assorbe l’energia di tutti gli esseri viventi e si\ntrasforma in un bozzolo."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Yveltal",
+    "genus": "Destruction Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "When this legendary Pokémon’s wings and\ntail feathers spread wide and glow red,\nit absorbs the life force of living creatures."
+      },
+      {
+        "game": "xy-y",
+        "text": "When its life comes to an end, it absorbs\nthe life energy of every living thing\nand turns into a cocoon once more."
+      },
+      {
+        "game": "oras-or",
+        "text": "When this legendary Pokémon’s wings and\ntail feathers spread wide and glow red,\nit absorbs the life force of living creatures."
+      },
+      {
+        "game": "oras-as",
+        "text": "When its life comes to an end, it absorbs\nthe life energy of every living thing\nand turns into a cocoon once more."
+      }
+    ]
+  },
+  "chs": {
+    "name": "伊裴尔塔尔",
+    "genus": "破坏宝可梦",
+    "flavorText": []
+  }
+}

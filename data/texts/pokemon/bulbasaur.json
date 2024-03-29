@@ -1,0 +1,405 @@
+{
+  "jap": {
+    "name": "フシギダネ",
+    "genus": "たねポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "うまれたときから　せなかに\nふしぎな　タネが　うえてあって\nからだと　ともに　そだつという。"
+      },
+      {
+        "game": "xy-y",
+        "text": "うまれてから　しばらくの　あいだは\nせなかの　タネから　えいようを\nもらって　おおきく　そだつ。"
+      },
+      {
+        "game": "oras-or",
+        "text": "ひなたで　ひるねを　する　すがたを　みかける。\nたいようの　ひかりを　いっぱい　あびることで\nせなかの　タネが　おおきく　そだつのだ。"
+      },
+      {
+        "game": "oras-as",
+        "text": "ひなたで　ひるねを　する　すがたを　みかける。\nたいようの　ひかりを　いっぱい　あびることで\nせなかの　タネが　おおきく　そだつのだ。"
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "なんにちだって　なにも　たべなくても\nげんき！　せなかのタネに　たくさん\nえいようが　あるから　へいきだ！"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "なんにちだって　なにも　たべなくても\nげんき！　せなかのタネに　たくさん\nえいようが　あるから　へいきだ！"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "うまれたときから　せなかに\nしょくぶつの　タネが　あって\nすこしずつ　おおきく　そだつ。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "うまれて　しばらくの　あいだ\nせなかの　タネに　つまった\nえいようを　とって　そだつ。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Fushigidane",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "이상해씨",
+    "genus": "씨앗포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "태어났을 때부터 등에\n이상한 씨앗이 심어져 있으며\n몸과 함께 자란다고 한다."
+      },
+      {
+        "game": "xy-y",
+        "text": "태어나서부터 얼마 동안은\n등의 씨앗으로부터 영양을\n공급받아 크게 성장한다."
+      },
+      {
+        "game": "oras-or",
+        "text": "양지에서 낮잠 자는 모습을 볼 수 있다.\n태양의 빛을 많이 받으면\n등의 씨앗이 크게 자란다."
+      },
+      {
+        "game": "oras-as",
+        "text": "양지에서 낮잠 자는 모습을 볼 수 있다.\n태양의 빛을 많이 받으면\n등의 씨앗이 크게 자란다."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "며칠 동안 아무것도 먹지 않아도\n건강하다! 등에 있는 씨앗에는\n많은 영양분이 있어서 문제없다!"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "며칠 동안 아무것도 먹지 않아도\n건강하다! 등에 있는 씨앗에는\n많은 영양분이 있어서 문제없다!"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "태어났을 때부터 등에\n식물의 씨앗이 있으며\n조금씩 크게 자란다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "태어나서 얼마 동안\n등의 씨앗에 담긴\n영양을 섭취하며 자란다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "妙蛙種子",
+    "genus": "種子寶可夢",
+    "flavorText": [
+      {
+        "game": "lgpe-lgp",
+        "text": "背上的種子裡存著很多營養，\n所以就算好幾天不吃東西\n也能活得好好的！"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "背上的種子裡存著很多營養，\n所以就算好幾天不吃東西\n也能活得好好的！"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "從出生的時候開始\n背上就有一顆植物種子。\n這顆種子會漸漸地長大。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "在出生後的一段時間內，\n牠會吸收背上種子裡\n儲存著的營養成長。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Bulbizarre",
+    "genus": "Pokémon Graine",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Au matin de sa vie, la graine sur\nson dos lui fournit les éléments\ndont il a besoin pour grandir."
+      },
+      {
+        "game": "bw-w",
+        "text": "Au matin de sa vie, la graine sur\nson dos lui fournit les éléments\ndont il a besoin pour grandir."
+      },
+      {
+        "game": "xy-x",
+        "text": "Il a une étrange graine plantée sur son dos.\nElle grandit avec lui depuis sa naissance."
+      },
+      {
+        "game": "xy-y",
+        "text": "Au matin de sa vie, la graine sur son dos lui fournit\nles éléments dont il a besoin pour grandir."
+      },
+      {
+        "game": "oras-or",
+        "text": "Bulbizarre passe son temps à faire la sieste sous le soleil.\nIl y a une graine sur son dos. Il absorbe les rayons du soleil\npour faire doucement pousser la graine."
+      },
+      {
+        "game": "oras-as",
+        "text": "Bulbizarre passe son temps à faire la sieste sous le soleil.\nIl y a une graine sur son dos. Il absorbe les rayons du soleil\npour faire doucement pousser la graine."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Il peut survivre plusieurs jours sans manger\ngrâce aux nutriments contenus dans le bulbe\nsur son dos."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Il peut survivre plusieurs jours sans manger\ngrâce aux nutriments contenus dans le bulbe\nsur son dos."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Il y a une graine sur son dos depuis sa naissance.\nElle grossit un peu chaque jour."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Quand il est jeune, il absorbe les nutriments\nconservés dans son dos pour grandir\net se développer."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Bisasam",
+    "genus": "Samen-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Dieses Pokémon trägt von Geburt an einen Samen\nauf dem Rücken, der mit ihm keimt und wächst."
+      },
+      {
+        "game": "xy-y",
+        "text": "Nach der Geburt nimmt es für eine Weile Nährstoffe\nüber den Samen auf seinem Rücken auf."
+      },
+      {
+        "game": "oras-or",
+        "text": "Bisasam macht gern einmal ein Nickerchen im\nSonnenschein. Auf seinem Rücken trägt es einen\nSamen. Indem es Sonnenstrahlen aufsaugt,\nwird der Samen zunehmend größer."
+      },
+      {
+        "game": "oras-as",
+        "text": "Bisasam macht gern einmal ein Nickerchen im\nSonnenschein. Auf seinem Rücken trägt es einen\nSamen. Indem es Sonnenstrahlen aufsaugt,\nwird er zunehmend größer."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Es kommt tagelang ohne Nahrung aus, da es\nin den Samen auf seinem Rücken Nährstoffe\nspeichert."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Es kommt tagelang ohne Nahrung aus, da es\nin den Samen auf seinem Rücken Nährstoffe\nspeichert."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Dieses Pokémon trägt von Geburt an einen\nSamen auf dem Rücken, der im Laufe der Zeit\nkeimt und wächst."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Nach der Geburt nimmt es für eine Weile\nNährstoffe über den Samen auf seinem\nRücken auf."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Bulbasaur",
+    "genus": "Pokémon Semilla",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Una rara semilla le fue plantada en el lomo al nacer.\nLa planta brota y crece con este Pokémon."
+      },
+      {
+        "game": "xy-y",
+        "text": "Después de nacer, crece alimentándose de las\nsemillas de su lomo."
+      },
+      {
+        "game": "oras-or",
+        "text": "A Bulbasaur es fácil verle echándose una siesta al sol.\nLa semilla que tiene en el lomo va creciendo cada vez más\na medida que absorbe los rayos del sol."
+      },
+      {
+        "game": "oras-as",
+        "text": "A Bulbasaur es fácil verle echándose una siesta al sol.\nLa semilla que tiene en el lomo va creciendo cada vez más\na medida que absorbe los rayos del sol."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Puede sobrevivir largo tiempo sin probar\nbocado gracias a los nutrientes que guarda\nen el bulbo del lomo."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Puede sobrevivir largo tiempo sin probar\nbocado gracias a los nutrientes que guarda\nen el bulbo del lomo."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Este Pokémon nace con una semilla en el lomo,\nque brota con el paso del tiempo."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Desde que nace, crece alimentándose de los\nnutrientes que contiene la semilla de su lomo."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Bulbasaur",
+    "genus": "Pokémon Seme",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Alla nascita gli è stato piantato sulla schiena un seme\nraro. La pianta sboccia e cresce con lui."
+      },
+      {
+        "game": "xy-y",
+        "text": "Dopo la nascita, cresce traendo nutrimento dal seme\npiantato sul suo dorso."
+      },
+      {
+        "game": "oras-or",
+        "text": "È possibile vedere Bulbasaur mentre schiaccia un pisolino\nsotto il sole. Ha un seme piantato sulla schiena. Grazie ai\nraggi solari il seme cresce ingrandendosi progressivamente."
+      },
+      {
+        "game": "oras-as",
+        "text": "È possibile vedere Bulbasaur mentre schiaccia un pisolino\nsotto il sole. Ha un seme piantato sulla schiena. Grazie ai\nraggi solari il seme cresce ingrandendosi progressivamente."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "Questo Pokémon può stare a lungo senza\nmangiare. Accumula energia nel bulbo che\nha sulla schiena."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "Questo Pokémon può stare a lungo senza\nmangiare. Accumula energia nel bulbo che\nha sulla schiena."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Fin dalla nascita questo Pokémon ha sulla schiena\nun seme che cresce lentamente."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Appena nato, trae nutrimento dalle sostanze\ncontenute nel seme sul dorso."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Bulbasaur",
+    "genus": "Seed Pokémon",
+    "flavorText": [
+      {
+        "game": "rb-r",
+        "text": "A strange seed was\nplanted on its\nback at birth.\fThe plant sprouts\nand grows with\nthis POKéMON."
+      },
+      {
+        "game": "rb-b",
+        "text": "A strange seed was\nplanted on its\nback at birth.\fThe plant sprouts\nand grows with\nthis POKéMON."
+      },
+      {
+        "game": "y",
+        "text": "It can go for days\nwithout eating a\nsingle morsel.\fIn the bulb on\nits back, it\nstores energy."
+      },
+      {
+        "game": "gs-g",
+        "text": "The seed on its\nback is filled\nwith nutrients.\fThe seed grows\nsteadily larger as\nits body grows."
+      },
+      {
+        "game": "gs-s",
+        "text": "It carries a seed\non its back right\nfrom birth. As it\fgrows older, the\nseed also grows\nlarger."
+      },
+      {
+        "game": "c",
+        "text": "While it is young,\nit uses the\nnutrients that are\fstored in the\nseeds on its back\nin order to grow."
+      },
+      {
+        "game": "rs-r",
+        "text": "BULBASAUR can be seen napping in\nbright sunlight.\nThere is a seed on its back.\fBy soaking up the sun’s rays, the seed\ngrows progressively larger."
+      },
+      {
+        "game": "rs-s",
+        "text": "BULBASAUR can be seen napping in\nbright sunlight.\nThere is a seed on its back.\fBy soaking up the sun’s rays, the seed\ngrows progressively larger."
+      },
+      {
+        "game": "e",
+        "text": "BULBASAUR can be seen napping in bright\nsunlight. There is a seed on its back.\nBy soaking up the sun’s rays, the seed\ngrows progressively larger."
+      },
+      {
+        "game": "frlg-fr",
+        "text": "There is a plant seed on its back right\nfrom the day this POKéMON is born.\nThe seed slowly grows larger."
+      },
+      {
+        "game": "frlg-lg",
+        "text": "A strange seed was planted on its back at\nbirth. The plant sprouts and grows with\nthis POKéMON."
+      },
+      {
+        "game": "dp-d",
+        "text": "For some time after its birth, it\ngrows by gaining nourishment from\nthe seed on its back."
+      },
+      {
+        "game": "dp-p",
+        "text": "For some time after its birth, it\ngrows by gaining nourishment from\nthe seed on its back."
+      },
+      {
+        "game": "pt",
+        "text": "For some time after its birth, it\ngrows by gaining nourishment from\nthe seed on its back."
+      },
+      {
+        "game": "hgss-hg",
+        "text": "The seed on its back is filled\nwith nutrients. The seed grows\nsteadily larger as its body grows."
+      },
+      {
+        "game": "hgss-ss",
+        "text": "It carries a seed on its back right\nfrom birth. As it grows older, the\nseed also grows larger."
+      },
+      {
+        "game": "bw-b",
+        "text": "For some time after its birth, it\ngrows by gaining nourishment from\nthe seed on its back."
+      },
+      {
+        "game": "bw-w",
+        "text": "For some time after its birth, it\ngrows by gaining nourishment from\nthe seed on its back."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "For some time after its birth, it\ngrows by gaining nourishment from\nthe seed on its back."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "For some time after its birth, it\ngrows by gaining nourishment from\nthe seed on its back."
+      },
+      {
+        "game": "xy-x",
+        "text": "A strange seed was planted on its back at birth.\nThe plant sprouts and grows with this Pokémon."
+      },
+      {
+        "game": "xy-y",
+        "text": "For some time after its birth, it grows by gaining\nnourishment from the seed on its back."
+      },
+      {
+        "game": "oras-or",
+        "text": "Bulbasaur can be seen napping in bright sunlight.\nThere is a seed on its back. By soaking up the sun’s rays,\nthe seed grows progressively larger."
+      },
+      {
+        "game": "oras-as",
+        "text": "Bulbasaur can be seen napping in bright sunlight.\nThere is a seed on its back. By soaking up the sun’s rays,\nthe seed grows progressively larger."
+      },
+      {
+        "game": "lgpe-lgp",
+        "text": "It can go for days without eating a single morsel.\nIn the bulb on its back, it stores energy."
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "It can go for days without eating a single morsel.\nIn the bulb on its back, it stores energy."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "There is a plant seed on its back right from the\nday this Pokémon is born. The seed slowly\ngrows larger."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "While it is young, it uses the nutrients that are\nstored in the seed on its back in order to grow."
+      }
+    ]
+  },
+  "chs": {
+    "name": "妙蛙种子",
+    "genus": "种子宝可梦",
+    "flavorText": [
+      {
+        "game": "lgpe-lgp",
+        "text": "背上的种子里储存着营养，\n所以即使好几天不吃东西\n也可以活得好好的！"
+      },
+      {
+        "game": "lgpe-lge",
+        "text": "背上的种子里储存着营养，\n所以即使好几天不吃东西\n也可以活得好好的！"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "从出生的时候开始，\n背上就有一颗植物种子。\n这颗种子会渐渐地长大。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "在出生后的一段时间内，\n它会吸收背上种子里\n储存着的营养成长。"
+      }
+    ]
+  }
+}

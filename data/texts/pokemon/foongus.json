@@ -1,0 +1,269 @@
+{
+  "jap": {
+    "name": "タマゲタケ",
+    "genus": "きのこポケモン",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "モンスターボールに　にた　もようで\nさそい　どくほうしを　ふきかける。\nなぜ　にているかは　なぞである。"
+      },
+      {
+        "game": "xy-y",
+        "text": "モンスターボール　そっくりの\nもようで　ポケモンを　さそいこみ\nどくのほうしを　ふきかけてくる。"
+      },
+      {
+        "game": "oras-or",
+        "text": "モンスターボールに　にた　もようで\nさそい　どくほうしを　ふきかける。\nなぜ　にているかは　なぞである。"
+      },
+      {
+        "game": "oras-as",
+        "text": "モンスターボール　そっくりの\nもようで　ポケモンを　さそいこみ\nどくのほうしを　ふきかけてくる。"
+      },
+      {
+        "game": "swsh-sw",
+        "text": "モンスターボールに　よく　にた\nもようの　いみや　りゆうは\nいまだに　だれも　わからない。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "りょうてから　ふきだす　ほうしは\nもうどくだが　よく　かわかせば\nおなかの　くすりに　なると　いう。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Tamagetake",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "깜놀버슬",
+    "genus": "버섯포켓몬",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "몬스터볼을 닮은 무늬로\n유인한 후 독 포자를 뿌려댄다.\n왜 닮았는지는 불가사의다."
+      },
+      {
+        "game": "xy-y",
+        "text": "몬스터볼과 똑 닮은\n무늬로 포켓몬을 유인해\n독 포자를 뿌린다."
+      },
+      {
+        "game": "oras-or",
+        "text": "몬스터볼을 닮은 무늬로\n유인한 후 독 포자를 뿌려댄다.\n왜 닮았는지는 불가사의다."
+      },
+      {
+        "game": "oras-as",
+        "text": "몬스터볼과 똑 닮은\n무늬로 포켓몬을 유인해\n독 포자를 뿌린다."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "몬스터볼을 많이 닮았는데\n그 의미와 이유는\n아직 아무도 모른다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "양손에서 내뿜는 포자는\n맹독이지만 잘 말리면\n복통약이 된다고 한다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "哎呀球菇",
+    "genus": "蘑菇寶可夢",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "酷似精靈球的花紋\n究竟有什麼意義和理由，\n至今仍沒有人能了解。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "從雙臂噴出的孢子是劇毒，\n但據說在徹底乾燥之後，\n可以作為腸胃藥使用。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Trompignon",
+    "genus": "Pokémon Champignon",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "Grâce à sa ressemblance mystérieuse\navec une Poké Ball, il attire ses ennemis\net relâche des spores empoisonnées."
+      },
+      {
+        "game": "bw-w",
+        "text": "Pour une raison inconnue, il ressemble à\nune Poké Ball. Il repousse ses ennemis\nà l’aide de spores empoisonnées."
+      },
+      {
+        "game": "xy-x",
+        "text": "Grâce à sa ressemblance mystérieuse avec une\nPoké Ball, il attire ses ennemis et relâche des spores\nempoisonnées."
+      },
+      {
+        "game": "xy-y",
+        "text": "Son apparence de Poké Ball trompe ses ennemis,\nqu’il étourdit à l’aide de ses spores empoisonnées."
+      },
+      {
+        "game": "oras-or",
+        "text": "Grâce à sa ressemblance mystérieuse avec une Poké Ball,\nil attire ses ennemis et relâche des spores empoisonnées."
+      },
+      {
+        "game": "oras-as",
+        "text": "Son apparence de Poké Ball trompe ses ennemis, qu’il étourdit\nà l’aide de ses spores empoisonnées."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "On ignore toujours l’origine ou la signification\nde sa forte ressemblance avec une Poké Ball."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Les spores qu’il libère de ses mains sont\ntrès toxiques, mais si on les sèche bien,\nelles peuvent soulager les maux de ventre."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Tarnpignon",
+    "genus": "Pilz-Pokémon",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Fällt ein Trainer auf sein Äußeres herein,\ndas komischerweise einem Pokéball ähnelt,\nbesprüht es ihn mit Giftsporen."
+      },
+      {
+        "game": "xy-y",
+        "text": "Es ist gemustert wie ein Pokéball. Es lockt damit\nandere Pokémon an, um sie dann mit Giftsporen\nzu besprühen."
+      },
+      {
+        "game": "oras-or",
+        "text": "Fällt ein Trainer auf sein Äußeres herein, das komischerweise\neinem Pokéball ähnelt, besprüht es ihn mit Giftsporen."
+      },
+      {
+        "game": "oras-as",
+        "text": "Es ist gemustert wie ein Pokéball. Es lockt damit andere\nPokémon an, um sie dann mit Giftsporen zu besprühen."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Bis heute kann niemand genau sagen, wieso\nTarnpignon ein Pokéball-Muster aufweisen und\nwelchen Zweck dies erfüllt."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Die Sporen, die es aus seinen zwei Gliedmaßen\nversprüht, sind sehr giftig. In getrockneter Form\neignen sie sich jedoch als Magenmedizin."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Foongus",
+    "genus": "Pokémon Hongo",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Gracias a su misterioso parecido a una Poké Ball, atrae\na sus presas y lanza rápidamente esporas de veneno."
+      },
+      {
+        "game": "xy-y",
+        "text": "Atraen a otros Pokémon gracias a su similitud con una\nPoké Ball y los atacan expulsando esporas venenosas."
+      },
+      {
+        "game": "oras-or",
+        "text": "Gracias a su misterioso parecido a una Poké Ball, atrae a sus\npresas y lanza rápidamente esporas de veneno."
+      },
+      {
+        "game": "oras-as",
+        "text": "Atraen a otros Pokémon gracias a su similitud con una\nPoké Ball y los atacan expulsando esporas venenosas."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "Todavía no se ha encontrado ninguna explicación\nni razón para su gran parecido a las Poké Balls."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Las esporas que expulsa por las extremidades\nson altamente tóxicas, pero, si se secan bien,\nsirven como remedio estomacal."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Foongus",
+    "genus": "Pokémon Fungo",
+    "flavorText": [
+      {
+        "game": "xy-x",
+        "text": "Simile a una Poké Ball, adesca i nemici e sparge\nspore velenose. Da dove venga questa somiglianza\nè un vero mistero."
+      },
+      {
+        "game": "xy-y",
+        "text": "Attira a sé altri Pokémon con la sua forma a\nPoké Ball e soffia su di loro le sue spore velenose."
+      },
+      {
+        "game": "oras-or",
+        "text": "Simile a una Poké Ball, adesca i nemici e sparge\nspore velenose. Da dove venga questa somiglianza\nè un vero mistero."
+      },
+      {
+        "game": "oras-as",
+        "text": "Attira a sé altri Pokémon con la sua forma a Poké Ball e soffia\nsu di loro le sue spore velenose."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "A tutt’oggi nessuno è a conoscenza\ndel significato o dell’origine del motivo simile\na una Poké Ball che sfoggia."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Le spore che rilascia dalle mani sono molto\nvelenose, ma se sono essiccate pare che possano\nessere usate come farmaco gastrointestinale."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Foongus",
+    "genus": "Mushroom Pokémon",
+    "flavorText": [
+      {
+        "game": "bw-b",
+        "text": "It lures people in with its Poké Ball\npattern, then releases poison spores.\nWhy it resembles a Poké Ball is unknown."
+      },
+      {
+        "game": "bw-w",
+        "text": "For some reason, this Pokémon resembles\na Poké Ball. They release poison spores\nto repel those who try to catch them."
+      },
+      {
+        "game": "b2w2-b2",
+        "text": "It lures Pokémon with its pattern\nthat looks just like a Poké Ball\nthen releases poison spores."
+      },
+      {
+        "game": "b2w2-w2",
+        "text": "It lures Pokémon with its pattern\nthat looks just like a Poké Ball\nthen releases poison spores."
+      },
+      {
+        "game": "xy-x",
+        "text": "It lures people in with its Poké Ball pattern, then\nreleases poison spores. Why it resembles a\nPoké Ball is unknown."
+      },
+      {
+        "game": "xy-y",
+        "text": "It lures Pokémon with its pattern that looks just like\na Poké Ball, then releases poison spores."
+      },
+      {
+        "game": "oras-or",
+        "text": "It lures people in with its Poké Ball pattern, then\nreleases poison spores. Why it resembles a\nPoké Ball is unknown."
+      },
+      {
+        "game": "oras-as",
+        "text": "It lures Pokémon with its pattern that looks just like\na Poké Ball, then releases poison spores."
+      },
+      {
+        "game": "swsh-sw",
+        "text": "No one knows what the Poké Ball–like pattern on\nFoongus means or why Foongus has it."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "The spores released from this Pokémon’s hands\nare highly poisonous, but when thoroughly dried,\nthe spores can be used as stomach medicine."
+      }
+    ]
+  },
+  "chs": {
+    "name": "哎呀球菇",
+    "genus": "蘑菇宝可梦",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "关于它酷似精灵球的\n花纹的意义和理由，\n至今都无人知晓。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "从双手喷出的孢子虽然\n含有剧毒，但据说彻底干燥后\n可以用作治疗肠胃的药。"
+      }
+    ]
+  }
+}

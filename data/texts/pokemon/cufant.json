@@ -1,0 +1,133 @@
+{
+  "jap": {
+    "name": "ゾウドウ",
+    "genus": "どうぞうポケモン",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "５トンの　にもつを　もっても\nへいきな　ちからもち　ポケモン。\nはなを　つかって　つちを　ほる。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "ちからしごとなら　おまかせ。\nどうの　からだは　あめで　さび\nあざやかな　みどりに　かわる。"
+      }
+    ]
+  },
+  "jap_ro": {
+    "name": "Zoudou",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "끼리동",
+    "genus": "동상포켓몬",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "5톤의 짐을 실어도 문제없는\n힘이 장사인 포켓몬.\n코를 이용해서 땅을 판다."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "힘쓰는 일에 강하다.\n동으로 된 몸체는 비에 녹슬어\n선명한 녹색으로 변한다."
+      }
+    ]
+  },
+  "cht": {
+    "name": "銅象",
+    "genus": "像銅寶可夢",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "能輕鬆舉起重達５噸的\n貨物的大力士寶可夢。\n會用鼻子挖地。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "擅長需要力氣的工作。\n銅質的身體會因雨水而生鏽，\n轉變成鮮豔的綠色。"
+      }
+    ]
+  },
+  "fra": {
+    "name": "Charibari",
+    "genus": "Pokémon Pachycuivre",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Ce Pokémon est assez costaud pour porter\ndes charges de cinq tonnes sans problème.\nIl utilise sa trompe pour creuser le sol."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Les travaux physiques, c’est son affaire.\nSon corps de cuivre rouille sous la pluie\net prend une vive couleur verte."
+      }
+    ]
+  },
+  "deu": {
+    "name": "Kupfanti",
+    "genus": "Kupferfant-Pokémon",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Dieses Pokémon verfügt über eine Stärke, mit der\nes problemlos fünf Tonnen stemmen kann. Es\nnutzt seinen Rüssel, um in der Erde zu graben."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Harte Knochenarbeit kann man problemlos ihm\nüberlassen. Sein Körper aus Kupfer rostet im\nRegen und nimmt eine leuchtend grüne Farbe an."
+      }
+    ]
+  },
+  "esp": {
+    "name": "Cufant",
+    "genus": "Pokémon Broncefante",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "Su constitución fornida le permite transportar\nsin inmutarse cargas de 5 toneladas. Utiliza la\ntrompa para excavar la tierra."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "Realiza tareas que requieren de esfuerzo físico,\nes su fuerte. Con la lluvia, su cuerpo de cobre se\noxida y adquiere una tonalidad verde intensa."
+      }
+    ]
+  },
+  "ita": {
+    "name": "Cufant",
+    "genus": "Pokémon Bronzofante",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "È un Pokémon molto forte, capace di trasportare\nfacilmente carichi di cinque tonnellate. Usa la\nproboscide per scavare la terra."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "I lavori pesanti sono il suo pane quotidiano.\nIl suo corpo di rame si ossida con la pioggia\ncolorandosi di un verde intenso."
+      }
+    ]
+  },
+  "eng": {
+    "name": "Cufant",
+    "genus": "Copperderm Pokémon",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "It digs up the ground with its trunk. It’s also very\nstrong, being able to carry loads of over\nfive tons without any problem at all."
+      },
+      {
+        "game": "swsh-sh",
+        "text": "If a job requires serious strength, this Pokémon\nwill excel at it. Its copper body tarnishes in the\nrain, turning a vibrant green color."
+      }
+    ]
+  },
+  "chs": {
+    "name": "铜象",
+    "genus": "像铜宝可梦",
+    "flavorText": [
+      {
+        "game": "swsh-sw",
+        "text": "能轻松举起重达５吨的\n货物的大力士宝可梦。\n会用鼻子挖地。"
+      },
+      {
+        "game": "swsh-sh",
+        "text": "擅长需要力气的工作。\n铜质的身体会因雨水而生锈，\n转变成鲜艳的绿色。"
+      }
+    ]
+  }
+}

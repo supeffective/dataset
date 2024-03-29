@@ -1,0 +1,61 @@
+{
+  "jap": {
+    "name": "キョジオーン",
+    "genus": "がんえんポケモン",
+    "flavorText": []
+  },
+  "jap_ro": {
+    "name": "Kyojiohn",
+    "genus": "",
+    "flavorText": []
+  },
+  "kor": {
+    "name": "콜로솔트",
+    "genus": "",
+    "flavorText": []
+  },
+  "cht": {
+    "name": "鹽石巨靈",
+    "genus": "岩鹽寶可夢",
+    "flavorText": []
+  },
+  "fra": {
+    "name": "Gigansel",
+    "genus": "",
+    "flavorText": []
+  },
+  "deu": {
+    "name": "Saltigant",
+    "genus": "Steinsalz",
+    "flavorText": []
+  },
+  "esp": {
+    "name": "Garganacl",
+    "genus": "",
+    "flavorText": []
+  },
+  "ita": {
+    "name": "Garganacl",
+    "genus": "",
+    "flavorText": []
+  },
+  "eng": {
+    "name": "Garganacl",
+    "genus": "Rock Salt Pokémon",
+    "flavorText": [
+      {
+        "game": "sv-s",
+        "text": "Garganacl will rub its fingertips together and sprinkle injured Pokémon with salt. Even severe wounds will promptly heal afterward."
+      },
+      {
+        "game": "sv-v",
+        "text": "Many Pokémon gather around Garganacl, hoping to lick at its mineral-rich salt."
+      }
+    ]
+  },
+  "chs": {
+    "name": "盐石巨灵",
+    "genus": "岩盐宝可梦",
+    "flavorText": []
+  }
+}
