@@ -1,4 +1,20 @@
 
+## v2.4.0
+
+[compare changes](https://github.com/supeffective/dataset/compare/v2.3.0...v2.4.0)
+
+### 🚀 Enhancements
+
+- Add pokemon flavor texts, with TS types ([0bfdc4b](https://github.com/supeffective/dataset/commit/0bfdc4b))
+
+### 🏡 Chore
+
+- Upgrade deps and remove husky and turbo ([0948cdb](https://github.com/supeffective/dataset/commit/0948cdb))
+
+### ❤️ Contributors
+
+- Javi Aguilar ([@itsjavi](http://github.com/itsjavi))
+
 ## v2.3.0
 
 [compare changes](https://github.com/supeffective/dataset/compare/v2.2.2...v2.3.0)
