@@ -1,4 +1,28 @@
 
+## v2.5.0
+
+[compare changes](https://github.com/supeffective/dataset/compare/v2.4.0...v2.5.0)
+
+### 🚀 Enhancements
+
+- Add pokemon names index in all langs ([94a9ee7](https://github.com/supeffective/dataset/commit/94a9ee7))
+
+### ❤️ Contributors
+
+- Javi Aguilar ([@itsjavi](http://github.com/itsjavi))
+
+## v2.4.1
+
+[compare changes](https://github.com/supeffective/dataset/compare/v2.4.0...v2.4.1)
+
+### 🚀 Enhancements
+
+- Add pokemon names index in all langs ([94a9ee7](https://github.com/supeffective/dataset/commit/94a9ee7))
+
+### ❤️ Contributors
+
+- Javi Aguilar ([@itsjavi](http://github.com/itsjavi))
+
 ## v2.4.0
 
 [compare changes](https://github.com/supeffective/dataset/compare/v2.3.0...v2.4.0)
