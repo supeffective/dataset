@@ -4,6 +4,13 @@ Pokémon JSON dataset for SuperEffective.gg based on Showdown's data.
 
 It also includes a JavaScript HTTP client, data types and Zod schema validators.
 
+<p>
+<a href="https://www.jsdocs.io/package/@supeffective/dataset"><img src="https://img.shields.io/badge/API%20Reference-📖-purple" alt="docs"></a>
+  <a href="https://npmjs.com/package/@supeffective/dataset"><img src="https://img.shields.io/npm/v/@supeffective/dataset.svg" alt="npm package"></a>
+<a href="https://bundlephobia.com/package/@supeffective/dataset"><img src="https://img.shields.io/bundlephobia/min/@supeffective/dataset?label=@supeffective/dataset" alt="bundle size" /></a>
+
+</p>
+
 ## Installation
 
 ```bash
@@ -21,7 +28,7 @@ bun add @supeffective/dataset
 This project includes a development server, to serve the `data`
 folder as a JSON API.
 
-Optionally, it can also serve a directory of assets, such as 
+Optionally, it can also serve a directory of assets, such as
 images (e.g `../supereffective-assets/assets`).
 
 You can configure the server using the environment variables

@@ -1,6 +1,6 @@
 import { z } from 'zod'
-import { getPokemonList } from '../maintenance/queries'
-import { validate } from '../maintenance/validation'
+import { getPokemonList } from '../internal/queries'
+import { validate } from '../internal/validation'
 import { pokemonSchema } from '../schemas'
 import { fetchImagesIndexMap } from './utils'
 

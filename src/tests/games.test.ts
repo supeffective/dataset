@@ -1,7 +1,7 @@
 import { z } from 'zod'
-import { pokemonGamesMap, pokemonRegionsMap } from '../client'
-import { localDataLoader } from '../maintenance/loader'
-import { validate } from '../maintenance/validation'
+import { localDataLoader } from '../internal/loader'
+import { validate } from '../internal/validation'
+import { pokemonGamesMap, pokemonRegionsMap } from '../provider'
 import { gameSchema } from '../schemas'
 import { fetchImagesIndexMap } from './utils'
 
