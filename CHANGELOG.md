@@ -1,4 +1,21 @@
 
+## v3.0.1
+
+[compare changes](https://github.com/supeffective/dataset/compare/v3.0.0...v3.0.1)
+
+### 🩹 Fixes
+
+- Dev script ([a5dd0f2](https://github.com/supeffective/dataset/commit/a5dd0f2))
+
+### 🏡 Chore
+
+- Remove unnecessary qa on release ([c38ac13](https://github.com/supeffective/dataset/commit/c38ac13))
+- Remove unnecessary deps and update existing ([c6fc723](https://github.com/supeffective/dataset/commit/c6fc723))
+
+### ❤️ Contributors
+
+- Javi Aguilar ([@itsjavi](http://github.com/itsjavi))
+
 ## v3.0.0
 
 [compare changes](https://github.com/supeffective/dataset/compare/v2.5.0...v3.0.0)
