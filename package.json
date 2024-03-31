@@ -40,7 +40,7 @@
     "data:one-off": "bun ./src/internal/scripts/one-off.ts",
     "data:prettier": "prettier --write './data/texts/**/*.json'  './data/pokedexes/**/*.json' './data/pokemon/**/*.json'",
     "dev": "concurrently --raw \"pnpm dev:watch\" \"pnpm dev:server\"",
-    "dev:server": "bun src/dev-server.ts",
+    "dev:server": "bun src/internal/dev/dev-server.ts",
     "dev:watch": "tsup --watch --clean=false",
     "format": "pnpm lint-fix && pnpm format:package-json && pnpm data:format && pnpm data:minify",
     "format:package-json": "sort-package-json",
