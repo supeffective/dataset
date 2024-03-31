@@ -1,12 +1,12 @@
 import z from 'zod'
 
-import { generationSchema, nameSchema, slugSchema } from './common'
+import { generationNumSchema, nameSchema, slugSchema } from './common'
 
 export const gameSchema = z.object({
   id: slugSchema,
   name: nameSchema,
   fullName: z.string().max(80).optional(),
-  generation: generationSchema,
+  generation: generationNumSchema,
   type: z.enum(['superset', 'set', 'game', 'dlc']), //.or(z.string()),
   gameSet: slugSchema.nullable(),
   gameSuperSet: slugSchema.nullable(),

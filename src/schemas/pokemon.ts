@@ -1,6 +1,6 @@
 import z from 'zod'
 
-import { generationSchema, nameSchema, slugSchema } from './common'
+import { generationNumSchema, nameSchema, slugSchema } from './common'
 
 export const pokemonIndexItemSchema = z
   .object({
@@ -46,7 +46,7 @@ export const pokemonSchema = z
     name: nameSchema,
     formName: nameSchema.nullable(),
     region: slugSchema,
-    generation: generationSchema,
+    generation: generationNumSchema,
     type1: slugSchema,
     type2: slugSchema.nullable(),
     /**

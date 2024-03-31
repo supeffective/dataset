@@ -23,8 +23,8 @@ const pokeImgVariantFolder = {
 
 export class SuperEffectiveCdnClient {
   constructor(
-    private datasetBaseUrl = 'https://cdn.supeffective.com/dataset',
-    private assetsBaseUrl = 'https://cdn.supeffective.com/assets',
+    public readonly datasetBaseUrl = 'https://cdn.supeffective.com/dataset',
+    public readonly assetsBaseUrl = 'https://cdn.supeffective.com/assets',
   ) {}
 
   public getDataUrl(resourceName: string, ext = '.min.json'): string {

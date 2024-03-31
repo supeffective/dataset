@@ -1,12 +1,12 @@
 import z from 'zod'
 
-import { descriptionSchema, generationSchema, nameSchema, slugSchema } from './common'
+import { descriptionSchema, generationNumSchema, nameSchema, slugSchema } from './common'
 
 export const markSchema = z.object({
   id: slugSchema,
   name: nameSchema,
   title: descriptionSchema,
-  generation: generationSchema,
+  generation: generationNumSchema,
   desc: descriptionSchema,
   conditions: descriptionSchema,
   chance: z.string(),

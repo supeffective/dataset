@@ -7,7 +7,7 @@ export const slugSchema = z
   .string()
   .max(50)
   .regex(/^[a-z0-9-]+$/)
-export const generationSchema = z.coerce.number().min(0).max(PKM_LATEST_GENERATION)
+export const generationNumSchema = z.coerce.number().min(0).max(PKM_LATEST_GENERATION)
 export const descriptionSchema = z.string().max(200)
 export const detailSchema = z.string().max(2000).nullable()
 

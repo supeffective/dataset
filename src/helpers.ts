@@ -37,3 +37,7 @@ export function alpha3ToPokeLang(alpha3: PokeLanguageAlpha3): PokeLanguageId {
 
   throw new Error(`Invalid Pokemon alpha3 language code: ${alpha3}`)
 }
+
+export function getSourceCodeUrl(path: string, branch = 'main', project: 'dataset' | 'assets' = 'dataset') {
+  return `https://github.com/supeffective/${project}/blob/${branch}/${path}`
+}

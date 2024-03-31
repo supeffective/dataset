@@ -1,12 +1,12 @@
 import z from 'zod'
 
-import { descriptionSchema, detailSchema, generationSchema, nameSchema, slugSchema } from './common'
+import { descriptionSchema, detailSchema, generationNumSchema, nameSchema, slugSchema } from './common'
 
 export const moveSchema = z.object({
   id: slugSchema,
   name: nameSchema,
   psName: nameSchema,
-  generation: generationSchema,
+  generation: generationNumSchema,
   desc: detailSchema,
   shortDesc: descriptionSchema,
   type: slugSchema,
