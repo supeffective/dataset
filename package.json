@@ -59,8 +59,6 @@
     "version:release": "pnpm build && npm publish --access=public"
   },
   "dependencies": {
-    "axios": "^1.6.8",
-    "axios-cache-interceptor": "^1.5.1",
     "zod": "^3.22.4"
   },
   "devDependencies": {
@@ -71,10 +69,10 @@
     "@types/cors": "^2.8.17",
     "@types/express": "^4.17.21",
     "@types/jest": "^29.5.12",
-    "@types/node": "^20.11.30",
+    "@types/node": "^20.12.2",
     "body-parser": "^1.20.2",
-    "bun": "^1.0.35",
-    "bun-types": "1.0.35",
+    "bun": "^1.0.36",
+    "bun-types": "1.0.36",
     "changelogen": "^0.5.5",
     "concurrently": "^8.2.2",
     "cors": "^2.8.5",
@@ -82,7 +80,7 @@
     "glob": "^10.3.12",
     "prettier": "^3.2.5",
     "publint": "^0.2.7",
-    "sort-package-json": "^2.9.0",
+    "sort-package-json": "^2.10.0",
     "tsup": "^8.0.2",
     "typescript": "^5.4.3"
   },
