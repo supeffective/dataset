@@ -27,6 +27,7 @@
     "LICENSE",
     "README.md"
   ],
+  "sideEffects": false,
   "scripts": {
     "build": "rm -rf dist && sleep 1 && pnpm build:lib && pnpm build:data",
     "build:data": "pnpm data:import && pnpm data:generate && pnpm data:format && pnpm data:minify && pnpm data:generate-html",

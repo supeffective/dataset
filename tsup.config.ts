@@ -1,4 +1,4 @@
-import { type Options, defineConfig } from 'tsup'
+import { defineConfig, type Options } from 'tsup'
 
 const config: Options = {
   entry: {
@@ -12,6 +12,7 @@ const config: Options = {
   dts: true,
   sourcemap: true,
   splitting: true,
+  treeshake: true,
   minify: false,
   skipNodeModulesBundle: true,
   external: ['node_modules'],
