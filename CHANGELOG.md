@@ -1,4 +1,27 @@
 
+## v3.0.0
+
+[compare changes](https://github.com/supeffective/dataset/compare/v2.5.0...v3.0.0)
+
+### 🩹 Fixes
+
+- Wrong pokemon data path ([b013dca](https://github.com/supeffective/dataset/commit/b013dca))
+
+### 💅 Refactors
+
+- Languages ([5d3a2e8](https://github.com/supeffective/dataset/commit/5d3a2e8))
+- **BREAKING:** Simplified API, with only the necessary. Better CDN client. ([d5ede8f](https://github.com/supeffective/dataset/commit/d5ede8f))
+- Add lang helpers and fix text lang ids ([959d7c1](https://github.com/supeffective/dataset/commit/959d7c1))
+
+### 🏡 Chore
+
+- Fix version script ([24c34a1](https://github.com/supeffective/dataset/commit/24c34a1))
+- Remove implicit patch ([e06fdf5](https://github.com/supeffective/dataset/commit/e06fdf5))
+
+### ❤️ Contributors
+
+- Javi Aguilar ([@itsjavi](http://github.com/itsjavi))
+
 ## v2.5.0
 
 [compare changes](https://github.com/supeffective/dataset/compare/v2.4.0...v2.5.0)
