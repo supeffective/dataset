@@ -56,7 +56,7 @@
     "typecheck": "tsc --noEmit --skipLibCheck",
     "version:bump": "pnpm qa && pnpm exec changelogen --bump --release",
     "version:publish": "pnpm version:release",
-    "version:release": "pnpm build && pnpm qa:nobuild && npm publish --access=public"
+    "version:release": "pnpm build && npm publish --access=public"
   },
   "dependencies": {
     "axios": "^1.6.8",
