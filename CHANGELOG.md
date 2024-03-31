@@ -1,4 +1,20 @@
 
+## v3.0.2
+
+[compare changes](https://github.com/supeffective/dataset/compare/v3.0.1...v3.0.2)
+
+### 🚀 Enhancements
+
+- Adds generations and other helpers ([869c745](https://github.com/supeffective/dataset/commit/869c745))
+
+### 🏡 Chore
+
+- Configure tree-shaking ([7daa078](https://github.com/supeffective/dataset/commit/7daa078))
+
+### ❤️ Contributors
+
+- Javi Aguilar ([@itsjavi](http://github.com/itsjavi))
+
 ## v3.0.1
 
 [compare changes](https://github.com/supeffective/dataset/compare/v3.0.0...v3.0.1)
