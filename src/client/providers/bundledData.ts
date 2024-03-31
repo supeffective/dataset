@@ -15,9 +15,10 @@ import {
   type Color,
   type Game,
   type GameFeature,
-  type Language,
   type Nature,
   type OriginMark,
+  type PokeLanguage,
+  type PokeLanguageId,
   type PokeType,
   type PokedexIndexItem,
   type PokemonIndexItem,
@@ -40,7 +41,7 @@ import {
 
 // validate and cast data
 const pokemonColors: Color[] = colorSchema.array().parse(_pokemonColors)
-const pokemonLanguages: Language[] = languageSchema.array().parse(_pokemonLanguages)
+const pokemonLanguages: PokeLanguage[] = languageSchema.array().parse(_pokemonLanguages)
 const pokemonNatures: Nature[] = natureSchema.array().parse(_pokemonNatures)
 const pokemonOriginMarks: OriginMark[] = originMarkSchema.array().parse(_pokemonOriginMarks)
 const pokemonRegions: Region[] = regionSchema.array().parse(_pokemonRegions)
@@ -53,7 +54,9 @@ const characteristics: Characteristic[] = characteristicSchema.array().parse(_ch
 
 // convert to maps
 const pokemonColorsMap = new Map<string, Color>(pokemonColors.map((color) => [color.id, color]))
-const pokemonLanguagesMap = new Map<string, Language>(pokemonLanguages.map((language) => [language.id, language]))
+const pokemonLanguagesMap = new Map<PokeLanguageId, PokeLanguage>(
+  pokemonLanguages.map((language) => [language.id, language]),
+)
 const pokemonNaturesMap = new Map<string, Nature>(pokemonNatures.map((nature) => [nature.id, nature]))
 const pokemonOriginMarksMap = new Map<string, OriginMark>(pokemonOriginMarks.map((mark) => [mark.id, mark]))
 const pokemonRegionsMap = new Map<string, Region>(pokemonRegions.map((region) => [region.id, region]))

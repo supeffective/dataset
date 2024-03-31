@@ -1,13 +1,14 @@
 import z from 'zod'
 
-import { slugSchema } from './common'
-
 export const languageSchema = z.object({
-  id: slugSchema,
+  id: z.enum(['en', 'es', 'fr', 'de', 'it', 'ja', 'ja_ro', 'ko', 'chs', 'cht']),
   name: z.string(),
-  isoCode: z.string().max(5),
-  locale: z.string().max(3).nullable(),
-  urlSlug: z.string().max(5),
+  nameEng: z.string(),
+  alpha3: z.enum(['eng', 'esp', 'fra', 'deu', 'ita', 'jap', 'jap_ro', 'kor', 'chs', 'cht']),
+  locale: z.string(),
+  flag: z.string(),
 })
 
-export type Language = z.infer<typeof languageSchema>
+export type PokeLanguage = z.infer<typeof languageSchema>
+export type PokeLanguageId = PokeLanguage['id']
+export type PokeLanguageAlpha3 = PokeLanguage['alpha3']

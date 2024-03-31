@@ -1,12 +1,12 @@
 [
-  {"id":"eng","name":"English (US)","isoCode":"en","locale":"US","urlSlug":"en-US"},
-  {"id":"fra","name":"Français","isoCode":"fr","locale":null,"urlSlug":"fr"},
-  {"id":"deu","name":"Deutsch","isoCode":"de","locale":null,"urlSlug":"de"},
-  {"id":"ita","name":"Italiano","isoCode":"it","locale":null,"urlSlug":"it"},
-  {"id":"esp","name":"Español (España)","isoCode":"es","locale":"ES","urlSlug":"es-ES"},
-  {"id":"jap","name":"Japanese","isoCode":"ja","locale":null,"urlSlug":"ja"},
-  {"id":"jap-ro","name":"Japanese (Romaji)","isoCode":"ja","locale":"RO","urlSlug":"ja-RO"},
-  {"id":"cht","name":"Chinese (Traditional)","isoCode":"zh","locale":"TW","urlSlug":"zh-TW"},
-  {"id":"chs","name":"Chinese (Simplified)","isoCode":"zh","locale":"CN","urlSlug":"zh-CN"},
-  {"id":"kor","name":"Korean","isoCode":"ko","locale":null,"urlSlug":"ko"}
+  {"id":"en","name":"English","nameEng":"English","alpha3":"eng","locale":"en-US","flag":"🇺🇸"},
+  {"id":"fr","name":"Français","nameEng":"French","alpha3":"fra","locale":"fr","flag":"🇫🇷"},
+  {"id":"de","name":"Deutsch","nameEng":"German","alpha3":"deu","locale":"de","flag":"🇩🇪"},
+  {"id":"es","name":"Español","nameEng":"Spanish","alpha3":"esp","locale":"es-ES","flag":"🇪🇸"},
+  {"id":"it","name":"Italiano","nameEng":"Italian","alpha3":"ita","locale":"it","flag":"🇮🇹"},
+  {"id":"ja","name":"日本語","nameEng":"Japanese","alpha3":"jap","locale":"ja","flag":"🇯🇵"},
+  {"id":"ja_ro","name":"日本語 (Rōmaji)","nameEng":"Japanese (Rōmaji)","alpha3":"jap_ro","locale":"ja","flag":"🇯🇵"},
+  {"id":"chs","name":"简体中文","nameEng":"Chinese (Simplified)","alpha3":"chs","locale":"zh-CN","flag":"🇨🇳"},
+  {"id":"cht","name":"繁體中文","nameEng":"Chinese (Traditional)","alpha3":"cht","locale":"zh-TW","flag":"🇹🇼"},
+  {"id":"ko","name":"한국어","nameEng":"Korean","alpha3":"kor","locale":"ko","flag":"🇰🇷"}
 ]
