@@ -86,7 +86,7 @@ export const localDataLoader: LocalDataLoader = {
   },
   pokemon: () => {
     if (!_dataCache.pokemon) {
-      _dataCache.pokemon = mergeEntityIndex<Pokemon>('pokemon-index.json', 'region')
+      _dataCache.pokemon = mergeEntityIndex<Pokemon>('pokemon-index.json')
     }
     return _dataCache.pokemon
   },

@@ -10,7 +10,7 @@ function run() {
   const pokemonAndGameIdsFromDexes = populatePokemonAndGameIdsFromDexes()
 
   for (const indexRecord of records) {
-    const recordFile = getDataPath(`pokemon/${indexRecord.region}/${indexRecord.id}.json`)
+    const recordFile = getDataPath(`pokemon/${indexRecord.id}.json`)
     const record = readFileAsJson<Pokemon>(recordFile)
 
     // Do something with each record here.

@@ -1,7 +1,7 @@
 import {
-  gameFeaturesMap,
   pokedexesIndexMap,
   pokemonColorsMap,
+  pokemonGameFeaturesMap,
   pokemonGamesMap,
   pokemonIndexMap,
   pokemonOriginMarksMap,
@@ -56,5 +56,5 @@ export function isValidOriginMarkId(id: string): boolean {
 }
 
 export function isValidFeatureId(id: string): boolean {
-  return gameFeaturesMap.has(id)
+  return pokemonGameFeaturesMap.has(id)
 }
