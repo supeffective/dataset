@@ -1,4 +1,20 @@
 
+## v3.1.0
+
+[compare changes](https://github.com/supeffective/dataset/compare/v3.0.2...v3.1.0)
+
+### 🚀 Enhancements
+
+- **dex:** Add missing doduo/dodrio females ([7513ef8](https://github.com/supeffective/dataset/commit/7513ef8))
+
+### 🏡 Chore
+
+- Update deps ([6a149ce](https://github.com/supeffective/dataset/commit/6a149ce))
+
+### ❤️ Contributors
+
+- Javi Aguilar ([@itsjavi](http://github.com/itsjavi))
+
 ## v3.0.2
 
 [compare changes](https://github.com/supeffective/dataset/compare/v3.0.1...v3.0.2)
