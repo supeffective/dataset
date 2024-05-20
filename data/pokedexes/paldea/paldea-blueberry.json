@@ -11,7 +11,9 @@
   "baseDex": "paldea",
   "entries": [
     {"id":"doduo","dexNum":1,"isForm":false},
+    {"id":"doduo-f","dexNum":1,"isForm":true},
     {"id":"dodrio","dexNum":2,"isForm":false},
+    {"id":"dodrio-f","dexNum":2,"isForm":true},
     {"id":"exeggcute","dexNum":3,"isForm":false},
     {"id":"exeggutor-alola","dexNum":4,"isForm":false},
     {"id":"exeggutor","dexNum":4,"isForm":true},
