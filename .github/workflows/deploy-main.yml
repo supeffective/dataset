@@ -1,8 +1,8 @@
 name: Deploy to Production
 
 env:
-  NODE_VERSION: 20.9.0
-  PNPM_VERSION: 8.10.5
+  NODE_VERSION: 20.13.1
+  PNPM_VERSION: 9.1.1
 
 on:
   workflow_dispatch:
