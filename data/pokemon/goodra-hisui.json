@@ -62,7 +62,8 @@
   "forms": [],
   "evolvesFrom": {
     "pokemon": "sliggoo-hisui",
-    "level": 50
+    "level": 50,
+    "condition": "during rain"
   },
   "refs": {
     "smogon": "goodra-hisui",

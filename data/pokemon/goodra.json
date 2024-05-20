@@ -62,7 +62,8 @@
   "forms": ["goodra-hisui"],
   "evolvesFrom": {
     "pokemon": "sliggoo",
-    "level": 50
+    "level": 50,
+    "condition": "during rain"
   },
   "refs": {
     "smogon": "goodra",
