@@ -50,6 +50,10 @@ The `-index.json` data files will be rebuilt automatically, using the data from 
 - Add the Pokémon JSON to `data/pokemon/{region}/{pokemonId}.json` (replace `{region}` and `{pokemonId}` with the actual values)
 - You can use any other as a template: `data/pokemon/kanto/bulbasaur.json`
 
+## Updating `characters.json`
+
+- For that you need to generate it in the assets project first http://github.com/supeffective/assets
+
 ## Documentation
 
 - Repository: http://github.com/supeffective/dataset

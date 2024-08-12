@@ -1,6 +1,7 @@
 // IMPORTANT: only import single-file data that doesn't change much in every new game, or indices.
 
 import _characteristics from '../../data/characteristics.json'
+import _characters from '../../data/characters.json'
 import _pokemonColors from '../../data/colors.json'
 import _gameFeatures from '../../data/features.json'
 import _pokemonGames from '../../data/games.json'
@@ -14,6 +15,7 @@ import _pokemonRegions from '../../data/regions.json'
 import _pokemonTypes from '../../data/types.json'
 
 import {
+  type Character,
   type Characteristic,
   type Color,
   type Game,
@@ -27,6 +29,7 @@ import {
   type PokedexIndexItem,
   type PokemonIndexItem,
   type Region,
+  characterSchema,
   characteristicSchema,
   colorSchema,
   gameFeatureSchema,
@@ -56,9 +59,10 @@ const pokedexesIndex: PokedexIndexItem[] = pokedexItemIndexSchema.array().parse(
 const pokemonIndex: PokemonIndexItem[] = pokemonIndexItemSchema.array().parse(_pokemonIndex)
 const pokemonGameFeatures: GameFeature[] = gameFeatureSchema.array().parse(_gameFeatures)
 const pokemonCharacteristics: Characteristic[] = characteristicSchema.array().parse(_characteristics)
+const pokemonCharacters: Character[] = characterSchema.array().parse(_characters)
 const pokemonGenerations: Generation[] = generationSchema.array().parse(_pokemonGenerations)
 
-// convert to maps
+// convert to maps (by ID)
 const pokemonColorsMap = new Map<string, Color>(pokemonColors.map((color) => [color.id, color]))
 const pokemonLanguagesMap = new Map<PokeLanguageId, PokeLanguage>(
   pokemonLanguages.map((language) => [language.id, language]),
@@ -76,6 +80,7 @@ const pokedexesIndexMap = new Map<string, PokedexIndexItem>(pokedexesIndex.map((
 const pokemonIndexMap = new Map<string, PokemonIndexItem>(pokemonIndex.map((item) => [item.id, item]))
 const pokemonGameFeaturesMap = new Map<string, GameFeature>(pokemonGameFeatures.map((item) => [item.id, item]))
 const pokemonCharacteristicsMap = new Map<string, Characteristic>(pokemonCharacteristics.map((item) => [item.id, item]))
+const pokemonCharactersMap = new Map<string, Character>(pokemonCharacters.map((item) => [item.id, item]))
 const pokemonGenerationsMap = new Map<number, Generation>(pokemonGenerations.map((item) => [item.id, item]))
 
 export {
@@ -83,6 +88,8 @@ export {
   pokedexesIndexMap,
   pokemonCharacteristics,
   pokemonCharacteristicsMap,
+  pokemonCharacters,
+  pokemonCharactersMap,
   pokemonColors,
   pokemonColorsMap,
   pokemonGameFeatures,

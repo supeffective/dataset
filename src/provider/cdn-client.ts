@@ -17,11 +17,11 @@ import type {
 const pokeImgVariantFolder = {
   '2d': 'home2d-icon',
   '3d': 'home3d-icon',
-  '3d-stroke': 'home3d-icon-bordered',
+  '3d-bordered': 'home3d-icon-bordered',
   pixelart: 'gen8-icon',
 }
 
-export class SuperEffectiveCdnClient {
+class SuperEffectiveCdnClient {
   constructor(
     public readonly datasetBaseUrl = 'https://cdn.supeffective.com/dataset',
     public readonly assetsBaseUrl = 'https://cdn.supeffective.com/assets',
@@ -153,7 +153,7 @@ export class SuperEffectiveCdnClient {
     if (id === 'stellar') {
       return this.getAssetUrl('/images/types/stellar.png')
     }
-    return this.getAssetUrl(`/images/characters/${variant}/${id}.svg`)
+    return this.getAssetUrl(`/images/types/${variant}/${id}.svg`)
   }
 }
 
@@ -186,3 +186,5 @@ async function fetchJson<T>(input: string | URL | globalThis.Request, init?: Nex
     return Promise.reject(new Error(`[dataset.fetchJson] Failed with uncaught error ${error} on GET ${input}`))
   }
 }
+
+export { SuperEffectiveCdnClient }
