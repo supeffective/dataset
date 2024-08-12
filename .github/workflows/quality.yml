@@ -1,8 +1,8 @@
 name: Quality Checks
 
 env:
-  NODE_VERSION: 20.13.1
-  PNPM_VERSION: 9.1.1
+  NODE_VERSION: 20.16.0
+  PNPM_VERSION: 9.7.0
 
 on:
   push:
@@ -21,7 +21,7 @@ jobs:
     name: "Quality Checks"
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
 
       - name: "Setup project"
         uses: ./.github/actions/setup-project
