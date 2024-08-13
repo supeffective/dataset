@@ -1,4 +1,17 @@
 
+## v3.1.1
+
+[compare changes](https://github.com/supeffective/dataset/compare/v3.1.0...v3.1.1)
+
+### 🏡 Chore
+
+- Upgrade dependencies ([776fafd](https://github.com/supeffective/dataset/commit/776fafd))
+- Upgrade pipeline ([d1d252e](https://github.com/supeffective/dataset/commit/d1d252e))
+
+### ❤️ Contributors
+
+- Javi Aguilar ([@itsjavi](http://github.com/itsjavi))
+
 ## v3.1.0
 
 [compare changes](https://github.com/supeffective/dataset/compare/v3.0.2...v3.1.0)
