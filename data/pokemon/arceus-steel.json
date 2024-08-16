@@ -38,7 +38,7 @@
   "canDynamax": true,
   "canBeAlpha": false,
   "debutIn": "dp",
-  "obtainableIn": ["dp", "pt", "bdsp", "la"],
+  "obtainableIn": ["dp", "pt", "bdsp", "la", "go"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
   "storableIn": [
@@ -53,7 +53,8 @@
     "usum",
     "bdsp",
     "la",
-    "sv"
+    "sv",
+    "go"
   ],
   "registrableIn": [
     "dp",
@@ -67,7 +68,8 @@
     "usum",
     "home",
     "bdsp",
-    "la"
+    "la",
+    "go"
   ],
   "shinyReleased": true,
   "shinyBase": null,

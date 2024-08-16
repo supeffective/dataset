@@ -41,7 +41,7 @@
   "obtainableIn": ["xy", "go", "swsh"],
   "versionExclusiveIn": [],
   "eventOnlyIn": [],
-  "storableIn": [],
+  "storableIn": ["go"],
   "registrableIn": ["xy", "go", "home"],
   "shinyReleased": true,
   "shinyBase": null,
