@@ -12,7 +12,7 @@ function runUpdateIndexFile() {
     const isGenGte7Mythical = srcPoke.generation >= 7 && srcPoke.isMythical
     const isGenGte8Legend = srcPoke.generation >= 8 && (srcPoke.isLegendary || srcPoke.isMythical)
 
-    if (srcPoke.generation === 8 || isGenGte7Mythical || isGenGte8Legend) {
+    if (isGenGte7Mythical || isGenGte8Legend) {
       continue
     }
 
