@@ -9,10 +9,10 @@ function runUpdateIndexFile() {
   for (const record of records) {
     const pokeFile = getDataPath(`pokemon/${record.id}.json`)
     const srcPoke = readFileAsJson<Pokemon>(pokeFile)
-    const isGenGte7Mythical = srcPoke.generation >= 7 && srcPoke.isMythical
-    const isGenGte8Legend = srcPoke.generation >= 8 && (srcPoke.isLegendary || srcPoke.isMythical)
+    const isGenGte8Mythical = srcPoke.generation >= 8 && srcPoke.isMythical
+    const isGenGte9Legend = srcPoke.generation >= 9 && (srcPoke.isLegendary || srcPoke.isMythical)
 
-    if (isGenGte7Mythical || isGenGte8Legend) {
+    if (isGenGte8Mythical || isGenGte9Legend) {
       continue
     }
 
