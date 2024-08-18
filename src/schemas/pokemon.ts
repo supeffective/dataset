@@ -142,3 +142,17 @@ export const pokemonSchema = z
   .strict()
 
 export type Pokemon = z.infer<typeof pokemonSchema>
+
+// export const pokemonCompactSchema = pokemonSchema.omit({
+//   debutIn: true,
+//   evolvesFrom: true,
+//   refs: true,
+//   obtainableIn: true,
+//   versionExclusiveIn: true,
+//   eventOnlyIn: true,
+//   storableIn: true,
+//   registrableIn: true,
+//   ultraBeastCode: true,
+// })
+
+// export type PokemonCompact = z.infer<typeof pokemonCompactSchema>

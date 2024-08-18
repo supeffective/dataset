@@ -39,10 +39,11 @@ function joinIndexFile<T extends BaseEntity>(
   subdirProp?: keyof T,
   excludedFields?: (keyof T)[],
   excludeFalsyFields?: boolean,
+  destBaseFileName?: string,
 ): void {
   const baseFileName = filename.replace('-index.json', '')
   const srcFile = getDataPath(`${filename}`)
-  const destFile = getDataPath(`${baseFileName}.json`)
+  const destFile = getDataPath(`${destBaseFileName ?? baseFileName}.json`)
   const records = readFileAsJson<BaseEntity[]>(srcFile)
   const recordMap = new Map<string, BaseEntity>()
   const subdirPropStr = subdirProp as string
@@ -110,6 +111,7 @@ function joinIndexFile<T extends BaseEntity>(
   writeFile(srcFile, indexJsonDoc)
 }
 
+// biome-ignore lint/correctness/noUnusedVariables: <explanation>
 function joinPokeGamesFile(): void {
   const pokemon = localDataLoader.pokemon()
   const records = pokemon.values()
@@ -158,9 +160,28 @@ joinIndexFile<Pokemon>(
   undefined,
   [],
   //['storableIn', 'registrableIn', 'eventOnlyIn', 'versionExclusiveIn', 'ultraBeastCode'],
-  false,
+  true,
 )
 
-joinPokeGamesFile()
+// compact pokemon
+// joinIndexFile<Pokemon>(
+//   'pokemon-index.json',
+//   ['id', 'region', 'name', 'nid', 'isForm'],
+//   undefined,
+//   [
+//     'debutIn',
+//     'evolvesFrom',
+//     'refs',
+//     'obtainableIn',
+//     'versionExclusiveIn',
+//     'eventOnlyIn',
+//     'storableIn',
+//     'registrableIn',
+//     'ultraBeastCode',
+//   ],
+//   true,
+//   'pokemon-compact',
+// )
 
+// joinPokeGamesFile()
 updatePokemonIndex()
