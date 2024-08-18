@@ -1,4 +1,16 @@
 
+## v4.1.0
+
+[compare changes](https://github.com/supeffective/dataset/compare/v4.0.0...v4.1.0)
+
+### 🚀 Enhancements
+
+- **client:** Implement client.fetchAllGames ([a708a9c](https://github.com/supeffective/dataset/commit/a708a9c))
+
+### ❤️ Contributors
+
+- Javi Aguilar ([@itsjavi](http://github.com/itsjavi))
+
 ## v4.0.0
 
 [compare changes](https://github.com/supeffective/dataset/compare/v3.1.1...v4.0.0)
