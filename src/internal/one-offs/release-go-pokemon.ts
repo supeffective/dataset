@@ -16,16 +16,16 @@ function runUpdateIndexFile() {
       continue
     }
 
-    if (!srcPoke.obtainableIn.includes('go')) {
-      srcPoke.obtainableIn.push('go')
+    if (!srcPoke.obtainableIn?.includes('go')) {
+      srcPoke.obtainableIn?.push('go')
     }
 
-    if (srcPoke.obtainableIn.includes('go') && !srcPoke.storableIn.includes('go')) {
-      srcPoke.storableIn.push('go')
+    if (srcPoke.obtainableIn?.includes('go') && !srcPoke.storableIn?.includes('go')) {
+      srcPoke.storableIn?.push('go')
     }
 
-    if (srcPoke.obtainableIn.includes('go') && !srcPoke.registrableIn.includes('go')) {
-      srcPoke.registrableIn.push('go')
+    if (srcPoke.obtainableIn?.includes('go') && !srcPoke.registrableIn?.includes('go')) {
+      srcPoke.registrableIn?.push('go')
     }
 
     writeFile(pokeFile, JSON.stringify(srcPoke, null, 2))

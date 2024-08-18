@@ -1,0 +1,45 @@
+{
+  "id": "sm-s",
+  "name": "Sun",
+  "generation": 7,
+  "type": "game",
+  "gameSet": "sm",
+  "gameSuperSet": "smusum",
+  "codename": "Niji",
+  "releaseDate": "2016-11-18",
+  "platforms": [
+    "3ds"
+  ],
+  "region": "alola",
+  "originMark": "alola",
+  "pokedexes": [
+    "alola",
+    "alola-melemele",
+    "alola-akala",
+    "alola-ulaula",
+    "alola-poni",
+    "national-sm"
+  ],
+  "features": {
+    "training": false,
+    "shiny": true,
+    "items": true,
+    "gender": true,
+    "nature": true,
+    "ball": true,
+    "mega": true,
+    "zmove": true,
+    "gmax": true,
+    "alpha": true,
+    "tera": true,
+    "ribbons": true,
+    "marks": true
+  },
+  "storage": {
+    "numBoxes": 32,
+    "boxCapacity": 30
+  },
+  "obtainablePokemon": [],
+  "storablePokemon": [],
+  "eventPokemon": []
+}

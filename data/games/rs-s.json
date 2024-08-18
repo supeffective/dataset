@@ -1,0 +1,41 @@
+{
+  "id": "rs-s",
+  "name": "Sapphire",
+  "generation": 3,
+  "type": "game",
+  "gameSet": "rs",
+  "gameSuperSet": "rse",
+  "codename": null,
+  "releaseDate": "2002-11-21",
+  "platforms": [
+    "gba"
+  ],
+  "region": "hoenn",
+  "originMark": "none",
+  "pokedexes": [
+    "hoenn",
+    "national-rs"
+  ],
+  "features": {
+    "training": false,
+    "shiny": true,
+    "items": true,
+    "gender": true,
+    "nature": true,
+    "ball": true,
+    "mega": true,
+    "zmove": true,
+    "gmax": true,
+    "alpha": true,
+    "tera": true,
+    "ribbons": true,
+    "marks": true
+  },
+  "storage": {
+    "numBoxes": 14,
+    "boxCapacity": 30
+  },
+  "obtainablePokemon": [],
+  "storablePokemon": [],
+  "eventPokemon": []
+}

@@ -1,0 +1,42 @@
+{
+  "id": "lza",
+  "name": "Legends: Z-A",
+  "generation": 9,
+  "type": "game",
+  "gameSet": null,
+  "gameSuperSet": null,
+  "codename": "Ikkaku",
+  "releaseDate": "2025-12-31",
+  "platforms": [
+    "switch"
+  ],
+  "region": "kalos",
+  "originMark": "kalos",
+  "pokedexes": [
+    "kalos-central",
+    "kalos-coastal",
+    "kalos-mountain"
+  ],
+  "features": {
+    "training": false,
+    "shiny": true,
+    "items": true,
+    "gender": true,
+    "nature": true,
+    "ball": true,
+    "mega": true,
+    "zmove": true,
+    "gmax": true,
+    "alpha": true,
+    "tera": true,
+    "ribbons": true,
+    "marks": true
+  },
+  "storage": {
+    "numBoxes": 32,
+    "boxCapacity": 30
+  },
+  "obtainablePokemon": [],
+  "storablePokemon": [],
+  "eventPokemon": []
+}

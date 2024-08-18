@@ -1,0 +1,42 @@
+{
+  "id": "swsh-sh",
+  "name": "Shield",
+  "generation": 8,
+  "type": "game",
+  "gameSet": "swsh",
+  "gameSuperSet": null,
+  "codename": "Orion",
+  "releaseDate": "2019-11-15",
+  "platforms": [
+    "switch"
+  ],
+  "region": "galar",
+  "originMark": "galar",
+  "pokedexes": [
+    "galar",
+    "galar-isle-armor",
+    "galar-crown-tundra"
+  ],
+  "features": {
+    "training": false,
+    "shiny": true,
+    "items": true,
+    "gender": true,
+    "nature": true,
+    "ball": true,
+    "mega": true,
+    "zmove": true,
+    "gmax": true,
+    "alpha": true,
+    "tera": true,
+    "ribbons": true,
+    "marks": true
+  },
+  "storage": {
+    "numBoxes": 32,
+    "boxCapacity": 30
+  },
+  "obtainablePokemon": [],
+  "storablePokemon": [],
+  "eventPokemon": []
+}

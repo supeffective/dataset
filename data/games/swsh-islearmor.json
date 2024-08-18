@@ -1,0 +1,45 @@
+{
+  "id": "swsh-islearmor",
+  "name": "The Isle of Armor",
+  "generation": 8,
+  "type": "dlc",
+  "gameSet": "swsh",
+  "gameSuperSet": null,
+  "codename": "Rigel",
+  "releaseDate": "2020-06-17",
+  "platforms": [
+    "switch"
+  ],
+  "region": "galar",
+  "originMark": "galar",
+  "pokedexes": [
+    "galar-isle-armor"
+  ],
+  "features": {
+    "training": false,
+    "shiny": true,
+    "items": true,
+    "gender": true,
+    "nature": true,
+    "ball": true,
+    "mega": true,
+    "zmove": true,
+    "gmax": true,
+    "alpha": true,
+    "tera": true,
+    "ribbons": true,
+    "marks": true
+  },
+  "storage": {
+    "numBoxes": 32,
+    "boxCapacity": 30,
+    "symbols": [
+      "caught",
+      "shiny",
+      "gmax"
+    ]
+  },
+  "obtainablePokemon": [],
+  "storablePokemon": [],
+  "eventPokemon": []
+}

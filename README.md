@@ -58,3 +58,8 @@ The `-index.json` data files will be rebuilt automatically, using the data from 
 
 - Repository: http://github.com/supeffective/dataset
 - API Reference: https://www.jsdocs.io/package/@supeffective/dataset
+
+## Dev Notes
+
+- Make sure the dist files are always less than 2MB. If they are bigger, frameworks like Next.js will have trouble
+  caching the requests when using `fetch`.

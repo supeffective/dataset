@@ -1,14 +1,14 @@
-import { pokemonGamesMap } from '../../provider'
+import { pokemonGamesIndexMap } from '../../provider'
 import { localDataLoader } from '../loader'
 
 export async function sleepMs(ms: number): Promise<void> {
   return new Promise((resolve) => setTimeout(resolve, ms))
 }
 
-export function sortGameIdsInOrder(gameIds: string[]) {
-  const rightOrder = Array.from(pokemonGamesMap.keys())
+export function sortGameIdsInOrder(gameIds: string[] | undefined) {
+  const rightOrder = Array.from(pokemonGamesIndexMap.keys())
 
-  return [...gameIds].sort((a, b) => {
+  return [...(gameIds ?? [])].sort((a, b) => {
     const aIndex = rightOrder.indexOf(a)
     const bIndex = rightOrder.indexOf(b)
     return aIndex - bIndex
@@ -30,8 +30,8 @@ export function populatePokemonAndGameIdsFromDexes(): Record<string, string[]> {
 }
 
 export function getAllGamesForGameSetOrSuperset(gameId: string): string[] {
-  const gamesList = pokemonGamesMap.values()
-  const gameSet = pokemonGamesMap.get(gameId)
+  const gamesList = pokemonGamesIndexMap.values()
+  const gameSet = pokemonGamesIndexMap.get(gameId)
   if (!gameSet) {
     throw new Error(`No game set found for '${gameId}'`)
   }

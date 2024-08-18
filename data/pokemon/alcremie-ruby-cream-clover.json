@@ -38,11 +38,6 @@
   "canDynamax": true,
   "canBeAlpha": false,
   "debutIn": "swsh",
-  "obtainableIn": ["swsh", "sv", "go"],
-  "versionExclusiveIn": [],
-  "eventOnlyIn": [],
-  "storableIn": ["swsh", "home", "sv", "go"],
-  "registrableIn": ["swsh", "home", "sv", "go"],
   "shinyReleased": true,
   "shinyBase": "alcremie-vanilla-cream-clover",
   "baseStats": {

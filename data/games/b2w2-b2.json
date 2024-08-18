@@ -1,0 +1,41 @@
+{
+  "id": "b2w2-b2",
+  "name": "Black 2",
+  "generation": 5,
+  "type": "game",
+  "gameSet": "b2w2",
+  "gameSuperSet": "bwb2w2",
+  "codename": "Swan",
+  "releaseDate": "2012-06-23",
+  "platforms": [
+    "nds"
+  ],
+  "region": "unova",
+  "originMark": "none",
+  "pokedexes": [
+    "unova-b2w2",
+    "national-b2w2"
+  ],
+  "features": {
+    "training": false,
+    "shiny": true,
+    "items": true,
+    "gender": true,
+    "nature": true,
+    "ball": true,
+    "mega": true,
+    "zmove": true,
+    "gmax": true,
+    "alpha": true,
+    "tera": true,
+    "ribbons": true,
+    "marks": true
+  },
+  "storage": {
+    "numBoxes": 24,
+    "boxCapacity": 30
+  },
+  "obtainablePokemon": [],
+  "storablePokemon": [],
+  "eventPokemon": []
+}

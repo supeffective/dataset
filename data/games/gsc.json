@@ -1,0 +1,38 @@
+{
+  "id": "gsc",
+  "name": "Gold, Silver & Crystal",
+  "generation": 1,
+  "type": "superset",
+  "gameSet": null,
+  "gameSuperSet": null,
+  "codename": null,
+  "releaseDate": "1999-11-21",
+  "platforms": [
+    "gb"
+  ],
+  "region": "johto",
+  "originMark": "gb",
+  "pokedexes": [],
+  "features": {
+    "training": false,
+    "shiny": true,
+    "items": true,
+    "gender": true,
+    "nature": true,
+    "ball": true,
+    "mega": true,
+    "zmove": true,
+    "gmax": true,
+    "alpha": true,
+    "tera": true,
+    "ribbons": true,
+    "marks": true
+  },
+  "storage": {
+    "numBoxes": 14,
+    "boxCapacity": 20
+  },
+  "obtainablePokemon": [],
+  "storablePokemon": [],
+  "eventPokemon": []
+}

@@ -1,0 +1,43 @@
+{
+  "id": "bw-w",
+  "name": "White",
+  "generation": 5,
+  "type": "game",
+  "gameSet": "bw",
+  "gameSuperSet": "bwb2w2",
+  "codename": "Syachi",
+  "releaseDate": "2010-09-18",
+  "platforms": [
+    "nds"
+  ],
+  "region": "unova",
+  "originMark": "none",
+  "pokedexes": [
+    "unova",
+    "national-bw"
+  ],
+  "features": {
+    "training": false,
+    "shiny": true,
+    "items": true,
+    "gender": true,
+    "nature": true,
+    "ball": true,
+    "mega": true,
+    "zmove": true,
+    "gmax": true,
+    "alpha": true,
+    "tera": true,
+    "ribbons": true,
+    "marks": true
+  },
+  "storage": {
+    "numBoxes": 24,
+    "boxCapacity": 30
+  },
+  "obtainablePokemon": [
+    "butterfree-f"
+  ],
+  "storablePokemon": [],
+  "eventPokemon": []
+}

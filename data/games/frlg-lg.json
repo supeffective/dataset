@@ -1,0 +1,47 @@
+{
+  "id": "frlg-lg",
+  "name": "LeafGreen",
+  "generation": 3,
+  "type": "game",
+  "gameSet": "frlg",
+  "gameSuperSet": null,
+  "codename": null,
+  "releaseDate": "2004-01-29",
+  "platforms": [
+    "gba"
+  ],
+  "region": "kanto",
+  "originMark": "none",
+  "pokedexes": [
+    "kanto",
+    "national-frlg"
+  ],
+  "features": {
+    "training": false,
+    "shiny": true,
+    "items": true,
+    "gender": true,
+    "nature": true,
+    "ball": true,
+    "mega": true,
+    "zmove": true,
+    "gmax": true,
+    "alpha": true,
+    "tera": true,
+    "ribbons": true,
+    "marks": true
+  },
+  "storage": {
+    "numBoxes": 14,
+    "boxCapacity": 30
+  },
+  "obtainablePokemon": [
+    "deoxys-defense"
+  ],
+  "storablePokemon": [
+    "deoxys-defense"
+  ],
+  "eventPokemon": [
+    "deoxys-defense"
+  ]
+}

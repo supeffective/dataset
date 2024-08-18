@@ -68,7 +68,7 @@ export const localDataLoader: LocalDataLoader = {
   },
   games: () => {
     if (!_dataCache.games) {
-      _dataCache.games = readFileAsJson<Game[]>(getDataPath('games.json'))
+      _dataCache.games = Array.from(mergeEntityIndex<Game>('games-index.json').values())
     }
     return _dataCache.games
   },

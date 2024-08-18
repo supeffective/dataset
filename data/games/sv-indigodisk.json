@@ -1,0 +1,45 @@
+{
+  "id": "sv-indigodisk",
+  "name": "The Indigo Disk",
+  "fullName": "The Hidden Treasure of Area Zero: Part 2, The Indigo Disk",
+  "generation": 9,
+  "type": "dlc",
+  "gameSet": "sv",
+  "gameSuperSet": null,
+  "codename": "Sudachi",
+  "releaseDate": "2023-12-31",
+  "platforms": [
+    "switch"
+  ],
+  "region": "paldea",
+  "originMark": "paldea",
+  "pokedexes": [
+    "paldea-blueberry"
+  ],
+  "features": {
+    "training": false,
+    "shiny": true,
+    "items": true,
+    "gender": true,
+    "nature": true,
+    "ball": true,
+    "mega": true,
+    "zmove": true,
+    "gmax": true,
+    "alpha": true,
+    "tera": true,
+    "ribbons": true,
+    "marks": true
+  },
+  "storage": {
+    "numBoxes": 32,
+    "boxCapacity": 30,
+    "symbols": [
+      "caught",
+      "shiny"
+    ]
+  },
+  "obtainablePokemon": [],
+  "storablePokemon": [],
+  "eventPokemon": []
+}

@@ -1,0 +1,43 @@
+{
+  "id": "xy-x",
+  "name": "X",
+  "generation": 6,
+  "type": "game",
+  "gameSet": "xy",
+  "gameSuperSet": null,
+  "codename": "Kujira",
+  "releaseDate": "2013-10-12",
+  "platforms": [
+    "3ds"
+  ],
+  "region": "kalos",
+  "originMark": "kalos",
+  "pokedexes": [
+    "kalos-central",
+    "kalos-coastal",
+    "kalos-mountain",
+    "national-xy"
+  ],
+  "features": {
+    "training": false,
+    "shiny": true,
+    "items": true,
+    "gender": true,
+    "nature": true,
+    "ball": true,
+    "mega": true,
+    "zmove": true,
+    "gmax": true,
+    "alpha": true,
+    "tera": true,
+    "ribbons": true,
+    "marks": true
+  },
+  "storage": {
+    "numBoxes": 31,
+    "boxCapacity": 30
+  },
+  "obtainablePokemon": [],
+  "storablePokemon": [],
+  "eventPokemon": []
+}

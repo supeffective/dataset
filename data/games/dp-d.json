@@ -1,0 +1,41 @@
+{
+  "id": "dp-d",
+  "name": "Diamond",
+  "generation": 4,
+  "type": "game",
+  "gameSet": "dp",
+  "gameSuperSet": "dppt",
+  "codename": null,
+  "releaseDate": "2006-09-28",
+  "platforms": [
+    "nds"
+  ],
+  "region": "sinnoh",
+  "originMark": "none",
+  "pokedexes": [
+    "sinnoh",
+    "national-dp"
+  ],
+  "features": {
+    "training": false,
+    "shiny": true,
+    "items": true,
+    "gender": true,
+    "nature": true,
+    "ball": true,
+    "mega": true,
+    "zmove": true,
+    "gmax": true,
+    "alpha": true,
+    "tera": true,
+    "ribbons": true,
+    "marks": true
+  },
+  "storage": {
+    "numBoxes": 18,
+    "boxCapacity": 30
+  },
+  "obtainablePokemon": [],
+  "storablePokemon": [],
+  "eventPokemon": []
+}

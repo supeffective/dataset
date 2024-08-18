@@ -1,0 +1,42 @@
+{
+  "id": "gs-g",
+  "name": "Gold",
+  "generation": 2,
+  "type": "game",
+  "gameSet": "gs",
+  "gameSuperSet": "gsc",
+  "codename": null,
+  "releaseDate": "1999-11-21",
+  "platforms": [
+    "gb",
+    "gbc"
+  ],
+  "region": "johto",
+  "originMark": "gb",
+  "pokedexes": [
+    "johto",
+    "national-gsc"
+  ],
+  "features": {
+    "training": false,
+    "shiny": true,
+    "items": true,
+    "gender": true,
+    "nature": true,
+    "ball": true,
+    "mega": true,
+    "zmove": true,
+    "gmax": true,
+    "alpha": true,
+    "tera": true,
+    "ribbons": true,
+    "marks": true
+  },
+  "storage": {
+    "numBoxes": 14,
+    "boxCapacity": 20
+  },
+  "obtainablePokemon": [],
+  "storablePokemon": [],
+  "eventPokemon": []
+}

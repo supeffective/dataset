@@ -1,0 +1,45 @@
+{
+  "id": "usum-us",
+  "name": "Ultra Sun",
+  "generation": 7,
+  "type": "game",
+  "gameSet": "usum",
+  "gameSuperSet": "smusum",
+  "codename": "Momiji",
+  "releaseDate": "2017-11-17",
+  "platforms": [
+    "3ds"
+  ],
+  "region": "alola",
+  "originMark": "alola",
+  "pokedexes": [
+    "alola-usum",
+    "alola-melemele-usum",
+    "alola-akala-usum",
+    "alola-ulaula-usum",
+    "alola-poni-usum",
+    "national-usum"
+  ],
+  "features": {
+    "training": false,
+    "shiny": true,
+    "items": true,
+    "gender": true,
+    "nature": true,
+    "ball": true,
+    "mega": true,
+    "zmove": true,
+    "gmax": true,
+    "alpha": true,
+    "tera": true,
+    "ribbons": true,
+    "marks": true
+  },
+  "storage": {
+    "numBoxes": 32,
+    "boxCapacity": 30
+  },
+  "obtainablePokemon": [],
+  "storablePokemon": [],
+  "eventPokemon": []
+}

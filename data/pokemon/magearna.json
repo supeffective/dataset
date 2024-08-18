@@ -38,11 +38,6 @@
   "canDynamax": true,
   "canBeAlpha": false,
   "debutIn": "sm",
-  "obtainableIn": ["usum", "go"],
-  "versionExclusiveIn": [],
-  "eventOnlyIn": ["sm"],
-  "storableIn": ["sm", "usum", "swsh", "home", "sv", "go"],
-  "registrableIn": ["sm", "usum", "home", "go"],
   "shinyReleased": false,
   "shinyBase": null,
   "baseStats": {

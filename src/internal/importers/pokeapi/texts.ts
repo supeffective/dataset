@@ -1,5 +1,5 @@
 import fs from 'node:fs'
-import { pokemonGames } from '../../../provider'
+import { pokemonGamesIndex } from '../../../provider'
 import type { PokemonTextByLang } from '../../../schemas'
 import { localDataLoader } from '../../loader'
 import { getDataPath } from '../../utils/fs'
@@ -90,7 +90,7 @@ const langIdMap: Record<string, string> = {
 export async function importPokemonTexts() {
   const pokemonMap = localDataLoader.pokemon()
   const pokemonList = Array.from(pokemonMap.values())
-  const gameIds = pokemonGames.filter((game) => game.type === 'game').map((game) => game.id)
+  const gameIds = pokemonGamesIndex.filter((game) => game.type === 'game').map((game) => game.id)
 
   const langIds = new Set(Object.values(langIdMap))
 

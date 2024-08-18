@@ -26,12 +26,12 @@ for (const entry of dex.entries) {
   }
 
   for (const gameSetId of dex.gameIds) {
-    if (!pkm.obtainableIn.includes(gameSetId)) {
-      pkm.obtainableIn.push(gameSetId)
+    if (!pkm.obtainableIn?.includes(gameSetId)) {
+      pkm.obtainableIn?.push(gameSetId)
     }
 
-    if (!pkm.isBattleOnlyForm && !pkm.storableIn.includes(gameSetId)) {
-      pkm.storableIn.push(gameSetId)
+    if (!pkm.isBattleOnlyForm && !pkm.storableIn?.includes(gameSetId)) {
+      pkm.storableIn?.push(gameSetId)
     }
   }
 

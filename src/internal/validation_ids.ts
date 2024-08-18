@@ -2,7 +2,7 @@ import {
   pokedexesIndexMap,
   pokemonColorsMap,
   pokemonGameFeaturesMap,
-  pokemonGamesMap,
+  pokemonGamesIndexMap,
   pokemonIndexMap,
   pokemonOriginMarksMap,
   pokemonRegionsMap,
@@ -12,15 +12,15 @@ import {
 import { pokemonAbilitiesMap, pokemonMovesMap } from './loader'
 
 export function isValidGameId(id: string): boolean {
-  return pokemonGamesMap.has(id) && pokemonGamesMap.get(id)?.type === 'game'
+  return pokemonGamesIndexMap.has(id) && pokemonGamesIndexMap.get(id)?.type === 'game'
 }
 
 export function isValidGameSetId(id: string): boolean {
-  return pokemonGamesMap.has(id) && pokemonGamesMap.get(id)?.type === 'set'
+  return pokemonGamesIndexMap.has(id) && pokemonGamesIndexMap.get(id)?.type === 'set'
 }
 
 export function isValidGameSupersetId(id: string): boolean {
-  return pokemonGamesMap.has(id) && pokemonGamesMap.get(id)?.type === 'superset'
+  return pokemonGamesIndexMap.has(id) && pokemonGamesIndexMap.get(id)?.type === 'superset'
 }
 
 export function isValidPokemonId(id: string): boolean {

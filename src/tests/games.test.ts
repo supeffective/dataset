@@ -1,7 +1,7 @@
 import { z } from 'zod'
 import { localDataLoader } from '../internal/loader'
 import { validate } from '../internal/validation'
-import { pokemonGamesMap, pokemonRegionsMap } from '../provider'
+import { pokemonGamesIndexMap, pokemonRegionsMap } from '../provider'
 import { gameSchema } from '../schemas'
 import { fetchImagesIndexMap } from './utils'
 
@@ -49,11 +49,11 @@ describe('Validate games.json pokedex references', () => {
       })
 
       it('should have valid gameset ID', () => {
-        expect(record.gameSuperSet === null || pokemonGamesMap.has(record.gameSuperSet)).toBe(true)
+        expect(record.gameSuperSet === null || pokemonGamesIndexMap.has(record.gameSuperSet)).toBe(true)
       })
 
       it('should have valid game superset ID', () => {
-        expect(record.gameSet === null || pokemonGamesMap.has(record.gameSet)).toBe(true)
+        expect(record.gameSet === null || pokemonGamesIndexMap.has(record.gameSet)).toBe(true)
       })
 
       it('should have valid region ID', () => {

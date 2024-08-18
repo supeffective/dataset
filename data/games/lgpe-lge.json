@@ -1,0 +1,40 @@
+{
+  "id": "lgpe-lge",
+  "name": "Let's Go, Eevee!",
+  "generation": 7,
+  "type": "game",
+  "gameSet": "lgpe",
+  "gameSuperSet": null,
+  "codename": "Beluga",
+  "releaseDate": "2018-11-16",
+  "platforms": [
+    "switch"
+  ],
+  "region": "kanto",
+  "originMark": "kanto",
+  "pokedexes": [
+    "kanto-lgpe"
+  ],
+  "features": {
+    "training": false,
+    "shiny": true,
+    "items": true,
+    "gender": true,
+    "nature": true,
+    "ball": true,
+    "mega": true,
+    "zmove": true,
+    "gmax": true,
+    "alpha": true,
+    "tera": true,
+    "ribbons": true,
+    "marks": true
+  },
+  "storage": {
+    "numBoxes": 1,
+    "boxCapacity": 1000
+  },
+  "obtainablePokemon": [],
+  "storablePokemon": [],
+  "eventPokemon": []
+}

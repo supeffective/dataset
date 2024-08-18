@@ -1,0 +1,41 @@
+{
+  "id": "bdsp-sp",
+  "name": "Shining Pearl",
+  "generation": 8,
+  "type": "game",
+  "gameSet": "bdsp",
+  "gameSuperSet": null,
+  "codename": "Delphis",
+  "releaseDate": "2021-11-19",
+  "platforms": [
+    "switch"
+  ],
+  "region": "sinnoh",
+  "originMark": "sinnoh",
+  "pokedexes": [
+    "sinnoh",
+    "national-bdsp"
+  ],
+  "features": {
+    "training": false,
+    "shiny": true,
+    "items": true,
+    "gender": true,
+    "nature": true,
+    "ball": true,
+    "mega": true,
+    "zmove": true,
+    "gmax": true,
+    "alpha": true,
+    "tera": true,
+    "ribbons": true,
+    "marks": true
+  },
+  "storage": {
+    "numBoxes": 40,
+    "boxCapacity": 30
+  },
+  "obtainablePokemon": [],
+  "storablePokemon": [],
+  "eventPokemon": []
+}

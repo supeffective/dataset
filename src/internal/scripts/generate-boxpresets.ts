@@ -1,13 +1,26 @@
-import { type BoxPreset, type BoxPresetBox, type Pokedex, type Pokemon, boxPresetSchema } from '../../schemas'
-import { getBoxPresets, getPokedexes, getPokemonList } from '../queries'
+import {
+  type BoxPreset,
+  type BoxPresetBox,
+  type Game,
+  type Pokedex,
+  type Pokemon,
+  boxPresetSchema,
+} from '../../schemas'
+import { getBoxPresets, getGames, getPokedexes, getPokemonList } from '../queries'
 import { getDataPath, pathExists, writeFile } from '../utils/fs'
 
 const allPokemon = getPokemonList()
 const allPokemonMap = new Map(allPokemon.map((p) => [p.id, p]))
 const boxPresetsMap = new Map(getBoxPresets().map((p) => [p.id, p]))
 const pokedexesMap = getPokedexes()
+const gamesList = getGames()
+const gamesMap: Map<string, Game> = new Map(gamesList.map((g) => [g.id, g]))
 
 type BoxPresetMode = 'fully-sorted' | 'sorted-species'
+
+function isPokemonStorableInGame(pokemon: Pokemon, gameSetId: string): boolean {
+  return gamesMap.get(gameSetId)?.storablePokemon?.includes(pokemon.id) ?? false
+}
 
 function distributePokemonInBoxes(
   pokemonList: Pokemon[],
@@ -27,7 +40,7 @@ function distributePokemonInBoxes(
       pokemon: [],
     },
   ]
-  const storableInGame = pokemonList.filter((p) => p.storableIn.includes(gameSetId))
+  const storableInGame = pokemonList.filter((p) => isPokemonStorableInGame(p, gameSetId))
 
   let currentBoxIndex = 0
   let currentBox = boxes[currentBoxIndex] as BoxPresetBox
@@ -85,7 +98,7 @@ function distributePokemonInBoxes(
 }
 
 function validatePresetBoxes(preset: BoxPreset, minimal = false): string[] {
-  const storableInGame = allPokemon.filter((p) => p.storableIn.includes(preset.gameSet))
+  const storableInGame = allPokemon.filter((p) => isPokemonStorableInGame(p, preset.gameSet))
   const presetPokemon: Map<string, Pokemon> = new Map(
     preset.boxes
       .flatMap((b) => b.pokemon)

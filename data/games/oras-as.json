@@ -1,0 +1,41 @@
+{
+  "id": "oras-as",
+  "name": "Alpha Sapphire",
+  "generation": 6,
+  "type": "game",
+  "gameSet": "oras",
+  "gameSuperSet": null,
+  "codename": "Sango",
+  "releaseDate": "2014-11-21",
+  "platforms": [
+    "3ds"
+  ],
+  "region": "hoenn",
+  "originMark": "kalos",
+  "pokedexes": [
+    "hoenn-oras",
+    "national-oras"
+  ],
+  "features": {
+    "training": false,
+    "shiny": true,
+    "items": true,
+    "gender": true,
+    "nature": true,
+    "ball": true,
+    "mega": true,
+    "zmove": true,
+    "gmax": true,
+    "alpha": true,
+    "tera": true,
+    "ribbons": true,
+    "marks": true
+  },
+  "storage": {
+    "numBoxes": 31,
+    "boxCapacity": 30
+  },
+  "obtainablePokemon": [],
+  "storablePokemon": [],
+  "eventPokemon": []
+}

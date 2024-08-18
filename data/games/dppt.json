@@ -1,0 +1,38 @@
+{
+  "id": "dppt",
+  "name": "Diamond, Pearl & Platinum",
+  "generation": 1,
+  "type": "superset",
+  "gameSet": null,
+  "gameSuperSet": null,
+  "codename": null,
+  "releaseDate": "2006-09-28",
+  "platforms": [
+    "gb"
+  ],
+  "region": "sinnoh",
+  "originMark": "gb",
+  "pokedexes": [],
+  "features": {
+    "training": false,
+    "shiny": true,
+    "items": true,
+    "gender": true,
+    "nature": true,
+    "ball": true,
+    "mega": true,
+    "zmove": true,
+    "gmax": true,
+    "alpha": true,
+    "tera": true,
+    "ribbons": true,
+    "marks": true
+  },
+  "storage": {
+    "numBoxes": 18,
+    "boxCapacity": 30
+  },
+  "obtainablePokemon": [],
+  "storablePokemon": [],
+  "eventPokemon": []
+}

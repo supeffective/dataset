@@ -38,11 +38,6 @@
   "canDynamax": true,
   "canBeAlpha": false,
   "debutIn": "b2w2",
-  "obtainableIn": ["go"],
-  "versionExclusiveIn": [],
-  "eventOnlyIn": ["oras"],
-  "storableIn": ["go"],
-  "registrableIn": ["b2w2", "oras", "home", "go"],
   "shinyReleased": false,
   "shinyBase": null,
   "baseStats": {

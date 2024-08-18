@@ -85,7 +85,7 @@ export async function importPokedexes() {
           }
           return formData
         })
-        .filter((form) => form.registrableIn.some((gameId) => pokedexData.gameIds.includes(gameId)))
+        .filter((form) => form.registrableIn?.some((gameId) => pokedexData.gameIds.includes(gameId)))
 
       if (obtainableForms.length > 0) {
         console.log(`Adding ${obtainableForms.length} forms for ${pkmData.id} and dex: ${pokedex.id}`)

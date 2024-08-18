@@ -1,4 +1,4 @@
-import type { Ability, BoxPreset, Item, Move, Pokedex, Pokemon } from '../schemas'
+import type { Ability, BoxPreset, Game, Item, Move, Pokedex, Pokemon } from '../schemas'
 import { localDataLoader } from './loader'
 
 export function getBoxPresets(): BoxPreset[] {
@@ -7,6 +7,10 @@ export function getBoxPresets(): BoxPreset[] {
 
 export function getPokedexes(): Map<string, Pokedex> {
   return localDataLoader.pokedexes()
+}
+
+export function getGames(): Game[] {
+  return localDataLoader.games()
 }
 
 export function getAbilityByShowdownNameOrFail(name: string): Ability {

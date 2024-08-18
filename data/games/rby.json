@@ -1,0 +1,39 @@
+{
+  "id": "rby",
+  "name": "Red, Blue & Yellow",
+  "generation": 1,
+  "type": "superset",
+  "gameSet": null,
+  "gameSuperSet": null,
+  "codename": null,
+  "releaseDate": "1996-02-27",
+  "platforms": [
+    "gb",
+    "gbc"
+  ],
+  "region": "kanto",
+  "originMark": "gb",
+  "pokedexes": [],
+  "features": {
+    "training": false,
+    "shiny": false,
+    "items": false,
+    "gender": false,
+    "nature": false,
+    "ball": false,
+    "mega": false,
+    "zmove": false,
+    "gmax": false,
+    "alpha": false,
+    "tera": false,
+    "ribbons": false,
+    "marks": false
+  },
+  "storage": {
+    "numBoxes": 12,
+    "boxCapacity": 20
+  },
+  "obtainablePokemon": [],
+  "storablePokemon": [],
+  "eventPokemon": []
+}

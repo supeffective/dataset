@@ -1,5 +1,5 @@
 import { existsSync } from 'node:fs'
-import type { BaseEntity, BoxPreset, Pokedex, Pokemon, PokemonIndexItem } from '../../schemas'
+import type { BaseEntity, BoxPreset, Game, Pokedex, Pokemon, PokemonIndexItem } from '../../schemas'
 import { localDataLoader } from '../loader'
 import { getDataPath, readFileAsJson, writeFile } from '../utils/fs'
 
@@ -136,6 +136,20 @@ function joinPokeGamesFile(): void {
   // writeFile(destFile, jsonDoc)
 }
 
+joinIndexFile<Game>('games-index.json', [
+  'id',
+  'name',
+  'fullName',
+  'type',
+  'gameSet',
+  'gameSuperSet',
+  'releaseDate',
+  'generation',
+  'region',
+  'originMark',
+  'pokedexes',
+  'storage',
+])
 joinIndexFile<BoxPreset>('boxpresets-index.json', ['id', 'gameSet', 'legacyId', 'name', 'isHidden'], 'gameSet')
 joinIndexFile<Pokedex>('pokedexes-index.json', ['id', 'region', 'name', 'baseDex', 'pokeApiId'], 'region')
 joinIndexFile<Pokemon>(
@@ -144,7 +158,7 @@ joinIndexFile<Pokemon>(
   undefined,
   [],
   //['storableIn', 'registrableIn', 'eventOnlyIn', 'versionExclusiveIn', 'ultraBeastCode'],
-  true,
+  false,
 )
 
 joinPokeGamesFile()

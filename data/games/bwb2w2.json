@@ -1,0 +1,38 @@
+{
+  "id": "bwb2w2",
+  "name": "Black, White, Black 2 & White 2",
+  "generation": 1,
+  "type": "superset",
+  "gameSet": null,
+  "gameSuperSet": null,
+  "codename": null,
+  "releaseDate": "2010-09-18",
+  "platforms": [
+    "gb"
+  ],
+  "region": "unova",
+  "originMark": "gb",
+  "pokedexes": [],
+  "features": {
+    "training": false,
+    "shiny": true,
+    "items": true,
+    "gender": true,
+    "nature": true,
+    "ball": true,
+    "mega": true,
+    "zmove": true,
+    "gmax": true,
+    "alpha": true,
+    "tera": true,
+    "ribbons": true,
+    "marks": true
+  },
+  "storage": {
+    "numBoxes": 24,
+    "boxCapacity": 30
+  },
+  "obtainablePokemon": [],
+  "storablePokemon": [],
+  "eventPokemon": []
+}

@@ -31,7 +31,12 @@ function run() {
     // Iterate all pokemon and add them to dex.entries if they are available in any of the gameIds
     for (const pkm of pokemonList) {
       const pokemonGameIds = Array.from(
-        new Set([...pkm.storableIn, ...pkm.obtainableIn, ...pkm.eventOnlyIn, ...pkm.registrableIn]),
+        new Set([
+          ...(pkm.storableIn ?? []),
+          ...(pkm.obtainableIn ?? []),
+          ...(pkm.eventOnlyIn ?? []),
+          ...(pkm.registrableIn ?? []),
+        ]),
       )
 
       if (pokemonGameIds.some((gameId) => gameIds.includes(gameId))) {

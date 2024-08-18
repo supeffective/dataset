@@ -1,0 +1,41 @@
+{
+  "id": "rb-b",
+  "name": "Blue",
+  "generation": 1,
+  "type": "game",
+  "gameSet": "rb",
+  "gameSuperSet": "rby",
+  "codename": null,
+  "releaseDate": "1996-02-27",
+  "platforms": [
+    "gb",
+    "gbc"
+  ],
+  "region": "kanto",
+  "originMark": "gb",
+  "pokedexes": [
+    "kanto"
+  ],
+  "features": {
+    "training": false,
+    "shiny": true,
+    "items": true,
+    "gender": true,
+    "nature": true,
+    "ball": true,
+    "mega": true,
+    "zmove": true,
+    "gmax": true,
+    "alpha": true,
+    "tera": true,
+    "ribbons": true,
+    "marks": true
+  },
+  "storage": {
+    "numBoxes": 12,
+    "boxCapacity": 20
+  },
+  "obtainablePokemon": [],
+  "storablePokemon": [],
+  "eventPokemon": []
+}
