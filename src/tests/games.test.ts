@@ -21,6 +21,46 @@ describe('Validate games.json data', () => {
   })
 })
 
+describe('Validate games.json pokemon references', () => {
+  const pokemonMap = localDataLoader.pokemon()
+  const recordList = localDataLoader.games()
+
+  for (const record of recordList) {
+    describe(`Game '${record.id}'`, () => {
+      const obtainablePokemon = record.obtainablePokemon
+      const storablePokemon = record.storablePokemon
+      const eventOnlyPokemon = record.eventPokemon
+
+      it('should have valid obtainable Pokemon IDs', () => {
+        for (const id of obtainablePokemon) {
+          if (!pokemonMap.has(id)) {
+            console.warn(`Unknown ID for obtainable Pokemon '${id}' for game '${record.id}'`)
+          }
+          expect(pokemonMap.has(id)).toBe(true)
+        }
+      })
+
+      it('should have valid storable Pokemon IDs', () => {
+        for (const id of storablePokemon) {
+          if (!pokemonMap.has(id)) {
+            console.warn(`Unknown ID for storable Pokemon '${id}' for game '${record.id}'`)
+          }
+          expect(pokemonMap.has(id)).toBe(true)
+        }
+      })
+
+      it('should have valid event Pokemon IDs', () => {
+        for (const id of eventOnlyPokemon) {
+          if (!pokemonMap.has(id)) {
+            console.warn(`Unknown ID for event Pokemon '${id}' for game '${record.id}'`)
+          }
+          expect(pokemonMap.has(id)).toBe(true)
+        }
+      })
+    })
+  }
+})
+
 describe('Validate games.json pokedex references', () => {
   const recordList = localDataLoader.games()
 
