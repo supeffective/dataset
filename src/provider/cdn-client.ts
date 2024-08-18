@@ -2,6 +2,7 @@ import type { Ability } from '@pkmn/dex'
 import type {
   BoxPreset,
   Character,
+  Game,
   Item,
   Location,
   Mark,
@@ -37,6 +38,11 @@ class SuperEffectiveCdnClient {
 
   public async fetchData<T>(resourceName: string, init?: NextCompatibleRequestInit): Promise<T> {
     return fetchJson<T>(this.getDataUrl(resourceName), init)
+  }
+
+  // GAMES
+  public async fetchAllGames(init?: NextCompatibleRequestInit): Promise<Game[]> {
+    return this.fetchData<Game[]>('games', init)
   }
 
   // POKEMON
