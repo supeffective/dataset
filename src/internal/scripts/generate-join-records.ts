@@ -33,7 +33,13 @@ function updatePokemonIndex(): void {
   writeFile(indexFile, indexDoc)
 }
 
-function joinIndexFile<T extends BaseEntity>(filename: string, indexFields: (keyof T)[], subdirProp?: keyof T): void {
+function joinIndexFile<T extends BaseEntity>(
+  filename: string,
+  indexFields: (keyof T)[],
+  subdirProp?: keyof T,
+  excludedFields?: (keyof T)[],
+  excludeFalsyFields?: boolean,
+): void {
   const baseFileName = filename.replace('-index.json', '')
   const srcFile = getDataPath(`${filename}`)
   const destFile = getDataPath(`${baseFileName}.json`)
@@ -64,8 +70,23 @@ function joinIndexFile<T extends BaseEntity>(filename: string, indexFields: (key
     if (!existsSync(destRecordFile)) {
       throw new Error(`Record file does not exist: ${destRecordFile}`)
     }
-    const record = readFileAsJson<BaseEntity>(destRecordFile)
-    const recordCasted = record as Record<string, string>
+    // biome-ignore lint/suspicious/noExplicitAny: <explanation>
+    const record = readFileAsJson<Record<keyof T, any>>(destRecordFile)
+
+    if (excludedFields) {
+      for (const field of excludedFields) {
+        delete record[field]
+      }
+    }
+
+    // delete fields that are false, '', null or undefined:
+    if (excludeFalsyFields) {
+      for (const [key, value] of Object.entries(record)) {
+        if (value === null || value === undefined || value === '' || value === false) {
+          delete record[key as keyof T]
+        }
+      }
+    }
 
     jsonlDoc += `  ${JSON.stringify(record)},\n`
 
@@ -73,7 +94,7 @@ function joinIndexFile<T extends BaseEntity>(filename: string, indexFields: (key
       id: record.id,
     }
     for (const field of indexFieldsStr) {
-      indexPayload[field] = recordCasted[field] as string
+      indexPayload[field] = record[field as keyof T] as string
     }
 
     indexJsonDoc += `  ${JSON.stringify(indexPayload)},\n`
@@ -117,7 +138,14 @@ function joinPokeGamesFile(): void {
 
 joinIndexFile<BoxPreset>('boxpresets-index.json', ['id', 'gameSet', 'legacyId', 'name', 'isHidden'], 'gameSet')
 joinIndexFile<Pokedex>('pokedexes-index.json', ['id', 'region', 'name', 'baseDex', 'pokeApiId'], 'region')
-joinIndexFile<Pokemon>('pokemon-index.json', ['id', 'region', 'name', 'nid', 'isForm'])
+joinIndexFile<Pokemon>(
+  'pokemon-index.json',
+  ['id', 'region', 'name', 'nid', 'isForm'],
+  undefined,
+  [],
+  //['storableIn', 'registrableIn', 'eventOnlyIn', 'versionExclusiveIn', 'ultraBeastCode'],
+  true,
+)
 
 joinPokeGamesFile()
 

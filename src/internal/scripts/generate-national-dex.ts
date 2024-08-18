@@ -12,7 +12,7 @@ function generateNationalDex(): void {
     const entry: PokedexEntry = {
       id: pkm.id,
       dexNum: pkm.dexNum,
-      isForm: pkm.isForm,
+      isForm: pkm.isForm ?? false,
     }
     dex.entries.push(entry)
   }

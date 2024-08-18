@@ -38,7 +38,7 @@ function run() {
         dex.entries.push({
           id: pkm.id,
           dexNum: pkm.dexNum,
-          isForm: pkm.isForm,
+          isForm: pkm.isForm ?? false,
         })
       }
     }

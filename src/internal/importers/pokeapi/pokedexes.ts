@@ -73,7 +73,7 @@ export async function importPokedexes() {
       pokedexData.entries.push({
         id: pokemonId,
         dexNum: entry.entry_number,
-        isForm: pkmData.isForm,
+        isForm: pkmData.isForm ?? false,
       })
 
       // Add all forms available in this gamesets

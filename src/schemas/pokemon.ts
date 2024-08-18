@@ -8,7 +8,7 @@ export const pokemonIndexItemSchema = z
     nid: slugSchema,
     name: nameSchema,
     region: slugSchema,
-    isForm: z.coerce.boolean(),
+    isForm: z.coerce.boolean().optional(),
   })
   .strict()
 
@@ -42,50 +42,51 @@ export const pokemonSchema = z
     id: slugSchema,
     nid: slugSchema,
     dexNum: z.coerce.number().int().min(0),
-    formId: slugSchema.nullable(),
+    formId: slugSchema.nullable().optional(),
     name: nameSchema,
-    formName: nameSchema.nullable(),
+    formName: nameSchema.nullable().optional(),
     region: slugSchema,
     generation: generationNumSchema,
     type1: slugSchema,
-    type2: slugSchema.nullable(),
+    type2: slugSchema.nullable().optional(),
     /**
      * Forced tera type (e.g. for Ogerpon and Terapagos)
+     * Forced tera type (e.g. for Ogerpon and Terapagos)
      */
-    teraType: slugSchema.nullable(),
+    teraType: slugSchema.nullable().optional(),
     color: slugSchema,
     abilities: z
       .object({
         primary: slugSchema,
-        secondary: slugSchema.nullable(),
-        hidden: slugSchema.nullable(),
+        secondary: slugSchema.nullable().optional(),
+        hidden: slugSchema.nullable().optional(),
       })
       .strict(),
-    isDefault: z.coerce.boolean(),
-    isForm: z.coerce.boolean(),
-    isLegendary: z.coerce.boolean(),
-    isMythical: z.coerce.boolean(),
-    isUltraBeast: z.coerce.boolean(),
-    ultraBeastCode: z.string().nullable(),
+    isDefault: z.coerce.boolean().optional(),
+    isForm: z.coerce.boolean().optional(),
+    isLegendary: z.coerce.boolean().optional(),
+    isMythical: z.coerce.boolean().optional(),
+    isUltraBeast: z.coerce.boolean().optional(),
+    ultraBeastCode: z.string().nullable().optional(),
     isParadox: z.coerce.boolean().optional(),
     paradoxSpecies: z.array(slugSchema).nullable().optional(),
     isConvergent: z.coerce.boolean().optional(),
     convergentSpecies: z.array(slugSchema).nullable().optional(),
-    isSpecialAbilityForm: z.coerce.boolean(),
-    isCosmeticForm: z.coerce.boolean(),
-    isFemaleForm: z.coerce.boolean(),
-    hasGenderDifferences: z.coerce.boolean(),
-    isBattleOnlyForm: z.coerce.boolean(),
-    isSwitchableForm: z.coerce.boolean(),
-    isFusion: z.coerce.boolean(),
-    fusedWith: z.array(slugSchema).nullable(),
-    isMega: z.coerce.boolean(),
-    isPrimal: z.coerce.boolean(),
-    isGmax: z.coerce.boolean(),
-    isRegional: z.coerce.boolean(),
-    canGmax: z.coerce.boolean(),
-    canDynamax: z.coerce.boolean(),
-    canBeAlpha: z.coerce.boolean(),
+    isSpecialAbilityForm: z.coerce.boolean().optional(),
+    isCosmeticForm: z.coerce.boolean().optional(),
+    isFemaleForm: z.coerce.boolean().optional(),
+    hasGenderDifferences: z.coerce.boolean().optional(),
+    isBattleOnlyForm: z.coerce.boolean().optional(),
+    isSwitchableForm: z.coerce.boolean().optional(),
+    isFusion: z.coerce.boolean().optional(),
+    fusedWith: z.array(slugSchema).nullable().optional(),
+    isMega: z.coerce.boolean().optional(),
+    isPrimal: z.coerce.boolean().optional(),
+    isGmax: z.coerce.boolean().optional(),
+    isRegional: z.coerce.boolean().optional(),
+    canGmax: z.coerce.boolean().optional(),
+    canDynamax: z.coerce.boolean().optional(),
+    canBeAlpha: z.coerce.boolean().optional(),
     // ---- Obtainability:
     debutIn: slugSchema, // the first game it appeared in
     obtainableIn: z.array(slugSchema), // if it can be obtained in-game any time, without temporary or online events
@@ -94,8 +95,8 @@ export const pokemonSchema = z
     storableIn: z.array(slugSchema), // if it's storable in the game's boxes
     registrableIn: z.array(slugSchema), // if it's registrable in the game's dex
     // -------------------
-    shinyReleased: z.coerce.boolean(),
-    shinyBase: slugSchema.nullable(),
+    shinyReleased: z.coerce.boolean().optional(),
+    shinyBase: slugSchema.nullable().optional(),
     baseStats: z
       .object({
         hp: z.coerce.number().int().min(-1).max(255),
@@ -110,7 +111,7 @@ export const pokemonSchema = z
     height: z.coerce.number().int().min(-1).max(999999),
     maleRate: z.coerce.number().min(-1).max(100),
     femaleRate: z.coerce.number().min(-1).max(100),
-    baseSpecies: slugSchema.nullable(),
+    baseSpecies: slugSchema.nullable().optional(),
     baseForms: z.array(slugSchema),
     forms: z.array(slugSchema),
     family: slugSchema.nullable().optional(),
@@ -126,7 +127,8 @@ export const pokemonSchema = z
         condition: z.string().nullable().optional(),
       })
       .strict()
-      .nullable(),
+      .nullable()
+      .optional(),
     refs: z
       .object({
         smogon: z.string(),
