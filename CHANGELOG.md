@@ -1,4 +1,16 @@
 
+## v4.1.1
+
+[compare changes](https://github.com/supeffective/dataset/compare/v4.1.0...v4.1.1)
+
+### 🩹 Fixes
+
+- Generate compact pokemon.min.json by removing falsy props ([a1c50f1](https://github.com/supeffective/dataset/commit/a1c50f1))
+
+### ❤️ Contributors
+
+- Javi Aguilar ([@itsjavi](http://github.com/itsjavi))
+
 ## v4.1.0
 
 [compare changes](https://github.com/supeffective/dataset/compare/v4.0.0...v4.1.0)
