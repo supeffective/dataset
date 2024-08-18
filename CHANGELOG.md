@@ -1,4 +1,17 @@
 
+## v4.0.0
+
+[compare changes](https://github.com/supeffective/dataset/compare/v3.1.1...v4.0.0)
+
+### 💅 Refactors
+
+- Make builds more compact by removing falsy properties (BREAKING). ([3a616d8](https://github.com/supeffective/dataset/commit/3a616d8))
+- **games:** BREAKING - split game availability data into dedicated game entry files ([2795ce6](https://github.com/supeffective/dataset/commit/2795ce6))
+
+### ❤️ Contributors
+
+- Javi Aguilar ([@itsjavi](http://github.com/itsjavi))
+
 ## v3.1.1
 
 [compare changes](https://github.com/supeffective/dataset/compare/v3.1.0...v3.1.1)
