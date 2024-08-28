@@ -1,0 +1,37 @@
+{
+  "id": "xd",
+  "name": "XD: Gale of Darkness",
+  "generation": 3,
+  "type": "game",
+  "gameSet": null,
+  "gameSuperSet": null,
+  "codename": null,
+  "releaseDate": "2005-08-04",
+  "platforms": ["ngc"],
+  "region": "orre",
+  "originMark": "none",
+  "pokedexes": ["xd"],
+  "storage": {
+    "numBoxes": 3,
+    "boxCapacity": 30,
+    "symbols": ["caught", "shiny", "shadow"]
+  },
+  "features": {
+    "training": false,
+    "shiny": true,
+    "items": true,
+    "gender": true,
+    "nature": true,
+    "ball": false,
+    "mega": false,
+    "zmove": false,
+    "gmax": false,
+    "alpha": false,
+    "tera": false,
+    "ribbons": false,
+    "marks": false
+  },
+  "obtainablePokemon": [],
+  "storablePokemon": [],
+  "eventPokemon": []
+}

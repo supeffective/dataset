@@ -24,7 +24,7 @@ export const gameSchema = gameIndexItemSchema.extend({
   codename: nameSchema.nullable(),
   platforms: z
     .array(
-      z.enum(['gb', 'gbc', 'gba', 'nds', '3ds', 'switch', 'mobile']),
+      z.enum(['gb', 'gbc', 'ngc', 'gba', 'nds', '3ds', 'switch', 'mobile']),
       //.or(z.string())
     )
     .min(1),
